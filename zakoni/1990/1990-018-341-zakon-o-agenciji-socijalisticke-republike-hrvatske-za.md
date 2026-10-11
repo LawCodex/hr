@@ -332,11 +332,11 @@ Ivan Vekić, v. r.
 
 *Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/983*
 
-### OBJAVE
+OBJAVE
 
 Nakon izvršenog usporedivanja s izvornim tekstom utvrđena je pogreška u Zakonu o izmjenama i dopunama Zakona o Agenciji Socijalistićke Republike Hrvatske za restrukturiranje i razvoj, koji je objavljen u "Narodnim novinama" br. 47 od 14. studenoga 1990, te se daje
 
-### ISPRAVAK
+ISPRAVAK
 
 ### Zakona o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj
 

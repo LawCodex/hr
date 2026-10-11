@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-28
-last_amended: 2007-10-19
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2013-05-08
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "91/96, 114/01, 100/04, 107/07"
+narodne_novine: "91/96, 114/01, 100/04, 107/07, 152/08, 55/13"
 amendments:
   - "NN 114/2001 (1884) Zakon o izmjenama Zakona o zemljišnim knjigama"
   - "NN 100/2004 (1899) Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama"
   - "NN 107/2007 (3141) Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama"
+  - "NN 152/2008 (4156) Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama"
+  - "NN 55/2013 (1117) Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1597"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 91/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1597).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2001, NN 100/2004, NN 107/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2001, NN 100/2004, NN 107/2007, NN 152/2008, NN 55/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2352,3 +2354,1027 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama (NN 152/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/152/4156*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2008. godine.
+
+Klasa: 011-01/08-01/193
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 18. prosinca 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA**
+
+### Članak 1.
+
+U Zakonu o zemljišnim knjigama (»Narodne novine«, br. 91/96., 68/98., 137/99., 114/01., 100/04. i 107/07.) u članku 54. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) U ispravama iz stavka 1. ovoga članka koje su nastale nakon dana stupanja na snagu ovoga Zakona moraju biti navedeni osobni identifikacijski brojevi svih stranaka u postupku.
+
+(4) Do dodjeljivanja osobnoga identifikacijskog broja, može se primijeniti jedinstveni matični broj građana (MBG), odnosno matični broj (MB) te sistemski brojevi koje je dodijelilo Ministarstvo financija-Porezna uprava.«
+
+### Članak 2.
+
+U članku 121. stavak 7. mijenja se i glasi:
+
+»(7) Rješenja zemljišnoknjižnog suda o upisima izvršenim u svezi sa stjecanjem nekretnina i prava na nekretninama koja podliježu poreznoj obvezi, kao i rješenja kojima se zasniva ili prestaje založno pravo, moraju sadržavati osobni identifikacijski broj od dana njegove dodjele, te se ista po službenoj dužnosti dostavljaju nadležnoj poreznoj upravi.«
+
+### Članak 3.
+
+U članku 184. iza stavka 5. dodaje se stavak 6 koji glasi:
+
+»(6) U postupku osnivanja, obnove i dopune zemljišne knjige vođene do dana stupanja na snagu Zakona o osobnom identifikacijskom broju (»Narodne novine«, br. 60/08.) moraju se utvrditi osobni identifikacijski brojevi nositelja knjižnih prava, a ako isti nije dodijeljen, uz podatke o nositeljima knjižnih prava može se primijeniti i jedinstveni matični broj građana (MBG), odnosno matični broj (MB) te sistemski brojevi koje je dodijelilo Ministarstvo financija-Porezna uprava.«
+
+### Članak 4.
+
+U članku 214. dodaje se stavak 3. koji glasi:
+
+»(3) Pravilnikom o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova uredit će se način elektroničke dostupnosti podataka o osobnim identifikacijskim brojevima u skladu s propisima o zaštiti osobnih podataka.«
+
+### Članak 5.
+
+Odredbe ovoga Zakona ne odnose se na postupke koji su pokrenuti prije stupanja na snagu ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 932-01/08-01/01
+
+Zagreb, 15. prosinca 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama (NN 55/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/55/1117*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama, koji je Hrvatski sabor donio na sjednici 26. travnja 2013. godine.
+
+Klasa: 011-01/13-01/99
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 2. svibnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA**
+
+#### Članak 1.
+
+U Zakonu o zemljišnim knjigama (»Narodne novine«, br. 91/96., 68/98., 137/99., 114/01., 100/04., 107/07., 152/08. i 126/10.) članak 5. mijenja se i glasi:
+
+»(1) Zemljišne knjige vodi općinski sud kao zemljišnoknjižni sud prvog stupnja.
+
+(2) U zemljišnoknjižnom sudu može se osnovati jedan ili više odjela koji obavljaju poslove vođenja zemljišnih knjiga.
+
+(3) Zemljišnoknjižnim odjelom iz stavka 2. ovog članka rukovodi predsjednik odjela i voditelj odjela, koji je određen godišnjim rasporedom poslova.
+
+(4) U svakom zemljišnoknjižnom sudu prvog stupnja vodi se poseban elektronički dnevnik zemljišnoknjižnih podnesaka (E-pisarnica).
+
+(5) Zakonom se može propisati da poslove zemljišnoknjižnog suda obavlja jedan ili više općinskih sudova.
+
+(6) O žalbama u zemljišnoknjižnim predmetima, kao i o žalbama protiv odluka o kojima odlučuje nadležni sud prvog stupnja u postupcima brisovne tužbe, tužbe za ispravak, tužbe za ispravak pogrešnog upisa i tužbe za opravdanje predbilježbe odlučuje Visoki zemljišnoknjižni sud Republike Hrvatske.«.
+
+#### Članak 2.
+
+Članak 6. mijenja se i glasi:
+
+»Zemljišne knjige vode se u elektroničkom obliku.«.
+
+#### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Zemljišna knjiga je javna i svatko može zahtijevati uvid u zemljišnu knjigu.
+
+(2) Iz zemljišne knjige izdaju se izvadci iz glavne knjige i preslike ili ispisi iz zbirke isprava.«.
+
+#### Članak 4.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Upisi u zemljišnu knjigu dopustit će se temeljem isprava koje nemaju očitih nedostataka koji dovode u sumnju njihovu vjerodostojnost. Ako se isprave sastoje od više listova, oni moraju biti tako spojeni da se ne može umetnuti ni jedan list.
+
+(2) U ispravama temeljem kojih se zahtijeva upis, osobe protiv kojih i u čiju se korist upis zahtijeva, neovisno o tome kada su sastavljene, moraju biti navedene tako da ne postoji opasnost da ih se zamijeni s drugima, a moraju biti navedeni i mjesto, dan, mjesec i godina sastavljanja isprave.
+
+(3) Isprave koje ne sadrže podatke o mjestu i vremenu sastavljanja ali je na njima izvršena ovjera kod javnog bilježnika, smatraju se podobnim za provođenje upisa u smislu stavka 2. ovoga članka.
+
+(4) Upis u zemljišnu knjigu dopustit će se i temeljem elektroničke isprave ako ispunjava uvjete iz stavka 1. i 2. ovoga članka.
+
+(5) Elektronička isprava potpisana naprednim elektroničkim potpisom podnositelja prijedloga za upis elektroničkim putem, smatra se ispravom iz stavka 1. ovoga članka.«.
+
+#### Članak 5.
+
+U članku 59. podstavak a) mijenja se i glasi:
+
+»a) neovršne domaće sudske odluke kojima se stvarno pravo bezuvjetno utvrđuje ili dosuđuje ili se bezuvjetno odbija,«.
+
+#### Članak 6.
+
+U članku 74. prva rečenica mijenja se i glasi: »Zabilježbe prvenstvenog reda gube učinak istekom roka od godine dana od dostave rješenja o upisu.«.
+
+#### Članak 7.
+
+Iza članka 84. dodaje se članak 84.a koji glasi:
+
+»Članak 84.a
+
+(1) Kad stranka koja je pred sudom ili upravnim tijelom pokrenula postupak u kojem bi se mogao odrediti upis za koji se ne može upisati zabilježba spora, na temelju tog podneska s potvrdom da je predan sudu ili upravnom tijelu na rješavanje, zemljišnoknjižni sud dopustit će zabilježbu pokretanja tog postupka.
+
+(2) Zabilježba pokretanja postupka iz stavka 1. ovog članka ima učinak da odluka donesena pred drugim sudom ili tijelom povodom pokrenutog postupka djeluje i protiv onih osoba koje su stekle knjižna prava nakon što je prijedlog za zabilježbu pokretanja postupka stigao zemljišnoknjižnom sudu.
+
+(3) Kad je u postupku na koji se odnosi zabilježba odlučeno o provedbi određenog upisa, taj upis dobiva ono mjesto u prvenstvenom redu koje mu je bilo osigurano zabilježbom pokrenutog postupka.
+
+(4) Na brisanje zabilježbe pokrenutog postupka primjenjuju se odredbe članka 83. i 84. ovog Zakona.«.
+
+#### Članak 8.
+
+U članku 91. stavak 2. mijenja se i glasi:
+
+»(2) U zemljišnoknjižnim postupcima svaka stranka snosi svoje troškove.«.
+
+#### Članak 9.
+
+U članku 97. stavak 1. mijenja se i glasi:
+
+Stavak 2. mijenja se i glasi:
+
+»(1) Prijedlog za upis podnosi se u pisanom obliku neposredno ili putem pošte kao i elektroničkim putem uz napredni elektronički potpis, s time da je zemljišnoknjižni sud dužan zaprimiti svaki prijedlog bez obzira je li prikladan da se po njemu provede upis.«
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Prijedlog elektroničkim putem, kao punomoćnik stranke, može podnijeti javni bilježnik ili odvjetnik uz napredni elektronički potpis i na način propisan podzakonskim aktom. Prijedlog elektroničkim putem uz napredni elektronički potpis mogu podnijeti i druge pravne osobe koje imaju javne ovlasti kada se utvrdi da ispunjavaju uvjete iz podzakonskog akta iz članka 173.a ovog Zakona za elektronički pristup zemljišnoknjižnom sudu te kada to odobri ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 10.
+
+Članak 99. mijenja se i glasi:
+
+»(1) Prijedlog za upis treba sadržavati oznaku zemljišnoknjižnog suda kojemu se prijedlog podnosi, ime i prezime, adresu i osobni identifikacijski broj osobe u čiju korist se treba provesti upis, kao i ime i prezime, adresu i osobni identifikacijski broj osobe protiv koje se upis provodi, i osoba koje će trebati obavijestiti o rješenju, te broj zemljišnoknjižnoga uloška i oznaku čestica upisanih u zemljišnoknjižni uložak u kojem bi se upis trebao provesti.
+
+(2) Ako je prijedlog za upis podnesen protiv osoba za koje iz stanja zemljišne knjige ili drugih opravdanih razloga nije moguće pribaviti podatke iz stavka 1. ovog članka, to će se u prijedlogu posebno naznačiti.
+
+(3) Ako se izvornik odnosno otpravak isprave već nalazi kod suda čiji bi zemljišnoknjižni odjel trebao postupati po prijedlogu za upis, dovoljno je u prijedlogu uputiti na taj izvornik odnosno otpravak i po mogućnosti priložiti presliku, a zemljišnoknjižni sud će po službenoj dužnosti pribaviti izvornik odnosno otpravak.
+
+(4) Iz prijedloga za upis treba biti vidljivo koje bi se pravo tim upisom steklo, ograničilo, opteretilo ili ukinulo, a ako se predlaže upis zabilježbe, osobni odnos ili pravna činjenica čiji se upis zahtijeva. Ako je prijedlog upravljen na stjecanje knjižnog prava samo na plodovima zemljišta, to u prijedlogu za upis mora biti izrijekom navedeno.
+
+(5) Prijedlogom za upis smatraju se i podnesci odnosno dopisi koji stižu zemljišnoknjižnom sudu kojima se od tog suda zahtijeva neki zemljišnoknjižni upis u zemljišne knjige ili čije rješavanje može dovesti do zemljišnoknjižnog upisa (prijedlozi za upis, odluke drugih sudova ili tijela o određivanju zemljišnoknjižnog upisa, zapisnici i službeni izvještaji sastavljeni kod suda čije rješavanje može dovesti do upisa, žalbe protiv rješenja donesenih u zemljišnoknjižnom postupku i odluke donesene povodom žalbi, prigovori u postupku otpisivanja i pripisivanja, prijavni listovi katastra i dr.).«.
+
+#### Članak 11.
+
+U članku 109.a stavak 1. mijenja se i glasi:
+
+»(1) Rješenje u zemljišnoknjižnom postupku donosi ovlašteni zemljišnoknjižni referent, sudski savjetnik i zemljišnoknjižni sudac kada je to određeno ovim Zakonom.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Rješenje iz članka 109. ovog Zakona donosi ovlašteni zemljišnoknjižni referent ili sudski savjetnik.«
+
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Ovlašteni zemljišnoknjižni referent i sudski savjetnik mogu provoditi i sve radnje u posebnim zemljišnoknjižnim postupcima, do donošenja odluke, ako ovim Zakonom nije drugačije određeno.
+
+(4) Nacrte zemljišnoknjižnih rješenja u redovnom postupku, kao i pojedine radnje koje su potrebne u pripremi rasprave u posebnim zemljišnoknjižnim postupcima iz nadležnosti ovlaštenog zemljišnoknjižnog referenta i sudskog savjetnika, može pripremati odnosno provoditi i zemljišnoknjižni referent koji nema posebne ovlasti, ali pod nadzorom ovlaštenog zemljišnoknjižnog referenta, sudskog savjetnika ili zemljišnoknjižnog suca.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 5. i 6.
+
+#### Članak 12.
+
+U članku 109.b stavku 1. točka 2. mijenja se i glasi:
+
+»2. ima najmanje naziv stručni prvostupnik ili sveučilišni prvostupnik struke prava ili uprave i najmanje 3 godine radnog iskustva na poslovima zemljišnoknjižnog referenta.«.
+
+#### Članak 13.
+
+U članku 111. stavak 1. mijenja se i glasi:
+
+»(1) Ako se prijedlog za upis odbije ili odbaci, odbijeni ili odbačeni prijedlog će se zabilježiti. Zabilježba se neće provesti ako se iz prijedloga za upis ili njegovih priloga ne može utvrditi na koju se nekretninu ili pravo odnosi, ako nekretnina ili pravo nisu upisani u zemljišne knjige tog suda, ili su upisani u korist druge osobe, a ne one protiv koje bi se s obzirom na sadržaj isprave trebalo provesti upis.«.
+
+U stavku 3. iza riječi: »odbijenog prijedloga« riječi: »i o tome obavijestiti stranke« brišu se.
+
+#### Članak 14.
+
+U članku 117. stavak 3. mijenja se i glasi:
+
+»(3) Ne dođe li do sporazuma o ispravku pogrešnog upisa, zemljišnoknjižni sud će odbiti prijedlog za ispravak pogrešnog upisa. Stranke koje zahtijevaju ispravak uputit će na parnicu te će im se odrediti rok od 30 dana za podnošenje tužbe za ispravak, koji teče od dana pravomoćnosti rješenja.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ako se u roku od 8 dana od proteka roka iz stavka 3. ovoga članka ne dostavi zemljišnoknjižnom sudu dokaz da je podnesena tužba za ispravak, brisat će se zabilježba pokrenutog postupka za ispravak pogrešnog upisa. U protivnom, zabilježba pokrenutog postupka za ispravak smatra se zabilježbom spora.«.
+
+#### Članak 15.
+
+Članak 120. mijenja se i glasi:
+
+»(1) Rješenje u zemljišnoknjižnom postupku dostavit će se predlagatelju, odnosno njegovu opunomoćeniku i osobama na čijoj se nekretnini stječe knjižno pravo i čija se knjižna prava prenose, opterećuju, ograničavaju ili ukidaju, kao i osobi protiv koje je provedena zabilježba.
+
+(2) Rješenje o upisu dostavlja se nakon njegove provedbe.
+
+(3) Rješenje u zemljišnoknjižnom postupku dostavlja se osobama iz stavka 1. ovoga članka na adresu koju je predlagatelj naveo u prijedlogu.
+
+(4) Kad se osoba iz stavka 1. ovog članka ne zatekne na adresi iz prijedloga, dostavljač će ostaviti pismeno kod punoljetne osobe zatečene na adresi ili u poštanski sandučić ili pretinac, a u tom slučaju se na dostavnici naznačuje dan i način dostave.
+
+(5) Smatra se da je dostava obavljena protekom roka od 30 dana od dana dostave pismena iz stavka 4. ovog članka.
+
+(6) Kad dostavljač prilikom pokušaja dostave sazna da postoje razlozi zbog kojih pismeno uopće nije moguće uručiti naslovljenoj osobi (npr. nepoznat, odselio, umro i sl.), pismeno će vratiti sudu uz naznaku razloga zbog kojih pismeno nije moguće dostaviti.
+
+(7) Ako je pismeno vraćeno s naznakom nepoznat ili odselio, sud će pribaviti podatak iz evidencije Ministarstva unutarnjih poslova (MUP) o adresi primatelja i pismeno dostaviti na tu adresu. Ako MUP obavijesti sud da nema podataka o adresi primatelja, pismeno će se objaviti na oglasnoj ploči suda.
+
+(8) Ako se pismeno vrati s naznakom da je primatelj pismena umro, a zemljišnoknjižni sud u roku od 60 dana od takvog saznanja nije primio obavijest o nasljednicima, pismeno će se objaviti na oglasnoj ploči suda.
+
+(9) Smatrat će se da je dostava obavljena istekom 30 dana od dana stavljanja pismena na oglasnu ploču suda.
+
+(10) Ako je prijedlog podnesen elektroničkim putem, pismena zemljišnoknjižnog suda dostavit će se predlagatelju elektronički, s time da se dostava smatra izvršenom u času zaprimanja pismena na poslužitelju predlagatelja.
+
+(11) Ako je predlagatelj u prijedlogu označio elektroničku adresu rješenje će se dostaviti i elektroničkom poštom.
+
+(12) Oglasna ploča zemljišnoknjižnog suda vodi se i elektronički.«.
+
+#### Članak 16.
+
+Iza članka 120. dodaju se članci 120.a i 120.b koji glase:
+
+»Članak 120.a
+
+(1) U prijedlogu za knjižni upis uz sadržaj iz članka 97. ovog Zakona, predlagatelj može naznačiti punomoćnika za dostavu pismena s njegovom točnom adresom za dostavu.
+
+(2) Predlagatelj koji se nalazi u inozemstvu, a nema punomoćnika u Republici Hrvatskoj, dužan je već prilikom podnošenja prijedloga imenovati punomoćnika za primanje pismena u Republici Hrvatskoj i naznačiti njegovu adresu. Ako prijedlog ne sadrži podatak o punomoćniku, sud će isti odbaciti.
+
+#### Članak 120.b
+
+Dostava sudu elektroničkim putem smatra se izvršenom u trenutku kad je prijedlog evidentiran na poslužitelju primatelja i kada se na mjestu gdje bi se u zemljišnoknjižnom ulošku trebao provesti upis učinilo vidljivim vrijeme primitka podneska (plomba).«.
+
+#### Članak 17.
+
+U članku 121. stavak 1. mijenja se i glasi:
+
+»(1) Rješenje kojim se dopušta potpuno ili djelomično brisanje nekog upisa dostavlja se svim osobama koje imaju uknjižena ili predbilježena prava na onom pravu čije se potpuno ili djelomično brisanje dopušta.«.
+
+Dosadašnji stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+Dosadašnji stavak 6. koji postaje stavak 5. mijenja se i glasi:
+
+»(5) O rješenju zemljišnoknjižnoga suda nužnom za postupanje tijela nadležnoga za katastar, u granicama njegove nadležnosti, to tijelo se obavještava po službenoj dužnosti.«.
+
+Dosadašnji stavak 7. postaje stavak 6.
+
+#### Članak 18.
+
+Članak 123. mijenja se i glasi:
+
+»(1) Protiv rješenja u zemljišnoknjižnom postupku strankama su dopušteni prigovor i žalba.
+
+(2) Osobe kojima se rješenje dostavlja samo radi obavijesti ne smatraju se strankama u smislu prethodnog stavka.
+
+(3) Podneseni prigovor i žalba ne odgađaju provedbu upisa.
+
+(4) U prigovoru i žalbi ne mogu se iznositi nove činjenice niti prilagati nove isprave, osim u slučajevima iz članka 109. stavka 7. ovoga Zakona. Sud odlučuje o prigovoru i žalbi samo na temelju činjeničnog i pravnog stanja kakvo je bilo u času kada je zemljišnoknjižni prijedlog stigao zemljišnoknjižnom sudu.
+
+(5) Prigovor i žalba mogu se izjaviti u roku od 15 dana od dana dostave odluke. Prigovor i žalba dostavit će se protivnoj strani na odgovor.
+
+(6) Kad provodi upis naložen odlukom povodom prigovora ili žalbe, zemljišnoknjižni sud neće donositi posebno rješenje, nego će neposredno provesti odluku.
+
+(7) Kad uspostavlja zemljišnoknjižno stanje povodom odluke o prigovoru ili žalbi, zemljišnoknjižni sud će po službenoj dužnosti izbrisati pobijani upis i donijeti posebno rješenje o brisanju upisa koji su provedeni nakon zabilježbe prigovora odnosno žalbe, a koji su izvedeni iz pobijanog upisa. Protiv tog rješenja dopuštena je žalba o kojoj odlučuje žalbeni sud.«.
+
+#### Članak 19.
+
+Iza članka 123. dodaje se članak 123.a koji glasi:
+
+»Članak 123.a
+
+(1) Protiv rješenja ovlaštenog zemljišnoknjižnog referenta i sudskog savjetnika nezadovoljna stranka može podnijeti prigovor, a protiv rješenja kojim je odlučeno o prigovoru može podnijeti žalbu.
+
+(2) O prigovoru izjavljenom protiv rješenja ovlaštenog zemljišnoknjižnog referenta ili sudskog savjetnika odlučuje zemljišnoknjižni sudac.
+
+(3) Ako ocijeni da je prigovor osnovan, zemljišnoknjižni sudac će svojim rješenjem:
+
+a) preinačiti rješenje o odbijanju prijedloga za upis, dopustiti predloženi upis, naložiti njegovu provedbu i brisanje zabilježbe odbijenog prijedloga;
+
+b) preinačiti rješenje o odbacivanju prijedloga za upis, dopustiti predloženi upis, naložiti njegovu provedbu i brisanje zabilježbe odbačenog prijedloga;
+
+c) preinačiti rješenje kojim je dopušten upis, odbiti prijedlog za upis, naložiti uspostavu zemljišnoknjižnog stanja kakvo je bilo prije dopuštenog upisa i upis zabilježbe odbijenog prijedloga;
+
+d) ukinuti rješenje kojim je dopušten upis, odbaciti prijedlog za upis, naložiti uspostavu zemljišnoknjižnog stanja kakvo je bilo prije dopuštenog upisa i upis zabilježbe odbačenog prijedloga;
+
+e) ukinuti rješenje o odbijanju prijedloga za upis, odbaciti prijedlog i naložiti upis zabilježbe odbačenog prijedloga;
+
+f) ukinuti rješenje o upisu kojim je dopušten upis, vratiti na ponovni postupak, narediti uspostavu prijašnjeg zemljišnoknjižnog stanja i ponovni upis svih plombi, ako se utvrdi da je u prvom stupnju povrijeđeno pravilo o prvenstvenom redu;
+
+g) ukinuti rješenje kojim je odbijen ili odbačen prijedlog za upis, vratiti na ponovni postupak, narediti brisanje zabilježbe odbijenog odnosno odbačenog prijedloga i ponovni upis svih plombi, ako se utvrdi da je u prvom stupnju povrijeđeno pravilo o prvenstvenom redu.
+
+(4) Ako je zemljišnoknjižni referent odbacio ili odbio prijedlog, a zemljišnoknjižni sudac ocijeni da je prigovor osnovan jer je bilo mjesta primjeni članka 109. stavka 7. ovoga Zakona, pozvat će stranku da dostavi ispravu sukladno tom članku. Ako stranka dostavi ispravu u propisanom roku, kao i ako je ispravu već dostavila uz prigovor, zemljišnoknjižni sudac će donijeti odluku uzimajući u obzir dostavljenu ispravu, a prema stanju zemljišne knjige u času podnošenja prijedloga. Ako stranka ne dostavi ispravu u ostavljenom roku ili dostavi neodgovarajuću ispravu, zemljišnoknjižni sudac će odbiti prigovor i potvrditi prvostupanjsku odluku.
+
+(5) Ako zemljišnoknjižni sudac ocijeni da prigovor nije osnovan, odbit će rješenjem prigovor i potvrditi rješenje ovlaštenog zemljišnoknjižnog referenta ili sudskog savjetnika. Zabilježba odbijenog ili odbačenog prijedloga izbrisat će se po službenoj dužnosti kad se okonča postupak povodom žalbe.
+
+(6) Odluka suda kojom se preinačuje pobijano rješenje i dopušta upis, mora sadržavati i nalog za upis.
+
+(7) Protiv rješenja zemljišnoknjižnog suca iz stavaka 3. – 5. ovog članka dopuštena je žalba, osim protiv rješenja iz stavka 3. točke f) i g) ovog članka kada sud na povredu prvenstvenog reda pazi po službenoj dužnosti.«.
+
+#### Članak 20.
+
+Članak 124. mijenja se i glasi:
+
+»(1) Ako je rješenje povodom prijedloga za upis donio zemljišnoknjižni sudac, on može povodom izjavljenog prigovora preinačiti svoje rješenje ili ga ukinuti i ponovno odlučiti o stvari.
+
+(2) Protiv rješenja zemljišnoknjižnog suca iz stavka 1. ovog članka dopuštena je žalba o kojoj odlučuje žalbeni sud.
+
+(3) Na odluke povodom prigovora protiv odluke zemljišnoknjižnog suca o prijedlogu za upis na odgovarajući se način primjenjuju odredbe iz članka 123. stavaka 3. – 5. ovog Zakona.«.
+
+#### Članak 21.
+
+U članku 126. stavak 2. mijenja se i glasi:
+
+»(2) Zabilježba rješenja o odbacivanju prigovora ili žalbe brisat će se po službenoj dužnosti kada rješenje o odbacivanju postane pravomoćno.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Protiv rješenja o brisanju zabilježbe prigovora ili žalbe posebna žalba nije dopuštena.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 22.
+
+Članak 127. mijenja se i glasi:
+
+»(1) Prigovor ili žalba protiv rješenja o upisu zabilježit će se po službenoj dužnosti. Ta će se zabilježba izbrisati po službenoj dužnosti ako prigovor ili žalba budu odbijeni.
+
+(2) Protiv rješenja o zabilježbi prigovora ili žalbe posebna žalba nije dopuštena.«.
+
+#### Članak 23.
+
+Članak 128. mijenja se i glasi:
+
+»(1) Kad odlučuje povodom žalbe, žalbeni sud će, ako ocijeni da je žalba osnovana, svojim rješenjem:
+
+a) preinačiti rješenje zemljišnoknjižnog suca o prigovoru, dopustiti zahtijevani upis te odrediti brisanje zabilježbe odbijenog ili odbačenog prijedloga;
+
+b) preinačiti rješenje zemljišnoknjižnog suca o prigovoru, odbiti ili odbaciti prijedlog, naložiti brisanje provedenog upisa i uspostavu prijašnjeg zemljišnoknjižnog stanja te brisanje zabilježbe žalbe;
+
+c) ukinuti rješenje zemljišnoknjižnog suca o prigovoru i odbaciti prigovor te naložiti uspostavu prijašnjeg zemljišnoknjižnog stanja i brisanje zabilježbe žalbe odnosno odbijenog prijedloga;
+
+d) ukinuti oba nižestupanjska rješenja i odbaciti prijedlog te naložiti uspostavu prijašnjeg zemljišnoknjižnog stanja i brisanje zabilježbe žalbe;
+
+e) ukinuti rješenje o odbacivanju prijedloga za upis i predmet vratiti na ponovi postupak, naložiti uspostavu prijašnjeg zemljišnoknjižnog stanja, ponovni upis svih plombi te brisanje zabilježbe odbačenog prijedloga;
+
+f) ukinuti oba nižestupanjska rješenja i predmet vratiti na ponovni postupak ako utvrdi da je povrijeđeno pravilo o prvenstvenom redu odlučivanja, te istodobno odrediti uspostavu prijašnjeg zemljišnoknjižnog stanja i brisanje zabilježbe žalbe, odnosno odbijenog prijedloga te ponovni upis plombi.
+
+(2) Učinak upisa provedenih po stavku 1. ovog članka bit će kao da je proveden u času podnošenja prijedloga.
+
+(3) Ako ocijeni da žalba nije osnovana, žalbeni će sud odbiti žalbu, potvrditi rješenje zemljišnoknjižnog suca, i naložiti brisanje zabilježbe žalbe, ili zabilježbe odbijenog ili odbačenog prijedloga.
+
+(4) Na povredu iz stavka 1. točke f) ovog članka žalbeni sud pazi po službenoj dužnosti.«.
+
+#### Članak 24.
+
+Naslov dijela 4. mijenja se i glasi:
+
+»Dio četvrti POSEBNE ODREDBE O ZAJEDNIČKOM INFORMACIJSKOM SUSTAVU, BAZI ZEMLJIŠNIH PODATAKA I ZEMLJIŠNOKNJIŽNOM POSTUPKU«.
+
+Naziv glave 1. mijenja se i glasi:
+
+### »Glava 1. — ELEKTRONIČKO POSLOVANJE U ZEMLJIŠNIM KNJIGAMA«.
+
+#### Članak 25.
+
+Članak 163. mijenja se i glasi:
+
+»(1) Zajednički informacijski sustav (u daljnjem tekstu: ZIS) je informacijski sustav u kojem se podaci zemljišnih knjiga i katastra pohranjuju, održavaju i čuvaju, a sastoji se od podataka pohranjenih u Bazi zemljišnih podataka, podataka zemljišne knjige i podataka katastra zemljišta.
+
+(2) Baza zemljišnih podataka (u daljnjem tekstu: BZP) sastoji se od katastarskih podataka o nazivu katastarske općine, broju katastarske čestice, oblika, površine, izgrađenosti i načina uporabe te podataka zemljišne knjige o nositeljima knjižnih prava, pravnim činjenicama i osobnim odnosima. U BZP-u tijela nadležna za katastar nadležna su za katastarske podatke, a zemljišnoknjižni sudovi za podatke o nositeljima knjižnih prava, pravnim činjenicama i osobnim odnosima.
+
+(3) Zemljišnoknjižni sudovi i tijela nadležna za katastar izdaju izvatke iz BZP-a i ostvaruju uvid u sve podatke o zemljištu pohranjene u BZP-u.«.
+
+#### Članak 26.
+
+U članku 163.a stavak 1. briše se.
+
+Dosadašnji stavak 2. postaje stavak 1.
+
+#### Članak 27.
+
+U članku 164. stavku 2. riječi: »kao dio EOP-zemljišne knjige« brišu se.
+
+#### Članak 28.
+
+Članak 167. briše se.
+
+#### Članak 29.
+
+Članak 168. mijenja se i glasi:
+
+»Zbirka zemljišnoknjižnih rješenja vodi se samo u elektroničkom obliku, a odluku o tome za svaki zemljišnoknjižni sud donosi ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 30.
+
+U članku 169. riječi: »kao dio BZP-a« brišu se.
+
+#### Članak 31.
+
+Članak 170. mijenja se i glasi:
+
+»(1) Uvid u zemljišnu knjigu ostvaruje se ili neposrednim uvidom ili izdavanjem zemljišnoknjižnog izvatka i ispisa iz zbirke isprava.
+
+(2) Uvid u pomoćni popis ostvaruje se na način iz stavka 1. ovog članka ako osoba koja traži uvid učini vjerojatnim postojanje pravnog interesa za to.
+
+(3) Zemljišnoknjižni izvadak iz stavka 1. ovoga članka na zahtjev stranke može izdavati svaki zemljišnoknjižni sud neovisno o mjesnoj nadležnosti za vođenje zemljišnih knjiga, kao i osobe iz članka 171. ovoga Zakona.
+
+(4) Zemljišnoknjižni izvadak iz stavka 1. ovoga članka izdaje se elektroničkim putem temeljem zahtjeva ovlaštene osobe iz članka 171. ovoga Zakona osiguranog naprednim elektroničkim potpisom, a ovlaštena osoba nakon ispisa dobivenih podataka na papir stavlja svoj pečat, potpis, broj predmeta iz svojeg upisnika te naznaku o naplaćenim troškovima. Korisnici usluga iz prethodnog stavka plaćaju sudsku pristojbu i trošak elektroničkog pristupa.
+
+(5) Na zemljišnoknjižni izvadak izdan sukladno odredbama ovoga članka od strane javnog bilježnika ne plaća se javnobilježnička pristojba.
+
+(6) Odluku o danu početka izdavanja zemljišnoknjižnih izvadaka elektroničkim putem na način određen ovim člankom donosi ministar nadležan za poslove pravosuđa kada se za to ispune tehnički uvjeti.«.
+
+#### Članak 32.
+
+Iza članka 170. dodaju se članci 170.a, 170.b i 170.c koji glase:
+
+»Članak 170.a
+
+(1) Uvid u glavnu knjigu može se ostvariti i putem mrežnih stranica Ministarstva pravosuđa, ali takav podatak nema svojstvo javne isprave.
+
+(2) Za uvid iz prethodnog stavka može se propisati naknada čiju visinu i način plaćanja propisuje ministar nadležan za poslove pravosuđa.
+
+#### Članak 170.b
+
+(1) Pravo na pristup i pretraživanje podataka zemljišne knjige za sve katastarske općine po katastarskoj čestici ili zemljišnoknjižnom ulošku, nazivu/imenu nositelja knjižnih prava, ili osobnom identifikacijskom broju imaju tijela sudbene vlasti i državno odvjetništvo kada je to potrebno u pripremi ili vođenju određenog sudskog ili upravnog postupka.
+
+(2) Pravo na pristup i pretraživanje podataka zemljišne knjige ima Ministarstvo financija – Središnji ured Porezne uprave neposredno pri obavljanju poslova iz svoje nadležnosti, a ostala upravna tijela putem Ministarstva pravosuđa na njihov zahtjev.
+
+(3) Pravo na pristup i pretraživanje podataka zemljišne knjige za sve katastarske općine koje su unesene u BZP, po nazivu/imenu nositelja knjižnih prava, ili osobnom identifikacijskom broju imaju i upravna tijela nadležna za katastar i geodetske poslove kada im je to potrebno u pripremi ili vođenju određenog upravnog postupka.
+
+(4) Pravo na pristup i pretraživanje podataka zemljišne knjige unesene u BZP dopustit će se osobama ovlaštenim za obavljanje geodetske djelatnosti za one katastarske općine u kojima obavljaju poslove iz svoje nadležnosti temeljem suglasnosti ministra nadležnog za poslove pravosuđa i ravnatelja Državne geodetske uprave.
+
+(5) Način pristupa, ovlasti i odgovornosti osoba iz stavka 1. do 4. ovoga članka uređuju se pravilnikom koji donosi ministar nadležan za poslove pravosuđa.
+
+#### Članak 170.c
+
+(1) Sve zemljišne knjige u ručno vođenom obliku, kao i zbirke isprava, skeniraju se i vode u digitalnom obliku, kao dio digitalne arhive zemljišnih knjiga, kada se za to ispune tehnički uvjeti.
+
+(2) Sve pisane zemljišne knjige, pisane zbirke isprava i pisane zbirke zemljišnoknjižnih rješenja, čuvaju se kao dio pisane arhive zemljišnih knjiga.
+
+(3) Povijesne podatke iz glavne knjige i podatke iz zbirke isprava koje su prenesene u digitalni oblik sudovi izdaju kao izvadak iz digitalne zemljišne knjige, odnosno ispis iz digitalne zbirke isprava.
+
+(4) Zbirke isprava koje nisu prenesene u digitalni oblik skeniraju se na zahtjev i nakon skeniranja postaju dio digitalne arhive iz stavka 1. ovoga članka.
+
+(5) Pretraživanje i uvid, kao i ispis iz digitalno vođene zbirke isprava ostvaruju se pozivom na broj zemljišnoknjižnog spisa.«.
+
+#### Članak 33.
+
+Članak 171. mijenja se i glasi:
+
+»(1) Prijedlozi knjižnih upisa koji se podnose zemljišnoknjižnom sudu putem javnog bilježnika, odvjetnika kao i putem pravne osobe koja ima javne ovlasti, mogu se podnositi u obliku elektroničke prijave uz napredni elektronički potpis, a prijavi se prilažu elektronički prilozi koji su navedeni u prijedlogu.
+
+(2) Osobe iz stavka 1. ovoga članka prijedloge za knjižni upis u zemljišnu knjigu putem elektroničke prijave, mogu podnositi nakon što se utvrdi da ispunjavaju tehničke uvjete za elektronički pristup zemljišnoknjižnom sudu i nakon što to odobri ministar nadležan za poslove pravosuđa.
+
+(3) O ispunjenosti tehničkih uvjeta iz stavka 2. ovoga članka i odobrenju za podnošenje prijedloga u elektroničkom obliku odluku donosi ministar nadležan za poslove pravosuđa.
+
+(4) Osobe iz stavka 1. ovoga članka dužne su omogućiti u svojim uredima javni pristup i uvid u zemljišnu knjigu u obavljanju poslova iz stavka 1. ovoga članka, a za izdavanje zemljišnoknjižnih izvadaka imaju pravo na naknadu, čija visina ne može premašiti visinu sudske pristojbe.
+
+(5) Osobe iz stavka 1. ovoga članka jamče da su priložene elektroničke isprave istovjetne onima u papirnatom obliku.«.
+
+#### Članak 34.
+
+Iza članka 173. dodaje se članak 173.a koji glasi:
+
+»Članak 173.a
+
+Tehnički i drugi uvjeti poslovanja u elektroničkom obliku koji nisu uređeni ovim Zakonom, kao i troškovi odnosno naknade za pruženu elektroničku uslugu, uredit će se pravilnikom koji donosi ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 35.
+
+U članku 176. stavak 1. mijenja se i glasi:
+
+»(1) U zemljišnoknjižnim upisima navode se vrste upisa i bitni sadržaj prava za koja je ovim ili drugim zakonom određeno da mogu biti predmetom zemljišnoknjižnog upisa (knjižna prava).«.
+
+#### Članak 36.
+
+Članak 179. mijenja se i glasi:
+
+»(1) Zemljišna knjiga ili neki njezin dio osnovat će se temeljem prikupljenih i obrađenih katastarskih podataka za ona zemljišta koja nisu upisana niti u jednoj zemljišnoj knjizi.
+
+(2) Zemljišna knjiga ili određeni dio obnovit će se ako se provede nova izmjera u odnosnoj katastarskoj općini ili njezinu dijelu ili ako je ručno vođena zemljišna knjiga ili njezin dio koja nije prepisana u digitalni oblik, uništena, znatno oštećena ili izgubljena.
+
+(3) Zemljišna knjiga dopunit će se daljnjim zemljišnoknjižnim ulošcima kad u nju nisu upisana sva zemljišta katastarske općine za koju se knjiga vodi.
+
+(4) Osnivanje, obnovu i dopunu zemljišne knjige provodi po službenoj dužnosti zemljišnoknjižni sud na čijem se području nalazi katastarska općina za koju se zemljišna knjiga osniva, obnavlja ili dopunjuje, na temelju odluke ministra pravosuđa.
+
+(5) Zemljišne knjige mogu se osnivati i obnavljati i za dijelove katastarske općine. Ovaj se postupak može provesti ako zemljišnoknjižni sud i tijelo nadležno za katastar ocijene da bi provođenje djelomičnog osnivanja, odnosno obnove bilo učinkovitije od istodobnog osnivanja, odnosno obnove cijele općine. Osnivanje i dopuna dijela katastarske općine može se provesti i kada se za taj dio vode kartoni zemljišta.
+
+(6) Osnivanje, obnovu i dopunu zemljišne knjige provodi sudac pojedinac ili sudski savjetnik, ali pojedine radnje u postupku mogu se povjeriti i ovlaštenom zemljišnoknjižnom referentu prema odluci predsjednika suda ili osobe koju on na to ovlasti.
+
+(7) Pojedine radnje u postupku osnivanja, obnove i dopune zemljišne knjige mogu se povjeriti i zemljišnoknjižnom referentu koji nema posebno ovlaštenje, koji će te poslove obavljati pod nadzorom suca ili sudskog savjetnika.
+
+(8) Na obnavljanje zemljišne knjige na odgovarajući će se način primijeniti odredbe ovog Zakona o postupku osnivanja i ispravnom postupku, ako odredbama članaka 198.-199.d ovoga Zakona nije drugačije određeno.
+
+(9) Na dopunu zemljišne knjige na odgovarajući će se način primijeniti odredbe ovog Zakona o postupku osnivanja i ispravnom postupku.«.
+
+#### Članak 37.
+
+Članak 180. mijenja se i glasi:
+
+»(1) Zemljišna knjiga, odnosno njezin dio, ako se osnivanje provodi postupno, osnovana je, obnovljena ili dopunjena onoga dana kada zemljišnoknjižni sud utvrdi da su sastavljeni zemljišnoknjižni ulošci (dan otvaranja zemljišne knjige). Odluku o otvaranju zemljišne knjige ili njezina dijela donosi predsjednik suda, odnosno predsjednik zemljišnoknjižnog odjela ili sudac kojeg na to ovlasti predsjednik suda.
+
+(2) S danom otvaranja zemljišne knjige zatvaraju se zemljišna knjiga, knjiga položenih ugovora i kartoni zemljišta, ako su do tada bili u uporabi.
+
+(3) S otvaranjem zemljišne knjige ujedno se otvara postupak ispravljanja upisa u njoj (ispravni postupak).
+
+(4) Nakon zaprimanja odluke iz stavka 1. ovoga članka, upisi iz zemljišne knjige, knjige položenih ugovora odnosno kartona zemljišta prenijet će se u zemljišnu knjigu koja se otvara. U odnosu na predmete u kojima nije donesena odluka, plombe će se prenijeti u zemljišnu knjigu koja se otvara.«.
+
+#### Članak 38.
+
+Iza članka 180. dodaje se članak 180.a koji glasi:
+
+»Članak 180.a
+
+(1) Kada zemljišnoknjižni sud primi obavijest od tijela nadležnog za katastar da su prikupljeni i obrađeni katastarski podaci, postupak sastavljanja uložaka provest će se istodobno s izlaganjem na uvid prikupljenih katastarskih podataka. O provođenju postupka sastavljanja zemljišnoknjižnih uložaka stavit će se obavijest na oglasnoj ploči nadležnog suda i nadležnog ureda za katastar, jedinice lokalne samouprave na čijem se području postupak vodi, mrežnim stranicama jedinice lokalne samouprave i Ministarstva pravosuđa ili drugim prikladnim načinima javnog obavještavanja, najmanje 30 dana prije početka postupka sastavljanja zemljišnoknjižnih uložaka.
+
+(2) Obavijest iz stavka 1. ovoga članka sadržava poziv svim posjednicima i osobama upisanim u knjigu položenih ugovora i kartone zemljišta te svim osobama koje smatraju da im pripada pravo koje bi trebalo upisati u zemljišnu knjigu, da se odazovu pozivu na raspravu za sastavljanje zemljišnoknjižnih uložaka te da predoče sudu isprave iz kojih proizlazi da bi njihova prava trebala biti upisana u uloške zemljišne knjige koja se sastavlja.
+
+(3) Na raspravi za sastavljanje zemljišnoknjižni sud utvrdit će sve činjenice važne za sastavljanje uloška. O sastavljanju uloška zemljišnoknjižni sud vodi zapisnik koji se uručuje prisutnim strankama, a može se uručiti i zajedno s nacrtom novog uloška.
+
+(4) Zapisnik sadrži bitne izjave stranaka, podatke o ispravama koje su stranke predočile sudu te rješenje o uknjižbi prava i zabilježbama u novom ulošku. Zapisnik potpisuju svi sudionici u postupku, a ako netko uskrati svoj potpis, u zapisniku će se navesti razlozi.
+
+(5) Nacrt novog uloška sadrži zabilježbu da je u tijeku postupak osnivanja zemljišne knjige te da se upisi ne smatraju istinitima i potpunima pa se nitko ne može pozivati na to da je postupao s povjerenjem u njihovu istinitost ili potpunost. Ta će se zabilježba brisati s otvaranjem zemljišne knjige.
+
+(6) Ako se na raspravi pojavi spor između više osoba oko toga koju od njih bi trebalo upisati kao nositelja knjižnog prava, a ne postoje kartoni zemljišta, zemljišnoknjižni sud upisat će u nacrt uloška osobu koja je upisana u popisni list koji je sastavljen u trenutku izlaganja katastarskih podataka, a ostale osobe uputiti da svoje pravo ostvaruju u ispravnom postupku. Protiv tog rješenja nije dopuštena žalba.«.
+
+#### Članak 39.
+
+U članku 181. stavku 1. iza riječi: »radi osnivanja« stavlja se zarez i dodaju riječi: »obnavljanja ili dopune«.
+
+#### Članak 40.
+
+Članak 182. mijenja se i glasi:
+
+»U posjedovnicu, vlastovnicu i teretovnicu zemljišnoknjižnoga uloška koji se sastavlja unijet će se podaci prema odredbama članaka 182.a do 185. ovoga Zakona.«.
+
+#### Članak 41.
+
+Iza članka 182. dodaje se članak 182.a koji glasi:
+
+»Članak 182.a
+
+(1) Katastarski podaci iskazani u popisnom listu preuzimaju se u posjedovnicu zemljišnoknjižnog uloška koji se sastavlja i za njihov sadržaj odgovara Državna geodetska uprava.
+
+(2) Zemljišnoknjižni sud ograničit će se na otvaranje zemljišnoknjižnog uloška i raspoređivanje pojedinih katastarskih čestica u uloške.
+
+(3) Podatke u drugi odjeljak posjedovnice unosi i za njihov sadržaj odgovara zemljišnoknjižni sud.
+
+(4) U postupku osnivanja zemljišne knjige vlastovnica i teretovnica uloška sastavljaju se na raspravi za sastavljanje uložaka prema podacima iz kartona zemljišta, podacima iz javne ili privatne isprave predočene sudu, podacima iz knjige položenih ugovora, prikupljenim podacima o nositeljima prava na katastarskim česticama iskazanim u elaboratu izmjere, podacima katastarskog operata te drugim raspoloživim dokazima.«.
+
+#### Članak 42.
+
+Članak 183. mijenja se i glasi:
+
+»Kad stranka izjavi prigovor na stanje prikupljenih podataka u postupku izlaganja, koji se preuzimaju na posjedovnicu uloška koji se sastavlja, zemljišnoknjižni sud neće pristupiti sastavljanju uloška sve dok o prigovoru ne bude riješeno u odgovarajućem postupku kod za to nadležnog tijela.«.
+
+#### Članak 43.
+
+Članak 184. mijenja se i glasi:
+
+»(1) Ako nije moguće utvrditi vlasnika prema odredbi članka 182.a ovog Zakona, upisati će se Republika Hrvatska kao vlasnik odnosno suvlasnik katastarske čestice koja je predmet postupka.
+
+(2) U postupku sastavljanja uložaka upisuju se osobni identifikacijski brojevi nositelja knjižnih prava, a ako isti nije dodijeljen, uz podatke o nositeljima knjižnih prava može se prenijeti jedinstveni matični broj građana, odnosno matični broj pravnog subjekta te sistemski brojevi koje je dodijelilo Ministarstvo financija.«.
+
+#### Članak 44.
+
+Iza članka 185. dodaje se članak 185.a koji glasi:
+
+»Članak 185.a
+
+(1) Nakon što budu sastavljeni svi ulošci nove zemljišne knjige koja se osniva, obnavlja ili dopunjuje, otvara se ispravni postupak na temelju odluke predsjednika suda odnosno predsjednika zemljišnoknjižnog odjela ili suca kojeg na to ovlasti predsjednik suda.
+
+(2) Ako se postupak osnivanja, obnove ili dopune provodi za dijelove katastarske općine ili postupno, ispravni postupak otvara se za one čestice za koje je postupak sastavljanja završen.«.
+
+#### Članak 45.
+
+Članak 186. mijenja se i glasi:
+
+»(1) Kad se ispravni postupak otvori, zemljišnoknjižni sud će otvaranje toga postupka objaviti bez odgađanja oglasom po službenoj dužnosti u službenom glasilu Republike Hrvatske, na oglasnoj ploči nadležnog suda, nadležnog ureda za katastar, jedinice lokalne samouprave, kao i na mrežnoj stranici Ministarstva pravosuđa ili na drugi odgovarajući način (npr. u dnevnom tisku, radiju ili televiziji, ili društvenim mrežama).
+
+(2) Oglas iz prethodnog stavka sadrži:
+
+– da je otvorena zemljišna knjiga za određenu katastarsku općinu te mjesto i način uvida u nju,
+
+– da se određene do tada postojeće evidencije nekretnina zatvaraju s danom otvaranja zemljišne knjige jer je zemljišna knjiga stupila na njihovo mjesto,
+
+– da će od dana otvaranja zemljišne knjige samo upisi u nju, glede nekretnina na koje se ta knjiga odnosi, proizvoditi one pravne učinke u vezi sa stjecanjem, promjenama, prijenosom i ukidanjem prava vlasništva i ostalih knjižnih prava koji su zakonom određeni za pravne učinke upisa u zemljišne knjige,
+
+– da je otvoren ispravni postupak glede otvorene zemljišne knjige, pa se sve osobe koje smatraju da bi trebalo u tu knjigu upisati nešto što nije upisano ili da bi trebalo izmijeniti, nadopuniti ili izbrisati neki upis ili njegov prvenstveni red, pozivaju da stave zemljišnoknjižnom sudu svoje prijave prijedloga za upise odnosno svoje prigovore postojećim upisima ili njihovu prvenstvenom redu u određenom roku (rok za ispravak),
+
+– da se, dok ne istekne oglasom određeni rok za prijave i prigovore, ne smatra da su upisi u zemljišnu knjigu istiniti i potpuni.
+
+(3) Rok za ispravak ne može biti određen kraće od mjesec dana niti duže od godine dana, računajući od dana objave oglasa u službenom glasilu Republike Hrvatske.
+
+(4) U oglasu će se upozoriti na moguće pravne posljedice propuštanja prijava i prigovora, odnosno nepravodobnog podnošenja prijave ili prigovora, a u tom postupku povrat u prijašnje stanje nije dopušten.«.
+
+#### Članak 46.
+
+U članku 187. dodaje se stavak 3. koji glasi:
+
+»(3) Otvaranje ispravnog postupka zabilježit će se u novoosnovanoj zemljišnoj knjizi.«.
+
+#### Članak 47.
+
+U članku 188. iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+
+»(4) Prijave i prigovori moraju biti utemeljeni na javnim ili privatnim ispravama kojima se čini vjerojatnim postojanje knjižnog prava čiji se upis zahtijeva.
+
+(5) Svaka prijava i prigovor zaprimaju se pod posebnim poslovnim brojem.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+#### Članak 48.
+
+U članku 191. stavak 1. mijenja se i glasi:
+
+»(1) Prijave i prigovori koji se odnose na istu česticu raspravit će se na raspravi pred zemljišnoknjižnim sudom (rasprava za ispravak) u istom prvenstvenom redu.«.
+
+#### Članak 49.
+
+U članku 192. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Na raspravu za ispravak pozvat će se osobe koje su podnijele svoje prijave i prigovore, osobe protiv čijih su upisa te prijave i prigovori podneseni, kao i osobe za koje prema sadržaju zemljišnih knjiga proizlazi da bi mogle imati pravni interes.
+
+(2) Na raspravu za ispravak sud će po potrebi pozvati i predstavnika tijela nadležnog za katastar u svojstvu stručnog pomagača.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) U slučaju neodaziva uredno pozvanih osoba, zemljišnoknjižni sud donijet će odluku na temelju stanja spisa.«.
+
+#### Članak 50.
+
+U članku 193. stavak 4. mijenja se i glasi:
+
+»(4) Na raspravi za ispravak ne raspravljaju se prijave ni prigovori podneseni nakon isteka roka za ispravak niti se dokazuje njihova osnovanost osim ako se nazočni sporazumiju da će se s prijavom ili prigovorom koji je stigao do zakazivanja rasprave, postupati kao da su podneseni u roku za ispravak.«.
+
+#### Članak 51.
+
+U članku 194. stavak 1. mijenja se i glasi:
+
+»(1) Raspravu za ispravak zaključit će zemljišnoknjižni sud kad ocijeni da su sva pitanja dovoljno raspravljena te će donijeti i proglasiti svoju odluku kojom će, u potpunosti ili djelomično usvojiti, odbiti ili odbaciti prijavu upisa odnosno prigovor na upise ili njihov prvenstveni red.«.
+
+#### Članak 52.
+
+U članku 195. stavak 1. mijenja se i glasi:
+
+»(1) Ustanovi li zemljišnoknjižni sud da bi za postupanje po prijavi ili prigovoru bilo nužno izmijeniti upis u posjedovnici o površini, obliku ili izgrađenosti katastarske čestice, on toj prijavi ili prigovoru neće udovoljiti, već će istu odbaciti bez provođenja rasprave, a zabilježbu prigovora brisat će po službenoj dužnosti kada rješenje o odbacivanju postane pravomoćno.«.
+
+#### Članak 53.
+
+U članku 196. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ako je na raspravi postignut sporazum o prijavama ili prigovorima, zabilježba prijave i prigovora izbrisat će se zajedno s provođenjem upisa. Zemljišnoknjižni sud će po službenoj dužnosti izbrisati sve zabilježbe prijava i prigovora o kojima nije postignut sporazum nakon isteka roka od 30 dana od dana dostave rješenja o osnovanosti istih, a i prije ako su zamijenjene zabilježbom spora.
+
+(3) Ako u otvorenom roku za ispravak nisu podneseni prijave ili prigovori, zemljišnoknjižni sud brisat će zabilježbu tijeka roka za ispravak iz članka 187. ovog Zakona bez provođenja rasprave po službenoj dužnosti.«.
+
+#### Članak 54.
+
+Članak 198. mijenja se i glasi:
+
+»(1) Ako se utvrdi da su podaci o površini i obliku čestice u katastru istovjetni s podacima u zemljišnoj knjizi koja će se zatvoriti, posjedovnica obnovljenog zemljišnoknjižnog uloška sastavit će se tako da se preuzmu podaci iz katastra o broju, površini, obliku i izgrađenosti katastarske čestice.
+
+(2) Vlastovnica zemljišne knjige koja se obnavlja sastavit će se prema podacima iz zemljišne knjige koja se zatvara otvaranjem obnovljene zemljišne knjige, knjige položenih ugovora, kao i podataka o prikupljenim nositeljima prava na katastarskim česticama iskazanim u elaboratu izmjere, popisnom listu ili postojećem katastarskom operatu, kao i javnih i privatnih isprava koje stranke dostave zemljišnoknjižnom sudu. U postupku sastavljanja uložaka upisuju se osobni identifikacijski brojevi nositelja knjižnih prava, a ako isti nije dodijeljen, uz podatke o nositeljima knjižnih prava može se prenijeti jedinstveni matični broj građana, odnosno matični broj pravnog subjekta te sistemski brojevi koje je dodijelilo Ministarstvo financija.
+
+(3) Teretovnica zemljišne knjige koja se obnavlja sastavit će se prema podacima iz zemljišne knjige koja se zatvara otvaranjem obnovljene zemljišne knjige, knjige položenih ugovora i podacima o založnim pravima stečenima popisom.
+
+(4) Prilikom sastavljanja uloška neće se prenositi upisi iz zemljišne knjige koja će se zatvoriti ako se radi o bespredmetnim upisima ili hipotekama za tražbine glede kojih su nastupili uvjeti za brisanje iz članka 141. stavka 1. ovog Zakona.«.
+
+#### Članak 55.
+
+Članak 199. mijenja se i glasi:
+
+»(1) Ako podaci postojećeg katastarskog operata ne odgovaraju u velikoj mjeri podacima u zemljišnoj knjizi koja će se zatvoriti, niti stanje zemljišne knjige ukazuje da bi ono bilo novije u odnosu na stanje u katastru, u postupku sastavljanja uložaka provest će se rasprava za sastavljanje istodobno s postupkom katastarskog izlaganja, uz odgovarajuću primjenu pravila iz članka 180.a ovoga Zakona.
+
+(2) Na raspravu iz stavka 1. ovoga članka pozvat će se osobe čiji su podaci prikupljeni u katastarskoj izmjeri. Osobe upisane u zemljišnoj knjizi neće se posebno pozivati.
+
+(3) U postupcima iz stavka 1. ovoga članka strankama se neće uručivati nacrti novih uložaka. U postupku obnove zemljišne knjige vlastovnica i teretovnica sastavljaju po sljedećem redoslijedu izvora: 1) podaci iz javne ili privatne isprave predočene sudu, 2) podaci iz katastarskog operata te 3) podaci iz zemljišne knjige koja će se zatvoriti, kao i knjige položenih ugovora.
+
+(4) U zapisniku s rasprave iz stavka 1. ovoga članka posebno će se naznačiti da se sadržaj nacrta uloška može izmijeniti uslijed promjena koje se dopuste u zemljišnoj knjizi koja će se zatvoriti do otvaranja nove zemljišne knjige.«.
+
+#### Članak 56.
+
+Iza članka 199. dodaju se članci 199.a do 199.d koji glase:
+
+»Članak 199.a
+
+(1) Ako podaci postojećeg katastarskog operata djelomično odgovaraju podacima u zemljišnoj knjizi koja će se zatvoriti, ili su u toj zemljišnoj knjizi provedeni upisi kasniji od upisa u katastru, u postupku sastavljanja uložaka može se provesti rasprava za sastavljanje istodobno s postupkom izlaganja podataka prikupljenih u katastarskoj izmjeri uz odgovarajuću primjenu pravila iz članka 180.a ovoga Zakona, kada to zemljišnoknjižni sud ocijeni svrhovitim i ako za takvo postupanje ne bi postojala zapreka prema stanju zemljišne knjige.
+
+(2) Ako je odlučio provesti raspravu, u postupcima iz stavka 1. ovoga članka na odgovarajući se način primjenjuju pravila iz članka 199. ovoga Zakona. U protivnom, vlastovnica i teretovnica sastavit će se prema podacima iz zemljišne knjige koja će se zatvoriti i podacima iz knjige položenih ugovora.
+
+#### Članak 199.b
+
+Ako se prilikom sastavljanja zemljišnoknjižnog uloška u nacrt uloška upiše čestica koja odgovara dijelu jedne ili više čestica upisanih u zemljišnoj knjizi koja će se zatvoriti, u uložak te zemljišne knjige upisat će se po službenoj dužnosti zabilježba o tome da je za dio čestice sastavljen nacrt novog zemljišnoknjižnog uloška te da je u tijeku postupak obnove zemljišne knjige.
+
+#### Članak 199.c
+
+(1) Zemljišnoknjižni ulošci koji su nečitki ili oštećeni do te mjere da se sa sigurnošću ne može utvrditi stanje zadnjeg upisa ostaju upisani kao ručno vođena zemljišna knjiga i ne vode se kao dio zemljišne knjige iz članka 6. stavka 1. ovoga Zakona.
+
+(2) Za uloške iz stavka 1. ovoga članka zemljišnoknjižni sud provest će po službenoj dužnosti postupak obnove na temelju stanja zemljišne knjige, zbirke isprava, spisa kao i drugih mogućih isprava (npr. potpunog zemljišnoknjižnog izvatka potvrđenog po nadležnom sudu prije oštećenja knjige i sl.).
+
+(3) Ako postupak iz stavka 2. ovoga članka nije moguće provesti, zemljišnoknjižni sud po službenoj dužnosti provodi postupak obnove za sve katastarske čestice upisane u tom ulošku.
+
+#### Članak 199.d
+
+(1) Poslovi osnivanja, obnove i dopune zemljišne knjige, kao i poslovi pojedinačnog preoblikovanja zemljišne knjige u BZP, su poslovi od interesa za Republiku Hrvatsku i financiraju se iz sredstava proračuna i (ili) drugih izvora, a sve temeljem odluke o osnivanju, obnovi ili dopuni zemljišne knjige za određenu katastarsku općinu.
+
+(2) U osiguranju sredstava iz stavka 1. ovoga članka mogu sudjelovati jedinice lokalne i područne (regionalne) samouprave, pravne osobe koje upravljaju javnim dobrom u općoj uporabi, kao i pravne osobe koje obavljaju djelatnosti određene posebnim zakonima kao javne usluge.
+
+(3) Financijska sredstva iz stavka 2. ovog članka osiguravaju se sporazumom sklopljenim između Ministarstva pravosuđa i osoba iz stavka 2. ovog članka.
+
+(4) Sporazumom iz stavka 3. ovog članka osiguravaju se sredstva za financiranje svih troškova osnivanja, obnove ili dopune zemljišnih knjiga u dogovorenim omjerima ili u cijelosti.
+
+(5) Sredstva se uplaćuju na račun suda koji provodi postupak osnivanja, obnove ili dopune zemljišne knjige i mogu se koristiti samo za tu namjenu.
+
+(6) Prijedlog sporazuma pripremaju tijela iz stavka 2. ovoga članka.«.
+
+#### Članak 57.
+
+Članak 200. mijenja se i glasi:
+
+»(1) Pojedinačni ispravni postupak provodi se kad za to postoji opravdani razlog. Pojedinačni ispravni postupak može se provesti glede jednog ili više zemljišnoknjižnih uložaka.
+
+(2) Na pojedinačni ispravni postupak na odgovarajući se način primjenjuju odredbe o sastavljanju uložaka i ispravnom postupku.
+
+(3) Opravdani razlog za vođenje pojedinačnog ispravnog postupka postoji kad je nekom ispravom učinjeno vjerojatnim da nekoj osobi pripada pravo koje nije u njezinu korist upisano i radi čijeg bi upisa trebalo ispraviti određene zemljišnoknjižne upise, a radi se o pravu koje po odredbama ovoga Zakona može biti predmet zemljišnoknjižnog upisa.«.
+
+#### Članak 58.
+
+Iza članka 200. dodaju se članci 200.a do 200.g koji glase:
+
+»Članak 200.a
+
+(1) Pojedinačni ispravni postupak pokreće se na prijedlog osobe koja ima pravni interes.
+
+(2) U prijedlogu za otvaranje pojedinačnog ispravnog postupka treba biti točno označeno u kojem se smislu zahtijeva ispravljanje zemljišnoknjižnog uloška, koji bi se zemljišnoknjižni upisi u tom ulošku, na koji način i u čiju korist trebali ispraviti. U prijedlogu za otvaranje moraju se navesti činjenice na kojima se prijedlog temelji (npr. temelj stjecanja, povijest stjecanja i slično). Uz prijedlog se može podnijeti i nacrt ispravljenog zemljišnoknjižnog uloška.
+
+(3) Prijedlog iz stavka 2. ovoga članka mora sadržavati ime i prezime, adresu i osobni identifikacijski broj osobe u čiju se korist traži ispravak upisa u zemljišnoj knjizi. U prijedlogu iz stavka 2. ovoga članka ne moraju se navesti osobe protiv kojih se traži ispravak upisa (protustranke).
+
+(4) Prijedlog za otvaranje ispravnog postupka može sadržavati i prijedlog da se nakon okončanja postupka protiv osobe u čiju je korist na temelju odluke suda donesene na raspravi za ispravak upisano knjižno pravo provede određeni upis (uknjižba, predbilježba, zabilježba). U tom se dijelu prijedlog smatra kao prijedlog za upis u smislu članaka 95. do 105. ovog Zakona kojem se moraju priložiti isprave na osnovi kojih se po ovom Zakonu može dopustiti zatraženi upis. O tom će se prijedlogu za upis odlučivati nakon okončanja ispravnog postupka, prije svih kasnijih predmeta i podnesaka (članak 201. stavak 2.).
+
+(5) Prijedlogu treba priložiti isprave iz kojih proizlazi opravdanost pokretanja pojedinačnog ispravnog postupka, odnosno isprave kojima se dokazuje osnovanost prijedloga (npr. isprave o prijenosu ili osnivanju knjižnih prava u korist podnositelja prijedloga koje ne ispunjavaju sve pretpostavke za valjanost tabularne isprave, izvaci iz katastra zemljišta o posjedniku nekretnine, javno ovjerovljene izjave zemljišnoknjižnog vlasnika ili njegovih nasljednika kojima se potvrđuje pravo predlagatelja i sl.).
+
+(6) Ako bi se u ispravnom postupku morali promijeniti podaci u posjedovnici glede broja, površine, oblika, načina uporabe i izgrađenosti katastarske čestice, prijedlogu treba priložiti prijavni list ovjeren od strane tijela nadležnog za poslove katastra.
+
+(7) S prijedlogom na temelju kojega je doneseno rješenje o pokretanju ispravnog postupka postupa se u daljnjem tijeku ispravnog postupka kao s prigovorom odnosno prijavom podnesenom u ispravnom postupku, ako ovim odredbama nije propisano drugačije.
+
+#### Članak 200.b
+
+(1) Na temelju rješenja zemljišnoknjižnog suda o otvaranju pojedinačnog ispravnog postupka u dijelu zemljišne knjige na koji se ispravak odnosi, zabilježit će se da je otvoren pojedinačni ispravni postupak. Ta će se zabilježba izbrisati po službenoj dužnosti kad protekne rok od 30 dana od dana uredne dostave rješenja donesenog na raspravi za ispravak.
+
+(2) Zabilježba iz stavka 1. ovoga članka ne sprječava daljnje upise u zemljišnu knjigu.
+
+(3) Upisi provedeni nakon zabilježbe iz stavka 1. ovoga članka će se brisati po službenoj dužnosti ako njihov sadržaj bude suprotan upisu koji će se odrediti povodom rješenja donesenog na raspravi za ispravak. O brisanju upisa obavijestit će se nositelje čija prava prestaju brisanjem, a nezadovoljnu stranku uputiti da svoja navodna prava ostvaruje u parnici tužbom za ispravak.
+
+#### Članak 200.c
+
+(1) Protiv rješenja o otvaranju pojedinačnog ispravnog postupka nije dopuštena posebna žalba.
+
+(2) U uputi o pravnom lijeku naznačit će se da osobe koje za to imaju pravni interes, svoja prava mogu ostvarivati u ispravnom postupku podnošenjem prijave ili prigovora u roku otvorenom za ispravak, odnosno u parnici pred sudom ili u postupku pred drugim nadležnim tijelom, nakon što pojedinačni ispravni postupak bude zaključen.
+
+#### Članak 200.d
+
+(1) Kad se otvori pojedinačni ispravni postupak, zemljišnoknjižni sud će po službenoj dužnosti, bez odgađanja, objaviti javnim oglasom:
+
+– da je glede zemljišnoknjižnog uloška br. -----, katastarska općina --------– u kojem su u korist ----------– (podaci o knjižnom vlasniku) upisana zemljišta (katastarske čestice) broj -----– na prijedlog ---------– (podaci o predlagatelju) otvoren pojedinačni ispravni postupak kojim predlagatelj zahtijeva da se u navedenom ulošku provedu i isprave sljedeći upisi: --------------------------– (navesti sve navode iz prijedloga glede upisa koji se zahtijevaju u vezi sa zemljišnoknjižnim uloškom, a po potrebi navesti i nacrt ispravljenog zemljišnoknjižnog uloška);
+
+– da se sve osobe koje se protive da se zemljišnoknjižni uložak na predloženi način ispravi, koje smatraju da bi u zemljišnoknjižni uložak trebalo upisati nešto što nije predloženo ili da bi trebalo izmijeniti ili ispraviti neki upis pozivaju da stave zemljišnoknjižnom sudu svoje prijave prijedloga za upis odnosno svoje prigovore u određenom roku (rok za ispravak) čiji početak i kraj moraju u oglasu biti izričito navedeni određivanjem kalendarskog dana.
+
+(2) Rok za podnošenje prigovora ili prijava ne može biti kraći od 30 dana niti dulji od 6 mjeseci računajući od dana objave oglasa.
+
+(3) Oglas će se objaviti na trošak predlagatelja u službenom glasilu Republike Hrvatske te na oglasnoj ploči suda, nadležnog ureda za katastar, jedinice lokalne samouprave, kao i na mrežnoj stranici Ministarstva pravosuđa ili na drugi odgovarajući način.
+
+#### Članak 200.e
+
+Rješenje o otvaranju ispravnog postupka dostavit će se podnositelju prijedloga, osobama iz čijeg se upisa nedvojbeno zaključuje da bi dostava bila moguća te osobama koje su upise u zemljišnu knjigu zahtijevale nakon zabilježbe iz članka 200.b ovoga Zakona.
+
+#### Članak 200.f
+
+(1) Glede podnesenih prijava i prigovora povodom podnesenog prijedloga za pojedinačni ispravni postupak primjenjuju se odredbe članka 188. ovoga Zakona o obliku i sadržaju prijave i prigovora te o zabilježbi prijave i prigovora.
+
+(2) Smatra se da su prijedlog za pokretanje ispravnog postupka, prijave i prigovori pristigli u istom prvenstvenom redu.
+
+#### Članak 200.g
+
+Na raspravu za ispravak, odlučivanje o prijavama i prigovorima, na provedbu upisa u pojedinačnom ispravnom postupku te na tužbu za ispravak na odgovarajući način se primjenjuju pravila iz članaka 191. do 197. ovoga Zakona, a u svojstvu stručnog pomagača sud može pozvati i ovlaštenog inženjera geodezije koji je izradio prijavni list za provedbu u zemljišnoj knjizi.«.
+
+#### Članak 59.
+
+Naziv glave 5. iznad članka 202. mijenja se glasi:
+
+### »Glava 5. — PREOBLIKOVANJE U BAZU ZEMLJIŠNIH PODATAKA (BZP)«.
+
+#### Članak 60.
+
+Članak 202. mijenja se i glasi:
+
+»Ministar nadležan za poslove pravosuđa u sporazumu s ravnateljem Državne geodetske uprave odredit će početak pojedinačnog preoblikovanja zemljišnih knjiga za određenu katastarsku općinu.«.
+
+#### Članak 61.
+
+U članku 203. stavak 1. mijenja se i glasi:
+
+»(1) Prilikom preoblikovanja zemljišne knjige prenijet će se u BZP svi neizbrisani upisi koji se odnose na podatke o nositeljima knjižnih prava, pravnim činjenicama i osobnim odnosima, a s onim sadržajem i u onom obliku koji odgovara pravilima o vođenju glavne knjige.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Kad na temelju posebnoga zakona neko knjižno pravo bude zamijenjeno drugim, u BZP će se prema odredbama toga zakona, a ne dirajući u ostale upise, s istim prvenstvenim redom prilikom prenošenja unijeti to drugo pravo, što se ne smatra osnivanjem novoga prava.«.
+
+#### Članak 62.
+
+Naslov iznad članka 204. mijenja se i glasi: »Otvaranje BZP-a (Baze zemljišnih podataka)«.
+
+#### Članak 63.
+
+Članak 204. mijenja se i glasi:
+
+»Čim se u BZP pohrane upisi svih uložaka jedne katastarske općine; katastarski podaci o imenu katastarske općine, broju katastarske čestice, obliku, površini, izgrađenosti i načinu uporabe te podaci zemljišne knjige o nositeljima knjižnih prava, pravnim činjenicama i osobnim odnosima, zemljišnoknjižni sud i tijelo nadležno za poslove katastra odredit će dan kojim će se za tu katastarsku općinu zemljišna knjiga voditi kao prema pravilima koja uređuju postupanje u BZP-u.«.
+
+#### Članak 64.
+
+Članak 205. briše se.
+
+#### Članak 65.
+
+U članku 206. stavak 1. mijenja se i glasi:
+
+»(1) Ako se prilikom prijenosa upisa iz zemljišne knjige u BZP nije postupilo po pravilima o prenošenju upisa, na prijedlog ili po službenoj dužnosti provest će se ispravci na temelju posebnoga rješenja zemljišnoknjižnoga suda. Isto vrijedi i ako je propušteno prenijeti neki upis.«.
+
+#### Članak 66.
+
+U članku 207. stavak 1. mijenja se i glasi:
+
+»(1) Ako se ispravkom dira u knjižna prava trećih koja su bila upisana nakon preoblikovanja zemljišne knjige u BZP, ispravak je dopušten samo ako prijedlog stigne zemljišnoknjižnom sudu u roku od 6 mjeseci od otvaranja BZP-a ili se unutar toga roka provede ispravak po službenoj dužnosti.«.
+
+#### Članak 67.
+
+Članak 208. mijenja se i glasi:
+
+»Zemljišnoknjižni predmeti koji nisu riješeni u času otvaranja BZP-a, kao i zemljišnoknjižni podnesci koji zemljišnoknjižnom sudu stignu u roku iz članka 207. stavka 1. ovoga Zakona, usporedit će se i s knjižnim stanjem u glavnoj knjizi vođenoj prije preoblikovanja. Pokaže li se potreba za ispravkom upisa prenesenih u BZP-a na odgovarajući će se način primijeniti odredbe članka 206. i 207. ovoga Zakona.«.
+
+#### Članak 68.
+
+Naslov iznad članka 208.a mijenja se i glasi: »Pojedinačno preoblikovanje u BZP«.
+
+#### Članak 69.
+
+U članku 208.a stavak 1. mijenja se i glasi:
+
+»(1) Pojedinačno preoblikovanje zemljišnih knjiga u BZP provodi se za jednu ili više katastarskih čestica kada su podaci zemljišne knjige i podaci katastra o čestici identični u odnosu na oblik, površinu, način uporabe i izgrađenost čestice te u odnosu na podatak o nositelju prava vlasništva upisanom u zemljišnu knjigu i ovlašteniku prava upisanom u katastar.«.
+
+#### Članak 70.
+
+U članku 208.c stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Nakon što se izvrši postupak pojedinačnog preoblikovanja određene katastarske čestice, nadležni zemljišnoknjižni sud će izdati rješenje o tome da je postupak preoblikovanja u BZP za određenu katastarsku česticu dovršen te će se to rješenje dostaviti svim upisanim nositeljima knjižnih prava.
+
+(3) Ako prilikom prijenosa upisa iz zemljišne knjige u BZP nije postupljeno po pravilima o prenošenju upisa, primjenjuju se pravila iz članka 206. stavka 1. i članka 207. stavka 1. ovoga Zakona.«.
+
+#### Članak 71.
+
+Članak 208.d mijenja se i glasi:
+
+»U trenutku kada se u BZP-u pohrane upisi katastarske čestice koja je pojedinačno preoblikovana, zemljišnoknjižni sud će tu katastarsku česticu po službenoj dužnosti nastaviti voditi kao dio BZP-a.«.
+
+#### Članak 72.
+
+Članak 208.e mijenja se i glasi:
+
+»Pobliže odredbe o pojedinačnom preoblikovanju zemljišne knjige u BZP te postupak i način preoblikovanja, kao i druga pitanja, uredit će se Poslovnikom o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (Zemljišnoknjižni poslovnik).«.
+
+#### Članak 73.
+
+Naslov iznad članka 210. i članak 210. brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 74.
+
+U cijelom tekstu Zakona o zemljišnim knjigama (»Narodne novine«, br. 91/96., 68/98., 137/99., 114/01., 100/04., 107/07., 152/08. i 126/10.) riječi: »ručno vođena zemljišna knjiga« zamjenjuju se riječima: »zemljišna knjiga« u odgovarajućem padežu.
+
+#### Članak 75.
+
+Ministar nadležan za poslove pravosuđa donijet će akte iz članaka 32. i 34. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovog Zakona.
+
+#### Članak 76.
+
+Osobe iz članka 33. stavka 1. ovoga Zakona dužne su osigurati tehničke pretpostavke i uvjete za održavanje tehničkih uređaja za elektronički pristup zemljišnoknjižnom sudu najkasnije u roku od tri mjeseca od dana stupanja na snagu podzakonskog akta iz članka 34. ovoga Zakona i dobivenog odobrenja ministra pravosuđa.
+
+#### Članak 77.
+
+Elektronički vođenu oglasnu ploču zemljišnoknjižni sudovi dužni su ustrojiti u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 78.
+
+Istekom roka od godinu dana od dana stupanja na snagu ovog Zakona novi kartoni zemljišta i polozi isprava smatrat će se prijedlogom za donošenje odluke o osnivanju zemljišnoknjižnog uloška u postupku osnivanja zemljišne knjige.
+
+#### Članak 79.
+
+Odredbe Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova – Zemljišnoknjižnog poslovnika (»Narodne novine«, br. 81/97., 109/02., 123/02., 153/02., 14/05. i 60/10.) uskladit će se s odredbama ovog Zakona u roku od 12 mjeseci od dana njegova stupanja na snagu, a do tada će se primjenjivati odredbe koje nisu u suprotnosti s odredbama ovog Zakona.
+
+#### Članak 80.
+
+(1) Smatra se da zemljišnoknjižni referenti koji imaju višu stručnu spremu upravnopravnog ili društvenog smjera i 3 godine radnog iskustva na poslovima zemljišnoknjižnog referenta ili srednju stručnu spremu upravnopravnog ili društvenog smjera i 5 godina radnog iskustva na poslovima zemljišnoknjižnog referenta, a na dan stupanja na snagu ovoga Zakona rade u zemljišnoknjižnom sudu ispunjavaju uvjete i mogu pristupiti polaganju ispita za ovlaštenog zemljišnoknjižnog referenta, odnosno biti imenovani za ovlaštenog zemljišnoknjižnog referenta u postupku utvrđenom u članku 109.a stavku 6. ovoga Zakona, neovisno o uvjetima utvrđenim u članku 109.b stavku 1. točki 2. ovoga Zakona.
+
+(2) Zemljišnoknjižni referent koji je prije stupanja na snagu ovoga Zakona položio ispit za ovlaštenog zemljišnoknjižnog referenta, može se imenovati za ovlaštenog zemljišnoknjižnog referenta sukladno članku 109.a stavku 6. ovog Zakona.
+
+#### Članak 81.
+
+(1) Ministar pravosuđa određuje potrebnu funkcionalnu organizaciju rada zemljišnoknjižnih sudova i potrebnu organizacijsku strukturu službenika zaposlenih u zemljišnoknjižnim sudovima, način i rokove stručnog osposobljavanja zemljišnoknjižnih službenika, kao i način preraspodjele postojećih službenika potreban zbog povećanog opsega poslova ili smanjenog opsega poslova u pojedinom zemljišnoknjižnom sudu.
+
+(2) Broj zemljišnoknjižnih službenika utvrđuje ministar pravosuđa, sukladno Pravilniku o mjerilima za rad zemljišnoknjižnih službenika, na prijedlog predsjednika suda, odnosno predsjednika zemljišnoknjižnog odjela.
+
+(3) Zemljišnoknjižni službenici iz stavka 1. ovoga članka mogu se privremeno ili trajno premjestiti na rad u drugi zemljišnoknjižni sud ili u Ministarstvo pravosuđa, temeljem rješenja ministra pravosuđa.
+
+#### Članak 82.
+
+Svi pokrenuti postupci koji nisu dovršeni na dan stupanja na snagu ovoga Zakona, dovršit će se sukladno odredbama zakona koji je bio na snazi u vrijeme njihova pokretanja, osim ako su odredbe ovog Zakona povoljnije za stranku.
+
+#### Članak 83.
+
+(1) U žalbenim postupcima protiv odluka ovlaštenog zemljišnoknjižnog referenta, sudskog savjetnika ili suca u kojima zemljišnoknjižni sud nije odlučio odnosno predmet nije ustupio drugostupanjskom sudu na odlučivanje do dana stupanja na snagu ovog Zakona, primjenjivat će se pravila o prigovoru sukladno odredbama ovog Zakona.
+
+(2) U žalbenim postupcima ustupljenim drugostupanjskom sudu na odlučivanje, do početka rada Visokog zemljišnoknjižnog suda Republike Hrvatske, žalbu će rješavati nadležni županijski sud.
+
+(3) Nadležni županijski sudovi ustupit će žalbene predmete Visokom zemljišnoknjižnom sudu Republike Hrvatske, danom početka njegova rada.
+
+#### Članak 84.
+
+(1) Na nekretnini koja je u zemljišnim knjigama upisana kao društveno vlasništvo s upisanim pravom upravljanja, odnosno korištenja i raspolaganja, a na dan 24. srpnja 1991. se nalazila dijelom unutar, a dijelom izvan granica građevinskog područja, dopustit će se na prijedlog zainteresirane osobe upis zajedničkog vlasništva Republike Hrvatske i pravnog sljednika dotadašnjeg nositelja prava upravljanja, odnosno korištenja i raspolaganja.
+
+(2) Na nekretnini koja je u zemljišnim knjigama upisana kao društveno vlasništvo s upisanim pravom upravljanja, odnosno korištenja i raspolaganja, a prema uvjerenju Hrvatskih šuma jednim svojim dijelom predstavlja šumu ili šumsko zemljište, dopustit će se na prijedlog zainteresirane osobe upis zajedničkog vlasništva Republike Hrvatske i pravnog sljednika dotadašnjeg nositelja prava upravljanja, odnosno korištenja i raspolaganja.
+
+(3) Na nekretnini koja je u zemljišnim knjigama upisana kao društveno vlasništvo s upisanim pravom upravljanja, odnosno korištenja i raspolaganja, a prema uvjerenju Hrvatskih voda jednim svojim dijelom predstavlja javno vodno dobro, dopustit će se upis zajedničkog vlasništva Republike Hrvatske i pravnog sljednika dotadašnjeg nositelja prava upravljanja, odnosno korištenja i raspolaganja, uz zabilježbu da zemljišnoknjižna čestica jednim dijelom predstavlja javno vodno dobro.
+
+(4) Na nekretnini koja je u zemljišnim knjigama upisana kao društveno vlasništvo s upisanim pravom upravljanja, odnosno korištenja i raspolaganja, a koja nekretnina jednim svojim dijelom predstavlja željezničku infrastrukturu u vlasništvu Republike Hrvatske, dopustit će se upis zajedničkog vlasništva Republike Hrvatske i pravnog sljednika dotadašnjeg nositelja prava upravljanja, odnosno korištenja i raspolaganja, uz zabilježbu da zemljišnoknjižna čestica jednim dijelom predstavlja željezničku infrastrukturu.
+
+#### Članak 85.
+
+(1) Na prijedlog za upis prava vlasništva podnesenog nakon isteka roka od 60 dana od dana stjecanja uvjeta za upis tog prava u zemljišnu knjigu ili knjigu položenih ugovora, a koji je ostvaren nakon stupanja na snagu ovog Zakona, sudske pristojbe za upis obračunat će se u peterostrukom iznosu sudske pristojbe za tu vrstu upisa.
+
+(2) Odredba stavka 1. ovog članka neće se primjenjivati na predlagatelje koji su prijedlog podnijeli do dana stupanja na snagu ovog Zakona.
+
+#### Članak 86.
+
+(1) Upisi plombe do dana stupanja na snagu ovog Zakona temeljem članka 57. stavka 7. Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova-Zemljišnoknjižni poslovnik (»Narodne novine«, br. 81/97., 109/02., 123/02., 153/02., 14/05. i 60/10.) u nastavku: Zemljišnoknjižni poslovnik, zamijenit će se upisom iz članka 7. ovoga Zakona.
+
+(2) Podnesci sudova i prijedlozi povodom članka 57. stavka 7. Zemljišnoknjižnog poslovnika smatrat će se prijedlogom za zabilježbu iz članka 7. ovog Zakona.
+
+#### Članak 87.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti članak 57. stavak 7. Zemljišnoknjižnog poslovnika.
+
+#### Članak 88.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskog sabora da utvrdi i izda pročišćeni tekst Zakona o zemljišnim knjigama.
+
+#### Članak 89.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 932-01/12-01/01
+
+Zagreb, 26. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

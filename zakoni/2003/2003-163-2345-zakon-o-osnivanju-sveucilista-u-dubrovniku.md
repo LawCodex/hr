@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-16
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "163/03"
-amendments: []
+last_amended: 2011-07-13
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "163/03, 80/11"
+amendments:
+  - "NN 80/2011 (1706) Zakon o dopuni Zakona o osnivanju Sveučilišta u Dubrovniku"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2345"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o osnivanju Sveučilišta u Dubrovniku
 
 > Izvor: Narodne novine, NN 163/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2345).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 80/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -185,3 +189,73 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o osnivanju Sveučilišta u Dubrovniku (NN 80/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1706*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O OSNIVANJU SVEUČILIŠTA U DUBROVNIKU
+
+Proglašavam Zakon o dopuni Zakona o osnivanju Sveučilišta u Dubrovniku, koji je Hrvatski sabor donio na sjednici 1. srpnja 2011. godine.
+
+Klasa: 011-01/11-01/144
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 6. srpnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O OSNIVANJU SVEUČILIŠTA U DUBROVNIKU**
+
+### Članak 1.
+
+U Zakonu o osnivanju Sveučilišta u Dubrovniku (»Narodne novine«, br. 163/03.) iza članka 11. dodaje se članak 11.a koji glasi:
+
+»Članak 11.a
+
+(1) Sveučilište u Dubrovniku preuzima sve poslove, radnike zatečene na preuzetim poslovima, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, nekretnine, prava i obveze i financijska sredstva Hrvatskog centra za poljoprivredu, hranu i selo, koji se odnose na ustrojstvenu jedinicu Zavod za maslinarstvo i južne kulture.
+
+(2) Nekretnine iz stavka 1. ovoga članka su nekretnine koje su do stupanja na snagu Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo (»Narodne novine«, br. 25/09.) bile u vlasništvu Ustanove Stanica za južne kulture Dubrovnik.
+
+(3) Preuzimanje poslova, radnika zatečenih na preuzetim poslovima, opreme, pismohrane i druge dokumentacije, sredstva za rad, nekretnina s njihovim pobližim određenjem, prava i obveze i financijska sredstva iz stavka 1. ovoga članka Hrvatski centar za poljoprivredu, hranu i selo i Sveučilište u Dubrovniku pobliže će urediti sporazumom uz suglasnost ministra nadležnog za poslove poljoprivrede i ministra nadležnog za poslove obrazovanja.«.
+
+### Članak 2.
+
+Sveučilište u Dubrovniku i Hrvatski centar za poljoprivredu, hranu i selo dužni su u roku 30 dana od dana stupanja na snagu ovoga Zakona uskladiti svoje statute i druge opće akte u skladu s odredbama ovoga Zakona.
+
+### Članak 3.
+
+(1) Nakon donošenja akata iz članka 2. ovoga Zakona Sveučilište će preuzetim zaposlenicima ponuditi sklapanje ugovora o radu sukladno Zakonu o radu.
+
+(2) Do sklapanja novih ugovora preuzeti zaposlenici nastavit će obavljati poslove utvrđene dosadašnjim ugovorima o radu.
+
+(3) Do sklapanja novih ugovora o radu preuzeti zaposlenici zadržavaju pravo na plaću i druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 602-04/11-01/02
+
+Zagreb, 1. srpnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

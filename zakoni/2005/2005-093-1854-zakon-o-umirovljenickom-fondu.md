@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-07-29
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "93/05"
-amendments: []
+last_amended: 2015-09-25
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "93/05, 90/11, 102/15"
+amendments:
+  - "NN 90/2011 (1926) Zakon o dopuni Zakona o Umirovljeničkom fondu"
+  - "NN 102/2015 (1976) Zakon o dopuni Zakona o Umirovljeničkom fondu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/93/1854"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o umirovljeničkom fondu
 
 > Izvor: Narodne novine, NN 93/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/93/1854).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2011, NN 102/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -552,3 +557,111 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o Umirovljeničkom fondu (NN 90/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1926*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O UMIROVLJENIČKOM FONDU
+
+Proglašavam Zakon o dopuni Zakona o Umirovljeničkom fondu, koji je Hrvatski sabor donio na sjednici 15. srpnja 2011. godine.
+
+Klasa: 011-01/11-01/169
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. srpnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O UMIROVLJENIČKOM FONDU**
+
+### Članak 1.
+
+U Zakonu o Umirovljeničkom fondu (»Narodne novine«, br. 93/05. i 41/07.) u članku 24. dodaje se stavak 8. koji glasi:
+
+»(8) Udjeli člana Fonda kojem je na propisan način dostavljen obrazac posebne izjave, a koji se nije očitovao Društvu o njihovom raspolaganju u roku od dvije godine računajući od dana određenog za posljednju isplatu njegovih udjela, odnosno do likvidacije Fonda, pa mu se ne može izvršiti isplata udjela, pripadaju Republici Hrvatskoj, odnosno uplaćuju se na račun državnog proračuna.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 402-09/11-01/02
+
+Zagreb, 15. srpnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o dopuni Zakona o Umirovljeničkom fondu (NN 102/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/102/1976*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O UMIROVLJENIČKOM FONDU
+
+Proglašavam Zakon o dopuni Zakona o Umirovljeničkom fondu, koji je Hrvatski sabor donio na sjednici 18. rujna 2015. godine.
+
+Klasa: 011-01/15-01/103
+
+Urbroj: 71-05-03/1-15-2
+
+Zagreb, 22. rujna 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O UMIROVLJENIČKOM FONDU**
+
+#### Članak 1.
+
+U Zakonu o Umirovljeničkom fondu (»Narodne novine«, br. 93/05., 41/07. i 90/11.) u članku 24. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Novčana sredstva koja na temelju stavaka 7. i 8. ovoga članka pripadaju Republici Hrvatskoj kao članu Fonda namjenjuju se za isplatu jednokratnog novčanog primanja korisnicima mirovinskih primanja ostvarenih u obveznom mirovinskom osiguranju na temelju generacijske solidarnosti sukladno odluci Vlade Republike Hrvatske.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+(1) Društvo je dužno u roku od osam dana od dana stupanja na snagu ovoga Zakona izvijestiti Upravni odbor Fonda i Vladu Republike Hrvatske o svoti novčanih sredstava iz članka 24. stavaka 7. i 8. Zakona.
+
+(2) Krug korisnika, iznos i način isplate te druga pitanja vezana uz isplatu jednokratnog novčanog primanja korisnicima mirovinskih primanja iz članka 24. stavka 9. Zakona utvrdit će odlukom Vlada Republike Hrvatske u roku od 30 dana od dana stupanja na snagu ovoga Zakona, a isplatu će po službenoj dužnosti obaviti Hrvatski zavod za mirovinsko osiguranje.
+
+#### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/131
+
+Zagreb, 18. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

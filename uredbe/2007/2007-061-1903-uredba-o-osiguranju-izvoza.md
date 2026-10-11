@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-06-13
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "61/07"
-amendments: []
+last_amended: 2010-06-24
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "61/07, 92/08, 79/10"
+amendments:
+  - "NN 92/2008 (2916) Uredba o izmjenama i dopunama Uredbe o osiguranju izvoza"
+  - "NN 79/2010 (2261) Uredba o izmjenama i dopunama Uredbe o osiguranju izvoza"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/61/1903"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o osiguranju izvoza
 
 > Izvor: Narodne novine, NN 61/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/61/1903).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2008, NN 79/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -383,3 +388,247 @@ Zagreb, 5. lipnja 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o osiguranju izvoza (NN 92/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/92/2916*
+
+VLADA REPUBLIKE HRVATSKE
+
+2916
+
+Na temelju članka 10. stavka 6. Zakona o Hrvatskoj banci za obnovu i razvitak (»Narodne novine«, broj 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 31. srpnja 2008. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O OSIGURANJU IZVOZA**
+
+### Članak 1.
+
+U Uredbi o osiguranju izvoza (»Narodne novine«, broj 61/2007) u članku 1. stavku 1. iza riječi: »podrijetla« dodaje se zarez i riječi: »izdavanja bankarskih garancija«.  
+Stavak 3. briše se.
+
+### Članak 2.
+
+U članku 2. stavku 1. podstavku 11. treća i četvrta alineja brišu se.  
+U podstavku 12. riječi: »trgovački ugovor, odnosno« brišu se.  
+Podstavak 20. mijenja se i glasi:  
+»Najmanji domaći udio je najmanji postotak vrijednosti domaćeg udjela u izvozu, podoban za osiguranje u skladu s ovom Uredbom, a koji svojim mišljenjem određuje Povjerenstvo za osiguranje izvoza;«.  
+U podstavku 22. riječi: »sa sjedištem, odnosno prebivalištem u Republici Hrvatskoj« brišu se.  
+Iza podstavka 25. dodaje se podstavak 26. koji glasi:  
+»Povjerenstvo za osiguranje izvoza je radno tijelo Vlade Repub­like Hrvatske osnovano u skladu s člankom 2a. ove Uredbe;«.  
+Dosadašnji podstavci 26. i 27. postaju podstavci 27. i 28.  
+Iza dosadašnjeg podstavka 27. koji postaje podstavak 28. dodaje se podstavak 29. koji glasi:  
+»Ulaganje u inozemstvo je ulaganje imovine hrvatske pravne ili fizičke osobe u trgovačka društva i podružnice u inozemstvu te davanje stranim osobama u zakup imovine u vlasništvu izvoznika ili u vlasništvu (strane ili mješovite) pravne osobe u kojoj izvoznik izravno ili neizravno ima većinski udjel ili prevladavajući utjecaj;«.  
+Dosadašnji podstavci 28. i 29. postaju podstavci 30. i 31.  
+U dosadašnjem podstavku 28. koji postaje podstavak 30. iza riječi: »godine« dodaje se zarez i riječi: »odnosno svi rizici za koje postoji mogućnost osiguranja na privatnom tržištu osiguranja«.
+
+### Članak 3.
+
+Iza članka 2. dodaje se članak 2a. i naslov iznad njega koji glase:
+
+*»Povjerenstvo za osiguranje izvoza Članak 2a.*
+
+(1) Odlukom Vlade Republike Hrvatske osnovat će se Povjerenstvo za osiguranje izvoza u čijoj je nadležnosti davanje mišljenja i prijedloga o predmetima osiguranja izvoza i nadzor provedbe poslova osiguranja izvoza.  
+(2) Na temelju mišljenja Povjerenstva za osiguranje izvoza HBOR, u ime i za račun Republike Hrvatske, zaključuje ugovore o osiguranju i police, donosi opće uvjete osiguranja izvoza, premijske sustave, klasifikaciju zemalja po rizičnosti, te usvaja ostale potrebne dokumente.  
+(3) Odlukom Vlade Republike Hrvatske o osnivanju Povjerenstva za osiguranje izvoza pobliže će se urediti njegov djelokrug i sastav.«.
+
+### Članak 4.
+
+U članku 3. stavak 2. briše se.
+
+### Članak 5.
+
+U članku 4. stavak 1. mijenja se i glasi:  
+»(1) Poslovima osiguranja izvoza, u smislu ove Uredbe, smatra se osiguranje kratkoročnih neutrživih rizika čije je trajanje do 2 godine te srednjoročno-dugoročnih neutrživih rizika čije je trajanje dulje od 2 godine.  
+Stavak 2. briše se.
+
+### Članak 6.
+
+U članku 7. stavku 2. alineji 2. riječ: »jamstva« zamjenjuje se riječju: »garancije«.
+
+### Članak 7.
+
+U članku 9. stavku 2. alineji 2. riječi: »jamstvu izdanom« zamjenjuju se riječima: »garanciji izdanoj«.
+
+### Članak 8.
+
+U članku 12. stavcima 1., 2. i 3. riječ: »osiguranja« briše se.
+
+### Članak 9.
+
+Članak 15. mijenja se i glasi:
+
+»Članak 15.
+
+Ako su dužnikove obveze prema nositelju police osigurane garancijom ili drugim instrumentom osiguranja, nositelj police mora poduzeti sve mjere propisane policom kako bi utvrdio valjanost i naplativost garancije i/ili drugog instrumenta osiguranja te kako bi se po istima i naplatio.«.
+
+### Članak 10.
+
+U članku 19. iza stavka 2. dodaje se stavak 3. koji glasi:  
+»(3) Ako je osigurana svota uključena u bilateralni međuvladin sporazum o restrukturiranju duga, osiguratelj se po stupanju na snagu bilateralnog sporazuma može odreći jednomjesečnog roka utvrđenog u članku 17. ove Uredbe.«.
+
+### Članak 11.
+
+U članku 20. stavku 1. riječ: »osiguranja« briše se.
+
+### Članak 12.
+
+U članku 23. stavku 5. riječ: »jamstvo« zamjenjuje se riječju: »garancija«, a riječi: »bankarsko jamstvo« zamjenjuju se riječima: »bankarska garancija«.
+
+### Članak 13.
+
+U članku 24. stavak 1. mijenja se i glasi:  
+»(1) Kada izvozni ugovor predstavlja zajednički posao izvoznika i strane osobe, osiguratelj može, pod uvjetima iz ove Uredbe:  
+– posao suosigurati s institucijama ili javnim službama država članica Europske unije ili trećih zemalja (u daljnjem tekstu: izvozno-  
+-kreditnim agencijama),  
+– osigurati cijeli posao pod uvjetom reosiguranja udjela koji se odnosi na stranu osobu, ili  
+– reosigurati tražbinu izvoznika u dijelu koji se, sukladno ovoj Uredbi, smatra izvozom, ali samo ako se cijeli takav zajednički posao može osigurati ili ga je osigurala druga izvozno-kreditna agencija.«.  
+U stavku 3. riječi: »drugoj državi članici Europske unije« zamjenjuju se riječima: »izvan nje«.
+
+### Članak 14.
+
+U članku 25. u uvodnoj rečenici riječi: »država članica Europske unije« brišu se.  
+U alineji prvoj iza riječi: »jedne ili više država članica Europske unije« dodaju se riječi: »ili trećih zemalja«.
+
+### Članak 15.
+
+Članak 29. mijenja se i glasi:
+
+*»Članak 29.*
+
+Osiguratelj se može dodatno sporazumjeti s drugim izvozno-kreditnim agencijama o osiguranju pojedinog kredita kupcu za cijelu vrijednost ugovora, uz odgovarajuću primjenu članaka 25. do 28. ove Uredbe.«.
+
+### Članak 16.
+
+U članku 31. stavku 3. iza alineje 2. briše se točka i dodaju se alineje 3. i 4. koje glase:  
+»– prihoda ostvarenih plasiranjem slobodnih sredstava za obavljanje poslova osiguranja izvoza te  
+– drugih prihoda.«.
+
+### Članak 17.
+
+U članku 33. iza riječi: »dužan« dodaju se riječi: »Povjerenstvu za osiguranje izvoza,«.
+
+### Članak 18.
+
+Iza članka 37. dodaje se poglavlje IV.a, članak 37.a i naslov iznad njega koji glase:
+
+»IV.a PRIMJENA ODREDBI  
+Primjena odredbi na kredit dobavljača, kredit kupcu,  
+izvozne garancije i druge vrste rizika  
+Članak 37a.
+
+(1) Člancima 5., 7. – 23. i 34. – 37. ove Uredbe, uređuju se uvjeti pod kojima se osiguravaju krediti dobavljača i krediti kupcu odobreni radi realizacije izvoza roba i usluga hrvatskog porijekla uz trajanje rizika od 2 ili više godina uključujući i razdoblje proizvodnje i razdoblje otplate.  
+(2) Odredbe članaka 5., 7. – 23. i 34. – 37. ove Uredbe ne primjenjuju se na osiguranje ponudbenih i avansnih garancija, garancija za dobro izvršenje posla, garancija za zadržana plaćanja, kao niti na osiguranje rizika vezanih uz građevinsku opremu i materijal, kada se koriste u zemlji kupca radi izvršenja izvoznog ugovora te na osiguranje ulaganja u inozemstvu.«.
+
+### Članak 19.
+
+Naslov iznad članka 38. mijenja se i glasi: »Postupci s važećim ugovorima i ranijim odlukama nadležnih tijela«.  
+U članku 38. iza riječi: »sklopio« dodaju se riječi: »i odluke o osiguranju izvoza donesene«.
+
+### Članak 20.
+
+Do osnivanja i početka rada Povjerenstva za osiguranje izvoza iz članka 2a. ove Uredbe, poslove Povjerenstva privremeno obavlja Hrvatska banka za obnovu i razvitak.
+
+### Članak 21.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 331-02/08-01/07  
+Urbroj: 5030120-08-1  
+Zagreb, 31. srpnja 2008.
+
+Potpredsjednica  
+Vlade i ministrica obitelji, branitelja  
+i međugeneracijske solidarnosti  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o osiguranju izvoza (NN 79/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/79/2261*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 10. stavka 6. Zakona o Hrvatskoj banci za obnovu i razvitak (»Narodne novine«, broj 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 17. lipnja 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O OSIGURANJU IZVOZA**
+
+#### Članak 1.
+
+U Uredbi o osiguranju izvoza (»Narodne novine«, br. 61/2007 i 92/2008) u članku 1. u stavku 1. iza riječi: »osiguravaju« dodaju se riječi: »i reosiguravaju«, a riječi: »hrvatskog podrijetla« zamjenjuju se riječima: »od interesa za hrvatsko gospodarstvo«.
+
+#### Članak 2.
+
+U članku 2. iza definicije pojma: »Izvoz« dodaje se pojam: »Izvoz od interesa za hrvatsko gospodarstvo« koji glasi:
+
+»Izvoz od interesa za hrvatsko gospodarstvo je svaki izvozni posao podoban za osiguranje u skladu s ovom Uredbom, a koji svojim mišljenjem određuje Povjerenstvo za osiguranje izvoza;«.
+
+Pojam: »Najmanji domaći udio« mijenja se i glasi:
+
+»Najmanji domaći udio je najmanji postotak vrijednosti hrvatskog udjela u izvozu, podoban za osiguranje, odnosno reosiguranje u skladu s ovom Uredbom. U pravilu iznosi 40%, ali se izvozom hrvatskih roba i/ili usluga smatraju i slučajevi kada zbog postojanja interesa za hrvatsko gospodarstvo, Povjerenstvo za osiguranje izvoza svojim mišljenjem odredi i drugačiji postotak;«.
+
+U nazivu pojma »Osiguratelj« dodaju se riječi: »ili reosiguratelj«.
+
+Iza pojma: »Ugovor o osiguranju« dodaje se pojam: »Ugovor o reosiguranju« koji glasi:
+
+»Ugovor o reosiguranju je pisana isprava kojom HBOR uzima u pokriće tražbine od drugog osiguratelja ili daje u pokriće osigurane tražbine drugim osigurateljima. Na ugovor o reosiguranju primjenjuju se odredbe ove Uredbe koje se odnose i na ugovor o osiguranju;«.
+
+#### Članak 3.
+
+U članku 2a. u stavku 2. riječ: »police« briše se i dodaju se riječi: »ugovore o reosiguranju,«, a iza riječi: »izvoza« dodaju se riječi: »i uvjete reosiguranja izvoza«.
+
+#### Članak 4.
+
+U članku 4. u stavku 1. iza riječi: »osiguranje« dodaju se riječi: »i reosiguranje«, a riječ: »dulje« zamjenjuje se riječima: »2 i duže«.
+
+#### Članak 5.
+
+Naslov iznad članka 6. i članak 6. mijenjaju se i glase:
+
+### »Domaći udio
+
+#### Članak 6.
+
+Ugovorom o osiguranju, odnosno ugovorom o reosiguranju, u smislu ove Uredbe, ne mogu se osiguravati tražbine po osnovi izvoza koji nema najmanji domaći udio ili izvoza koji nije od interesa za hrvatsko gospodarstvo.«.
+
+#### Članak 6.
+
+U članku 17. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) U slučaju pokrića rizika temeljem ugovora o reosiguranju, HBOR će isplatiti odštetu sukladno odredbama ugovora o reosiguranju.«.
+
+#### Članak 7.
+
+U članku 18. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Sporovi u vezi odštetnog zahtjeva sukladno ugovoru o reosiguranju, rješavaju se pred sudom ili arbitražom, ovisno o tome čija je nadležnost ugovorena ugovorom o reosiguranju.«.
+
+#### Članak 8.
+
+U članku 24. u stavku 3. iza riječi: »reosigurati« dodaju se riječi »(dati u pokriće)«, a iza riječi: »rizike kod« dodaju se riječi: »drugog osiguratelja odnosno«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) HBOR može uzeti u pokriće, sukladno ugovoru o reosiguranju, rizike od drugih osiguratelja sa sjedištem u Republici Hrvatskoj, ako se radi o rizicima koje bi inače uzeo u pokriće kao osiguratelj sukladno ovoj Uredbi.«.
+
+#### Članak 9.
+
+U članku 37a. u stavku 1. riječi: »hrvatskog porijekla« zamjenjuju se riječima: »od interesa za hrvatskog gospodarstvo,«.
+
+#### Članak 10.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 331-02/10-01/02
+
+Urbroj: 5030120-10-1
+
+Zagreb, 17. lipnja 2010.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.

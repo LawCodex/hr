@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2007-07-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2011-04-29
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 76/07"
+narodne_novine: "173/03, 76/07, 30/09, 49/11"
 amendments:
   - "NN 76/2007 (2412) Zakon o izmjenama i dopunama Zakona o zaštiti topografija poluvodičkih proizvoda"
+  - "NN 30/2009 (656) Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda"
+  - "NN 49/2011 (1102) Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2497"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2497).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 30/2009, NN 49/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -460,3 +462,116 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda (NN 30/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/656*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI TOPOGRAFIJA POLUVODIČKIH PROIZVODA
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda, koji je Hrvatski sabor donio na sjednici 20. veljače 2009. godine.
+
+Klasa: 011-01/09-01/20  
+Urbroj: 71-05-03/1-09-2  
+Zagreb, 27. veljače 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI TOPOGRAFIJA POLUVODIČKIH PROIZVODA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti topografija poluvodičkih proizvoda (»Narodne novine«, br. 173/03. i 76/07.) u članku 14. stavku 1. točki b) riječi: »uvoz, prodaju ili druge načine stavljanja u promet« zamjenjuju se riječima: »komercijalno iskorištavanje ili uvoz za te svrhe«.
+
+#### Članak 2.
+
+Članak 17. mijenja se i glasi:
+
+»Isključiva prava na davanje odobrenja ili zabranu radnji iz članka 14. stavka 1. točke b) ovoga Zakona iscrpljuju se za područje Republike Hrvatske nakon što je zaštićenu topografiju ili poluvodički proizvod koji je proizveden korištenjem zaštićene topografije stavila u promet na području Republike Hrvatske, odnosno nakon pristupanja Republike Hrvatske Europskoj uniji na području neke od država Europske unije, odnosno država koje su stranke ugovornice Ugovora o Europskom ekonomskom prostoru, osoba koja je ovlaštena odobriti komercijalno iskorištavanje topografije ili netko drugi uz njezinu suglasnost.«
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 381-01/09-01/01  
+Zagreb, 20. veljače 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda (NN 49/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1102*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI TOPOGRAFIJA POLUVODIČKIH PROIZVODA
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda, koji je Hrvatski sabor donio na sjednici 15. travnja 2011. godine.
+
+Klasa: 011-01/11-01/68
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. travnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI TOPOGRAFIJA POLUVODIČKIH PROIZVODA**
+
+### Članak 1.
+
+U Zakonu o zaštiti topografija poluvodičkih proizvoda (»Narodne novine«, br. 173/03. i 76/07.) u članku 6. stavku 2. riječi: »upravnih akata« zamjenjuju se riječju: »rješenja«.
+
+Stavak 3. briše se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »upravnih akata« zamjenjuju se riječju: »rješenja«.
+
+### Članak 2.
+
+U članku 9. stavku 2. riječi: »pozvati podnositelja« zamjenjuju se riječima: »zaključkom naložiti podnositelju«.
+
+U stavku 4. riječ: »zaključkom« zamjenjuje se riječju: »rješenjem«.
+
+### Članak 3.
+
+U članku 12. stavku 1. druga rečenica briše se.
+
+U stavku 2. druga rečenica briše se.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 381-01/11-01/01
+
+Zagreb, 15. travnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

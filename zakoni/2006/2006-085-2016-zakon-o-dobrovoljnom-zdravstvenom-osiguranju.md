@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-26
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "85/06"
-amendments: []
+last_amended: 2010-06-10
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "85/06, 150/08, 71/10"
+amendments:
+  - "NN 150/2008 (4099) Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju"
+  - "NN 71/2010 (2140) Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2016"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o dobrovoljnom zdravstvenom osiguranju
 
 > Izvor: Narodne novine, NN 85/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2016).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 150/2008, NN 71/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -252,3 +257,269 @@ Klasa: 500-01/06-01/01
 Zagreb, 13. srpnja 2006.
 
 *HRVATSKI SABOR Predsjednik Hrvatskoga sabora Vladimir Šeks, v. r*
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju (NN 150/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/150/4099*
+
+HRVATSKI SABOR
+
+Na temelju č/anka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2008. godine.
+
+Klasa: 011-01/08-01/178
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 18. prosinca 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, br. 85/06.) članak 5. mijenja se i glasi:
+
+"Dopunsko zdravstveno osiguranje jest osiguranje kojim se osigurava pokriće troškova zdravstvene zaštite iz obveznoga zdravstvenog osiguranja iz članka 16. stavka 3. i 4. i članka 17. stavka 5. Zakona o obveznom zdravstvenom osiguranju.«
+
+### Članak 2.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»Iznimno od odredbi članka 8. i 9. ovoga Zakona, dopunsko zdravstveno osiguranje za pokriće troškova zdravstvene zaštite iz obveznoga zdravstvenog osiguranja iz članka 16. stavka 3. i 4. i članka 17. stavka 5. Zakona o obveznom zdravstvenom osiguranju provodi i Hrvatski zavod za zdravstveno osiguranje (u daljnjem tekstu: Zavod).«
+
+### Članak 3.
+
+U članku 14. stavku 1. riječi: »Osiguravatelj, odnosno Zavod« zamjenjuju se riječju: »Osiguravatelj«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Zavod općim aktom određuje cijenu premije za dopunsko zdravstveno osiguranje s obzirom na opsege pokrića iz ugovora o dopunskom zdravstvenom osiguranju, prihodovnog cenzusa osiguranika i statusa osiguranika u obveznom zdravstvenom osiguranju.«
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 4.
+
+Iza članka 14. dodaju se članci 14.a, 14.b, 14.c, 14.d, 14.e, 14.f i 14.g koji glase:
+
+»Članak 14.a
+
+Sredstva za premiju dopunskoga zdravstvenog osiguranja koje provodi Zavod osiguravaju se u državnom proračunu za osiguranike:
+
+1. osigurane osobe iz članka 6. točke 12. – 20., točke 25., 26., članka 9. stavka 3., članka 13. i 59. Zakona o obveznom zdravstvenom osiguranju te za osigurane osobe kojima je priznat status hrvatskoga ratnoga vojnog invalida prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, kao i za osigurane osobe kojima je priznato svojstvo ratnoga vojnog invalida, mirnodopskoga vojnog invalida i civilnog invalida rata prema Zakonu o zaštiti vojnih i civilnih invalida rata osigurava Republika Hrvatska,
+
+2. osigurane osobe s invaliditetom i druge osobe kojima se priznaje pravo na pomoć i njegu u obavljanju većine ili svih životnih funkcija prema posebnim propisima, kojima je priznato pravo na osobnu invalidninu prema posebnim propisima, koje imaju najmanje 80% tjelesnog oštećenja prema propisima o mirovinskom osiguranju ili prema drugim posebnim propisima, te ostale osobe s invaliditetom s tjelesnim ili intelektualnim oštećenjem,
+
+3. osigurane osobe dobrovoljne davatelje krvi s više od 35 davanja (muškarci), odnosno s više od 25 davanja (žene),
+
+4. osigurane osobe redovite učenike i studente starije od 18 godine,
+
+5. osigurane osobe – hrvatske branitelje iz Domovinskog rata s utvrđenim oštećenjem organizma od najmanje 30%,
+
+6. osigurane osobe čiji prihod po članu obitelji u prethodnoj kalendarskoj godini ne prelazi iznos utvrđen člankom 14.b ovoga Zakona.
+
+### Članak 14.b
+
+Osigurane osobe iz članka 14.a točke 6. ovoga Zakona ostvaruju pravo na plaćanje premije dopunskoga zdravstvenog osiguranja iz sredstava državnog proračuna ako im ukupan prihod u prethodnoj kalendarskoj godini, iskazan po članu obitelji, mjesečno nije veći od 45,59% proračunske osnovice (prihodovni cenzus).
+
+Iznimno od stavka 1. ovoga članka, osiguranik – umirovljenik samac ima pravo na plaćanje premije sukladno stavku 1. ovoga članka ako njegov prihod u prethodnoj kalendarskoj godini nije veći od 58,31% proračunske osnovice.
+
+### Članak 14.c
+
+Pod prihodom iz članka 14.b ovoga Zakona smatraju se svi primici koje obitelj ostvari na ime dohotka od nesamostalnog rada, dohotka ili dobiti od samostalne djelatnosti, primitaka od kojih se utvrđuje drugi dohodak, imovine i imovinskih prava, kapitala, osiguranja te svi drugi primici ostvareni prema posebnim propisima.
+
+### Članak 14.d
+
+Pod dohotkom u smislu ovoga Zakona smatra se:
+
+– plaća i drugi oporezivi primici za rad ostvareni od poslodavca (tuzemnog ili inozemnog) umanjena za izdatke prema propisima o porezu na dohodak,
+
+– mirovina od tuzemnog ili inozemnog isplatitelja,
+
+– dohodak od samostalne djelatnosti obrta, slobodnog zanimanja ili poljoprivrede i šumarstva prije svih umanjenja dohotka i bez umanjenja dohotka za gubitak iz ranijih godina,
+
+– dobit ostvarena od samostalne djelatnosti obrta, slobodnog zanimanja ili poljoprivrede i šumarstva prije svih umanjenja dobiti i bez umanjenja dobiti za gubitak iz ranijih godina,
+
+– dohodak s osnove primitaka od kojih se utvrđuje drugi dohodak,
+
+– dohodak od imovine i imovinskih prava,
+
+– dohodak od iznajmljivanja soba i postelja turistima od kojega se plaća porez na dohodak u paušalnom iznosu,
+
+– dohodak od dividenda i udjela u dobiti,
+
+– dohodak od osiguranja te
+
+– dohodak od povrata doprinosa plaćenih na dio osnovice koji prelazi iznos najviše godišnje osnovice za obračun doprinosa.
+
+### Članak 14.e
+
+U prihod iz članka 14.c ovoga Zakona uračunava se: naknada za vrijeme privremene spriječenosti za rad (bolovanje), novčana potpora sukladno Zakonu o rodiljnim i roditeljskim potporama osim jednokratne novčane potpore za novorođeno dijete, novčana naknada za slučaj nezaposlenosti, stalna pomoć, pomoć za podmirenje troškova stanovanja, doplatak za pomoć i njegu, osobna invalidnina, naknada do zaposlenja, doplatak za djecu, ortopedski doplatak, opskrbnina i obiteljska invalidnina ostvareni prema posebnim propisima.
+
+Prihod iz članka 14.c ovoga Zakona umanjuje se za iznos koji na temelju propisa o obitelji član obitelji plaća za uzdržavanje osobe koja nije član te obitelji.
+
+### Članak 14.f
+
+Pod obitelji u smislu članka 14.b stavka 1. ovoga Zakona smatraju se bračni i izvanbračni drug te ostali članovi obitelji iz članka 8. Zakona obveznom zdravstvenom osiguranju koji žive u zajedničkom kućanstvu, neovisno o tome jesu li zdravstveno osigurani kao članovi obitelji, jesu li sposobni za samostalan život i rad i imaju li sredstva za uzdržavanje.
+
+### Članak 14.g
+
+Postupak utvrđivanja prava na plaćanje premije dopunskoga zdravstvenog osiguranja iz državnog proračuna iz članka 14.b ovoga Zakona provodi se sukladno općem aktu Zavoda.«
+
+### Članak 5.
+
+Članak 15. mijenja se i glasi:
+
+»Pokriće troškova sudjelovanja zdravstvene zaštite iz obveznoga zdravstvenog osiguranja sukladno Zakonu o obveznom zdravstvenom osiguranju ugovorni subjekt Zavoda naplaćuje od osiguravatelja, odnosno Zavoda.«
+
+### Članak 6.
+
+U članku 35. stavku 1. točki 4. riječi: »članka 14. stavka 2.« zamjenjuju se riječima: »članka 14. stavka 3.«
+
+### Članak 7.
+
+U članku 36. dodaje se stavak 2. koji glasi:
+
+»Iznimno od odredbe stavka 1. ovoga članka pravilnik iz članka 16. ovoga Zakona ministar će donijeti najkasnije do 1. travnja 2009.«
+
+### Članak 8.
+
+Do dana stupanja na snagu propisa iz članka 36. stavka 2. i članka 37. ovoga Zakona primjenjivat će se:
+
+1. Pravilnik o uvjetima i načinu provođenja dopunskoga zdravstvenog osiguranja (»Narodne novine«, br. 112/06. i 131/06.) i
+
+2. Pravila uspostavljanja i provođenja dopunskoga zdravstvenog osiguranja (»Narodne novine«, br. 120/06., 31/07., 80/07. i 64/08.).
+
+### Članak 9.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o uvjetima i načinu provođenja privatnoga zdravstvenog osiguranja (»Narodne novine«, br. 36/94.).
+
+### Članak 10.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2009., osim dodanog članka 14.a iz članka 4. ovoga Zakona, koji stupa na snagu 1. travnja 2009.
+
+Klasa: 500-01/08-01/11
+
+Zagreb, 15. prosinca 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju (NN 71/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/71/2140*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 28. svibnja 2010. godine.
+
+Klasa: 011-01/10-01/48
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 2. lipnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, br. 85/06. i 150/08.) iza članka 10. dodaje se članak 10.a koji glasi:
+
+»Članak 10.a
+
+Iznimno od odredbi članka 8. i 9. ovoga Zakona dodatno zdravstveno osiguranje provodi i Zavod.
+
+Zavod vodi sredstva dodatnoga zdravstvenog osiguranja odvojeno od sredstava obveznoga zdravstvenog osiguranja i sredstava dopunskoga zdravstvenog osiguranja.«
+
+### Članak 2.
+
+Članak 14.a mijenja se i glasi:
+
+»Sredstva za premiju dopunskoga zdravstvenog osiguranja koje provodi Zavod osiguravaju se u državnom proračunu za osiguranike:
+
+1. osigurane osobe s invaliditetom koje imaju 100% oštećenja organizma, odnosno tjelesnog oštećenja prema posebnim propisima, osobe kod kojih je utvrđeno više vrsta oštećenja te osobe s tjelesnim ili mentalnim oštećenjem ili psihičkom bolešću zbog kojih ne mogu samostalno izvoditi aktivnosti primjerene životnoj dobi sukladno propisima o socijalnoj skrbi,
+
+2. osigurane osobe darivatelje dijelova ljudskog tijela u svrhu liječenja,
+
+3. osigurane osobe dobrovoljne davatelje krvi s više od 35 davanja (muškarci), odnosno s više od 25 davanja (žene),
+
+4. osigurane osobe redovite učenike i studente starije od 18 godina,
+
+5. osigurane osobe čiji prihod po članu obitelji u prethodnoj kalendarskoj godini ne prelazi iznos utvrđen člankom 14.b ovoga Zakona.«
+
+### Članak 3.
+
+U članku 14.b stavku 1. riječi: »točke 6.« zamjenjuju se riječima: »točke 5.«
+
+U stavku 2. riječi: »osiguranik – umirovljenik« zamjenjuju se riječju: »osiguranik«.
+
+### Članak 4.
+
+U članku 17. riječ: »osiguravatelja.« zamjenjuje se riječima: »osiguravatelja, odnosno Zavoda.«
+
+### Članak 5.
+
+U članku 20. stavku 1. riječ: »Osiguravatelj« zamjenjuje se riječima: »Osiguravatelj, odnosno Zavod«.
+
+U stavku 2. riječi: »Osiguravatelj dodatnoga zdravstvenog osiguranja« zamjenjuju se riječima: »Osiguravatelj dodatnoga zdravstvenog osiguranja, odnosno Zavod«.
+
+### Članak 6.
+
+U članku 24. riječ: »Osiguravatelj« zamjenjuje se riječima: »Osiguravatelj, odnosno Zavod«.
+
+### Članak 7.
+
+U članku 25. dodaje se stavak 2. koji glasi:
+
+»Pravila provođenja dodatnoga zdravstvenog osiguranja koje provodi Zavod, sukladno pravilniku iz stavka 1. ovoga članka, donosi Upravno vijeće Zavoda.«
+
+### Članak 8.
+
+Pravila provođenja dodatnoga zdravstvenoga osiguranja Upravno vijeće Zavoda će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 9.
+
+Ugovori o dopunskom zdravstvenom osiguranju koje je Zavod sklopio na temelju članka 14.a Zakona izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, br. 150 /08.) do dana stupanja na snagu ovoga Zakona, važe do isteka roka na koji su sklopljeni.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 500-01/10-01/02
+
+Zagreb, 28. svibnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

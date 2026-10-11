@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-09
-last_amended: 2000-10-20
+last_amended: 2009-06-17
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "105/97, 104/00"
+narodne_novine: "105/97, 104/00, 69/09"
 amendments:
   - "NN 104/2000 (2040) Zakon o izmjenama i dopunama Zakona o knjižnicama"
+  - "NN 69/2009 (1665) Zakon o izmjenama i dopunama Zakona o knjižnicama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1616"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 105/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1616).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/2000, NN 69/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -685,3 +686,108 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o knjižnicama (NN 69/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/69/1665*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KNJIŽNICAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o knji-  
+žnicama, kojega je Hrvatski sabor donio na sjednici 5. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/86
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 9. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KNJIŽNICAMA**
+
+### Članak 1.
+
+U Zakonu o knjižnicama (»Narodne novine«, br. 105/97., 5/98. i 104/00.) u članku 5. stavak 2. mijenja se i glasi:
+
+»Samostalne knjižnice mogu osnovati i druge domaće i strane pravne i fizičke osobe.«
+
+### Članak 2.
+
+U članku 18. stavak 4. mijenja se i glasi:
+
+»Za glavnog ravnatelja može se imenovati osoba koja ima završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, kao i osoba koja je stekla visoku stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 198/03., 105/04., 174/04. i 46/07.) i koja je objavila istaknute stručne ili znanstvene radove. Za ravnatelja razdjela može se imenovati osoba koja ima završen diplomski sveučilišni studij ili integrirani preddiplomski sveučilišni studij ili specijalistički diplomski stručni studij, kao i osoba koja je stekla visoku stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju i najmanje pet godina rada u knjižničarskoj struci.«
+
+### Članak 3.
+
+U članku 27. stavci 2. i 3. mijenjaju se i glase:
+
+»Ravnateljem samostalne knjižnice može biti imenovana osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij knjižničarskog usmjerenja, kao i osoba koja je stekla visoku stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju i najmanje pet godina rada u knjižničarskoj struci.
+
+Iznimno od odredbe stavka 2. ovoga članka, za ravnatelja samostalne knjižnice može se imenovati osoba koja ima završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine, kao i osoba koja je stekla višu stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju i deset godina rada u kulturi ako se na ponovljeni natječaj ne javi osoba koja ima uvjete iz stavka 2. ovoga članka.«
+
+### Članak 4.
+
+U članku 32. stavku 2. podstavak 8. mijenja se i glasi:
+
+»– predlaže dodjeljivanje odgovarajućih stručnih knjižničarskih zvanja prema pravilniku iz članka 34. stavka 2. ovoga Zakona na prijedlog stručnog povjerenstva koje u tu svrhu imenuje.«
+
+### Članak 5.
+
+Naziv poglavlja VIII. mijenja se i glasi: »VIII. KNJIŽNIČARSKO OSOBLJE«.
+
+### Članak 6.
+
+Članak 34. mijenja se i glasi:
+
+»Stručne poslove u knjižnicama, samostalnima i u sastavu, obavljaju pomoćni knjižničari, knjižničari, diplomirani knjižničari, viši knjižničari i knjižničarski savjetnici
+
+Uvjete i način stjecanja stručnih zvanja iz stavka 1. ovoga članka propisat će pravilnikom ministar kulture na prijedlog Hrvatskoga knjižničnog vijeća.«
+
+### Članak 7.
+
+Članci 35. i 36. brišu se.
+
+*Prijelazne i završne odredbe*
+
+### Članak 8.
+
+Osobe koje na dan stupanja na snagu ovoga Zakona obavljaju stručne poslove u knjižnicama, samostalnima i u sastavu, nastavljaju s radom u svojim stručnim zvanjima stečenima prema odredbama zakona i drugih propisa koji su bili na snazi do donošenja ovoga Zakona.
+
+### Članak 9.
+
+Osobe koje se zapošljavaju na stručnim poslovima u knjižnicama, samostalnima i u sastavu, do donošenja pravilnika iz članka 6. ovoga Zakona trebaju ispunjavati uvjete propisane člancima 34. do 36. Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98. i 104/00.).
+
+### Članak 10.
+
+Ravnatelji i osobe koje su stekle visoku, odnosno višu stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju, imaju sva prava iz Zakona o knjižnicama kao i osobe koje su završile odgovarajuću razinu obrazovanja prema Zakonu o znanstvenoj djelatnosti i visokom obrazovanju.
+
+### Članak 11.
+
+Hrvatsko knjižnično vijeće će u roku od godine dana od dana stupanja na snagu ovoga Zakona predložiti ministru kulture donošenje pravilnika iz članka 6. stavka 2. ovoga Zakona.
+
+### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 1. ovoga Zakona koji stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 612-04/09-01/01
+
+Zagreb, 5. lipnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Luka Bebić, v. r.

@@ -6,14 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-21
-last_amended: 2005-04-13
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2015-07-24
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "77/99, 133/02, 48/05"
+narodne_novine: "77/99, 133/02, 48/05, 74/09, 154/14, 82/15"
 amendments:
   - "NN 133/2002 (2139) Zakon o izmjeni Zakona o putnim ispravama hrvatskih državljana"
   - "NN 48/2005 (935) Zakon o izmjenama Zakona o putnim ispravama hrvatskih državljana"
+  - "NN 74/2009 (1765) Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana"
+  - "NN 154/2014 (2905) Uredba o dopuni Zakona o putnim ispravama hrvatskih državljana"
+  - "NN 82/2015 (1578) Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 77/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 133/2002, NN 48/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 133/2002, NN 48/2005, NN 74/2009, NN 154/2014, NN 82/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -749,3 +752,664 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana (NN 74/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/74/1765*
+
+HRVATSKI SABOR
+
+Na temelju članka 68. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana, kojega je Hrvatski sabor donio na sjednici 19. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/90
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 23. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02. i 48/05.) u članku 4. riječi: »zajednička putovnica,« brišu se.
+
+### Članak 2.
+
+Članak 5. mijenja se i glasi:
+
+»Putovnica je javna isprava s elektroničkim nosačem podataka koja se izdaje za neograničen broj putovanja u inozemstvo.«
+
+### Članak 3.
+
+Članak 7. briše se.
+
+### Članak 4.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»Diplomatska i službena putovnica su javne isprave s elektroničkim nosačem podataka koje se izdaju državnim dužnosnicima, državnim službenicima i drugim osobama radi efikasnijeg obavljanja državnih poslova i osiguranja njihove zaštite u drugoj državi prilikom obavljanja službenih poslova, u skladu s međunarodnim ugovorima.«
+
+### Članak 5.
+
+Iza članka 9. dodaju se članci 9.a, 9.b, 9.c, 9.d, 9.e, 9.f, 9.g, 9.h, 9.i, 9.j i 9.k koji glase:
+
+»Članak 9.a
+
+Diplomatska putovnica izdaje se predsjedniku Republike Hrvatske i članovima njegove uže obitelji neovisno o svrsi putovanja.
+
+### Članak 9.b
+
+Diplomatska putovnica izdaje se sljedećim dužnosnicima Republike Hrvatske i članovima njihove uže obitelji, neovisno o svrsi putovanja:
+
+1. predsjedniku i potpredsjednicima Hrvatskoga sabora,
+
+2. predsjedniku Vlade Republike Hrvatske, potpredsjednicima Vlade i ministrima,
+
+3. predstojniku Ureda predsjednika Republike Hrvatske.
+
+### Članak 9.c
+
+Diplomatska putovnica može se izdati sljedećim dužnosnicima Republike Hrvatske i drugim osobama samo za potrebe službenog putovanja u inozemstvo:
+
+1. predstojniku Ureda Vijeća za nacionalnu sigurnost,
+
+2. načelniku Glavnog stožera Oružanih snaga Republike Hrvatske,
+
+3. predsjedniku Ustavnog suda Republike Hrvatske,
+
+4. predsjedniku Vrhovnog suda Republike Hrvatske,
+
+5. guverneru Hrvatske narodne banke,
+
+6. glavnom državnom revizoru,
+
+7. ravnatelju Sigurnosne obavještajne agencije,
+
+8. glavnom državnom odvjetniku Republike Hrvatske,
+
+9. zastupnicima u Hrvatskom saboru,
+
+10. sucima Ustavnog suda Republike Hrvatske,
+
+11. predsjedniku Upravnog suda Republike Hrvatske,
+
+12. dužnosnicima u Uredu predsjednika Republike i Protokolu Predsjednika koje imenuje Predsjednik Republike,
+
+13. pučkom pravobranitelju Republike Hrvatske,
+
+14. državnim tajnicima ministarstava,
+
+15. državnim tajnicima središnjih državnih ureda,
+
+16. tajniku Hrvatskoga sabora,
+
+17. tajniku Vlade Republike Hrvatske,
+
+18. ravnateljima u ministarstvima,
+
+19. tajnicima ministarstava,
+
+20. ravnateljima državnih upravnih organizacija,
+
+21. gradonačelniku Grada Zagreba,
+
+22. predsjedniku Hrvatske gospodarske komore,
+
+23. predsjedniku Hrvatske obrtničke komore.
+
+### Članak 9.d
+
+Diplomatska putovnica može se izdati za službeno putovanje u inozemstvo i:
+
+1. predstojniku Ureda za protokol Hrvatskoga sabora, predstojniku Ureda za protokol Vlade Republike Hrvatske, predstojniku Ureda predsjednika Vlade Republike Hrvatske, savjetnicima predsjednika Vlade Republike Hrvatske,
+
+2. državnim službenicima u Ministarstvu vanjskih poslova i europskih integracija imenovanim na položaje u skladu s propisima o sustavu državne uprave, propisima o državnim službenicima i Zakonom o vanjskim poslovima, odnosno državnim službenicima postavljenim u diplomatska zvanja utvrđena Zakonom o vanjskim poslovima te Pravilnikom o unutarnjem redu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu,
+
+3. djelatnicima diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu koji su postavljeni u diplomatska, odnosno konzularna zvanja utvrđena Zakonom o vanjskim poslovima, te Pravilnikom o unutarnjem redu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu, kao i članovima njihove uže obitelji ako s njima zajedno trajno borave u inozemstvu tijekom obavljanja dužnosti, vojnim predstavnicima, vojnim izaslanicima, drugim vojnodiplomatskim osobama i pomoćnom vojnom osoblju koji se upućuju u diplomatske misije Republike Hrvatske u inozemstvu u skladu s propisima o Oružanim snagama Republike Hrvatske, kao i članovima njihove uže obitelji ako s njima zajedno trajno borave u inozemstvu tijekom obavljanja dužnosti te policijskim časnicima za vezu koji se upućuju u diplomatske misije Republike Hrvatske u inozemstvu u skladu s propisima Ministarstva unutarnjih poslova, kao i članovima njihove uže obitelji ako s njima zajedno trajno borave u inozemstvu tijekom obavljanja dužnosti,
+
+4. osobama koje se po odluci nadležnog državnog tijela Republike Hrvatske upućuju na rad u međunarodne organizacije u svojstvu dužnosnika diplomatskog ranga u tim organizacijama te članovima njihove uže obitelji ako s njima zajedno trajno borave u inozemstvu tijekom obavljanja dužnosti.
+
+### Članak 9.e
+
+Iznimno, uz prethodnu suglasnost predsjednika Republike Hrvatske ili predsjednika Vlade Republike Hrvatske diplomatska putovnica može se izdati za službeno putovanje u inozemstvo i osobama koje nisu navedene u člancima 9.a, 9.b., 9.c i 9.d ovoga Zakona, kada to zahtijevaju interesi nacionalne sigurnosti i obrane Republike Hrvatske.
+
+### Članak 9.f
+
+Službena putovnica može se izdati za službeno putovanje u inozemstvo:
+
+1. državnim službenicima i namještenicima u Ministarstvu vanjskih poslova i europskih integracija koji nisu obuhvaćeni odredbom članka 9.d stavka 1. točke 2. ovoga Zakona,
+
+2. djelatnicima diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu koji nisu obuhvaćeni odredbom članka 9.d stavka 1. točke 3. ovoga Zakona, kao i članovima njihove uže obitelji ako s njima zajedno trajno borave u inozemstvu tijekom obavljanja dužnosti,
+
+3. djelatnicima osobnog osiguranja dužnosnika iz članka 9.a i 9.b ovoga Zakona, na pisani zahtjev ministra unutarnjih poslova,
+
+4. osobama koje se po odluci nadležnog državnog tijela Republike Hrvatske upućuju na rad u međunarodne organizacije, vojne ili policijske mirovne operacije, a da nisu u svojstvu dužnosnika diplomatskog ranga te članovima njihove uže obitelji ako s njima zajedno trajno borave u inozemstvu tijekom obavljanja dužnosti,
+
+5. policijskim službenicima Ministarstva unutarnjih poslova zaduženima za provođenje zadaća izručenja i transfera osuđenih osoba.
+
+### Članak 9.g
+
+Iznimno, uz prethodnu suglasnost ministra vanjskih poslova i europskih integracija i ministra unutarnjih poslova, službena putovnica može se izdati za određeno službeno putovanje u inozemstvo i osobama koje nisu navedene u članku 9.f ovoga Zakona, kada to zahtijevaju interesi nacionalne sigurnosti i obrane Republike Hrvatske.
+
+### Članak 9.h
+
+Dijete koje živi u zajedničkom kućanstvu s roditeljima koji su nositelji prava na diplomatsku putovnicu, sukladno članku 9.b ovoga Zakona, može biti nositelj diplomatske putovnice do završetka redovitog školovanja, a najkasnije do navršene 27. godine života.
+
+Dijete koje živi u zajedničkom kućanstvu s roditeljima koji su nositelji prava na diplomatsku putovnicu, sukladno odredbi članka 9.d stavka 1. točke 3. i 4. ovoga Zakona, može biti nositelj diplomatske putovnice ako s njima zajedno trajno boravi u inozemstvu tijekom obnašanja dužnosti i ako se u inozemstvu redovito školuje, a najduže do navršene 27. godine života.
+
+Dijete koje živi u zajedničkom kućanstvu s roditeljima koji su nositelji prava na službenu putovnicu, sukladno odredbi članka 9.f stavka 1. točke 2. ovoga Zakona, može biti nositelj službene putovnice ako s njima zajedno trajno boravi u inozemstvu tijekom obnašanja dužnosti i ako se u inozemstvu redovito školuje, a najduže do navršene 27. godine života.
+
+Odredbe stavka 2. i 3. ovoga članka ne odnose se na dijete s posebnim potrebama koje živi u zajedničkom kućanstvu s roditeljima koji su nositelji prava na diplomatsku putovnicu ili službenu putovnicu sukladno odredbama članka 9.d stavka 1. točke 3. i 4. i članka 9.f stavka 1. točke 2. i 4. ovoga Zakona.
+
+### Članak 9.i
+
+Pravo na diplomatsku ili službenu putovnicu prestaje kada prestanu postojati uvjeti predviđeni ovim Zakonom na temelju kojih je nositelj ostvario pravo na putovnicu, osim predsjedniku Republike Hrvatske, predsjedniku Hrvatskoga sabora i predsjedniku Vlade Republike Hrvatske.
+
+Članovi uže obitelji gube pravo na diplomatsku ili službenu putovnicu kada to pravo prestane nositelju.
+
+Ukoliko se članovi uže obitelji nositelja prava na diplomatsku ili službenu putovnicu zaposle u inozemstvu ili ako prestanu biti članovi zajedničkog kućanstva, gube pravo na tu putovnicu.
+
+U slučajevima iz stavka 1., 2. i 3. ovoga članka, po prestanku prava na diplomatsku ili službenu putovnicu, nadležno državno tijelo dužno je vratiti izdanu diplomatsku ili službenu putovnicu radi poništenja. Ukoliko povrat diplomatske ili službene putovnice ne bude izvršen u roku od 60 dana od dana kada su prestali postojati uvjeti predviđeni ovim Zakonom na temelju kojih je nositelj ostvario pravo na diplomatsku ili službenu putovnicu, Ministarstvo vanjskih poslova i europskih integracija može takvu diplomatsku ili službenu putovnicu proglasiti nevažećom po službenoj dužnosti, o trošku nadležnog državnog tijela po čijem je zahtjevu diplomatska ili službena putovnica izdana.
+
+### Članak 9.j
+
+Ministarstvo vanjskih poslova i europskih integracija te diplomatske misije i konzularni uredi Republike Hrvatske, na zahtjev nadležnoga državnog tijela, posreduju u pribavljanju odgovarajuće vize stranih država za nositelje diplomatskih i službenih putovnica izdanih u skladu s ovim Zakonom, kada su iste potrebne za službeno putovanje u te države.
+
+### Članak 9.k
+
+Zahtjev za izdavanje diplomatske ili službene putovnice podnosi nadležno tijelo u kojem osobe obnašaju dužnost.
+
+Za osobe iz članka 9.c, 9.d, 9.e, 9.f i 9.g ovoga Zakona, uz zahtjev je potrebno predočiti i odgovarajući dokaz o upućivanju osobe na službeno putovanje u inozemstvo.
+
+Zahtjev iz stavka 1. ovoga članka podnosi se najkasnije sedam dana prije predviđenog putovanja, ne računajući vrijeme potrebno za pribavljanje viza stranih država.«
+
+### Članak 6.
+
+U članku 12. riječi: »27 godina« zamjenjuju se riječima: »21 godine«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»Građaninu koji u razdoblju od 5 godina izgubi dvije ili više putovnica, nova putovnica izdaje se s rokom važenja od godinu dana.
+
+Građaninu kojem se privremeno ne mogu uzeti otisci prstiju u skladu s odredbom članka 37. stavka 2. ovoga Zakona, putovnica se izdaje s rokom važenja od godinu dana.«
+
+### Članak 7.
+
+Članak 13. briše se.
+
+### Članak 8.
+
+Članak 20. mijenja se i glasi:
+
+»Putovnicu izdaje policijska uprava, odnosno policijska postaja Ministarstva unutarnjih poslova (u daljnjem tekstu: nadležno tijelo).
+
+Podnositelj zahtjeva preuzima izrađenu putovnicu kod nadležnog tijela kod kojega je podnio zahtjev za izdavanje putovnice.
+
+U hitnim slučajevima (liječenje, bolest, smrt člana obitelji, neodgodiv službeni put) putovnicu izdaje nadležno tijelo koje odredi ministar unutarnjih poslova.«
+
+### Članak 9.
+
+U članku 23. stavku 1. riječ: »boravi« zamjenjuje se riječima: »ima reguliran boravak«.
+
+U stavku 2. riječi: »nestala putovnica«, zamjenjuju se riječima: »putovnica nestala ili iz drugih razloga ne može služiti svrsi«.
+
+### Članak 10.
+
+U članku 24. iza riječi: »boravi« dodaju se riječi: »ili se zatekao«.
+
+### Članak 11.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»Obrazac putne isprave sadrži: naziv »Republika Hrvatska«, grb Republike Hrvatske, naziv vrste i broj putne isprave te prostor za upis nadležnog tijela koje je putnu ispravu izdalo, oznaku za putnu ispravu s elektroničkim nosačem podataka, datum izdavanja i rok važenja putne isprave.«.
+
+U stavku 2. iza riječi: »te za upis« dodaju se riječi: »osobnoga identifikacijskog broja (OIB) i«.
+
+U stavku 3. iza riječi: »isprave« zarez i riječi: »osim zajedničke putovnice,« brišu se.
+
+U stavku 4. riječi: »puni naziv države, a ukoliko to nije moguće, upisuje se« brišu se.
+
+U stavku 5. iza riječi: »službene putovnice« zarez i riječi: »zajedničke putovnice« brišu se.
+
+U stavku 6. riječi: »ili sliku« brišu se.
+
+Stavak 8. briše se.
+
+Dosadašnji stavak 9. postaje stavak 8.
+
+### Članak 12.
+
+Iza članka 26. dodaje se članak 26.a koji glasi:
+
+»Članak 26.a
+
+Obrazac putne isprave mora sadržavati elektronički nosač podataka (RFID čip) na koji se pohranjuju ime i prezime, državljanstvo, datum rođenja, podatak o spolu, oznaka za vrstu putne isprave, oznaka države, broj putovnice, osobni identifikacijski broj, datum izdavanja i datum isteka valjanosti putovnice, tijelo koje je putovnicu izdalo, fotografija i otisci prstiju.
+
+Podaci na elektroničkom nosaču podataka moraju se kriptološkim postupkom zaštititi od neovlaštenog iščitavanja, izmjene i brisanja.
+
+Putni list i putne isprave koje se izdaju na temelju međunarodnog ugovora ne moraju sadržavati elektronički nosač podataka iz stavka 1. ovoga članka, osim ako međunarodnim ugovorom nije drugačije utvrđeno.
+
+Ministarstvo unutarnjih poslova izdaje digitalne certifikate koji se koriste za digitalno potpisivanje putnih isprava i njima upravlja.«
+
+### Članak 13.
+
+Članak 31. mijenja se i glasi:
+
+»Ovlaštena pravna osoba obavlja tehničku izradu putovnica, diplomatskih i službenih putovnica na jednom mjestu u Republici Hrvatskoj.
+
+Diplomatske misije i konzularni uredi Republike Hrvatske te Ministarstvo vanjskih poslova i europskih integracija putem Ministarstva unutarnjih poslova, radi upisa i elektroničkog unosa u putovnicu, diplomatsku ili službenu putovnicu, a nadležno tijelo izravno radi upisa i elektroničkog unosa u putovnicu, dostavljaju ovlaštenoj pravnoj osobi sve osobne podatke koji se upisuju i elektronički unose u putnu ispravu.
+
+Ovlaštena pravna osoba osobne podatke iz stavka 2. ovoga članka smije rabiti samo u svrhu upisa i elektroničkog unosa u putovnicu, diplomatsku ili službenu putovnicu.
+
+Upis i elektronički unos osobnih podataka u putovnicu, diplomatsku ili službenu putovnicu mora se obavljati u sigurnom okruženju uz poduzimanje tehničkih, kadrovskih i organizacijskih mjera zaštite osobnih podataka koje su potrebne da bi se osobni podaci zaštitili od slučajnog gubitka ili uništenja i od nedopuštenog pristupa, nedopuštene promjene, nedopuštenog objavljivanja i svake druge zlouporabe.
+
+Nakon tehničke izrade putovnice, diplomatske ili službene putovnice ovlaštena pravna osoba mora u roku od 30 dana brisati iz svoje evidencije osobne podatke koje je upisala i elektronički unijela u putovnice.
+
+Nitko ne smije preinačivati, brisati ili na drugi način krivotvoriti osobne podatke koji su upisani i elektronički unijeti u putnu ispravu, kao niti bilješke i oznake koje su u putne isprave naknadno unijele službene osobe.«
+
+### Članak 14.
+
+U članku 33. stavku 1. riječi: »na propisanom obrascu« brišu se.
+
+U stavku 2. iza riječi: »Putovnica« zarez i riječi: »zajednička putovnica« brišu se.
+
+U stavku 4. riječi: »U zahtjevu« zamjenjuju se riječima: »Prilikom podnošenja zahtjeva«.
+
+### Članak 15.
+
+Članak 35. mijenja se i glasi:
+
+»Prilikom podnošenja zahtjeva za izdavanje putne isprave daju se osobni podaci koji se upisuju u tu putnu ispravu.
+
+Građani koji privremeno ili stalno borave u inozemstvu prilikom podnošenja zahtjeva za izdavanje putne isprave moraju dati i podatke o mjestu i državi boravišta, odnosno prebivališta u inozemstvu.
+
+Građanima iz stavka 2. ovoga članka u putnu ispravu se upisuje prebivalište i adresa stanovanja na koju su prijavljeni u Republici Hrvatskoj, a ako nemaju prijavljeno prebivalište u Republici Hrvatskoj u putnu ispravu se upisuje mjesto prebivališta i adresa stanovanja te država prebivališta u inozemstvu.«
+
+### Članak 16.
+
+U članku 36. iza riječi: »putovnice« zarez i riječi: »zajedničke putovnice« brišu se.
+
+### Članak 17.
+
+Članak 37. mijenja se i glasi:
+
+»Prilikom zaprimanja zahtjeva za izdavanje putovnice, diplomatske putovnice i službene putovnice od podnositelja zahtjeva uzima se fotografija koja ga vjerno prikazuje, bez pokrivala za glavu, otisci dva prsta i vlastoručni potpis.
+
+Od podnositelja zahtjeva iz stavka 1. ovoga članka uzimaju se otisci lijevog i desnog kažiprsta, ako podnositelj zahtjeva nema kažiprst ili je vrh kažiprsta ozlijeđen, uzima se otisak srednjeg ili nekog drugog prsta, a ako nema jedne ruke uzima se otisak kažiprsta i srednjeg ili nekog drugog prsta druge ruke. Otisci prstiju se ne uzimaju ako to zbog medicinskih razloga, koji nisu privremeni, nije moguće.
+
+Otisci prstiju i potpis ne uzimaju se od djeteta do navršene dvanaeste godine života.
+
+Iznimno, od podnositelja zahtjeva iz stavka 1. ovoga članka može se uzeti fotografija na kojoj je fotografiran s pokrivalom za glavu, ako pokrivalo nosi radi vjerskih ili medicinskih razloga, pod uvjetom da pokrivalo ne prekriva obraze, bradu i čelo.
+
+Zahtjev za izdavanje putnog lista podnosi se na propisanom obrascu, a uz njega se prilažu dvije fotografije propisane veličine koje vjerno prikazuju podnositelja zahtjeva.
+
+Prilikom podnošenja zahtjeva za izdavanje putovnice i putnog lista prilaže se i putovnica čiji je rok važenja istekao ili koja ne može služiti svojoj namjeni, koja će se poništiti.«
+
+### Članak 18.
+
+U članku 42. stavku 2. riječ: »oduzeti« zamjenjuje se riječju: »poništiti«.
+
+### Članak 19.
+
+U članku 47. stavak 2. mijenja se i glasi:
+
+»Evidencija putnih isprava sadrži:
+
+1. fotografiju,
+
+2. otiske prstiju,
+
+3. prezime,
+
+4. ime,
+
+5. rođeno prezime,
+
+6. spol,
+
+7. mjesto rođenja, a za osobe rođene u inozemstvu i državu rođenja,
+
+8. prebivalište i adresu stanovanja, a za osobe s prebivalištem u inozemstvu i državu prebivališta,
+
+9. MBG,
+
+10. OIB,
+
+11. broj putne isprave,
+
+12. rok važenja,
+
+13. za maloljetne i poslovno nesposobne osobe, ime i prezime zakonskog zastupnika,
+
+14. naziv nadležnog tijela koje je putnu ispravu izdalo,
+
+15. bilješke o zahtjevima nadležnih tijela za zabranu izdavanja putne isprave,
+
+16. podatke o sukorisnicima putne isprave, ukoliko je zakonima određena mogućnost upisa sukorisništva,
+
+17. potpis građanina.«
+
+### Članak 20.
+
+U članku 48. stavku 1. iza riječi: »smije« dodaje se riječ: »osobne«.
+
+U stavku 2. iza riječi: »dat će« dodaje se riječ: »osobne«.
+
+Točke 2. i 3. mijenjaju se i glase:
+
+»2. da su ti podaci državnom tijelu potrebni u svrhu izvršavanja zakonskih obveza,
+
+3. ili da je davanje podataka nužno radi ispunjenja zadataka koji se izvršavaju u javnom interesu.«
+
+### Članak 21.
+
+U članku 52. stavku 1. iza riječi: »kaznit će se« dodaju se riječi: »za prekršaj«.
+
+U točki 1. iza riječi: »ako« dodaje se riječ: »osobne«.
+
+Točke 2., 3. i 4. brišu se.
+
+U dosadašnjoj točki 5. koja postaje točka 2. riječi: »stavak 6.« zamjenjuju se riječima: »stavak 5.«.
+
+### Članak 22.
+
+U članku 53. stavku 1. riječi: »od 4.000,00 do 6.500,00 kuna« zamjenjuju se riječima: »od 5.000,00 do 15.000,00 kuna«, a riječi: »do 30 dana« zamjenjuju se riječima: »do 60 dana«.
+
+Ispred 1. točke dodaje se nova točka 1. koja glasi:
+
+»1. tko preinači, izbriše ili na drugi način krivotvori osobne podatke koji su upisani i elektronički unijeti u putnu ispravu, ili preinači, izbriše ili na drugi način krivotvori bilješke i oznake koje su u putne isprave naknadno unijele službene osobe (članak 31. stavak 6.),«.
+
+Dosadašnje točke 1. i 2. postaju točke 2. i 3.
+
+U stavku 3. riječi: »do 3 godine« zamjenjuju se riječima: »do dvije godine«.
+
+### Članak 23.
+
+U članku 54. stavku 3. riječi: »do 3 godine« zamjenjuju se riječima: »do dvije godine«.
+
+### Članak 24.
+
+U članku 55. stavku 3. riječi: »do 3 godine« zamjenjuju se riječima: »do dvije godine«.
+
+### Članak 25.
+
+U cijelom tekstu Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02. i 48/05.) riječi: »Ministarstvo vanjskih poslova« zamjenjuju se riječima: »Ministarstvo vanjskih poslova i europskih integracija«, a riječi: »ministar vanjskih poslova« zamjenjuju se riječima: »ministar vanjskih poslova i europskih integracija«, u odgovarajućem padežu.
+
+### Članak 26.
+
+Putne isprave izdane prije stupanja na snagu ovoga Zakona važe do isteka roka njihovog važenja.
+
+### Članak 27.
+
+Postupak rješavanja zahtjeva za izdavanje putnih isprava, započet prije stupanja na snagu ovoga Zakona, dovršit će se prema odredbama Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02. i 48/05.).
+
+### Članak 28.
+
+Nadležna tijela, diplomatske misije i konzularni uredi Republike Hrvatske koji s danom stupanja na snagu ovoga Zakona ne budu ispunjavali tehničke uvjete za izdavanje putovnica na temelju odredbi ovoga Zakona, izdavat će putovnice na temelju odredbi Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02. i 48/05.).
+
+Nadležna tijela, diplomatske misije i konzularni uredi Republike Hrvatske izdavat će putovnice iz stavka 1. ovoga članka najduže godinu dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 29.
+
+Stupanjem na snagu ovoga Zakona prestaju važiti odredbe članka 4. do 18. Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske (»Narodne novine«, br. 116/99., 123/99. i 23/09.).
+
+### Članak 30.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 29. lipnja 2009.
+
+Klasa: 216-02/09-01/01
+
+Zagreb, 19. svibnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Uredba o dopuni Zakona o putnim ispravama hrvatskih državljana (NN 154/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/154/2905*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 115/2014), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2014. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99, 133/2002, 48/2005 i 74/2009), u članku 12. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Putne isprave s osnovnom kontrolom pristupa podacima na elektroničkom nosaču podataka (putne isprave 2. generacije) koje će se izdavati nakon 31. prosinca 2014. godine, a do početka izdavanja putnih isprava s dodatnom kontrolom pristupa podacima na elektroničkom nosaču podataka (putne isprave 3. generacije), važit će najduže do 31. prosinca 2024. godine.«.
+
+### Članak 2.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2015. godine.
+
+Klasa: 022-03/14-03/146
+
+Urbroj: 50301-09/09-14-2
+
+Zagreb, 23. prosinca 2014.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana (NN 82/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1578*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana, koji je Hrvatski sabor donio na sjednici 10. srpnja 2015. godine.
+
+Klasa: 011-01/15-01/80
+
+Urbroj: 71-05-03/1-15-2
+
+Zagreb, 15. srpnja 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+#### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02., 48/05., 74/09. i 154/14.) u članku 2. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Iznimno od stavka 2. ovoga članka, građaninu se može izdati i druga putna isprava iste vrste ako mu je ona potrebna radi obavljanja gospodarskih, kulturnih ili sportskih djelatnosti u inozemstvu ili iz drugih opravdanih razloga.«.
+
+#### Članak 2.
+
+Članak 6. briše se.
+
+#### Članak 3.
+
+U članku 12. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Putne isprave s osnovnom kontrolom pristupa podacima na elektroničkom nosaču podataka (putne isprave 2. generacije) koje se izdaju od 1. siječnja 2015., a do početka izdavanja putnih isprava s dodatnom kontrolom pristupa podacima na elektroničkom nosaču podataka (putne isprave 3. generacije), važit će najduže do 31. prosinca 2024.«.
+
+#### Članak 4.
+
+U članku 20. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Ministar unutarnjih poslova pravilnikom će propisati postupak dostave i preuzimanja izrađenih putovnica.«.
+
+Dosadašnji stavci 2. i 3. brišu se.
+
+#### Članak 5.
+
+Članak 23. mijenja se i glasi:
+
+»Građaninu koji boravi u inozemstvu putovnicu može izdati i diplomatska misija ili konzularni ured Republike Hrvatske.
+
+Građanin preuzima izrađenu putovnicu u diplomatskoj misiji ili konzularnom uredu Republike Hrvatske u kojem je podnio zahtjev za izdavanje putovnice.«.
+
+#### Članak 6.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»Obrazac putne isprave sadrži: nazive: »Europska unija« i »Republika Hrvatska«, grb Republike Hrvatske, naziv vrste i broj putne isprave te prostor za upis nadležnog tijela koje je izdalo putnu ispravu, oznaku za putnu ispravu s elektroničkim nosačem podataka, datum izdavanja i rok važenja putne isprave.«.
+
+Stavak 3. mijenja se i glasi:
+
+»Obrazac putne isprave sadrži prostor za upis: prezimena i imena, datuma rođenja, mjesta rođenja, a za osobe rođene u inozemstvu i države rođenja.«.
+
+U stavku 4. riječi: »i prebivališta« brišu se.
+
+#### Članak 7.
+
+U članku 27. stavku 1. iza riječi: »poslova« dodaje se riječ: »pravilnikom«.
+
+U stavku 2. iza riječi: »osobi« dodaju se riječi: »te troškovi uručenja podnositelju zahtjeva«.
+
+#### Članak 8.
+
+Članak 32. briše se.
+
+#### Članak 9.
+
+Članak 34. mijenja se i glasi:
+
+»Za dijete i osobu lišenu poslovne sposobnosti u dijelu koji se odnosi na ishođenje putne isprave, zahtjev za izdavanje putne isprave podnosi zakonski zastupnik.
+
+Zakonski zastupnik djeteta može biti roditelj, skrbnik ili osoba kojoj je odlukom suda povjereno ostvarivanje roditeljske skrbi nad djetetom u cijelosti ili u tom dijelu.
+
+Ako roditelji djeteta zajednički ostvaruju roditeljsku skrb, zahtjev za izdavanje putne isprave podnose osobno oba roditelja.
+
+Iznimno od stavka 3. ovoga članka, zahtjev za izdavanje putne isprave djetetu može podnijeti jedan od roditelja, uz izjavu da će drugi roditelj osobno preuzeti putnu ispravu.
+
+Ako je drugi roditelj iz stavka 4. ovoga članka spriječen osobno preuzeti putnu ispravu, putnu ispravu može preuzeti roditelj koji je podnio zahtjev uz pisanu suglasnost drugog roditelja s potpisom ovjerenim kod javnog bilježnika ili nadležnog tijela, odnosno u konzularnom predstavništvu Republike Hrvatske u inozemstvu ako se ne nalazi na području Republike Hrvatske.
+
+Roditelj koji je spriječen osobno preuzeti putnu ispravu djeteta može dati suglasnost za preuzimanje putne isprave roditelju koji je podnio zahtjev i elektroničkim putem, korištenjem javnog servisa izdavatelja putne isprave za dostavu izjave o suglasnosti ovjerene elektroničkim potpisom.
+
+Zahtjev za izdavanje putne isprave za dijete može samostalno podnijeti jedan od roditelja ako je drugi roditelj umro ili je proglašen umrlim, ako je lišen poslovne sposobnosti u dijelu koji se odnosi na ishođenje putne isprave, ako na temelju sudske odluke samostalno ostvaruje roditeljsku skrb u cijelosti ili u tom dijelu, odnosno ako drugom roditelju miruje ostvarivanje roditeljske skrbi na temelju sudske odluke.
+
+Iznimno od stavaka 3. i 4. ovoga članka, u žurnim slučajevima, kada prijeti opasnost za dijete ili je izdavanje putne isprave u osobitom interesu djeteta, zahtjev za izdavanje putne isprave za dijete može podnijeti i izdanu putnu ispravu može preuzeti isti roditelj, uz pisanu suglasnost centra za socijalnu skrb nadležnog prema mjestu prebivališta odnosno boravišta djeteta, a ako dijete nema prebivalište odnosno boravište u Republici Hrvatskoj, centra za socijalnu skrb nadležnog prema sjedištu tijela kojem je podnesen zahtjev za izdavanje putne isprave.«.
+
+#### Članak 10.
+
+U članku 35. stavci 2. i 3. brišu se.
+
+#### Članak 11.
+
+U članku 42. stavak 4. briše se.
+
+#### Članak 12.
+
+Članak 45. mijenja se i glasi:
+
+»Protiv rješenja o odbijanju zahtjeva za izdavanje putne isprave i rješenja o oduzimanju putne isprave koje je donijelo nadležno tijelo ili diplomatska misija ili konzularni ured Republike Hrvatske u inozemstvu nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 13.
+
+U članku 46. stavci 3., 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 3.
+
+#### Članak 14.
+
+U članku 47. stavku 2. točka 8. briše se.
+
+Dosadašnje točke 9., 10., 11., 12., 13., 14., 15., 16. i 17. postaju točke 8., 9., 10., 11., 12., 13., 14., 15. i 16.
+
+#### Članak 15.
+
+U članku 49. stavku 1. riječi: »propisat će« zamjenjuju se riječima: »pravilnikom će propisati«.
+
+#### Članak 16.
+
+Članak 50. mijenja se i glasi:
+
+»Ministar unutarnjih poslova, uz suglasnost ministra nadležnog za vanjske poslove, pravilnikom će propisati način vođenja evidencije o izdanim putnim ispravama u diplomatskim misijama ili konzularnim uredima Republike Hrvatske u inozemstvu.«.
+
+#### Članak 17.
+
+U članku 51. uvodna rečenica mijenja se i glasi:
+
+»Ministar nadležan za vanjske poslove, uz suglasnost ministra unutarnjih poslova, pravilnikom će propisati:«.
+
+#### Članak 18.
+
+Naziv glave IX. mijenja se i glasi: »IX. PREKRŠAJNE ODREDBE«.
+
+#### Članak 19.
+
+Članak 52. mijenja se i glasi:
+
+»Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj ovlaštena pravna osoba ako u roku od 30 dana nakon tehničke izrade putovnice, diplomatske ili službene putovnice iz svoje evidencije ne obriše osobne podatke građana koje je upisala i elektronički unijela u putovnice (članak 31. stavak 5.).
+
+Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 4.500,00 do 6.500,00 kuna i odgovorna osoba u ovlaštenoj pravnoj osobi.
+
+U slučaju da ovlaštena pravna osoba ponovno počini prekršaj iz stavka 1. ovoga članka, odobrenja iz članka 28. stavka 3. ovoga Zakona će se ukinuti.«.
+
+#### Članak 20.
+
+U članku 53. stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2. i 3. postaju točke 1. i 2.
+
+#### Članak 21.
+
+U članku 55. stavku 1. točka 1. mijenja se i glasi:
+
+»1. tko putne isprave koristi u suprotnosti sa svrhom radi koje mu je izdana druga putna isprava iste vrste (članak 2. stavak 3.),«.
+
+U stavku 2. iza riječi: »stavka 1.« dodaju se riječi: »točke 2.«.
+
+#### Članak 22.
+
+Članak 56. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 23.
+
+Ministar unutarnjih poslova donijet će pravilnik iz članka 4. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 24.
+
+U cijelom tekstu Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02., 48/05. i 74/09.) riječi: »Ministarstvo vanjskih poslova i europskih integracija« zamjenjuju se riječima: »ministarstvo nadležno za vanjske poslove«, a riječi: »ministar vanjskih poslova i europskih integracija« zamjenjuju se riječima: »ministar nadležan za vanjske poslove«, u odgovarajućem padežu.
+
+#### Članak 25.
+
+Stupanjem na snagu ovoga Zakona prestaje važiti Uredba o dopuni Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 154/14.).
+
+#### Članak 26.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 9. stavka 6. ovoga Zakona, koja stupa na snagu 1. studenoga 2015.
+
+Klasa: 022-03/15-01/54
+
+Zagreb, 10. srpnja 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

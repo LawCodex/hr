@@ -6,15 +6,22 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2004-12-10
-last_amended: 2007-10-19
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original_with_amendments
-narodne_novine: "174/04, 92/05, 107/07"
+last_amended: 2014-07-28
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: official_consolidated
+consolidated_text: "NN 19/2013 (322) https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/322"
+narodne_novine: "174/04, 92/05, 107/07, 65/09, 137/09, 55/11, 140/12, 19/13, 148/13, 92/14"
 amendments:
   - "NN 92/2005 (1834) Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
   - "NN 107/2007 (3140) Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
-source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/174/3010"
+  - "NN 65/2009 (1456) Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
+  - "NN 137/2009 (3315) Zakon o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
+  - "NN 55/2011 (1194) Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
+  - "NN 140/2012 (2945) Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
+  - "NN 148/2013 (3156) Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
+  - "NN 92/2014 (1844) Zakon o dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/322"
 retrieved: 2026-10-12
 ---
 
@@ -22,36 +29,30 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 174/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/174/3010).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2005, NN 107/2007.
+> Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 19/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/322).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 148/2013, NN 92/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
-HRVATSKI SABOR
+ODBOR ZA ZAKONODAVSTVO HRVATSKOGA SABORA
 
-3010
+Na temelju svoje nadležnosti iz članka 59. Poslovnika Hrvatskoga sabora, Odbor za zakonodavstvo Hrvatskoga sabora na 40. sjednici održanoj 12. veljače 2013., utvrdio je pročišćeni tekst Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji. Pročišćeni tekst zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji obuhvaća (»Narodne novine«, br. 174/04.), Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 92/05.), Odluka Ustavnog suda Republike Hrvatske (»Narodne novine«, br. 2/07.), Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 107/07.), Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 65/09.), Zakon o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.), Odluka Ustavnog suda Republike Hrvatske (»Narodne novine«, br. 146/10.), Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) i Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) u kojima je utvrđeno vrijeme njihova stupanja na snagu.
 
-Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+Klasa: 561-01/12-01/02
 
-ODLUKU
+Zagreb, 12. veljače 2013.
 
-O PROGLAŠENJU ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI
-
-Proglašavam Zakon o pravima hrvatskih branite­lja iz Domovinskog rata i članova ­njihovih obite­lji, koji je donio Hrvatski sabor na sjednici 30. studenoga 2004. godine.
-
-Broj: 01-081-04-3703/2  
-Zagreb, 3. prosinca 2004.
-
-Predsjednik  
-Republike Hrvatske  
-Stjepan Mesić, v. r.
+Predsjednica  
+Odbora za zakonodavstvo  
+Hrvatskoga sabora  
+Ingrid Antičević Marinović, v. r.
 
 **ZAKON**
 
-**O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI**
+**O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI (pročišćeni tekst)**
 
-## GLAVA I.
-
-## TEMELJNE ODREDBE
+## GLAVA I. — TEMELJNE ODREDBE
 
 #### Članak 1.
 
@@ -71,7 +72,17 @@ Ovim se Zakonom uređuju prava hrvatskih branitelja iz Domovinskog rata i člano
 
 – nije regulirao obvezu služenja vojnog roka.
 
-(5) Status hrvatskog branitelja iz Domovinskog rata iz stavka 1. ovoga članka dokazuje se potvrdom Ministarstva obrane, odnosno Ministarstva unutarnjih poslova.
+(5) Dragovoljac iz Domovinskog rata je i u obrani suvereniteta Republike Hrvatske zatočeni ili nestali hrvatski branitelj iz Domovinskog rata, i smrtno stradali hrvatski branitelj iz Domovinskog rata koji je poginuo u obrani suvereniteta Republike Hrvatske ili je ubijen prilikom zatočenja ili u neprijateljskom logoru u obrani suvereniteta Republike Hrvatske, koji je umro od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, koji je umro od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske i koji je izvršio samoubojstvo kao posljedicu psihičke bolesti uzrokovane sudjelovanjem u obrani suvereniteta Republike Hrvatske do 15. siječnja 1992. godine, ako je njegovo sudjelovanje u obrani suvereniteta Republike Hrvatske započelo najkasnije 8. listopada 1991. godine u slučajevima iz stavka 3. ovoga članka, odnosno ako je njegovo sudjelovanje u obrani suvereniteta Republike Hrvatske započelo najkasnije 16. prosinca 1991. godine u slučajevima iz stavka 4. ovoga članka.
+
+Odredbom članka 1. Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 107/07.) stupio na snagu 19. listopada 2007., iza stavka 4. dodan je novi stavak 5.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., stavak 5. je izmijenjen.
+
+(6) Status hrvatskog branitelja iz Domovinskog rata iz stavka 1. ovoga članka i status dragovoljca iz Domovinskog rata iz stavka 3., 4. i 5. ovoga članka dokazuju se potvrdom Ministarstva obrane, odnosno Ministarstva unutarnjih poslova.
+
+Odredbom članka 1. Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 107/07.) stupio na snagu 19. listopada 2007., dosadašnji stavak 5. postao je stavak 6.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 6. iza riječi: »iz stavka 1. ovoga članka« dodane su riječi: »i status dragovoljca iz Domovinskog rata iz stavka 3., 4. i 5. ovoga članka«, a riječ: »dokazuje« zamijenjena je riječju: »dokazuju«.
 
 #### Članak 3.
 
@@ -83,13 +94,29 @@ Ovim se Zakonom uređuju prava hrvatskih branitelja iz Domovinskog rata i člano
 
 3. umro od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, a najkasnije do 31. prosinca 1997.,
 
-4. umro od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske najkasnije do 31. prosinca 1997., a nakon toga roka uzročna veza između smrti i sudjelovanja u obrani suvereniteta Republike Hrvatske utvrđuje se u postupku vještačenja propisanim člankom 123. stavkom 1. točkom 8. ovoga Zakona,
+4. umro od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske najkasnije do 31. prosinca 1997. godine, a nakon toga roka uzročna veza između smrti i sudjelovanja u obrani suvereniteta Republike Hrvatske utvrđena je u postupku vještačenja u ustanovama za vještačenje, odnosno pred nadležnim vijećem liječničkog povjerenstva,
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 3. točka 4. je izmijenjena.
 
 5. izvršio samoubojstvo kao posljedicu psihičke bolesti uzrokovane sudjelovanjem u obrani suvereniteta Republike Hrvatske,
 
-6. umro od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, a do smrti je bio priznati HRVI I. skupine s pravom na doplatak na njegu i pomoć druge osobe.
+6. umro kao HRVI iz Domovinskog rata I. skupine s priznatim pravom na doplatak za njegu i pomoć druge osobe od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, ili je umro uslijed bolesti koja je nastala kao posljedica oštećenja organizma uslijed rane ili ozljede na temelju koje mu je bio priznat status HRVI iz Domovinskog rata I. skupine s pravom na doplatak za njegu i pomoć druge osobe po tome osnovu.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 3. točka 6. je izmijenjena.
 
 (2) Smrtno stradalim osobama u obrani suvereniteta Republike Hrvatske smatraju se i pripadnici medicinskog osoblja, ratni izvjestitelji, pripadnici vatrogasnih postrojbi, pomorci, članovi posada brodova trgovačke mornarice i druge osobe koje su po nalogu nadležnih tijela državne vlasti Republike Hrvatske u Domovinskom ratu u obavljanju vojnih ili drugih dužnosti u obrani suvereniteta Republike Hrvatske poginule, ubijeni prilikom zatočenja ili u neprijateljskom logoru ili umrli od posljedica rane ili ozljede zadobivene pri obavljanju tih dužnosti.
+
+(3) Status člana obitelji osoba iz stavka 2. ovoga članka kao i prednost u ostvarivanju prava priznaje se sukladno članku 6. ovoga Zakona.
+
+(4) Članovima obitelji osoba iz stavka 2. ovoga članka, kada ispune propisane uvjete, pripadaju sljedeća prava iz ovoga Zakona:
+
+– pravo na obiteljsku invalidninu,
+
+– pravo na povećanu obiteljsku invalidninu,
+
+– pravo na uvećanu obiteljsku invalidninu.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dodani su stavci 3. i 4.
 
 #### Članak 4.
 
@@ -97,15 +124,43 @@ Ovim se Zakonom uređuju prava hrvatskih branitelja iz Domovinskog rata i člano
 
 (2) Zatočena ili nestala osoba iz članka 3. stavka 2. ovoga Zakona je osoba koja je zatočena u neprijateljskom logoru ili zatvoru najmanje 3 dana ili je nestala prilikom obavljanja vojnih i drugih dužnosti po nalogu nadležnih tijela državne vlasti Republike Hrvatske u Domovinskom ratu.
 
+(3) Status člana obitelji osoba iz stavka 2. ovoga članka kao i prednost u ostvarivanju prava priznaje se sukladno članku 6. ovoga Zakona.
+
+(4) Članovima obitelji osoba iz stavka 2. ovoga članka, kada ispune propisane uvjete, pripadaju sljedeća prava iz ovoga Zakona:
+
+– pravo na novčanu naknadu obiteljske invalidnine,
+
+– pravo na novčanu naknadu povećane obiteljske invalidnine,
+
+– pravo na novčanu naknadu uvećane obiteljske invalidnine.
+
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 4. iza stavka 2. dodani su stavci 3. i 4.
+
 #### Članak 5.
 
-(1) Hrvatski ratni vojni invalid iz Domovinskog rata (u daljnjem tekstu: HRVI iz Domovinskog rata) je hrvatski branitelj iz Domovinskog rata kojem je organizam oštećen najmanje 20% zbog rane ili ozljede koju je zadobio u obrani suvereniteta Repub­like Hrvatske, odnosno kao zatočenik u zatvoru ili neprijateljskom logoru u Domovinskom ratu. Smatra se da je oštećenje organizma zatočenika u neprijateljskom logoru na toj osnovi najmanje 20% trajno.
+(1) Hrvatski ratni vojni invalid iz Domovinskog rata (u daljnjem tekstu: HRVI iz Domovinskog rata) je hrvatski branitelj iz Domovinskog rata kojem je organizam oštećen najmanje 20% zbog rane ili ozljede koju je zadobio u obrani suvereniteta Republike Hrvatske, odnosno kao zatočenik u zatvoru ili neprijateljskom logoru u Domovinskom ratu. Smatra se da je oštećenje organizma zatočenika u neprijateljskom logoru na toj osnovi najmanje 20% trajno.
 
 (2) HRVI iz Domovinskog rata je i hrvatski branitelj iz Domovinskog rata kojem je organizam oštećen najmanje 20% zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske u Domovinskom ratu.
 
 (3) Prava HRVI iz Domovinskog rata utvrđena ovim Zakonom ostvaruje i osoba (medicinsko osoblje, ratni izvjestitelji, pripadnici vatrogasnih postrojbi, pomorci, članovi posade brodova trgovačke mornarice i druga osoba) kojoj je organizam oštećen za najmanje 20% zbog rane ili ozljede koju je zadobila pri obavljanju vojnih ili drugih dužnosti po nalogu nadležnih tijela državne vlasti Republike Hrvatske u obrani suvereniteta Republike Hrvatske u Domovinskom ratu ili kao zatočenik u neprijateljskom logoru u Domovinskom ratu.
 
-(4) HRVI iz Domovinskog rata je i stranac kojem je kao hrvatskom branitelju iz Domovinskog rata organizam oštećen najmanje 20% zbog rane ili ozljede koju je zadobio u obrani suvereniteta Republike Hrvatske ili kao zatočenik u neprijateljskom logoru ili zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske.
+(4) Osobi iz stavka 3. ovoga članka, kada ispuni propisane uvjete, pripadaju sljedeća prava iz ovoga Zakona:
+
+– pravo na osobnu invalidninu
+
+– pravo na posebni doplatak
+
+– pravo na doplatak za njegu i pomoć druge osobe
+
+– pravo na ortopedski doplatak
+
+– pravo na naknadu troškova prijevoza.
+
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 3. dodan je novi stavak 4.
+
+(5) HRVI iz Domovinskog rata je i stranac kojem je kao hrvatskom branitelju iz Domovinskog rata organizam oštećen najmanje 20% zbog rane ili ozljede koju je zadobio u obrani suvereniteta Republike Hrvatske ili kao zatočenik u neprijateljskom logoru ili zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske.
+
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji stavak 4. postao je stavak 5.
 
 #### Članak 6.
 
@@ -117,9 +172,15 @@ Ovim se Zakonom uređuju prava hrvatskih branitelja iz Domovinskog rata i člano
 
 (4) Prednost u ostvarivanju prava između članova obitelji iz stavka 1. i 2. ovoga članka utvrđuje se prema propisima o nasljeđivanju. Članovi obitelji iz istoga nasljednog reda ostvaruju pravo prema međusobnom sporazumu. Ako se sporazum ne postigne, prednost u ostvarivanju prava ima član obitelji iz istoga nasljednog reda koji je s hrvatskim braniteljem iz Domovinskog rata živio u zajedničkom kućanstvu.
 
-(5) Očuh i maćeha ostvaruju prava prema ovom Zakonu ako su hrvatskog branitelja iz Domovinskog rata uzdržavali ili je hrvatski branitelj njih uzdržavao najmanje pet godina prije smrti.
+(5) Novčana prava iz ovoga Zakona pripadaju članovima obitelji istog nasljednog reda iz stavaka 1. i 2. ovoga članka u jednakim sukorisničkim dijelovima kada nije moguće utvrditi prednost u ostvarivanju prava iz stavka 4. ovoga članka.
 
-(6) Pastorak je osoba koja nema živoga jednog od roditelja ili su roditelju oduzeta roditeljska prava pravomoćnom presudom suda, a hrvatski branitelj iz Domovinskog rata ga je uzdržavao najmanje godinu dana prije smrtnog stradavanja, zatočenja ili nestanka.
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 4. dodan je novi stavak 5.
+
+(6) Očuh i maćeha ostvaruju prava prema ovom Zakonu ako su hrvatskog branitelja iz Domovinskog rata uzdržavali ili je hrvatski branitelj njih uzdržavao najmanje pet godina prije smrti.
+
+(7) Pastorak je osoba koja nema živoga jednog od roditelja ili su roditelju oduzeta roditeljska prava pravomoćnom presudom suda, a hrvatski branitelj iz Domovinskog rata ga je uzdržavao najmanje godinu dana prije smrtnog stradavanja, zatočenja ili nestanka.
+
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji stavci 5. i 6. postali su stavci 6. i 7.
 
 #### Članak 7.
 
@@ -155,7 +216,7 @@ Za osobe iz članka 1. ovim se Zakonom uređuju:
 
 Prava iz ovoga Zakona koja se ostvaruju na osnovi oštećenja organizma, smrtnog stradavanja člana obitelji te materijalnih i drugih potreba korisnika jesu:
 
-*– prava na osnovi oštećenja organizma:*
+– prava na osnovi oštećenja organizma:
 
 1. osobna invalidnina,
 
@@ -213,9 +274,11 @@ branitelja iz Domovinskog rata,
 
 (3) Zapreke iz stavka 1. i 2. ovoga članka odnose se i na priznavanje statusa hrvatskog branitelja iz Domovinskog rata.
 
-## GLAVA II.
+(4) Osobe imaju pravo na status hrvatskog branitelja iz Domovinskog rata za razdoblje sudjelovanja u obrani suvereniteta Republike Hrvatske koje nije obuhvaćeno zaprekama iz stavka 2. ovoga članka.
 
-### 1. PRAVO NA ZDRAVSTVENU ZAŠTITU
+Odredbom članka 6. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 3. dodan je stavak 4.
+
+## GLAVA II. — 1. PRAVO NA ZDRAVSTVENU ZAŠTITU
 
 #### Članak 11.
 
@@ -225,15 +288,17 @@ branitelja iz Domovinskog rata,
 
 #### Članak 12.
 
-(1) Hrvatski branitelj iz Domovinskog rata kojemu je rana, ozljeda, bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna posljedica sudjelovanja u Domovinskom ratu ima pravo na potpunu medicinsku rehabilitaciju, pravo na sva potrebna ortoped­ska i druga pomagala, lijekove i liječenje bez naknade (participacije), te pravo prvenstva na korištenje zdravstvene zaštite u inozemstvu s pratnjom druge osobe, ako mu je potrebno takvo liječenje koje se ne može obaviti u Republici Hrvatskoj.
+(1) Hrvatski branitelj iz Domovinskog rata kojemu je rana, ozljeda, bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna posljedica sudjelovanja u Domovinskom ratu ima pravo na potpunu medicinsku rehabilitaciju, pravo na sva potrebna ortopedska i druga pomagala, lijekove i liječenje bez naknade (participacije), te pravo prvenstva na korištenje zdravstvene zaštite u inozemstvu s pratnjom druge osobe, ako mu je potrebno takvo liječenje koje se ne može obaviti u Republici Hrvatskoj.
 
-(2) Hrvatski zavod za zdravstveno osiguranje obvezan je osigurati hrvatskom branitelju iz Domovinskog rata ortopedsko pomagalo najkasnije u roku 30 dana od primitka zahtjeva nadležne zdravstvene ustanove koja je utvrdila vrstu potrebnoga ortopedskog pomagala nakon završenog liječenja. Ako se ortoped­sko pomagalo izrađuje po mjeri, navedeni rok produljuje se za najviše 60 dana.
+(2) Hrvatski zavod za zdravstveno osiguranje obvezan je osigurati hrvatskom branitelju iz Domovinskog rata ortopedsko pomagalo najkasnije u roku 30 dana od primitka zahtjeva nadležne zdravstvene ustanove koja je utvrdila vrstu potrebnoga ortopedskog pomagala nakon završenog liječenja. Ako se ortopedsko pomagalo izrađuje po mjeri, navedeni rok produljuje se za najviše 60 dana.
 
-(3) Prava iz stavka 1. ovoga članka koja Zakonom o zdravstvenom osiguranju i propisima donesenim na temelju njega nisu utvrđena kao standard prava iz osnovnoga zdravstvenog osiguranja, hrvatski branitelj iz Domovinskog rata ostvaruje na način i po postupku propisanom općim aktom koji donosi ministar obitelji, branitelja i međugeneracijske solidarnosti uz suglasnost ministra zdravstva i socijalne skrbi.
+(3) Prava iz stavka 1. ovoga članka koja Zakonom o zdravstvenom osiguranju i propisima donesenim na temelju njega nisu utvrđena kao standard prava iz osnovnoga zdravstvenog osiguranja, hrvatski branitelj iz Domovinskog rata ostvaruje na način i po postupku propisanom općim aktom koji donosi ministar branitelja uz suglasnost ministra zdravstva i socijalne skrbi.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
 
 ### 2. PRAVA IZ MIROVINSKOG OSIGURANJA
 
-Pravo na starosnu mirovinu
+*Pravo na starosnu mirovinu*
 
 #### Članak 13.
 
@@ -259,11 +324,13 @@ Hrvatski branitelj iz Domovinskog rata ostvaruje pravo na starosnu mirovinu pod 
 
 (3) Hrvatskom branitelju iz Domovinskog rata koji ostvari pravo na prijevremenu starosnu mirovinu prema Zakonu o mirovinskom osiguranju, tako određena mirovina povećava se za odgovarajući postotak iz stavka 1. točke 1. – 6. ovoga članka, ovisno o vremenu provedenom u Domovinskom ratu.
 
-Pravo na invalidsku mirovinu
+*Pravo na invalidsku mirovinu*
 
 #### Članak 15.
 
-(1) Hrvatski branitelj iz Domovinskog rata kod kojega je nastao trajni gubitak radne sposobnosti (opća nesposobnost za rad) ili kod kojeg je nastala profesionalna nesposobnost za rad kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske ima pravo na invalidsku mirovinu.
+(1) HRVI iz Domovinskog rata kod kojega je nastao trajni gubitak radne sposobnosti (opća nesposobnost za rad) ili kod kojeg je nastala profesionalna nesposobnost za rad kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske ima pravo na invalidsku mirovinu.
+
+Odredbom članka 1. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 1. je izmijenjen.
 
 (2) Ako je opća nesposobnost za rad ili profesionalna nesposobnost za rad djelomično prouzročena ranjavanjem, ozljedom, zatočeništvom, bolesti, pogoršanjem bolesti, odnosno pojavom bolesti zadobivene u obrani suvereniteta Republike Hrvatske, a djelomično ranjavanjem, ozljedom, bolešću ili pogoršanjem bolesti izvan tih okolnosti, invalidska mirovina određuje se razmjerno utjecaju pojedinih uzroka na invalidnost.
 
@@ -271,123 +338,86 @@ Pravo na invalidsku mirovinu
 
 #### Članak 16.
 
-(1) Vrijednosni bod radi određivanja invalidske mirovine hrvatskom branitelju iz Domovinskog rata za invalidnost (opća ili profesionalna nesposobnost za rad) koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojavom bolesti zadobivene u obrani suvereniteta Republike Hrvatske utvrđuje se na temelju pripadajuće osnovice za čin i ustrojbeno mjesto hrvatskog branitelja iz Domovinskog rata iz članka 20. ovoga Zakona, tako da se osnovica utvrđena za godinu koja prethodi godini u kojoj se ostvaruje pravo na mirovinu podijeli s prosječnom godišnjom plaćom svih zaposlenih u Republici Hrvatskoj za tu kalendarsku godinu.
+(1) Vrijednosni bod radi određivanja invalidske mirovine HRVI iz Domovinskog rata za invalidnost (opća ili profesionalna nesposobnost za rad) koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti odnosno pojavom bolesti zadobivene u obrani suvereniteta Republike Hrvatske utvrđuje se na temelju pripadajuće osnovice za čin i ustrojbeno mjesto HRVI iz Domovinskog rata iz članka 20. ovoga Zakona, tako da se osnovica utvrđena za godinu koja prethodi godini u kojoj se ostvaruje pravo na mirovinu podijeli s prosječnom godišnjom plaćom svih zaposlenih u Republici Hrvatskoj za tu kalendarsku godinu.
+
+Odredbom članka 2. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 1. je izmijenjen.
 
 (2) Vrijednosni bod radi određivanja mirovine utvrđuje se prema vrijednosnom bodu u godini koja prethodi godini u kojoj se ostvaruje pravo na mirovinu.
 
 #### Članak 17.
 
-Polazni faktor 1,10 je kod izračuna:
+(1) Polazni faktor 1,50 je kod izračuna:
 
-– invalidske mirovine hrvatskog branitelja iz Domovinskog rata bez statusa HRVI.
+– invalidske mirovine HRVI iz Domovinskog rata.
 
-Polazni faktor 1,50 je kod izračuna:
+(2) Polazni faktor 1,85 je kod izračuna:
 
-– invalidske mirovine hrvatskog branitelja iz Domovinskog rata bez statusa HRVI, pripadnika gardijske postrojbe i specijalne policije u vrijeme Domovinskog rata.
+– invalidske mirovine HRVI iz Domovinskog rata pripadnika gardijske postrojbe i specijalne policije u vrijeme Domovinskog rata i invalidske mirovine dragovoljca iz Domovinskog rata HRVI iz Domovinskog rata.
 
-Polazni faktor 1,50 je kod izračuna:
-
-– invalidske mirovine hrvatskog branitelja iz Domovinskog rata sa statusom HRVI.
-
-Polazni faktor 1,85 je kod izračuna:
-
-– invalidske mirovine hrvatskog branitelja iz Domovinskog rata sa statusom HRVI, pripadnika gardijske postrojbe i specijalne policije u vrijeme Domovinskog rata.
-
-Polazni faktor 1,50 je kod izračuna:
-
-– invalidske mirovine dragovoljca iz Domovinskog rata bez statusa HRVI.
-
-Polazni faktor 1,85 je kod izračuna:
-
-– invalidske mirovine dragovoljca iz Domovinskog rata sa statusom HRVI.
+Odredbom članka 3. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., Članak 17. je izmijenjen.
 
 #### Članak 18.
 
-(1) Osobni bod za određivanje invalidske mirovine hrvat­skom branitelju iz Domovinskog rata za invalidnost (opća ili profesionalna nesposobnost za rad) koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske dobiva se tako da se prosječan vrijednosni bod iz članka 16. ovoga Zakona pomnoži s polaznim faktorom i mirovinskim stažem od 40 godina.
+(1) Osobni bod za određivanje invalidske mirovine HRVI iz Domovinskog rata za invalidnost (opća ili profesionalna nesposobnost za rad) koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske dobiva se tako da se prosječan vrijednosni bod iz članka 16. ovoga Zakona pomnoži s polaznim faktorom i mirovinskim stažem od 40 godina.
 
 (2) Ova mirovina se određuje na temelju osobnih bodova iz stavka 1. ovoga članka povećanih za 45%.
 
+Odredbom članka 4. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., u članku 18. riječi: »hrvatskom branitelju iz Domovinskog rata« zamijenjene su riječima: »HRVI iz Domovinskog rata«.
+
 #### Članak 19.
 
-Mirovinski faktor za invalidsku mirovinu zbog profesionalne nesposobnosti za rad koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske koja se isplaćuje hrvatskom branitelju iz Domovinskog rata za vrijeme zaposlenja ili obavljanja samostalne djelatnosti je 0,5.
+Mirovinski faktor za invalidsku mirovinu zbog profesionalne nesposobnosti za rad koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske koja se isplaćuje HRVI iz Domovinskog rata za vrijeme zaposlenja ili obavljanja samostalne djelatnosti je 0,5.
+
+Odredbom članka 4. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., u članku 19. riječi: »hrvatskom branitelju iz Domovinskog rata« zamijenjene su riječima: »HRVI iz Domovinskog rata«.
 
 #### Članak 20.
 
-(1) Utvrđivanje vrijednosnog boda za određivanje invalidske mirovine iz članka 16. ovoga Zakona određuje se prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za godinu koja prethodi godini ostvarivanja prava na mirovinu sljedeće osnovice:
+(1) Utvrđivanje vrijednosnog boda za određivanje invalidske mirovine iz članka 16. ovoga Zakona određuje se prema osobnom činu, ustrojbenom mjestu i zvanju HRVI iz Domovinskog rata za godinu koja prethodi godini ostvarivanja prava na mirovinu sljedeće osnovice:
 
-*Činovi i ustrojbena mjesta Osnovice*
+Odredbom članka 5. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., u članku 20. riječi: »hrvatskom branitelju iz Domovinskog rata« zamijenjene su riječima: »HRVI iz Domovinskog rata«.
 
-Vojnik 64.037
-
-Pozornik 68.047
-
-Razvodnik (zastavnik hrm) 72.847
-
-Skupnik 64.740
-
-Zapovjednik desetine 76.884
-
-Zapovjednik voda 81.648
-
-Zapovjednik satnije 97.980
-
-Zamjenik zapovjednika bojne 107.508
-
-Zapovjednik bojne 118.392
-
-Zamjenik zapovjednika brigade 129.276
-
-Zapovjednik brigade 129.276
-
-Desetnik 74.066
-
-Vodnik 79.386
-
-Stožerni vodnik 79.930
-
-Narednik 79.930
-
-Nadnarednik 80.386
-
-Stožerni narednik 83.004
-
-Časnički namjesnik 92.585
-
-Zastavnik 78.783
-
-Poručnik (poručnik korvete) 81.648
-
-Natporučnik (poručnik fregate) 88.452
-
-Satnik (poručnik bojnog broda) 97.980
-
-Bojnik (kapetan korvete) 107.508
-
-Pukovnik (kapetan fregate) 118.392
-
-Brigadir (kapetan bojnog broda) 129.276
-
-Stožerni brigadir (komodor) 140.160
-
-Brigadni general (komodor) 140.160
-
-Zapovjednik zbornog mjesta 118.392
-
-Zapovjednik zbornog područja 151.056
-
-General-bojnik (kontraadmiral) 151.056
-
-General-pukovnik (viceadmiral) 155.136
-
-General zbora (admiral) 159.216
-
-Zapovjednik obrane grada 118.392
-
-Stožerni general (stožerni admiral) 163.296.
+| Činovi i ustrojbena mjesta | Osnovice |
+|---|---|
+| Vojnik | 64.037 |
+| Pozornik | 68.047 |
+| Razvodnik (zastavnik hrm) | 72.847 |
+| Skupnik | 64.740 |
+| Zapovjednik desetine | 76.884 |
+| Zapovjednik voda | 81.648 |
+| Zapovjednik satnije | 97.980 |
+| Zamjenik zapovjednika bojne | 107.508 |
+| Zapovjednik bojne | 118.392 |
+| Zamjenik zapovjednika brigade | 129.276 |
+| Zapovjednik brigade | 129.276 |
+| Desetnik | 74.066 |
+| Vodnik | 79.386 |
+| Stožerni vodnik | 79.930 |
+| Narednik | 79.930 |
+| Nadnarednik | 80.386 |
+| Stožerni narednik | 83.004 |
+| Časnički namjesnik | 92.585 |
+| Zastavnik | 78.783 |
+| Poručnik (poručnik korvete) | 81.648 |
+| Natporučnik (poručnik fregate) | 88.452 |
+| Satnik (poručnik bojnog broda) | 97.980 |
+| Bojnik (kapetan korvete) | 107.508 |
+| Pukovnik (kapetan fregate) | 118.392 |
+| Brigadir (kapetan bojnog broda) | 129.276 |
+| Stožerni brigadir (komodor) | 140.160 |
+| Brigadni general (komodor) | 140.160 |
+| Zapovjednik zbornog mjesta | 118.392 |
+| Zapovjednik zbornog područja | 151.056 |
+| General-bojnik (kontraadmiral) | 151.056 |
+| General-pukovnik (viceadmiral) | 155.136 |
+| General zbora (admiral) | 159.216 |
+| Zapovjednik obrane grada | 118.392 |
+| Stožerni general (stožerni admiral) | 163.296. |
 
 (2) Osnovice iz stavka 1. ovoga članka usklađuju se početkom svake kalendarske godine s promjenom prosječne plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini.
 
-(3) Ministar unutarnjih poslova propisat će, u roku šest mjeseci od dana stupanja na snagu ovoga Zakona, odnos policijskih zvanja pripadnika specijalne policije prema činovima i ustrojbenim mjestima iz stavka 1. ovoga članka.
+(3) Ministar unutarnjih poslova propisat će, u roku šest mjeseci od dana stupanja na snagu ovoga Zakona, odnos policijskih zvanja prema činovima i ustrojbenim mjestima iz stavka 1. ovoga članka.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 3. riječi: »pripadnika specijalne policije« su brisane.
 
 #### Članak 21.
 
@@ -411,7 +441,7 @@ Stožerni general (stožerni admiral) 163.296.
 
 Hrvatski branitelj iz Domovinskog rata ostvaruje pravo na invalidsku mirovinu prema Zakonu o mirovinskom osiguranju ovisno o uvjetu pokrivenosti radnog vijeka navršenim mirovinskim stažem.
 
-Pravo na profesionalnu rehabilitaciju
+*Pravo na profesionalnu rehabilitaciju*
 
 #### Članak 23.
 
@@ -421,7 +451,7 @@ Pravo na profesionalnu rehabilitaciju
 
 (3) Od dana stjecanja prava na profesionalnu rehabilitaciju do upućivanja na istu, kao i tijekom profesionalne rehabilitacije, hrvatski branitelj iz Domovinskog rata ima pravo na naknadu u iznosu invalidske mirovine zbog opće nesposobnosti za rad, koju isplaćuje Hrvatski zavod za mirovinsko osiguranje.
 
-(4) Nakon završene profesionalne rehabilitacije hrvatski branitelj iz Domovinskog rata prijavljuje se Hrvatskom zavodu za zapošljavanje i pripada mu naknada iz stavka 3. ovoga članka najduže 12 mjeseci od završene profesionalne rehabilitacije pod uvjetom da se u roku 30 dana od završetka profesionalne rehabilitacije prijavio nadležnoj službi za zapošljavanje i da se u skla­du s propisima o zapošljavanju redovno prijavljuje toj službi.
+(4) Nakon završene profesionalne rehabilitacije hrvatski branitelj iz Domovinskog rata prijavljuje se Hrvatskom zavodu za zapošljavanje i pripada mu naknada iz stavka 3. ovoga članka najduže 12 mjeseci od završene profesionalne rehabilitacije pod uvjetom da se u roku 30 dana od završetka profesionalne rehabilitacije prijavio nadležnoj službi za zapošljavanje i da se u skladu s propisima o zapošljavanju redovno prijavljuje toj službi.
 
 (5) Hrvatski branitelj iz Domovinskog rata gubi pravo na naknadu iz stavka 4. ovoga članka ako suprotno propisima o zapošljavanju odbije stupiti na odgovarajući posao za koji se osposobio profesionalnom rehabilitacijom.
 
@@ -429,11 +459,17 @@ Pravo na profesionalnu rehabilitaciju
 
 (7) Tijela državne uprave, tijela sudbene vlasti te druga tijela državne vlasti, tijela jedinica lokalne i područne (regionalne) samouprave, javne ustanove, izvanproračunski i proračunski fondovi, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske i u vlasništvu ili pretežitom vlasništvu jedinica lokalne samouprave obvezni su primati hrvatskog branitelja iz Domovinskog rata kojega uputi Hrvatski zavod za mirovinsko osiguranje radi profesionalne rehabilitacije.
 
-Pravo na obiteljsku mirovinu
+*Pravo na obiteljsku mirovinu*
 
 #### Članak 24.
 
 Članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata čija je smrt prouzročena ranjavanjem, ozljedom, bolešću, pogoršanjem, odnosno pojavom bolesti zadobivenoj u obrani suvereniteta Republike Hrvatske imaju pravo na obiteljsku mirovinu prema ovom Zakonu.
+
+#### Članak 24.a
+
+Udovice umrlih HRVI-a iz Domovinskog rata I. i II. skupine sa 100% oštećenja organizma, kojima je do smrti bilo priznato pravo na doplatak za njegu i pomoć druge osobe po osnovi ovoga Zakona, a koji su umrli zbog bolesti ili ozljede nastale izvan okolnosti obrane suvereniteta Republike Hrvatske, imaju pravo na obiteljsku mirovinu pod uvjetom da su u trenutku njihove smrti imale navršenih 40 godina starosti, a visina obiteljske mirovine određuje se sukladno Zakonu o mirovinskom osiguranju.
+
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza članka 24. dodan je Članak 24.a.
 
 #### Članak 25.
 
@@ -465,15 +501,13 @@ Iznos obiteljske mirovine članovima obitelji smrtno stradaloga hrvatskog branit
 
 #### Članak 28.
 
-Mirovinski faktor iznosi za obiteljsku mirovinu: – koja pripada bračnom drugu i djetetu, ili samo  
-djetetu hrvatskog branitelja iz Domovinskog rata 1,0
+Mirovinski faktor iznosi za obiteljsku mirovinu:
 
-– koja pripada samo za oba roditelja 1,0
-
-– koja pripada samo bračnom drugu, odnosno  
-samo jednom roditelju 0,8
-
-– za svako dijete povećava se za 0,1.
+| – | koja pripada bračnom drugu i djetetu, ili samo djetetu hrvatskog branitelja iz Domovinskog rata | 1,0 |
+|---|---|---|
+| – | koja pripada samo za oba roditelja | 1,0 |
+| – | koja pripada samo bračnom drugu, odnosno samo jednom roditelju | 0,8 |
+| – | za svako dijete povećava se za | 0,1. |
 
 #### Članak 29.
 
@@ -481,7 +515,7 @@ samo jednom roditelju 0,8
 
 (2) Osobe iz stavka 1. ovoga članka pravo na mirovinu stječu bez obzira na godine života, ako kod njih nastane opća nesposobnost za rad prije ispunjenja uvjeta iz stavka 1. ovoga članka.
 
-(3) Djeca, posvojenici i pastorčad smrtno stradaloga hrvat­skog branitelja iz Domovinskog rata ostvaruju pravo na obiteljsku mirovinu i nakon završetka ili prekida redovitog školovanja ako su nezaposlena, a najduže 12 mjeseci nakon završetka ili prekida redovnog školovanja.
+(3) Djeca, posvojenici i pastorčad smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ostvaruju pravo na obiteljsku mirovinu i nakon završetka ili prekida redovitog školovanja ako su nezaposlena, a najduže 12 mjeseci nakon završetka ili prekida redovnog školovanja.
 
 (4) Odredbe ovoga članka primjenjuju se i na maćehu, očuha i posvojitelja hrvatskog branitelja iz Domovinskog rata.
 
@@ -505,7 +539,7 @@ samo jednom roditelju 0,8
 
 (2) Tako povećana mirovina ne može iznositi više od mirovine određene na temelju osobnog boda za 40 godina ukupnoga mirovinskog staža.
 
-Najniža mirovina
+*Najniža mirovina*
 
 #### Članak 31.
 
@@ -515,83 +549,123 @@ Najniža mirovina
 
 (3) Hrvatskom branitelju iz Domovinskog rata koji je navršio 65 godina starosti (muškarac), odnosno 60 godina starosti (žena), a ne ispunjava uvjete mirovinskog staža za stjecanje prava na starosnu mirovinu prema Zakonu o mirovinskom osiguranju, izuzetno od odredbi stavka 1. i 2. ovoga članka, pripada pravo na mirovinu u visini najniže mirovine određene prema odredbi stavka 4. ovoga članka.
 
-(4) Najniža mirovina određuje se od osnovice koja iznosi 45% prosječne neto plaće svih zaposlenih u Republici Hrvatskoj, u godini koja prethodi godini ostvarivanja prava, a prema podacima Državnog zavoda za statistiku.
+(4) Najniža mirovina pripada korisniku mirovine iz stavka 1. i 5. ovoga članaka, osobama iz stavka 2. ovoga članka i hrvatskom branitelju iz Domovinskog rata iz stavka 3. ovoga članka ako oni, odnosno osobe na temelju kojih izvode pravo na najnižu mirovinu imaju priznato sudjelovanje u obrani suvereniteta Republike Hrvatske u najmanjem trajanju od 100 dana, a određuje se od osnovice koja iznosi 45% prosječne neto plaće svih zaposlenih u Republici Hrvatskoj, u godini koja prethodi godini ostvarivanja prava, a prema podacima Državnog zavoda za statistiku.
+
+Odredbom članka 6. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 4. je izmijenjen.
 
 (5) Najniža mirovina određena prema stavku 1. ovoga članka korisnika invalidske mirovine zbog profesionalne nesposobnosti priznate prema članku 15. ovoga Zakona određuje se uz primjenu mirovinskog faktora iz članka 80. Zakona o mirovinskom osiguranju.
 
 (6) Najniža mirovina određena prema stavku 2. ovoga članka određuje se uz primjenu polaznog faktora iz članka 78. i mirovinskog faktora iz članka 80. Zakona o mirovinskom osiguranju.
 
-(7) Najniža mirovina prema stavku 1. i 2. ovoga članka kao i mirovina priznata prema stavku 3. ovoga članka usklađuje se početkom svake kalendarske godine s promjenom prosječne neto plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini.
+(7) HRVI iz Domovinskog rata, hrvatskim braniteljima iz Domovinskog rata i drugim osobama iz ovoga članka ne pripada pravo na najnižu mirovinu ako su oni, odnosno osobe na temelju kojih izvode pravo na najnižu mirovinu u Registru hrvatskih branitelja iz Domovinskog rata evidentirani kao pripadnici neborbenog sektora.
+
+Odredbom članka 6. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., iza stavka 6. dodan je novi stavak 7.
+
+(7) Brisan
+
+Odredbom članka 1. Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 92/05.) stupio na snagu 31. prosinca 2005., stavak 7. je brisan.
 
 (8) Najniža mirovina određena prema stavku 1. i 2. ovoga članka kao i mirovina priznata prema stavku 3. ovoga članka ne pripada korisniku mirovine za vrijeme zaposlenja ili obavljanja samostalne djelatnosti.
+
+Odredbom članka 1. Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 92/05.) stupio na snagu 31. prosinca 2005., dosadašnji stavak 8. je postao stavak 7.
+
+Odredbom članka 6. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., dosadašnji stavak 7. postao je stavak 8.
 
 #### Članak 32.
 
 (1) Svaka ocjena invalidnosti na temelju koje se stječe pravo na profesionalnu rehabilitaciju ili pravo na invalidsku mirovinu koju donosi ovlašteni vještak u mirovinskom osiguranju, te priznata obiteljska mirovina članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i priznata novčana naknada u iznosu obiteljske mirovine članovima obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata podliježe reviziji koju obavlja Povjerenstvo za reviziju ocjene invalidnosti.
 
-(2) Sastav i način rada Povjerenstva propisuje ministar obitelji, branitelja i međugeneracijske solidarnosti Pravilnikom o radu Povjerenstva.
+(2) Sastav i način rada Povjerenstva propisuje ministar branitelja Pravilnikom o radu Povjerenstva.
 
-Staž u dvostrukom trajanju
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
+
+*Staž u dvostrukom trajanju*
 
 #### Članak 33.
 
 (1) Hrvatskim braniteljima iz Domovinskog rata koji su za vrijeme sudjelovanja u Domovinskom ratu bili zaposleni ili im se staž osiguranja za to vrijeme računa po drugoj osnovi, vrijeme provedeno u Domovinskom ratu računa se kao staž osiguranja u dvostrukom trajanju, a hrvatskim braniteljima iz Domovinskog rata koji nisu zaposleni ili nisu ostvarivali staž osiguranja po drugoj osnovi, vrijeme provedeno u Domovinskom ratu računa se kao poseban staž u dvostrukom trajanju, sukladno propisima o obrani.
 
-(2) Hrvatskom branitelju iz Domovinskog rata koji je nakon razvojačenja ostvario pravo na novčanu naknadu na osnovi privremene nesposobnosti za rad, svo vrijeme korištenja te naknade priznaje se kao poseban staž u jednostrukom trajanju.
+(2) Hrvatskom branitelju iz Domovinskog rata koji je nakon razvojačenja ostvario pravo na novčanu naknadu na osnovi privremene nesposobnosti za rad, sve vrijeme korištenja te naknade priznaje se kao poseban staž u jednostrukom trajanju.
 
 (3) Hrvatskom branitelju iz Domovinskog rata koji nakon 30. lipnja 1996. nije bio zaposlen ili koji nije ostvario staž osiguranja, odnosno poseban staž po drugoj osnovi, a obavljao je zadaće u postrojbama Ministarstva unutarnjih poslova, odnosno Ministarstva obrane Republike Hrvatske, to razdoblje računa se kao poseban staž u jednostrukom trajanju.
+
+#### Članak 33.a
+
+Na pitanja u svezi s pravima iz Glave II. točke 2. ovoga Zakona koja nisu utvrđena ovim Zakonom primjenjuje se Zakon o mirovinskom osiguranju.
+
+Odredbom članka 2. Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 92/05.) stupio na snagu 31. prosinca 2005., iza članka 33. dodan je članak 33.a.
 
 ### 3. PRAVO NA DOPLATAK ZA DJECU
 
 #### Članak 34.
 
-Djeci smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i djeci zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata pripada doplatak za djecu u najvišem predvi­đenom iznosu.
+Djeci smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i djeci zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata pripada doplatak za djecu u najvišem predviđenom iznosu.
 
 ### 4. PRAVO NA ZAPOŠLJAVANJE
 
 #### Članak 35.
 
-(1) Tijela državne uprave, tijela sudbene vlasti te druga tijela državne vlasti, tijela jedinica lokalne i područne (regionalne) samouprave obvezna su prilikom zapošljavanja službenika i namještenika dati prednost nezaposlenom ukoliko ispunjava tražene uvjete iz natječaja, odnosno oglasa i to sljedećim redoslijedom:
+(1) Tijela državne uprave, tijela sudbene vlasti, tijela državne vlasti i druga državna tijela, upravna tijela jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: tijela javne uprave), obvezna su prilikom zapošljavanja na neodređeno vrijeme službenika i namještenika temeljem javnog natječaja i prilikom zapošljavanja na određeno vrijeme temeljem oglasa, dati prednost pod jednakim uvjetima nezaposlenom i to sljedećim redoslijedom:
 
-– djetetu smrtno stradaloga hrvatskog branitelja iz Domovinskog rata bez obaju roditelja,
+– djetetu smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata bez oba roditelja i djetetu smrtno stradaloga, zatočenoga i nestaloga hrvatskog branitelja iz Domovinskog rata bez roditeljske skrbi,
 
 – HRVI iz Domovinskog rata,
 
-– članu obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata,
+– članu obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata,
 
 – dragovoljcu iz Domovinskog rata,
 
 – hrvatskom branitelju iz Domovinskog rata.
 
-(2) Javne službe, javne ustanove, izvanproračunski i prora­čunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske i pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave, obvezne su prilikom zapošljavanja dati prednost osobi iz stavka 1. ovoga članka, po utvrđenom redoslijedu, ukoliko ispunjava tražene uvjete iz natječaja, odnosno oglasa.
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. iza riječi: »dati prednost« dodane su riječi: »pod jednakim uvjetima«.
 
-(3) Da bi ostvarila pravo prednosti pri zapošljavanju, osoba iz stavka 1. ovoga članka koja ispunjava uvjete za ostvarivanje toga prava, dužna je uz prijavu, odnosno ponudu na natječaj priložiti sve dokaze o ispunjavanju traženih uvjeta, kao i rješenje o priznatom statusu, odnosno potvrdu o priznatom statusu iz koje je vidljivo spomenuto pravo te dokaz da je nezaposlena.
+(2) Prednost pri zapošljavanju iz stavka 1. ovoga članka ne odnosi se na slučajeve zapošljavanja na poslovima radnih mjesta koja su zakonom ili drugim pravnim propisom utvrđena kao rukovodeća radna mjesta u tijelima javne uprave.
 
-(4) Provedbu odredbe stavka 1. i 2. ovoga članka nadzire nadležna inspekcija koja je po posebnim propisima ovlaštena za nadzor u svezi sa zapošljavanjem.
+(3) Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske kao i pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima (u daljnjem tekstu: pravne osobe), koje su prilikom zapošljavanja obvezne raspisati javni natječaj ili oglas temeljem zakona, drugog propisa ili kolektivnog ugovora, obvezne su prilikom tog zapošljavanja dati prednost osobi iz stavka 1. ovoga članka, po utvrđenom redoslijedu iz stavka 1. ovoga članka, ukoliko ispunjava uvjete propisane ovim člankom Zakona, te uvjete iz javnog natječaja odnosno oglasa.
 
-(5) Osoba koja ne bude primljena u tijelo državne uprave, tijelo sudbene vlasti ili tijelo jedinice lokalne i područne (regionalne) samouprave, ukoliko smatra da joj je povrijeđeno pravo prednosti pri zapošljavanju da bi ostvarila navedeno pravo obvezna je podnijeti prigovor na rješenje o prijamu.
+(4) Prednost pri zapošljavanju iz stavka 3. ovoga članka ne odnosi se na slučajeve zapošljavanja na poslovima radnih mjesta koja su zakonom ili drugim pravnim propisom utvrđena kao rukovodeća radna mjesta.
 
-(6) Po konačnosti rješenja o prijmu iz stavka 5. ovoga članka ili po proteku roka od petnaest dana od dana podnošenja prigovora protiv tog rješenja, osoba koja ocijeni da joj je povrijeđeno pravo prednosti pri zapošljavanju, može u narednih petnaest dana podnijeti zahtjev upravnoj inspekciji za provedbu nadzora.
+(5) Da bi ostvarila pravo prednosti pri zapošljavanju, osoba iz stavka 1. ovoga članka koja ispunjava uvjete za ostvarivanje toga prava, dužna je uz prijavu, odnosno ponudu na javni natječaj ili oglas priložiti sve dokaze o ispunjavanju traženih uvjeta, kao i potvrdu o priznatom statusu, odnosno potvrdu iz članka 2. ovoga Zakona o priznatom statusu hrvatskog branitelja iz Domovinskog rata ili dragovoljca iz Domovinskog rata, dokaz da je nezaposlena, odnosno dokaz o oduzetoj roditeljskoj skrbi kada se na javni natječaj, odnosno oglas prijavljuje dijete smrtno stradaloga, zatočenoga i nestaloga hrvatskog branitelja iz Domovinskog rata bez roditeljske skrbi.
 
-(7) Upravna inspekcija obvezna je u roku osam dana od dana prijma zahtjeva za nadzor obavijestiti donositelja rješenja o prijmu o pokretanju postupka nadzora radi ostvarenja prava prednosti pri zapošljavanju.
+(6) Provedbu odredbe stavka 1. ovoga članka nadzire upravna inspekcija, a provedbu odredbe stavka 3. ovoga članka nadzire inspekcija rada.
 
-(8) Donositelj rješenja o prijmu – čelnik tijela ne može donijeti rješenje o postavljenju na radno mjesto izabranog kandidata do okončanja postupka nadzora.
+(7) Osoba iz stavka 1. ovoga članka koja ne bude primljena u tijela javne uprave, ukoliko smatra da joj je povrijeđeno pravo prednosti pri zapošljavanju može podnijeti žalbu na rješenje o prijmu u službu izabranog kandidata.
 
-(9) Rješenje o postavljenju (rasporedu) donijeto prije okon­čanja postupka nadzora upravna inspekcija proglasit će ništavim.
+(8) Osoba koja smatra da joj je povrijeđeno pravo prednosti pri zapošljavanju, može u roku od petnaest dana od dana podnošenja žalbe iz stavka 7. ovoga članka, podnijeti zahtjev upravnoj inspekciji za provedbu inspekcijskog nadzora.
 
-(10) Upravna inspekcija po provedbi nadzora ovlaštena je u slučaju postojanja povrede prava prednosti rješenjem poništiti rješenje o prijmu u državnu službu. Protiv tog rješenja može se voditi upravni spor.
+(9) Upravna inspekcija obvezna je u roku od osam dana od dana prijema zahtjeva za nadzor obavijestiti donositelja rješenja o prijmu u službu o pokretanju postupka inspekcijskog nadzora radi ostvarenja prava prednosti pri zapošljavanju.
 
-(11) Ukoliko upravna inspekcija utvrdi da u postupku prijma nije izvršena povreda prava, izvijestit će podnositelja zahtjeva za nadzor i čelnika tijela o rezultatima provedenoga upravnog nadzora.
+(10) Rješenje o rasporedu donijeto prije okončanja postupka inspekcijskog nadzora upravna inspekcija oglasit će ništavim.
 
-(12) Osoba iz stavka 1. ovoga članka kojoj nije dana prednost pri zapošljavanju, a radni odnos se zasniva sklapanjem ugovora o radu, može podnijeti zahtjev nadležnoj inspekciji za provedbu nadzora, najkasnije u roku 15 dana od zasnivanja radnog odnosa.
+(11) Upravna inspekcija po provedbi inspekcijskog nadzora ovlaštena je u slučaju postojanja povrede prava prednosti pri zapošljavanju iz stavka 1. ovoga članka rješenjem poništiti rješenje o prijmu u službu. Protiv toga rješenja može se voditi upravni spor.
 
-(13) U slučaju zasnivanja radnog odnosa sklapanjem ugovora o radu, nadležna inspekcija obvezna je razmotriti zahtjev podnositelja u roku 30 dana od dana zaprimanja, a ukoliko zbog složenosti postupka utvrđivanja odlučnih činjenica nije u mogućnosti donijeti rješenje u navedenom roku, donijet će ga u najkraćem mogućem roku.
+(12) Ukoliko upravna inspekcija utvrdi da u postupku prijma nije izvršena povreda prava, izvijestit će podnositelja zahtjeva za nadzor i čelnika tijela o rezultatima provedenoga inspekcijskog nadzora.
 
-(14) Ako nadležna inspekcija utvrdi da je sklapanjem ugovora o radu povrijeđeno pravo prednosti pri zapošljavanju osobe iz stavka 1. ovoga članka, rješenjem će utvrditi da sklopljeni ugovor o radu zbog toga nema pravnog učinka od dana pravomoćnosti toga rješenja.
+(13) Pravna osoba obvezna je u roku od 15 dana nakon sklapanja ugovora o radu s izabranim kandidatom o istome obavijestiti osobu iz stavka 1. ovoga članka koja je po raspisanom javnom natječaju ili oglasu podnijela prijavu, odnosno ponudu za to radno mjesto.
 
-(15) Povreda prava prednosti pri zapošljavanju koja je utvrđena pravomoćnim rješenjem iz stavka 14. ovoga članka pred­stavlja opravdan razlog za otkaz ugovora o radu čijim sklapanjem je to pravo povrijeđeno.
+(14) Osoba iz stavka 13. ovoga članka kojoj nije dana prednost pri zapošljavanju, može podnijeti zahtjev nadležnoj inspekciji za provedbu nadzora u roku od 15 dana od dana dostave obavijesti iz stavka 13. ovoga članka.
 
-(16) Prednost pri zapošljavanju iz stavka 1. ovoga članka ne mogu ostvariti osobe iz stavka 1. ovoga članka kojima je radni odnos kod posljednjeg poslodavca prestao njihovom krivnjom.
+(15) U slučaju zasnivanja radnog odnosa sklapanjem ugovora o radu, nadležna inspekcija obvezna je razmotriti zahtjev podnositelja u roku predviđenim zakonom kojim je reguliran upravni postupak.
+
+(16) Ako nadležna inspekcija utvrdi da je sklapanjem ugovora o radu povrijeđeno pravo prednosti pri zapošljavanju osobe iz stavka 1. ovoga članka, rješenjem će utvrditi povredu prava prednosti, koje izvršno rješenje predstavlja opravdan razlog za otkaz ugovora o radu čijim sklapanjem je to pravo povrijeđeno.
+
+(17) Prednost pri zapošljavanju ne mogu ostvariti osobe iz stavka 1. ovoga članka kojima je radni odnos kod posljednjeg poslodavca prestao krivnjom radnika ili im je služba neposredno prije prijave na javni natječaj ili oglas prestala temeljem izvršnog rješenja o:
+
+– izrečenoj kazni prestanka službe
+
+– otkazu službe ako nisu zadovoljili na probnom radu
+
+– pisanom otkazu kojega podnese službenik
+
+– sporazumu o prestanku službe i
+
+– izvanrednom otkazu službe.
+
+(18) Pod pojmom prestanka radnog odnosa kod posljednjeg poslodavca krivnjom radnika smatra se otkaz ugovora o radu temeljem pravomoćnog rješenja ili odluke o skrivljenom ponašanju radnika i sporazumni raskid ugovora o radu.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. iza riječi: »dati prednost« dodane su riječi: »pod jednakim uvjetima«.
+
+Odredbom članka 8. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., članak 35. je izmijenjen.
 
 ### 5. PRAVO NA STAMBENO ZBRINJAVANJE
 
@@ -599,9 +673,15 @@ Djeci smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i djeci zatoče
 
 (1) Pravo na stambeno zbrinjavanje, prednost pri stambenom zbrinjavanju te mogućnost kupnje stanova uz obročnu otplatu pod pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate, imaju osobe utvrđene ovim Zakonom ako nemaju riješeno stambeno pitanje ili je riješeno na neodgovarajući način, odnosno ako 10 godina neprekidno prebivaju u obiteljskoj kući ili stanu u državnom vlasništvu ili vlasništvu jedinica lokalne samouprave.
 
-(2) Pravo na stambeno zbrinjavanje ostvaruje se dodjelom stambenog kredita za kupnju stana ili kuće, odnosno izgradnju kuće ili stana, za razliku u površini, za nadogradnju, nastavak izgradnje i dovršenje obiteljske kuće, za poboljšanje uvjeta stanovanja, te mogućnošću kupnje stanova uz obročnu otplatu po pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate.
+(2) Pravo na stambeno zbrinjavanje ostvaruje se dodjelom stambenog kredita za kupnju stana ili kuće, odnosno izgradnju kuće ili stana, za razliku u površini, za nadogradnju, nastavak izgradnje i dovršenje obiteljske kuće, za poboljšanje uvjeta stanovanja, dodjelom financijske potpore prilikom kupnje ili izgradnje prve nekretnine (stana ili kuće) na tržištu, dodjelom subvencije na kamate za kredite u komercijalnim bankama do visine tržišne kamate za kupnju ili izgradnju prve nekretnine te mogućnošću kupnje stanova uz obročnu otplatu po pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate i pravom na javni najam stanova u vlasništvu Republike Hrvatske na rok od 10 godina uz mogućnost produljenja nakon isteka, odnosno uz mogućnost kupnje ukoliko najmoprimac ispunjava zakonske pretpostavke za ostvarenje prava na stambeno zbrinjavanje sukladno Zakonu.
 
-(3) Pravo na stambeno zbrinjavanje dodjelom stambenog kredita, odnosno mogućnost kupnje stana uz obročnu otplatu po pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate imaju:
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 2. određene riječi su dodane.
+
+(3) Dragovoljci iz Domovinskog rata, pripadnici borbenog sektora, koji nemaju ostvaren status HRVI, a koji su u obrani suvereniteta Republike Hrvatske sudjelovali najmanje dvije godine, ostvaruju pravo na stambeno zbrinjavanje dodjelom financijske potpore prilikom kupnje prve nekretnine (stana ili kuće) na tržištu, u novčanom iznosu koji je propisima predviđen za HRVI iz Domovinskog rata sa 20% oštećenja organizma, a dragovoljci iz Domovinskog rata, pripadnici borbenog sektora, koji nemaju ostvaren status HRVI, a koji su u obrani suvereniteta Republike Hrvatske sudjelovali najmanje tri godine i više, ostvaruju pravo na stambeno zbrinjavanje dodjelom financijske potpore prilikom kupnje prve nekretnine (stana ili kuće) na tržištu, u novčanom iznosu koji je propisima predviđen za HRVI iz Domovinskog rata sa 30% oštećenja organizma.
+
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12) stupio na snagu 17. prosinca 2012., iza stavka 2. dodan je novi stavak 3.
+
+(4) Pravo na stambeno zbrinjavanje dodjelom stambenog kredita, odnosno mogućnost kupnje stana uz obročnu otplatu po pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate dodjelom financijske potpore prilikom kupnje ili izgradnje prve nekretnine, subvencijom na kamate za kredite u komercijalnim bankama do visine tržišne kamate za kupnju ili izgradnju prve nekretnine, te ostvarenjem prava na javni najam stanova u vlasništvu Republike Hrvatske imaju:
 
 1. članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata,
 
@@ -609,21 +689,27 @@ Djeci smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i djeci zatoče
 
 3. HRVI iz Domovinskog rata od I. do X. skupine.
 
-(4) HRVI iz Domovinskog rata 100% I. skupine koji se kreću isključivo u invalidskim kolicima stambeno se zbrinjavaju po posebnom Programu Vlade Republike Hrvatske izgradnjom kuće s posebnom prilagodbom.
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12) stupio na snagu 17. prosinca 2012., u dosadašnjem stavku 3. koji je postao stavak 4. određene riječi su dodane.
 
-(5) Prednost pri ostvarivanju prava na stambeno zbrinjavanje između članova obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata utvrđuje se prema propisima o nasljeđivanju, na način da članovi obitelji istoga nasljednog reda ostvaruju pravo prema međusobnom sporazumu, s time da to pravo može ostvariti samo jedan član obitelji. Ako se sporazum ne postigne pravo na stambeno zbrinjavanje ima član obitelji koji je imao zajedničko prebivalište sa smrtno stradalim u vrijeme stradavanja.
+(5) HRVI iz Domovinskog rata 100% I. skupine koji se kreću isključivo u invalidskim kolicima stambeno se zbrinjavaju po posebnom Programu Vlade Republike Hrvatske izgradnjom kuće s posebnom prilagodbom.
 
-(6) Iznimno od odredbe stavka 5. ovoga članka ako je u pitanju roditelj smrtno stradaloga hrvatskog branitelja iz Domovinskog rata koji nije stambeno zbrinut može mu se dati stan u najam s pravom na zaštićenu najamninu do njegove smrti, ali bez prava otkupa.
+(6) Prednost pri ostvarivanju prava na stambeno zbrinjavanje između članova obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata utvrđuje se prema propisima o nasljeđivanju, na način da članovi obitelji istoga nasljednog reda ostvaruju pravo prema međusobnom sporazumu, s time da to pravo može ostvariti samo jedan član obitelji. Ako se sporazum ne postigne pravo na stambeno zbrinjavanje ima član obitelji koji je imao zajedničko prebivalište sa smrtno stradalim u vrijeme stradavanja.
 
-(7) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ostvaruju pravo na stambeno zbrinjavanje prema ovom Zakonu ako su u trenutku podnošenja zahtjeva bili mlađi od 15 godina, odnosno ne stariji od 26 godina i ako su na redovitom školovanju.
+(7) Iznimno od odredbe stavka 5. ovoga članka ako je u pitanju roditelj smrtno stradaloga hrvatskog branitelja iz Domovinskog rata koji nije stambeno zbrinut može mu se dati stan u najam s pravom na zaštićenu najamninu do njegove smrti, ali bez prava otkupa.
 
-(8) Pravo na stambeno zbrinjavanje imaju i članovi uže obitelji u slučaju smrti HRVI iz Domovinskog rata, ako su imali zajedničko prebivalište s umrlim u trenutku njegove smrti, s time da to pravo ostvaruju zajedno.
+(8) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ostvaruju pravo na stambeno zbrinjavanje prema ovom Zakonu ako su u trenutku podnošenja zahtjeva bili mlađi od 15 godina, odnosno ne stariji od 26 godina i ako su na redovitom školovanju.
 
-(9) Pravo na stambeno zbrinjavanje korisnici prava ostvaruju na temelju pravomoćnog rješenja o trajno utvrđenom statusu.
+(9) Pravo na stambeno zbrinjavanje imaju i članovi uže obitelji u slučaju smrti HRVI iz Domovinskog rata, ako su imali zajedničko prebivalište s umrlim u trenutku njegove smrti, s time da to pravo ostvaruju zajedno.
+
+(10) Pravo na stambeno zbrinjavanje korisnici prava ostvaruju na temelju pravomoćnog rješenja o trajno utvrđenom statusu.
+
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12) stupio na snagu 17. prosinca 2012., dosadašnji stavci 4., 5., 6., 7., 8. i 9. postali su stavci 5., 6., 7., 8., 9. i 10.
 
 #### Članak 37.
 
-Pravo na stambeno zbrinjavanje dodjelom stambenog kredita ostvaruje se ako osoba iz članka 36. ovoga Zakona nema sljedeće zapreke za ostvarivanje istog:
+Pravo na stambeno zbrinjavanje ostvaruje se ako osoba iz članka 36. ovoga Zakona i članovi njenog obiteljskog kućanstva nemaju sljedeće zapreke za ostvarivanje istog:
+
+Odredbom članka 10. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 37. riječi: »dodjelom stambenog kredita« su brisane, a iza riječi: »ako osoba iz članka 36. ovoga Zakona« dodane su riječi: »i članovi njenog obiteljskog kućanstva«, a riječ: »nema« zamijenjena je riječju: »nemaju«.
 
 – ako ima u vlasništvu odgovarajući stan ili kuću,
 
@@ -633,25 +719,49 @@ Pravo na stambeno zbrinjavanje dodjelom stambenog kredita ostvaruje se ako osoba
 
 – ako je na temelju Zakona o prodaji stanova na kojima postoji stanarsko pravo to isto pravo ustupila drugom stanaru i na navedeni način tom drugom stanaru omogućila kupnju stana po povoljnijim uvjetima,
 
-– ako se odrekla nasljedstva kuće ili stana prema propisima o nasljeđivanju, odnosno da je drugom ustupila ili diobenim ugovorom zamijenila svoj nasljedni dio kuće ili stana za drugo stvarno pravo,
+– ako je drugom ustupila ili diobenim ugovorom zamijenila svoj nasljedni dio kuće ili stana za drugo stvarno pravo prema propisima o nasljeđivanju,
+
+Odredbom članak 3. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011.) u članku 37. podstavak 5. je izmijenjen.
 
 – ako je stambeno zbrinuta putem Zakona o obnovi na način da je obnovljena kuća ili stan bila IV., V. ili VI. kategorija oštećenja, a na istoj su navedene I. – V. faza obnove,
 
-– ako je stambeno zbrinuta dodjelom stana, odnosno stambenog kredita prema ranije važećem Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+– ako je stambeno zbrinuta dodjelom stana, odnosno stambenog kredita prema ranije važećem Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji,
+
+– ako je stambeno zbrinuta putem Zakona o područjima posebne državne skrbi darovanjem kuće ili stana u državnom vlasništvu, darovanjem građevinskog materijala za popravak, obnovu i nadogradnju odnosno, izgradnju obiteljske kuće ili stana
+
+– ako je stambeno zbrinuta po drugom posebnom propisu na teret državnog proračuna Republike Hrvatske.
+
+Odredbom Članak 3. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u članku 37. iza podstavka 7. dodan je podstavak 8.
+
+Odredbom članka 10. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza podstavka 8. brisana je točka i dodan je podstavak 9.
+
+(2) Zapreke propisane stavkom 1. ovog članka ne primjenjuju se kada se stambeno zbrinjavaju djeca smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata bez oba roditelja i djeca smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata bez roditeljske skrbi.
+
+Odredbom članka 10. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 1. dodan je stavak 2.
 
 #### Članak 38.
 
-(1) Osobe iz članka 36. stavka 3. ovoga Zakona koje ostvaruju pravo na stambeno zbrinjavanje dodjelom stambenog kredita to pravo ostvaruju sljedećim redoslijedom:
+(1) Osobe iz članka 36. ovoga Zakona koje ostvaruju pravo na stambeno zbrinjavanje dodjelom stambenog kredita to pravo ostvaruju sljedećim redoslijedom:
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. riječi: »stavka 3.« je brisana.
 
 1. djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, te ostali članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata s oštećenjem organizma od 100% I. i II. skupine,
 
-2. HRVI iz Domovinskog rata prema stupnju oštećenja organizma (od 90% do 50%),
+2. HRVI iz Domovinskog rata prema stupnju oštećenja organizma (od 90% do 20%),
 
-3. HRVI iz Domovinskog rata prema stupnju oštećenja organizma (od 40% do 20%).
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u točki 2. brojka: »50« zamijenjena je brojkom: »20«.
+
+3. Brisana točka 3.
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., točka 3. je brisana.
 
 (2) Stambeno zbrinjavanje osigurat će se prema raspoloživim sredstvima, a pod istim se podrazumijevaju financijska sredstva, odnosno kuće i stanovi u državnom vlasništvu koja kao i koje za stambeno zbrinjavanje stradalnika Domovinskog rata osigurava Republika Hrvatska, te jedinice lokalne samouprave koje osiguravaju sredstva za odgovarajuće građevinsko zemljište, uređenje komunalne infrastrukture i priključke na infrastrukture, odnosno podmirenje troškova koji se odnose na infrastrukturu i priključke kao i troškove komunalnog doprinosa.
 
-(3) Osobe koje ostvare pravo na stambeno zbrinjavanje dodjelom stambenog kredita, stambeni kredit mogu koristiti:
+(3) Financijska sredstva ostvarena s osnove utvrđenog prava na stambeno zbrinjavanje dodjelom stambenog kredita izuzeta su od ovrhe.
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 2. dodan je novi stavak 3.
+
+(4) Osobe koje ostvare pravo na stambeno zbrinjavanje dodjelom stambenog kredita, stambeni kredit mogu koristiti:
 
 – za kupnju stana izgrađenog u organiziranoj izgradnji ili
 
@@ -667,25 +777,33 @@ Pravo na stambeno zbrinjavanje dodjelom stambenog kredita ostvaruje se ako osoba
 
 – za poboljšanje uvjeta stanovanja.
 
-(4) Stan, odnosno kuća stečena na način propisan u stavku 2. ovoga članka u osobnom je vlasništvu nositelja prava osim u slučaju ako su pravo stekli članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i u tom slučaju su stečene nekretnine suvlasništvo članova obitelji i ne mogu se otuđiti dok su članovi obitelji malodobni.
+(5) Stan, odnosno kuća stečena na način propisan u stavku 2. ovoga članka u osobnom je vlasništvu nositelja prava osim u slučaju ako su pravo stekli članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i u tom slučaju su stečene nekretnine suvlasništvo članova obitelji i ne mogu se otuđiti dok su članovi obitelji malodobni.
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji stavci 3. i 4. postali su stavci 4. i 5.
 
 #### Članak 39.
 
-(1) Organizirana izgradnja provodi se putem Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, a u suradnji s Ministarstvom mora, turizma, prometa i razvitka, sukladno poslovima iz njihova djelokruga utvrđenim Zakonom o ustrojstvu i djelokrugu središnjih tijela državne uprave.
+(1) Organizirana izgradnja provodi se putem Agencije za pravni promet i posredovanje nekretninama, a u suradnji s ministarstvom nadležnim za graditeljstvo i prostorno uređenje, sukladno poslovima iz njihova djelokruga.
+
+Odredbom članka 12. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., stavak 1. je izmijenjen.
 
 (2) Organizirana izgradnja provodi se prema mjestu prebivališta korisnika u vrijeme stradavanja, odnosno u mjestu u kojem korisnik prava ima prebivalište neprekidno 5 godina od 1991. godine ili je u tom mjestu boravio kao prognanik neprekidno 5 i više godina i pisanom izjavom pod materijalnom i kaznenom odgovornošću iskazao da se u tom mjestu želi trajno nastaniti jer ga za to vežu obiteljske i druge prilike.
 
 (3) Građevinsko zemljište i komunalno opremanje za organiziranu izgradnju ustupaju jedinice lokalne samouprave na čijem se području provodi program organizirane izgradnje. Jedinice lokalne samouprave mogu ostvariti povrat sredstava za ustupljeno građevinsko zemljište i komunalno opremanje od jedinice lokalne samouprave u kojoj korisnik stambenog zbrinjavanja iz ovoga Zakona ima prebivalište.
 
-(4) Jedinice lokalne samouprave mogu provoditi izgradnju objekata za potrebe osoba iz članka 36. stavka 3. ovoga Zakona na području te lokalne samouprave i mimo redoslijeda utvrđenog člankom 38. stavkom 1. ovoga Zakona ako korisnici stambenog kredita imaju prebivalište na tom području.
+(4) Jedinice lokalne samouprave mogu provoditi izgradnju objekata za potrebe osoba iz članka 36. stavka 4. ovoga Zakona na području te lokalne samouprave i mimo redoslijeda utvrđenog člankom 38. stavkom 1. ovoga Zakona ako korisnici stambenog kredita imaju prebivalište na tom području.
+
+Odredbom članka 12. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 4. brojka: »3« zamijenjena je brojkom: »4«.
 
 #### Članak 40.
 
 (1) Jedinice lokalne samouprave dužne su, u slučaju kad osoba iz članka 36. ovoga Zakona koristi stambeni kredit za izgradnju obiteljske kuće u mjestu prebivališta sukladno članku 39. stavku 2. ovoga Zakona, ustupiti bez naknade građevinsko zemljište i komunalno opremanje.
 
-(2) Pravo na komunalno opremanje stambenog objekta imaju i osobe iz članka 36. ovoga Zakona ako ostvaruju pravo na dodjelu stambenog kredita za poboljšanje uvjeta stanovanja na istome stambenom objektu, kao i osobe koje nisu podnijele zahtjev za stambeno zbrinjavanje, ako se u posebnom postupku utvrdi da bi imale to pravo, o čemu Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti izdaje odgovarajuću potvrdu.
+(2) Pravo na komunalno opremanje stambenog objekta imaju i osobe iz članka 36. ovoga Zakona ako ostvaruju pravo na dodjelu stambenog kredita za poboljšanje uvjeta stanovanja na istome stambenom objektu, kao i osobe koje nisu podnijele zahtjev za stambeno zbrinjavanje, ako se u posebnom postupku utvrdi da bi imale to pravo, o čemu Ministarstvo nadležno za branitelje izdaje odgovarajuću potvrdu.
 
-(3) U komunalno opremanje građevinskog zemljišta iz stav­ka 1. ovoga članka podrazumijevaju se:
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+(3) U komunalno opremanje građevinskog zemljišta iz stavka 1. ovoga članka podrazumijevaju se:
 
 – uređenje pristupne ceste, javne rasvjete i okoliša potrebnih za korištenje građevine izgrađene na ustupljenom zemljištu,
 
@@ -697,15 +815,19 @@ Pravo na stambeno zbrinjavanje dodjelom stambenog kredita ostvaruje se ako osoba
 
 (1) Sredstva za stambeno zbrinjavanje osoba koje ostvaruju prava na dodjelu stambenog kredita osigurat će se u državnom proračunu i proračunima jedinica lokalne samouprave ili u vrijednosti kuća i stanova u vlasništvu Republike Hrvatske.
 
-(2) Sredstva ostvarena otplatom kredita i obročnom prodajom kuća i stanova uplaćivat će se na račun Ministarstva obitelji, branitelja i međugeneracijske solidarnosti do završetka provođenja programa stambenog zbrinjavanja prema ovom Zakonu.
+(2) Sredstva ostvarena otplatom kredita (glavnica i kamate) i obročnom prodajom stanova i kuća uplaćivat će se na račun Ministarstva do završetka provođenja programa stambenog zbrinjavanja sukladno ovom Zakonu.
 
-(3) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti dužno je voditi cjelokupnu evidenciju prodanih stanova i drugih nekretnina, pratiti obročnu otplatu i naplatu dodijeljenih stambenih kredita, voditi evidenciju o naplati, uplaćenim sredstvima te prispjelim financijskim i drugim obvezama u vezi sa stambenim zbrinjavanjem prema ovom Zakonu ili je dio tih poslova dužno povjeriti poslovnoj banci na temelju Ugovora o poslovnoj suradnji.
+Odredbom članka 13. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., stavak 2. je izmijenjen.
+
+(3) Ministarstvo nadležno za branitelje dužno je voditi cjelokupnu evidenciju prodanih stanova i drugih nekretnina, pratiti obročnu otplatu i naplatu dodijeljenih stambenih kredita, voditi evidenciju o naplati, uplaćenim sredstvima te prispjelim financijskim i drugim obvezama u vezi sa stambenim zbrinjavanjem prema ovom Zakonu ili je dio tih poslova dužno povjeriti poslovnoj banci na temelju Ugovora o poslovnoj suradnji.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 #### Članak 42.
 
 (1) Osobe koje ostvaruju pravo na dodjelu stambenog kredita prema ovom Zakonu, dodijeljeni kredit otplaćuju umanjen za iznos postotka oštećenja organizma, s tim da su članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata s 90% i 80% oštećenja organizma izjednačeni s HRVI iz Domovinskog rata sa 100% oštećenja organizma.
 
-(2) Kada se stambeni kredit koristi prema odredbama ovoga Zakona, HRVI iz Domovinskog rata plaćat će kamatu po slje­dećim kamatnim stopama:
+(2) Kada se stambeni kredit koristi prema odredbama ovoga Zakona, HRVI iz Domovinskog rata plaćat će kamatu po sljedećim kamatnim stopama:
 
 – za HRVI iz Domovinskog rata od 50% i više od 50% oštećenja organizma po stopi od 2%,
 
@@ -719,35 +841,49 @@ Pravo na stambeno zbrinjavanje dodjelom stambenog kredita ostvaruje se ako osoba
 
 #### Članak 43.
 
-Stambeni kredit i druga prava vezana za stambeno zbrinjavanje ostvaruju se za odgovarajuću stambenu površinu i određuju se prema broju članova obitelji i to:
+(1) Stambeni kredit i druga prava vezana za stambeno zbrinjavanje ostvaruju se za odgovarajuću stambenu površinu i određuju se prema broju članova obitelji i to:
 
-a) samac – 35m<sup>2</sup>
+a) samac – 35 m2
 
-b) dvočlana obitelj – 45m<sup>2</sup>
+b) dvočlana obitelj – 45 m2
 
-c) tročlana obitelj – 60m<sup>2</sup>
+c) tročlana obitelj – 60 m2
 
-d) četveročlana obitelj – 70m<sup>2</sup>
+d) četveročlana obitelj – 70 m2
 
-e) peteročlana obitelj – 80m<sup>2</sup>
+e) peteročlana obitelj – 80 m2
 
-– za svakoga sljedećeg člana obitelji dodatnih 10m<sup>2</sup> odstupanje od odgovarajuće stambene površine dozvoljeno je samo kod kupnje stana putem stambenog kredita ili dodjele stana izgrađenog u organiziranoj izgradnji, za veličinu +/- 10m<sup>2</sup>.
+– za svakoga sljedećeg člana obitelji dodatnih 10 m2 odstupanje od odgovarajuće stambene površine dozvoljeno je samo kod kupnje stana putem stambenog kredita ili dodjele stana izgrađenog u organiziranoj izgradnji, za veličinu +/– 10m2.
+
+(2) Razliku iznad odgovarajuće stambene površine iz stavka 1. ovoga članka, uključujući dopušteno odstupanje, osoba koja ostvaruje pravo na stambeno zbrinjavanje dužna je platiti po tržišnoj cijeni.
+
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u članku 43. dodan je stavak 2.
 
 #### Članak 44.
 
-Iznos kredita korisne stambene površine kuće ili stana za kupnju stana ili kuće, izgradnju kuće i razliku površine, nadogradnju, odnosno nastavak izgradnje te poboljšanje stambenih uvjeta kao i vrijednost kredita po m<sup>2</sup> neto korisne stambene površine kuće ili stana za osobe iz članka 36. stavka 3. ovoga Zakona regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
+(1) Iznos kredita korisne stambene površine kuće ili stana te iznos subvencije na kamate za kredite u komercijalnim bankama do visine tržišne kamate za kupnju ili izgradnju prve nekretnine za kupnju stana ili kuće, izgradnju kuće i razliku površine, nadogradnju, odnosno nastavak izgradnje te poboljšanje stambenih uvjeta kao i vrijednost kredita po m2 neto korisne stambene površine kuće ili stana za osobe iz članka 36. stavka 4. ovoga Zakona regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
+
+Odredbom članka 14. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. iza riječi: »kuće ili stana« dodane su riječi: »te iznos subvencije na kamate za kredite u komercijalnim bankama do visine tržišne kamate za kupnju ili izgradnju prve nekretnine«, a brojka: »3.« zamijenjena je brojkom: »4.«.
+
+(2) Iznos financijske potpore koju prilikom kupnje prve nekretnine (stana ili kuće) na tržištu ostvaruju osobe iz članka 36. stavaka 3. i 4. ovoga Zakona, kao i drugo važno za priznavanje prava na financijsku potporu, regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
+
+Odredbom članka 14. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 1. dodan je stavak 2.
 
 #### Članak 45.
 
-Pravo na stambeno zbrinjavanje po ovom Zakonu imaju i osobe iz članka 36. stavka 3. ovoga Zakona kojima je djelomično obnovljena kuća ili stan na način i u iznosu koji će se regulirati uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
+Pravo na stambeno zbrinjavanje po ovom Zakonu imaju i osobe iz članka 36. stavka 4. ovoga Zakona kojima je djelomično obnovljena kuća ili stan na način i u iznosu koji će se regulirati uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
+
+Odredbom članka 15. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., brojka: »3.« zamijenjena je brojkom: »4.«.
 
 #### Članak 46.
 
-Iznos stambenog kredita za kupnju stana ili kuće u vlastitoj organizaciji utvrđuje se prema predugovoru o kupoprodaji, a najviši iznos stambenog kredita po m<sup>2</sup> odgovarajuće površine stana iz članka 43. ovoga Zakona regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
+Iznos stambenog kredita za kupnju stana ili kuće u vlastitoj organizaciji utvrđuje se prema predugovoru o kupoprodaji, a najviši iznos stambenog kredita po m2 odgovarajuće površine stana iz članka 43. ovoga Zakona regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.
 
 #### Članak 47.
 
-Vlada Republike Hrvatske uredbom će utvrditi visinu te način i postupak ostvarivanja prava na dodjelu stambenog kredita, kao i druga pitanja i uvjete vezane za dodjelu stambenog kredita te kupnju stanova i kuća uz obročnu otplatu.
+Vlada Republike Hrvatske uredbom će utvrditi visinu te način i postupak ostvarivanja prava na dodjelu stambenog kredita, kao i druga pitanja i uvjete vezane za dodjelu stambenog kredita te kupnju stanova i kuća uz obročnu otplatu i uvjete i način ostvarenja prava na dodjelu i korištenje stanova u javnom najmu koji su u vlasništvu Republike Hrvatske.
+
+Odredbom članka 16. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 47. na kraju teksta brisana je točka i dodane su riječi: »i uvjete i način ostvarenja prava na dodjelu i korištenje stanova u javnom najmu koji su u vlasništvu Republike Hrvatske«.
 
 #### Članak 48.
 
@@ -757,23 +893,37 @@ Vlada Republike Hrvatske uredbom će utvrditi visinu te način i postupak ostvar
 
 #### Članak 49.
 
-Vlada Republike Hrvatske uredbom će prenijeti pravo upravljanja stanovima i kućama u vlasništvu Republike Hrvatske, a na upravljanju – Ministarstva unutarnjih poslova, Ministarstva obrane Republike Hrvatske, Ministarstva pravosuđa, Agencije za pravni promet i posredovanje nekretninama, Ureda za državnu imovinu Republike Hrvatske, a na koje se ne odnose odredbe Zakona o prodaji stanova na kojima postoji stanarsko pravo, te ih koriste osobe iz ovoga Zakona, na Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti.
+(1) Vlada Republike Hrvatske odlukom će prenijeti pravo upravljanja stanovima i kućama u vlasništvu Republike Hrvatske, a na upravljanju: Ministarstva unutarnjih poslova, Ministarstva obrane, Ministarstva pravosuđa, Agencije za pravni promet i posredovanje nekretninama, Državnog ureda za upravljanje državnom imovinom, Agencije za upravljanje državnom imovinom, Hrvatskih šuma d.o.o. Zagreb, Hrvatskih voda, pravne osobe za upravljanje vodama Zagreb, Hrvatske elektroprivrede d.d. Zagreb i Hrvatskog zavoda za zdravstveno osiguranje, a na koje stanove se ne odnose odredbe Zakona o prodaji stanova na kojima postoji stanarsko pravo i Odluke o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane (»Narodne novine« br. 116/11.), i koriste ih osobe iz članka 36. ovoga Zakona, na Ministarstvo.
+
+(2) Od primjene stavka 1. ovoga članka izuzeti su stanovi i kuće koji se nalaze na područjima od posebne državne skrbi.
+
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., članak 49. je izmijenjen.
 
 #### Članak 50.
 
-Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti obavlja sve stručne i druge poslove koji se odnose na stambeno zbrinjavanje.
+Ministarstvo nadležno za branitelje obavlja sve stručne i druge poslove koji se odnose na stambeno zbrinjavanje.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 ### 6. PRAVO NA DIONICE, ODNOSNO UDJELE U TRGOVAČKIM DRUŠTVIMA BEZ NAPLATE
 
 #### Članak 51.
 
-(1) Pravo na dionice, odnosno udjele u trgovačkim društvima iz portfelja Hrvatskog fonda za privatizaciju i pravo na dionice, odnosno udjele u pravnim osobama u vlasništvu Republike Hrvat­ske koje su privatizirane ili će se privatizirati, bez naplate, imaju hrvatski branitelji iz Domovinskog rata, HRVI iz Domovinskog rata, članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, sukladno odredbama Zakona o privatizaciji i Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+(1) Pravo na dionice, odnosno udjele u trgovačkim društvima iz portfelja Agencije za upravljanje državnom imovinom i pravo na dionice, odnosno udjele u pravnim osobama u vlasništvu Republike Hrvatske koje su privatizirane ili će se privatizirati, bez naplate, imaju hrvatski branitelji iz Domovinskog rata, HRVI iz Domovinskog rata, članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, sukladno odredbama Zakona o upravljanju državnom imovinom i Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
 
-(2) Osobe iz stavka 1. ovoga članka ostvaruju pravo na dionice, odnosno udjele u trgovačkim društvima bez naplate po mjerilima, u iznosu i po postupku sukladno odredbama Zakona o privatizaciji i Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. riječi: »Zakona o privatizaciji« zamijenjene su riječima: »Zakona o upravljanju državnom imovinom«.
+
+Odredbom članka 18. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. riječi: »Hrvatskog fonda za privatizaciju« zamijenjene su riječima: »Agencije za upravljanje državnom imovinom«.
+
+(2) Osobe iz stavka 1. ovoga članka ostvaruju pravo na dionice, odnosno udjele u trgovačkim društvima bez naplate po mjerilima, u iznosu i po postupku sukladno odredbama Zakona o upravljanju državnom imovinom i Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 2. riječi: »Zakona o privatizaciji« zamijenjene su riječima: »Zakona o upravljanju državnom imovinom«.
 
 #### Članak 52.
 
-Hrvatski branitelji iz Domovinskog rata i obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata te HRVI iz Domovinskog rata oslobađaju se plaćanja poreza na promet dionica, odnosno udjela i poreza na ostvareni prihod od prijenosa dionica, odnosno udjela koji im je ustupio Hrvatski fond za privatizaciju.
+Hrvatski branitelji iz Domovinskog rata i obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata te HRVI iz Domovinskog rata oslobađaju se plaćanja poreza pri prometu dionica, odnosno udjela i poreza na ostvareni prihod od prijenosa dionica, odnosno udjela koji im je ustupila Agencija za upravljanje državnom imovinom.
+
+Odredbom članka 6. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u članku 52. riječi: »poreza na promet« zamijenjene su riječima: »poreza pri prometu«, a riječi: »ustupio Hrvatski fond za privatizaciju« zamijenjene su riječima: »ustupila Agencija za upravljanje državnom imovinom«.
 
 ### 7. OSTALA PRAVA
 
@@ -781,7 +931,9 @@ Hrvatski branitelji iz Domovinskog rata i obitelji smrtno stradaloga hrvatskog b
 
 #### Članak 53.
 
-Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, djeca zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i djeca HRVI iz Domovinskog rata, hrvatski branitelji iz Domovinskog rata, dragovoljac i djeca dragovoljca iz Domovinskog rata izravno se upisuju u srednje škole i visoka učilišta pod uvjetom da prijeđu bodovni, odnosno razredbeni prag, te da zadovolje na ispitu sposobnosti i darovitosti u srednjim školama i visokim učilištima u kojima se provodi prijamni ispit.
+Ukinut
+
+Odlukom Ustavnog suda (»Narodne novine«, br. 2/07.) na sjednici održanoj 20. prosinca 2006. godine, ukinut je članak 53. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04.), Odluka je stupila na snagu 4. siječnja 2007. godine.
 
 ## PRAVO NA STIPENDIJU
 
@@ -789,7 +941,9 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, djeca zatočen
 
 (1) Hrvatski branitelji iz Domovinskog rata, djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, djeca zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i djeca HRVI iz Domovinskog rata, dragovoljac i djeca dragovoljca iz Domovinskog rata imaju pravo na stipendiju tijekom redovitoga srednjoškolskog obrazovanja, redovitoga dodiplomskog studija te pravo na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima jer im redoviti prihodi mjesečno po članu kućanstva ne prelaze dvostruki iznos cenzusa iz članka 88. stavka 1. točke 5. ovoga Zakona.
 
-(2) Uvjeti i mjerila za ostvarivanje prava iz stavka 1. ovoga članka propisuje ministar znanosti, obrazovanja i športa uz suglasnost ministra obitelji, branitelja i međugeneracijske solidarnosti.
+(2) Uvjeti i mjerila za ostvarivanje prava iz stavka 1. ovoga članka propisuje ministar znanosti, obrazovanja i športa uz suglasnost ministra branitelja.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarbnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
 
 #### Članak 55.
 
@@ -805,9 +959,19 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovi
 
 #### Članak 57.
 
-(1) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i njihova djeca i hrvat­ski branitelji iz Domovinskog rata imaju pravo na besplatne obvezatne udžbenike za potrebe redovitoga ili izvanrednog školovanja u osnovnim i srednjim školama, te na visokim učilištima ili veleučilištima pod uvjetom da to pravo ne mogu ostvariti po drugim propisima i ako im redoviti prihodi mjesečno po članu kućanstva ne prelaze dvostruki iznos cenzusa redovitih novčanih prihoda iz članka 88. stavka 1. točke 5. ovoga Zakona.
+(1) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i njihova djeca, djeca umrlih HRVI iz Domovinskog rata i hrvatski branitelji iz Domovinskog rata imaju pravo na besplatne obvezatne udžbenike za potrebe redovitoga ili izvanrednog školovanja u osnovnim i srednjim školama, te na visokim učilištima ili veleučilištima pod uvjetom da to pravo ne mogu ostvariti po drugim propisima i ako im redoviti prihodi mjesečno po članu kućanstva ne prelaze dvostruki iznos cenzusa redovitih novčanih prihoda iz članka 88. stavka 1. točke 8. ovoga Zakona.
 
-(2) Iznos sredstava potrebnih za kupnju udžbenika iz stavka 1. ovoga članka osigurava Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti, a ministar pravilnikom utvrđuje način i postupak dodjele.
+Odredbom članka 19. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. iza riječi: »i njihova djeca« stavljen je zarez i dodane su riječi: »djeca umrlih HRVI iz Domovinskog rata«, a brojka: »5.« zamijenjena je brojkom: »8.«.
+
+(2) Pravo na besplatne obvezatne udžbenike iz stavka 1. ovoga članka imaju i djeca smrtno stradalih, zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata bez oba roditelja neovisno o okolnostima nastupa smrti drugog roditelja, bez obzira na ostvarene redovne mjesečne prihode po članu kućanstva u prethodnoj kalendarskoj godini.
+
+Odredbom članka 19. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 1. dodan je novi stavak 2.
+
+(3) Iznos sredstava potrebnih za kupnju udžbenika iz stavka 1. ovoga članka osigurava Ministarstvo nadležno za branitelje, a ministar pravilnikom utvrđuje način i postupak dodjele.
+
+Odredbom članka 19. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji stavak 2. postao je stavak 3.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »Ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 ## PREDNOST PRI ZAKUPU POSLOVNOG PROSTORA
 
@@ -841,9 +1005,11 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovi
 
 (1) HRVI Domovinskog rata koji nisu sposobni za kretanje bez invalidskih kolica i drugih ortopedskih pomagala i slijepi HRVI imaju pravo na prilagodbu prilaza do zgrade i prilagodbu stana za kretanje u kolicima, ako se te prilagodbe mogu izvesti, sukladno posebnim propisima.
 
-(2) Zahtjev za ostvarivanje prava iz stavka 1. ovoga članka podnosi se Ministarstvu zaštite okoliša, prostornog uređenja i graditeljstva.
+(2) Zahtjev za ostvarivanje prava iz stavka 1. ovoga članka podnosi se ministarstvu nadležnom za branitelje (u daljnjem tekstu: Ministarstvo).
 
-(3) Postupak i način prilagodbe te rokovi za izvođenje prilagodbe koji ne mogu biti duži od 6 mjeseci utvrđuju se pravilnikom koji donosi ministar zaštite okoliša, prostornog uređenja i graditeljstva uz suglasnost ministra unutarnjih poslova.
+Odredom članka 20. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 2. riječi: »Ministarstvu zaštite okoliša, prostornog uređenja i graditeljstva« zamijenjene su riječima: »ministarstvo nadležno za branitelje (u daljnjem tekstu: Ministarstvo)«.
+
+(3) Postupak i način prilagodbe te rokovi za izvođenje prilagodbe koji ne mogu biti duži od 6 mjeseci utvrđuju se pravilnikom koji donosi ministar nadležan za branitelje (u daljnjem tekstu: ministar branitelja) uz suglasnost ministra unutarnjih poslova.
 
 (4) Pravo na prilagodbu iz stavka 1. ovoga članka HRVI iz Domovinskog rata može ostvariti samo jednokratno.
 
@@ -851,7 +1017,9 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovi
 
 #### Članak 60.
 
-(1) HRVI iz Domovinskog rata s oštećenjem organizma od 100% I. skupine ima pravo na osobni automobil s ugrađenim odgovarajućim prilagodbama koji mu u vlasništvo dodjeljuje Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti svakih 7 godina.
+(1) HRVI iz Domovinskog rata s oštećenjem organizma od 100% I. skupine ima pravo na osobni automobil s ugrađenim odgovarajućim prilagodbama koji mu u vlasništvo dodjeljuje ministarstvo nadležno za branitelje svakih 7 godina.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 (2) Bračni drug, punoljetna djeca i roditelji smrtno stradalih, zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata imaju pravo na uvoz osobnog automobila bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost jednokratno, ako to pravo do sada nisu iskoristili.
 
@@ -861,13 +1029,25 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovi
 
 (5) Pravo na povlastice iz stavka 2. ovoga članka ako su roditelji razvedeni, ima roditelj s kojim je smrtno stradali ili zatočeni ili nestali hrvatski branitelj iz Domovinskog rata živio u zajedničkom kućanstvu najmanje 5 godina prije smrtnog stradavanja, odnosno od dana utvrđivanja da je osoba zatočena ili nestala.
 
-(6) Ako korisnik povlastice iz stavka 2. i 3. ovoga članka osobni automobil proda, daruje ili u cijelosti otuđi u roku od dvije godine od nabave obvezan je platiti carinu, posebni porez i porez na dodanu vrijednost kojih je bio oslobođen pri uvozu.
+(6) Ako korisnik povlastice iz stavka 2. i 3. ovoga članka osobni automobil proda, daruje, prestane osobno upotrebljavati ili koristiti, ili u cijelosti otuđi u roku od četiri godine od nabave, obvezan je platiti carinu, posebni porez i porez na dodanu vrijednost kojih je bio oslobođen pri uvozu.
 
-(7) Ako HRVI iz Domovinskog rata ili član obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata umre prije isteka roka od 2 godine od nabave automobila, zakonski nasljednici mogu prodati automobil koji su naslijedili bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost.
+Odredbom članka 1. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., stavak 6. je izmijenjen.
 
-(8) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti obvezno je osigurati automobile iz stavka 1. ovoga članka u roku od 6 mjeseci od podnošenja zahtjeva.
+(7) Ako HRVI iz Domovinskog rata ili član obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata umre prije isteka roka od četiri godine od nabave automobila, zakonski nasljednici mogu prodati automobil koji su naslijedili bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost.
 
-(9) Vlada Republike Hrvatske utvrdit će uredbom uvjete i postupak ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+Odredbom članka 1. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., stavak 7. je izmijenjen.
+
+(8) Ministarstvo nadležno za branitelje obvezno je osigurati automobile iz stavka 1. ovoga članka u roku od 6 mjeseci od podnošenja zahtjeva.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+(9) Vlada Republike Hrvatske utvrdit će uredbom najvišu vrijednost osobnog automobila, uvjete za plaćanje carine, posebnog poreza, poreza na dodanu vrijednost kojih je bio oslobođen pri uvozu te uvjete i postupak ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+
+Odredbom članka 1. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., stavak 9. je izmijenjen.
+
+Odredbom članka 2. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., odredbe članka 60. prestaju važiti u dijelu kojim se propisuje oslobađanja od plaćanja carina danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Odredbom članka 3. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., odredbe članka 60. prestaju važiti u dijelu kojim se propisuje oslobađanja od plaćanja poreza na dodanu vrijednost i posebnog poreza stupanjem na snagu Zakona o porezu na dodanu vrijednot i propisa o posebnim porezima usklađenih s pravnom stečevinom Europske unije.
 
 #### Članak 61.
 
@@ -876,6 +1056,10 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovi
 (2) Nezaposleni HRVI iz Domovinskog rata, dragovoljac, hrvatski branitelj iz Domovinskog rata i obitelj smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja iz Domovinskog rata oslobođeni su od plaćanja carine i poreza na dodanu vrijednost kada uvoze strojeve i opremu za obavljanje gospodarske djelatnosti, odnosno samostalne profesionalne djelatnosti, sukladno posebnim propisima.
 
 (3) U ostvarivanju prava iz stavka 2. ovoga članka primjenjuju se odredbe iz članka 60. stavka 6. i 7. ovoga Zakona.
+
+Odredbom članka 2. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., odredbe članka 61. prestaju važiti u dijelu kojim se propisuje oslobađanja od plaćanja carina danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Odredbom članka 3. Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 65/09.) stupio na snagu 13. lipnja 2009., odredbe članka 61. prestaju važiti u dijelu kojim se propisuje oslobađanja od plaćanja poreza na dodanu vrijednost i posebnog poreza stupanjem na snagu Zakona o porezu na dodanu vrijednot i propisa o posebnim porezima usklađenih s pravnom stečevinom Europske unije.
 
 ## OSLOBOĐENJE OD PLAĆANJA NAKNADE ZA PRENAMJENU POLJOPRIVREDNOGA ZEMLJIŠTA
 
@@ -889,7 +1073,7 @@ Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovi
 
 #### Članak 63.
 
-Od plaćanja sudskih, upravnih i javnobilježničkih pristojbi u postupku ostvarivanja prava iz ovoga Zakona oslobođeni su članovi obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvat­skog branitelja iz Domovinskog rata i HRVI Domovinskog rata na temelju odgovarajućih isprava kojima dokazuju svoj status.
+Od plaćanja sudskih, upravnih i javnobilježničkih pristojbi u postupku ostvarivanja prava iz ovoga Zakona oslobođeni su članovi obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI Domovinskog rata na temelju odgovarajućih isprava kojima dokazuju svoj status.
 
 ## PRAVO NA OBNOVU
 
@@ -899,13 +1083,11 @@ Od plaćanja sudskih, upravnih i javnobilježničkih pristojbi u postupku ostvar
 
 (2) Pravo na obnovu kao oblik stambenog zbrinjavanja isključuje pravo na dodjelu stana, odnosno stambenog kredita osim u slučaju iz članka 45. ovoga Zakona.
 
-(3) Članovi obitelji smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata, koji na teritoriju Republike Hrvatske nemaju u vlasništvu, odnosno koji nisu ostvarili pravo na odgovarajuću kuću ili stan, mogu sukladno Zakonu o obnovi, ostvariti pravo na obnovu potrebne stambene površine u obiteljskom domu prema broju članova svoje uže obitelji, i to 35 m<sup>2</sup>za prvog člana obitelji, te 10 m<sup>2</sup>za svakoga sljedećeg člana obitelji, uključujući i pravo na ime osobe smrtno stradaloga zatočenoga ili nestaloga hrvat­skog branitelja iz Domovinskog rata.
+(3) Članovi obitelji smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata, koji na teritoriju Republike Hrvatske nemaju u vlasništvu, odnosno koji nisu ostvarili pravo na odgovarajuću kuću ili stan, mogu sukladno Zakonu o obnovi, ostvariti pravo na obnovu potrebne stambene površine u obiteljskom domu prema broju članova svoje uže obitelji, i to 35 m2 za prvog člana obitelji, te 10 m2 za svakoga sljedećeg člana obitelji, uključujući i pravo na ime osobe smrtno stradaloga zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata.
 
 (4) U slučaju iz stavka 3. ovoga članka smatra se da su članovi obitelji smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata ostvarili pravo na stambeno zbrinjavanje.
 
-## GLAVA III.
-
-## PRAVA HRVI IZ DOMOVINSKOG RATA NA OSNOVI OŠTEĆENJA ORGANIZMA
+## GLAVA III. — PRAVA HRVI IZ DOMOVINSKOG RATA NA OSNOVI OŠTEĆENJA ORGANIZMA
 
 #### Članak 65.
 
@@ -939,7 +1121,9 @@ Od plaćanja sudskih, upravnih i javnobilježničkih pristojbi u postupku ostvar
 
 (4) O HRVI iz Domovinskog rata kojima je status priznat na temelju bolesti PTSP vodi se posebna skrb putem centara za psihosocijalnu pomoć.
 
-(5) Nalaz i mišljenje o oštećenju organizma iz stavka 1. i 3. ovoga članka daju liječnička povjerenstva u prvom i drugom stupnju koja imenuje ministar obitelji, branitelja i međugenera­cij­ske solidarnosti.
+(5) Nalaz i mišljenje o oštećenju organizma iz stavka 1. i 3. ovoga članka daju liječnička povjerenstva u prvom i drugom stupnju koja imenuje ministar branitelja.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima su zamijenjene riječima: »ministar branitelja« u odgovarajućim padežima.
 
 ### 1. OSOBNA INVALIDNINA
 
@@ -1003,7 +1187,7 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 #### Članak 71.
 
-(1) Osnovica za određivanje ortopedskog doplatka je mjeseč­ni iznos osobne invalidnine invalida I. skupine.
+(1) Osnovica za određivanje ortopedskog doplatka je mjesečni iznos osobne invalidnine invalida I. skupine.
 
 (2) Ortopedski doplatak iznosi mjesečno:
 
@@ -1023,7 +1207,9 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 (1) Iznimno od odredbe članka 11. ovoga Zakona HRVI iz Domovinskog rata ima pravo na medicinsku, odnosno fizikalnu rehabilitaciju ako mu je ta rehabilitacija prijeko potrebna u svezi s oštećenjem organizma koje je zadobio pod okolnostima iz članka 5. ovoga Zakona i na temelju kojeg mu je priznat status HRVI iz Domovinskog rata, a sukladno uvjetima i mjerilima propisanim Pravilnikom iz stavka 2. ovoga članka.
 
-(2) Pravo iz stavka 1. ovoga članka ostvarivat će se na način i pod uvjetima utvrđenim Pravilnikom koji donosi ministar obitelji, branitelja i međugeneracijske solidarnosti.
+(2) Pravo iz stavka 1. ovoga članka ostvarivat će se na način i pod uvjetima utvrđenim Pravilnikom koji donosi ministar branitelja.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 2. riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministar branitelja«.
 
 ### 5. NAKNADA TROŠKOVA PRIJEVOZA
 
@@ -1033,7 +1219,9 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 (2) Korisnik prava po ovome Zakonu kojemu je određen pratitelj za putovanje radi pregleda pred liječničkim povjerenstvom, odnosno radi korištenja medicinske ili fizikalne rehabilitacije ima pravo na naknadu troškova prijevoza i za pratitelja.
 
-(3) Pravo na naknadu troškova prijevoza iz stavka 1. i 2. ovoga članka ima i osoba koja je podnijela zahtjev za priznanje prava po ovome Zakonu, ako joj je konačnim rješenjem priznato traženo pravo, odnosno povećanje skupine oštećenja organizma.
+(3) Pravo na naknadu troškova prijevoza iz stavka 1. i 2. ovoga članka ima i osoba koja je podnijela zahtjev za priznanje prava po ovome Zakonu, ako joj je izvršnim rješenjem priznato traženo pravo, odnosno povećanje skupine oštećenja organizma.
+
+Odredbom članka 21. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 3. riječ: »konačnim« zamijenjena je riječju: »izvršnim«.
 
 (4) Troškovi prijevoza nadoknađuju se prema cijeni vozne karte za prijevoz autobusom, odnosno drugim razredom željeznice ili brodom.
 
@@ -1043,9 +1231,7 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 Članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i hrvatski branitelji iz Domovinskog rata imaju pravo na jednokratnu novčanu pomoć pod uvjetima i po postupku utvrđenom uredbom Vlade Republike Hrvatske.
 
-## GLAVA IV.
-
-## PRAVA NA OSNOVI GUBITKA, ZATOČENJA ILI NESTANKA ČLANA OBITELJI
+## GLAVA IV. — PRAVA NA OSNOVI GUBITKA, ZATOČENJA ILI NESTANKA ČLANA OBITELJI
 
 ### 1. OBITELJSKA INVALIDNINA
 
@@ -1061,11 +1247,15 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 1. udovica, odnosno udovac stječu pravo na obiteljsku invalidninu kada navrše 40 godina života, a prije navršenih 40 godina života ako su nesposobni za privređivanje,
 
-2. djeca, posvojenici i pastorčad do navršene 15. godine života, odnosno ako su na školovanju do kraja propisanog trajanja redovitog školovanja, ali najkasnije do navršene 26. godine života, a ako su nesposobna za privređivanje, dok ta nesposobnost traje, uz uvjet da je nesposobnost nastupila prije navršene 15. godine života, odnosno za vrijeme redovitog školovanja prije navršene 26. godine života ako je školovanje prekinuto zbog služenja vojnog roka ili bolesti, pravo na obiteljsku invalidninu ove osobe mogu koristiti i za vrijeme služenja vojnog roka, odnosno trajanja bolesti do navršene 26. godine života, a nakon toga najviše još za onoliko vremena koliko su zbog služenja vojnog roka, odnosno bolesti izgubile od redovitog školovanja, ako je redovito školovanje nastavljeno prije 26. godine života,
+2. djeca, posvojenici i pastorčad do navršene 15. godine života, odnosno ako su na školovanju do kraja propisanog trajanja redovitog školovanja, ali najkasnije do navršene 26. godine života, a ako su nesposobna za privređivanje, dok ta nesposobnost traje, uz uvjet da je nesposobnost nastupila prije navršene 15. godine života, odnosno za vrijeme redovitog školovanja prije navršene 26. godine života. Ako je školovanje prekinuto zbog bolesti, pravo na obiteljsku invalidninu ove osobe mogu koristiti i za vrijeme trajanja bolesti do navršene 26. godine života, a nakon toga najviše još za onoliko vremena koliko su zbog bolesti izgubile od redovitog školovanja, ako je redovito školovanje nastavljeno prije 26. godine života,
 
-3. djeca, posvojenici i pastorčad za vrijeme služenja vojnog roka nakon prestanka redovitog školovanja ako je služenje započelo najkasnije 12 mjeseci nakon prestanka redovitog školovanja,
+Odredbom članka 22. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. točka 2. je izmijenjena.
 
-4. djeca koja završe redovito trogodišnje srednjoškolsko obrazovanje, a nastave školovanje u četvrtom razredu po redovitom ili izvanrednom programu za vlastite potrebe, zadržavaju to pravo ako nisu zaposleni.
+Brisana točka 3.
+
+Odredbom članka 22. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., točka 3. je brisana, a dosadašnja točka 4. koja je postala točka 3. je izmijenjena.
+
+3. djeca koja završe redovito trogodišnje srednjoškolsko obrazovanje, a nastave školovanje u četvrtom razredu u redovitom školovanju ili po programu za obrazovanje odraslih, zadržavaju to pravo ako nisu zaposleni.
 
 (2) Ako užu obitelj čine bračni drug s jednim članom ili više članova obitelji iz stavka 1. točke 2. ovoga članka, bračni drug ima pravo na obiteljsku invalidninu kao sukorisnik s njima, bez obzira na uvjete iz stavka 1. točke 1. ovoga članka i to dok i jedno dijete od te djece ima pravo na invalidninu.
 
@@ -1097,7 +1287,7 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 – oba roditelja u iznosu 100% od osnovice mjesečno.
 
-(7) Djeca, posvojenici i pastorčad smrtno stradaloga hrvat­skog branitelja iz Domovinskog rata ostvaruju pravo na obiteljsku invalidninu i nakon završetka ili prekida redovitog školovanja, ako su nezaposlena, a najduže 12 mjeseci nakon prestanka redovitog školovanja.
+(7) Djeca, posvojenici i pastorčad smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ostvaruju pravo na obiteljsku invalidninu i nakon završetka ili prekida redovitog školovanja, ako su nezaposlena, a najduže 12 mjeseci nakon prestanka redovitog školovanja.
 
 #### Članak 79.
 
@@ -1112,6 +1302,12 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 (1) Roditelj čije je jedino dijete smrtno stradalo u obrani suvereniteta Republike Hrvatske ima pravo na obiteljsku invalidninu iz članka 78. stavka 2. ovoga Zakona povećanu za 50%. Pravo na povećanu obiteljsku invalidninu ima i roditelj koji je imao i druge djece a koja su sva smrtno stradala ili umrla do podnošenja zahtjeva za povećanu obiteljsku invalidninu.
 
 (2) Ako obiteljsku invalidninu po stavku 1. ovoga članka koriste oba roditelja kao sukorisnici iznosa obiteljske invalidnine određen po članku 78. stavku 2. ovoga Zakona povećava se za 50%.
+
+(3) Pravo na povećanu obiteljsku invalidninu ima i dijete smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata bez roditeljske skrbi.
+
+(4) Ako obiteljsku invalidninu po stavku 3. ovoga članka koristi više djece – sukorisnika obiteljske invalidnine, iznos invalidnine određen po članku 78. stavak 4. ovoga Zakona povećava se za 50%.
+
+Odredbom članka 23. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 2. dodani su stavci 3. i 4.
 
 ### 3. UVEĆANA OBITELJSKA INVALIDNINA
 
@@ -1133,15 +1329,17 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 #### Članak 82.
 
-(1) Članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata imaju pravo na mjesečnu novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine, uvećane obiteljske invalidnine i obiteljske mirovine koju bi ostvarili kao članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, sukladno odredbama ovoga Zakona. Novčana naknada koju u iznosu obiteljske mirovine primaju članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata umanjuje se mjesečno za 15%.
+(1) Članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata imaju pravo na mjesečnu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine, uvećane obiteljske invalidnine i obiteljske mirovine koju bi ostvarili kao članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, sukladno odredbama ovoga Zakona.
+
+Odredbom članka 2. Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja i članova njihovih obitelji (»Narodne novine« br. 107/07.) stupio na snagu 19. listopada 2007., stavak 1. je izmijenjen.
 
 (2) Ako su naknadu iz stavka 1. ovoga članka ostvarili bračni drug i/ili djeca nestaloga ili zatočenoga hrvatskog branitelja iz Domovinskog rata, roditelji imaju pravo na novčanu naknadu u iznosu obiteljske invalidnine koju bi ostvarili kao roditelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, sukladno odredbama ovoga Zakona.
 
 (3) Članovi obitelji iz stavka 1. i 2. ovoga članka stječu pravo na novčanu naknadu i sva ostala prava iz ovoga Zakona kao i članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata pod uvjetima i u postupku utvrđenim za članove obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata osim prava na obiteljsku invalidninu i mirovinu. Obiteljska invalidnina priznaje im se nakon identifikacije hrvatskog branitelja iz Domovinskog rata po službenoj dužnosti u kontinuitetu nakon prestanka prava na novčanu naknadu u iznosu obiteljske invalidnine.
 
-(4) Dok primaju naknadu iz stavka 1. i 2. ovoga članka imaju pravo na zdravstvenu zaštitu kao članovi obitelji zato­čenoga ili nestaloga hrvatskog branitelja ako zdravstvenu zaštitu ne ostvaruju iz druge osnove.
+(4) Dok primaju naknadu iz stavka 1. i 2. ovoga članka imaju pravo na zdravstvenu zaštitu kao članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja ako zdravstvenu zaštitu ne ostvaruju iz druge osnove.
 
-### 5. PRAVO NA OBITELJSKU INVALIDNINU IZA SMRTI HRVI IZ DOMOVINSKOG RATA
+### 5. PRAVO NA OBITELJSKU INVALIDNINU NAKON SMRTI HRVI IZ DOMOVINSKOG RATA
 
 #### Članak 83.
 
@@ -1151,9 +1349,7 @@ Doplatak za njegu i pomoć druge osobe ne isplaćuje se za vrijeme koje je koris
 
 (3) Bračni drug, djeca i roditelji umrloga HRVI iz Domovinskog rata od I. do IV. skupine koji je do smrti koristio doplatak za njegu i pomoć druge osobe imaju pravo na obiteljsku invalidninu u iznosu propisanom u članku 78. stavku 3. ovoga Zakona.
 
-## GLAVA V.
-
-## PRAVA NA OSNOVI MATERIJALNIH I DRUGIH — POTREBA KORISNIKA
+## GLAVA V. — PRAVA NA OSNOVI MATERIJALNIH I DRUGIH — POTREBA KORISNIKA
 
 ### 1. PRAVO NA POSEBNI DOPLATAK
 
@@ -1169,35 +1365,81 @@ HRVI iz Domovinskog rata ima pravo na posebni doplatak u iznosu od 50% pripadaju
 
 (2) Osoba koja pruža njegu i pomoć ima pravo na naknadu plaće u iznosu osobne invalidnine invalida I. skupine, prava iz mirovinskog i zdravstvenog osiguranja, pravo na doplatak za djecu i prava za vrijeme nezaposlenosti, kao zaposlena osoba prema posebnim propisima.
 
-(3) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti isplaćuje naknadu plaće iz stavka 2. ovoga članka i uplaćuje doprinose na naknadu plaće i iz naknade plaće a sredstva za te namjene osiguravaju se u državnom proračunu.
+(3) Ministarstvo nadležno za branitelje isplaćuje naknadu plaće iz stavka 2. ovoga članka i uplaćuje doprinose na naknadu plaće i iz naknade plaće a sredstva za te namjene osiguravaju se u državnom proračunu.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 (4) Osnovica za uplatu doprinosa je iznos naknade plaće uvećan za doprinos iz plaće.
 
 #### Članak 86.
 
-Mjerila za izbor osobe koja može pružati njegu i pomoć, te postupak i način ostvarivanja prava iz članka 85. ovoga Zakona propisuje pravilnikom ministar obitelji, branitelja i među­genera­cijske solidarnosti.
+Mjerila za izbor osobe koja može pružati njegu i pomoć, te postupak i način ostvarivanja prava iz članka 85. ovoga Zakona propisuje pravilnikom ministar branitelja.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministar branitelja« u odgovarajućim padežima«.
 
 ### 3. PRAVO NA OPSKRBNINU
 
 #### Članak 87.
 
-Pravo na opskrbninu imaju korisnici obiteljske invalidnine, korisnici osobne invalidnine i hrvatski branitelji iz Domovinskog rata koji imaju prebivalište u Republici Hrvatskoj ako su nesposobni za privređivanje i ako ispunjavaju uvjete propisane odredbama članaka 88.–90. ovoga Zakona.
+(1) Pravo na opskrbninu imaju korisnici obiteljske invalidnine, korisnici osobne invalidnine i hrvatski branitelji iz Domovinskog rata koji imaju prebivalište u Republici Hrvatskoj kada su nesposobni za privređivanje ako ispunjavaju uvjete propisane odredbama članaka 88. – 90. ovoga Zakona i ako su sudjelovali u obrani suvereniteta Republike Hrvatske najmanje 100 dana.
+
+Odredbom članka 7. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 137/09.) stupio na snagu 21. studenoga 2009., članak 87. je izmijenjen.
+
+(2) Pravo na puni mjesečni iznos opskrbnine udovica umrlog HRVI iz Domovinskog rata može ostvariti ako ispunjava sljedeće uvjete:
+
+1. da nema priznato pravo na invalidsku, starosnu, prijevremenu ili drugu vrstu mirovine
+
+2. da pravo na obiteljsku mirovinu temeljem Zakona o mirovinskom osiguranju nije priznato djeci umrlog HRVI iz Domovinskog rata
+
+3. da je u trenutku smrti HRVI iz Domovinskog rata imala navršenih 45 godina života
+
+4. da je nezaposlena, da nije korisnica novčane naknade zbog nezaposlenosti i da nema druge redovite prihode iz članka 97. ovoga Zakona godišnje veće od 30% od utvrđene proračunske osnovice u Republici Hrvatskoj.
+
+(3) Pravo iz stavka 2. ovoga članka udovica može koristiti najduže do navršene 50. godine života.
+
+(4) Udovac umrle HRVI iz Domovinskog rata može ostvariti pravo na puni mjesečni iznos opskrbnine ako ispunjava uvjete iz stavka 2. točke 1. do 4. ovoga članka.
+
+(5) Na postupak početka i prestanka prava iz stavka 2. ovoga članka primjenjuju se odgovarajuće odredbe ovoga Zakona kojima je propisano priznavanje prava na opskrbninu.
+
+Odredbom članka 24. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., dodani su stavci 2., 3., 4. i 5.
 
 #### Članak 88.
 
-(1) Osobe iz članka 87. ovoga Zakona pravo na opskrbninu mogu ostvariti pod uvjetom:
+(1) Osobe iz članka 87. stavka 1. ovoga Zakona pravo na opskrbninu mogu ostvariti pod uvjetom:
 
-1. da nisu zaposleni,
+Odredbom članka 25. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. iza riječi: »iz članka 87.« dodane su riječi: »stavka 1.«.
 
-2. da samostalno ne obavljaju gospodarsku ili profesionalnu djelatnost,
+1. da nisu zaposlene,
 
-3. da nisu korisnici mirovine ili mirovine sa zaštitnim dodat­kom veće od osnovice za određivanje opskrbnine,
+2. da samostalno ne obavljaju privrednu ili profesionalnu djelatnost,
+
+3. da nisu korisnici mirovine ili mirovine sa zaštitnim dodatkom veće od osnovice za određivanje opskrbnine,
 
 4. da nisu korisnici novčanog primanja u svezi s profesionalnom rehabilitacijom, odnosno zbog nezaposlenosti,
 
-5. da oni i članovi njihove obitelji u kućanstvu nemaju ukupno druge redovite novčane prihode mjesečno po članu kućanstva veće od 30% od utvrđene proračunske osnovice u Republici Hrvatskoj.
+5. da oni i članovi njihovog kućanstva nisu upisani u registar poljoprivrednih gospodarstava,
 
-(2) Pravo na opskrbninu, pod uvjetima iz stavka 1. ovoga članka, imaju i slijepi članovi obitelji iza smrti HRVI.
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. točka 5. je izmijenjena.
+
+6. da nisu obveznici uplate doprinosa za mirovinsko osiguranje na temelju poljoprivredne djelatnosti,
+
+7. da oni i članovi njihovog kućanstva nisu vlasnici ili korisnici motornog vozila ili motornih plovila dužine preko 6 metara i da nisu vlasnici ili suvlasnici, korisnici ili sukorisnici nekretnina koje im ne služe za podmirenje osnovnih životnih potreba,
+
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. točka 7. je izmijenjena.
+
+8. da oni i članovi njihovog kućanstva nemaju ukupno druge redovne novčane prihode mjesečno po članu kućanstva veće od 30% od utvrđene proračunske osnovice u Republici Hrvatskoj,
+
+Odredbom članka 8. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 1. je izmijenjen.
+
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. točka 8. je izmijenjena.
+
+9. da nisu temeljem rješenja nadležnog tijela smješteni u dom socijalne skrbi ili u zdravstvenu ustanovu ili da nisu smješteni u udomiteljsku obitelj,
+
+10. da nisu na izdržavanju kazne zatvora, osim ako su prije upućivanja na izvršenje kazne zatvora živjeli u zajedničkom kućanstvu s osobama koje su uzdržavali, a iste osobe obvezni su uzdržavati i tijekom izvršenja kazne zatvora.
+
+Odredbom članka 25. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., iza točke 8. dodane su točke 9. i 10.
+
+(2) Pravo na opskrbninu, pod uvjetima iz stavka 1. ovoga članka, imaju i slijepi članovi obitelji nakon smrti HRVI.
 
 #### Članak 89.
 
@@ -1227,7 +1469,9 @@ Sukorisnicima obiteljske invalidnine i korisnicima više invalidnina pripada jed
 
 (4) Ako dva ili više sukorisnika obiteljske invalidnine ispunjavaju uvjete za stjecanje prava na opskrbninu, opskrbnina određena prema stavku 2., odnosno 3. ovoga članka povećava se za 50% za svakoga daljnjeg korisnika.
 
-(5) Ako oba bračna druga ispunjavaju uvjete za stjecanje prava na opskrbninu po različitim osnovama, opskrbnina im se određuje kao jednom korisniku i tako određena povećava za 50% za drugoga bračnog druga.
+(5) Ako oba bračna druga ispunjavaju uvjete za stjecanje prava na opskrbninu, opskrbnina im se određuje kao jednom korisniku i tako određena povećava za 50% za drugoga bračnog druga.
+
+Odredbom članka 26. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 5. riječi: »po različitim osnovama« su brisane.
 
 #### Članak 92.
 
@@ -1235,23 +1479,25 @@ Sukorisnicima obiteljske invalidnine i korisnicima više invalidnina pripada jed
 
 (2) Ako obiteljsku invalidninu koristi više osoba koje žive odvojeno (razvedeni roditelji, djeca rođena u braku i djeca rođena izvan braka i dr.), a prihodi im ne potječu iz zajedničkih izvora, opskrbnina pripada samo onim sukorisnicima koji ispunjavaju uvjete za stjecanje prava na opskrbninu.
 
-(3) Ako dva ili više sukorisnika obiteljske invalidnine iz stav­ka 2. ovoga članka ispunjavaju uvjete za stjecanje prava na opskrbninu, svakome od njih pripada iznos koji bi mu pripadao kao samostalnom korisniku, s time da zbroj tih iznosa ne može biti veći od osnovice za određivanje opskrbnine povećane po članku 91. stavku 4. ovoga Zakona. Ako je zbroj tih iznosa veći, opskrbnina pripada svakom od sukorisnika u omjeru s iznosima koji bi im pripadali kao samostalnim korisnicima.
+(3) Ako dva ili više sukorisnika obiteljske invalidnine iz stavka 2. ovoga članka ispunjavaju uvjete za stjecanje prava na opskrbninu, svakome od njih pripada iznos koji bi mu pripadao kao samostalnom korisniku, s time da zbroj tih iznosa ne može biti veći od osnovice za određivanje opskrbnine povećane po članku 91. stavku 4. ovoga Zakona. Ako je zbroj tih iznosa veći, opskrbnina pripada svakom od sukorisnika u omjeru s iznosima koji bi im pripadali kao samostalnim korisnicima.
 
 #### Članak 93.
 
-Samohranim korisnicima opskrbnina, određena prema član­ku 91. ovoga Zakona, povećava se za 50%.
+Brisan.
+
+Odredbom članak 9. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 137/09.) stupio na snagu 21. studenoga 2009., članak 93. je brisan.
 
 #### Članak 94.
 
-(1) Samohranim, prema ovom Zakonu, smatra se korisnik opskrbnine koji nema mirovinu, ni zemljište, šume u posjedu, vlasništvu ili suvlasništvu čiji proizvodi prema Zakonu služe kao osnovica za obračun poreza na dodanu vrijednost te da u svom kućanstvu nema srodnika sposobnih za privređivanje, niti ima članova obitelji u kućanstvu ili izvan kućanstva koji su zaposleni ili korisnici mirovine ili samostalno obavljaju privrednu ili profesionalnu djelatnost, ili da imaju zemljište, šume u posjedu, vlasništvu ili suvlasništvu čiji proizvodi prema Zakonu služe kao osnovica za obračun poreza na dodanu vrijednost.
+Brisan.
 
-(2) Iznimno od odredbe stavka 1. ovoga članka, pri utvrđi­vanju svojstva samohrane osobe, ne uzima se u obzir pastorčad koja ne živi s njom u kućanstvu.
-
-(3) Ne smatraju se sposobnim za privređivanje, u smislu stav­ka 1. ovoga članka, članovi kućanstva koji su nesposobni za privređivanje prema članku 90. ovoga Zakona ako nisu zaposleni, odnosno samostalno ne obavljaju gospodarsku ili profesionalnu djelatnost.
+Odredbom članak 9. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 137/09.) stupio na snagu 21. studenoga 2009., članak 94. je brisan.
 
 #### Članak 95.
 
-(1) Pravo na opskrbninu i iznos opskrbnine ovise o ukupnom prihodu od poljoprivredne djelatnosti i šumarstva, korisnika opskrbnine i svih članova njegova kućanstva kao i o drugim novčanim prihodima korisnika opskrbnine i članova njegove obitelji koji žive s njim u kućanstvu.
+(1) Pravo na opskrbninu i iznos opskrbnine ovise o ukupnom prihodu od poljoprivredne djelatnosti i šumarstva, korisnika opskrbnine i svih članova njegovog kućanstva kao i o drugim novčanim prihodima korisnika opskrbnine i članova njegovog kućanstva koji žive s njim u kućanstvu.
+
+Odredbom članka 8. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. riječi: »članova njegove obitelji« zamijenjene su riječima: »članova njegovog kućanstva«.
 
 (2) Kućanstvom, u smislu ovoga Zakona, smatra se zajednica života, privređivanja i trošenja ostvarenih prihoda.
 
@@ -1293,7 +1539,9 @@ U druge novčane prihode koji su od utjecaja na opskrbninu ne ulaze obiteljska i
 
 Ovi prihodi dijele se i na unučad korisnika, odnosno člana obitelji o čijem se prihodu radi, ako ih taj član obitelji, odnosno korisnik uzdržava kao članove svoga kućanstva zato što su nesposobni za privređivanje i nemaju roditelje ni prihode ili su im roditelji nesposobni za privređivanje i bez prihoda.
 
-(2) Ako je bračni drug korisnika opskrbnine zaposlen u inozemstvu kod inozemnog poslodavca ili tamo samostalno obavlja gospodarsku ili profesionalnu djelatnost, smatra se da mjesečni prihod po članu kućanstva korisnika prelazi svotu iz članka 88. stavka 1. točke 5. ovoga Zakona.
+(2) Ako je bračni drug korisnika opskrbnine zaposlen u inozemstvu kod inozemnog poslodavca ili tamo samostalno obavlja gospodarsku ili profesionalnu djelatnost, smatra se da mjesečni prihod po članu kućanstva korisnika prelazi svotu iz članka 88. stavka 1. točke 8. ovoga Zakona.
+
+Odredbom članka 27. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 2. brojka: »5.« zamijenjena je brojkom: »8.«.
 
 #### Članak 100.
 
@@ -1303,35 +1551,57 @@ Promjene u iznosu prihoda i broju članova kućanstva, o kojima ovisi pravo na o
 
 #### Članak 101.
 
-(1) Korisniku opskrbnine koji zbog trajnih promjena u zdrav­stvenom stanju ne može sam ispunjavati osnovne životne zahtjeve pripada doplatak za pripomoć u kući, ako ne koristi doplatak za njegu i pomoć druge osobe po ovom Zakonu ili drugim propisima.
+(1) Korisniku opskrbnine koji zbog trajnih promjena u zdravstvenom stanju ne može sam ispunjavati osnovne životne zahtjeve pripada doplatak za pripomoć u kući, ako ne koristi doplatak za njegu i pomoć druge osobe po ovom Zakonu ili drugim propisima.
 
 (2) Doplatak za pripomoć u kući iznosi mjesečno 23% utvrđene proračunske osnovice u Republici Hrvatskoj.
 
 (3) Doplatak za pripomoć u kući ne isplaćuje se za vrijeme koje je korisnik doplatka proveo u zdravstvenoj ustanovi ili drugoj ustanovi u kojoj mu je osigurana njega i pomoć druge osobe.
 
-### 5. PREDNOST PRI SMJEŠTAJU U UMIROVLJENIČKE DOMOVE
+### 5. PREDNOST PRI SMJEŠTAJU U DOMOVE SOCIJALNE SKRBI
+
+Odredbom članka 28. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., podnaslov iza članka 101. je izmijenjen.
 
 #### Članak 102.
 
-Roditelji, udovica ili udovac smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata ovisno o utvrđenom stupnju oštećenja organizma, imaju prednost pri smještaju u umirovljeničke domove.
+Roditelji, udovica ili udovac smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata od 100% oštećenja organizma I. skupine do 80% oštećenja organizma, po navedenom redoslijedu, imaju prednost pri smještaju u domove socijalne skrbi kojima je osnivač Republika Hrvatska ili jedinica lokalne, područne (regionalne) samouprave.
+
+Odredbom članka 29. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., članak 102. je izmijenjen.
 
 ### 6. OBILJEŽAVANJE MJESTA MASOVNIH GROBNICA ŽRTAVA IZ DOMOVINSKOG RATA
 
 #### Članak 103.
 
-Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti osigurava sredstva i donosi godišnji plan o obilježavanju mjesta masovnih grobnica žrtava iz Domovinskog rata na temelju Programa obilježavanja koji donosi Vlada Republike Hrvatske na prijedlog Ministarstva obitelji, branitelja i međugeneracijske solidarnosti.
+Ministarstvo nadležno za branitelje osigurava sredstva i donosi godišnji plan o obilježavanju mjesta masovnih grobnica žrtava iz Domovinskog rata na temelju Programa obilježavanja koji donosi Vlada Republike Hrvatske na prijedlog Ministarstva nadležnog za branitelje.
 
-### 7. OSIGURAVANJE TROŠKOVA POGREBA UZ ODAVANJE VOJNE POČASTI
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+### 7. OSIGURANJE TROŠKOVA POGREBA UZ ODAVANJE VOJNE POČASTI I ODRŽAVANJE GROBNIH MJESTA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA KOJI SU SMRTNO STRADALI U OBRANI SUVERENITETA REPUBLIKE HRVATSKE
+
+Odredbom članka 30. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., podnaslov iza članka 103. je izmijenjen.
 
 #### Članak 104.
 
-(1) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti snosi troškove prijevoza i pogreba posmrtnih ostataka poginuloga hrvatskog branitelja iz Domovinskog rata uz odavanje vojne počasti, nakon postupka ekshumacije i identifikacije.
+(1) Ministarstvo nadležno za branitelje snosi troškove prijevoza i pogreba posmrtnih ostataka smrtno stradaloga hrvatskog branitelja iz Domovinskog rata uz odavanje vojne počasti, nakon postupka ekshumacije i identifikacije.
 
-(2) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti snosi troškove prijevoza posmrtnih ostataka i troškove pogreba umrlog HRVI iz Domovinskog rata i umrloga hrvatskog branitelja iz Domovinskog rata na području Republike Hrvatske uz odavanje vojne počasti, ako obitelj pravovremeno obavijesti Ministarstvo.
+Odredbom članka 31. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. riječ: »poginuloga« zamijenjena je riječima: »smrtno stradaloga«.
 
-## GLAVA VI.
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
-## SREDSTVA ZA PROVOĐENJE ZAKONA
+(2) Ministarstvo nadležno za branitelje snosi troškove prijevoza posmrtnih ostataka i troškove pogreba umrlog HRVI iz Domovinskog rata i umrloga hrvatskog branitelja iz Domovinskog rata na području Republike Hrvatske uz odavanje vojne počasti, ako obitelj pravovremeno obavijesti Ministarstvo.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+(3) Hrvatski branitelji iz Domovinskog rata koji su smrtno stradali u obrani suvereniteta Republike Hrvatske smatraju se povijesno značajnim osobama u smislu Zakona o grobljima (»Narodne novine« br. 19/98.).
+
+(4) Obveznici održavanja grobnih mjesta povijesno značajnih osoba iz stavka 3. ovoga članka su vlasnici groblja u kojima se nalaze grobna mjesta povijesno značajnih osoba iz stavka 3. ovoga članka.
+
+(5) Obveza održavanja grobnih mjesta povijesno značajnih osoba iz stavka 3. ovoga članka odnosi se na grobna mjesta povijesno značajnih osoba iz stavka 3. ovoga članka iza kojih nema živih nasljednika.
+
+(6) Vlasnici groblja dužni su do kraja mjeseca siječnja tekuće godine izvijestiti Ministarstvo o grobnim mjestima povijesno značajnih osoba iz stavka 3. ovoga članka koja su preuzeli na održavanje u prethodnoj kalendarskoj godini. Izvješće sadrži: ime i prezime, datum i godinu pokopa, oznaku grobnog mjesta, reda, polja i grobnog mjesta za svaku povijesno značajnu osobu iz stavka 3. ovoga članka.
+
+Odredbom članka 31. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 2. dodani su stavci 3., 4., 5. i 6.
+
+## GLAVA VI. — SREDSTVA ZA PROVOĐENJE ZAKONA
 
 #### Članak 105.
 
@@ -1341,9 +1611,7 @@ Proračunska osnovica kao osnovica za utvrđivanje prava iz ovoga Zakona utvrđu
 
 Sredstva za ostvarivanje prava iz ovoga Zakona kao i sredstva koja čine razliku između prava koja su priznata po ovome Zakonu i prava koja bi pripadala po posebnim propisima osiguravaju se iz državnog proračuna.
 
-## GLAVA VII.
-
-## NADZOR
+## GLAVA VII. — NADZOR
 
 #### Članak 107.
 
@@ -1351,21 +1619,25 @@ Sredstva za ostvarivanje prava iz ovoga Zakona kao i sredstva koja čine razliku
 
 (2) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona, te pojedinačnim aktima, uvjetima i načinom rada nadziranih pravnih i fizičkih osoba provode inspekcije tijela državne uprave, svaka u okviru svoje nadležnosti, sukladno posebnim propisima.
 
-(3) Nadzor nad zakonitošću rada prvostupanjskih tijela u provedbi ovoga Zakona provodi Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti.
+(3) Nadzor nad zakonitošću rada prvostupanjskih tijela u provedbi ovoga Zakona provodi Ministarstvo nadležno za branitelje.
 
-## GLAVA VIII.
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenje su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
-## PROVEDBENI PROPISI ZA IZVRŠENJE OVOGA ZAKONA
+## GLAVA VIII. — PROVEDBENI PROPISI ZA IZVRŠENJE OVOGA ZAKONA
 
 #### Članak 108.
 
-(1) Ministar obitelji, branitelja i međugeneracijske solidarnosti donosi pravilnike za provedbu ovoga Zakona i to:
+(1) Ministar branitelja donosi pravilnike za provedbu ovoga Zakona i to:
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
 
 1. o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu iz članka 12. ovoga Zakona koja nisu utvrđena kao standard iz osnovnoga zdravstvenog osiguranja,
 
 2. o radu povjerenstva iz članka 32. ovoga Zakona,
 
-3. o dodjeli stambenog kredita članovima obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata iz članka 37. ovoga Zakona,
+3. o dodjeli stambenog kredita članovima obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata iz članka 36. stavak 4. ovoga Zakona,
+
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 140/12.) stupio na snagu 17. prosinca 2012., u točki 3. brojka: »37.« zamijenjena je riječima: »36. stavak 4.«.
 
 4. o dodjeli besplatnih udžbenika iz članka 57. ovoga Zakona,
 
@@ -1381,33 +1653,53 @@ Sredstva za ostvarivanje prava iz ovoga Zakona kao i sredstva koja čine razliku
 
 10. o iznosu troškova pogreba iz članka 104. ovoga Zakona,
 
-11. o utvrđivanju zdravstvenih ustanova za vještačenje činjenice iz članka 123. stavka 1. točke 8. ovoga Zakona,
+11. Brisana
 
-12. o radu liječničkih povjerenstava iz članka 126. ovoga Zakona u postupku za ostvarivanje prava po ovom Zakonu,
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., točka 11. je brisana.
 
-13. o načinu isplate novčanih primanja i drugih troškova po ovom Zakonu,
+11. o radu liječničkih povjerenstava iz članka 126. ovoga Zakona u postupku za ostvarivanje prava po ovom Zakonu,
 
-14. o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima prema ovom Zakonu, te kontroli namjenskih trošenja sredstava,
+12. o načinu isplate novčanih primanja i drugih troškova po ovom Zakonu,
 
-15. o utvrđivanju jedinstvenog registra hrvatskih branitelja iz Domovinskog rata, članova obitelji smrtno stradalih hrvatskih branitelja iz Domovinskog rata, članovima obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i članovima obitelji HRVI iz Domovinskog rata i izdavanju iskaznica o utvrđenom statusu,
+13. o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima prema ovom Zakonu, te kontroli namjenskih trošenja sredstava,
 
-(2) Prije donošenja pravilnika iz točke 1., 5., 6., 7., 8., 9.,11. i 12. iz stavka 1. ovoga članka ministar obitelji, branitelja i međugeneracijske solidarnosti pribavit će o istima suglasnost ministra zdravstva i socijalne skrbi,
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnje točke 12., 13. i 14. postale su točke 11., 12. i 13.
+
+14. o načinu prikupljanja, vođenju i ažuriranju podataka u Registru hrvatskih branitelja iz Domovinskog rata (u daljnjem tekstu: Registar branitelja), a osobito o tehničkim, sigurnosnim i organizacijskim uvjetima za objavu i javno pretraživanje popisa hrvatskih branitelja iz Domovinskog rata iz Registra branitelja, kao i o drugom važnom za Registar branitelja,
+
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnja točka 15. koja je postala točka 14. je izmijenjena.
+
+15. o uvjetima i načinu priznavanja prava na opskrbninu, a osobito o utvrđivanju površina nekretnina koje služe za podmirenje osnovnih životnih potreba, o vrsti i starosti motornih vozila i o utvrđivanju sastava kućanstva.
+
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. iza točke 15. dodana je točka 16.
+
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnja točka 16. postala je točka 15.
+
+16. o uvjetima, načinu i postupku priznavanja prava na jednokratnu novčanu pomoć, a osobito o kriterijima za utvrđivanje iznosa za dodjelu jednokratne novčane pomoći.
+
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza dosadašnje točke 16. koja je postala točka 15., dodana je nova točka 16.
+
+(2) Prije donošenja pravilnika iz točke 1., 5., 6., 7., 8., 9.,11. iz stavka 1. ovoga članka ministar branitelja pribavit će o istima suglasnost ministra zdravlja,
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
+
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 2. riječi: »i 12.« su brisane.
 
 (3) Ministar obrane donijet će provedbeni propis za provedbu odredaba članka 20. i 157. ovoga Zakona.
 
-## GLAVA IX.
-
-## POČETAK, TRAJANJE I PRESTANAK PRAVA
+## GLAVA IX. — POČETAK, TRAJANJE I PRESTANAK PRAVA
 
 #### Članak 109.
 
 Za ostvarivanje prava iz ovoga Zakona:
 
-1. Status hrvatskog branitelja iz Domovinskog rata iz članka 2. stavka 1. ovoga Zakona utvrđuje Ministarstvo obrane, odnosno Ministarstvo unutarnjih poslova na temelju činjenica o kojima vodi službenu evidenciju ili nakon provedenoga upravnog postupka, ukoliko osoba iz članka 2. stavka 1. ovoga Zakona nije upisana u službenoj evidenciji te o tome izdaje potvrdu.
+1. Službene evidencije o priznatim statusima hrvatskog branitelja iz Domovinskog rata iz članka 2. stavka 1. ovoga Zakona vode Ministarstvo obrane, odnosno Ministarstvo unutarnjih poslova, i o tome izdaju potvrde.
 
-Za provođenje postupka utvrđivanje statusa hrvatskog branitelja iz Domovinskog rata za pripadnike naoružanih odreda Narodne zaštite i Hrvatskih obrambenih snaga (HOS-a) nadležne su Uprava za obranu prema mjestu prebivališta podnosioca zahtjeva. O žalbi protiv rješenja Uprave za obranu rješava Pravna služba Ministarstva obrane.
+Odredbom članka 10. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., točka 1. je izmijenjena.
 
-2. Status dragovoljca iz Domovinskog rata iz članka 2. stav­ka 3. ovoga Zakona utvrđuje Ministarstvo obrane, odnosno Ministarstvo unutarnjih poslova na temelju činjenica o kojima vodi službenu evidenciju ili nakon provedenoga upravnog postupka, ukoliko osoba iz članka 2. stavka 3. ovoga Zakona nije upisana u službenoj evidenciji te o tome izdaje potvrdu.
+2. Službene evidencije o priznatim statusima dragovoljca iz Domovinskog rata iz članka 2. stavka 3., 4. i 5. ovoga Zakona vode Ministarstvo obrane, odnosno Ministarstvo unutarnjih poslova, i o tome izdaju potvrde.
+
+Odredbom članka 10. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., točka 2. je izmijenjena.
 
 3. Status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata utvrđuje se u upravnom postupku na temelju pisanog zahtjeva člana obitelji, a na temelju dokaza propisanih ovim Zakonom.
 
@@ -1420,6 +1712,80 @@ Za provođenje postupka utvrđivanje statusa hrvatskog branitelja iz Domovinskog
 7. Status HRVI iz Domovinskog rata na temelju ranjavanja ili ozljede utvrđuje se u upravnom postupku na temelju pisanog zahtjeva hrvatskog branitelja iz Domovinskog rata i dokaza iz ovoga Zakona nakon nalaza i mišljenja liječničkog povjerenstva.
 
 8. Status HRVI iz Domovinskog rata na temelju bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske utvrđuje se u upravnom postupku na temelju pisanog zahtjeva hrvatskog branitelja iz Domovinskog rata nakon nalaza i mišljenja liječničkog povjerenstva.
+
+(2) Osnova za priznavanje prava iz ovoga Zakona, uz ispunjenje drugih uvjeta propisanih Zakonom, je potvrda o statusu hrvatskog branitelja iz Domovinskog rata, odnosno potvrda o statusu dragovoljca iz Domovinskog rata, koja ne može biti starija od 6 mjeseci u trenutku podnošenja zahtjeva.
+
+(3) Odredba stavka 2. ovog članka ne odnosi se na priznavanje prava iz ovoga Zakona osobama iz članka 3. stavka 2. i članka 4. stavka 2. ovoga Zakona.
+
+Odredbom članka 33. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 109. dodani su stavci 2. i 3.
+
+## REGISTAR HRVATSKIH BRANITELJA IZ — DOMOVINSKOG RATA
+
+#### Članak 109.a
+
+(1) Registar branitelja je službena evidencija svih osoba koje imaju priznat status hrvatskog branitelja iz Domovinskog rata.
+
+(2) Registar branitelja se ustrojava u svrhu jačanja digniteta hrvatskih branitelja iz Domovinskog rata i promicanja vrijednosti Domovinskog rata, kao i jačanja časti i ugleda hrvatskih branitelja iz Domovinskog rata, ali i prikupljanja podataka o svim hrvatskim braniteljima iz Domovinskog rata u jednoj jedinstvenoj evidenciji Ministarstva radi bržeg i efikasnijeg ostvarivanja prava hrvatskih branitelja iz Domovinskog rata.
+
+(3) Službena evidencija iz stavka 1. ovoga članka vodi se temeljem službenih podataka Ministarstva obrane i Ministarstva unutarnjih poslova, koje su Ministarstvu dužni dostavljati po službenoj dužnosti.
+
+#### Članak 109.b
+
+(1) Registar branitelja sastoji se od općeg i posebnog dijela i pomoćnih podataka.
+
+(2) Opći dio sadrži sljedeće podatke o hrvatskom branitelju iz Domovinskog rata:
+
+– ime, prezime, ime jednog roditelja,
+
+– datum, mjesto i država rođenja,
+
+– spol,
+
+– mjesto prebivališta i adresa stanovanja,
+
+– status (hrvatski branitelj iz Domovinskog rata ili hrvatski branitelj – dragovoljac iz Domovinskog rata),
+
+– ukupan broj dana sudjelovanja u Domovinskom ratu,
+
+– pripadnost borbenom ili neborbenom sektoru,
+
+– pripadnost Ministarstvu unutarnjih poslova ili Ministarstvu obrane.
+
+(3) U posebni se dio unose sljedeći podaci o hrvatskom branitelju iz Domovinskog rata:
+
+– naziv postrojbe kojoj je pripadao tijekom Domovinskog rata
+
+– razdoblje sudjelovanja u Domovinskom ratu.
+
+(4) Pomoćni podaci u Registru branitelja su podaci koji služe za tehničku podršku, obradu te razmjenu podataka s drugim tijelima i pravnim osobama sukladno pravnim propisima. Popis pomoćnih podataka propisat će se Pravilnikom iz članka 108. stavka 1. točke 14. ovoga Zakona.
+
+(5) Ministarstvo će podatke iz stavaka 2., 3. i 4. ovoga članka ažurirati sukladno podacima dostavljenim iz Ministarstva obrane i Ministarstva unutarnjih poslova.
+
+#### Članak 109.c
+
+(1) U svrhu jačanja digniteta hrvatskih branitelja iz Domovinskog rata i promicanja vrijednosti Domovinskog rata, kao i jačanja časti i ugleda hrvatskih branitelja iz Domovinskog rata, Ministarstvo će učiniti javno dostupnim u elektroničkom obliku popis hrvatskih branitelja iz Domovinskog rata iz Registra branitelja, sa sljedećim podacima:
+
+– ime, ime jednog roditelja, prezime, godina rođenja i mjesto rođenja
+
+– ukupan broj dana sudjelovanja u Domovinskom ratu
+
+– pripadnost borbenom ili neborbenom sektoru prikazanu po broju dana i pripadnosti Ministarstvu unutarnjih poslova ili Ministarstvu obrane.
+
+(2) U svrhu propisanu stavkom 1. ovoga članka Ministarstvo će učiniti javno dostupnim u elektroničkom obliku i podatke iz posebnog dijela Registra branitelja na temelju pisane privole hrvatskog branitelja iz Domovinskog rata, pisanog zahtjeva nasljednika smrtno stradaloga ili umrlog hrvatskog branitelja iz Domovinskog rata, odnosno na osnovi pisanog zahtjeva članova uže obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i uz deklasifikaciju od strane vlasnika podataka.
+
+(3) U slučaju postojanja dviju ili više osoba s istim imenom, istim imenom roditelja i istim prezimenom, istom godinom i mjestom rođenja, bit će dostupan i dan i mjesec rođenja.
+
+(4) Ministarstvo je voditelj zbirke osobnih podataka iz Registra branitelja.
+
+#### Članak 109.d
+
+Osim svrhe iz članka 109.c ovoga Zakona, podaci iz Registra branitelja upotrijebit će se i u sljedeće svrhe:
+
+– za potrebe upravnih postupaka koje vodi Ministarstvo,
+
+– u druge svrhe predviđene zakonom.
+
+Odredbom članka 34. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza članka 109. dodan je podnaslov i članci 109.a, 109.b, 109.c i 109.d.
 
 #### Članak 110.
 
@@ -1459,7 +1825,11 @@ Korisniku opskrbnine koji boravi u inozemstvu prestaje pravo na opskrbninu i pra
 
 #### Članak 117.
 
-(1) Bračni drug stupanjem u brak gubi prava iz ovoga Zakona koja je ostvario kao član obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i umrloga HRVI iz Domovinskog rata od I. do IV. skupine.
+(1) Bračni i izvanbračni drug iz članka 6. ovoga Zakona, stupanjem u brak ili izvanbračnu zajednicu ne gubi prava iz ovoga Zakona koja su ostvarena priznavanjem statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i umrloga HRVI iz Domovinskog rata od I. do IV. skupine.
+
+Odredbom članka 10. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 1. je izmijenjen.
+
+Odredbom članka 35. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., stavak 1. je izmijenjen.
 
 (2) Bračni drug gubi prava iz ovoga Zakona ako zlorabi ili grubo zanemari roditeljske dužnosti i prava prema djeci s kojom koristi ta prava pa mu je roditeljska skrb oduzeta odlukom suda u izvanparničnom postupku.
 
@@ -1485,37 +1855,57 @@ Prava propisana ovim Zakonom ne mogu se nasljeđivati osim novčanih primanja iz
 
 (2) U pogledu zastare isplate novčanih primanja po ovom Zakonu primjenjuju se odredbe ovoga Zakona kojim se uređuje zastara potraživanja.
 
-## GLAVA X.
-
-## POSTUPAK ZA OSTVARIVANJE PRAVA
+## GLAVA X. — POSTUPAK ZA OSTVARIVANJE PRAVA
 
 #### Članak 122.
 
-(1) Nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba u prvom stupnju rješava:
+(1) Nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba je prvostupanjsko tijelo koje po zahtjevu stranke ili po službenoj dužnosti u slučajevima predviđenim ovim Zakonom postupa u upravnim stvarima i rješava o:
 
-– status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i njihovim pravima,
+Odredbom članka 36. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 1. riječi: »nadležno upravno tijelo« zamijenjene su riječima: »nadležni ured državne uprave«.
 
-– status člana obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i njihova prava,
+– statusu člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i njihovim pravima,
 
-– status pastorka,
+– statusu člana obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i njihovim pravima,
 
-– status članova obitelji umrlog HRVI iz Domovinskog rata od I. do IV. skupine i njihovim pravima,
+– statusu pastorka,
 
-– status HRVI iz Domovinskog rata, njegova prava i prava članova njegove obitelji,
+– statusu članova obitelji umrlog HRVI iz Domovinskog rata od I. do IV. skupine i njihovim pravima,
 
-– status zatočenika u neprijateljskom logoru,
+– statusu HRVI iz Domovinskog rata, njihovim pravima i pravima članova njegove obitelji,
 
-– status i prava stradalih pirotehničara i članova njihovih obitelji,
+– statusu zatočenika u neprijateljskom logoru,
 
-– ostale statuse i prava iz ovoga Zakona koji prema posebnim propisima nisu u nadležnosti drugih tijela.
+– statusu i pravima stradalih pirotehničara i članova njihovih obitelji,
 
-(2) Statuse i prava iz stavka 1. ovoga članka u drugom stupnju rješava Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti.
+– o pravu na jednokratnu novčanu pomoć iz članka 74. ovoga Zakona,
 
-(3) Statuse i prava osoba koje nemaju prebivalište na teritoriju Republike Hrvatske u prvom stupnju rješava nadležno uprav­no tijelo Grada Zagreba.
+Odredbom članka 36. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza podstavka 7. dodan je novi podstavak 8.
 
-(4) Prava na stambeno zbrinjavanje rješava u prvom stupnju po skraćenom postupku Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti na temelju zahtjeva korisnika prava iz članka 36. ovoga Zakona.
+– ostalim statusima i pravima iz ovoga Zakona koji prema posebnim propisima nisu u nadležnosti drugih upravnih tijela.
 
-(5) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti pruža stručnu i pravnu pomoć hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji putem svojih područnih jedinica osnovanim u svakoj županiji i Gradu Zagrebu i to:
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 1. je izmijenjen.
+
+Odredbom članka 36. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji podstavak 8. postao je podstavak 9.
+
+(2) Drugostupanjsko tijelo za postupanje po rješenjima upravnih tijela i službenih osoba iz stavka 1. ovoga članka je Ministarstvo nadležno za branitelje.
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 2. je izmijenjen.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Nardone novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima su zamijenjene riječima: »ministarstvo nadležno za branitelja« u odgovarajućim padežima.
+
+(3) Prvostupanjsko tijelo koje rješava o statusima i pravima iz stavka 1. ovoga članka za osobe koje nemaju prebivalište na teritoriju Republike Hrvatske je nadležno upravno tijelo Grada Zagreba.
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 3. je izmijenjen.
+
+(4) Prvostupanjsko tijelo nadležno za rješavanje po zahtjevima stranaka za priznavanje prava na stambeno zbrinjavanje na temelju članka 36. ovoga Zakona je Ministarstvo nadležno za branitelje.
+
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 4. je izmijenjen.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Nardone novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima su zamijenjene riječima: »ministarstvo nadležno za branitelja« u odgovarajućim padežima.
+
+(5) Ministarstvo nadležno za branitelje pruža stručnu i pravnu pomoć hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji putem svojih područnih jedinica osnovanim u svakoj županiji i Gradu Zagrebu i to:
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 – u ostvarivanju statusnih prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji,
 
@@ -1531,35 +1921,65 @@ Prava propisana ovim Zakonom ne mogu se nasljeđivati osim novčanih primanja iz
 
 – u postupku ekshumacije i identifikacije hrvatskih branitelja.
 
+(6) U cilju očuvanja i zaštite digniteta hrvatskih branitelja iz Domovinskog rata u društvu, te prevladavanja i ublažavanja posljedica Domovinskog rata, Ministarstvo provodi sljedeće programe i projekte:
+
+– Nacionalni program psihosocijalne i zdravstvene pomoći sudionicima i stradalnicima iz Domovinskog rata
+
+– Program liječenja HRVI 100% I. skupine u hiperbaričnoj komori
+
+– Program za poboljšanje kvalitete življenja hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji
+
+– Program stručnog osposobljavanja i zapošljavanja hrvatskih branitelja i djece smrtno stradalih, zatočenih ili nestalih hrvatskih branitelja
+
+– Projekt rješavanja pristupačnosti objektima osoba s invaliditetom
+
+– Projekt sufinanciranja izgradnje, postavljanja ili uređenja spomen-obilježja žrtvama stradalim u Domovinskom ratu
+
+– Projekt sufinanciranja troškova pripremnih tečajeva za upis na visoka učilišta
+
+– Program potpora projektima udruga proisteklim iz Domovinskog rata.
+
+(7) Odluku o uvjetima i kriterijima za provođenje programa i projekata iz stavka 6. ovog članka donosi ministar.
+
+Odredbom članka 36. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br, 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 5. dodani su stavci 6. i 7.
+
 #### Članak 123.
 
-(1) Prema ovom Zakonu činjenica da je rana, ozljeda ili smrtno stradavanje nastupilo pod okolnostima iz članka 2. stavka 2. ovoga Zakona dokazuju se samo pisanim dokaznim sredstvima kojima se u smislu ovoga Zakona smatraju:
+(1) Prema ovom Zakonu činjenica da je rana, ozljeda ili smrtno stradavanje nastupilo pod okolnostima iz članka 2. stavka 2. ovoga Zakona dokazuju se javnim ispravama:
+
+Odredbom članka 12. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. riječi: »samo pisanim sredstvima kojima se u smislu ovoga Zakona smatraju« zamijenjene su riječima: »javnim ispravama«.
 
 1. Potvrda o okolnostima smrtnog stradavanja hrvatskog branitelja iz Domovinskog rata je potvrda koju je izdala nadležna postrojba Oružanih snaga Republike Hrvatske, nadležno tijelo Ministarstva obrane, policijska uprava Ministarstva unutarnjih poslova, odnosno Ministarstvo unutarnjih poslova u sjedištu u kojoj se navodi pripadnost postrojbi, vrijeme, mjesto i okolnosti smrtnog stradavanja.
 
-2. Potvrda nadležnih tijela državne vlasti Republike Hrvatske o osobi koja je po nalogu u obavljanju vojnih i drugih dužnosti smrtno stradala je potvrda u kojoj se navodi, vrijeme, mjesto i okolnosti smrtnog stradavanja osobe te po čijem nalogu je obav­ljala dužnosti u obrani suvereniteta Republike Hrvatske.
+2. Potvrda nadležnih tijela državne vlasti Republike Hrvatske o osobi koja je po nalogu u obavljanju vojnih i drugih dužnosti smrtno stradala je potvrda u kojoj se navodi, vrijeme, mjesto i okolnosti smrtnog stradavanja osobe te po čijem nalogu je obavljala dužnosti u obrani suvereniteta Republike Hrvatske.
 
-3. Potvrda o okolnostima uhićenja, odnosno nestanka hrvat­skog branitelja iz Domovinskog rata je potvrda koju je izdala nadležna postrojba Oružanih snaga Republike Hrvatske, nadležno tijelo Ministarstva obrane, policijska uprava Ministarstva unutarnjih poslova, odnosno Ministarstvo unutarnjih poslova u sjedištu u kojoj se navodi pripadnost postrojbi, vrijeme, mjesto i okolnosti uhićenja ili nestanka.
+3. Potvrda o okolnostima uhićenja, odnosno nestanka hrvatskog branitelja iz Domovinskog rata je potvrda koju je izdala nadležna postrojba Oružanih snaga Republike Hrvatske, nadležno tijelo Ministarstva obrane, policijska uprava Ministarstva unutarnjih poslova, odnosno Ministarstvo unutarnjih poslova u sjedištu u kojoj se navodi pripadnost postrojbi, vrijeme, mjesto i okolnosti uhićenja ili nestanka.
 
 4. Potvrda o stradavanju hrvatskog branitelja iz Domovinskog rata je potvrda koju je izdala nadležna postrojba Oružanih snaga Republike Hrvatske, nadležno tijelo Ministarstva obrane, policijska uprava Ministarstva unutarnjih poslova, odnosno Ministarstvo unutarnjih poslova u sjedištu u kojoj se navodi pripadnost postrojbi, vrijeme, mjesto i opis uzroka i okolnosti pod kojima je hrvatski branitelj iz Domovinskog rata ranjen ili ozlijeđen.
 
-5. Potvrda o okolnostima stradavanja osobe koja je po nalogu nadležnih tijela državne vlasti Republike Hrvatske u obav­ljanju vojnih ili drugih dužnosti u obrani suvereniteta Republike Hrvatske ranjena ili ozlijeđena jest potvrda u kojoj se navodi, vrijeme, mjesto i okolnosti stradavanja te po čijem nalogu je obav­ljala dužnosti u obrani suvereniteta Republike Hrvatske.
+5. Potvrda o okolnostima stradavanja osobe koja je po nalogu nadležnih tijela državne vlasti Republike Hrvatske u obavljanju vojnih ili drugih dužnosti u obrani suvereniteta Republike Hrvatske ranjena ili ozlijeđena jest potvrda u kojoj se navodi, vrijeme, mjesto i okolnosti stradavanja te po čijem nalogu je obavljala dužnosti u obrani suvereniteta Republike Hrvatske.
 
 6. Opis ratnog puta je prikaz ratnih zadataka koje je hrvatski branitelj iz Domovinskog rata izvršavao u obrani suvereniteta Republike Hrvatske za vrijeme trajanja Domovinskog rata.
 
 7. Medicinska dokumentacija o liječenju nakon ranjavanja ili ozljede jest dokumentacija o liječenju hrvatskog branitelja iz Domovinskog rata izdana od zdravstvene ustanove, liječničke ordinacije i načelnika ratnog saniteta postrojbe iz vremena nakon ranjavanja ili ozljede te u kontinuitetu do podnošenja zahtjeva.
 
-8. Medicinska dokumentacija da je bolest, pogoršanje bolesti, odnosno pojava bolesti, smrt, odnosno samoubojstvo hrvat­skog branitelja iz Domovinskog rata neposredna posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske jest dokumentacija izdana od zdravstvene ustanove, liječničke ordinacije ili načelnika ratnog saniteta postrojbe koja potječe iz vremena njegova sudjelovanja u obrani suvereniteta Republike Hrvatske ili iz razdoblja deset godina nakon prestanka sudjelovanja u obrani suvereniteta Republike Hrvatske, a iznimno i nakon tog roka ako je putem vještačenja u zdravstvenoj ustanovi od strane stručnog tima te ustanove utvrđeno da je bolest moguća posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske. Zdravstvene ustanove kao konzultantske kuće za vještačenje činjenice iz ovoga članka utvrđuje ministar obitelji, branitelja i međugeneracijske solidarnosti uz suglasnost ministra zdravstva i socijalne skrbi.
+8. Medicinska dokumentacija da je samoubojstvo hrvatskog branitelja iz Domovinskog rata neposredna posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske je dokumentacija izdana od zdravstvene ustanove, liječničke ordinacije ili načelnika ratnog saniteta postrojbe koja potječe iz vremena njegovog sudjelovanja u obrani suvereniteta Republike Hrvatske ili iz razdoblja prestanka sudjelovanja u obrani suvereniteta Republike Hrvatske do počinjenja samoubojstva, a u nedostatku medicinske dokumentacije drugi dokazi koje zatraži vijeće liječničkog povjerenstva iz članka 127. ovoga Zakona.
 
-9. Potvrda o zatočenju u neprijateljskom logoru i nestanku jest potvrda koju izdaje Uprava za zatočene i nestale Ministarstva obitelji, branitelja i međugeneracijske solidarnosti na temelju činjenica o kojima vodi službenu evidenciju.
+Odredbom članka 11. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., u stavku 1. točka 8. je izmijenjena.
+
+Odredbom članka 37. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., točka 8. je izmijenjena.
+
+9. Potvrda o zatočenju u neprijateljskom logoru i nestanku jest potvrda koju izdaje Uprava za zatočene i nestale Ministarstva nadležnog za branitelje na temelju činjenica o kojima vodi službenu evidenciju.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u točki 9. riječi: » Ministarstva obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »Ministarstva nadležnog za branitelje«.
 
 #### Članak 124.
 
-(1) Zahtjev za priznavanje statusa i prava na obiteljsku invalidninu iza hrvatskog branitelja iz Domovinskog rata koji je zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske, umro može se podnijeti u roku 12 mjeseci od smrti te osobe.
+Upravni postupak za priznavanje statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu na temelju samoubojstva hrvatskog branitelja iz Domovinskog rata kao posljedice psihičke bolesti uzrokovane sudjelovanjem u obrani suvereniteta Republike Hrvatske može se pokrenuti na temelju zahtjeva stranke sukladno odredbama ovoga Zakona.
 
-(2) Zahtjev za priznavanje statusa i prava na obiteljsku invalidninu iza hrvatskog branitelja iz Domovinskog rata koji je zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske, umro prije stupanja na snagu ovoga Zakona može se podnijeti u roku 12 mjeseci od stupanja na snagu ovoga Zakona.
+Odredbom članka 12. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., članak 124. je izmijenjen.
 
-(3) Rokovi iz stavka 1. i 2. ovoga članka ne odnose se na podnošenje zahtjeva za obiteljsku invalidninu iza hrvatskog branitelja iz Domovinskog rata koji je izvršio samoubojstvo.
+Odredbom članka 13. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 124. je izmijenjen.
 
 #### Članak 125.
 
@@ -1567,75 +1987,113 @@ Zahtjev za priznavanje statusa HRVI iz Domovinskog rata na temelju bolesti, pogo
 
 #### Članak 126.
 
-Oštećenje organizma, pravo na doplatak za njegu i pomoć druge osobe, pravo na ortopedski doplatak, pravo za pripomoć u kući, nesposobnost za privređivanje, činjenica je li smrt ili samoubojstvo hrvatskog branitelja iz Domovinskog rata u uzročno posljedičnoj vezi s izravnim sudjelovanjem hrvatskog branitelja u obrani suvereniteta Republike Hrvatske utvrđuju se na temelju nalaza i mišljenja liječničkog povjerenstva.
+Činjenica o uzroku i postotku oštećenja organizma, činjenica postojanja oštećenja organizma radi priznavanja prava na doplatak za njegu i pomoć druge osobe, činjenica postojanja oštećenja organizma radi priznavanja prava na ortopedski doplatak, činjenica postojanja oštećenja organizma radi priznavanja prava za pripomoć u kući, činjenica nesposobnosti za privređivanje, činjenica je li smrt ili samoubojstvo hrvatskog branitelja iz Domovinskog rata u uzročno-posljedičnoj vezi s izravnim sudjelovanjem hrvatskog branitelja u obrani suvereniteta Republike Hrvatske utvrđuju se na temelju nalaza i mišljenja vijeća liječničkog povjerenstva.
+
+Odredbom članka 14. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 126. je izmijenjen.
 
 #### Članak 127.
 
-(1) Nalaz i mišljenje u prvostupanjskom postupku daje liječničko povjerenstvo sastavljeno od triju liječnika specijalista. Sastav liječničkog povjerenstva ovisi o vrsti stradavanja, ranjavanju, ozljedi ili bolesti.
+(1) Nalaz i mišljenje u prvostupanjskom postupku daje vijeće liječničkog povjerenstva sastavljeno od triju liječnika specijalista. Sastav vijeća liječničkog povjerenstva ovisi o vrsti stradavanja, ranjavanju, ozljedi ili bolesti.
 
-(2) Nalaz i mišljenje u drugostupanjskom postupku daje liječničko povjerenstvo sastavljeno od pet liječnika specijalista. Sastav liječničkog povjerenstva ovisi o vrsti stradavanja, ranjavanju, ozljedi ili bolesti.
+(2) Nalaz i mišljenje u drugostupanjskom postupku daje vijeće liječničkog povjerenstva sastavljeno od pet liječnika specijalista. Sastav vijeća liječničkog povjerenstva ovisi o vrsti stradavanja, ranjavanju, ozljedi ili bolesti.
 
-(3) Kada se ocjenjuje oštećenje organizma nastalo samo uslijed bolesti PTSP-a i samoubojstva, liječničko povjerenstvo u drugom stupnju mora biti sastavljeno od liječnika specijalista psihijatara.
+(3) Kada se ocjenjuje oštećenje organizma nastalo samo uslijed bolesti PTSP i kada se utvrđuje uzrok samoubojstva, vijeće liječničkog povjerenstva u drugom stupnju mora biti sastavljeno od liječnika specijalista psihijatara.
 
-(4) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti može imenovati dva ili više liječničkih povjerenstava iz stavka 1. i 2. ovoga članka.
+(4) Ministarstvo nadležno za branitelje može imenovati više vijeća liječničkih povjerenstava iz ovoga članka.
 
-(5) Članove povjerenstva imenuje ministar obitelji, branitelja i međugeneracijske solidarnosti i određuje sjedište i područje rada povjerenstva te imenuje tajnika liječničkog povjerenstva koji mora biti diplomirani pravnik.
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+(5) Predsjednike i članove vijeća liječničkih povjerenstava imenuje ministar branitelja i određuje sjedište i područje rada povjerenstava te imenuje tajnice/tajnike liječničkih povjerenstava.
+
+Odredbom članka 15. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 127. je izmijenjen.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
 
 #### Članak 128.
 
-Liječnička povjerenstva iz članka 127. stavka 1. i 2. ovoga Zakona daju nalaz i mišljenje u roku od dva mjeseca od primitka predmeta.
+(1) Vijeća liječničkih povjerenstva iz članka 127. stavka 1. i 2. ovoga Zakona daju nalaz i mišljenje u roku od 30 dana od primitka predmeta.
+
+(2) Predsjednik i članovi vijeća liječničkih povjerenstava iz članka 127. stavka 1. i 2. ovoga Zakona su ovlašteni vještaci.
+
+Odredbom članka 16. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 128. je izmijenjen.
 
 #### Članak 129.
 
-(1) Rješenje donijeto u prvom stupnju kojim se utvrđuje status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu, pravo na povećanu obiteljsku invalidninu, pravo na uvećanu obiteljsku invalidninu, status člana obitelji nestaloga ili zatočenoga hrvatskog branitelja iz Domovinskog rata i novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine, status HRVI iz Domovinskog rata i pravo na osobnu invalidninu, doplatak za njegu i pomoć druge osobe, ortopedski doplatak, posebni doplatak, opskrbninu, doplatak za pripomoć u kući i rješenje kojim se dodjeljuje osobni automobil HRVI iz Domovinskog rata I. skupine podliježe reviziji.
+(1) Prvostupanjsko rješenje kojim se priznaje status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu, pravo na povećanu obiteljsku invalidninu, pravo na uvećanu obiteljsku invalidninu, status člana obitelji nestaloga ili zatočenoga hrvatskog branitelja iz Domovinskog rata i novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine, status HRVI iz Domovinskog rata i pravo na osobnu invalidninu, doplatak za njegu i pomoć druge osobe, ortopedski doplatak, posebni doplatak, opskrbninu, doplatak za pripomoć u kući i rješenje kojim se dodjeljuje osobni automobil HRVI iz Domovinskog rata I. skupine podliježe reviziji.
 
-(2) Reviziju obavlja po službenoj dužnosti Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti kao drugostupanjsko tijelo.
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 1. je izmijenjen.
 
-(3) Ako je protiv rješenja prvostupanjskog tijela izjavljena žalba, o reviziji i žalbi rješava se istim rješenjem.
+(2) Reviziju obavlja po službenoj dužnosti Ministarstvo nadležno za branitelje kao drugostupanjsko tijelo sukladno načelima koja su utvrđena propisom kojim se regulira opći upravni postupak.
 
-(4) Ako protiv rješenja iz stavka 1. ovoga članka nije izjav­ljena žalba, tijelo koje je donijelo rješenje u prvostupanjskom postupku dostavit će ga zajedno sa spisima predmeta tijelu nadležnom za reviziju u roku osam dana od isteka roka za žalbu.
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 2. je izmijenjen.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+(3) Ako je protiv prvostupanjskog rješenja izjavljena žalba, a isto prvostupanjsko rješenje podliježe reviziji, o žalbi i reviziji rješava se jednim rješenjem.
+
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 3. je izmijenjen.
+
+(4) Ako protiv rješenja iz stavka 1. ovoga članka stranka nije izjavila žalbu, upravno tijelo, odnosno službena osoba koja je donijela rješenje u prvostupanjskom postupku dostavit će ga zajedno sa spisima predmeta tijelu nadležnom za reviziju u roku od osam dana od isteka roka za žalbu. Ako se stranka odrekne prava na žalbu ili odustane od žalbe, rješenje se zajedno sa spisima predmeta dostavlja na reviziju u roku od osam dana od dana odricanja, odnosno dana odustanka od žalbe.
+
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 4. je izmijenjen.
 
 (5) Revizija odgađa izvršenje rješenja.
 
 #### Članak 130.
 
-(1) U postupku revizije Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti može se s prvostupanjskim rješe­njem suglasiti ili ga može izmijeniti ili poništiti u korist ili na štetu stranke.
+(1) U postupku revizije Ministarstvo nadležno za branitelje može se s prvostupanjskim rješenjem suglasiti ili ga može izmijeniti ili poništiti u korist ili na štetu stranke.
 
-(2) Drugostupanjsko tijelo će u postupku revizije poništiti prvostupanjsko rješenje i u pravilu samo riješiti stvar u korist ili na štetu stranke ili će predmet vratiti na ponovni postupak, ako utvrdi da su u prvostupanjskom postupku nepotpuno ili pogrešno utvrđene činjenice ili da se u postupku nije vodilo računa o pravilima postupka koja bi bila od utjecaja na rješavanje stvari ili ako utvrdi da su pogrešno ocijenjeni dokazi ili da je iz utvrđenih činjenica izveden pogrešan zaključak o činjeničnom stanju ili da je pogrešno primijenjen propis na temelju kojeg je stvar riješena.
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
-(3) Prvostupanjsko tijelo čije je rješenje u postupku revizije poništeno i predmet vraćen na ponovni postupak u najkraćem mogućem roku donosi novo rješenje. Novo prvostupanjsko rješenje podliježe reviziji ako je pozitivno i u kojoj se ispituje je li novo rješenje u skladu s razlozima zbog kojih je prethodno rješenje poništeno.
+(2) Drugostupanjsko tijelo će u postupku revizije poništiti prvostupanjsko rješenje i u pravilu samo riješiti stvar, ako utvrdi da su u prvostupanjskom postupku nepotpuno ili pogrešno utvrđene činjenice ili da se u postupku nije vodilo računa o pravilima postupka koja bi bila od utjecaja na rješavanje stvari ili je izreka pobijanog rješenja nejasna ili je u proturječnosti s obrazloženjem ili je pogrešno primijenjen propis na temelju kojeg je stvar riješena.
 
-(4) U postupku revizije drugostupanjsko tijelo je dužno pribaviti nalaz i mišljenje liječničkog povjerenstva iz članka 127. stavka 2. ovoga Zakona kod priznavanja statusa člana obitelji i prava na obiteljsku invalidninu iza umrloga hrvatskog branitelja i branitelja koji je počinio samoubojstvo, te o oštećenju organizma invalida, o pravu na doplatak za njegu i pomoć druge osobe, o pravu na ortopedski doplatak, o pravu na pripomoć u kući, o nesposobnosti za privređivanje i u slučaju iz stavka 3. ovoga članka.
+(3) Kad činjenice na temelju kojih je doneseno prvostupanjsko rješenje nisu u potpunosti utvrđene ili su pogrešno utvrđene u prvostupanjskom postupku, drugostupanjsko će tijelo upotpuniti postupak samo ili putem prvostupanjskog tijela.
 
-(5) Liječničko povjerenstvo donosi nalaz i mišljenje o postotku oštećenja organizma koje je u prvostupanjskom postupku ocijenjeno sa 100% do 80% i o pravu na doplatak za njegu i pomoć druge osobe isključivo samo nakon neposrednog pregleda HRVI iz Domovinskog rata.
+(4) Prvostupanjsko tijelo čije je rješenje u postupku revizije poništeno i predmet vraćen na ponovni postupak u roku od 30 dana od dana dostave drugostupanjskog rješenja donosi novo rješenje. Novo prvostupanjsko rješenje, ako je pozitivno, podliježe reviziji u kojoj se ispituje je li novo rješenje u skladu s razlozima zbog kojih je prethodno rješenje poništeno.
+
+(5) U postupku revizije drugostupanjsko tijelo je dužno pribaviti nalaz i mišljenje vijeća liječničkog povjerenstva iz članka 127. stavka 2. ovoga Zakona kod priznavanja statusa člana obitelji i prava na obiteljsku invalidninu iza umrloga hrvatskog branitelja i branitelja koji je počinio samoubojstvo, te o oštećenju organizma invalida, o pravu na doplatak za njegu i pomoć druge osobe, o pravu na ortopedski doplatak, o pravu na pripomoć u kući, o nesposobnosti za privređivanje i u slučaju iz stavka 4. ovoga članka.
+
+(6) Vijeće liječničkog povjerenstva iz stavka 5. ovoga članka donosi nalaz i mišljenje o postotku oštećenja organizma koje je u prvostupanjskom postupku ocijenjeno sa 100% do 80%, o pravu na doplatak za njegu i pomoć druge osobe, kada vijeće liječničkog povjerenstva ocijeni da je pregled potreban i po žalbi koja je izjavljena na nalaz i mišljenje vijeća prvostupanjskog liječničkog povjerenstva, isključivo nakon neposrednog pregleda hrvatskog branitelja iz Domovinskog rata ili HRVI iz Domovinskog rata, odnosno nakon neposrednog vještačenja u kojem sudjeluje stranka.
+
+Odredbom članka 18. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 130. je izmijenjen.
 
 #### Članak 131.
 
-(1) Rok za izvršenje revizije je tri mjeseca.
+(1) Rok za izvršenje revizije je 60 dana.
+
+Odredbom članka 19. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 1. je izmijenjen.
 
 (2) Rok za reviziju počinje teći od dana kada drugostupanjsko tijelo zaprimi predmet od prvostupanjskog tijela, a završava na dan kada drugostupanjsko tijelo otpremi predmet prvostupanjskom tijelu.
 
 (3) Ako se u postupku revizije pribavlja nalaz i mišljenje liječničkog povjerenstva, iznimno rok za izvršenje revizije počinje teći od dana kad je drugostupanjsko tijelo zaprimilo nalaz i mišljenje liječničkog povjerenstva, ako je taj nalaz i mišljenje zatražilo u roku od 15 dana od primitka predmeta na reviziju.
 
-(4) Ako protiv rješenja prvostupanjskog tijela koje podliježe reviziji nije izjavljena žalba, a revizija ne bude izvršena u roku tri mjeseca od kad je drugostupanjsko tijelo zaprimilo predmet, smatra se da je revizija obavljena i da je dana suglasnost na rješenje.
+(4) Brisan
+
+Odredbom članka 13. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 4. je brisan.
 
 #### Članak 132.
 
-Protiv rješenja donesenog u drugom stupnju može se pokrenuti upravni spor.
+(1) Protiv prvostupanjskog rješenja iz članka 122. stavka 4. ovoga Zakona nije dopuštena žalba i protiv istog se može pokrenuti upravni spor.
+
+(2) Upravni spor se može pokrenuti i protiv drugostupanjskog rješenja donesenog po žalbi. Protiv rješenja donesenog po reviziji iz članka 130. ovoga Zakona nije dopuštena žalba i protiv istog se može pokrenuti upravni spor.
+
+Odredbom članka 20. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 132. je izmijenjen.
 
 #### Članak 133.
 
-(1) Nadležno tijelo u uredu državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba po službenoj dužnosti vodi postupak za donošenjem novog rješenja o pravu koje je prethodnim rješenjem utvrđeno privremeno.
+(1) Nadležno upravno tijelo u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba po službenoj dužnosti vodi postupak za donošenjem novog rješenja o pravu koje je prethodnim rješenjem utvrđeno privremeno.
 
-(2) Novo rješenje iz stavka 1. ovoga članka ima pravni učinak od prvog dana idućeg mjeseca nakon proteka važnosti rješenja kojim je pravo utvrđeno privremeno.
+(2) Novo rješenje iz stavka 1. ovoga članka kojim je priznato pravo ima pravni učinak od prvog dana idućeg mjeseca nakon proteka važnosti rješenja kojim je pravo utvrđeno privremeno.
 
-(3) Ako korisnik prava u postupku iz stavka 1. ovoga članka ne pristupi pregledu ili na drugi način onemogući nadležno liječničko povjerenstvo iz ovoga Zakona da donese nalaz i mišljenje, postupak će se obustaviti.
+(3) Ako se tijekom postupka iz stavka 1. ovoga članka utvrdi da više ne postoje pravne pretpostavke za vođenje postupka rješenjem će se obustaviti postupak.
 
-(4) Ako osoba kojoj je postupak za donošenje novog rješenja obustavljen u smislu stavka 3. ovoga članka podnese ponovni zahtjev za priznavanje prava po ovom Zakonu, prava utvrđena novim rješenjem pripadaju od prvog dana idućeg mjeseca od podnošenja tog zahtjeva.
+Odredbom članka 21. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 133. je izmijenjen.
 
 #### Članak 134.
 
-(1) Ako nakon donošenja konačnog rješenja o pravima iz ovoga Zakona kod HRVI iz Domovinskog rata nastupe promjene koje su od utjecaja na postotak oštećenja organizma utvrđenog konačnim rješenjem, HRVI iz Domovinskog rata može, nakon isteka dviju godina od dana donošenja konačnog rješenja, podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma.
+(1) Kada rješenje o pravima iz ovoga Zakona postane izvršno, a kod HRVI iz Domovinskog rata nastupe promjene u vezi utvrđenog postotka oštećenja organizma koje su od utjecaja na priznavanje prava, HRVI iz Domovinskog rata može, nakon isteka dvije godine od dana kada je rješenje postalo izvršno, podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma.
+
+Odredbom članka 22. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 1. je izmijenjen.
 
 (2) Propisom iz članka 108. stavka 1. točke 5. ovoga Zakona kojim se uređuje utvrđivanje postotka oštećenja organizma utvrdit će se oštećenja na osnovi kojih se može podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma i prije isteka roka od dvije godine.
 
@@ -1643,31 +2101,45 @@ Protiv rješenja donesenog u drugom stupnju može se pokrenuti upravni spor.
 
 #### Članak 135.
 
-(1) Postupak za rješavanje o statusu člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, odnosno o statusu HRVI iz Domovinskog rata, završen rješenjem protiv kojeg nema redovnog pravnog lijeka u upravom postupku, može se obnoviti i nakon proteka rokova predviđenih za obnovu postupka u zakonu kojim se uređuje opći upravni postupak osim u slučajevima za priznavanje statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata koji je umro ili izvršio samoubojstvo zbog bolesti, pogoršanja bolesti, odnosno pojave bolesti kao neposredne posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske i u slučajevima za priznavanje statusa HRVI iz Domovinskog rata na osnovi bolesti, pogoršanja bolesti, odnosno pojave bolesti kao neposredne posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske.
+Brisan
 
-(2) Za rješavanje o prijedlogu za obnovu postupka nadležan je ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba u predmetima u kojima je prvostupanjsko rješenje osnaženo presudom Upravnog suda Republike Hrvatske i u predmetima u kojima je dana suglasnost na prvostupanjsko rješenje u postupku revizije, a u svim ostalim predmetima nadležno je Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti.
-
-(3) Ako se u obnovljenom postupku ranije rješenje zamijeni novim, pravne posljedice na temelju novog rješenja djeluju od prvog dana idućeg mjeseca od podnošenja prijedloga za obnovu postupka, odnosno od prvog dana idućeg mjeseca od donošenja novog rješenja, ako je postupak za obnovu pokrenut po službenoj dužnosti.
+Odredbom članka 23. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 135. je brisan.
 
 #### Članak 136.
 
-Rješenje o pravima po ovom Zakonu koje je postalo konačno u upravnom postupku može se ukinuti po pravu nadzora ako je njime povrijeđen Zakon u korist stranke, a na štetu države u roku 5 godina od kada je rješenje postalo konačno u upravnom postupku.
+Rješenje kojim je stranka stekla neko pravo ili status iz članka 122. ovoga Zakona može se ukinuti i:
+
+1. ako nadležno upravno tijelo pravomoćnom odlukom poništi ili ukine javnu ispravu na temelju koje je ostvareno neko pravo ili status iz članka 122. ovoga Zakona
+
+2. ako nakon donošenja pravomoćne odluke stranka izmijeni svoju izjavu na temelju koje je ostvareno neko pravo ili status iz članka 122. ovoga Zakona.
+
+Odredbom članka 24. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 136. je izmijenjen.
 
 #### Članak 137.
 
-(1) U postupku priznavanja statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i statusa HRVI iz Domovinskog rata po ovom Zakonu primjenjuju se i odredbe zakona kojim se uređuje opći upravni postupak ako ovim Zakonom nije drukčije određeno.
+Brisan stavak 1.
 
-(2) Na ostala pitanja u svezi s pravima iz ovoga Zakona, uvjetima za stjecanje, korištenje i prestanak tih prava te s postupkom njihova ostvarivanja, koja nisu uređena ovim Zakonom, primjenjuju se posebni zakoni i drugi propisi koji uređuju odnosna prava.
+Odredbom članka 25. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 1. je brisan.
+
+Na ostala pitanja u svezi s pravima iz ovoga Zakona, uvjetima za stjecanje, korištenje i prestanak tih prava te s postupkom njihova ostvarivanja, koja nisu uređena ovim Zakonom, primjenjuju se posebni zakoni i drugi propisi koji uređuju odnosna prava.
+
+Odredbom članka 25. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., dosadašnji stavak 2. postao je stavak 1.
 
 #### Članak 138.
 
-(1) Rješenja kojima je prema odredbama ovoga Zakona priznat status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu, pravo na povećanu obiteljsku invalidninu i pravo na uvećanu obiteljsku invalidninu, status člana obitelji umrloga HRVI iz Domovinskog rata od I. do IV. skupine i pravo na obiteljsku invalidninu, status člana obitelji nestaloga ili zatočenoga hrvatskog branitelja iz Domovinskog rata i pravo na novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine, status HRVI iz Domovinskog rata i pravo na osobnu invalidninu, doplatak za njegu i pomoć druge osobe, ortopedski doplatak, posebni doplatak, opskrbninu, doplatak za pripomoć u kući izvršava nadležno tijelo državne uprave koje rješava u prvom stupnju.
+(1) Rješenja kojima je prema odredbama ovoga Zakona priznat status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu, pravo na povećanu obiteljsku invalidninu i pravo na uvećanu obiteljsku invalidninu, status člana obitelji umrloga HRVI iz Domovinskog rata od I. do IV. skupine i pravo na obiteljsku invalidninu, status člana obitelji nestaloga ili zatočenoga hrvatskog branitelja iz Domovinskog rata i pravo na novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine, status HRVI iz Domovinskog rata i pravo na osobnu invalidninu, doplatak za njegu i pomoć druge osobe, ortopedski doplatak, posebni doplatak, opskrbninu, doplatak za pripomoć u kući, pravo na besplatne udžbenike izvršava nadležno prvostupanjsko tijelo iz članka 122. stavka 1. ovoga Zakona.
 
-(2) Iznimno od odredbe iz stavka 1. ovoga članka novčana primanja po ovom Zakonu korisnicima s prebivalištem u inozemstvu isplaćuje Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti.
+Odredbom članka 26. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., u stavku 1. iza riječi: »doplatak za pripomoć u kući« dodan je zarez i riječi: »pravo na besplatne udžbenike«, a riječi: »nadležno tijelo državne uprave koje rješava u prvom stupnju« zamijenjene su riječima:«nadležno prvostupanjsko tijelo iz članka 122. stavka 1. ovoga Zakona.
+
+(2) Iznimno od odredbe iz stavka 1. ovoga članka novčana primanja po ovom Zakonu korisnicima s prebivalištem u inozemstvu isplaćuje Ministarstvo nadležno za branitelje.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Nardone novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima su zamijenjene riječima: »ministarstvo nadležno za branitelja« u odgovarajućim padežima.
 
 #### Članak 139.
 
-Isplatno tijelo iz članka 138. ovoga Zakona vodi evidenciju o izvršenim isplatama i o broju i strukturi korisnika.
+Prvostupanjsko tijelo iz članka 138. ovoga Zakona vodi evidenciju o izvršenim isplatama i o broju i strukturi korisnika prava.
+
+Odredbom članka 27. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 139. je izmijenjen.
 
 #### Članak 140.
 
@@ -1675,23 +2147,29 @@ Nove iznose novčanih primanja korisnicima tih primanja određuje se i isplaćuj
 
 #### Članak 141.
 
-(1) Korisnicima prava po ovom Zakonu pripada naknada troškova za prijevoz u drugo mjesto ako su od nadležnog tijela upućeni, odnosno pozvani u drugo mjesto radi pregleda pred liječničkim povjerenstvom.
+(1) Pravo na naknadu troškova upravnog postupka za prijevoz u drugo mjesto ima stranka ako je od nadležnog upravnog tijela upućena, odnosno pozvana u drugo mjesto radi pregleda ili sudjelovanja u vještačenju pred vijećem liječničkog povjerenstva u slučaju kada je postupak pokrenut po službenoj dužnosti i kada je postupak pokrenut po zahtjevu stranke povoljno okončan.
 
-(2) Korisnik prava po ovom Zakonu kojemu je određen pratitelj za putovanja radi pregleda pred liječničkim povjerenstvom ima pravo na naknadu troškova prijevoza i za pratitelja.
+(2) Korisnik prava po ovom Zakonu kojemu je određen pratitelj za putovanja radi pregleda pred vijećem liječničkog povjerenstva ima pravo na naknadu troškova prijevoza i za pratitelja kada osobno ostvari pravo na naknadu ovoga troška upravnog postupka.
 
-(3) Troškovi prijevoza nadoknađuju se prema cijeni vozne karte za prijevoz autobusom, odnosno drugim razredom željeznice ili brodom.
+(3) Troškovi prijevoza nadoknađuju se prema izdanoj voznoj karti za prijevoz autobusom, odnosno drugim razredom željeznice ili brodom.
+
+Odredbom članka 28. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 141. je izmijenjen.
 
 #### Članak 142.
 
-Troškove postupka za ostvarivanje prava po ovom Zakonu snosi tijelo koje vodi postupak.
+(1) Redovite troškove postupka za ostvarivanje prava po ovom Zakonu snosi upravno tijelo koje vodi postupak.
+
+(2) Pod redovitim troškovima upravnog postupka iz stavka 1. ovoga članka smatraju se svi troškovi koji nastanu tijekom postupka za ostvarivanje prava po ovom Zakonu, osim troška iz članka 141. ovoga Zakona kada je postupak pokrenut po zahtjevu stranke nepovoljno okončan.
+
+Odredbom članka 29. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 142. je izmijenjen.
 
 #### Članak 143.
 
-U postupku ostvarivanja prava po ovom Zakonu ne plaća se upravna pristojba.
+U postupku ostvarivanja prava po ovom Zakonu stranke su oslobođene plaćanja upravne pristojbe.
 
-## GLAVA XI.
+Odredbom članka 30. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 143. je izmijenjen.
 
-## NAKNADA ŠTETE
+## GLAVA XI. — NAKNADA ŠTETE
 
 #### Članak 144.
 
@@ -1703,15 +2181,17 @@ U postupku ostvarivanja prava po ovom Zakonu ne plaća se upravna pristojba.
 
 3. ako je primala novčane isplate u iznosu većem od onog koji joj je određen rješenjem nadležnog tijela uprave.
 
-(2) Potraživanje iz stavka 1. ovoga Zakona zastarijeva kad protekne rok određen zakonom kojim se uređuje zastara potraživanja za tu vrstu prava, odnosno potraživanja. Taj rok počinje teći od dana kada je u upravnom postupku postalo konačno rješenje kojim je utvrđeno da priznato pravo, odnosno isplaćivano primanje ne pripada ili pripada u manjem iznosu (stavak 1. točka 1. i 2.), odnosno od dana kada je izvršena posljednja nepravilna isplata (stavak 1. točka 3.).
+(2) Potraživanje iz stavka 1. ovoga Zakona zastarijeva kad protekne rok određen zakonom kojim se uređuje zastara potraživanja za tu vrstu prava, odnosno potraživanja. Taj rok počinje teći od dana kada je u upravnom postupku postalo izvršno rješenje kojim je utvrđeno da priznato pravo, odnosno isplaćivano primanje ne pripada ili pripada u manjem iznosu (stavak 1. točka 1. i 2.), odnosno od dana kada je izvršena posljednja nepravilna isplata (stavak 1. točka 3.).
 
-(3) Osoba iz stavka 1. ovoga članka dužna je nadoknaditi štetu za ostvareno nepripadajuće pravo i vratiti nepravilno isplaće­na novčana primanja u iznosu primljenog najviše za posljednje tri godine računajući od posljednje isplate na koju nije imala pravo. Ako to ne učini u roku što ga odredi nadležno uprav­no tijelo, naknada štete, odnosno povrat nepravilno primljenih iznosa ostvarit će se tužbom pri nadležnom sudu.
+Odredbom članka 38. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u stavku 2. riječ: »konačno« zamijenjena je riječju: »izvršno«.
+
+(3) Osoba iz stavka 1. ovoga članka dužna je nadoknaditi štetu za ostvareno nepripadajuće pravo i vratiti nepravilno isplaćena novčana primanja u iznosu primljenog najviše za posljednje tri godine računajući od posljednje isplate na koju nije imala pravo. Ako to ne učini u roku što ga odredi nadležno upravno tijelo, naknada štete, odnosno povrat nepravilno primljenih iznosa ostvarit će se tužbom pri nadležnom sudu.
 
 (4) Obveza naknade štete za nepripadajuće pravo, odnosno povrat nepravilno isplaćenih iznosa primanja postoji neovisno o tome je li rješenje na temelju kojega je priznato pravo, odnosno na temelju kojeg je isplaćen novčani iznos, poništeno ili izmijenjeno.
 
-## GLAVA XII.
+## GLAVA XII. — PREKRŠAJNE ODREDBE
 
-## KAZNENE ODREDBE
+Odredbom članka 39. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., naziv glave XII. iza članka 144. je izmijenjen.
 
 #### Članak 145.
 
@@ -1719,27 +2199,45 @@ U postupku ostvarivanja prava po ovom Zakonu ne plaća se upravna pristojba.
 
 1. Hrvatski zavod za mirovinsko osiguranje, ako ne postupi prema odredbi članka 23. stavka 6. ovoga Zakona,
 
-2. pravne osobe ako one ili njihova tijela ne postupe prema odredbi članka 23. stavka 7. i članka 35. stavka 1. ovoga Zakona,
+2. Javne ustanove, izvanproračunski i proračunski fondovi, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske i u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave, ako ne postupe prema odredbi članka 23. stavka 7. ovoga Zakona,
 
-3. Hrvatski zavod za mirovinsko osiguranje, ako ne postupi prema odredbi članka 152., 153., 154., 155. i 156. ovoga Zakona.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., točka 2. je izmijenjena.
 
-(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 5.000,00 do 15.000,00 kuna i odgovorna osoba u pravnoj osobi ili čelnik tijela pravne osobe.
+3. Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima, ako ne postupe prema odredbi članka 35. stavka 3. ovoga Zakona.
+
+4. Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima, ako ne postupe prema odredbi članka 35. stavka 13. ovoga Zakona.
+
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza točke 2. dodane su nove točke 3. i 4.
+
+5. Hrvatski zavod za mirovinsko osiguranje, ako ne postupi prema odredbi članka 152., 153., 154., 155. i 156. ovoga Zakona.
+
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnja točka 3. postala je točka 5.
+
+(2) Odgovorne osobe u tijelima javne uprave kaznit će se za prekršaj novčanom kaznom od 5.000,00 kuna do 15.000,00 kuna ako ne postupe prema odredbi članka 35. stavka 1. ovoga Zakona.
+
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 1. dodan je novi stavak 2.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 5.000,00 do 15.000,00 kuna i odgovorna osoba u pravnoj osobi ili čelnik tijela pravne osobe.
+
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji stavak 2. postao je stavak 3.
 
 #### Članak 146.
 
 Novčanom kaznom od 10.000,00 do 300.000,00 kuna kaznit će se pravna osoba, a novčanom kaznom od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj odgovorna osoba u pravnoj osobi ili čelnik tijela pravne osobe ako:
 
-1. pri smještaju u umirovljeničke domove postupi suprotno odredbama ovoga Zakona,
+1. pri smještaju u domove socijalne skrbi postupi suprotno odredbama ovoga Zakona,
 
-2. pri upisu osoba u obrazovne ustanove postupi suprotno odredbama ovoga Zakona,
+Odredbom članka 41. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u točki 1. riječi: »umirovljeničke domove« zamijenjene su riječima: »domove socijalne skrbi«.
 
-3. pri smještaju osoba u učeničke, odnosno studentske domove postupi suprotno odredbama Zakona,
+2. Brisana točka 2.
 
-4. zakupodavatelj ne postupi prema odredbama ovoga Zakona.
+Odredbom članka 41. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., točka 2. je brisana, a dosadašnje točke 3. i 4. postale su točke 2. i 3.
 
-## GLAVA XIII.
+2. pri smještaju osoba u učeničke, odnosno studentske domove postupi suprotno odredbama Zakona,
 
-## PRIJELAZNE I ZAVRŠNE ODREDBE
+3. zakupodavatelj ne postupi prema odredbama ovoga Zakona.
+
+## GLAVA XIII. — PRIJELAZNE I ZAVRŠNE ODREDBE
 
 #### Članak 147.
 
@@ -1755,7 +2253,7 @@ Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih korisnika inval
 
 3. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 108/96. i 23/01.),
 
-4. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01.,122/02.,17/04. i 48/04.).
+4. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01., 122/02., 17/04. i 48/04.).
 
 #### Članak 149.
 
@@ -1765,7 +2263,7 @@ Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih korisnika prava
 
 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 108/96. i 23/01.),
 
-3. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01.,122/02.,17/04. i 48/04.).
+3. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01., 122/02., 17/04. i 48/04.).
 
 #### Članak 150.
 
@@ -1773,7 +2271,9 @@ Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih korisnika prava
 
 (2) Kada se nakon prevođenja priznato pravo priznaje u većem opsegu, pravo se priznaje od dana stupanja na snagu ovoga Zakona.
 
-(3) Rješenja prvostupanjskog tijela o prevođenju podliježu reviziji koju obavlja Ministarstvo obitelji, branitelja i među­generacijske solidarnosti.
+(3) Rješenja prvostupanjskog tijela o prevođenju podliježu reviziji koju obavlja Ministarstvo nadležno za branitelje.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Nardone novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima su zamijenjene riječima: »ministarstvo nadležno za branitelja« u odgovarajućim padežima.
 
 (4) Rok za izvršenje revizije u prevođenju je šest mjeseci.
 
@@ -1783,7 +2283,9 @@ Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih korisnika prava
 
 (1) Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih korisnika na stambeno zbrinjavanje (pravo na stan, otkup stana, stambeni krediti) ako je to za korisnika povoljnije.
 
-(2) Prevođenje će izvršiti Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti na temelju ovoga Zakona i propisa donesenih za izvršenje ovoga Zakona.
+(2) Prevođenje će izvršiti Ministarstvo nadležno za branitelje na temelju ovoga Zakona i propisa donesenih za izvršenje ovoga Zakona.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
 
 (3) Prevođenje će se izvršiti u roku tri godine od stupanja na snagu ovoga Zakona.
 
@@ -1807,83 +2309,50 @@ Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih prava na naknad
 
 #### Članak 156.
 
-Korisniku mirovine kojem je prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01.,122/02.,17/04. i 48/04.) određen dodatak uz mirovinu, a koja nakon prevođenja prema odredbi članka 152. ovoga Zakona ostaje zajedno s dodatkom u isplati kao povoljnija, uračunava se u mirovinu iznos tog dodatka i dalje se isplaćuje kao mirovina korisnika.
+Korisniku mirovine kojem je prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01., 122/02., 17/04. i 48/04.) određen dodatak uz mirovinu, a koja nakon prevođenja prema odredbi članka 152. ovoga Zakona ostaje zajedno s dodatkom u isplati kao povoljnija, uračunava se u mirovinu iznos tog dodatka i dalje se isplaćuje kao mirovina korisnika.
 
 #### Članak 157.
 
 (1) Za utvrđivanje vrijednosnog boda u prevođenju prava iz članka 152., članka 153., članka 154. i članka 155. ovoga Zakona određuju se prema osobnom činu i ustrojbenom mjestu hrvatskog branitelja iz Domovinskog rata na temelju kojeg se isplaćuje mirovina do dana stupanja na snagu ovoga Zakona sljedeće osnovice:
 
-*Činovi i ustrojbena mjesta Osnovice*
+| Činovi i ustrojbena mjesta | Osnovice |
+|---|---|
+| Vojnik | 64.037 |
+| Pozornik | 68.047 |
+| Razvodnik (zastavnik hrm) | 72.847 |
+| Skupnik | 64.740 |
+| Zapovjednik desetine | 76.884 |
+| Zapovjednik voda | 81.648 |
+| Zapovjednik satnije | 97.980 |
+| Zamjenik zapovjednika bojne | 107.508 |
+| Zapovjednik bojne | 118.392 |
+| Zamjenik zapovjednika brigade | 129.276 |
+| Zapovjednik brigade | 129.276 |
+| Desetnik | 74.066 |
+| Vodnik | 79.386 |
+| Stožerni vodnik | 79.930 |
+| Narednik | 79.930 |
+| Nadnarednik | 80.386 |
+| Stožerni narednik | 83.004 |
+| Časnički namjesnik | 92.585 |
+| Zastavnik | 78.783 |
+| Poručnik (poručnik korvete) | 81.648 |
+| Natporučnik (poručnik fregate) | 88.452 |
+| Satnik (poručnik bojnog broda) | 97.980 |
+| Bojnik (kapetan korvete) | 107.508 |
+| Pukovnik (kapetan fregate) | 118.392 |
+| Brigadir (kapetan bojnog broda) | 129.276 |
+| Stožerni brigadir (komodor) | 140.160 |
+| Brigadni general (komodor) | 140.160 |
+| Zapovjednik zbornog mjesta | 118.392 |
+| Zapovjednik zbornog područja | 151.056 |
+| General-bojnik (kontraadmiral) | 151.056 |
+| General-pukovnik (viceadmiral) | 155.136 |
+| General zbora (admiral) | 159.216 |
+| Zapovjednik obrane grada | 118.392 |
+| Stožerni general (stožerni admiral) | 163.296 |
 
-Vojnik 64.037
-
-Pozornik 68.047
-
-Razvodnik (zastavnik hrm) 72.847
-
-Skupnik 64.740
-
-Zapovjednik desetine 76.884
-
-Zapovjednik voda 81.648
-
-Zapovjednik satnije 97.980
-
-Zamjenik zapovjednika bojne 107.508
-
-Zapovjednik bojne 118.392
-
-Zamjenik zapovjednika brigade 129.276
-
-Zapovjednik brigade 129.276
-
-Desetnik 74.066
-
-Vodnik 79.386
-
-Stožerni vodnik 79.930
-
-Narednik 79.930
-
-Nadnarednik 80.386
-
-Stožerni narednik 83.004
-
-Časnički namjesnik 92.585
-
-Zastavnik 78.783
-
-Poručnik (poručnik korvete) 81.648
-
-Natporučnik (poručnik fregate) 88.452
-
-Satnik (poručnik bojnog broda) 97.980
-
-Bojnik (kapetan korvete) 107.508
-
-Pukovnik (kapetan fregate) 118.392
-
-Brigadir (kapetan bojnog broda) 129.276
-
-Stožerni brigadir (komodor) 140.160
-
-Brigadni general (komodor) 140.160
-
-Zapovjednik zbornog mjesta 118.392
-
-Zapovjednik zbornog područja 151.056
-
-General-bojnik (kontraadmiral) 151.056
-
-General-pukovnik (viceadmiral) 155.136
-
-General zbora (admiral) 159.216
-
-Zapovjednik obrane grada 118.392
-
-Stožerni general (stožerni admiral) 163.296
-
-(2) Osnovice iz stavka 1. ovoga članka usklađuju se po­četkom svake kalendarske godine s promjenom prosječne plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini.
+(2) Osnovice iz stavka 1. ovoga članka usklađuju se početkom svake kalendarske godine s promjenom prosječne plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini.
 
 #### Članak 158.
 
@@ -1893,7 +2362,9 @@ Stožerni general (stožerni admiral) 163.296
 
 #### Članak 159.
 
-(1) Pravilnike iz članka 108. ovoga Zakona ministar obitelji, branitelja i međugeneracijske solidarnosti i ministar obrane Republike Hrvatske donijet će u roku 90 dana od dana stupanja na snagu ovoga Zakona.
+(1) Pravilnike iz članka 108. ovoga Zakona ministar branitelja i ministar obrane Republike Hrvatske donijet će u roku 90 dana od dana stupanja na snagu ovoga Zakona.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.
 
 (2) Vlada Republike Hrvatske osnovat će poseban fond iz članka 55. ovoga Zakona i donijeti uredbu iz članka 60. stavka 9. i članka 74. ovoga Zakona u roku 6 mjeseci, a uredbu iz članka 47. ovoga Zakona u roku 90 dana od dana stupanja na snagu ovoga Zakona.
 
@@ -1909,135 +2380,567 @@ Danom stupanja na snagu ovoga Zakona ne primjenjuju se odredbe članka 6. stavka
 
 #### Članak 162.
 
-Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01.,122/02., 17/04. i 48/04.).
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01., 122/02., 17/04. i 48/04.).
 
 #### Članak 163.
 
 Ovaj Zakon stupa na snagu 1. siječnja 2005.
 
-Klasa: 561-01/04-01/05
+## PRIJELAZNE I ZAVRŠNE ODREDBE
 
-Zagreb, 30. studenoga 2004.
+Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 92/05.).
 
-HRVATSKI SABOR
-
-Predsjednik  
-Hrvatskoga sabora  
-Vladimir Šeks, v. r.
-
----
-
-# Izmjene, dopune i ispravci nakon izvornog teksta
-
-## Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (NN 92/2005)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1834*
-
-HRVATSKI SABOR
-
-1834
-
-Na temelju članka 88. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI
-
-Proglašavam Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, kojega je Hrvatski sabor donio na sjednici 15. srpnja 2005. godine.
-
-Broj: 01-081-05-2492/2
-
-Zagreb, 20. srpnja 2005.
-
-Predsjednik
-
-Republike Hrvatske
-
-Stjepan Mesić, v. r.
-
-**ZAKON**
-
-**O IZMJENI I DOPUNI ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI**
-
-### Članak 1.
-
-U Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04.) u članku 31. stavak 7. briše se.
-
-Dosadašnji stavak 8. postaje stavak 7.
-
-### Članak 2.
-
-Iza članka 33. dodaje se članak 33.a koji glasi:
-
-*»Članak 33.a*
-
-Na pitanja u svezi s pravima iz Glave II. točke 2. ovoga Zakona koja nisu uređena ovim Zakonom primjenjuje se Zakon o mirovinskom osiguranju.«
-
-### Članak 3.
+#### Članak 3.
 
 Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 31. prosinca 2005.
 
-Klasa: 561-01/05-01/02
+## PRIJELAZNE I ZAVRŠNE ODREDBE
 
-Zagreb, 15. srpnja 2005.
+Zakona o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 107/07.).
 
-HRVATSKI SABOR
-
-Predsjednik
-
-Hrvatskoga sabora
-
-Vladimir Šeks, v. r.
-
-## Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (NN 107/2007)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3140*
-
-HRVATSKI SABOR
-
-3140
-
-Na temelju članka 88. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI
-
-Proglašavam Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, kojega je Hrvatski sabor donio na sjednici 3. listopada 2007. godine.  
-Klasa: 011-01/07-01/139  
-Urbroj: 71-05-03/1-07-2  
-Zagreb, 10. listopada 2007.
-
-Predsjednik  
-Republike Hrvatske  
-Stjepan Mesić, v. r.
-
-**ZAKON**
-
-**O IZMJENI I DOPUNI ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI**
-
-### Članak 1.
-
-U Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 02/07.) u članku 2. iza stavka 4. dodaje se novi stavak 5. koji glasi:  
-»(5) Dragovoljac iz Domovinskog rata je i smrtno stradali hrvatski branitelj iz Domovinskog rata koji je poginuo u obrani suvereniteta Republike Hrvatske ili je ubijen prilikom zatočenja ili u neprijateljskom logoru u obrani suvereniteta Republike Hrvatske, koji je umro od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, koji je umro od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske i koji je izvršio samoubojstvo kao posljedicu psihičke bolesti uzrokovane sudjelovanjem u obrani suvereniteta Republike Hrvatske do 15. siječnja 1992., ako je njegovo sudjelovanje u obrani suvereniteta Republike Hrvatske započelo najkasnije 8. listopada 1991. u slučajevima iz članka 2. stavka 3. ovoga Zakona, odnosno ako je njegovo sudjelovanje u obrani suvereniteta Republike Hrvatske započelo najkasnije 16. prosinca 1991. u slučajevima iz stavka 4. ovoga članka.«  
-Dosadašnji stavak 5. postaje stavak 6.
-
-### Članak 2.
-
-U članku 82. stavak 1. mijenja se i glasi:  
-»(1) Članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata imaju pravo na mjesečnu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine, uvećane obiteljske invalidnine i obiteljske mirovine koju bi ostvarili kao članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, sukladno odredbama ovoga Zakona.«
-
-### Članak 3.
+#### Članak 3.
 
 Mirovinska prava članova obitelji smrtno stradalih dragovoljaca iz Domovinskog rata iz članka 1. ovoga Zakona i prava na mjesečnu novčanu naknadu obiteljske mirovine iz članka 2. ovoga Zakona, nadležna tijela prevest će prema odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
 
-### Članak 4.
+#### Članak 4.
 
-Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
-Klasa: 561-01/07-01/02  
-Zagreb, 3. listopada 2007.
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
 
-HRVATSKI SABOR  
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Zakona o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 65/09.).
+
+#### Članak 2.
+
+Odredbe članka 60. i 61. ovoga Zakona prestaju važiti u dijelu kojim se propisuje oslobađanja od plaćanja carina danom pristupanja Republike Hrvatske Europskoj uniji.
+
+#### Članak 3.
+
+Odredbe članka 60. i 61. ovoga Zakona prestaju važiti u dijelu kojim se propisuju oslobađanja od plaćanja poreza na dodanu vrijednost i posebnog poreza stupanjem na snagu Zakona o porezu na dodanu vrijednost i propisa o posebnim porezima usklađenih s pravnom stečevinom Europske unije.
+
+#### Članak 4.
+
+Vlada Republike Hrvatske uredbu iz članka 1. ovoga Zakona donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 5.
+
+Do donošenja uredbe iz članka 4. ovoga Zakona primjenjivat će se Uredba o uvjetima i postupku ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 12/05. i 68/05.).
+
+#### Članak 6.
+
+Postupci započeti prema propisima koji su važili do stupanja na snagu ovoga Zakona, a nisu okončani rješenjem, završit će se po odredbama ovoga Zakona.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.).
+
+#### Članak 14.
+
+Danom stupanja na snagu ovoga Zakona prestaje priznavanje statusa hrvatskog branitelja iz Domovinskog rata, statusa dragovoljca iz Domovinskog rata i priznavanje statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i prava na obiteljsku invalidninu na temelju smrti hrvatskog branitelja iz Domovinskog rata od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske nakon 31. prosinca 1997. godine iz članka 3. stavka 1. točke 4. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07. i 65/09.).
+
+#### Članak 15.
+
+Ukinut
+
+Odlukom Ustavnog suda (»Narodne novine«, br. 146/10.) na sjednici održanoj 15. prosinca 2010.. godine, ukinut je članak 15. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.), Odluka je stupila na snagu 27. prosinca 2010. godine.
+
+#### Članak 16.
+
+Revizijski postupak i postupci za priznavanje prava na invalidsku mirovinu, najnižu mirovinu, priznavanje statusa HRVI iz Domovinskog rata i prava na opskrbninu koji su započeti prema propisima koji su važili do stupanja na snagu ovoga Zakona, a nisu završeni konačnim rješenjem dovršit će se po odredbama ovoga Zakona.
+
+#### Članak 17.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.).
+
+#### Članak 31.
+
+Postupci započeti do stupanja na snagu ovoga Zakona nastavit će se i dovršiti po odredbama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09. i 146/10.).
+
+#### Članak 32.
+
+Ministar branitelja pravilnik iz članka 108. stavka 1. točke 16. ovoga Zakona donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) riječi: »Ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »Ministar branitelja« u odgovarajućim padežima.
+
+#### Članak 33.
+
+Ministar branitelja uskladit će pravilnike iz članka 108. stavka 1. točke 12. i 13. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., u članku 32. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) riječi: »Ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamijenjene su riječima: »Ministar branitelja« u odgovarajućim padežima.
+
+#### Članak 34.
+
+Do stupanja na snagu provedbenih propisa iz članka 33. ovoga Zakona ostaju na snazi provedbeni propisi doneseni na temelju Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09. i 146/10.).
+
+#### Članak 35.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.).
+
+#### Članak 42.
+
+(1) Ništavo je rješenje o statusu ratnog vojnog invalida odnosno HRVI iz Domovinskog rata kao i statusu člana obitelji poginulog ili umrlog hrvatskog branitelja, te o pravu na osobnu i obiteljsku invalidninu i druge novčane naknade po osnovi oštećenja organizma, odnosno rečenih statusa, ako sadržava sljedeću nepravilnost:
+
+– osoba kojoj se priznaje ili od koje se izvodi status i pripadajuća prava temeljem rješenja iz ovoga članka, nije sudjelovala u obrani suvereniteta Republike Hrvatske sukladno članku 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10. i 55/11.) odnosno nije sudjelovala u obrani suvereniteta Republike Hrvatske sukladno članku 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 108/96. i 23/01.).
+
+(2) O oglašavanju ništavim pojedinačnih rješenja iz stavka 1. ovoga članka, Ministarstvo će donijeti rješenja u roku od jedne godine od dana stupanja na snagu ovoga Zakona.
+
+(3) Protiv rješenja o oglašavanju ništavim rješenja nije dopuštena žalba, ali se može pokrenuti upravni spor kod nadležnog upravnog suda.
+
+#### Članak 43.
+
+Povijesno značajne osobe iz članka 31. ovoga Zakona čiji su posmrtni ostaci iz grobnih mjesta uklonjeni prije stupanja na snagu ovoga Zakona temeljem članka 14. Zakona o grobljima (»Narodne novine«, br. 19/98.), vlasnici groblja su obvezni ponovo pokopati u odgovarajuće grobno mjesto s odgovarajućim natpisom na grobnom mjestu o trošku vlasnika groblja u roku od jedne godine od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 44.
+
+(1) Pravilnike iz članka 32. ovoga Zakona ministar branitelja donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Vlada Republike Hrvatske uskladit će uredbu iz članaka 16. ovoga Zakona s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 45.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i objavi pročišćeni tekst Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+
+#### Članak 46.
+
+U Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10. i 55/11.), riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti, u odgovarajućim padežima zamjenjuju se riječima: »ministar branitelja« u odgovarajućim padežima, a riječi: »Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućim padežima zamjenjuju se riječima: »ministarstvo nadležno za branitelje« u odgovarajućim padežima.
+
+#### Članak 47.
+
+Postupci započeti do stupanja na snagu ovoga Zakona nastavit će se i dovršiti po odredbama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10. i 55/11.).
+
+#### Članak 48.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (NN 148/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3156*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, koji je Hrvatski sabor donio na sjednici 4. prosinca 2013. godine.
+
+Klasa: 011-01/13-01/286
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 9. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI**
+
+#### Članak 1.
+
+U Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.) u članku 8. stavku 1. podstavku 3. točka 3. briše se, a dosadašnje točke 4., 5., 6. i 7. postaju točke 3., 4., 5. i 6.
+
+#### Članak 2.
+
+U članku 10. stavak 4. mijenja se i glasi:
+
+»(4) Iznimno prava iz ovoga Zakona mogu ostvariti i osobe iz stavka 2. ovoga članka ako su ponovno dobrovoljno pristupile postrojbi ili su se odazvale mobilizaciji po pozivu nadležnog tijela. Prava se ostvaruju samo po osnovi ponovnog razdoblja sudjelovanja u obrani suvereniteta Republike Hrvatske.«.
+
+#### Članak 3.
+
+U članku 20. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Osnovica za utvrđivanje vrijednosnog boda za određivanje mirovine iz članka 16. ovoga Zakona, u slučaju kada ustrojbeno mjesto nije navedeno u stavku 1. ovoga članka određuje se prema plaći koju je hrvatski branitelj iz Domovinskog rata, odnosno HRVI iz Domovinskog rata primao prema osobnom činu, zvanju, odnosno ustrojbenoj dužnosti u trenutku razvojačenja, odnosno stradavanja, ovisno o tome što je za njega povoljnije.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 4.
+
+U članku 35. iza stavka 16. dodaju se novi stavci 17. i 18. koji glase:
+
+»(17) U slučaju iz stavka 16. ovoga članka pravna osoba je obvezna s osobom, odnosno osobama iz stavka 1. ovoga članka kojoj, odnosno kojima je rješenjem iz stavka 16. ovoga članka utvrđena povreda prava prednosti pri zapošljavanju, sklopiti ugovor o radu u roku od osam dana od otkaza ugovora čijim sklapanjem je povrijeđeno pravo prednosti pri zapošljavanju.
+
+(18) Ako pravna osoba u roku iz stavka 17. ovoga članka ne sklopi ugovor o radu s osobom, odnosno osobama iz stavka 1. ovoga članka kojoj, odnosno kojima je rješenjem iz stavka 16. ovoga članka utvrđena povreda prava prednosti pri zapošljavanju, smatra se da je ugovor o radu sklopljen po sili zakona.«.
+
+Dosadašnji stavci 17. i 18. postaju stavci 19. i 20.
+
+#### Članak 5.
+
+U članku 36. stavak 5. briše se.
+
+U dosadašnjem stavku 6. koji postaje stavak 5. iza druge rečenice dodaje se rečenica koja glasi: »Ako se sporazum ne postigne, a nijedan član obitelji nije imao zajedničko prebivalište sa smrtno stradalim u vrijeme stradavanja, pravo na stambeno zbrinjavanje ima onaj član obitelji koji je naslijedio prava i obveze nakon smrti smrtno stradaloga hrvatskog branitelja iz Domovinskog rata.«
+
+Dosadašnji stavak 7. postaje stavak 6.
+
+U dosadašnjem stavku 8. koji postaje stavak 7. na kraju rečenice briše se točka i dodaju riječi: »ili ako u trenutku podnošenja zahtjeva primaju obiteljsku invalidninu.«.
+
+Dosadašnji stavci 9. i 10. postaju stavci 8. i 9.
+
+#### Članak 6.
+
+U članku 37. stavku 1. podstavak 9. mijenja se i glasi:
+
+»– ako je stambeno zbrinuta odgovarajućom stambenom površinom, odnosno pripadajućim stanom na teret državnog proračuna Republike Hrvatske, ali po drugom posebnom propisu.«.
+
+#### Članak 7.
+
+U članku 38. stavak 1. mijenja se i glasi:
+
+»(1) Osobe iz članka 36. ovoga Zakona koje ostvaruju pravo na stambeno zbrinjavanje dodjelom stambenog kredita to pravo ostvaruju sljedećim redoslijedom:
+
+1. članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata,
+
+2. članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata,
+
+3. HRVI iz Domovinskog rata s oštećenjem organizma 100% – I. i II. skupine i članovi uže obitelji umrloga HRVI iz Domovinskog rata s istim oštećenjem organizma,
+
+4. HRVI iz Domovinskog rata s oštećenjem organizma od 90% do 20% i članovi uže obitelji umrloga HRVI iz Domovinskog rata s istim oštećenjem organizma.«.
+
+U stavku 4. podstavku 5. zarez i riječi: »odnosno za nadogradnju stana ili kuće« brišu se.
+
+#### Članak 8.
+
+U članku 40. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Pravo iz stavka 1. ovoga članka mogu ostvariti i osobe iz članka 36. ovoga Zakona koje imaju izgrađeni stambeni objekt na zemljištu u vlasništvu jedinice lokalne samouprave, a koje navedeni stambeni objekt koriste neprekidno pet godina uz uvjet da ostvaruju pravo na stambeni kredit iz članka 38. ovoga Zakona za poboljšanje uvjeta stanovanja na istom stambenom objektu.«.
+
+#### Članak 9.
+
+U članku 42. stavak 4. briše se.
+
+#### Članak 10.
+
+U članku 43. iza stavka 1. dodaju se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Iznimno od odredbe stavka 1. ovoga članka, odgovarajućim stanom smatrat će se i stan, bez obzira na površinu, ako nema veću sobnost od broja priznatih članova kućanstva, koji je dodijeljen:
+
+- zajedno supruzi i djeci (djetetu) smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata,
+
+- zajedno samo djeci smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata,
+
+- HRVI iz Domovinskog rata s oštećenjem 100% I. skupine,
+
+- na područjima koja su zakonom utvrđena kao područja od posebne državne skrbi, a prebivalište korisnika stana u trenutku dodjele je izvan područja posebne državne skrbi.
+
+(3) Pripadajući stan osoba iz stavka 2. ovoga članka moguće je dodijeliti samo u slučaju da isti nisu imali, ni nemaju u vlasništvu ili suvlasništvu bilo kakav stambeni objekt, odnosno nisu sudjelovali u obnovi kao članovi obiteljskog kućanstva nositelja prava na obnovu.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+#### Članak 11.
+
+U članku 48. stavak 2. mijenja se i glasi:
+
+»(2) Otkup i dodjela stanova u vlasništvu Republike Hrvatske, HRVI iz Domovinskog rata od V. do X. skupine regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.«.
+
+#### Članak 12.
+
+U članku 49. stavku 1. riječi: »Agencije za upravljanje državnom imovinom,« brišu se.
+
+#### Članak 13.
+
+U članku 50. iza stavka 1. dodaju se stavci 2., 3., 4. i 5. koji glase:
+
+»(2) Veteranski centar je ustanova za pružanje podrške i usluga braniteljsko- stradalničkoj populaciji i drugim osobama.
+
+(3) Osnivač veteranskih centara je Republika Hrvatska, a u ime osnivača osnivačka prava obavlja ministarstvo nadležno za branitelje.
+
+(4) Ministarstvo nadležno za branitelje rješenjem osniva veteranske centre.
+
+(5) Minimalne uvjete za početak rada i pružanja usluga veteranskih centara pravilnikom propisuje ministar branitelja.«.
+
+#### Članak 14.
+
+U članku 57. stavak 1. mijenja se i glasi:
+
+»(1) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i njihova djeca, djeca umrlih HRVI iz Domovinskog rata i hrvatski branitelji iz Domovinskog rata imaju pravo na besplatne obvezatne udžbenike za potrebe redovitoga ili izvanrednog školovanja u osnovnim i srednjim školama te na visokim učilištima ili veleučilištima pod uvjetom da to pravo ne mogu ostvariti po drugim propisima i ako ispunjavaju prihodovni cenzus i druge uvjete predviđene pravilnikom iz stavka 4. ovoga članka.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Iznos sredstava potrebnih za kupnju udžbenika iz stavka 1. ovoga članka osigurava ministarstvo nadležno za obrazovanje.«.
+
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+
+»(4) Postupak za ostvarivanje prava iz stavka 1. ovoga članka provodi se sukladno uvjetima i načinu utvrđenim pravilnikom koji donosi ministar obrazovanja u suradnji s ministrom branitelja.
+
+(5) Nadležni ured državne uprave u jedinici područne (regionalne) samouprave odnosno nadležno upravno tijelo Grada Zagreba je prvostupanjsko tijelo koje rješava o pravu na besplatne udžbenike.
+
+(6) Drugostupanjsko tijelo za postupanje po rješenjima upravnih tijela i službenih osoba iz stavka 5. ovoga članka je ministarstvo nadležno za obrazovanje.«.
+
+#### Članak 15.
+
+Podnaslov iznad članka 87. i članak 87. brišu se.
+
+#### Članak 16.
+
+Članak 88. briše se.
+
+#### Članak 17.
+
+Članak 89. briše se.
+
+#### Članak 18.
+
+Članak 90. briše se.
+
+#### Članak 19.
+
+Članak 91. briše se.
+
+#### Članak 20.
+
+Članak 92. briše se.
+
+#### Članak 21.
+
+Članak 95. briše se.
+
+#### Članak 22.
+
+Članak 96. briše se.
+
+#### Članak 23.
+
+Članak 97. briše se.
+
+#### Članak 24.
+
+Članak 98. briše se.
+
+#### Članak 25.
+
+Članak 99. briše se.
+
+#### Članak 26.
+
+Članak 100. briše se.
+
+#### Članak 27.
+
+U članku 101. stavak 1. mijenja se i glasi:
+
+»(1) Hrvatskom branitelju iz Domovinskog rata, odnosno dragovoljcu iz Domovinskog rata, koji je korisnik zajamčene minimalne naknade i koji zbog trajnih promjena u zdravstvenom stanju ne može sam ispunjavati osnovne životne zahtjeve pripada doplatak za pripomoć u kući, ako ne koristi doplatak za njegu i pomoć druge osobe po ovom Zakonu ili drugim propisima i ako je u obrani suvereniteta Republike Hrvatske proveo najmanje 100 dana.«.
+
+#### Članak 28.
+
+U članku 108. stavku 1. točki 1. riječ: »osnovnoga« zamjenjuje se riječju: »obveznoga«.
+
+Točka 4. briše se.
+
+Dosadašnje točke 5., 6., 7., 8., 9., 10., 11., 12., 13. i 14. postaju točke 4., 5., 6., 7., 8., 9., 10., 11., 12. i 13.
+
+Točka 15. briše se.
+
+Dosadašnja točka 16. postaje točka 14.
+
+U stavku 2. brojke: »5., 6., 7., 8., 9., 11.« zamjenjuju se brojkama: »4., 5., 6., 7., 8. i 10.«.
+
+#### Članak 29.
+
+U članku 109.b stavku 4. brojka: »14.« zamjenjuje se brojkom: »13.«.
+
+#### Članak 30.
+
+U članku 110. stavku 1. riječ: »opskrbnina« briše se.
+
+Stavak 3. briše se.
+
+U dosadašnjem stavku 4. koji postaje stavak 3. riječ: »opskrbninu« zamjenjuje se riječima: »zajamčenu minimalnu naknadu«, a riječ: »konačno« zamjenjuje se riječju: »izvršno«.
+
+#### Članak 31.
+
+U članku 113. riječ: »opskrbnina« briše se.
+
+#### Članak 32.
+
+Članak 116. mijenja se i glasi:
+
+»Korisniku doplatka za pripomoć u kući koji boravi u inozemstvu prestaje pravo doplatka za pripomoć u kući nakon tri mjeseca neprekidnog boravka u inozemstvu.«.
+
+#### Članak 33.
+
+U članku 122. stavku 1. podstavku 9. iza riječi: »prema« dodaju se riječi: »ovom Zakonu i drugim«.
+
+U stavku 7. na kraju rečenice briše se točka i dodaju riječi: »nadležan za branitelje«.
+
+#### Članak 34.
+
+U članku 129. stavku 1. riječ: »opskrbninu« briše se.
+
+#### Članak 35.
+
+U članku 138. stavku 1. riječi: »opskrbninu« i riječi: »pravo na besplatne udžbenike« brišu se.
+
+#### Članak 36.
+
+U članku 145. stavku 1. iza točke 4. dodaje se nova točka 5. koja glasi:
+
+»5. Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima, ako s osobom, odnosno osobama, iz članka 35. stavka 1. ovoga Zakona kojoj, odnosno kojima, je rješenjem iz članka 35. stavka 16. ovoga Zakona utvrđena povreda prava prednosti pri zapošljavanju, ne sklope ugovor o radu u roku od osam dana od otkaza ugovora čijim sklapanjem je povrijeđeno pravo prednosti pri zapošljavanju (članak 35. stavak 17. ovoga Zakona).«.
+
+Dosadašnja točka 5. postaje točka 6.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 37.
+
+Prava na opskrbninu i besplatne udžbenike ostvarena sukladno odredbama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.) prestaju s danom stupanja na snagu ovoga Zakona.
+
+#### Članak 38.
+
+Nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba donijet će rješenja o prestanku isplate prava na doplatak za pripomoć u kući u svim upravnim predmetima u kojima je ovo pravo priznato sukladno odredbama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.).
+
+#### Članak 39.
+
+Uredbu iz članka 47. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.) Vlada Republike Hrvatske uskladit će s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 40.
+
+Pravilnik iz članka 57. stavka 4. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.) ministar obrazovanja donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 41.
+
+Postupci na koje se odnose odredbe članka 37. stavka 1. podstavka 9. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.) koji su započeti do stupanja na snagu ovoga Zakona, a nisu okončani, dovršit će se prema odredbama ovoga Zakona ako je to za stranku povoljnije.
+
+#### Članak 42.
+
+Ministarstvo će ukinuti zakonita rješenja o dodjeli stana i zakonita rješenja o dodjeli stambenog kredita za kupnju stana u organiziranoj stambenoj izgradnji ako isti nije otkupljen ili nije zaključen ugovor o stambenom kreditu za dodijeljeni stan, ako:
+
+1. je korisnik prava ili član njegove uže obitelji stekao vlasništvo na odgovarajućem stanu ili kući,
+
+2. je korisnik prava izgubio status HRVI iz Domovinskog rata,
+
+3. korisnik prava ne koristi stan u skladu s odredbama zaključenog ugovora o najmu.
+
+#### Članak 43.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/287
+
+Zagreb, 4. prosinca 2013.
+
+HRVATSKI SABOR
+
 Predsjednik  
 Hrvatskoga sabora  
-Vladimir Šeks, v. r.
+Josip Leko, v. r.
+
+## Zakon o dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (NN 92/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1844*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI
+
+Proglašavam Zakon o dopunama Zakona o pravima hrvatskih branite ja iz Domovinskog rata i članova njihovih obitelji, koji je Hrvatski sabor donio na sjednici 15. srpnja 2014. godine.
+
+Klasa: 011-01/14-01/130
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 18. srpnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O PRAVIMA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI**
+
+#### Članak 1.
+
+U Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12., 33/13. i 148/13.) iza članka 64. dodaju se podnaslov i članci 64.a do 64.f koji glase:
+
+### »BRANITELJSKA SOCIJALNO-RADNA ZADRUGA
+
+#### Članak 64.a
+
+Braniteljska socijalno-radna zadruga (u daljnjem tekstu: zadruga) osniva se radi ostvarivanja psihosocijalnog osnaživanja i zdravstvene rehabilitacije, odnosno lakše i brže reintegracije njezinih članova u društvo, te uključivanja u radne i gospodarske procese članova s umanjenom radnom sposobnošću i nezaposlenih osoba.
+
+#### Članak 64.b
+
+Zadrugu čini najmanje dvije trećine osnivača ili članova koji imaju priznat status hrvatskog branitelja iz Domovinskog rata, status hrvatskog ratnog vojnog invalida iz Domovinskog rata ili status člana obitelji smrtno stradalog, zatočenog ili nestalog hrvatskog branitelja iz Domovinskog rata.
+
+#### Članak 64.c
+
+(1) Upravitelj zadruge može biti i osoba koja ima priznat status hrvatskog branitelja iz Domovinskog rata ili status hrvatskog ratnog vojnog invalida iz Domovinskog rata kod koje je utvrđena opća nesposobnost za rad, odnosno potpuni gubitak radne sposobnosti ili profesionalna nesposobnost za rad, odnosno djelomičan gubitak radne sposobnosti kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske, ako poslove upravitelja obavlja bez plaće ili naknade.
+
+(2) Upravitelj iz stavka 1. ovoga članka nije obvezno osiguran na mirovinsko osiguranje.
+
+(3) Kada zadruga u kalendarskoj godini nakon oporezivanja ostvari dobit u iznosu od 150.000,00 kuna i veću, dužna je izabrati osobu koja će profesionalno obavljati poslove upravitelja zadruge i koja se obvezno osigurava na mirovinsko osiguranje.
+
+#### Članak 64.d
+
+(1) Zadruge se slobodno udružuju i osnivaju saveze radi psihosocijalnog osnaživanja te ostvarivanja zajedničkih ideja, projekata, programa i aktivnosti na nacionalnoj i međunarodnoj razini.
+
+(2) Podršku i stručnu pomoć u provedbi aktivnosti koje se odnose na psihosocijalno osnaživanje pruža ministarstvo nadležno za branitelje.
+
+#### Članak 64.e
+
+(1) Zadruge su obvezne dostaviti ministarstvu nadležnom za branitelje ovjerenu izjavu upravitelja zadruge, danu pod kaznenom i materijalnom odgovornošću, da poslove i zadatke upravitelja obavlja bez plaće ili naknade, te presliku rješenja o upisu u sudski registar nadležnog trgovačkog suda i svaku izmjenu tog rješenja, u roku od 15 dana od dana upisa.
+
+(2) Ministar branitelja donijet će pravilnik o vođenju evidencija svih zadruga i saveza, te službenu evidenciju njihovih upravitelja kojim će se propisati sadržaj, uvjeti, način i postupak prikupljanja podataka, njihovo vođenje i ažuriranje, te razmjena s drugim tijelima.
+
+#### Članak 64.f
+
+Radi povećanja konkurentnosti zadruga i njihova uspješnijeg uključivanja na tržište, na zadruge i na njezine članove na odgovarajući se način primjenjuju aktivnosti i mjere utvrđene Programom stručnog osposobljavanja i zapošljavanja hrvatskih branitelja i djece smrtno stradalih, zatočenih ili nestalih hrvatskih branitelja iz članka 122. stavka 6. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12., 33/13. i 148/13.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 2.
+
+Na pitanja koja se odnose na zadruge, a nisu uređena ovim Zakonom, na odgovarajući se način primjenjuje zakon kojim se uređuju pitanja zadruga.
+
+#### Članak 3.
+
+Ministar branitelja će u roku od 60 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik o vođenju evidencija iz članka 64.e stavka 2. dodanog člankom 1. ovoga Zakona.
+
+#### Članak 4.
+
+Zadruge registrirane do stupanja na snagu ovoga Zakona dužne su normativne akte uskladiti s odredbama ovoga Zakona i izvršiti upis promjena podataka koji se vode u sudskom registru u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 5.
+
+Braniteljske zadruge koje su osnovane prije stupanja na snagu ovoga Zakona, presliku rješenja i izjavu iz članka 64.e dodanog člankom 1. ovoga Zakona, obvezne su dostaviti ministarstvu nadležnom za branitelje u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 6.
+
+Članak 64.c koji je dodan članku 1. ovoga Zakona primjenjuje se od 1. siječnja 2014.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/81  
+Zagreb, 15. srpnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

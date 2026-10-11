@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-09-24
-last_amended: 2008-05-28
+last_amended: 2009-07-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "151/03, 153/05, 111/06, 60/08"
+narodne_novine: "151/03, 153/05, 111/06, 60/08, 87/09"
 amendments:
   - "NN 153/2005 (2967) Uredba o izmjeni i dopuni Zakona o otpadu"
   - "NN 111/2006 (2452) Zakon o izmjenama i dopunama Zakona o otpadu"
   - "NN 60/2008 (2035) Zakon o izmjenama i dopunama Zakona o otpadu"
+  - "NN 87/2009 (2131) Zakon o izmjenama i dopunama Zakona o otpadu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2179"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 151/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2179).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2005, NN 111/2006, NN 60/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2005, NN 111/2006, NN 60/2008, NN 87/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1845,6 +1846,358 @@ Klasa: 310-33/08-01/01
 Zagreb, 9. svibnja 2008.
 
 HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o otpadu (NN 87/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/87/2131*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA OTPADU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o otpadu, koji je Hrvatski sabor dobnio na sjednici 10. srpnja 2009. godine.
+
+Klasa: 011-01/09-01/136
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 17. srpnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OTPADU**
+
+### Članak 1.
+
+U Zakonu o otpadu (»Narodne novine«, br. 178/04., 111/06. i 60/08.) u članku 17.a u stavku 2. iza riječi: »energetsku učinkovitost« dodaju se riječi: »(u daljnjem tekstu: Fond)«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Obveza plaćanja naknade iz stavka 1. ovoga članka nastaje na temelju rješenja koje donosi Fond.«
+
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+
+»(4) Protiv rješenja Fonda može se izjaviti žalba ministarstvu nadležnom za poslove zaštite okoliša u roku od osam dana od dana dostave rješenja.
+
+(5) Obračunati i dospjeli iznosi naknada uplaćuju se na račun Fonda.
+
+(6) Naplata dospjelih nenaplaćenih iznosa naknada zajedno s pripadajućim kamatama provodi se sukladno članku 27. i 28. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost.«
+
+### Članak 2.
+
+Iza članka 17.a dodaje se članak 17.b koji glasi:
+
+»Članak 17.b
+
+(1) Fond iz iznosa naknada iz članka 17.a ovoga Zakona isplaćuje cijenu usluge za obavljanje djelatnosti skupljanja, oporabe i zbrinjavanja posebnih kategorija otpada.
+
+(2) Provedbenim propisima kojima se uređuje gospodarenje posebnim kategorijama otpada iz članka 104. ovoga Zakona, uređuje se način isplate cijene usluge te dostava podataka o količinama skupljenog, odnosno obrađenog ili oporabljenog otpada.«
+
+### Članak 3.
+
+Iza članka 18. dodaje se članak 18.a koji glasi:
+
+»Članak 18.a
+
+(1) Država može na lokacijama visokoopterećenim opasnim otpadom osigurati sanaciju okoliša i kad je onečišćivač ili proizvođač poznat, ali nije izvršio sanaciju ili je odbija izvršiti. Odluku o sanaciji i osiguranju sredstava za sanaciju donosi Fond na prijedlog ministarstva nadležnog za zaštitu okoliša. Žalba na odluku nije dopuštena, ali se može pokrenuti upravni spor. Upravni spor ne odgađa provedbu odluke.
+
+(2) Država ima pravo na naknadu svih troškova izvršene sanacije iz stavka 1. ovoga članka. Radi osiguranja naplate troškova izvršene sanacije država na temelju ovoga Zakona stječe zakonsko založno pravo na nekretninama na kojima je izvršena sanacija u visini troškova sanacije.
+
+(3) Prije postupka sanacije zemljišnoknjižni sud će na prijedlog države provesti u zemljišnoj knjizi upis zabilježbe namjere sanacije i posljedice sanacije iz stavka 2. ovoga članka. Upis zabilježbe provest će se na temelju odluke iz stavka 1. ovoga članka.
+
+(4) Nadležni zemljišnoknjižni sud provest će u korist države uknjižbu založnog prava i predbilježbu stjecanja prava vlasništva države na temelju računa o izvršenoj sanaciji osobe koja je izvela radove sanacije za državu.
+
+(5) Sve poslove u vezi sa sanacijom u ime i za račun države obavlja Fond.
+
+(6) Odredbe ovoga članka primjenjuju se i na pravne osobe na kojima se provodi stečajni postupak, kao i na nekretnine u vlasništvu tih pravnih osoba. Troškovi sanacije smatraju se troškovima stečajnog postupka.«
+
+### Članak 4.
+
+Članak 47. mijenja se i glasi:
+
+»(1) Zabranjuje se uvoz otpada radi zbrinjavanja i korištenja u energetske svrhe.
+
+(2) Zabranjuje se uvoz opasnog otpada, osim u slučaju oporabe kada se s materijalnom oporabom dobiva novi proizvod ili sirovina koja oporabom prestaje biti otpad.
+
+(3) Dopušten je uvoz otpada koji se materijalno oporabljuje u Republici Hrvatskoj u skladu s ovim Zakonom i posebnim propisima donesenim na temelju ovoga Zakona.
+
+(4) Nadzor nad prekograničnim prometom otpada, način i postupci nadzora na granici i graničnim prijelazima i ovlaštenja inspektora zaštite okoliša, propisuju se posebnim propisom koji donosi Vlada Republike Hrvatske.«
+
+### Članak 5.
+
+Članak 48. mijenja se i glasi:
+
+»(1) Za uvoz otpada iz članka 47. stavka 2. ovoga Zakona osoba koja obavlja uvoz mora pribaviti rješenje propisano ovim Zakonom.
+
+(2) Uvoz iz stavka 1. ovoga članka dozvolit će se osobi registriranoj za obavljanje djelatnosti uvoza (u daljnjem u tekstu: uvoznik) na njezin zahtjev, uz uvjet da:
+
+1. je sklopljen ugovor između uvoznika i osobe koja izvozi otpad (u daljnjem tekstu: izvoznik),
+
+2. je sklopljen ugovor između uvoznika otpada i osobe koja obavlja djelatnost oporabe otpada (u daljnjem tekstu: oporabitelj) ako uvoznik ujedno nije oporabitelj,
+
+3. je priložen dokaz da oporabitelj otpada raspolaže tehnološkim postrojenjem za oporabu uvezenog otpada bez opasnosti po okoliš (ima dozvolu u skladu s člankom 41. stavkom 1. ovoga Zakona),
+
+4. je priložena izjava oporabitelja o vrsti i procijenjenoj količini otpada koji će nastati oporabom uvezenog otpada te o planiranom načinu njegove oporabe i/ili zbrinjavanja,
+
+5. su navedeni podaci o količini otpada, ključnom broju otpada, identifikacijskoj oznaci otpada, tarifnoj oznaci, postupku oporabe (R oznaka), načinu prijevoza, graničnom prijelazu za uvoz,
+
+6. izvoznik putem nadležnog tijela države polazišta dostavi prethodnu pisanu obavijest o namjeravanoj otpremi otpada uz priloženu Obavijest o prekograničnom prometu otpadom – Notifikaciju i Dokument o prometu države izvoza, sukladno Konvenciji o nadzoru prekograničnog prometa opasnim otpadom i njegovom odlaganju, kada se radi o opasnom otpadu,
+
+7. je priložena odgovarajuća polica osiguranja ili jamstvo banke u iznosu koji je potreban da pokrije troškove oporabe i/ili zbrinjavanja otpada bez opasnosti za okoliš, kada se radi o opasnom otpadu,
+
+8. je priložena odgovarajuća polica osiguranja ili jamstvo banke u iznosu koji je potreban da pokrije troškove sanacije okoliša u slučaju nezgode, kada se radi o opasnom otpadu.«
+
+### Članak 6.
+
+U članku 49. stavku 1. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 2.«.
+
+### Članak 7.
+
+Članak 50. mijenja se i glasi:
+
+»(1) Za izvoz opasnog otpada i neopasnog otpada radi zbrinjavanja osoba koja obavlja izvoz mora pribaviti rješenje propisano ovim Zakonom.
+
+(2) Izvoz iz stavka 1. ovoga članka dozvolit će se osobi registriranoj za obavljanje djelatnosti gospodarenja otpadom ili posredniku (u daljnjem tekstu: izvoznik) na njezin zahtjev, uz uvjet da:
+
+1. je izdano odobrenje države u koju se otpad uvozi,
+
+2. je sklopljen ugovor između izvoznika i uvoznika otpada,
+
+3. je izdano odobrenje država kroz koje otpad prolazi na putu do krajnjeg odredišta,
+
+4. je priložena Obavijest o prekograničnom prometu otpadom – Notifikacija i Dokument o prometu, sukladno Konvenciji o nadzoru prekograničnog prometa opasnim otpadom i njegovom odlaganju,
+
+5. izvoznik posjeduje odgovarajuću policu osiguranja ili jamstvo banke u iznosu koji je potreban da pokrije troškove zbrinjavanja i/ili oporabe otpada bez opasnosti za okoliš,
+
+6. izvoznik posjeduje odgovarajuću policu osiguranja ili jamstvo banke u iznosu koji je potreban da pokrije troškove sanacije okoliša u slučaju nezgode.«
+
+### Članak 8.
+
+U članku 51. stavku 1. i 2. iza riječi: »opasnog otpada« dodaju se riječi: »i neopasnog otpada radi zbrinjavanja«.
+
+### Članak 9.
+
+U članku 52. stavku 1., 2. i 3. iza riječi: »opasnog otpada« dodaju se riječi: »i neopasnog otpada radi zbrinjavanja«.
+
+### Članak 10.
+
+U članku 54. iza riječi: »Republiku Hrvatsku« dodaju se riječi: »radi oporabe«.
+
+### Članak 11.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Koncesija se daje za djelatnost gospodarenja otpadom koja je od interesa za Republiku Hrvatsku.
+
+(2) Koncesija za djelatnost gospodarenja otpadom daje se u skladu s odredbama ovoga Zakona i posebnim propisima donesenim na temelju ovoga Zakona i zakona kojim se uređuju koncesije.
+
+(3) Koncesija za obavljanje djelatnosti gospodarenja otpadom kao komunalne djelatnosti daje se u skladu s odredbama zakona kojim se uređuje komunalno gospodarstvo.
+
+(4) Na sva pitanja u vezi postupka davanja koncesije, prestanka koncesije, pravne zaštite u postupcima davanja i prestanka koncesije te druga pitanja u vezi s koncesijama koja nisu uređena ovim Zakonom, primjenjuju se odredbe zakona kojim se uređuju koncesije.«
+
+### Članak 12.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Koncesija za obavljanje djelatnosti gospodarenja posebnim kategorijama otpada, građevnim i medicinskim otpadom može se dati za:
+
+– skupljanje, privremeno skladištenje i prijevoz do mjesta oporabe ili zbrinjavanja,
+
+– oporabu kada se oporabom dobiva novi proizvod, energija ili sirovina koja oporabom prestaje biti otpad,
+
+– zbrinjavanje ako se ne može ili nije ekonomski isplativa oporaba u smislu dobivanja novih sirovina, proizvoda ili energije.
+
+(2) Davatelj koncesije za djelatnosti gospodarenja posebnim kategorijama otpada i medicinskim otpadom iz stavka 1. ovoga članka je Ministarstvo.
+
+(3) Ministarstvo može ovlastiti županiju za davanje koncesije iz stavka 2. ovoga članka.
+
+(4) Davatelj koncesije za djelatnosti gospodarenja građevnim otpadom iz stavka 1. ovoga članka je županija, Grad Zagreb, grad i općina.
+
+(5) Koncesija iz stavka 1. ovoga članka daje se na temelju provedenoga javnog natječaja.«
+
+### Članak 13.
+
+Iza članka 56. dodaju se članci 56.a, 56.b i 56.c koji glase:
+
+»Članak 56.a
+
+(1) Obavijest o namjeri davanja koncesije iz članka 56. stavka 3. i 4. ovoga Zakona donosi izvršno tijelo županije, odnosno Grada Zagreba, grada ili općine.
+
+(2) Odluku o odabiru najpovoljnijeg ponuditelja donosi predstavničko tijelo županije, odnosno Grada Zagreba, grada ili općine.
+
+(3) Ugovor o koncesiji s odabranim najpovoljnijim ponuditeljem sklapa izvršno tijelo jedinice lokalne i područne (regionalne) samouprave na temelju odluke iz stavka 2. ovoga članka.
+
+### Članak 56.b
+
+(1) Koncesija iz članka 56. ovoga Zakona daje se na rok do 30 godina.
+
+(2) Trajanje koncesije određuje davatelj koncesije na temelju analize ulaganja, opsega djelatnosti i složenosti postupaka oporabe ili zbrinjavanja.
+
+### Članak 56.c
+
+(1) Prije postupka davanja koncesije, davatelj koncesije provodi pripremne radnje sukladno zakonu kojim se uređuju koncesije uzimajući u obzir ciljeve i mjere gospodarenja otpadom određene ovim Zakonom i posebnim propisima donesenim na temelju ovoga Zakona.
+
+(2) U provedbi pripremnih radnji iz stavka 1. ovoga članka sudjeluje Fond ako prema zakonu ili posebnim propisima donesenim na temelju ovoga Zakona ekonomskim i drugim mjerama prati rad koncesionara.«
+
+### Članak 14.
+
+U članku 57. uvodna rečenica mijenja se i glasi: »Posebni uvjeti i dokazi iz dokumentacije za nadmetanje koje su ponuditelji obvezni dostaviti uz ponudu jesu:«.
+
+Iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+»– elaborat zaštite okoliša kojim se određuju potrebne mjere kako bi osiguralo gospodarenje otpadom na način kojim se ne ugrožava zdravlje ljudi i ne šteti okolišu, a posebno: ne ugrožava voda, zrak, tlo, biljke ili životinje, ne uzrokuju neugodnosti u pogledu buke ili mirisa i bez štetnih utjecaja na krajolik ili mjesta od posebnog interesa,«.
+
+Dosadašnji podstavak 5. postaje podstavak 6.
+
+### Članak 15.
+
+Iza članka 57. dodaje se članak 57.a koji glasi:
+
+»Članak 57.a
+
+(1) Davatelj koncesija donosi odluku o objavi obavijesti o namjeri davanja koncesije iz članka 56. ovoga Zakona.
+
+(2) Obavijest o namjeri davanja koncesije objavljuje se u »Narodnim novinama«.
+
+(3) Objavom obavijesti o namjeri davanja koncesije započinje postupak davanja koncesije.«
+
+### Članak 16.
+
+Članak 58. mijenja se i glasi:
+
+»Obavijest o namjeri davanja koncesije sadrži osobito:
+
+1. – predmet koncesije – djelatnost gospodarenja otpadom iz članka 56. ovoga Zakona za koju se daje koncesija,
+
+– područje na kojem će se koncesija obavljati,
+
+– rok trajanja koncesije,
+
+– prava i obveze koncesionara sukladno ovom Zakonu i posebnim propisima donesenim na temelju ovoga Zakona,
+
+– rok za predaju ponuda;
+
+2. osobne, stručne, tehničke i financijske uvjete koje ponuditelji moraju zadovoljiti te isprave kojima se dokazuje njihovo ispunjenje sukladno članku 57. ovoga Zakona,
+
+3. kriterije koji se primjenjuju za odabir najpovoljnije ponude sukladno članku 59. ovoga Zakona.«
+
+### Članak 17.
+
+Članak 59. mijenja se i glasi:
+
+»Kriterij za odabir najpovoljnije ponude je ekonomski najpovoljnija ponuda sa stajališta davatelja koncesije koja udovoljava ciljevima i mjerama gospodarenja otpadom određenim ovim Zakonom i posebnim propisima donesenim na temelju ovoga Zakona, a sadrži:
+
+– sposobnost ponuditelja za dugoročnu održivost zaštite okoliša za vrijeme trajanja koncesije i za kvalitetno ostvarivanje koncesije,
+
+– elemente ovisno o posebnosti djelatnosti gospodarenja otpadom prema ocjeni davatelja koncesije, a koji su u skladu s načelima postupka davanja koncesija prema zakonu kojim se uređuje koncesija.«
+
+### Članak 18.
+
+Članak 60. mijenja se i glasi:
+
+»Odluka o odabiru najpovoljnijeg ponuditelja sadrži osobito: djelatnost gospodarenja otpadom za koju se daje koncesija, područje na kojem će se koncesija obavljati, način i uvjete obavljanja djelatnosti, rok trajanja koncesije, ovlaštenja davatelja koncesije, prava i obveze koncesionara, rok u kojem je najpovoljniji ponuditelj obvezan potpisati ugovor o koncesiji, naknadu za koncesiju i/ili cijenu usluge te druga pitanja od značenja za obavljanje djelatnosti za koju se daje koncesija sukladno ovom Zakonu i posebnim propisima donesenim na temelju ovoga Zakona te zakonu kojim se uređuju koncesije.«
+
+### Članak 19.
+
+Iza članka 60. dodaju se članci 60.a i 60.b koji glase:
+
+»Članak 60.a
+
+(1) Na temelju odluke iz članka 60. ovoga Zakona davatelj koncesije sklapa s odabranim najpovoljnijim ponuditeljem ugovor o koncesiji u roku od 30 dana od dana kada je odluka o odabiru najpovoljnijeg ponuditelja postala konačna sukladno zakonu kojim se uređuju koncesije.
+
+(2) Ugovorom o koncesiji detaljno se razrađuju prava i obveze davatelja koncesije i koncesionara određena odlukom iz stavka 1. ovoga članka, jamstva i/ili instrumenti osiguranja koncesionara i način razrješenja odnosa u slučaju prestanka ugovora prije isteka roka na koji se koncesija daje te druga pitanja od značenja za obavljanje djelatnosti za koju se daje koncesija.
+
+(3) Odluka iz članka 60. ovoga Zakona i ugovor o koncesiji iz stavka 1. ovoga članka dostavljaju se Fondu.
+
+(4) Koncesionar ne smije prenijeti koncesiju na drugu osobu.
+
+### Članak 60.b
+
+(1) Koncesionar i Fond sklapaju, sukladno posebnim propisima donesenim na temelju ovoga Zakona, ugovor kojim se uređuje način isplate cijene usluge, dostavljanje izvješća i rok za njihovu dostavu.
+
+(2) Ugovor iz stavka 1. ovoga članka sklapa se na rok na koji je koncesija dana.
+
+(3) Ugovor iz stavka 1. ovoga članka sklapa se u roku od 30 dana od sklapanja ugovora o koncesiji.«
+
+### Članak 20.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Davatelj koncesije može jednostrano raskinuti ugovor o koncesiji, ako koncesionar propusti u propisanom roku sklopiti ugovor iz članka 60.b ovoga Zakona.
+
+(2) Koncesionar može zatražiti sporazumni raskid ugovora s davateljem koncesije, uz predočenje razloga za raskid ugovora. Davatelj koncesije utvrđuje može li se i u kojim uvjetima i rokovima raskinuti ugovor, na način da se osigura minimalna šteta u sustavu gospodarenja otpadom u skladu s odredbama ugovora o koncesiji i općim odredbama obveznog prava.
+
+(3) Ugovor o koncesiji se može raskinuti i u drugim slučajevima u skladu sa zakonom kojim se uređuju koncesije.«
+
+### Članak 21.
+
+U članku 88. stavku 1. točka 17. mijenja se i glasi:
+
+»17. uvozi otpad radi zbrinjavanja (članak 47. stavak 1.),«.
+
+Točka 18. briše se.
+
+Dosadašnje točke 19., 20., 21. i 22. koje postaju točke 18., 19., 20. i 21. mijenjaju se i glase:
+
+»18. uvozi otpad koji se materijalno ne oporabljuje u Republici Hrvatskoj u skladu s ovim Zakonom i posebnim propisima donesenim na temelju ovoga Zakona (članak 47. stavak 2. i 3.),
+
+19. uvozi otpad bez rješenja propisanog ovim Zakonom (članak 48. stavak 1.),
+
+20. izvozi opasni otpad i neopasni otpad radi zbrinjavanja bez rješenja propisanog ovim Zakonom (članak 50. stavak 1. i članak 51. stavak 1.),
+
+21. područjem Republike Hrvatske provozi opasni otpad i neopasni otpad radi zbrinjavanja bez rješenja propisanog ovim Zakonom (članak 52. stavak 1.).«
+
+Dosadašnja točka 23. postaje točka 22.
+
+Dosadašnje točke 24. i 25. koje postaju točke 23. i 24. mijenjaju se i glase:
+
+23. obavlja djelatnost gospodarenja posebnim kategorijama otpada, medicinskim i građevnim otpadom iz članka 56. ovoga Zakona bez ugovora o koncesiji (članak 60.a),"
+
+24. prenese koncesiju na drugu osobu (članak 60.a stavak 4.),«.
+
+Dosadašnja točka 26. postaje točka 25.
+
+### Članak 22.
+
+U cijelom tekstu Zakona o otpadu (»Narodne novine«, br. 178/04., 111/06. i 60/08.) riječi: »ovlaštenik koncesije« u odgovarajućem broju i padežu zamjenjuju se riječju: »koncesionar« u odgovarajućem broju i padežu.
+
+### Članak 23.
+
+Odredbe članka 18.a ovoga Zakona primjenjuju se i na postupke sanacije koje su u tijeku.
+
+### Članak 24.
+
+U članku 59. stavku 3. Zakona o izmjenama i dopunama Zakona o otpadu (»Narodne novine«, br. 60/08.) riječi: »članka 65.« zamjenjuju se riječima: »članka 62.«.
+
+### Članak 25.
+
+Pokrenuti postupci za dodjelu koncesije prema odredbama Zakona o otpadu (»Narodne novine«, br. 178/04., 111/06. i 60/08.) do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.
+
+### Članak 26.
+
+Ugovori o koncesiji koji su sklopljeni na temelju Zakona o otpadu (»Narodne novine«, br. 178/04., 111/06. i 60/08.) ostaju na snazi do isteka ugovorenog roka.
+
+### Članak 27.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 310-33/09-01/01
+
+Zagreb, 10. srpnja 2009.
+
+HRVATSKI SABOR
+
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.

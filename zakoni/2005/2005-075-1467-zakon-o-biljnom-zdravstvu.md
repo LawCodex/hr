@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-06-20
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "75/05"
-amendments: []
+last_amended: 2011-05-18
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "75/05, 55/11"
+amendments:
+  - "NN 55/2011 (1200) Zakon o izmjeni i dopuni Zakona o biljnom zdravstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1467"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o biljnom zdravstvu
 
 > Izvor: Narodne novine, NN 75/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1467).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 55/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1532,3 +1536,63 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni i dopuni Zakona o biljnom zdravstvu (NN 55/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1200*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O BILJNOM ZDRAVSTVU
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o biljnom zdravstvu, koji je Hrvatski sabor donio na sjednici 6. svibnja 2011. godine.
+
+Klasa: 011-01/11-01/87
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 10. svibnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O BILJNOM ZDRAVSTVU**
+
+### Članak 1.
+
+U Zakonu o biljnom zdravstvu (»Narodne novine«, br. 75/05. i 25/09.) u članku 54. stavak 5. mijenja se i glasi:
+
+»(5) Protiv rješenja nadležnog inspektora može se podnijeti žalba Povjerenstvu za žalbe pri Ministarstvu kojeg imenuje Vlada Republike Hrvatske. Žalba se podnosi u roku od 15 dana od dana dostave rješenja.«.
+
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Povjerenstvo iz stavka 5. ovoga članka sastoji se od predsjednika i dva člana koji imaju visoku stručnu spremu poljoprivredne ili šumarske struke i najmanje pet godina radnog iskustva te položen državni stručni ispit za fitosanitarnog inspektora, graničnog inspektora zaštite bilja ili inspektora zaštite bilja.
+
+(7) Povjerenstvo donosi Poslovnik o radu.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 8. i 9.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 320-20/11-01/02
+
+Zagreb, 6. svibnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

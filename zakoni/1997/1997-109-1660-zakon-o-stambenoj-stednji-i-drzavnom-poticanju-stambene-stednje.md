@@ -6,15 +6,20 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-20
-last_amended: 2005-07-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2015-10-13
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "109/97, 76/99, 10/01, 92/05"
+narodne_novine: "109/97, 76/99, 10/01, 92/05, 21/10, 15/13, 139/13, 151/14, 110/15"
 amendments:
   - "NN 76/1999 (1362) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
   - "NN 10/2001 (190) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
   - "NN 92/2005 (1836) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 21/2010 (526) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 15/2013 (242) Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 139/2013 (2970) Zakon o dopuni Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 151/2014 (2822) Uredba o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 110/2015 (2125) Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1660"
 retrieved: 2026-10-12
 ---
@@ -23,7 +28,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 109/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1660).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1999, NN 10/2001, NN 92/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1999, NN 10/2001, NN 92/2005, NN 21/2010, NN 15/2013, NN 139/2013, NN 151/2014, NN 110/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -831,3 +836,361 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 21/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/526*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje, koji je Hrvatski sabor donio na sjednici 5. veljače 2010. godine.
+
+Klasa: 011-01/10-01/16
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 10. veljače 2010.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+##### Članak 1.
+
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97., 117/97., 76/99., 10/01. i 92/05.) u članku 2. stavak 1. mijenja se i glasi:
+
+»(1) Stambena štednja u smislu ovoga Zakona je organizirano prikupljanje novčanih sredstava – depozita od fizičkih i pravnih osoba radi rješavanja stambenih potreba stambenih štediša odobravanjem stambenih kredita uz financijsku potporu države na području Republike Hrvatske.«
+
+##### Članak 2.
+
+U članku 3. riječ: »Štediše« zamjenjuje se riječima: »Iznimno od odredbi članka 9. ovoga Zakona štediše«.
+
+##### Članak 3.
+
+U članku 4. stavku 1. riječi: »obavljati specijalizirane financijske institucije – stambene štedionice« zamjenjuju se riječima: »prikupljati stambene štedionice«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Stambene štedionice su kreditne institucije koje se osnivaju i posluju prema odredbama Zakona o kreditnim institucijama, ako ovim Zakonom nije drugačije propisano.«
+
+##### Članak 4.
+
+U članku 5. stavku 1. riječi: »Zakonom o bankama« zamjenjuju se riječima: »Zakonom o kreditnim institucijama«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Stambena štedionica osniva se kao dioničko društvo.«
+
+U stavku 4. riječi: »ili udjela« brišu se.
+
+##### Članak 5.
+
+U članku 8. stavku 1. riječi: »uz potporu države« brišu se.
+
+U stavku 2. točki 6. riječi: »banke ili štedionice« zamjenjuju se riječima: »kreditne institucije«.
+
+##### Članak 6.
+
+U članku 9. stavak 2. mijenja se i glasi:
+
+»(2) Stambeni štediša, u smislu ovoga Zakona, može biti državljanin Republike Hrvatske i svaka fizička osoba koja ima prebivalište u Republici Hrvatskoj.«
+
+##### Članak 7.
+
+U članku 10. stavku 1. iza točke 5. stavlja se zarez i dodaju se točke 6. i 7. koje glase:
+
+»6. odobravati kredite izvođačima koji na temelju zakona koji uređuje građenje mogu obavljati građevinsku djelatnost i to za projekte stanogradnje u Republici Hrvatskoj za zadovoljavanje stambenih potreba stambenih štediša, ukupno do iznosa jamstvenog kapitala stambene štedionice,
+
+7. obavljati poslove zastupanja u osiguranju u skladu sa zakonom koji uređuje osiguranje u dijelu vezanom za banke koji se odnosi na obavljanje djelatnosti zastupanja u osiguranju.«
+
+U stavku 2. iza riječi: »kreditu« briše se zarez i dodaju se riječi: »i podmirenja svojih obveza po sklopljenim ugovorima o stambenoj štednji,«.
+
+##### Članak 8.
+
+U članku 13. stavku 2. točki 1. riječ: »prvoga« briše se.
+
+U točki 2. riječ: »način« zamjenjuje se riječju: »načinu«.
+
+##### Članak 9.
+
+U članku 15. stavku 2. iza riječi: »bračni« dodaju se riječi: »i izvanbračni«.
+
+##### Članak 10.
+
+U članku 16. stavku 3. riječ: »oporučitelja« zamjenjuje se riječima: »stambenog štediše«.
+
+##### Članak 11.
+
+U članku 21. stavku 2. riječi: »samo svota« zamjenjuju se riječju: »iznos«, a riječi: »svotu naknade« zamjenjuju se riječima: »iznose naknada«.
+
+##### Članak 12.
+
+U članku 24. stavku 2. riječi: »jedinstveni matični broj građana« zamjenjuju se riječima: »osobni identifikacijski broj«.
+
+##### Članak 13.
+
+U članku 29. stavku 2. riječi: »ustanoviti i« brišu se.
+
+##### Članak 14.
+
+U članku 31. stavku 1. točka 4. mijenja se i glasi:
+
+»4. ako odobrava stambeni kredit osobama koje nisu stambeni štediše ili ako se kredit odobrava za korištenje izvan Republike Hrvatske,«.
+
+U članku 31. stavku 3. riječi: »odnosno štedionici« zamjenjuju se riječima: »odnosno štednoj banci«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+##### Članak 15.
+
+Odredbe članka 12. ovoga Zakona odnose se na zahtjeve za isplatu državnih poticajnih sredstava za 2010. i naredne godine.
+
+#### Stupanje na snagu
+
+##### Članak 16.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 6. ovoga Zakona i članka 14. ovoga Zakona u dijelu koji se odnosi na članak 31. stavak 1. točku 4. Zakona, koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 370-01/10-01/01
+
+Zagreb, 5. veljače 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 15/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/242*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE
+
+Proglašavam Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje, koji je Hrvatski sabor donio na sjednici 25. siječnja 2013. godine.
+
+Klasa: 011-01/13-01/04
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 31. siječnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+### Članak 1.
+
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine« br. 109/97., 117/97., 76/99., 10/01., 92/05., i 21/10.) u članku 21. stavku 2. riječi: »15 posto« zamjenjuju se riječima: »10 posto«.
+
+### Članak 2.
+
+Odredba članka 1. ovoga Zakona odnosi se na zahtjeve za isplatu državnih poticajnih sredstava za 2013. i sljedeće godine.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 370-01/13-01/01
+
+Zagreb, 25. siječnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o dopuni Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 139/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/139/2970*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE
+
+Proglašavam Zakon o dopuni Zakona o stambenoj štednji i državnom poticanju stambene štednje, koji je Hrvatski sabor donio na sjednici 8. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/243
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 12. studenoga 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+### Članak 1.
+
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97., 117/97., 76/99., 10/01., 92/05., 21/10. i 15/13.) iza članka 30. dodaje se članak 30.a koji glasi:
+
+»Članak 30.a
+
+Iznimno od odredaba ove glave, državna poticajna sredstva na stambenu štednju prikupljenu u razdoblju od 1. siječnja do 31. prosinca 2014. neće se isplatiti iz državnog proračuna Republike Hrvatske.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/238
+
+Zagreb, 8. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Uredba o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 151/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2822*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 115/2014), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2014. godine donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+#### Članak 1.
+
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97, 117/97, 76/99, 10/2001, 92/2005, 21/2010, 15/2013 i 139/2013), članak 21. mijenja se i glasi:
+
+»(1) Državna poticajna sredstva za stambene štediše odobravaju se stambenoj štedionici iz državnog proračuna Republike Hrvatske na osnovi dokumentiranih podataka o prikupljenoj stambenoj štednji u prethodnoj kalendarskoj godini.
+
+(2) Postotak državnih poticajnih sredstava određuje se po sljedećoj formuli:
+
+### % DPS = Kp + Fs
+
+pri čemu je:
+
+% DPS – postotak državnih poticajnih sredstava.
+
+Kp – prosječna kamatna stopa na nove devizne depozite stanovništva kod kreditnih institucija oročenih na razdoblje od 1 do 2 godine koja se izračunava jednom godišnje za razdoblje od 12 mjeseci počevši od srpnja prethodne godine do lipnja tekuće godine na temelju objavljenih statističkih podataka Hrvatske narodne banke,
+
+Fs – faktor stabilizacije kamatne stope izračunava se jednom godišnje kao pola aritmetičke sredine prinosa do dospijeća na obveznice Republike Hrvatske izdane u kunama uz valutnu klauzulu u eurima s preostalim rokom do dospijeća od pet godina za razdoblje od 12 mjeseci počevši od srpnja prethodne godine do lipnja tekuće godine temeljem objavljenih statističkih podatka Hrvatske narodne banke. Ako nije dostupan podatak o prinosu do dospijeća obveznica s preostalim rokom dospijeća od 5 godina, uzima se pola aritmetičke sredine prinosa do dospijeća najbližih obveznica s većim preostalim rokom do dospijeća. U izračun aritmetičke sredine prinosa ne uzimaju se mjeseci za koje nije raspoloživ podatak o mjesečnom prinosu.
+
+(3) Postotak državnih poticajnih sredstava iskazuje se na jednu decimalu u skladu s matematičkim pravilima o zaokruživanju.
+
+(4) Državna poticajna sredstva isplaćuju se prema postotku utvrđenom formulom iz stavka 2. ovoga članka od iznosa raspoložive stambene štednje uplaćene u godini za koju se isplaćuju državna poticajna sredstva, a najviše do iznosa od 5.000,00 kuna raspoložive stambene štednje po stambenom štediši tijekom jedne kalendarske godine. Pod raspoloživom stambenom štednjom u smislu ovoga Zakona podrazumijeva se iznos stambene štednje koju je stambeni štediša uplatio tijekom godine nakon umanjenja za iznose naknada koju naplaćuje stambena štedionica.
+
+(5) Državna poticajna sredstva tijekom jedne kalendarske godine odobrit će se stambenom štediši samo u jednoj stambenoj štedionici.
+
+(6) Vlada Republike Hrvatske na prijedlog Ministarstva financija do 31. listopada tekuće godine propisuje postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u sljedećoj kalendarskoj godini.«.
+
+#### Članak 2.
+
+Iznimno od članka 1. ove Uredbe u dijelu koji se odnosi na članak 21. stavak 6. Zakona o stambenoj štednji i državnom poticanju stambene štednje, Vlada Republike Hrvatske će na prijedlog Ministarstva financija do 31. prosinca 2014. godine propisati postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u 2015. godini sukladno formuli iz članka 1. ove Uredbe koji se odnosi na članak 21. stavak 2. Zakona o stambenoj štednji i državnom poticanju stambene štednje.
+
+#### Članak 3.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-03/134
+
+Urbroj: 50301-05/16-14-2
+
+Zagreb, 17. prosinca 2014.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 110/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2125*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE
+
+Proglašavam Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje, koji je Hrvatski sabor donio na sjednici 25. rujna 2015. godine.
+
+Klasa: 011-01/15-01/111  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 1. listopada 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+### Članak 1.
+
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97., 117/97., 76/99., 10/01., 92/05., 21/10., 15/13., 139/13. i 151/14.) članak 21. mijenja se i glasi:
+
+»(1) Državna poticajna sredstva za stambene štediše odobravaju se stambenoj štedionici iz državnog proračuna Republike Hrvatske na osnovi dokumentiranih podataka o prikupljenoj stambenoj štednji u prethodnoj kalendarskoj godini.
+
+(2) Postotak državnih poticajnih sredstava određuje se po sljedećoj formuli:
+
+% DPS = Kp + Fs
+
+pri čemu je:
+
+% DPS – postotak državnih poticajnih sredstava.
+
+Kp – prosječna kamatna stopa na nove devizne depozite stanovništva kod kreditnih institucija oročenih na razdoblje od 1 do 2 godine koja se izračunava jednom godišnje za razdoblje od 12 mjeseci počevši od srpnja prethodne godine do lipnja tekuće godine (uključujući podatak za lipanj) na temelju objavljenih statističkih podataka Hrvatske narodne banke.
+
+Fs – faktor stabilizacije kamatne stope izračunava se jednom godišnje kao pola aritmetičke sredine prinosa do dospijeća na obveznice Republike Hrvatske izdane u kunama uz valutnu klauzulu u eurima s preostalim rokom do dospijeća od pet godina za razdoblje od 12 mjeseci počevši od srpnja prethodne godine do lipnja tekuće godine (uključujući podatak za lipanj) temeljem objavljenih statističkih podatka Hrvatske narodne banke. Ako nije dostupan podatak o prinosu do dospijeća obveznica s preostalim rokom dospijeća od 5 godina, uzima se pola aritmetičke sredine prinosa do dospijeća najbližih obveznica s većim preostalim rokom do dospijeća. U izračun aritmetičke sredine prinosa ne uzimaju se mjeseci za koje nije raspoloživ podatak o mjesečnom prinosu.
+
+(3) Postotak državnih poticajnih sredstava iskazuje se na jednu decimalu u skladu s matematičkim pravilima o zaokruživanju.
+
+(4) Državna poticajna sredstva isplaćuju se prema postotku utvrđenom formulom iz stavka 2. ovoga članka od iznosa raspoložive stambene štednje uplaćene u godini za koju se isplaćuju državna poticajna sredstva, a najviše do iznosa od 5.000,00 kuna raspoložive stambene štednje po stambenom štediši tijekom jedne kalendarske godine. Pod raspoloživom stambenom štednjom u smislu ovoga Zakona podrazumijeva se iznos stambene štednje koju je stambeni štediša uplatio tijekom godine nakon umanjenja za iznose naknada koju naplaćuje stambena štedionica.
+
+(5) Državna poticajna sredstva tijekom jedne kalendarske godine odobrit će se stambenom štediši samo u jednoj stambenoj štedionici.
+
+(6) Vlada Republike Hrvatske na prijedlog Ministarstva financija do 31. listopada tekuće godine propisuje Odlukom postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u sljedećoj kalendarskoj godini.«.
+
+### Članak 2.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o izmjeni zakona o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 151/14.).
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/138  
+Zagreb, 25. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

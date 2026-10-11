@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-03-19
-last_amended: 2007-08-08
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2010-07-14
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "27/99, 82/07"
+narodne_novine: "27/99, 82/07, 88/10"
 amendments:
   - "NN 82/2007 (2577) Uredba o izmjenama i dopunama Zakona o sanitarnoj inspekciji"
+  - "NN 88/2010 (2468) Zakon o izmjenama i dopunama Zakona o sanitarnoj inspekciji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/547"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 27/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/547).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 82/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 82/2007, NN 88/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -536,3 +537,101 @@ Zagreb, 2. kolovoza 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sanitarnoj inspekciji (NN 88/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/88/2468*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SANITARNOJ INSPEKCIJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sanitarnoj inspekciji, koji je Hrvatski sabor donio na sjednici 2. srpnja 2010. godine.
+
+Klasa: 011-01/10-01/63
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 6. srpnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SANITARNOJ INSPEKCIJI**
+
+### Članak 1.
+
+U Zakonu o sanitarnoj inspekciji (»Narodne novine«, br. 113/08.), u članku 2. stavku 1. na kraju teksta briše se točka i dodaju riječi: »te na području zaštite javnozdravstvenog interesa.«.
+
+### Članak 2.
+
+Iza članka 12. dodaje se članak 12.a koji glasi:
+
+»Članak 12.a
+
+Sanitarna inspekcija na području zaštite javnozdravstvenog interesa nadzire provedbu zakona i drugih propisa kojima se uređuje zaštita javnozdravstvenog interesa, odnosno nadzire provedbu mjera i postupaka koji su usmjereni na zaštitu zdravlja populacije određenog područja ili cijele države.«.
+
+### Članak 3.
+
+U članku 20. iza riječi: »obavljati uzorkovanja,« dodaju se riječi: »fotografirati sve radne i pomoćne prostorije i prostore, predmete rada i poslovanja, opremu, osobe,«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»Pod poslovnim prostorijama, u smislu ovoga Zakona, razumijevaju se i stambene prostorije prijavljene kao poslovni prostor i druge prostorije, prijevozna sredstva i slično, u kojima nadzirana pravna i fizička osoba obavlja odobrenu djelatnost, odnosno rad.
+
+Sanitarni inspektor u skladu s propisima o zaštiti okoliša obavlja inspekcijski nadzor nad postrojenjima u kojima su prisutne opasne tvari, postrojenjima za koje se utvrđuju objedinjeni uvjeti zaštite okoliša te provedbu mjera zaštite okoliša i praćenja stanja okoliša (monitoring) utvrđenih u rješenju o prihvatljivosti zahvata za okoliš u okviru koordiniranih nadzora.«.
+
+### Članak 4.
+
+U članku 23. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Smatra se da nadzirana pravna ili fizička osoba nije omogućila obavljanje nadzora iz stavka 1. ovoga članka ako u trenutku nadzora nije prisutna osoba određena za zastupanje od strane nadzirane pravne ili fizičke osobe.«.
+
+### Članak 5.
+
+U članku 26. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Troškove daljnjeg vođenja postupka iz stavka 1. ovoga članka u cijelosti snosi stranka.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### Članak 6.
+
+U članku 31. iza stavka 2. dodaje se novi stavak 3. i stavci 4. i 5. koji glase:
+
+»U obavljanju koordiniranih inspekcijskih nadzora na temelju propisa o zaštiti okoliša nadležni sanitarni inspektor poduzima mjere propisane odredbama toga propisa.
+
+U provedbi inspekcijskog nadzora inspektor je ovlašten nadziranoj pravnoj ili fizičkoj osobi usmenim rješenjem zabraniti uporabu radnih i pomoćnih prostorija, odnosno prostora, postrojenja, uređaja, pribora i opreme za obavljanje djelatnosti u trajanju od 8 do 30 dana, ako su nedostaci utvrđeni prvi put, odnosno u trajanju od 30 dana do 6 mjeseci, ako su istovjetni nedostaci utvrđeni drugi i svaki sljedeći put računajući od dana donošenja prvog usmenog rješenja.
+
+Zabrana iz stavka 4. ovoga članka stupa na snagu donošenjem usmenog rješenja.«.
+
+Dosadašnji stavak 3. postaje stavak 6.
+
+### Članak 7.
+
+Iza članka 31. dodaje se članak 31.a koji glasi:
+
+»Članak 31.a
+
+Žalba izjavljena protiv rješenja donesenih na temelju odredbi članka 30. i 31. ovoga Zakona ne odgađa izvršenje rješenja.«.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 540-01/10-01/01
+
+Zagreb, 2. srpnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2003-04-01
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "52/03"
-amendments: []
+last_amended: 2013-07-24
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "52/03, 96/13"
+amendments:
+  - "NN 96/2013 (2143) Uredba o dopunama Uredbe o preoblikovanju Energetskog instituta Hrvoje Požar u ustanovu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/52/665"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o preoblikovanju Energetskog instituta "Hrvoje Požar" u ustanovu
 
 > Izvor: Narodne novine, NN 52/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/52/665).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 96/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -115,3 +119,72 @@ Zagreb, 27. ožujka 2003.
 
 Predsjednik  
 Ivica Račan, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopunama Uredbe o preoblikovanju Energetskog instituta Hrvoje Požar u ustanovu (NN 96/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/96/2143*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 18. srpnja 2013. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA UREDBE O PREOBLIKOVANJU ENERGETSKOG INSTITUTA HRVOJE POŽAR U USTANOVU**
+
+### Članak 1.
+
+U Uredbi o preoblikovanju Energetskog instituta Hrvoje Požar u ustanovu (»Narodne novine«, br. 52/2003 i 110/2011), iza članka 3. dodaju se članci 3.a, 3.b i 3.c koji glase:
+
+»Članak 3.a
+
+Uz poslove određene člankom 3. ove Uredbe, ustanova Energetski institut Hrvoje Požar pruža Vladi Republike Hrvatske, tijelima države uprave, jedinicama lokalne i područne (regionalne) samouprave, pravnim osobama koje imaju javne ovlasti u energetskom sektoru (agencije, fondovi, centri i sl.) i trgovačkim društvima koji su nositelji obveze javne usluge u energetskom sektoru, uvažavajući propise kojima se uređuje energetski sektor te ustrojstvo, djelokrug i način rada državne uprave, znanstvenu i stručnu potporu u obavljanju poslova iz njihova djelokruga, odnosno njihove djelatnosti u području planiranja, analize i praćenja razvitka i poslovanja energetskog sektora na državnoj, regionalnoj i lokalnoj razini te u području povećanja korištenja obnovljivih izvora i primjene energetske učinkovitosti u proizvodnji, prijenosu/transportu, distribuciji, opskrbi i neposrednoj potrošnji energije, a osobito u svezi sa:
+
+– utvrđivanjem i ostvarenjem energetske politike, planiranjem i koordinacijom razvitka energetskog sektora Republike Hrvatske te izradom i praćenjem provedbe planskih i razvojnih dokumenata,
+
+– praćenjem i analizom podataka o proizvodnji, prometu, opskrbi i potrošnji energije te izradom energetskih bilanci,
+
+– izradom analiza o energetskim, ekonomskim, regulatornim i organizacijskim aspektima razvitka i poslovanja energetskog sektora, projekata i ulaganja u energetski sektor,
+
+– pripremom, prijavom i provedbom natječaja, projekata i programa u području energetike,
+
+– aktivnostima vezanima uz međunarodne i bilateralne sporazume u području energetike,
+
+– sustavnim praćenjem i verifikacijom energetskih ušteda te izvještavanjem o ostvarenim rezultatima,
+
+– analizom učinaka provedenih programa i mjera za poboljšanje energetske učinkovitosti te povećanje korištenja obnovljivih izvora energije.
+
+Ustanova Energetski institut Hrvoje Požar može obavljati i druge poslove znanstvene i stručne potpore iz okvira njihove djelatnosti, a koje joj povjeri Vlada Republike Hrvatske odlukom.
+
+### Članak 3.b
+
+Kod utvrđivanja cijena usluga koje ustanova Energetski institut Hrvoje Požar pruža u okviru znanstvene i stručne potpore, na odgovarajući način se primjenjuju pravila o financiranju programa i projekata Europske unije.
+
+### Članak 3.c
+
+Ustanova Energetski institut Hrvoje Požar donijet će do 31. prosinca tekuće godine za svaku poslovnu godinu godišnji program rada i financijski plan vezan uz pružanje znanstvene i stručne potpore iz članka 3.a ove Uredbe te ih dostaviti Vladi Republike Hrvatske na suglasnost.
+
+Ustanova Energetski institut Hrvoje Požar dužna je periodično, svaka tri mjeseca, podnositi ministarstvu nadležnom za energetiku izvješće o provedbi programa rada iz stavka 1. ovoga članka.
+
+Ustanova Energetski institut Hrvoje Požar dužna je do 31. ožujka tekuće godine dostaviti Vladi Republike Hrvatske putem ministarstva nadležnog za energetiku, izvješće o ostvarivanju dokumenata iz stavka 1. ovoga članka za proteklu godinu.«.
+
+### Članak 2.
+
+Upravno vijeće uskladit će Statut ustanove Energetski institut Hrvoje Požar s odredbama ove Uredbe u roku 15 dana od dana njezina stupanja na snagu.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 310-02/12-01/25
+
+Urbroj: 50301-05/20-13-6
+
+Zagreb, 18. srpnja 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.

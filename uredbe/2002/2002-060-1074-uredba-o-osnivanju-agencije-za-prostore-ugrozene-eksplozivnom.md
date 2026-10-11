@@ -6,13 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2002-05-23
-last_amended: 2006-09-06
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2014-05-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "60/02, 98/06"
+narodne_novine: "60/02, 98/06, 91/11, 51/12, 55/14"
 amendments:
   - "NN 98/2006 (2257) Uredba o izmjenama Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom"
+  - "NN 91/2011 (1934) Uredba o dopuni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom"
+  - "NN 51/2012 (1250) Uredba o izmjeni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom"
+  - "NN 55/2014 (1033) Uredba o izmjenama i dopuni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/60/1074"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 60/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/60/1074).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2006, NN 91/2011, NN 51/2012, NN 55/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -274,3 +277,156 @@ Potpredsjednica Vlade
 i ministrica obitelji, branitelja  
 i međugeneracijske solidarnosti  
 Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o dopuni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom (NN 91/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/91/1934*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 21. srpnja 2011. godine donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O OSNIVANJU AGENCIJE ZA PROSTORE UGROŽENE EKSPLOZIVNOM ATMOSFEROM**
+
+### Članak 1.
+
+U Uredbi o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom (»Narodne novine«, br. 60/2002 i 98/2006), u članku 4. dodaje se stavak 4. koji glasi:
+
+»Ex-Agencija može obavljati i sljedeće poslove:
+
+– certifikacija eksplozivnih tvari i
+
+– certifikacija sustava upravljanja.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/11-01/11
+
+Urbroj: 5030105-11-1
+
+Zagreb, 21. srpnja 2011.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom (NN 51/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/51/1250*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 27. travnja 2012. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU AGENCIJE ZA PROSTORE UGROŽENE EKSPLOZIVNOM ATMOSFEROM**
+
+### Članak 1.
+
+U Uredbi o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom (»Narodne novine«, br. 60/2002, 98/2006 i 91/2011), u članku 6. stavak 4. mijenja se i glasi:
+
+»U Upravno vijeće Vlada Republike Hrvatske imenuje po jednog predstavnika iz:
+
+– Ministarstva unutarnjih poslova,
+
+– Ministarstva gospodarstva,
+
+– Ministarstva graditeljstva i prostornoga uređenja,
+
+– Hrvatskog registra brodova,
+
+– Reosiguravatelja Croatia Lloyd d.d.,
+
+– Ex-AGENCIJE.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/12-01/43  
+Urbroj: 5030109-12-1  
+Zagreb, 27. travnja 2012.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopuni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom (NN 55/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/55/1033*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 30. travnja 2014. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O OSNIVANJU AGENCIJE ZA PROSTORE UGROŽENE EKSPLOZIVNOM ATMOSFEROM**
+
+### Članak 1.
+
+U Uredbi o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom (»Narodne novine«, br. 60/2002, 98/2006, 91/2011 i 51/2012) u članku 1. stavak 4. mijenja se i glasi:
+
+»Sjedište Ex-AGENCIJE je u Svetoj Nedelji, Industrijska 25.".
+
+### Članak 2.
+
+U članku 6. stavku 3. riječi: »pet članova« zamjenjuju se riječima: »četiri člana«.
+
+Stavak 4. mijenja se i glasi:
+
+»U Upravno vijeće Vlada Republike Hrvatske imenuje po jednog državnog dužnosnika iz:
+
+– Ministarstva unutarnjih poslova,
+
+– Ministarstva financija,
+
+– Ministarstva graditeljstva i prostornoga uređenja,
+
+– Ministarstva gospodarstva,
+
+te jednog predstavnika Ex – AGENCIJE.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»Predsjednik Upravnog vijeća je državni dužnosnik iz Ministarstva unutarnjih poslova.«.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 6., 7. i 8.
+
+Dosadašnji stavak 7. koji postaje stavak 8. mijenja se i glasi:
+
+»Državni dužnosnici za članstvo u Upravnom vijeću Ex-AGENCIJE nemaju pravo na naknadu, osim prava na naknadu putnih i drugih opravdanih troškova.«.
+
+### Članak 3.
+
+Članak 11. mijenja se i glasi:
+
+»Ex-AGENCIJA je proračunski korisnik državnog proračuna Republike Hrvatske.
+
+Sredstva za obavljanje poslova iz djelokruga Ex-AGENCIJE osiguravaju se u državnom proračunu Republike Hrvatske.
+
+Prihodi od obavljanja djelatnosti Ex-AGENCIJE prihodi su državnog proračuna Republike Hrvatske i uplaćuju se u državni proračun.
+
+Pomoći ili donacije koje Ex-AGENCIJA primi od međunarodnih organizacija te od tijela i fondova Europske unije radi unaprjeđenja stručne ili tehničke razine djelatnosti, prihodi su Ex-AGENCIJE koji se uplaćuju u državni proračun.«.
+
+### Članak 4.
+
+Novčana sredstva na računima i sva potraživanja Ex-AGENCIJE u trenutku kada postane proračunski korisnik postaju prihod državnog proračuna i uplaćuju se na jedinstveni račun državne riznice.
+
+Način i rok uplate sredstava iz stavka 1. ovoga članka odredit će ministar financija.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-03/50
+
+Urbroj: 50301-09/06-14-2
+
+Zagreb, 30. travnja 2014.
+
+Predsjednik  
+Zoran Milanović, v. r.

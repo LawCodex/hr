@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-02
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "68/07"
-amendments: []
+last_amended: 2014-12-22
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "68/07, 88/10, 30/14, 89/14, 152/14"
+amendments:
+  - "NN 88/2010 (2466) Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu"
+  - "NN 30/2014 (511) Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu"
+  - "NN 89/2014 (1802) Uredba o izmjeni Zakona o pružanju usluga u turizmu"
+  - "NN 152/2014 (2869) Zakon o izmjeni Zakona o pružanju usluga u turizmu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/68/2066"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o pružanju usluga u turizmu
 
 > Izvor: Narodne novine, NN 68/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/68/2066).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 88/2010, NN 30/2014, NN 89/2014, NN 152/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -721,3 +728,424 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu (NN 88/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/88/2466*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRUŽANJU USLUGA U TURIZMU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu, koji je Hrvatski sabor donio na sjednici 2. srpnja 2010. godine.
+
+Klasa: 011-01/10-01/61
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 6. srpnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRUŽANJU USLUGA U TURIZMU**
+
+### Članak 1.
+
+U Zakonu o pružanju usluga u turizmu (»Narodne novine«, br. 68/07.) iza članka 3. dodaje se članak 3.a koji glasi:
+
+»Članak 3.a
+
+Zabranjeno je, neposredno ili posredno, putem javnih glasila, interneta, promidžbenim materijalima i sl. oglašavati i/ili reklamirati pružanje usluga u turizmu, a da se ne ispunjavaju uvjeti propisani ovim Zakonom.«
+
+### Članak 2.
+
+U članku 8. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Ministar može pravilnikom iz članka 9. stavka 2. ovoga Zakona propisati posebne uvjete glede opremljenosti i osoblja turističke agencije pod kojima se turističkoj agenciji može odobriti da uz naznaku kojom se obilježava ime turističke agencije koristi i kratice uobičajene u agencijskom poslovanju »DMC« (trgovačko društvo za upravljanje destinacijom) i/ili »PCO« (profesionalni organizator kongresa).
+
+(5) Odobrenje iz stavka 4. ovoga članka na zahtjev turističke agencije izdaje ministar.«
+
+### Članak 3.
+
+Članak 49. mijenja se i glasi:
+
+»(1) Turističke usluge radi odmora i rekreacije turista mogu se pružati na obiteljskom poljoprivrednom gospodarstvu upisanom u Upisnik poljoprivrednih gospodarstava i u šumama šumoposjednika upisanih u Upisnik šumoposjednika sukladno propisima iz nadležnosti ministarstva nadležnog za poljoprivredu, odnosno šumarstvo (u daljnjem tekstu: seljačko gospodarstvo).
+
+(2) Turističke usluge iz stavka 1. ovoga članka su poljoprivredne, šumarske, športsko-rekreativne, edukativne i slične aktivnosti koje su vezane uz seljačko gospodarstvo (sudjelovanje u poljoprivrednim aktivnostima kao što su berba voća i povrća, ubiranje ljetine i sl., lov i ribolov, vožnja kočijom, čamcem, biciklom, jahanje, pješačenje i slične aktivnosti kao i iznajmljivanje sredstava, pribora i opreme za te aktivnosti, provođenje programa kreativnih i edukativnih radionica vezanih za poljoprivredu, tradicijske obrte i sl., prezentacija poljoprivrednoga gospodarstva te prirodnih i kulturnih vrijednosti u okviru istog, posjete registriranim privatnim etnozbirkama i sl.).
+
+(3) Na seljačkom gospodarstvu se za goste koji koriste usluge smještaja, sukladno zakonu kojim je uređeno pružanje tih usluga, mogu pružati usluge organiziranja izleta uz, na odgovarajući način, ispunjavanje uvjeta iz članka 14. do 17. ovoga Zakona.
+
+(4) Turističke usluge iz stavka 2. ovoga članka mogu se pružati za najviše 80 turista istodobno, a turističke usluge iz stavka 3. ovoga članka za najviše 50 turista istodobno.
+
+(5) Na pružanje usluga iz stavka 2. ovoga članka primjenjuju se odredbe članka 4. stavka 1. točke 1. do 3. ovoga Zakona.
+
+(6) Ministar može za usluge iz stavka 1. ovoga članka pravilnikom propisati minimalne uvjete za njihovo pružanje.«
+
+### Članak 4.
+
+Članak 50. mijenja se i glasi:
+
+»(1) Za pružanje turističkih usluga iz članka 49. ovoga Zakona, nositelj ili član obiteljskoga poljoprivrednoga gospodarstva, odnosno šumoposjednik dužan je ishoditi rješenje o odobrenju za pružanje turističkih usluga na seljačkom gospodarstvu od nadležnog ureda prema mjestu pružanja usluga.
+
+(2) Rješenje o odobrenju iz stavka 1. ovoga članka izdat će se na zahtjev nositelja ili člana obiteljskoga poljoprivrednoga gospodarstva ili šumoposjednika, uz ispunjavanje sljedećih uvjeta:
+
+1. da je obiteljsko poljoprivredno gospodarstvo upisano u Upisnik poljoprivrednih gospodarstva, odnosno Upisnik šumoposjednika,
+
+2. da podnositelj zahtjeva ima pravo korištenja objekta i/ili zemljišta na kojem će pružati turističke usluge iz članka 49. stavka 2. ovoga članka,
+
+3. da su ispunjeni uvjeti za pružanje turističkih usluga propisani ovim Zakonom i propisima donesenima na temelju ovoga Zakona ili drugim propisom.
+
+(3) Nadležni ured iz stavka 1. ovoga članka dužan je riješiti o zahtjevu iz stavka 2. ovoga članka u roku od 30 dana od dana uredno podnesenog zahtjeva.
+
+(4) Iznimno od stavka 1. ovoga članka, obiteljsko poljoprivredno gospodarstvo koje je ishodilo rješenje o odobrenju za pružanje ugostiteljskih usluga u seljačkom domaćinstvu sukladno Zakonu o ugostiteljskoj djelatnosti može, uz prethodnu obavijest nadležnoj ispostavi područne jedinice Državnog inspektorata, pružati usluge iz članka 49. ovoga Zakona uz ispunjavanje uvjeta iz stavka 2. točke 3. ovoga članka.
+
+(5) Protiv rješenja iz stavka 1. ovoga članka može se izjaviti žalba Ministarstvu.«
+
+### Članak 5.
+
+U članku 51. stavku 1. točki 2. riječ: »matični« zamjenjuje se riječju: »osobni«.
+
+### Članak 6.
+
+Članak 52. briše se.
+
+### Članak 7.
+
+Članak 58. mijenja se i glasi:
+
+»(1) U provedbi inspekcijskog nadzora u području pružanja usluga u turizmu gospodarski inspektor će usmenim rješenjem u zapisniku, do otklanjanja utvrđenih nedostataka, a najkraće na rok od 30 dana od dana izricanja usmenog rješenja, zabraniti pravnoj ili fizičkoj osobi daljnje pružanje usluga u turizmu:
+
+– ako se pružaju bez upisa u propisani registar, odnosno upisnik ili bez odobrenja,
+
+– ako se pružaju bez rješenja kojim je utvrđeno da prostor, uređaji i oprema udovoljavaju propisanim uvjetima.
+
+(2) Kada osoba iz stavka 1. ovoga članka nije nazočna inspekcijskom nadzoru, gospodarski inspektor će usmeno rješenje o zabrani daljnjeg pružanja usluga u turizmu donijeti i bez prethodnog izjašnjavanja iste, a u nazočnosti zatečenih sudionika.
+
+(3) Usmeno rješenje iz stavka 1. ovoga članka izvršava se pečaćenjem prostorija, postrojenja, uređaja i druge opreme za rad kojom se pružaju usluge u turizmu, najkasnije u roku od 24 sata od izricanja usmenog rješenja ili na drugi pogodan način, neovisno o nazočnosti osobe iz stavka 1. ovoga članka.
+
+(4) U slučaju izvršenja usmenog rješenja pečaćenjem, pravna ili fizička osoba dužna je osigurati iznošenje pokvarljivih namirnica te poduzeti i osigurati sve sigurnosne i druge mjere kako ne bi došlo do bilo kakve štete. U slučaju da pravna ili fizička osoba propusti poduzeti navedene mjere, odgovorna je za nastanak bilo kakve štete.
+
+(5) Iznimno, mjera zabrane pružanja usluga u turizmu iz stavka 1. ovoga članka neće se izvršiti, odnosno zapečaćene prostorije, postrojenja, uređaji i druga oprema za rad će se otpečatiti i prije isteka roka od 30 dana, ukoliko se nadležnom inspektoru dostavi dokaz o otklanjanju utvrđenih nedostataka i dokaz o izvršenoj uplati novčanog iznosa od 30.000,00 kuna u korist državnog proračuna.
+
+(6) U slučaju iz stavka 5. ovoga članka, gospodarski inspektor obustavit će upravni postupak.
+
+(7) Rješenje iz stavka 1. ovoga članka inspektor je dužan u pisanom obliku otpremiti stranki u roku od osam dana od dana izricanja zabrane usmenim rješenjem, osim u slučaju iz stavka 6. ovoga članka. Žalba se može izjaviti samo na pisani otpravak rješenja.
+
+(8) Žalba protiv rješenja ne zadržava izvršenje rješenja.«
+
+### Članak 8.
+
+U članku 61. stavku 6. iza riječi: »fizičkoj osobi« dodaju se riječi: »pravnoj osobi i odgovornoj osobi u pravnoj osobi«.
+
+### Članak 9.
+
+U članku 62. stavku 6. iza riječi: »kazniti« dodaju se riječi: »pravnu osobu i«.
+
+### Članak 10.
+
+U članku 63. stavku 5. iza riječi: »kazniti« dodaju se riječi: »fizičku osobu, pravnu osobu i«.
+
+### Članak 11.
+
+U članku 64. stavku 5. iza riječi: »kazniti« dodaju se riječi: »fizičku osobu, pravnu osobu i«.
+
+Stavak 7. briše se.
+
+### Članak 12.
+
+U članku 65. stavku 1. točka 5. mijenja se i glasi:
+
+»5. pruža usluge u turizmu iz članka 49. ovoga Zakona suprotno odredbama toga članka, ili ih pruža bez rješenja o odobrenju iz članka 50. stavka 1. ovoga Zakona, osim u slučaju iz članka 50. stavka 4. ovoga Zakona, odnosno ako ih pruža bez prethodne obavijesti nadležnoj ispostavi područne jedinice Državnog inspektorata u slučaju i pod uvjetima iz članka 50. stavka 4. ovoga Zakona, ili ih pruža bez ispunjavanja uvjeta iz članka 50. stavka 2. točke 3. ovoga Zakona (članak 49. i 50.).«
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Za prekršaje iz stavka 1. ovoga članka uz izrečenu novčanu kaznu oduzet će se i imovinska korist pribavljena prekršajem.«
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 13.
+
+Iza članka 66. dodaje se članak 66.a koji glasi:
+
+»Članak 66.a
+
+(1) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička ili pravna osoba koja, neposredno ili posredno, putem javnih glasila, interneta, promidžbenim materijalima i sl. oglašava i/ili reklamira pružanje usluga u turizmu bez ispunjavanja uvjeta propisanim ovim Zakonom za pružanje tih usluga (članak 3.a).
+
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se odgovorna osoba u pravnoj osobi novčanom kaznom od 5,000,00 do 10.000,00 kuna.
+
+(3) Za prekršaje iz stavka 1. ovoga članka uz izrečenu novčanu kaznu oduzet će se i imovinska korist pribavljena prekršajem.
+
+(4) Za prekršaje iz stavka 1. ovoga članka gospodarski inspektor može fizičkoj osobi, pravnoj osobi i odgovornoj osobi u pravnoj osobi naplatiti novčanu kaznu na mjestu izvršenja prekršaja, u iznosu od 1.000,00 kuna.«
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
+
+Klasa: 334-02/10-01/01
+
+Zagreb, 2. srpnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu (NN 30/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/30/511*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRUŽANJU USLUGA U TURIZMU
+
+Proglašavam Zakona o izmjenama i dopunama Zakona o pružanju usluga u turizmu, koji je Hrvatski sabor donio na sjednici 21. veljače 2014. godine.
+
+Klasa: 011-01/14-01/55
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 24. veljače 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRUŽANJU USLUGA U TURIZMU**
+
+### Članak 1.
+
+U Zakonu o pružanju usluga u turizmu (»Narodne novine«, br. 68/07. i 88/10.) članak 3.a briše se.
+
+### Članak 2.
+
+U članku 9. iza stavka 1. dodaje se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Iznimno od stavka 1. ovoga članka, turistička agencija koja neposredno pruža usluge putniku putem interneta (internet agencija) usluge može pružati i u prostoru stambene namjene u kojemu voditelj poslovnice ima prijavljeno prebivalište.
+
+(3) Internet agencija može, pored voditelja poslovnice, zaposliti najviše još jednu osobu.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 3.
+
+U članku 10. stavku 1. riječi: »ne može pružati usluge turističke agencije prije nego što ishodi rješenje ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba nadležnog za poslove turizma (u daljnjem tekstu: nadležni ured) prema sjedištu, odnosno mjestu poslovnice, odnosno poslovnog prostora turističke agencije« zamjenjuju se riječima: »smije pružati usluge u turizmu koje su utvrđene rješenjem ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba nadležnog za poslove turizma (u daljnjem tekstu: nadležni ured) prema sjedištu, odnosno mjestu poslovnice, odnosno poslovnog prostora ili prostora stambene namjene turističke agencije«.
+
+U stavku 2. iza riječi: »prostor« dodaju se riječi: »ili prostor stambene namjene«.
+
+### Članak 4.
+
+U članku 11. točki 4. iza riječi: »prostora« dodaju se riječi: »ili prostora stambene namjene«.
+
+### Članak 5.
+
+U članku 12. stavku 1. točka 3. mijenja se i glasi:
+
+»3. mjesto, ulicu i kućni broj poslovnice, odnosno poslovnog prostora ili prostora stambene namjene,«.
+
+### Članak 6.
+
+U članku 13. točki 1. iza riječi: »prostor« dodaju se riječi: »ili prostor stambene namjene«.
+
+### Članak 7.
+
+U članku 20. stavku 1. iza riječi: »poslovnicu« stavlja se zarez i dodaju riječi: »osim u slučaju iz članka 9. stavka 2. ovoga Zakona«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 2., 3. i 4.
+
+### Članak 8.
+
+U članku 22. stavku 3. točki 4. riječ: »staža« zamjenjuje se riječju: »iskustva«.
+
+### Članak 9.
+
+U članku 47. stavku 1. riječi: »ne može pružati turističke usluge u nautičkom turizmu prije nego« zamjenjuju se riječima: »smije pružati turističke usluge u nautičkom turizmu ako«.
+
+Iza stavka 11. dodaje se stavak 12. koji glasi:
+
+»(12) Iznimno, bez rješenja iz stavka 1. ovoga članka, turističke usluge iznajmljivanja plovila i pružanja usluge smještaja mogu pružati pravne i fizičke osobe, ako ispunjavaju uvjete sukladno posebnom propisu iz nadležnosti ministarstva nadležnog za pomorstvo, koji uređuje uvjete za obavljanje djelatnosti iznajmljivanja plovila sa ili bez posade i pružanje usluge smještaja gostiju na plovilu.«.
+
+### Članak 10.
+
+U članku 61. stavku 1. točka 4. briše se.
+
+Dosadašnja točka 5. postaje točka 4.
+
+Dosadašnje točke 6., 7. i 8., koje postaju točke 5., 6. i 7., mijenjaju se i glase:
+
+»5. pruža usluge turističke agencije iz članka 7. stavka 1. ovoga Zakona suprotno izdanom rješenju nadležnog ureda (članak 10. stavci 1. i 8.),
+
+6. pruža usluge u nautičkom turizmu suprotno izdanom rješenju nadležnog ureda (članak 47. stavak 1.),
+
+7. pruža usluge u ostalim oblicima turističke ponude suprotno izdanom rješenju nadležnog ureda i/ili bez ispunjavanja propisanih minimalnih uvjeta (članak 54. stavci 2. i 3.).«.
+
+### Članak 11.
+
+U članku 62. stavku 1. točki 4. riječi: »članka 20. stavka 2. i 3. ovoga Zakona (članak 9. stavak 1. i članak 20.)« zamjenjuju se riječima: »članka 9. stavka 1. i članka 20. stavka 2. ovoga Zakona (članak 9. stavak 1. i članak 20. stavci 1. i 2.)«.
+
+### Članak 12.
+
+U članku 63. stavku 1. točki 4. iza riječi: »prostor« dodaju se riječi: »ili prostor stambene namjene«.
+
+### Članak 13.
+
+U članku 64. stavku 1. točka 8. mijenja se i glasi:
+
+»8. pruža ostale turističke usluge iz članka 55. stavka 1. ovoga Zakona bez da je osigurala korisnike tih usluga od posljedica nesretnog slučaja ili ih pruža suprotno izdanom rješenju nadležnog ureda (članak 55. stavci 2. i 4.).«.
+
+### Članak 14.
+
+U članku 65. stavku 1. točka 1. mijenja se i glasi:
+
+»1. pruža usluge turističkog vodiča koje nisu u skladu s izdanim odobrenjem, ili ne izda račun sukladno članku 31. stavku 2. ovoga Zakona (članak 31. stavci 1. i 2.),«.
+
+Točka 3. briše se.
+
+Dosadašnja točka 4. postaje točka 3.
+
+Dosadašnja točka 5., koja postaje točka 4., mijenja se i glasi:
+
+»4. pruža usluge u turizmu iz članka 49. ovoga Zakona suprotno izdanom rješenju o odobrenju nadležnog ureda ili ih pruža suprotno propisanim uvjetima iz članka 50. stavka 2. točke 3. ovoga Zakona ili ako ih pruža bez prethodne obavijesti mjesno nadležnoj službi turističke inspekcije Ministarstva turizma ili bez ispunjavanja uvjeta iz članka 50. stavka 4. ovoga Zakona (članak 49. stavci 1. do 5. i članak 50. stavak 2. točka 3. i stavak 4.).«.
+
+### Članak 15.
+
+Članak 66.a briše se.
+
+### Članak 16.
+
+U cijelom tekstu Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 68/07. i 88/10.) riječi: »gospodarski inspektor« u odgovarajućem broju i padežu zamjenjuju se riječima: »turistički inspektor« u odgovarajućem broju i padežu.
+
+U cijelom tekstu Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 68/07. i 88/10.) riječi: »nadležna ispostava područne jedinice Državnog inspektorata« u odgovarajućem broju i padežu zamjenjuju se riječima: »mjesno nadležna služba turističke inspekcije Ministarstva« u odgovarajućem broju i padežu.
+
+### Članak 17.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/23
+
+Zagreb, 21. veljače 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Uredba o izmjeni Zakona o pružanju usluga u turizmu (NN 89/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/89/1802*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 121/2013), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2014. godine donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O PRUŽANJU USLUGA U TURIZMU**
+
+### Članak 1.
+
+U Zakonu o pružanju usluga u turizmu (»Narodne novine«, br. 68/2007, 88/2010 i 30/2014) članak 58. mijenja se i glasi:
+
+»(1) U provedbi inspekcijskog nadzora u području pružanja usluga u turizmu, turistički inspektor će rješenjem zabraniti pravnoj ili fizičkoj osobi, do otklanjanja utvrđenih nedostataka, daljnje pružanje usluga u turizmu, u dijelu u kojem se pružaju suprotno rješenju nadležnog tijela izdanom temeljem članaka 10., 27., 47., 50., 54. i 55. Zakona.
+
+(2) Rješenje iz stavka 1. ovoga članka, turistički inspektor je dužan otpremiti stranci najkasnije sljedeći radni dan od zaključenja zapisnika o inspekcijskom nadzoru.
+
+(3) Žalba protiv rješenja iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.«.
+
+### Članak 2.
+
+Postupci započeti prema odredbama članka 58. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 68/2007, 88/2010 i 30/2014) do dana stupanja na snagu ove Uredbe, dovršit će se prema odredbama toga Zakona.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-03/88
+
+Urbroj: 50301-05/25-14-2
+
+Zagreb, 23. srpnja 2014.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Zakon o izmjeni Zakona o pružanju usluga u turizmu (NN 152/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/152/2869*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PRUŽANJU USLUGA U TURIZMU
+
+Proglašavam Zakon o izmjeni Zakona o pružanju usluga u turizmu, koji je Hrvatski sabor donio na sjednici 12. prosinca 2014. godine.
+
+Klasa: 011-01/14-01/180
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 17. prosinca 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PRUŽANJU USLUGA U TURIZMU**
+
+### Članak 1.
+
+U Zakonu o pružanju usluga u turizmu (»Narodne novine«, br. 68/07., 88/10., 30/14. i 89/14.) članak 58. mijenja se i glasi:
+
+»(1) U provedbi inspekcijskog nadzora u području pružanja usluga u turizmu, turistički inspektor će rješenjem zabraniti pravnoj ili fizičkoj osobi, do otklanjanja utvrđenih nedostataka, daljnje pružanje usluga u turizmu, u dijelu u kojem se pružaju suprotno rješenju nadležnog tijela izdanom temeljem članaka 10., 27., 47., 50., 54. i 55. ovoga Zakona.
+
+(2) Rješenje iz stavka 1. ovoga članka, turistički inspektor je dužan otpremiti stranci najkasnije sljedeći radni dan od zaključenja zapisnika o inspekcijskom nadzoru.
+
+(3) Žalba protiv rješenja iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.«.
+
+### Članak 2.
+
+Postupci započeti prema odredbama članka 58. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 68/07., 88/10. i 30/14.) do dana stupanja na snagu Uredbe o izmjeni Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 89/14.), dovršit će se prema odredbama toga Zakona.
+
+### Članak 3.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o izmjeni Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 89/14.).
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/149
+
+Zagreb, 12. prosinca 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

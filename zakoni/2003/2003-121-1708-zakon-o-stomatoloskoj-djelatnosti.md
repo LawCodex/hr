@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-07-29
+last_amended: 2009-10-05
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "121/03"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "121/03, 117/08, 120/09"
+amendments:
+  - "NN 117/2008 (3379) Zakon o dopunama Zakona o stomatološkoj djelatnosti"
+  - "NN 120/2009 (2958) Zakon o izmjenama i dopunama Zakona o stomatološkoj djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1708"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o stomatološkoj djelatnosti
 
 > Izvor: Narodne novine, NN 121/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1708).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2008, NN 120/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -674,3 +679,504 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopunama Zakona o stomatološkoj djelatnosti (NN 117/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/117/3379*
+
+HRVATSKI SABOR
+
+3379
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O STOMATOLOŠKOJ DJELATNOSTI
+
+Proglašavam Zakon o dopunama Zakona o stomatološkoj djelatnosti, kojega je Hrvatski sabor donio na sjednici 26. rujna 2008. godine.  
+Klasa: 011-01/08-01/125  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 2. listopada 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O STOMATOLOŠKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o stomatološkoj djelatnosti (»Narodne novine«, br. 121/03.) u članku 2. dodaje se novi stavak 2. koji glasi:  
+»Uvjet položenoga stručnog ispita iz stavka 1. ovoga članka ne odnosi se na državljane država članica Europske unije.«  
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 2.
+
+U članku 6. iza stavka 1. dodaje se novi stavak 2. koji glasi:  
+»Uvjet položenoga stručnog ispita iz stavka 1. ovoga članka ne odnosi se na državljane država članica Europske unije.«  
+Dosadašnji stavci 2.-8. postaju stavci 3.-9.
+
+### Članak 3.
+
+Hrvatska stomatološka komora obvezna je uskladiti Statut s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.  
+Ostale opće akte Hrvatska stomatološka komora obvezna je uskladiti s ovim Zakonom i Statutom u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu na dan prijama Republike Hrvatske u Europsku uniju, a objavit će se u »Narodnim novinama«.  
+Klasa: 500-01/08-01/10  
+Zagreb, 26. rujna 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o stomatološkoj djelatnosti (NN 120/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/120/2958*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STOMATOLOŠKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o stomatološkoj djelatnosti, koji je Hrvatski sabor donio na sjednici 24. rujna 2009. godine.
+
+Klasa: 011-01/09-01/165
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 28. rujna 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STOMATOLOŠKOJ DJELATNOSTI**
+
+##### Članak 1.
+
+U Zakonu o stomatološkoj djelatnosti (»Narodne novine«, br. 121/03. i 117/08.) u članku 11. stavku 1. riječ: »samo« briše se.
+
+##### Članak 2.
+
+U članku 13. stavku 2. riječi: »sa završenim srednjoškolskim obrazovnim programom« brišu se.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Izvantimski zdravstveni suradnici su dentalni tehničari.«
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+##### Članak 3.
+
+Iza članka 25. dodaje se članak 25.a koji glasi:
+
+»Članak 25.a
+
+(1) Doktor dentalne medicine može zatražiti zaštitu svojih prava pred tijelima Komore.
+
+(2) Komora pruža zaštitu članu Komore, pazeći pri tome da je djelatnost dentalne medicine pružena u skladu s pravilima struke i odredbama Kodeksa dentalne etike i deontologije.«
+
+##### Članak 4.
+
+U članku 29. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Način vođenja, čuvanja, prikupljanja i raspolaganja dentalnom dokumentacijom na prijedlog Komore propisat će pravilnikom ministar nadležan za zdravstvo.«
+
+##### Članak 5.
+
+U članku 33. stavak 1. mijenja se i glasi:
+
+»(1) Vrednovanje djelatnosti dentalne medicine kao visokospecijalizirane djelatnosti od iznimne vrijednosti za pojedinca i društvo, u mreži javne zdravstvene službe za dentalnu medicinu određuje, uz prethodno pribavljeno mišljenje Komore, općim aktom društvo za osiguranje koje provodi obvezno zdravstveno osiguranje.«
+
+##### Članak 6.
+
+U članku 35. riječi: »Privatni doktor stomatologije« zamjenjuju se riječima: »Doktor dentalne medicine«.
+
+##### Članak 7.
+
+U članku 36. stavak 1. briše se.
+
+U dosadašnjem stavku 2. riječi: »Privatni doktor stomatologije ima i pravo« zamjenjuju se riječima: »Doktor dentalne medicine ima pravo«.
+
+##### Članak 8.
+
+Iza članka 36. dodaju se Glava V.a i članci 36.a do 36.m, te Glava V.b i članci 36.n do 36.p koji glase:
+
+### »V.a DJELATNOST DENTALNIH TEHNIČARA
+
+##### Članak 36.a
+
+(1) Djelatnost dentalnih tehničara obavljaju dentalni tehničari prema uputama i nalogu doktora dentalne medicine.
+
+(2) Djelatnost dentalnih tehničara obuhvaća sljedeće djelatnosti:
+
+1. izradu dentalnih fiksnih i mobilnih protetskih nadomjestaka,
+
+2. izradu ortodontskih naprava,
+
+3. izradu ostalih terapeutskih dentalnih naprava.
+
+### STJECANJE I GUBITAK PRAVA NA OBAVLJANJE DJELATNOSTI DENTALNIH TEHNIČARA
+
+##### Članak 36.b
+
+(1) Dentalnom tehničaru koji je položio stručni ispit i koji je upisan u registar dentalnih tehničara Komora će dati odobrenje za samostalan rad (licencu).
+
+(2) Uvjet položenog stručnog ispita iz stavka 1. ovoga članka ne odnosi se na državljane država članica Europske unije.
+
+(3) Odobrenjem za samostalan rad dokazuje se stručna osposobljenost dentalnog tehničara za samostalno obavljanje djelatnosti dentalnih tehničara na području Republike Hrvatske.
+
+(4) Odobrenje za samostalan rad dentalnom tehničaru daje, odnosno uskraćuje upravnim aktom tijelo određeno Statutom Komore.
+
+(5) Protiv upravnog akta iz stavka 4. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.
+
+(6) Odobrenje za samostalan rad daje se na vrijeme od šest godina.
+
+(7) Dentalnim tehničarima – strancima Komora daje odobrenje za samostalan rad na vrijeme određeno prema propisima koji uređuju rad stranaca u Republici Hrvatskoj.
+
+(8) Na postupak obnavljanja i oduzimanja odobrenja za samostalan rad dentalnog tehničara primjenjuju se odredbe stavka 4. i 5. ovoga članka.
+
+(9) Uvjete za davanje, obnavljanje i oduzimanje odobrenja za samostalan rad propisuje općim aktom Komora.
+
+##### Članak 36.c
+
+Pravo na obavljanje djelatnosti dentalnih tehničara na području Republike Hrvatske stječe se upisom u registar dentalnih tehničara i ishođenjem odobrenja za samostalan rad.
+
+##### Članak 36.d
+
+Uvjete, način upisa te vođenje i sadržaj registra dentalnih tehničara propisuje općim aktom Komora.
+
+### NEDOSTOJNOST ZA OBAVLJANJE DJELATNOSTI DENTALNIH TEHNIČARA
+
+##### Članak 36.e
+
+(1) Dentalni tehničar koji je pravomoćnom sudskom odlukom proglašen krivim za počinjenje kaznenog djela može se, s obzirom na važnost i prirodu ugroženog dobra ili druge posljedice te s obzirom na okolnosti pod kojima je radnja izvršena odnosno propuštena, smatrati nedostojnim za obavljanje djelatnosti dentalnih tehničara.
+
+(2) Dentalnom tehničaru iz stavka 1. ovoga članka može biti uskraćeno davanje odobrenja za samostalan rad, odnosno privremeno ili trajno oduzeto odobrenje za samostalan rad.
+
+(3) Ovisno o vrsti kaznenog djela i posljedici koju je imalo, dentalnom tehničaru iz stavka 1. ovoga članka može biti privremeno ili trajno ograničeno odobrenje za samostalan rad s obzirom na opseg i vrstu poslova kojima se dentalni tehničar smije baviti.
+
+(4) Nedostojnost za obavljanje djelatnosti dentalnih tehničara utvrđuje upravnim aktom tijelo određeno Statutom Komore.
+
+(5) Protiv upravnog akta iz stavka 4. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.
+
+### ORGANIZACIJA DJELATNOSTI DENTALNIH TEHNIČARA
+
+##### Članak 36.f
+
+Djelatnost dentalnih tehničara može se obavljati u:
+
+1. privatnoj praksi,
+
+2. grupnoj praksi,
+
+3. zdravstvenoj ustanovi ili drugoj pravnoj osobi (trgovačkom društvu).
+
+### NAČIN OGLAŠAVANJA DENTALNOG TEHNIČARA
+
+##### Članak 36.g
+
+Način oglašavanja dentalnog tehničara propisuje općim aktom Komora.
+
+### PRAVA I OBVEZE DENTALNOG TEHNIČARA
+
+##### Članak 36.h
+
+(1) Dentalni tehničar obvezan je obavljati djelatnost dentalnog tehničara savjesno, sukladno zakonu, statutu i drugim općim aktima Komore te Kodeksu etike i deontologije dentalnih tehničara.
+
+(2) Dentalni tehničar može zatražiti zaštitu svojih prava pred tijelima Komore.
+
+(3) Komora pruža zaštitu članu Komore, pazeći pri tome da je djelatnost dentalnih tehničara pružena u skladu s pravilima struke i odredbama Kodeksa etike i deontologije dentalnih tehničara.
+
+### PROFESIONALNA TAJNA
+
+##### Članak 36.i
+
+Dentalni tehničar obvezan je čuvati kao profesionalnu tajnu sve što sazna o zdravstvenom stanju pacijenta. Profesionalnom tajnom smatraju se svi podaci koje dentalni tehničar sazna pri obavljanju svoje struke o pacijentu, njegovim osobnim, obiteljskim i socijalnim prilikama, kao i ostali podaci vezani uz obavljanje djelatnosti dentalnih tehničara.
+
+### VOĐENJE I ČUVANJE DOKUMENTACIJE DENTALNIH TEHNIČARA
+
+##### Članak 36.j
+
+(1) Dentalni tehničar obvezan je voditi točnu, iscrpnu i datiranu dokumentaciju vezanu uz obavljanje djelatnosti dentalnih tehničara. Dentalni tehničar obvezan je dokumentaciju vezanu uz obavljanje djelatnosti dentalnih tehničara pojedinog pacijenta predočiti doktoru dentalne medicine s kojim ima zaključen ugovor o poslovnoj suradnji, ministarstvu nadležnom za zdravstvo, tijelima državne uprave u skladu s posebnim propisima, Komori ili sudbenoj vlasti.
+
+(2) Način vođenja, čuvanja, prikupljanja i raspolaganja dokumentacijom dentalnih tehničara na prijedlog Komore propisat će pravilnikom ministar.
+
+### MEĐUSOBNI ODNOSI DOKTORA DENTALNE MEDICINE I DENTALNIH TEHNIČARA
+
+##### Članak 36.k
+
+Doktor dentalne medicine i dentalni tehničar zaključuju ugovor o poslovnoj suradnji.
+
+### VREDNOVANJE DJELATNOSTI DENTALNIH TEHNIČARA
+
+##### Članak 36.l
+
+Komora donosi Cjenik usluga djelatnosti dentalnih tehničara, kojim se određuje najniža cijena zubotehničke usluge.
+
+##### Članak 36.m
+
+Odredbe članka 30. ovoga Zakona na odgovarajući način primjenjuju se i na obavljanje djelatnosti dentalnih tehničara.
+
+#### V.b DJELATNOST DENTALNIH ASISTENATA
+
+##### Članak 36.n
+
+(1) Djelatnost dentalnog asistenta obavljaju dentalni asistenti prema uputama pod nadzorom doktora dentalne medicine.
+
+(2) Djelatnost dentalnog asistenta obuhvaća sljedeće djelatnosti:
+
+1. asistenciju doktoru dentalne medicine pri pružanju dentalnih usluga,
+
+2. održavanje higijene i čistoće u ordinaciji,
+
+3. vođenje propisane evidencije i dentalne dokumentacije,
+
+4. ostale neophodne prateće radnje za funkcioniranje ordinacije.
+
+### DOZVOLA ZA RAD
+
+##### Članak 36.o
+
+(1) Dentalnom asistentu koji je upisan u registar dentalnih asistenata Komora će dati dozvolu za rad.
+
+(2) Dozvolom za rad dokazuje se stručna osposobljenost dentalnog asistenta za obavljanje njihove djelatnosti prema uputama i nadzoru doktora dentalne medicine na području Republike Hrvatske.
+
+(3) Dozvola za rad daje se na vrijeme od šest godina.
+
+(4) Dentalnim asistentima-strancima Komora daje dozvolu za rad na vrijeme određeno propisima koji uređuju rad stranaca u Republici Hrvatskoj.
+
+(5) Uvjete za davanje, obnavljanje i oduzimanje dozvole za rad propisuje općim aktom Komora.
+
+##### Članak 36. p
+
+Na dentalne asistente na odgovarajući se način primjenjuju odredbe članka 36.d, 36.h te 36.i ovoga Zakona.«
+
+##### Članak 9.
+
+Iza članka 37. dodaje se članak 37.a koji glasi:
+
+»Članak 37.a
+
+(1) Pri Komori osniva se Strukovni razred dentalnih tehničara te Strukovni razred dentalnih asistenata.
+
+(2) Dentalni tehničari i dentalni asistenti koji obavljaju djelatnost dentalnih tehničara i djelatnost dentalnih asistenata na području Republike Hrvatske, obvezno se učlanjuju u odgovarajući Strukovni razred pri Komori.
+
+(3) Članstvo u Strukovnom razredu pri Komori dobrovoljno je za dentalne tehničare i dentalne asistente koji ne obavljaju neposredno djelatnost dentalnih tehničara i djelatnost dentalnih asistenata, koji iste obavljaju izvan Republike Hrvatske, koji su u mirovini te koji su nezaposleni.«
+
+##### Članak 10.
+
+U članku 39. stavku 1. iza riječi: »predsjednik« dodaju se riječi: »Upravni odbor Strukovnog razreda dentalnih tehničara i Upravni odbor Strukovnog razreda dentalnih asistenata.«
+
+U stavku 2. iza riječi: »i obveze tijela Komore« dodaju se riječi: »i Strukovnog razreda pri Komori«.
+
+##### Članak 11.
+
+Članak 42. mijenja se i glasi:
+
+»Komora obavlja sljedeće javne ovlasti:
+
+– vodi registar doktora dentalne medicine u Republici Hrvatskoj,
+
+– vodi registar dentalnih tehničara i dentalnih asistenata,
+
+– daje, obnavlja i oduzima odobrenja za samostalan rad doktora dentalne medicine,
+
+– daje, obnavlja i oduzima odobrenja za samostalan rad dentalnih tehničara i dozvola za rad dentalnih asistenata,
+
+– obavlja stručni nadzor nad radom doktora dentalne medicine (u dentalnim ordinacijama, grupnoj praksi, zdravstvenim ustanovama i drugim pravnim osobama koje obavljaju djelatnost dentalne medicine),
+
+– obavlja stručni nadzor nad radom dentalnih tehničara i dentalnih asistenata,
+
+– određuje najnižu cijenu rada doktora dentalne medicine izvan mreže javne zdravstvene službe,
+
+– određuje najnižu cijenu rada dentalnog tehničara.«
+
+##### Članak 12.
+
+Članak 43. mijenja se i glasi:
+
+»Pored javnih ovlasti iz članka 42. ovoga Zakona, Komora obavlja i sljedeće poslove:
+
+1. vodi registar svojih članova, dentalnih ordinacija, grupnih praksi, zdravstvenih ustanova i drugih pravnih osoba,
+
+2. donosi Kodeks dentalne etike i deontologije te Kodeks etike i deontologije dentalnih tehničara i dentalnih asistenata,
+
+3. prati i nadzire provođenje pravila etike i deontologije dentalne medicine, dentalnih tehničara i dentalnih asistenata te poduzima odgovarajuće mjere u slučaju njihovog kršenja,
+
+4. pruža zaštitu građanima u ostvarivanju prava s obzirom na kvalitetu, sadržaj i vrstu usluge dentalne medicine, usluge dentalnog tehničara i usluge dentalnog asistenta, koja im se pruža,
+
+5. daje mišljenje u postupku osnivanja, preseljenja i prestanka rada dentalnih ordinacija, dentalnih laboratorija, grupne prakse, zdravstvenih ustanova i drugih pravnih osoba,
+
+6. predlaže ministru nadležnom za zdravstvo mrežu javne zdravstvene službe za dentalnu medicinu i djelatnost dentalnih tehničara,
+
+7. propisuje način oglašavanja doktora dentalne medicine i dentalnih tehničara,
+
+8. utvrđuje najniže cijene dentalnih usluga za doktore dentalne medicine izvan mreže javne zdravstvene službe za dentalnu medicinu,
+
+9. utvrđuje cijene dentalnih usluga iz opsega dobrovoljnog zdravstvenog osiguranja,
+
+10. zastupa interese svojih članova kod sklapanja ugovora s društvima za osiguranje,
+
+11. sudjeluje pri određivanju standarda i normativa dentalnih usluga i usluga dentalne tehnike i dentalnih asistenata,
+
+12. daje stručna mišljenja kod pripreme propisa od utjecaja na razvoj dentalne struke, struke dentalnih tehničara i struke dentalnih asistenata,
+
+13. organizira dodatno usavršavanje i trajnu izobrazbu svojih članova,
+
+14. čuva i unapređuje društveni položaj i dignitet dentalnog zvanja i zvanja dentalnog tehničara i dentalnog asistenta,
+
+15. izdaje glasilo Komore i druge stručne publikacije iz područja djelatnosti dentalne medicine, djelatnosti dentalnih tehničara i djelatnosti dentalnih asistenata,
+
+16. obavlja i druge poslove u skladu sa zakonom, statutom i općim aktima Komore.«
+
+##### Članak 13.
+
+U članku 45. stavku 1. iza riječi: »deontologije« dodaju se riječi: »te Kodeks etike i deontologije dentalnih tehničara i dentalnih asistenata.«
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Kodeksom dentalne etike i deontologije te Kodeksom etike i deontologije dentalnih tehničara i dentalnih asistenata utvrđuju se načela i pravila kojih se doktori dentalne medicine, dentalni tehničari i dentalni asistenti moraju pridržavati pri obavljanju svoje djelatnosti.«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Kodeks dentalne etike i deontologije te Kodeks etike i deontologije dentalnih tehničara i dentalnih asistenata objavljuju se u »Narodnim novinama«.«
+
+##### Članak 14.
+
+U članku 46. dodaje se novi stavak 2. koji glasi:
+
+»(2) Komora vodi registar dentalnih tehničara i dentalnih asistenata.«
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+##### Članak 15.
+
+U članku 47. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Dentalnom tehničaru i dentalnom asistentu koji je upisan u registar Komore izdaje se iskaznica.«
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »doktora stomatologije« zamjenjuju se riječima: »iz stavka 1. i 2. ovoga članka«.
+
+##### Članak 16.
+
+U članku 48. stavku 2. riječi: »podstavka 3.« zamjenjuju se riječima: »podstavka 5. i 6.«.
+
+##### Članak 17.
+
+U članku 49. riječi: »Doktor stomatologije« zamjenjuju se riječima: »Svaki član Komore«.
+
+##### Članak 18.
+
+U članku 50. riječi: »doktore stomatologije« zamjenjuju se riječima: »članove Komore«, a riječi: »doktora stomatologije« riječima: »članova Komore«.
+
+##### Članak 19.
+
+Naziv Glave VII. mijenja se i glasi:
+
+»VII. ODGOVORNOST DOKTORA DENTALNE MEDICINE, DENTALNIH TEHNIČARA I DENTALNIH ASISTENATA«.
+
+##### Članak 20.
+
+U članku 51. iza riječi: »djelatnosti,« dodaju se riječi: »djelatnosti dentalnih tehničara i djelatnosti dentalnih asistenata«.
+
+##### Članak 21.
+
+Članak 52. mijenja se i glasi:
+
+»Članovi Komore odgovaraju za počinjenu povredu pravila ponašanja u obavljanju djelatnosti dentalne medicine, djelatnosti dentalnih tehničara i djelatnosti dentalnih asistenata pred Časnim sudom pri Komori.«
+
+##### Članak 22.
+
+U članku 53. riječi: »doktora stomatologije« zamjenjuju se riječima: »člana Komore«.
+
+##### Članak 23.
+
+Članak 55. mijenja se i glasi:
+
+»Doktor dentalne medicine, dentalni tehničar i dentalni asistent obvezni su za vrijeme obavljanja svoje djelatnosti stručno se usavršavati prema općem aktu Komore, što obuhvaća:
+
+1. kontinuirano praćenje razvoja dentalnih znanosti,
+
+2. stjecanje novih saznanja.«
+
+##### Članak 24.
+
+U članku 56. riječi: »doktoru stomatologije« zamjenjuju se riječima: »članu Komore«.
+
+##### Članak 25.
+
+Iza članka 63. dodaje se članak 63.a koji glasi:
+
+»Članak 63. a
+
+Odredbe članka 55. do 63. ovoga Zakona na odgovarajući se način odnose i na dentalne tehničare i dentalne asistente.«
+
+##### Članak 26.
+
+U članku 64. stavku 1. riječi: »nad obavljanjem stomatološke djelatnosti« brišu se.
+
+##### Članak 27.
+
+Članak 65. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj fizička osoba koja obavlja djelatnost doktora dentalne medicine, djelatnost dentalnog tehničara i djelatnost dentalnog asistenta, a nema propisane uvjete (članak 2., članak 36.b i 36.o).«
+
+##### Članak 28.
+
+Iza članka 66. dodaje se članak 66.a koji glasi:
+
+»Članak 66.a
+
+Novčanom kaznom u iznosu od 3.000,00 do 10.000,00 kuna kaznit će se za prekršaj dentalni tehničar, odnosno dentalni asistent ako:
+
+1. obavlja djelatnost izvan opsega određenog odobrenjem za samostalan rad, odnosno dozvolom za rad (članak 36.b, 36.c i 36.o),
+
+2. ne poštuje obvezu čuvanja profesionalne tajne (članak 36.i i 36.p),
+
+3. ne vodi i ne čuva propisanu dokumentaciju (članak 36.j).«
+
+##### Članak 29.
+
+U cijelom tekstu Zakona o stomatološkoj djelatnosti (»Narodne novine«, br. 121/03. i 117/08.) riječi: »stomatološkoj djelatnosti« zamjenjuju se riječima: »dentalnoj medicini«, riječi: »doktor stomatologije« zamjenjuju se riječima: »doktor dentalne medicine«, riječi: »stomatološki studij« zamjenjuju se riječima: »studij dentalne medicine«, riječ: »stomatološki« zamjenjuje se riječju: »dentalni«, a riječi: »osnovna mreža stomatološke djelatnosti« riječima: »mreža javne zdravstvene službe za dentalnu medicinu« u odgovarajućem broju i padežu.
+
+##### Članak 30.
+
+(1) Hrvatska stomatološka komora obvezna je uskladiti Statut s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Ostale opće akte Hrvatska stomatološka komora obvezna je uskladiti s ovim Zakonom i Statutom u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+##### Članak 31.
+
+(1) Zubni tehničari koji na dan stupanja na snagu ovoga Zakona obavljaju zubotehničku djelatnost, a koji obavljaju rad po do sada važećim propisima mogu i dalje obavljati tu djelatnost pod uvjetom da u roku od godine dana od dana stupanja na snagu ovoga Zakona steknu odobrenje za samostalan rad sukladno ovome Zakonu.
+
+(2) Stomatološki asistenti koji na dan stupanja na snagu ovoga Zakona obavljaju djelatnost stomatoloških asistenata, a koji obavljaju rad po do sada važećim propisima mogu i dalje obavljati tu djelatnost pod uvjetom da u roku od godine dana od dana stupanja na snagu ovoga Zakona steknu dozvolu za rad sukladno ovome Zakonu.
+
+##### Članak 32.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama« osim članka 36.b stavka 2. koji stupa na snagu na dan prijama Republike Hrvatske u Europsku uniju.
+
+Klasa: 500-01/09-01/04
+
+Zagreb, 24. rujna 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

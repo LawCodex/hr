@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-12-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "133/07"
-amendments: []
+last_amended: 2011-01-21
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "133/07, 9/11"
+amendments:
+  - "NN 9/2011 (199) Uredba o izmjenama i dopuni Uredbe o postupku i mjerilima za osnivanje prava služnosti na šumi i/ili šumskom zemljištu u vlasništvu Republike Hrvatske u svrhu eksploatacije mineralnih sirovina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/133/3780"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o postupku i mjerilima za osnivanje prava služnosti na šumi i/ili šumskom zemljištu u vlasništvu Republike Hrvatske u svrhu eksploatacije mineralnih sirovina
 
 > Izvor: Narodne novine, NN 133/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/133/3780).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 9/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -105,4 +109,69 @@ Zagreb, 18. prosinca 2007.
 Potpredsjednica Vlade  
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
+Jadranka Kosor, dipl. iur., v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o postupku i mjerilima za osnivanje prava služnosti na šumi i/ili šumskom zemljištu u vlasništvu Republike Hrvatske u svrhu eksploatacije mineralnih sirovina (NN 9/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/9/199*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 10. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009) i članka 57. stavka 3. Zakona o šumama (»Narodne novine«, br. 140/2005, 82/2006, 129/2008, 80/2010 i 124/2010), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O POSTUPKU I MJERILIMA ZA OSNIVANJE PRAVA SLUŽNOSTI NA ŠUMI I/ILI ŠUMSKOM ZEMLJIŠTU U VLASNIŠTVU REPUBLIKE HRVATSKE U SVRHU EKSPLOATACIJE MINERALNIH SIROVINA**
+
+### Članak 1.
+
+U Uredbi o postupku i mjerilima za osnivanje prava služnosti na šumi i/ili šumskom zemljištu u vlasništvu Republike Hrvatske u svrhu eksploatacije mineralnih sirovina (»Narodne novine« broj 133/2007) u članku 3. riječi: »5 ha« zamjenjuju se riječima: »20 ha.«.
+
+### Članak 2.
+
+U članku 5. stavak 3. mijenja se i glasi:
+
+»Naknada iz stavka 1. ovoga članka plaća se obročno, a godišnji iznos naknade izračunava se tako da se ukupan iznos naknade podijeli na jednake iznose prema broju godina na koje je dobivena služnost, te se prva rata plaća prije sklapanja ugovora iz članka 6. ove Uredbe. Naknada se uplaćuje na žiro-račun Hrvatskih šuma d.o.o., koje su dužne voditi nadzor nad plaćanjem.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Preostale godišnje rate naknade iz stavka 1. ovoga članka dospijevaju na naplatu 10. siječnja tekuće kalendarske godine. Za preostale godišnje rate naknade ovlaštenik prava služnosti obvezan je predati Hrvatskim šumama d.o.o. kao sredstvo osiguranja plaćanja obveza zadužnice na iznos pojedinih godišnjih rata, koje dospijevaju u roku od tri dana od dospijeća svake pojedine rate.«.
+
+### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»Ugovor o osnivanju prava služnosti na šumi i/ili šumskom zemljištu za eksploataciju mineralnih sirovina u ime Republike Hrvatske zaključuje tijelo nadležno za raspolaganje imovinom Republike Hrvatske.
+
+Prije zaključivanja ugovora o osnivanju prava služnosti, korisnik služnosti dužan je predati dokaz da je izvršio uplatu prvog obroka naknade za služnost, potvrdu Ministarstva financija i nadležnog državnog tijela za rudarstvo da nema nepodmirenih dugovanja prema Republici Hrvatskoj, sukladno odredbama Zakona o rudarstvu.
+
+Ugovor iz stavka 1. ovoga članka zaključit će se po izvršnosti akta nadležnog tijela u postupku dodjele koncesije sa onom fizičkom ili pravnom osobom koja je u tom postupku izabrana kao najpovoljniji ponuditelj.
+
+Iznimno od stavka 3. ovoga članka, ugovor iz stavka 1. ovoga članka može se zaključiti po donošenju odluke iz članka 4. ove Uredbe, s fizičkom ili pravnom osobom koja ima važeći upravni akt temeljem kojeg je rudarski subjekt stekao pravo eksploatacije mineralnih sirovina na odobrenom eksploatacijskom polju.«.
+
+### Članak 4.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»Ugovor iz članka 6. ove Uredbe sklapa se na rok trajanja koncesije.«.
+
+### Članak 5.
+
+U cijelom tekstu Uredbe, riječi: »Ministarstvo poljoprivrede, šumarstva i vodnog gospodarstva« u odgovarajućem rodu, broju i padežu zamjenjuju se riječima: »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva« u odgovarajućem rodu, broju i padežu.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 946-01/10-01/02
+
+Urbroj: 5030105-10-1
+
+Zagreb, 23. prosinca 2010.
+
+Predsjednica  
 Jadranka Kosor, dipl. iur., v. r.

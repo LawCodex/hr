@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-03-22
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "29/02"
-amendments: []
+last_amended: 2013-05-10
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "29/02, 53/12, 56/13"
+amendments:
+  - "NN 53/2012 (1291) Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva"
+  - "NN 56/2013 (1144) Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/630"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o poticanju razvoja malog gospodarstva
 
 > Izvor: Narodne novine, NN 29/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/630).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 53/2012, NN 56/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -439,3 +444,477 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga Sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva (NN 53/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/53/1291*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POTICANJU RAZVOJA MALOG GOSPODARSTVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva, koji je Hrvatski sabor donio na sjednici 27. travnja 2012. godine.
+
+Klasa: 011-01/12-01/51  
+Urbroj: 71-05-03/1-12-2  
+Zagreb, 3. svibnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POTICANJU RAZVOJA MALOG GOSPODARSTVA**
+
+### Članak 1.
+
+U Zakonu o poticanju razvoja malog gospodarstva (»Narodne novine«, br. 29/02. i 63/07.) u članku 1. iza riječi: »Hrvatske agencije za malo gospodarstvo« dodaju se riječi: »i investicije«.
+
+### Članak 2.
+
+Iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim se Zakonom usklađuje kategorizacija veličine poduzetnika s Preporukom Europske komisije 2003/361/EC od 6. svibnja 2003.«.
+
+### Članak 3.
+
+U članku 2. stavku 1. u uvodnoj rečenici iza riječi: »subjekti« dodaju se riječi: »u poduzetništvu i obrtu«.
+
+U točki 2. iza riječi: »neovisni« stavlja se zarez i dodaju riječi: »odnosno autonomni subjekti koji nisu klasificirani kao part-nerski subjekti te povezani subjekti, sukladno Preporuci Komisije 2003/361/EC« od 6. svibnja 2003. godine.«.
+
+Točka 3. mijenja se i glasi:
+
+»3) prema financijskim izvješćima za prethodnu godinu ostvaruju godišnji poslovni prihod u iznosu protuvrijednosti do 50.000.000,00 eura, ili imaju ukupnu aktivu ako su obveznici poreza na dobit, odnosno imaju dugotrajnu imovinu ako su obveznici poreza na dohodak, u iznosu protuvrijednosti do 43.000.000,00 eura.«.
+
+### Članak 4.
+
+U članku 3. stavku 2. točka 2. mijenja se i glasi:
+
+»2) prema financijskim izvješćima za prethodnu godinu ostvaruju godišnji poslovni prihod u iznosu protuvrijednosti do 2.000.000,00 eura, ili imaju ukupnu aktivu ako su obveznici poreza na dobit, odnosno imaju dugotrajnu imovinu ako su obveznici poreza na dohodak, u iznosu protuvrijednosti do 2.000.000,00 eura.«.
+
+U stavku 3. točka 2. mijenja se i glasi:
+
+»2) prema financijskim izvješćima za prethodnu godinu ostvaruju godišnji poslovni prihod u iznosu protuvrijednosti do 10.000.000,00 eura, ili imaju ukupnu aktivu ako su obveznici poreza na dobit, odnosno imaju dugotrajnu imovinu ako su obveznici poreza na dohodak, u iznosu protuvrijednosti do 10.000.000,00 eura.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Prema veličini u smislu ovoga Zakona razlikuju se mikro, mali i srednji investicijski projekti.
+
+1) Mikro investicijski projekt predstavlja ulaganje od strane subjekta malog gospodarstva u iznosu protuvrijednosti do 2 milijuna eura,
+
+2) Mali investicijski projekt predstavlja ulaganje od strane subjekta malog gospodarstva u iznosu protuvrijednosti do 10 milijuna eura,
+
+3) Srednji investicijski projekt predstavlja ulaganje od strane subjekta malog gospodarstva u iznosu protuvrijednosti do 50 milijuna eura.«.
+
+### Članak 5.
+
+U članku 4. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2) poticanje investicija u poduzetništvu,«.
+
+Dosadašnje točke 2., 3., 4., 5. i 6. postaju točke 3., 4., 5., 6. i 7.
+
+### Članak 6.
+
+U članku 5. stavku 1. riječi: »malo i srednje poduzetništvo« zamjenjuju se riječima: »poduzetništvo i obrt«.
+
+### Članak 7.
+
+U članku 10. točki 2. iza riječi: »Hrvatska agencija za malo gospodarstvo« dodaju se riječi: »i investicije«.
+
+### Članak 8.
+
+U članku 11. stavku 3. iza riječi: »Hrvatska agencija za malo gospodarstvo« dodaju se riječi: »i investicije«.
+
+### Članak 9.
+
+U naslovu poglavlja V. iza riječi: »HRVATSKA AGENCIJA ZA MALO GOSPODARSTVO« dodaju se riiječi: »I INVESTICIJE«.
+
+### Članak 10.
+
+U članku 12. stavku 1. iza riječi: »Hrvatska agencija za malo gospodarstvo« dodaju se riječi: »i investicije«.
+
+U stavku 3. iza riječi: »Hrvatska agencija za malo gospodarstvo« dodaju se riječi: »i investicije«.
+
+U stavku 4. iza riječi: »HAMAG« dodaje se riječ: »INVEST«.
+
+### Članak 11.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Djelatnost agencije je:
+
+1) poticanje osnivanja i razvoja subjekata malog gospodarstva,
+
+2) promocija i privlačenje investicija u poduzetništvu,
+
+3) poticanje ulaganja malog gospodarstva,
+
+4) financiranje poslovanja i razvoja subjekata malog gospodarstva kreditiranjem pod povoljnijim uvjetima i drugim oblicima financijskih potpora,
+
+5) davanje jamstava za kredite koje subjektima malog gospodarstva odobre banke i druge pravne osobe – kreditori,
+
+6) davanje financijske potpore za smanjenje troškova kredita koje subjektima malog gospodarstva odobre banke i druge pravne osobe – kreditori,
+
+7) subvencioniranje kamata po kreditima,
+
+8) davanje potpora za povećanje zapošljavanja, stručnu izobrazbu, prekvalifikaciju i dokvalifikaciju radnika,
+
+9) davanje potpora za istraživanje, razvoj i primjenu suvremenih tehnologija,
+
+10) davanje potpora za sudjelovanje na međunarodnim sajmovima i specijaliziranim izložbama u zemlji i inozemstvu,
+
+11) koordinacija realizacije investicijskih projekata u suradnji s investitorima i tijelima državne uprave, područne (regionalne) i lokalne samouprave te drugim pravnim osobama,
+
+12) koordinacija s razvojnim agencijama lokalne i područne (regionalne) samouprave,
+
+13) suradnja s međunarodnim tijelima nadležnim za poslove promocije i privlačenja investicija i internacionalizaciju poduzetništva,
+
+14) povezivanje subjekata malog gospodarstva radi nastupa na tržištu,
+
+15) davanje stručne pomoći subjektima malog gospodarstva, uključivo i putem elektroničkih medija,
+
+16) promicanje poduzetništva i stvaranje uvjeta za razvoj poduzetništva žena i mladih,
+
+17) suradnja s drugim pravnim osobama, agencijama i institucijama koje potiču malo gospodarstvo u zemlji i inozemstvu,
+
+18) praćenje, analiza i izvještavanje o rezultatima poticajnih mjera,
+
+19) drugi stručni poslovi u svezi s poticanjem razvoja malog gospodarstva utvrđeni Statutom, zakonom, drugim propisima te poslovi koje joj povjeri Vlada Republike Hrvatske ili Ministarstvo.
+
+(2) Radi obavljanja djelatnosti Agencija može osnovati podružnice.«.
+
+### Članak 12.
+
+U članku 17. stavku 1. riječ: »jedanaest« zamjenjuje se riječju: »trinaest«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Za predsjednika Upravnog odbora Vlada Republike Hrvatske imenuje ministra nadležnog za poduzetništvo i obrt, njegovog zamjenika ili pomoćnika.«.
+
+U stavku 4. riječi: »malo i srednje poduzetništvo« zamjenjuju se riječima: »poduzetništvo i obrt, ministra nadležnog za financije, ministra nadležnog za regionalni razvoj i fondove Europske unije, ministra nadležnog za vanjske i europske poslove«, a riječ: »šumarstvo« briše se.
+
+### Članak 13.
+
+U članku 22. stavku 4. iza riječi: »Hrvatska agencija za malo gospodarstvo« dodaju se riječi: » i investicije«.
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 311-01/12-01/01  
+Zagreb, 27. travnja 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva (NN 56/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1144*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POTICANJU RAZVOJA MALOG GOSPODARSTVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva, koji je Hrvatski sabor donio na sjednici 26. travnja 2013. godine.
+
+Klasa: 011-01/13-01/103
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 2. svibnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POTICANJU RAZVOJA MALOG GOSPODARSTVA**
+
+### Članak 1.
+
+U Zakonu o poticanju razvoja malog gospodarstva (»Narodne novine«, br. 29/02., 63/07. i 53/12.), naziv poglavlja: »II. CILJEVI I PROGRAM RAZVOJA MALOG GOSPODARSTVA« i članci 4. i 5. brišu se.
+
+### Članak 2.
+
+Naziv poglavlja III. mijenja se i glasi:
+
+»III. POTICAJNE MJERE I INFORMACIJSKI SUSTAV MALOG GOSPODARSTVA«.
+
+### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Poticajne mjere i aktivnosti radi ostvarenja ciljeva razvoja malog gospodarstva su:
+
+1) kreditiranje subjekata malog gospodarstva pod povoljnijim uvjetima i subvencioniranje kamata po preuzetim kreditima, te kreditiranje za početak poslovanja,
+
+2) davanje jamstava za kredite,
+
+3) osnivanje i upravljanje fondova rizičnog kapitala i drugih fondova,
+
+4) pružanje stručne i savjetodavne pomoći za subjekte malog gospodarstva,
+
+5) pojednostavljenje postupka za osnivanje, poslovanje i razvoj subjekata malog gospodarstva i njihovih udruga,
+
+6) davanje potpora za jačanje konkurentnosti malog gospodarstva,
+
+7) davanje potpora za povećanje zapošljavanja, stručnu i poduzetničku izobrazbu, prekvalifikaciju i dokvalifikaciju,
+
+8) davanje potpora za sudjelovanje na međunarodnim sajmovima i specijaliziranim izložbama u zemlji i inozemstvu,
+
+9) organiziranje i poticanje mreže potpornih institucija malog gospodarstva te drugih pravnih osoba za poticanje malog gospodarstva,
+
+10) promicanje poduzetništva i poticanje razvoja poduzetništva posebnih skupina,
+
+11) davanje potpora za istraživanje, razvoj i primjenu inovacija te uvođenje suvremenih tehnologija,
+
+12) stvaranje uvjeta za povezivanje subjekata malog gospodarstva radi nastupa na tržištu,
+
+13) druge aktivnosti za ostvarenje ciljeva razvoja malog gospodarstva.
+
+(2) Ministarstvo nadležno za poduzetništvo i obrt uspostavlja središnji informacijski sustav malog gospodarstva kao cjelovit i obuhvatan sustav za provedbu i praćenje mjera i instrumenata poticanja razvoja malog gospodarstva i ocjenu gospodarskih učinaka na nacionalnoj i na regionalnoj razini.«.
+
+### Članak 4.
+
+U članku 7. stavak 2. mijenja se i glasi:
+
+»(2) Svi nositelji provedbe poticajnih mjera za razvoj malog gospodarstva, u smislu ovoga Zakona, prije donošenja akata iz svoje nadležnosti, kojima se dodjeljuju državne potpore, dužni su dostaviti prijedlog državne potpore tijelu nadležnom za zaštitu tržišnog natjecanja i državne potpore.«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Svi nositelji provedbe mjera i instrumenata poticanja razvoja malog gospodarstva u smislu ovoga Zakona uključuju se u središnji informacijski sustav malog gospodarstva.«.
+
+### Članak 5.
+
+U članku 9. stavku 2. riječi: »Narodnim novinama« zamjenjuju se riječima: »javnim glasilima«.
+
+### Članak 6.
+
+Naziv poglavlja IV. mijenja se i glasi:
+
+»IV. NOSITELJI PROVEDBE MJERA I INSTRUMENATA RAZVOJA MALOG GOSPODARSTVA«.
+
+### Članak 7.
+
+U članak 10. stavku 1. riječ: »Programa« zamjenjuje se riječima: »mjera i instrumenata«.
+
+### Članak 8.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Ministarstvo nadležno za poduzetništvo i obrt nadzire i prati provedbu mjera i instrumenata poticanja razvoja malog gospodarstva, analizira rezultate, ocjenjuje učinke i izrađuje izvješća.
+
+(2) Jedinice područne (regionalne) i lokalne samouprave izrađuju vlastite programe i planove, pripremaju informacijsko-dokumentacijske podloge za pripremu strateških i drugih akata, predlažu razvojne projekte, prate, analiziraju i izvještavaju o provedbi projekata i poticajnih mjera iz svoga djelokruga.
+
+(3) Hrvatska agencija za malo gospodarstvo i investicije usklađuje provedbu poticajnih mjera u okviru svojeg djelokruga.
+
+(4) Ostali nositelji iz članka 10. ovoga Zakona, predlažu poticajne mjere i razvojne projekte iz svoje nadležnosti, neposredno provode mjere za koje su zaduženi, te prate i izvještavaju o postignutim rezultatima.«.
+
+### Članak 9.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Djelatnost Agencije je:
+
+1) poticanje osnivanja i razvoja subjekata malog gospodarstva,
+
+2) promocija i privlačenje investicija u poduzetništvu,
+
+3) upravljanje fondovima osnovanim u svrhu razvoja subjekata malog gospodarstva,
+
+4) osnivanje društava za upravljanje fondovima osnovanim u svrhu razvoja subjekata malog gospodarstva,
+
+5) poticanje ulaganja u malo gospodarstvo,
+
+6) financiranje poslovanja i razvoja subjekata malog gospodarstva kreditiranjem pod povoljnijim uvjetima i drugim oblicima financijskih potpora,
+
+7) davanje jamstava za kredite koje subjektima malog gospodarstva odobre banke i druge pravne osobe – kreditori,
+
+8) davanje kontrajamstava za odobrene garancije subjektima malog gospodarstva,
+
+9) davanje financijske potpore za smanjenje troškova kredita koje subjektima malog gospodarstva odobre banke i druge pravne osobe – kreditori,
+
+10) subvencioniranje kamata po kreditima,
+
+11) davanje potpora za povećanje zapošljavanja, stručnu i poduzetničku izobrazbu, prekvalifikaciju i dokvalifikaciju,
+
+12) davanje poticaja za uspostavu i financiranje izgradnje, opremanja i pokrivanja troškova stručne pomoći subjekata malog gospodarstva različitim poduzetničkim potpornim institucijama,
+
+13) davanje potpora za sudjelovanje na međunarodnim sajmovima i specijaliziranim izložbama u zemlji i inozemstvu,
+
+14) koordinacija realizacije investicijskih projekata u suradnji s investitorima i tijelima državne uprave, područne (regionalne) i lokalne samouprave, te drugim pravnim osobama,
+
+15) koordinacija s razvojnim agencijama lokalne i područne (regionalne) samouprave,
+
+16) suradnja s međunarodnim tijelima nadležnim za poslove promocije i privlačenja investicija i internacionalizaciju poduzetništva,
+
+17) provedba poticajnih mjera subjektima malog gospodarstva za razvoj djelatnosti koje ne zagađuju okoliš,
+
+18) povezivanje subjekata malog gospodarstva radi nastupa na tržištu,
+
+19) davanje potpora za pružanje stručne pomoći subjektima malog gospodarstva, uključivo i putem elektroničkih medija,
+
+20) promicanje poduzetništva i stvaranje uvjeta za razvoj poduzetništva posebnih skupina,
+
+21) suradnja s drugim pravnim osobama, agencijama i institucijama koje potiču malo gospodarstvo u zemlji i inozemstvu,
+
+22) praćenje, analiza i izvještavanje o rezultatima poticajnih mjera,
+
+23) izgradnja institucionalnog okvira za podršku procesu inovacije (inovacijskom procesu),
+
+24) vođenje poslova vezanih uz transfer tehnologije i poticanje istraživanja, razvoja i inovacija u privatnom i javnom sektoru,
+
+25) vođenje poslova vezanih uz ulogu posredničkog tijela u operativnoj strukturi namijenjenoj upravljanju sredstvima strukturnih fondova, kao i druge uloge u procesu upravljanja proračunskim sredstvima ili sredstvima Europske unije,
+
+26) upravljanje programima potpora i davanje potpora za istraživanja, razvoj i inovacije u privatnom i javnom sektoru,
+
+27) pružanje poticaja za uspostavu i financiranje izgradnje, opremanja i pokrivanja operativnih troškova različitih pravnih subjekata koji čine tehnologijsku infrastrukturu za transfer tehnologije i/ili podršku malih i srednjih trgovačkih društava s potencijalom brzog rasta (primjerice rizični kapital, uvjetni zajmovi, beskamatni zajmovi),
+
+28) uspostavljanje suradnje s međunarodnim i stranim financijskim ustanovama za poticanje tehnološkog poduzetništva,
+
+29) koordiniranje i organizacija institucija namijenjenih razvoju, prijenosu, primjeni i financiranju novih tehnologija i inovativnih malih i srednjih poduzeća, odnosno mreže tehnoloških institucija na nacionalnoj razini u svrhu ukupnoga gospodarskog i tehnološkog razvitka,
+
+30) tehnička i konzultativna pomoć tijelima državne uprave u pogledu programa nacionalne, međunarodne i međuregionalne suradnje, usmjerenih na tehnološki razvoj i razvoj inovativnog poduzetništva,
+
+31) osiguravanje savjetodavnih usluga mreže konzultanata – eksperata glede tehničko-tehnoloških, pravnih, financijskih, marketinških i ostalih savjeta poduzetnicima pri osnivanju i razvoju inovativnih malih i srednjih poduzeća,
+
+32) poticanje poslovne suradnje između hrvatskih i stranih poduzeća, kroz aktivnosti istraživanja, razvoja i inovacija, tehnološkog transfera i komercijalizacije rezultata istraživanja,
+
+33) savjetovanje u području transfera tehnologija, tehnološkog znanja i iskustva te tehnologijskog razvoja i razvoja istraživanja,
+
+34) uspostavljanje suradnje s međunarodnim i stranim znanstvenim i tehnologijskim institucijama,
+
+35) uključivanje u programe međunarodne suradnje u istraživanju i razvoju,
+
+36) savjetovanje, informiranje i pružanje potpore uključivanju u europske i međunarodne projekte za poticanje istraživanja, razvoja i inovativnosti,
+
+37) drugi stručni poslovi u svezi s poticanjem razvoja malog gospodarstva i ostvarenjem ciljeva nacionalnoga inovacijskog sustava utvrđeni Statutom, zakonom, drugim propisima te poslovi koje joj povjeri Vlada Republike Hrvatske ili ministarstvo nadležno za poduzetništvo i obrt.
+
+(2) Radi obavljanja djelatnosti Agencija može osnovati podružnice.«.
+
+### Članak 10.
+
+U članku 14. stavku 1. točki 1. iza riječi: »državnog proračuna« dodaju se riječi: »putem ministarstva nadležnog za poduzetništvo i obrt i ministarstva nadležnog za znanost«.
+
+U točki 2. iza riječi: »kreditnih« dodaju se riječi: »i ostalih«.
+
+### Članak 11.
+
+U članku 17. stavku 1. riječ: »trinaest« zamjenjuje se riječju: »petnaest«.
+
+U stavku 2. iza riječi: »Predsjednika« stavlja se zarez i dodaju riječi: »zamjenika predsjednika«, iza riječi: »predsjednik« stavlja se zarez i dodaju se riječi: »zamjenik predsjednika«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Za zamjenika predsjednika Upravnog odbora, Vlada Republike Hrvatske imenuje ministra nadležnog za znanost, njegovog zamjenika ili pomoćnika.«.
+
+U dosadašnjem stavku 4. koji postaje stavak 5. iza riječi: »ministra nadležnog za poduzetništvo i obrt« dodaju se riječi: »ministra nadležnog za znanost«.
+
+### Članak 12.
+
+U članku 18. točki 3. iza riječi: »imenovanju« dodaje se riječ: »članova, zamjenika predsjednika«.
+
+### Članak 13.
+
+U članku 19. stavku 1. riječi: »tri člana« zamjenjuju se riječima: »četiri člana«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Jednog od članova Uprave imenuje Upravni odbor za predsjednika Uprave i jednog za zamjenika predsjednika Uprave.«.
+
+Iza stavka 3. dodaju se stavci 4., 5., 6., 7. i 8. koji glase:
+
+»(4) Članovi Uprave zadužuju se za pojedine djelatnosti Agencije i to za provođenje financijske podrške putem potpora za jačanje konkurentnosti malog gospodarstva, za poticanje istraživanja, razvoja i inovacija i sustavno praćenje djelatnosti iz djelokruga Poslovno-  
+-inovacijske agencije Republike Hrvatske, za financijsku podršku kroz jamstva i druge financijske instrumente te za investicije.
+
+(5) Zamjenik predsjednika Uprave zadužuje se za područje poticanja istraživanja, razvoja i inovacija te za sustavno praćenje djelatnosti iz djelokruga Poslovno-inovacijske agencije Republike Hrvatske (BICRO).
+
+(6) Na plaće i druge naknade po osnovi rada radnika u Agenciji primjenjuje se Zakon o plaćama u javnim službama i Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama.
+
+(7) Plaću predsjednika Uprave, zamjenika predsjednika Uprave i članova Uprave Agencije utvrdit će Vlada Republike Hrvatske posebnom odlukom na način da plaća predsjednika Uprave, zamjenika predsjednika Uprave i članova Uprave Agencije ne smije biti viša od plaće zamjenika ministra.
+
+(8) Vlada Republike Hrvatske će donijeti odluku iz stavka 7. ovoga članka najkasnije u roku od 30 dana od dana stupanja na snagu ovog Zakona.«
+
+### Članak 14.
+
+Naziv poglavlja VII. mijenja se i glasi: »VII. PREKRŠAJNE ODREDBE«.
+
+### Članak 15.
+
+U članku 22. stavku 2. riječi: »za kredit, garanciju ili potpore« zamjenjuju se riječima: »za kredit ili garanciju«.
+
+### Članak 16.
+
+U članku 23. riječi: »iz članka 23. ovoga Zakona« zamjenjuju se riječima: »iz članka 22. ovoga Zakona«.
+
+### Članak 17.
+
+(1) Poslovno-inovacijska agencija Republike Hrvatske (BICRO) pripaja se Hrvatskoj agenciji za malo gospodarstvo i investicije temeljem ugovora o pripajanju koji će zaključiti Poslovno-inovacijska agencija Republike Hrvatske (BICRO) i Hrvatska agencija za malo gospodarstvo i investicije, a koje pripajanje će se provesti do 1. srpnja 2014.
+
+(2) Danom upisa pripajanja u sudski registar, Hrvatska agencija za malo gospodarstvo i investicije mijenja naziv u Hrvatska agencija za malo gospodarstvo, inovacije i investicije, a skraćeni naziv Agencije HAMAG INVEST mijenja se u HAMAG-BICRO.
+
+(3) Danom upisa pripajanja u sudski registar, oprema, imovina, financijska prava i obveze te zaposlenici Poslovno-inovacijske agencije Republike Hrvatske (BICRO) postaju oprema, imovina, financijska prava i obveze te zaposlenici Hrvatske agencije za malo gospodarstvo, inovacije i investicije.
+
+(4) U svrhu provedbe stavka 1. ovoga članka, zadužuje se Uprava Hrvatske agencije za malo gospodarstvo, inovacije i investicije i Upravni odbor Hrvatske agencije za malo gospodarstvo, inovacije i investicije da usklade Statut i ostale akte s odredbama ovog Zakona u roku od 60 dana od dana upisa pripajanja u sudski registar.
+
+(5) Do stupanja na snagu akata iz stavka 4. ovoga članka, zaposlenici Poslovno-inovacijske agencije Republike Hrvatske (BICRO) i Hrvatske agencije za malo gospodarstvo i investicije zadržavaju sva prava iz radnog odnosa sukladno sklopljenim ugovorima o radu.
+
+(6) Vlada Republike Hrvatske će imenovati zamjenika predsjednika Upravnog odbora i novog člana Upravnog odbora Hrvatske agencije za malo gospodarstvo, inovacije i investicije na način utvrđen u članku 11. ovoga Zakona u roku od 30 dana od dana upisa pripajanja u sudski registar.
+
+(7) Mandat novoimenovanih članova traje do isteka mandata ranije imenovanih članova Upravnog odbora Hrvatske agencije za malo gospodarstvo i investicije.
+
+(8) Danom upisa pripajanja u sudski registar, članovima upravnog vijeća, stručnog vijeća i ravnatelju Poslovno-inovacijske agencije Republike Hrvatske (BICRO) prestaje mandat, odnosno prestaju s radom.
+
+### Članak 18.
+
+(1) Danom upisa pripajanja u sudski registar Hrvatska agencija za malo gospodarstvo, inovacije i investicije će preuzeti operativnu provedbu programa i projekata »Drugi projekt tehnologijskog razvitka«, »Inkubacijski centar bioznanosti i komercijalizaciju tehnologije« i »Eureka«, suradnike na programu, opremu, pismohranu i drugu dokumentaciju, sredstva za rad te ostala prava i obveze, dok će ministarstvo nadležno za znanost biti zaduženo za upravljanje programima i projektima navedenim u ovom članku.
+
+(2) Ministarstvo nadležno za znanost, ministarstvo nadležno za poduzetništvo i obrt te Hrvatska agencija za malo gospodarstvo, inovacije i investicije će do dana upisa pripajanja u sudski registar zaključiti sporazum o prijenosu provedbe programa iz stavka 1. ovoga članka kojim će se urediti prava i obveze navedenih tijela.
+
+(3) Hrvatska agencija za malo gospodarstvo, inovacije i investicije će programe iz stavaka 1. i 2. ovoga članka provoditi sa suradnicima te u skladu sa operativnom dokumentacijom i poslovnim procesima koje je Vlada Republike Hrvatske ugovorila sa Svjetskom bankom i Europskom komisijom.
+
+### Članak 19.
+
+Ustroj i organizacija središnjeg informacijskog sustava malog gospodarstva iz članka 3. ovoga Zakona uredit će Pravilnikom ministar nadležan za poduzetništvo i obrt u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 20.
+
+Dan prestanka važenja Uredbe o osnivanju Poslovno-inovacijske agencije Republike Hrvatske (»Narodne novine«, br. 129/10. i 31/12.) utvrdit će se uredbom o prestanku njezina važenja.
+
+### Članak 21.
+
+Hrvatska agencija za malo gospodarstvo, inovacije i investicije dužna je u roku od 60 dana od dana upisa pripajanja u sudski registar uskladiti svoje poslovanje sa člankom 10. stavkom 1., člankom 11., člankom 12. i člankom 13. ovoga Zakona, osim u dijelu koji se odnosi na članak 19. stavke 6., 7. i 8 ovoga Zakona.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/84
+
+Zagreb, 26. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

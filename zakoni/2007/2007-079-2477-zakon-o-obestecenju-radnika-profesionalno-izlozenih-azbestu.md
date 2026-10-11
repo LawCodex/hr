@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/07"
-amendments: []
+last_amended: 2010-12-10
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/07, 139/10"
+amendments:
+  - "NN 139/2010 (3537) Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2477"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o obeštećenju radnika profesionalno izloženih azbestu
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2477).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 139/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -111,3 +115,55 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu (NN 139/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3537*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBEŠTEĆENJU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU
+
+Proglašavam Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu, koji je Hrvatski sabor donio na sjednici 23. studenoga 2010. godine.
+
+Klasa: 011-01/10-01/138
+
+Urbroj. 71-05-03/1-10-2
+
+Zagreb, 26. studenoga 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBEŠTEĆENJU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU**
+
+### Članak 1.
+
+U Zakonu o obeštećenju radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07.) u članku 5. stavku 2. riječi: »Hrvatskog zavoda za medicinu rada« zamjenjuju se riječima: »Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu«, a riječi: »Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu« zamjenjuju se riječima: »Hrvatskog zavoda za zdravstveno osiguranje«.
+
+U stavku 3. riječi: »Hrvatski zavod za zdravstveno osiguranje zaštite zdravlja na radu« zamjenjuju se riječima: »Hrvatski zavod za zdravstveno osiguranje«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2011.
+
+Klasa: 543-04/10-01/02
+
+Zagreb, 23. studenoga 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

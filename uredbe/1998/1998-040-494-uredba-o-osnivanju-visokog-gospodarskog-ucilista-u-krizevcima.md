@@ -6,14 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1998-03-23
-last_amended: 2007-06-04
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2013-09-25
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "40/98, 76/05, 57/07"
+narodne_novine: "40/98, 76/05, 57/07, 119/13"
 amendments:
   - "NN 76/2005 (1485) Uredba o izmjenama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima"
   - "NN 57/2007 (1821) Uredba o izmjeni i dopuni Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima"
+  - "NN 119/2013 (2538) Uredba o izmjenama i dopunama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/40/494"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 40/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/40/494).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2005, NN 57/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2005, NN 57/2007, NN 119/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -346,3 +347,64 @@ Zagreb, 31. svibnja 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima (NN 119/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2538*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004, 174/2004, 2/2007 – Odluka Ustavnog suda Republike Hrvatske, 46/2007, 45/2009, 63/2011 i 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 19. rujna 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O OSNIVANJU VISOKOG GOSPODARSKOG UČILIŠTA U KRIŽEVCIMA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Visokog gospodarskog učilišta u Križevcima (»Narodne novine«, br. 40/98, 76/2005 i 57/2007), u članku 5. stavku 2. alineji 7. iza riječi: »Stručnog vijeća« dodaje se zarez i riječi: »uz potvrdu osnivača«.
+
+### Članak 2.
+
+Članak 6. mijenja se i glasi:
+
+»Upravno vijeće ima pet članova koji se imenuju, odnosno biraju sukladno odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju. Predsjednika Upravnog vijeća biraju članovi između sebe. Dekan sudjeluje u radu Upravnog vijeća bez prava glasovanja.
+
+Članovi Upravnog vijeća mogu se razriješiti i prije isteka vremena na koji su imenovani, odnosno izabrani.
+
+Način rada i odlučivanja Upravnog vijeća utvrđuje se Statutom Učilišta.«.
+
+### Članak 3.
+
+U članku 7. stavak 2. mijenja se i glasi:
+
+»Za dekana, putem javnog natječaja, može biti izabrana osoba u znanstveno-nastavnom zvanju, nastavnom zvanju profesora visoke škole ili višeg predavača. Dekan se bira i razrješava sukladno odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju i Zakona o ustanovama, na način i u postupku utvrđenom Statutom Učilišta. Rok do kojeg se primaju prijave kandidata ne može biti kraći od trideset dana od dana objave natječaja, a rok u kojem se kandidati obavještavaju o izboru ne može biti dulji od četrdeset i pet dana od dana isteka roka za podnošenje prijava.«.
+
+Stavak 3. briše se.
+
+Iza dosadašnjeg stavka 4. koji postaje stavak 3. dodaje se novi stavak 4. koji glasi:
+
+»Za akademska pitanja dekan je odgovoran Stručnom vijeću, a za zakonitost rada financijskog poslovanja i racionalne uporabe materijalnih i kadrovskih resursa Upravnom vijeću.«.
+
+### Članak 4.
+
+U članku 8. stavku 2. riječi: »200.000,00 kuna« zamjenjuju se riječima: »petsto tisuća kuna«.
+
+### Članak 5.
+
+U članku 9. stavak 2. mijenja se i glasi:
+
+»Stručno vijeće Učilišta čine nastavnici, suradnici, studenti i jedan predstavnik zaposlenika, u skladu sa Statutom Učilišta«.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-03/107
+
+Urbroj: 50301-04/12-13-18
+
+Zagreb, 19. rujna 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.

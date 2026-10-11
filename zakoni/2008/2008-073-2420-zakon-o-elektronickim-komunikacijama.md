@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-06-26
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "73/08"
-amendments: []
+last_amended: 2014-06-11
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "73/08, 133/12, 80/13, 71/14"
+amendments:
+  - "NN 133/2012 (2824) Zakon o izmjenama Zakona o elektroničkim komunikacijama"
+  - "NN 80/2013 (1676) Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama"
+  - "NN 71/2014 (1336) Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/73/2420"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o elektroničkim komunikacijama
 
 > Izvor: Narodne novine, NN 73/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/73/2420).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 133/2012, NN 80/2013, NN 71/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1918,3 +1924,521 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o elektroničkim komunikacijama (NN 133/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/133/2824*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ELEKTRONIČKIM KOMUNIKACIJAMA
+
+Proglašavam Zakon o izmjenama Zakona o elektroničkim komunikacijama, koji je Hrvatski sabor donio na sjednici 23. studenoga 2012. godine.
+
+Klasa: 011-01/12-01/145
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 28. studenoga 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ELEKTRONIČKIM KOMUNIKACIJAMA**
+
+### Članak 1.
+
+U Zakonu o elektroničkim komunikacijama (»Narodne novine«, br. 73/08. i 90/11.) u članku 8. stavku 1. riječi: »sedam članova« zamjenjuju se riječima: »pet članova«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Zamjenik predsjednika Vijeća Agencije zamjenjuje predsjednika Vijeća Agencije u slučaju njegove odsutnosti ili spriječenosti te obavlja i druge poslove utvrđene ovim Zakonom, posebnim zakonom kojim je uređeno područje poštanskih usluga i Statutom Agencije, koje mu svojom odlukom povjeri predsjednik Vijeća Agencije.«.
+
+### Članak 2.
+
+U članku 10. stavku 2. podstavak 7. briše se.
+
+Dosadašnji podstavak 8. postaje podstavak 7.
+
+### Članak 3.
+
+(1) Vlada Republike Hrvatske objavit će u roku od deset dana od dana stupanja na snagu ovoga Zakona javni poziv za predlaganje kandidata za članove Vijeća Agencije te u roku od sljedećih 30 dana nakon objave javnog poziva predložiti Hrvatskome saboru imenovanje predsjednika, zamjenika predsjednika i članova Vijeća Agencije.
+
+(2) Predsjednik, zamjenik predsjednika i članovi Vijeća Agencije, koji su imenovani na temelju Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08. i 90/11.), nastavljaju s radom do dana imenovanja predsjednika, zamjenika predsjednika i članova Vijeća Agencije u skladu s ovim Zakonom.
+
+(3) Članovi Vijeća Agencije, koji ne budu ponovno imenovani u skladu sa stavkom 2. ovoga članka, ostvaruju prava iz članka 9. stavka 4. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08. i 90/11.).
+
+### Članak 4.
+
+Vijeće Agencije će u roku od 30 dana od dana imenovanja uskladiti Statut Agencije s odredbama ovoga Zakona i dostaviti ga na prethodnu suglasnost Vladi Republike Hrvatske.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 344-03/12-01/03  
+Zagreb, 23. studenoga 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama (NN 80/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1676*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKIM KOMUNIKACIJAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama, koji je Hrvatski sabor donio na sjednici 21. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/168
+
+Urbroj: 71-05-03/01-13-2
+
+Zagreb, 24. lipnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKIM KOMUNIKACIJAMA**
+
+#### Članak 1.
+
+U Zakonu o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11. i 133/12.) iza članka 1. dodaje se naslov i članak 1.a koji glase:
+
+*»Usklađenost s propisima Europske unije*
+
+#### Članak 1.a
+
+(1) Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeći propisi Europske unije:
+
+– Direktiva 2002/21/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o zajedničkom regulatornom okviru za elektroničke komunikacijske mreže i usluge (Okvirna direktiva) (SL L 108, 24. 4. 2002.),
+
+– Direktiva 2002/19/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o pristupu i međupovezivanju elektroničkih komunikacijskih mreža i pripadajuće opreme (Direktiva o pristupu) (SL L 108, 24. 4. 2002.),
+
+– Direktiva 2002/20/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o ovlaštenjima na području elektroničkih komunikacijskih mreža i usluga (Direktiva o ovlaštenjima) (SL L 108, 24. 4. 2002.),
+
+– Direktiva 2002/22/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o univerzalnim uslugama i pravima korisnika u vezi s elektroničkim komunikacijskim mrežama i uslugama (Direktiva o univerzalnim uslugama) (SL L 108, 24. 4. 2002.),
+
+– Direktiva 2002/58/EZ Europskog parlamenta i Vijeća od 12. srpnja 2002. o obradi osobnih podataka i zaštiti privatnosti u sektoru elektroničkih komunikacija (Direktiva o privatnosti i elektroničkim komunikacijama) (SL L 201, 31. 7. 2002.),
+
+– Direktiva Komisije 2002/77/EZ od 16. rujna 2002. o natjecanju na tržištima elektroničkih komunikacijskih mreža i usluga (SL L 249, 17. 9. 2002.),
+
+– Direktiva 2006/24/EZ Europskog parlamenta i Vijeća od 15. ožujka 2006. o zadržavanju podataka proizvedenih ili obrađenih u vezi s pružanjem javno dostupnih elektroničkih komunikacijskih usluga ili javnih komunikacijskih mreža te o dopuni Direktive 2002/58/EZ (SL L 105, 13. 4. 2006.),
+
+– Direktiva 2009/136/EZ Europskog parlamenta i Vijeća od 25. studenoga 2009. o izmjenama i dopunama Direktive 2002/22/EZ o univerzalnim uslugama i pravima korisnika u vezi s elektroničkim komunikacijskim mrežama i uslugama, Direktive 2002/58/EZ o obradi osobnih podataka i zaštiti privatnosti u sektoru elektroničkih komunikacija i Uredbe (EZ) br. 2006/2004 o suradnji između nacionalnih tijela odgovornih za primjenu propisa o zaštiti potrošača (SL L 337, 18. 12. 2009.),
+
+– Direktiva 2009/140/EZ Europskog parlamenta i Vijeća od 25. studenoga 2009. o izmjenama i dopunama Direktiva 2002/21/EZ o zajedničkom regulatornom okviru za elektroničke komunikacijske mreže i usluge, 2002/19/EZ o pristupu i međupovezivanju elektroničkih komunikacijskih mreža i pripadajuće opreme, te 2002/20/EZ o ovlaštenjima na području elektroničkih komunikacijskih mreža i usluga (SL L 337, 18. 12. 2009.),
+
+– Odluka br. 676/2002/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o regulatornom okviru politike radiofrekvencijskog spektra u Europskoj zajednici (Odluka o radiofrekvencijskom spektru) (SL L 108, 24. 4. 2002.).
+
+(2) Ovim se Zakonom utvrđuje okvir za provedbu Uredbe (EU) br. 531/2012 Europskog parlamenta i Vijeća od 13. lipnja 2012. o roamingu u javnim pokretnim komunikacijskim mrežama unutar Unije (SL L 172, 30. 6. 2012.).
+
+(3) Nadležno tijelo za provedbu Uredbe iz stavka 2. ovoga članka je Hrvatska agencija za poštu i elektroničke komunikacije.«.
+
+#### Članak 2.
+
+U članku 12. stavku 1. točka 17. mijenja se i glasi:
+
+»17. utvrđivanje tehničke podloge za davanje koncesija za obavljanje djelatnosti pružanja medijskih usluga radija i televizije u skladu s posebnim zakonom kojim je uređeno područje elektroničkih medija,«.
+
+#### Članak 3.
+
+U članku 18. stavak 2. mijenja se i glasi:
+
+»(2) Protiv odluka i drugih upravnih akata Agencije nije dopuštena žalba, ali se protiv njih može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske. Iznimno, protiv odluka Agencije u sporovima između krajnjih korisnika usluga i operatora iz članka 51. ovoga Zakona može se pokrenuti upravni spor pred mjesno nadležnim upravnim sudom.«.
+
+U stavku 3. treća rečenica briše se.
+
+#### Članak 4.
+
+U članku 42. stavku 1. riječi: »jasne i sveobuhvatne opće uvjete poslovanja« zamjenjuju se riječima: »jasne, čitljive i sveobuhvatne opće uvjete poslovanja«.
+
+Na kraju stavka 2. dodaje se rečenica koja glasi: »Agencija može odlukom izmijeniti, dopuniti ili ukinuti pojedine odredbe općih uvjeta poslovanja iz stavka 1. ovoga članka i posebnih uvjeta pružanja javnih komunikacijskih usluga, ako utvrdi da su u suprotnosti s odredbama ovoga Zakona ili posebnih propisa kojima je uređena zaštita potrošača.«.
+
+Stavak 3. mijenja se i glasi:
+
+"(3) Opće uvjete poslovanja iz stavka 1. ovoga članka, kao i sve njihove izmjene, operatori javnih komunikacijskih usluga moraju objaviti na svojim internetskim stranicama.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Ako su izmjene općih uvjeta poslovanja iz stavka 1. ovoga članka za krajnjeg korisnika usluga nepovoljnije u odnosu na ugovorene opće uvjete poslovanja, krajnji korisnik usluga ima pravo raskinuti pretplatnički ugovor bez naknade, odnosno ima pravo na povrat neiskorištenog novčanog iznosa u roku od 30 dana od dana objave tih izmjena u skladu sa stavkom 3. ovoga članka, osim u slučaju ako su te izmjene općih uvjeta poslovanja:
+
+1. posljedica regulatornih obveza koje proizlaze iz ovoga Zakona,
+
+2. posljedica izmjene veleprodajnih uvjeta na koje operator javnih komunikacijskih usluga nema utjecaja.«.
+
+#### Članak 5.
+
+U članku 43. stavak 5. mijenja se i glasi:
+
+»(5) Operatori javnih komunikacijskih usluga moraju redovito objavljivati transparentne, usporedive, prikladne i najnovije podatke o cijenama i posebnim uvjetima pružanja svojih usluga, paketima usluga i drugim dodatnim uslugama. Ti podaci moraju se objavljivati na jasan i cjelovit način te u obliku koji je na jednostavan način dostupan krajnjim korisnicima usluga.«.
+
+#### Članak 6.
+
+U članku 44. stavak 4. mijenja se i glasi:
+
+»(4) Podroban ispis računa iz stavka 1. ovoga članka dostavlja se pretplatnicima bez naknade, na temelju zahtjeva podnesenog operatoru, a korisnicima unaprijed plaćenih usluga na temelju posebnog zahtjeva koji se podnosi operatoru za određeno prethodno razdoblje.«.
+
+#### Članak 7.
+
+U članku 77. stavak 1. mijenja se i glasi:
+
+»(1) Operatori javnih komunikacijskih mreža i javno dostupnih telefonskih usluga moraju omogućiti svim korisnicima usluga besplatne pozive na jedinstveni europski broj za hitne službe 112, kao i na druge pozivne brojeve za pristup hitnim službama u Republici Hrvatskoj u skladu s Planom numeriranja, i to bez uporabe bilo kakvog sredstva plaćanja s bilo kojega telefonskog uređaja, uključujući i sve javne telefonske govornice i uređaje za upućivanje hitnog poziva iz vozila (u daljnjem tekstu: e-poziv).«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Operatori iz stavka 1. ovoga članka moraju postupati s pozivima na broj 112 na jednak način kao i prema drugim pozivnim brojevima za pristup hitnim službama, koji su još u uporabi u Republici Hrvatskoj, pri čemu nadležnom središnjem tijelu iz stavka 2. ovoga članka ne mogu naplaćivati preusmjeravanje poziva prema drugim pozivnim brojevima koje upotrebljavaju hitne službe.«.
+
+Stavak 4. mijenja se i glasi:
+
+"(4) Način i uvjeti uporabe jedinstvenoga europskog broja za hitne službe 112 i e-poziva, tehnički i drugi zahtjevi za operatore iz stavka 1. ovoga članka u ispunjavanju obveza prema nadležnom središnjem tijelu iz stavka 2. ovoga članka, način, oblik i rokovi dostave podataka iz stavka 2. ovoga članka te mjerila kakvoće usluge poziva na broj 112 i e-poziva pobliže se propisuju pravilnikom koji donosi ministar.«.
+
+#### Članak 8.
+
+Članak 116. mijenja se i glasi:
+
+»Protiv rješenja inspektora nije dopuštena žalba, ali se protiv njega može pokrenuti upravni spor pred mjesno nadležnim upravnim sudom. Iznimno, protiv rješenja inspektora u vezi s povredama ovoga Zakona iz članka 118. i 119. ovoga Zakona može se pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.«.
+
+#### Članak 9.
+
+Naziv glave iznad članka 118., koji glasi: »XIV. KAZNENE ODREDBE« mijenja se i glasi: »XIV. PREKRŠAJNE ODREDBE«.
+
+#### Članak 10.
+
+U članku 119. stavku 1. točka 9. mijenja se i glasi:
+
+»9. ako u svojstvu infrastrukturnog operatora, upravitelja općeg dobra ili vlasnika nekretnine postupa protivno odredbi članka 28. stavka 4. ovoga Zakona,«.
+
+Točka 18. mijenja se i glasi:
+
+»18. ako ne temelji ili ne sklapa ili ne raskida pretplatničke ugovore u skladu s odredbama članka 41. ovoga Zakona,«.
+
+Točka 32. mijenja se i glasi:
+
+»32. ako postupa s podacima pribavljenima u vezi s pristupom ili međupovezivanjem protivno odredbama članka 66. stavka 4. ovoga Zakona,«.
+
+Točka 39. mijenja se i glasi:
+
+»39. ako ne omogući besplatne pozive na jedinstveni europski broj za hitne službe 112, ili na druge pozivne brojeve za pristup hitnim službama u Republici Hrvatskoj, ili nadležnom središnjem tijelu ne dostavlja bez naknade sve raspoložive podatke o ostvarenim pozivima prema broju 112 u skladu s odredbama članka 77. stavka 1. ili 2. ovoga Zakona, ili ne postupa s pozivima na broj 112 na način iz članka 77. stavka 3. ovoga Zakona, ili naplaćuje preusmjeravanje poziva prema drugim pozivnim brojevima koje upotrebljavaju hitne službe protivno članku 77. stavku 3. ovoga Zakona, ili ne ispunjava tehničke ili druge zahtjeve ili mjerila kakvoće usluge poziva na broj 112 ili e-poziva utvrđena pravilnikom iz članka 77. stavka 4. ovoga Zakona,«.
+
+Točka 40. mijenja se i glasi:
+
+»40. ako upotrebljava radiofrekvencijski spektar protivno načinu ili uvjetima dodjele i uporabe utvrđenima u Tablici namjene radiofrekvencijskog spektra iz članka 81. ovoga Zakona, ili u planovima dodjele radijskih frekvencija iz članka 82. ovoga Zakona, ili u pravilniku iz članka 82. stavka 4. ovoga Zakona,«.
+
+Točka 59. mijenja se i glasi:
+
+»59. ako u svojstvu nadzirane osobe u provedbi inspekcijskog nadzora ne omogući inspektoru ulazak ili pregled poslovnih prostorija, zgrada, građevina, gradilišta ili zemljišta gdje se obavlja inspekcijski nadzor, ili ne omogući pregled elektroničke komunikacijske infrastrukture ili povezane opreme, radijske postaje, RiTT opreme, elektroničke komunikacijske mreže ili druge elektroničke komunikacijske opreme na kojoj se obavlja inspekcijski nadzor, ili ne osigura uvid u traženu dokumentaciju, isprave i podatke radi utvrđivanja činjeničnog stanja u tijeku obavljanja inspekcijskog nadzora ili u roku određenom u zapisniku o inspekcijskom pregledu, ili ne dostavi, na pisani zahtjev inspektora, u određenom roku na uvid sve podatke ili dokumentaciju potrebnu za obavljanje inspekcijskog nadzora, ili ne izvijesti u određenom roku o poduzetim mjerama koje je naredio inspektor radi uklanjanja utvrđenih nepravilnosti, nedostataka ili propusta, ili ne izvrši radnje iz članka 115. stavka 2. i 3. ovoga Zakona,«.
+
+Točka 60. mijenja se i glasi:
+
+»60. ako ne postupa u skladu s pravilima i rokovima iz Uredbe (EU) br. 531/2012 Europskog parlamenta i Vijeća od 13. lipnja 2012. o roamingu u javnim pokretnim komunikacijskim mrežama unutar Unije, što omogućuje odvojenu prodaju reguliranih usluga roaminga od domaćih usluga u javnim pokretnim komunikacijskim mrežama te omogućuje veleprodajni pristup javnim pokretnim komunikacijskim mrežama u svrhu pružanja reguliranih usluga roaminga, uključujući i izradu standardne ponude, ili ako postupa protivno pravilima iz te Uredbe o veleprodajnim ili maloprodajnim cijenama koje pružatelji reguliranih usluga roaminga mogu naplaćivati drugim operatorima ili krajnjim korisnicima usluga za glasovne pozive koji su nastali i završavaju unutar Europske unije, za SMS poruke koje su nastale i završavaju unutar Europske unije te za usluge prijenosa podataka, koje krajnji korisnici usluga koriste za vrijeme roaminga u javnim pokretnim komunikacijskim mrežama unutar Europske unije, ili ako postupa protivno pravilima iz te Uredbe o transparentnosti cijena i pružanju obavijesti o cijenama krajnjim korisnicima usluga roaminga, ili pravilima o mehanizmima predostrožnosti u odnosu na prekid regulirane usluge prijenosa podataka u roamingu, ili pravilima o tehničkim značajkama reguliranih SMS poruka u roamingu.«.
+
+#### Članak 11.
+
+U članku 120. stavku 1. točka 10. mijenja se i glasi:
+
+»10. ako svojim krajnjim korisnicima usluga ne omogući uvid i kontrolu podataka o troškovima pruženih usluga ili ako svojim pretplatnicima ne omogući bez naknade, na njihov zahtjev, podroban ispis računa za pružene usluge, ili ako svojim korisnicima unaprijed plaćenih usluga ne omogući podroban ispis računa u skladu s odredbama članka 44. ovoga Zakona,«.
+
+Točka 14. mijenja se i glasi:
+
+»14. ako provodi postupak privremenog isključenja ili trajnog isključenja pretplatničke terminalne opreme ili izdavanja opomene protivno odredbama članka 48. ovoga Zakona,«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 12.
+
+Ministar će donijeti pravilnik iz članka 7. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 13.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i objavi pročišćeni tekst Zakona o elektroničkim komunikacijama.
+
+#### Članak 14.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/125
+
+Zagreb, 21. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama (NN 71/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1336*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKIM KOMUNIKACIJAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama, koji je Hrvatski sabor donio na sjednici 30. svibnja 2014. godine.
+
+Klasa: 011-01/14-01/91  
+Urbroj: 71-05-03/1-14-2  
+Zagreb, 5. lipnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKIM KOMUNIKACIJAMA**
+
+#### Članak 1.
+
+U Zakonu o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11., 133/12. i 80/13.) u članku 1. riječi: »nacionalnog regulatornog tijela za elektroničke komunikacije i poštanske usluge« zamjenjuju se riječima: »nacionalnog regulatornog tijela za elektroničke komunikacije, poštanske usluge i željezničke usluge«.
+
+#### Članak 2.
+
+U članku 1.a stavku 3. riječi: »Hrvatska agencija za poštu i elektroničke komunikacije« zamjenjuju se riječima: »Hrvatska regulatorna agencija za mrežne djelatnosti«.
+
+#### Članak 3.
+
+U članku 4. stavku 3. podstavku 2. riječi: »Hrvatskoj agenciji za poštu i elektroničke komunikacije« zamjenjuju se riječima: »Hrvatskoj regulatornoj agenciji za mrežne djelatnosti«, a riječi: »Hrvatske agencije za poštu i elektroničke komunikacije« zamjenjuju se riječima: »Hrvatske regulatorne agencije za mrežne djelatnosti«.
+
+U stavku 5. riječi: »Hrvatska agencija za poštu i elektroničke komunikacije« zamjenjuju se riječima: »Hrvatska regulatorna agencija za mrežne djelatnosti«.
+
+#### Članak 4.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Hrvatska regulatorna agencija za mrežne djelatnosti (u daljnjem tekstu: Agencija) je nacionalna regulatorna agencija za obavljanje regulatornih i drugih poslova u okviru djelokruga i nadležnosti propisanih ovim Zakonom te posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga.«.
+
+#### Članak 5.
+
+Naziv glave II. iznad članka 7. mijenja se i glasi:
+
+»II. HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI«.
+
+U članku 7. stavku 1. riječi: »i posebnim zakonom kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »te posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Skraćeni naziv Agencije je HAKOM.«.
+
+#### Članak 6.
+
+U članku 8. stavku 4. podstavak 5. mijenja se i glasi:
+
+»– obavlja i druge poslove utvrđene ovim Zakonom, posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga te Statutom Agencije.«.
+
+U stavku 5. riječi: »posebnim zakonom kojim je uređeno područje poštanskih usluga i Statutom Agencije« zamjenjuju se riječima: »posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga te Statutom Agencije«.
+
+U stavku 6. u prvoj rečenici riječi: »prava ili ekonomije« zamjenjuju se riječima: »prava, ekonomije ili željezničkog prometa«, a u trećoj rečenici riječi: »elektroničkih komunikacija ili poštanskih usluga« zamjenjuju se riječima: »elektroničkih komunikacija, poštanskih usluga ili željezničkog prometa«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Članovi Vijeća Agencije ne mogu biti državni dužnosnici, osobe koje obnašaju dužnost u tijelima političkih stranaka, tijelima jedinica lokalne i područne (regionalne) samouprave ili sindikatima, niti osobe koje su u radnom odnosu, ostvaruju utjecaj ili obavljaju druge poslove u pravnim osobama na koje se primjenjuju odredbe ovoga Zakona i posebnih zakona kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga, niti članovi njihovih uprava, nadzornih odbora ili upravnih vijeća, te ne mogu biti vlasnici, dioničari ili imatelji udjela u pravnim osobama na koje se primjenjuju odredbe ovoga Zakona i posebnih zakona kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga, niti mogu obavljati druge poslove zbog kojih bi moglo doći do sukoba interesa. Na pitanja sprječavanja sukoba interesa u obnašanju dužnosti članova Vijeća Agencije primjenjuje se poseban zakon kojim je uređeno sprječavanje sukoba interesa.«.
+
+U stavku 10. iza riječi: »Zakonom« stavlja se zarez, a riječi: »i posebnim zakonom kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+#### Članak 7.
+
+U članku 9. stavku 3. riječi: »posebnog zakona kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »posebnih zakona kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+#### Članak 8.
+
+U članku 10. stavku 2. podstavak 5. mijenja se i glasi:
+
+»– predlaže Vijeću Agencije donošenje odluka i drugih upravnih akata iz članka 18. ovoga Zakona te posebnih zakona kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga,«.
+
+Podstavak 7. mijenja se i glasi:
+
+»– obavlja i druge poslove utvrđene ovim Zakonom, posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga te Statutom Agencije.«.
+
+U stavku 6. riječi: »prava ili ekonomije« zamjenjuju se riječima: »prava, ekonomije ili željezničkog prometa«, a riječi: »u području elektroničkih komunikacija ili poštanskih usluga« zamjenjuju se riječima: »u području elektroničkih komunikacija, poštanskih usluga ili željezničkog prometa«.
+
+#### Članak 9.
+
+U članku 12. stavku 1. točka 6. mijenja se i glasi:
+
+»6. utvrđivanje obveza infrastrukturnim operatorima i rješavanje sporova u vezi sa zajedničkim korištenjem elektroničke komunikacijske infrastrukture i druge povezane opreme,«.
+
+Točka 11. mijenja se i glasi:
+
+»11. rješavanje sporova između krajnjih korisnika usluga i operatora javnih komunikacijskih usluga, utvrđivanje infrastrukturnog operatora na općem dobru i nekretninama drugih osoba te utvrđivanje visine naknade za pravo puta,«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Regulatorne i druge poslove u području poštanskih usluga i u području željezničkih usluga Agencija obavlja u skladu s posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga.«.
+
+#### Članak 10.
+
+U članku 13. stavku 1. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. podatke u skladu s posebnim zakonom kojim se uređuje regulacija tržišta željezničkih usluga,«.
+
+Dosadašnje točke 4. i 5. postaju točke 5. i 6.
+
+Dosadašnja točka 6., koja postaje točka 7., mijenja se i glasi:
+
+»7. druge podatke mjerodavne za prikaz razvoja tržišta elektroničkih komunikacija, poštanskih usluga i željezničkih usluga u Republici Hrvatskoj,«.
+
+Dosadašnja točka 7., koja postaje točka 8., mijenja se i glasi:
+
+»8. druge podatke u vezi s provedbom ovoga Zakona, posebnih zakona kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga, te propisa donesenih na temelju tih zakona.«.
+
+U stavku 5. riječi: »i posebnim zakonom kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »te posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+#### Članak 11.
+
+U članku 14. stavku 1. podstavak 11. mijenja se i glasi:
+
+»– podatke propisane posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga.«.
+
+U stavku 4. podstavak 4. mijenja se i glasi:
+
+»– statističke i druge pokazatelje razvoja tržišta elektroničkih komunikacija, tržišta poštanskih usluga i tržišta željezničkih usluga,«.
+
+U stavku 6. riječi: »tržišta elektroničkih komunikacija i tržišta poštanskih usluga« zamjenjuju se riječima: »tržišta elektroničkih komunikacija, tržišta poštanskih usluga i tržišta željezničkih usluga«.
+
+#### Članak 12.
+
+U članku 15. stavku 1. riječi: »osoba određenih posebnim zakonom, kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »osoba određenih posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+U stavku 1. podstavku 2. riječi: »elektroničkih komunikacijskih mreža i usluga i poštanskih usluga« zamjenjuju se riječima: »elektroničkih komunikacijskih mreža i usluga, poštanskih usluga i željezničkih usluga«.
+
+U stavku 3. riječi: »osobe određene posebnim zakonom, kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »osobe određene posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+#### Članak 13.
+
+Članak 16. mijenja se i glasi:
+
+»(1) Sredstva za obavljanje poslova Agencije iz članka 12. stavka 1. ovoga Zakona osiguravaju se na temelju godišnjeg financijskog plana Agencije iz sljedećih izvora:
+
+1. iz naknade za upravljanje adresnim i brojevnim prostorom,
+
+2. iz naknade za upravljanje radiofrekvencijskim spektrom,
+
+3. iz naknade za obavljanje drugih poslova Agencije, u postotku od ukupnoga godišnjeg bruto prihoda koji su u prethodnoj kalendarskoj godini ostvarili operatori u obavljanju djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu, osim nakladnika elektroničkih medija koji odašilju svoje radijske ili televizijske programe putem vlastite elektroničke komunikacijske mreže, koju upotrebljavaju isključivo u tu svrhu.
+
+(2) Sredstva za obavljanje poslova Agencije iz članka 12. stavka 2. ovoga Zakona osiguravaju se na temelju godišnjeg financijskog plana Agencije u skladu s posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga.
+
+(3) Izračun i visina naknada te način plaćanja naknada iz stavka 1. ovoga članka propisuju se pravilnikom koji donosi Vijeće Agencije najkasnije do kraja godine za sljedeću kalendarsku godinu, na temelju godišnjeg financijskog plana Agencije za sljedeću kalendarsku godinu.
+
+(4) Naknade iz stavka 1. ovoga članka utvrđuju se u skladu s načelima objektivnosti, transparentnosti, razmjernosti i nediskriminacije, pri čemu osobito treba voditi računa o regulatornim načelima i ciljevima iz članka 5. ovoga Zakona.
+
+(5) Agencija će prenijeti višak prikupljenih sredstava u odnosu na ostvarenje godišnjeg financijskog plana Agencije u sljedeću kalendarsku godinu. Iznimno, Agencija može odlučiti o prijenosu viška prikupljenih sredstava u odnosu na ostvarenje godišnjeg financijskog plana Agencije na kraju kalendarske godine u Fond za razvoj mrežnih djelatnosti (u daljnjem tekstu: Fond), koji se osniva pri Agenciji otvaranjem posebnog računa kod banke.
+
+(6) Sredstvima Fonda, u skladu s nacionalnim prioritetima utvrđenima strategijama, programima i provedbenim planovima Vlade Republike Hrvatske, donesenim na temelju ovoga Zakona, može se poticati razvoj elektroničkih komunikacijskih mreža i usluga, a osobito širokopojasnih mreža koje omogućuju pristup velikim pristupnim brzinama.
+
+(7) Način i postupak provedbe javnog natječaja za dodjelu sredstava Fonda, mjerila za dodjelu sredstava Fonda, praćenje utroška dodijeljenih sredstava i druga pitanja u vezi s upravljanjem Fondom propisuju se pravilnikom koji donosi Vijeće Agencije.
+
+(8) Vijeće Agencije donosi odluku o dodjeli sredstava Fonda u skladu s pravilima o državnim potporama.
+
+(9) Agencija odgovara za vlastite obveze cjelokupnom svojom imovinom, a Republika Hrvatska solidarno i neograničeno odgovara za obveze Agencije.
+
+(10) Obveze Agencije u prvom se redu podmiruju iz njezine imovine, a tek onda iz državnog proračuna Republike Hrvatske.
+
+(11) Agencija ne može, bez prethodne suglasnosti Vlade Republike Hrvatske, steći, opteretiti ili otuđiti nekretninu ili drugu imovinu, ili sklopiti drugi pravni posao ako vrijednost ugovora ili drugoga pravnog posla prelazi iznos utvrđen Statutom Agencije.
+
+(12) Financijska izvješća Agencije podliježu godišnjoj reviziji koju obavlja ovlašteni neovisni revizor. Agencija donosi odluku o odabiru revizora u skladu s posebnim propisima o reviziji.«.
+
+#### Članak 14.
+
+U članku 17. stavku 1. riječi: »posebnim zakonom kojim je uređeno područje poštanskih usluga« zamjenjuju se riječima: »posebnim zakonima kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga«.
+
+#### Članak 15.
+
+U članku 22. stavku 5. podstavak 1. mijenja se i glasi:
+
+»– postupcima donošenja propisa za provedbu ovoga Zakona koji su u nadležnosti Agencije, u skladu s odredbama ovoga Zakona i posebnih zakona kojima se uređuje područje poštanskih usluga i regulacija tržišta željezničkih usluga,«.
+
+#### Članak 16.
+
+U članku 108. stavak 8. mijenja se i glasi:
+
+»(8) Na zahtjev nadležnih tijela iz stavka 3. ovoga članka operatori iz stavka 1. ovoga članka moraju onemogućiti korisnicima usluga uporabu programa za kodiranje (enkripciju) sadržaja komunikacije ili omogućiti nadležnim tijelima iz stavka 3. ovoga članka provedbu mjera za uklanjanje kodiranja (enkripcije) u svrhu osiguranja i održavanja funkcije tajnog nadzora elektroničkih komunikacijskih mreža i usluga.«.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Odredbe ovoga članka primjenjuju se i na operatore iz članka 32. stavka 11. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+(1) Danom stupanja na snagu ovoga Zakona Agencija za regulaciju tržišta željezničkih usluga pripaja se Hrvatskoj agenciji za poštu i elektroničke komunikacije te prestaje s radom.
+
+(2) Hrvatska agencija za poštu i elektroničke komunikacije danom stupanja na snagu ovoga Zakona nastavlja s radom kao Hrvatska regulatorna agencija za mrežne djelatnosti.
+
+(3) Danom stupanja na snagu ovoga Zakona prestaje mandat predsjedniku i članovima Upravnog vijeća Agencije za regulaciju tržišta željezničkih usluga.
+
+(4) Članovi Vijeća Hrvatske agencije za poštu i elektroničke komunikacije nastavljaju s radom i nakon stupanja na snagu ovoga Zakona, kao članovi Vijeća Hrvatske regulatorne agencije za mrežne djelatnosti, do isteka razdoblja na koje su imenovani u skladu sa Zakonom o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11., 133/12. i 80/13.), te preuzimaju poslove predsjednika i članova Upravnog vijeća Agencije za regulaciju tržišta željezničkih usluga do usklađivanja Statuta Agencije i drugih općih akata Agencije iz članka 18. ovoga Zakona.
+
+(5) Ravnatelj Hrvatske agencije za poštu i elektroničke komunikacije nastavlja s radom i nakon stupanja na snagu ovoga Zakona, kao ravnatelj Hrvatske regulatorne agencije za mrežne djelatnosti, do isteka razdoblja na koje je imenovan u skladu sa Zakonom o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11., 133/12. i 80/13.).
+
+(6) Danom stupanja na snagu ovoga Zakona zaposlenici Agencije za regulaciju tržišta željezničkih usluga nastavljaju obavljati poslove na kojima su zatečeni u trenutku stupanja na snagu ovoga Zakona, kao radnici stručne službe Agencije, te zadržavaju stečena prava iz radnog odnosa, do sklapanja novih ugovora o radu u skladu s općim aktima Agencije iz članka 18. stavka 3. ovoga Zakona.
+
+(7) Ugovori o radu iz stavka 6. ovoga članka sklopit će se u roku od petnaest dana od dana usklađivanja općih akata Agencije iz članka 18. stavka 3. ovoga Zakona.
+
+#### Članak 18.
+
+(1) Vijeće Agencije će u roku od 30 dana od dana stupanja na snagu ovoga Zakona uskladiti Statut Agencije s odredbama ovoga Zakona i dostaviti ga na prethodnu suglasnost Vladi Republike Hrvatske.
+
+(2) Do usklađivanja Statuta Agencije na odgovarajući se način primjenjuju odredbe Statuta Hrvatske agencije za poštu i elektroničke komunikacije, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.
+
+(3) Vijeće Agencije će u roku od 60 dana od dana dobivanja prethodne suglasnosti iz stavka 1. ovoga članka uskladiti druge opće akte Agencije sa Statutom Agencije.
+
+(4) Do usklađivanja općih akata iz stavka 3. ovoga članka na odgovarajući se način primjenjuju opći akti Hrvatske agencije za poštu i elektroničke komunikacije, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona i Statuta Agencije.
+
+#### Članak 19.
+
+(1) Predsjednik Vijeća Agencije će u roku od petnaest dana od dana dobivanja prethodne suglasnosti iz članka 18. stavka 1. ovoga Zakona podnijeti prijavu za brisanje Agencije za regulaciju tržišta željezničkih usluga iz sudskog registra te prijavu za usklađivanje upisa Agencije u sudskom registru.
+
+(2) Agencija je pravni sljednik Agencije za regulaciju tržišta željezničkih usluga te preuzima pismohranu i drugu dokumentaciju, kao i druga prava i obveze Agencije za regulaciju tržišta željezničkih usluga.
+
+(3) Drugu imovinu Agencije za regulaciju tržišta željezničkih usluga, osim imovine iz stavka 2. ovoga članka, preuzima Državni ured za upravljanje državnom imovinom.
+
+#### Članak 20.
+
+Vijeće Agencije donijet će pravilnik iz članka 13. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 21.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o Agenciji za regulaciju tržišta željezničkih usluga (»Narodne novine«, br. 79/07., 75/09. i 61/11.).
+
+#### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/59  
+Zagreb, 30. svibnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

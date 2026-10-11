@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/07"
-amendments: []
+last_amended: 2012-07-27
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/07, 86/12"
+amendments:
+  - "NN 86/2012 (1969) Zakon o izmjeni Zakona o tajnosti podataka"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2483"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o tajnosti podataka
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2483).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 86/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -250,3 +254,55 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o tajnosti podataka (NN 86/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1969*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O TAJNOSTI PODATAKA
+
+Proglašavam Zakon o izmjeni Zakona o tajnosti podataka, koji je Hrvatski sabor donio na sjednici 13. srpnja 2012. godine.
+
+Klasa: 011-01/12-01/99
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 18. srpnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O TAJNOSTI PODATAKA**
+
+### Članak 1.
+
+U Zakonu o tajnosti podataka (»Narodne novine«, br. 79/07.) u članku 20. stavak 1. mijenja se i glasi:
+
+»Pristup klasificiranim podacima bez certifikata imat će u okviru obavljanja poslova iz njihovog djelokruga državni dužnosnici određeni odredbama Zakona o sustavu državne uprave, zastupnici u Hrvatskome saboru, pučki pravobranitelj, suci, Glavni državni odvjetnik, zamjenici Glavnog državnog odvjetnika, ravnatelj Ureda za suzbijanje korupcije i organiziranog kriminaliteta te zamjenici ravnatelja Ureda za suzbijanje korupcije i organiziranog kriminaliteta.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
+
+Klasa: 804-04/12-01/01
+
+Zagreb, 13. srpnja 2012.
+
+HRVATSKI SABOR
+
+Potpredsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

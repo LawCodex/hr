@@ -6,14 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2002-02-27
-last_amended: 2006-10-11
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2010-02-10
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "18/02, 12/05, 111/06"
+narodne_novine: "18/02, 12/05, 111/06, 19/10"
 amendments:
   - "NN 12/2005 (196) Uredba o izmjeni i dopunama Uredbe o osnivanju Ureda za suzbijanje zlouporabe opojnih droga"
   - "NN 111/2006 (2454) Uredba o izmjenama i dopunama Uredbe o osnivanju Ureda za suzbijanje zlouporabe opojnih droga"
+  - "NN 19/2010 (450) Uredba o izmjeni Uredbe o osnivanju Ureda za suzbijanje zlouporabe opojnih droga"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/419"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 18/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/419).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 12/2005, NN 111/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 12/2005, NN 111/2006, NN 19/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -245,4 +246,37 @@ Zagreb, 5. listopada 2006.
 
 Potpredsjednica Vlade  
 i ministrica obitelji, branitelja i međugeneracijske solidarnosti  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Ureda za suzbijanje zlouporabe opojnih droga (NN 19/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/450*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 26. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009), članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99, 15/2000, 127/2000, 59/2001, 199/2003 i 79/2007) i članka 7. Zakona o suzbijanju zlouporabe droga (»Narodne novine«, br. 107/2001, 87/2002, 163/2003, 141/2004, 40/2007 i 149/2009), Vlada Republike Hrvatske je na sjednici održanoj 4. veljače 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU UREDA ZA SUZBIJANJE ZLOUPORABE OPOJNIH DROGA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Ureda za suzbijanje zlouporabe opojnih droga (»Narodne novine«, br. 18/2002, 12/2005 i 111/2006), u nazivu i cijelom tekstu, riječi: »opojna droga« u odgovarajućem broju i padežu zamjenjuju se riječju: »droga« u odgovarajućem broju i padežu.
+
+### Članak 2.
+
+Predstojnik Ureda, uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za službeničke odnose, uskladit će Pravilnik o unutarnjem redu Ureda s ovom Uredbom u roku od 15 dana od dana njezina stupanja na snagu.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/10-01/01
+
+Urbroj: 5030121-10-1
+
+Zagreb, 4. veljače 2010.
+
+Predsjednica  
 Jadranka Kosor, dipl. iur., v. r.

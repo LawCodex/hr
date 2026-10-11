@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-09-13
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "94/07"
-amendments: []
+last_amended: 2013-09-25
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "94/07, 119/13"
+amendments:
+  - "NN 119/2013 (2537) Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/94/2821"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici
 
 > Izvor: Narodne novine, NN 94/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/94/2821).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -137,3 +141,74 @@ Zagreb, 7. rujna 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici (NN 119/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2537*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004, 174/2004, 2/2007 – Odluka Ustavnog suda Republike Hrvatske, 46/2007, 45/2009, 63/2011 i 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 19. rujna 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O OSNIVANJU VISOKE ŠKOLE ZA MENADŽMENT U TURIZMU I INFORMATICI U VIROVITICI**
+
+### Članak 1.
+
+U Uredbi o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici (»Narodne novine«, broj 94/2007), u članku 3. alineja 3. mijenja se i glasi:
+
+»– ustrojavanje i izvođenje obrazovnih programa koji se ne smatraju studijem u smislu Zakona o znanstvenoj djelatnosti i visokom obrazovanju te se temelje na načelima cjeloživotnog učenja;«.
+
+### Članak 2.
+
+U članku 6. stavku 2. alineji 6. riječ: »suglasnost« zamjenjuje se riječju: »potvrdu«.
+
+### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»Upravno vijeće ima pet članova koji se imenuju, odnosno biraju sukladno odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju. Predsjednika Upravnog vijeća biraju članovi između sebe. Dekan sudjeluje u radu Upravnog vijeća bez prava glasovanja.
+
+Članovi Upravnog vijeća mogu se razriješiti i prije isteka vremena na koji su imenovani, odnosno izabrani.
+
+Način rada i odlučivanja Upravnog vijeća utvrđuje se Statutom Škole.«.
+
+### Članak 4.
+
+U članku 8. stavak 2. mijenja se i glasi:
+
+»Za dekana, putem javnog natječaja, može biti izabrana osoba u znanstveno-nastavnom zvanju, nastavnom zvanju profesora visoke škole ili višeg predavača. Dekan se bira i razrješava sukladno odredbama Zakona znanstvenoj djelatnosti i visokom obrazovanju i Zakona o ustanovama, na način i u postupku utvrđenom Statutom Škole. Rok do kojeg se primaju prijave kandidata ne može biti kraći od trideset dana od dana objave natječaja, a rok u kojem se kandidati obavještavaju o izboru ne može biti dulji od četrdeset i pet dana od dana isteka roka za podnošenje prijava.«.
+
+Stavak 3. briše se.
+
+Iza dosadašnjeg stavka 4. koji postaje stavak 3. dodaje se novi stavak 4. koji glasi:
+
+»Za akademska pitanja dekan je odgovoran Stručnom vijeću, a za zakonitost rada financijskog poslovanja i racionalne uporabe materijalnih i kadrovskih resursa Upravnom vijeću.«.
+
+### Članak 5.
+
+U članku 9. stavku 2. riječi: »1.000.000 kuna« zamjenjuju se riječima: »petsto tisuća kuna«.
+
+### Članak 6.
+
+U članku 10. stavak 2. mijenja se i glasi:
+
+»Stručno vijeće Škole čine nastavnici, suradnici, studenti i jedan predstavnik zaposlenika, u skladu sa Statutom Škole.«.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-03/107
+
+Urbroj: 50301-04/12-13-24
+
+Zagreb, 19. rujna 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.

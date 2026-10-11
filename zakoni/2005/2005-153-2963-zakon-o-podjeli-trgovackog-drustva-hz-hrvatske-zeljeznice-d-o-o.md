@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-12-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "153/05"
-amendments: []
+last_amended: 2012-05-23
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "153/05, 57/12"
+amendments:
+  - "NN 57/2012 (1411) Zakon o dopuni Zakona o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o."
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2963"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o podjeli trgovačkog društva HŽ - Hrvatske željeznice d.o.o.
 
 > Izvor: Narodne novine, NN 153/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2963).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -128,3 +132,53 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o. (NN 57/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/57/1411*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PODJELI TRGOVAČKOG DRUŠTVA  
+HŽ-HRVATSKE ŽELJEZNICE d.o.o.
+
+Proglašavam Zakon o dopuni Zakona o podjeli trgovačkog društva HZ-Hrvatske željeznice d.o.o., koji je Hrvatski sabor donio na sjednici 11. svibnja 2012. godine.
+
+Klasa: 011-01/12-01/59  
+Urbroj: 71-05-03/1-12-2  
+Zagreb, 15. svibnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PODJELI TRGOVAČKOG DRUŠTVA HŽ-HRVATSKE ŽELJEZNICE d.o.o.**
+
+### Članak 1.
+
+U Zakonu o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o. (»Narodne novine«, br. 153/05.) u članku 1. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Trgovačka društva iz stavka 1. ovoga članka mogu se, uz prethodnu suglasnost Vlade Republike Hrvatske, dijeliti, pripajati, spajati te provoditi druge statusne promjene sukladno odredbama Zakona o trgovačkim društvima.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 341-01/12-01/01  
+Zagreb, 11. svibnja 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.

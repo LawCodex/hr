@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-04-01
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "42/05"
-amendments: []
+last_amended: 2010-02-12
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "42/05, 20/10"
+amendments:
+  - "NN 20/2010 (488) Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/812"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o proizvodnji, distribuciji i opskrbi toplinskom energijom
 
 > Izvor: Narodne novine, NN 42/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/812).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 20/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -463,3 +467,297 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom (NN 20/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/488*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROIZVODNJI, DISTRIBUCIJI I OPSKRBI TOPLINSKOM ENERGIJOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom, koji je Hrvatski sabor donio na sjednici 29. siječnja 2010. godine.
+
+Klasa: 011-01/10-01/05
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 4. veljače 2010.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROIZVODNJI, DISTRIBUCIJI I OPSKRBI TOPLINSKOM ENERGIJOM**
+
+### Članak 1.
+
+U Zakonu o proizvodnji, distribuciji i opskrbi toplinskom energijom (»Narodne novine«, br. 42/05.) u članku 1. dodaje se stavak 2. koji glasi:
+
+»(2) Na pitanja obavljanja energetskih djelatnosti iz stavka 1. ovoga članka koja nisu uređena ovim Zakonom primjenjuju se odredbe Zakona o energiji, Zakona o regulaciji energetskih djelatnosti i Zakona o koncesijama.«
+
+### Članak 2.
+
+U članku 2. stavku 2. točka 1. mijenja se i glasi:
+
+»1. distribucijsko područje – područje ili dio područja jedinice lokalne samouprave za koje se daje koncesija za distribuciju toplinske energije ili koncesija za izgradnju energetskih objekata za distribuciju toplinske energije,«.
+
+### Članak 3.
+
+U članku 4. stavku 2. iza riječi: »način« dodaju se riječi: »ili prema pravilima kojima se uređuju tržišni odnosi«.
+
+### Članak 4.
+
+U članku 7. stavku 1. iza riječi: »pravna« dodaju se riječi: »ili fizička«.
+
+### Članak 5.
+
+U članku 12. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Pravo obavljanja energetske djelatnosti distribucije toplinske energije stječe se na temelju koncesije za distribuciju toplinske energije ili koncesije za izgradnju energetskih objekata za distribuciju toplinske energije i dozvole za obavljanje energetske djelatnosti distribucije toplinske energije.
+
+(2) Koncesija za distribuciju toplinske energije je koncesija za javne usluge u smislu Zakona o koncesijama, a koncesija za izgradnju energetskih objekata za distribuciju toplinske energije je koncesija za javne radove u smislu Zakona o koncesijama.«
+
+### Članak 6.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Za područje ili dio područja jedinice lokalne samouprave gdje postoje energetski objekti za distribuciju toplinske energije, predstavničko tijelo jedinice lokalne samouprave, u ime jedinice lokalne samouprave, daje koncesiju za distribuciju toplinske energije za obavljanje djelatnosti distribucije toplinske energije, koja može sadržavati uzgredne radove koji su posljedica obavljanja te djelatnosti ili je nadopunjuju.
+
+(2) Za područje ili dio područja jedinice lokalne samouprave gdje ne postoje energetski objekti za distribuciju toplinske energije, predstavničko tijelo jedinice lokalne samouprave, u ime jedinice lokalne samouprave, daje koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije.«
+
+### Članak 7.
+
+Članak 14. mijenja se i glasi:
+
+»Uz pripremne radnje za davanje koncesije propisane Zakonom o koncesijama, pripremnom radnjom za davanje koncesije za izgradnju energetskih objekata za distribuciju toplinske energije u smislu ovoga Zakona, smatra se ishođenje lokacijske dozvole za priključak kojim se energetski objekt za proizvodnju toplinske energije i/ili energetski objekt kogeneracije priključuje na distribucijsku mrežu.«
+
+### Članak 8.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Davatelj koncesije svoju namjeru za davanje koncesije za distribuciju toplinske energije ili koncesije za izgradnju energetskih objekata za distribuciju toplinske energije obznanjuje putem obavijesti.
+
+(2) Obavijest o namjeri davanja koncesije za distribuciju toplinske energije ili koncesije za izgradnju energetskih objekata za distribuciju toplinske energije mora sadržavati sljedeće podatke:
+
+1. Naziv, adresu, telefonski broj, broj faksa i adresu elektroničke pošte jedinice lokalne samouprave;
+
+2. a) Predmet koncesije,
+
+b) Prirodu i opseg djelatnosti koncesije,
+
+c) Mjesto (područje) obavljanja djelatnosti koncesije,
+
+d) Rok trajanja koncesije;
+
+3. a) Rok za predaju ponuda,
+
+b) Adresu na koju se moraju poslati ponude,
+
+c) Jezik/jezike i pismo/pisma na kojima ponude moraju biti napisane;
+
+4. Osobne, stručne, tehničke i financijske uvjete kojima moraju udovoljavati ponuditelji te isprave kojima se dokazuje njihovo ispunjenje;
+
+5. Kriterije koji će se primijeniti za odabir najpovoljnijeg ponuditelja;
+
+6. Datum otpreme obavijesti;
+
+7. Adresu na kojoj se može preuzeti dokumentacija za nadmetanje;
+
+8. Naziv i adresu tijela nadležnog za rješavanje žalbe te podatke o rokovima za podnošenje žalbe.
+
+(3) Obavijest o namjeri davanja koncesije za distribuciju toplinske energije ili koncesije za izgradnju energetskih objekata za distribuciju toplinske energije sadrži podatak o vrsti postupka na temelju kojega se provodi davanje koncesije.
+
+(4) Obavijest o namjeri davanja koncesije za distribuciju toplinske energije ili koncesije za izgradnju energetskih objekata za distribuciju toplinske energije objavljuje se u »Narodnim novinama«, a nakon toga, neizmijenjenog sadržaja, može biti objavljena i u ostalim sredstvima javnog priopćavanja i na web-stranici jedinice lokalne samouprave, s navedenim datumom objave u »Narodnim novinama«.
+
+### Članak 9.
+
+Članak 16. mijenja se i glasi:
+
+»Rok za dostavu ponude iznosi najmanje 30 dana od dana objave obavijesti o namjeri davanja koncesije u »Narodnim novinama«.«
+
+### Članak 10.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Kriteriji na kojima davatelj koncesije za distribuciju toplinske energije temelji odabir ekonomski najpovoljnije ponude jesu:
+
+1. kvaliteta distribucije toplinske energije, koja se sastoji od kvalitete usluga i pouzdanosti isporuke toplinske energije propisanih Općim uvjetima za opskrbu toplinskom energijom,
+
+2. procijenjeni godišnji iznos naknade za koncesiju na temelju Uredbe o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije,
+
+3. ukupna cijena ponude iz dokumentacije za nadmetanje, a koja se odnosi na obavljanje energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom,
+
+4. ponuđeno tehničko dostignuće na temelju tehničkih specifikacija iz dokumentacije za nadmetanje,
+
+5. estetske, funkcionalne i ekološke osobine iz dokumentacije za nadmetanje,
+
+6. operativni troškovi za obavljanje energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom prema strukturi iz Tarifnog sustava za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom,
+
+7. ekonomičnost, koja se određuje kao ostvarivanje planiranih poslovnih ciljeva uz što manje operativne troškove i nižu ukupnu cijenu ponude iz dokumentacije za nadmetanje,
+
+8. upravljanje, nadzor, vođenje pogona i održavanje energetskih objekata za distribuciju toplinske energije sukladno zakonskim i podzakonskim propisima koji se odnose na obavljanje energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom i
+
+9. sposobnost za ostvarivanje koncesije koja ukazuje na dugoročnu održivost ponuditelja za vrijeme trajanja ugovora o koncesiji u predviđenom razdoblju.
+
+(2) Kriteriji na kojima davatelj koncesije za izgradnju energetskih objekata za distribuciju toplinske energije temelji odabir ekonomski najpovoljnije ponude jesu:
+
+1. kvaliteta radova i opreme na izgradnji energetskih objekata za distribuciju toplinske energije, koja omogućuje osiguranje kvalitete usluga i pouzdanosti isporuke toplinske energije propisanih Općim uvjetima za opskrbu toplinskom energijom,
+
+2. procijenjeni godišnji iznos naknade za koncesiju na temelju Uredbe o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije,
+
+3. ukupna cijena ponude iz dokumentacije za nadmetanje, a koja se odnosi na izgradnju energetskih objekata za distribuciju toplinske energije,
+
+4. ponuđeno tehničko dostignuće na temelju tehničkih specifikacija iz dokumentacije za nadmetanje,
+
+5. estetske, funkcionalne i ekološke osobine iz dokumentacije za nadmetanje,
+
+6. planirani operativni troškovi za obavljanje energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom prema strukturi iz Tarifnog sustava za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom,
+
+7. ekonomičnost, koja se određuje kao ostvarivanje planiranih poslovnih ciljeva uz što manje operativne troškove i nižu ukupnu cijenu ponude iz dokumentacije za nadmetanje,
+
+8. upravljanje, nadzor, vođenje pogona i održavanje energetskih objekata za distribuciju toplinske energije sukladno zakonskim i podzakonskim propisima koji se odnose na obavljanje energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom,
+
+9. terminski plan izvođenja radova i/ili rokovi završetka radova na izgradnji energetskih objekata za distribuciju toplinske energije te datum početka obavljanja energetske djelatnosti distribucije toplinske energije i
+
+10. sposobnost za ostvarivanje koncesije koja ukazuje na dugoročnu održivost ponuditelja za vrijeme trajanja ugovora o koncesiji u predviđenom razdoblju.«.
+
+### Članak 11.
+
+Članak 18. mijenja se i glasi:
+
+»(1) Ugovorom o koncesiji određuju se prava i obveze davatelja koncesije i koncesionara u skladu s odredbama Zakona o koncesijama i ovoga Zakona.
+
+(2) Ugovor o koncesiji iz stavka 1. ovoga članka sadrži:
+
+1. predmet koncesije,
+
+2. mjesto (područje) obavljanja djelatnosti koncesije,
+
+3. način i opseg obavljanja djelatnosti koncesije,
+
+4. odredbu da se cijena za obavljanje energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom utvrđuje sukladno odredbama Zakona o energiji i ovoga Zakona,
+
+5. kapacitet energetskih objekata za distribuciju toplinske energije,
+
+6. broj priključenih i predviđenih kupaca na distribucijskoj mreži,
+
+7. rok na koji se daje koncesija,
+
+8. rok za priključenje na distribucijsku mrežu sukladno odredbama Općih uvjeta za opskrbu toplinskom energijom i Pravilnika o naknadi za priključenje na toplinsku distribucijsku mrežu i za povećanje priključne snage,
+
+9. osnova za utvrđivanje iznosa naknade za koncesiju koju će koncesionar plaćati, prema Uredbi o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije,
+
+10. način plaćanja naknade za koncesiju,
+
+11. potrebna jamstva i/ili instrumente osiguranja naplate naknade za koncesiju te naknade moguće štete nastale zbog neispunjenja obveza iz ugovora o koncesiji,
+
+12. odredbe o dozvoli za obavljanje energetske djelatnosti distribucije toplinske energije,
+
+13. odabranu ponudu ponuditelja,
+
+14. posebna prava i obveze koncesionara i davatelja koncesije,
+
+15. prestanak koncesije i
+
+16. način rješavanja sporova.
+
+(3) Dozvolu za obavljanje energetske djelatnosti distribucije toplinske energije iz stavka 2. točke 12. ovoga članka odabrani ponuditelj, s kojim davatelj koncesije namjerava sklopiti ugovor o koncesiji za distribuciju toplinske energije, za distribucijsko područje gdje postoje energetski objekti za distribuciju toplinske energije, dužan je pribaviti prije zaključenja ugovora o koncesiji.
+
+(4) Dozvolu za obavljanje energetske djelatnosti distribucije toplinske energije iz stavka 2. točke 12. ovoga članka koncesionar iz ugovora o koncesiji za izgradnju energetskih objekata za distribuciju toplinske energije, za distribucijsko područje gdje ne postoje energetski objekti za distribuciju toplinske energije, dužan je pribaviti do početka obavljanja energetske djelatnosti distribucije toplinske energije.«
+
+### Članak 12.
+
+Članak 19. mijenja se i glasi:
+
+»Osim slučajeva za jednostrani raskid ugovora o koncesiji propisanih Zakonom o koncesijama, davatelj koncesije može jednostrano raskinuti ugovor o koncesiji i u sljedećim slučajevima:
+
+1. ako koncesionar nije ishodio dozvolu za obavljanje energetske djelatnosti distribucije toplinske energije u roku predviđenom ugovorom o koncesiji,
+
+2. ako je koncesionaru trajno oduzeta dozvola za obavljanje energetske djelatnosti distribucije toplinske energije prije isteka njezinog važenja,
+
+3. ako koncesionar nije ishodio novu dozvolu za obavljanje energetske djelatnosti distribucije toplinske energije po prestanku važenja ranije dozvole,
+
+4. ako koncesionar prenese dozvolu za obavljanje energetske djelatnosti distribucije toplinske energije na drugu pravnu osobu i
+
+5. ako je koncesionaru, na vlastiti zahtjev, prestala važiti dozvola za obavljanje energetske djelatnosti distribucije toplinske energije.«.
+
+### Članak 13.
+
+Iza članka 19. dodaju se članci 19.a i 19.b koji glase:
+
+»Članak 19.a
+
+(1) Koncesionar je dužan plaćati novčanu naknadu za koncesiju u iznosu i na način kako je to uređeno ugovorom o koncesiji.
+
+(2) Novčana naknada za koncesiju određuje se kao varijabilni iznos od prihoda koncesionara ostvarenog obavljanjem energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom u prethodnoj godini na distribucijskom području za koje se daje koncesija.
+
+(3) Iznimno od stavka 2. ovoga članka, koncesionaru koji nije obavljao energetsku djelatnost distribucije toplinske energije u prethodnoj godini na distribucijskom području za koje se daje koncesija, novčana naknada za koncesiju određuje se kao varijabilni iznos od prihoda koji koncesionar planira ostvariti obavljanjem energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom, prema ponudi koja je sastavni dio ugovora o koncesiji, za godinu u kojoj počinje obavljati energetsku djelatnost distribucije toplinske energije.
+
+(4) Vlada Republike Hrvatske, na prijedlog Ministarstva koje je pribavilo mišljenje Agencije, Uredbom o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije određuje visinu i način plaćanja naknade za koncesiju.
+
+(5) Naknada za koncesiju prihod je proračuna jedinice lokalne samouprave.
+
+### Članak 19.b
+
+Koncesija za distribuciju toplinske energije i koncesija za izgradnju energetskih objekata za distribuciju toplinske energije daje se za razdoblje od najmanje 20 godina do najviše 30 godina.«
+
+### Članak 14.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Primjenom Tarifnog sustava za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom određuje se cijena proizvodnje, distribucije i opskrbe toplinskom energijom.
+
+(2) Primjenom Tarifnog sustava za usluge energetskih djelatnosti proizvodnje i opskrbe toplinskom energijom određuje se cijena proizvodnje i opskrbe toplinskom energijom.
+
+(3) Tarifnim sustavima iz stavka 1. i 2. ovoga članka utvrđuje se na jedinstven način za cijelo područje Republike Hrvatske vrsta korisnika s obzirom na ogrjevni medij, razdoblje isporuke, količina i dinamika potrošnje toplinske energije te tarifne stavke za obračun cijene toplinske energije.
+
+(4) Visina tarifnih stavki u Tarifnom sustavu iz stavka 1. ovoga članka ovisi o troškovima proizvodnje, distribucije i opskrbe toplinskom energijom distribucijskog područja.
+
+(5) Visina tarifnih stavki u Tarifnom sustavu iz stavka 2. ovoga članka ovisi o troškovima proizvodnje i opskrbe toplinskom energijom.«
+
+### Članak 15.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»(1) Pravo obavljanja energetske djelatnosti opskrbe toplinskom energijom tarifnih kupaca ima onaj energetski subjekt kojem je dana koncesija za distribuciju toplinske energije ili koncesija za izgradnju energetskih objekata za distribuciju toplinske energije, pod uvjetom da je od Agencije prethodno dobio dozvolu za obavljanje energetske djelatnosti opskrbe toplinskom energijom.«
+
+### Članak 16.
+
+U članku 32. stavku 1. podstavak 4. briše se.
+
+Dosadašnji podstavci 5. do 8. postaju podstavci 4. do 7.
+
+U dosadašnjem podstavku 9. koji postaje podstavak 8. riječi: »stavak 2.« brišu se.
+
+Dosadašnji podstavci 10. do 13. postaju podstavci 9. do 12.
+
+### Članak 17.
+
+(1) Vlada Republike Hrvatske će donijeti Uredbu o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Agencija će donijeti Tarifni sustav za usluge energetskih djelatnosti proizvodnje i opskrbe toplinskom energijom u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 363-01/09-01/03
+
+Zagreb, 29. siječnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

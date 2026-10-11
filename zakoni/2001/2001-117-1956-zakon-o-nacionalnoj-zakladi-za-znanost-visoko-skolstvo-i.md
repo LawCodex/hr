@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-12-24
+last_amended: 2009-04-10
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "117/01"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "117/01, 45/09"
+amendments:
+  - "NN 45/2009 (1032) Zakon o izmjenama i dopunama Zakona o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1956"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske
 
 > Izvor: Narodne novine, NN 117/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1956).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 45/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -228,3 +232,149 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske (NN 45/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/45/1032*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O NACIONALNOJ ZAKLADI ZA ZNANOST, VISOKO ŠKOLSTVO I TEHNOLOGIJSKI RAZVOJ REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 3. travnja 2009. godine.
+
+Klasa: 011-01/09-01/67
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 6. travnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O NACIONALNOJ ZAKLADI ZA ZNANOST, VISOKO ŠKOLSTVO I TEHNOLOGIJSKI RAZVOJ REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske (»Narodne novine«, br. 117/01.), u članku 2. stavak 3. mijenja se i glasi:
+
+»(3) Sjedište Zaklade je u Zagrebu, a radi učinkovitijeg obavljanja poslova iz djelokruga Zaklade ustrojavaju se uredi u Splitu, Rijeci i Osijeku čije se ustrojstvo i djelokrug uređuju općim aktom Zaklade.«
+
+#### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Zaklada se osniva s temeljnom svrhom razvoja znanosti, visokog školstva i tehnologijskog razvoja u Republici Hrvatskoj s krajnjim ciljem osiguravanja društvenog i gospodarskog razvoja i poticanja zapošljavanja.
+
+(2) Radi ostvarivanja svoje temeljne svrhe, Zaklada osigurava financijsku potporu znanstvenih, visokoobrazovnih i tehnologijskih programa i projekata te potporu međunarodne suradnje na području znanosti i visokog školstva. Potpora uključuje i financiranje temeljnih, primijenjenih i razvojnih znanstvenih istraživanja na temama od strateških potreba za Republiku Hrvatsku.
+
+(3) Zaklada dodjeljuje stipendije poslijediplomandima, poslijedoktorandima te stručnjacima u gospodarstvu i stručnjacima u znanstvenim i visokoškolskim ustanovama Republike Hrvatske.
+
+(4) Zaklada raspisuje natječaje za znanstvene projekte i programe u skladu s nacionalnim strateškim dokumentima za razvoj znanosti, na temelju kojih provodi postupak prijave, vrednovanja, nadzora i evaluacije financiranih projekata i kolaborativnih znanstvenih programa.
+
+(5) Uvjeti i postupak prijavljivanja, vrednovanja i donošenja odluka za financiranje znanstvenih projekata i programa utvrđuju se pravilnikom o uvjetima i postupku za dodjelu sredstava za ostvarivanje svrhe Zaklade.«
+
+#### Članak 3.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Tijela Zaklade su Upravni odbor i ostala tijela određena statutom Zaklade.
+
+(2) Članovi zakladnih tijela moraju poslove Zaklade voditi savjesno, u skladu s odredbama ovoga Zakona i drugih propisa, statuta i drugih općih akata Zaklade.
+
+(3) Članovi zakladnih tijela ne mogu se prijaviti niti sudjelovati u projektima i programima Zaklade za vrijeme njihovog članstva u zakladnim tijelima te godinu dana po završetku članstva.
+
+(4) Članovi zakladnih tijela ne mogu biti članovi drugih najviših stručnih tijela koja se brinu za razvitak i kvalitetu cjelokupnog sustava znanosti i visokog obrazovanja, zaposlenici ministarstva nadležnog za znanost i visoko obrazovanje, rektori sveučilišta, dekani fakulteta i ravnatelji znanstvenih instituta.
+
+(5) Članovi Upravnog odbora i drugih zakladnih tijela dužni su prijaviti svako postojanje sukoba interesa u odnosu na projekte koji sudjeluju u natječajnom postupku, sukladno općem aktu o sprječavanju sukoba interesa koji donosi Upravni odbor.«
+
+#### Članak 4.
+
+U članku 5. stavku 2. podstavak 2. mijenja se i glasi:
+
+»– javnih znanstvenih instituta, koji predlažu Hrvatskom saboru člana Upravnog odbora Zaklade na način propisan općim aktom Zaklade«.
+
+Podstavci 4. i 5. mijenjaju se i glase:
+
+»– nacionalnog vijeća za područje znanosti i
+
+– nacionalnog vijeća za područje visokog obrazovanja.«
+
+#### Članak 5.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»(1) Upravni odbor Zaklade donosi statut Zaklade, poslovnik o svom radu, pravilnik o uvjetima i postupku dodjele sredstava za ostvarivanje svrhe Zaklade, donosi odluke o dodjeli sredstava, upravlja i nadzire vođenje poslova Zaklade, odlučuje o korištenju imovine Zaklade, podnosi izvješća o radu Zaklade te obavlja druge poslove sukladno zakonu i statutu Zaklade.«
+
+Dodaje se novi stavak 2. koji glasi:
+
+»(2) Upravni odbor Zaklade donosi Strateški plan Zaklade u kojem se na višegodišnjoj razini razrađuju ciljevi i programi.«
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 6.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»(1) Osnovnu imovinu Zaklade čini iznos od 10.000.000,00 kuna.«
+
+U stavku 2. broj stavka (3) zamjenjuje se brojem (2).
+
+Stavak 3. briše se.
+
+#### Članak 7.
+
+U članku 12. stavak 1. mijenja se i glasi:
+
+»(1) Zaklada se financira iz prihoda od osnovne imovine, iz državnoga proračuna, darovnica, ovim Zakonom propisanih prihoda i drugih prihoda.«
+
+#### Članak 8.
+
+U članku 16. stavak 2. mijenja se i glasi:
+
+(2) Pod drugim prihodima smatra se i 1% udjela u dobiti od komercijalizacije znanstvenih ili tehnologijskih otkrića financiranih od Republike Hrvatske ili ustanove osnovane od Republike Hrvatske. Za slučaj kada Zaklada financira istraživanja, postotak budućeg udjela u dobiti od intelektualnog vlasništva proisteklog iz znanstvenog ili tehnologijskog otkrića, utvrđuje se posebnim ugovorom sklopljenim između nositelja projekta i Zaklade.«
+
+#### Članak 9.
+
+U cijelom tekstu Zakona o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske (»Narodne novine«, br. 117/01.) riječi »Ministarstvo znanosti i tehnologije« zamjenjuju se riječima: »ministarstvo nadležno za znanost i visoko obrazovanje« u odgovarajućem padežu, a riječi: »ministar znanosti i tehnologije« zamjenjuju se riječima: »ministar nadležan za znanost i visoko obrazovanje« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 10.
+
+(1) Upravni odbor Zaklade obvezan je u roku od mjesec dana od dana stupanja na snagu ovoga Zakona uskladiti statut Zaklade sukladno odredbama ovoga Zakona i dostaviti ga na suglasnost ministarstvu nadležnom za znanost i visoko obrazovanje.
+
+(2) Nakon dobivanja suglasnosti ministarstva nadležnog za znanost i visoko obrazovanje Upravni odbor je obvezan u daljnjem roku od 15 dana podnijeti statut Zaklade na odobrenje Središnjem državnom uredu za upravu.
+
+(3) Upravni odbor Zaklade obvezan je u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona donijeti ostale opće akte Zaklade predviđene ovim Zakonom i statutom Zaklade te ih dostaviti na suglasnost ministarstvu nadležnom za znanost i visoko obrazovanje.
+
+#### Članak 11.
+
+(1) Danom stupanja na snagu ovoga Zakona prestaje važiti članak 111. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07.-Odluka USRH i 46/07.).
+
+(2) Natječajni postupci za financiranje znanstvenih projekata i programa, započeti sukladno članku 111. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 02/07. – Odluka USRH i 46/07.) završit će se prema odredbama toga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 643-02/09-01/01
+
+Zagreb, 3. travnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

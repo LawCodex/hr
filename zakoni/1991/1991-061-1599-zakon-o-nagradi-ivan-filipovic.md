@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1991-11-19
+last_amended: 2009-12-15
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1991; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "61/91"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "61/91, 149/09"
+amendments:
+  - "NN 149/2009 (3638) Zakon o izmjenama Zakona o \"Nagradi Ivan Filipović\""
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1599"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o "Nagradi Ivan Filipović"
 
 > Izvor: Narodne novine, NN 61/1991 (https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1599).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 149/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -114,3 +118,85 @@ Luka Bebić, v. r.
 Predsjednik Društveno-političkog vijeća
 
 Vice Vukojević, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o "Nagradi Ivan Filipović" (NN 149/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/149/3638*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O »NAGRADI IVAN FILIPOVIĆ«
+
+Proglašavam Zakon o izmjenama Zakona o »Nagradi Ivan Filipović«, koji je Hrvatski sabor donio na sjednici 4. prosinca 2009. godine.
+
+Klasa: 011-01/09-01/205
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 9. prosinca 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O »NAGRADI IVAN FILIPOVIĆ«**
+
+### Članak 1.
+
+U Zakonu o »Nagradi Ivan Filipović« (»Narodne novine«, br. 61/91.) članak 2. mijenja se i glasi:
+
+»Nagrada se dodjeljuje kao godišnja nagrada i kao nagrada za životno djelo.
+
+Svake godine mogu se dodijeliti dvije nagrade za životno djelo i do 15 godišnjih nagrada.«
+
+### Članak 2.
+
+U članku 3. riječ: »djelatnik« zamjenjuje se riječju: »radnik« u odgovarajućem broju i padežu.
+
+### Članak 3.
+
+U članku 6. stavku 3. riječi: »Sabor Republike Hrvatske« zamjenjuju se riječima: »Hrvatski sabor«.
+
+### Članak 4.
+
+U članku 7. stavku 1. riječi: »Ministar prosvjete, kulture i športa« zamjenjuju se riječima: »Ministar nadležan za obrazovanje (u daljnjem tekstu: ministar)«.
+
+U stavku 2. riječi: »Sabora Republike Hrvatske« zamjenjuju se riječima: »Hrvatskoga sabora«.
+
+### Članak 5.
+
+U članku 9. stavku 1. riječi: »proračunu Republike« zamjenjuju se riječima: »državnom proračunu Republike Hrvatske«.
+
+U stavku 2. riječi: »Ministarstvu prosvjete, kulture i športa« zamjenjuju se riječima: »ministarstvu nadležnom za obrazovanje (u daljnjem tekstu: Ministarstvo)«.
+
+U stavku 3. iza riječi: »ministra« riječi: »prosvjete, kultura i športa« brišu se.
+
+U stavku 5. iza riječi: »ministar« riječi: »prosvjete, kultura i športa« brišu se.
+
+### Članak 6.
+
+U članku 10. iza riječi: »Ministarstvo« riječi: »prosvjete, kulture i športa« brišu se.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 061-01/09-01/01
+
+Zagreb, 4. prosinca 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

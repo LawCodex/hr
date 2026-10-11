@@ -6,13 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2008-06-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2014-03-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 67/08"
+narodne_novine: "173/03, 67/08, 36/09, 130/11, 30/14"
 amendments:
   - "NN 67/2008 (2228) Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini"
+  - "NN 36/2009 (796) Zakon o izmjeni Zakona o elektroničkoj trgovini"
+  - "NN 130/2011 (2611) Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini"
+  - "NN 30/2014 (509) Zakon o izmjeni Zakona o elektroničkoj trgovini"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2504"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2504).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2008, NN 36/2009, NN 130/2011, NN 30/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -553,3 +556,189 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o elektroničkoj trgovini (NN 36/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/36/796*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ELEKTRONIČKOJ TRGOVINI
+
+Proglašavam Zakon o izmjeni Zakona o elektroničkoj trgovini, kojega je Hrvatski sabor donio na sjednici 13. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/32
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 19. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ELEKTRONIČKOJ TRGOVINI**
+
+### Članak 1.
+
+U Zakonu o elektroničkoj trgovini (»Narodne novine«, br. 173/03. i 67/08.) u članku 4. stavak 2. mijenja se i glasi:
+
+»(2) Iznimno, stavak 1. ovoga članka ne primjenjuje se na subjekte iz stavka 1. ovoga članka, u sljedećim područjima:
+
+– autorsko pravo i srodna prava, kao i prava industrijskog vlasništva,
+
+– emisija elektroničkog novca ako je to kao iznimka propisano,
+
+– u područjima uređenim posebnim propisima o tržištu kapitala u skladu sa člankom 44. stavkom 2. Direktive Vijeća broj 85/611/EEZ od 20. prosinca 1985. o usklađivanju zakona, propisa i administrativnih odredbi koje se odnose na društva za zajednička ulaganja u prenosive vrijednosne papire (UCITS),
+
+– u područjima uređenim posebnim propisom o osiguranju u skladu sa člankom 30. i Glavom IV. Direktive Vijeća 92/49/EEZ od 18. lipnja 1992. o usklađivanju zakona, propisa i administrativnih odredbi, koja se odnosi na direktno neživotno osiguranje te kojom se vrše izmjene i dopune Direktive 73/239/EEZ i Direktive 88/357/EEZ, člancima 7. i 8. Druge Direktive Vijeća 88/357/EEZ od 22. lipnja 1988. o usklađivanju zakona, propisa i administrativnih odredbi, koja se odnosi na direktno neživotno osiguranje te koja utvrđuje odredbe koje će olakšati učinkovito ostvarivanje slobode pružanja usluga i kojom se vrši izmjena i dopuna direktive 73/239/EEZ, člankom 4. Direktive 90/619/EEZ o koordinaciji zakona, propisa i administrativnih odredbi koje se odnose na izravno životno osiguranje, koja predviđa odredbe kako bi se omogućilo djelotvorno ostvarivanje slobode pružanja usluga i koja mijenja Direktivu 79/267/EEZ, glavom IV Direktive 92/96/EEZ o koordinaciji zakona, propisa i administrativnih odredbi koje se odnose na izravno životno osiguranje i koja mijenja direktive 79/267/EEZ i 90/619/EEZ,
+
+– formalnu valjanost u vezi s oblikom ugovora kojima se stvaraju ili prenose prava vezana uz nekretnine, kad takvi ugovori podliježu obveznim formalnim zahtjevima prema posebnim propisima,
+
+– ugovorne obveze iz i u vezi s potrošačkim ugovorima,
+
+– sloboda ugovornih strana na izbor prava primjenjiva na njihov ugovor,
+
+– dopustivost netraženih komercijalnih priopćenja elektroničkom poštom.«
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 330-01/09-01/03
+
+Zagreb, 13. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini (NN 130/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2611*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKOJ TRGOVINI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini, koji je Hrvatski sabor donio na sjednici 28. listopada 2011. godine.
+
+Klasa: 011-01/11-01/218
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 4. studenoga 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKOJ TRGOVINI**
+
+### Članak 1.
+
+U Zakonu o elektroničkoj trgovini (»Narodne novine«, br. 173/03., 67/08. i 36/09.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu s Direktivom 2000/31/EZ Europskog parlamenta i Vijeća od 8. lipnja 2000. o pojedinim pravnim aspektima usluga informacijskog društva na unutarnjem tržištu, posebice elektroničke trgovine (»Direktiva o elektroničkoj trgovini«).«.
+
+### Članak 2.
+
+U članku 5. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Od pravnog subjekta koji obavlja uslugu informacijskog društva za pružanje usluga ne smije se zahtijevati prethodno odobrenje ili ispunjenje uvjeta istoznačnog učinka.
+
+(3) Pravni subjekt koji se osniva i registrira pri nadležnom Trgovačkom sudu u Republici Hrvatskoj za obavljanje usluga informacijskog društva registrira djelatnost pod nazivom – usluge informacijskog društva.«.
+
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+
+»(4) Tržišna komunikacija koja je dio ili čini dio usluga informacijskog društva koju pruža član regulirane struke je dozvoljena uz uvjet poštovanja pravila struke koja se posebice odnose na neovisnost, dostojanstvo i integritet struke, kao i profesionalnu tajnu sukladno s posebnostima profesije.
+
+(5) Član regulirane struke koji pruža uslugu informacijskog društva će jamčiti da će tržišna komunikacija koja je dio ili čini dio usluga informacijskog društva biti dostupna korisniku usluge u dobroj vjeri, pravedno i na jasan i nedvosmislen način.
+
+(6) Profesionalna pravila o tržišnoj komunikaciji koja su dio ili čine dio usluga informacijskog društva moraju biti nediskriminirajuća, opravdana prevladavajućim kategorijama javnog interesa te razmjerna.«.
+
+### Članak 3.
+
+Naslov iznad članka 16. mijenja se i glasi: »Tehničko omogućavanje pristupa i prijenosa informacija na komunikacijskoj mreži«.
+
+### Članak 4.
+
+Naslov iznad članka 21. mijenja se i glasi: »Obveza nadzora«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 330-01/11-01/04
+
+Zagreb, 28. listopada 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o elektroničkoj trgovini (NN 30/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/30/509*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ELEKTRONIČKOJ TRGOVINI
+
+Proglašavam Zakon o izmjeni Zakona o elektroničkoj trgovini, koji je Hrvatski sabor donio na sjednici 21. veljače 2014. godine.
+
+Klasa: 011-01/14-01/53
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 24. veljače 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ELEKTRONIČKOJ TRGOVINI**
+
+#### Članak 1.
+
+U Zakonu o elektroničkoj trgovini (»Narodne novine«, br. 173/03., 67/08., 36/09. i 130/11.) u članku 22. stavku 1. riječi: »obavlja Državni inspektorat i inspektori nadležnog ministarstva u skladu s ovlastima utvrđenim zakonom« zamjenjuju se riječima: »obavljaju nadležni inspektori Ministarstva financija«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/12
+
+Zagreb, 21. veljače 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

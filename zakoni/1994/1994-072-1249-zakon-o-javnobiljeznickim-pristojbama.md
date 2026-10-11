@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-10-10
-last_amended: 1996-10-16
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
+last_amended: 2015-10-13
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "72/94, 87/96"
+narodne_novine: "72/94, 87/96, 112/12, 110/15"
 amendments:
   - "NN 87/1996 (1521) Zakon o izmjenama i dopunama Zakona o javnobilježničkim pristojbama"
+  - "NN 112/2012 (2426) Zakon o dopuni Zakona o javnobilježničkim pristojbama"
+  - "NN 110/2015 (2134) Zakon o izmjeni Zakona o javnobilježničkim pristojbama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/72/1249"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 72/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/72/1249).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 87/1996.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 87/1996, NN 112/2012, NN 110/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -672,3 +674,101 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o dopuni Zakona o javnobilježničkim pristojbama (NN 112/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2426*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O JAVNOBILJEŽNIČKIM PRISTOJBAMA
+
+Proglašavam Zakon o dopuni Zakona o javnobilježničkim pristojbama, koji je Hrvatski sabor donio na sjednici 28. rujna 2012. godine.
+
+Klasa: 011-01/12-01/115
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 4. listopada 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O JAVNOBILJEŽNIČKIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o javnobilježničkim pristojbama (»Narodne novine«, br. 72/94., 74/95. i 87/96.) u članku 10. stavku 1. točki 7. na kraju rečenice riječ: »i« briše se i stavlja se zarez.
+
+U točki 8. na kraju rečenice briše se točka i dodaje riječ: »i«.
+
+Iza točke 8. dodaje se točka 9. koja glasi:
+
+»9. osnivači jednostavnog društva s ograničenom odgovornošću.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 701-01/12-01/01
+
+Zagreb, 28. rujna 2012.
+
+HRVATSKI SABOR
+
+Potpredsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o javnobilježničkim pristojbama (NN 110/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2134*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA  
+O JAVNOBILJEŽNIČKIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjeni Zakona o javnobilježničkim pristojbama, koji je Hrvatski sabor donio na sjednici 25. rujna 2015. godine.
+
+Klasa: 011-01/15-01/121  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 1. listopada 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O JAVNOBILJEŽNIČKIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o javnobilježničkim pristojbama (»Narodne novine«, br. 72/94., 74/95., 87/96. i 112/12.) u članku 10. točka 9. mijenja se i glasi:
+
+»9. osnivači jednostavnog društva s ograničenom odgovornošću u vezi s osnivanjem društva i članovi tog društva za isprave i radnje javnog bilježnika u vezi s likvidacijom društva.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. studenoga 2015.
+
+Klasa: 022-03/15-01/142  
+Zagreb, 25. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

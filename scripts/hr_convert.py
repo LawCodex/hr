@@ -25,6 +25,7 @@ import os
 import re
 import shutil
 import sys
+import difflib
 import unicodedata
 from collections import defaultdict
 
@@ -97,6 +98,7 @@ def norm_title(t):
     t = t.replace(" ", " ").replace("​", "")
     t = re.sub(r"\s+", " ", t).strip()
     t = re.sub(r"\s+\d+$", "", t)  # stray footnote numbers at end
+    t = re.sub(r"^Uredbu\s", "Uredba ", t)
     t = re.sub(r"^NN\s*\d+[A-Za-z]?/\d+\s*[-–]\s*", "", t)  # 'NN 91A/93 - Zakon ...'
     return t
 
@@ -462,7 +464,11 @@ def to_markdown(blocks, base_level=2):
     lim = first_art if first_art is not None else min(n, 40)
     for i in range(lim):
         t = texts[i]
-        if blocks[i]["kind"] == "p" and t and upper_ratio(blocks[i]["lines"][0]) > 0.8 and TITLE_RE.match(t) and "PROGLAŠ" not in t.upper():
+        b = blocks[i]
+        if b["kind"] != "p" or not t or "PROGLAŠ" in t.upper() or not TITLE_RE.match(t.upper()):
+            continue
+        if upper_ratio(b["lines"][0]) > 0.8 or (len(t) < 300 and (
+                b["centered"] or b["bold"] or b["tagname"] in ("h1", "h2", "h3", "h4") or len(t.split()) <= 2)):
             body_start = i
     has_title = body_start is not None
     if body_start is None:
@@ -642,6 +648,9 @@ NAMED_CIT_RE = re.compile(
     r"((?:Ustavni\s+)?(?:Zakon|Uredba|[A-ZČĆŠŽĐ][a-zčćšžđ]+i\s+zakon(?:ik)?|Zakonik)\s+[^()]{0,400}?)\s*\(\s*[»«\"„“]?\s*Narodne\s+novine\s*[»«\"„“”]?\s*,?\s*(?:br\.|broj|brojevi)?\s*:?\s*([^)]{1,300})\)")
 
 
+HEAD_START_RE = re.compile(r"(?:Ustavni\s+)?(?:Zakon|Uredba|Zakonik|(?:[A-ZČĆŠŽĐ][a-zčćšžđ]+i\s+)+zakon(?:ik)?)\s")
+
+
 def detect_repeals(text):
     """Return list of (issue, year, name) for whole acts declared repealed in text."""
     res = []
@@ -793,10 +802,11 @@ def build():
             for b in by_nn.get((issue, year), []):
                 if b is r or b["order"] >= r["order"]:
                     continue
-                # the cited name must resemble the base title
-                nk = key(name)
+                # the cited name must match the base title
+                starts = [mm.start() for mm in HEAD_START_RE.finditer(name)]
+                nk = key(name[starts[-1]:] if starts else name)
                 bk = key(b["title"])
-                if bk[:25] in nk or nk[:25] in bk or bk.split(" ", 3)[-1][:20] in nk:
+                if nk == bk or difflib.SequenceMatcher(None, nk, bk).ratio() >= 0.96:
                     if id(b) not in status:
                         status[id(b)] = ("repealed", r)
                         nrep += 1

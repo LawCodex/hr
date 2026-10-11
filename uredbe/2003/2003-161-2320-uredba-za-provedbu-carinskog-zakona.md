@@ -6,13 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2003-10-14
-last_amended: 2008-06-18
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2013-01-23
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "161/03, 70/08"
+narodne_novine: "161/03, 70/08, 76/09, 29/11, 10/13"
 amendments:
   - "NN 70/2008 (2325) Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona"
+  - "NN 76/2009 (1838) Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona"
+  - "NN 29/2011 (608) Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona"
+  - "NN 10/2013 (152) Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/161/2320"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 161/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/161/2320).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 70/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 70/2008, NN 76/2009, NN 29/2011, NN 10/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -7650,3 +7653,1583 @@ Kada je korištenje zajedničkog jamstva privremeno zabranjeno za robu iz Prilog
 4.2. Članci 332. do 336. primjenjuju se odgovarajuće u skladu s zahtjevima i ovlaštenjima za odstupanja navedena u točki 4.1.<>  
 4.3.ajevima kada Carinska uprava odobri odstupanje, polje 8. Potvrde o zajedničkom jamstvu ovjerava zabilješkom:  
 – NEOGRANIČENA UPORABA
+
+## Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona (NN 76/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1838*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5.a, članka 13., članka 14. stavka 3., članka 14.a stavka 2., članka 18.a, članka 20. stavka 2., članka 27., članka 48., članka 69., članka 73. stavka 2., članka 78. stavka 4., članka 81. stavka 4., članka 84. stavka 3., članka 88. stavaka 1., 3. i 5., članka 96. stavka 4., članka 106. stavaka 5. i 6., članka 108. stavka 1., članka 109.a, članka 110. stavka 3., članka 119. stavaka 2. i 4., članka 122. stavka 2., članka 125. stavaka 2. i 4., članka 126. stavka 2. točke c), članka 127. stavka 4., članka 129., članka 131., članka 137. stavka 3., članka 139., članka 141. stavka 1. točke e), članka 149., članka 150. stavka 2., članka 154. stavka 2., članka 155. stavka 3., članka 156. stavka 2., članka 159. stavka 4., članka 161. stavka 2., članka 169. stavaka 3. i 5., članka 179. stavka 4., članka 181. stavka 4., članka 185. stavaka 3. i 5., članka 188. stavka 4., članka 189., članka 192. stavka 5., članka 194. stavka 2., članka 200. stavka 1., članka 203., članka 221. stavka 5., članka 226. stavka 3., članka 229. stavaka 1. i 3., članka 235. stavka 1., članka 236., članka 254. stavka 3. i članka 257. Carinskog zakona ("Narodne novine", br. 78/99, 117/99, 73/2000, 92/2001, 47/2003, 140/2005, 138/2006, 60/2008 i 45/2009), Vlada Republike Hrvatske je na sjednici održanoj 26. lipnja 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE ZA PROVEDBU CARINSKOG ZAKONA**
+
+### Članak 1.
+
+U Uredbi za provedbu Carinskog zakona ("Narodne novine", br. 161/2003, 69/2006, 5/2007 i 70/2008) iza članka 107. dodaje se članak 107.a koji glasi:
+
+»Članak 107.a
+
+Posebnosti carinskog postupanja u međunarodnom putničkom i robnom pomorskom, riječnom i zračnom prometu uređuju se propisom koji donosi ministar financija. ».
+
+### Članak 2.
+
+U članku 227. stavku 5. točki b) brojka: »40,00« zamjenjuje se brojkom: »150,00«.
+
+### Članak 3.
+
+U članku 479. brojka: »40,00« zamjenjuje se brojkom: »75,00«.
+
+### Članak 4.
+
+Iza članka 479. dodaju se članci 479.a do 479.e koji glase:
+
+»Članak 479.a
+
+Ako su ispunjeni uvjeti iz članka 224. stavka 2. Carinskog zakona, odluku da se naknadno knjiženje neće provesti, donosi carinarnica koja je trebala proknjižiti svote uvozne ili izvozne carine proizašle iz carinskog duga.
+
+Kada je podnesen zahtjev za povratom ili otpustom na temelju članka 232. Carinskog zakona u vezi sa člankom 224. stavkom 2. točkom b) Carinskog zakona na odgovarajući način se primjenjuju članci 479.a do 479.e ove Uredbe.
+
+Carinarnice su dužne međusobno surađivati u svrhu pravilne primjene odredbi o naknadnom knjiženju, posebno ako carinarnica nadležna za donošenje odluke o naknadnom knjiženju ujedno nije carinarnica zbog čije pogreške iznos zakonski dugovanih davanja nije proknjižen u smislu članka 224. stavka 2. točke b) Carinskog zakona.
+
+### Članak 479.b
+
+Ako se u tijeku postupka utvrdi da je potrebno donijeti odluku da se svota davanja proizišla iz carinskoga duga ili njezin preostali dio naknadno proknjiži, carinarnica u pisanom obliku o tome obavještava osobu odgovornu za plaćanje, te joj dostavlja cjelokupnu dokumentaciju na kojoj temelji svoja utvrđenja, uz uvjet:
+
+a) da se postupak u vezi sa odlukom carinarnice o provedbi naknadnog knjiženja odnosi na slučajeve iz članka 224. stavka 2. točke b) Carinskog zakona i
+
+b) da iznos zakonski dugovanih davanja koji nije naplaćen od određene osobe odgovorne za plaćanje u vezi s jednim uvozom ili izvozom ili više njih, ali kao posljedica jedne pogreške, iznosi 3.500.000 kuna ili više.
+
+Osoba odgovorna za plaćanje može se očitovati u pisanom obliku o pisanim utvrđenjima carinarnice iz stavka 1. ovoga članka u roku od mjesec dana od dana kada su joj poslani. Ako osoba odgovorna za plaćanje ne dostavi svoje očitovanje u roku smatra se da se odrekla prava na iznošenje svojih stajališta.
+
+### Članak 479.c
+
+Kada se primjenjuje članak 479.b ove Uredbe, odluka u vezi sa provedbom naknadnog knjiženja donosi se u roku od deset mjeseci od dana kada su u spis pribavljeni svi podaci potrebni za utvrđivanje svih činjenica i okolnosti koje su značajne za donošenje odluke.
+
+Kada carinarnica u vezi sa predmetom postupka provodi posebne službene radnje radi provjere i utvrđivanja činjenica bitnih za donošenje odluke u vezi sa provedbom naknadnog knjiženja, rok za donošenje odluke se produljuje za vrijeme potrebno za dovršetak tih radnji, ali ne dulje od daljnjih devet mjeseci. Carinarnica obavještava osobu odgovornu za plaćanje o datumu početka i dovršetka službenih radnji poduzetih radi provjere i utvrđivanja činjenica bitnih za donošenje odluke.
+
+Naknadno knjiženje u slučaju primjene članka 479.b ove Uredbe neće se provesti ako carinarnica ne donese odluku u vezi sa provedbom naknadnog knjiženja u rokovima iz stavka 1. i 2. ovoga članka.
+
+### Članak 479.d
+
+Carinarnice dostavljaju Središnjem uredu Carinske uprave popis svih slučajeva u kojima su primijenjene odredbe članka 224. stavka 2. točke b) Carinskog zakona, te odredbe članka 232. Carinskog zakona u vezi sa člankom 224. stavkom 2. točkom b) Carinskog zakona, sa sažecima pojedinih slučajeva i preslikom cjelokupne relevantne dokumentacije.
+
+Obavijesti carinarnica iz stavka 1. ovoga članka dostavljaju se Središnjem uredu Carinske uprave tijekom prvog i trećeg tromjesečja svake godine za sve slučajeve u kojima je bilo odlučeno da se nenaplaćena davanja proizišla iz carinskoga duga neće knjižiti tijekom prethodnog polugodišta.
+
+### Članak 479.e
+
+Ne isključujući odredbe članka 479.b ove Uredbe, carinarnica nadležna za donošenje odluke o naknadnom knjiženju svote uvozne ili izvozne carine proizašle iz carinskog duga, na primjeren način obavještava osobu odgovornu za plaćanje o potrebi donošenja odluke o naknadnom knjiženju.
+
+Smatra se da se osoba odgovorna za plaćanje odrekla prava na iznošenje svojih stajališta, ako se o obavijesti carinarnice iz stavka 1. ovog članka nije očitovala u ostavljenom roku.«.
+
+### Članak 5.
+
+U članku 480. stavku 1. i stavku 2. brojke: »40,00« zamjenjuju se brojkama: »75,00«.
+
+### Članak 6.
+
+U članku 500. brojka: »40,00« zamjenjuje se brojkom: »75,00«.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 413-01/09-01/09  
+Urbroj: 5030116-09-1  
+Zagreb, 26. lipnja 2009.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona (NN 29/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/29/608*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5.a, članka 13., članka 14. stavka 3., članka 14.a stavka 2., članka 18.a, članka 20. stavka 2., članka 27., članka 48., članka 49.a stavka 6., članka 49.b stavka 6., članka 69., članka 73. stavka 2., članka 78. stavka 4., članka 81. stavka 4., članka 84. stavka 3., članka 88. stavaka 1., 3. i 5., članka 96. stavka 4., članka 106. stavaka 5. i 6., članka 108. stavka 1., članka 109.a, članka 110. stavka 3., članka 119. stavaka 2. i 4., članka 122. stavka 2., članka 125. stavaka 2. i 4., članka 126. stavka 2. točke c), članka 127. stavka 4., članka 129., članka 131., članka 137. stavka 3., članka 139., članka 141. stavka 1. točke e), članka 149., članka 150. stavka 2., članka 154. stavka 2., članka 155. stavka 3., članka 156. stavka 2., članka 159. stavka 4., članka 161. stavka 2., članka 169. stavaka 3. i 5., članka 179. stavka 4., članka 181. stavka 4., članka 185. stavaka 3. i 5., članka 186.a stavka 3., članka 186.d stavka 5., članka 188. stavka 4., članka 189., članka 192. stavka 5., članka 194. stavka 2., članka 200. stavka 1., članka 203., članka 221. stavka 5., članka 226. stavka 3., članka 229. stavaka 1. i 3., članka 235. stavka 1., članka 236., članka 254. stavka 3. i članka 257. Carinskog zakona (»Narodne novine«, br. 78/99, 117/99, 73/2000, 92/2001, 47/2003, 140/2005, 138/2006, 60/2008, 45/2009 i 56/2010), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE ZA PROVEDBU CARINSKOG ZAKONA**
+
+##### Članak 1.
+
+U Uredbi za provedbu Carinskog zakona (»Narodne novine«, br. 161/2003, 69/2006, 5/2007, 70/2008 i 76/2009) članak 2. mijenja se i glasi:
+
+»Za primjenu ove Uredbe pojedini izrazi imaju sljedeće značenje:
+
+a) gospodarski subjekt: osoba koja u okviru svoga poslovanja obavlja djelatnosti obuhvaćene carinskim propisima,
+
+b) EORI broj (Economic Operators Registration and Identification number): jedinstveni broj koji gospodarskim subjektima i drugim osobama u Europskoj uniji dodjeljuje carinska služba ili drugo nadležno tijelo ili tijela država članica Europske unije,
+
+c) ulazna sigurnosna skraćena deklaracija: sigurnosna skraćena deklaracija iz članka 49.a Carinskog zakona koja se podnosi za robu koja se unosi u carinsko područje Republike Hrvatske, osim u slučajevima koje propisuje ova Uredba,
+
+d) izlazna skraćena deklaracija: sigurnosna skraćena deklaracija iz članka 186.c Carinskog zakona koja se podnosi za robu koja napušta carinsko područje Republike Hrvatske, osim u slučajevima koje propisuje ova Uredba,
+
+e) podaci potrebni za prepoznavanje robe: podaci koji se koriste za prepoznavanje robe u trgovačkom smislu i omogućuju carinarnici da rasporedi robu u Carinsku tarifu, te da odredi količinu robe,
+
+f) nomenklatura carinske tarife: sustav nazivlja i brojčanog označavanja robe u Carinskoj tarifi,
+
+g) harmonizirani sustav: harmonizirani sustav nazivlja i brojčanog označavanja robe,
+
+h) roba nekomercijalne naravi: roba za koju se određeni carinski postupak zahtijeva povremeno i čija vrsta i količina ukazuju na to da je namijenjena za pojedinačnu, osobnu uporabu, za uporabu u kućanstvu primatelja ili osobe koja je unosi ili je jasno da se radi o poklonima,
+
+i) trgovinske mjere: necarinske mjere koje su dio trgovinske politike države i uređuju uvoz ili izvoz robe, kao što su na primjer: nadzorne i zaštitne mjere, količinska ograničenja, te uvozne i izvozne zabrane,
+
+j) karnet ATA: međunarodna carinska isprava za privremeni uvoz robe, propisana u okviru ATA Konvencije odnosno Istanbulske konvencije,
+
+k) Istanbulska konvencija: Konvencija o privremenom uvozu, dogovorena 26. srpnja 1990. godine u Istanbulu.«.
+
+##### Članak 2.
+
+Članak 4. mijenja se i glasi:
+
+»Carinska uprava primjenjuje analizu rizika kako bi razlikovala razine rizika povezane s robom koja podliježe carinskoj provjeri ili nadzoru te kako bi odredila hoće li i gdje roba biti predmetom određenih radnji carinske provjere.
+
+Određivanje razine rizika se temelji na procjeni vjerojatnosti nastanka događaja povezanog s rizikom i njegovog utjecaja ako bi se dogodio. Osnova za odabir pošiljaka ili deklaracija koje će biti predmetom carinskih provjera sadrži element nasumičnosti.«.
+
+##### Članak 3.
+
+Iza članka 4. dodaje se naziv Poglavlja 4.a i članak 4.a koji glase:
+
+*»Poglavlje 4.a Sustav registracije i identifikacije*
+
+##### Članak 4.a
+
+EORI broj se koristi za identifikaciju gospodarskih subjekata i drugih osoba u njihovim odnosima sa carinskim službama država članica Europske unije.
+
+Nadležnost i postupak za dodjelu EORI broja u svrhu uvođenja i korištenja EORI broja za razdoblje nakon pristupanja Republike Hrvatske Europskoj uniji uređuju se propisom koji donosi ministar financija.«.
+
+##### Članak 4.
+
+Iznad članka 94. mijenja se naziv Poglavlja 1. i dodaje naziv Odjeljka 1. koji glase:
+
+*»Poglavlje 1. Ulazna sigurnosna skraćena deklaracija i podnošenje robe carinarnici*
+
+Odjeljak 1. Ulazna sigurnosna skraćena deklaracija«
+
+##### Članak 5.
+
+Članak 94. mijenja se i glasi:
+
+»Za potrebe ovoga poglavlja pojedini izrazi imaju sljedeće značenje:
+
+a) »prijevoznik« označava osobu iz članka 49.b stavka 3. Carinskog zakona koja unosi robu u carinsko područje Republike Hrvatske ili koja preuzima odgovornost za prijevoz robe u carinsko područje Republike Hrvatske,
+
+b) u slučaju kombiniranoga prijevoza iz članka 95.c ove Uredbe »prijevoznik« označava osobu koja će upravljati prijevoznim sredstvom koje će se, nakon što je uneseno na carinsko područje Republike Hrvatske, samostalno kretati kao aktivno prijevozno sredstvo,
+
+c) u slučaju pomorskoga ili zračnoga prometa u okviru dogovora o dijeljenju plovila ili zrakoplova ili sukladno ugovornim odnosima u smislu članka 95.d ove Uredbe, »prijevoznik« označava osobu koja je sklopila ugovor i izdala teretni list ili manifest u zračnom prijevozu za stvarni prijevoz robe u carinsko područje Republike Hrvatske.«.
+
+##### Članak 6.
+
+Članak 95. mijenja se i glasi:
+
+»Ulazna sigurnosna skraćena deklaracija se ne podnosi za sljedeću robu:
+
+a) električnu energiju,
+
+b) robu koja se unosi cjevovodima,
+
+c) pisma, razglednice i tiskovine, uključujući i one na elektroničkim medijima,
+
+d) robu koja se kreće u okviru pravila Konvencije Svjetske poštanske unije,
+
+e) robu za koju je dopušteno deklariranje drugim radnjama u skladu s člancima 137., 139. i 140. ove Uredbe, osim ako se na temelju ugovora o prijevozu prevoze predmeti kućanstva iz članka 2. stavka 1. točke 3. Uredbe o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine, palete, kontejneri i cestovna, željeznička, zračna i pomorska prijevozna sredstava te sredstva za prijevoz unutarnjim plovnim putovima,
+
+f) robu u putnikovoj osobnoj prtljazi,
+
+g) robu za koju je dopušteno podnošenje usmene carinske deklaracije u skladu sa člancima 132., 134. i 136. stavkom 1. ove Uredbe, osim ako se na temelju ugovora o prijevozu prevoze predmeti kućanstva iz članka 2. stavka 1. točke 3. Uredbe o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine, palete, kontejneri i cestovna, željeznička, zračna i pomorska prijevozna sredstva te sredstava za prijevoz unutarnjim plovnim putovima,
+
+h) robu obuhvaćenu ATA i CPD karnetima,
+
+i) robu koja se kreće pod pokrićem obrasca 302 sukladno Sporazumu među potpisnicima Sjevernoatlantskoga ugovora o statusu njihovih snaga potpisanoga u Londonu 19. lipnja 1951. godine,
+
+j) robu koja se na plovilima ili u zrakoplovima prevozi između luka ili zračnih luka u Republici Hrvatskoj bez pristajanja u lukama ili zračnim lukama izvan carinskog područja Republike Hrvatske,
+
+k) robu oslobođenu od plaćanja carine u skladu s Bečkom konvencijom o diplomatskim odnosima od 18. travnja 1961. godine, Bečkom konvencijom o konzularnim odnosima od 24. travnja 1963. godine ili drugim konzularnim konvencijama te Njujorškom konvencijom o specijalnim misijama od 16. prosinca 1969. godine,
+
+l) oružje i vojnu opremu koje u carinsko područje Republike Hrvatske unose nadležna tijela oružanih snaga u okviru vojnog prijevoza ili prijevoza koji se vrši isključivo za potrebe oružanih snaga,
+
+m) sljedeću robu koja se u carinsko područje Republike Hrvatske izravno unosi sa platformi za bušenje ili pridobivanje ili turbina na vjetar kojima upravlja osoba sa sjedištem na carinskom području Republike Hrvatske:
+
+– robu koja je bila ugrađena u platforme ili turbine na vjetar u svrhu njihove izgradnje, popravka, održavanja ili pregradnje;
+
+– robu koja je bila korištena za montažu platformi ili turbina na vjetar ili za njihovo opremanje;
+
+– robu i zalihe koje se koriste ili troše na platformama ili turbinama na vjetar;
+
+– neopasni otpad s platformi ili turbina na vjetar;
+
+n) robu u pošiljci čija vrijednost ne prelazi 160,00 kuna, pod uvjetom da carinarnica, uz pristanak gospodarskoga subjekta, prihvati provesti analizu rizika uporabom podataka sadržanih u računalnom sustavu koji koristi gospodarski subjekt ili podataka koji se osiguravaju iz računalnog sustava koji koristi gospodarski subjekt.«.
+
+##### Članak 7.
+
+Iza članka 95. dodaju se članci 95.a do 95.g, naziv Odjeljka 2. i članci 95.h i 95.i koji glase:
+
+»Članak 95.a
+
+Ako se međunarodnim sporazumom između Republike Hrvatske i treće zemlje predviđa priznavanje sigurnosnih provjera obavljenih u zemlji izvoza, primijenit će se uvjeti utvrđeni u tome sporazumu.
+
+##### Članak 95.b
+
+Ulazna sigurnosna skraćena deklaracija se podnosi elektroničkom razmjenom podataka i obuhvaća podatke neophodne za analizu rizika i pravilnu provedbu carinskog nadzora prvenstveno za sigurnosno relevantne svrhe. Ulaznu sigurnosnu skraćenu deklaraciju ovjerava osoba koja ju izdaje. Na ulaznu sigurnosnu skraćenu deklaraciju se na odgovarajući način primjenjuje članak 109. stavak 1. ove Uredbe.
+
+Carinska deklaracija koja se u skladu s člankom 49.c stavkom 1. Carinskog zakona koristi kao ulazna sigurnosna skraćena deklaracija pored podataka koji su potrebni za primjenu propisa vezanih uz carinski postupak za koji je roba deklarirana, sadrži i podatke propisane za ulaznu sigurnosnu skraćenu deklaraciju.
+
+Posebnosti provedbe carinskog postupanja pri podnošenju ulazne sigurnosne skraćene deklaracije, uvjeti i način podnošenja, kao i sadržaj i način popunjavanja ulazne sigurnosne skraćene deklaracije uređuju se propisom koji donosi ministar financija.
+
+##### Članak 95.c
+
+U slučaju kombiniranoga prijevoza, ako aktivno prijevozno sredstvo koje ulazi u carinsko područje Republike Hrvatske samo prevozi drugo prijevozno sredstvo koje će se nakon ulaska u carinsko područje Republike Hrvatske samostalno kretati kao aktivno prijevozno sredstvo, prijevoznik toga prijevoznoga sredstva je obvezan podnijeti ulaznu sigurnosnu skraćenu deklaraciju.
+
+Rok za podnošenje ulazne sigurnosne skraćene deklaracije odgovara roku za podnošenje ulazne sigurnosne skraćene deklaracije za aktivno prijevozno sredstvo koje ulazi u carinsko područje Republike Hrvatske u smislu članka 95.e ove Uredbe.
+
+##### Članak 95.d
+
+U slučaju pomorskog ili zračnog prometa kada postoji dogovor o dijeljenju plovila ili drugi ugovorni odnos, ulaznu sigurnosnu skraćenu deklaraciju je obvezna podnijeti osoba koja je sklopila ugovor i izdala teretnicu ili manifest u zračnom prijevozu za stvarni prijevoz robe na plovilu ili zrakoplovu koji podliježe takvom dogovoru.
+
+##### Članak 95.e
+
+U pomorskom prometu ulazna sigurnosna skraćena deklaracija se podnosi ulaznoj carinarnici do sljedećih rokova:
+
+a) za teret u kontejnerima, najmanje 24 sata prije utovara u otpremnoj luci,
+
+b) za teret u rasutom stanju/generalni teret, najmanje četiri sata prije dolaska u prvu luku na carinskom području Republike Hrvatske.
+
+U zračnom prometu ulazna sigurnosna skraćena deklaracija se podnosi ulaznoj carinarnici do sljedećih rokova:
+
+a) za kratke letove, najranije do trenutka stvarnog polijetanja zrakoplova;
+
+b) za duge letove, najmanje četiri sata prije dolaska u prvu zračnu luku na carinskome području Republike Hrvatske;
+
+U smislu točaka a) i b) ovoga stavka kratki let označava let koji traje manje od četiri sata od posljednje odlazne zračne luke u trećoj zemlji do dolaska u prvu zračnu luku u Republici Hrvatskoj. Svi drugi letovi se smatraju dugim letovima.
+
+U željezničkom prometu i prometu unutrašnjim vodenim putovima ulazna sigurnosna skraćena deklaracija se podnosi ulaznoj carinarnici najmanje dva sata prije dolaska na ulaznu carinarnicu u carinskom području Republike Hrvatske.
+
+U cestovnom prometu ulazna sigurnosna skraćena deklaracija se podnosi ulaznoj carinarnici najmanje jedan sat prije dolaska na ulaznu carinarnicu u carinskom području Republike Hrvatske.
+
+Ako se ulazna sigurnosna skraćena deklaracija ne podnosi elektroničkom razmjenom podataka, rokovi iz stavka 2. točke a) i stavaka 3. i 4. ovoga članka za podnošenje ulazne sigurnosne skraćene deklaracije su najmanje četiri sata.
+
+Ako carinski sustav elektroničke razmjene podataka privremeno ne funkcionira i dalje se primjenjuju rokovi propisani stavcima 1. do 4. ovoga članka.
+
+##### Članak 95.f
+
+Rokovi iz članka 95.e stavaka 1. do 4. ove Uredbe se ne primjenjuju u sljedećim slučajevima:
+
+a) ako se međunarodnim sporazumom između Republike Hrvatske i trećih zemalja predviđa priznavanje sigurnosnih provjera u smislu članka 95.a ove Uredbe,
+
+b) ako međunarodni sporazumi između Republike Hrvatske i trećih zemalja zahtijevaju razmjenu podataka iz deklaracija u rokovima različitim od onih iz članka 95.e stavaka 1. do 4. ove Uredbe,
+
+c) u slučaju više sile.
+
+##### Članak 95.g
+
+Ako nakon 200 dana od dana podnošenja ulazne sigurnosne skraćene deklaracije carinarnica nije obaviještena o dolasku prijevoznoga sredstva ili ako roba nije bila podnesena carinarnici u skladu sa odredbama o podnošenju i privremenom smještaju robe koja se unosi u carinsko područje Republike Hrvatske, smatra se da ulazna sigurnosna skraćena deklaracija nije bila podnesena.
+
+Ako se utvrdi da roba podnesena carinarnici nije obuhvaćena ulaznom sigurnosnom skraćenom deklaracijom za koju je postojala obveza podnošenja, osoba koja je unijela robu u carinsko područje Republike Hrvatske ili osoba koja je preuzela odgovornost za prijevoz robe u carinsko područje Republike Hrvatske obvezna je za robu odmah podnijeti ulaznu sigurnosnu skraćenu deklaraciju.
+
+Podnošenje ulazne sigurnosne skraćene deklaracije nakon rokova propisanih člankom 95.e ove Uredbe ne isključuje primjenu kaznenih odredaba.
+
+*Odjeljak 2. Podnošenje robe carinarnici*
+
+##### Članak 95.h
+
+U skladu s člankom 50. stavkom 1. Carinskog zakona roba se podnosi u uredovno vrijeme i na radnom prostoru carinarnice ili na drugom mjestu koje odobri carinarnica.
+
+Radni prostor carinarnice za određene vrste prijevoza određen je ovom Uredbom ili ga određuje carinarnica i to objavljuje na oglasnoj ploči.
+
+Uredovno vrijeme carinarnice propisuje ravnatelj Carinske uprave i objavljuje se na oglasnoj ploči carinarnice.
+
+Iznimno, uz odobrenje carinarnice, roba se može podnijeti carinarnici izvan uredovnog vremena i izvan radnog prostora. Moguće troškove vezane za takvo podnošenje snosi deklarant. Tarifu troškova propisat će ministar financija.
+
+##### Članak 95.i
+
+Pregled robe i uzimanje uzoraka koji se zahtjevaju sukladno članku 54. Carinskog zakona odobrava se na osnovu pisanog zahtjeva.
+
+Pisani zahtjev mora biti potpisan i podnosi se carinarnici kojoj je podnesena roba. Zahtjev sadrži sljedeće podatke:
+
+– ime ili naziv podnositelja zahtjeva,
+
+– podatak gdje se roba nalazi,
+
+– broj skraćene deklaracije, ako je bila podnesena, podatak o prethodnom carinskom postupku ili podatak o prijevoznom sredstvu na kojem se roba nalazi,
+
+– razloge zbog kojih se zahtijeva pregled robe ili uzimanje uzoraka, te
+
+– sve druge podatke potrebne za prepoznavanje robe.
+
+Odluka kojom se udovoljava pisanom zahtjevu izdaje se u obliku bilješke na zahtjevu. U slučaju uzimanja uzoraka carinarnica određuje i količinu robe koju je potrebno uzeti.
+
+Predpregled robe i uzimanje uzoraka izvodi se pod nadzorom i na način koji odredi carinarnica, koja ovisno o vrsti robe određuje odgovarajući način postupanja.
+
+Podnositelj zahtjeva snosi rizik i troškove raspakiranja, prepakiranja, vaganja i svih drugih postupaka s robom, kao i troškove analize ili drugih ispitivanja.
+
+Uzeti uzorci se ubrajaju u količinu robe za koju se odobrava carinski dopušteno postupanje ili uporaba. Ako se uzeti uzorci pri analizi unište ili oštete tako da više nemaju uporabnu vrijednost za njih ne nastaje carinski dug. S otpacima i ostacima postupa se sukladno članku 185. stavcima 7. i 8. Carinskog zakona.«.
+
+##### Članak 8.
+
+U članku 96. dodaju se novi stavci 1. i 2. koji glase:
+
+»Za stranu robu podnesenu carinarnici sukladno članku 52. Carinskog zakona podnosi se skraćena deklaracija za privremeni smještaj.
+
+Skraćena deklaracija za privremeni smještaj se ne podnosi ako je roba, najkasnije u trenutku podnošenja, deklarirana za carinski postupak ili je za nju određeno drugo carinski dopušteno postupanje ili uporaba.«.
+
+Dosadašnji stavci 1., 2., 3., 4., 5. i 6. postaju stavci 3., 4., 5., 6., 7. i 8.
+
+##### Članak 9.
+
+U članku 109. stavku 1. iza riječi: »opunomoćenik« stavlja se zarez i dodaju se riječi: »uključujući provozne deklaracije podnesene sustavom elektroničke razmjene podataka,«.
+
+U stavku 2. iza riječi: »podataka,« dodaju se riječi: »uključujući provozne deklaracije podnesene u skladu s člankom 319. stavkom 2. ove Uredbe,«.
+
+U stavku 3. iza riječi: »podataka« stavlja se zarez i dodaju se riječi: »uključujući provozne deklaracije podnesene u skladu s propisom iz članka 319. stavka 2. ove Uredbe,«.
+
+##### Članak 10.
+
+U članku 112. stavak 4. mijenja se i glasi:
+
+»Provozna deklaracija i roba se podnose otpremnoj carinarnici u uredovno vrijeme. Iznimno, temeljem zahtjeva i na trošak glavnog obveznika, otpremna carinarnica može odobriti da se roba podnese izvan radnog prostora carinarnice.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»Obračun troškova podnošenja deklaracije izvan uredovnog vremena carinarnice i troškova podnošenja deklaracije na drugom mjestu u skladu sa stavcima 3. i 4. ovoga članka izvršit će se sukladno Tarifi iz članka 95.h stavka 4. ove Uredbe.«.
+
+##### Članak 11.
+
+U članku 113. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Otpremna carinarnica prihvaća i evidentira provoznu deklaraciju tijekom uredovnog vremena carinarnice.«.
+
+##### Članak 12.
+
+U članku 146. stavku 3. riječi: »članku 94. stavku 4.« zamjenjuju se riječima: »Tarifi iz članka 95.h stavka 4.«.
+
+##### Članak 13.
+
+U članku 159. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»Za provedbu provoznog postupka otpremna carinarnica evidentira rezultate provjere upisujući odgovarajuće podatke u provoznu deklaraciju.«.
+
+##### Članak 14.
+
+U članku 161. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Za provedbu postupka provoza, ukoliko to dozvoljavaju rezultati provjere deklaracije, otpremna carinarnica odobrava puštanje robe i datum puštanja unosi u sustav elektroničke razmjene podataka.«.
+
+##### Članak 15.
+
+U članku 163. stavku 1. točki e) podtočka 2. mijenja se i glasi:
+
+»2. u slučaju druge robe od one navedene u podtočki 1. ove točke, ako je deklarant, sukladno članku 309.c ove Uredbe, obavijestio carinarnicu koja je prihvatila carinsku deklaraciju za izvoz robe da roba nije napustila carinsko područje te ako je vratio sve primjerke deklaracije zajedno sa svim drugim dokumentima koje mu je carinarnica predala po prihvaćanju carinske deklaracije ili ako se u skladu s člankom 313.k ove Uredbe smatra da deklarirana roba nije napustila carinsko područje Republike Hrvatske,«.
+
+##### Članak 16.
+
+U članku 195. stavku 1. riječi: »članku 309.« zamjenjuju se riječima: »članku 310.«.
+
+U stavku 2. riječi: »310. i 313.« zamjenjuju se riječima: »309.c i 310.a«.
+
+##### Članak 17.
+
+U članku 204. stavku 1. riječi: »članku 314.« zamjenjuju se riječima: »članku 431.g«.
+
+##### Članak 18.
+
+U članku 225. stavku 3. riječi: »Ministarstva gospodarstva i Ministarstva poljoprivrede i šumarstva« zamjenjuju se riječima: »ministarstava nadležnih za gospodarstvo i poljoprivredu,«.
+
+##### Članak 19.
+
+Iznad članka 306. dodaje se naziv Odjeljka 1. koji glasi:
+
+*»Odjeljak 1. Opće odredbe«*
+
+##### Članak 20.
+
+Iznad članka 309. dodaje se naziv Odjeljka 2. koji glasi:
+
+*»Odjeljak 2. Opće odredbe za carinske deklaracije«*
+
+##### Članak 21.
+
+Članak 309. mijenja se i glasi:
+
+»Kada se postupak izvoza provodi uz uporabu pisane carinske deklaracije, za robu koja se izvozi podnosi se deklaracija za postupak izvoza koja se popunjava na obrascu jedinstvene carinske deklaracije (u daljnjem tekstu: JCD) sukladno propisu iz članka 120. ove Uredbe.
+
+Kada se postupak izvoza provodi uporabom sustava elektroničke razmjene podataka, posebnosti provedbe postupka te struktura i sadržaj deklaracije za postupak izvoza uređuju se propisom koji donosi ministar financija.«.
+
+##### Članak 22.
+
+Iza članka 309. dodaju se članci 309.a do 309.c koji glase:
+
+»Članak 309.a
+
+Usmenu deklaraciju za izvoz robe moguće je podnositi samo u izlaznim carinarnicama.
+
+##### Članak 309.b
+
+Ako roba napušta carinsko područje bez izvozne deklaracije, izvoznik deklaraciju podnosi naknadno carinarnici koja je nadležna prema mjestu u kojem izvoznik ima svoje sjedište ili prebivalište. U ovim slučajevima primjenjuje se odredba članka 308. ove Uredbe.
+
+Da bi carinarnica mogla prihvatiti deklaraciju iz stavka 1. ovoga članka, izvoznik mora priložiti nadležnoj carinarnici zadovoljavajući dokaz koji se odnosi na vrstu i količinu dotične robe, kao i okolnosti u kojima je roba napustila carinsko područje. Ta carinarnica također potvrđuje primjerak broj 3 JCD s odgovarajućom oznakom.
+
+Naknadno prihvaćena deklaracija u skladu s ovim člankom ne isključuje primjenu kaznenih odredaba, kao ni posljedice koje mogu nastati u svezi s mjerama poljoprivredne politike.
+
+##### Članak 309.c
+
+Ako roba koja je bila deklarirana za izvoz nije napustila carinsko područje Republike Hrvatske, deklarant mora o tome odmah obavijestiti izvoznu carinarnicu i vratiti primjerak broj 3 JCD.
+
+Ukoliko se u slučajevima navedenim u članku 310.a stavku 9. ove Uredbe naknadno promijeni jedinstveni ugovor o prijevozu zbog kojeg se prijevoz koji bi se morao okončati izvan carinskog područja Republike Hrvatske okonča u carinskom području Republike Hrvatske, ugovor o prijevozu se može promijeniti samo uz suglasnost carinarnice iz članka 310.a stavka 3. točke b) ove Uredbe, ili u slučaju postupka provoza, otpremne carinarnice. U tom se slučaju primjerak broj 3 JCD mora vratiti.
+
+Ako izvozna carinarnica nije primila potvrdu o stvarnom istupu robe iz carinskog područja Republike Hrvatske od izlazne carinarnice niti je izvozna carinarnica obaviještena sukladno stavku 1. ovoga članka, na odgovarajući način se primjenjuje odredba članka 313.j ove Uredbe.«.
+
+##### Članak 23.
+
+Iznad članka 310. dodaje se naziv Odjeljka 3. koji glasi:
+
+*»Odjeljak 3. Pisana carinska deklaracija«*
+
+##### Članak 24.
+
+Članak 310. mijenja se i glasi:
+
+»Kada se postupak izvoza provodi uz uporabu pisane JCD, koriste se primjerci broj 1, 2 i 3. Carinarnica kod koje je bila podnesena izvozna carinska deklaracija (u daljnjem tekstu: izvozna carinarnica), potvrđuje polje A i ako je to potrebno ispunjava polje D. Po puštanju robe izvozna carinarnica zadržava primjerak broj 1 i 2, a primjerak broj 3 vraća podnositelju.«.
+
+##### Članak 25.
+
+Iza članka 310. dodaje se članak 310.a koji glasi:
+
+»Članak 310.a
+
+Primjerak broj 3 JCD-a i roba se podnose izlaznoj carinarnici.
+
+Za potrebe ovoga članka izlaznom carinarnicom se smatra posljednja carinarnica prije nego što roba napusti carinsko područje Republike Hrvatske.
+
+Iznimno od odredbe stavka 2. ovoga članka izlazna carinarnica je:
+
+a) u slučaju izvoza robe cjevovodima i električnim vodovima, carinarnica u kojoj izvoznik ima sjedište,
+
+b) carinarnica nadležna za mjesto u kojem robu obuhvaćenu jedinstvenim ugovorom o prijevozu u treću državu preuzimaju željeznička, poštanska, zrakoplovna ili brodska tvrtka, uz uvjet da će roba carinsko područje Republike Hrvatske napustiti željeznicom, poštom, zrakom ili morem.
+
+Izlazna carinarnica provjerava odgovara li podnesena roba robi koja je prijavljena za izvozni carinski postupak i potvrđuje stvarni istup robe u polju C primjerka broj 3 JCD s navođenjem broja istupa, datumom i pečatom carinarnice.
+
+Istup u skladu sa stavkom 4. ovoga članka se ne potvrđuje za robu izvezenu cjevovodima ili električnim vodovima.
+
+Ako izlazna carinarnica utvrdi da postoji manjak robe to će zabilježiti kao primjedbu u polju I JCD pri potvrđivanju istupa i na taj način obavijestiti izvoznu carinarnicu.
+
+Ako izlazna carinarnica utvrdi višak robe neće dopustiti istup dok nije obavljen izvozni carinski postupak za svu robu.
+
+Ako izlazna carinarnica utvrdi da postoje razlike u vrsti robe neće dopustiti istup dok se ne obavi izvozni carinski postupak za pravu vrstu robe i obavijesti o tome izvoznu carinarnicu.
+
+Ako je roba poslana u treću državu ili na izlaznu carinarnicu koja je nadležna za postupak provoza, otpremna carinarnica potvrđuje primjerak broj 3 JCD u skladu sa stavkom 4. ovoga članka, te ga vraća deklarantu nakon što u svim primjercima provozne isprave ili bilo koje druge isprave koja zamjenjuje provoznu ispravu upiše riječi »Izvoz«. Izlazna carinarnica kontrolira stvarni izlazak robe.
+
+Otpremna carinarnica može od izvoznika zahtijevati da predoči dokaz da je roba stvarno napustila carinsko područje.«.
+
+##### Članak 26.
+
+Iznad članka 311. dodaje se naziv Odjeljka 4. koji glasi:
+
+*»Odjeljak 4. Carinska deklaracija podnesena uporabom sustava elektroničke razmjene podataka«*
+
+##### Članak 27.
+
+Članak 311. mijenja se i glasi:
+
+»Članci 312., 313. i 313.a do 313.c ove Uredbe se ne primjenjuju na sljedeću robu:
+
+a) električnu energiju,
+
+b) robu koja se iznosi cjevovodima,
+
+c) pisma, razglednice i tiskovine, uključujući i one na elektroničkim medijima,
+
+d) robu koja se kreće u okviru pravila Konvencije Svjetske poštanske unije,
+
+e) robu za koju je dopušteno deklariranje drugim radnjama u skladu sa člancima 138., 139. stavkom 2. i 140. ove Uredbe, osim ako se na temelju ugovora o prijevozu prevoze predmeti kućanstva iz članka 2. stavka 1. točke 3. Uredbe o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine, palete, kontejneri i cestovna, željeznička, zračna i pomorska prijevozna sredstava te sredstva za prijevoz unutarnjim plovnim putovima,
+
+f) robu u putnikovoj osobnoj prtljazi,
+
+g) robu za koju je dopušteno podnošenje usmene carinske deklaracije u skladu s člancima 133. i 134. ove Uredbe, osim ako se na temelju ugovora o prijevozu prevoze predmeti kućanstva iz članka 2. stavka 1. točke 3. Uredbe o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine, palete, kontejneri i cestovna, željeznička, zračna i pomorska prijevozna sredstava te sredstva za prijevoz unutarnjim plovnim putovima,
+
+h) robu obuhvaćenu ATA i CPD karnetima,
+
+i) robu koja se kreće pod pokrićem obrasca 302 sukladno Sporazumu među potpisnicima Sjevernoatlantskoga ugovora o statusu njihovih snaga potpisanoga u Londonu 19. lipnja 1951. godine,
+
+j) robu koja se na plovilima ili u zrakoplovima prevozi između luka ili zračnih luka u Republici Hrvatskoj bez pristajanja u lukama ili zračnim lukama izvan carinskog područja Republike Hrvatske,
+
+k) oružje i vojnu opremu koje u carinsko područje Republike Hrvatske unose nadležna tijela oružanih snaga u okviru vojnog prijevoza ili prijevoza koji se vrši isključivo za potrebe oružanih snaga,
+
+l) sljedeću robu koja se u carinsko područje Republike Hrvatske izravno unosi sa platformi za bušenje ili pridobivanje ili turbina na vjetar kojima upravlja osoba sa sjedištem na carinskom području Republike Hrvatske:
+
+– robu koja je bila ugrađena u platforme ili turbine na vjetar u svrhu njihove izgradnje, popravka, održavanja ili pregradnje;
+
+– robu koja je bila korištena za montažu platformi ili turbina na vjetar ili za njihovo opremanje;
+
+– robu i zalihe koje se koriste ili troše na platformama ili turbinama na vjetar;
+
+– neopasni otpad sa platformi ili turbina na vjetar;
+
+m) robu u pošiljci čija vrijednost ne prelazi 160,00 kuna, pod uvjetom da carinarnica, uz pristanak gospodarskoga subjekta, prihvati provesti analizu rizika uporabom podataka sadržanih u računalnom sustavu koji koristi gospodarski subjekt ili podataka koji se osiguravaju iz računalnog sustava koji koristi gospodarski subjekt.«.
+
+##### Članak 28.
+
+Članak 312. mijenja se i glasi:
+
+»Carinska deklaracija za robu koja napušta carinsko područje Republike Hrvatske podnosi se do sljedećih rokova:
+
+a) u pomorskom prometu:
+
+– za teret u kontejnerima, najmanje 24 sata prije utovara robe na plovilo na kojemu će napustiti carinsko područje Republike Hrvatske,
+
+– za teret u rasutom stanju/generalni teret, najmanje četiri sata prije odlaska iz luke na carinskom području Republike Hrvatske.
+
+b) u zračnom prometu, najmanje 30 minuta prije odlaska iz zračne luke u carinskom području Republike Hrvatske,
+
+c) u željezničkom prometu i prometu unutrašnjim vodenim putovima, najmanje dva sata prije odlaska iz izlazne carinarnice,
+
+d) u cestovnom prometu, najmanje jedan sat prije odlaska iz izlazne carinarnice.
+
+Ako carinski sustav elektroničke razmjene podataka privremeno ne funkcionira i dalje se primjenjuju rokovi propisani stavkom 1. ovoga članka.«.
+
+##### Članak 29.
+
+Članak 313. mijenja se i glasi:
+
+»U slučaju intermodalnog prijevoza, ako se roba prekrcava iz jednog prijevoznog sredstva u drugo prijevozno sredstvo za prijevoz izvan carinskog područja Republike Hrvatske, rok za podnošenje carinske deklaracije odgovara roku koji se primjenjuje za prijevozno sredstvo koje napušta carinsko područje Republike Hrvatske u smislu članka 312. ove Uredbe.
+
+U slučaju kombiniranog prijevoza, ako aktivno prijevozno sredstvo koje prelazi granicu samo prevozi drugo aktivno prijevozno sredstvo, rok za podnošenje carinske deklaracije odgovara roku za podnošenje carinske deklaracije koji se primjenjuje za aktivno prijevozno sredstvo koje prelazi granicu u smislu članka 312. ove Uredbe.«.
+
+##### Članak 30.
+
+Iza članka 313. dodaju se članci 313.a do 313.l koji glase:
+
+»Članak 313.a
+
+Rokovi iz članaka 312. i 313. ove Uredbe se ne primjenjuju kada međunarodni sporazumi između Republike Hrvatske i trećih zemalja predviđaju razmjenu podataka iz carinskih deklaracija u drugačijim rokovima.
+
+Rok za podnošenje carinske deklaracije ni u kojem slučaju ne može biti kraći od vremena koje je potrebno za provedbu analize rizika prije nego što roba napusti carinsko područje Republike Hrvatske.
+
+##### Članak 313.b
+
+Nakon prihvata carinske deklaracije, a prije puštanja robe za izvoz, nadležna carinarnica provodi odgovarajuću analizu rizika i carinske provjere.
+
+Roba se može pustiti odmah nakon provedbe analize rizika, ako rezultati provedene analize rizika dopuštaju puštanje robe.
+
+##### Članak 313.c
+
+Ako se utvrdi da roba podnesena carinarnici nije obuhvaćena carinskom deklaracijom koja sadrži podatke potrebne za izlaznu sigurnosnu skraćenu deklaraciju, osoba koja iznosi robu ili preuzima odgovornost za prijevoz robe iz carinskog područja Republike Hrvatske obvezna je za robu odmah podnijeti izlaznu sigurnosnu skraćenu deklaraciju.
+
+Podnošenje carinske deklaracije nakon rokova propisanih člancima 312. i 313. ove Uredbe ne isključuje primjenu kaznenih odredaba.
+
+##### Članak 313.d
+
+Kada se roba iz članka 311. stavka 1. točaka c) do m) ove Uredbe za koju ne postoji obveza podnošenja carinske deklaracije u rokovima propisanim člancima 312. i 313. ove Uredbe iznosi iz carinskog područja Republike Hrvatske, analiza rizika se provodi nakon podnošenja robe i na temelju carinske deklaracije ako je podnesena.
+
+##### Članak 313.e
+
+Kada se postupak izvoza provodi uz uporabu carinske deklaracije koja se podnosi elektroničkom razmjenom podataka, primjerak broj 3 JCD se zamjenjuje Pratećom izvoznom ispravom otisnutom uporabom carinskog sustava elektroničke razmjene podataka koja sadrži podatke iz članka 313.f ove Uredbe. Uz odobrenje nadležne carinarnice Prateća izvozna isprava može se ispisati izravno iz računalnog sustava deklaranta.
+
+Carinarnica će prihvatiti izvoznu deklaraciju u pisanom obliku na obrascu JCD ako carinski sustav elektroničke razmjene podataka ili računalni sustav osobe koja podnosi izvoznu deklaraciju ne radi. Uvjeti i način pod kojima se postupak izvoza koji se provodi uz uporabu carinske deklaracije koja se podnosi elektroničkom razmjenom podataka zamjenjuje izvoznim postupkom uz uporabu pisane carinske deklaracije (rezervni postupak) uređuju se propisom koji donosi ministar financija.
+
+Kada robu izvoze putnici koji nemaju izravan pristup carinskom sustavu elektroničke razmjene podataka i tako nemaju mogućnost izvoznoj carinarnici podnijeti izvoznu deklaraciju elektroničkom razmjenom podataka, carinarnica odobrava uporabu izvozne deklaracije u pisanom obliku na obrascu JCD u skladu sa Prilozima 15. do 18. ove Uredbe te koja sadrži podatke propisane za carinsku deklaraciju koja se podnosi elektroničkom razmjenom podataka i izlaznu sigurnosnu skraćenu deklaraciju sukladno propisima iz članaka 309. stavka 2. i 431.f stavka 3. ove Uredbe.
+
+U slučaju iz stavka 3. ovoga članka carinarnica osigurava ispunjavanje uvjeta iz članaka 313.f do 313.k ove Uredbe.
+
+Kada se postupak izvoza provodi uz uporabu carinske deklaracije podnesene elektroničkom razmjenom podataka odredbe članaka 309.a do 309.c i 310.a ove Uredbe se primjenjuju na odgovarajući način.
+
+##### Članak 313.f
+
+Izvozna carinarnica odobrava puštanje robe izdavanjem deklarantu Prateće izvozne isprave. Prateća izvozna isprava se sastavlja sukladno oglednom obrascu i napomenama iz Priloga 31 B ove Uredbe.
+
+Kada se izvozna pošiljka sastoji od više od jedne stavke, Prateća izvozna isprava se dopunjuje Popisom stavki koji se sastavlja sukladno oglednom obrascu i napomenama iz Priloga 31 C ove Uredbe. Popis stavki čini sastavni dio Prateće izvozne isprave.
+
+Uz odobrenje nadležne carinarnice, Prateća izvozna isprava može se ispisati izravno iz računalnog sustava deklaranta.
+
+##### Članak 313.g
+
+Pri puštanju robe izvozna carinarnica šalje podatke o izvoznom kretanju robe deklariranoj izlaznoj carinarnici porukom »Najava očekivanog izvoza«. Ta se poruka temelji na podacima iz izvozne deklaracije, koje carinarnica prema potrebi može dopuniti.
+
+Kada se roba kreće prema više od jedne izlazne carinarnice u više od jedne pošiljke, svaka pojedinačna pošiljka mora biti obuhvaćena pojedinačnom porukom »Najava očekivanog izvoza«i pojedinačnom Pratećom izvoznom ispravom.
+
+##### Članak 313.h
+
+Nadležna carinarnica može zahtijevati da se obavijest o dolasku robe u izlaznu carinarnicu dostavi elektroničkim putem. U takvom slučaju nije potrebno fizički carinarnici podnijeti Prateću izvoznu ispravu koju tada zadržava deklarant.
+
+Obavijest iz stavka 1. ovoga članka mora sadržavati broj carinske deklaracije (referentni broj kretanja) iz Priloga 31 B ove Uredbe.
+
+##### Članak 313.i
+
+Uz poštivanje odredbe članka 310.a stavka 3. točke b) ove Uredbe, izlazna carinarnica provjerava odgovara li podnesena roba deklariranoj robi i nadzire fizički izlazak robe iz carinskog područja Republike Hrvatske. Svaku provjeru robe izlazna carinarnica obavlja korištenjem poruke »Najava očekivanog izvoza« primljene od izvozne carinarnice, kao osnove za provjeru. Kako bi se omogućio carinski nadzor robe na mjestu gdje se roba istovaruje iz prijevoznoga sredstva i predaje drugoj osobi koja posjeduje robu i gdje se roba utovaruje na drugo prijevozno sredstvo koje će ju prevesti izvan carinskog područja nakon podnošenja izlaznoj carinarnici, primjenjuju se sljedeće odredbe:
+
+a) Najkasnije prilikom predaje robe posjednik obavještava sljedećega posjednika robe o jedinstvenome referentnom broju pošiljke ili referentnom broju prijevozne isprave te broju paketa ili, ako je roba u kontejnerima, o identifikacijskom broju opreme te, ukoliko je izdan, o referentnom broju kretanja iz izvozne deklaracije. Obavijest se podnosi elektroničkim putem i/ili korištenjem trgovinskih, lučkih ili prijevoznih informatičkih sustava i postupaka ili, kada oni nisu dostupni, u nekom drugom obliku. Najkasnije prilikom predaje robe, osoba kojoj se roba predaje evidentira obavijest koju joj je pružio neposredni prethodni posjednik robe;
+
+b) Prijevoznik ne smije utovariti robu za prijevoz izvan carinskog područja Republike Hrvatske ako nije dobio informacije iz točke a) ovoga stavka;
+
+c) Prijevoznik obavještava izlaznu carinarnicu o izlasku robe pružajući informacije iz točke a) ovoga stavka, osim ako su te informacije dostupne nadležnoj carinarnici kroz postojeće trgovinske, lučke ili prijevozne sustave ili postupke. Kad god je to moguće, obavijest predstavlja dio postojećega manifesta ili proizlazi iz drugih zahtjeva u pogledu izvještavanja o prijevozu.
+
+U smislu ovoga stavka »prijevoznik« označava osobu koja iznosi robu iz carinskog područja Republike Hrvatske ili osobu koja preuzima odgovornost za prijevoz robe iz carinskog područja Republike Hrvatske, osim:
+
+– u slučaju kombiniranoga prijevoza, kada aktivno prijevozno sredstvo koje napušta carinsko područje Republike Hrvatske samo prevozi drugo aktivno sredstvo koje će se, nakon dolaska aktivnoga prijevoznoga sredstva na njegovo odredište, samostalno kretati kao aktivno prijevozno sredstvo, »prijevoznik« označava osobu koja će upravljati prijevoznim sredstvom koje će se samostalno kretati nakon što je prijevozno sredstvo koje napušta carinsko područje Republike Hrvatske stiglo u svoje odredište,
+
+– u slučaju pomorskoga ili zračnoga prometa u okviru dogovora o dijeljenju plovila ili zrakoplova ili sukladno ugovornim odnosima, »prijevoznik« označava osobu koja je sklopila ugovor i izdala teretni list ili manifest u zračnom prijevozu za stvarni prijevoz robe izvan carinskog područja Republike Hrvatske.
+
+Izlazna carinarnica šalje izvoznoj carinarnici poruku »Rezultati kontrole na izlazu« najkasnije sljedećeg radnoga dana nakon dana kada roba napusti carinsko područje Republike Hrvatske. U slučaju postojanja posebno opravdanih okolnosti, izlazna carinarnica tu poruku može poslati kasnije.
+
+U slučaju izvoza, kada se roba obuhvaćena jednom porukom »Najava očekivanog izvoza« kreće u izlaznu carinarnicu kao jedna pošiljka, ali naknadno izlazi iz carinskog područja Republike Hrvatske preko te izlazne carinarnice u više pošiljaka, izlazna carinarnica kontrolira fizički izlaz robe i šalje poruku »Rezultati kontrole na izlazu« tek kada je sva roba napustila carinsko područje Republike Hrvatske. U izuzetnim okolnostima, kada se roba obuhvaćena jednom porukom »Najava očekivanog izvoza« kreće u izlaznu carinarnicu kao jedna pošiljka, ali naknadno izlazi iz carinskog područja Republike Hrvatske u više pošiljaka i preko više od jedne izlazne carinarnice, izlazna carinarnica u kojoj je roba bila prvotno podnesena po primitku uredno obrazloženog zahtjeva, potvrđuje primjerak Prateće izvozne isprave za svaki dio robe. Nadležna carinarnica potvrđuje primjerak Prateće izvozne isprave samo ako podaci iz Prateće izvozne isprave odgovaraju podacima u poruci »Najava očekivanog izvoza«. Odgovarajući primjerak Prateće izvozne isprave i roba se zajedno podnose nadležnoj izlaznoj carinarnici. Svaka izlazna carinarnica potvrđuje istup dijela pošiljke iz carinskog područja Republike Hrvatske na preslici primjerka Prateće izvozne isprave kojeg vraća izlaznoj carinarnici kojoj je roba prvotno podnesena. Ta izlazna carinarnica šalje poruku »Rezultati kontrole na izlazu« tek kada je sva roba napustila carinsko područje Republike Hrvatske.
+
+Uz poštivanje odredaba članka 309.c ove Uredbe, kada roba deklarirana za izvoz više nije namijenjena iznošenju iz carinskog područja Republike Hrvatske, osoba koja iz izlazne carinarnice preuzima robu za prijevoz na mjesto u carinskom području Republike Hrvatske, izlaznoj carinarnici dostavlja podatke iz stavka 1. točke a) ovoga članka. Ti se podaci mogu dostaviti u bilo kojemu obliku.
+
+##### Članak 313.j
+
+Kada nakon 90 dana od puštanja robe za izvoz izvozna carinarnica nije primila poruku »Rezultati kontrole na izlazu« iz članka 313.i stavka 2. ove Uredbe, izvozna carinarnica može, kada je to potrebno, od izvoznika ili deklaranta zahtijevati da dostavi podatke o carinarnici preko koje je roba napustila carinsko područje Republike Hrvatske i o datumu kada je roba napustila carinsko područje Republike Hrvatske.
+
+Izvoznik ili deklarant može, na vlastiti poticaj ili nakon zahtjeva podnesenog u skladu sa stavkom 1. ovoga članka, obavijestiti izvoznu carinarnicu da je roba napustila carinsko područje Republike Hrvatske navodeći datum kada je i izvoznu carinarnicu preko koje je roba napustila carinsko područje Republike Hrvatske i zahtijevati od izvozne carinarnice da se izlaz potvrdi. U tom slučaju, izvozna carinarnica zahtijeva podnošenje poruke »Rezultati kontrole na izlazu« od izlazne carinarnice koja se očituje u roku od 10 dana.
+
+Ako izlazna carinarnica ne potvrdi izlaz robe u roku iz stavka 2. ovoga članka, izvozna carinarnica o tome obavještava izvoznika ili deklaranta. Izvoznik ili deklarant može izvoznoj carinarnici dostaviti dokaze da je roba napustila carinsko područje Republike Hrvatske.
+
+Dokaz iz stavka 3. ovoga članka može se dostaviti podnošenjem jedne ili više sljedećih isprava:
+
+a) primjerka otpremnice koju je potpisao ili ovjerio primatelj izvan carinskog područja Republike Hrvatske,
+
+b) dokaza o plaćanju, fakture ili otpremnice koju je uredno potpisao ili ovjerio gospodarski subjekt koji je iznio robu izvan carinskog područja Republike Hrvatske,
+
+c) deklaracije koju je potpisala ili ovjerila tvrtka koja je iznijela robu izvan carinskog područja Republike Hrvatske,
+
+d) isprave koju su ovjerile carinska tijela druge države,
+
+e) evidencije gospodarskih subjekata o robi dostavljenoj na platforme za bušenje nafte i plina ili pridobivanje ili na turbine na vjetar.
+
+##### Članak 313.k
+
+Izvozna carinarnica izvozniku ili deklarantu potvrđuje izlaz u sljedećim slučajevima:
+
+a) ako je primila poruku »Rezultati kontrole na izlazu« od izlazne carinarnice,
+
+b) ako u slučajevima iz članka 313.j stavka 2. ove Uredbe nije primila poruku »Rezultati kontrole na izlazu« od izlazne carinarnice u roku od 10 dana, ali se uvjerila da su dokazi podneseni u skladu sa člankom 313.j stavkom 4. ove Uredbe dostatni.
+
+Ako izvozna carinarnica nije u roku od 150 dana nakon dana puštanja robe za izvoz od izlazne carinarnice primila poruku »Rezultati kontrole na izlazu«, niti je dobila zadovoljavajuće dokaze u skladu s člankom 313.j stavkom 4. ove Uredbe, izvozna carinarnica može smatrati da roba nije napustila carinsko područje Republike Hrvatske.
+
+Izvozna carinarnica obavještava izvoznika ili deklaranta i deklariranu izlaznu carinarnicu o poništenju izvozne deklaracije. Izvozna carinarnica obavještava deklariranu izlaznu carinarnicu kada je prihvatila dokaze u skladu sa stavkom 1. točkom b) ovoga članka.
+
+##### Članak 313.l
+
+Strukturu i sadržaj poruka iz ovoga poglavlja propisuje ravnatelj Carinske uprave.«.
+
+##### Članak 31.
+
+Iznad članka 314. naziv »Poglavlje 2. Privremeni izvoz s uporabom obrasca ATA« briše se.
+
+##### Članak 32.
+
+Članak 314. briše se.
+
+##### Članak 33.
+
+Članak 315. briše se.
+
+##### Članak 34.
+
+Članak 317.a mijenja se i glasi:
+
+»U ovom poglavlju pojedini izrazi imaju sljedeće značenje:
+
+a) otpremna carinarnica: carinarnica kod koje je prihvaćena deklaracija za postupak provoza,
+
+b) odredišna carinarnica: carinarnica kojoj se mora podnijeti roba koja se prevozi u postupku provoza kako bi se završio postupak,
+
+c) jamstvena carinarnica: ustrojstvena jedinica Carinske uprave nadležna za donošenje odluke o prihvaćanju jamstva koje podnosi jamac,
+
+d) provozna carinarnica: carinarnica preko koje pošiljka u postupku provoza kroz strano carinsko područje izlazi iz carinskog područja Republike Hrvatske, odnosno carinarnica preko koje pošiljka koja je prešla preko stranog carinskog teritorija u postupku provoza, ponovno ulazi na carinsko područje Republike Hrvatske,
+
+e) Prateća provozna isprava: isprava otisnuta uporabom sustava elektroničke razmjene podataka koja prati robu i temelji se na podacima iz provozne deklaracije,
+
+f) rezervni postupak: postupak koji se temelji na uporabi isprava u pisanom obliku radi omogućavanja podnošenja i provjere provozne deklaracije te praćenja provedbe provoznog postupka kada postupak provoza nije moguće provesti uporabom sustava elektroničke razmjene podataka.«.
+
+##### Članak 35.
+
+Članak 319. mijenja se i glasi:
+
+»Kada se postupak provoza provodi uz uporabu pisane carinske deklaracije, za robu koja se prevozi u postupku provoza podnosi se deklaracija za postupak provoza koja se popunjava na obrascu jedinstvene carinske deklaracije (u daljnjem tekstu: JCD) sukladno propisu iz članka 120. ove Uredbe.
+
+Kada se postupak provoza provodi uporabom sustava elektroničke razmjene podataka, posebnosti provedbe postupka te struktura i sadržaj deklaracije za postupak provoza uređuju se propisom koji donosi ministar financija.«.
+
+##### Članak 36.
+
+Članak 319.c mijenja se i glasi:
+
+»Kada se postupak provoza provodi uz uporabu carinske deklaracije koja se podnosi elektroničkom razmjenom podataka, podnošenje provozne deklaracije u pisanom obliku na obrascu JCD iznimno je dopušteno u slučaju:
+
+a) kada robu prevoze putnici koji nemaju izravan pristup carinskom sustavu elektroničke razmjene podataka, u skladu s člankom 117. ove Uredbe i propisom iz članka 120. ove Uredbe,
+
+b) primjene rezervnog postupka.
+
+Uporabu provozne deklaracije u pisanom obliku sukladno stavku 1. točki b) ovoga članka kada računalni sustav glavnog obveznika i/ili računalna mreža nisu dostupni odobrava carinarnica.
+
+Provozna deklaracija iz stavka 1. ovoga članka se može dopuniti sa jednim ili više dodatnih listova JCD u skladu sa obrascem otisnutim u Prilogu 15 ove Uredbe. Dodatni listovi se smatraju sastavnim dijelovima provozne deklaracije.
+
+Popisi pošiljaka iz Priloga 33 ove Uredbe sastavljeni u skladu sa Prilogom 33 A ove Uredbe mogu se koristiti umjesto dodatnih listova JCD kao opisni i sastavni dio provozne deklaracije u pisanom obliku iz stavka 1. ovoga članka.
+
+Uvjeti i način pod kojima se primjenjuje rezervni postupak uređuju se propisom koji donosi ministar financija.«.
+
+##### Članak 37.
+
+Članak 320.b mijenja se i glasi:
+
+»Ne isključujući odredbu stavka 6. ovoga članka, roba koja se prevozi u provoznom postupku ne može se pustiti dok nije osigurana njezina istovjetnost stavljanjem carinske plombe. Otpremna carinarnica poduzima mjere za osiguranje istovjetnosti robe koje smatra potrebnima i relevantne pojedinosti unosi u provoznu deklaraciju.
+
+Carinska plomba je oblikovani plosnati komad olova, okruglog oblika, sa šupljinom u presjeku koja s jedne strane završava jednim otvorom, a s druge strane s dva otvora. Kroz plombu se provlači željezna žica, konop i slično. Carinska plomba može biti izrađena i od drugog odgovarajućeg materijala. Pri obilježavanju robe, plomba se žigoše (preša) carinskim kliještima, na kojima je na jednoj strani urezan grb Republike Hrvatske, a na drugoj strani broj kliješta i naziv carinarnice. Svaka carinska kliješta moraju imati poseban broj. Carinske plombe moraju zadovoljiti svojstva utvrđena Prilogom 33 B ove Uredbe koji je njezin sastavni dio.
+
+Carinske plombe se stavljaju:
+
+a) na prostor u kojem je smještena roba, ako je drugim propisima utvrđeno da je prijevozno sredstvo podobno za stavljanje carinskih plombi ili je to utvrdila otpremna carinarnica,
+
+b) na svaki pojedini paket, u iznimnim slučajevima.
+
+Prijevozna sredstva koja mogu biti utvrđena kao podobna za stavljanje carinskih plombi su ona:
+
+a) na koja je moguće jednostavno i učinkovito postaviti carinske plombe,
+
+b) koja su konstruirana tako da nije moguće iznositi ili unositi robu bez ostavljanja vidljivog traga na oznaci ili oštećenja carinskih plombi,
+
+c) u kojima nema skrivenih prostora u kojima bi bilo moguće sakriti robu, te
+
+d) u kojima su prostori namijenjeni za ukrcaj robe lako dostupni za carinski pregled.
+
+Svako cestovno vozilo, prikolica, poluprikolica ili kontejner koji su u skladu s međunarodnim sporazumom kojem je pristupila Republika Hrvatska odobreni za prijevoz robe pod carinskom plombom smatraju se prikladnima za plombiranje.
+
+Uzimajući u obzir druge moguće mjere osiguranja istovjetnosti robe, otpremna carinarnica može odustati od stavljanja carinskih plombi ako je istovjetnost robe moguće odmah utvrditi na temelju opisa robe u podacima iz provozne deklaracije ili u priloženim ispravama. Smatra se da opis robe omogućuje utvrđivanje istovjetnosti robe ako je dovoljno precizan da omogući lako utvrđivanje istovjetnosti količine i naravi robe.
+
+Ako otpremna carinarnica odobri oslobođenje od plombiranja, u provoznu deklaraciju pored oznake »Stavljene plombe« polja »D. Kontrola otpremne carinarnice« unosi se napomena »OSLOBOĐENO«.
+
+Iznimno, osim stavljanja carinske plombe, istovjetnost robe koja se prevozi u provoznom postupku može se osigurati stavljanjem drugih carinskih obilježja. Drugim carinskim obilježjima prvenstveno se smatraju otisci carinskog pečata i štambilja. Carinska obilježja, carinska kliješta i drugi materijal potreban za obilježavanje robe, osigurava Carinska uprava.
+
+Carinski pečat je od gume, okruglog oblika, promjera 38 mm, odnosno 18 mm, s rednim brojem pečata iznad grba Republike Hrvatske i na njemu je na hrvatskom jeziku upisan puni naziv i sjedište ovlaštene carinarnice u koncentričnim krugovima oko grba Republike Hrvatske.
+
+Carinski štambilj je četverokutnog oblika, dimenzije 52x25 mm s ugrađenim pečatom promjera 18 mm.
+
+Carinski štambilj sadrži:
+
+a) na lijevoj strani carinski pečat s državnim grbom Republike Hrvatske u skladu sa stavkom 9. ovoga članka, te natpis »Republika Hrvatska« na obrubu,
+
+b) na desnoj strani: naziv carinarnice gore, naziv carinske ispostave dolje, te šifru štambilja uz desni rub okomito, te
+
+c) datumar u sredini desnog dijela štambilja.«.
+
+##### Članak 38.
+
+Članak 320.c mijenja se i glasi:
+
+»Kada se provozna deklaracija podnosi otpremnoj carinarnici elektroničkom razmjenom podataka, primjerci 4. i 5. provozne deklaracije se zamjenjuju Pratećom provoznom ispravom koja odgovara oglednom obrascu i napomenama iz Priloga 33 C ove Uredbe, koji je njezin sastavni dio.
+
+Prateća provozna isprava se prema potrebi dopunjuje Popisom stavki koji odgovara oglednom obrascu i napomenama iz Priloga 33 D ove Uredbe, koji je njezin sastavni dio ili popisom pošiljaka. Popisi čine sastavni dio Prateće provozne isprave.
+
+U okolnostima iz stavka 1. ovoga članka, otpremna carinarnica odobrava puštanje robe tako da glavnom obvezniku izdaje Prateću provoznu ispravu.
+
+Uz odobrenje nadležne carinarnice, Prateća provozna isprava može se ispisati izravno iz računalnog sustava glavnog obveznika.
+
+Odredbe ovog poglavlja koje se odnose na primjerke deklaracije koji prate pošiljku, odgovarajuće se primjenjuju na Prateću provoznu ispravu.«.
+
+##### Članak 39.
+
+Članak 322. mijenja se i glasi:
+
+»Provozni postupak se smatra završenim, a obveze glavnog obveznika ispunjenim, kada se roba stavljena u postupak, propisane isprave i zahtijevani podaci podnesu odredišnoj carinarnici u skladu s odredbama kojima je propisan postupak provoza.
+
+Nadležna carinarnica će zaključiti postupak kada je u mogućnosti utvrditi, na temelju usporedbe podataka raspoloživih u otpremnoj carinarnici i podataka raspoloživih u odredišnoj carinarnici, da je postupak ispravno završio.«.
+
+##### Članak 40.
+
+Članak 322.a mijenja se i glasi:
+
+»Ako otpremna carinarnica ne primi primjerak 5 JCD u roku od 8 dana od dana prihvaćanja provozne deklaracije, pokrenut će postupak potrage tako što će od glavnog obveznika i odredišne carinarnice zatražiti dokaze o završetku provoznog postupka s namjerom prikupljanja podataka potrebnih za zaključenje postupka ili s namjerom utvrđivanja je li nastao carinski dug i utvrđivanja dužnika.
+
+Kada se primjenjuju odredbe dijela II. Glave IV. Poglavlja 6. ove Uredbe, nadležna carinarnica pokreće postupak potrage ako ne primi poruku »Obavijest o dolasku« u roku određenom za podnošenje robe odredišnoj carinarnici ili poruku o »Rezultatima kontrole« u roku od šest dana nakon primitka poruke »Obavijest o dolasku«. Postupak potrage započinje najkasnije sedam dana nakon isteka jednog od rokova.
+
+Ako je otpremna carinarnica primila samo poruku »Obavijest o dolasku«, postupak se pokreće traženjem poruke »Rezultati kontrole« od odredišne carinarnice koja je poslala poruku »Obavijest o dolasku«. Ako otpremna carinarnica nije primila poruku »Obavijest o dolasku«, postupak se pokreće traženjem informacija od glavnog obveznika koje su potrebne za završetak postupka ili traženjem informacija od odredišne carinarnice, ako na odredištu postoji dovoljno raspoloživih informacija. Glavni obveznik je dužan pružiti tražene informacije najkasnije u roku od 28 dana nakon početka postupka potrage.
+
+Ako otpremna carinarnica ima saznanja da postupak provoza nije završen ili ako sumnja da nije završen, bez odgađanja pokreće postupak potrage.
+
+Postupak potrage pokreće se, također, u slučaju ako se naknadno pokaže da je dokaz o završetku provoznog postupka krivotvoren.
+
+Radi pokretanja postupka potrage, otpremna carinarnica će poslati odredišnoj carinarnici zahtjev zajedno sa svim potrebnim podacima.
+
+Odredišna carinarnica postupa po zahtjevu o potrazi bez odgađanja.
+
+Kada se ustanovi da je postupak provoza ispravno završio, otpremna carinarnica o istome odmah obavještava glavnog obveznika.«.
+
+##### Članak 41.
+
+U članku 324. stavku 2. riječi: »točke g)« zamjenjuju se riječima: »točke f)«.
+
+##### Članak 42.
+
+Članak 326. mijenja se i glasi:
+
+»Prilikom puštanja robe u postupak provoza, otpremna carinarnica šalje podatke o provozu deklariranoj odredišnoj carinarnici porukom »Najava očekivanog dolaska« i svakoj deklariranoj provoznoj carinarnici porukom »Najava očekivanog provoza«. Te se poruke temelje na podacima iz provozne deklaracije koji su, prema potrebi, izmijenjeni i dopunjeni.
+
+Nakon puštanja u postupak provoza robu prati Prateća provozna isprava.«.
+
+##### Članak 43.
+
+Članak 327. mijenja se i glasi:
+
+»Roba i Prateća provozna isprava podnose se svakoj provoznoj carinarnici.
+
+Provozna carinarnica evidentira prolazak pošiljke najavljene porukom »Najava očekivanog provoza« koju je primila od otpremne carinarnice. O prolasku pošiljke provozna carinarnica obavješćuje otpremnu carinarnicu korištenjem poruke »Obavijest o prelasku granice«.
+
+Provozne carinarnice provjeravaju robu ukoliko to smatraju potrebnim. Provjera robe se obavlja korištenjem poruke »Najava očekivanog provoza« kao osnove za provjeru.
+
+Kada se roba prevozi preko provozne carinarnice koja nije deklarirana i navedena u Pratećoj provoznoj ispravi, provozna carinarnica od otpremne carinarnice zahtijeva podnošenje poruke »Najava očekivanog provoza« te obavješćuje otpremnu carinarnicu o prolasku koristeći poruku »Obavijest o prelasku granice«.«.
+
+##### Članak 44.
+
+Iza članka 327. dodaju se članci 327.a i 327.b koji glase:
+
+»Članak 327.a
+
+U slučaju promjene propisanog plana puta ili nastupa nekog od događaja iz članka 321.b ove Uredbe, prijevoznik je dužan u Pratećoj provoznoj ispravi upisati potrebne podatke te podnijeti robu i Prateću provoznu ispravu nadležnoj carinarnici na čijem se području prijevozno sredstvo nalazi.
+
+Ako nadležna carinarnica smatra da se provozni postupak može nastaviti na uobičajen način, obvezna je, nakon poduzimanja svih potrebnih mjera, ovjeriti Prateću provoznu ispravu. Ovisno o slučaju, provozna ili odredišna carinarnica u sustav elektroničke razmjene podataka bilježi relevantne informacije o nezgodama ili drugim događajima tijekom prijevoza.
+
+##### Članak 327.b
+
+Roba i propisane isprave se podnose odredišnoj carinarnici u uredovno vrijeme. Iznimno, temeljem zahtjeva i na trošak zainteresirane stranke, odredišna carinarnica može odobriti da se roba i isprave podnesu izvan uredovnog vremena i izvan radnog prostora carinarnice uz odgovarajuću primjenu članka 95.h ove Uredbe.
+
+Smatra se da je roba podnesena u roku kada je roba podnesena odredišnoj carinarnici nakon isteka roka koji je odredila otpremna carinarnica ako je do nepoštivanja roka došlo zbog okolnosti za koje je odredišnoj carinarnici predočeno zadovoljavajuće objašnjenje i koje se ne mogu pripisati prijevozniku ili glavnom obvezniku.
+
+Odredišna carinarnica zadržava Prateću provoznu ispravu, a provjera robe se posebice obavlja na temelju poruke »Najava očekivanog dolaska« primljene od otpremne carinarnice.
+
+Na zahtjev glavnog obveznika, a radi pružanja dokaza da je postupak završio u skladu sa člankom 322.b stavkom 1. točkom a) ove Uredbe, odredišna carinarnica ovjerava primjerak Prateće provozne isprave napomenom: »– Alternativni dokaz – 99202«.
+
+Postupak provoza se može završiti u carinarnici koja nije upisana u provoznu deklaraciju, koja time postaje odredišna carinarnica. U takvom slučaju nova odredišna carinarnica traži podnošenje poruke »Najava očekivanog dolaska« od otpremne carinarnice.«.
+
+##### Članak 45.
+
+Članak 328. mijenja se i glasi:
+
+»Na zahtjev osobe koja podnosi robu i potrebne isprave odredišna carinarnica ovjerava potvrdu primitka sukladno članku 321.d i Prilogu 33 E ove Uredbe.«.
+
+##### Članak 46.
+
+Iza članka 328. dodaje se članak 328.a koji glasi:
+
+»Članak 328.a
+
+Odredišna carinarnica obavještava otpremnu carinarnicu o dolasku robe porukom »Obavijest o dolasku« na dan kada je roba podnesena odredišnoj carinarnici.
+
+Kada se provoz završava u drugoj carinarnici koja nije prvobitno deklarirana u provoznoj deklaraciji, nova odredišna carinarnica o dolasku robe obvezno obavješćuje otpremnu carinarnicu porukom »Obavijest o dolasku«. Otpremna carinarnica o dolasku robe u drugu odredišnu carinarnicu obavještava prvobitno deklariranu odredišnu carinarnicu porukom »Proslijeđena obavijest o dolasku«.
+
+Poruka »Obavijest o dolasku«iz stavaka 1. i 2. ovoga članka ne može se koristiti kao dokaz završetka provoznog postupka u smislu članka 322.b stavka 1. točke a) ove Uredbe.
+
+Osim u opravdanim slučajevima, odredišna carinarnica prosljeđuje poruku »Rezultati kontrole« otpremnoj carinarnici najkasnije trećega dana nakon dana kada je roba podnesena odredišnoj carinarnici. Kada se primjenjuje članak 352. ove Uredbe, međutim, odredišna carinarnica prosljeđuje poruku »Rezultati kontrole« otpremnoj carinarnici najkasnije šestoga dana nakon dana kada je roba dostavljena.«.
+
+##### Članak 47.
+
+Članak 329. mijenja se i glasi:
+
+»Strukturu i sadržaj poruka iz ovoga poglavlja propisuje ravnatelj Carinske uprave.«.
+
+##### Članak 48.
+
+U članku 330. stavku 1. točka b) briše se.
+
+Dosadašnje točke c), d), e), f), g) i h) postaju točke b), c), d), e), f) i g).
+
+##### Članak 49.
+
+U članku 331. stavku 1. točki b) riječi: »točke f)« zamjenjuju se riječima: »točka e)«.
+
+##### Članak 50.
+
+U članku 334. stavku 3. riječi: »točke c), d) i g)« zamjenjuju se riječima: »točke b), c) i f)«.
+
+##### Članak 51.
+
+U članku 337. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»Referentni iznosi se za svaki provozni postupak obrađuju i mogu se nadzirati pomoću carinskog sustava elektroničke razmjene podataka.«.
+
+##### Članak 52.
+
+U članku 337.c stavku 2. dodaje se rečenica koja glasi: »Jamstvena isprava se čuva u jamstvenoj carinarnici.«.
+
+##### Članak 53.
+
+Naziv odjeljka iznad članka 338. mijenja se i glasi:
+
+*»Odjeljak 3. Referentni broj jamstva«*
+
+##### Članak 54.
+
+Članak 338. mijenja se i glasi:
+
+»Kada se primjenjuju odredbe dijela II. Glave IV. Poglavlja 6. ove Uredbe, za svako zajedničko jamstvo, odnosno oslobođenje od polaganja jamstva:
+
+a) glavnom obvezniku se za uporabu jamstva dodjeljuje »referentni broj jamstva« povezan s jednim referentnim iznosom,
+
+b) jamstvena carinarnica glavnom obvezniku dodjeljuje i dostavlja početnu pristupnu šifru zajedno s »referentnim brojem jamstva«.
+
+Glavni obveznik može pripisati jednu ili više pristupnih šifri jamstvu iz stavka 1. ovoga članka koje će koristi on ili njegovi zastupnici.«.
+
+##### Članak 55.
+
+Članak 352. mijenja se i glasi:
+
+»Kada odredišna carinarnica koristi elektroničku razmjenu podataka, status ovlaštenog primatelja može se odobriti osobama koje, osim što zadovoljavaju uvjete iz članka 331. ove Uredbe, primjenjuju i sustav elektroničke razmjene podataka u komunikaciji s nadležnom carinarnicom.
+
+Pored podataka iz članka 350. ove Uredbe u odobrenju je, također, potrebno navesti rok u kojem ovlašteni primatelj putem poruke »Dopuštenje za istovar« prima relevantne podatke iz poruke »Najava očekivanog dolaska« od odredišne carinarnice u svrhu primjene članka 327.b stavka 3. ove Uredbe.
+
+Glavni obveznik je ispunio svoje obveze iz članka 107. Carinskog zakona te se smatra da je postupak provoza završio kada je Prateća provozna isprava koja je pratila pošiljku zajedno s netaknutom robom u propisanom roku dostavljena ovlaštenom primatelju u njegovim prostorijama ili na mjestu navedenom u odobrenju uz poštivanje mjera za osiguranje istovjetnosti robe.
+
+Kada roba stigne u njegove prostorije ili na mjesta navedena u odobrenju, ovlašteni primatelj:
+
+a) odmah obavještava odredišnu carinarnicu odgovornu za dolazak robe porukom »Gospodarstvenikova obavijest o dolasku« koja uključuje sve nezgode tijekom prijevoza,
+
+b) čeka poruku »Dopuštenje za istovar« prije početka istovara,
+
+c) nakon što je dobio »Dopuštenje za istovar«, najkasnije trećega dana nakon dolaska robe, odredišnoj carinarnici šalje poruku »Bilješke o istovaru« u kojoj moraju biti navedene sve utvrđene razlike, u skladu s postupkom utvrđenim u odobrenju,
+
+d) odredišnoj carinarnici daje na raspolaganje ili šalje primjerak Prateće provozne isprave koja je pratila robu u skladu s odredbama predviđenima u odobrenju.
+
+Odredišna carinarnica u sustav elektroničke razmjene podataka unosi podatke iz poruke »Rezultati kontrole«.«.
+
+##### Članak 56.
+
+U članku 383. stavku 1. riječi: »i članka 338.« brišu se.
+
+##### Članak 57.
+
+U članku 429. stavku 1. riječi: »do 313.« se zamjenjuju se riječima: »do 313.k«.
+
+##### Članak 58.
+
+Iza članka 431. dodaje se naziv Glave VI., naziv Poglavlja 1., članci 431.a do 431.f, naziv Poglavlja 2. i članci 431.g i 431.h koji glase:
+
+### »Glava VI. ROBA KOJA NAPUŠTA CARINSKO PODRUČJE REPUBLIKE HRVATSKE
+
+*Poglavlje 1. Izlazna sigurnosna skraćena deklaracija*
+
+##### Članak 431.a
+
+Ne isključujući odredbe stavaka 3. i 4. ovoga članka, ako se za robu koja se iznosi iz carinskog područja Republike Hrvatske ne zahtijeva podnošenje carinske deklaracije, izlaznoj carinarnici se podnosi izlazna sigurnosna skraćena deklaracija.
+
+Za primjenu ove Glave izlaznom carinarnicom se smatra:
+
+a) carinarnica nadležna za mjesto iz kojega će roba napustiti carinsko područje Republike Hrvatske, ili
+
+b) ako će roba napustiti carinsko područje Republike Hrvatske zrakom ili morem, carinarnica nadležna za mjesto gdje se roba utovaruje na plovilo ili zrakoplov na kojemu će biti dovedena do odredišta izvan carinskog područja Republike Hrvatske.
+
+Ne postoji obveza podnošenja izlazne sigurnosne skraćene deklaracije ako provozna deklaracija podnesena elektroničkom razmjenom podataka sadrži podatke iz izlazne sigurnosne skraćene deklaracije te ako je odredišna carinarnica ujedno izlazna carinarnica ili je odredišna carinarnica izvan carinskog područja Republike Hrvatske.
+
+Izlazna sigurnosna skraćena deklaracija se ne podnosi:
+
+a) u slučajevima propisanim člankom 311. ove Uredbe,
+
+b) ako se roba utovaruje u luci ili zračnoj luci u carinskom području Republike Hrvatske, a postupak će završiti u nekoj drugoj luci ili zračnoj luci u carinskom području Republike Hrvatske, pod uvjetom da je, na zahtjev, izlaznoj carinarnici omogućen uvid u isprave o namjeravanom mjestu istovara robe u obliku trgovinskog, lučkog ili prijevoznog manifesta ili popisa robe. Izlazna sigurnosna skraćena deklaracija se ne podnosi i ako plovilo ili zrakoplov koji prevoze robu pristaju, odnosno slijeću u luci ili zračnoj luci izvan carinskog područja Republike Hrvatske, a roba ostaje utovarena na plovilu ili zrakoplovu za vrijeme boravka u luci ili zračnoj luci izvan carinskog područja Republike Hrvatske,
+
+c) ako roba u luci ili zračnoj luci nije istovarena iz prijevoznoga sredstva kojim je prevezena u carinsko područje Republike Hrvatske i koje će je prevesti izvan područja Republike Hrvatske,
+
+d) ako je roba bila utovarena u prethodnoj luci ili zračnoj luci u carinskom području Republike Hrvatske i ostaje na prijevoznome sredstvu koje će je prevesti izvan carinskog područja Republike Hrvatske,
+
+e) ako se roba u privremenom smještaju ili u slobodnoj zoni pod nadzorom iste carinske ispostave pretovaruje iz prijevoznoga sredstva koje ju je dopremilo do prostora za privremeni smještaj ili slobodne zone, na plovilo, zrakoplov ili vlak koji će je iz prostora za privremeni smještaj ili slobodne zone prevesti izvan carinskog područja Republike Hrvatske, pod uvjetom:
+
+– da se pretovar vrši u roku od četrnaest dana od dana kada je roba podnesena carinarnici radi privremenog smještaja ili smještaja u slobodnu zonu, pri čemu, u iznimnim slučajevima, carinarnica može produžiti rok radi uređenja postupanja u odnosnim okolnostima;
+
+– da su nadležnoj carinarnici dostupni podaci o robi;
+
+– da se, prema saznanju prijevoznika, odredište i primatelj robe ne mijenjaju;
+
+f) ako je dokaz da je roba koja napušta carinsko područje Republike Hrvatske obuhvaćena carinskom deklaracijom koja sadrži podatke potrebne za izlaznu sigurnosnu skraćenu deklaraciju stavljen na raspolaganje izlaznoj carinarnici korištenjem sustava za obradu podataka posjednika prostora za privremeni smještaj, prijevoznika ili operatora luke, odnosno zračne luke ili korištenjem nekog drugog, od carinarnice odobrenog, komercijalnog sustava obrade podataka. Ne isključujući odredbu članka 431.d stavka 2. ove Uredbe, kada se primjenjuju točke a) do f) ovoga članka pri provedbi radnji carinske provjere se uzimaju u obzir posebne okolnosti svakog pojedinog slučaja.
+
+Izlaznu sigurnosnu skraćenu deklaraciju podnosi prijevoznik. Izlaznu sigurnosnu skraćenu deklaraciju, međutim, podnosi posjednik prostora za privremeni smještaj ili skladišta u slobodnoj zoni ili druga osoba koja može podnijeti robu ako je o tome prijevoznik obaviješten i dao svoj pristanak u okviru ugovornog odnosa. Smatra se da je prijevoznik dao svoj pristanak u okviru ugovornog odnosa i da je izlazna sigurnosna skraćena deklaracija podnesena uz njegovo znanje, osim ako postoje dokazi koji upućuju na suprotan zaključak. U pogledu definicije prijevoznika primjenjuje se odredba članka 313.i stavka 1. ove Uredbe. Ako nakon podnošenja izlazne sigurnosne skraćene deklaracije roba više nije namijenjena iznošenju iz carinskog područja Republike Hrvatske na odgovarajući način se primjenjuje članak 313.i stavak 4. ove Uredbe.
+
+##### Članak 431.b
+
+Izlazna sigurnosna skraćena deklaracija se podnosi elektroničkom razmjenom podataka.
+
+Izlaznu sigurnosnu skraćenu deklaraciju ovjerava osoba koja ju izdaje.
+
+##### Članak 431.c
+
+U slučaju intermodalnog prijevoza, ako se roba prekrcava iz jednog prijevoznog sredstva u drugo prijevozno sredstvo za prijevoz izvan carinskog područja Republike Hrvatske, rok za podnošenje izlazne sigurnosne skraćene deklaracije odgovara roku koji se primjenjuje za prijevozno sredstvo koje napušta carinsko područje Republike Hrvatske u smislu članka 431.d stavka 1. ove Uredbe.
+
+U slučaju kombiniranog prijevoza, ako aktivno prijevozno sredstvo koje prelazi granicu samo prevozi drugo aktivno prijevozno sredstvo, prijevoznik drugog prijevoznoga sredstva je obvezan podnijeti izlaznu sigurnosnu skraćenu deklaraciju. Rok za podnošenje izlazne sigurnosne skraćene deklaracije odgovara roku za podnošenje izlazne sigurnosne skraćene deklaracije za aktivno prijevozno sredstvo koje prelazi granicu u smislu članka 431.d stavka 1. ove Uredbe.
+
+##### Članak 431.d
+
+Izlazna sigurnosna skraćena deklaracija se podnosi izlaznoj carinarnici do rokova propisanih člankom 312. stavkom 1. ove Uredbe uz odgovarajuću primjenu članka 312. stavka 2. i članka 313. ove Uredbe.
+
+Nadležna carinarnica nakon podnošenja izlazne sigurnosne skraćene deklaracije, a prije puštanja robe radi iznošenja iz carinskog područja Republike Hrvatske, odnosno u vremenskom razdoblju koje odgovara razdoblju između roka za podnošenje carinske deklaracije za pojedine vrste prijevoza sukladno članku 312. ove Uredbe i utovara ili otpreme robe, provodi odgovarajuće provjere na temelju analize rizika, prvenstveno za sigurnosno relevantne svrhe.
+
+Kada se roba iz članka 431.a stavka 4. ove Uredbe za koju ne postoji obveza podnošenja izlazne sigurnosne skraćene deklaracije iznosi iz carinskog područja Republike Hrvatske, analiza rizika se provodi nakon podnošenja robe i na temelju isprava ili drugih podataka koji se odnose na robu.
+
+Roba se može pustiti odmah nakon provedbe analize rizika.
+
+Ako se utvrdi da roba namijenjena iznošenju iz carinskog područja Republike Hrvatske za koju postoji obveza podnošenja izlazne sigurnosne skraćene deklaracije nije obuhvaćena takvom deklaracijom, osoba koja robu iznosi ili preuzima odgovornost za prijevoz robe iz carinskog područja Republike Hrvatske obvezna je za robu odmah podnijeti izlaznu sigurnosnu skraćenu deklaraciju.
+
+Podnošenje izlazne sigurnosne skraćene deklaracije nakon rokova propisanih člancima 312. i 313. ove Uredbe ne isključuje primjenu kaznenih odredaba.
+
+Nadležna carinarnica obavještava osobu koja je podnijela izlaznu sigurnosnu skraćenu deklaraciju, odnosno osobu odgovornu za prijevoz robe iz carinskog područja Republike Hrvatske, da roba neće biti puštena ako se na temelju provedenih provjera ne može odobriti puštanje robe.
+
+Obavijest iz stavka 7. ovoga članka se daje u primjerenom roku nakon što je za robu provedena analiza rizika.
+
+##### Članak 431.e
+
+Rokovi iz članka 431.d stavka 1. ove Uredbe se ne primjenjuju kada međunarodni sporazumi između Republike Hrvatske i trećih zemalja predviđaju razmjenu podataka iz carinskih deklaracija u drugačijim rokovima.
+
+Rok za podnošenje izlazne sigurnosne skraćene deklaracije ni u kojem slučaju ne može biti kraći od vremena koje je potrebno za provedbu analize rizika prije nego što roba napusti carinsko područje Republike Hrvatske.
+
+##### Članak 431.f
+
+Carinska deklaracija koja se u skladu s člankom 186.b Carinskog zakona koristi kao izlazna sigurnosna skraćena deklaracija pored podataka koji su potrebni za primjenu propisa vezanih uz carinski postupak za koji je roba deklarirana, sadrži i podatke propisane za izlaznu sigurnosnu skraćenu deklaraciju.
+
+Ako nakon 150 dana od dana podnošenja izlazne sigurnosne skraćene deklaracije roba nije napustila carinsko područje Republike Hrvatske smatra se da izlazna sigurnosna skraćena deklaracija nije bila podnesena.
+
+Posebnosti provedbe carinskog postupanja pri podnošenju izlazne sigurnosne skraćene deklaracije, uvjeti i način podnošenja, kao i sadržaj i način popunjavanja izlazne sigurnosne skraćene deklaracije uređuju se propisom koji donosi ministar financija.
+
+*Poglavlje 2. Privremeni izvoz s uporabom obrasca ATA*
+
+##### Članak 431.g
+
+Obrazac ATA može se koristiti za privremeni izvoz, ukoliko su ispunjeni sljedeći uvjeti:
+
+a) ako je obrazac ATA izdan na carinskom području i sadrži oznaku i jamstvo garantnog udruženja koje je dio međunarodnog garancijskog lanca (Hrvatske gospodarske komore),
+
+b) da se obrazac ATA koristi samo za domaću robu:
+
+1. koja prilikom izvoza iz carinskog područja nije bila predmet carinskih formalnosti s namjenom dobivanja naknada ili drugih iznosa pri izvozu u skladu s mjerama poljoprivredne politike;
+
+2. za koju nisu odobrene druge financijske povlastice u skladu s mjerama poljoprivredne politike, u svezi s obvezom izvoza spomenute robe;
+
+3. za koju nije podnesen zahtjev za povrat ili otpust uvoznih davanja;
+
+c) da su predočene isprave navedene u članku 126. ove Uredbe, pri čemu carinarnica može zahtijevati prilaganje prijevoznih isprava,
+
+d) da je roba namijenjena ponovnom uvozu.
+
+Za robu koja se privremeno izvozi temeljem obrasca ATA, izvozna carinarnica mora obaviti sljedeće formalnosti:
+
+a) provjeriti podatke navedene u poljima A do G izvoznog kupona u odnosu na robu obuhvaćenu ATA karnetom,
+
+b) ispuniti, ako je to potrebno, polje na prvoj strani obrasca s naslovom »Potvrda carinarnice«,
+
+c) potvrditi talon i polje H izvoznog kupona (popunjava kontrolni listić i rubriku H u izvoznom kuponu),
+
+d) upisati svoje ime u točki b) polja H u kuponu za ponovni uvoz, te
+
+e) zadržati izvozni kupon.
+
+Ukoliko izvozna carinarnica nije ujedno i izlazna carinarnica, izvozna carinarnica obavlja sve formalnosti navedene u stavku 2. ovoga članka, a ne ispunjava polje 7 u izvoznom talonu kojeg mora popuniti izlazna carinarnica.
+
+Rok za ponovni uvoz robe kojeg je carinarnica navela u točki b) polju H izvoznog kupona, ne smije prekoračiti rok valjanosti obrasca ATA.
+
+##### Članak 431.h
+
+Ako roba koja je napustila carinsko područje s obrascem ATA nije više namijenjena ponovnom uvozu, izvozna deklaracija se podnosi izvoznoj carinarnici. Kod podnošenja tog obrasca, izvozna carinarnica će potvrditi primjerak 3. izvozne deklaracije i poništiti kupon za ponovni uvoz i talon.
+
+Za privremeni izvoz robe koja ispunjava uvjete za primjenu Istanbulske konvencije za koju nije izdan obrazac ATA, postupak privremenog izvoza provodi se podnošenjem JCD.«.
+
+##### Članak 59.
+
+Iza članka 470. dodaje se članak 470.a koji glasi:
+
+»Članak 470.a
+
+Ako se izvrši ispravak podataka u ulaznoj sigurnosnoj skraćenoj deklaraciji, a ponašanje odgovorne osobe ne ukazuje na prijevarno postupanje, ne nastaje carinski dug u smislu članka 205. Carinskog zakona zbog nezakonitog unosa robe koja prije ispravka sigurnosne skraćene deklaracije nije bila pravilno deklarirana.«.
+
+##### Članak 60.
+
+Članak 516. stavak 3. mijenja se i glasi:
+
+»Vlada Republike Hrvatske može za donošenje odluka iz stavaka 1. do 3. ovoga članka ovlastiti povjerenstvo koje čine predstavnici Ministarstva financija, Ministarstva zdravstva i socijalne skrbi, Ministarstva gospodarstva, rada i poduzetništva i Ministarstva kulture.«.
+
+##### Članak 61.
+
+U članku 517. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Zbog sigurnosnih razloga, razloga zaštite zdravlja i života ljudi, životinja ili bilja ili drugih osobito opravdanih razloga, carinarnica može sa oduzetom stranom robom koja je, sukladno posebnim propisima, u ograničenom pravnom prometu raspolagati tako da je, do određivanja postupanja prema odredbama ovoga dijela Uredbe, preda na čuvanje nadležnom javnopravnom tijelu ili ovlaštenoj osobi za stručno postupanje i rukovanje robom.«.
+
+##### Članak 62.
+
+Stupanjem na snagu ove Uredbe prestaje carinski nadzor nad plovilima koja su radi posebne uporabe bila puštena u slobodan promet do dana 1. srpnja 2006. godine.
+
+Prekoračenje roka za podnošenje zahtjeva za produženje roka važenja posebne uporabe temeljem odobrenja izdanih do dana 1. srpnja 2006. godine ne smatra se neispunjenjem uvjeta ili obveza za odobravanje i korištenje smanjene ili nulte stope carine radi posebne uporabe robe, pod uvjetom da bi rok bio produžen da je zahtjev za produljenje podnesen pravovremeno i da korisnik odobrenja donošenjem ovršnog rješenja nije obvezan na plaćanje carinskog duga.
+
+##### Članak 63.
+
+U Uredbi za provedbu Carinskog zakona (»Narodne novine«, br. 161/2003, 69/2006, 5/2007, 70/2008 i 76/2009) ogledni obrazac Prilog 31 A – Popis osjetljive robe zamjenjuje se novim oglednim obrascem koji su tiskan uz ovu Uredbu i njezin je sastavni dio.
+
+Iza Priloga 31 A dodaju se ogledni obrasci: Prilog 31 B – Ogledni primjerak prateće izvozne isprave i Prilog 31 C – Ogledni primjerak Popisa stavki prateće izvozne isprave.
+
+Ogledni obrasci: Prilog 33 C – Ogledni primjerak prateće provozne isprave i Prilog 33 D – Ogledni primjerak Popisa stavki prateće provozne isprave zamjenjuju se novim oglednim obrascima koji su tiskani uz ovu Uredbu i njezini su sastavni dijelovi.
+
+Ogledni obrazac Prilog 37 A – Bankovna garancija za porezni i carinski dug duhanskih proizvoda, briše se.
+
+Ogledni obrasci iz stavka 2. ovoga članka otisnuti su uz ovu Uredbu i njezini su sastavni dijelovi.
+
+##### Članak 64.
+
+Propisi za provedbu ove Uredbe donijet će se u roku 6 mjeseci od dana njezinoga stupanja na snagu.
+
+##### Članak 65.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 413-01/10-01/04
+
+Urbroj: 5030120-10-1
+
+Zagreb, 23. prosinca 2010.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+#### PRILOG 31A
+
+### OSJETLJIVA ROBA
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Tarifna oznaka | Opis robe | Minimalne količina | Oznaka osjetljiva roba | Minimalni iznos pojedinačnog jamstva |
+| 0406.30 0406.90 | Sir topljeni Ostali sir | 1000 kg |  | 15.000 kn/tona |
+| 0901.11 0901.12 | Kava, nepržena, sa i bez kofeina | 100 kg |  | 10.000 kn/ tona |
+| 0901.21 0901.22 | Kava, pržena, sa i bez kofeina | 100 kg |  | 22.000 kn/tona |
+| 1701.11 1701.12 1701.9910 | Šećer od trske, za rafiniranje i ostali Šećer od repe, za rafiniranje i ostali Bijeli šećer | 1000 kg |  | 1.600 kuna/tona 1.600 kuna/tona 4.000 kuna/tona |
+| 2203.00 2202.90 | Pivo Bezalkoholno pivo | 5 hl |  | 400 kn/hl |
+| 2207.10 | Nedenaturirani etilni alkohol s volumnim udjelom alkohola 80 vol. % ili većim | 3 hl |  | 8.000 kn/hl čistog alkohola |
+| 2208.20 2208.30 2208.40 2208.50 2208.60 2208.70 2208.90 | Alkoholna pića | 5 hl |  | 14.000 kn/hl čistog alkohola |
+| 2208.903310 2208.903810 2208.903820 | Šljivovica i destilati za preradbu | 5hl |  | 14.000 kn/hl čistog alkohola |
+| 2402.10 | Cigare, koje sadrže duhan Cigarilosi, koji sadrže duhan |  | 100 komada 50 paketića | 300 kn/100 komada 100 kn/100 komada |
+| 2402.20 | Cigarete, koje sadrže duhan | 35000 kom |  | 600 kn/1000 komada cigareta |
+| 2403.10 | Duhan za pušenje | 35 kg |  | 13.000 kn/100 kg |
+| 2710.11 2710.19 | Naftni derivati | 10 hl |  | 325 kn/hl 250 kn/hl |
+
+### ![](https://narodne-novine.nn.hr/dodatni/416339.jpg)
+
+### POJAŠNJENJA I POJEDINOSTI ZA PRATEĆU IZVOZNU ISPRAVU
+
+Pojam rezervni postupak znači postupak u smislu primjene članka 313.e ove Uredbe.
+
+Prateća izvozna isprava sadrži podatke koji vrijede za cijelu deklaraciju i za jednu stavku robe.
+
+Prateća izvozna isprava se tiska na temelju podataka dobivenih iz izvozne deklaracije koju prema potrebi izmjenjuje i dopunjuje deklarant/zastupnik i/ili ih provjerava izvozna carinarnica.
+
+Pored sigurnosnih odredbi i odredbi o podnošenju deklaracije, podaci se moraju tiskati kako slijedi:
+
+1. POLJE MRN (broj deklaracije - referentni broj kretanja):
+
+MRN se tiska na prvoj stranici i na svim popisima stavki osim kada se obrasci koriste u rezervnom postupku pri čemu nije dodijeljen MRN.
+
+Informacije se daju u alfanumeričkom obliku s 18 znamenki prema sljedećim uputama:
+
+| Polje | Sadržaj | Vrsta polja | Primjeri |
+|---|---|---|---|
+| 1 | Posljednje dvije znamenke godine formalnog prihvaćanja izvozne deklaracije (GG) | Numeričko 2 | 09 |
+| 2 | Identifikacijska oznaka Republike Hrvatske (ISO alfa 2 šifra zemlje) | Alfabetsko 2 | HR |
+| 3 | Jedinstvena identifikacijska oznaka za izvoz po godini i zemlji | Alfanumeričko 13 | 9876AB8890123 |
+| 4 | Kontrolna znamenka | Alfanumeričko 1 | 5 |
+
+Polja 1 i 2 kao što je objašnjeno gore.
+
+Polje 3 se popunjava identifikacijskom oznakom u svrhu nadzora sustava izvoza. Pri tome svaki izvoz koji se obradi tijekom jedne godine mora imati jedinstveni broj. Carinska uprava može propisati da se u referentnom broju obvezno nalazi šifra izvozne carinarnice za što se može koristiti maksimalno prvih 6 znamenki.
+
+Polje 4 se popunjava vrijednošću koja je kontrolna znamenka za cijeli MRN. Ovo polje omogućuje otkrivanje grešaka prilikom preuzimanja cijelog MRN-a.
+
+»MRN« se također tiska kao bar kod korištenjem standardnog »koda 128«, vrsta slova »B«.
+
+2. POLJE SIG. DEKL. (S00):
+
+Popunjava se šifrom S kada Prateća izvozna isprava sadrži sigurnosne podatke. Kada Isprava ne sadrži sigurnosne podatke, polje ostaje nepopunjeno.
+
+3. POLJE CARINARNICA:
+
+Unosi se šifra izvozne carinarnice.
+
+4. POLJE REFERENTNI BROJEVI (7):
+
+Upisuje se LRN ili/i UCR.
+
+LRN – lokalni referentni broj definiran pravilima podnošenje elektronske deklaracije.
+
+UCR – jedinstveni referentni broj pošiljke definiran pravilima za podnošenje deklaracije.
+
+5. POLJE OSTALI IPO (S32):
+
+Upisuje se indikatori posebnih okolnosti.
+
+6. PODACI U RAZLIČITIM POLJIMA NA RAZINI STAVKE OTISKUJU SE KAKO SLIJEDI:
+
+a) Polje Br. stavke (32) – redni broj tekuće stavke,
+
+b) Polje UNDG (44/4) – šifra opasne robe UN-a.
+
+Prateća izvozna isprava ne može se mijenjati, niti se smiju dodavati ili brisati podaci u njoj, osim ako ovom Uredbom nije drugačije predviđeno.
+
+### ![](https://narodne-novine.nn.hr/dodatni/416340.jpg)
+
+### POJAŠNJENJE I POJEDINOSTI (PODACI) ZA POPIS STAVKI PRATEĆE IZVOZNE ISPRAVE
+
+Popis stavki Prateće izvozne isprave sadrži podatke koji se odnose na stavke robe u deklaraciji.
+
+Polja u Popisu stavki mogu se vertikalno proširiti.
+
+Pored odredbi za podnošenje carinske deklaracije i sigurnosnih odredbi podaci moraju biti otisnuti kako slijedi, prema potrebi koristeći odgovarajuće šifre:
+
+1. Polje MRN – referentni broj kretanja (broj deklaracije) kako je definirano u Prilogu 31 B. MRN se otiskuje na prvoj strani i na svim popisima stavki.
+
+2. Podaci u različitim poljima na razini stavke moraju se otisnuti kako slijedi:
+
+a) Polje Br. Stavke (32) – redni broj tekuće stavke,
+
+b) Polje UNDG (44/4) – šifra opasne robe UN-a.
+
+### ![](https://narodne-novine.nn.hr/dodatni/416341.jpg)
+
+### POJAŠNJENJA I PODACI ZA PRATEĆU PROVOZNU ISPRAVU
+
+Papir koji se koristi za Prateću provoznu ispravu može biti zelene boje.
+
+Prateća provozna isprava se tiska na temelju podataka dobivenih iz deklaracije za postupak provoza, koje prema potrebi izmjenjuje glavni obveznik i/ili ih provjerava otpremna carinarnica, te se popunjava:
+
+1. MRN (referentni broj kretanja - broj deklaracije)
+
+Informacije se daju u alfanumeričkom obliku s 18 znamenki prema sljedećem oglednom primjerku:
+
+| Polje | Sadržaj | Vrsta polja | Primjeri |
+|---|---|---|---|
+| 1 | Posljednje dvije znamenke godine formalnog prihvaćanja kretanja u provozu (GG) | Numeričko 2 | 09 |
+| 2 | Identifikacijska oznaka Republike Hrvatske (ISO alfa 2 šifra zemlje) | Alfabetsko 2 | HR |
+| 3 | Jedinstvena identifikacijska oznaka za kretanje u provozu po godini i zemlji | Alfanumeričko 13 | 9876AB8890123 |
+| 4 | Kontrolna znamenka | Alfanumeričko 1 | 5 |
+
+Polja 1 i 2 kao što je objašnjeno gore.
+
+Polje 3 se popunjava identifikacijskom oznakom za provoz. Pri tome svaki provoz koji se obradi tijekom jedne godine mora imati jedinstveni broj. Carinska uprava može propisati da se u referentnom broju obvezno nalazi šifra otpremne carinarnice za što se može koristiti maksimalno prvih 6 znamenki.
+
+Polje 4 se popunjava vrijednošću koja je kontrolna znamenka za cijeli MRN. Ovo polje omogućuje otkrivanje grešaka prilikom preuzimanja cijelog MRN-a.
+
+MRN se također tiska kao bar kod korištenjem standardnog »koda 128«, vrsta slova »B«.
+
+2. Polje 3:
+
+– prvo potpolje: redni broj tekućeg tiskanog lista,
+
+– drugo potpolje: ukupni broj tiskanih listova (uključujući popis stavki),
+
+– ne koristi se kada se radi o samo jednoj stavki.
+
+3. U prostoru s desne strane polja 8:
+
+Naziv i adresa carinarnice kojoj se mora vratiti povratni primjerak Prateće provozne isprave kada se koristi rezervni postupak.
+
+4. Polje C:
+
+– naziv otpremne carinarnice,
+
+– referentni broj otpremne carinarnice,
+
+– datum prihvaćanja deklaracije za postupak provoza,
+
+– naziv i broj odobrenja ovlaštenog pošiljatelja (ukoliko postoji).
+
+5. Polje D:
+
+– rezultati kontrole,
+
+– stavljene plombe ili napomena »- -« koja označava »Oslobođeno«,
+
+– napomena »obvezujući plan puta«, prema potrebi.
+
+Prateća provozna isprava se ne smije mijenjati niti se smiju dodavati ili brisati podaci u njoj, osim ako nije drugačije predviđeno ovom Uredbom.
+
+6. Formalnosti na putu
+
+Od trenutka kada roba napusti otpremnu carinarnicu do trenutka njezinog dolaska u odredišnu carinarnicu, određeni podaci se možda moraju upisati u Prateću provoznu ispravu. Ti se podaci odnose na prijevoz i mora ih upisati prijevoznik odgovoran za prijevozno sredstvo na koje je roba utovarena dok se i kada se obavljaju pripadajuće aktivnosti. Ti se podaci mogu dodati ručno, pod uvjetom da su jasno i čitljivo upisani tintom i velikim slovima.
+
+Prijevoznike se podsjeća da se roba može pretovariti samo uz odobrenje carinarnice na čijem se području nadležnosti pretovar treba obaviti.
+
+Kada nadležna carinarnica smatra da se dotični provoz može nastaviti na normalan način, ona ovjerava Prateću provoznu ispravu nakon što poduzme sve eventualno potrebne mjere.
+
+Nadležna provozna ili odredišna carinarnica, ovisno o slučaju, ima obvezu unijeti u sustav podatke dodane na Pratećoj provoznoj ispravi. Te podatke također može unijeti i ovlašteni primatelj.
+
+Ti se navodi odnose na sljedeća polja i aktivnosti:
+
+– Pretovar: koristi se polje 55.
+
+Polje 55: Pretovar
+
+Prijevoznik mora ispuniti prva tri retka polja kada se roba pretovaruje iz jednog prijevoznoga sredstva u drugo ili iz jednog kontejnera u drugi tijekom prijevoza.
+
+Međutim, ako se robu prevozi kontejnerima koji se prevoze cestovnim vozilima, nadležna carinarnica može glavnom obvezniku dozvoliti da polje 18 ostavi prazno kada zbog logističkih razloga u mjestu otpreme nije moguće navesti identitet i nacionalnost prijevoznoga sredstva u trenutku podnošenja provozne deklaracije te ako može jamčiti naknadni unos točnih podataka vezanih uz prijevozna sredstva u polje 55.
+
+– Druge nezgode: koristiti polje 56.
+
+Polje 56: Druge nezgode tijekom prijevoza
+
+Polje se popunjava u skladu s tekućim obvezama vezanim uz provoz.
+
+Osim toga, ako je roba utovarena u poluprikolicu, a vučno vozilo promijenjeno tijekom putovanja (bez rukovanja ili pretovara robe), u ovo se polje upisuje registarski oznake i nacionalnost novog vučnog vozila. U tome slučaju nije potrebna ovjera nadležne carinarnice.
+
+### ![](https://narodne-novine.nn.hr/dodatni/416342.jpg)
+
+### ![](https://narodne-novine.nn.hr/dodatni/416343.jpg)
+
+### POJAŠNJENJA I PODACI ZA POPIS STAVKI
+
+Ako pošiljka sadrži više od jedne stavke, primjerak A popisa stavki uvijek se tiska iz računalnog sustava i prilože Pratećoj provoznoj ispravi.
+
+Polja popisa stavaka se mogu vertikalno proširiti.
+
+Podaci se tiskaju na sljedeći način:
+
+1. U polju za identifikaciju (gornji lijevi kut):
+
+a) popis stavki,
+
+b) redni broj tekućeg primjerka i ukupan broj primjeraka (uključujući i Prateću provoznu ispravu).
+
+2. OoDep – naziv otpremne carinarnice.
+
+3. Datum – datum prihvaćanja deklaracije za postupak provoza.
+
+4. MRN – broj provozne deklaracije (referentni broj kretanja).
+
+5. Podaci u različitim poljima na razini stavke tiskaju se na sljedeći način:
+
+a) broj stavke – redni broj tekuće stavke,
+
+b) deklaracija – ako je status robe za cijelu deklaraciju jednak, ovo se polje ne koristi,
+
+c) pri mješovitim pošiljkama, tiska se stvarno stanje, s unosom oznaka carinskog statusa robe, prema potrebi u šifriranom obliku.
+
+## Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona (NN 10/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/10/152*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5.a, članka 13., članka 14. stavka 3., članka 14.a stavka 2., članka 18.a, članka 20. stavka 2., članka 27., članka 48., članka 49.a stavka 6., članka 49.b stavka 6., članka 69., članka 73. stavka 2., članka 78. stavka 4., članka 81. stavka 4., članka 84. stavka 3., članka 88. stavaka 1., 3. i 5., članka 96. stavka 4., članka 106. stavaka 5. i 6., članka 108. stavka 1., članka 109.a, članka 110. stavka 3., članka 119. stavaka 2. i 4., članka 122. stavka 2., članka 125. stavaka 2. i 4., članka 126. stavka 2. točke c), članka 127. stavka 4., članka 129., članka 131., članka 137. stavka 3., članka 139., članka 141. stavka 1. točke e), članka 149., članka 150. stavka 2., članka 154. stavka 2., članka 155. stavka 3., članka 156. stavka 2., članka 159. stavka 4., članka 161. stavka 2., članka 169. stavaka 3. i 5., članka 179. stavka 4., članka 181. stavka 4., članka 185. stavaka 3. i 5., članka 186.a stavka 3., članka 186.d stavka 5., članka 188. stavka 4., članka 189., članka 192. stavka 5., članka 194. stavka 2., članka 200. stavka 1., članka 203., članka 221. stavka 5., članka 226. stavka 2., članka 229. stavaka 1. i 3., članka 235. stavka 1., članka 236., članka 254. stavka 3. i članka 257. Carinskog zakona (»Narodne novine« br. 78/99, 117/99, 73/2000, 92/2001, 47/2003, 140/2005, 138/2006, 60/2008, 45/2009 i 56/2010), Vlada Republike Hrvatske je na sjednici održanoj 17. siječnja 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE ZA PROVEDBU CARINSKOG ZAKONA**
+
+##### Članak 1.
+
+U Uredbi za provedbu Carinskog zakona (»Narodne novine« br. 161/2003, 69/2006, 5/2007, 70/2008, 76/2009 i 29/2011), iza članka 204. dodaje se Poglavlje 1.a i članci 204.a, 204.b, 204.c i 204.d koji glase:
+
+### »Poglavlje 1.a — ODREDBE O BANANAMA
+
+##### Članak 204.a
+
+Za potrebe ovoga Poglavlja i Priloga 22A i Priloga 22B pojedini pojmovi imaju sljedeće značenje:
+
+a) »osoba ovlaštena za vaganje«: gospodarski subjekt kojeg je Carinska uprava ovlastila za vaganje svježih banana;
+
+b) »evidencija podnositelja zahtjeva«: sve isprave koje se odnose na vaganje svježih banana;
+
+c) »neto težina svježih banana«: težina samih banana bez materijala za pakiranje i bilo koje vrste spremnika za pakiranje;
+
+d) »pošiljka svježih banana«: pošiljka koja sadrži sve svježe banane utovarene na jedno prijevozno sredstvo koje jedan izvoznik šalje jednom ili više primatelja;
+
+e) »mjesto istovara«: svako mjesto na kojem se pošiljka svježih banana može istovariti ili ukloniti, sukladno carinskom postupku ili u slučaju prijevoza u kontejnerima, ako se kontejner istovaruje s plovila ili zrakoplova ili drugoga glavnog prijevoznog sredstva ili ako se kontejner raspakira.
+
+##### Članak 204.b
+
+Carinska uprava će, temeljem pisanog zahtjeva, dodijeliti status osobe ovlaštene za vaganje gospodarskom subjektu uključenom u uvoz, prijevoz, skladištenje ili rukovanje svježim bananama, ako su ispunjeni sljedeći uvjeti:
+
+a) podnositelj zahtjeva nudi sva potrebna jamstva za pravilno obavljanje vaganja;
+
+b) podnositelj zahtjeva ima na raspolaganju odgovarajuću opremu za vaganje;
+
+c) evidencija podnositelja zahtjeva omogućava carinskoj službi provedbu učinkovite provjere.
+
+Carinska uprava će odbiti priznavanje statusa osobe ovlaštene za vaganje ako je podnositelj zahtjeva ozbiljno ili više puta kršio odredbe carinskog zakonodavstva.
+
+Ovlaštenje je ograničeno na vaganje svježih banana koje se obavlja na mjestu koje je pod nadzorom carinske službe koja daje ovlaštenje.
+
+Carinska uprava će ukinuti status osobe ovlaštene za vaganje ako korisnik više ne ispunjava uvjete iz stavka 1. ovoga članka.
+
+##### Članak 204.c
+
+U smislu provjere neto težine svježih banana iz oznake KN 0803 90 10 uvezenih u Republiku Hrvatsku, deklaracijama za puštanje robe u slobodni promet prilažu se potvrde o težini banana na kojima je navedena neto težina predmetne pošiljke svježih banana, po vrsti pakiranja i podrijetlu.
+
+Potvrdu o težini banana sastavljaju osobe ovlaštene za vaganje u skladu s postupkom iz Priloga 22A i u obliku koji odgovara oglednom primjerku iz Priloga 22B koji su sastavni dio ove Uredbe.
+
+Osoba ovlaštena za vaganje unaprijed obavještava carinsku službu o vaganju pošiljke svježih banana za potrebe sastavljanja potvrde o težini banana, navodeći podatke o vrsti pakiranja, podrijetlu, te vremenu i mjestu vaganja.
+
+Carinska služba provjerava neto težinu svježih banana upisanu na potvrdi o težini banana, na temelju analize rizika, provjeravanjem najmanje 5% ukupnog broja potvrda o težini banana podnesenih svake godine, bilo da je nazočna prilikom vaganja reprezentativnih uzoraka banana od strane osobe ovlaštene za vaganje ili da takve uzorke sama važe u skladu s postupkom iz točaka 1., 2. i 3. Priloga 22A.
+
+##### Članak 204.d
+
+Carinarnice dostavljaju Carinskoj upravi popis osoba ovlaštenih za vaganje, te svaku naknadnu promjenu popisa.«.
+
+##### Članak 2.
+
+Iza Priloga 22 dodaju se ogledni obrasci: Prilog 22A – Postupak iz članka 204.b stavka 1. Uredbe i Prilog 22B – Obrazac iz članka 204.b stavka 1. Uredbe, koji su tiskani uz ovu Uredbu i njezin su sastavni dio.
+
+Prilog 31A – Osjetljiva roba zamjenjuje se novim oglednim obrascem koji je tiskan uz ovu Uredbu i njezin je sastavni dio.
+
+##### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 413-01/12-01/16
+
+Urbroj: 50301-05/16-13-4
+
+Zagreb, 17. siječnja 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+#### PRILOG 22A
+
+### Postupak iz članka 204.b stavka 1. Uredbe
+
+U smislu članka 204.b Uredbe, osobe ovlaštene za vaganje utvrđuju neto težinu svake pošiljke svježih banana na svakom mjestu istovara u skladu sa sljedećim postupkom:
+
+1. uzorci jedinica pakiranih banana selektiraju se prema vrsti i podrijetlu svakog. Uzorci jedinica pakiranih banana koje se trebaju vagati predstavljaju reprezentativni uzorak pošiljke svježih banana. Obvezno se sastoji od sljedećih količina:
+
+| Broj jedinica pakiranih banana (po vrsti pakiranja i podrijetlu) | Broj jedinica pakiranih banana koje je potrebno pregledati |
+|---|---|
+| - do 400 – od 401 do 700 – od 701 do 1 000 – od 1 001 do 2 000 – od 2 001 do 4 000 – od 4 001 do 6 000 – više od 6 000 | 5 7 10 13 15 18 21 |
+
+2. neto težina utvrđuje se na sljedeći način:
+
+a) vaganjem svake jedinice pakiranih banana koju je potrebno pregledati (bruto težina),
+
+b) otvaranjem najmanje jedne jedinice pakiranih banana, potom izračunavanjem težine pakiranja,
+
+c) težina navedenog pakiranja prihvaća se za sva pakiranja iste vrste i podrijetla te se odbija od težine svih jedinica izvaganih pakiranih banana,
+
+d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za svaku vrstu i podrijetlo, na temelju težine provjerenih uzoraka, prihvaća se kao osnovica za utvrđivanje neto težine pošiljke svježih banana;
+
+3. ako carinska služba ne provjerava pravodobno potvrde o težini banana, neto težina deklarirana u takvim potvrdama prihvatljiva je carinskoj službi ukoliko razlika između navedene neto težine i prosječne neto težine koju je utvrdila carinska služba nije veća ili manja od 1%;
+
+4. potvrda o težini banana podnosi se carinskoj službi uz deklaraciju o puštanju u slobodni promet. Carinska služba koristi rezultate prikupljanja uzoraka prikazane na potvrdama o težini banana za cijelu pošiljku svježih banana na koje se odnosi ta potvrda.
+
+#### PRILOG 22B
+
+### Obrazac iz članka 204.b stavka 1. Uredbe
+
+<table><tbody>
+
+<tr>
+<td colspan="7">POTVRDA O TEŽINI BANANA</td>
+</tr>
+
+<tr>
+<td rowspan="2" colspan="4">1. Ime osobe ovlaštene za vaganje</td>
+<td colspan="3">2. Datum i broj izdavanja potvrde o težini</td>
+</tr>
+
+<tr>
+<td colspan="3">3. Oznaka trgovca</td>
+</tr>
+
+<tr>
+<td colspan="4">4. Identitet prijevoznog sredstva u dolasku</td>
+<td colspan="3">5. Država podrijetla</td>
+</tr>
+
+<tr>
+<td colspan="4">6. Broj i vrsta paketa</td>
+<td colspan="3">7. Ukupno utvrđena neto težina</td>
+</tr>
+
+<tr>
+<td colspan="7">8. Oznaka (oznake) robe</td>
+</tr>
+
+<tr>
+<td colspan="7">9. Pregledane jedinice pakiranih banana (upis bruto težine za svaku izvaganu jedinicu)</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+<td>15</td>
+<td></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td></td>
+<td>9</td>
+<td colspan="2"></td>
+<td>16</td>
+<td></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td></td>
+<td>10</td>
+<td colspan="2"></td>
+<td>17</td>
+<td></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td></td>
+<td>11</td>
+<td colspan="2"></td>
+<td>18</td>
+<td></td>
+</tr>
+
+<tr>
+<td>5</td>
+<td></td>
+<td>12</td>
+<td colspan="2"></td>
+<td>19</td>
+<td></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td></td>
+<td>13</td>
+<td colspan="2"></td>
+<td>20</td>
+<td></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td></td>
+<td>14</td>
+<td colspan="2"></td>
+<td>21</td>
+<td></td>
+</tr>
+
+<tr>
+<td colspan="7">10. Ukupna bruto težina pregledanih jedinica pakiranih banana:<br> 11. Broj jedinica pregledanih pakiranih banana:<br> 12. Prosječna bruto težina:<br> 13. Tara:<br> 14. Prosječna neto težina po jedinici pakiranih banana:</td>
+</tr>
+
+<tr>
+<td colspan="7">15. Potpis i pečat osobe ovlaštene za vaganje:<br> 16. Mjesto i datum:</td>
+</tr>
+</tbody>
+</table>
+
+#### PRILOG 31A 3
+
+### OSJETLJIVA ROBA[1]
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Tarifna oznaka | Opis robe | Minimalne količine | Oznaka osjetljive robe1 | Minimalna stopa pojedinačnog jamstva |
+| 0207 12 0207 14 | Meso peradi i jestivi klaonički proizvodi iz tarifnog broja 0105 od kokoši vrste Gallus Domesticus, zamrznuto | 3 000 kg |  | - |
+| 1701 12 1701 13 170114 1701 91 1701 99 | Šećer od šećerne trske ili šećerne repe i kemijski čista saharoza, u krutom stanju | 7 000 kg |  | - - - - |
+| 2208 20 2208 30 2208 40 2208 50 2208 60 2208 70 ex 2208 90 | Rakije, likeri i ostala alkoholna pića | 5 hl | 1 | 2.500,00 EUR/hl čistog alkohola |
+| 2402 20 | Cigarete koje sadrže duhan | 35 000 komada |  | 120 EUR/ 1 000 komada |
+| 2403 11 2403 19 | Duhan za pušenje s dodatkom ili bez dodatka nadomjestaka duhana u bilo kojem omjeru | 35 kg |  | - |
+
+[1]Kada se podaci o provozu razmjenjuju uz uporabu tehnika za elektroničku obradu podataka, a oznaka HS-a nije dovoljna da se nedvosmisleno utvrdi istovjetnost robe navedene u stupcu 2, moraju se uporabiti šifra osjetljive robe iz stupca 4 i oznaka HS-a iz stupca 1.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1992-04-17
-last_amended: 1997-07-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
+last_amended: 2014-10-31
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "22/92, 71/97"
+narodne_novine: "22/92, 71/97, 128/14"
 amendments:
   - "NN 71/1997 (1221) Zakon o izmjenama i dopunama Zakona o izboru predsjednika Republike Hrvatske"
+  - "NN 128/2014 (2432) Zakon o izmjenama i dopunama Zakona o izboru predsjednika Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/488"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 22/1992 (https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/488).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 71/1997.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 71/1997, NN 128/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -428,3 +429,73 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o izboru predsjednika Republike Hrvatske (NN 128/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/128/2432*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O IZBORU PREDSJEDNIKA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o izboru predsjednika Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 24. listopada 2014. godine.
+
+Klasa: 011-01/14-01/144
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 27. listopada 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O IZBORU PREDSJEDNIKA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o izboru predsjednika Republike Hrvatske (»Narodne novine«, br. 22/92., 42/92., 71/97., 69/04., 99/04., 44/06. i 24/11.) članak 13. mijenja se i glasi:
+
+»Izborna promidžba počinje danom objave liste kandidata za predsjednika Republike Hrvatske od strane Državnog izbornog povjerenstva Republike Hrvatske, a završava 24 sata prije dana održavanja izbora.
+
+Za vrijeme trajanja izborne promidžbe svi kandidati za predsjednika Republike Hrvatske imaju pravo na iznošenje i obrazlaganje svojih izbornih programa.«.
+
+### Članak 2.
+
+Članak 14. mijenja se i glasi:
+
+»Hrvatska televizija i Hrvatski radio dužni su pratiti izbornu promidžbu za predsjednika Republike Hrvatske te su u razdoblju izborne promidžbe svim kandidatima za predsjednika Republike Hrvatske dužni omogućiti iznošenje i obrazlaganje njihovih izbornih programa. Nakladnici ostalih medija samostalno odlučuju hoće li i u kojoj mjeri pratiti izbornu promidžbu za predsjednika Republike Hrvatske.
+
+Nakladnici svih medija dužni su u praćenju izborne promidžbe i predstavljanju izbornih aktivnosti kandidata za predsjednika Republike Hrvatske jamčiti novinarsku neovisnost, profesionalnost i stručnost, dosljedno poštivanje novinarskoga kodeksa te posebno temeljnog načela slobode izražavanja koje je propisano odredbama Ustava Republike Hrvatske, Konvencije o zaštiti ljudskih prava i temeljnih sloboda i Povelje Europske unije o temeljnim pravima vodeći se pri tome interesima javnosti.
+
+Na praćenje izborne promidžbe kandidata za predsjednika Republike Hrvatske na odgovarajući se način primjenjuju pravila koja donosi Hrvatski sabor o postupanju elektroničkih medija s nacionalnom koncesijom u Republici Hrvatskoj tijekom izborne promidžbe.«.
+
+### Članak 3.
+
+Članak 15. mijenja se i glasi:
+
+»Na dan održavanja izbora do zatvaranja birališta, kao i 24 sata prije dana održavanja izbora, zabranjuje se svaka izborna promidžba, objavljivanje procjena izbornih rezultata, kao i objavljivanje prethodnih, neslužbenih rezultata izbora, objavljivanje fotografija u sredstvima javnog priopćavanja, izjava i intervjua kandidata za predsjednika Republike Hrvatske te navođenje njihovih izjava ili pisanih djela.«.
+
+### Članak 4.
+
+U cijelom tekstu Zakona o izboru predsjednika Republike Hrvatske (»Narodne novine«, br. 22/92., 42/92., 71/97., 69/04., 99/04., 44/06. i 24/11.) riječi: »Izborno povjerenstvo Republike Hrvatske«, u određenom padežu, zamjenjuju se riječima: »Državno izborno povjerenstvo Republike Hrvatske« u odgovarajućem padežu, a riječi: »i inozemnom uredu« u određenom broju i padežu brišu se.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 013-01/14-01/06
+
+Zagreb, 24. listopada 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

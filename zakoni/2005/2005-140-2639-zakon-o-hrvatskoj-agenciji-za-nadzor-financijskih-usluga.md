@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-11-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "140/05"
-amendments: []
+last_amended: 2012-01-26
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "140/05, 154/11, 12/12"
+amendments:
+  - "NN 154/2011 (3210) Uredba o dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga"
+  - "NN 12/2012 (333) Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2639"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o Hrvatskoj agenciji za nadzor financijskih usluga
 
 > Izvor: Narodne novine, NN 140/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2639).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 154/2011, NN 12/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -460,3 +465,157 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (NN 154/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/154/3210*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 114/2011), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2011. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O HRVATSKOJ AGENCIJI ZA NADZOR FINANCIJSKIH USLUGA**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, broj 140/2005), u članku 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Ako predsjedniku Uprave Agencije dužnost prestaje u razdoblju kada Hrvatski sabor ne zasjeda, a Hrvatski sabor prethodno nije imenovao novog predsjednika Uprave, Vlada Republike Hrvatske privremeno će imenovati predsjednika Uprave Agencije koji će ovu dužnost obnašati do imenovanja novog predsjednika ali ne duže od 30 dana od dana privremenog imenovanja.
+
+(6) Privremeno imenovani predsjednik Uprave Agencije iz stavka 5. ovoga članka zastupa Agenciju i rukovodi njenim radom, osim ovlasti donošenja odluka vezanih za poslove iz članka 15. ovoga Zakona.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 470-03/11-01/01
+
+Urbroj: 5030120-11-1
+
+Zagreb, 29. prosinca 2011.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (NN 12/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/333*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O HRVATSKOJ AGENCIJI ZA NADZOR FINANCIJSKIH USLUGA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga, koji je Hrvatski sabor donio na sjednici 25. siječnja 2012. godine.
+
+Klasa: 011-01/12-01/06  
+Urbroj: 71-05-03/1-12-2  
+Zagreb, 25. siječnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O HRVATSKOJ AGENCIJI ZA NADZOR FINANCIJSKIH USLUGA**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, br. 140/05. i 154/11.) članak 4. mijenja se i glasi:
+
+»(1) Agencijom upravlja Upravno vijeće koje se sastoji od pet članova od kojih je jedan predsjednik.
+
+(2) Predsjednika i članove Upravnog vijeća Agencije imenuje i razrješava Hrvatski sabor na prijedlog Vlade Republike Hrvatske.
+
+(3) Agenciju zastupa i njome rukovodi glavni tajnik Agencije koji organizira te vodi rad i poslovanje Agencije sukladno ovom Zakonu i Statutu Agencije.
+
+(4) Upravno vijeće Agencije imenuje i razrješava glavnog tajnika Agencije. Imenovanje glavnog tajnika provodi se po provedenom javnom natječaju, na mandat od šest godina, a na koji se može biti ponovno imenovan.
+
+(5) Upravno vijeće zastupa Agenciju prema glavnom tajniku Agencije. Razrada poslova, uvjeti za imenovanje koje mora ispunjavati glavni tajnik te ostali odnosi Upravnog vijeća i glavnog tajnika propisat će se Statutom Agencije.«.
+
+### Članak 2.
+
+U članku 8. stavku 1. iza riječi: »nadležnosti Agencije« dodaju se riječi: »iz članka 15. ovoga Zakona«.
+
+U stavku 3. u drugoj rečenici riječi: »u 'Narodnim novinama'« zamjenjuju se riječima: »na internetskoj stranici Agencije«.
+
+### Članak 3.
+
+Članak 15. mijenja se i glasi:
+
+»U obavljanju javnih ovlasti Agencija je ovlaštena:
+
+1) donositi provedbene propise na temelju ovoga Zakona, zakona koji uređuju tržište kapitala, investicijske i druge fondove, preuzimanje dioničkih društava, mirovinska osiguravajuća društva, osiguranje i reosiguranje te financijske usluge, kao i drugih zakona kada je to tim zakonima ovlaštena,
+
+2) obavljati nadzor nad poslovanjem subjekata nadzora utvrđenih u propisima iz točke 1. ovoga članka te pravnih osoba koje se bave poslovima faktoringa, osim ako ih banke obavljaju unutar svoje registrirane djelatnosti i nalagati mjere za uklanjanje utvrđenih nezakonitosti i nepravilnosti,
+
+3) izdavati i oduzimati dozvole, odobrenja, licencije i suglasnosti za koje je ovlaštena na temelju posebnih propisa iz točke 1. ovoga članka,
+
+4) poticati, organizirati i nadgledati mjere za učinkovito funkcioniranje financijskih tržišta,
+
+5) voditi knjige, evidencije i registre u skladu s odredbama ovoga Zakona i posebnih propisa iz točke 1. ovoga članka,
+
+6) predlagati inicijative za donošenje zakona i drugih propisa i informirati javnost o načelima po kojima djeluju financijska tržišta,
+
+7) donositi podzakonske akte radi propisivanja uvjeta, načina i postupaka za jedinstveno obavljanje nadzora unutar svog djelokruga i nadležnosti, te poduzimati druge mjere i obavljati druge poslove u skladu sa zakonskim ovlaštenjima,
+
+8) izvješćivati ostala nadzorna, upravna i pravosudna tijela o svim pitanjima koja se neposredno ili posredno tiču njihove nadležnosti i djelokruga, povodom postupaka koja se vode pred tim tijelima a u vezi su s postupcima iz djelokruga i nadležnosti Agencije,
+
+9) davati mišljenje o provedbi ovoga Zakona i posebnih propisa iz točke 1. ovoga članka na zahtjev stranaka u postupku ili osoba koje dokažu svoj pravni interes.«.
+
+### Članak 4.
+
+U članku 20. stavak 5. briše se.
+
+Dosadašnji stavak 6. koji postaje stavak 5. mijenja se i glasi:
+
+»(5) Višak prihoda nad rashodima na kraju proračunske godine uplaćuje se u državni proračun.«.
+
+Dosadašnji stavak 7. postaje stavak 6.
+
+### Članak 5.
+
+U cijelom tekstu Zakona riječ: »Uprave« u određenom padežu zamjenjuje se riječima: »Upravnog vijeća« u odgovarajućem padežu.
+
+### Članak 6.
+
+(1) Vlada Republike Hrvatske predložit će Hrvatskom saboru kandidate za predsjednika i članove Upravnog vijeća Agencije u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Član Uprave Agencije i privremeni predsjednik Uprave Agencije nastavlja zastupati Agenciju i rukovoditi njenim radom, osim ovlasti donošenja odluka vezanih za poslove iz članka 15. ovoga Zakona, do dana imenovanja predsjednika i članova Upravnog vijeća Agencije kada mu prestaju ove dužnosti.
+
+(3) Statut i opće akte sukladne odredbama ovoga Zakona Agencija donosi u roku od 30 dana od dana imenovanja Upravnog vijeća Agencije.
+
+(4) Do donošenja Statuta i općih akata iz stavka 3. ovoga članka na odgovarajući se način primjenjuju Statut i opći akti Agencije doneseni do stupanja na snagu ovoga Zakona.
+
+### Članak 7.
+
+(1) Upravno vijeće Agencije provest će postupak za imenovanje glavnog tajnika Agencije u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Do imenovanja glavnog tajnika Agencije njegove poslove obavlja predsjednik Upravnog vijeća Agencije.
+
+### Članak 8.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, br. 154/11.).
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 470-03/12-01/01  
+Zagreb, 25. siječnja 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.

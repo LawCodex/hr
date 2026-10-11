@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-03-29
-last_amended: 2003-10-31
+last_amended: 2008-12-17
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "33/02, 173/03"
+narodne_novine: "33/02, 173/03, 146/08"
 amendments:
   - "NN 173/2003 (2507) Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme"
+  - "NN 146/2008 (4020) Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/33/712"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 33/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/33/712).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 173/2003.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 173/2003, NN 146/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -529,3 +530,127 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (NN 146/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/146/4020*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROIZVODNJI, REMONTU I PROMETU NAORUŽANJA I VOJNE OPREME
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme, kojega je Hrvatski sabor donio na sjednici 5. prosinca 2008. godine.
+
+Klasa: 011-01/08-01/165
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 12. prosinca 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROIZVODNJI, REMONTU I PROMETU NAORUŽANJA I VOJNE OPREME**
+
+### Članak 1.
+
+U Zakonu o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, br. 33/02. i 173/03.) u članku 3. stavak 3. mijenja se i glasi:
+
+»Poslove uvoza i izvoza NVO-a za potrebe Oružanih snaga Republike Hrvatske (u daljnjem tekstu: Oružane snage) i Ministarstva unutarnjih poslova mogu obavljati Agencija Vlade Republike Hrvatske (u daljnjem tekstu: Agencija) i druge pravne i fizičke osobe – obrtnici registrirani za obavljanje poslova uvoza i izvoza NVO-a, odnosno robe vojne namjene upisani u Očevidnik izvoznika i uvoznika robe vojne namjene i nevojnih ubojnih sredstava u skladu sa Zakonom o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava.«
+
+Stavak 4. briše se.
+
+Dosadašnji stavak 5., koji postaje stavak 4., mijenja se i glasi:
+
+»Poslove prodaje neperspektivnog NVO-a za potrebe Oružanih snaga i Ministarstva unutarnjih poslova, uz poslove navedene u stavku 3. ovoga članka, mogu obavljati Agencija i druge pravne i fizičke osobe – obrtnici registrirani za obavljanje poslova uvoza i izvoza NVO-a, odnosno robe vojne namjene upisani u Očevidnik izvoznika i uvoznika robe vojne namjene i nevojnih ubojnih sredstava u skladu sa Zakonom o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava.«
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+### Članak 2.
+
+U članku 7. stavak 2. briše se.
+
+### Članak 3.
+
+U članku 10. riječi: »za gospodarsku uporabu« brišu se.
+
+### Članak 4.
+
+Članak 12. mijenja se i glasi:
+
+»Za vrijeme u kojem kapaciteti za proizvodnju i remont NVO-a, posebno važni za obranu Republike Hrvatske, nisu u funkciji, proizvođači koji su registrirani za proizvodnju i remont NVO-a mogu ostvarivati pravo na novčanu naknadu za hladni pogon. Specificirani zahtjev za novčanu naknadu proizvođači upućuju Ministarstvu obrane najkasnije do 1. rujna tekuće godine za sljedeću proračunsku godinu.
+
+Sredstva za hladni pogon iz stavka 1. ovoga članka mogu se ostvariti samo za kapacitete za proizvodnju i remont koji su posebno važni za obranu Republike Hrvatske.
+
+Vlada Republike Hrvatske posebnim propisom određuje osnovne kriterije koje proizvođači moraju ispunjavati kako bi ostvarili pravo na novčanu naknadu iz stavka 1. ovoga članka.
+
+Na zahtjev proizvođača iz stavka 1. ovoga članka, Ministarstvo obrane u suradnji s Ministarstvom unutarnjih poslova i ministarstvom nadležnim za gospodarstvo, utvrđuje opravdanost svakoga pojedinačnog zahtjeva te opravdane zahtjeve upućuje Vladi Republike Hrvatske.
+
+Vlada Republike Hrvatske na prijedlog Ministarstva obrane donosi odluku o visini i broju novčanih naknada u skladu s osiguranim sredstvima u državnom proračunu Republike Hrvatske.
+
+Odredbe ovoga članka primjenjuju se i na znanstvenoistraživačke institucije važne za razvoj NVO-a.«
+
+### Članak 5.
+
+Članak 17. mijenja se i glasi:
+
+Ministarstvo obrane i Ministarstvo unutarnjih poslova vode evidenciju o izdanim dozvolama za izvoz i uvoz NVO-a namijenjenog Oružanim snagama, odnosno Ministarstvu unutarnjih poslova i najmanje jednom godišnje izvješćuju Vladu Republike Hrvatske o izvezenom i uvezenom NVO-u za prethodnu godinu.«
+
+### Članak 6.
+
+Članak 18. briše se.
+
+### Članak 7.
+
+U članku 21. stavci 1. i 2. brišu se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 1. i 2.
+
+### Članak 8.
+
+U članku 22. riječi: »Zakonom o zaštiti tajnosti podataka obrane« zamjenjuju se riječima: »Zakonom o tajnosti podataka«, a riječi: »za gospodarsku uporabu« brišu se.
+
+### Članak 9.
+
+U članku 24. točki 5. iza riječi: »NVO-a« dodaju se riječi: »za potrebe Oružanih snaga,«.
+
+### Članak 10.
+
+U članku 26. stavku 1. riječi: »i pravne osobe ovlaštene (akreditirane) od Državnog zavoda za normizaciju i mjeriteljstvo« zamjenjuju se riječima: »i pravne osobe koje je akreditiralo tijelo nadležno za akreditaciju«.
+
+### Članak 11.
+
+U članku 35. stavku 3. riječ: »patentima« zamjenjuje se riječju: »patentu«.
+
+### Članak 12.
+
+U članku 39. stavku 1. točka 4. briše se.
+
+### Članak 13.
+
+U članku 41. riječi: »ministar gospodarstva« zamjenjuju se riječima: »ministar nadležan za gospodarstvo«.
+
+### Članak 14.
+
+U cijelom tekstu Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, br. 33/02. i 173/03.) riječi: »Ministarstvo gospodarstva« u odgovarajućem padežu zamjenjuju se riječima: »ministarstvo nadležno za gospodarstvo« u odgovarajućem padežu.
+
+### Članak 15.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2009.
+
+Klasa: 213-02/08-01/01
+
+Zagreb, 5. prosinca 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

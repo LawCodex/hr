@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-07
-last_amended: 2006-12-20
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2011-04-20
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "158/03, 138/06"
+narodne_novine: "158/03, 138/06, 45/11"
 amendments:
   - "NN 138/2006 (3114) Zakon o izmjenama i dopunama Zakona o priznavanju inozemnih obrazovnih kvalifikacija"
+  - "NN 45/2011 (1051) Zakon o izmjenama i dopuni Zakona o priznavanju inozemnih obrazovnih kvalifikacija"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2258"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 158/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2258).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 138/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 138/2006, NN 45/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -353,3 +354,127 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o priznavanju inozemnih obrazovnih kvalifikacija (NN 45/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1051*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PRIZNAVANJU INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o priznavanju inozemnih obrazovnih kvalifikacija, koji je Hrvatski sabor donio na sjednici 8. travnja 2011. godine.
+
+Klasa: 011-01/11-01/56
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 12. travnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PRIZNAVANJU INOZEMNIH OBRAZOVNIH KVALIFIKACIJA**
+
+### Članak 1.
+
+U Zakonu o priznavanju inozemnih obrazovnih kvalifikacija (»Narodne novine«, br. 158/03., 138/06. i 124/09.) u članku 2. podstavak 7. briše se.
+
+Dosadašnji podstavak 8. postaje podstavak 7.
+
+U dosadašnjem podstavku 9. koji postaje podstavak 8. riječi: »koju daje Vijeće za vrednovanje inozemnih visokoškolskih kvalifikacija, odnosno u slučaju akademskog priznavanja stručno tijelo visokog učilišta određeno statutom, na temelju kriterija koje utvrđuje Nacionalni ENIC/NARIC ured« brišu se.
+
+### Članak 2.
+
+U članku 5. iza riječi: »upravnom postupku« umjesto zareza stavlja se točka, a riječi: »ako ovim Zakonom nije drugačije određeno« brišu se.
+
+### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»Postupak priznavanja inozemne školske kvalifikacije o završenom osnovnom i o završenom srednjem obrazovanju u općim, gimnazijskim i umjetničkim programima radi zapošljavanja ili nastavka obrazovanja vodi Agencija za odgoj i obrazovanje.
+
+Postupak priznavanja inozemne školske kvalifikacije o završenom srednjem obrazovanju u strukovnim programima radi zapošljavanja ili nastavka obrazovanja vodi Agencija za strukovno obrazovanje i obrazovanje odraslih.
+
+O priznavanju prava iz stavka 1. i 2. ovoga članka odlučuje se rješenjem.
+
+Protiv rješenja iz stavka 3. ovoga članka može se izjaviti žalba Ministarstvu.«.
+
+### Članak 4.
+
+Članak 7. mijenja se i glasi:
+
+»Priznavanjem radi nastavka obrazovanja podnositelju zahtjeva utvrđuje se pravo na nastavak obrazovanja u određenoj školskoj ustanovi ili se određuju uvjeti pod kojima se to pravo može ostvariti.
+
+Postupak priznavanja radi nastavka osnovnoškolskog, odnosno srednjoškolskog obrazovanja vodi školska ustanova u kojoj podnositelj zahtjeva namjerava nastaviti obrazovanje.
+
+Postupak priznavanja osnovnoškolskog obrazovanja radi pristupa srednjoškolskom obrazovanju vodi srednjoškolska ustanova u kojoj podnositelj zahtjeva namjerava nastaviti obrazovanje.
+
+U postupku priznavanja iz stavka 2. i 3. ovoga članka osnovnoškolska ustanova može zatražiti mišljenje Agencije za odgoj i obrazovanje, a srednjoškolska ustanova Agencije za odgoj i obrazovanje ili Agencije za strukovno obrazovanje i obrazovanje odraslih, ovisno o vrsti obrazovanja koje se nastavlja.
+
+Agencije iz stavka 4. ovoga članka dužne su dostaviti mišljenje u roku od osam dana od dana zaprimanja zahtjeva.
+
+O priznavanju prava iz stavka 2. i 3. ovoga članka odlučuje se rješenjem.
+
+Protiv rješenja iz stavka 6. ovoga članka može se izjaviti žalba Ministarstvu.«.
+
+### Članak 5.
+
+Članak 8. briše se.
+
+### Članak 6.
+
+U članku 9. stavku 1. riječi: »na temelju prethodnog vrednovanja kvalifikacije čije se priznavanje traži i preporuke Nacionalnog ENIC/NARIC ureda« brišu se.
+
+Stavci 2., 3. i 4. brišu se.
+
+Dosadašnji stavak 5. postaje stavak 2.
+
+Dosadašnji stavak 6. koji postaje stavak 3. mijenja se i glasi:
+
+»Vrednovanje inozemnih visokoškolskih kvalifikacija provodi stručno tijelo visokog učilišta sukladno odredbama statuta.«.
+
+### Članak 7.
+
+U članku 11. stavku 1. briše se točka i dodaju riječi: »pri Agenciji za znanost i visoko obrazovanje.«.
+
+Stavci 3., 4. i 5. brišu se.
+
+### Članak 8.
+
+U članku 12. stavci 2., 3. i 4. brišu se.
+
+### Članak 9.
+
+Članak 14. mijenja se i glasi:
+
+»Agencija za znanost i visoko obrazovanje dužna je donijeti rješenje o priznavanju visokoškolske kvalifikacije u roku od 60 dana od dana podnošenja zahtjeva za stručno priznavanje.«.
+
+### Članak 10.
+
+U članku 15. stavak 3. briše se.
+
+### Članak 11.
+
+Postupci priznavanja inozemnih visokoškolskih kvalifikacija započeti prema odredbama Zakona o priznavanju inozemnih obrazovnih kvalifikacija (»Narodne novine«, br. 158/03., 138/06. i 124/09.), dovršit će se prema odredbama ovoga Zakona.
+
+### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 3. i 4. ovoga Zakona, koje stupaju na snagu 1. rujna 2011.
+
+Klasa: 605-01/11-01/02
+
+Zagreb, 8. travnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

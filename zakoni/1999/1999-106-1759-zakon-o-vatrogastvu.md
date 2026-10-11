@@ -6,16 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-10-15
-last_amended: 2004-12-10
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
+last_amended: 2010-06-28
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 139/2004 (2431) https://narodne-novine.nn.hr/eli/sluzbeni/2004/139/2431"
-narodne_novine: "106/99, 117/01, 96/03, 139/04, 174/04"
+narodne_novine: "106/99, 117/01, 96/03, 139/04, 174/04, 38/09, 80/10"
 amendments:
   - "NN 117/2001 (1962) Zakon o izmjenama i dopunama Zakona o vatrogastvu"
   - "NN 96/2003 (1224) Zakon o izmjenama i dopunama Zakona o vatrogastvu"
   - "NN 174/2004 (3015) Zakon o dopuni Zakona o vatrogastvu"
+  - "NN 38/2009 (845) Zakon o izmjenama Zakona o vatrogastvu"
+  - "NN 80/2010 (2279) Zakon o izmjenama i dopunama Zakona o vatrogastvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/139/2431"
 retrieved: 2026-10-12
 ---
@@ -26,7 +28,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 139/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/139/2431).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 174/2004.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 174/2004, NN 38/2009, NN 80/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -746,3 +748,237 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama Zakona o vatrogastvu (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/845*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O VATROGASTVU
+
+Proglašavam Zakon o izmjenama Zakona o vatrogastvu, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/50
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009)
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O VATROGASTVU**
+
+### Članak 1.
+
+U Zakonu o vatrogastvu (»Narodne novine«, br. 106/99., 117/01., 36/02., 96/03., 139/04 – pročišćeni tekst i 174/04.) u članku 3. stavku 1. riječi: »Općinsko odnosno gradsko poglavarstvo Grada Zagreba i županijsko poglavarstvo« zamjenjuju se riječima: »Općinski načelnik, gradonačelnik, gradonačelnik Grada Zagreba i župan«.
+
+U stavku 4. riječi: »Jedno ili više općinskih, odnosno gradskih poglavarstava te poglavarstvo Grada Zagreba« zamjenjuju se riječima: »jedno ili više predstavničkih tijela jedinica lokalne samouprave«.
+
+### Članak 2.
+
+U članku 8. stavku 1. riječi: »poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »predstavničko tijelo jedinice lokalne samouprave«.
+
+U stavku 2. riječi: »Poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »Predstavničko tijelo jedinice lokalne samouprave«.
+
+### Članak 3.
+
+U članku 17. stavku 4. riječi: »poglavarstvo općine, grada, županije i Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik, župan i gradonačelnik Grada Zagreba«.
+
+U stavku 5. riječi: »poglavarstvu općine, grada, županije i Grada Zagreba« zamjenjuju se riječima: »općinskom načelniku, gradonačelniku, županu i gradonačelniku Grada Zagreba«.
+
+U stavku 6. riječi: »poglavarstvo općine, grada, županije i Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik, župan i gradonačelnik Grada Zagreba«.
+
+### Članak 4.
+
+U članku 26. stavku 4. riječi: »poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba«.
+
+### Članak 5.
+
+U članku 30. stavku 1. riječi: »poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba«.
+
+U stavku 2. riječi: »poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba«.
+
+U stavku 4. riječi: »poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba«.
+
+U stavku 6. riječi: »poglavarstva općine, grada i Grada Zagreba« zamjenjuju se riječima: »općinskom načelniku, gradonačelniku i gradonačelniku Grada Zagreba«.
+
+U stavku 7. riječi: »poglavarstvu općine, grada i Grada Zagreba« zamjenjuju se riječima: »općinskom načelniku, gradonačelniku i gradonačelniku Grada Zagreba«.
+
+U stavku 8. riječi: »poglavarstvo općine, grada ili Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba«.
+
+### Članak 6.
+
+U članku 39. stavku 4. riječi: »poglavarstvo općine, grada odnosno Grada Zagreba«, zamjenjuju se riječima: »općinski načelnik, gradonačelnik, odnosno gradonačelnik Grada Zagreba«.
+
+### Članak 7.
+
+U članku 53. stavku 1. točki 1. riječi: »odgovorna osoba u poglavarstvu općine, grada, županije ili Grada Zagreba« zamjenjuju se riječima: »odgovorna osoba u jedinici lokalne i područne (regionalne) samouprave«.
+
+U točki 2. riječi: »odgovorna osoba u poglavarstvu općine, grada ili Grada Zagreba« zamjenjuju se riječima: »odgovorna osoba u jedinici lokalne i područne (regionalne) samouprave«.
+
+### Članak 8.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
+
+Klasa: 214-01/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o vatrogastvu (NN 80/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/80/2279*
+
+HRVATSKI SABOR
+
+2279
+
+Na temelju članka 88. Ustava Republike Hrvstake, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VATROGASTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o vatrogastvu, koji je Hrvatski sabor donio na sjednici 18. lipnja 2010. godine.  
+Klasa: 011-01/10-01/53  
+Urbroj: 71-05-03/3-10-2  
+Zagreb, 21. lipnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VATROGASTVU**
+
+### Članak 1.
+
+U Zakonu o vatrogastvu (»Narodne novine«, br. 106/99., 117/01., 36/02., 96/03., 174/04. i 38/09.) članak 21. mijenja se i glasi:
+
+»Osoba koja se prima na radno mjesto profesionalnog vatrogasca mora, pored općih uvjeta za zasnivanje radnog odnosa, ispunjavati i sljedeće uvjete:
+
+– da nije starija od 30 godina (kod prvog zaposlenja),
+
+– da ima srednju stručnu spremu vatrogasnog smjera, odnosno srednju stručnu spremu drugog smjera, pod uvjetom da u roku od dvije godine od prijama u radni odnos završi prekvalifikaciju, što dokazuje svjedodžbom školske ustanove,
+
+– da je tjelesno i duševno sposobna za obavljanje vatrogasne djelatnosti, što dokazuje potvrdom ovlaštene zdravstvene ustanove,
+
+– da nije kažnjavana za kaznena djela protiv imovine, opće sigurnosti ljudi i imovine te protiv službene dužnosti.
+
+Uvjeti iz stavka 1. podstavka 1. i 2 ovoga članka odnose se samo na osobe koje će obavljati poslove profesionalnog vatrogasca u razini srednje školske ili stručne spreme.
+
+Prednost pri prijamu u radni odnos profesionalnog vatrogasca pod istim uvjetima ima osoba koja je najmanje dvije godine obavljala poslove dobrovoljnog vatrogasca, kao i osoba koja je odslužila vojni rok.
+
+Vatrogasci s posebnim ovlastima i odgovornostima, u smislu ovoga Zakona, su glavni vatrogasni zapovjednik, njegov zamjenik i pomoćnici, zapovjednici intervencijskih vatrogasnih postrojbi i njihovi zamjenici, zapovjednici vatrogasnih zajednica i njihovi zamjenici, zapovjednici javnih vatrogasnih postrojbi i njihovi zamjenici, zapovjednici profesionalnih vatrogasnih postrojbi u gospodarstvu i njihovi zamjenici, zapovjednici vatrogasne postrojbe središnjeg dobrovoljnog vatrogasnog društva i njihovi zamjenici te zapovjednici koji su aktom o unutarnjem ustroju vatrogasne postrojbe određeni da samostalno vode vatrogasnu intervenciju prilikom koje koriste javne ovlasti utvrđene ovim Zakonom.
+
+Glavni vatrogasni zapovjednik, njegov zamjenik i pomoćnici, županijski vatrogasni zapovjednik i njegov zamjenik, moraju imati visoku stručnu spremu, odnosno završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij, ili završen specijalistički diplomski stručni studij iz područja zaštite od požara te najmanje pet godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima.
+
+Zapovjednik javne vatrogasne postrojbe i njegov zamjenik, zapovjednik intervencijske vatrogasne postrojbe i njegov zamjenik, zapovjednik profesionalne vatrogasne postrojbe u gospodarstvu i njegov zamjenik moraju imati najmanje višu stručnu spremu, odnosno završen stručni studij ili završen preddiplomski sveučilišni studij iz područja zaštite od požara te najmanje pet godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima.
+
+Zapovjednik vatrogasne zajednice općine, odnosno grada i njegov zamjenik, koji profesionalno obavljaju te poslove moraju imati najmanje višu stručnu spremu, odnosno završen stručni studij ili završen preddiplomski sveučilišni studij iz područja zaštite od požara te najmanje pet godina djelovanja u radu vatrogasne postrojbe.
+
+Zapovjednik vatrogasne postrojbe središnjeg dobrovoljnog vatrogasnog društva i njegov zamjenik, koji profesionalno obavljaju te poslove, moraju imati najmanje srednju stručnu ili školsku spremu, zvanje vatrogasnog časnika te najmanje tri godine odgovarajućeg iskustva u radu vatrogasne postrojbe.
+
+Zapovjednik vatrogasnih postrojbi vatrogasne zajednice općine, odnosno grada i njegov zamjenik, u gradu, odnosno općini za koju je osnovana javna vatrogasna postrojba, moraju ispunjavati iste uvjete kao i zapovjednik javne vatrogasne postrojbe i njegov zamjenik.
+
+Zapovjednik vatrogasnih postrojbi vatrogasne zajednice općine, odnosno grada i njegov zamjenik, zapovjednik vatrogasne postrojbe središnjeg dobrovoljnog vatrogasnog društva i njegov zamjenik, koji dobrovoljno obavljaju te poslove, moraju imati najmanje srednju stručnu ili školsku spremu, zvanje vatrogasnog časnika te najmanje tri godine odgovarajućeg iskustva u radu vatrogasne postrojbe.
+
+Zapovjednici ostalih dobrovoljnih vatrogasnih društava i njihovi zamjenici trebaju imati najmanje uvjete propisane člankom 22. ovoga Zakona.
+
+Potrebna stručna sprema zapovjednika, koji su na temelju unutarnjeg ustroja vatrogasnih postrojbi iz članka 2. ovoga Zakona određeni da samostalno vode vatrogasne intervencije i pritom koriste javne ovlasti, određuje se aktom o unutarnjem ustroju te vatrogasne postrojbe.
+
+Osobe iz stavka 4. ovoga članka, pored ispunjenja uvjeta stručne spreme propisane ovim člankom i uvjeta iz stavka 1. podstavka 3. i 4. ovoga članka, moraju imati položen stručni ispit za vatrogasce s posebnim ovlastima i odgovornostima ili ga moraju položiti u roku od jedne godine od imenovanja ili raspoređivanja na te poslove.
+
+Iznimno od odredaba stavka 6., 7., 8., 9. i 10. ovoga članka, zatečeni vatrogasci s posebnim ovlastima i odgovornostima koji na dan stupanja na snagu ovoga Zakona imaju za stupanj nižu stručnu spremu od propisane u ovome članku, mogu i nadalje obavljati te poslove pod uvjetom da su ih neprekidno obavljali više od 10 godina.«.
+
+### Članak 2.
+
+U članku 22. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Poslove sezonskog vatrogasca u vatrogasnim postrojbama može obavljati osoba koja udovoljava uvjetima iz stavka 1. ovoga članka.«.
+
+### Članak 3.
+
+Iza članka 25. dodaje se članak 25.a koji glasi:
+
+»Članak 25.a
+
+Radi održavanja operativne pripravnosti vatrogasaca i vatrogasne tehnike na visokoj razini te gašenja požara, spašavanja ljudi i imovine, dužina trajanja rada profesionalnih vatrogasaca može biti duža od osam sati u razdoblju od dvadeset četiri sata u kojem radi noću.
+
+Poslodavac je pri organizaciji noćnog rada i rada u smjeni dužan osigurati profesionalnim vatrogascima iz stavka 1. ovoga članka dnevni odmor u neprekidnom trajanju od minimalno dvanaest sati.
+
+Poslodavac je pri organizaciji noćnog rada ili rada u smjeni dužan voditi osobitu brigu o organizaciji rada prilagođenoj profesionalnom vatrogascu te o sigurnosnim i zdravstvenim uvjetima u skladu s naravi posla koji se obavlja noću i u smjeni.
+
+Poslodavac je dužan profesionalnim vatrogascima iz stavka 1. ovoga članka osigurati sigurnost i zdravstvenu zaštitu u skladu s naravi posla koji se obavlja, kao i sredstva zaštite i prevencije koje odgovaraju i primjenjuju se na sve profesionalne vatrogasce te su dostupne u svako doba.
+
+Kod organizacije rada u smjenama koje uključuju i noćni rad, mora se osigurati izmjena smjena tako da profesionalni vatrogasac u noćnoj smjeni radi uzastopce najduže jedan tjedan.
+
+Ostala prava i obveze utvrđene propisima o radu primjenjuju se i na profesionalne vatrogasce.«.
+
+### Članak 4.
+
+Članak 45. mijenja se i glasi:
+
+»Sredstva iz članka 43. stavka 2. i 3. ovoga Zakona osiguravaju općine, gradovi i županije iz vlastitih proračuna.
+
+Sredstva vlastitih proračuna iz stavka 1. ovoga članka čine prihodi proračuna umanjeni za:
+
+– dodatni udio u porezu na dohodak za decentralizirane funkcije,
+
+– pomoći izravnanja za decentralizirane funkcije, a kod općina i gradova na otocima udio u porezu na dohodak za zajedničko financiranje kapitalnog projekta od interesa za razvoj otoka,
+
+– vlastite prihode,
+
+– namjenske prihode i primitke.
+
+Sredstva iz proračuna za financiranje poslova vatrogastva koja općine, gradovi i županije moraju izdvojiti za poslove vatrogastva utvrđuju se prema sljedećim mjerilima:
+
+1. općina, grad ili županija s proračunom do 5.000.000,00 kuna izdvaja 5% sredstava iz proračuna, a svakim povećanjem proračunskih sredstava za 1.000.000,00 kuna izdvajanje se smanjuje za 0,1% do 25.000.000,00 kuna ukupne vrijednosti proračuna,
+
+2. općina, grad ili županija s proračunom od 25.000,000,00 kuna izdvaja 3% sredstava iz proračuna, a svakim povećanjem proračunskih sredstava za 2.000.000,00 kuna izdvajanje se smanjuje za 0,1 do 45.000.000,000 kuna ukupne vrijednosti proračuna,
+
+3. općina, grad i županija s proračunom od 45.000.000,00 kuna izdvaja 2% sredstava iz proračuna, a svakim povećanjem proračunskih sredstava za 10.000.000,00 kuna izdvajanje se smanjuje za 0,1%, s tim da smanjenje ne može biti manje od 1% ukupnih proračunskih sredstava, općine, grada ili županije, a Grad Zagreb izdvaja 0,35% iz proračuna Grada Zagreba.
+
+Prema mjerilima utvrđenima stavkom 3. ovoga članka, općine, gradovi i županije uplaćuju sredstva na račun vatrogasnih zajednica ili dobrovoljnih vatrogasnih društava gdje nema vatrogasne zajednice.
+
+Grad Zagreb uplaćuje sredstva na račun Vatrogasne zajednice Grada Zagreba, sukladno procjeni ugroženosti i planu zaštite od požara Grada Zagreba.
+
+Predstavničko tijelo općine, grada i Grada Zagreba može odlukom povećati iznos sredstava, utvrđen prema mjerilima iz stavka 3. ovoga članka (sukladno procjeni i planu zaštite od požara), ukoliko to zahtijevaju specifične potrebe zaštite od požara njihova područja.
+
+Subjekti iz članka 43. stavka 2. i 3. ovoga Zakona dužni su dati potvrdu za svoje godišnje financijske proračune i izvješća nadležnim tijelima jedinica lokalne i područne (regionalne) samouprave.«.
+
+### Članak 5.
+
+U članku 48. stavak 2. briše se.
+
+### Članak 6.
+
+Osobe koje su do dana stupanja na snagu ovoga Zakona stekle zanimanje vatrogasac, odnosno vatrogasni tehničar, kao i osobe koje u vrijeme stupanja na snagu ovoga Zakona pohađaju program prekvalifikacije za zanimanje vatrogasac, odnosno vatrogasni tehničar, prilikom prvog zaposlenja na poslovima vatrogasca, odnosno vatrogasnog tehničara ne moraju ispunjavati uvjet kojim je propisana dob za prvo zaposlenje na tim poslovima.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 214-01/10-01/02  
+Zagreb, 18. lipnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2006-12-28
-last_amended: 2007-09-13
+last_amended: 2009-06-24
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "142/06, 94/07"
+narodne_novine: "142/06, 94/07, 73/09"
 amendments:
   - "NN 94/2007 (2823) Uredba o izmjeni Uredbe o osnivanju Javne ustanove Hrvatski olimpijski centar"
+  - "NN 73/2009 (1740) Uredba o izmjenama Uredbe o osnivanju Javne ustanove Hrvatski olimpijski centar"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3208"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 142/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3208).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 94/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 94/2007, NN 73/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -173,6 +174,59 @@ Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
 Klasa: 620-02/07-01/08  
 Urbroj: 5030108-07-1  
 Zagreb, 7. rujna 2007.
+
+Potpredsjednica Vlade  
+i ministrica obitelji, branitelja i  
+međugeneracijske solidarnosti  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama Uredbe o osnivanju Javne ustanove Hrvatski olimpijski centar (NN 73/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/73/1740*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 19. lipnja 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU JAVNE USTANOVE HRVATSKI OLIMPIJSKI CENTAR**
+
+### Članak 1.
+
+U Uredbi o osnivanju Javne ustanove Hrvatski olimpijski centar (»Narodne novine«, br. 142/2006 i 94/2007), članak 3. mijenja se i glasi:
+
+»Djelatnost Centra je organizacija izgradnje, upravljanje i održavanje športskih građevina koje su od posebnog interesa za Republiku Hrvatsku.
+
+Centar je od posebnog interesa za Republiku Hrvatsku.«.
+
+### Članak 2.
+
+U članku 5. stavku 2. alineja 1. briše se.
+
+U stavku 3. riječi: »alineja 1., 2. i 3.« zamjenjuju se riječima: »alineja 1. i 2.«.
+
+### Članak 3.
+
+U članku 11. stavak 2. briše se.
+
+### Članak 4.
+
+Članak 12. briše se.
+
+### Članak 5.
+
+Centar će uskladiti Statut Centra s ovom Uredbom u roku od 30 dana od njezina stupanja na snagu.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 620-02/09-01/03
+
+Urbroj: 5030104-09-1
+
+Zagreb, 19. lipnja 2009.
 
 Potpredsjednica Vlade  
 i ministrica obitelji, branitelja i  

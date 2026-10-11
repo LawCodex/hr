@@ -827,11 +827,11 @@ Ivan Vekić, v. r.
 
 *Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/518*
 
-### SABOR REPUBLIKE HRVATSKE
+SABOR REPUBLIKE HRVATSKE
 
 Nakon izvršenog uspoređivanja s izvornim tekstom utvrđena je pogreška u Zakonu o kretanju i boravku stranaca koji je objavljen u "Narodnim novinama" broj 53 od 8. listopada 1991., te se daje
 
-### ISPRAVAK
+ISPRAVAK
 
 ### Zakona o kretanju i boravku stranaca
 

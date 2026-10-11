@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-07-28
-last_amended: 2008-05-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2016-10-15
+status: in_force
+status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "101/98, 135/98, 105/99, 25/00, 73/00, 131/00, 30/01, 59/01, 114/01, 153/02, 16/04, 30/04, 187/04, 151/05, 141/06, 17/07, 82/07, 107/07, 60/08"
+narodne_novine: "101/98, 135/98, 105/99, 25/00, 73/00, 131/00, 30/01, 59/01, 114/01, 153/02, 16/04, 30/04, 187/04, 151/05, 141/06, 17/07, 82/07, 107/07, 60/08, 38/09, 150/11, 22/13, 3/15, 93/16"
 amendments:
   - "NN 135/1998 (1626) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 105/1999 (1750) Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika"
@@ -30,6 +30,11 @@ amendments:
   - "NN 82/2007 (2578) Uredba o dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 107/2007 (3143) Zakon o dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 60/2008 (2040) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 38/2009 (850) Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 150/2011 (3087) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 22/2013 (363) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 3/2015 (58) Uredba o izmjeni i dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 93/2016 (1972) Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395"
 retrieved: 2026-10-12
 ---
@@ -38,7 +43,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 101/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 135/1998, NN 105/1999, NN 25/2000, NN 73/2000, NN 131/2000, NN 30/2001, NN 59/2001, NN 114/2001, NN 153/2002, NN 16/2004, NN 30/2004, NN 187/2004, NN 151/2005, NN 141/2006, NN 17/2007, NN 82/2007, NN 107/2007, NN 60/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 135/1998, NN 105/1999, NN 25/2000, NN 73/2000, NN 131/2000, NN 30/2001, NN 59/2001, NN 114/2001, NN 153/2002, NN 16/2004, NN 30/2004, NN 187/2004, NN 151/2005, NN 141/2006, NN 17/2007, NN 82/2007, NN 107/2007, NN 60/2008, NN 38/2009, NN 150/2011, NN 22/2013, NN 3/2015, NN 93/2016.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1842,3 +1847,526 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/850*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/55
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 154/02., 163/03., 16/04., 30/04., 105/04., 92/05., 121/05., 135/06., 141/06., 17/07., 34/07., 107/07. i 60/08.) u članku 12. stavak 2. mijenja se i glasi:
+
+»Osnovicu za obračun plaće dužnosnika određuje Vlada Republike Hrvatske posebnom odlukom.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 150/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3087*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika, koji je Hrvatski sabor donio na sjednici 22. prosinca 2011. godine.
+
+Klasa: 011-01/11-01/237  
+Urbroj: 71-05-03/1-11-2  
+Zagreb, 22. prosinca 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 131/00., 30/01., 59/01., 114/01., 153/02., 154/02., 163/03., 16/04., 30/04., 105/04., 187/04., 92/05., 121/05., 136/05., 151/05., 141/06., 17/07., 34/07., 82/07., 107/07., 60/08. i 38/09.) u članku 1. stavak 2. mijenja se i glasi:
+
+»Dužnosnici u smislu ovoga Zakona jesu:
+
+– Predsjednik Republike Hrvatske,
+
+– predsjednik i potpredsjednici Hrvatskoga sabora,
+
+– zastupnici u Hrvatskom saboru,
+
+– predsjednik i članovi Vlade Republike Hrvatske,
+
+– predsjednik, zamjenik predsjednika i suci Ustavnog suda Republike Hrvatske,
+
+– predsjednik, potpredsjednici i članovi Državnog izbornog povjerenstva Republike Hrvatske,
+
+– zamjenici ministara,
+
+– predstojnik Ureda predsjednika Vlade Republike Hrvatske,
+
+– predstojnici državnih ureda,
+
+– glavni ravnatelj policije,
+
+– ravnatelj Porezne uprave,
+
+– ravnatelj Carinske uprave,
+
+– glavni inspektor Državnog inspektorata,
+
+– glavni državni revizor i njegovi zamjenici,
+
+– pučki pravobranitelj i njegovi zamjenici,
+
+– pravobranitelj za djecu i njegovi zamjenici,
+
+– pravobranitelj za ravnopravnost spolova i njegovi zamjenici,
+
+– pravobranitelj za osobe s invaliditetom i njegovi zamjenici,
+
+– tajnik Hrvatskoga sabora,
+
+– glavni tajnik Vlade Republike Hrvatske,
+
+– glavni tajnik Ustavnog suda Republike Hrvatske,
+
+– tajnik Vrhovnog suda Republike Hrvatske,
+
+– zamjenik tajnika Hrvatskoga sabora,
+
+– zamjenik glavnog tajnika Vlade Republike,
+
+– zamjenik predstojnika Ureda predsjednika Vlade Republike Hrvatske,
+
+– pomoćnici ministara,
+
+– glasnogovornik Vlade Republike Hrvatske,
+
+– ravnatelji državnih upravnih organizacija,
+
+– ravnatelj i pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje,
+
+– direktor, zamjenik direktora i pomoćnici direktora Hrvatskog zavoda za zdravstveno osiguranje,
+
+– ravnatelj, zamjenik ravnatelja i pomoćnici ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu,
+
+– glavni državni rizničar,
+
+– predstojnik Ureda predsjednika Hrvatskoga sabora,
+
+– dužnosnici u Uredu predsjednika Republike Hrvatske koje imenuje Predsjednik Republike Hrvatske sukladno odredbama posebnih propisa.«
+
+### Članak 2.
+
+U članku 12. stavak 3. mijenja se i glasi:
+
+»Koeficijenti za izračun plaće dužnosnika jesu:
+
+1. predsjednik Republike Hrvatske 9,30
+
+2. a) predsjednik Hrvatskoga sabora 7,86
+
+b) predsjednik Vlade Republike Hrvatske 7,86
+
+c) predsjednik Ustavnog suda Republike Hrvatske 7,86
+
+3. a) potpredsjednik Hrvatskoga sabora 7,14
+
+b) potpredsjednik Vlade Republike Hrvatske 7,14
+
+c) zamjenik predsjednika Ustavnog suda Republike Hrvatske 7,14
+
+4. a) predsjednici radnih tijela Hrvatskoga sabora 6,42
+
+b) suci Ustavnog suda Republike Hrvatske 6,42
+
+c) ministri 6,42
+
+d) glavni državni revizor 6,42
+
+e) pučki pravobranitelj 6,42
+
+f) predsjednik Državnoga izbornog povjerenstva Republike Hrvatske 6,42
+
+5. a) potpredsjednici radnih tijela Hrvatskoga sabora 5,70
+
+b) zamjenici ministara 5,70
+
+c) predstojnik Ureda predsjednika Vlade Republike Hrvatske 5,70
+
+d) predstojnici državnih ureda 5,70
+
+e) glavni tajnik Vlade Republike Hrvatske 5,70
+
+f) potpredsjednici Državnoga izbornog povjerenstva Republike Hrvatske 5,70
+
+6. a) ravnatelj Porezne uprave 5,50
+
+b) ravnatelj Carinske uprave 5,50
+
+c) glavni ravnatelj policije 5,50
+
+7. a) zastupnici u Hrvatskom saboru 5,27
+
+b) tajnik Hrvatskoga sabora 5,27
+
+c) predstojnik Ureda predsjednika Hrvatskoga sabora 5,27
+
+d) glavni tajnik Ustavnog suda Republike Hrvatske 5,27
+
+e) tajnik Vrhovnog suda Republike Hrvatske 5,27
+
+f) zamjenici glavnog državnog revizora 5,27
+
+g) članovi Državnoga izbornog povjerenstva Republike Hrvatske 5,27
+
+h) zamjenik predstojnika Ureda predsjednika Vlade Republike Hrvatske 5,27
+
+i) glavni državni inspektor 5,27
+
+j) zamjenik glavnog tajnika Vlade Republike Hrvatske 5,27
+
+k) glavni državni rizničar 5,27
+
+l) pomoćnici ministra 5,27
+
+m) glasnogovornik Vlade 5,27
+
+n) ravnatelji državnih upravnih organizacija 5,27
+
+o) pravobranitelj za djecu 5,27
+
+p) pravobranitelj za ravnopravnost spolova 5,27
+
+r) pravobranitelj za osobe s invaliditetom 5,27
+
+8. zamjenik tajnika Hrvatskoga sabora 4,98
+
+9. zamjenici pučkog pravobranitelja 4,69
+
+10. a) ravnatelj Hrvatskog zavoda za mirovinsko osiguranje 4,55
+
+b) direktor Hrvatskog zavoda za zdravstveno osiguranje 4,55
+
+c) ravnatelj Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 4,55
+
+11. a) zamjenik direktora Hrvatskog zavoda za zdravstveno osiguranje 4,26
+
+b) zamjenik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 4,26
+
+c) zamjenici pravobranitelja za djecu 4,26
+
+d) zamjenici pravobranitelja za ravnopravnost spolova 4,26
+
+e) zamjenici pravobranitelja za osobe s invaliditetom 4,26
+
+12. a) pomoćnik ravnatelja Hrvatskog zavoda za mirovinsko osiguranje 3,97
+
+b) pomoćnik direktora Hrvatskog zavoda za zdravstveno osiguranje 3,97
+
+c) pomoćnik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 3,97.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/11-01/10  
+Zagreb, 22. prosinca 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 22/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/363*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika, koji je Hrvatski sabor donio na sjednici 8. veljače 2013. godine.
+
+Klasa: 011-01/13-01/26
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 14. veljače 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+#### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 154/02., 163/03., 16/04., 30/04., 105/04., 187/04., 92/05., 121/05., 136/05., 151/05., 141/06., 17/07., 34/07., 82/07., 107/07., 60/08., 38/09. i 150/11.) u članku 1. stavku 2. podstavku 29. iza riječi: »ravnatelj« stavlja se zarez i dodaju riječi: »zamjenik ravnatelja«.
+
+Podstavak 31. mijenja se i glasi:
+
+– ravnatelj, zamjenik ravnatelja i pomoćnici ravnatelja Hrvatskog zavoda za zapošljavanje,«.
+
+Iza podstavka 31. dodaju se novi podstavci 32., 33. i 34. koji glase:
+
+»– ravnatelj Središnjeg registra osiguranika,
+
+– ravnatelj i zamjenik ravnatelja Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije,
+
+– predsjednik Savjeta za nacionalne manjine,«.
+
+Dosadašnji podstavci 32. do 34. postaju podstavci 35. do 37.
+
+#### Članak 2.
+
+U članku 12. stavku 3. točki 5. dodaje se podtočka g) koja glasi:
+
+»g) ravnatelj Hrvatskog zavoda za zdravstveno osiguranje 5,70«.
+
+U točki 6. dodaje se podtočka d) koja glasi:
+
+»d) ravnatelj Hrvatskog zavoda za mirovinsko osiguranje 5,50«.
+
+U točki 7. dodaje se podtočka s) koja glasi:
+
+»s) ravnatelj Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije 5,27«.
+
+Točka 8. mijenja se i glasi:
+
+»a) zamjenik tajnika Hrvatskoga sabora 4,98
+
+b) zamjenik ravnatelja Hrvatskog zavoda za mirovinsko osiguranje 4,98
+
+c) zamjenik ravnatelja Hrvatskog zavoda za zdravstveno osiguranja 4,98«.
+
+Točka 10. mijenja se i glasi:
+
+»a) ravnatelj Hrvatskog zavoda za zapošljavanje 4,55
+
+b) ravnatelj Središnjeg registra osiguranika 4,55
+
+c) zamjenik ravnatelja Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije 4,55
+
+d) pomoćnik ravnatelja Hrvatskog zavoda za mirovinsko osiguranje 4,55
+
+e) pomoćnik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje 4,55«.
+
+U točki 11. podtočke a) i b) mijenjaju se i glase:
+
+»a) zamjenik ravnatelja Hrvatskog zavoda za zapošljavanje 4,26
+
+b) predsjednik Savjeta za nacionalne manjine 4,26«.
+
+Točka 12. mijenja se i glasi:
+
+»pomoćnik ravnatelja Hrvatskog zavoda za zapošljavanje 3,97«.
+
+#### Članak 3.
+
+Iza članka 15.c dodaju se članci 15.d i 15.e koji glase:
+
+»Članak 15.d
+
+Dužnosnik koji nije ponovno imenovan na dužnost koju je obnašao ili na drugu dužnost, a koji je prije obnašanja dužnosti bio zaposlen na neodređeno vrijeme u tijelima državne uprave, pravosudnim tijelima, kaznenim tijelima, stručnoj službi Hrvatskoga sabora, Uredu predsjednika Republike Hrvatske, stručnoj službi i uredima Vlade Republike Hrvatske, stručnoj službi Ustavnog suda Republike Hrvatske, stručnoj službi pučkog pravobranitelja, stručnoj službi pravobranitelja za djecu, stručnoj službi pravobranitelja za ravnopravnost spolova, stručnoj službi pravobranitelja za osobe s invaliditetom, Državnom uredu za reviziju i u drugim tijelima koja se osnivaju za obavljanje državne službe, tijelima lokalne i područne (regionalne) samouprave, javnoj službi, izvanproračunskim fondovima, pravnim osobama u vlasništvu ili pretežitom vlasništvu Republike Hrvatske i pravnim osobama u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave, ima pravo rasporeda, odnosno povratka na rad, na poslove koje je obavljao prije obnašanja dužnosti ili na druge odgovarajuće poslove, bez provedbe javnog natječaja.
+
+Sporazumom između dužnosnika i čelnika tijela, odnosno osobe ovlaštene za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u svezi s radnim odnosom, pobliže će se odrediti uvjeti ostvarivanja prava iz stavka 1. ovoga članka.
+
+Zahtjev za raspored, odnosno povratak na rad dužnosnik iz stavka 1. ovoga članka mora podnijeti najkasnije u roku od 15 dana od dana prestanka obnašanja dužnosti.
+
+Čelnik tijela, odnosno osoba ovlaštena za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u svezi s radnim odnosom, dužna je u roku od 45 dana od dana podnošenja zahtjeva iz stavka 3. ovoga članka donijeti odluku o rasporedu, odnosno povratku na rad dužnosnika iz stavka 1. ovoga članka.
+
+Dužnosnik iz stavka 1. ovoga članka nakon prestanka obnašanja dužnosti do rasporeda, odnosno povratka na rad na poslove koje je obavljao prije obnašanja dužnosti ili na druge odgovarajuće poslove, ima pravo na naknadu najviše do iznosa dviju plaća sukladno članku 15. ovoga Zakona.
+
+Dužnosnik iz stavka 1. ovoga članka kojem čelnik tijela, odnosno osoba ovlaštena za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u svezi s radnim odnosom, nije donijela odluku o rasporedu, odnosno povratku na rad u roku iz stavka 4. ovoga članka ili ako odluku o rasporedu, odnosno povratku na rad dužnosnik nije prihvatio, ima pravo na naknadu plaće sukladno članku 15. ovoga Zakona od dana nakon prestanka obnašanja dužnosti.
+
+#### Članak 15.e
+
+Dužnosnik koji nije ponovno imenovan na dužnost koju je obnašao ili na drugu dužnost, a koji nije bio zaposlen kod poslodavca iz članka 15.d stavka 1. ovoga Zakona, ima pravo povratka na rad, na poslove na kojima je radio prije obnašanja dužnosti ili na druge odgovarajuće poslove, kod poslodavca kod kojeg je bio u radnom odnosu na neodređeno vrijeme prije obnašanja dužnosti.
+
+Ugovorom između dužnosnika i bivšeg poslodavca pobliže će se odrediti uvjeti ostvarivanja prava iz stavka 1. ovoga članka.
+
+Zahtjev za raspored, odnosno povratak na rad dužnosnik iz stavka 1. ovoga članka mora podnijeti najkasnije u roku od 15 dana od dana prestanka obnašanja dužnosti.
+
+Poslodavac iz stavka 1. ovoga članka dužan je u roku od 45 dana od dana podnošenja zahtjeva iz stavka 3. ovoga članka donijeti odluku o povratku na rad dužnosnika iz stavka 1. ovoga članka.
+
+Dužnosnik nakon prestanka obnašanja dužnosti do povratka na rad kod poslodavca iz stavka 1. ovoga članka ima pravo na naknadu najviše do iznosa dviju plaća sukladno članku 15. ovoga Zakona.
+
+Dužnosnik iz stavka 1. ovoga članka kojem poslodavac nije donio odluku o povratku na rad u roku iz stavka 4. ovoga članka ili odluku o povratku na rad dužnosnik nije prihvatio, ima pravo na naknadu plaće sukladno članku 15. ovoga Zakona od dana nakon prestanka obnašanja dužnosti.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 4.
+
+Dužnosnici koji su zatečeni na dužnostima na dan stupanja na snagu ovoga Zakona, a nemaju sklopljen sporazum s čelnikom tijela, odnosno osobom ovlaštenom za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u svezi s radnim odnosom, odnosno ugovor s bivšim poslodavcem o uvjetima ostvarivanja prava rasporeda, odnosno povratka na radno mjesto nakon prestanka obnašanja dužnosti, sklapaju taj sporazum odnosno ugovor u skladu s odredbama ovoga Zakona.
+
+#### Članak 5.
+
+Danom stupanja na snagu ovoga Zakona prestaju važiti članci 8., 9. i 10. Zakona o postupku primopredaje vlasti (»Narodne novine«, br. 94/04., 17/07. i 91/10.).
+
+#### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/12-01/07
+
+Zagreb, 8. veljače 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Uredba o izmjeni i dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 3/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/3/58*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 115/2014), Vlada Republike Hrvatske je na sjednici održanoj 8. siječnja 2014. godine donijela
+
+**UREDBU**
+
+**O IZMJENI I DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98, 135/98, 105/99, 25/2000, 73/2000, 30/2001, 59/2001, 114/2001, 153/2002, 154/2002, 163/2003, 16/2004, 30/2004, 105/2004, 187/2004, 92/2005, 121/2005, 151/2005, 135/2006, 141/2006, 17/2007, 34/2007, 82/2007, 107/2007, 60/2008, 38/2009, 150/2011, 22/2013, 102/2014 i 103/2014) u članku 12. stavku 2. iza riječi: »dužnosnika« stavlja se zarez i dodaju se riječi: »osim za predsjednika, zamjenika predsjednika i suce Ustavnog suda Republike Hrvatske,«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Za obračun plaće predsjednika, zamjenika predsjednika i sudaca Ustavnog suda Republike Hrvatske primjenjuje se osnovica, koja je zakonom kojim se uređuju plaće sudaca i drugih pravosudnih dužnosnika, utvrđena za obračun plaće sudaca i drugih pravosudnih dužnosnika.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+U dosadašnjem stavku 4. koji postaje stavak 5. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 4.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/145  
+Urbroj: 50301-09/09-15-4  
+Zagreb, 8. siječnja 2015.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika (NN 93/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/93/1972*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika, koji je Hrvatski sabor donio na sjednici 14. listopada 2016.
+
+Klasa: 011-01/16-01/35  
+Urbroj: 71-06-01/1-16-2  
+Zagreb, 14. listopada 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 154/02., 163/03., 16/04., 30/04., 105/04., 187/04., 92/05., 121/05., 151/05., 135/06., 141/06., 17/07., 34/07., 82/07., 107/07., 60/08., 38/09., 150/11., 22/13., 102/14., 103/14. i 3/15.) u članku 1. stavku 2. podstavku 7. riječi: »zamjenici ministara« zamjenjuju se riječima: »državni tajnici«.
+
+U podstavku 9. riječi: »predstojnici državnih ureda« zamjenjuju se riječima: »državni tajnici središnjih državnih ureda«.
+
+### Članak 2.
+
+U članku 12. stavku 4. točki 5.b riječi: »zamjenici ministra« zamjenjuju se riječima: »državni tajnici«
+
+U točki 5.d riječi: »predstojnici državnih ureda« zamjenjuju se riječima: »državni tajnici središnjih državnih ureda«.
+
+### Članak 3.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»Dužnosnici koji su dužnost obnašali najmanje jednu godinu, nakon prestanka obnašanja dužnosti sve do početka ostvarivanja plaće po drugoj osnovi ili do ispunjenja uvjeta za mirovinu imaju, šest mjeseci od dana prestanka obnašanja dužnosti, pravo na naknadu u visini plaće koju ostvaruje dužnosnik na toj dužnosti, a sljedećih šest mjeseci pravo na naknadu u visini 50% plaće koju ostvaruje dužnosnik na toj dužnosti.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Dužnosnici koji su dužnost obnašali manje od jedne godine, ali više od tri mjeseca, nakon prestanka obnašanja dužnosti sve do početka ostvarivanja plaće po drugoj osnovi ili do ispunjenja uvjeta za mirovinu imaju, tri mjeseca od dana prestanka obnašanja dužnosti, pravo na naknadu u visini plaće koju ostvaruje dužnosnik na toj dužnosti, a sljedeća tri mjeseca pravo na naknadu u visini 50% plaće koju ostvaruje dužnosnik na toj dužnosti.«.
+
+Dosadašnji stavak 2. briše se.
+
+### Članak 4.
+
+Dužnosnici koji su stekli status dužnosnika do dana stupanja na snagu ovoga Zakona ostvaruju prava dužnosnika sukladno Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, broj 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 154/02., 163/03., 16/04., 30/04., 105/04., 187/04., 92/05., 121/05., 151/05., 135/06., 141/06., 17/07., 34/07., 82/07., 107/07., 60/08., 38/09., 150/11., 22/13., 102/14., 103/14. i 3/15.).
+
+Iznimno od stavka 1. ovoga članka, zastupnici 9. saziva Hrvatskog sabora ostvaruju svoja prava sukladno ovom Zakonu.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/82  
+Zagreb, 14. listopada 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.

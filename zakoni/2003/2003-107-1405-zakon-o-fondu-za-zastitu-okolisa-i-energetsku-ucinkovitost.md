@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-07-04
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "107/03"
-amendments: []
+last_amended: 2012-12-21
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "107/03, 144/12"
+amendments:
+  - "NN 144/2012 (3082) Zakon o izmjenama i dopunama Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/107/1405"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Fondu za zaštitu okoliša i energetsku učinkovitost
 
 > Izvor: Narodne novine, NN 107/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/107/1405).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 144/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -560,3 +564,115 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (NN 144/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3082*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FONDU ZA ZAŠTITU OKOLIŠA I ENERGETSKU UČINKOVITOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o fondu za zaštitu okoliša i energetsku učinkovitost, koji je Hrvatski sabor donio na sjednici 14. prosinca 2012. godine.
+
+Klasa: 011-01/12-01/179
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 19. prosinca 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FONDU ZA ZAŠTITU OKOLIŠA I ENERGETSKU UČINKOVITOST**
+
+### Članak 1.
+
+U Zakonu o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, br. 107/03.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim Zakonom utvrđuje se okvir za provedbu sljedećeg akta Europske unije:
+
+– Direktiva 2009/29/EZ Europskoga parlamenta i Vijeća od 23. travnja 2009. kojom se izmjenjuje i dopunjuje Direktiva 2003/87/EZ u svrhu poboljšanja i proširenja sustava Zajednice za trgovanje emisijskim jedinicama stakleničkih plinova (SL L 140, 5. 6. 2009.).«.
+
+### Članak 2.
+
+U članku 13. stavak 1. mijenja se i glasi:
+
+»(1) Pod naknadama onečišćivača okoliša razumijevaju se:
+
+a) naknade na emisije u okoliš:
+
+– ugljikovog dioksida (u daljnjem tekstu: emisija CO2),
+
+– oksida sumpora izraženih kao sumporov dioksid (u daljnjem tekstu: emisija SO2),
+
+– oksida dušika izraženih kao dušikov dioksid (u daljnjem tekstu: emisija NO2),
+
+b) posebna godišnja naknada na emisije stakleničkih plinova.«.
+
+U stavku 2. iza riječi: »stavka 1.« dodaju se riječi: »točke a.«.
+
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Iznimno od stavka 2. ovoga članka, pravne i fizičke osobe koje u okviru svoje djelatnosti imaju u vlasništvu ili koriste pojedinačni izvor emisije CO2 za koje je ishođena dozvola za emisije stakleničkih plinova sukladno posebnim propisima kojima se uređuje zaštita zraka nisu obveznici plaćanja naknade na emisije CO2.
+
+(4) Obveznici plaćanja posebne godišnje naknade na emisije stakleničkih plinova su pravne i fizičke osobe koje u okviru svoje djelatnosti imaju u vlasništvu ili koriste pojedinačni izvor emisije CO2 iz stavka 3. ovoga članka, koji je na temelju rješenja izdanog prema posebnom propisu kojim se uređuje zaštita zraka isključen iz sustava trgovanja emisijskim jedinicama.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+Iza dosadašnjeg stavka 4. koji postaje stavak 6. dodaje se stavak 7. koji glasi:
+
+»(7) Posebna godišnja naknada na emisije stakleničkih plinova izračunava se na način propisan posebnim propisom kojim se uređuje način trgovanja emisijskim jedinicama.«.
+
+U dosadašnjem stavku 5. koji postaje stavak 8. iza riječi: »NO2« dodaju se riječi: »i posebna godišnja naknada na emisije stakleničkih plinova«.
+
+### Članak 3.
+
+U članku 26. stavku 3. riječi: »u roku od osam dana od dana dostave rješenja« brišu se.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Žalba na rješenje Fonda ne odgađa izvršenje rješenja.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+U dosadašnjem stavku 6. koji postaje stavak 7. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 6.«.
+
+### Članak 4.
+
+Članak 28. mijenja se i glasi:
+
+»(1) U pogledu vrste i načina izračuna iznosa naknada i posebne naknade, obveznika plaćanja, obračunskog razdoblja, načina i rokova obračunavanja i plaćanja te vođenja očevidnika primjenjuju se odredbe ovoga Zakona i provedbenih propisa donesenih na temelju ovoga Zakona.
+
+(2) U pogledu postupka utvrđivanja naknada i posebne naknade i žalbenog postupka primjenjuju se odredbe zakona kojim se uređuje opći upravni postupak, a u pogledu prekršaja i zastare te ovršnog postupka radi naplate duga, odgovarajuće se primjenjuju odredbe Općega poreznog zakona.«.
+
+### Članak 5.
+
+Postupci započeti u skladu s odredbama članka 13. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, br. 107/03.) za naplatu naknade na emisije CO2 nastale prije 1. siječnja 2013. dovršit će se prema odredbama toga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2013.
+
+Klasa: 351-01/12-01/04
+
+Zagreb, 14. prosinca 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

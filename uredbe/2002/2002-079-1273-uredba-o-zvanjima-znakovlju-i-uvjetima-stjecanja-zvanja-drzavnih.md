@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2002-07-03
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/02"
-amendments: []
+last_amended: 2013-10-18
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/02, 127/13"
+amendments:
+  - "NN 127/2013 (2765) Uredba o izmjeni Uredbe o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1273"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima
 
 > Izvor: Narodne novine, NN 79/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1273).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 127/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -194,3 +198,38 @@ Ivica Račan, v. r.
 
 ![](https://narodne-novine.nn.hr/dodatni/358483.gif)  
 ![](https://narodne-novine.nn.hr/dodatni/358484.gif)
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjeni Uredbe o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima (NN 127/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2765*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2012), a u vezi s člankom 33. stavkom 6. Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99, 55/2000, 59/2000, 129/2000, 59/2001, 67/2001, 11/2002, 190/2003 – pročišćeni tekst, 76/2007, 27/2008, 83/2009, 18/2011, 48/2011 – Odluka Ustavnog suda Republike Hrvatske, 125/2011 i 56/2013), Vlada Republike Hrvatske je na sjednici održanoj 17. listopada 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O ZVANJIMA, ZNAKOVLJU I UVJETIMA STJECANJA ZVANJA DRŽAVNIH SLUŽBENIKA ODJELA OSIGURANJA U KAZNIONICAMA I ZATVORIMA**
+
+### Članak 1.
+
+U Uredbi o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima (»Narodne novine«, broj 79/2002) u članku 5. stavak 1. mijenja se i glasi:
+
+»Državnom službeniku koji se trajno premješta iz drugog državnog tijela i raspoređuje se za službenika pravosudne policije priznat će se kao vrijeme propisano za stjecanje zvanja službenika pravosudne policije radni staž ostvaren u drugom državnom tijelu.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-03/119
+
+Urbroj: 50301-09/09-13-1
+
+Zagreb, 17. listopada 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.

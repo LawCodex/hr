@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-25
-last_amended: 2007-02-09
+last_amended: 2009-06-30
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "78/93, 29/94, 16/07"
+narodne_novine: "78/93, 29/94, 16/07, 75/09"
 amendments:
   - "NN 29/1994 (513) Zakon o izmjeni Zakona o javnom bilježništvu"
   - "NN 16/2007 (652) Zakon o izmjenama i dopunama Zakona o javnom bilježništvu"
+  - "NN 75/2009 (1787) Zakon o izmjenama i dopuni Zakona o javnom bilježništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 78/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 29/1994, NN 16/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 29/1994, NN 16/2007, NN 75/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2671,3 +2672,91 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o javnom bilježništvu (NN 75/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1787*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O JAVNOM BILJEŽNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o javnom bilježništvu, kojega je Hrvatski sabor donio na sjednici 19. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/99
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 23. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O JAVNOM BILJEŽNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94. i 16/07.) u članku 13. stavku 2. podstavak 1. mijenja se i glasi:
+
+»– protiv koje je pokrenut kazneni postupak,«.
+
+U podstavku 2. riječi: »inače nečasnog« brišu se.
+
+### Članak 2.
+
+U članku 27. stavak 3. mijenja se i glasi:
+
+»(3) Do privremenog udaljenja javnog bilježnika iz službe dolazi po sili zakona ako je protiv javnog bilježnika pokrenut kazneni postupak za kazneno djelo za koje je predviđena (zapriječena) kazna zatvora od 5 godina ili teža kazna ili za djelo koje je po svojoj prirodi takvo da ga čini nedostojnim za obavljanje javnobilježničke službe, sve do pravomoćnog okončanja kaznenog postupka.«
+
+### Članak 3.
+
+U članku 123. stavku 4. riječi: »Vježbenički staž« zamjenjuju se riječima: »Vježbenička praksa«.
+
+U stavku 5. riječi: »od staža« zamjenjuju se riječima: »od prakse«.
+
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Javnobilježnički vježbenik u javnobilježničkom uredu obavlja praksu radi stjecanja uvjeta za polaganje pravosudnog ispita prema programu stručnog obrazovanja javnobilježničkih vježbenika.
+
+(7) Vježbenička praksa javnobilježničkog vježbenika može trajati dvije godine radi stjecanja uvjeta za polaganje pravosudnog ispita.«
+
+U dosadašnjem stavku 6., koji postaje stavak 8., riječi: »vježbenički staž« zamjenjuju se riječima: »vježbenička praksa«.
+
+Dosadašnji stavci 7. i 8. postaju stavci 9. i 10.
+
+### Članak 4.
+
+Članak 127. mijenja se i glasi:
+
+»(1) Program stručnog obrazovanja javnobilježničkih vježbenika iz članka 123. stavak 6. ovoga Zakona koji donosi Komora mora biti usklađen s programom Pravosudne akademije Ministarstva pravosuđa.
+
+(2) Teoretski dio programa stručnog obrazovanja javnobilježničkih vježbenika iz stavka 1. ovoga članka mora biti usklađen s programom Pravosudne akademije Ministarstva pravosuđa. Praktični dio vježbeničke prakse provodi se sukladno Zakonu o vježbenicima u pravosudnim tijelima i pravosudnom ispitu.
+
+(3) Komora je dužna za program stručnog obrazovanja javnobilježničkih vježbenika iz stavka 1. ovog članka dobiti suglasnost od Ministarstva pravosuđa.
+
+(4) Javnobilježnički vježbenici nakon 18 mjeseci javnobilježničke prakse imaju pravo pristupiti polaganju pravosudnog ispita ako su obavili praktični i teoretski dio stručnog obrazovanja iz stavka 2. ovoga članka.
+
+(5) Vrijeme provedeno na praksi kod javnog bilježnika u svojstvu javnobilježničkog vježbenika izjednačava se u pogledu prava na polaganje pravosudnog ispita s odgovarajućom praksom provedenom kod odvjetnika, sudu ili državnom odvjetništvu, sukladno Zakonu o vježbenicima u pravosudnim tijelima i pravosudnom ispitu.
+
+(6) Komora će posebnim pravilnikom odrediti način financiranja stručnog obrazovanja u roku od 60 dana od dana stupanja na snagu Zakona.«
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 701-01/09-01/01
+
+Zagreb, 19. lipnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

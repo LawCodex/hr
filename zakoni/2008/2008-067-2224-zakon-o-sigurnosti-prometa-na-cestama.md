@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-06-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "67/08"
-amendments: []
+last_amended: 2015-06-10
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "67/08, 74/11, 80/13, 92/14, 64/15"
+amendments:
+  - "NN 74/2011 (1575) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 80/2013 (1670) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 92/2014 (1842) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 64/2015 (1225) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/67/2224"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o sigurnosti prometa na cestama
 
 > Izvor: Narodne novine, NN 67/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/67/2224).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 74/2011, NN 80/2013, NN 92/2014, NN 64/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2482,3 +2489,1297 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 74/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/74/1575*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 17. lipnja 2011. godine.
+
+Klasa: 011-01/11-01/135  
+Urbroj: 71-05-03/1-11-2  
+Zagreb, 24. lipnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08. i 48/10.) članku 2. stavku 1. točka 31. mijenja se i glasi:
+
+»31) »pčelarsko vozilo« je motorno ili priključno vozilo namijenjeno ili konstrukcijski prilagođeno isključivo za prijevoz pčelinjih zajednica (košnica) te se na njemu ne smije prevoziti nikakav drugi teret, a koje je, po posebnom propisu koji donosi ministar nadležan za poljoprivredu, u suglasnosti s ministrom nadležnim za poslove prometa i ministrom nadležnim za unutarnje poslove, razvrstano u kategoriju pčelarskih vozila,«.
+
+U točki 41. riječ: »(moped)« briše se.
+
+U točki 42. riječ: »(motocikl)« briše se.
+
+Točka 50. mijenja se i glasi:
+
+»50) »specijalno vozilo« je motorno ili priključno vozilo namijenjeno za obavljanje radnji koje zahtijevaju specijalnu konstrukciju i/ili opremu,«.
+
+Točka 59. mijenja se i glasi:
+
+»59) »nosivost« je dopuštena masa kojom se vozilo smije opteretiti do najveće dopuštene mase određene podzakonskim propisima ili prema deklaraciji proizvođača vozila s obzirom na dopuštena opterećenja nosivih sklopova,«.
+
+Točka 60. mijenja se i glasi:
+
+»60) »masa vozila« je masa vozila u stanju spremnom za vožnju (masa praznog vozila) u skladu s homologacijskim zahtjevima,«.
+
+Točka 68. mijenja se i glasi:
+
+»68) »pješak« je osoba koja sudjeluje u prometu, a nije vozač niti putnik u vozilu ili na vozilu,«.
+
+### Članak 2.
+
+U članku 5. iza stavka 12. dodaje se novi stavak 13. koji glasi:
+
+»(13) Ministarstvo dostavlja podatke o vlasnicima, odnosno korisnicima vozila na temelju ugovora o leasingu jedinicama lokalne samouprave, odnosno pravnim osobama koje odrede jedinice lokalne samouprave, radi obavljanja poslova iz članka 5. stavka 4. i 11. ovoga Zakona.«.
+
+Dosadašnji stavak 13. postaje stavak 14.
+
+### Članak 3.
+
+U članku 32. stavku 4. i 5. iza riječi: »policijskog službenika« dodaju se riječi: »ili druge ovlaštene osobe«.
+
+### Članak 4.
+
+U članku 42. stavku 2. iza riječi: »vatrogasna vozila« stavlja se zarez i dodaju riječi: »vozila civilne zaštite«.
+
+### Članak 5.
+
+U članku 49. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna ili kaznom zatvora u trajanju do 60 dana kaznit će se za prekršaj vozač koji se vozilom na autocesti, brzoj cesti i cesti namijenjenoj isključivo za promet motornih vozila kreće kolničkom trakom namijenjenom za promet vozila iz suprotnog smjera, odnosno u suprotnom ili zabranjenom smjeru.«.
+
+### Članak 6.
+
+U članku 57. stavku 7., članku 67. stavku 5., članku 70. stavku 3., članku 72. stavku 2. i članku 74. stavku 2. riječi: »2.000,00 kuna« zamjenjuju se riječima: »3.000,00 kuna«.
+
+### Članak 7.
+
+U članku 78. stavak 3. mijenja se i glasi:
+
+»(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač ili druga osoba ako postupi suprotno odredbama ovoga članka.«.
+
+### Članak 8.
+
+U članku 81. stavku 3. riječ: »vozač« zamjenjuje se riječju: »osoba«.
+
+### Članak 9.
+
+U članku 82. stavku 1. dodaje se nova točka 12. koja glasi:
+
+»12) na dijelu ceste gdje bi širina slobodnog prolaza od zaustavljenoga ili parkiranog vozila do neisprekidane uzdužne crte na kolniku ili do neke zapreke na cesti bila manja od 3 m, odnosno do suprotnog ruba kolnika manja od 4 m, odnosno u krugu od 3 m od posebnim oznakama na kolniku označenog podzemnog ili nadzemnog hidranta«.
+
+Dosadašnja točka 12. postaje točka 13.
+
+U stavku 3. riječi: »točke 12. ovoga članka« zamjenjuje se riječima: »točke 13. ovoga članka.«.
+
+U stavku 4. riječi: »točke 1. do 11. ovoga članka« zamjenjuju se riječima: »točke 1. do 12. ovoga članka.«.
+
+### Članak 10.
+
+U članku 84. stavku 1. točki 8. iza riječi: »dvorište,« dodaju se riječi: »ispred i na vatrogasnim i drugim komunalnim i javnim prolazima i prilazima, odnosno u krugu od 3 m od posebnim oznakama na kolniku označenog podzemnog ili nadzemnog hidranta,«.
+
+### Članak 11.
+
+U članku 106. stavku 2. točki 3. riječi: »kolone ili povorke« brišu se.
+
+### Članak 12.
+
+U članku 113. stavku 2. riječi: »izvan naselja« brišu se.
+
+### Članak 13.
+
+Članak 114. mijenja se i glasi:
+
+»(1) Vozač motocikla ili mopeda te vozač lakog četverocikla bez zaštitne kabine i četverocikla bez zaštitne kabine, kao i osobe koje se prevoze na tim vozilima, moraju, za vrijeme vožnje na cesti, na glavi nositi propisanu, homologiranu i uredno pričvršćenu zaštitnu kacigu. Zaštitnu kacigu, za vrijeme vožnje na cesti, na glavi moraju nositi i vozači bicikla mlađi od 16 godina.
+
+(2) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj vozač motocikla, mopeda, lakog četverocikla bez zaštitne kabine i četverocikla bez zaštitne kabine, kao i osoba koja se prevozi tim vozilima, ako postupi suprotno odredbi stavka 1. ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač bicikla ako postupi suprotno odredbi stavka 1. ovoga članka.«.
+
+### Članak 14.
+
+U članku 127. stavku 1. riječi: »a noću i danju u slučaju smanjene vidljivosti mora biti osvijetljen ili označen s reflektirajućom materijom« brišu se.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Pješak, koji se kreće kolnikom, dužan je noću, a i danju u slučaju smanjene vidljivosti, biti označen nekim izvorom svjetlosti ili reflektirajućom materijom.«.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj pješak koji postupi suprotno odredbama stavka 1. i 2. ovoga članka.«.
+
+### Članak 15.
+
+U članku 142. stavak 3. mijenja se i glasi:
+
+»(3) Na autocesti vozač ne smije vozilom prelaziti iz trake u traku (slalom vožnja), pretjecati trakom za zaustavljanje vozila u nuždi, kretati se na način da ne drži potreban razmak, požurivati vozila ispred sebe davanjem svjetlosnih ili zvučnih znakova ili na neki drugi način niti izvoditi bilo koju drugu radnju kojom ugrožava ili dovodi u opasnost druge sudionike u prometu.«.
+
+### Članak 16.
+
+U članku 149. stavku 1. iza riječi: »hitne pomoći,« dodaju se riječi: »vozila sanitetskog prijevoza,«, a iza riječi: »vatrogasne službe,« dodaju se riječi: »civilne zaštite,«.
+
+### Članak 17.
+
+U članku 151. stavku 1. iza riječi: »carinskih službenika,« dodaju se riječi: »službena vozila ovlaštenih službenika središnjeg tijela državne uprave nadležne za zaštitu i spašavanje, službena vozila inspektora cestovnog prometa,«.
+
+### Članak 18.
+
+U članku 161. stavak 3. mijenja se i glasi:
+
+»(3) Vozač bicikla, mopeda i motocikla ne smije prevoziti osobu koja u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili ako u krvi ima alkohola iznad 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.«.
+
+### Članak 19.
+
+U članku 164. stavku 4. iza riječi: »vozač« dodaju se riječi: »ako prevozi osobu suprotno odredbama stavka 1. ovoga članka ili«.
+
+### Članak 20.
+
+U članku 181. stavak 1. mijenja se i glasi:
+
+»(1) Policijski službenik koji obavlja očevid prometne nesreće u kojoj je nastala materijalna šteta, podvrgnut će sudionike prometne nesreće ispitivanju pomoću odgovarajućih sredstava i aparata, radi provjere ima li u organizmu alkohola, droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima. Ako se tim ispitivanjem utvrdi da sudionik ima u organizmu droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima, policijski službenik odvest će ga u zdravstvenu ustanovu na liječnički pregled te na uzimanje krvi i urina radi analize.«.
+
+U stavku 2., 3. i 6. riječi: »opojnih droga ili lijekova koji se ne smiju uzimati za vrijeme vožnje ili određeno vrijeme prije započinjanja vožnje« zamjenjuju se riječima: »droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima«.
+
+U stavku 5. riječi: »opojne droge ni lijekove koji se ne smiju uzimati za vrijeme vožnje ili određeno vrijeme prije započinjanja vožnje« zamjenjuju se riječima: »droge ni lijekove koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima«.
+
+U stavku 8. riječi: »umjerenih prema propisima o mjerilima i mjeriteljskim uvjetima« brišu se, a riječi:. »opojnih droga ili lijekova koji se ne smiju uzimati za vrijeme vožnje ili određeno vrijeme prije započinjanja vožnje« zamjenjuju se riječima: »droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima«.
+
+### Članak 21.
+
+U članku 193. stavku 2. iza riječi: »s priključnim vozilom.« dodaje se rečenica koja glasi: »Vozač motornog vozila dužan je, prije uključivanja u promet, očistiti zaleđena vjetrobranska stakla i snijeg na vozilu.«.
+
+### Članak 22.
+
+Članak 199. mijenja se i glasi:
+
+(1) Vozač vozila kategorije C1, C1+E, C, C+E, D1, D1+E, D, D+E i H, instruktor vožnje, mladi vozač, kao i vozač vozila B kategorije kojem je upravljanje vozilom osnovno zanimanje (taksisti, vozači hitne pomoći, vozači u tvrtkama i tijelima državne vlasti itd.), u vrijeme kada obavlja te poslove, ne smije upravljati vozilom na cesti niti početi upravljati vozilom ako u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili ako u krvi ima alkohola.
+
+(2) Vozač vozila kategorije A1, A2, A, B, B+E, F, G i AM ne smije upravljati vozilom na cesti niti početi upravljati vozilom ako u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili ako u krvi ima alkohola iznad 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.
+
+(3) Smatrat će se da je vozač počeo upravljati vozilom ako je pokrenuo vozilo s mjesta.
+
+(4) Prisutnost alkohola u krvi utvrđuje se analizom krvi i urina ili analizom krvi, mjerenjem količine alkohola u litri izdahnutog zraka, liječničkim pregledom i drugim metodama i aparatima.
+
+(5) Smatrat će se da vozač u organizmu ima droga ili lijekova ako se njihova prisutnost utvrdi odgovarajućim sredstvima ili uređajima, liječničkim pregledom ili analizom krvi i urina ili analizom krvi.
+
+(6) Novčanom kaznom u iznosu od 700,00 kuna kaznit će se za prekršaj vozač i instruktor vožnje iz stavka 1. ovoga članka ako u krvi ima alkohola do 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.
+
+(7) Novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna kaznit će se za prekršaj vozač i instruktor vožnje ako u krvi ima alkohola iznad 0,50 do 1,00 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.
+
+(8) Novčanom kaznom u iznosu od 3.000,00 do 5.000,00 kuna kaznit će se za prekršaj vozač i instruktor vožnje ako u krvi ima alkohola iznad 1,00 do 1,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.
+
+(9) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna ili kaznom zatvora u trajanju do 60 dana kaznit će se za prekršaj vozač i instruktor vožnje ako u krvi ima alkohola iznad 1,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.
+
+(10) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna ili kaznom zatvora u trajanju do 60 dana kaznit će se za prekršaj vozač i instruktor vožnje ako u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima.
+
+(11) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač bicikla i zaprežnog vozila ako u krvi ima alkohola iznad 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka ili ako u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima.«.
+
+### Članak 23.
+
+Članak 205. briše se.
+
+### Članak 24.
+
+U članku 213. stavak 3. mijenja se i glasi:
+
+»(3) Ako autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik, ne obavlja poslove u skladu s propisima, ministarstvo nadležno za unutarnje poslove zaključkom će im naložiti otklanjanje nedostataka u roku od 30 dana. Ako autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik, ne otkloni nedostatke u određenom roku, ministarstvo nadležno za unutarnje poslove rješenjem će autoškoli zabraniti rad, a instruktoru vožnje, predavaču ili ovlaštenom ispitivaču oduzeti dozvolu (licenciju.).«.
+
+### Članak 25.
+
+U članku 216. stavku 2. podstavak 5. mijenja se i glasi:
+
+»– navršenih 21 godinu za upravljanje vozilima D1, D1+E, D, D+E i H kategorije,«.
+
+### Članak 26.
+
+U članku 217. u uvodnoj rečenici riječi: »A1, A2, A, B, B+E, C1, C1+E, C, C+E, D, D+E, F, G, H i M« zamjenjuju se riječima: »A1, A2, A, B, B+E, C1, C1+E, C, C+E, D1, D1+E, D, D+E, F, G, H i AM«.
+
+U podstavku 4. iza riječi: »ne prelazi 750 kg« dodaju se riječi: »ili u kombinaciji s priključnim vozilom čija najveća dopuštena masa prelazi 750 kg, uz uvjet da najveća dopuštena masa priključnog vozila nije veća od mase vučnog vozila, a najveća dopuštena masa kombinacije tih vozila nije veća od 3.500 kg«.
+
+Iza podstavka 9. dodaju se novi podstavci 10. i 11. koji glase:
+
+»– D1 spadaju motorna vozila projektirana i izrađena za prijevoz najviše 16 putnika uz vozača i čija maksimalna duljina nije veća od 8 m; motorna vozila ove kategorije mogu se kombinirati s prikolicom čija najveća dopuštena masa nije veća od 750 kg,
+
+– D1+E, spadaju kombinacije vozila kada vučno vozilo kategorije D1 i njegova prikolica ima najveću dopuštenu masu veću od 750 kg, ne dovodeći u pitanje odredbe propisa o tipnom odobrenju za dotična vozila,«.
+
+Dosadašnji podstavci 10., 11., 12., 13., 14. i 15. postaju podstavci 12., 13., 14., 15., 16. i 17.
+
+### Članak 27.
+
+U članku 219. stavak 5. mijenja se i glasi:
+
+»(5) Pravo na upravljanje vozilom D1, D1+E, D ili D+E kategorije može steći vozač koji ima vozačku dozvolu C kategorije najmanje dvije godine.«.
+
+### Članak 28.
+
+Članak 220. mijenja se i glasi:
+
+»(1) Vozači motornih vozila kategorije B, C1, C, D1 ili D imaju pravo upravljati motornim vozilima tih kategorija i kada su im pridodane lake prikolice.
+
+(2) Vozač kojem je izdana vozačka dozvola za upravljanje motornim vozilom kategorije D ili D1 ima pravo upravljati i motornim vozilima kategorije B, C1 i C, vozač kojem je izdana vozačka dozvola za upravljanje motornim vozilom kategorije C ima pravo upravljati i motornim vozilom kategorije B i C1.
+
+(3) Vozač kojem je izdana vozačka dozvola za upravljanje skupom vozila kategorije D1+E ili D+E ima pravo upravljati i skupom vozila C+E, C1+E i B+E kategorije, vozač kojem je izdana vozačka dozvola za upravljanje skupom vozila C+E ima pravo upravljati i skupom vozila C1+E i B+E kategorije, a vozač kojem je izdana vozačka dozvola za upravljanje skupom vozila C1+E kategorije ima pravo upravljati i skupom vozila B+E kategorije.
+
+(4) Vozač kojem je izdana vozačka dozvola kategorije A1, A2, A, B, C1, C, D1, D i H ima pravo upravljati i vozilima F, G i AM kategorije.
+
+(5) Vozač kojem je izdana vozačka dozvola za upravljanje vozilom A2 kategorije ima pravo upravljati vozilima A1 kategorije, a vozač kojem je izdana vozačka dozvola A kategorije ima pravo upravljati vozilima A1 i A2 kategorije.
+
+(6) Vozač kojem je izdana vozačka dozvola AM kategorije ima pravo upravljati lakim četverociklom, a vozač kojem je izdana vozačka dozvola B kategorije ima pravo upravljati četverociklom.
+
+(7) Iznimno od odredbe stavka 6. ovoga članka, osoba koja je stekla pravo upravljanja vozilima A1, A2 ili A kategorije prije stupanja na snagu ovoga Zakona, ima pravo upravljati četverociklom.«.
+
+### Članak 29.
+
+U članku 221. stavku 1. iza riječi: »na autocesti« zarez i riječi: »a mopedom 40 km na sat« brišu se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Osoba iz stavka 1. ovoga članka ne smije upravljati niti početi upravljati motornim vozilom ako u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili ako u krvi ima alkohola ili ako pokazuje znakove alkoholiziranosti ili utjecaja droga.«.
+
+U stavku 3. riječi: »osobnim vozilom čija snaga motora prelazi 75 kW« zamjenjuju se riječima: »osobnim automobilom čija snaga motora prelazi 80 kW.«.
+
+### Članak 30.
+
+U članku 222. stavak 3. mijenja se i glasi:
+
+« (3) Vozačka dozvola za upravljanje vozilima C, C+E, D1, D1+E, D, D+E i H kategorije izdaje se s rokom važenja od pet godina. Po isteku roka od pet godina, vozač iz ovoga stavka prilikom produljenja vozačke dozvole dužan je podvrgnuti se zdravstvenom pregledu za vozača.«.
+
+Stavak 7. briše se.
+
+### Članak 31.
+
+U članku 225. stavku 2. iza riječi: »motornim vozilima« dodaju se riječi: »D1 ili«.
+
+### Članak 32.
+
+U članku 226. stavku 2. riječi: »točke 1., 2. i 4.« zamjenjuju se riječima: »točke 1. i 2.«.
+
+### Članak 33.
+
+U članku 228. stavku 2. riječi: »pet godina« zamjenjuju se riječima: »tri godine«.
+
+### Članak 34.
+
+U članku 229. stavak 2. mijenja se i glasi:
+
+« (2) Vlasnik, odnosno osoba kojoj je vozilo povjereno ne smije dati vozilo na upravljanje osobi koja nema pravo upravljati vozilom, odnosno osobi koja nema pravo upravljati kategorijom vozila u koju spada to vozilo ili osobi koja u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili ako u krvi ima nedozvoljenu količinu alkohola.«.
+
+U stavku 3. iza riječi: »službenika« dodaju se riječi: »ili službene osobe jedinica lokalne samouprave koja obavlja poslove iz članka 5. stavka 4. ovoga Zakona.«.
+
+### Članak 35.
+
+U članku 231. stavak 4. mijenja se i glasi:
+
+»(4) Na izvanredni nadzorni zdravstveni pregled uputit će se vozač i instruktor vožnje kod kojih je utvrđen udio alkohola u krvi viši od 1,50 g/kg ili je utvrđeno da u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima, kao i vozač i instruktor vožnje koji se odbiju podvrći ispitivanju imaju li u organizmu alkohola, droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima, nakon pravomoćnosti odluke o prekršaju.«
+
+U članku 231. stavku 6. iza riječi: »prebivališta« stavlja se zarez i dodaju riječi: »odnosno privremenog ili stalnog boravišta«.
+
+### Članak 36.
+
+U članku 233. stavku 1. iza riječi: »prebivališta« stavlja se zarez i dodaju riječi: »odnosno privremenog ili stalnog boravišta«.
+
+U stavku 3. iza riječi: »prebivalište« stavlja se zarez i dodaju riječi: »odnosno privremeno ili stalno boravište«.
+
+### Članak 37.
+
+U članku 240. stavku 3. iza riječi: »dozvola izdaje se« dodaje se riječ: »najduže«.
+
+### Članak 38.
+
+U članku 243. stavku 1. točki 9. riječi: »najveća dopuštena« brišu se.
+
+### Članak 39.
+
+Članak 251. mijenja se i glasi:
+
+»Iznimno od odredbe članka 250. stavka 1. ovoga Zakona, ministarstvo nadležno za unutarnje poslove odjavit će vozilo bez prometne dozvole, knjižice vozila i registarskih pločica, ako je važenje prometne dozvole isteklo prije više od jedne godine.«.
+
+### Članak 40.
+
+U članku 252. stavku 1. iza riječi: »prebivalištu« stavlja se zarez i dodaju riječi: »odnosno privremenom ili stalnom boravištu«.
+
+U stavku 4. iza riječi: »prebivalištu,« dodaju se riječi: »odnosno privremenom ili stalnom boravištu«.
+
+U stavku 6. iza riječi: »registrirana,« dodaju se riječi: »odnosno do mjesta obavljanja tehničkog pregleda«.
+
+Stavak 9. mijenja se i glasi:
+
+»(9) Prenosive pločice izdaju se na ime pravne ili fizičke osobe obrtnika koji se bavi proizvodnjom, nadogradnjom, servisiranjem, prijevozom ili prodajom vozila na malo. Izdavanje prenosivih pločica odobrava ministarstvo nadležno za unutarnje poslove, a izdaje ih policijska uprava, odnosno policijska postaja prema sjedištu pravne ili fizičke osobe obrtnika.«.
+
+Stavak 11. mijenja se i glasi:
+
+»(11) Ako policijska uprava, odnosno policijska postaja utvrdi da se pokusne pločice izdaju protivno propisima i rješenju kojim je odobreno izdavanje pokusnih pločica, ministarstvo nadležno za unutarnje poslove rješenjem će izdavatelju pokusnih pločica, oduzeti odobrenje za izdavanje pokusnih pločica, odnosno odbiti zahtjev za odobrenje za izdavanje pokusnih pločica. Rok za podnošenje novog zahtjeva određuje ministarstvo nadležno za unutarnje poslove, a koji ne može biti kraći od šest mjeseci niti duži od dvije godine od dana izvršnosti rješenja.«.
+
+Stavak 12. mijenja se i glasi:
+
+»(12) Ako policijska uprava, odnosno policijska postaja utvrdi da se prenosive pločice koriste protivno propisima i rješenju kojim je odobreno izdavanje prenosivih pločica, ministarstvo nadležno za unutarnje poslove rješenjem će pravnoj ili fizičkoj osobi obrtniku iz stavka 9. ovoga članka oduzeti prenosive pločice, odnosno odbiti zahtjev za odobrenje prenosivih pločica. Ponovni zahtjev za odobrenje iz stavka 9. ovoga članka može se podnijeti nakon isteka dvije godine od dana izvršnosti rješenja.«.
+
+### Članak 41.
+
+U članku 256. stavku 1. iza riječi: »i registracije vozila« stavlja se zarez i dodaju riječi: »osim motornih i priključnih vozila za prijevoz tereta najveće dopuštene mase veće od 3500 kg, motornih vozila za prijevoz osoba koja osim sjedala za vozača imaju više od osam sjedala, vozila hitne medicinske pomoći i vozila za taksi prijevoz, koje su vlasnici dužni podvrgnuti redovitom tehničkom pregledu tijekom mjeseca u kojem ističe rok od 12 mjeseci od prvog tehničkog pregleda i registracije vozila.«.
+
+### Članak 42.
+
+U članku 257. stavku 1. iza riječi: »taksi prijevoz« stavlja se zarez i dodaju riječi: »vozilima hitne medicinske pomoći«.
+
+### Članak 43.
+
+U članku 270. stavku 8. iza riječi: »pravna osoba« dodaju se riječi: »ili fizička osoba obrtnik«.
+
+### Članak 44.
+
+U članku 282. stavak 1. mijenja se i glasi:
+
+»(1) Policijski službenik, obavljajući poslove iz članka 4. stavka 1. ovoga Zakona, može vozača i drugog sudionika u prometu na cesti podvrgnuti ispitivanju pomoću odgovarajućih sredstava i uređaja (alkometar i dr.) radi utvrđivanja prisustva u organizmu alkohola, droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima, a potom, po potrebi, i odvesti u zdravstvenu ustanovu na vađenje krvi i uzimanje urina ili na liječnički pregled.«.
+
+U stavku 2., 3. i 7. riječi: »opojnih droga ili lijekova koji se ne smiju uzimati za vrijeme vožnje ili određeno vrijeme prije započinjanja vožnje« zamjenjuju se riječima: droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima«.
+
+U stavku 6. riječi: »opojnih droga, lijekova koji se ne smiju uzimati za vrijeme vožnje ili određeno vrijeme prije započinjanja vožnje« zamjenjuju se riječima: »droga, lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima«.
+
+U stavku 8. iza riječi: »počinjenju prekršaja« dodaje se zarez, a riječi: »pod utjecajem opojnih sredstava« zamjenjuju se riječima: »a u organizmu je utvrđena prisutnost droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili je utvrđena prisutnost nedozvoljene količine alkohola u krvi«.
+
+### Članak 45.
+
+U članku 285. stavku 1. točka 1. mijenja se i glasi:
+
+»1) koji upravlja ili pokuša upravljati vozilom ako u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili ako u krvi ima nedozvoljenu količinu alkohola ili ako pokazuje znakove alkoholiziranosti ili utjecaja droga, a odbija se podvrgnuti ispitivanju«.
+
+Iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6) koji upravlja vozilom prije stjecanja prava na upravljanje vozilom, koji upravlja vozilom, a nema važeću vozačku dozvolu odgovarajuće kategorije ili koji upravlja vozilom u vrijeme kad mu je vozačka dozvola privremeno oduzeta ili kad mu je pravomoćnom odlukom nadležnog tijela izrečena sigurnosna ili zaštitna mjera zabrane upravljanja motornim vozilom,«.
+
+Dosadašnja točka 6. postaje točka 7.
+
+U stavku 2. riječi: »na kojima je označeno da se ne smiju upotrebljavati prije ni za vrijeme vožnje« zamjenjuju se riječima: »koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima«.
+
+### Članak 46.
+
+U članku 286. stavku 8. riječi: »od pet godina« zamjenjuju se riječima: »od dvije godine«.
+
+### Članak 47.
+
+U članku 287. stavku 3. iza riječi: »iz članka 32. stavka 4.,« dodaju se riječi: »članka 49. stavka 5.,«.
+
+### Članak 48.
+
+U članku 297. stavku 1. iza riječi: »vozačkim dozvolama.« dodaje se rečenica koja glasi: »Zaštitna mjera počinje teći od dana dostave obavijesti vozaču o početku primjene mjere.«.
+
+### Članak 49.
+
+U članku 306. stavku 1. riječi: »iz članka 208. stavka 3.« zamjenjuju se riječima: »iz članka 208. stavka 4.«.
+
+### Članak 50.
+
+U cijelom tekstu Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08. i 48/10.) riječi: »M kategorija vozila« zamjenjuju se riječima: »AM kategorija vozila« u odgovarajućem padežu.
+
+### Članak 51.
+
+U cijelom tekstu Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08. i 48/10.) riječi: »uređaj kojim se daju prometni znakovi trobojnim prometnim svjetlima crvene, žute i zelene boje« zamjenjuju se riječju: »semafor« u odgovarajućem padežu.
+
+### Članak 52.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 340-08/10-01/03  
+Zagreb, 17. lipnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 80/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1670*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 21. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/161
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 24. lipnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. i 74/11.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+
+– Direktiva Vijeća 91/671/EEZ od 16. prosinca 1991. o usklađivanju zakonodavstva država članica koja se odnosi na obveznu uporabu sigurnosnih pojaseva u vozilima lakšim od 3,5 tona (SL L 373, 31. 12. 1991.),
+
+– Direktiva 2003/20/EZ Europskog parlamenta i Vijeća od 8. travnja 2003. o izmjeni Direktive Vijeća 91/671/EEZ o usklađivanju zakonodavstva država članica koja se odnosi na sigurnosnu uporabu sigurnosnih pojaseva u vozilima lakšim od 3,5 tona (SL L 115, 9. 5. 2003.),
+
+– Direktiva 2003/59/EZ Europskog parlamenta i Vijeća od 15. srpnja 2003. o početnim kvalifikacijama i periodičnom osposobljavanju vozača određenih cestovnih vozila za prijevoz robe i putnika, o izmjeni Uredbe Vijeća (EEZ) br. 3820/85 i Direktive Vijeća 91/439/EEZ te stavljanju izvan snage Direktive Vijeća 76/914/EEZ (SL L 226, 10. 9. 2003.),
+
+– Direktiva 2006/126/EZ Europskog parlamenta i Vijeća od 20. prosinca 2006. o vozačkim dozvolama (Preinaka) (SL L 403, 30. 12. 2006.),
+
+– Direktiva Komisije 2009/113/EZ od 25. kolovoza 2009. o izmjeni Direktive 2006/126/EZ Europskog parlamenta i Vijeća o vozačkim dozvolama (SL L 223, 26. 8. 2009.),
+
+– Direktiva 2011/82/EU Europskog parlamenta i Vijeća od 25. listopada 2011. o olakšavanju prekogranične razmjene informacija o prometnim prekršajima vezanim uz sigurnost prometa na cestama (SL L 288, 5. 11. 2011.).«.
+
+### Članak 2.
+
+U članku 2. stavku 1. točka 49. mijenja se i glasi:
+
+»49) »bicikl« je vozilo koje ima najmanje dva kotača i koje se pokreće isključivo snagom vozača ili koje je opremljeno pedalama i pomoćnim električnim motorom čija najveća trajna snaga nije veća od 0,25 kW i koja se progresivno smanjuje do nule kad brzina dostigne 25 km/h, ili prije, ako vozač prestane pokretati pedale.«.
+
+U točki 67. riječi: »od 16« brišu se.
+
+Točka 88. mijenja se i glasi:
+
+»88) »inozemna vozačka dozvola« je vozačka dozvola izdana u državi koja nije članica Europskog gospodarskog prostora,«.
+
+Točka 89. mijenja se i glasi:
+
+»89) »prometna dozvola« je javna isprava koju je izdalo nadležno tijelo i kojom se dokazuje vlasništvo vozila, pravo označavanja vozila određenim registarskim pločicama i vlasništvo tih pločica, tehničke i druge osobine i karakteristike vozila te pravo sudjelovanja u prometu,«.
+
+Točka 90. briše se.
+
+Dosadašnje točke 91., 92. i 93. postaju točke 90., 91. i 92.
+
+Iza dosadašnje točke 94. koja postaje točka 93. dodaju se točke 94., 95. i 96. koje glase:
+
+»94) »stranac« je državljanin države koja nije članica Europskog gospodarskog prostora,
+
+95) »inozemstvo« odnosno »strana država« je država izvan Europskog gospodarskog prostora,«,
+
+96) »vozilo za prijevoz životinja« je cestovno prijevozno sredstvo, koje se koristi za prijevoz životinja za koje je, ukoliko putovanje traje duže od 8 sati, izdana potvrda o odobrenju prijevoznog sredstva, sukladno odredbama posebnog propisa.«.
+
+### Članak 3.
+
+U članku 4. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Nadzor nad trajanjem ukupnog vremena vožnje vozila za prijevoz životinja i nadzor tahografa, osim inspektora cestovnog prometa i policijskih službenika, mogu obavljati i mobilne jedinice veterinarske inspekcije, koje obavljaju i nadzor posebnih uvjeta iz posebnih propisa.«.
+
+### Članak 4.
+
+U članku 151. stavku 1. iza riječi: »vozila Gorske službe spašavanja« stavlja se zarez i dodaju riječi: »vozila mobilne jedinice veterinarske inspekcije«.
+
+### Članak 5.
+
+U članku 153. stavku 3. iza riječi: »ovlaštenih carinskih službenika« dodaju se riječi: »i na vozilima mobilne jedinice veterinarske inspekcije«.
+
+### Članak 6.
+
+U članku 202. stavku 1. točki 3. riječi: »u sjedištu« zamjenjuju se riječima: »udaljeno najviše 10 km cestom od«.
+
+### Članak 7.
+
+U članku 208. stavku 1. točke 1., 2., 3. i 4. brišu se.
+
+### Članak 8.
+
+U članku 213. stavak 5. briše se.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+U dosadašnjem stavku 7. koji postaje stavak 6. riječi: »te ako osposobljava kandidate u vrijeme kad joj je izrečena zabrana osposobljavanja (stavak 5.)« brišu se.
+
+Dosadašnji stavci 8. i 9. postaju stavci 7. i 8.
+
+### Članak 9.
+
+U članku 216. stavak 2. mijenja se i glasi:
+
+»(2) Pravo na samostalno upravljanje vozilom dokazuje se vozačkom dozvolom ili potvrdom o podnesenom zahtjevu za izdavanje vozačke dozvole koja vrijedi za upravljanje vozilima u prometu 30 dana od dana podnošenja urednog zahtjeva«.
+
+Stavci 3., 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 3.
+
+### Članak 10.
+
+Članak 217. mijenja se i glasi:
+
+»(1) Vozačka dozvola izdaje se za upravljanje vozilima koja su svrstana u AM, A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D, DE, F, G i H kategorije gdje u:
+
+1) AM, spadaju mopedi i motokultivatori;
+
+– minimalna starosna dob za kategoriju AM je 15 godina.
+
+2) A1, spadaju – motocikli sa ili bez bočne prikolice, radnog obujma motora do 125 cm3 i snage motora od najviše 11 kW i odnosom snage i mase koji ne prelazi 0,1 kW/kg;
+
+– motorna vozila na tri kotača čija snaga nije veća od 15 kW,
+
+– minimalna starosna dob za kategoriju A1 je 16 godina.
+
+3) A2, spadaju – motocikli sa ili bez bočne prikolice, čija snaga ne prelazi 35 kW i čiji omjer snaga/masa ne prelazi 0,2 kW/kg, a ne potječu od vozila čija je snaga dvostruko veća i više;
+
+– minimalna starosna dob za kategoriju A2 je 18 godina.
+
+4) A, spadaju – motocikli sa ili bez bočne prikolice;
+
+– motorna vozila na tri kotača čija je snaga veća od 15 kW,
+
+– minimalna starosna dob za kategoriju A je 24 godine, odnosno 20 godina ukoliko vozač ima vozačku dozvolu za upravljanje vozilom A2 kategorije najmanje dvije godine,
+
+– minimalna starosna dob za vozilo na tri kotača A kategorije je 21 godina.
+
+5) B, spadaju motorna vozila, osim vozila AM, A1, A2, A, F i G kategorije čija najveća dopuštena masa ne prelazi 3.500 kg i koja su dizajnirana i konstruirana za prijevoz ne više od 8 putnika, ne računajući sjedalo za vozača; motorna vozila ove kategorije mogu biti u kombinaciji s priključnim vozilom čija najveća dopuštena masa ne prelazi 750 kg. Ne dovodeći u pitanje odredbe propisa o tipnom odobrenju vozila o kojima je riječ, motorna vozila u ovoj kategoriji mogu se kombinirati s priključnim vozilom čija je najveća dopuštena masa veća od 750 kg, pod uvjetom da najveća dopuštena masa ove kombinacije vozila nije veća od 4 250 kg. U slučaju da je najveća dopuštena masa takve kombinacije vozila veća od 3 500 kg, takvom kombinacijom vozač može upravljati samo nakon što je položio vozački ispit za tu kombinaciju vozila iz nastavnog predmeta Upravljanje vozilom.;
+
+– minimalna starosna dob za kategoriju B je 18 godina.
+
+6) BE, ne dovodeći u pitanje odredbe propisa o tipnom odobrenju za dotična vozila, spada kombinacija vozila koja se sastoji od vučnog vozila kategorije B i priključnog vozila, pri čemu najveća dopuštena masa priključnog vozila nije veća od 3 500 kg;
+
+– minimalna starosna dob za kategoriju BE je 18 godina.
+
+7) C1, spadaju motorna vozila osim onih iz kategorije D1, D ili F, čija je najveća dopuštena masa veća od 3 500 kg, ali nije veća od 7 500 kg i koja su projektirana i izrađena za prijevoz najviše osam putnika uz vozača; motorna vozila u ovoj kategoriji mogu se kombinirati s priključnim vozilom čija najveća dopuštena masa nije veća od 750 kg;
+
+– minimalna starosna dob za kategoriju C1 je 18 godina.
+
+8) C1E, ne dovodeći u pitanje odredbe o tipnom odobrenju za dotična vozila, spada – kombinacija vozila koja se sastoji od vučnog vozila kategorije C1 i njegova priključnog vozila koje ima najveću dopuštenu masu veću od 750 kg, pod uvjetom da najveća dopuštena masa kombinacije vozila nije veća od 12 000 kg;
+
+– ne dovodeći u pitanje odredbe propisa o tipnom odobrenju za dotična vozila, spada – kombinacija vozila koja se sastoji od vučnog vozila kategorije B i njegova priključnog vozila koje ima najveću dopuštenu masu veću od 3 500 kg, pod uvjetom da najveća dopuštena masa kombinacije vozila nije veća od 12 000 kg;
+
+– minimalna starosna dob za kategoriju C1E je 18 godina.
+
+9) C, spadaju motorna vozila, osim onih iz kategorije D1, D ili F, čija je najveća dopuštena masa veća od 7.500 kg;
+
+– minimalna starosna dob za kategoriju C je 21 godina.
+
+10) CE, spada kombinacija vozila koja se sastoji od vučnog vozila kategorije C i priključnog vozila čija najveća dopuštena masa iznosi više od 750 kg;
+
+– minimalna starosna dob za kategorije CE je 21 godina.
+
+11) D1, spadaju motorna vozila projektirana i izrađena za prijevoz najviše 16 putnika uz vozača i čija maksimalna duljina nije veća od 8 m; motorna vozila ove kategorije mogu se kombinirati s priključnim vozilom čija najveća dopuštena masa nije veća od 750 kg;
+
+– minimalna starosna dob za kategoriju D1 je 21 godina.
+
+12) D1E, ne dovodeći u pitanje odredbe propisa o tipnom odobrenju za dotična vozila, spada kombinacija vozila koja se sastoji od vučnog vozila kategorije D1 i njegova priključnog vozila koje ima najveću dopuštenu masu veću od 750 kg;
+
+– minimalna starosna dob za kategoriju D1E je 21 godina.
+
+13) D, spadaju motorna vozila projektirana i izrađena za prijevoz više od osam putnika uz vozača; motorna vozila ove kategorije mogu se kombinirati s priključnim vozilom čija najveća dopuštena masa nije veća od 750 kg;
+
+– minimalna starosna dob za kategoriju D je 24 godine.
+
+14) DE, ne dovodeći u pitanje odredbe propisa o tipnom odobrenju za dotična vozila, spada kombinacija vozila koja se sastoji od vučnog vozila kategorije D i njegova priključnog vozila koje ima najveću dopuštenu masu veću od 750 kg;
+
+– minimalna starosna dob za kategoriju DE je 24 godine.
+
+15) F, spadaju traktori sa ili bez prikolice;
+
+– minimalna starosna dob za kategoriju F je 16 godina.
+
+16) G, spadaju radni strojevi;
+
+– minimalna starosna dob za kategoriju G je 16 godina.
+
+17) H, spadaju tramvaji;
+
+– minimalna starosna dob za kategoriju H je 21 godina.
+
+(2) Iznimno od stavka 1. točke 9. i 10. ovoga članka, minimalna starosna dob za upravljanje vozilom C i CE kategorije je 18 godina, ukoliko vozač posjeduje početne kvalifikacije dobivene sukladno propisu kojim se uređuje prijevoz u cestovnom prometu.
+
+(3) Iznimno od stavka 1. točke 13. i 14. ovoga članka, minimalna starosna dob za upravljanje vozilom D i DE kategorije je 21 godina, ukoliko je vozač uspješno stekao ubrzanu početnu kvalifikaciju sukladno propisu kojim se uređuje prijevoz u cestovnom prometu, i obavlja linijski prijevoz putnika do 50 km.
+
+(4) Iznimno od stavka 1. točke 13. i 14. ovoga članka, minimalna starosna dob za upravljanje vozilom D i DE kategorije je 23 godine, ukoliko je vozač uspješno stekao ubrzanu početnu kvalifikaciju sukladno propisu kojim se uređuje prijevoz u cestovnom prometu.
+
+(5) Iznimno od stavka 1. točke 13. i 14. ovoga članka, minimalna starosna dob za upravljanje vozilom D i DE kategorije je 21 godina, ukoliko je vozač uspješno stekao početnu kvalifikaciju sukladno propisu kojim se uređuje prijevoz u cestovnom prometu.
+
+(6) Iznimno od stavka 1. točke 9. i 13. ovoga članka, minimalna starosna dob za upravljanje vozilima C kategorije je 18, a D kategorije 21. godinu, za vozila koja koristi policija, vatrogasna služba i za vozila koja provode ispitivanje na cesti u svrhu popravka i održavanja.
+
+(7) Vozačka dozvola iz stavka 6. ovoga članka je valjana samo na području Republike Hrvatske sve dok vozač ne navrši minimalnu starosnu dob navedenu u stavku 1. točki 9. i 13. ovoga članka.
+
+(8) Ministar nadležan za unutarnje poslove propisat će pravilnikom posebne uvjete glede dobnih granica, uvjeta upravljanja i načina prijevoza na motornim vozilima policije.
+
+(9) Ministar nadležan za poslove obrane propisat će pravilnikom uvjete za upravljanje i način prijevoza na vozilima oružanih snaga Republike Hrvatske.«.
+
+### Članak 11.
+
+Članak 219. mijenja se i glasi:
+
+»(1) Izdavanje vozačkih dozvola podliježe sljedećim uvjetima:
+
+a) dozvole za kategorije C1, C, D1 i D izdaju se samo vozačima koji već imaju pravo upravljati vozilima kategorije B;
+
+b) dozvole za kategorije BE, C1E, CE, D1E i DE izdaju se samo vozačima koji već imaju pravo upravljati vozilima kategorije B, C1, C, D1 i D;
+
+c) dozvola za kategoriju H izdaje se samo vozaču koji već ima pravo upravljati vozilima kategorije B.
+
+(2) Valjanost vozačke dozvole određuje se kako slijedi:
+
+a) vozačke dozvole izdane za kategorije C1E, CE, D1E i DE izdaju se samo vozačima koji već imaju pravo upravljati vozilima kategorije BE;
+
+b) vozačke dozvole izdane za kategoriju CE vrijede za kategoriju DE sve dok vozač ima pravo upravljati vozilima D kategorije;
+
+c) vozačke dozvole izdane za kategorije CE i DE vrijede za kombinaciju vozila u kategorijama C1E i D1E.
+
+d) vozačke dozvole izdane za kategorije A1, A2, A, B, C1, C, D1, D i H vrijede za vozila kategorije AM, F i G;
+
+e) vozačke dozvole izdane za kategoriju A2 vrijede za vozila kategorije A1.
+
+f) Vozačke dozvole izdane za kategorije A, C i D vrijede za vozila kategorije A1, A2, C1 i D1.«.
+
+### Članak 12.
+
+Članak 220. mijenja se i glasi:
+
+»Nijedna osoba ne smije imati više od jedne vozačke dozvole.«.
+
+### Članak 13.
+
+U članku 222. stavak 2. mijenja se i glasi:
+
+»(2) Vozačka dozvola za upravljanje vozilima AM, A1, A2, A, B i BE kategorije izdaje se s rokom važenja od 10 godina. Prilikom produljenja vozačke dozvole vozač se nije dužan podvrgnuti zdravstvenom pregledu za vozača osim u slučaju da je obveza zdravstvenog pregleda utvrđena zdravstvenim uvjerenjem na temelju kojeg je vozačka dozvola izdana.«.
+
+U stavku 3. iza riječi: »vozilima« dodaju se riječi: »C1, C1E,«.
+
+U stavku 4. riječi: »C1, C1+E« brišu se.
+
+Stavak 5. briše se.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+### Članak 14.
+
+Članak 224. mijenja se i glasi:
+
+»(1) Vozačku dozvolu izdaje policijska uprava, odnosno policijska postaja.
+
+(2) Podnositelj zahtjeva preuzima izrađenu vozačku dozvolu u policijskoj upravi, odnosno policijskoj postaji kojoj je podnio zahtjev za izdavanje vozačke dozvole.«.
+
+### Članak 15.
+
+Iza članka 224. dodaje se članak 224.a koji glasi:
+
+»Članak 224.a
+
+(1) Motornim vozilom na cesti može upravljati osoba kojoj je izdana vozačka dozvola u državi članici Europskog gospodarskog prostora.
+
+(2) Osoba iz stavka 1. ovoga članka može važeću vozačku dozvolu izdanu od države članice Europskog gospodarskog prostora zamijeniti za jednakovrijednu vozačku dozvolu Republike Hrvatske bez polaganja vozačkog ispita.«.
+
+### Članak 16.
+
+U članku 225. stavku 2. riječi: »21 godinu« zamjenjuju se riječima: »24 godine«, a riječi: »19 godina« zamjenjuju se riječima: »21 godinu«.
+
+### Članak 17.
+
+U članku 229. stavku 1. i stavku 5. iza riječi: »dozvolu« dodaju se riječi: »ili potvrdu o podnesenom zahtjevu za izdavanje vozačke dozvole«.
+
+### Članak 18.
+
+U članku 238. stavku 1. iza riječi: »dozvolu« stavlja se točka, a zarez i riječi: »a vozila registrirana u Republici Hrvatskoj ako imaju i važeću knjižicu vozila« brišu se.
+
+### Članak 19.
+
+Članak 242. stavak 2. mijenja se i glasi:
+
+»(2) Za registrirano vozilo izdaju se prometna dozvola i registarske pločice.«.
+
+U stavku 3. riječi: »i knjižica vozila« brišu se.
+
+### Članak 20.
+
+U članku 244. stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako na vozilu nema propisan broj pločica ili na kojem su te pločice ili međunarodna oznaka postavljene tako da se dobro ne vide ili nisu čitljive.
+
+(6) Za prekršaj iz stavka 1. i 2. ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi i u tijelu državne vlasti ili tijelu jedinice lokalne i područne (regionalne) samouprave.«.
+
+Stavak 7. briše se.
+
+Dosadašnji stavak 8. postaje stavak 7.
+
+### Članak 21.
+
+U članku 250. stavku 4. riječi: »ili knjižici vozila« brišu se.
+
+### Članak 22.
+
+U članku 251. zarez i riječi: »knjižice vozila« brišu se.
+
+### Članak 23.
+
+U članku 252. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Produženje važenja prometne dozvole obavljaju stanice za tehnički pregled vozila ili policijske uprave, odnosno policijske postaje. Prometnu dozvolu koja je ispisana u postupku produženja važenja prometne dozvole ovjerava policijska uprava, odnosno policijska postaja.«.
+
+Dosadašnji stavci 2., 3., 4., 5., 6., 7., 8., 9., 10., 11., 12., 13. i 14. postaju stavci 3., 4., 5., 6., 7., 8., 9., 10., 11., 12., 13., 14. i 15.
+
+### Članak 24.
+
+U članku 254. stavku 1. i stavku 4. riječi: »i knjižice vozila« brišu se.
+
+### Članak 25.
+
+U članku 266. stavku 2. riječi: »sve nove automobile koji se prvi puta registriraju u Republici Hrvatskoj« zamjenjuju se riječima: »sva vozila za koja Europska komisija propisuje obvezu izvješćivanja«.
+
+### Članak 26.
+
+U članku 277. stavku 3. riječi: »Državni inspektorat« zamjenjuju se riječima: »pravna osoba koju za to akreditira Hrvatska akreditacijska agencija«.
+
+### Članak 27.
+
+U članku 281. iza stavka 1. dodaju se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Inspekcijski nadzor nad primjenom propisa o homologaciji vozila i dijelova vozila obavljaju gospodarski inspektori Državnog inspektorata.
+
+(3) U provedbi inspekcijskog nadzora iz stavka 2. ovoga članka gospodarski inspektor ima ovlasti poduzeti mjere sukladno posebnom propisu kojim se uređuje opća sigurnost proizvoda.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 28.
+
+U članku 285. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Veterinarski inspektor mobilne jedinice može isključiti iz prometa vozilo za prijevoz životinja u svrhu nadzora posebnih uvjeta iz posebnih propisa.«.
+
+### Članak 29.
+
+U članku 289. stavku 1. iza riječi: »vozačke dozvole ili« dodaje se riječ: »zaštitna«.
+
+### Članak 30.
+
+U članku 296. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Ministarstvo nadležno za unutarnje poslove dostavlja podatke o vozilima i vlasnicima vozila odnosno korisnicima vozila na temelju ugovora o leasingu nacionalnim kontakt-točkama drugih država članica Europske unije u svrhu istraživanja prometnih prekršaja vezanih uz sigurnost prometa na cestama.
+
+(5) Ministar nadležan za unutarnje poslove propisat će pravilnikom vrstu i način dostave podatka iz stavka 4. ovoga članka.«.
+
+### Članak 31.
+
+U članku 297. stavku 1. riječi: »počinje teći od dana dostave obavijesti« zamjenjuju se riječima: »počinje teći sljedećim danom od dana obavijesti«.
+
+### Članak 32.
+
+U cijelom tekstu Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. i 74/11.) riječi: »B+E« zamjenjuju se riječima: »BE«, riječi: »C1+E« zamjenjuju se riječima: »C1E«, riječi: »C+E« zamjenjuju se riječima: »CE«, riječi: »D1+E« zamjenjuju se riječima: »D1E« i riječi: »D+E« zamjenjuju se riječima: »DE«.
+
+### Članak 33.
+
+Prometne dozvole i knjižice vozila važeće na dan stupanja na snagu ovoga Zakona i prometne dozvole i knjižice vozila izdane do stupanja na snagu Pravilnika iz članka 242. stavka 4. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. i 74/11.) mogu se koristiti do prve promjene vlasnika vozila ili do popunjavanja rubrike »Dozvola vrijedi do:« u prometnoj dozvoli.
+
+### Članak 34.
+
+Vozačke dozvole važeće na dan stupanja na snagu ovoga Zakona mogu se koristiti do isteka roka na koji su izdane, a najduže do 19. siječnja 2033.
+
+### Članak 35.
+
+Ministar nadležan za unutarnje poslove u suglasnosti s ministrom nadležnim za poslove prometa uskladit će Pravilnik o registraciji i označavanju vozila (»Narodne novine«, br. 151/08., 89/10. i 104/10.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Ministar nadležan za unutarnje poslove donijet će pravilnik iz članka 10. stavka 8. i članka 30. stavka 2. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Ministar nadležan za poslove obrane donijet će pravilnik iz članka 10. stavka 9. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 36.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/117
+
+Zagreb, 21. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 92/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1842*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 15. srpnja 2014. godine.
+
+Klasa: 011-01/14-01/127  
+Urbroj: 71-05-03/1-14-2  
+Zagreb, 18. srpnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13. i 158/13. – Odluka Ustavnog suda Republike Hrvatske) članak 1.a mijenja se i glasi:
+
+»Članak 1.a
+
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+
+− Direktiva Vijeća 91/671/EEZ od 16. prosinca 1991. o usklađivanju zakonodavstva država članica koji se odnose na obaveznu uporabu sigurnosnih pojaseva u vozilima lakšim od 3,5 tona (SL L 373, 31. 12. 1991.),
+
+− Direktiva 2000/30/EZ Europskog parlamenta i Vijeća od 6. lipnja 2000. o pregledu na cesti kojim se utvrđuje tehnička ispravnost gospodarskih vozila koja prometuju u Zajednici (SL L 203, 10. 8. 2000.),
+
+− Direktiva 2000/53/EZ Europskog parlamenta i Vijeća od 18. rujna 2000. o otpadnim vozilima (SL L 269, 21. 10. 2000.),
+
+− Direktiva 2002/85/EZ Europskog parlamenta i Vijeća od 5. studenoga 2002. o izmjeni Direktive Vijeća 92/6/EEZ o ugradnji i uporabi uređaja za ograničavanje brzine za određene kategorije motornih vozila u Zajednici (SL L 327, 4. 12. 2002.),
+
+− Direktiva 2003/20/EZ Europskog parlamenta i Vijeća od 8. travnja 2003. o izmjeni Direktive Vijeća 91/671/EEZ o usklađivanju zakonodavstva država članica koji se odnose na sigurnosnu uporabu sigurnosnih pojaseva u vozilima lakšim od 3,5 tone (SL L 115, 9. 5. 2003.),
+
+− Direktiva Komisije 2003/26/EZ od 3. travnja 2003. o prilagodbi tehničkom napretku Direktive 2000/30/EZ Europskog parlamenta i Vijeća u vezi s ograničivačem brzine i emisija ispušnih plinova gospodarskih vozila (SL L 90, 8. 4. 2003.),
+
+− Direktiva 2003/59/EZ Europskog parlamenta i Vijeća od 15. srpnja 2003. o početnim kvalifikacijama i periodičnom osposobljavanju vozača određenih cestovnih vozila za prijevoz robe i putnika, o izmjeni Uredbe Vijeća (EEZ) br. 3820/85 i Direktive Vijeća 91/439/EEZ te stavljanju izvan snage Direktive Vijeća 76/914/EEZ (SL L 226, 10. 09. 2003.),
+
+− Direktiva 2006/126/EZ Europskog parlamenta i Vijeća od 20. prosinca 2006. o vozačkim dozvolama (Preinaka) (SL L 403, 30. 12. 2006.),
+
+− Direktiva 2008/96/EC Europskog parlamenta i Vijeća od 19. studenog 2008. godine o sigurnosti cestovne infrastrukture (SL L 319, od 29. 11. 2008.),
+
+− Direktiva 2009/40/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o tehničkim pregledima motornih vozila i njihovih prikolica (Tekst značajan za EGP) (SL L 141, 6. 6. 2009.),
+
+− Direktiva Komisije 2009/113/EZ od 25. kolovoza 2009. o izmjeni Direktive 2006/126/EZ Europskog parlamenta i Vijeća o vozačkim dozvolama (SL L 223, 26. 8. 2009.),
+
+− Direktiva Komisije 2010/47/EU od 5. srpnja 2010. o prilagodbi tehničkom napretku Direktive 2000/30/EZ Europskog parlamenta i Vijeća od 6. lipnja 2000. o pregledima na cesti tehničke ispravnosti gospodarskih vozila koja prometuju u Zajednici (SL L 173, 8. 7. 2010.),
+
+− Direktiva Komisije 2010/48/EU od 5. srpnja 2010. o prilagodbi tehničkom napretku Direktive 2009/40/EZ Europskog parlamenta i Vijeća o tehničkim pregledima motornih vozila i njihovih prikolica (Tekst značajan za EGP) (SL 173, 8. 7. 2010.),
+
+− Direktiva 2011/82/EU Europskog parlamenta i Vijeća od 25. listopada 2011. o olakšavanju prekogranične razmjene informacija o prometnim prekršajima vezanim uz sigurnost prometa na cestama (SL L 288, 5. 11. 2011.),
+
+− Provedbena Direktiva Komisije 2014/37/EU od 27. veljače 2014. o izmjeni Direktive Vijeća 91/671/EEZ u pogledu obavezne uporabe sigurnosnih pojaseva i sustava sigurnosnog vezivanja djece u vozilima (SL L 59, 28. 2. 2014.).«.
+
+### Članak 2.
+
+U članku 34. stavak 1. mijenja se i glasi:
+
+»(1) Sudionici u prometu dužni su postupati u skladu s propisima o prometnim pravilima, prometnim znakovima postavljenim na cesti, prometnim svjetlima te znakovima i naredbama ovlaštenih osoba.«.
+
+### Članak 3.
+
+U članku 161. stavku 3. riječi: »u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova«.
+
+### Članak 4.
+
+Članak 163. mijenja se i glasi:
+
+»(1) Vozač i putnici tijekom vožnje u motornom vozilu na sjedalima na kojima su ugrađeni sigurnosni pojasevi, dužni su koristiti pojas na način koji je odredio proizvođač sigurnosnog pojasa.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, sigurnosni pojas ne moraju koristiti osobe koje imaju uvjerenje da iz zdravstvenih razloga ne mogu koristiti pojas.
+
+(3) Ministar nadležan za zdravstvo propisat će postupak, uvjete i način izdavanja uvjerenja iz stavka 2. ovoga članka.
+
+(4) Vozač motornog vozila za prijevoz osoba koje osim sjedala za vozača ima još najviše 8 sjedala i vozila za prijevoz tereta u kojima su ugrađeni sigurnosni pojasevi ne smije u takvim motornim vozilima prevoziti djecu nižu od 150 centimetara ako nisu smještena u posebnoj sigurnosnoj sjedalici/postolju koja su za vozilo pričvršćena sigurnosnim pojasom vozila ili posebnim kopčama u vozilu i suprotno načinu koji je odredio proizvođač posebne sigurnosne sjedalice.
+
+(5) Vozač motornog vozila koje osim sjedala za vozača ima još najviše 8 sjedala i u kojem su ugrađeni sigurnosni pojasevi smije na sjedalima koja nisu prednja prevoziti djecu nižu od 150 cm, a visoku barem 135 cm, koja nisu smještena u sigurnosnoj sjedalici/postolju, ukoliko su ona pravilno vezana sigurnosnim pojasom za odrasle osobe.
+
+(6) Vozač motornog vozila za prijevoz osoba koje osim sjedala za vozača ima još najviše 8 sjedala i vozila za prijevoz tereta u koja nisu ugrađeni sigurnosni pojasevi ne smije u takvim vozilima prevoziti djecu mlađu od tri godine, a djeca stara tri godine i više, a niža od 150 cm ne smiju se smjestiti na prednje sjedalo.
+
+(7) Vozač motornog vozila ne smije prevoziti dijete smješteno u sigurnosnoj sjedalici okrenutoj suprotno od smjera vožnje na putničkom sjedalu zaštićenom prednjim zračnim jastukom, ako zračni jastuk nije deaktiviran, čak i u slučajevima kada se zračni jastuk automatski isključuje.
+
+(8) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač i druga osoba ako postupi suprotno odredbama ovoga članka.«.
+
+### Članak 5.
+
+U članku 181. stavku 6. riječi: »u organizmu ima alkohola, droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova ili u krvi ima nedozvoljenu količinu alkohola«.
+
+### Članak 6.
+
+U članku 196. stavak 3. mijenja se i glasi:
+
+»(3) Vozač vozila za vrijeme vožnje ne smije upotrebljavati mobitel niti druge uređaje na način koji bi umanjio mogućnost reagiranja i sigurnog upravljanja vozilom.«.
+
+### Članak 7.
+
+U članku 199. stavku 1. riječi: »u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova«.
+
+U stavku 2. riječi: »u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Smatrat će se da vozač ima alkohola u krvi ako je njegova prisutnost utvrđena analizom krvi i urina ili analizom krvi, mjerenjem količine alkohola u litri izdahnutog zraka, liječničkim pregledom ili drugim metodama i aparatima.«.
+
+Stavak 5. briše se.
+
+Dosadašnji stavci 6., 7., 8., 9. postaju stavci 5., 6., 7. i 8.
+
+U dosadašnjem stavku 10., koji postaje stavak 9., riječi: »u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova«.
+
+U dosadašnjem stavku 11., koji postaje stavak 10., riječi: »u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova«.
+
+### Članak 8.
+
+U članku 216. stavku 1. iza točke 3. umjesto točke stavlja se zarez te se dodaje točka 4. koja glasi:
+
+»4. nastanjena u Republici Hrvatskoj te ima prebivalište, prijavljeno boravište na razdoblje od najmanje 185 dana, uobičajeno prebivalište, školuje se ili ima odobren privremeni ili stalni boravak.«.
+
+### Članak 9.
+
+U članku 219. stavku 1. točka a) mijenja se i glasi:
+
+»a) dozvole za kategorije C1, C, D1 i D izdaju se vozačima koji su već položili vozački ispit za upravljanje vozilima kategorije B;«.
+
+U stavku 2. točka a) mijenja se i glasi:
+
+»a) vozačke dozvole izdane za kategorije C1E, CE, D1E i DE vrijede i za kombinaciju vozila u kategoriji BE;«.
+
+### Članak 10.
+
+U članku 221. stavku 2. riječi: »u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova«, a riječi: »ili ako pokazuje znakove alkoholiziranosti ili utjecaja droga« brišu se.
+
+### Članak 11.
+
+U članku 222. stavak 2. mijenja se i glasi:
+
+»(2) Vozačka dozvola za upravljanje vozilima AM, A1, A2, A, B i BE kategorije izdaje se s rokom važenja od 10 godina, a najduže do 65. godine života vozača. Prilikom produljenja vozačke dozvole vozač je dužan podvrgnuti se zdravstvenom pregledu za vozača ako je obveza zdravstvenog pregleda utvrđena zdravstvenim uvjerenjem na temelju kojeg je vozačka dozvola izdana i prilikom produljenja vozačke dozvole nakon 65. godine života vozača.«.
+
+### Članak 12.
+
+U članku 224. stavak 2. briše se.
+
+### Članak 13.
+
+U članku 224.a stavku 2. riječ: »važeću« briše se.
+
+### Članak 14.
+
+U članku 229. stavak 2. mijenja se i glasi:
+
+»(2) Vlasnik, odnosno osoba kojoj je vozilo povjereno ne smije dati vozilo na upravljanje osobi koja nije stekla pravo upravljanja vozilom one kategorije u koju spada to vozilo ili osobi koja je pod utjecajem droga ili lijekova ili koja u krvi ima nedozvoljenu količinu alkohola.«.
+
+U stavku 7. iza riječi: »ako« stavlja se zarez i dodaju riječi: »u roku od 15 dana,«.
+
+### Članak 15.
+
+U članku 231. stavku 4. riječi: »je utvrđeno da u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »je utvrđeno da je upravljao vozilom pod utjecajem droga ili lijekova«.
+
+U stavku 6. iza riječi: »prebivališta« stavlja se zarez i dodaju riječi: »boravišta, uobičajenog prebivališta, školovanja,«.
+
+### Članak 16.
+
+U članku 239. stavak 1. mijenja se i glasi:
+
+»(1) Pokusne pločice izdaju se za vozila koja se kreću do mjesta u kojem će biti registrirana i za obavljanje tehničkog pregleda vozila.«.
+
+### Članak 17.
+
+U članku 241. stavku 1. iza riječi: »inozemstvo« dodaju se riječi: »ili iznose u države Europskog gospodarskog prostora«.
+
+### Članak 18.
+
+U članku 250. stavci 1., 2. i 3. mijenjaju se i glase:
+
+»(1) Vlasnik registriranog vozila može odjaviti vozilo, a uz zahtjev za odjavu mora priložiti prometnu dozvolu radi evidentiranja odjave vozila i vratiti registarske pločice, odnosno priložiti potvrdu tijela koje je registriralo vozilo izvan Republike Hrvatske kojom se potvrđuje da su registarske pločice i prometna dozvola zadržane ili poništene.
+
+(2) Vlasnik vozila dužan je odjaviti vozilo ako ne izvrši produženje važenja prometne dozvole u roku od 15 dana od dana isteka važenja prometne dozvole.
+
+(3) Osoba na koju je vozilo registrirano dužna je u roku od 15 dana od prodaje ili drugog načina promjene vlasništva na vozilu, odjaviti vozilo osim ako obvezu odjave vozila nije preuzeo novi vlasnik vozila.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Novi vlasnik vozila iz stavka 3. ovoga članka dužan je u roku od 15 dana od stjecanja vozila registrirati vozilo na svoje ime ili ga odjaviti, a ako ga ne registrira na svoje ime ili ne odjavi, ministarstvo nadležno za unutarnje poslove će na zahtjev osobe na koju je vozilo registrirano rješenjem ukinuti registraciju vozila.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+U dosadašnjim stavcima 6. i 7., koji postaju stavci 7. i 8., riječi: »stavka 1.« zamjenjuju se riječima: »stavka 2.«.
+
+Dosadašnji stavci 8., 9., 10., 11. i 12. postaju stavci 9., 10., 11., 12. i 13.
+
+### Članak 19.
+
+Članak 251. mijenja se i glasi:
+
+»Iznimno od odredbe članka 250. stavka 1. ovoga Zakona, ministarstvo nadležno za unutarnje poslove odjavit će vozilo ako je važenje prometne dozvole odnosno kartona tehničke ispravnosti lake prikolice isteklo prije više od jedne godine, kao i u slučaju kad dobije obavijest tijela koje je registriralo vozilo izvan Republike Hrvatske.«.
+
+### Članak 20.
+
+Članak 252. mijenja se i glasi:
+
+»(1) Registraciju motornih i priključnih vozila obavljaju policijske uprave, odnosno policijske postaje ili stanice za tehnički pregled vozila iz članka 259. ovoga Zakona ako ispunjavaju uvjete i imaju ovlaštenje.
+
+(2) Produženje važenja prometne dozvole obavljaju stanice za tehnički pregled vozila ili policijske uprave, odnosno policijske postaje. Prometnu dozvolu koja je ispisana u postupku produženja važenja prometne dozvole ovjerava policijska uprava, odnosno policijska postaja.
+
+(3) Protiv rješenja stanice za tehnički pregled vozila kojim se odbija zahtjev za registraciju može se izjaviti žalba policijskoj upravi na čijem se području nalazi stanica za tehnički pregled vozila.
+
+(4) Ovlaštenje iz stavka 1. ovoga članka izdaje ministarstvo nadležno za unutarnje poslove nakon što stručna organizacija iz članka 273. ovoga Zakona utvrdi da su ispunjeni propisani uvjeti.
+
+(5) Pokusne pločice izdaju policijske uprave odnosno policijske postaje.
+
+(6) Pravne i fizičke osobe obrtnici koji se bave prodajom vozila na malo mogu izdavati pokusne pločice samo za neregistrirana vozila koja prodaju, od mjesta u kojem su kupljena, odnosno preuzeta do mjesta gdje će biti registrirana odnosno do mjesta obavljanja tehničkog pregleda, ako ispunjavaju propisane uvjete i za to imaju odobrenje ministarstva nadležnog za unutarnje poslove.
+
+(7) Prenosive pločice izdaju se na ime pravne ili fizičke osobe obrtnika koji se bavi proizvodnjom, nadogradnjom, servisiranjem, prijevozom ili prodajom vozila na malo. Izdavanje prenosivih pločica odobrava ministarstvo nadležno za unutarnje poslove, a izdaje ih policijska uprava odnosno policijska postaja prema sjedištu pravne ili fizičke osobe obrtnika.
+
+(8) Pokusne pločice za obavljanje tehničkog pregleda i prenosive pločice mogu se koristiti samo na vozilima koja imaju ispravne uređaje za upravljanje, zaustavljanje te da su propisno označena, a pokusne pločice za vozila koja se kreću do mjesta u kojem će biti registrirana mogu se koristiti samo na vozilima koja imaju dokaz o tehničkoj ispravnosti vozila.
+
+(9) Ako policijska uprava odnosno policijska postaja utvrdi da se pokusne pločice izdaju protivno propisima i rješenju kojim je odobreno izdavanje pokusnih pločica, ministarstvo nadležno za unutarnje poslove rješenjem će izdavatelju pokusnih pločica ukinuti odobrenje za izdavanje pokusnih pločica, odnosno odbiti zahtjev za odobrenje za izdavanje pokusnih pločica. Rok za podnošenje novog zahtjeva određuje ministarstvo nadležno za unutarnje poslove, a koji ne može biti kraći od šest mjeseci niti duži od dvije godine od dana izvršnosti rješenja.
+
+(10) Ako policijska uprava odnosno policijska postaja utvrdi da se prenosive pločice koriste protivno propisima i rješenju kojim je odobreno izdavanje prenosivih pločica, ministarstvo nadležno za unutarnje poslove rješenjem će pravnoj ili fizičkoj osobi obrtniku iz stavka 7. ovoga članka oduzeti prenosive pločice, odnosno odbiti zahtjev za odobrenje prenosivih pločica. Ponovni zahtjev za odobrenje iz stavka 7. ovoga članka može se podnijeti nakon isteka dvije godine od dana izvršnosti rješenja.
+
+(11) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako izdaje ili koristi pokusne ili prenosive pločice suprotno odredbama ovoga Zakona i drugih propisa donesenih na temelju njega.
+
+(12) Novčanom kaznom od 1.500,00 do 5.000,00 kuna kaznit će se za prekršaj iz ovoga članka i odgovorna osoba u pravnoj osobi.«.
+
+### Članak 21.
+
+U članku 281. stavku 2. riječi: »gospodarski inspektori Državnog inspektorata« zamjenjuju se riječima: »tržišni inspektori Ministarstva gospodarstva«.
+
+U stavku 3. riječi: »gospodarski inspektor« zamjenjuju se riječima: »tržišni inspektor«.
+
+### Članak 22.
+
+U članku 282. stavku 5. riječ: »obavezno« briše se.
+
+U stavku 6. riječi: »jedan od načina iz stavka 1.« zamjenjuju se riječima: »jedan od načina iz stavaka 1. ili 3.«, a riječi: »u organizmu ima droga, lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima ili nedozvoljenu količinu alkohola« zamjenjuju se riječima: »je pod utjecajem droga ili lijekova ili u krvi ima nedozvoljenu količinu alkohola«.
+
+U stavku 8. riječi: »u organizmu je utvrđena prisutnost droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« zamjenjuju se riječima: »koji je pod utjecajem droga ili lijekova«.
+
+### Članak 23.
+
+U članku 284. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Policijska uprava, odnosno policijska postaja oduzet će vozačku dozvolu vozaču i instruktoru vožnje za kojeg se izvanrednim zdravstvenim pregledom utvrdi da je ograničeno sposoban i izdat će na njegov zahtjev novu vozačku dozvolu sukladno utvrđenom ograničenju.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 24.
+
+U članku 285. stavku 1. točka 1. mijenja se i glasi:
+
+»1) koji upravlja ili pokuša upravljati vozilom ako je odgovarajućim sredstvima ili uređajima utvrđeno da u organizmu ima droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima, ili je utvrđeno da u krvi ima nedozvoljenu količinu alkohola ili ako pokazuje znakove alkoholiziranosti ili utjecaja droga ili lijekova, a odbija se podvrgnuti ispitivanju«.
+
+U stavku 2. riječi: »prisutnost lijekova u organizmu koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima« brišu se.
+
+### Članak 25.
+
+U članku 287. stavku 1. riječi: »članka 199. stavka 7.« zamjenjuju se riječima: »članka 199. stavka 6.«.
+
+U stavku 2. riječi: »članka 199. stavka 8. i 9.« zamjenjuju se riječima: »članka 199. stavka 7.«.
+
+U stavku 3. riječi: »članka 199. stavka 10.« zamjenjuju se riječima: »članka 199. stavaka 8. i 9.«.
+
+### Članak 26.
+
+U članku 293. stavku 1. riječi: »do 1.000,00 kuna« zamjenjuju se riječima: »od 1.000,00 kuna«.
+
+U stavku 2. riječi: »do 2.000,00 kuna« zamjenjuju se riječima: »od 2.000,00 kuna«.
+
+### Članak 27.
+
+U članku 296. stavak 1. mijenja se i glasi:
+
+»(1) O izrečenim zaštitnim mjerama, negativnim prekršajnim bodovima, mjerama upozorenja, prometnim nesrećama i njihovim posljedicama te o vozačima vozila i vozilima ministarstvo nadležno za unutarnje poslove vodi evidenciju. Podaci o prekršajima i njihovim počiniteljima vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se najmanje 10 godina. Podaci o prometnim nesrećama i drugim događajima u prometu na cestama vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se najmanje 15 godina. O podacima o prometnim nesrećama i drugim događajima u prometu na cestama, na zahtjev stranke, izdaje se potvrda.«.
+
+### Članak 28.
+
+U članku 297. stavku 3. iza riječi: »prometnim nesrećama« dodaju se riječi: »i drugim događajima u prometu na cestama«.
+
+### Članak 29.
+
+Ministar nadležan za unutarnje poslove, u suglasnosti s ministrom nadležnim za poslove prometa, uskladit će Pravilnik o registraciji i označavanju vozila (»Narodne novine«, br. 151/08., 89/10., 104/10. i 83/13.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 30.
+
+Postupci povodom zahtjeva za izdavanje vozačkih dozvola i zahtjeva za registraciju i označavanje motornih i priključnih vozila započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13. i 158/13. – Odluka Ustavnog suda Republike Hrvatske).
+
+### Članak 31.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/86  
+Zagreb, 15. srpnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 64/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/64/1225*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 29. svibnja 2015. godine.
+
+Klasa: 011-01/15-01/51
+
+Urbroj: 71-05-03/1-15-2
+
+Zagreb, 2. lipnja 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10., 74/11., 80/13., 158/13. i 92/14., u daljnjem tekstu: Zakon) u članku 1.a podstavak 14. mijenja se i glasi:
+
+»− Direktiva (EU) 2015/413 Europskog parlamenta i Vijeća od 11. ožujka 2015. o olakšavanju prekogranične razmjene informacija o prometnim prekršajima protiv sigurnosti prometa na cestama (SL L 68/9, 13. 3. 2015.),«.
+
+### Članak 2.
+
+U članku 2. stavku 1. točki 34. iza riječi: »buldožer,« dodaje se riječ: »motokultivator,«.
+
+U točki 38. riječi: »50 km na sat« zamjenjuju se riječima: »45 km/h«.
+
+U točki 39. riječi: »50 km/h« zamjenjuju se riječima: »45 km/h«.
+
+U točki 40. riječi: »50 km/h« zamjenjuju se riječima: »45 km/h«.
+
+Iza točke 50. dodaju se nove točke 51. i 52. koje glase:
+
+»51) »natjecateljsko vozilo« je motorno vozilo koje je posebno opremljeno, preinačeno i namijenjeno za sudjelovanje na automobilskim sportskim natjecanjima, za koje osnovne tehničke uvjete, uvjete uporabe i način stjecanja statusa natjecateljskog vozila pravilnikom utvrđuje ministar nadležan za poslove prometa u suglasnosti s ministrom nadležnim za unutarnje poslove,
+
+52) »turističko vozilo« je motorno ili priključno vozilo posebne namjene, konstruirano ili preinačeno isključivo za turističke potrebe za koje osnovne tehničke uvjete i uvjete uporabe pravilnikom utvrđuje ministar nadležan za poslove prometa u suglasnosti s ministrom nadležnim za unutarnje poslove te koje se razvrstava u kategoriju turističkih vozila.«.
+
+Dosadašnje točke 51. do 96. postaju točke 53. do 98.
+
+### Članak 3.
+
+U članku 199. stavak 1. mijenja se i glasi:
+
+»(1) Vozač vozila C1, C1E, C, CE, D1, D1E, D, DE i H, instruktor vožnje, mladi vozač, kao i vozač vozila B kategorije kada upravlja vozilom u profesionalne svrhe (taksisti, vozači hitne pomoći, vozači u tvrtkama i tijelima državne vlasti itd.), ne smije upravljati vozilom na cesti niti početi upravljati vozilom ako je pod utjecajem droga ili lijekova ili ako u krvi ima alkohola.«.
+
+### Članak 4.
+
+U članku 208. stavku 4. riječi: »one kategorije za koju postaje ovlašteni ispitivač« brišu se.
+
+### Članak 5.
+
+U članku 217. stavku 1. točki 1. riječ: »motokultivatori« zamjenjuje se riječima: »laki četverocikli«.
+
+U točki 9. riječi: »veća od 7.500 kg« zamjenjuju se riječima: »veća od 3.500 kg«.
+
+### Članak 6.
+
+U članku 219. stavku 1. točki (b) riječi: »već imaju pravo upravljati vozilima kategorije B, C1, C, D1 i D« zamjenjuju se riječima: »su već položili vozački ispit za upravljanje vozilima kategorije B, C1, C, D1 i D«.
+
+U točki (c) riječi: »vozaču koji već ima pravo upravljati vozilima kategorije B« zamjenjuju se riječima: »vozačima koji su već položili vozački ispit za upravljanje vozilima kategorije B«.
+
+### Članak 7.
+
+U članku 221. stavci 3. i 4. brišu se.
+
+### Članak 8.
+
+U članku 222. stavak 2. mijenja se i glasi:
+
+»(2) Vozačka dozvola za upravljanje vozilima AM, A1, A2, A, B, BE, F i G kategorije izdaje se s rokom važenja od 10 godina. Prilikom produljenja vozačke dozvole vozač je dužan podvrgnuti se zdravstvenom pregledu za vozača u slučaju kada je obveza zdravstvenog pregleda utvrđena zdravstvenim uvjerenjem na temelju kojeg je vozačka dozvola izdana.«.
+
+U stavku 4. riječi: »kojem je upravljanje vozilom osnovno zanimanje« zamjenjuju se riječima: »koji upravlja vozilom u profesionalne svrhe«.
+
+### Članak 9.
+
+U članku 224. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Protiv rješenja donesenog u postupku izdavanja vozačke dozvole ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+### Članak 10.
+
+U članku 232. stavku 1. riječi: »kojima je upravljanje vozilom osnovno zanimanje« zamjenjuju se riječima: »koji upravljaju vozilom u profesionalne svrhe«.
+
+### Članak 11.
+
+U članku 236. stavku 3. iza riječi: »policijski službenici,« dodaju se riječi: »inspektori cestovnog prometa i inspektori cesta«.
+
+### Članak 12.
+
+U članku 241. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Protiv rješenja donesenog u postupku izdavanja izvoznih pločica ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 7. i 8.
+
+### Članak 13.
+
+U članku 250. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) U slučaju prodaje ili drugog načina promjene vlasništva na vozilu, novi vlasnik vozila dužan je u roku od 15 dana od stjecanja vozila registrirati vozilo na svoje ime ili ga odjaviti, a ako ga ne registrira na svoje ime ili ne odjavi, ministarstvo nadležno za unutarnje poslove će, na zahtjev osobe na koju je vozilo registrirano, rješenjem ukinuti registraciju vozila.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+### Članak 14.
+
+U članku 252. stavak 3. briše se.
+
+Dosadašnji stavci 4., 5., 6., 7., 8., 9., 10. i 11. postaju stavci 3., 4., 5., 6., 7., 8., 9. i 10.
+
+Iza dosadašnjeg stavka 12., koji postaje stavak 11., dodaje se novi stavak 12. koji glasi:
+
+»(12) Protiv rješenja donesenog u postupku registracije vozila, produženja važenja prometne dozvole, izdavanja pokusnih pločica, izdavanja i ukidanja odobrenja za izdavanje pokusnih pločica, izdavanja odobrenja za korištenje prenosivih pločica i oduzimanja prenosivih pločica ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+### Članak 15.
+
+U članku 284. stavak 5. mijenja se i glasi:
+
+»(5) Policijska uprava, odnosno policijska postaja odbit će izdati vozačku dozvolu kandidatu za vozača, odnosno oduzet će vozačku dozvolu vozaču ili instruktoru vožnje čija je zdravstvena sposobnost različito ocijenjena u jednoj ili više zdravstvenih ustanova, sve dok drugostupanjsko zdravstveno povjerenstvo iz članka 234. stavka 1. ovoga Zakona ne utvrdi da je zdravstveno sposoban za upravljanje vozilima kategorija za koje se vozačka dozvola izdaje, odnosno oduzima.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Protiv rješenja iz stavka 1., 3., 4. i 5. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+### Članak 16.
+
+U članku 285. stavku 1. točka 3. briše se.
+
+Dosadašnje točke 4., 5., 6. i 7. postaju točke 3., 4., 5. i 6.
+
+### Članak 17.
+
+U članku 287. stavku 3. riječi: »članka 216. stavka 6.« zamjenjuju se riječima: »članka 216. stavka 3.«.
+
+### Članak 18.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/58
+
+Zagreb, 29. svibnja 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

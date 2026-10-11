@@ -6,13 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-22
-last_amended: 2001-03-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+last_amended: 2012-07-27
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "111/97, 24/01"
+narodne_novine: "111/97, 24/01, 150/08, 124/10, 124/11, 86/12"
 amendments:
   - "NN 24/2001 (434) Zakon o izmjeni Zakona o športu"
+  - "NN 150/2008 (4102) Uredba o dopuni Zakon o športu"
+  - "NN 124/2010 (3209) Zakon o izmjenama i dopunama Zakona o športu"
+  - "NN 124/2011 (2482) Zakon o izmjenama i dopunama Zakona o športu"
+  - "NN 86/2012 (1965) Zakon o izmjenama i dopunama Zakona o športu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1670"
 retrieved: 2026-10-12
 ---
@@ -21,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 111/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1670).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 24/2001.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 24/2001, NN 150/2008, NN 124/2010, NN 124/2011, NN 86/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -837,3 +841,478 @@ ZASTUPNIČKI DOM HRVATSKOGA SABORA
 Predsjednik  
 Zastupničkog doma Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+## Uredba o dopuni Zakon o športu (NN 150/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/150/4102*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 116/2008), Vlada Republike Hrvatske je na sjednici održanoj 19. prosinca 2008. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O ŠPORTU**
+
+### Članak 1.
+
+U Zakonu o športu (»Narodne novine«, broj 71/2006), u članku 67. stavku 1., na kraju rečenice briše se točka i dodaju riječi: »i posebnom odlukom Vlade Republike Hrvatske.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 620-01/08-01/02
+
+Urbroj: 5030104-08-1
+
+Zagreb, 19. prosinca 2008.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o športu (NN 124/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3209*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o športu, koji je Hrvatski sabor donio na sjednici 22. listopada 2010. godine.
+
+Klasa: 011-01/10-01/106
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 27. listopada 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU**
+
+### Članak 1.
+
+U Zakonu o športu (»Narodne novine«, br. 71/06.), u članku 72. stavku 1. iza riječi: »pravilima« dodaju se riječi: »Hrvatskog olimpijskog odbora, Međunarodnog olimpijskog odbora i«.
+
+U stavku 2. riječi: »sukladno pravilima WADA-e« zamjenjuju se riječima: »pravilima iz stavka 1. ovoga članka.«.
+
+U stavku 3. riječi: »odredbama WADA-e i Hrvatske agencije za borbu protiv dopinga u športu« zamjenjuju se riječima: »pravilima iz stavka 1. ovoga članka i sukladno ovome Zakonu.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Športaši su obvezni dopustiti obavljanje dopinške kontrole.«.
+
+### Članak 2.
+
+Naslov ispred članka 73.: »Hrvatska agencija za borbu protiv dopinga u športu« i članak 73. brišu se.
+
+### Članak 3.
+
+U članku 75. stavku 1. točka 6. briše se.
+
+Dosadašnje točke 7. 8. i 9. postaju točke 6., 7. i 8.
+
+U stavku 7. iza riječi: »informacijskog sustava u športu« riječi: »te rad i djelovanje Agencije« brišu se.
+
+### Članak 4.
+
+U članku 86. stavku 1. točki 5. iza riječi: »pravilima« dodaju se riječi: »Hrvatskog olimpijskog odbora, Međunarodnog olimpijskog odbora i«.
+
+### Članak 5.
+
+(1) Hrvatska agencija za borbu protiv dopinga u športu (u daljnjem tekstu: HADA) pripaja se Hrvatskom zavodu za toksikologiju koji danom stupanja na snagu ovoga Zakona mijenja naziv u: »Hrvatski zavod za toksikologiju i antidoping«.
+
+(2) Danom stupanja na snagu ovoga Zakona Hrvatski zavod za toksikologiju i antidoping (u daljnjem tekstu: Zavod) nastavlja neprekinuti kontinuirani rad u borbi protiv dopinga u svim međunarodnim asocijacijama u kojima je do stupanja na snagu ovoga Zakona djelovala HADA, te preuzima sva prava i obveze u borbi protiv dopinga na temelju međunarodnih konvencija.
+
+(3) Danom stupanja na snagu ovoga Zakona, Zavod preuzima sredstva, prava, obveze, poslove, pismohranu i drugu dokumentaciju te službenike i namještenika HADA-e.
+
+### Članak 6.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o osnivanju Hrvatske agencije protiv dopinga u športu (»Narodne novine«, br. 18/07.).
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 620-01/10-01/02
+
+Zagreb, 22. listopada 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o športu (NN 124/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2482*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o športu, koji je Hrvatski sabor donio na sjednici 21. listopada 2011. godine.
+
+Klasa: 011-01/11-01/205
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 26. listopada 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU**
+
+### Članak 1.
+
+U Zakonu o športu (»Narodne novine«, br. 71/06. i 124/10.), naslov ispred članka 13. mijenja se i glasi: »Pravne posljedice pravomoćne osude i kaznenog postupka«.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Osoba pravomoćno osuđena za kazneno djelo protiv Republike Hrvatske, za kazneno djelo protiv vrijednosti zaštićenih međunarodnim pravom, za kazneno djelo protiv spolne slobode i spolnog ćudoređa, za kazneno djelo protiv života i tijela, osim ako je počinjeno na mah ili iz nehaja te za drugo kazneno djelo za koje joj je izrečena bezuvjetna kazna zatvora od tri ili više godina, ne može sudjelovati u športskim natjecanjima, organizirati i voditi športska natjecanja, obavljati stručne poslove u športu ni sudjelovati u radu skupštine ili tijela upravljanja športske udruge ili trgovačkog društva dvije godine od izdržane, oproštene ili zastarjele kazne.
+
+(2) Sud je dužan o pravomoćnoj presudi obavijestiti pravne osobe iz stavka 1. ovoga članka kod kojih osuđena osoba obavlja poslove, dužnosti i funkcije i nadležno registarsko tijelo.
+
+(3) Pravna osoba dužna je osobu iz stavka 1. ovoga članka udaljiti (raskinuti ugovor o radu ili drugi ugovor, razriješiti dužnosti i funkcija i s poslova i športskih djelatnosti koje ne može obavljati sukladno stavku 1. ovoga članka) u roku od osam dana od saznanja za pravomoćnu presudu i o tome obavijestiti registarsko tijelo.
+
+(4) Registarsko tijelo, kod kojega je pravna osoba registrirana, dužno je u roku od osam dana od saznanja za pravomoćnu osudu iz stavka 1. ovoga članka donijeti odgovarajuće akte o izmjeni u registru, odnosno brisanju iz registra osoba iz stavka 1. ovoga članka.
+
+(5) Osoba protiv koje je započeo kazneni postupak za kazneno djelo za koje se može izreći kazna zatvora od tri godine ili teža kazna udaljit će se od sudjelovanja u športskim natjecanjima, obavljanja stručnih poslova u športu i sudjelovanja u radu skupštine ili tijela upravljanja športske udruge ili trgovačkog društva, do okončanja postupka.«.
+
+### Članak 2.
+
+U članku 18. stavku 1. podstavak 5. mijenja se i glasi:
+
+»– organiziranje športskog natjecanja,«.
+
+Dodaje se novi podstavak 6. koji glasi:
+
+»– vođenje športskih natjecanja i«.
+
+Dosadašnji podstavak 6. postaje podstavak 7.
+
+U stavku 3. iza riječi: »ministarstvo« briše se točka i dodaju riječi: »uz prethodno mišljenje Hrvatskog olimpijskog odbora.«.
+
+### Članak 3.
+
+U članku 38. stavku 2. podstavak 1. mijenja se i glasi:
+
+»– koje su u posljednje tri godine pravomoćno kažnjene za kaznena djela ili prekršaje u športu i u vezi sa športom, kao ni osobe iz članka 13. ovoga Zakona,«.
+
+### Članak 4.
+
+Iza članka 81. dodaje se naslov i članak 81.a koji glase:
+
+»Trajne novčane naknade osvajačima medalja na olimpijskim igrama, paraolimpijskim igrama i olimpijskim igrama gluhih
+
+### Članak 81.a
+
+(1) Športaš koji osvoji medalju na olimpijskim igrama, paraolimpijskim igrama i olimpijskim igrama gluhih, kao državno priznanje, ostvaruje na vlastiti zahtjev pravo na trajnu novčanu naknadu ukoliko ispunjava sljedeće uvjete:
+
+– da ima hrvatsko državljanstvo,
+
+– da ima prebivalište u Republici Hrvatskoj,
+
+– da iznos ukupnog mjesečnog prihoda po članu obitelji ne prelazi iznos od 60% prosječne neto plaće po zaposlenome u pravnim osobama u Republici Hrvatskoj u godini koja prethodi stjecanju prava na naknadu prema objavi Državnog zavoda za statistiku,
+
+– da ima navršenih 55 godina života za športašice i 60 godina života za športaše.
+
+(2) Iznos trajne mjesečne naknade športašu iz stavka 1. ovoga članka, za osvojenu zlatnu medalju je 100%, za osvojenu srebrnu medalju je 80%, a za osvojenu brončanu medalju je 60% prosječne neto plaće po zaposlenome u pravnim osobama u Republici Hrvatskoj u godini koja prethodi stjecanju prava na naknadu prema objavi Državnog zavoda za statistiku.
+
+(3) O priznanju i gubitku prava na trajnu mjesečnu naknadu športašu odlučuje ministarstvo rješenjem na koje stranka nema pravo žalbe.
+
+(4) Protiv rješenja ministarstva iz stavka 3. ovoga članka može se pokrenuti upravni spor.
+
+(5) Trajna mjesečna naknada koju ostvaruje športaš iz stavka 1. ovoga članka jest doživotna, ne može biti predmet nasljeđivanja, a gubi se ukoliko športaš više ne ispunjava sve uvjete propisane stavkom 1. ovoga članka.
+
+(6) Športaš iz stavka 1. ovoga članka podnosi ministarstvu zahtjev radi dobivanja rješenja o pravu na trajnu novčanu naknadu, a uz zahtjev se obvezno prilažu i dokazi o ispunjavanju uvjeta.
+
+(7) Športaš koji je osvojio više medalja, a koji ispunjava uvjete iz stavka 1. ovoga članka, može ostvariti pravo na trajnu novčanu naknadu samo u iznosu za osvojenu jednu medalju, pri čemu je mjerodavan iznos naknade koji ostvaruje za najvišu medalju.
+
+(8) Način i postupak utvrđivanja trajnih novčanih naknada, gubitak prava na trajnu novčanu naknadu, način i postupak utvrđivanja ukupnog mjesečnog prihoda športaša, te druga pitanja vezana uz dodjeljivanje trajnih novčanih naknada uređuje Vlada Republike Hrvatske uredbom.
+
+(9) Sredstva za isplate trajnih novčanih naknada športašima iz ovoga članka osiguravaju se u državnom proračunu Republike Hrvatske.«.
+
+### Članak 5.
+
+U članku 82. stavak 2. mijenja se i glasi:
+
+»(2) Nagrada se može dodijeliti i športašu, športskoj ekipi ili stručnoj športskoj osobi za osvojenu zlatnu medalju, prvo mjesto na svjetskim i europskim seniorskim prvenstvima u neolimpijskim, neparaolimpijskim športovima i neolimpijskim športovima gluhih koji u Republici Hrvatskoj imaju dulju tradiciju te u slučajevima kada športsko postignuće pojedinca ili športske ekipe ima osobitu međunarodnu vrijednost i značaj.«.
+
+### Članak 6.
+
+Vlada Republike Hrvatske će donijeti uredbu o trajnim novčanim naknadama iz članka 4. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 620-01/11-01/01
+
+Zagreb, 21. listopada 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o športu (NN 86/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1965*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o športu, koji je Hrvatski sabor donio na sjednici 13. srpnja 2012. godine.
+
+Klasa: 011-01/12-01/95
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 18. srpnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU**
+
+### Članak 1.
+
+U Zakonu o športu (»Narodne novine«, br. 71/06., 124/10. i 124/11.) naziv Zakona mijenja se i glasi: »Zakon o sportu«.
+
+U cijelom tekstu Zakona riječi: »šport« i sve njegove izvedenice zamjenjuju se riječju: »sport« i njegovim izvedenicama u odgovarajućem padežu i rodu.
+
+U cijelom tekstu Zakona naziv: »Hrvatski sveučilišni športski savez« zamjenjuje se nazivom »Hrvatski akademski sportski savez« u odgovarajućem padežu i rodu.
+
+### Članak 2.
+
+U članku 1. stavak 2. mijenja se i glasi:
+
+»(2) Sportske djelatnosti su djelatnosti od posebnog interesa za Republiku Hrvatsku.«.
+
+Stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+### Članak 3.
+
+U članku 3. stavku 1. iza riječi: »stručno« dodaju se riječi: »i savjetodavno«.
+
+U stavku 2. točka 3. mijenja se i glasi:
+
+»3. daje mišljenje o prioritetnim projektima, elaboratima i studijama koje će se financirati u sustavu javnih potreba u sportu,«.
+
+Točka 5. mijenja se i glasi:
+
+»5. daje mišljenje o programima osposobljavanja za stručni rad u sportu i predlaže uvjete koje moraju ispuniti ustanove za osposobljavanje kadra u sportu,«.
+
+Iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. na traženje ministarstva nadležnog za poslove sporta daje prethodno mišljenje o postojanju interesa za prijem u hrvatsko državljanstvo fizičke osobe u sustavu sporta koji je strani državljanin,«.
+
+Dosadašnja točka 9. postaje točka 10.
+
+### Članak 4.
+
+U članku 7. stavak 6. briše se.
+
+### Članak 5.
+
+U članku 9. stavak 6. briše se.
+
+### Članak 6.
+
+U članku 12. dodaje se stavak 2. koji glasi:
+
+»(2) Sve odredbe ovoga Zakona koje se odnose na menadžere u sportu iz stavka 1. ovoga članka odnose se i na sve fizičke osobe i pravne osobe koje imaju sklopljene ugovore o ulaganju u sportaše, odnosno trenere u sustavu sporta na temelju kojih imaju pravo na dio prihoda koji proizlaze iz obavljanja njihove djelatnosti, a koji po svojem sadržaju odgovaraju poslovima menadžera u sportu iz stavka 1. ovoga članka.«.
+
+### Članak 7.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Osoba pravomoćno osuđena na kaznu zatvora u trajanju od najmanje šest mjeseci za neko od kaznenih djela počinjenog s namjerom, a nije primijenjena uvjetna osuda, ne može sudjelovati u sportskim natjecanjima, organizirati i voditi sportska natjecanja, obavljati stručne poslove u sportu, sudjelovati u radu skupštine ili tijela upravljanja sportske udruge ili trgovačkog društva, niti može biti ovlaštena za zastupanje te pravne osobe.
+
+(2) Pravna osoba dužna je raskinuti ugovor o radu ili drugi ugovor na temelju kojeg osoba iz stavka 1. ovoga članka obavlja poslove ili sportsku djelatnost, odnosno razriješiti je dužnosti i funkcija u roku od osam dana od saznanja za pravomoćnu presudu i o tome obavijestiti registarsko tijelo. Na prestanak ugovora o radu primjenjuju se opći propisi o radu.
+
+(3) Osoba protiv koje je pokrenut kazneni postupak zbog kaznenog djela počinjenog na štetu djeteta, odnosno maloljetnika udaljit će se od obavljanja poslova u sportu u kojima dolazi u kontakt s djecom, odnosno maloljetnicima do pravomoćnosti presude, odnosno obustave postupka.«.
+
+### Članak 8.
+
+U članku 19. stavku 3. riječi: »športska dionička društva« zamjenjuju se riječima: »trgovačka društva«.
+
+### Članak 9.
+
+U članku 24. stavak 1. mijenja se i glasi:
+
+»(1) Profesionalni status, u smislu ovoga Zakona, ima onaj sportski klub koji je osnovan radi obavljanja sportske djelatnosti sudjelovanja u sportskom natjecanju, ako uvjete iz članka 8. stavka 1. ovoga Zakona zadovoljava više od 50% registriranih sportaša u seniorskoj konkurenciji, u odnosu na broj prijavljenih sportaša za natjecateljsku godinu na listi koju vodi odgovarajući nacionalni sportski savez ili ako ispunjava uvjete za stjecanje profesionalnog statusa sukladno pravilima odgovarajućega nacionalnoga sportskog saveza (u daljnjem tekstu: profesionalni sportski klub).«.
+
+### Članak 10.
+
+U članku 27. stavak 3. mijenja se i glasi:
+
+»(3) Članovi tijela sportskog kluba-udruge za natjecanje, osobe ovlaštene za zastupanje te osobe ovlaštene za vođenje poslova po odluci ovlaštenog tijela ili na temelju općih akta sportskog kluba-udruge za natjecanje ne mogu biti osobe:
+
+– koje ne mogu biti članovi uprave odnosno nadzornog odbora dioničkog društva prema odredbama Zakona o trgovačkim društvima i zakona kojim se uređuje sprječavanje sukoba interesa u obnašanju javnih dužnosti,
+
+– koje su u posljednje tri godine pravomoćno kažnjene za kaznena djela ili prekršaje u sportu i u vezi sa sportom, kao ni osobe iz članka 13. ovoga Zakona,
+
+– koje su članovi drugih sportskih klubova – udruga za natjecanje istoga sporta,
+
+– koje su dioničari s.d.d.-a istoga sporta,
+
+– koje su članovi tijela, osobe ovlaštene za zastupanje te osobe ovlaštene za vođenje poslova po odluci ovlaštenog tijela ili na temelju općih akta sportskog kluba – udruge za natjecanje istoga sporta,
+
+– koje su članovi tijela s.d.d.-a istoga sporta,
+
+– koje svojim djelovanjem mogu neposredno utjecati na sustav natjecanja u odgovarajućem sportu, a osobito sportaši koji su profesionalni prema članku 8. ovoga Zakona, menadžeri u sportu, kao i osobe koje su to bile u razdoblju od posljednjih godinu dana,
+
+– članovi pravnih osoba koje obavljaju djelatnost organiziranja sportskih kladionica, kao i osobe koje su to obavljale posljednje tri godine,
+
+– članovi tijela pravnih osoba koje obavljaju djelatnost organiziranja sportskih kladionica, kao i osobe koje su to bile posljednje tri godine,
+
+– koje s menadžerima u sportu i članovima pravnih osoba te članovima tijela pravnih osoba koje obavljaju djelatnost organiziranja sportskih kladionica djeluju zajednički u smislu članka 34. stavka 3. ovoga Zakona,
+
+– ovlaštene za zastupanje u pravnoj osobi koja sukladno članku 12. stavku 2. ovoga Zakona ima sklopljene ugovore o ulaganju u fizičke osobe u sustavu sporta.«.
+
+### Članak 11.
+
+U članku 38. stavku 2. podstavak 4. mijenja se i glasi:
+
+»– koje su članovi tijela, osobe ovlaštene za zastupanje te osobe ovlaštene za vođenje poslova po odluci ovlaštenog tijela ili na temelju općih akta sportskog kluba – udruge za natjecanje istoga sporta,«.
+
+### Članak 12.
+
+U članku 46. stavku 5. dodaje se podstavak 4. koji glasi:
+
+»– osobe iz članka 27. stavka 3. i članka 38. stavka 2. ovoga Zakona.«.
+
+### Članak 13.
+
+U članku 47. stavku 7. podstavak 3. mijenja se i glasi:
+
+»– osobe koje svojim djelovanjem mogu neposredno utjecati na sustav natjecanja u odgovarajućem sportu, a osobito osobe iz članka 11. stavka 1. ovoga Zakona, kao i osobe koje su u upravljačkim tijelima pravne osobe koja organizira i vodi natjecanja, menadžeri u sportu, kao i osobe koje su to bile posljednjih godinu dana,«.
+
+Dodaje se podstavak 4. koji glasi:
+
+»– osobe iz članka 27. stavka 3. i članka 38. stavka 2. ovoga Zakona.«.
+
+### Članak 14.
+
+U članku 48. dodaje se stavak 4. koji glasi:
+
+»(4) Na razini jedinica lokalne i područne (regionalne) samouprave i Grada Zagreba može se osnovati samo jedna sportska zajednica.«.
+
+### Članak 15.
+
+U članku 57. stavku 2. na kraju teksta briše se točka i dodaju riječi: »sa statusom nacionalnoga sportskoga saveza.".
+
+Dodaje se stavak 5. koji glasi:
+
+»(5) Hrvatski akademski sportski savez općim aktom utvrđuje sustav, uvjete i organizaciju sportskih natjecanja studenata u skladu s pravilima sporta i normama međunarodnih studentskih sportskih udruženja, sudjeluje u međunarodnim studentskim sportskim pokretima i udružuje se u odgovarajuća međunarodna studentska sportska udruženja, skrbi o pripremama i sudjelovanju na univerzijadama, studentskim svjetskim, europskim i sličnim prvenstvima i igrama te sudjeluje u njihovu organiziranju. Hrvatski akademski sportski savez usklađuje aktivnosti svojih članica, organizira nacionalna studentska natjecanja, skrbi o statusu studenata sportaša te uređuje druga pitanja iz područja svoga djelovanja.«.
+
+### Članak 16.
+
+U članku 63. stavak 3. mijenja se i glasi:
+
+»(3) Pri isticanju kandidature za održavanje olimpijskih igara, svjetskih i europskih prvenstava te međunarodnih regionalnih športskih natjecanja na teritoriju Republike Hrvatske, potrebna je prethodna suglasnost ministarstva te iznimno Vlade Republike Hrvatske ukoliko je takva suglasnost propisana pravilima međunarodnih sportskih udruženja u čijoj je nadležnosti održavanje predmetnog natjecanja.«.
+
+### Članak 17.
+
+U članku 71. stavak 2. mijenja se i glasi:
+
+»(2) Opću i posebnu zdravstvenu sposobnost utvrđuje ovlašteni liječnik, odnosno specijalist sportske medicine, specijalist medicine rada i sporta ili liječnici drugih specijalnosti koji imaju završeni poslijediplomski studij iz medicine rada i sporta. Listu ovlaštenih liječnika utvrđuje ministarstvo nadležno za poslove zdravlja, uz suglasnost ministra.«.
+
+### Članak 18.
+
+U članku 75. stavku 6. riječi: »Hrvatskoga studentskoga športskog saveza« zamjenjuju se riječima: »Hrvatskoga akademskoga sportskog saveza«, a riječi: »Hrvatski studentski športski savez« zamjenjuju se riječima: »Hrvatski akademski sportski savez«.
+
+### Članak 19.
+
+Članak 82. mijenja se i glasi:
+
+»(1) Državne nagrade za vrhunska sportska postignuća dodjeljuju se sportašima, sportskim ekipama i djelatnim stručnim sportskim osobama (izbornik, trener, sportski liječnik, fizioterapeut, serviser i sl.) koje utvrđuje nacionalni sportski savez, kao priznanje za osvojene zlatne, srebrne i brončane medalje, odnosno za osvojeno, prvo, drugo ili treće mjesto na olimpijskim, paraolimpijskim igrama i olimpijskim igrama gluhih te svjetskim i europskim seniorskim prvenstvima u olimpijskim i paraolimpijskim sportovima i disciplinama te u olimpijskim sportovima i disciplinama za gluhe.
+
+(2) Nagrada se može dodijeliti i sportašu, sportskoj ekipi ili stručnoj sportskoj osobi za osvojenu zlatnu medalju, prvo mjesto na svjetskim i europskim seniorskim prvenstvima u neolimpijskim, neparaolimpijskim sportovima i neolimpijskim sportovima gluhih koji u Republici Hrvatskoj imaju dulju tradiciju te u slučajevima kada sportsko postignuće pojedinca ili sportske ekipe ima osobitu međunarodnu vrijednost i značaj.«.
+
+### Članak 20.
+
+U članku 85. riječi: »provode športski inspektori ministarstva i drugi državni službenici koje za to ovlasti ministar« zamjenjuju se riječima: »provodi sportska inspekcija«.
+
+### Članak 21.
+
+Članak 86. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 30.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. započne obavljati sportsku djelatnost prije nego što bude upisana u registar sportskih djelatnosti koji vodi ured državne uprave u županiji, odnosno ured Grada Zagreba nadležan za poslove sporta,
+
+2. obavljanje stručnih poslova u sportu povjeri osobi koja za to ne ispunjava uvjete,
+
+3. traži ili dopusti da u sportskom natjecanju sudjeluje osoba kojoj nije utvrđena opća zdravstvena sposobnost ili posebna zdravstvena sposobnost,
+
+4. ne izvrši upis u Registar profesionalnih klubova, predviđen pravilnikom o upisu,
+
+5. ne poštuje obveze podnošenja i dostavljanja potrebne dokumentacije u zakazanom roku Povjerenstvu za profesionalne sportske klubove propisanih ovim Zakonom,
+
+6. ne poštuje obvezu podnošenja i dostavljanja potrebne dokumentacije u postupku obveznog preoblikovanja propisanih ovim Zakonom,
+
+7. pravna osoba u sustavu sporta ne izvršava obveze i zadaće propisane ovim Zakonom,
+
+8. ne poštuje ograničenja vezana uz osobe koje sudjeluju u organiziranju i vođenju sportskog natjecanja propisane ovim Zakonom.
+
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 15.000,00 kuna.«.
+
+### Članak 22.
+
+Članak 87. mijenja se i glasi:
+
+»Novčanom kaznom od 10.000,00 do 15.000,00 kuna kaznit će se za prekršaj fizička osoba koja obavlja samostalnu djelatnost u sustavu sporta ako:
+
+1. obavlja stručne poslove u sportu bez odgovarajuće razine obrazovanja, odnosno stručne osposobljenosti,
+
+2. započne obavljati sportsku djelatnost prije upisa u registar sportskih djelatnosti ili nastavi obavljati sportsku djelatnost nakon brisanja iz registra sportskih djelatnosti.«.
+
+### Članak 23.
+
+U članku 90. stavku 1. riječ: »osam« zamjenjuje se riječju: »jedanaest«
+
+### Članak 24.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 620-01/12-01/02
+
+Zagreb, 13. srpnja 2012.
+
+HRVATSKI SABOR
+
+Potpredsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

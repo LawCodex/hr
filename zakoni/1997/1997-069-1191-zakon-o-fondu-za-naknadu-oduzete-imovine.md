@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-07-04
-last_amended: 2000-07-05
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+last_amended: 2013-11-27
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "69/97, 105/99, 64/00"
+narodne_novine: "69/97, 105/99, 64/00, 141/13"
 amendments:
   - "NN 105/1999 (1749) Zakon o izmjenama Zakona o Fondu za naknadu oduzete imovine"
   - "NN 64/2000 (1410) Zakon o izmjenama Zakona o Fondu za naknadu oduzete imovine"
+  - "NN 141/2013 (3013) Zakon o izmjeni Zakona o Fondu za naknadu oduzete imovine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1191"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 69/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1191).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 105/1999, NN 64/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 105/1999, NN 64/2000, NN 141/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -305,3 +306,63 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjeni Zakona o Fondu za naknadu oduzete imovine (NN 141/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3013*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O FONDU ZA NAKNADU ODUZETE IMOVINE
+
+Proglašavam Zakon o izmjeni Zakona o Fondu za naknadu oduzete imovine, koji je Hrvatski sabor donio na sjednici 15. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/248
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 21. studenoga 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O FONDU ZA NAKNADU ODUZETE IMOVINE**
+
+### Članak 1.
+
+U Zakonu o Fondu za naknadu oduzete imovine (»Narodne novine«, br. 69/97., 105/99. i 64/00.) članak 5. mijenja se i glasi:
+
+»(1) Fond je proračunski korisnik državnog proračuna.
+
+(2) Sredstva za obavljanje poslova iz djelokruga Fonda osiguravaju se u državnom proračunu.
+
+(3) Prihodi od prodaje stanova stanarima koji su pravo na otkup stana stekli u skladu s odredbama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine prihodi su državnog proračuna i uplaćuju se u državni proračun.
+
+(4) Pomoći ili donacije koje Fond primi od međunarodnih organizacija te od tijela i fondova Europske unije radi unaprjeđenja stručne ili tehničke razine djelatnosti prihodi su Fonda i uplaćuju se u državni proračun.«.
+
+### Članak 2.
+
+(1) Novčana sredstva na računima i sva potraživanja Fona za naknadu oduzete imovine na dan 31. prosinca 2013. prihod su državnog proračuna i uplatit će se na jedinstveni račun državne riznice u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Sva potraživanja Fonda za naknadu oduzete imovine prihod su državnog proračuna i uplaćivat će se na jedinstveni račun državne riznice nakon stupanja na snagu ovoga Zakona.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/240
+
+Zagreb, 15. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

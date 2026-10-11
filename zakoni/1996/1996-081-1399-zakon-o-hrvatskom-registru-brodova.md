@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-02
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "81/96"
-amendments: []
+last_amended: 2013-06-21
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "81/96, 76/13"
+amendments:
+  - "NN 76/2013 (1528) Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/81/1399"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o hrvatskom registru brodova
 
 > Izvor: Narodne novine, NN 81/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/81/1399).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -258,3 +262,140 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1528*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOM REGISTRU BRODOVA
+
+Proglašavam Zakon izmjenama i dopunama Zakona o Hrvatskom registru brodova, koji je Hrvatski sabor donio na sjednici 14. lipnja 2013.
+
+Klasa: 011-01/13-01/141  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 18. lipnja 2013.
+
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOM REGISTRU BRODOVA**
+
+### Članak 1.
+
+U Zakonu o Hrvatskom registru brodova (»Narodne novine«, br. 81/96.), iza članka 1. dodaje se naslov iznad članka i članak 1.a koji glase:
+
+*»Usklađenost s pravnim aktima Europske unije*
+
+### Članak 1.a
+
+Ovim Zakonom utvrđuje se okvir za provedbu Uredbe (EZ) br. 391/2009 Europskoga parlamenta i Vijeća od 23. travnja 2009. o zajedničkim pravilima i normama za organizacije koje obavljaju nadzor i pregled brodova (SL L 131, 28. 5. 2009., str. 11-23).«.
+
+### Članak 2.
+
+Članak 6. mijenja se i glasi:
+
+»U okviru djelatnosti iz članka 1. ovoga Zakona, HRB obavlja sljedeće poslove od posebnog interesa za Republiku Hrvatsku:
+
+1. provodi statutarnu certifikaciju brodova hrvatske državne pripadnosti u nacionalnoj plovidbi,
+
+2. provodi statutarnu certifikaciju jahti i ostalih pomorskih objekata hrvatske državne pripadnosti na koje se ne odnose međunarodne konvencije navedene u propisu koji uređuje uvjete koje moraju ispunjavati priznate organizacije, a koji donosi ministar nadležan za pomorstvo,
+
+3. obavlja poslove statutarne certifikacije u svezi sigurnosne zaštite brodova u skladu s posebnim propisom,
+
+4. obavlja baždarenje pomorskih plovnih i plutajućih objekata te plovila unutarnje plovidbe,
+
+5. utvrđuje sigurnost kontejnera,
+
+6. provodi statutarnu certifikaciju plovila unutarnje plovidbe,
+
+7. obavlja poslove tehničkog nadzornog tijela za certifikaciju plovila u unutarnjoj plovidbi sukladno propisu koji donosi ministar nadležan za unutarnju plovidbu,
+
+8. pruža stručnu potporu ministarstvu nadležnom za pomorstvo u ispunjavanju obveza Republike Hrvatske kao države zastave sukladno Konvenciji Ujedinjenih naroda o pravu mora, Kodeksu za implementaciju obveznih instrumenata Međunarodne pomorske organizacije, kao i drugih obveznih međunarodnih instrumenata, kao i odnosnim nacionalnim propisima te pruža stručnu potporu u pripremi prijedloga sadržaja Tehničkih pravila za statutarnu certifikaciju pomorskih objekata,
+
+9. pruža stručnu potporu ministarstvu nadležnom za poslove unutarnje plovidbe u ispunjavanju obveza Republike Hrvatske sukladno odnosnim međunarodnim instrumentima i nacionalnim propisima i pruža stručnu potporu u pripremi prijedloga sadržaja Tehničkih pravila za statutarnu certifikaciju plovila unutarnje plovidbe,
+
+10. sudjeluje u radu i izvršavanju obveza prema međunarodnim organizacijama glede poslova iz točke 1. do 9. ovoga članka.«.
+
+### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»Poslovi navedeni u članku 6. ovoga Zakona, koje HRB obavlja na temelju javne ovlasti, obuhvaćaju:
+
+– obavljanje tehničkog nadzora i baždarenja u skladu s Tehničkim pravilima za statutarnu certifikaciju pomorskih objekata i Tehničkim pravilima za statutarnu certifikaciju plovila unutarnje plovidbe,
+
+– izdavanje isprava, knjiga i izvješća na osnovi obavljenog tehničkog nadzora ili baždarenja,
+
+– nadzor nad obavljanjem pokusne plovidbe postojećeg broda i broda u gradnji u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske.«.
+
+### Članak 4.
+
+Članak 8. briše se.
+
+### Članak 5.
+
+Članak 9. mijenja se i glasi:
+
+»HRB može obavljati i sljedeće poslove:
+
+– poslove iz članka 6. ovoga Zakona, u ime stranih nadležnih tijela od kojih je valjano ovlašten,
+
+– klasifikaciju brodova te drugih pomorskih plovnih i plutajućih objekata,
+
+– klasifikaciju plovila unutarnje plovidbe,
+
+– stručno-tehničke poslove u svezi s projektiranjem, gradnjom, preinakom, popravcima i korištenjem brodova, drugih pomorskih plovnih i plutajućih objekata, kontejnera te odobalnih nepomičnih objekata i objekata na kopnu,
+
+– poslove u svezi s osiguranjem kakvoće certifikacije sustava upravljanja kvalitetom i sustava upravljanja okolišem,
+
+– poslove certifikacije materijala i proizvoda.«.
+
+### Članak 6.
+
+Članak 12. mijenja se i glasi:
+
+»Sredstva za obavljanje poslova i razvoj djelatnosti HRB-a osiguravaju se iz prihoda ostvarenih naplaćivanjem naknada od izravnih korisnika usluga.
+
+Sredstva iz stavka 1. ovoga članka mogu se na temelju posebnog programa Vlade Republike Hrvatske osigurati i iz državnog proračuna.«.
+
+### Članak 7.
+
+U članku 14. stavku 2. podstavak 2. mijenja se i glasi:
+
+»– sigurnošću plovidbe unutarnjim vodnim putovima u ministarstvu nadležnom za unutarnju plovidbu – jednog člana,«.
+
+### Članak 8.
+
+Članak 17. mijenja se i glasi:
+
+»Prihodi koje ostvari HRB obavljanjem poslova sukladno ovom Zakonu mogu se koristiti isključivo za unapređenje rada HRB-a.«.
+
+### Članak 9.
+
+U članku 21. iza riječi: »nadležno za poslove pomorstva« dodaju se riječi: »i unutarnje plovidbe«.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/132
+
+Zagreb, 14. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-02-13
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "19/98"
-amendments: []
+last_amended: 2012-05-02
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "19/98, 50/12"
+amendments:
+  - "NN 50/2012 (1227) Zakon o izmjeni i dopuni Zakona o grobljima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/19/2290"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o grobljima
 
 > Izvor: Narodne novine, NN 19/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/19/2290).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 50/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -242,3 +246,63 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni i dopuni Zakona o grobljima (NN 50/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/50/1227*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O GROBLJIMA
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o grobljima, koji je Hrvatski sabor donio na sjednici 20. travnja 2012. godine.
+
+Klasa: 011-01/12-01/45
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 24. travnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O GROBLJIMA**
+
+### Članak 1.
+
+U Zakonu o grobljima (»Narodne novine«, broj 19/98.) u članku 1. stavak 2. mijenja se i glasi:
+
+»(2) Groblje je ograđeni prostor zemljišta na kojem se nalaze grobna mjesta, komunalna infrastruktura i u pravilu prateće građevine.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Prateće građevine se grade unutar ograđenog prostora zemljišta koje čini groblje, odnosno izvan toga prostora ako je to planirano prostornim planom jedinice lokalne samouprave.«.
+
+### Članak 2.
+
+Ministar nadležan za poslove komunalnog gospodarstva uskladit će Pravilnik o grobljima (»Narodne novine«, broj 99/02.) s ovim Zakonom u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 564-02/12-01/01
+
+Zagreb, 20. travnja 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-09-24
-last_amended: 2007-10-25
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2012-12-20
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "151/03, 110/07"
+narodne_novine: "151/03, 110/07, 143/12"
 amendments:
   - "NN 110/2007 (3228) Zakon o izmjenama Zakona o odgovornosti pravnih osoba za kaznena djela"
+  - "NN 143/2012 (3032) Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2178"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 151/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2178).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/2007, NN 143/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -440,3 +441,173 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela (NN 143/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3032*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODGOVORNOSTI PRAVNIH OSOBA ZA KAZNENA DJELA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela, koji je Hrvatski sabor donio na sjednici 7. prosinca 2012. godine.
+
+Klasa: 011-01/12-01/167
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 12. prosinca 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODGOVORNOSTI PRAVNIH OSOBA ZA KAZNENA DJELA**
+
+### Članak 1.
+
+U Zakonu o odgovornosti pravnih osoba za kaznena djela (»Narodne novine«, br. 151/03., 110/07. i 45/11.) u članku 1. stavak 1. mijenja se i glasi:
+
+»(1) Ovim se Zakonom određuju pretpostavke kažnjivosti, kazne, sigurnosne mjere, oduzimanje imovinske koristi, oduzimanje predmeta, javno objavljivanje presude, zastara i kazneni postupak za kaznena djela pravnih osoba.«.
+
+### Članak 2.
+
+Iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+
+– Okvirnom odlukom Vijeća 2005/667 PUP, od 12. lipnja 2005. godine o jačanju kaznenopravnog okvira za provedbu zakona protiv onečišćenja brodovima (SL L 255, 30. 9. 2005.),
+
+– Drugim protokolom, od 19. lipnja 1997. godine, koji se donosi na temelju članka K.3 Ugovora o Europskoj uniji, uz Konvenciju za zaštitu financijskih interesa Europskih zajednica (SL C 221, 19. 7. 1997., str. 12.).«.
+
+### Članak 3.
+
+U članku 7. stavcima 1. i 2. iza riječi: »presude« briše se riječ: »i« i stavlja zarez, a iza riječi: »koristi« dodaju se riječi: »i oduzimanje predmeta«.
+
+### Članak 4.
+
+Naziv Glave III. mijenja se i glasi: »III. KAZNE«
+
+Naslov iznad članka 8. mijenja se i glasi: »Vrste kazni«.
+
+Članak 8. mijenja se i glasi:
+
+»Kazne su novčana kazna i ukidanje pravne osobe.«.
+
+### Članak 5.
+
+Članak 9. briše se.
+
+### Članak 6.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Ako je za kazneno djelo propisana novčana kazna ili kazna zatvora s posebnom najvećom mjerom od jedne godine zatvora, pravna se osoba može kazniti novčanom kaznom od 5.000,00 do 8.000.000,00 kuna.
+
+(2) Ako je za kazneno djelo propisana kazna zatvora s posebnom najvećom mjerom od pet godina zatvora, pravna se osoba može kazniti novčanom kaznom od 15.000,00 do 10.000.000,00 kuna.
+
+(3) Ako je za kazneno djelo propisana kazna zatvora s posebnom najvećom mjerom od deset godina zatvora, pravna se osoba može kazniti novčanom kaznom od 30.000,00 do 12.000.000,00 kuna.
+
+(4) Ako je za kazneno djelo propisana kazna zatvora s posebnom najvećom mjerom od petnaest godina zatvora ili teža kazna, pravna se osoba može kazniti novčanom kaznom od 50.000,00 do 15.000.000,00 kuna.«.
+
+### Članak 7.
+
+Iza članka 10. dodaje se naslov i članak 10.a koji glase:
+
+*»Izvršenje novčane kazne*
+
+### Članak 10.a
+
+Ako pravna osoba ne plati u određenom roku novčanu kaznu, novčana kazna naplatit će se prisilno.«.
+
+### Članak 8.
+
+Iza članka 12. dodaje se naslov i članak 12.a koji glase:
+
+*»Oslobođenje od kazne*
+
+### Članak 12.a
+
+Pravna osoba koja je prijavila kazneno djelo odgovorne osobe prije njegovog otkrivanja ili prije saznanja da je djelo otkriveno, može se osloboditi od kazne.«.
+
+### Članak 9.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Sud može pravnoj osobi izreći uvjetnu osudu tako da istodobno odredi da se novčana kazna neće izvršiti ako pravna osoba u vremenu koje sud odredi, a koje ne može biti kraće od jedne niti dulje od tri godine, ne počini novo kazneno djelo.
+
+(2) Uvjetna osuda može se izreći za kaznena djela za koja je sud osudio pravnu osobu na novčanu kaznu manju od 50.000,00 kuna.
+
+(3) Prema pravnoj osobi ne može se primijeniti djelomična uvjetna osuda.«.
+
+### Članak 10.
+
+Naslov iznad članka 14. i članak 14. brišu se.
+
+### Članak 11.
+
+Iza članka 14. dodaje se naziv Glave III.a koji glasi: »III.a SIGURNOSNE MJERE«.
+
+### Članak 12.
+
+Iza članka 18. dodaje se naziv Glave III.b koji glasi: »III.b ODUZIMANJE IMOVINSKE KORISTI, ODUZIMANJE PREDMETA I JAVNO OBJAVLJIVANJE PRESUDE«.
+
+Naslov iznad članka 19. mijenja se i glasi: »Oduzimanje imovinske koristi i oduzimanje predmeta«
+
+Članak 19. mijenja se i glasi:
+
+»Na oduzimanje imovinske koristi i oduzimanje predmeta primjenjuju se odredbe Kaznenog zakona i posebnih zakona.«.
+
+### Članak 13.
+
+Članak 20. briše se.
+
+### Članak 14.
+
+Iza članka 21. dodaje se naziv Glave III.c koji glasi: »III.c ZASTARA I OBAVIJEST O PRAVOMOĆNOJ OSUĐUJUĆOJ PRESUDI« te naslov iznad članka 21.a i članak 21.a koji glase:
+
+*»Zastara*
+
+### Članak 21.a
+
+(1) Zastara kaznenog progona protiv pravne osobe računa se prema kazni propisanoj za počinjeno kazneno djelo.
+
+(2) Novčana se kazna ne može izvršiti kad protekne šest godina od njezina izricanja ili opozivanja uvjetne osude kojom je ona izrečena.
+
+(3) Izvršenje kazne ukidanja pravne osobe ne zastarijeva.«.
+
+### Članak 15.
+
+Naslov iznad članka 22. mijenja se i glasi: »Obavijest o presudi«.
+
+Članak 22. mijenja se i glasi:
+
+»(1) Sud će, po službenoj dužnosti, po donošenju presude, bez odgode, o sadržaju presude kojom se osuđuje pravna osoba obavijestiti sudski ili drugi registar u koji je ta pravna osoba upisana.
+
+(2) U obavijesti sudskom ili drugom registru navest će se sljedeći podaci: naziv suda, broj presude i dan izricanja presude, tvrtka, odnosno naziv pravne osobe, sjedište i matični broj pravne osobe, osobni identifikacijski broj, kazneno djelo, kazna i sigurnosna mjera ako je izrečena.
+
+(3) Sud će, po službenoj dužnosti, o sadržaju pravomoćne presude obavijestiti ministarstvo nadležno za pravosuđe. Obavještavanje ministarstva nadležnog za pravosuđe provest će se radi upisa podataka u kaznenu evidenciju sukladno odredbama posebnog zakona kojim se uređuje vođenje, dostupnost, davanje i brisanje podataka iz kaznene evidencije.
+
+(4) Sud iz stavka 1. ovog članka obavijestit će sudski ili drugi registar i o danu pravomoćnosti. Sud će tako postupiti i u slučaju ukidanja ili preinačenja presude iz stavka 1. ovog članka.«.
+
+### Članak 16.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2013.
+
+Klasa: 740-02/12-01/01
+
+Zagreb, 7. prosinca 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

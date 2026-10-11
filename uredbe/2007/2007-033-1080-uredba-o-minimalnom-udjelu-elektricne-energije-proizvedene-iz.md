@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-03-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "33/07"
-amendments: []
+last_amended: 2011-01-19
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "33/07, 8/11"
+amendments:
+  - "NN 8/2011 (165) Uredba o izmjenama i dopunama Uredbe o minimalnom udjelu električne energije proizvedene iz obnovljivih izvora energije i kogeneracije čija se proizvodnja potiče"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/33/1080"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o minimalnom udjelu električne energije proizvedene iz obnovljivih izvora energije i kogeneracije čija se proizvodnja potiče
 
 > Izvor: Narodne novine, NN 33/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/33/1080).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 8/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -94,4 +98,69 @@ Zagreb, 22. ožujka 2007.
 Potpredsjednica Vlade  
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
+Jadranka Kosor, dipl. iur., v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o minimalnom udjelu električne energije proizvedene iz obnovljivih izvora energije i kogeneracije čija se proizvodnja potiče (NN 8/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/165*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 26. stavka 4. Zakona o tržištu električne energije (»Narodne novine«, br. 177/2004, 76/2007 i 152/2008), Vlada Republike Hrvatske je na sjednici održanoj 7. siječnja 2011. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O MINIMALNOM UDJELU ELEKTRIČNE ENERGIJE PROIZVEDENE IZ OBNOVLJIVIH IZVORA ENERGIJE I KOGENERACIJE ČIJA SE PROIZVODNJA POTIČE**
+
+### Članak 1.
+
+U Uredbi o minimalnom udjelu električne energije proizvedene iz obnovljivih izvora energije i kogeneracije čija se proizvodnja potiče (»Narodne novine«, broj 33/2007), u članku 1. stavku 2. iza riječi: »ukupnoj« dodaje se riječ: »neposrednoj«.
+
+### Članak 2.
+
+U članku 3. stavku 2. iza riječi: »ukupna« dodaje se riječ: »neposredna«.
+
+### Članak 3.
+
+Članak 4. mijenja se i glasi:
+
+»Minimalni udio električne energije čija se proizvodnja potiče u ukupnoj neposrednoj potrošnji električne energije do 31. prosinca 2020. godine bit će:
+
+1) iz postrojenja koja koriste obnovljive izvore energije 13,6%,
+
+2) iz kogeneracijskih postrojenja, čija se proizvodnja električne energije isporučuje u prijenosnu, odnosno distribucijsku mrežu 4%.«.
+
+### Članak 4.
+
+U članku 5. stavku 3. iza riječi: »ukupnoj« dodaje se riječ: »neposrednoj«.
+
+### Članak 5.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»Udio svakog opskrbljivača utvrđuje se na mjesečnoj razini.«.
+
+### Članak 6.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Pojedinačnu obvezu opskrbljivača iz članka 7. ove Uredbe utvrđuje operator tržišta do desetog dana u prethodnom mjesecu na temelju relevantnih podataka iz prethodnih obračunskih razdoblja, koje operatoru tržišta dostavljaju operator prijenosnog sustava i operator distribucijskog sustava, na način koji će biti uređen ugovorom iz članka 7. stavka 1. ove Uredbe.
+
+(2) Relevantni podaci iz stavka 1. ovoga članka odnose se na ukupno ostvarenu opskrbu električnom energijom, udio pojedinog opskrbljivača u ukupno ostvarenoj opskrbi električnom energijom i ukupni iznos električne energije koju su povlašteni proizvođači u sustavu poticanja isporučili u elektroenergetski sustav.«.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 310-02/11-01/02
+
+Urbroj: 5030116-11-1
+
+Zagreb, 7. siječnja 2011.
+
+Predsjednica  
 Jadranka Kosor, dipl. iur., v. r.

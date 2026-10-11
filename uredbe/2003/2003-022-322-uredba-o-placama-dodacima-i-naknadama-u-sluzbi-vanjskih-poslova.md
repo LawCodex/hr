@@ -6,15 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2003-02-12
-last_amended: 2007-04-04
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2013-02-28
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "22/03, 48/03, 39/06, 36/07"
+narodne_novine: "22/03, 48/03, 39/06, 36/07, 25/13"
 amendments:
   - "NN 48/2003 (607) Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
   - "NN 39/2006 (949) Uredba o izmjenama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
   - "NN 36/2007 (1163) Uredba o dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
+  - "NN 25/2013 (416) Uredba o izmjeni Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/22/322"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 22/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/22/322).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2003, NN 39/2006, NN 36/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2003, NN 39/2006, NN 36/2007, NN 25/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -820,3 +821,71 @@ Potpredsjednica Vlade
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
 Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjeni Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (NN 25/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/416*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/96), Vlada Republike Hrvatske je na sjednici održanoj 28. veljače 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O PLAĆAMA, DODACIMA I NAKNADAMA U SLUŽBI VANJSKIH POSLOVA**
+
+##### Članak 1.
+
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/2003, 48/2003, 39/2006 i 36/2007), Prilog I. pod nazivom: »Koeficijent polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima Republike Hrvatske u inozemstvu« zamjenjuje se novim Prilogom I. koji je sastavni dio ove Uredbe.
+
+##### Članak 2.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. ožujka 2013. godine.
+
+Klasa: 022-03/13-03/27
+
+Urbroj: 50301-09/09-13-2
+
+Zagreb, 28. veljače 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+#### PRILOG I.
+
+### KOEFICIJENT POLAZNE OSNOVICE SLOŽENOSTI POSLOVA PREMA DIPLOMATSKIM, KONZULARNIM I ADMINISTRATIVNO-TEHNIČKIM ZVANJIMA U PREDSTAVNIŠTVIMA REPUBLIKE HRVATSKE U INOZEMSTVU
+
+| DIPLOMATSKO<br>OSOBLJE | KOEFICIJENT<br>POLAZNE<br>OSNOVICE |
+|---|---|
+| Veleposlanik – šef predstavništva | 5,335 |
+| Veleposlanik – zamjenik šefa diplomatske misije | 4,656 |
+| Stalni otpravnik poslova | 4,365 |
+| Opunomoćeni ministar | 4,268 |
+| Ministar savjetnik | 3,977 |
+| Savjetnik | 3,492 |
+| Tajnik I | 3,104 |
+| Tajnik II | 2,910 |
+| Tajnik III | 2,716 |
+| Ataše | 2,522 |
+| Administrativni ataše | 2,425 |
+| ADMINISTRATIVNO-TEHNIČKO OSOBLJE |  |
+| Tajnica – prevoditelj | 2,619 |
+| Viši stručni referent | 2,328 |
+| Administrativni referent | 2,231 |
+| Djelatnik sigurnosti, domar, vozač | 2,231 |
+
+| KONZULARNO OSOBLJE | KOEFICIJENT<br>POLAZNE<br>OSNOVICE |
+|---|---|
+| Šef konzularnog predstavništva: |  |
+| – Generalni konzul | 4,656 |
+| – Konzul | 4,171 |
+| Konzul savjetnik | 3,395 |
+| Konzul I | 3,007 |
+| Konzul II | 2,813 |
+| Konzul III | 2,619 |
+| Vicekonzul | 2,425 |
+| Administrativno-tehničko osoblje |  |
+| Tajnica – prevoditelj | 2,522 |
+| Viši stručni referent | 2,231 |
+| Administrativni referent | 2,134 |
+| Djelatnik sigurnosti, domar, vozač | 2,134 |

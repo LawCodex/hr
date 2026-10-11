@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-11-21
-last_amended: 2004-07-13
+last_amended: 2009-03-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 136/2002 (2195) https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2195"
-narodne_novine: "136/02, 95/04"
+narodne_novine: "136/02, 95/04, 152/08, 38/09"
 amendments:
   - "NN 95/2004 (1800) Zakon o izmjenama i dopuni Zakona o posebnom porezu na duhanske proizvode"
+  - "NN 152/2008 (4158) Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode"
+  - "NN 38/2009 (849) Zakon o izmjeni Zakona o posebnom porezu na duhanske proizvode"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2195"
 retrieved: 2026-10-12
 ---
@@ -24,7 +26,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 136/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2195).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 95/2004.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 95/2004, NN 152/2008, NN 38/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -519,3 +521,143 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode (NN 152/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/152/4158*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POSEBNOM POREZU NA DUHANSKE PROIZVODE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2008. godine.
+
+Klasa: 011-01/08-01/195
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 18. prosinca 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POSEBNOM POREZU NA DUHANSKE PROIZVODE**
+
+### Članak 1.
+
+U Zakonu o posebnom porezu na duhanske proizvode (»Narodne novine«, br. 51/94., 56/95., 67/99., 105/99., 55/00., 107/01. i 95/04.) u članku 8. točka 1. mijenja se i glasi:
+
+»1. za cigarete – 1.000 komada cigareta dužine 9 cm bez usnika ili filtra i maloprodajna cijena cigareta,«.
+
+### Članak 2.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»(1) Posebni porez na cigarete plaća se kao dvokomponentni posebni porez i to kao specifični posebni porez propisan u određenom iznosu za količinu od 1.000 komada cigareta i kao proporcionalni posebni porez propisan u određenom postotku od maloprodajne cijene cigareta i to kako slijedi:
+
+1. na cigarete skupine A:
+
+– specifični posebni porez 175,00 kn za 1000 komada cigareta,
+
+– proporcionalni posebni porez 30% od maloprodajne cijene.
+
+2. na cigarete skupine B:
+
+– specifični posebni porez 197,50 kn za 1000 komada cigareta,
+
+– proporcionalni posebn i porez 30% od maloprodajne cijene.
+
+3. na cigarete skupine C:
+
+– specifični posebni porez 310,00 kn za 1000 komada cigareta,
+
+– proporcionalni posebni porez 30% od maloprodajne cijene.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Posebni porez na cigarete iz stavka 1. ovoga članka, od 1. siječnja 2010. na cigarete skupine A, B i C plaća se kako slijedi:
+
+– specifični posebni porez 225,00 kn za 1000 komada cigareta,
+
+– proporcionalni posebni porez 30% od maloprodajne cijene.«
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Iznosi posebnog poreza na cigarete iz stavka 1. i 2. ovoga članka povećavaju se ako je dužina cigarete bez filtra ili usnika veća od 9 cm, s time da se broj cigareta za izračun specifičnog posebnog poreza na cigarete, utvrđuje tako da se dužina smotuljka duhana podijeli sa brojem 9 i dobiveni iznos zaokruži na prvi cijeli, veći broj.«
+
+U dosadašnjem stavku 4., koji postaje stavak 5., brojka: »2.« zamjenjuje se brojkom »3.«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2009.
+
+Klasa: 410-19/08-01/02
+
+Zagreb, 15. prosinca 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o posebnom porezu na duhanske proizvode (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/849*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POSEBNOM POREZU NA DUHANSKE PROIZVODE
+
+Proglašavam Zakon o izmjeni Zakona o posebnom porezu na duhanske proizvode, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/54
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POSEBNOM POREZU NA DUHANSKE PROIZVODE**
+
+### Članak 1.
+
+U Zakonu o posebnom porezu na duhanske proizvode (»Narodne novine«, br. 51/94., 56/95., 67/99., 105/99., 55/00., 107/01., 95/04. i 152/08.) u članku 9. stavak 2. mijenja se i glasi:
+
+»(2) Posebni porez na cigarete iz stavka 1. ovoga članka, od 1. lipnja 2009. godine na cigarete skupine A, B i C plaća se kako slijedi:
+
+– specifični posebni porez 180,00 kn za 1000 komada cigareta,
+
+– proporcionalni posebni porez 30% od maloprodajne cijene.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 410-19/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

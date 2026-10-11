@@ -299,11 +299,11 @@ Ivan Vekić, v. r.
 
 *Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/942*
 
-### ISPRAVCI
+ISPRAVCI
 
 Nakon izvršenog uspoređivanja s izvornim tekstom utvrđene su pogreške u Zakonu o prodaji stanova na kojima postoji stanarsko pravo koji je objavljen u "Narodnim novinama", broj 27 od 11. lipnja 1991, te se daje
 
-### ISPRAVAK
+ISPRAVAK
 
 ### Zakona o prodaji stanova na kojima postoji stanarsko pravo
 

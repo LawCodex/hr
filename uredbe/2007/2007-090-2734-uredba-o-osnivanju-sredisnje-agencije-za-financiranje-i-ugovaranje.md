@@ -6,13 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-08-29
-last_amended: 2007-11-06
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2016-03-18
+status: in_force
+status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "90/07, 114/07"
+narodne_novine: "90/07, 114/07, 29/12, 56/13, 24/16"
 amendments:
   - "NN 114/2007 (3343) Uredba o izmjenama Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
+  - "NN 29/2012 (690) Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
+  - "NN 56/2013 (1153) Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
+  - "NN 24/2016 (664) Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2734"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 90/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2734).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2007, NN 29/2012, NN 56/2013, NN 24/2016.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -169,3 +172,186 @@ Potpredsjednica Vlade
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
 Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (NN 29/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/29/690*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 23. veljače 2012. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O OSNIVANJU SREDIŠNJE AGENCIJE ZA FINANCIRANJE I UGOVARANJE PROGRAMA I PROJEKATA EUROPSKE UNIJE**
+
+### Članak 1.
+
+U Uredbi o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (»Narodne novine«, br. 90/2007 i 114/2007), u članku 3. stavak 1. mijenja se i glasi:
+
+»(1) Osnivač Agencije je Republika Hrvatska. Osnivačka prava i dužnosti u ime osnivača obavlja ministarstvo nadležno za regionalni razvoj i fondove Europske unije.«.
+
+### Članak 2.
+
+U članku 7. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ministar regionalnoga razvoja i fondova Europske unije po položaju je predsjednik Upravnog vijeća, a jedan član Upravnog vijeća po položaju je Nacionalni dužnosnik za ovjeravanje.
+
+(3) Drugi član Upravnog vijeća predstavnik je ministarstva regionalnoga razvoja i fondova Europske unije.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Predsjednika i člana Upravnog vijeća iz stavka 2. ovoga članka imenuje i razrješava Vlada Republike Hrvatske, a člana Upravnog vijeća iz stavka 3. ovoga članka Vlada Republike Hrvatske imenuje na prijedlog ministra nadležnog za regionalni razvoj i fondove Europske unije, na razdoblje od četiri godine.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+### Članak 3.
+
+U članku 8. stavak 4. mijenja se i glasi:
+
+»(4) Ravnatelja Agencije imenuje i razrješava Upravno vijeće nakon provedenog javnog natječaja, na razdoblje od četiri godine.«.
+
+### Članak 4.
+
+Članak 13. mijenja se i glasi:
+
+»Nadzor nad zakonitošću rada Agencije obavlja ministarstvo nadležno za regionalni razvoj i fondove Europske unije.«.
+
+### Članak 5.
+
+Vlada Republike Hrvatske će, u roku od 30 dana od stupanja na snagu ove Uredbe, imenovati predsjednika i članove Upravnog vijeća Agencije, u skladu s člankom 2. ove Uredbe.
+
+Danom imenovanja predsjednika i članova Upravnog vijeća, u skladu s člankom 2. ove Uredbe, prestaje mandat dosadašnjem predsjedniku i članovima Upravnog vijeća.
+
+Upravno vijeće će, u roku od 60 dana od dana imenovanja u skladu s člankom 2. ove Uredbe, raspisati natječaj za imenovanje ravnatelja Agencije, u skladu s člankom 3. ove Uredbe.
+
+Do imenovanja ravnatelja Agencije u skladu s člankom 3. ove Uredbe, a po prestanku mandata dosadašnjem ravnatelju Agencije, poslove ravnatelja Agencije obavljat će vršitelj dužnosti kojeg će imenovati Upravno vijeće.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 910-04/12-05/01
+
+Urbroj: 5030125-12-1
+
+Zagreb, 23. veljače 2012.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (NN 56/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1153*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 9. svibnja 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O OSNIVANJU SREDIŠNJE AGENCIJE ZA FINANCIRANJE I UGOVARANJE PROGRAMA I PROJEKATA EUROPSKE UNIJE**
+
+### Članak 1.
+
+U Uredbi o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (»Narodne novine«, br. 90/2007, 114/2007 i 29/2012), u članku 2. stavku 2. podstavak 3. mijenja se i glasi:
+
+»– priprema i provodi natječaje, sklapa ugovore o potpori i ugovore o nabavi usluga, robe i radova, vezanih uz sustav provedbe programa Europske unije u Republici Hrvatskoj, te je odgovorna za ugovornu administraciju;«.
+
+Iza podstavka 7. dodaje se novi podstavak 8. koji glasi:
+
+»– obavlja poslove provedbe strukturnih instrumenata sukladno Zakonu o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 78/2012) i Uredbi o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 97/2012);«.
+
+Dosadašnji podstavak 8. postaje podstavak 9.
+
+### Članak 2.
+
+Članak 8. mijenja se i glasi:
+
+»Članak 8.
+
+(1) Agenciju zastupa i predstavlja ravnatelj Agencije.
+
+(2) Ravnatelj organizira i vodi rad i poslovanje Agencije, poduzima sve pravne radnje u ime i za račun Agencije, zastupa Agenciju u svim postupcima pred sudovima, upravnim i drugim državnim tijelima te pravnim osobama s javnim ovlastima, a u granicama svojih ovlasti može dati punomoć drugoj osobi za zastupanje Agencije u pravnom prometu.
+
+(3) Ravnatelj Agencije ne može, bez posebne ovlasti Upravnog vijeća ili osnivača ustanove, nastupati kao druga ugovorna strana i s Agencijom sklapati ugovore u svoje ime i za svoj račun, u svoje ime a za račun drugih osoba, ili u ime i za račun drugih osoba.
+
+(4) Ravnatelj Agencije imenuje se na temelju javnog natječaja koji se objavljuje u javnim glasilima u skladu sa Zakonom o ustanovama. Ravnatelja Agencije imenuje i razrješuje Vlada Republike Hrvatske, na prijedlog ministra nadležnog za regionalni razvoj i fondove Europske unije.
+
+(5) Ravnatelj Agencije imenuje se na vrijeme od četiri godine.
+
+(6) Zamjenik ravnatelja Agencije zamjenjuje ravnatelja u slučaju njegove odsutnosti ili spriječenosti i obavlja druge poslove određene Statutom i drugim općim aktima Agencije.
+
+(7) Zamjenika ravnatelja imenuje i razrješuje Vlada Republike Hrvatske, na prijedlog ministra nadležnog za regionalni razvoj i fondove Europske unije.
+
+(8) Zamjenik ravnatelja Agencije imenuje se na vrijeme od četiri godine.
+
+(9) Uvjeti za ravnatelja i zamjenika ravnatelja Agencije, te druga pitanja u svezi s imenovanjem i razrješenjem ravnatelja i zamjenika ravnatelja utvrđuju se Statutom Agencije.«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-03/55
+
+Urbroj: 50301-05/16-13-2
+
+Zagreb, 9. svibnja 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (NN 24/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/24/664*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/08), Vlada Republike Hrvatske je na sjednici održanoj 16. ožujka 2016. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU SREDIŠNJE AGENCIJE ZA FINANCIRANJE I UGOVARANJE PROGRAMA I PROJEKATA EUROPSKE UNIJE**
+
+### Članak 1.
+
+U Uredbi o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (»Narodne novine«, br. 90/07, 114/07, 29/12 i 56/13), članak 2. mijenja se i glasi:
+
+»(1) Djelatnost Agencije je upravljanje programima i projektima Europske unije te upravljanje programima i projektima regionalnoga razvoja.
+
+(2) U obavljanju djelatnosti iz stavka 1. ovoga članka, Agencija:
+
+– priprema i provodi nabavu odnosno raspisuje pozive, sklapa i provodi ugovore o nabavi robe, radova, usluga i ugovore o bespovratnim sredstvima, odobrava i vrši plaćanja i prati tijek financijskih sredstava te nadzire provedbu programa i projekata prema pravilima financijskog upravljanja i kontrole koja se primjenjuju na proračun Europske unije u skladu s međunarodnim sporazumima
+
+– obavlja funkcije dodijeljene u skladu s važećim zakonima i podzakonskim propisima koji uređuju provedbu strukturnih instrumenata u Republici Hrvatskoj u okviru višegodišnjeg proračuna Europske unije za razdoblje 2007. – 2013.
+
+– obavlja funkcije dodijeljene u skladu s važećim zakonima i podzakonskim propisima koji uređuju provedbu europskih strukturnih i investicijskih fondova u Republici Hrvatskoj u okviru višegodišnjeg proračuna Europske unije za razdoblje 2014. – 2020.
+
+– obavlja aktivnosti vezane uz provedbu twinning instrumenta te u tome surađuje s tijelima Europske komisije, državama članicama Europske unije i zemljama korisnicama twinning instrumenta
+
+– organizira i provodi izobrazbu vezano uz svoju djelatnost te informira o programima koje provodi
+
+– vrši kontrolu ispravnosti izdataka hrvatskih projektnih partnera u skladu s međunarodnim sporazumima
+
+– obavlja poslove upravljačkog i kontrolnog tijela za programe Europske teritorijalne suradnje
+
+– provodi aktivnosti kojima doprinosi ostvarenju ciljeva politike regionalnoga razvoja utvrđenih u planskim dokumentima politike regionalnoga razvoja središnje razine
+
+– obavlja i druge poslove iz svoga djelokruga.«.
+
+### Članak 2.
+
+Agencija će započeti obavljati djelatnosti iz članka 1. stavka 1., a u svezi obavljanja djelatnosti upravljanja programima i projektima regionalnoga razvoja te djelatnosti iz članka 1. stavka 2. podstavaka 6., 7. i 8. ove Uredbe po provedenom pripajanju Agencije za regionalni razvoj Republike Hrvatske Središnjoj agenciji za financiranje i ugovaranje programa i projekata Europske unije u skladu s Uredbom o pripajanju Agencije za regionalni razvoj Republike Hrvatske Središnjoj agenciji za financiranje i ugovaranje programa i projekata Europske unije (»Narodne novine«, broj 97/15).
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-03/05
+
+Urbroj: 50301-05/05-16-4
+
+Zagreb, 16. ožujka 2016.
+
+Predsjednik  
+Tihomir Orešković, v. r.

@@ -28,9 +28,9 @@ retrieved: 2026-10-12
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim odluku o proglašenju zakona o hrvatskim državnim nagradama za znanost
 
-**ZAKON**
+ZAKON
 
-**O HRVATSKIM DRŽAVNIM NAGRADAMA ZA ZNANOST**
+O HRVATSKIM DRŽAVNIM NAGRADAMA ZA ZNANOST
 
 Koji je zastupnički dom sabora republike hrvatske donio na sjednici 13. Prosinca 1995.
 
@@ -38,23 +38,23 @@ Broj: 01-95-2118/1
 
 Zagreb, 19. prosinca 1995.
 
-*Predsjednik Republike Hrvatske*
+Predsjednik Republike Hrvatske
 
 dr. Franjo Tuđman, v. r.
 
-## Zakon
+**Zakon**
 
-## o hrvatskim državnim nagradama za znanost
+**o hrvatskim državnim nagradama za znanost**
 
 I. OPĆE ODREDBE
 
-### Članak 1.
+## Članak 1.
 
 Državne nagrade za znanost podjeljuje Republika Hrvatska za iznimno značajna dostignuća u znanstvenoistraživačkoj djelatnosti, za proširenje znanstvenih spoznaja i za znatna ostvarenja u primjeni rezultata znanstvenoistraživačkog rada, koja su postigli znanstvenici, istraživači i znanstveni novaci (u daljnjem tekstu: predloženici za nagradu).
 
 Nagrade iz stavka 1. ovoga članka podjeljuju se državljanima Republike Hrvatske.
 
-### Članak 2.
+## Članak 2.
 
 Državne nagrade za znanost (u daljnjem tekstu: nagrade) su:
 
@@ -70,15 +70,15 @@ Kad se godišnja nagrada podjeljuje skupini znanstvenika, svakom od nagrađenih 
 
 II. NAGRADE
 
-### Članak 3.
+## Članak 3.
 
 Nagrada za životno djelo podjeljuje se istaknutim znanstvenicima za cjelokupni znanstvenoistraživački rad koji predstavlja osobni doprinos u proširenju znanstvenih spoznaja i primjeni rezultata znanstvenoistraživačke djelatnosti.
 
-### Članak 4.
+## Članak 4.
 
 Godišnja nagrada za popularizaciju i promidžbu podjeljuje se za doprinos u širenju spoznaja o znanosti koja se očituje u popularnoj prezentaciji vrijednih stručnih i znanstvenih publikacija i drugim oblicima prezentacije.
 
-### Članak 5.
+## Članak 5.
 
 Godišnja nagrada podjeljuje se za:
 
@@ -90,7 +90,7 @@ Godišnja nagrada podjeljuje se za:
 
 - primjenu rezultata znanstvenoistraživačkog rada.
 
-### Članak 6.
+## Članak 6.
 
 Nagrade za životno djelo i godišnje nagrade podjeljuju se za sljedeća znanstvena područja:
 
@@ -106,7 +106,7 @@ Nagrade za životno djelo i godišnje nagrade podjeljuju se za sljedeća znanstv
 
 - humanističkih znanosti.
 
-### Članak 7.
+## Članak 7.
 
 Svake godine može se podijeliti do šest nagrada za životno djelo.
 
@@ -114,43 +114,43 @@ Svake godine mogu se podijeliti do tri godišnje nagrade za svako znanstveno pod
 
 Svake godine mogu se podijeliti tri nagrade za popularizaciju i promidžbu znanosti.
 
-### Članak 8.
+## Članak 8.
 
 Godišnja nagrada za značajno znanstveno dostignuće podjeljuje se znanstvenicima i istraživačima za istaknuti znanstveni rad, ili niz znanstvenih radova koji čine cjelinu, a znatno pridonose proširenju znanstvenih spoznaja.
 
 Godišnja nagrada može se podijeliti i za istaknuto znanstveno djelo objavljeno tijekom protekle dvije godine ili za uspjeh u primjeni rezultata vlastitog znanstvenoistraživačkog rada.
 
-### Članak 9.
+## Članak 9.
 
 Godišnja nagrada za znanstveno otkriće podjeljuje se za međunarodno prepoznati znanstveni rad koji je proizveo znakoviti pomak u znanstvenom području.
 
-### Članak 10.
+## Članak 10.
 
 Godišnja nagrada za istaknuti rad znanstvenih novaka podjeljuje se znanstvenim novacima koji su se posebno istakli u znanstvenom radu, objavili zapaženi članak u međunarodnom znanstvenom časopisu ili knjigu.
 
-### Članak 11.
+## Članak 11.
 
 Godišnja nagrada za primjenu rezultata znanstvenoistraživačkog rada podjeljuje se za značajna tehnološka dostignuća koja se očituju u posebnoj kakvoći ili rasprostranjenosti.
 
 III. POSTUPAK DODJELE NAGRADA
 
-### Članak 12.
+## Članak 12.
 
 Nagrade se podjeljuju svake gdine za Dan državnosti Republike Hrvatske.
 
-### Članak 13.
+## Članak 13.
 
 Natječaj za podjelu nagrada raspisuje Odbor za podjelu državnih nagrada za znanost (u daljnjem tekstu : Odbor).
 
 Natječaj iz stavka l. ovoga članka objavljuje se u "Narodnim novinama" i javnim glasilima.
 
-### Članak 14.
+## Članak 14.
 
 Nagrade podjeljuje Sabor Republike Hrvatske prema prijedlogu Odbora.
 
 Odluka Sabora Republike Hrvatske o podjeli nagrada objavljuje se u "Narodnim novinama" i javnim glasilima.
 
-### Članak 15.
+## Članak 15.
 
 Odbor sačinjavaju : predsjednik Zastupničkog doma Sabora Republike Hrvatske, koji je ujedno i predsjednik Odbora, ministar znanosti i tehnologije i 12 članova iz reda istaknutih znanstvenih djelatnika koje na prijedlog ministra znanosti i tehnologije (u daljnjem tekstu: ministar) imenuje Zastupnički dom Sabora Republike Hrvatske.
 
@@ -158,25 +158,25 @@ Mandat Odbora traje četiri godine.
 
 Odbor donosi Poslovnik o radu.
 
-### Članak 16.
+## Članak 16.
 
 Za svako znanstveno područje iz članka 6. ovoga Zakona Odbor osniva stručno povjerenstvo.
 
 Stručna povjerenstva iz stavka 1. ovoga članka daju Odboru mišljenje o predloženicima za podjelu nagrada i obavljaju druge poslove sukladno Poslovniku o radu Odbora.
 
-### Članak 17.
+## Članak 17.
 
 Poticaj za pokretanje postupka za podjelu nagrada mogu dati: znanstvenoistraživački instituti, sveučilišta, fakulteti, sveučilišni odjeli i centri, znanstvene udruge, druge pravne osobe koje su posebnim zakonom ovlaštene obavljati znanstvenoistraživačku djelatnost kao i skupine uglednih znanstvenih djelatnika.
 
 Poticaj za pokretanje postupka upućuje se Odboru putem Ministarstva znanosti i tehnologije (u daljnjem tekstu : Ministarstvo) na temelju objavljenog natječaja za podjelu nagrada.
 
-### Članak 18.
+## Članak 18.
 
 Provedbeni propis koji pobliže određuje: osnivanje i rad stručnih povjerenstava, način raspisivanja natječaja za podjelu nagrada, način predlaganja predloženika za podjelu nagrada, kriterije i postupak za podjelu nagrada, visinu novčanih iznosa nagrada, izgled i opis povelje i druga pitanja značajna za postupak podjele nagrada, donosi Odbor na prijedlog ministra.
 
 Prijedlog provedbenog propisa utvrđuje ministar po prethodno pribavljenom mišljenju nadležnog radnog tijela Zastupničkog doma Sabora Republike Hrvatske.
 
-### Članak 19.
+## Članak 19.
 
 Ako predloženik za nagradu umre nakon donošenja odluke o podjeli nagrade, novčani iznos nagrade predat će se njegovim nasljednicima prema Zakonu o nasljeđivanju, a povelja će se uručiti njegovom bračnom drugu.
 
@@ -186,25 +186,25 @@ U skladu sa stavkom 1. i 2. ovoga članka postupit će se i u slučaju kada se p
 
 Ako predloženik za nagradu nema nasijednika, ili su nasljednici nepoznati, nagrada se predaje pravnim ili fizičkim osobama koje su dale poticaj za pokretanje postupka za podjelu nagrade.
 
-### Članak 20.
+## Članak 20.
 
 Sredstva za nagrade i materijale troškova oko podjele nagrada, osiguravaju se u pravnom proračunu Republike Hrvatske za tekuću godinu, putem Ministarstva.
 
 Naredbodavac izvršenja financijskog plana je ministar.
 
-### Članak 21.
+## Članak 21.
 
 Stručne i administrativne poslove za rad Odbora i postupak podjele nagrada obavlja ministarstvo.
 
 IV. PRIJELAZNE I ZAVRŠNE ODREDBE
 
-### Članak 22.
+## Članak 22.
 
 Posebni provedbeni propis iz članka 18. ovoga Zakona Odbor će donijeti u roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona.
 
 Odbor će donijeti Poslovnik o radu iz članka 15. slavka 3. ovoga Zakona u roku od 30 dana od dana imenovanja svih članova Odbora.
 
-### Članak 23.
+## Članak 23.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
 

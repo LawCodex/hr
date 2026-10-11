@@ -6,16 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-07-23
-last_amended: 2006-12-27
+last_amended: 2008-07-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "87/02, 117/03, 82/04, 85/06, 141/06"
+narodne_novine: "87/02, 117/03, 82/04, 85/06, 141/06, 85/08"
 amendments:
   - "NN 117/2003 (1641) Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu"
   - "NN 82/2004 (1616) Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu"
   - "NN 85/2006 (2021) Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu"
   - "NN 141/2006 (3191) Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu"
+  - "NN 85/2008 (2733) Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/87/1445"
 retrieved: 2026-10-12
 ---
@@ -24,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 87/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/87/1445).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2003, NN 82/2004, NN 85/2006, NN 141/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2003, NN 82/2004, NN 85/2006, NN 141/2006, NN 85/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -7245,3 +7246,553 @@ Vladimir Šeks, v. r.
 
 _______  
 \* osim duhana, sjemena duhana i uljane repice za proizvodnju biodizela
+
+## Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (NN 85/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2733*
+
+HRVATSKI SABOR
+
+2733
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ POTPORI U POLJOPRIVREDI, RIBARSTVU I ŠUMARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu, kojega je Hrvatski sabor donio na sjednici 9. srpnja 2008. godine.  
+Klasa: 011-01/08-01/94  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 15. srpnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+### ZAKON
+
+### O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ POTPORI U POLJOPRIVREDI, RIBARSTVU I ŠUMARSTVU
+
+Članak 1.  
+U Zakonu o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04., 12/05. – ispravak, 85/06., 141/06. i 134/07.) naziv Zakona mijenja se i glasi: »Zakon o državnoj potpori u poljoprivredi i ribarstvu«.  
+Članak 2.  
+U članku 3. stavku 7. riječ: »dvije« zamjenjuje se riječju: »jedne«.  
+Članak 3.  
+U članku 4. stavku 3. riječi: »Ministarstvu poljoprivrede i šumarstva« zamjenjuju se riječima: »Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja« (u daljnjem tekstu: Ministarstvo).  
+Članak 4.  
+U članku 12. riječi: »1. siječnja 2008.« zamjenjuju se riječima: »1. siječnja 2010. », a riječi: »i šumarstva« brišu se.  
+Članak 5.  
+U članku 14. točki 7. iza riječi: »repa bijela« dodaje se riječ: »krumpir«.  
+Točka 9. mijenja se i glasi:  
+»9. sjemenski usjevi jesu usjevi pšenice, pšenoraži, raži, ječma, zobi, kukuruza, šećerne repe, soje, suncokreta, uljane repice, duhana, krumpira, krmnog bilja, povrća i ostalog bilja za koje je u skladu s posebnim propisom Zavod za sjemenarstvo i rasadničarstvo izdao Certifikat o sjemenu na pakiranju i Certifikat o sjemenu uz otpremnicu, ili je za najniže kategorije sjemena dobavljač izdao Certifikat proizvođača,«.  
+Članak 6.  
+U članku 15. stavku 1. riječi: »poljoprivredi, ribarstvu i šumarstvu« zamjenjuju se riječima: »poljoprivredi i ribarstvu«.  
+U stavku 2. riječi: »poljoprivrede, šumarstva i vodnoga gospodarstva« zamjenjuju se riječima: »poljoprivrede, ribarstva i ruralnog razvoja«.  
+Članak 7.  
+U članku 16. stavku 1. riječ: »deklariranog« zamjenjuje se riječju: »nadziranog«.  
+Članak 8.  
+Članak 21. mijenja se i glasi:  
+»(1) Korisnici poticaja za sjemenske usjeve jesu poljoprivredna gospodarstva upisana u Upisnik dobavljača sjemena.  
+(2) Usjev za koji se ostvaruje poticaj mora biti priznat sjemenskim nakon obavljenoga nadzora Zavoda za sjemenarstvo i rasadničarstvo ili dobavljača kojem je Zavod odobrio obavljanje nadzora pod stručnom kontrolom sukladno posebnom propisu.«  
+Članak 9.  
+Članak 22. mijenja se i glasi:  
+»Poticaj za sjemenske usjeve isplaćuje se korisniku jednokratno, a na temelju zahtjeva i dokumenata koje će ministar propisati posebnim propisom.«  
+Članak 10.  
+Članak 25. mijenja se i glasi:  
+»(1) Korisnici poticaja za proizvodnju sadnog materijala jesu proizvođači upisani u Upisnik dobavljača sadnog materijala.  
+(2) Poticaj za proizvodnju sadnog materijala iz stavka 1. ovoga članka ostvaruje se za cijepove vinove loze, sadnice voćnih vrsta skupine I. i skupine II. i maslina proizvedenih u Republici Hrvatskoj.  
+(3) Poticaj za proizvodnju sadnog materijala korisnici poticaja ostvaruju na temelju zahtjeva i dokumenata koje će ministar propisati posebnim propisom.«  
+Članak 11.  
+U članku 35.a brojka: »100« zamjenjuje se brojkom: »80«.  
+Članak 12.  
+Članak 48.b mijenja se i glasi:  
+»(1) Korisnici potpore dohotku II. skupine jesu nekomercijalna gospodarstva čiji nositelj ili član ne udovoljava uvjetima za ostvare­nje potpore dohotku iz I. skupine, a u trenutku podnošenja zahtjeva za potporu dohotku:  
+– korisnik je mirovine kao poljoprivrednik ili  
+– nezaposlen je ili  
+– ima status osiguranika mirovinskog osiguranja u svojstvu poljoprivrednika ili  
+– ima najmanje 65 godina starosti, a ne ostvaruje dohodak po osnovi samostalnog ili nesamostalnog rada niti mirovinu.  
+(2) Iznos godišnje potpore dohotku za II. skupinu korisnika iznosi 5.000,00 kuna po nositelju ili članu nekomercijalnoga gospodarstva, a najviše 10.000,00 kuna po poljoprivrednom gospodarstvu.«  
+Članak 13.  
+U članku 50. stavku 1. riječi: »ili šumarstvom« brišu se.  
+U stavku 2. točka 2. briše se.  
+Dosadašnja točka 3. postaje točka 2.  
+Članak 14.  
+Članak 51. mijenja se i glasi:  
+»(1) Korisnici prava na nepovratna sredstva u sklopu modela kapitalnih ulaganja jesu poljoprivredna gospodarstva te fizičke i pravne osobe koje se bave ribarstvom.  
+(2) Nepovratna sredstva u smislu modela kapitalnih ulaganja odnose se na udio sredstava iz državnog proračuna kojima Ministarstvo sudjeluje u financiranju ukupne vrijednosti investicije.  
+(3) Zahtjev za odobrenje nepovratnih investicijskih sredstava podnosi se Ministarstvu.  
+(4) Odluku o odobrenju nepovratnih sredstava donosi ministar.  
+(5) Ministar imenuje i propisuje način rada Povjerenstva za praćenje modela kapitalnih ulaganja koje prati provedbu te predlaže ministru poboljšanja u provedbi modela te Povjerenstva za prigovore koje predlaže ministru donošenje odluka o prihvaćanju ili odbacivanju prigovora.  
+(6) Uvjete i način podnošenja zahtjeva, najviše i najniže iznose nepovratnih sredstava, udjele nepovratnih sredstava u ukupnoj vrijednosti investicije, odnosno kredita kao i ostale uvjete propisat će ministar uz mišljenje Ministarstva financija.«  
+Članak 15.  
+U Dodatku II. ovoga Zakona, osnovno plaćanje po jedinici za krave dojilje mijenja se i glasi: »1.500«.  
+Članak 16.  
+Dodatak III. koji je prilog i sastavni dio Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«. br. 87/02., 117/03., 82/04. – ispravak, 85/06., 141/06. i 134/07.) zamjenjuje se novim Dodatkom III. koji je prilog i sastavni dio ovoga Zakona i objavljuje se uz ovaj Zakon.  
+Članak 17.  
+Odredba članka 2. ovoga Zakona primjenjuje se i na korisnike državne potpore koji su primjenom članka 3. stavka 7. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04., 12/05. – ispravak, 85/06., 141/06. i 134/07.) izgubili mogućnost podnošenja novog zahtjeva na stjecanje prava na državnu potporu određenu Zakonom po proteku dvije godine računajući od dana konačnosti rješenja kojim poljoprivredni inspektor naređuje korisniku povrat sredstava.  
+Članak 18.  
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 320-01/08-01/01  
+Zagreb, 9. srpnja 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+DODATAK III.
+
+<table>
+
+<tr>
+<td>Opis<br> </td>
+<td>Jedinica<br> </td>
+<td>Minimalna poticana količina<br> </td>
+</tr>
+
+<tr>
+<td>Model poticanja proizvodnje<br> </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td colspan="3"><i> Poticanje ratarskih kultura</i><br> </td>
+</tr>
+
+<tr>
+<td>Krušna žita i pivski ječam<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Soja<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Ostala žita<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Uljarice<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Uljana repica za proizvodnju biodizela<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Ostalo industrijsko bilje<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Krmno bilje<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Šećerna repa<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Duhan<br> </td>
+<td>kg<br> </td>
+<td>sva isporučena količina<br> </td>
+</tr>
+
+<tr>
+<td>Povrće<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Povrće za industrijsku preradu<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Merkantilni krumpir<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Ljekovito bilje (za svaku pojedinu kulturu)<br> </td>
+<td>ha<br> </td>
+<td>1,00<br> </td>
+</tr>
+
+<tr>
+<td>Sjemenski usjevi<br> </td>
+<td>ha<br> </td>
+<td>svi priznati usjevi<br> </td>
+</tr>
+
+<tr>
+<td colspan="3"><i> Poticanje sadnog materijala, višegodišnjih nasada i maslinovog ulja</i><br> </td>
+</tr>
+
+<tr>
+<td>Sadni materijal<br> </td>
+<td>kom<br> </td>
+<td>sav priznati sadni materijal<br> </td>
+</tr>
+
+<tr>
+<td>Matičnjaci loznih i voćnih podloga (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,1<br> </td>
+</tr>
+
+<tr>
+<td>Matičnjaci loznih i voćnih plemki (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,1<br> </td>
+</tr>
+
+<tr>
+<td>Vinogradi (godišnja plaćanja)<br> </td>
+<td>ha<br> </td>
+<td>0,25<br> </td>
+</tr>
+
+<tr>
+<td>Vinogradi (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,25<br> </td>
+</tr>
+
+<tr>
+<td>Voćarstvo (godišnja plaćanja)<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Jagode i hmelj (godišnja plaćanja)<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Voćarstvo I. skupina i hmelj (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Voćarstvo II. skupina (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Masline<br> </td>
+<td>stablo<br> </td>
+<td>30<br> </td>
+</tr>
+
+<tr>
+<td>Prerada ploda masline<br> </td>
+<td>kg<br> </td>
+<td>800<br> </td>
+</tr>
+
+<tr>
+<td>Masline (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,50<br> </td>
+</tr>
+
+<tr>
+<td>Maslinovo ulje<br> </td>
+<td>litra<br> </td>
+<td>100<br> </td>
+</tr>
+
+<tr>
+<td>Lavanda i buhač (godišnja plaćanja)<br> </td>
+<td>ha<br> </td>
+<td>0,25<br> </td>
+</tr>
+
+<tr>
+<td>Lavanda (podizanje nasada)<br> </td>
+<td>ha<br> </td>
+<td>0,25<br> </td>
+</tr>
+
+<tr>
+<td colspan="3">Poticanje stočarstva i stočarskih proizvoda<br> </td>
+</tr>
+
+<tr>
+<td>Mlijeko (kravlje)<br> </td>
+<td>litra<br> </td>
+<td>6.000<br> </td>
+</tr>
+
+<tr>
+<td>Mlijeko (ovčje i kozje)<br> </td>
+<td>litra<br> </td>
+<td>500<br> </td>
+</tr>
+
+<tr>
+<td>Utovljena junad<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Utovljena telad za bijelo meso<br> </td>
+<td>grlo<br> </td>
+<td>10<br> </td>
+</tr>
+
+<tr>
+<td>Utovljene svinje<br> </td>
+<td>grlo<br> </td>
+<td>10<br> </td>
+</tr>
+
+<tr>
+<td>Utovljeni kunići<br> </td>
+<td>kom.<br> </td>
+<td>500<br> </td>
+</tr>
+
+<tr>
+<td>Mliječne krave<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Prvotelke<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Krave u sustavu krava-tele<br> </td>
+<td>grlo<br> </td>
+<td>10<br> </td>
+</tr>
+
+<tr>
+<td>Krave dojilje<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Ovce i ovnovi, odnosno koze i jarčevi za rasplod<br> </td>
+<td>grlo<br> </td>
+<td>10<br> </td>
+</tr>
+
+<tr>
+<td>Rasplodne krmače<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Rasplodne kobile i pastusi<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Prvoždrepke<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Roditeljske rasplodne pilenke<br> </td>
+<td>kom.<br> </td>
+<td>1.000<br> </td>
+</tr>
+
+<tr>
+<td>Pčelinje zajednice<br> </td>
+<td>košnica<br> </td>
+<td>30<br> </td>
+</tr>
+
+<tr>
+<td>Med<br> </td>
+<td>kg<br> </td>
+<td>450<br> </td>
+</tr>
+
+<tr>
+<td>Matice pčela<br> </td>
+<td>komada<br> </td>
+<td>100<br> </td>
+</tr>
+
+<tr>
+<td>Ženke uzgojno valjanih kunića<br> </td>
+<td>komada<br> </td>
+<td>25<br> </td>
+</tr>
+
+<tr>
+<td colspan="3">Poticanja ekološke proizvodnje<br> </td>
+</tr>
+
+<tr>
+<td>Ekološka proizvodnje (ukupno za sve kulture)<br> </td>
+<td>ha<br> </td>
+<td>0,25<br> </td>
+</tr>
+
+<tr>
+<td colspan="3">Poticanje ribarstva<br> </td>
+</tr>
+
+<tr>
+<td>Uzgoj autohtonih vrsta bijele morske ribe<br> </td>
+<td>kg<br> </td>
+<td>3.000<br> </td>
+</tr>
+
+<tr>
+<td>Uzgoj školjaka – dagnje<br> </td>
+<td>kg<br> </td>
+<td>3.000<br> </td>
+</tr>
+
+<tr>
+<td>Uzgoj školjaka – kamenice<br> </td>
+<td>kom.<br> </td>
+<td>3.000<br> </td>
+</tr>
+
+<tr>
+<td>Riblja mlađ<br> </td>
+<td>kom.<br> </td>
+<td>100.000<br> </td>
+</tr>
+
+<tr>
+<td>Uzgoj slatkovodne ribe I. skupine<br> </td>
+<td>kg<br> </td>
+<td>3.000<br> </td>
+</tr>
+
+<tr>
+<td>Uzgoj slatkovodne ribe II. skupine<br> </td>
+<td>kg<br> </td>
+<td>2.000<br> </td>
+</tr>
+
+<tr>
+<td>Ulov male plave ribe<br> </td>
+<td>kg<br> </td>
+<td>10.000<br> </td>
+</tr>
+
+<tr>
+<td>Riblji proizvodi I. skupine<br> </td>
+<td>kg<br> </td>
+<td>250<br> </td>
+</tr>
+
+<tr>
+<td>Riblji proizvodi II. skupine<br> </td>
+<td>kg<br> </td>
+<td>1.000<br> </td>
+</tr>
+
+<tr>
+<td>Riblji proizvodi III. skupine<br> </td>
+<td>kg<br> </td>
+<td>2.000<br> </td>
+</tr>
+
+<tr>
+<td>Riblji proizvodi IV. skupine<br> </td>
+<td>kg<br> </td>
+<td>3.000<br> </td>
+</tr>
+
+<tr>
+<td>Model ruralnog razvitka<br> </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td colspan="3"><i> Program očuvanja izvornih i zaštićenih pasmina</i><br> </td>
+</tr>
+
+<tr>
+<td>Goveda<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Konji<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Svinje<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Ovce<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Koze<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Magarci<br> </td>
+<td>grlo<br> </td>
+<td>1<br> </td>
+</tr>
+
+<tr>
+<td>Kokoš hrvatica<br> </td>
+<td>kljun<br> </td>
+<td>5<br> </td>
+</tr>
+
+<tr>
+<td>Zagorski puran<br> </td>
+<td>kljun<br> </td>
+<td>5<br> </td>
+</tr>
+
+</table>

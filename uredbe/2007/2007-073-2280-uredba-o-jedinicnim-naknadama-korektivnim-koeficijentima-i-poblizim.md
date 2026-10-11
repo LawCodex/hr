@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-07-16
+last_amended: 2009-04-17
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "73/07"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "73/07, 48/09"
+amendments:
+  - "NN 48/2009 (1069) Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/73/2280"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida
 
 > Izvor: Narodne novine, NN 73/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/73/2280).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -244,4 +248,71 @@ Zagreb, 10. srpnja 2007.
 
 Predsjednik
 
+dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (NN 48/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/48/1069*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 17. stavka 1. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, broj 107/2003), Vlada Republike Hrvatske je na sjednici održanoj 9. travnja 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O JEDINIČNIM NAKNADAMA, KOREKTIVNIM KOEFICIJENTIMA I POBLIŽIM KRITERIJIMA I MJERILIMA ZA UTVRĐIVANJE NAKNADE NA EMISIJU U OKOLIŠ UGLJIKOVOG DIOKSIDA**
+
+### Članak 1.
+
+U Uredbi o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (»Narodne novine«, broj 73/2007) u članku 5. stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+### Članak 2.
+
+Članak 6. briše se.
+
+### Članak 3.
+
+U članku 10. stavak 3. mijenja se i glasi:
+
+»(3) Korektivni poticajni koeficijent k3 izračunava se prema postotku uloženih sredstava u povećanje energetske učinkovitosti, korištenje obnovljivih izvora energije i ostale mjere za smanjivanje emisije CO2 i drugih stakleničkih plinova, korištenjem najboljih raspoloživih tehnika, obveznika plaćanja naknade u kalendarskoj godini koja prethodi donošenju rješenja o visini naknade i iznosi:
+
+– za ulaganja do 300.000,00 kuna 1,0
+
+– za ulaganja jednaka ili veća od 300.000,00 kuna
+
+ali manja od 1.000.000,00 kuna 0,9
+
+– za ulaganja jednaka ili veća od 1.000.000,00 kuna
+
+ali manja od 10.000.000,00 kuna 0,8
+
+– za ulaganja jednaka ili veća od 10.000.000,00 kuna
+
+ali manja od 50.000.000,00 kuna 0,7
+
+– za ulaganja veća ili jednaka 50.000.000,00 kuna 0,5«
+
+Stavak 4. briše se.
+
+### Članak 4.
+
+Postupci pokrenuti po Uredbi o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (»Narodne novine«, broj 73/2007), radi naplate naknade po konačnom obračunu za 2007. godinu, dovršit će se prema toj Uredbi.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 351-01/09-01/02
+
+Urbroj: 5030105-09-1
+
+Zagreb, 9. travnja 2009.
+
+Predsjednik  
 dr. sc. Ivo Sanader, v. r.

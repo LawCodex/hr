@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2004-05-10
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "59/04"
-amendments: []
+last_amended: 2013-06-29
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "59/04, 84/11, 81/13"
+amendments:
+  - "NN 84/2011 (1795) Zakon o izmjenama i dopunama Zakon o medijima"
+  - "NN 81/2013 (1707) Zakon o izmjenama i dopunama Zakona o medijima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/59/1324"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o medijima
 
 > Izvor: Narodne novine, NN 59/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/59/1324).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 84/2011, NN 81/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -827,3 +832,231 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakon o medijima (NN 84/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1795*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O MEDIJIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o medijima, koji je Hrvatski sabor donio na sjednici 8. srpnja 2011. godine.
+
+Klasa: 011-01/11-01/154
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 12. srpnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O MEDIJIMA**
+
+### Članak 1.
+
+U Zakonu o medijima (»Narodne novine«, br. 59/04.) u članku 32. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+"(2) Svaki je nakladnik dužan u roku iz stavka 1. ovoga članka dostaviti Hrvatskoj gospodarskoj komori ovjerene preslike isprava o stjecanju dionica ili udjela u tom nakladniku tijekom prethodne godine. Isprave o stjecanju ne dostavljaju se za dionice i udjele do 1% vrijednosti kapitala.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Nakladniku koji ne izvrši obvezu iz stavka 1., 2. i 3. ovoga članka Hrvatska gospodarska komora uputit će pisano upozorenje s navođenjem mogućih sankcija za neizvršenje obveze.«.
+
+Iza dosadašnjeg stavka 4., koji postaje stavak 5., dodaje se stavak 6. koji glasi:
+
+»(6) Zabranjuje se prikrivanje vlasničke strukture nakladnika ili vlasništva stjecatelja dionica ili udjela u pravnoj osobi nakladnika bilo kojim pravnim poslom. Pravni poslovi kojima se prikriva vlasnička struktura nakladnika ili vlasništvo stjecatelja dionica ili udjela u nakladniku su ništetni.«.
+
+### Članak 2.
+
+U članku 59. stavku 1. točka 6. mijenja se i glasi:
+
+»6. niti nakon 15 dana od dana primitka upozorenja iz članka 32. stavka 4. ovoga Zakona, Hrvatskoj gospodarskoj komori ne dostavi podatke i ovjerene preslike isprava iz članka 32. stavka 1., 2. i 3. ovoga Zakona,«.
+
+Iza točke 6. dodaju se nove točke 7. i 8. koje glase:
+
+»7. ne objavi podatke iz članka 32. stavka 5. ovoga Zakona u »Narodnim novinama«,
+
+8. prikrije vlasničku strukturu nakladnika ili vlasništvo stjecatelja dionica ili udjela u pravnoj osobi nakladnika suprotno zabrani iz članka 32. stavka 6. ovoga Zakona,«.
+
+Dosadašnje točke 7., 8., 9., 10. i 11. postaju točke 9., 10., 11., 12. i 13.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 008-02/11-01/06
+
+Zagreb, 8. srpnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o medijima (NN 81/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/81/1707*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O MEDIJIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o medijima, koji je Hrvatski sabor donio na sjednici 28. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/186
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 28. lipnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O MEDIJIMA**
+
+### Članak 1.
+
+U Zakonu o medijima (»Narodne novine«, br. 59/04. i 84/11.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu s Direktivom 2006/123/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o uslugama na unutarnjem tržištu (SL L 376, 27. 12. 2006.).«.
+
+### Članak 2.
+
+Članak 10. briše se.
+
+### Članak 3.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Novinski nakladnik može se u Republici Hrvatskoj osnovati i upisati u sudski ili drugi odgovarajući registar kao pravna ili fizička osoba ako uz uvjete propisane zakonom ima sjedište i uredništvo u Republici Hrvatskoj.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, novinski nakladnik sa sjedištem u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru može trajno obavljati djelatnost novinskog nakladnika u Republici Hrvatskoj ako se upiše u sudski ili drugi odgovarajući registar i ima uredništvo u Republici Hrvatskoj.
+
+(3) Novinski nakladnik sa sjedištem u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru može obavljati djelatnost novinskog nakladnika u Republici Hrvatskoj na privremenoj ili povremenoj osnovi sukladno odredbama Zakona o uslugama.«.
+
+### Članak 4.
+
+U članku 59. stavku 1. iza riječi: »kaznom« dodaju se riječi: »u iznosu od 100.000,00«, a riječi: »ili fizička« brišu se.
+
+U točki 1. iza riječi: »registar,« dodaju se riječi: »sukladno članku 11. stavcima 1. i 2. ovoga Zakona,«.
+
+U točki 2. iza riječi: »članku 14.« dodaju se riječi: »stavku 2.«.
+
+U točki 3. iza riječi: »članka 19.« dodaju se riječi: »stavaka 1. i 2.«.
+
+U točki 4. iza riječi: »članka 20.« dodaju se riječi: »stavaka 1., 3., 4., 5., 7. i 8.«.
+
+Točka 5. mijenja se i glasi:
+
+»5. izda dionice koje ne glase na ime suprotno članku 31. ovoga Zakona,«.
+
+U točki 10. iza riječi: »članka 36.« dodaju se riječi: »stavka 1.«.
+
+Točka 11. mijenja se i glasi:
+
+»11. stječe dionice ili udjele u nakladniku općeinformativnog dnevnika, odnosno tjednika suprotno članku 37. stavku 2. ovoga Zakona,«.
+
+U stavku 2. iza riječi: »kaznom« dodaju se riječi: »u iznosu od 10.000,00«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Ako prekršaj iz stavka 1. ovoga članka počini fizička osoba obrtnik i trgovac pojedinac, kaznit će se novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna.
+
+(4) Ako prekršaj iz stavka 1. točke 1. ovoga članka počini fizička osoba, kaznit će se novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna.«.
+
+### Članak 5.
+
+Članak 60. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba:
+
+1. novinski nakladnik koji na svakome primjerku novina ili druge tiskovine ne otisne impresum, sukladno članku 15. stavku 1. ovoga Zakona,
+
+2. nakladnik koji s osobom od koje naručuje novinarski prilog ne zaključi ugovor sukladno članku 26. stavku 5. ovoga Zakona,
+
+3. nakladnik koji novinaru otkaže ugovor o radu, umanji plaću, odnosno ugovorenu naknadu ili izmijeni položaj u uredništvu suprotno članku 27. stavku 2. i članku 28. stavku 2. ovoga Zakona,
+
+4. koja organizira distribuciju tiska putem kolportera suprotno članku 38. stavku 3. ovoga Zakona,
+
+5. koja javno izlaže i oglašava tiskovine pornografskog sadržaja suprotno članku 39. stavcima 1. i 2. ovoga Zakona,
+
+6. nakladnik koji ne sačuva zapise svih objavljenih programskih sadržaja u propisanom roku, sukladno članku 43. stavku 1. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5.000,00 do 20.000,00 kuna.
+
+(3) Ako prekršaj iz stavka 1. ovoga članka počini fizička osoba obrtnik i trgovac pojedinac, kaznit će se novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna.«.
+
+### Članak 6.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 60.000,00 kuna kaznit će se za prekršaj pravna osoba:
+
+1. novinski nakladnik koji ne prijavi novine ili drugi tisak Hrvatskoj gospodarskoj komori, sukladno članku 12. stavku 1. ovoga Zakona,
+
+2. distributer tiska koji ne podnese prijavu iz članka 12. stavka 4. ovoga Zakona ili istoj ne priloži propisane priloge,
+
+3. novinski nakladnik, odnosno distributer tiska koji Hrvatskoj gospodarskoj komori ne prijavi promjenu podataka navedenih u prijavi novina u roku od osam dana od dana nastanka promjene, sukladno članku 12. stavku 8. ovoga Zakona,
+
+4. nakladnik koji uz informaciju prenesenu iz drugih domaćih i inozemnih medija ne naznači izvor, sukladno članku 18. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 2.000,00 do 8.000,00 kuna.
+
+(3) Ako prekršaj iz stavka 1. ovoga članka počini fizička osoba obrtnik i trgovac pojedinac, kaznit će se novčanom kaznom u iznosu od 5.000,00 do 30.000,00 kuna.«.
+
+### Članak 7.
+
+Članak 62. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 2.000,00 do 40.000,00 kuna kaznit će se za prekršaj fizička osoba:
+
+1. ovlaštena osoba u tijelu ili osobi koja novinaru uskrati informaciju iz djelokruga toga tijela suprotno članku 6. stavcima 2. i 4. ovoga Zakona,
+
+2. glavni urednik koji dozvoli objavu podataka koji mogu otkriti identitet svjedoka ili oštećenika kaznenog djela, suprotno članku 16. stavcima 1. i 2. ovoga Zakona,
+
+3. glavni urednik ako uredničkom obradom teksta, a osobito naslovom bitno promijeni sadržaj ili smisao informacije objavljene u javnome glasilu, suprotno članku 24. stavku 2. ovoga Zakona,
+
+4. glavni urednik koji pisano ne obavijesti tražitelja o razlozima neobjavljivanja ispravka, sukladno članku 42. stavku 5. ovoga Zakona,
+
+5. osoba koja umnoži ili javno objavi presliku zapisa suprotno zabrani iz članka 43. stavka 2. ovoga Zakona, bez suglasnosti nakladnika,
+
+6. glavni urednik koji na temelju pravomoćne presude ne objavi ispravak informacije ili ga ne objavi na propisani način, sukladno članku 51. stavku 4. ovoga Zakona.«.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/145
+
+Zagreb, 28. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

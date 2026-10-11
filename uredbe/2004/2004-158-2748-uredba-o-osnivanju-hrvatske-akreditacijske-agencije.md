@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2004-11-15
-last_amended: 2005-04-05
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2010-03-05
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "158/04, 44/05"
+narodne_novine: "158/04, 44/05, 30/10"
 amendments:
   - "NN 44/2005 (838) Uredba o izmjeni Uredbe o osnivanju Hrvatske akreditacijske agencije"
+  - "NN 30/2010 (705) Uredba o izmjeni Uredbe o osnivanju Hrvatske akreditacijske agencije"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/158/2748"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 158/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/158/2748).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2005, NN 30/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -269,3 +270,36 @@ Zagreb, 31. ožujka 2005.
 Predsjednik
 
 dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Hrvatske akreditacijske agencije (NN 30/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/705*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 4. stavka 1. Zakona o akreditaciji (»Narodne novine«, br. 158/2003 i 75/2009), Vlada Republike Hrvatske je na sjednici održanoj 25. veljače 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU HRVATSKE AKREDITACIJSKE AGENCIJE**
+
+### Članak 1.
+
+U članku 14. Uredbe o osnivanju Hrvatske akreditacijske agencije (»Narodne novine«, br. 158/2004 i 44/2005), riječ: »znanosti« zamjenjuje se riječima: »gospodarstva, rada i poduzetništva«.
+
+### Članak 2.
+
+Hrvatska akreditacijska agencija dužna je uskladiti svoje opće akte s ovom Uredbom u roku od 60 dana od dana stupanja na snagu ove Uredbe.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/10-01/04
+
+Urbroj: 5030121-10-1
+
+Zagreb, 25. veljače 2010.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.

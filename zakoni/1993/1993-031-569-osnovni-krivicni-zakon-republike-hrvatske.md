@@ -2244,9 +2244,9 @@ USTAV REPUBLIKE HRVATSKE
 
 Na temelju članka 89. Ustava Republike Hrvatske donosim odluku o proglašenju zakona o izmjeni osnovnog krivičnog zakona Republike Hrvatske
 
-**ZAKON**
+ZAKON
 
-**O IZMJENI OSNOVNOG KRIVIČNOG ZAKONA REPUBLIKE HRVATSKE**
+O IZMJENI OSNOVNOG KRIVIČNOG ZAKONA REPUBLIKE HRVATSKE
 
 Koji je zastupnički dom sabora republike hrvatske donio na sjednici 13. Prosinca 1995.
 
@@ -2254,21 +2254,21 @@ Broj: 01-95-2115/1
 
 Zagreb,19. prosinca 1995.
 
-*Predsjednik Republike Hrvatske*
+Predsjednik Republike Hrvatske
 
 dr. Franjo Tuđman, v. r.
 
-### Zakon
+**Zakon**
 
-### o izmjenama osnovnog krivičnog zakona Republike Hrvatske
+**o izmjenama osnovnog krivičnog zakona Republike Hrvatske**
 
-#### Članak 1.
+### Članak 1.
 
 U Osnovnom krivičnom zakonu Republike Hrvatske ("Narodne novine", br. 31/93.-pročišćeni tekst) u članku 175. stavku 2. riječi: "petsto tisuća hrvatskih dinara" zamjenjuju se riječima: "pedeset tisuća kuna".
 
 U stavku 3. riječi: "dva milijuna hrvatskih dinara" zamjenjuju se riječima: "dvjesto tisuća kuna".
 
-#### Članak 2.
+### Članak 2.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
 

@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-11-30
-last_amended: 2006-12-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2010-11-08
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "128/99, 153/05, 142/06"
+narodne_novine: "128/99, 153/05, 142/06, 124/10"
 amendments:
   - "NN 153/2005 (2968) Uredba o izmjeni Zakona o državnoj izmjeri i katastru nekretnina"
   - "NN 142/2006 (3205) Uredba o izmjeni Zakona o državnoj izmjeri i katastru nekretnina"
+  - "NN 124/2010 (3212) Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2014"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 128/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2014).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2005, NN 142/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2005, NN 142/2006, NN 124/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1125,3 +1126,117 @@ Zagreb, 21. prosinca 2006.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+## Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina (NN 124/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3212*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DRŽAVNOJ IZMJERI I KATASTRU NEKRETNINA
+
+Proglašavam Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina, koji je Hrvatski sabor donio na sjednici 22. listopada 2010. godine.
+
+Klasa: 011-01/10-01/109
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 27. listopada 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DRŽAVNOJ IZMJERI I KATASTRU NEKRETNINA**
+
+#### Članak 1.
+
+U Zakonu o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 16/07.) u članku 1. riječi: »i Hrvatskoga geodetskog instituta« brišu se.
+
+#### Članak 2.
+
+U članku 92. stavku 4. podstavak 13.: »Hrvatskoga geodetskoga instituta,« briše se.
+
+#### Članak 3.
+
+Članak 121. mijenja se i glasi:
+
+»U Središnjem uredu obavljaju se sljedeći poslovi:
+
+1. praćenje i usmjeravanje geodetske djelatnosti,
+
+2. provođenje upravnog i inspekcijskog nadzora,
+
+3. rješavanje upravnih stvari u drugostupanjskom postupku,
+
+4. pripremanje nacrta zakonskih i drugih propisa,
+
+5. standardizacija i normiranje geodetskih radova i postupaka,
+
+6. potvrđivanje elaborata katastarske izmjere i tehničke reambulacije na temelju izvješća područnih ureda za katastar te u svezi s tim obavještavanje ministarstva nadležnog za poslove pravosuđa i nadležnog općinskog suda,
+
+7. priprema programa iz članka 5. ovoga Zakona i izvještaja o njihovu izvršenju,
+
+8. ostvarivanje prava i obnašanje dužnosti nositelja financijskih sredstava za izvršenje programa iz članka 5. ovoga Zakona,
+
+9. vođenje dokumentacije državne izmjere, katastra nekretnina i registra prostornih jedinica te davanje na korištenje podataka iz te dokumentacije,
+
+10. osnivanje i vođenje evidencije geografskih imena,
+
+11. ostvarivanje domaće i inozemne suradnje,
+
+12. praćenje i koordiniranje rada područnih ureda te provođenje stručnog nadzora nad njihovim radom.«.
+
+#### Članak 4.
+
+Naslov iznad članka 128. i članci 128., 129., 130., 131., 132., 133., 134., 135., 136., 137., 138., 139. i 140. brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 5.
+
+Hrvatski geodetski institut osnovan po Zakonu o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 16/07.) pripaja se Državnoj geodetskoj upravi.
+
+Danom stupanja na snagu ovoga Zakona Državna geodetska uprava preuzima poslove, zaposlene, opremu, prava i obveze Hrvatskoga geodetskog instituta, financijska sredstva potrebna za obavljanje preuzetih poslova te pismohranu i arhivu Hrvatskoga geodetskog instituta.
+
+#### Članak 6.
+
+Radnici zatečeni u radnom odnosu u Hrvatskom geodetskom institutu na dan stupanja na snagu ovoga Zakona postaju državni službenici ili namještenici i preuzimaju se u Državnu geodetsku upravu.
+
+Do donošenja pravilnika o unutarnjem redu iz članka 8. ovoga Zakona i rasporedu sukladno propisima o državnim službenicima, zatečeni radnici nastavljaju obavljati poslove koje su obavljali i zadržavaju sva prava iz radnog odnosa koja su stekli do dana preuzimanja.
+
+Nakon donošenja pravilnika iz članka 8. ovoga Zakona državni službenici i namještenici iz stavka 1. ovoga članka rasporedit će se sukladno preuzetim poslovima.
+
+Preuzeti državni službenici iz stavka 1. ovoga članka koji se ne mogu rasporediti stavit će se na raspolaganje Vladi Republike Hrvatske sukladno propisima o državnim službenicima.
+
+Preuzetim namještenicima iz stavka 1. ovoga članka koji se ne mogu rasporediti otkazat će se radni odnos sukladno općim propisima o radu.
+
+#### Članak 7.
+
+Vlada Republike Hrvatske će u roku od 15 dana od dana stupanja na snagu ovoga Zakona donijeti novu uredbu o unutarnjem ustrojstvu Državne geodetske uprave.
+
+Vlada Republike Hrvatske će u roku od 15 dana od dana stupanja na snagu ovoga Zakona razriješiti dužnosti ravnatelja, predsjednika i članove Upravnog vijeća Hrvatskoga geodetskog instituta.
+
+#### Članak 8.
+
+Ravnatelj Državne geodetske uprave će donijeti pravilnik o unutarnjem redu Državne geodetske uprave u roku od 15 dana od dana stupanja na snagu nove uredbe o unutarnjem ustrojstvu iz članka 7. stavka 1. ovoga Zakona i rasporediti preuzete službenike i namještenike na slobodna radna mjesta u roku od 15 dana od dana donošenja toga pravilnika.
+
+#### Članak 9.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 930-01/10-01/01
+
+Zagreb, 22. listopada 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

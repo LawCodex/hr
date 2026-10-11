@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-11-12
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "116/07"
-amendments: []
+last_amended: 2011-05-20
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "116/07, 56/11"
+amendments:
+  - "NN 56/2011 (1226) Uredba o dopuni Uredbe o određivanju zahvata u prostoru i građevina za koje Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva izdaje lokacijsku i/ili građevinsku dozvolu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/116/3381"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o određivanju zahvata u prostoru i građevina za koje Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva izdaje lokacijsku i/ili građevinsku dozvolu
 
 > Izvor: Narodne novine, NN 116/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/116/3381).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 56/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -119,3 +123,38 @@ Zagreb, 2. studenoga 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopuni Uredbe o određivanju zahvata u prostoru i građevina za koje Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva izdaje lokacijsku i/ili građevinsku dozvolu (NN 56/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/56/1226*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 105. stavka 2., a u svezi s člankom 212. stavkom 2. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/2007 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 14. travnja 2011. godine donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O ODREĐIVANJU ZAHVATA U PROSTORU I GRAĐEVINA ZA KOJE MINISTARSTVO ZAŠTITE OKOLIŠA, PROSTORNOG UREĐENJA I GRADITELJSTVA IZDAJE LOKACIJSKU I/ILI GRAĐEVINSKU DOZVOLU**
+
+### Članak 1.
+
+U Uredbi o određivanju zahvata u prostoru i građevina za koje Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva izdaje lokacijsku i/ili građevinsku dozvolu (»Narodne novine«, broj 116/2007), u članku 2. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Ministarstvo izdaje građevinsku dozvolu i za pristupne ceste, komunalnu i drugu infrastrukturu za građevine iz stavka 1. točke 4. ovoga članka, u slučaju kada je Ministarstvo izdalo lokacijsku dozvolu kao drugostupanjsko tijelo u postupanju po žalbi izjavljenoj zbog šutnje uprave.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 350-01/11-01/05
+
+Urbroj: 5030105-11-1
+
+Zagreb, 14. travnja 2011.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.

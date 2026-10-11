@@ -1,0 +1,9150 @@
+---
+title: "Zakon o osiguranju"
+identifier: "NN 30/2015 (611)"
+eli: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/30/611"
+type: act
+jurisdiction: hr
+language: hr
+date: 2015-03-17
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original
+narodne_novine: "30/15"
+amendments: []
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/30/611"
+retrieved: 2026-10-12
+---
+
+# Zakon o osiguranju
+
+> Izvor: Narodne novine, NN 30/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/30/611).
+>
+> Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O OSIGURANJU
+
+Proglašavam Zakon o osiguranju, koji je Hrvatski sabor donio na sjednici 6. ožujka 2015. godine.
+
+Klasa: 011-01/15-01/17
+
+Urbroj: 71-05-03/1-15-2
+
+Zagreb, 11. ožujka 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON O OSIGURANJU**
+
+## GLAVA I. — UVODNE ODREDBE
+
+*Predmet Zakona*
+
+##### Članak 1.
+
+Ovim se Zakonom uređuju:
+
+1. uvjeti za osnivanje, poslovanje i prestanak društava za osiguranje, društava za reosiguranje i društava za uzajamno osiguranje
+
+2. uvjeti pod kojima društva za osiguranje i društva za reosiguranje iz drugih država članica i trećih država mogu obavljati poslove osiguranja, odnosno poslove reosiguranja u Republici Hrvatskoj
+
+3. nadzor društava za osiguranje i društava za reosiguranje u grupi
+
+4. nadzor nad subjektima nadzora
+
+5. povjerenik, reorganizacija, posebna uprava, likvidacija i stečaj društava za osiguranje, društava za reosiguranje i društava za uzajamno osiguranje
+
+6. način izvještavanja EIOPA-e i Europske komisije i suradnja s drugim nadležnim tijelima
+
+7. zaštita potrošača
+
+8. poslovanje udruženja (pool) osiguranja odnosno reosiguranja i nacionalnog ureda za osiguranje
+
+9. uvjeti za osnivanje, poslovanje i prestanak obavljanja poslova zastupanja u osiguranju i poslova posredovanja u osiguranju i reosiguranju
+
+10. prekršajne odredbe.
+
+*Pravo Europske unije*
+
+##### Članak 2.
+
+(1) Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+
+1. Direktiva Vijeća 91/371/EEZ od 20. lipnja 1991. o provedbi Sporazuma između Europske ekonomske zajednice i Švicarske Konfederacije o izravnom osiguranju osim životnog osiguranja (SL L 205, 27. 7. 1991.)
+
+2. Direktiva Vijeća 91/674/EEZ od 19. prosinca 1991. o godišnjim financijskim izvještajima i konsolidiranim financijskim izvještajima društava za osiguranje (SL L 374, 31. 12. 1991.) kako je posljednji put izmijenjena Direktivom 2006/46/EZ Europskog parlamenta i Vijeća od 14. lipnja 2006. o izmjeni Direktive Vijeća 78/660/EEZ o godišnjim financijskim izvještajima za određene vrste trgovačkih društava, Direktive Vijeća 83/349/EEZ o konsolidiranim financijskim izvještajima, Direktive Vijeća 86/635/EEZ o godišnjim financijskim izvještajima i konsolidiranim financijskim izvještajima banaka i drugih financijskih institucija i Direktive Vijeća 91/674/EEZ o godišnjim financijskim izvještajima i konsolidiranim financijskim izvještajima osiguravajućih poduzeća (SL L 224, 16. 8. 2006.)
+
+3. Direktiva 2002/92/EZ Europskog parlamenta i Vijeća od 9. prosinca 2002. o posredovanju u osiguranju (SL L 9, 15. 1. 2003.)
+
+4. Direktiva Vijeća 2004/113/EZ od 13. prosinca 2004. o provedbi načela jednakog postupanja prema muškarcima i ženama u pristupu i nabavi robe, odnosno pružanju usluga (SL L 373, 21. 12. 2004)
+
+5. Direktiva 2009/138/EZ Europskog parlamenta i Vijeća od 25. studenoga 2009. o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II) (SL L 335, 17. 12. 2009.) kako je posljednji put izmijenjena Direktivom 2014/51/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o izmjeni direktiva 2003/71/EZ i 2009/138/EZ te uredbi (EZ) br. 1060/2009, (EU) br. 1094/2010 i (EU) br. 1095/2010 u pogledu ovlasti Europskog nadzornog tijela (Europsko nadzorno tijelo za osiguranje i strukovno mirovinsko osiguranje) i Europskog nadzornog tijela (Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala) (SL L 153, 22. 5. 2014.).
+
+(2) Ovim se Zakonom osiguravaju pretpostavke za provedbu:
+
+1. Uredbe (EU) br. 1092/2010 Europskog parlamenta i Vijeća od 24. studenoga 2010. o makrobonitetnom nadzoru financijskog sustava Europske unije i osnivanju Europskog odbora za sistemske rizike (SL L 331, 15. 12. 2010.)
+
+2. Uredbe (EU) br. 1093/2010 Europskog parlamenta i Vijeća od 24. studenoga 2010. o osnivanju Europskog nadzornog tijela (Europsko nadzorno tijelo za bankarstvo) kojom se izmjenjuje Odluka br. 716/2009/EZ i stavlja izvan snage Odluka Komisije 2009/78/EZ (SL L 331, 15. 12. 2010.)
+
+3. Uredbe (EU) broj 1094/2010 Europskog parlamenta i Vijeća od 24. studenoga 2010. o osnivanju Europskoga nadzornog tijela (Europsko nadzorno tijelo za osiguranje i strukovno mirovinsko osiguranje), o izmjeni Odluke broj 716/2009/EZ i o stavljanju izvan snage Odluke Komisije 2009/79/EZ (SL L 331, 15. 12. 2010.)
+
+4. Uredbe (EU) br. 1095/2010 Europskog parlamenta i Vijeća od 24. studenoga 2010. o osnivanju europskog nadzornog tijela (Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala), izmjeni Odluke br. 716/2009/EZ i stavljanju izvan snage Odluke Komisije 2009/77/EZ (SL L 331, 15. 12. 2010.)
+
+5. Delegirane Uredbe Komisije (EU) br. 2015/35 od 10. listopada 2014. o dopuni Direktive 2009/138/EZ Europskog parlamenta i Vijeća o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II) (SL L 12, 17. 1. 2015.).
+
+*Pojmovi*
+
+##### Članak 3.
+
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+
+1. »društvo za osiguranje« je pravna osoba sa sjedištem u Republici Hrvatskoj koja obavlja poslove životnog ili neživotnog osiguranja, koja ima odobrenje Agencije za obavljanje poslova osiguranja i upisana je u sudski registar nadležnog trgovačkog suda
+
+2. »vlastito društvo za osiguranje« je društvo za osiguranje koje je u vlasništvu financijskog društva koje nije društvo za osiguranje, odnosno društvo za reosiguranje ili grupa društava za osiguranje, odnosno grupa društava za reosiguranje u smislu članka 297. ovoga Zakona ili u vlasništvu nefinancijskog društva, čiji je cilj pružiti pokriće osiguranja samo za rizike društva, odnosno društava kojima pripada ili za rizike društva, odnosno društava grupe čije je to društvo član, a »vlastito društvo za reosiguranje« je društvo za reosiguranje koje je u vlasništvu financijskog društva koje nije društvo za osiguranje odnosno društvo za reosiguranje ili grupa društava za osiguranje, odnosno grupa društava za reosiguranje u smislu članka 297. stavka 1. točke 3. ovoga Zakona ili u vlasništvu nefinancijskog društva, čiji je cilj pružiti pokriće reosiguranja samo za rizike društva, odnosno društava kojima pripada ili za rizike društva, odnosno društava grupe čije je to društvo član
+
+3. »društvo za osiguranje iz druge države članice« je pravna osoba sa sjedištem u drugoj državi članici koja ima odobrenje nadležnoga nadzornog tijela za obavljanje poslova osiguranja
+
+4. »društvo za osiguranje iz treće države« je pravna osoba sa sjedištem izvan Republike Hrvatske ili druge države članice koja ima odobrenje Agencije za obavljanje poslova osiguranja na području Republike Hrvatske putem poslovnog nastana (podružnice)
+
+5. »društvo za osiguranje iz Švicarske Konfederacije« je pravna osoba sa sjedištem u Švicarskoj Konfederaciji koja ima odobrenje Agencije za obavljanje poslova osiguranja na području Republike Hrvatske putem poslovnog nastana (podružnice)
+
+6. »društvo za reosiguranje« je pravna osoba sa sjedištem u Republici Hrvatskoj koja ima odobrenje Agencije za obavljanje poslova reosiguranja i upisana je u sudski registar nadležnog trgovačkog suda
+
+7. »društvo za reosiguranje iz druge države članice« je pravna je osoba sa sjedištem u drugoj državi članici koja ima odobrenje nadležnoga nadzornog tijela za obavljanje poslova reosiguranja
+
+8. »društvo za reosiguranje iz treće države« je pravna osoba sa sjedištem izvan Republike Hrvatske ili države članice koja ima odobrenje nadležnog nadzornog tijela za obavljanje poslova reosiguranja
+
+9. »društvo za reosiguranje iz Švicarske Konfederacije« je pravna osoba sa sjedištem u Švicarskoj Konfederaciji koja ima odobrenje nadležnog nadzornog tijela za obavljanje poslova reosiguranja
+
+10. »društvo za uzajamno osiguranje« je pravna osoba sa sjedištem u Republici Hrvatskoj koja ima odobrenje Agencije za obavljanje poslova osiguranja i upisana je u sudski registar nadležnog trgovačkog suda
+
+11. »reosiguranje« znači:
+
+– poslove koji se sastoje od prihvaćanja rizika koje je ustupilo društvo za osiguranje, odnosno društvo za osiguranje iz druge države članice, društvo za osiguranje iz treće države ili drugo društvo za reosiguranje, odnosno društvo za reosiguranje iz druge države članice ili iz treće države ili
+
+– u slučaju Lloydova udruženja individualnih osiguratelja, djelatnost koja se sastoji od prihvaćanja rizika koje je ustupio bilo koji član Lloydova udruženja individualnih osiguratelja od strane društva za osiguranje, odnosno društva za reosiguranje koje nije Lloydovo udruženje individualnih osiguratelja
+
+12. »reosiguranje ograničenog rizika« je reosiguranje u okviru kojega izričita najveća moguća šteta, izražena kao najveći preneseni ekonomski rizik koji proizlazi iz prijenosa značajnog osigurateljnog rizika i vremenskog rizika, prelazi premiju tijekom trajanja tog ugovora za ograničen, ali značajan iznos i ima barem jedno od sljedećih dvaju obilježja:
+
+– da izričito i značajno uzima u obzir vremensku vrijednost novca
+
+– da ugovorne odredbe omogućavaju izjednačavanje ekonomskih rezultata između ugovornih strana tijekom vremena kako bi se postigao ciljani prijenos rizika
+
+13. »država članica« je država koja je članica Europske unije i država potpisnica Ugovora o Europskom gospodarskom prostoru
+
+14. »treća država« je država koja nije Republika Hrvatska, odnosno druga država članica
+
+15. »matična država članica« je:
+
+– za neživotna osiguranja, država članica u kojoj je sjedište društva za osiguranje koje pokriva rizik
+
+– za životno osiguranje, država članica u kojoj je sjedište društva za osiguranje koje pokriva obvezu
+
+– za reosiguranje, država članica u kojoj je sjedište društva za reosiguranje
+
+16. »država članica domaćin« je država članica koja nije matična država članica, a u kojoj društvo za osiguranje ili društvo za reosiguranje ima podružnicu ili u kojoj pruža usluge
+
+17. »država članica u kojoj se pružaju usluge« je država članica obveze, odnosno država članica u kojoj se nalazi rizik, ako tu obvezu ili taj rizik pokriva društvo za osiguranje, odnosno podružnica koja se nalazi u drugoj državi članici
+
+18. »država članica u kojoj se nalazi rizik« je:
+
+a) država članica u kojoj se nalazi imovina, kad se osiguranje odnosi na zgrade ili na zgrade i njihov sadržaj, pod uvjetom da je sadržaj pokriven istom policom osiguranja
+
+b) kada se osiguranje odnosi na bilo koju vrstu prijevoznog sredstva (vozilo, zrakoplov, brodica, odnosno jahta), država članica u kojoj je prijevozno sredstvo registrirano
+
+c) kada se osiguranje odnosi na bilo koju vrstu rizika povezanih s putovanjem ili godišnjim odmorom u slučaju polica koje traju četiri mjeseca ili kraće, država članica u kojoj je ugovaratelj sklopio ugovor o osiguranju
+
+d) u svim slučajevima koji nisu izričito navedeni u točkama a), b) ili c) ove točke, država članica u kojoj se nalazi:
+
+– prebivalište ili uobičajeno boravište ugovaratelja osiguranja ako je ugovaratelj osiguranja fizička osoba ili
+
+– poslovni nastan ugovaratelja osiguranja na koji se ugovor odnosi ako je ugovaratelj osiguranja pravna osoba
+
+19. »država članica preuzimanja obveze« je država članica u kojoj se nalazi:
+
+– prebivalište ili uobičajeno boravište ugovaratelja osiguranja ili
+
+– ako je ugovaratelj osiguranja pravna osoba, onaj poslovni nastan ugovaratelja osiguranja na koji se ugovor odnosi
+
+20. »Agencija« je Hrvatska agencija za nadzor financijskih usluga osnovana na temelju Zakona o Hrvatskoj agenciji za nadzor financijskih usluga i koja je nadzorno tijelo ovlašteno obavljati nadzor na temelju ovoga Zakona
+
+21. »nadležno nadzorno tijelo« je tijelo iz druge države članice, treće države i Švicarske Konfederacije ovlašteno na temelju zakona ili propisa za nadzor nad obavljanjem poslova osiguranja i poslova reosiguranja, odnosno poslova posredovanja u osiguranju i reosiguranju i zastupanja u osiguranju
+
+22. »podružnica« je pravno ovisni dio društva za osiguranje ili društva za reosiguranje koja se nalazi na području države članice koja nije matična država članica
+
+23. »poslovni nastan« društva za osiguranje ili društva za reosiguranje znači njegovo sjedište ili bilo koju njegovu podružnicu
+
+24. »matično društvo« je osoba koja u odnosu na društvo kćer ispunjava jedan od sljedećih uvjeta:
+
+– ima većinu glasačkih prava u društvu kćeri
+
+– ima pravo imenovati ili opozvati većinu članova uprave, nadzornog odbora ili izvršnih direktora društva kćeri, a istodobno je dioničar ili imatelj udjela u društvu kćeri
+
+– ima pravo ostvarivanja dominantnog utjecaja nad društvom kćeri na temelju poduzetničkog ugovora, drugog ugovora ili sporazuma
+
+– ima sudjelujući udjel u društvu kćeri i nad njim ostvaruje dominantan utjecaj
+
+– dioničar je ili imatelj udjela u društvu kćeri na temelju ugovora ili sporazuma s drugim dioničarima ili imateljima udjela na način da nadzire većinu glasačkih prava u tom društvu
+
+– ima sudjelujući udjel u društvu kćeri i ima sklopljen ugovor o vođenju poslova društva s društvom na temelju kojeg vodi poslove društva kćeri ili
+
+– koje prema mišljenju nadzornog tijela ima dominantan utjecaj nad drugim društvom ili koje nad drugim društvom ili društvom kćeri upravlja na jedinstvenoj osnovi
+
+25. »društvo kći« je pravna osoba nad kojom matično društvo ima dominantan utjecaj na način opisano u točki 24. ovoga članka. Sva društva kćeri društava kćeri smatraju se društvima kćerima matičnih društava
+
+26. »uska povezanost« je odnos u kojem su dvije ili više fizičkih ili pravnih osoba povezane kontrolom ili sudjelovanjem ili položaj u kojem su dvije ili više fizičkih ili pravnih osoba trajno povezane s jednom te istom osobom odnosom kontrole
+
+27. »kontrola« je odnos između matičnog društva i društva kćeri na način kako je definirano točkama 24. i 25. ovoga članka ili sličan odnos između bilo koje fizičke ili pravne osobe i nekog društva
+
+28. »unutargrupne transakcije« su sve transakcije u kojima se društvo za osiguranje ili društvo za reosiguranje izravno ili neizravno oslanja na drugo društvo unutar iste grupe ili na bilo koju fizičku ili pravnu osobu koja je u odnosu uske povezanosti s društvima u toj grupi u svrhu ispunjavanja ugovornih ili izvanugovornih obveza uz plaćanje ili bez plaćanja
+
+29. »sudjelovanje« je izravno držanje ili držanje putem kontrole 20 % ili više glasačkih prava, odnosno kapitala društva
+
+30. »kvalificirani udjel« je svaki posredni ili neposredni udjel u društvu koji predstavlja 10 % ili više udjela u kapitalu, odnosno glasačkim pravima ili koji omogućava ostvarivanje značajnog utjecaja na upravljanje tim društvom
+
+31. »uređeno tržište« je tržište kako je uređeno zakonom kojim se uređuje tržište kapitala, a u slučaju tržišta koje se nalazi u trećoj državi, financijsko tržište koje ispunjava sljedeće uvjete:
+
+– priznaje ga matična država članica društva za osiguranje i ispunjava zahtjeve usporedive s onima uređenim propisima kojima se uređuje tržište kapitala
+
+– financijski instrumenti kojima se trguje na tom tržištu imaju kvalitetu koja je usporediva s kvalitetom instrumenata kojima se trguje na uređenom tržištu, odnosno uređenim tržištima matične države članice
+
+32. »nacionalni ured za osiguranje« je nacionalni ured osiguratelja, profesionalna organizacija koja je utemeljena u skladu s Preporukom br. 5 koju je 25. siječnja 1949. usvojio Pododbor za cestovni promet Odbora za unutarnji promet Gospodarske komisije Ujedinjenih naroda za Europu, a koja okuplja društva za osiguranje koja u jednoj državi imaju odobrenje za obavljanje poslova osiguranja motornih vozila od građanskopravne odgovornosti, a u Republici Hrvatskoj Hrvatski ured za osiguranje
+
+33. »nacionalni garancijski fond« je imovina kojom upravlja nacionalni ured za osiguranje, a u Republici Hrvatskoj Garancijski fond kojim upravlja Hrvatski ured za osiguranje
+
+34. »financijsko društvo« je bilo koji od sljedećih subjekata:
+
+a) kreditna institucija, financijska institucija ili društvo za pomoćne usluge kako je definirano zakonom kojim se uređuju kreditne institucije
+
+b) društvo za osiguranje, odnosno društvo za reosiguranje ili osigurateljni holding kako je definirano ovim Zakonom
+
+c) investicijsko društvo ili financijska institucija kako je definirano zakonom kojim se uređuje tržište kapitala
+
+d) mješoviti financijski holding je mješoviti financijski holding u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata
+
+35. »subjekt posebne namjene« je pravna osoba koja nije postojeće društvo za osiguranje, odnosno društvo za reosiguranje, koje preuzima rizike društava za osiguranje, odnosno društava za reosiguranje i koje u cijelosti financira svoju izloženost tim rizicima pomoću prinosa na izdavanje duga ili nekog drugog financijskog mehanizma, pri čemu su prava otplate pružatelja tog duga ili financijskog mehanizma podređena obvezama reosiguranja tog društva
+
+36. »veliki rizici« jesu:
+
+1. rizici iz vrsta osiguranja iz članka 7. stavka 2. točaka 4. – 7. i točaka 11. i 12. ovoga Zakona
+
+2. rizici iz vrsta osiguranja iz članka 7. stavka 2. točaka 14. i 15. ovoga Zakona ako ugovaratelj osiguranja obavlja gospodarsku djelatnost te se ti rizici odnose na tu djelatnost
+
+3. rizici iz vrsta osiguranja iz članka 7. stavka 2. točaka 3., 8., 9., 10., 13. i 16. ovoga Zakona ako ugovaratelj osiguranja ispunjava najmanje dva od ovih uvjeta:
+
+– vrijednost aktive na kraju godine prelazi iznos od 48.360.000,00 kuna
+
+– neto prihodi u poslovnoj godini su veći od iznosa od 99.840.000,00 kuna
+
+– prosječan broj zaposlenih tijekom poslovne godine veći je od 250.
+
+Ako ugovaratelj osiguranja pripada grupi društava za koju se sastavljaju konsolidirani izvještaji u skladu s računovodstvenim propisima kojima se uređuje financijsko izvještavanje, uvjeti navedeni u podtočki 3. ove točke primjenjuju se na osnovi konsolidiranih izvješća.
+
+37. »izdvajanje poslova« jest ugovorni prijenos obavljanja poslova društva za osiguranje, odnosno društva za reosiguranje na pružatelja usluga, bez obzira na to je li on nadzirani ili nenadzirani subjekt, u skladu s kojim pružatelj usluga izravno ili neizravno obavlja postupak, uslugu ili djelatnost koju bi inače društvo za osiguranje, odnosno društvo za reosiguranje obavljalo samo
+
+38. »funkcija« unutar sustava upravljanja znači unutarnju sposobnost obavljanja praktičnih zadataka, sustav upravljanja uključuje funkciju upravljanja rizicima, funkciju praćenja usklađenosti, funkciju unutarnje revizije i aktuarsku funkciju
+
+39. »preuzeti rizik osiguranja« jest rizik gubitka ili nepovoljne promjene vrijednosti obveza iz osiguranja zbog neodgovarajućih pretpostavki kod oblikovanja premija i pričuva
+
+40. »tržišni rizik« jest rizik gubitka ili nepovoljne promjene u financijskom stanju koji izravno ili neizravno proizlazi iz kretanja i volatilnosti tržišnih cijena sredstava, obveza i financijskih instrumenata
+
+41. »kreditni rizik« jest rizik gubitka ili nepovoljne promjene u financijskom stanju zbog promjena u kreditnom položaju izdavatelja financijskih instrumenata, drugih ugovornih strana i bilo kojih dužnika kojima su izložena društva za osiguranje, odnosno društva za reosiguranje, u obliku koncentracija rizika neispunjenja obveza druge ugovorne strane, rizika prinosa ili tržišnog rizika
+
+42. »kvalificirana središnja druga ugovorna strana« znači središnju drugu ugovornu stranu koja je dobila odobrenje u skladu s člankom 14. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća ili je priznata u skladu s člankom 25. te Uredbe
+
+43. »vanjska institucija za procjenu kreditnog rizika« znači agenciju za kreditni rejting koja je registrirana ili certificirana u skladu s Uredbom (EZ) br. 1060/2009 Europskog parlamenta i Vijeća ili središnju banku koja izdaje kreditne rejtinge na koje se ne primjenjuje ta Uredba
+
+44. »operativni rizik« jest rizik gubitka koji nastaje zbog neadekvatnih unutarnjih poslovnih procesa, zaposlenika, sustava ili vanjskih događaja
+
+45. »rizik likvidnosti« jest rizik da društvo za osiguranje, odnosno društvo za reosiguranje ne bude u mogućnosti unovčiti svoja ulaganja i druga sredstva kako bi podmirilo svoje financijske obveze o njihovu dospijeću
+
+46. »koncentracijski rizik« jesu sve izloženosti riziku kod kojih je potencijalni gubitak tako velik da ugrožava solventnost ili financijski položaj društva za osiguranje, odnosno društva za reosiguranje
+
+47. »tehnike smanjenja rizika« znače sve tehnike koje omogućuju društvu za osiguranje, odnosno društvu za reosiguranje da prenese dio svojih rizika ili sve svoje rizike na drugu osobu
+
+48. »diverzifikacijski učinci« znače smanjenje izloženosti riziku društva za osiguranje, odnosno društva za reosiguranje i grupa koje je povezano s diverzifikacijom njihova poslovanja, a proizlazi iz činjenice da se nepovoljni rezultat jednog rizika može poništiti povoljnijim rezultatom drugog rizika, pri čemu ti rizici nisu u potpunosti ovisni
+
+49. »prognoza distribucije vjerojatnosti« znači matematičku funkciju kojom se određuje vjerojatnost ostvarenja opsežnog skupa međusobno isključujućih budućih događaja
+
+50. »mjera rizika« znači matematičku funkciju kojom se danoj prognozi distribucije vjerojatnosti određuje novčani iznos i koji se monotono povećava s razinom izloženosti riziku na kojoj se temelji ta prognoza distribucije vjerojatnosti
+
+51. »EIOPA« je Europsko nadzorno tijelo – Europsko nadzorno tijelo za osiguranje i strukovno mirovinsko osiguranje, osnovano Uredbom (EU) br. 1094/2010 Europskog parlamenta i Vijeća
+
+52. »ESMA« je Europsko nadzorno tijelo – Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala, osnovano Uredbom (EU) br. 1095/2010 Europskoga parlamenta i Vijeća
+
+53. »EBA« je Europsko nadzorno tijelo – Europsko nadzorno tijelo za bankarstvo osnovano Uredbom (EU) br. 1093/2010 Europskoga parlamenta i Vijeća
+
+54. »ESRB« je Europski odbor za sistemski rizik, osnovan Uredbom (EU) br. 1092/2010 Europskoga parlamenta i Vijeća
+
+55. »ESFS« je Europski sustav financijskih agencija (EIOPA, ESMA i EBA) kojem pripada i ESRB
+
+56. »ESA« je zajednički izraz za europska nadzorna tijela, i to: EIOPA-u, EBA-u i ESMA-u
+
+57. »Zajednički odbor« je Zajednički odbor ESA-e osnovan člankom 54. sljedećih uredbi: Uredbe (EU) br. 1093/2010, Uredbe (EU) br. 1094/2010 i Uredbe (EU) br. 1095/2010
+
+58. Uredba (EU) br. 648/2012 je Uredba Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (SL L 201, 27. 7. 2012.)
+
+59. Uredba (EZ) br. 1060/2009 je Uredba Europskog parlamenta i Vijeća od 16. rujna 2009. o agencijama za kreditni rejting (SL L 302, 17. 11. 2009.)
+
+60. Uredba (EZ) br. 593/2008 je Uredba Europskog parlamenta i Vijeća od 17. lipnja 2008. o pravu koje se primjenjuje na ugovorne obveze (Rim I (SL L 177, 4. 7. 2008.).
+
+## GLAVA II. — OPĆE ODREDBE
+
+*Područje primjene*
+
+##### Članak 4.
+
+(1) Ovaj Zakon primjenjuje se na pravne osobe koje u skladu s ovim Zakonom na području Republike Hrvatske obavljaju poslove osiguranja i reosiguranja i druge osobe u skladu s odredbama ovoga Zakona.
+
+(2) Ako ovim Zakonom nije drukčije propisano, na obvezna osiguranja u prometu primjenjuju se odredbe zakona kojim se uređuju obvezna osiguranja u prometu, a na ostala obvezna osiguranja propisi kojima se uređuju ta osiguranja u Republici Hrvatskoj.
+
+(3) Ako ovim Zakonom nije drukčije propisano, na dopunska, dodatna i privatna zdravstvena osiguranja primjenjuju se odredbe zakona kojim se uređuje dobrovoljno zdravstveno osiguranje.
+
+(4) Što se tiče neživotnih osiguranja, ovaj Zakon ne primjenjuje se na:
+
+1. poslove osiguranja s kapitalizacijom isplate
+
+2. poslove štednih institucija i institucija za pružanje uzajamne pomoći kod kojih isplaćene naknade variraju ovisno o raspoloživim sredstvima i kod kojih su doprinosi članova određeni na paušalnoj osnovi
+
+3. poslove koje obavljaju organizacije koje nisu pravne osobe, a kojima je cilj pružanje uzajamnog pokrića za svoje članove bez plaćanja premija ili stvaranja tehničkih pričuva
+
+4. poslove osiguranja izvoznih kredita za račun ili uz jamstvo Republike Hrvatske ili druge države članice ili kod kojih su isti društvo za osiguranje
+
+5. poslove pružanja pomoći kada su ispunjeni svi sljedeći uvjeti:
+
+– pomoć se pruža u slučaju nezgode ili kvara koji uključuje cestovno vozilo kad se nezgoda ili kvar dogodi na području Republike Hrvatske ili druge države članice društva koje osigurava pokriće
+
+– odgovornosti za pomoć ograničena je na sljedeće poslove:
+
+a) pomoć na mjestu kvara za koju društvo koje osigurava pokriće u većini slučajeva upotrebljava svoje vlastito osoblje i opremu
+
+b) prijevoz vozila do najbližeg ili najprimjerenijeg mjesta na kojem se može napraviti popravak te, po mogućnosti, prijevoz vozača i putnika istim sredstvom do najbližeg mjesta s kojeg mogu nastaviti svoje putovanje drugim sredstvima i
+
+c) prijevoz vozila, po mogućnosti i vozača i putnika do njihova doma, polazne točke ili izvornog odredišta u istoj državi
+
+– pomoć ne pruža društvo koje podliježe odredbama ovoga Zakona
+
+6. društva za uzajamno osiguranje koja obavljaju djelatnosti neživotnog osiguranja i koja su s drugim društvima za uzajamno osiguranje sklopila sporazum koji predviđa potpuno reosiguranje polica osiguranja koje su ta društva izdala ili na temelju kojih društvo preuzimatelj treba ispuniti obveze koje proizlaze iz tih polica umjesto cedenta. U tom slučaju društvo preuzimatelj podliježe pravilima ovoga Zakona.
+
+(5) Što se tiče životnog osiguranja, ovaj Zakon ne primjenjuje se na:
+
+1. poslove štednih institucija i institucija za pružanje uzajamne pomoći kod kojih isplaćene naknade variraju ovisno o raspoloživim sredstvima i koje zahtijevaju da svaki njihov član plaća doprinose po odgovarajućoj paušalnoj stopi
+
+2. poslove koje obavljaju organizacije koje nisu društva za osiguranje u smislu ovoga Zakona, kojima je cilj osigurati naknade zaposlenim i samozaposlenim osobama koje pripadaju društvu, odnosno grupi društava, ili djelatnosti, odnosno grupi djelatnosti, u slučaju smrti ili doživljenja ili u slučaju prestanka ili smanjenja obujma djelatnosti, bez obzira na to jesu li obveze koje proizlaze iz tih poslova u svakom trenutku pokrivene matematičkim pričuvama
+
+3. poslove koje obavljaju organizacije, društva i institucije koje se obvezuju da će osigurati naknade samo u slučaju smrti, ako iznos tih naknada ne premašuje prosječne pogrebne troškove za jednu smrt ili ako se naknade pružaju u naravi.
+
+(6) Što se tiče reosiguranja, ovaj Zakon ne primjenjuje se na poslove reosiguranja za koje jamči ili djeluje kao reosiguratelj Vlada Republike Hrvatske.
+
+*Primjena ovoga Zakona na društvo za osiguranje i društvo za reosiguranje*
+
+##### Članak 5.
+
+(1) Ako ovim Zakonom nije drukčije propisano, na društvo za reosiguranje primjenjuju se odredbe ovoga Zakona koje se odnose na društvo za osiguranje.
+
+(2) Na društvo za osiguranje koje ima odobrenje za obavljanje poslova reosiguranja primjenjuju se i odredbe ovoga Zakona koje se odnose na društvo za reosiguranje.
+
+*Ograničenja primjene ovoga Zakona s obzirom na veličinu društva za osiguranje*
+
+##### Članak 6.
+
+(1) Malo društvo za osiguranje je društvo za osiguranje koje ispunjava sve sljedeće uvjete:
+
+1. godišnja zaračunata brutopremija društva za osiguranje ne prelazi 39 milijuna kuna
+
+2. ukupne tehničke pričuve društva, zajedno s iznosima koji se mogu naplatiti na temelju ugovora o reosiguranju ili od subjekata posebne namjene, ne prelaze 195 milijuna kuna
+
+3. ako društvo pripada grupi, ukupne bruto tehničke pričuve grupe s uključenim iznosima koji se mogu naplatiti na temelju ugovora o reosiguranju ili od subjekata posebne namjene ne prelaze 195 milijuna kuna
+
+4. poslovanje društva ne uključuje djelatnosti osiguranja ili reosiguranja koje pokrivaju rizik osiguranja od odgovornosti, rizik osiguranja kredita i jamstva, osim ako su ti rizici uključeni u dodatne rizike u smislu članka 25. ovoga Zakona
+
+5. poslovanje društva ne uključuje poslove reosiguranja koji premašuju 3,9 milijuna kuna od njegove zaračunate brutopremije ili 19,5 milijuna kuna od njegovih bruto tehničkih pričuva s uključenim iznosima koji se mogu naplatiti na temelju ugovora o reosiguranju ili od subjekata posebne namjene, ili više od 10 % njegove bruto zaračunate premije ili više od 10 % njegovih bruto tehničkih pričuva s uključenim iznosima koji mogu biti naplaćeni na temelju ugovora o reosiguranju ili od subjekata posebne namjene.
+
+(2) Malim društvom za osiguranje u svakom slučaju smatra se društvo za osiguranje koje ispunjava i sve sljedeće uvjete:
+
+1. nijedan prag iz stavka 1. ovoga članka nije bio viši od propisanog iznosa u posljednje tri uzastopne godine i
+
+2. ne očekuje se da će ijedan od pragova iz stavka 1. ovoga članka biti viši od propisanih iznosa tijekom sljedećih pet godina.
+
+(3) Društvo za osiguranje koje premaši iznose iz stavka 1. ovoga članka u tri uzastopne godine od početka četvrte godine ne smatra se malim društvom za osiguranje.
+
+(4) Društvo za osiguranje koje obavlja djelatnosti na temelju slobode pružanja usluga, odnosno prava poslovnog nastana bez obzira na uvjete iz stavaka 1. i 2. ovoga članka ne smatra se malim društvom za osiguranje.
+
+(5) Na mala društva za osiguranje ne primjenjuju se sljedeće odredbe ovoga Zakona:
+
+1. članak 29. ovoga Zakona o poslovnom planu
+
+2. članak 92. stavci 2. – 4. ovoga Zakona o općim zahtjevima za sustav upravljanja
+
+3. članak 93. ovoga Zakona o ključnim funkcijama unutar sustava upravljanja, osim odredbi koje se odnose na funkciju unutarnje revizije
+
+4. članak 94. stavci 3. – 10. ovoga Zakona o sustavu upravljanja rizicima
+
+5. članak 95. ovoga Zakona o funkciji upravljanja rizicima
+
+6. članak 97. ovoga Zakona o unutarnjoj kontroli i funkciji praćenja usklađenosti
+
+7. članak 96. ovoga Zakona o vlastitoj procjeni rizika i solventnosti
+
+8. članak 103. ovoga Zakona o aktuarskoj funkciji
+
+9. članak 168. – 171. ovoga Zakona o javnoj objavi
+
+10. glava IX. ovoga Zakona – Odredbe o vrednovanju imovine i obveza, tehničkim pričuvama, vlastitim sredstvima, potrebnom solventnom kapitalu, minimalnom potrebnom kapitalu i ulaganjima.
+
+(6) Mala društva za osiguranje moraju uvijek imati kapital najmanje u visini granice solventnosti određene pravilnikom iz stavka 11. ovoga članka.
+
+(7) Jamstveni kapital malog društva za osiguranje ne smije biti manji od jedne trećine granice solventnosti iz stavka 6. ovoga članka kao ni od iznosa apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. ovoga Zakona.
+
+(8) Odredbe ovoga članka primjenjuju se i na društva za osiguranje koja zatraže odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja za koja se očekuje da njihova godišnja zaračunata brutopremija ili iznos njihovih bruto tehničkih pričuva s uključenim iznosima koji se mogu naplatiti na temelju ugovora o reosiguranju ili od subjekata posebne namjene neće prelaziti bilo koji od iznosa iz stavka 1. ovoga članka tijekom sljedećih pet godina.
+
+(9) Agencija će rješenjem utvrditi jesu li ispunjeni uvjeti za primjenu odredbi stavaka 5., 6. i 7. ovoga članka na društvo za osiguranje koje se u skladu s odredbama ovoga članka smatra malim društvom.
+
+(10) Društvo za osiguranje koje ispunjava uvjete iz stavaka 1. i 2. ovoga članka može podnijeti zahtjev Agenciji da se odredbe ovoga članka na to društvo za osiguranje ne primjenjuju i da se ne smatra malim društvom za osiguranje.
+
+(11) Agencija će u svrhu upravljanja rizicima za mala društva za osiguranje pravilnikom propisati izračun kapitala koji uključuje osnovni kapital, dopunski kapital, stavke odbitka pri izračunu kapitala, jamstveni kapital te adekvatnost kapitala, izračun granice solventnosti, upravljanje likvidnošću, kvalitativne i kvantitativne kriterije ulaganja imovine, sadržaj poslovnog plana i izvještavanje Agencije.
+
+*Poslovi osiguranja*
+
+##### Članak 7.
+
+(1) Poslovi osiguranja su sklapanje i ispunjavanje ugovora o neživotnom, odnosno ugovora o životnom osiguranju osim obveznih zdravstvenih, obveznih mirovinskih osiguranja i obveznih socijalnih osiguranja.
+
+(2) Neživotna osiguranja dijele se na sljedeće vrste osiguranja:
+
+1. osiguranje od nezgode, uključujući ozljede na radnom mjestu i profesionalne bolesti, a koje pokriva sljedeće:
+
+– fiksne novčane naknade
+
+– naknade u obliku odštete
+
+– kombinacije isplata iz podtočaka 1. i 2. ove točke
+
+– ozljede putnika
+
+2. zdravstveno osiguranje, a koje pokriva sljedeće:
+
+– fiksne novčane naknade
+
+– naknade u obliku odštete ili u naravi
+
+– kombinacije isplata iz podtočaka 1. i 2. ove točke
+
+3. osiguranje cestovnih vozila, osim tračnih vozila koje pokriva sva oštećenja ili gubitak:
+
+– cestovnih motornih vozila na vlastiti pogon
+
+– cestovnih vozila bez vlastitog pogona
+
+4. osiguranje tračnih vozila koje pokriva sva oštećenja ili gubitak tračnih vozila
+
+5. osiguranje zračnih letjelica koje pokriva sva oštećenja ili gubitak zračnih letjelica
+
+6. osiguranje plovila (morskih, riječnih, jezerskih plovila i plovila za plovidbu kanalima) koje pokriva sva oštećenja ili gubitak:
+
+– plovila za plovidbu kanalima i u riječnoj plovidbi
+
+– plovila u jezerskoj plovidbi
+
+– plovila u pomorskoj plovidbi
+
+7. osiguranje robe u prijevozu, uključujući robu, prtljagu i druga dobra, koje pokriva sva oštećenja ili gubitak robe u prijevozu ili prtljage, bez obzira na oblik prijevoza
+
+8. osiguranje od požara i elementarnih šteta koje pokriva sva oštećenja ili gubitak imovine, osim imovine uključene u vrste iz točaka 3., 4., 5., 6. i 7. ovoga stavka kao posljedica djelovanja:
+
+– požara
+
+– eksplozije
+
+– oluje
+
+– elementarnih nepogoda osim oluje
+
+– atomske energije
+
+– pomicanja tla i ostalih dopunskih opasnosti
+
+9. ostala osiguranja imovine koja pokrivaju sva oštećenja ili gubitak imovine, osim imovine iz vrste osiguranja iz točaka 3., 4., 5., 6. i 7. ovoga stavka kao posljedica svakog drugog događaja kao što je primjerice krađa, osim onih iz vrste osiguranja iz točke 8. ovoga stavka
+
+10. osiguranje od odgovornosti za upotrebu motornih vozila koje pokriva sve vrste odgovornosti koje proizlaze iz upotrebe motornih vozila na vlastiti pogon, uključujući odgovornost prijevoznika
+
+11. osiguranje od odgovornosti za upotrebu zračnih letjelica koje pokriva sve vrste odgovornosti koje proizlaze iz upotrebe zračnih letjelica, uključujući odgovornost prijevoznika
+
+12. osiguranje od odgovornosti za upotrebu plovila (morskih, riječnih i jezerskih plovila i plovila za plovidbu kanalima) koje pokriva sve vrste odgovornosti koje proizlaze iz upotrebe morskih, riječnih, jezerskih plovila i plovila za plovidbu kanalima, uključujući odgovornost prijevoznika
+
+13. ostala osiguranja od odgovornosti koja pokrivaju sve vrste odgovornosti, osim onih iz vrsta osiguranja iz točaka 10., 11. i 12. ovoga stavka
+
+14. osiguranje kredita koje pokriva sljedeće:
+
+– nesolventnost (opću)
+
+– izvozne kredite
+
+– kredite s obročnim otplatama
+
+– hipotekarne kredite
+
+– poljoprivredne kredite
+
+– druge kredite i zajmove
+
+15. osiguranje jamstava koje pokriva sljedeće:
+
+– izravno jamstvo
+
+– neizravno jamstvo
+
+16. osiguranje raznih financijskih gubitaka koje pokriva sljedeće:
+
+– profesionalne rizike
+
+– nedostatne prihode (općenito)
+
+– loše vrijeme
+
+– izgubljenu dobit
+
+– nepredviđene troškove općenite vrste
+
+– nepredviđene poslovne troškove
+
+– gubitak tržišne vrijednosti
+
+– gubitak najamnine, odnosno prihoda
+
+– druge posredne poslovne gubitke
+
+– druge neposlovne financijske gubitke
+
+– druge oblike financijskih gubitaka
+
+17. osiguranje troškova pravne zaštite pokriva troškove pravne zaštite i troškove sudskog ili kojeg drugog postupka
+
+18. osiguranje pomoći (asistencija) je osiguranje koje pokriva pomoć pruženu osobama koje zapadnu u teškoće za vrijeme puta, izvan doma ili uobičajenog boravišta.
+
+Neživotna osiguranja iz točke 18. ovoga stavka obuhvaćaju djelatnost koja se sastoji od pomoći pružene osobama koje zapadnu u poteškoće prilikom putovanja, a kada su izvan svog prebivališta ili uobičajenog boravišta. Pomoć se sastoji u tome da društvo za unaprijed plaćenu premiju odmah pruži pomoć korisniku iz ugovora o pružanju pomoći kad je ta osoba u poteškoćama koje su posljedica slučajnog događaja, u slučajevima i pod uvjetima koji su navedeni u ugovoru. Pomoć može obuhvaćati pružanje naknade u gotovini ili u naravi. Naknade u naravi može pružiti i osoblje pravne osobe koja ih daje i to koristeći se opremom te osobe. Djelatnost pružanja pomoći ne obuhvaća servisiranje, održavanje, usluge nakon prodaje ili puku naznaku ili pružanje pomoći u svojstvu posrednika.
+
+(3) Životna osiguranja dijele se na sljedeće vrste osiguranja:
+
+1. životna osiguranja:
+
+a) osiguranje života koje pokriva sljedeće rizike:
+
+– osiguranje života za slučaj doživljenja
+
+– osiguranje života za slučaj smrti
+
+– mješovito osiguranje života za slučaj smrti i doživljenja
+
+– osiguranje života s povratom premija
+
+– osiguranja kritičnih bolesti
+
+– doživotno osiguranje za slučaj smrti
+
+– i ostala osiguranja života
+
+b) rentno osiguranje je osiguranje periodičnih isplata tijekom određenog razdoblja ili doživotno
+
+c) dopunska osiguranja uz osiguranje života su osiguranja koja se ugovaraju uz životno osiguranje i pokrivaju primjerice rizike: ozljede uključujući nesposobnost za rad, smrti zbog nezgode i invaliditeta zbog nezgode ili bolesti
+
+2. osiguranje za slučaj vjenčanja ili sklapanja životnog partnerstva ili rođenja je osiguranje koje pokriva rizik vjenčanja ili sklapanja životnog partnerstva ili doživljenja unaprijed određene dobi ili rođenja
+
+3. osiguranje života i rentno osiguranje kod kojih ugovaratelj osiguranja snosi rizik ulaganja je osiguranje vezano uz vrijednost udjela UCITS fonda kako je definiran zakonom kojim se uređuje osnivanje i poslovanje otvorenih investicijskih fondova s javnom ponudom, uz vrijednost imovine unutarnjeg fonda ili uz dionički indeks, odnosno drugu referentnu vrijednost
+
+4. tontine su osiguranja u kojima se osnivaju udruženja članova kako bi zajednički kapitalizirali svoje doprinose i potom raspodijelili tako prikupljena sredstva preživjelim članovima ili korisnicima umrlih članova
+
+5. osiguranje s kapitalizacijom isplate je osiguranje temeljeno na aktuarskim izračunima kod kojeg se u zamjenu za jednokratno, odnosno višekratno plaćanje unaprijed ugovorenog iznosa premije preuzimaju obveze isplate iznosa u određenoj visini kroz određeno razdoblje
+
+6. upravljanje sredstvima zajedničkih mirovinskih fondova koji uključuju očuvanje kapitala ili plaćanje minimalnih kamata.
+
+(4) Agencija će pravilnikom detaljnije propisati raspored vrsta rizika po skupinama i vrstama osiguranja.
+
+*Osobne okolnosti spola kod izračuna premije osiguranja*
+
+##### Članak 8.
+
+(1) Društvo za osiguranje ne smije pri sklapanju novog ugovora o osiguranju prilikom izračuna premija i određivanja osiguranog iznosa uzeti u obzir osobne okolnosti spola. Iznimno, društvo za osiguranje može kod ugovora o osiguranju na grupnoj osnovi uzeti u obzir osobne okolnosti spola kod izračuna premije i određivanja osiguranog iznosa, ako to ne dovodi do razlikovanja na pojedinačnoj osnovi. Društvo za osiguranje može uzeti u obzir faktor spola za izračun tehničkih pričuva i unutarnje određivanje cijene, za određivanje cijena reosiguranja, za promidžbu, kao i za procjenu rizika iz skupine životnih osiguranja i vrste osiguranja iz članka 7. stavka 2. točka 1. i 2. ovoga Zakona, odnosno osiguranja od nezgode i zdravstvenog osiguranja.
+
+(2) Za ugovore o osiguranju sklopljene prije 1. srpnja 2013. dopušteno je razlikovanje na pojedinačnoj osnovi na temelju osobnih okolnosti spola, ako je društvo za osiguranje kod određivanja premije i osiguranog iznosa uzelo u obzir osobne okolnosti spola.
+
+(3) Agencija će detaljnije pravilnikom propisati način primjene stavaka 1. i 2. ovoga članka.
+
+*Poslovi reosiguranja*
+
+##### Članak 9.
+
+(1) Poslovi reosiguranja su sklapanje i ispunjavanje ugovora o reosiguranju kojim se prenosi višak rizika iznad samopridržaja društva za osiguranje društvu za reosiguranje, odnosno društvu za osiguranje koje ima odobrenje za obavljanje poslova reosiguranja.
+
+(2) Odredba stavka 1. ovoga članka na odgovarajući se način primjenjuje na društvo za reosiguranje i društvo za osiguranje koje ima odobrenje za obavljanje poslova reosiguranja kada obavlja poslove reosiguranja za društvo iz stavka 1. ovoga članka.
+
+*Obveza reosiguranja*
+
+##### Članak 10.
+
+(1) Društvo za osiguranje mora kod ugovora o reosiguranju pokriti samo onaj dio preuzetih osiguranih rizika koji prema tablicama maksimalnog pokrića prelaze udjele u kompenzaciji rizika. Iznimno, kod pojedinačnih ugovora o reosiguranju samopridržaj društva za osiguranje može biti manji nego u tablicama maksimalnog pokrića.
+
+(2) Agencija pravilnikom propisuje sadržaj programa planiranog reosiguranja.
+
+*Program planiranog reosiguranja*
+
+##### Članak 11.
+
+(1) Društvo za osiguranje dužno je za svaku poslovnu godinu prihvatiti program planiranog reosiguranja.
+
+(2) Program planiranog reosiguranja mora obuhvaćati:
+
+1. izračunati samopridržaj prema pojedinim vrstama osiguranja
+
+2. tablicu maksimalnog pokrića sastavljenu na temelju izračuna iz točke 1. ovoga stavka
+
+3. postupke, osnovice i mjerila za utvrđivanje najveće vjerojatne štete za pojedine preuzete osigurane rizike.
+
+(3) Pri izračunu iz stavka 2. točke 1. ovoga članka društvo za osiguranje uzima u obzir najmanje:
+
+1. vlastitu ocjenu rizika i solventnosti te potrebni solventni kapital i prihvatljiva vlastita sredstva
+
+2. cjelokupni opseg poslova
+
+3. visinu premije osiguranja u skupinama i vrstama osiguranja
+
+4. udjele osiguranja prema pojedinim vrstama osiguranja u osnovicama iz točaka 2. i 3. ovoga stavka
+
+5. ispravke zbog odstupanja u pojedinim vrstama osiguranja.
+
+*Suosiguranje*
+
+##### Članak 12.
+
+(1) Društvo za osiguranje zajedno s jednim ili više društava za osiguranje može suosiguravati rizike iz vrsta osiguranja za koje ima odobrenje za obavljanje poslova osiguranja.
+
+(2) Društvo za osiguranje ne smije u suosiguranje preuzeti rizike u opsegu koji prelazi njegovo maksimalno pokriće po pojedinim vrstama osiguranja u skladu s tablicama maksimalnog pokrića.
+
+*Suosiguranje na razini država članica*
+
+##### Članak 13.
+
+(1) Suosiguranje rizika iz vrsta osiguranja iz članka 7. stavka 2. točaka 3. – 16. ovoga Zakona na razini država članica može se obavljati uz ispunjenje sljedećih uvjeta:
+
+1. rizik koji se suosigurava je veliki rizik
+
+2. dva ili više društava za osiguranje pokrivaju rizik, u okviru jednoga jedinog ugovora koji sadržava ukupnu premiju i isto razdoblje pokrića, svaki za svoj dio, pri čemu je jedno od društava za osiguranje vodeće društvo za osiguranje
+
+3. preuzima se rizik koji se nalazi unutar država članica
+
+4. u svrhu pokrića rizika, vodeće društvo za osiguranje tretira se kao da je društvo za osiguranje koje pokriva ukupni rizik
+
+5. najmanje jedan od suosiguratelja ima sjedište ili podružnicu osnovanu u državi članici koja nije država vodećeg društva za osiguranje
+
+6. vodeće društvo za osiguranje u cijelosti preuzima vodeću ulogu u postupku suosiguranja i određuje uvjete osiguranja, uključujući i premiju.
+
+(2) Za vodeće društvo za osiguranje primjenjuju se odredbe ovoga Zakona koje se odnose na slobodu pružanja usluga.
+
+(3) Na poslove suosiguranja koji ne ispunjavaju uvjete iz stavka 1. ovoga članka primjenjuju se ostale odredbe ovoga Zakona.
+
+(4) Društvo za osiguranje iz Republike Hrvatske dužno je u slučaju obavljanja poslova suosiguranja oblikovati tehničke pričuve u skladu s ovim Zakonom tako da budu najmanje jednake tehničkim pričuvama koje je utvrdilo vodeće društvo za osiguranje prema propisima matične države članice.
+
+(5) Društvo za osiguranje dužno je voditi statističke podatke o opsegu poslova suosiguranja na području država članica u kojima sudjeluje.
+
+(6) U slučaju likvidacije ili stečaja društva za osiguranje koje je suosiguratelj primjenjuju se odredbe članka 281. ovoga Zakona.
+
+(7) Agencija i nadzorna tijela drugih država članica pojedinog suosiguratelja međusobno razmjenjuju potrebne informacije i blisko surađuju s Komisijom u svrhu ispitivanja poteškoća i prakse koje mogu ukazivati da vodeće društvo za osiguranje ne preuzima svoju ulogu ili da rizici ne zahtijevaju sudjelovanje dvaju ili više suosiguratelja.
+
+*Subjekt posebne namjene*
+
+##### Članak 14.
+
+(1) Subjekt posebne namjene može početi s radom samo ako ima odobrenje Agencije za preuzimanje rizika društva za osiguranje, odnosno društva za reosiguranje.
+
+(2) Agencija izdaje odobrenje subjektu posebne namjene za preuzimanje rizika društva za osiguranje, odnosno društva za reosiguranje u skladu s odredbama ovoga Zakona koje se odnose na izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja, a u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju postupci za davanje odobrenja nadzornog tijela za osnivanje subjekata posebne namjene i postupcima za suradnju i razmjenu informacija među nadzornim tijelima.
+
+(3) Na subjekt posebne namjene primjenjuju se odredbe ovoga Zakona koje se odnose na nadzor društava za osiguranje i društava za reosiguranje i odredbe Zakona o trgovačkim društvima.
+
+*Društvo za osiguranje i društvo za reosiguranje*
+
+##### Članak 15.
+
+(1) Društvo za osiguranje ne može se upisati u sudski registar prije dobivanja odobrenja Agencije za obavljanje poslova osiguranja.
+
+(2) Društvo za reosiguranje ne može se upisati u sudski registar prije dobivanja odobrenja Agencije za obavljanje poslova reosiguranja.
+
+(3) Društvo za osiguranje i društvo za reosiguranje moraju prije osnivanja podružnice u trećoj državi dobiti odobrenje Agencije.
+
+(4) Sjedište društva za osiguranje i društva za reosiguranje mora biti u istoj državi članici u kojoj se nalazi njegovo registrirano sjedište.
+
+*Vlastito društvo za osiguranje i vlastito društvo za reosiguranje*
+
+##### Članak 16.
+
+(1) Na vlastito društvo za osiguranje primjenjuju se odredbe ovoga Zakona koje se primjenjuju na društvo za osiguranje, osim kad za ta društva postoje posebne odredbe.
+
+(2) Na vlastito društvo za reosiguranje primjenjuju se odredbe ovoga Zakona koje se primjenjuju na društvo za osiguranje i posebno propisane odredbe za društvo za reosiguranje, osim kad za ta društva postoje posebne odredbe.
+
+*Obavljanje poslova osiguranja i reosiguranja*
+
+##### Članak 17.
+
+(1) Poslove osiguranja u Republici Hrvatskoj može obavljati:
+
+1. društvo za osiguranje sa sjedištem u Republici Hrvatskoj koje ima odobrenje Agencije za obavljanje poslova osiguranja
+
+2. društvo za uzajamno osiguranje sa sjedištem u Republici Hrvatskoj koje ima odobrenje Agencije za obavljanje poslova osiguranja
+
+3. društvo za osiguranje iz druge države članice koje, u skladu s ovim Zakonom, ima pravo obavljati poslove osiguranja putem slobode pružanja usluga ili poslovnog nastana
+
+4. društvo za osiguranje iz Švicarske Konfederacije koje je ima odobrenje nadležnoga nadzornog tijela za obavljanje poslova osiguranja i koje u skladu s ovim Zakonom ima pravo obavljati poslove osiguranja putem poslovnog nastana
+
+5. podružnica društva za osiguranje iz treće države koje ima odobrenje Agencije za obavljanje poslova osiguranja putem poslovnog nastana.
+
+(2) Društva iz stavka 1. ovoga članka smiju obavljati poslove osiguranja samo u onim vrstama osiguranja za koje imaju odobrenje za obavljanje poslova osiguranja.
+
+(3) Poslove reosiguranja u Republici Hrvatskoj može obavljati:
+
+1. društvo za reosiguranje i društvo za osiguranje sa sjedištem u Republici Hrvatskoj koje ima odobrenje Agencije za obavljanje poslova reosiguranja
+
+2. društvo za reosiguranje i društvo za osiguranje sa sjedištem u drugoj državi članici koje ima odobrenje nadležnog nadzornog tijela za obavljanje poslova reosiguranja i koje, u skladu s ovim Zakonom, ima pravo obavljati poslove reosiguranja putem slobode pružanja usluga ili poslovnog nastana
+
+3. društvo za reosiguranje iz Švicarske Konfederacije koje ima odobrenje nadležnog nadzornog tijela za obavljanje poslova reosiguranja i ima pravo obavljati poslove reosiguranja putem slobode pružanja usluga ili poslovnog nastana
+
+4. društvo za reosiguranje treće države koje ima odobrenje nadležnog nadzornog tijela za obavljanje poslova reosiguranja i koje ima pravo obavljati poslove reosiguranja putem slobode pružanja usluga ili poslovnog nastana.
+
+(4) Poslove osiguranja i poslove reosiguranja ne smije obavljati nitko drugi osim osoba iz ovoga članka.
+
+*Primjena drugih propisa*
+
+##### Članak 18.
+
+(1) Na društvo za osiguranje primjenjuju se odredbe Zakona o trgovačkim društvima, ako ovim Zakonom nije drukčije propisano.
+
+(2) Na ugovore o osiguranju primjenjuju se odredbe Zakona o obveznim odnosima i drugih propisa kojima se uređuje ugovor o osiguranju.
+
+*Oblik društva*
+
+##### Članak 19.
+
+(1) Društvo za osiguranje može biti osnovano samo kao dioničko društvo, europsko društvo (Societas Europea – SE) ili kao društvo za uzajamno osiguranje.
+
+(2) Društvo za reosiguranje može biti osnovano samo kao dioničko društvo ili europsko društvo (Societas Europea – SE).
+
+*Djelatnost društva za osiguranje, odnosno društva za reosiguranje*
+
+##### Članak 20.
+
+(1) Društvo za osiguranje mora ograničiti svoje ciljeve na poslove osiguranja i poslove koji izravno proizlaze iz osiguranja, pri čemu su isključene sve druge poslovne djelatnosti osim poslova reosiguranja ako za obavljanje tih poslova društvo za osiguranje ima odobrenje Agencije.
+
+(2) Društvo za reosiguranje mora ograničiti svoje ciljeve na poslove reosiguranja i povezane poslove i poslove koji izravno proizlaze iz reosiguranja, pri čemu su isključene sve druge poslovne djelatnosti osim funkcije holdinga i djelatnosti u vezi s djelatnostima financijskog sektora u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata.
+
+(3) Društvo za osiguranje smije obavljati samo poslove osiguranja i poslove reosiguranja u vrsti osiguranja za koje ima prethodno odobrenje Agencije za obavljanje poslova osiguranja, odnosno poslova reosiguranja.
+
+(4) Financijski izvještaji društva za osiguranje koje ima odobrenje za obavljanje poslova neživotnog osiguranja i društva za osiguranje koje ima odobrenje za obavljanje poslova životnog osiguranja, a koja imaju međusobnu financijsku, poslovnu ili upravljačku povezanost ne smiju biti iskrivljeni sporazumima koji postoje između tih društava ili bilo kakvim drugim sporazumima koji bi mogli utjecati na raspodjelu troškova i prihoda.
+
+(5) Odobrenje za određenu vrstu osiguranja obuhvaća sve rizike unutar te vrste osiguranja, osim ako je odobrenje za obavljanje poslova osiguranja podneseno samo za pojedine rizike koji pripadaju određenoj vrsti osiguranja i u tom slučaju izdaje se odobrenje za obavljanje poslova osiguranja za pojedini rizik.
+
+(6) U okviru poslova iz ovoga članka društvo za osiguranje može obavljati i:
+
+1. poslove nuđenja udjela investicijskih fondova te poslove ponude mirovinskih programa dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava sukladno odredbama zakona kojima se uređuje nuđenje udjela investicijskih fondova i ponuda mirovinskih programa
+
+2. poslove zastupanja u osiguranju za druga društva za osiguranje sukladno članku 399. ovoga Zakona
+
+3. poslove koji su u neposrednoj ili posrednoj vezi s poslovima osiguranja.
+
+(7) Iznimno od stavka 1. ovoga članka, društvo za osiguranje može obavljati i poslove za druga društva u grupi društava za osiguranje, ali samo u slučaju ako isti ne povećavaju rizik za grupu i društvo za osiguranje i samo one vrste poslova koji su dio poslovanja društva za osiguranje u okviru njegove osnovne djelatnosti.
+
+*Zasebno upravljanje poslovima životnog i neživotnog osiguranja*
+
+##### Članak 21.
+
+(1) Društvo za osiguranje koje u skladu s člankom 453. stavkom 2. ovoga Zakona istodobno obavlja poslove životnog i poslove neživotnog osiguranja dužno je zasebno upravljati poslovima životnog osiguranja i zasebno upravljati poslovima neživotnog osiguranja pri čemu interesi ugovaratelja neživotnog osiguranja i interesi ugovaratelja životnog osiguranja koji može imati pravo na dobit iz ugovora o osiguranja ne smiju biti dovedeni u pitanje.
+
+(2) Društvo za osiguranje koje u skladu s člankom 453. stavkom 2. ovoga Zakona istodobno obavlja poslove životnog i poslove neživotnog osiguranja dužno je:
+
+1. sastavljati financijske izvještaje tako da se zasebno prikazuju rezultati za životno i neživotno osiguranje na način da se sveukupni prihod, a posebno premije, plaćanja od strane društva za reosiguranje i prihod od ulaganja te rashodi, posebno izdaci za štete, premije reosiguranja i troškovi poslovanja s obzirom na djelatnost osiguranja dijele prema podrijetlu dok se stavke koje su zajedničke objema djelatnostima unose u financijske izvještaje u skladu s metodom raspodjele o kojoj je društvo za osiguranje dužno najkasnije 60 dana prije njezine primjene ili izmjene pisano obavijestiti Agenciju
+
+2. izračunavati odvojeno:
+
+– pretpostavljeni minimalni potrebni kapital s obzirom na poslove životnog osiguranja, odnosno reosiguranja, izračunat kao da se predmetno društvo bavi samo tim poslovima, na temelju zasebnih financijskih izvještaja iz stavka 2. točke 1. ovoga članka
+
+– pretpostavljeni minimalni potrebni kapital s obzirom na poslove neživotnog osiguranja, odnosno reosiguranja, izračunat kao da se predmetno društvo bavi samo tim poslovima, na temelju zasebnih financijskih izvještaja iz stavka 2. točke 1. ovoga članka
+
+3. osigurati odgovarajuće iznose prihvatljivih osnovnih vlastitih sredstava najmanje za pokriće
+
+– pretpostavljenog minimalnog potrebnog kapitala za životno osiguranje
+
+– pretpostavljenog minimalnog potrebnog kapitala za neživotno osiguranje,
+
+pri čemu ove minimalne financijske obveze za životno osiguranje i neživotno osiguranje ne smije snositi druga skupina osiguranja te pripremiti izjavu na temelju financijskih izvještaja u kojoj su stavke prihvatljivih osnovnih vlastitih sredstava koje pokrivaju pretpostavljeni minimalni potrebni kapital za životno, odnosno neživotno osiguranje jasno utvrđene u skladu s člankom 129. ovoga Zakona.
+
+(3) Sve dok su ispunjene minimalne financijske obveze iz stavka 2. točke 3. ovoga članka i pod uvjetom da je obaviještena Agencija, društvo za osiguranje može pokrivati potrebni solventni kapital iz članaka 130. i 131. ovoga Zakona upotrebljavajući odgovarajuće stavke prihvatljivih vlastitih sredstava koje su još na raspolaganju za jednu ili drugu skupinu osiguranja.
+
+(4) Ako je iznos stavki prihvatljivih osnovnih vlastitih sredstava s obzirom na jednu od skupina osiguranja nedostatan da pokrije minimalne financijske obveze iz stavka 2. točke 3. ovoga članka, Agencija može naložiti nadzorne mjere za otklanjanje nepravilnosti za navedenu skupinu osiguranja, bez obzira na rezultate druge skupine osiguranja. Iznimno, te mjere mogu uključivati odobrenje prijenosa izričitih stavki prihvatljivih osnovnih vlastitih sredstava iz jedne skupine osiguranja u drugu.
+
+(5) Ako Agencija utvrdi da metoda raspodjele iz stavka 2. točke 1. ovoga članka nije prihvatljiva o tome će izvijestiti društvo za osiguranje u roku od 60 dana od dana kada je o tome zaprimila obavijest.
+
+(6) Ako Agencija ne izvijesti društvo za osiguranje u roku iz stavka 5. ovoga članka, smatra se da je Agencija suglasna s primjenom metode raspodjele.
+
+*Temeljni kapital*
+
+##### Članak 22.
+
+(1) Temeljni kapital pri osnivanju društva za osiguranje i društva za reosiguranje odnosno proširenju odobrenja za obavljanje poslova osiguranja društva za osiguranje ne smije biti manji od iznosa apsolutnog praga minimalnog potrebnog kapitala iz članka 158. ovoga Zakona.
+
+(2) Sredstva temeljnog kapitala društva za osiguranje i društva za reosiguranje ne smiju potjecati iz zajmova ili kredita niti biti opterećena na bilo koji način.
+
+*Dionice*
+
+##### Članak 23.
+
+(1) Dionice društva za osiguranje moraju glasiti na ime.
+
+(2) Dionice društva za osiguranje moraju biti u cijelosti uplaćene u novcu prije upisa osnivanja ili upisa povećanja temeljnog kapitala dioničkog društva za osiguranje u sudski registar.
+
+(3) Povlaštene dionice društva za osiguranje mogu biti do najviše 25 % ukupnih dionica dioničkog društva za osiguranje iz stavka 2. ovoga članka.
+
+(4) Dionice društva za osiguranje moraju biti izdane u nematerijaliziranom obliku.
+
+(5) Odredba iz stavka 2. ovoga članka ne primjenjuje se u slučaju pripajanja društva za osiguranje, odnosno u slučaju podjele društva za osiguranje.
+
+## GLAVA III. — ODOBRENJE ZA OBAVLJANJE POSLOVA OSIGURANJA I POSLOVA REOSIGURANJA
+
+*Odobrenje za obavljanje poslova osiguranja i poslova reosiguranja*
+
+##### Članak 24.
+
+(1) Agencija izdaje društvu za osiguranje odobrenje za obavljanje poslova osiguranja i poslova reosiguranja, a društvu za reosiguranje izdaje odobrenje za obavljanje poslova reosiguranja.
+
+(2) Odobrenje za obavljanje poslova osiguranja može sadržavati odobrenje za obavljanje poslova osiguranja za:
+
+1. skupinu neživotnih osiguranja ili
+
+2. skupinu životnih osiguranja
+
+3. pojedinu vrstu osiguranja unutar skupine neživotnog ili životnog osiguranja
+
+4. rizike koji pripadaju određenoj vrsti osiguranja
+
+5. podskupine neživotnih osiguranja iz stavka 3. ovoga članka.
+
+(3) Odobrenje koje istodobno obuhvaća sljedeće vrste neživotnih osiguranja izdaje se pod nazivom:
+
+1. osiguranje od nezgode i zdravstveno osiguranje ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točaka 1. i 2. ovoga Zakona
+
+2. osiguranje motornih vozila ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točke 1. podtočke 4. i točaka 3., 7. i 10. ovoga Zakona
+
+3. pomorsko i transportno osiguranje ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točke 1. podtočke 4. i točaka 4., 6., 7. i 12. ovoga Zakona
+
+4. osiguranje zračnih letjelica ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točke 1. podtočke 4. i točaka 5., 7. i 11. ovoga Zakona
+
+5. osiguranje od požara i druga osiguranja imovine ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točaka 8. i 9. ovoga Zakona
+
+6. osiguranje od odgovornosti ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točaka 10., 11., 12. i 13. ovoga Zakona
+
+7. kreditno osiguranje i osiguranje jamstava ako obuhvaća vrste osiguranja iz članka 7. stavka 2. točaka 14. i 15. ovoga Zakona
+
+8. sve vrste neživotnih osiguranja, odnosno skupinu neživotnih osiguranja iz članka 7. stavka 2. ovoga Zakona.
+
+(4) Društvo za osiguranje ne može dobiti odobrenje za istodobno obavljanje poslova osiguranja u skupini životnih osiguranja i u skupini neživotnih osiguranja.
+
+(5) Iznimno od stavka 4. ovoga članka, društvo za osiguranje koje ima odobrenje za obavljanje poslova u skupini životnog osiguranja može obavljati i poslove osiguranja u vrstama osiguranja iz članka 7. stavka 2. točaka 1. i 2. ovoga Zakona ako je prethodno dobilo odobrenje Agencije za obavljanje poslova osiguranja za navedene vrste osiguranja.
+
+(6) Iznimno od stavka 4. ovoga članka, društvo za osiguranje koje je dobilo odobrenje za obavljanje poslova u skupini neživotnog osiguranja isključivo iz vrsta osiguranja iz članka 7. stavka 2. točaka 1. i 2. ovoga Zakona može obavljati i poslove osiguranja u vrstama osiguranja iz skupine životnih osiguranja ako je prethodno dobilo odobrenje Agencije za obavljanje poslova osiguranja u vrstama životnog osiguranja.
+
+(7) Uz odobrenje iz stavka 2. ovoga članka Agencija može društvu za osiguranje izdati i odobrenje za obavljanje poslova reosiguranja.
+
+(8) U slučaju iz stavka 7. ovoga članka društvo za osiguranje ne može preuzeti u reosiguranje rizike koje je preuzelo ugovorom o osiguranju.
+
+(9) Društvo za reosiguranje može dobiti odobrenje za obavljanje poslova reosiguranja za skupinu neživotnih osiguranja, za skupinu životnih osiguranja ili za skupinu životnih i skupinu neživotnih osiguranja.
+
+(10) Društvo za reosiguranje ne može dobiti odobrenje za obavljanje poslova osiguranja.
+
+(11) Društvo za osiguranje smije obavljati samo poslove osiguranja i poslove reosiguranja u vrsti osiguranja za koje ima prethodno odobrenje Agencije za obavljanje poslova osiguranja.
+
+(12) Iznimno od stavka 11. ovoga članka, društvo za osiguranje može osiguravati dodatne rizike u skladu s člankom 25. ovoga Zakona.
+
+(13) Agencija može ograničiti odobrenje za obavljanje poslova osiguranja koje je bilo zatraženo za jednu od vrsta osiguranja, na poslove navedene u poslovnom planu iz članka 30. ovoga Zakona dostavljenom uz zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja.
+
+(14) Društvo za osiguranje može obavljati poslove osiguranja iz vrste osiguranja iz članka 7. stavka 2. točke 18. ovoga Zakona, odnosno osiguranje pomoći (asistencija), samo ako ima odobrenje Agencije za obavljanje poslova osiguranja u toj vrsti osiguranja.
+
+(15) Nakon dobivanja odobrenja za obavljanje poslova osiguranja društvo za osiguranje i društvo za reosiguranje može se upisati u sudski registar i obavljati samo poslove osiguranja, odnosno poslove reosiguranja za čije obavljanje je dobilo odobrenje Agencije.
+
+(16) Odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja koje je Agencija izdala u skladu s odredbama ovoga Zakona vrijedi na području svih država članica pri čemu to odobrenje obuhvaća i pravo poslovnog nastana i slobodu pružanja usluga.
+
+(17) U slučaju iz stavaka 5. i 6. ovoga članka društvo za osiguranje dužno je zasebno upravljati poslovima osiguranja u skladu s člankom 21. ovoga Zakona.
+
+*Dodatni rizici*
+
+##### Članak 25.
+
+(1) Društvo za osiguranje koje ima odobrenje za obavljanje poslova osiguranja za vrstu osiguranja ili skupinu osiguranja iz članka 7. ovoga Zakona može uz sve osnovne rizike u okviru te vrste osiguranja osiguravati i rizike uključene u drugu vrstu osiguranja, bez dobivanja odobrenja za obavljanje poslova osiguranja za tu drugu vrstu osiguranja, pod uvjetom da ti rizici ispunjavaju sve sljedeće uvjete:
+
+1. povezani su s osnovnim rizikom
+
+2. odnose se na predmet osiguranja osiguran osnovnim rizikom i
+
+3. predmet su osiguranja u ugovoru kojim se osigurava osnovni rizik.
+
+(2) Iznimno od stavka 1. ovoga članka, rizici koji su uključeni u vrste osiguranja iz članka 7. stavka 2. točaka 14., 15. i 17. ovoga Zakona ne smatraju se rizicima koji su dodatni u odnosu na druge vrste osiguranja.
+
+(3) Iznimno od stavka 2. ovoga članka, osiguranje troškova pravne zaštite može se smatrati dodatnim rizikom u odnosu na vrstu osiguranja iz članka 7. stavka 2. točke 18. ovoga Zakona, osiguranje pomoći (asistencija) ako su ispunjeni uvjeti propisani stavkom 1. ovoga članka i jedan od sljedećih uvjeta:
+
+1. osnovni rizik odnosi se na pomoć pruženu osobama koje zapadnu u poteškoće prilikom putovanja, dok su izvan svog prebivališta ili uobičajenog boravišta ili
+
+2. osiguranje se odnosi na sporove ili rizike koji proizlaze iz uporabe pomorskih plovila ili su s njima povezani.
+
+*Naknadno odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja*
+
+##### Članak 26.
+
+(1) Društvo za osiguranje koje podnosi zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja u drugim vrstama osiguranja ili rizicima koji pripadaju određenoj vrsti osiguranja ili za izdavanje odobrenja za obavljanje poslova reosiguranja, odnosno društvo za reosiguranje koje podnosi zahtjev za izdavanje odobrenja za obavljanje poslova reosiguranja u drugoj skupini osiguranja, dužno je uz zahtjev priložiti poslovni plan u skladu s člankom 29. ovoga Zakona te dokaz o postojanju odgovarajućih vlastitih sredstava za pokriće potrebnog solventnog kapitala i minimalnog potrebnog kapitala, kako je predviđeno u člancima 130. i 157. ovoga Zakona.
+
+(2) Ako društvo za osiguranje iz stavka 1. ovoga članka koje ima odobrenje za obavljanje poslova životnog osiguranja podnosi zahtjev za izdavanje odobrenja za obavljanje poslova neživotnog osiguranja iz članka 7. stavka 2. točaka 1. i 2. ovoga Zakona, u skladu s člankom 24. stavkom 5. ovoga Zakona, dužno je uz zahtjev dostaviti i dokaze da:
+
+1. ima prihvatljiva osnovna vlastita sredstva za pokriće apsolutnog praga minimalnog potrebnog kapitala za društvo za osiguranje koje obavlja poslove životnog osiguranja i apsolutnog praga minimalnog potrebnog kapitala za društvo za osiguranje koje obavlja poslove neživotnih osiguranja iz članka 158. stavka 1. točke 4. ovoga Zakona
+
+2. se obvezalo da će u budućnosti ispuniti minimalne financijske obveze iz članka 21. stavka 2. točke 3. ovoga Zakona.
+
+(3) Ako društvo za osiguranje iz stavka 1. ovoga članka koje je dobilo odobrenje za obavljanje poslova neživotnog osiguranja iz članka 7. stavka 2. točaka 1. i 2. ovoga Zakona podnosi zahtjev za izdavanje odobrenja za obavljanje poslova životnog osiguranja, u skladu s člankom 24. stavkom 6. ovoga Zakona, dužno je uz zahtjev dostaviti i dokaze da:
+
+1. ima prihvatljiva osnovna vlastita sredstva za pokriće apsolutnog praga minimalnog potrebnog kapitala za društvo za osiguranje koje obavlja poslove životnog osiguranja i apsolutnog praga minimalnog potrebnog kapitala za društvo za osiguranje koje obavlja poslove neživotnih osiguranja iz članka 158. stavka 1. točke 4. ovoga Zakona
+
+2. se obvezalo da će u budućnosti ispuniti minimalne financijske obveze iz članka 21. stavka 2. točke 3. ovoga Zakona.
+
+(4) Agencija će odbiti zahtjev za izdavanje odobrenja iz stavka 1. ovoga članka kada:
+
+1. utvrdi da bi obavljanje poslova u vrsti osiguranja na koju se odnosi zahtjev za izdavanje odobrenja ugrozilo poslovanje društva za osiguranje u skladu s pravilima o upravljanju rizicima
+
+2. društvo za osiguranje ne ispunjava uvjete za obavljanje poslova osiguranja u vrsti osiguranja ili riziku koji pripada određenoj vrsti osiguranja na koju se odnosi zahtjev za izdavanje odobrenja.
+
+(5) Sva naknadna odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja koja društvo za osiguranje, odnosno društvo za reosiguranje dobije na temelju ovoga Zakona smatraju se sastavnim dijelom odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja koje je to društvo dobilo.
+
+*Zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja*
+
+##### Članak 27.
+
+(1) Zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja podnose osnivači društva za osiguranje, odnosno društva za reosiguranje.
+
+(2) U zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja moraju se navesti, u skladu s člankom 24. ovoga Zakona, skupine osiguranja, pojedine vrste osiguranja ili rizici unutar određene vrste osiguranja za koje se traži izdavanje odobrenja.
+
+(3) Zahtjevu je potrebno priložiti:
+
+1. statut društva za osiguranje s ispravom na temelju koje je statut usvojen (izjava članova), u obliku javnobilježničkog akta
+
+2. popis članova društva za osiguranje, s izjavom svakog od njih ispunjavaju li uvjete iz članka 36. stavka 8. točaka 6. i 7. ovoga Zakona, zatim informacije o osobama s kojima su usko povezani u smislu odredbi ovoga Zakona i prirodi njihove povezanosti te dokumente koji potvrđuju pravni status i podrijetlo financijskih sredstava namijenjenih za uplatu temeljnoga kapitala društva za osiguranje
+
+3. popis imenovanih članova nadzornog odbora društva za osiguranje s dokazima da ispunjavaju uvjete iz članka 59. ovoga Zakona
+
+4. imena osoba koji će biti nositelji ključnih funkcija i dokaz da će društvo za osiguranje moći ispuniti uvjete u vezi sa sustavom upravljanja iz članka 92. ovoga Zakona
+
+5. organizacijsku strukturu i poslovni plan društva za osiguranje za sljedeće tri poslovne godine koji mora biti izrađen u skladu s člankom 29. ovoga Zakona
+
+6. prijedlog ugovora o obavljanju izdvojenih poslova ili funkcija kad je planirano njihovo izdvajanje i prijedlog ugovora o obavljanju ključnih funkcija s dokumentacijom koja se u skladu s odredbama ovoga Zakona dostavlja Agenciji prije izdvajanja poslova, odnosno funkcija
+
+7. uvjete osiguranja za obvezna osiguranja u prometu, ako će društvo za osiguranje pružati usluge obveznih osiguranja u prometu
+
+8. dokaz o postojanju prihvatljivih osnovnih vlastitih sredstava za pokriće apsolutnog praga minimalnog potrebnog kapitala predviđenog u članku 158. ovoga Zakona
+
+9. dokaz da će društvo za osiguranje u budućnosti imati prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala, kako je predviđeno u članku 157. ovoga Zakona
+
+10. dokaz da će društvo za osiguranje u budućnosti moći imati prihvatljiva vlastita sredstva za pokriće potrebnog solventnog kapitala, kako je predviđeno u člancima 130. i 131. ovoga Zakona
+
+11. zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela i dokumentaciju iz članka 36. ovoga Zakona, koji podnosi svaki od članova društva za osiguranje koji su stjecatelji kvalificiranog udjela u društvu za osiguranje
+
+12. zahtjeve nadzornog odbora za izdavanje odobrenja za obavljanje funkcije članova uprave društva za osiguranje iz članka 52. ovoga Zakona
+
+13. adresu opunomoćenika za primanje pismena u Republici Hrvatskoj, kada podnositelj zahtjeva nema prebivalište ili boravište u Republici Hrvatskoj, a kad je isti zahtjev podnijelo više osoba, adresu zajedničkog predstavnika ili opunomoćenika za primanje pismena u Republici Hrvatskoj.
+
+(4) Ako se podnosi zahtjev za izdavanje odobrenja za obavljanje poslova neživotnih osiguranja u vrsti osiguranja iz članka 7. stavka 2. točke 10. ovoga Zakona, odnosno osiguranje od odgovornosti za upotrebu motornih vozila ovoga Zakona, uz iznimku odgovornosti prijevoznika, uz zahtjev se, osim dokumentacije navedene u stavku 1. ovoga članka, mora priložiti i ime i adresa svih predstavnika za rješavanje odštetnih zahtjeva koji su imenovani u svakoj državi članici u kojoj se traži odobrenje za obavljanje poslova osiguranja u navedenoj vrsti osiguranja.
+
+(5) Ako se podnosi zahtjev za izdavanje odobrenja za obavljanje poslova neživotnih osiguranja za vrstu osiguranja iz članka 7. stavka 2. točke 18. ovoga Zakona, osiguranje pomoći (asistencija), uz zahtjev se, osim dokumentacije navedene u stavku 1. ovoga članka, mora priložiti popis izravnih i neizravnih kadrovskih i tehničkih kapaciteta, uključujući kvalifikacije zdravstvenih timova i kvalitetu opreme koje će društvo za osiguranje koristiti za ispunjenje obveza iz navedene vrste osiguranja.
+
+(6) Agencija može zatražiti po potrebi i druge informacije i dokumentaciju kojom se dokazuje ispunjavanje uvjeta za izdavanje odobrenja za obavljanje poslova osiguranja, uključujući i informacije koje su propisane zakonom kojim se uređuje sprječavanje pranja novca i financiranja terorizma, a koje prikupljaju obveznici toga zakona.
+
+(7) Prije izdavanja odobrenja iz stavka 1. ovoga članka Agencija će se savjetovati i razmijeniti informacije s nadležnim nadzornim tijelom matične države članice, odnosno treće države, u odnosu na primjerenost stjecatelja kvalificiranog udjela, ugled, odgovarajuće sposobnosti i iskustvo članova uprave i nadzornog odbora.
+
+*Spajanje postupaka pri odlučivanju o zahtjevu za izdavanje odobrenja za rad*
+
+##### Članak 28.
+
+Agencija može istodobno odlučivati o sljedećim zahtjevima pri izdavanju odobrenja za obavljanje poslova osiguranja:
+
+1. o zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela i
+
+2. o zahtjevima za izdavanje odobrenja za obavljanje funkcije članova uprave društva za osiguranje.
+
+*Poslovni plan*
+
+##### Članak 29.
+
+(1) Poslovni plan iz članka 27. stavka 2. točke 5. ovoga Zakona mora sadržavati najmanje:
+
+1. temeljne poslovne politike
+
+2. prirodu rizika koje društvo za osiguranje namjerava pokriti
+
+3. nabrojene pojedine vrste osiguranja unutar kojih će društvo za osiguranje obavljati poslove osiguranja
+
+4. program predviđenog reosiguranja s tablicama maksimalnog pokrića za sve vrste osiguranja s vodećim načelima reosiguranja
+
+5. stavke osnovnih vlastitih sredstava koje čine apsolutni prag minimalnog potrebnog kapitala
+
+6. predviđenu visinu troškova osnivanja i troškova organizacije poslovanja te izvore financiranja ovih troškova.
+
+(2) Osim zahtjeva iz stavka 1. ovoga članka, poslovni plan za prve tri poslovne godine mora sadržavati i sljedeće:
+
+1. projekciju izvještaja o financijskom položaju za potrebe solventnosti
+
+2. procjenu budućeg potrebnog solventnog kapitala, kako je predviđeno odredbama članaka 130. – 132. ovoga Zakona koja se temelji na projekciji izvještaja o financijskom položaju iz točke 1. ovoga stavka, kao i metodu izračuna koja je upotrijebljena za dobivanje tih procjena
+
+3. procjenu budućeg minimalnog potrebnog kapitala, kako je predviđeno odredbama članaka 157. i 158. ovoga Zakona koja se temelji na projekciji izvještaja o financijskom položaju iz točke 1. ovoga stavka, kao i metodu izračuna koja je upotrijebljena za dobivanje tih procjena
+
+4. procjenu financijskih sredstava koja su namijenjena za pokriće tehničkih pričuva, minimalnog potrebnog kapitala i potrebnog solventnog kapitala
+
+5. projekcije izvještaja o financijskom položaju i izvještaja o sveobuhvatnoj dobiti
+
+6. elaborat o očekivanim poslovnim rezultatima, osobito o očekivanim premijskim prihodima, očekivanim naknadama za štete, očekivanim troškovima za provizije i drugim troškovima.
+
+(3) Zahtjev društva za reosiguranje mora sadržavati podatke ili dokaze iz stavka 1. točke 1. – 3. ovoga članka, iz stavka 2. ovoga članka te podatke ili dokaze o:
+
+1. vrsti ugovora o reosiguranju koje društvo za reosiguranje namjerava sklopiti s društvima cedentima
+
+2. vodećim načelima retrocesije.
+
+(4) Ako društvo za osiguranje namjerava obavljati poslove osiguranja u vrsti osiguranja iz članka 7. stavka 2. točke 18. ovoga Zakona, poslovni plan mora sadržavati i opis resursa koji su potrebni za ispunjavanje obveza iz ove vrste osiguranja.
+
+*Prethodno savjetovanje s nadležnim nadzornim tijelom*
+
+##### Članak 30.
+
+(1) Agencija će se savjetovati s nadležnim nadzornim tijelom prije izdavanja odobrenja za obavljanje poslova osiguranja:
+
+1. društvu kćeri društva za osiguranje koje je dobilo odobrenje za obavljanje poslova osiguranja u toj državi članici
+
+2. društvu kćeri matičnog društva za osiguranje koje je dobilo odobrenje za obavljanje poslova osiguranja u toj državi članici ili
+
+3. društvu koje kontrolira ista fizička ili pravna osoba koja kontrolira društvo za osiguranje koje je dobilo odobrenje za obavljanje poslova osiguranja u toj državi članici.
+
+(2) S nadzornim tijelima uključene države članice koja su nadležna za nadzor kreditnih institucija ili investicijskih društva Agencija će se savjetovati prije izdavanja odobrenja za obavljanje poslova osiguranja društvu za osiguranje koje je:
+
+1. društvo kći kreditne institucije ili investicijskog društva koje je dobilo odobrenje za rad u drugim državama članicama
+
+2. društvo kći matičnog društva kreditne institucije ili investicijskog društva koje je dobilo odobrenje za rad u drugim državama članicama ili
+
+3. društvo koje kontrolira ista fizička ili pravna osoba koja kontrolira kreditnu instituciju ili investicijsko društvo koje je dobilo odobrenje za rad u drugim državama članicama.
+
+(3) Agencija će se posebno savjetovati s nadležnim nadzornim tijelima iz stavaka 1. i 2. ovoga članka prilikom procjene prihvatljivosti, odnosno dobrog ugleda osnivača i članova nadzornog odbora te procjene stručnosti i prihvatljivosti, odnosno dobrog ugleda svih članova uprave ili osoba koje obavljaju ključne funkcije u društvu za osiguranje, odnosno društvu za reosiguranje, a uključene su u upravljanje drugim subjektom unutar iste grupe te međusobno obavješćivati o svim informacijama koje su relevantne za izdavanje odobrenja za obavljanje poslova osiguranja, kao i za kontinuiranu procjenu ispunjavanja uvjeta poslovanja.
+
+*Odlučivanje o odobrenju za obavljanje poslova osiguranja, odnosno reosiguranja*
+
+##### Članak 31.
+
+(1) Agencija će odlučiti o izdavanju odobrenja za obavljanje poslova osiguranja i poslova reosiguranja u postupku po podnesenom zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja.
+
+(2) Agencija će izdati odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja navedeno u zahtjevu iz članka 27. stavka 2. ovoga Zakona za koje utvrdi da društvo za osiguranje, odnosno društvo za reosiguranje ispunjava uvjete za obavljanje poslova osiguranja, odnosno poslova reosiguranja propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona.
+
+(3) Ako postoji uska povezanost između društva za osiguranje i drugih fizičkih ili pravnih osoba, Agencija će izdati odobrenje za obavljanje poslova osiguranja samo ako ta uska povezanost ne sprječava djelotvorno obavljanje njezinih nadzornih funkcija.
+
+(4) U slučaju iz stavka 3. ovoga članka društvo za osiguranje kojemu je Agencija izdala odobrenje za obavljanje poslova osiguranja dužno je Agenciji dostaviti pisane informacije koje su joj potrebne za kontinuirano praćenje usklađenosti s uvjetima stavka 3. ovoga članka.
+
+(5) O zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja Agencija će odlučiti rješenjem u roku od 60 dana od dana zaprimanja urednog zahtjeva, a u slučaju spajanja postupka po tom zahtjevu s drugim zahtjevima u skladu s ovim Zakonom o spajanju postupaka, u roku od 60 dana od primitka zadnjeg urednog zahtjeva.
+
+*Početak obavljanja poslova osiguranja u pojedinoj vrsti osiguranja*
+
+##### Članak 32.
+
+Društvo za osiguranje dužno je obavijestiti Agenciju o početku, odnosno prestanku obavljanja poslova osiguranja u pojedinoj vrsti osiguranja za koje je dobilo odobrenje u roku od osam dana od početka, odnosno prestanka obavljanja poslova osiguranja unutar pojedine vrste osiguranja za koje je dobilo odobrenje.
+
+*Odbijanje zahtjeva za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja*
+
+##### Članak 33.
+
+(1) Agencija će odbiti zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja:
+
+1. ako stjecatelj ili stjecatelji kvalificiranog udjela u društvu za osiguranje, odnosno društvu za reosiguranje ne ispunjavaju uvjete iz ovoga Zakona za izdavanje odobrenja za stjecanje kvalificiranog udjela
+
+2. ako osoba ili osobe predložene za članove uprave društva za osiguranje, odnosno društva za reosiguranje ne ispunjavaju uvjete iz ovoga Zakona za izdavanje odobrenja za obavljanje funkcije člana uprave
+
+3. ako osoba ili osobe imenovane za članove nadzornog odbora ne ispunjavaju uvjete iz ovoga Zakona za obavljanje funkcije člana nadzornog odbora
+
+4. ako proizlazi da društvo za osiguranje, odnosno društvo za reosiguranje nije organizirano u skladu s ovim Zakonom, odnosno da nisu osigurani uvjeti za poslovanje društva za osiguranje, odnosno društva za reosiguranje određeni ovim Zakonom, propisima donesenima na temelju ovoga Zakona ili propisima Europske unije kojima se uređuje poslovanje društva za osiguranje, odnosno društva za reosiguranje
+
+5. ako su odredbe statuta društva za osiguranje, odnosno društva za reosiguranje u suprotnosti s odredbama ovoga Zakona ili odredbama propisa donesenih na temelju ovoga Zakona
+
+6. ako iz dokumentacije priložene uz zahtjev i drugih poznatih činjenica proizlazi da društvo za osiguranje, odnosno društvo za reosiguranje kadrovski, organizacijski i tehnički nije sposobno obavljati poslove osiguranja, odnosno poslove reosiguranja na način i u opsegu koji je predviđen njegovim poslovnim planom
+
+7. ako bi obavljanje nadzora poslovanja društva za osiguranje, odnosno društva za reosiguranje prema odredbama ovoga Zakona moglo biti otežano ili onemogućeno
+
+8. ako postoji uska povezanost između društva za osiguranje, odnosno društva za reosiguranje i drugih fizičkih ili pravnih osoba koja sprječava djelotvorno obavljanje nadzora Agencije
+
+9. ako zakoni i drugi propisi treće države onemogućuju ili stvaraju poteškoće djelotvornom obavljanju nadzornih funkcija nad fizičkim ili pravnim osobama s kojima je društvo za osiguranje u odnosu uske povezanosti
+
+10. ako iz zahtjeva i priložene dokumentacije proizlazi da društvo za osiguranje, odnosno društvo za reosiguranje ne ispunjava druge uvjete za obavljanje poslova osiguranja, odnosno poslova reosiguranja na koje se odnosi zahtjev za izdavanje odobrenja.
+
+(2) Agencija neće zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja razmatrati s obzirom na gospodarske zahtjeve tržišta.
+
+(3) Ako u postupku po podnesenom zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja Agencija utvrdi da društvo za osiguranje ispunjava uvjete za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja u određenoj skupini osiguranja, vrsti osiguranja ili riziku unutar određene vrste osiguranja navedenom u zahtjevu, izdat će odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja.
+
+(4) Ako u postupku po podnesenom zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja Agencija utvrdi da društvo za osiguranje ne ispunjava uvjete za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja u određenoj skupini osiguranja, vrsti osiguranja ili riziku unutar određene vrste osiguranja navedenom u zahtjevu, izdat će odobrenje samo za obavljanje poslova osiguranja za koje društvo za osiguranje, odnosno društvo za reosiguranje ispunjava uvjete za izdavanje odobrenja, a u preostalom dijelu zahtjev će odbiti.
+
+(5) Društvo za osiguranje ima pravo pokrenuti upravni spor ako Agencija ne odluči o zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja u roku iz članka 31. stavka 5. ovoga Zakona.
+
+*Prestanak važenja odobrenja za obavljanje poslova osiguranja odnosno poslova reosiguranja društva za osiguranje odnosno društva za reosiguranje*
+
+##### Članak 34.
+
+(1) Odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja društva za osiguranje odnosno društva za reosiguranje prestaje:
+
+1. po sili zakona, zaključenjem postupka likvidacije društva za osiguranje odnosno društva za reosiguranje
+
+2. po sili zakona, danom otvaranja stečajnog postupka nad društvom za osiguranje odnosno društva za reosiguranje
+
+3. po sili zakona, danom prijenosa svih ugovora o osiguranju na drugo društvo za osiguranje odnosno danom prijenosa svih ugovora o reosiguranju na drugo društvo za osiguranje koje ima odobrenje za obavljanje poslova reosiguranja odnosno na drugo društvo za reosiguranje
+
+4. po sili zakona, danom upisa statusne promjene u sudski registar na temelju koje društvo za osiguranje prestaje postojati
+
+5. donošenjem odluke iz članka 263. ovoga Zakona o prestanku društva za osiguranje.
+
+(2) U slučaju prestanka važenja odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja iz razloga navedenog u stavku 1. točki 5. ovoga članka Agencija će donijeti rješenje o ukidanju odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja i o tome obavijestiti i nadležni trgovački sud.
+
+(3) Kada su ispunjeni uvjeti propisani ovim Zakonom za prestanak ili ukidanje odobrenja za obavljanje poslova osiguranja u pojedinoj skupini, vrsti osiguranja odnosno riziku, Agencija će donijeti rješenje kojim će utvrditi prestanak važenja odobrenja odnosno rješenje kojim će ukinuti rješenje o izdavanju pojedinog odobrenja.
+
+*Pravni učinak rješenja o ukidanju odobrenja za obavljanje poslova osiguranja odnosno poslova reosiguranja društva za osiguranje odnosno društva za reosiguranje*
+
+##### Članak 35.
+
+Ukinuto rješenje o odobrenju za obavljanje poslova osiguranja odnosno poslova reosiguranja društvu za osiguranje odnosno društvu za reosiguranje iz druge države članice koja ima podružnicu u Republici Hrvatskoj, a koju izdaje nadležno nadzorno tijelo države članice ima neposredni učinak na području Republike Hrvatske, jednak učinku ukidanja odobrenja za obavljanje poslova osiguranja odnosno poslova reosiguranja društvu za osiguranje odnosno društvu za reosiguranje prema ovom Zakonu, bez posebnog postupka priznanja i izvršenja.
+
+## GLAVA IV. — KVALIFICIRANI UDJELI
+
+*Odobrenje za stjecanje kvalificiranog udjela*
+
+##### Članak 36.
+
+(1) Za stjecanje dionica društva za osiguranje na temelju kojih osoba posredno ili neposredno stječe kvalificirani udjel u društvu za osiguranje potrebno je prethodno odobrenje Agencije.
+
+(2) Sve fizičke, odnosno pravne osobe ili takve osobe koje djeluju zajednički (namjeravani stjecatelj) koje su donijele odluku da posredno ili neposredno steknu kvalificirani udjel u društvu za osiguranje ili da posredno ili neposredno dodatno povećaju svoj kvalificirani udjel u društvu za osiguranje na temelju čega bi njihov udjel u glasačkim pravima ili kapitalu bio 20 % ili više, odnosno i manje od 10 % ako postoji utjecaj na upravljanje društvom za osiguranje, ili jednak ili veći od 20 %, 30 % ili 50 %, ili takav da bi društvo za osiguranje postalo njihovo društvo kći, dužne su prije stjecanja kvalificiranog udjela dobiti odobrenje Agencije za stjecanje kvalificiranog udjela u društvu za osiguranje.
+
+(3) Imatelj kvalificiranog udjela dužan je za svako daljnje stjecanje udjela u glasačkim pravima ili kapitalu društva za osiguranje na osnovi kojih stječe ili prelazi 20 %, 30 % ili 50 % udjela u glasačkim pravima ili kapitalu društva za osiguranje, odnosno ako bi društvo za osiguranje postalo njegovo društvo kćer, prethodno dobiti odobrenje Agencije za stjecanje kvalificiranog udjela.
+
+(4) Ako imatelj kvalificiranog udjela namjerava otpustiti svoje dionice tako da bi se zbog toga njegov udjel smanjio ispod granice o kojoj je obavijestio Agenciju, dužan je o tome prethodno pisano obavijestiti Agenciju.
+
+(5) Odobrenje za stjecanje kvalificiranog udjela prestaje vrijediti ako namjeravani stjecatelj u roku od šest mjeseci od izvršnosti rješenja o odobrenju za stjecanje kvalificiranog udjela ne stekne udjel na koji se odobrenje odnosi, osim ako Agencija nije u rješenju kojim odobrava namjeravano stjecanje odredila krajnji rok do kojeg se namjeravano stjecanje mora provesti. Na zahtjev namjeravanog stjecatelja Agencija može produžiti rok za namjeravano stjecanje kvalificiranog udjela.
+
+(6) Ako se udjel imatelja kvalificiranog udjela poveća zbog smanjenja kapitala društva za osiguranje ili zbog sličnog njegova djelovanja na način da bude jednak ili prelazi 10 %, 20 %, 30 %, odnosno 50 %, kvalificirani imatelj dužan je podnijeti zahtjev Agenciji za daljnje stjecanje udjela u kapitalu ili glasačkim pravima u roku od 30 dana od dana kada je saznao ili morao saznati da se njegov udjel povećao zbog djelovanja društva za osiguranje, a ako to ne učini i ne ishodi odobrenje Agencije za stjecanje tog udjela na dio udjela koji je na taj način stekao, primjenjuje se članak 44. ovoga Zakona.
+
+(7) Iznimno, imatelj kvalificiranog udjela iz druge države članice nije obvezan prijaviti dosezanje granice od 30 % udjela kad se prijavljuje za stjecanje 33 % udjela. Imatelj kvalificiranog udjela iz druge države članice nije obvezan prijaviti smanjivanje udjela na granicu od 30 % kad je imao prijavljeno smanjivanje na 33 % udjela.
+
+(8) Imatelj kvalificiranog udjela u društvu za osiguranje može biti osoba:
+
+1. koja u razdoblju od tri godine prije stjecanja članstva u društvu za osiguranje nije imala više od 10 % udjela u temeljnom kapitalu društva za osiguranje ili društvu za reosiguranje, investicijskom društvu ili kreditnoj instituciji, mirovinskom društvu, mirovinskom osiguravajućem društvu ili društvu za upravljanje investicijskim fondovima, u vrijeme kada je tim društvima oduzeto odobrenje za obavljanje poslova osiguranja
+
+2. trgovačko društvo, trgovac pojedinac ili obrtnik nad čijom imovinom nije otvoren ili proveden stečajni postupak ili pokrenut postupak predstečajne nagodbe
+
+3. koja nije bila na rukovodećim položajima u trgovačkom društvu nad kojim je otvoren stečajni postupak, pokrenut postupak predstečajne nagodbe, donesena odluka o likvidaciji ili kojem je oduzeto odobrenje za obavljanje poslova osiguranja, osim ako Agencija utvrdi da ta osoba nije svojim postupanjem ili nepostupanjem pridonijela ovim okolnostima
+
+4. koja ne obavlja dužnost u državnoj službi, odnosno koja ne obavlja dužnost u tijelu jedinice lokalne i područne (regionalne) samouprave i koja nije službenik tijela državne uprave ili tijela jedinice lokalne i područne (regionalne) samouprave ili tijela odgovornih zakonodavnoj i izvršnoj vlasti u Republici Hrvatskoj, državi članici ili trećoj državi
+
+5. kojoj zbog nepoštivanja odgovarajućih propisa nije oduzeto odgovarajuće odobrenje ili odobrenje za obavljanje određenih poslova prema zakonima koji su u nadležnosti Agencije ili Hrvatske narodne banke ili srodnih nadzornih tijela iz Republike Hrvatske, država članica i trećih država
+
+6. koja nije pravomoćno osuđena za prekršaj ili kazneno djelo koje predstavlja grubo ili trajno kršenje propisa iz nadležnosti Agencije, Hrvatske narodne banke ili srodnih nadzornih tijela iz Republike Hrvatske, država članica i trećih država, odnosno za kaznena djela propisana Zakonom o trgovačkim društvima te kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.), i to:
+
+– glava IX. – kaznena djela protiv čovječnosti i ljudskog dostojanstva
+
+– glava XII. – kaznena djela protiv radnih odnosa i socijalnog osiguranja
+
+– glava XXIII. – kaznena djela protiv imovine (osim za kazneno djelo neovlaštene uporabe tuđe pokretne stvari i kazneno djelo oštećenja tuđe stvari), kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glava XXIV. – kaznena djela protiv gospodarstva
+
+– glava XXVI. – kaznena djela krivotvorenja
+
+– glava XXVIII. – kaznena djela protiv službene dužnosti
+
+– glava XXIX. – kaznena djela protiv pravosuđa
+
+– odnosno za kaznena djela iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XIII. – kaznena djela protiv vrijednosti zaštićenih međunarodnim pravom
+
+– glava XVII. – kaznena djela protiv imovine (osim za kazneno djelo oduzimanja tuđe pokretne stvari i kazneno djelo uništenja i oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja
+
+– glava XXII. – kaznena djela protiv pravosuđa
+
+– glava XXIII. – kaznena djela protiv vjerodostojnosti isprava
+
+– glava XXV. – kaznena djela protiv službene dužnosti
+
+– kazneno djelo povrede prava na rad i drugih prava iz rada iz članka 114. i kazneno djelo povrede prava na zdravstvenu i invalidsku zaštitu iz članka 115.
+
+7. koja nije pravomoćno osuđena za kaznena djela iz zakona drugih država članica i trećih država koja po svom opisu odgovaraju kaznenim djelima iz stavka 8. točke 6. ovoga članka.
+
+(9) Ako se stjecanjem kvalificiranog udjela omogućava značajan utjecaj ili kontrola nad poslovanjem društva za osiguranje, namjeravani stjecatelj je dužan uz zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela u društvu za osiguranje priložiti i:
+
+1. poslovnu strategiju društva za osiguranje u kojoj se stječe kvalificirani udjel
+
+2. poslovni plan društva za osiguranje za iduće tri poslovne godine, koji uključuje projekcije izvještaja o financijskom položaju i izvještaja o sveobuhvatnoj dobiti
+
+3. planirane promjene u organizacijskoj, upravljačkoj i kadrovskoj strukturi društva za osiguranje
+
+4. plan aktivnosti na izradi novih ili izmjeni postojećih internih akata društva za osiguranje i
+
+5. plan aktivnosti na izmjeni postojeće ili uvođenju nove informacijske tehnologije društva za osiguranje.
+
+(10) Agencija može tijekom postupka procjene zatražiti od podnositelja zahtjeva da u roku iz članka 39. stavka 5. ili 6. ovoga Zakona dostavi i drugu dokumentaciju koju ocijeni potrebnom, uključujući informacije koje su propisane Zakonom o sprječavanju pranja novca i financiranja terorizma, a koju prikupljaju obveznici toga Zakona, kada postoje opravdani razlozi za sumnju da se u vezi s namjeravanim stjecanjem provelo, provodi ili pokušava provesti pranje novca ili financiranje terorizma ili da namjeravano stjecanje može povećati rizik od provođenja pranja novca i financiranja terorizma.
+
+(11) Agencija će pravilnikom detaljnije propisati sadržaj zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela i dokumentaciju koju je potrebno dostaviti uz taj zahtjev, a kojom se dokazuje ispunjavanje uvjeta za izdavanje odobrenja za stjecanje kvalificiranog udjela.
+
+(12) Odredbe ovoga Zakona o stjecanju kvalificiranog udjela u društvu za osiguranje primjenjuju se i na stjecanje kvalificiranog udjela u društvu za reosiguranje.
+
+*Obavijesti i razmjena informacija s drugim nadležnim nadzornim tijelima*
+
+##### Članak 37.
+
+(1) Agencija će bez odgađanja, nakon primitka zahtjeva o stjecanju kvalificiranog udjela obavijestiti nadležno nadzorno tijelo pojedine druge države članice ako je kvalificirani imatelj:
+
+1. kreditna institucija, društvo za osiguranje, društvo za reosiguranje, investicijsko društvo, društvo za upravljanje otvorenim investicijskim fondovima s javnom ponudom (UCITS fondovima)
+
+2. matično društvo kreditne institucije, društva za osiguranje, društva za reosiguranje, investicijskog društva, društva za upravljanje otvorenim investicijskim fondovima s javnom ponudom iz točke 1. ovoga stavka ili
+
+3. osoba kojom upravlja ista osoba, odnosno osobe koje upravljaju kreditnom institucijom, društvom za osiguranje, društvom za reosiguranje, investicijskim društvom, društvom za upravljanje otvorenim investicijskim fondovima s javnom ponudom iz točke 1. ovoga stavka.
+
+(2) Agencija obavještava i razmjenjuje informacije s nadležnim nadzornim tijelom druge države članice o primjerenosti namjeravanog stjecatelja kvalificiranog udjela.
+
+*Osobe koje djeluju zajednički*
+
+##### Članak 38.
+
+(1) Osobe koje djeluju zajednički jesu:
+
+1. fizičke ili pravne osobe koje surađuju međusobno ili s društvom za osiguranje na temelju sporazuma, izričitoga ili prešutnoga, usmenoga ili pisanoga, čiji je cilj stjecanje dionica s pravom glasa ili usklađeno ostvarivanje prava glasa ili
+
+2. pravne osobe koje su međusobno povezane u smislu odredbi Zakona o trgovačkim društvima.
+
+(2) Smatra se da zajednički djeluju:
+
+1. osobe koje povezuju samo okolnosti u vezi sa stjecanjem dionica, a koje upućuju na usklađenost u stjecanju dionica ili u zajedničkoj namjeri osoba
+
+2. članovi uprava ili nadzornih odbora društava koja djeluju zajednički
+
+3. članovi uprave ili nadzornog odbora s društvima u kojima su članovi tih tijela ili
+
+4. društvo za upravljanje i svi investicijski fondovi kojima to društvo upravlja.
+
+(3) Pravne osobe te fizičke i/ili pravne osobe djeluju zajednički kada jedna od njih izravno ili neizravno kontrolira drugu ili druge pravne osobe.
+
+(4) Fizičke osobe djeluju zajednički ako su u krvnom srodstvu u pravoj liniji, a u pobočnoj liniji zaključno do braće i sestara te ako su bračni ili izvanbračni drugovi ili životni partneri.
+
+(5) Osobe djeluju zajednički i ako su međusobno povezane u smislu odredbi zakona kojim se uređuje preuzimanje dioničkih društava.
+
+*Odlučivanje o zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela*
+
+##### Članak 39.
+
+(1) Agencija će u roku od dva dana od dana primitka urednog zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela podnositelju zahtjeva izdati pisanu potvrdu o primitku tog zahtjeva i obavijestiti ga o danu isteka razdoblja procjene.
+
+(2) Agencija će u roku od 60 dana od dana podnošenja urednog zahtjeva provesti postupak odlučivanja o zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela te rješenje s odlukom dostaviti podnositelju zahtjeva.
+
+(3) Ako je Agencija zaprimila dva ili više zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela, odnosit će se prema svim namjeravanim stjecateljima ravnopravno.
+
+(4) Tijekom postupka odlučivanja o zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela, a u roku od 50 dana od dana podnošenja zahtjeva iz stavka 1. ovoga članka, Agencija može pisanim putem zatražiti od podnositelja dodatne obavijesti, informacije i dokumentaciju koja je potrebna za odlučivanje o zahtjevu.
+
+(5) Podnositelj zahtjeva za stjecanje kvalificiranog udjela dužan je dostaviti zatražene informacije i dokumentaciju u roku koji odredi Agencija, a koji ne može biti duži od 20 dana.
+
+(6) Iznimno, Agencija može odrediti rok iz stavka 5. ovoga članka do 30 dana u sljedećim slučajevima:
+
+1. kada namjeravani stjecatelj kvalificiranog udjela ima prebivalište ili sjedište u trećoj državi, odnosno kada podliježe zakonodavstvu treće države ili
+
+2. kada je stjecatelj kvalificiranog udjela fizička ili pravna osoba koja prema odredbama ovoga Zakona, odnosno propisa države članice u kojoj je njezino prebivalište ili sjedište nije subjekt nadzora.
+
+(7) Osoba koja je dobila odobrenje Agencije za stjecanje kvalificiranog udjela u društvu za osiguranje dužna je u roku od osam dana od dana stjecanja kvalificiranog udjela o tome pisano obavijestiti Agenciju.
+
+(8) Urednim zahtjevom iz stavka 1. ovoga članka smatra se zahtjev kojem je priložena dokumentacija propisana pravilnikom iz članka 36. ovoga Zakona i kada su dostavljene dodatne informacije ili dokumentacija iz stavka 4. ovoga članka koju je Agencija zatražila.
+
+(9) Ako Agencija u roku propisanom ovim člankom ne odluči o zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela, smatra se da je stjecanje odobreno.
+
+(10) Iznimno od stavka 2. ovoga članka, rok za donošenje rješenja o zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela računa se 60 dana od dana urednosti zadnjeg urednog zahtjeva kada je primijenjen članak 28. ovoga Zakona.
+
+*Procjena primjerenosti stjecatelja kvalificiranog udjela*
+
+##### Članak 40.
+
+(1) Prilikom odlučivanja o izdavanju odobrenja za stjecanje kvalificiranog udjela Agencija procjenjuje primjerenost i financijsko stanje namjeravanog stjecatelja kvalificiranog udjela prema sljedećim kriterijima:
+
+1. ugledu namjeravanog stjecatelja
+
+2. ugledu, odgovarajućim sposobnostima i iskustvu osobe koja će nakon stjecanja voditi poslove društva za osiguranje
+
+3. financijskom stanju stjecatelja, posebno u odnosu na vrstu poslova koje obavlja društvo za osiguranje u kojem se stječe kvalificirani udjel
+
+4. mogućnostima društva za osiguranje da se pridržava, odnosno nastavi pridržavati odredbi ovoga Zakona, a posebno prema tome ima li grupa čijim će članom postati društvo za osiguranje strukturu koja omogućava provođenje djelotvornog nadzora, djelotvornu razmjenu informacija među nadležnim nadzornim tijelima i određivanje podjele odgovornosti među nadležnim tijelima i
+
+5. prema tome postoje li opravdani razlozi za sumnju, u skladu s propisima o sprječavanju pranja novca i financiranja terorizma, da se u vezi s predmetnim stjecanjem provodi ili pokušava provesti pranje novca ili financiranje terorizma, ili da predmetno stjecanje može povećati rizik od provođenja pranja novca ili financiranja terorizma.
+
+(2) Agencija ne smije postavljati prethodne uvjete u vezi s visinom udjela koje stjecatelj namjerava steći niti smije procjenjivati obavijest o namjeravanom stjecanju kvalificiranog udjela s osnova ekonomskih potreba tržišta.
+
+(3) Agencija će prilikom procjene namjeravanog stjecatelja kvalificiranog udjela ispitati i primjerenost izvora sredstava kojima namjeravani stjecatelj namjerava steći kvalificirani udjel društva za osiguranje.
+
+(4) Agencija može radi pribavljanja potrebnih informacija obaviti provjeru podataka koje je dostavio namjeravani stjecatelj kvalificiranog udjela.
+
+*Odbijanje zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela*
+
+##### Članak 41.
+
+(1) Agencija će donijeti rješenje kojim će odbiti zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela ako:
+
+1. ocijeni da primjerenost ili financijsko stanje stjecatelja kvalificiranog udjela ne zadovoljava kriterije iz članka 40. ovoga Zakona
+
+2. iz pravnog, odnosno financijskog položaja namjeravanog stjecatelja kvalificiranog udjela ili zbog djelatnosti, odnosno poslova koje obavlja namjeravani stjecatelj kvalificiranog udjela ili s njime usko povezane osobe, ili zbog postupaka koje je namjeravani stjecatelji kvalificiranog udjela činio proizlazi da bi moglo biti ugroženo poslovanje društva za osiguranje
+
+3. bi zbog djelatnosti ili poslova koje obavlja budući stjecatelj kvalificiranog udjela moglo biti onemogućeno ili znatno otežano obavljanje nadzora nad poslovanjem društva za osiguranje
+
+4. je stjecatelj kvalificiranog udjela dostavio netočne ili nepotpune podatke ili podatke koji dovode u zabludu, a ti su podaci bili značajni za procjenu
+
+5. ako postoji osnovana sumnja na pranje novca ili financiranje terorizma.
+
+(2) Agencija će donijeti rješenje kojim će odbiti zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela osobi iz treće države ako bi, uzimajući u obzir propise države te osobe, odnosno uzimajući u obzir praksu države te osobe glede primjene i izvršavanja propisa, obavljanje nadzora u skladu s ovim Zakonom moglo biti onemogućeno, odnosno bitno otežano te zbog razloga propisanih stavkom 1. ovoga članka.
+
+(3) Ako se Agencija, nakon završetka procjene, odluči usprotiviti namjeravanom stjecanju, o tome će u pisanom obliku obavijestiti namjeravanog stjecatelja i navesti razloge za to u roku od dva dana, a prije kraja isteka razdoblja procjene i na taj način, a prije donošenja rješenja na temelju stavka 1. ovoga članka, odnosno stavka 2. ovoga članka namjeravanom stjecatelju odrediti rok u kojemu se može pisano očitovati o razlozima Agencije za protivljenje njegovu stjecanju kvalificiranog udjela u društvu za osiguranje.
+
+*Ukidanje ili poništenje rješenja o odobrenju za stjecanje kvalificiranog udjela i pravne posljedice stjecanja kvalificiranog udjela bez odobrenja nadzornog tijela*
+
+##### Članak 42.
+
+(1) Agencija može ukinuti ili poništiti rješenje o odobrenju za stjecanje kvalificiranog udjela ako:
+
+1. prestanu uvjeti propisani odredbama ovoga Zakona na temelju kojih je izdano odobrenje za stjecanje kvalificiranog udjela
+
+2. imatelj kvalificiranog udjela krši svoje obveze, odnosno ne postupi u skladu s rješenjem Agencije ili tijela druge države članice, odnosno treće države nadležnog za nadzor na konsolidiranoj osnovi kojim mu se nalaže otklanjanje nezakonitosti ili nepravilnosti
+
+3. ako je imatelj kvalificiranog udjela dobio odobrenje davanjem neistinitih, netočnih podataka, podataka koji dovode u zabludu ili na drugi nepropisan način.
+
+(2) Osoba koja stekne kvalificirani udjel u društvu za osiguranje bez odobrenja Agencije dužna je u roku od 30 dana od dana saznanja za stjecanje kvalificiranog udjela u društvu za osiguranje podnijeti zahtjev Agenciji za izdavanje odobrenja za stjecanje kvalificiranog udjela. Do ishođenja odobrenja Agencije na tu osobu primjenjuje se članak 44. ovoga Zakona.
+
+(3) Na kvalificiranog imatelja kojem je u skladu sa stavkom 1. ovoga članka ukinuto odobrenje za stjecanje kvalificiranog udjela primjenjuje se članak 44. ovoga Zakona.
+
+*Prethodna pisana obavijest o namjeri stjecanja kvalificiranog udjela u financijskoj instituciji iz treće države*
+
+##### Članak 43.
+
+(1) Društvo za osiguranje dužno je prije stjecanja kvalificiranog udjela u drugom društvu za osiguranje, odnosno u drugoj financijskoj instituciji sa sjedištem izvan područja Republike Hrvatske i izvan područja druge države članice (u daljnjem tekstu: financijska institucija iz treće države) o toj namjeri pisanim putem obavijestiti Agenciju.
+
+(2) Društvo za osiguranje iz stavka 1. ovoga članka dužno je prije svakog daljnjeg stjecanja na temelju kojega bi steklo ili premašilo granicu od 20 %, 30 % ili 50 % udjela u pravu glasa ili udjela u kapitalu financijske institucije iz treće države ili na temelju kojega bi društvo za osiguranje steklo većinski udjel u financijskoj instituciji iz treće države, o svojoj namjeri pisanim putem obavijestiti Agenciju.
+
+(3) Ako društvo za osiguranje namjerava otpustiti dionice, odnosno poslovne udjele na način da se njegov udjel u financijskoj instituciji iz treće države spusti ispod granice navedene u stavku 1., odnosno 2. ovoga članka, o svojoj namjeri dužno je prethodno pisano obavijestiti Agenciju.
+
+(4) Pisanoj obavijesti iz stavka 1. ovoga članka potrebno je priložiti:
+
+1. popis imatelja kvalificiranih udjela u financijskoj instituciji iz treće države s podacima o njihovim udjelima te ovjereni prijevod izvornika izvatka iz sudskog registra, odnosno drugog javnog registra za svakog od njih
+
+2. prijevod ovjerenog izvatka iz sudskog registra, odnosno drugog javnog registra za financijsku instituciju iz treće države
+
+3. financijske izvještaje financijske institucije iz treće države za posljednje dvije poslovne godine
+
+4. revizorsko izvješće s mišljenjem o godišnjim izvješćima za posljednje dvije poslovne godine ako je financijska institucija iz treće države po propisima države sjedišta obveznik provođenja revizije
+
+5. popis osoba koje su u odnosu uske povezanosti s financijskom institucijom iz treće države s opisom načina povezanosti
+
+6. strategiju upravljanja financijske institucije iz treće države s ocjenom ekonomske učinkovitosti investicija.
+
+*Pravne posljedice stjecanja u suprotnosti s odredbama ovoga Zakona*
+
+##### Članak 44.
+
+(1) Osoba koja stekne ili drži dionice u suprotnosti s odredbama ovoga Zakona nema pravo glasa odnosno sudjelovanja u upravljanju društvom za osiguranje na temelju dionica koje je pribavila na taj način.
+
+(2) Pravo glasa iz stavka 1. ovoga članka, za vrijeme dok imatelj kvalificiranog udjela na temelju dionica koje je stekao u suprotnosti s odredbama ovoga Zakona nema pravo glasa, pribraja se pravu glasa drugih članova društva za osiguranje razmjerno njihovu udjelu u temeljnom kapitalu dioničkog društva za osiguranje na način da imatelj u glasovanju sudjeluje samo s udjelom dionica kojima ne krši odredbe ovoga Zakona o stjecanju kvalificiranog udjela.
+
+(3) Agencija može donijeti rješenje kojim će osobi iz stavka 1. ovoga članka naložiti prodaju dionica društva za osiguranje.
+
+*Kvalificirani udjeli: ovlasti Agencije*
+
+##### Članak 45.
+
+Ako Agencija utvrdi da osoba koja je stekla kvalificirani udjel u društvu za osiguranje odnosno društvu za reosiguranje ili osobe koje su kvalificirani udjel stekle zajednički, djeluju na to društvo suprotno pravilima poslovanja društva za osiguranje odnosno društva za reosiguranje, odredit će primjerenu mjeru kako bi okončala takvo postupanje, uključujući i zabranu korištenja prava glasa na glavnoj skupštini društva za osiguranje odnosno društva za reosiguranje ili prodaju dionica društva za osiguranje odnosno društva za reosiguranje koje su u vlasništvu te osobe, odnosno osoba.
+
+*Glasačka prava*
+
+##### Članak 46.
+
+(1) Za potrebe glave IV. ovoga Zakona na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje tržište kapitala koje se odnose na postotak glasačkih prava.
+
+(2) Pri procjeni visine kvalificiranog udjela, odnosno udjela iz stavka 1. ovoga članka neće se uzeti u obzir glasačka prava ili dionice koje investicijska društva ili kreditne institucije drže kao rezultat pružanja investicijske usluge provedbe ponude, odnosno prodaje financijskih instrumenata uz obvezu otkupa kako je definirano zakonom kojim se uređuje tržište kapitala, pod uvjetom da se ta prava ne koriste za ostvarivanje utjecaja na upravljanje izdavateljem te da se navedene dionice ne drže dulje od godine dana od dana stjecanja.
+
+*Posredno stjecanje*
+
+##### Članak 47.
+
+(1) Posredni imatelj dionica, poslovnih udjela, odnosno drugih prava koja osiguravaju sudjelovanje u upravljanju, odnosno u kapitalu je osoba za čiji je račun druga osoba kao neposredni vlasnik stekla te dionice, poslovne udjele, odnosno druga prava koja osiguravaju sudjelovanje u upravljanju.
+
+(2) Smatra se da je pojedina osoba posredni imatelj dionica, poslovnih udjela, odnosno drugih prava koja osiguravaju sudjelovanje u upravljanju, odnosno drugih vrijednosnih papira čiji je neposredni imatelj s tom osobom povezana osoba.
+
+*Pripajanje, spajanje i podjela društva za osiguranje*
+
+##### Članak 48.
+
+(1) Društvo za osiguranje dužno je za pripajanje, spajanje i podjelu prethodno ishoditi odobrenje Agencije.
+
+(2) Na statusne promjene iz stavka 1. ovoga članka društva za osiguranje primjenjuju se odredbe Zakona o trgovačkim društvima koje uređuju statusne promjene dioničkog društva.
+
+(3) Agencija će odbiti zahtjev za izdavanje odobrenja za pripajanje ili spajanje ako nadležno tijelo, u skladu sa Zakonom o zaštiti tržišnog natjecanja, zabrani društvu za osiguranje to pripajanje ili spajanje.
+
+(4) Kada je u statusnu promjenu društva za osiguranje uključeno društvo za osiguranje ili druga pravna osoba iz druge države članice ili treće države, statusna promjena je dopuštena samo ako su nadležna tijela svih sudionika u statusnoj promjeni dala odobrenje za njezino provođenje.
+
+(5) Na statusnu promjenu društva za osiguranje iz stavka 1. ovoga članka koja uključuje prijenos ili preuzimanje ugovora o osiguranju sklopljenih na temelju prava poslovnog nastana, odnosno na temelju slobode pružanja usluga te na pripajanje ili spajanje društava za osiguranje u koje je uključeno društvo za osiguranje iz druge države članice ili treće države na odgovarajući se način primjenjuju odredbe ovoga Zakona o prijenosu portfelja osiguranja.
+
+(6) U slučaju iz stavaka 4. i 5. ovoga članka Agencija će prije donošenja odluke o zahtjevu za izdavanje odobrenja za statusnu promjenu društva za osiguranje zatražiti mišljenje nadležnih tijela sudionika u statusnoj promjeni iz druge države članice, odnosno treće države o toj statusnoj promjeni. Ako nadležno tijelo ne dostavi Agenciji svoje mišljenje ili odobrenje u roku od tri mjeseca od dana zaprimanja zahtjeva Agencije, smatra se da je dalo svoje prešutno odobrenje za predmetnu statusnu promjenu.
+
+(7) Agencija će pravilnikom propisati sadržaj zahtjeva i dokumentaciju koja se dostavlja uz zahtjev za izdavanje odobrenja za statusnu promjenu društva za osiguranje.
+
+(8) O zahtjevu za izdavanje odobrenja za statusnu promjenu društva za osiguranje Agencija će odlučiti u roku od 60 dana od dana urednosti zahtjeva, odnosno primitka odobrenja iz ovoga članka ili isteka roka iz stavka 6. ovoga članka.
+
+(9) Ako se zbog statusne promjene osniva društvo za osiguranje, to društvo je dužno prije upisa u sudski registar od Agencije dobiti odobrenje za obavljanje poslova osiguranja.
+
+*Odobrenje za provođenje pripajanja, spajanja i podjele društva za osiguranje*
+
+##### Članak 49.
+
+(1) Agencija će pri odlučivanju o zahtjevu društva za osiguranje za izdavanje odobrenja za pripajanje drugom društvu za osiguranje uzeti u obzir:
+
+1. očuvanje financijske stabilnosti društva kojem će se pripojiti drugo društvo za osiguranje ili druga pravna osoba
+
+2. poslovni ugled društva za osiguranje kojem će se pripojiti drugo društvo za osiguranje
+
+3. stručnost i primjerenost osoba koje će upravljati društvom za osiguranje kojem će se pripojiti drugo društvo za osiguranje
+
+4. financijsku stabilnost društva za osiguranje kojem će se pripojiti drugo društvo za osiguranje ili druga pravna osoba
+
+5. hoće li društvo za osiguranje kojem će se pripojiti drugo društvo za osiguranje ili druga pravna osoba biti u mogućnosti nastaviti poslovati u skladu s odredbama ovoga Zakona, posebno hoće li grupa društava za osiguranje čijim članom postane društvo za osiguranje imati strukturu koja će ostaviti mogućnost provođenja efikasnog nadzora, efikasne razmjene podataka između nadležnih nadzornih tijela i odrediti raspodjelu nadležnosti između nadležnih nadzornih tijela
+
+6. sumnju na eventualno pranje novca, odnosno financiranje terorizma.
+
+(2) Agencija će odbiti zahtjev za pripajanje iz stavka 1. ovoga članka ako nisu ispunjeni uvjeti propisani stavkom 1. ovoga članka.
+
+(3) Agencija će pri odlučivanju o zahtjevu društva za osiguranje za izdavanje odobrenja za provođenje spajanja ili podjele na odgovarajući način primijeniti stavak 1. ovoga članka i odbiti taj zahtjev ako nisu ispunjeni uvjeti iz stavka 1. ovoga članka.
+
+(4) Prije donošenja rješenja iz stavka 3. ovoga članka Agencija će podnositeljima zahtjeva omogućiti da se u određenom roku očituju o razlozima odbijanja.
+
+(5) Rješenje iz stavka 3. ovoga članka obvezno mora sadržavati i razloge za njegovo donošenje i uputu o pravnom lijeku.
+
+## GLAVA V. — UPRAVA I NADZORNI ODBOR DRUŠTVA ZA OSIGURANJE
+
+## POGLAVLJE I. — UPRAVA DRUŠTVA ZA OSIGURANJE
+
+*Članovi uprave društva za osiguranje*
+
+##### Članak 50.
+
+(1) Društvo za osiguranje mora imati najmanje dva člana uprave koji zajedno vode poslove i zajedno zastupaju društvo za osiguranje. Jedan od članova uprave mora biti imenovan za predsjednika uprave.
+
+(2) Najmanje jedan član uprave mora poznavati hrvatski jezik u govoru i pismu da bi mogao obavljati tu funkciju.
+
+(3) Uprava mora voditi poslove društva za osiguranje s područja Republike Hrvatske.
+
+(4) Prokurist može zastupati društvo za osiguranje samo zajedno s jednim članom uprave.
+
+(5) Prokurist ne može zastupati društvo za osiguranje u postupcima pred Agencijom.
+
+(6) Uvjeti koje mora ispunjavati osoba kojoj se daje prokura utvrđuju se statutom društva za osiguranje.
+
+(7) Članovi uprave društva za osiguranje moraju biti u radnom odnosu s društvom za osiguranje na puno radno vrijeme.
+
+*Uvjeti za člana uprave i prokurista društva za osiguranje*
+
+##### Članak 51.
+
+(1) Član uprave društva za osiguranje može biti osoba koja u svakom trenutku ispunjava sljedeće uvjete:
+
+1. stručnosti, odnosno posjeduje odgovarajuće stručne kvalifikacije, znanje i iskustvo primjereno za upravljanje i vođenje poslova društva za osiguranje pažnjom dobrog stručnjaka
+
+2. primjerenosti, odnosno ima dobar ugled i integritet
+
+3. nije bila član nadzornog odbora, član uprave ili osoba na drugom rukovodećem položaju u društvu za osiguranje, odnosno trgovačkom društvu kada je nad njim otvoren stečajni postupak ili postupak predstečajne nagodbe, koje je brisano iz sudskog registra po službenoj dužnosti ili kojem je doneseno rješenje o ukidanju rješenja o odobrenju za obavljanje poslova osiguranja, osim ako Agencija ocijeni da ta osoba nije svojim nesavjesnim ili nestručnim radom i postupanjem utjecala na otvaranje stečaja, pokretanje predstečajne nagodbe, brisanje iz sudskog registra po službenoj dužnosti ili donošenje rješenja o ukidanju rješenja o odobrenju
+
+4. nad čijom imovinom kao dužnika pojedinca (trgovac pojedinac ili obrtnik) nije otvoren, ne vodi se niti je proveden stečajni postupak, odnosno nije pokrenut i ne vodi se postupak predstečajne nagodbe, osim ako Agencija ocijeni da ta osoba nije svojim nesavjesnim ili nestručnim radom i postupanjem utjecala na otvaranje stečaja, odnosno pokretanje postupka predstečajne nagodbe
+
+5. nije bila razriješena dužnosti člana uprave društva za osiguranje rješenjem Agencije iz članka 238. stavka 5. ovoga Zakona
+
+6. kojoj Agencija, odnosno drugo nadzorno tijelo nije odbilo izdati odobrenje za obavljanje funkcije člana uprave ili ako je proteklo najmanje godinu dana od dana izvršnosti rješenja kojim se odbija zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave
+
+7. ispunjava uvjete za člana uprave dioničkog društva iz Zakona o trgovačkim društvima
+
+8. za koju je na osnovi dosadašnjeg ponašanja moguće opravdano zaključiti da će pošteno i savjesno obavljati poslove člana uprave društva za osiguranje
+
+9. nije član uprave, odnosno prokurist drugog trgovačkog društva niti član nadzornog odbora u sljedećim pravnim osobama:
+
+– drugog društva za osiguranje, odnosno društva za reosiguranje
+
+– mirovinskog osiguravajućeg društva
+
+– mirovinskog društva
+
+– depozitara
+
+– investicijskog društva
+
+– društva za upravljanje UCITS fondovima ili alternativnim investicijskim fondovima
+
+– kreditne institucije
+
+– drugih pravnih osoba koje posluju na temelju odobrenja ili dozvole Agencije
+
+10. nije ovlašteni zastupnik podružnice društva za osiguranje iz Republike Hrvatske, druge države članice ili treće države
+
+11. koja nije pravomoćno osuđena za kazneno djelo ili prekršaj koji predstavlja grubo ili trajno kršenje propisa iz nadležnosti Agencije, Hrvatske narodne banke ili srodnih nadzornih tijela iz Republike Hrvatske, drugih država članica i trećih država, odnosno za kaznena djela iz Zakona o trgovačkim društvima i kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.), i to:
+
+– glava IX. – kaznena djela protiv čovječnosti i ljudskog dostojanstva
+
+– glava XII. – kaznena djela protiv radnih odnosa i socijalnog osiguranja
+
+– glava XXIV. – kaznena djela protiv gospodarstva
+
+– glava XXVI. – kaznena djela krivotvorenja
+
+– glava XXVIII. – kaznena djela protiv službene dužnosti
+
+– glava XXIX. – kaznena djela protiv pravosuđa
+
+– glava XXIII. – kaznena djela protiv imovine (osim za kazneno djelo neovlaštene uporabe tuđe pokretne stvari i kazneno djelo oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– odnosno za kaznena djela iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XIII. – kaznena djela protiv vrijednosti zaštićenih međunarodnim pravom
+
+– glava XVII. – kaznena djela protiv imovine (osim za kazneno djelo oduzimanja tuđe pokretne stvari i kazneno djelo uništenja i oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja
+
+– glava XXII. – kaznena djela protiv pravosuđa
+
+– glava XXIII. – kaznena djela protiv vjerodostojnosti isprava
+
+– glava XXV. – kaznena djela protiv službene dužnosti
+
+– kazneno djelo povrede prava na rad i drugih prava iz rada iz članka 114. i kazneno djelo povrede prava na zdravstvenu i invalidsku zaštitu iz članka 115.
+
+12. nije pravomoćno osuđena za kaznena djela ili prekršaje iz zakona drugih država članica i trećih država koja po svom opisu odgovaraju kaznenim djelima i prekršajima iz točke 11. ovoga stavka
+
+13. koja nije u sukobu interesa u odnosu na društvo za osiguranje, dioničare, članove nadzornog odbora ili nositelje ključnih funkcija.
+
+(2) Smatra se da osoba ima iskustvo iz stavka 1. točke 1. ovoga članka ako ima najmanje trogodišnje iskustvo na rukovodećim položajima u društvu za osiguranje, odnosno društvu za reosiguranje ili pet godina iskustva na poslovima koji se mogu usporediti s poslovima društva za osiguranje, odnosno poslovima za koje Agencija ocijeni da je obavljajući takve poslove osoba mogla steći iskustvo potrebno za obavljanje funkcije člana uprave društva za osiguranje.
+
+(3) Dokazom o ispunjavanju uvjeta iz stavka 1. točaka 3., 4., 6. – 14. ovoga članka podrazumijeva se izvadak iz sudskog registra ili isprava koju je izdalo nadležno sudsko ili upravno tijelo, odnosno ovjerena izjava kandidata, ne starija od tri mjeseca od dana podnošenja zahtjeva iz članka 52. ovoga Zakona.
+
+(4) Izjave, isprave i potvrde iz ovoga članka ne smiju biti starije od tri mjeseca od dana podnošenja zahtjeva iz članka 52. ovoga Zakona, osim potvrde iz stavka 2. ovoga Zakona.
+
+(5) Prokurist društva za osiguranje ne smije biti prokurist, član uprave, član nadzornog odbora niti nositelj ključne funkcije u sljedećim pravnim osobama:
+
+– drugog društva za osiguranje, odnosno društva za reosiguranje
+
+– mirovinskog osiguravajućeg društva
+
+– mirovinskog društva
+
+– depozitara
+
+– investicijskog društva
+
+– društva za upravljanje UCITS fondovima ili alternativnim investicijskim fondovima
+
+– kreditne institucije
+
+– drugih pravnih osoba koje posluju na temelju odobrenja Agencije.
+
+(6) Iznimno od stavka 1. točke 9. i stavka 5. ovoga članka, član uprave i prokurist društva za osiguranje smije biti član nadzornog odbora u pravnim osobama navedenim u tim odredbama samo kada je to u skladu s člankom 58. stavkom 3. ovoga Zakona.
+
+*Odobrenje za člana uprave društva za osiguranje*
+
+##### Članak 52.
+
+(1) Članom uprave društva za osiguranje može biti imenovana osoba koja prethodno dobije odobrenje Agencije za obavljanje funkcije člana uprave društva za osiguranje.
+
+(2) Zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave, kandidatu za člana uprave društva za osiguranje, podnosi nadzorni odbor društva za osiguranje.
+
+(3) Agencija može pozvati kandidata za člana uprave da u postupku odlučivanja o zahtjevu iz stavka 2. ovoga članka predstavi svoj program vođenja poslova društva za osiguranje te po potrebi i na dodatno predstavljanje programa.
+
+(4) Agencija odlučuje o izdavanju prethodnog odobrenja iz stavka 1. ovoga članka na temelju:
+
+1. dokumentacije dostavljene uz zahtjev iz stavka 2. ovoga članka
+
+2. predstavljanja programa kandidata i
+
+3. ostalih podataka i informacija kojima raspolaže.
+
+(5) Za svaki mandat na funkciji člana uprave društva za osiguranje kandidat mora prethodno dobiti odobrenje Agencije.
+
+(6) U postupku odlučivanja o zahtjevu iz stavka 2. ovoga članka Agencija izdaje prethodno odobrenje iz stavka 1. ovoga članka za razdoblje trajanja mandata navedenog u tom zahtjevu. Iznimno, Agencija može, kada ocijeni da je to opravdano, izdati prethodno odobrenje za razdoblje koje je kraće od navedenog u zahtjevu iz stavka 2. ovoga članka.
+
+(7) Agencija će pravilnikom detaljnije propisati sadržaj zahtjeva iz stavka 2. ovoga članka, uvjete iz članka 51. ovoga Zakona i dokumentaciju koju je potrebno dostaviti uz taj zahtjev, a kojom se dokazuje ispunjavanje uvjeta za obavljanje funkcije člana uprave.
+
+*Odbijanje zahtjeva za izdavanje odobrenja za obavljanje funkcije člana uprave*
+
+##### Članak 53.
+
+Agencija će odbiti zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave ako:
+
+1. predloženi kandidat za člana uprave ne ispunjava uvjete propisane odredbama članka 51. ovoga Zakona ili
+
+2. Agencija raspolaže objektivnim i dokazivim razlozima zbog kojih se može osnovano pretpostaviti da bi djelatnosti ili poslovi kojima se osoba bavi ili se bavila predstavljali prijetnju upravljanju društvom za osiguranje s pažnjom dobrog stručnjaka i u skladu s pravilima o sustavu upravljanja i propisanim ovim Zakonom ili
+
+3. su u zahtjevu za izdavanje odobrenja navedeni netočni, neistiniti podaci ili podaci koji dovode u zabludu, ili su prešućeni podaci koji su bitni za odlučivanje o davanju odobrenja ili
+
+4. program vođenja poslova društva za osiguranje i njegovo predstavljanje Agencija ne ocijeni zadovoljavajućim.
+
+*Prestanak važenja odobrenja za obavljanje funkcije člana uprave*
+
+##### Članak 54.
+
+(1) Rješenje o odobrenju za obavljanje funkcije člana uprave društva za osiguranje prestaje važiti:
+
+1. istekom roka od šest mjeseci od pravomoćnosti rješenja o prethodnom odobrenju za imenovanje članom uprave, ako osoba u tom roku ne bude imenovana članom uprave ili ne stupi na tu dužnost
+
+2. ako osobi prestane članstvo u upravi prije isteka mandata, s danom prestanka članstva
+
+3. ako osobi prestane radni odnos u društvu za osiguranje, s danom prestanka radnog odnosa.
+
+(2) Društvo za osiguranje dužno je bez odgađanja pisano izvijestiti Agenciju o nastupanju okolnosti iz stavka 1. ovoga članka.
+
+*Obveze člana uprave društva za osiguranje*
+
+##### Članak 55.
+
+(1) Članovi uprave društva za osiguranje dužni su osigurati da društvo za osiguranje posluje u skladu s:
+
+1. pravilima struke i
+
+2. ovim Zakonom, propisima donesenim na temelju ovoga Zakona, odnosno u skladu s drugim zakonima i propisima kojima se uređuje poslovanje društva za osiguranje.
+
+(2) Članovi uprave društva za osiguranje dužni su uspostaviti i provoditi djelotvoran i pouzdan sustav upravljanja u skladu s odredbama ovoga Zakona koji osigurava učinkovito i razborito upravljanje društvom za osiguranje.
+
+(3) U svrhu uspostavljanja i provedbe djelotvornog i pouzdanog sustava upravljanja uprava društva za osiguranje dužna je:
+
+1. donijeti poslovnu politiku društva za osiguranje
+
+2. odobriti i redovito preispitivati strateške ciljeve te strategije i politike upravljanja rizicima
+
+3. osigurati integritet računovodstvenog sustava i sustava financijskog izvještavanja i financijske i operativne kontrole
+
+4. redovito preispitati ispravnost postupaka objave i priopćavanja informacija
+
+5. osigurati djelotvoran nadzor višeg rukovodstva i
+
+6. uspostaviti točno utvrđene, jasne i dosljedne unutarnje odnose u vezi s odgovornošću koji će osiguravati jasno razgraničavanje ovlasti i odgovornosti te sprječavati nastanak sukoba interesa.
+
+(4) Članovi uprave dužni su pri svakom imenovanju ili prestanku svoje funkcije u nadzornom odboru ili u upravi drugih pravnih osoba, kao i o prestanku obavljanja funkcije člana nadzornog odbora društva za osiguranje prije isteka njegova mandata pisanim putem obavijestiti Agenciju u roku od osam dana od nastupanja navedenih okolnosti.
+
+(5) Članovi uprave društva za osiguranje dužni su osigurati provođenje nadzornih mjera koje je naložila Agencija.
+
+(6) Članovi uprave društva za osiguranje dužni su periodično, a najmanje jedanput godišnje preispitati primjerenost postupaka i djelotvornost sustava unutarnjih kontrola, svoje zaključke dokumentirati i o njima obavijestiti nadzorni odbor.
+
+(7) Članovi uprave društva za osiguranje solidarno odgovaraju društvu za osiguranje za štetu koja nastane kao posljedica činjenja, nečinjenja i propuštanja ispunjavanja svojih dužnosti, osim ako ne dokažu da su u ispunjavanju svojih dužnosti upravljanja društvom za osiguranje postupali s pažnjom dobrog stručnjaka.
+
+*Ukidanje ili poništenje odobrenja za obavljanje funkcije člana uprave društva za osiguranje*
+
+##### Članak 56.
+
+(1) Agencija će donijeti rješenje o ukidanju ili poništenju rješenja o odobrenju za obavljanje funkcije člana uprave društva za osiguranje u sljedećim slučajevima:
+
+1. ako član uprave više ne ispunjava uvjete pod kojima mu je odobrenje izdano
+
+2. ako je odobrenje izdano zbog prešućivanja bitnih činjenica ili na temelju neistinitih, netočnih podataka ili podataka koji dovode u zabludu, odnosno na koji drugi prijevaran način
+
+3. ako je član uprave teže ili sustavno kršio odredbe ovoga Zakona, propise donesene na temelju ovoga Zakona ili ostale zakonske propise vezane uz poslovanje društva za osiguranje
+
+4. ako član uprave nije osigurao provođenje ili nije proveo mjere koje je naložila Agencija
+
+5. ako član uprave nije osigurao sustav upravljanja u skladu s odredbama ovoga Zakona koji osigurava učinkovito i razborito upravljanje društvom za osiguranje
+
+6. ako utvrdi da je član uprave u sukobu interesa zbog kojeg ne može ili je opravdano pretpostaviti da ne može ispunjavati svoje obveze i dužnosti s pažnjom dobrog stručnjaka
+
+7. ako član uprave redovito i s dužnom pažnjom ne ispunjava obvezu utvrđivanja i ocjenjivanja učinkovitosti politika, mjera ili internih procedura vezanih za usklađenost društva za osiguranje u skladu s odredbama ovoga Zakona i propisima donesenim na temelju ovoga Zakona ili obvezu poduzimanja odgovarajućih mjera radi ispravljanja nedostataka, odnosno nepravilnosti u poslovanju društva za osiguranje
+
+8. ako član uprave krši odredbe o dužnostima uprave iz Zakona o trgovačkim društvima čija je posljedica opoziv člana uprave
+
+9. ako Agencija donese rješenje o imenovanju posebne uprave.
+
+(2) U slučajevima iz stavka 1. točaka 5. – 7. ovoga članka Agencija može i posebnom nadzornom mjerom privremeno zabraniti obavljanje funkcije člana uprave do otklanjanja nezakonitosti ili nepravilnosti, a najduže na rok od šest mjeseci. Ako zbog te mjere društvo nema broj članova uprave propisan statutom, nadzorni odbor je dužan imenovati privremenog zamjenika člana uprave. Ako u navedenom roku član uprave, odnosno društvo za osiguranje ne otkloni nezakonitost ili nepravilnost, Agencija će donijeti rješenje kojim će ukinuti ili poništiti rješenje o odobrenju za obavljanje funkcije tog člana uprave društva za osiguranje.
+
+(3) Ako Agencija rješenjem ukine rješenje o odobrenju za obavljanje funkcije člana uprave, mandat tog člana uprave prestaje danom izvršnosti tog rješenja.
+
+*Obavještavanje nadzornog odbora*
+
+##### Članak 57.
+
+(1) Uprava društva za osiguranje dužna je bez odgađanja pisanim putem obavijestiti nadzorni odbor društva za osiguranje ako:
+
+1. je ugrožena likvidnost
+
+2. nastupe okolnosti za prestanak važenja odobrenja za obavljanje poslova osiguranja, razlozi za ukidanje odobrenja za obavljanje poslova osiguranja ili razlozi za ukidanje odobrenja za pružanje usluge osiguranja u cijelosti ili u pojedinoj vrsti osiguranja
+
+3. se financijsko stanje društva za osiguranje izmijeni tako da društvo za osiguranje više nije usklađeno s potrebnim solventnim kapitalom, odnosno nije usklađeno s minimalnim potrebnim kapitalom ili kad postoji rizik da se ta neusklađenost pojavi u sljedeća tri mjeseca
+
+4. o svim mjerama Agencije i drugih nadzornih tijela koje su donesene u postupku nadzora nad društvom za osiguranje.
+
+(2) Član uprave društva za osiguranje dužan je bez odgađanja pisanim putem obavijestiti nadzorni odbor društva za osiguranje:
+
+1. o imenovanju i prestanku njegove funkcije u nadzornom odboru i upravi druge pravne osobe
+
+2. o pravnim poslovima na temelju kojih je član uprave sam ili član njegove uže obitelji posredno ili neposredno stekao dionice, odnosno poslovne udjele pravne osobe na temelju kojih član uprave zajedno s članovima uže obitelji u toj pravnoj osobi dostiže ili premašuje kvalificirani udjel, odnosno ako se njihov udjel smanjio ispod granice kvalificiranog udjela
+
+3. o prestanku obavljanja funkcije člana uprave, o prestanku postojanja uvjeta propisanih za obavljanje funkcije člana uprave
+
+4. o sukobu interesa u koji je uključen.
+
+(3) Član uprave društva za osiguranje dužan je bez odgađanja pisanim putem obavijestiti nadzorni odbor društva za osiguranje ako ima saznanja, odnosno dokaze da drugi član uprave ne ispunjava uvjete za obavljanje funkcije člana uprave ili ne izvršava svoje obveze ili svojim činjenjem ili nečinjenjem poduzima radnje zbog čega može biti ugroženo poslovanje društva za osiguranje.
+
+(4) Nadzorni odbor dužan je bez odgađanja ispitati primljenu obavijest iz stavka 3. ovoga članka i poduzeti odgovarajuće mjere u okviru svoje nadležnosti.
+
+(5) Ako nadzorni odbor ne postupi u skladu sa stavkom 4. ovoga članka, član uprave dužan je obavijest iz stavka 3. ovoga članka dostaviti Agenciji.
+
+## POGLAVLJE II. — NADZORNI ODBOR DRUŠTVA ZA OSIGURANJE
+
+*Članovi nadzornog odbora društva za osiguranje*
+
+##### Članak 58.
+
+(1) Članom nadzornog odbora društva za osiguranje ne može biti imenovana osoba:
+
+1. koja je povezana s pravnim osobama u kojima društvo za osiguranje ima udjel od više od 5 % prava glasa ili takav udjel u njihovu temeljnom kapitalu
+
+2. koja je član nadzornog odbora ili uprave ili prokurist u drugom društvu za osiguranje ili drugoj financijskoj instituciji
+
+3. koja obavlja ključnu funkciju u društvu za osiguranje ili društvu koje je s društvom za osiguranje u odnosu uske povezanosti.
+
+(2) Članovi nadzornog odbora koji su predstavnici radnika ne sudjeluju u odlučivanju nadzornog odbora iz članka 60. ovoga Zakona.
+
+(3) Zabrana iz stavka 1. točaka 1. i 2. ovoga članka ne vrijedi za osobe koje su članovi nadzornog odbora, uprave ili prokuristi društva koje je matično društvo društva za osiguranje ili drugog matičnog društva u grupi osiguratelja ili za osobe koje su članovi nadzornog odbora društva kćeri istog matičnog društva.
+
+*Uvjeti za obavljanje funkcije člana nadzornog odbora društva za osiguranje*
+
+##### Članak 59.
+
+(1) Član nadzornog odbora društva za osiguranje može biti osoba koja u svakom trenutku ima dobar ugled, odgovarajuće stručne kvalifikacije, iskustvo potrebno za ispunjavanje obveza iz svoje nadležnosti i koja nije u sukobu interesa u odnosu na društvo za osiguranje, dioničare, druge članove nadzornog odbora, nositelje ključnih funkcija i više rukovodstvo društva za osiguranje.
+
+(2) Smatra se da osoba ima iskustvo za obavljanje funkcije člana nadzornog odbora ako ima iskustvo vođenja, rukovođenja ili nadzora nad vođenjem poslova društva usporedive veličine i predmeta poslovanja, kao i društva za osiguranje u kojem je kandidat za člana nadzornog odbora odnosno na poslovima na kojima je osoba mogla steći iskustvo potrebno za obavljanje funkcije člana nadzornog odbora društva za osiguranje.
+
+(3) Agencija može naložiti društvu za osiguranje sazivanje glavne skupštine radi izbora članova nadzornog odbora ako društvo za osiguranje nema dovoljan broj članova nadzornog odbora u skladu s odredbama statuta ili Zakona o trgovačkim društvima, odnosno zatražiti sazivanje glavne skupštine i predložiti opozivanje člana nadzornog odbora društva za osiguranje ako:
+
+1. krši obveze člana nadzornog odbora propisane statutom društva za osiguranje, ovim Zakonom, Zakonom o trgovačkim društvima i drugim zakonima te propisima donesenim na temelju tih zakona
+
+2. ne ispunjava uvjete za člana nadzornog odbora.
+
+(4) U nadzorni odbor društva za osiguranje ne mora biti imenovan predstavnik radnika.
+
+(5) Agencija će pravilnikom detaljnije propisati uvjete iz stavaka 1. i 2. ovoga članka i dokumentaciju kojom se dokazuje da osoba ispunjava uvjete za obavljanje funkcije člana nadzornog odbora.
+
+*Nadležnosti nadzornog odbora društva za osiguranje i obveze članova nadzornog odbora društva za osiguranje*
+
+##### Članak 60.
+
+(1) Osim nadležnosti koje nadzorni odbor ima u skladu sa Zakonom o trgovačkim društvima i statutom društva za osiguranje, nadzorni odbor društva za osiguranje ima i sljedeće nadležnosti:
+
+1. daje upravi suglasnost na poslovnu politiku i strateške ciljeve društva za osiguranje
+
+2. daje upravi suglasnost na financijski plan društva za osiguranje
+
+3. daje upravi suglasnost na strategije i politike preuzimanja rizika i upravljanja njima
+
+4. daje upravi suglasnost na postupke vlastite procjene rizika i solventnosti
+
+5. daje upravi suglasnost na sustav unutarnjih kontrola
+
+6. daje upravi suglasnost na okvirni godišnji program rada unutarnje revizije
+
+7. odlučuje o drugim poslovima.
+
+(2) Članovi nadzornog odbora društva za osiguranje moraju:
+
+1. nadzirati primjerenost postupaka i učinkovitost djelovanja unutarnje revizije
+
+2. izvršavati svoje obveze vodeći računa o činjenicama koje je utvrdila Agencija, Porezna uprava i druga nadzorna tijela tijekom postupka nadzora nad društvom za osiguranje
+
+3. nadzirati provedbu i učinkovitost sustava upravljanja
+
+4. nadzirati provedbu poslovne politike društva za osiguranje, strateških ciljeva i strategije i politike preuzimanja rizika i upravljanja njima
+
+5. nadzirati postupak objave i priopćavanja informacija
+
+6. provjeravati financijske izvještaje društva za osiguranje i o tome sastaviti pisano izvješće glavnoj skupštini
+
+7. obrazlagati glavnoj skupštini dioničara svoje mišljenje uz godišnje izvješće unutarnje revizije i mišljenje uz godišnje izvješće uprave.
+
+(3) Članovi nadzornog odbora društva za osiguranje solidarno su odgovorni društvu za osiguranje za štetu koja je nastala zbog zanemarivanja njihovih obveza iz stavka 1. ovoga članka, osim ako dokažu da su pošteno i savjesno ispunjavali svoje dužnosti.
+
+(4) Član nadzornog odbora društva za osiguranje dužan je bez odgađanja obavijestiti Agenciju o:
+
+1. imenovanju i prestanku njegove funkcije u društvu za osiguranje te upravi i nadzornom odboru drugih pravnih osoba
+
+2. pravnim poslovima na temelju kojih su, posredno ili neposredno, član nadzornog odbora, odnosno članovi njegove uže obitelji stekli dionice, odnosno poslovne udjele u pravnoj osobi na temelju kojih član nadzornog odbora zajedno s članovima svoje uže obitelji u toj pravnoj osobi dostiže ili premašuje kvalificirani udjel, odnosno ako se njihov udjel smanjio ispod granice kvalificiranog udjela.
+
+(5) Nadzorni odbor društva za osiguranja dužan je bez odgađanja pisano obavijestiti Agenciju o svim informacijama koje mogu utjecati na ukidanje rješenja o odobrenju za obavljanje funkcije člana uprave te o prestanku i razlozima prestanka mandata člana uprave.
+
+## GLAVA VI. — PREKOGRANIČNO PRUŽANJE USLUGA
+
+## POGLAVLJE I. — OBAVLJANJE POSLOVA OSIGURANJA I POSLOVA REOSIGURANJA IZVAN PODRUČJA — REPUBLIKE HRVATSKE
+
+*Obavljanje poslova osiguranja i poslova reosiguranja u drugoj državi članici*
+
+##### Članak 61.
+
+Društvo za osiguranje može poslove osiguranja, odnosno poslove reosiguranja za koje ima odobrenje Agencije obavljati na području druge države članice na temelju prava poslovnog nastana, odnosno u skladu sa slobodom pružanja usluga ako ispunjava uvjete određene propisima države članice pružanja usluge, odnosno države članice preuzimanja obveze.
+
+*Obavljanje poslova u skladu s pravom poslovnog nastana u drugoj državi članici*
+
+##### Članak 62.
+
+(1) Društvo za osiguranje koje namjerava u skladu s pravom poslovnog nastana na teritoriju druge države članice pružati usluge osiguranja dužno je prethodno pisano obavijestiti Agenciju o državi članici pružanja usluge, odnosno državi članici preuzimanja obveze na čijem teritoriju namjerava osnovati podružnicu te dostaviti Agenciji podatke i priloge iz članka 66. stavka 2. točaka 1., 2. i 3. ovoga Zakona.
+
+(2) Ako nema razloga sumnjati u primjerenost sustava upravljanja, financijski položaj društva za osiguranje ili zahtjeve u vezi s primjerenosti, odnosno dobrim poslovnim ugledom i iskustvom ovlaštenog zastupnika iz članka 66. stavka 2. ovoga Zakona, Agencija će u roku od tri mjeseca od dana zaprimanja obavijesti iz stavka 1. ovoga članka tu obavijest s podacima i prilozima iz članka 66. stavka 2. točaka 1., 2. i 3. ovoga Zakona dostaviti nadležnom nadzornom tijelu države članice u kojoj društvo za osiguranje namjerava osnovati podružnicu.
+
+(3) Agencija će nadležnom nadzornom tijelu države članice uz obavijest iz stavka 1. ovoga članka potvrditi da društvo za osiguranje pokriva potrebni solventni kapital i minimalni potrebni kapital koji se izračunava u skladu s odredbama članaka 130. i 157. ovoga Zakona.
+
+(4) Ako Agencija ima razloga sumnjati u primjerenost sustava upravljanja, financijski položaj društva za osiguranje ili zahtjeve u vezi s primjerenosti, odnosno dobrim poslovnim ugledom i iskustvom ovlaštenog zastupnika iz članka 66. stavka 2. ovoga Zakona, Agencija će u roku od tri mjeseca od dana zaprimanja informacija iz stavka 1. ovoga članka donijeti rješenje kojim će odbiti dostaviti informacije nadležnom nadzornom tijelu druge države članice i rješenje s razlozima njegova donošenja i uputom o pravnom lijeku dostaviti društvu za osiguranje.
+
+(5) Ako nadležno nadzorno tijelo države članice u roku od dva mjeseca od dana zaprimanja obavijesti iz stavka 2. ovoga članka Agenciji dostavi uvjete pod kojima u interesu općeg dobra društvo za osiguranje može poslovati preko podružnice u toj državi članici, Agencija će te uvjete proslijediti društvu za osiguranje.
+
+(6) Društvo za osiguranje može osnovati podružnicu i početi obavljati poslove osiguranja u drugoj državi članici preko podružnice od dana kada je Agencija primila informacije nadležnog nadzornog tijela iz stavka 5. ovoga članka ili u slučaju da ih ne zaprimi, protekom dva mjeseca od dana dostave obavijesti Agencije da je nadležnom nadzornom tijelu države članice dostavilo podatke iz stavka 2. ovoga članka.
+
+(7) O izmjenama sadržaja podataka navedenih u stavku 2. ovoga članka društvo za osiguranje dužno je pisano obavijestiti Agenciju najkasnije jedan mjesec prije namjeravane provedbe izmjena. Ako je navedena izmjena vezana za proširenje poslovanja, ono je dopušteno tek nakon proteka mjesec dana od kada je društvo za osiguranje o tome obavijestilo Agenciju. O navedenim izmjenama Agencija će pisano obavijestiti nadležno nadzorno tijelo države članice iz stavka 2. ovoga članka.
+
+(8) Kad društvo za osiguranje namjerava preko svoje podružnice pokrivati rizike iz vrste osiguranja iz članka 7. stavka 2. točke 10. ovoga Zakona, odnosno osiguranje od odgovornosti za upotrebu motornih vozila, isključujući odgovornost prijevoznika, dužno je predočiti izjavu da je postalo član nacionalnog ureda za osiguranje i nacionalnog garancijskog fonda države članice domaćina.
+
+*Obavljanje poslova osiguranja društva za osiguranje na temelju slobode pružanja usluga u drugoj državi članici*
+
+##### Članak 63.
+
+(1) Društvo za osiguranje, koje namjerava poslove osiguranja obavljati u drugoj državi članici u skladu sa slobodom pružanja usluga, dužno je prethodno o tome pisano obavijestiti Agenciju i pritom navesti prirodu rizika ili obveze koje namjerava osiguravati.
+
+(2) Agencija će u roku od mjesec dana od primitka obavijesti iz stavka 1. ovoga članka dostaviti nadležnom nadzornom tijelu države članice u kojoj društvo za osiguranje namjerava obavljati poslove osiguranja na temelju slobode pružanja usluga podatke i dokumentaciju iz članka 67. stavka 2. ovoga Zakona te o tome obavijestiti i društvo za osiguranje.
+
+(3) Ako Agencija podatke iz stavka 2. ovoga članka ne dostavi nadležnom nadzornom tijelu u roku iz stavka 2. ovoga članka, dužna je donijeti rješenje kojim odbija dostaviti podatke nadležnom nadzornom tijelu države članice pružanja usluge, odnosno države članice preuzimanja obveze s razlozima i uputom o pravnom lijeku.
+
+(4) Društvo za osiguranje može početi obavljati poslove osiguranja nakon što je primilo obavijest iz stavka 2. ovoga članka.
+
+(5) Ako se promijeni bilo koji od dostavljenih podataka iz stavka 2. ovoga članka, društvo za osiguranje dužno je o tome pisano obavijestiti Agenciju i nadležno nadzorno tijelo države članice najkasnije mjesec dana prije nastanka takve promjene, kako bi nadležno nadzorno tijelo te države članice moglo izvršiti svoje obveze u skladu s ovim člankom.
+
+(6) Društvo za osiguranje obvezno je postati članom nacionalnoga ureda za osiguranje, odnosno nacionalnoga garancijskog fonda druge države članice nakon primitka obavijesti iz stavka 2. ovoga članka, a prije nego što počne neposredno obavljati poslove osiguranja iz vrste osiguranja iz članka 7. stavka 2. točke 10. ovoga Zakona, odnosno osiguranje od odgovornosti za upotrebu motornih vozila, isključujući odgovornost prijevoznika.
+
+*Izvještavanje o poslovima osiguranja u drugoj državi članici*
+
+##### Članak 64.
+
+(1) Društvo za osiguranje koje obavlja poslove osiguranja u drugoj državi članici dužno je Agenciju izvještavati o poslovima osiguranja u pojedinoj državi članici, i to odvojeno za poslove osiguranja koje obavlja preko poslovnog nastana odnosno putem slobode pružanja usluga.
+
+(2) Izvješće iz stavka 1. ovoga članka društvo za osiguranje dužno je dostavljati u skladu s člankom 202. ovoga Zakona.
+
+(3) Agencija će nadležnom nadzornom tijelu države članice pružanja usluge, odnosno države članice preuzimanja obveze, na njegov zahtjev, u razumnom roku i skupnom obliku dostaviti podatke navedene u izvješću iz stavka 1. ovoga članka.
+
+*Obavljanje poslova osiguranja u trećoj državi*
+
+##### Članak 65.
+
+(1) Društvu za osiguranje dopušteno je obavljati poslove osiguranja u trećoj državi preko podružnice, poštujući pritom propise te države.
+
+(2) Za osnivanje podružnice u trećoj državi društvo za osiguranje mora dobiti odobrenje Agencije.
+
+(3) Agencija će odbiti zahtjev za izdavanje odobrenja za osnivanje podružnice u trećoj državi ako bi, uzimajući u obzir propise države, odnosno uzimajući u obzir praksu države u kojoj društvo za osiguranje namjerava osnovati podružnicu glede primjene i izvršavanja tih propisa, obavljanje nadzora u skladu s ovim Zakonom moglo biti onemogućeno, odnosno bitno otežano.
+
+(4) Odredbe ovoga članka ne primjenjuju se na društva za reosiguranje i društva za osiguranje pri obavljanju poslova reosiguranja.
+
+## POGLAVLJE II. — OBAVLJANJE POSLOVA OSIGURANJA DRUŠTVA ZA OSIGURANJE IZ DRUGE DRŽAVE ČLANICE
+
+*Obavljanje poslova osiguranja na temelju prava poslovnog nastana u Republici Hrvatskoj*
+
+##### Članak 66.
+
+(1) Svaka se trajna prisutnost društva na području Republike Hrvatske tretira na isti način kao podružnica, čak i kad ta prisutnost nema oblik podružnice i sastoji se samo od ureda kojim upravlja vlastito osoblje društva za osiguranje ili osoba koja je neovisna i ima trajnu ovlast zastupati društvo za osiguranje.
+
+(2) Društvo za osiguranje sa sjedištem u drugoj državi članici koje na temelju prava poslovnog nastana namjerava prvi put obavljati djelatnost u Republici Hrvatskoj o tome prvo obavješćuje nadležno nadzorno tijelo i navodi prirodu rizika ili obveze koje namjerava pokrivati i sljedeće podatke:
+
+1. poslovni plan društva za osiguranje u kojem su najmanje navedene vrste predviđenih poslova i strukturna organizacija podružnice
+
+2. ime osobe koja ima dostatne ovlasti da obvezuje društvo za osiguranje ili, u slučaju Lloydova udruženja individualnih osiguratelja, predmetne osiguratelje prema trećim osobama i da ga ili da ih zastupa u odnosu na tijela i sudove Republike Hrvatske (ovlašteni zastupnik)
+
+3. adresu u Republici Hrvatskoj na kojoj je moguće dobiti dokumente i na koju ih je moguće dostaviti, uključujući sve obavijesti za ovlaštenog zastupnika
+
+4. potvrdu kojom potvrđuje da društvo za osiguranje pokriva potrebni solventni kapital i minimalni potrebni kapital koji se izračunava u skladu s odredbama ovoga Zakona.
+
+(3) Nadležno nadzorno tijelo društva za osiguranje iz druge države članice koje želi obavljati poslove osiguranja u Republici Hrvatskoj preko podružnice dostavlja Agenciji podatke iz stavka 2. ovoga članka u roku od tri mjeseca od dana njihova zaprimanja ako nemaju razloga sumnjati u primjerenost sustava upravljanja, financijski položaj društva za osiguranje ili zahtjeve u vezi s primjerenosti, odnosno dobrim poslovnim ugledom i iskustvom ovlaštenog zastupnika iz stavka 2. ovoga članka. Uz navedenu obavijest nadležno nadzorno tijelo društva za osiguranje iz druge države članice potvrdit će Agenciji da društvo za osiguranje iz druge države članice pokriva potrebni solventni kapital i minimalni potrebni kapital koji se izračunava u skladu s odredbama članaka 130. i 157. ovoga Zakona.
+
+(4) Agencija sustavno obavještava nadzorna tijela drugih država članica o propisima kojih se moraju pridržavati društva za osiguranje sa sjedištem u tim državama koja posluju u Republici Hrvatskoj i čije pridržavanje je predmet nadzora Agencije, odnosno u roku od dva mjeseca nakon primitka podataka navedenih u stavku 2. ovoga članka.
+
+(5) Kad društvo za osiguranje namjerava preko svoje podružnice pružati usluge osiguranja propisane Zakonom o obveznim osiguranjima u prometu, dužno je, prije početka pružanja tih usluga osiguranja, Agenciji dostaviti izjavu da je postalo član nacionalnog ureda za osiguranje i nacionalnog garancijskog fonda Republike Hrvatske.
+
+(6) O izmjenama sadržaja podataka navedenih u stavku 2. ovoga članka društvo za osiguranje dužno je pisano obavijestiti Agenciju i nadležno nadzorno tijelo najkasnije jedan mjesec prije namjeravane provedbe izmjena. Ako je proširenje poslovanja s tim povezano, ono je dopušteno tek nakon proteka mjesec dana od kad je društvo za osiguranje o tome obavijestilo Agenciju.
+
+(7) Društvo za osiguranje iz druge države članice koje pokriva rizik iz vrste osiguranja iz članka 7. stavka 2. točke 2. ovoga Zakona, odnosno zdravstveno osiguranje na području Republike Hrvatske dužno je prije početka obavljanja poslova zdravstvenog osiguranja dostaviti Agenciji uvjete osiguranja za ta osiguranja.
+
+(8) Društvo za osiguranje iz druge države članice može osnovati podružnicu na području Republike Hrvatske i početi poslovati od datuma kada nadležno nadzorno tijelo zaprimi informacije iz stavka 4. ovoga članka ili ako ih ne zaprimi, nakon isteka dva mjeseca od dana kada je nadležno nadzorno tijelo zaprimilo dokumentaciju iz stavka 2. ovoga članka.
+
+*Obavljanje poslova osiguranja na temelju slobode pružanja usluga u Republici Hrvatskoj*
+
+##### Članak 67.
+
+(1) Društvo za osiguranje sa sjedištem u drugoj državi članici koje u skladu sa slobodom pružanja usluga namjerava prvi put obavljati djelatnost u Republici Hrvatskoj o tome prvo obavješćuje nadležno nadzorno tijelo društva za osiguranje iz druge države članice i navodi prirodu rizika ili obveze koje namjerava pokrivati.
+
+(2) Nadležno nadzorno tijelo društva za osiguranje iz druge države članice koje želi obavljati poslove osiguranja u Republici Hrvatskoj na temelju slobode pružanja usluga dostavit će, u roku od mjesec dana od dana zaprimanja obavijesti iz stavka 1. ovoga članka, Agenciji sljedeće podatke:
+
+1. potvrdu kojom se potvrđuje da društvo za osiguranje pokriva potrebni solventni kapital i minimalni potrebni kapital koji se izračunava u skladu s odredbama ovoga Zakona
+
+2. vrste osiguranja za koje društvo za osiguranje ima odobrenje za obavljanje poslova osiguranja
+
+3. prirodu rizika ili obveze koje društvo za osiguranje namjerava osiguravati u Republici Hrvatskoj.
+
+(3) Osim podataka iz stavka 2. ovoga Zakona koje nadležno nadzorno tijelo dostavlja Agenciji, društvo za osiguranje koje namjerava pružati usluge obveznih osiguranja u prometu dužno je prije početka pružanja usluga Agenciji dostaviti i:
+
+1. ime i adresu predstavnika u vezi s pružanjem usluga obveznih osiguranja u prometu te adresu osobe u Republici Hrvatskoj na kojoj je moguće dobiti dokumente i na koju ih je moguće dostaviti s obzirom na ostale usluge osiguranja koje društvo za osiguranje pruža u Republici Hrvatskoj
+
+2. izjavu da je postalo član nacionalnog ureda za osiguranje i nacionalnog garancijskog fonda Republike Hrvatske
+
+3. adresu u Republici Hrvatskoj za primanja pismena.
+
+(4) Društvo za osiguranje može početi poslovati od datuma kad dobije obavijest nadležnog nadzornog tijela da su Agenciji dostavljene informacije iz stavka 2. ovoga članka, odnosno kada obavijesti Agenciju u skladu sa stavkom 3. ovoga članka.
+
+(5) Nadležno nadzorno tijelo društva za osiguranje iz druge države članice obavještava Agenciju o svim promjenama koje se odnose na dostavljene podatke iz stavka 2. ovoga članka, a društvo za osiguranje obavještava Agenciju o svim promjenama koje se odnose na dostavljene podatke iz stavka 3. ovoga članka.
+
+(6) Odredbe ovoga članka ne primjenjuju se na društvo za reosiguranje.
+
+*Obvezno osiguranje vlasnika, odnosno korisnika motornih vozila od odgovornosti za štete nanesene trećim osobama*
+
+##### Članak 68.
+
+(1) Kad društvo za osiguranje, preko poslovnog nastana koji se nalazi u jednoj državi članici, pokriva rizik, osim odgovornosti prijevoznika, razvrstan u vrstu osiguranja iz članka 7. stavka 2. točke 10. ovoga Zakona koje se nalazi u drugoj državi članici, država članica domaćin zahtijeva od tog društva da postane član i da sudjeluje u financiranju njezina nacionalnog ureda za osiguranje, odnosno nacionalnog garancijskog fonda.
+
+(2) Financijski doprinos iz stavka 1. ovoga članka izdvaja se samo za rizike, osim odgovornosti prijevoznika, razvrstane u vrstu osiguranja iz članka 7. stavka 2. točke 10. ovoga Zakona koje se pokriva u sklopu pružanja usluga. Taj se doprinos izračunava na istoj osnovi kao za društva za neživotno osiguranje koja pokrivaju te rizike preko poslovnog nastana koji se nalazi u toj državi članici. Pri izračunu se u obzir uzimaju premijski prihodi društva za osiguranje iz te vrste osiguranja u državi članici domaćinu ili broj rizika u toj vrsti osiguranja koje se pokriva u toj državi članici.
+
+(3) Država članica domaćin može zahtijevati od društva za osiguranje koje pruža usluge da poštuje pravila u toj državi članici o pokriću povećanih rizika u mjeri u kojoj se ona primjenjuju na društva za neživotno osiguranje osnovana u toj državi.
+
+*Nediskriminacija osoba koje su podnijele odštetne zahtjeve*
+
+##### Članak 69.
+
+Društvo za osiguranje sa sjedištem u drugoj državi članici dužno je osigurati da osobe koje su podnijele odštetne zahtjeve koji proizlaze iz događaja koji su se dogodili na području Republike Hrvatske ne budu stavljeni u manje povoljan položaj zbog činjenice što društvo pokriva rizike obveznih osiguranja u prometu putem slobode pružanja usluga u Republici Hrvatskoj, a ne preko poslovnog nastana.
+
+*Predstavnik*
+
+##### Članak 70.
+
+(1) Društvo za osiguranje dužno je imenovati predstavnika s boravištem ili poslovnim nastanom na području Republike Hrvatske koji će prikupljati sve potrebne informacije u vezi s odštetnim zahtjevima i imati dostatne ovlasti da zastupa društvo za osiguranje u odnosu na osobe koje su pretrpjele štetu, a koje mogu podnijeti odštetne zahtjeve, uključujući isplate po tim zahtjevima, i da zastupa ili da, prema potrebi, osigura zastupanje društva za osiguranje pred Agencijom, sudovima i tijelima Republike Hrvatske u vezi s takvim zahtjevima.
+
+(2) Predstavnik iz stavka 1. ovoga članka zastupa društvo za osiguranje pred Agencijom s obzirom na provjeru postojanja i valjanosti polica obveznog osiguranja vlasnika, odnosno korisnika motornih vozila od odgovornosti za štete nanesene trećim osobama (osiguranja od automobilske odgovornosti). Imenovanje predstavnika samo po sebi ne predstavlja osnivanje podružnice društva za osiguranje.
+
+(3) Od predstavnika iz stavka 1. ovoga članka može se tražiti da poduzima samo aktivnosti za koje je ovlašten od strane društva za osiguranje koje ga je imenovalo.
+
+(4) Kad društvo za osiguranje propusti imenovati predstavnika, Agencija može predstavniku za rješavanje odštetnih zahtjeva, imenovanom u skladu s odredbama Zakona o obveznim osiguranjima u prometu, dati suglasnost za preuzimanje funkcije predstavnika iz stavka 1. ovoga članka.
+
+*Jezik*
+
+##### Članak 71.
+
+Agencija može zahtijevati da joj društvo za osiguranje koje posluje na području Republike Hrvatske dostavlja informacije o poslovanju, koje je ovlaštena zahtijevati u skladu s ovim Zakonom, na hrvatskom jeziku.
+
+*Prethodna obavijest i prethodna suglasnost*
+
+##### Članak 72.
+
+(1) Društvo za osiguranje koje namjerava obavljati djelatnost osiguranja na području Republike Hrvatske dužno je Agenciji, na njezin zahtjev, dostaviti obavijest o uvjetima osiguranja i drugim dokumentima u svrhu provjere usklađenosti s propisima Republike Hrvatske koji se odnose na te ugovore o osiguranju, a taj zahtjev ne predstavlja prethodni uvjet koji društvo za osiguranje mora ispuniti da bi moglo poslovati u Republici Hrvatskoj.
+
+(2) Društvo za osiguranje koje obavlja djelatnost osiguranja na području Republike Hrvatske dužno je Agenciji, na njezin zahtjev, dostaviti obavijest o namjeravanom povećanju premijskih stopa u sklopu općeg sustava nadzora premija osiguranja.
+
+*Društva za osiguranje koja nisu usklađena s propisima*
+
+##### Članak 73.
+
+(1) Kad Agencija utvrdi da društvo za osiguranje iz druge države članice koje ima podružnicu ili koje obavlja djelatnost u skladu sa slobodom pružanja usluga na njezinu državnom području nije usklađeno sa zakonskim i podzakonskim propisima koji se na njega primjenjuju u Republici Hrvatskoj, Agencija će zahtijevati da društvo za osiguranje otkloni takvu nepravilnost.
+
+(2) Kad društvo za osiguranje propusti poduzeti potrebne aktivnosti, Agencija o navedenom obavješćuje nadležno nadzorno tijelo društva za osiguranje iz druge države članice koje će poduzeti što je prije moguće sve potrebne mjere kako bi osiguralo da društvo za osiguranje otkloni navedenu nepravilnost i o tome obavijestiti Agenciju.
+
+(3) Kad, unatoč mjerama koje poduzme nadležno nadzorno tijelo društva za osiguranje iz druge države članice ili zbog toga što su te mjere bile neodgovarajuće ili nedostatne u toj državi članici, društvo za osiguranje ustraje u kršenju zakonskih odredbi propisa u Republici Hrvatskoj, Agencija može, nakon što je obavijestila nadležno nadzorno tijelo društva za osiguranje iz druge države članice, poduzeti primjerene mjere kako bi spriječila ili kaznila daljnje nepravilnosti, uključujući, u mjeri u kojoj je to iznimno nužno, sprječavanje tog društva za osiguranje da nastavi sklapati nove ugovore o osiguranju na području Republike Hrvatske.
+
+(4) Agencija može predmet uputiti EIOPA-i i zahtijevati njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010 u provedbi primjerenih mjera.
+
+(5) Agencija može, neovisno o stavcima 1., 2., 3. i 4. ovoga članka, poduzeti primjerene hitne mjere za sprječavanje ili kažnjavanje nepravilnosti na području Republike Hrvatske, uključujući mogućnost sprječavanja društava za osiguranje da nastavi sklapati nove ugovore o osiguranju na području Republike Hrvatske.
+
+(6) O poduzetim mjerama Agencija je dužna pisano obavijestiti društvo za osiguranje iz druge države članice.
+
+(7) Društvo za osiguranje iz druge države članice dužno je na zahtjev Agencije dostaviti sve zatražene obavijesti i dokumente u smislu odredbi ovoga članka.
+
+(8) Agencija je dužna izvijestiti Komisiju i EIOPA-u o poduzetim mjerama u skladu s odredbama ovoga članka.
+
+*Oglašavanje*
+
+##### Članak 74.
+
+Društvo za osiguranje sa sjedištem u drugoj državi članici može oglašavati svoje usluge u Republici Hrvatskoj putem svih dostupnih komunikacijskih sredstava pod uvjetom da je to oglašavanje u skladu s odredbama ovoga Zakona koje uređuju promidžbu i drugim propisima koji uređuju oblik i sadržaj takvog oglašavanja i koji su doneseni u interesu općeg dobra.
+
+*Porezi na premije*
+
+##### Članak 75.
+
+(1) Ne dovodeći u pitanje bilo koje naknadno usklađivanje, svaki ugovor o osiguranju isključivo podliježe neizravnim porezima i parafiskalnim troškovima vezanim uz premije osiguranja u državi članici u kojoj se nalazi rizik ili državi članici obveze.
+
+(2) U smislu stavka 1. ovoga članka, pokretna imovina u zgradi koja se nalazi na državnom području države članice, osim robe u komercijalnom tranzitu, smatra se rizikom koji se nalazi u toj državi članici, čak i onda kad zgrada i njezin sadržaj nisu pokriveni istom policom osiguranja.
+
+(3) Mjerodavno pravo koje se primjenjuje na ugovor prema članku 376. stavku 3. ovoga Zakona neće utjecati na fiskalne režime koji se primjenjuju.
+
+(4) Svaka država članica primjenjuje vlastite nacionalne odredbe o mjerama kojima se osigurava naplata neizravnih poreza i parafiskalnih troškova prema stavku 1. ovoga članka na društva za osiguranje koja pokrivaju rizike ili obveze koji se nalaze na njihovu državnom području.
+
+(5) Odredbe ovoga članka primjenjuju se i na društva za osiguranje iz treće države koja obavljaju poslove osiguranja u Republici Hrvatskoj preko podružnice.
+
+*Društva za reosiguranje koja nisu usklađena s propisima*
+
+##### Članak 76.
+
+(1) Ako Agencija utvrdi da društvo za reosiguranje koje ima podružnicu ili koje obavlja djelatnost u skladu sa slobodom pružanja usluga na području Republike Hrvatske nije usklađeno sa zakonskim i podzakonskim propisima koji se na njega primjenjuju u Republici Hrvatskoj, zahtijevat će od društva za reosiguranje da otkloni takvu nepravilnost i istodobno će o tim nalazima obavijestiti njegovo nadzorno tijelo.
+
+(2) Kad, unatoč mjerama koje poduzme nadležno nadzorno tijelo društva za reosiguranje iz druge države članice ili zbog toga što su te mjere bile neodgovarajuće ili nedostatne u toj državi članici, društvo za reosiguranje ustraje u kršenju propisa koji se na njega primjenjuju u Republici Hrvatskoj, Agencija može, nakon što obavijesti nadležno nadzorno tijelo društva za reosiguranje iz druge države članice, poduzeti primjerene mjere kako bi spriječila ili kaznila daljnje nepravilnosti, uključujući, u mjeri u kojoj je to iznimno nužno, sprječavanje društva za reosiguranje da nastavi sklapati nove ugovore o reosiguranju na državnom području Republike Hrvatske.
+
+(3) Agencija može predmet uputiti EIOPA-i i zahtijevati njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010 u provedbi primjerenih mjera.
+
+(4) Društvo za reosiguranje koje obavlja djelatnost u skladu sa slobodom pružanja usluga na području Republike Hrvatske dužno je prije početka pružanja usluga reosiguranja u Republici Hrvatskoj pisano obavijestiti Agenciju o adresi u Republici Hrvatskoj na koju je moguće dostaviti zahtjev za dostavljanje obavijesti, dokumenata, obrazloženo rješenje Agencije ili pravne dokumente koji su potrebni za poduzimanje mjera protiv društava za reosiguranje.
+
+*Propisi koji se primjenjuju na društvo za osiguranje iz druge države članice*
+
+##### Članak 77.
+
+(1) Na društvo za osiguranje iz druge države članice koje pruža usluge osiguranja i reosiguranja na području Republike Hrvatske na odgovarajući se način primjenjuju:
+
+1. odredbe zakonskih i podzakonskih propisa Republike Hrvatske koji se odnose na obvezna osiguranja
+
+2. odredbe ovoga Zakona koje se odnose na obvezu čuvanja poslovne tajne
+
+3. odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona koje se odnose na zaštitu potrošača
+
+4. propisi u Republici Hrvatskoj kojima se uređuje sprječavanje pranja novca i financiranja terorizma
+
+5. drugi propisi koji se radi zaštite općeg dobra primjenjuju na području Republike Hrvatske
+
+6. odredbe zakona Republike Hrvatske kojima je regulirana obveza plaćanja poreza na premiju osiguranja, a pravo koje se primjenjuje na ugovor o osiguranju neće utjecati na obvezu plaćanja poreza na premiju osiguranja.
+
+(2) Na društvo za osiguranje iz druge države članice koje preko podružnice pruža usluge osiguranja i reosiguranja na području Republike Hrvatske, osim odredbi iz stavka 1. ovoga članka, na odgovarajući se način primjenjuju:
+
+1. odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona koje se odnose na izvješća i informacije koja su društva za osiguranje dužna dostaviti Agenciji iz članka 201. ovoga Zakona
+
+2. propisi koje Agencija donosi za dostavu statističkih izvješća iz članka 202. ovoga Zakona
+
+3. propisi koji se odnose na opseg podataka koje moraju objaviti podružnice iz članka 192. stavka 5. ovoga Zakona
+
+4. odredbe članka 192. stavka 6. ovoga Zakona o revidiranim godišnjim financijskim izvještajima i
+
+5. odredbe članka 218. ovoga Zakona o godišnjoj naknadi za nadzor i propisa donesenih na temelju toga članka.
+
+## POGLAVLJE III. — OBAVLJANJE POSLOVA OSIGURANJA DRUŠTAVA ZA OSIGURANJE IZ TREĆE DRŽAVE
+
+*Odobrenje za osnivanje podružnice*
+
+##### Članak 78.
+
+(1) Društvo za osiguranje iz treće države može na području Republike Hrvatske obavljati poslove osiguranja samo preko podružnice osnovane u Republici Hrvatskoj uz prethodno odobrenje Agencije za obavljanje poslova osiguranja.
+
+(2) Agencija može izdati društvu za osiguranje iz treće države odobrenje za obavljanje poslova osiguranja preko podružnice osnovane u Republici Hrvatskoj ako to društvo za osiguranje ispunjava sljedeće uvjete:
+
+1. prema zakonodavstvu matične države društvo za osiguranje iz treće države ovlašteno je obavljati poslove osiguranja
+
+2. obvezuje se da će u Republici Hrvatskoj imati otvorene račune specifične za djelatnost koju obavlja i svu evidenciju o obavljenim poslovima
+
+3. ako je imenovalo predstavnika odnosno odgovornu osobu podružnice uz suglasnost Agencije i nadležnog nadzornog tijela društva za osiguranje
+
+4. u Republici Hrvatskoj posjeduje imovinu u iznosu jednakom najmanje jednoj polovini apsolutnog praga minimalnog potrebnog kapitala određenog u članku 158. stavku 4. ovoga Zakona i depozite u visini jedne četvrtine tog apsolutnog praga kao jamstvo
+
+5. obvezuje se da će pokrivati potrebni solventni kapital i minimalni potrebni kapital u skladu sa zahtjevima iz članaka 130. i 157. ovoga Zakona
+
+6. obavijestilo je Agenciju o imenu i adresi predstavnika za rješavanje odštetnih zahtjeva imenovanog u svakoj drugoj državi članici u kojoj je zatraženo odobrenje za obavljanje poslova osiguranja za obavljanje poslova osiguranje vlasnika, odnosno korisnika motornih vozila od odgovornosti za štete trećim osobama
+
+7. dostavilo je poslovni plan podružnice izrađen u skladu s odredbama iz članka 79. ovoga Zakona
+
+8. ispunjava zahtjeve u vezi s upravljanjem propisane glavom VIII. ovoga Zakona.
+
+(3) U zahtjevu za izdavanje odobrenja za osnivanje podružnice društvo za osiguranje iz treće države dužno je navesti u kojim će vrstama osiguranja i prirodi rizika pružati usluge osiguranja, a uz zahtjev dužno je priložiti:
+
+1. akt o osnivanju podružnice
+
+2. izvod iz sudskog, odnosno drugog odgovarajućeg registra države sjedišta matičnog društva za osiguranje
+
+3. statut, odnosno drugi odgovarajući akt matičnog društva za osiguranje
+
+4. revidirane financijske izvještaje matičnog društva za osiguranje za posljednje tri godine
+
+5. ako iz izvoda iz točke 2. ovoga stavka nisu vidljivi podaci o članovima matičnog društva za osiguranje, mora se priložiti odgovarajuća isprava u kojoj se na vjerodostojan način navode članovi društva i njihovi udjeli u upravljanju matičnim društvom za osiguranje
+
+6. izvod iz sudskog, odnosno drugog odgovarajućeg registra države sjedišta za pravne osobe koje imaju više od 20 % udjela u upravljanju matičnim društvom za osiguranje
+
+7. poslovni plan sa sadržajem određenim u članku 79. ovoga Zakona
+
+8. izjavu o tome da će podružnica, u sjedištu podružnice, voditi i čuvati svu dokumentaciju koja se odnosi na poslovanje podružnice
+
+9. dokaze o ispunjenju uvjeta iz stavka 2. točke 4. i 5. ovoga članka.
+
+(4) Agencija će odbiti zahtjev za izdavanje odobrenja za osnivanje podružnice društva za osiguranje iz treće države ako bi:
+
+1. uzimajući u obzir propise države sjedišta toga društva za osiguranje, odnosno uzimajući u obzir praksu te države u primjeni i izvršavanju tih propisa, obavljanje nadzora u skladu s ovim Zakonom moglo biti onemogućeno, odnosno bitno otežano ili
+
+2. uzimajući u obzir propise te države, društvima za osiguranje sa sjedištem u Republici Hrvatskoj bilo onemogućeno obavljanje poslova osiguranja u toj državi, odnosno bilo onemogućeno obavljanje poslova osiguranja pod jednakim uvjetima kao društvima za osiguranje te države.
+
+(5) Društvo za osiguranje iz treće države koje na području Republike Hrvatske obavlja poslove osiguranja preko podružnice na temelju odobrenja iz ovoga članka dužno je poslovati u skladu s odredbama ovoga Zakona, odnosno drugim propisima kojima se uređuje poslovanje društva za osiguranje.
+
+(6) Iznimno od stavka 1. ovoga članka, društvo za osiguranje iz treće države koje obavlja poslove osiguranja i poslove reosiguranja može obavljati poslove reosiguranja putem slobode pružanja usluga u skladu s člankom 83. ovoga Zakona.
+
+*Poslovni plan podružnice društva za osiguranje iz treće države*
+
+##### Članak 79.
+
+(1) Poslovni plan iz članka 78. stavka 2. točke 7. ovoga Zakona mora sadržavati najmanje:
+
+1. prirodu rizika koje društvo za osiguranje namjerava pokriti
+
+2. program predviđenog reosiguranja s tablicama maksimalnog pokrića za sve vrste osiguranja s osnovnim načelima reosiguranja
+
+3. procjenu budućeg potrebnog solventnog kapitala, kako je predviđeno odredbama članaka 130. – 132. ovoga Zakona koja se temelji na projekciji izvještaja o financijskom položaju iz stavka 2. točke 1. ovoga članka, kao i metodu izračuna koja je upotrijebljena za dobivanje tih procjena
+
+4. procjenu budućeg minimalnog potrebnog kapitala, kako je predviđeno odredbama članaka 157. i 158. ovoga Zakona, koja se temelji na projekciji izvještaja o financijskom položaju iz stavka 2. točke 1. ovoga članka, kao i metodu izračuna koja je upotrijebljena za dobivanje tih procjena
+
+5. stanje prihvatljivih vlastitih sredstava i prihvatljivih osnovnih vlastitih sredstava društva za osiguranje u odnosu na potrebni solventni kapital i minimalni potrebni kapital
+
+6. predviđenu visinu troškova osnivanja i troškova organizacije poslovanja te izvore financiranja ovih troškova
+
+7. informacije o strukturi sustava upravljanja.
+
+(2) Osim zahtjeva iz stavka 1. ovoga članka, poslovni plan za prve tri poslovne godine mora sadržavati i sljedeće:
+
+1. projekciju izvještaja o financijskom položaju za potrebe solventnosti
+
+2. procjenu financijskih sredstava koja su namijenjena za pokriće tehničkih pričuva, minimalnog potrebnog kapitala i potrebnog solventnog kapitala
+
+3. elaborat o očekivanim poslovnim rezultatima, osobito o očekivanim premijskim prihodima, očekivanim naknadama za štete, očekivanim troškovima za provizije i drugim troškovima.
+
+(3) Ako podružnica namjerava obavljati poslove osiguranja u vrsti osiguranja iz članka 7. stavka 2. točke 18. ovoga Zakona, osiguranje pomoći (asistencija), poslovni plan mora sadržavati i opis resursa koji su potrebni za ispunjavanje obveza iz ove vrste osiguranja.
+
+(4) Društvo za osiguranje iz treće države koje namjerava preko podružnice obavljati poslove životnog osiguranja u Republici Hrvatskoj dužno je obavještavati Agenciju o tehničkoj podlozi koju upotrebljava pri izračunu cjenika premija i isključivo za namjene provjere jesu li usklađene s aktuarskim načelima. Na društvo za osiguranje iz treće države na odgovarajući se način primjenjuje članak 77. ovoga Zakona.
+
+(5) Društvo za osiguranje iz treće države koje namjerava preko podružnice pružati usluge obveznih osiguranja u prometu u Republici Hrvatskoj dužno je prije početka obavljanja poslova postati član nacionalnog ureda za osiguranje odnosno nacionalnog garancijskog fonda.
+
+*Financijski zahtjevi za podružnice društava za osiguranje iz trećih država*
+
+##### Članak 80.
+
+(1) Društvo za osiguranje iz treće države koje obavlja poslove osiguranja preko podružnice u Republici Hrvatskoj dužno je oblikovati odgovarajuće tehničke pričuve za pokriće obveza osiguranja i obveze reosiguranja preuzetih u Republici Hrvatskoj i izračunatih u skladu s člancima 106. – 120. ovoga Zakona.
+
+(2) Društvo za osiguranje iz treće države koje obavlja poslove osiguranja preko podružnice u Republici Hrvatskoj dužno je vrednovati imovinu i obveze u skladu s člankom 105. ovoga Zakona i utvrđivati vlastita sredstva u skladu s člancima 121. – 129. ovoga Zakona.
+
+(3) Podružnica društva za osiguranje iz treće države u Republici Hrvatskoj mora raspolagati iznosom prihvatljivih vlastitih sredstava koja se sastoje od stavki iz članka 128. stavka 1. ovoga Zakona.
+
+(4) Podružnica društva za osiguranje iz treće države u Republici Hrvatskoj mora izračunavati potrebni solventni kapital u skladu s odredbama članaka 130. – 156. ovoga Zakona i minimalni potrebni kapital u skladu s odredbama članaka 157., 158. i 459. ovoga Zakona, a prilikom čijeg izračunavanja za životno i neživotno osiguranje u obzir uzima samo poslove koje je obavila.
+
+(5) Prihvatljivi iznos osnovnih vlastitih sredstava potreban za pokriće minimalnog potrebnog kapitala i apsolutnog praga tog minimalnog potrebnog kapitala oblikuje se u skladu s člankom 129. stavkom 1. ovoga Zakona.
+
+(6) Prihvatljivi iznos osnovnih vlastitih sredstava ne smije biti manji od polovine apsolutnog praga iz članka 158. stavka 1. točke 4. ovoga Zakona.
+
+(7) Podružnica društva za osiguranje iz treće države mora depozit položen u skladu s člankom 78. stavkom 2. točkom 4. ovoga Zakona izračunavati u odnosu na ta prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala.
+
+(8) Podružnica društva za osiguranje iz treće države mora imati vlastita sredstva u Republici Hrvatskoj najmanje u visini minimalnog potrebnog kapitala, a višak sredstava do visine potrebnog solventnog kapitala u drugim državama članicama.
+
+*Pogodnosti za društva koja imaju odobrenje za obavljanje poslova osiguranja u više od jedne države članice*
+
+##### Članak 81.
+
+(1) Društvo za osiguranje iz treće države koje ima odobrenje za obavljanje poslova osiguranja u više od jedne države članice preko podružnice može podnijeti zahtjev nadležnim nadzornim tijelima u tim državama članicama za skupno odobravanje sljedećih pogodnosti:
+
+1. potrebni solventni kapital iz članka 80. ovoga Zakona izračunava se u odnosu na sve djelatnosti kojima se ono bavi u državama članicama, a prilikom čijeg izračunavanja se uzimaju u obzir samo poslovi koje su obavile sve podružnice iz država članica
+
+2. depozit propisan u skladu s člankom 78. stavkom 2. točkom 4. ovoga Zakona polaže se samo u jednoj od tih država članica
+
+3. imovina koja predstavlja minimalni potrebni kapital lokalizirana je u bilo kojoj od država članica u kojoj ono obavlja djelatnosti.
+
+(2) Zahtjev za ostvarivanje pogodnosti iz stavka 1. ovoga članka društvo za osiguranje iz treće države upućuje nadležnim nadzornim tijelima država članica u kojima su osnovane podružnice, a u zahtjevu navodi nadležno nadzorno tijelo države članice koja će u budućnosti nadzirati solventnost svih poslova podružnica osnovanih u državama članicama i pri tome navodi razloge za odabir tog nadležnog nadzornog tijela.
+
+(3) Društvo za osiguranje iz treće države dužno je položiti depozit iz članka 78. stavka 2. točke 4. ovoga Zakona u državi članici iz stavka 2. ovoga članka.
+
+(4) Pogodnosti predviđene u stavku 1. ovoga članka mogu se odobriti samo ako su s njima suglasna nadležna nadzorna tijela svih država članica kojima je zahtjev bio upućen.
+
+(5) Pogodnosti iz stavka 1. ovoga članka počinju proizvoditi pravne učinke od dana kad odabrano nadležno nadzorno tijelo pisano obavijesti druga nadležna nadzorna tijela da će ono nadzirati stanje solventnosti svih poslova podružnica u državama članicama.
+
+(6) Agencija je dužna dostaviti informacije potrebne za nadzor ukupne solventnosti podružnice u Republici Hrvatskoj nadležnom nadzornom tijelu iz stavka 2. ovoga članka.
+
+(7) Na zahtjev jedne ili više predmetnih država članica pogodnosti odobrene u skladu s odredbama ovoga članka istodobno se ukidaju u svim predmetnim državama članicama.
+
+(8) Kad odobrenje za obavljanje poslova osiguranja oduzima nadležno nadzorno tijelo iz stavka 2. ovoga članka, nadležno nadzorno tijelo obavješćuje ostala nadležna nadzorna tijela država članica gdje to društvo za osiguranje iz treće države posluje preko podružnice, a koja poduzimaju primjerene mjere.
+
+(9) Kad se odobrenje za obavljanje poslova osiguranja iz stavka 8. ovoga članka ukida zbog neadekvatnosti ukupnog stanja solventnosti utvrđenog u državama članicama u kojima društvo za osiguranje iz treće države posluje preko podružnice i koje su se suglasile sa zahtjevom za ostvarivanje pogodnosti iz ovoga članka, Agencija će ukinuti odobrenje za obavljanje poslova osiguranja.
+
+*Odvajanje djelatnosti životnog i neživotnog osiguranja društva za osiguranje iz treće države*
+
+##### Članak 82.
+
+Društvo za osiguranje iz treće države ne može istodobno obavljati poslove životnog i neživotnog osiguranja preko iste podružnice osnovane u Republici Hrvatskoj.
+
+*Društvo za reosiguranje iz treće države*
+
+##### Članak 83.
+
+(1) Društvo za reosiguranje iz treće države može na području Republike Hrvatske obavljati poslove reosiguranja putem poslovnog nastana.
+
+(2) Odredbe ovoga Zakona koje se odnose na društvo za osiguranje iz treće države koje na području Republike Hrvatske obavlja poslove osiguranja preko podružnice na odgovarajući se način primjenjuju i na društvo za reosiguranje iz treće države koje obavlja poslove reosiguranja.
+
+(3) Iznimno od stavka 1. ovoga članka, društvo za reosiguranje iz treće države može na području Republike Hrvatske obavljati poslove reosiguranja putem slobode pružanja usluga ako je režim regulatornog sustava solventnosti treće države utvrđen od strane Europske komisije u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje istovjetnost u vezi s društvima za reosiguranje iz treće države, istovjetan s regulatornim sustavom solventnosti određenim ovim Zakonom.
+
+(4) Ugovori o reosiguranju sklopljeni s društvima za reosiguranje iz treće države, pod uvjetom da je režim solventnosti istovjetan ili privremeno istovjetan s režimom propisanim ovim Zakonom iz stavka 3. ovoga članka, na isti se način tretiraju kao ugovori o reosiguranju s društvima za reosiguranje iz Republike Hrvatske, odnosno druge države članice.
+
+(5) Društvo za reosiguranje iz treće države ne smije biti stavljeno u povoljniji položaj u odnosu na društvo za reosiguranje iz Republike Hrvatske, odnosno druge države članice.
+
+(6) Društvo za reosiguranje koje sklapa ugovore o reosiguranju ograničenog rizika dužno je pravilno utvrđivati, mjeriti, pratiti, upravljati, nadzirati i izvješćivati o rizicima koji proizlaze iz tih ugovora.
+
+*Ukidanje odobrenja za obavljanje poslova osiguranja preko podružnice društvu za osiguranje iz treće države*
+
+##### Članak 84.
+
+Na ukidanje i prestanak važenja rješenja o odobrenju koje je Agencija izdala društvu za osiguranje iz treće države za obavljanje poslova osiguranja preko podružnice na odgovarajući se način primjenjuju odredbe ovoga Zakona o ukidanju i prestanku važenja rješenja o odobrenju za obavljanje poslova osiguranja društvu za osiguranje.
+
+*Posebne odredbe za podružnicu društva za osiguranje Švicarske Konfederacije*
+
+##### Članak 85.
+
+(1) Društvo za osiguranje sa sjedištem u Švicarskoj Konfederaciji može obavljati poslove osiguranja u skupini neživotnog osiguranja u vrstama osiguranja iz članka 7. ovoga Zakona samo preko podružnice osnovane u Republici Hrvatskoj uz prethodno odobrenje Agencije.
+
+(2) Društvo za osiguranje Švicarske Konfederacije može na području Republike Hrvatske osnovati podružnicu ako za to dobije odobrenje Agencije. Najkasnije 60 dana prije podnošenja zahtjeva za izdavanje odobrenja za osnivanje podružnice dužno je o namjeri osnivanja podružnice pisano obavijestiti Agenciju, a zahtjevu za izdavanje odobrenja društvo za osiguranje dužno je priložiti:
+
+1. dokumentaciju iz članka 78. stavka 3. točaka 1. – 4. ovoga Zakona te popis članova uprave društva
+
+2. potvrdu nadležnog nadzornog tijela Švicarske Konfederacije kojom se potvrđuje:
+
+a) da društvo za osiguranje ne obavlja druge poslove osim poslova osiguranja i poslova koji proizlaze iz poslova osiguranja
+
+b) vrste osiguranja za koje društvo za osiguranje ima odobrenje za obavljanje poslova osiguranja
+
+c) da društvo za osiguranje pokriva potrebni solventni kapital i minimalni potrebni kapital koji se izračunava u skladu s odredbama ovoga Zakona
+
+d) podatak o rizicima koje društvo za osiguranje pokriva
+
+e) dostatnost financijskih sredstava za pokrivanje troškova opisanih u članku 79. stavku 1. točki 6. ovoga Zakona
+
+3. poslovni plan izrađen u skladu s člankom 79. stavkom 1. točkama 1., 2., 5. i 6., stavkom 2. točkama 1. i 3. te stavkom 3. ovoga Zakona
+
+4. dokaz da je imenovalo ili opunomoćilo osobu s prebivalištem/sjedištem na području Republike Hrvatske na način da se toj osobi daje neograničena ovlast da obvezuje društvo za osiguranje prema trećima i zastupa ga pred nadležnim državnim i pravosudnim tijelima u Republici Hrvatskoj.
+
+(3) Na podružnicu društva za osiguranje Švicarske Konfederacije u Republici Hrvatskoj ne primjenjuju se odredbe članka 78. stavka 2. točke 4. i stavka 4. te članka 80. stavaka 7. i 8. ovoga Zakona.
+
+(4) Prije odluke o izdavanju odobrenja za osnivanje podružnice društva za osiguranje Švicarske Konfederacije Agencija je dužna obavijestiti nadležno nadzorno tijelo Švicarske Konfederacije i zatražiti njegovo mišljenje.
+
+(5) Ako nadležno nadzorno tijelo ne odgovori u roku od tri mjeseca od dana primitka obavijesti iz stavka 4. ovoga članka, smatra se da se ne protivi osnivanju podružnice. Na razmjenu informacija između Agencije i nadležnog nadzornog tijela ne primjenjuju se odredbe Zakona o općem upravnom postupku.
+
+(6) Prije odluke o oduzimanju odobrenja za osnivanje podružnice društva za osiguranje Švicarske Konfederacije Agencija je dužna o tome obavijestiti nadležno nadzorno tijelo Švicarske Konfederacije i zatražiti njegovo mišljenje.
+
+(7) Ako Agencija prije dobivanja mišljenja iz stavka 6. ovoga članka podružnici društva za osiguranje Švicarske Konfederacije zabrani sklapanje ugovora o osiguranju, dužna je o tome bez odgađanja obavijestiti nadležno nadzorno tijelo Švicarske Konfederacije.
+
+(8) Na podružnicu društva za osiguranje Švicarske Konfederacije u Republici Hrvatskoj na odgovarajući se način primjenjuje članak 77. ovoga Zakona, odredbe o nadzoru nad društvima za osiguranje.
+
+(9) U slučaju proširenja djelatnosti podružnice potrebno je ishoditi novo odobrenje, a zahtjevu priložiti dokumentaciju iz stavka 2. točaka 2. i 3. ovoga članka.
+
+(10) Društvo za osiguranje sa sjedištem u Švicarskoj Konfederaciji može obavljati poslove osiguranja u skupini životnog osiguranja samo preko podružnice osnovane u Republici Hrvatskoj pod uvjetima propisanim ovim Zakonom za izdavanje odobrenja za obavljanje poslova osiguranja društvu za osiguranje iz treće države preko podružnice.
+
+(11) Na ukidanje i prestanak važenja odobrenja za obavljanje poslova osiguranja društva za osiguranje iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe članka 34. ovoga Zakona.
+
+(12) Ako društvo za osiguranje ne dostavi obavijest u skladu sa stavkom 1. ovoga članka, zahtjev će se odbiti kao preuranjen. Agencija će o zahtjevu iz ovoga članka odlučiti u roku od 60 dana od dana urednosti zahtjeva.
+
+## GLAVA VII. — PRIJENOS I PREUZIMANJE PORTFELJA
+
+*Prijenos i preuzimanje portfelja između društava za osiguranje sa sjedištem u Republici Hrvatskoj*
+
+##### Članak 86.
+
+(1) Društvo za osiguranje (u daljnjem tekstu: društvo za osiguranje prenositelj) može prenijeti sve ili dio ugovora o osiguranju (u daljnjem tekstu: portfelj osiguranja) na drugo društvo za osiguranje (u daljnjem tekstu: društvo za osiguranje preuzimatelj) sa sjedištem u Republici Hrvatskoj.
+
+(2) Društvo za osiguranje preuzimatelj, koje ima sjedište u Republici Hrvatskoj, za preuzimanje portfelja osiguranja mora imati prethodno odobrenje Agencije za to preuzimanje portfelja osiguranja.
+
+(3) Društvo za osiguranje dužno je, nakon izdavanja odobrenja Agencije iz stavka 2. ovoga članka, u roku od osam dana od dana izvršenog prijenosa portfelja osiguranja obavijestiti Agenciju o izvršenom preuzimanju portfelja osiguranja.
+
+(4) Za prijenos ugovora o osiguranju nije potrebna suglasnost osiguranika, ali ugovaratelji osiguranja mogu otkazati ugovor u određenom roku u skladu s odredbama mjerodavnog prava koje propisuju pravo na otkaz ugovora zbog promijenjenih okolnosti.
+
+(5) Društvo za osiguranje preuzimatelj dužno je nakon preuzetog portfelja osiguranja, bez odgađanja, o prijenosu portfelja osiguranja obavijestiti svakog ugovaratelja osiguranja čiji je ugovor o osiguranju prenesen, na način kako je to ugovoreno preuzetim ugovorom o osiguranju te objavom informacije o prijenosu portfelja u »Narodnim novinama« i dva dnevna lista u Republici Hrvatskoj.
+
+(6) Kad društvo za osiguranje namjerava preuzeti cijeli ili dio portfelja osiguranja u kojemu su ugovori sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga, dužno je najkasnije 60 dana prije podnošenja zahtjeva za izdavanje odobrenja za preuzimanje portfelja pisano obavijestiti Agenciju o namjeravanom preuzimanju portfelja, a Agencija će zatražiti savjet nadležnog nadzornog tijela države članice u kojoj su ugovori sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga za davanje mišljenja ili suglasnosti o tom prijenosu portfelja.
+
+(7) Ako nadležno nadzorno tijelo druge države članice ne dostavi Agenciji svoje mišljenje ili suglasnost u roku od tri mjeseca od dana zaprimanja zahtjeva Agencije iz stavka 6. ovoga članka, smatra se da je dalo svoju prešutnu suglasnost za prijenos portfelja osiguranja.
+
+(8) Prijenos portfelja osiguranja društvo za osiguranje preuzimatelj objavit će u skladu sa stavkom 5. ovoga članka, a u državi članici u kojoj se nalazi rizik, odnosno državi članici obveze u skladu s njezinim propisima o objavi prijenosa portfelja osiguranja.
+
+(9) Smatra se da je zahtjev za izdavanje odobrenja za prijenos portfelja osiguranja uredan tek po zaprimanju mišljenja ili suglasnosti nadležnog nadzornog tijela iz stavka 6. ovoga članka, odnosno istekom roka iz stavka 7. ovoga članka te ako je dostavljen uredan zahtjev u skladu sa stavkom 11. ovoga članka. Prijenos portfelja nije dopušten ako se nadležno nadzorno tijelo usprotivi tom prijenosu portfelja u roku iz stavka 7. ovoga članka.
+
+(10) Odredbe stavaka 4., 6. i 7. ovoga članka ne primjenjuju se na društvo za reosiguranje, odnosno portfelj reosiguranja.
+
+(11) Agencija će pravilnikom propisati sadržaj zahtjeva za izdavanje odobrenja za preuzimanje portfelja osiguranja i dokumentaciju koja se dostavlja uz zahtjev za izdavanje odobrenja za preuzimanje portfelja iz ovoga članka i članaka 87., 88. i 89. ovoga Zakona.
+
+(12) Ako društvo za osiguranje ne dostavi obavijest u skladu sa stavkom 6. ovoga članka, zahtjev će se odbiti kao preuranjen. Agencija će o zahtjevu iz ovoga članka odlučiti u roku od 60 dana od dana urednosti zahtjeva.
+
+*Prijenos portfelja društva za osiguranje sa sjedištem u Republici Hrvatskoj na društvo za osiguranje iz druge države članice*
+
+##### Članak 87.
+
+(1) Društvo za osiguranje mora imati odobrenje Agencije da svoj ukupni portfelj ili dio svog portfelja prenese na društvo za osiguranje preuzimatelja iz druge države članice. Za izdavanje odobrenja društvu za osiguranje da svoj ukupni portfelj ili dio svog portfelja prenese na društvo za osiguranje preuzimatelja iz druge države članice potrebno je da nadležno nadzorno tijelo društva za osiguranje preuzimatelja iz te države članice potvrdi Agenciji da društvo za osiguranje preuzimatelj ima potrebna prihvatljiva vlastita sredstva za pokriće potrebnog solventnog kapitala iz članka 130. ovoga Zakona jer u protivnom takav prijenos nije dopušten.
+
+(2) Ako su predmet prijenosa iz stavka 1. ovoga članka i ugovori sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga na području druge države članice, za izdavanje odobrenja za taj prijenos potrebno je da Agencija dobije suglasnost i od nadležnog nadzornog tijela države članice u kojoj su ugovori sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga.
+
+(3) Ako nadležno nadzorno tijelo države članice iz stavka 2. ovoga članka ne dostavi Agenciji svoje mišljenje ili suglasnost u roku od tri mjeseca od dana zaprimanja zahtjeva Agencije iz stavka 2. ovoga članka, smatra se da je dalo svoju prešutnu suglasnost za prijenos portfelja osiguranja.
+
+(4) Društvo za osiguranje prenositelj dužno je nakon ishođenja odobrenja za prijenos portfelja osiguranja, bez odgađanja, o prijenosu portfelja osiguranja obavijestiti svakog ugovaratelja osiguranja čiji je ugovor o osiguranju prenesen, u skladu s člankom 86. stavkom 5. ovoga Zakona te kako je propisano nacionalnim pravom države članice u kojoj se nalazi rizik, odnosno države članice obveze.
+
+(5) Za prijenos ugovora o osiguranju nije potrebna suglasnost osiguranika, ali ugovaratelji osiguranja mogu otkazati ugovor u određenom roku u skladu s odredbama mjerodavnog prava koje se primjenjuje na njihov ugovor o osiguranju.
+
+(6) Društvo za osiguranje dužno je najkasnije 60 dana prije podnošenja zahtjeva za izdavanje odobrenja za prijenos portfelja pisano obavijestiti Agenciju o namjeravanom prijenosu portfelja, a Agencija će zatražiti očitovanje nadležnog nadzornog tijela iz stavka 1. odnosno stavka 2. ovoga članka. Smatra se da je zahtjev za izdavanje odobrenja za prijenos portfelja osiguranja uredan tek po zaprimanju mišljenja ili suglasnosti nadležnog nadzornog tijela iz stavka 2. ovoga članka, odnosno ostvarenjem uvjeta iz stavka 3. ovoga članka te ako je dostavljen uredan zahtjev u skladu sa stavkom 6. ovoga članka. Prijenos portfelja nije dopušten ako se nadležno nadzorno tijelo iz stavka 2. ovoga članka usprotivi tom prijenosu portfelja u roku iz stavka 3. ovoga članka.
+
+(7) Ako društvo za osiguranje ne dostavi obavijest u skladu sa stavkom 6. ovoga članka, zahtjev će se odbiti kao preuranjen. Agencija će o zahtjevu iz ovoga članka odlučiti u roku od 60 dana od dana urednosti zahtjeva.
+
+(8) Na društvo za reosiguranje, odnosno prijenos portfelja reosiguranja ne primjenjuju se stavci 2. – 7. ovoga članka.
+
+*Preuzimanje portfelja osiguranja društva za osiguranje sa sjedištem u Republici Hrvatskoj od društva za osiguranje iz druge države članice*
+
+##### Članak 88.
+
+(1) Društvo za osiguranje mora imati odobrenje Agencije da preuzme ukupni portfelj ili dio portfelja osiguranja društva za osiguranje prenositelja iz druge države članice. Za izdavanje odobrenja društvu za osiguranje sa sjedištem u Republici Hrvatskoj da preuzme ukupni portfelj osiguranja ili dio portfelja osiguranja društva za osiguranje prenositelja iz druge države članice potrebno je da to društvo za osiguranje ima potrebna prihvatljiva vlastita sredstva za pokriće potrebnog solventnog kapitala iz članka 130. ovoga Zakona jer u protivnom takav prijenos nije dopušten.
+
+(2) Za izdavanje odobrenja društvu za osiguranje sa sjedištem u Republici Hrvatskoj da preuzme ukupni portfelj osiguranja ili dio portfelja osiguranja društva za osiguranje iz druge države članice u kojemu su ugovori sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga, za izdavanje odobrenja za preuzimanje tih ugovora potrebno je da Agencija dobije suglasnost od nadležnog nadzornog tijela države članice u kojoj su ugovori sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga.
+
+(3) Ako nadležno nadzorno tijelo države članice iz stavka 2. ovoga članka ne dostavi Agenciji svoje mišljenje ili suglasnost u roku od tri mjeseca od dana zaprimanja zahtjeva Agencije iz stavka 2. ovoga članka, smatra se da je dalo svoju prešutnu suglasnost za prijenos portfelja osiguranja.
+
+(4) Društvo za osiguranje preuzimatelj dužno je nakon ishođenja odobrenja za preuzimanje portfelja osiguranja, bez odgađanja, o prijenosu portfelja osiguranja obavijestiti svakog ugovaratelja osiguranja čiji je ugovor o osiguranju prenesen, u skladu s člankom 86. stavkom 5. ovoga Zakona te kako je propisano nacionalnim pravom države članice u kojoj se nalazi rizik, odnosno države članice obveze.
+
+(5) Društvo za osiguranje dužno je najkasnije 60 dana prije podnošenja zahtjeva za izdavanje odobrenja za preuzimanje portfelja pisano obavijestiti Agenciju o namjeravanom preuzimanju portfelja, a Agencija će zatražiti očitovanje nadležnog nadzornog tijela iz stavka 1., odnosno stavka 2. ovoga članka. Smatra se da je zahtjev za izdavanje odobrenja za preuzimanje portfelja osiguranja uredan tek po zaprimanju mišljenja ili suglasnosti nadležnog nadzornog tijela iz stavka 2. ovoga članka, odnosno ostvarenjem uvjeta iz stavka 3. ovoga članka te ako je dostavljen uredan zahtjev u skladu s člankom 86. stavkom 11. ovoga Zakona. Prijenos portfelja nije dopušten ako se nadležno nadzorno tijelo iz stavka 2. ovoga članka usprotivi tom prijenosu portfelja u roku iz stavka 3. ovoga članka.
+
+(6) Ako društvo za osiguranje ne dostavi obavijest u skladu sa stavkom 5. ovoga članka, zahtjev će se odbiti kao preuranjen. Agencija će o zahtjevima iz ovoga članka odlučiti u roku od 60 dana od dana urednosti zahtjeva.
+
+(7) Na društvo za reosiguranje, odnosno preuzimanje portfelja reosiguranja ne primjenjuju se stavci 2. – 6. ovoga članka.
+
+*Prijenos portfelja podružnice društva za osiguranje iz treće države osnovane u Republici Hrvatskoj*
+
+##### Članak 89.
+
+(1) Agencija odlučuje o zahtjevu za izdavanje odobrenja društvu za osiguranje iz treće države za prijenos cijelog ili dijela portfelja ugovora o osiguranju njegove podružnice osnovane u Republici Hrvatskoj, na društvo za osiguranje preuzimatelja osnovano u Republici Hrvatskoj kad Agencija utvrdi, odnosno, prema potrebi, države članice u kojima društvo za osiguranje iz treće države ima osnovane podružnice potvrde da, nakon što se prijenos uzme u obzir, društvo za osiguranje preuzimatelj raspolaže potrebnim prihvatljivim vlastitim sredstvima za pokriće potrebnog solventnog kapitala iz članka 130. ovoga Zakona.
+
+(2) Agencija odlučuje o zahtjevu za izdavanje odobrenja društva za osiguranje iz treće države za prijenos cijelog ili dijela portfelja ugovora o osiguranju, njegove podružnice osnovane u Republici Hrvatskoj, na društvo za osiguranje sa sjedištem u drugoj državi članici nakon što od nadležnog nadzornog tijela države članice društva za osiguranje preuzimatelja zaprimi obavijest da, nakon što se prijenos uzme u obzir, društvo za osiguranje preuzimatelj raspolaže potrebnim prihvatljivim vlastitim sredstvima za pokriće potrebnog solventnog kapitala iz članka 130. ovoga Zakona.
+
+(3) Agencija odlučuje o zahtjevu za izdavanje odobrenja društva za osiguranje iz treće države koje ima podružnicu osnovanu u Republici Hrvatskoj za prijenos cijelog ili dijela portfelja te podružnice na podružnicu osnovanu na državnom području druge države članice, kada nadzorna tijela druge države članice društva preuzimatelja ili, prema potrebi, države članice iz članka 81. ovoga Zakona potvrde da:
+
+1. društvo preuzimatelj, nakon što je prijenos uzet u obzir, raspolaže potrebnim prihvatljivim vlastitim sredstvima za pokriće potrebnog solventnog kapitala
+
+2. zakonodavstvo druge države članice društva preuzimatelja dopušta takav prijenos i da
+
+3. je druga država članica suglasna s prijenosom.
+
+(4) U okolnostima iz stavaka 1. – 3. ovoga članka Agencija će odobriti prijenos portfelja nakon što dobije suglasnost nadležnih nadzornih tijela države članice u kojoj se nalaze rizici, odnosno, u odnosu na životna osiguranja, države članice obveze, kad se ta država razlikuje od države članice u kojoj se nalazi podružnica koja obavlja prijenos.
+
+(5) Društvo za osiguranje iz treće države dužno je najkasnije 60 dana prije podnošenja zahtjeva za izdavanje odobrenja za prijenos portfelja pisano obavijestiti Agenciju o namjeravanom prijenosu portfelja, a Agencija će zatražiti u vezi s prijenosom portfelja iz stavka 1. – 3. ovoga članka od nadležnih nadzornih tijela da daju svoje mišljenje ili suglasnost u roku od tri mjeseca od dana zaprimanja tog zahtjeva. Ako u tom roku tijela od kojih je zatražen savjet ne daju nikakav odgovor, smatra se da su dala povoljno mišljenje ili prešutnu suglasnost. Prijenos portfelja nije dopušten ako se nadležna nadzorna tijela usprotive tom prijenosu portfelja u roku iz ovoga stavka.
+
+(6) Društvo za osiguranje preuzimatelj dužno je nakon ishođenja odobrenja za prijenos, odnosno preuzimanje portfelja, bez odgađanja, o prijenosu portfelja osiguranja obavijestiti ugovaratelje osiguranja, odnosno osiguranike u skladu s odredbama preuzetih ugovora o osiguranju i objavom provedenog prijenosa u dva dnevna lista koja izlaze na području Republike Hrvatske te kako je propisano nacionalnim pravom države članice u kojoj se nalazi rizik, odnosno države članice obveze.
+
+(7) Za prijenos ugovora o osiguranju nije potrebna suglasnost osiguranika, ali ugovaratelji osiguranja imaju mogućnost otkazivanja ugovora u određenom roku nakon prijenosa u skladu s odredbama mjerodavnog prava koje propisuju pravo na otkaz ugovora zbog promijenjenih okolnosti.
+
+(8) Prijenos portfelja izvršen u skladu s odredbama ovoga članka automatski vrijedi za ugovaratelje osiguranja, osigurane osobe i bilo koje druge osobe koje imaju prava i obveze koja proizlaze iz prenesenih ugovora.
+
+(9) Stavak 3. ovoga članka na odgovarajući se način primjenjuje i na prijenos portfelja osiguranja podružnice društva za osiguranje iz Švicarske Konfederacije osnovane u Republici Hrvatskoj.
+
+(10) Agencija će pravilnikom iz članka 86. stavka 11. ovoga Zakona propisati sadržaj zahtjeva za izdavanje odobrenja za prijenos, odnosno preuzimanje portfelja osiguranja i dokumentaciju koja se dostavlja uz zahtjev za izdavanje odobrenja za prijenos portfelja osiguranja iz ovoga članka.
+
+(11) Ako društvo za osiguranje ne dostavi obavijest u skladu sa stavkom 5. ovoga članka, zahtjev će se odbiti kao preuranjen. Agencija će o zahtjevima iz ovoga članka odlučiti u roku od 60 dana od dana urednosti zahtjeva.
+
+*Odlučivanje o zahtjevu za izdavanje odobrenja za prijenos odnosno preuzimanje portfelja osiguranja*
+
+##### Članak 90.
+
+(1) Agencija će donijeti rješenje kojim će izdati odobrenje za prijenos, odnosno preuzimanje portfelja osiguranja ako su ispunjeni uvjeti za prijenos propisani ovim Zakonom i pravilnikom iz članka 86. ovoga Zakona.
+
+(2) Agencija će odbiti zahtjev za izdavanje odobrenja za preuzimanje portfelja osiguranja ako nisu ispunjeni uvjeti propisani ovim Zakonom za izdavanje odobrenja za prijenos, odnosno preuzimanje portfelja ili ako postoje drugi razlozi zbog kojih bi bili ugroženi interesi osiguranika.
+
+(3) Agencija će odbiti izdati odobrenje za preuzimanje portfelja društvu za osiguranje ako za to postoje razlozi propisani člankom 167. stavkom 2. ovoga Zakona.
+
+(4) Ako društvo za osiguranje iz druge države članice prenosi portfelj osiguranja koji čine ugovori o osiguranju sklopljeni na temelju prava poslovnog nastana ili na temelju slobode pružanja usluga u Republici Hrvatskoj, Agencija je dužna o mogućim prigovorima protiv tog prijenosa obavijestiti nadležno nadzorno tijelo tog društva za osiguranje, u roku od tri mjeseca od primitka zahtjeva tog tijela za davanje savjeta u vezi s tim prijenosom. Ako Agencija ne odgovori na taj zahtjev, smatra se da je dala svoju prešutnu suglasnost. Na razmjenu informacija između Agencije i nadležnog nadzornog tijela ne primjenjuju se odredbe Zakona o općem upravnom postupku.
+
+## GLAVA VIII. — SUSTAV UPRAVLJANJA
+
+*Opće odredbe*
+
+##### Članak 91.
+
+(1) Društvo za osiguranje dužno je poslovati na način da rizici kojima je izloženo u pojedinačnim, odnosno svim vrstama poslova osiguranja koje obavlja ne prijeđu vrijednosti propisane ovim Zakonom te na temelju njega donesenim propisima, kao i drugim propisima kojima se uređuje poslovanje društava za osiguranje, posebice onima koji se odnose na dostatnost premija i tehničkih pričuva prema računovodstvenim propisima u pojedinačnim, odnosno svim vrstama osiguranja.
+
+(2) Društvo za osiguranje dužno je poslovati tako da je sposobno pravodobno ispuniti dospjele obveze te na način da je trajno sposobno ispunjavati sve svoje obveze.
+
+*Opći zahtjevi za sustav upravljanja*
+
+##### Članak 92.
+
+(1) Društvo za osiguranje dužno je uspostaviti i provoditi djelotvoran i pouzdan sustav upravljanja uzimajući u obzir prirodu, opseg i složenost poslova društva za osiguranje koji osigurava upravljanje poslovima pažnjom dobrog stručnjaka te koji obuhvaća:
+
+1. odgovarajuću preglednu organizacijsku strukturu s jasno definiranim, preglednim i dosljednim linijama ovlasti i odgovornosti, uspostavljenu na način da se izbjegne sukob interesa
+
+2. učinkovit sustav kojim se osigurava prijenos informacija
+
+3. strategije, pisana pravila, postupke i procedure za upravljanje rizicima
+
+4. razumne mjere kako bi osiguralo kontinuirano i redovito obavljanje djelatnosti društva za osiguranje, uključujući i stvaranje planova za slučaj nepredviđenih okolnosti. S tim ciljem društvo za osiguranje upotrebljava primjerene i proporcionalne sustave, izvore i postupke.
+
+(2) Društvo za osiguranje dužno je redovito ažurirati i procjenjivati sustav upravljanja te redovito provoditi unutarnji pregled tog sustava.
+
+(3) Društvo za osiguranje dužno je u vezi sa sustavom upravljanja pridržavati se odredbi Uredbe (EU) br. 2015/35.
+
+(4) Uprava društva za osiguranje donosi pisana pravila za upravljanje rizicima, unutarnju kontrolu, unutarnju reviziju i prema potrebi izdvajanje poslova uz prethodno odobrenje nadzornog odbora te je dužna najmanje jednom godišnje pregledati ih i prilagoditi značajnim promjenama u sustavu ili u određenom području.
+
+*Ključne funkcije i nositelji ključnih funkcija*
+
+##### Članak 93.
+
+(1) U okviru sustava upravljanja društvo za osiguranje dužno je, uzimajući u obzir prirodu, opseg i složenost svog poslovanja, ustrojiti sljedeće učinkovite ključne funkcije:
+
+1. funkciju upravljanja rizicima
+
+2. funkciju praćenja usklađenosti
+
+3. funkciju unutarnje revizije i
+
+4. aktuarsku funkciju.
+
+(2) Društvo za osiguranje dužno je imenovati nositelje ključnih funkcija iz stavka 1. ovoga članka s tim da društvo za osiguranje u skladu s prirodom, opsegom i složenosti poslovanja može imenovati jednu osobu za obavljanje više ključnih funkcija, vodeći računa da to ne dovede do sukoba interesa.
+
+(3) Za pojedinu ključnu funkciju iz stavka 1. ovoga članka društvo može imenovati i više nositelja ključne funkcije kada se povjereni poslovi pojedinom nositelju ključne funkcije ne preklapaju i kad postoji jasna i sveobuhvatna raspodjela odgovornosti, što je društvo za osiguranje dužno na zahtjev Agencije dokazati.
+
+(4) U slučajevima iz stavaka 2. i 3. ovoga članka društvo za osiguranje dužno je učinkovito poduzimati mjere za sprječavanje ili upravljanje sukobom interesa.
+
+(5) Nositelj ključne funkcije iz stavka 1. ovoga članka može biti osoba koja ispunjava sljedeće uvjete:
+
+1. znanje hrvatskog jezika
+
+2. stručnosti, odnosno posjeduje odgovarajuće stručne kvalifikacije, znanje i iskustvo potrebno za obavljanje povjerenih poslova ključne funkcije pažnjom dobrog stručnjaka
+
+3. primjerenosti, odnosno ima dobar ugled i integritet
+
+4. nije pravomoćno osuđena za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.) iz:
+
+– glave XXIII. – kaznena djela protiv imovine (osim za kazneno djelo neovlaštene uporabe tuđe pokretne stvari i kazneno djelo oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glave XXIV. – kaznena djela protiv gospodarstva
+
+– glave XXVI. – kaznena djela krivotvorenja
+
+– kaznena djela iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XVII. – kaznena djela protiv imovine (osim za kazneno djelo, a tuđe pokretne stvari i kazneno djelo uništenja i oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja
+
+– glava XXIII. – kaznena djela protiv vjerodostojnosti isprava
+
+5. nije pravomoćno osuđena za kaznena djela iz zakona drugih država članica i trećih država koja po svom opisu odgovaraju kaznenim djelima iz točke 4. ovoga stavka
+
+6. ne obnaša funkciju člana uprave ili prokuriste te člana nadzornog odbora društva za osiguranje, odnosno koja posredno ili neposredno nema udjel u društvu za osiguranje veći od 1‰
+
+7. ispunjava uvjete iz članka 51. stavka 1. točaka 3., 4., 5., 8. i 12. ovoga Zakona.
+
+(6) Pod iskustvom iz stavka 5. točke 2. ovoga članka podrazumijeva se najmanje trogodišnje radno iskustvo u društvu za osiguranje ili u obavljanju odgovarajućih poslova u drugoj pravnoj osobi.
+
+(7) Pod dokazom iz stavka 5. točaka 4. i 5. ovoga članka podrazumijeva se uvjerenje nadležnog tijela da kandidat nije pravomoćno osuđen za navedena kaznena djela, kad je primjenjivo ili ovjerena izjava kandidata, a pod dokazom iz stavka 5. točke 7. ovoga članka dokaz iz članka 51. stavka 4. ovoga Zakona.
+
+(8) Isprave i potvrde iz ovoga članka ne smiju biti starije od tri mjeseca od dana njihova izdavanja.
+
+(9) Društvo za osiguranje dužno je utvrditi postojanje uvjeta propisanih ovim Zakonom, a Agencija može izvršiti provjeru izvatkom iz odgovarajućih evidencija u Republici Hrvatskoj, kao i evidencija drugih država članica ili trećih država.
+
+(10) Društvo za osiguranje dužno je pisanim putem obavijestiti Agenciju u roku od osam dana o imenovanju osoba koje su nositelji ključnih funkcija u društvu za osiguranje te o svim značajnim informacijama koje utječu na njihov poslovni ugled i iskustvo te o prestanku i razlozima prestanka obavljanja ključne funkcije.
+
+(11) Agencija može izreći odgovarajuće nadzorne mjere iz članka 238. ovoga Zakona ako utvrdi da osoba koja je nositelj ključne funkcije ne ispunjava uvjete propisane ovim Zakonom, učestalo krši odredbe ovoga Zakona ili drugih propisa kojima se uređuje poslovanje društava za osiguranje ili je poslovanje društva za osiguranje ugroženo.
+
+(12) Agencija će pravilnikom detaljnije propisati uvjete i dokumentaciju kojom se dokazuje ispunjavanje uvjeta za obavljanje ključne funkcije.
+
+(13) Uprava društva za osiguranje dužna je omogućiti nositeljima ključnih funkcija iz stavka 1. ovoga članka da imaju pristup svim informacijama društva za osiguranje koje su im potrebne za obavljanje te funkcije.
+
+(14) Uprava društva za osiguranje dužna je uzeti u obzir izvještaje, mišljenja i preporuke nositelja ključnih funkcija iz stavka 1. ovoga članka, donijeti potrebne mjere i osiguravati njihovu provedbu.
+
+*Sustav upravljanja rizicima*
+
+##### Članak 94.
+
+(1) Sustav upravljanja rizicima obuhvaća strategije, procese i postupke izvješćivanja nužne za identificiranje, mjerenje, praćenje, upravljanje rizicima te kontinuirano izvještavanje na pojedinačnoj i grupnoj osnovi, o rizicima kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo u svom poslovanju te o međusobnoj ovisnosti tih rizika, a podliježe redovitom pregledu unutarnje kontrole.
+
+(2) Sustav upravljanja rizicima u društvu za osiguranje mora biti učinkovit i dobro integriran u organizacijsku strukturu i postupke donošenja odluka društva za osiguranje, uzimajući u obzir osobe koje upravljaju društvom ili obavljaju druge ključne funkcije.
+
+(3) Sustav upravljanja rizicima pokriva rizike koji se uključuju u izračun potrebnog solventnog kapitala iz članka 130. ovoga Zakona, kao i rizike koji nisu uključeni ili nisu u potpunosti uključeni u taj izračun.
+
+(4) Sustav upravljanja rizicima obuhvaća najmanje sljedeća područja:
+
+1. preuzimanje rizika i oblikovanje pričuva
+
+2. upravljanje imovinom i obvezama
+
+3. ulaganja, posebno izvedenice i instrumente usporedive složenosti
+
+4. upravljanje rizikom likvidnosti i koncentracijskim rizikom
+
+5. upravljanje operativnim rizikom
+
+6. reosiguranje i druge tehnike smanjenja rizika.
+
+(5) Društvo za osiguranje dužno je propisati, primjenjivati, dokumentirati i redovito ažurirati odgovarajuće, učinkovite i sveobuhvatne politike i postupke najmanje za područja navedena u stavku 4. ovoga članka.
+
+(6) Društvo za osiguranje dužno je uspostaviti plan likvidnosti projicirajući ulazne i izlazne novčane tokove u odnosu na odgovarajuću imovinu i obveze u slučaju primjene prilagodbe za uravnoteženje iz članka 111. ovoga Zakona ili prilagodbe za volatilnost na relevantnu strukturu bezrizičnih kamatnih stopa iz članka 113. ovoga Zakona.
+
+(7) U vezi s upravljanjem imovinom i obvezama, društvo za osiguranje dužno je redovito procjenjivati:
+
+1. osjetljivost svojih tehničkih pričuva i prihvatljivih vlastitih sredstava za pretpostavke na kojima se temelji ekstrapolacija relevantne vremenske strukture bezrizičnih kamatnih stopa iz članka 110. ovoga Zakona
+
+2. kada je primijenjena prilagodba za uravnoteženje iz članka 111. ovoga Zakona:
+
+– osjetljivost svojih tehničkih pričuva i prihvatljivih vlastitih sredstava na pretpostavke na kojima se temelji izračun prilagodbe za uravnoteženje, uključujući izračun temeljnog raspona iz članka 112. stavka 1. točke 2. ovoga Zakona te mogući učinak prisilne prodaje imovine na njegova prihvatljiva vlastita sredstva
+
+– osjetljivost svojih tehničkih pričuva i prihvatljivih vlastitih sredstava na promjene u strukturi dodijeljenog portfelja imovine
+
+– utjecaj smanjenja prilagodbe za uravnoteženje na nulu
+
+3. kada je primijenjena prilagodba za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa iz članka 113. ovoga Zakona:
+
+– osjetljivost svojih tehničkih pričuva i prihvatljivih vlastitih sredstava na pretpostavke na kojima se temelji izračun prilagodbe za volatilnost i mogući učinak prisilne prodaje imovine na njihova prihvatljiva vlastita sredstva
+
+– utjecaj smanjenja prilagodbe za volatilnost na nulu.
+
+(8) Društvo za osiguranje dužno je u okviru godišnjeg izvješća na temelju članaka 215. – 217. ovoga Zakona Agenciji dostaviti procjene iz stavka 7. točaka 1. – 3. ovoga članka.
+
+(9) Kada bi smanjenje prilagodbe za uravnoteženje ili prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa na nulu rezultiralo neusklađenošću s potrebnim solventnim kapitalom, društvo za osiguranje dužno je dostaviti analizu mjera koje bi moglo poduzeti u takvim situacijama kako bi se ponovno uspostavila razina vlastitih sredstava prihvatljivih za potrebni solventni kapital ili kako bi se smanjio profil rizičnosti i tako obnovila usklađenost s potrebnim solventnim kapitalom.
+
+(10) Kada je primijenjena prilagodba za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa iz članka 113. ovoga Zakona, pisane politike o upravljanju rizicima iz članka 92. stavka 4. ovoga Zakona moraju obuhvaćati pravila o kriterijima za primjenu prilagodbe za volatilnost.
+
+*Funkcija upravljanja rizicima*
+
+##### Članak 95.
+
+(1) Društvo za osiguranje dužno je ustrojiti učinkovitu i neovisnu funkciju upravljanja rizicima iz članka 94. ovoga Zakona koja uključuje ocjenjivanje primjerenosti i učinkovitosti, kao i drugih elemenata sustava upravljanja rizicima pažnjom dobrog stručnjaka.
+
+(2) Funkcija upravljanja rizicima društva za osiguranje mora biti strukturirana na način koji olakšava provedbu sustava upravljanja rizicima.
+
+(3) Kako bi izbjegla prekomjerno oslanjanje na vanjske institucije za procjenu kreditnog rizika prilikom primjene procjene kreditnog rizika u izračunu tehničkih pričuva i potrebnog solventnog kapitala, društvo za osiguranje dužno je procjenjivati primjerenost tih vanjskih procjena kreditnog rizika u sklopu svog upravljanja rizikom primjenom dodatnih procjena, gdje god su one u praksi moguće, radi izbjegavanja bilo kakve automatske ovisnosti o vanjskim procjenama.
+
+(4) Za primjenu odredbi iz stavka 3. ovoga članka društvo za osiguranje dužno je primjenjivati propise Europske komisije kojima se uređuju postupci za procjenu vanjskih procjena kreditnog rizika.
+
+(5) Za društva za osiguranje koja upotrebljavaju djelomičan ili potpun unutarnji model koji je odobren u skladu s odredbama članaka 143. i 144. ovoga Zakona, funkcija upravljanja rizicima pokriva sljedeće dodatne zadatke:
+
+1. oblikovanje i provedbu unutarnjeg modela
+
+2. testiranje i vrednovanje unutarnjeg modela
+
+3. dokumentiranje unutarnjeg modela i bilo kojih naknadnih promjena tog modela
+
+4. analiziranje učinkovitosti unutarnjeg modela i pripremu sažetih izvješća o njima
+
+5. informiranje uprave i nadzornog odbora o učinkovitosti unutarnjeg modela, ukazivanje na područja koja je potrebno poboljšati te obavješćivanje istih o statusu napora za poboljšanje prethodno utvrđenih slabosti.
+
+(6) Usvojenu strategiju i politike upravljanja rizicima društvo za osiguranje je dužno na zahtjev Agencije dostaviti bez odgađanja.
+
+(7) Uprava društva za osiguranje odgovorna je za proces upravljanja rizicima, a u provođenju moraju sudjelovati svi zaposlenici društva za osiguranje u okviru svojih zaduženja.
+
+*Vlastita procjena rizika i solventnosti*
+
+##### Članak 96.
+
+(1) Društvo za osiguranje dužno je u sklopu svojeg sustava upravljanja rizicima obavljati vlastitu procjenu rizika i solventnosti koja obuhvaća najmanje sljedeće:
+
+1. ukupne potrebe solventnosti uzimajući u obzir specifični profil rizičnosti, odobrena ograničenja dozvoljenih rizika te poslovnu strategiju društva
+
+2. usklađenost, na kontinuiranoj osnovi, s kapitalnim zahtjevima u skladu s glavom IX. poglavljima IV. i V. ovoga Zakona te zahtjevima o tehničkim pričuvama u skladu s glavom IX. poglavljem II. ovoga Zakona
+
+3. značaj u kojemu profil rizičnosti predmetnog društva za osiguranje odstupa od pretpostavki na kojima se temelji potrebni solventni kapital, u skladu s člankom 131. stavkom 3. ovoga Zakona, a izračunat standardnom formulom u skladu s glavom IX. poglavljem IV. odjeljkom 2. ovoga Zakona ili uporabom djelomičnog ili potpunog unutarnjeg modela u skladu s glavom IX. poglavljem IV. odjeljkom 3. ovoga Zakona.
+
+(2) U smislu stavka 1. točke 1. ovoga članka, društvo za osiguranje dužno je imati uspostavljene postupke koji su razmjerni prirodi, opsegu i složenosti rizika prisutnih u njegovu poslovanju i koji mu omogućavaju da primjereno utvrđuje i procjenjuje rizike s kojima se suočava kratkoročno i dugoročno te kojima je izloženo ili bi moglo biti izloženo, kao i prikazati metode upotrijebljene u procjeni.
+
+(3) U slučaju primjene prilagodbe za uravnoteženje iz članka 111. ovoga Zakona, prilagodbe za volatilnost iz članka 113. ovoga Zakona ili prijelazne mjere iz članaka 455. i 456. ovoga Zakona, društvo za osiguranje dužno je provoditi procjenu usklađenosti s potrebnim kapitalom iz stavka 1. točke 2. ovoga članka, uzimajući i ne uzimajući u obzir te prilagodbe i prijelazne mjere.
+
+(4) U slučaju iz stavka 1. točke 3. ovoga članka, kad se upotrebljava unutarnji model, procjena se obavlja zajedno s ponovnom kalibracijom koja transformira vrijednosti unutarnjeg rizika u mjeru rizika i kalibraciju potrebnog solventnog kapitala.
+
+(5) Vlastita procjena rizika i solventnosti sastavni je dio poslovne strategije i kontinuirano se uzima u obzir u donošenju strateških odluka društva za osiguranje.
+
+(6) Društvo za osiguranje dužno je obavljati procjenu iz stavka 1. ovoga članka redovito i bez odgađanja nakon svake značajne promjene u njegovu profilu rizičnosti.
+
+(7) Društvo za osiguranje dužno je obavijestiti Agenciju o rezultatima svake vlastite procjene rizika i solventnosti u sklopu izvještavanja u skladu s člankom 201. ovoga Zakona.
+
+(8) Vlastita procjena rizika i solventnosti ne služi za izračunavanje kapitalnih potreba. Potrebni solventni kapital prilagođava se samo u skladu s odredbama članaka 239., 316., 318. i 322. ovoga Zakona.
+
+(9) Društvo za osiguranje dužno je pridržavati se odredbi Uredbe (EU) br. 2015/35 kojima se pobliže određuju elementi procjene iz stavka 1. ovoga članka.
+
+*Unutarnja kontrola i funkcija praćenja usklađenosti*
+
+##### Članak 97.
+
+(1) Društvo za osiguranje dužno je uspostaviti učinkovit sustav unutarnje kontrole koji uključuje najmanje administrativne i računovodstvene postupke, okvir unutarnje kontrole, primjerene sustave izvješćivanja na svim razinama društva za osiguranje te funkciju praćenja usklađenosti.
+
+(2) Društvo za osiguranje dužno je ustrojiti učinkovitu funkciju praćenja usklađenosti koja uključuje savjetovanje i izvještavanje uprave i nadzornog odbora o usklađenosti društva za osiguranje s ovim Zakonom i drugim propisima kojima se uređuje poslovanje društva za osiguranje te procjenu mogućeg učinka promjena u pravnom okruženju na poslovanje društva za osiguranje te utvrđivanje i procjenu rizika usklađenosti.
+
+*Funkcija unutarnje revizije*
+
+##### Članak 98.
+
+(1) Društvo za osiguranje dužno je ustrojiti učinkovitu funkciju unutarnje revizije koja uključuje ocjenjivanje primjerenosti i učinkovitosti sustava unutarnje kontrole i drugih elemenata sustava upravljanja.
+
+(2) Funkcija unutarnje revizije je aktivnost davanja stručnog mišljenja objektivna i neovisna o funkciji poslovanja, oblikovana na način da pridodaje vrijednost i unapređuje poslovanje društva za osiguranje.
+
+(3) Nositelj funkcije unutarnje revizije dužan je izvijestiti upravu i nadzorni odbor o svim nalazima utvrđenim u postupku unutarnje revizije i danim preporukama koje se moraju poduzeti s obzirom na svaki nalaz i preporuku unutarnje revizije te pratiti provedbu aktivnosti u svrhu provedbe ispunjenja tih mjera.
+
+(4) Nositelj funkcije unutarnje revizije uz zahtjeve iz članka 93. stavka 5. ovoga Zakona mora imati zvanje ovlaštenog revizora ili ovlaštenog unutarnjeg revizora stečenog u skladu sa zakonom kojim se uređuje revizija, odnosno stečenog u skladu s pravilima i programom kompetentne strukovne organizacije za stručno obrazovanje unutarnjih revizora.
+
+(5) Nositelj funkcije unutarnje revizije ne smije obavljati druge poslove različite od poslova unutarnje revizije i zadatke u istom društvu za osiguranje ili u društvu s kojim je društvo za osiguranje u odnosu uske povezanosti.
+
+*Zadaci unutarnje revizije*
+
+##### Članak 99.
+
+(1) Nositelj funkcije unutarnje revizije analizira i procjenjuje aktivnosti društava za osiguranje te daje stručno mišljenje, preporuke i savjete o oblikovanju kontrola koje trebaju omogućiti:
+
+1. obavljanje poslova osiguranja pravilno i u skladu s ovim Zakonom i propisima donesenim na temelju ovoga Zakona te u skladu s unutarnjim pravilima kojima se uređuje poslovanje društva za osiguranje
+
+2. vođenje poslovnih knjiga, evidentiranje poslovnih događaja na temelju vjerodostojnih knjigovodstvenih isprava, vrednovanje knjigovodstvenih stavaka i sastavljanje financijskih i ostalih izvještaja u skladu s ovim Zakonom i propisima kojima se uređuje poslovanje društva za osiguranje
+
+3. sustavno upravljanje rizicima koji proizlaze iz poslovnih aktivnosti društva za osiguranje u skladu s načelima stabilnog poslovanja, uključujući upravljanje resursima informacijske tehnologije i drugih pridruženih tehnologija.
+
+(2) Unutarnja revizija društva za osiguranje obavlja se u skladu s međunarodno priznatim revizijskim standardima za unutarnju reviziju, kodeksom strukovne etike unutarnjih revizora te pravilima djelovanja unutarnje revizije koje, u suglasnosti s nadzornim odborom, usvaja uprava društva za osiguranje.
+
+*Planovi unutarnje revizije*
+
+##### Članak 100.
+
+(1) Poslovi unutarnje revizije obavljaju se u skladu sa:
+
+– strateškim planom
+
+– godišnjim planom i
+
+– planom pojedinačne revizije.
+
+(2) Strateški plan unutarnje revizije donosi se za trogodišnje razdoblje, temelji se na procjeni rizika i usklađuje se svake godine.
+
+(3) Godišnji plan unutarnje revizije izrađuje se na temelju strateškog plana, a mora obuhvaćati:
+
+1. područja poslovanja koja su prioritetna s obzirom na procjenu rizika
+
+2. popis planiranih revizija
+
+3. raspored unutarnjih revizora.
+
+(4) Strateški, godišnji i plan pojedinačne unutarnje revizije predlaže nositelj funkcije unutarnje revizije, a usvaja ga nadzorni odbor uz prethodno mišljenje uprave društva za osiguranje.
+
+(5) Unutarnja revizija može se obaviti i po nalogu člana uprave ili nadzornog odbora društva za osiguranje i na zahtjev Agencije.
+
+*Izvješće unutarnje revizije*
+
+##### Članak 101.
+
+(1) Nositelj funkcije unutarnje revizije sastavlja izvješće o radu unutarnje revizije najmanje jednom godišnje. Izvješće unutarnje revizije sadržava:
+
+1. popis svih obavljenih revizija
+
+2. ocjenu primjerenosti i učinkovitosti djelovanja sustava unutarnjih kontrola te preporuke za njihovo poboljšanje
+
+3. nezakonitosti i nepravilnosti ako su utvrđene tijekom obavljanja revizije te preporuke i prijedloge mjera za njihovo otklanjanje
+
+4. poduzete aktivnosti u vezi s danim preporukama.
+
+(2) Nositelj funkcije unutarnje revizije mora svoja izvješća o radu unutarnje revizije dostavljati upravi i nadzornom odboru društva za osiguranje.
+
+(3) Uprava i nadzorni odbor dužni su, kada je to potrebno, poduzeti potrebne aktivnosti u skladu s nalazima i preporukama unutarnje revizije.
+
+*Obavještavanje uprave i nadzornog odbora društva za osiguranje*
+
+##### Članak 102.
+
+(1) Ako unutarnja revizija tijekom obavljanja revizije aktivnosti i procesa poslovanja društva za osiguranje utvrdi pojave nezakonitog poslovanja i kršenja pravila o upravljanju rizicima zbog čega društvu za osiguranje prijeti nelikvidnost, nesolventnost ili je time ugrožena sigurnost poslovanja ili ugovaratelja osiguranja, osiguranika ili korisnika iz ugovora o osiguranju, nositelj funkcije unutarnje revizije mora odmah o tome obavijestiti upravu i nadzorni odbor društva za osiguranje.
+
+(2) Ako unutarnja revizija prilikom obavljanja revizije aktivnosti i procesa poslovanja utvrdi da uprava društva za osiguranje krši pravila o upravljanju rizicima, nositelj funkcije unutarnje revizije dužan je o tome bez odgađanja obavijestiti i nadzorni odbor.
+
+*Aktuarska funkcija*
+
+##### Članak 103.
+
+(1) Društvo za osiguranje dužno je uspostaviti učinkovitu aktuarsku funkciju koja obavlja poslove:
+
+1. koordiniranja izračuna tehničkih pričuva
+
+2. osiguravanja primjerenosti metodologija, modela i pretpostavki na kojima se temelji izračun tehničkih pričuva
+
+3. procjenjivanja dovoljnosti i kvalitete podataka koji se upotrebljavaju u izračunu tehničkih pričuva
+
+4. uspoređivanja najboljih procjena s iskustvom
+
+5. obavještavanja uprave i nadzornog odbora društva za osiguranje o pouzdanosti i adekvatnosti izračuna tehničkih pričuva
+
+6. nadziranja izračuna tehničkih pričuva u slučajevima iz članka 118. ovoga Zakona kada nema dovoljno podataka primjerene kvalitete za primjenu pouzdane aktuarske metode
+
+7. iskazivanja mišljenja o cjelokupnoj politici preuzimanja rizika osiguranja
+
+8. iskazivanja mišljenja o primjerenosti programa reosiguranja i
+
+9. sudjelovanja u učinkovitoj provedbi sustava upravljanja rizicima iz članaka 94. i 95. ovoga Zakona, posebice s obzirom na modeliranje rizika na kojemu se temelji izračun kapitalnih zahtjeva propisanih člancima 130. – 156. te člancima 157., 158. i 459. ovoga Zakona, i procjenjivanju vlastite procjene rizika i solventnosti iz članka 96. ovoga Zakona.
+
+(2) Nositelj aktuarske funkcije je osoba koja osim uvjeta iz članka 93. stavka 5. ovoga Zakona mora imati odgovarajuća znanja o aktuarskoj i financijskoj matematici koja su primjerena prirodi, opsegu i složenosti rizika svojstvenima poslovanju društva za osiguranje, u kojemu će navedena osoba biti imenovana nositeljem aktuarske funkcije, te odgovarajuće iskustvo u skladu s aktuarskim i drugim standardima.
+
+(3) Dodatni uvjeti iz stavka 2. ovoga članka ispunjeni su ako osoba posjeduje odgovarajuću dokumentaciju kojom potvrđuje da ima odgovarajuće znanje o aktuarskoj i financijskoj matematici stečeno u skladu s programom izobrazbe međunarodnih, odnosno europskih aktuarskih udruga te ako osoba može dokazati odgovarajuće iskustvo u skladu s aktuarskim i drugim standardima.
+
+(4) Iznimno od stavka 3. ovoga članka, ako osoba posjeduje ovlaštenje za obavljanje poslova ovlaštenog aktuara iz članka 186. stavka 1. ovoga Zakona, smatra se da ispunjava uvjete iz stavka 3. ovoga članka.
+
+*Izdvajanje poslova ili funkcija*
+
+##### Članak 104.
+
+(1) Izdvajanje poslova ili funkcija ugovorni je prijenos obavljanja poslova vezanih za djelatnost osiguranja, odnosno ugovorni prijenos ključnih, odnosno važnih poslovnih funkcija društva za osiguranje koje inače samo obavlja u okviru svoje registrirane djelatnosti, na pružatelje usluga, u skladu s kojim pružatelj usluga izravno ili neizravno obavlja poslove ili funkcije društva za osiguranje.
+
+(2) Društvo za osiguranje odgovara u potpunosti za izdvojene poslove ili funkcije.
+
+(3) Izdvajanje poslova ili funkcija provodi se iz objektivnih razloga i isključivo s ciljem povećanja učinkovitosti obavljanja tih poslova, vodeći računa o veličini društva za osiguranje.
+
+(4) Pružatelj usluga koji obavlja posredno ili neposredno poslove ili funkcije društva za osiguranje mora imati sve potrebne resurse za pravilno, kvalitetno i učinkovito obavljanje poslova ili funkcija te ovlaštene osobe koje imaju dobar ugled, stručne kvalifikacije i iskustvo potrebno za obavljanje poslova, odnosno funkcija.
+
+(5) Društvo za osiguranje ne smije izdvojiti poslove ili funkcije ako bi to dovelo do:
+
+1. ugrožavanja poslovanja društva za osiguranje
+
+2. značajnog pogoršanja kvalitete sustava upravljanja društva za osiguranje
+
+3. neopravdanog povećanja operativnog rizika
+
+4. onemogućavanja ili otežavanja Agencije u provođenju nadzora
+
+5. neispunjavanja obveza prema osiguranicima, ugovarateljima osiguranja i korisnicima iz ugovora o osiguranju ili ugrožavanja njihovih interesa
+
+6. nastanka sukoba interesa pružatelja usluga i društva za osiguranje.
+
+(6) Društvo za osiguranje dužno je prije izdvajanja poslova, odnosno funkcija obavijestiti Agenciju i obavještavati je o svim naknadnim značajnim promjenama s obzirom na obavljanje tih poslova, odnosno funkcija.
+
+(7) Društvo za osiguranje mora prestati s izdvajanjem poslova ili funkcija ako bi to dovelo do posljedica iz stavka 5. ovoga članka.
+
+(8) Društvu za osiguranje mora biti omogućeno da u bilo kojem trenutku može pružatelju usluge dati daljnju uputu ili raskinuti ugovor o izdvajanju poslova ili funkcija kada je to u interesu društva za osiguranje.
+
+(9) Agencija će pravilnikom detaljnije propisati dokumentaciju kojom se utvrđuje postojanje uvjeta propisanih za izdvajanje poslova ili funkcija, kao i izvještavanje Agencije o izdvojenim poslovima ili funkcijama.
+
+## GLAVA IX. — ODREDBE O VREDNOVANJU IMOVINE I OBVEZA, TEHNIČKIM PRIČUVAMA, VLASTITIM SREDSTVIMA, POTREBNOM SOLVENTNOM KAPITALU, MINIMALNOM POTREBNOM KAPITALU I ULAGANJIMA
+
+## POGLAVLJE I. — VREDNOVANJE IMOVINE I OBVEZA
+
+*Vrednovanje imovine i obveza za potrebe solventnosti*
+
+##### Članak 105.
+
+(1) Društvo za osiguranje dužno je za potrebe solventnosti vrednovati imovinu i obveze na sljedeći način:
+
+1. imovina se vrednuje po iznosu za koji bi se mogla razmijeniti između dobro obaviještenih voljnih strana u transakciji po tržišnim uvjetima
+
+2. obveze se vrednuju po iznosu za koji bi se mogle prenijeti ili namiriti između dobro obaviještenih voljnih strana u transakciji po tržišnim uvjetima.
+
+(2) Društvo za osiguranje prilikom vrednovanja obveza iz stavka 1. točke 2. ovoga članka ne uzima u obzir vlastiti kreditni položaj.
+
+(3) Društvo za osiguranje dužno je prilikom vrednovanja imovine i obveza primjenjivati metode i pretpostavke u skladu s Uredbom (EU) br. 2015/35.
+
+## POGLAVLJE II. — TEHNIČKE PRIČUVE
+
+*Načela izračuna tehničkih pričuva*
+
+##### Članak 106.
+
+(1) Društvo za osiguranje dužno je oblikovati tehničke pričuve u skladu sa svojim obvezama iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+(2) Vrijednost tehničkih pričuva mora odgovarati sadašnjem iznosu koji bi društvo za osiguranje moralo platiti kad bi svoje obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju odmah prenijelo na drugo društvo za osiguranje.
+
+(3) Izračun tehničkih pričuva mora upotrebljavati i biti usklađen s informacijama koje pružaju financijska tržišta te opće dostupnim podacima o preuzetim rizicima osiguranja, što predstavlja tržišnu usklađenost.
+
+(4) Društvo za osiguranje dužno je izračunavati tehničke pričuve na razborit, pouzdan i objektivan način.
+
+(5) Društvo za osiguranje dužno je izračunavati tehničke pričuve u skladu s načelima iz stavaka 2., 3. i 4. ovoga članka, uzimajući u obzir i načela iz članka 105. ovoga Zakona te u skladu s odredbama članaka 107. – 118. i članka 393. ovoga Zakona, odnosno u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju postupci za odobrenje primjene prilagodbe za uravnoteženje.
+
+*Izračun tehničkih pričuva*
+
+##### Članak 107.
+
+(1) Vrijednost tehničkih pričuva jednaka je zbroju najbolje procjene iz članka 108. ovoga Zakona i dodatka za rizik iz članka 109. ovoga Zakona.
+
+(2) Društvo za osiguranje dužno je zasebno vrednovati najbolju procjenu i dodatak za rizik.
+
+(3) Iznimno od stavaka 1. i 2. ovoga članka, kada se budući novčani tokovi povezani s obvezama iz ugovora o osiguranju, odnosno ugovora o reosiguranju mogu pouzdano replicirati financijskim instrumentima za koje postoji pouzdana i dostupna tržišna vrijednost, vrijednost tehničkih pričuva povezanih s tim budućim novčanim tokovima određuje se na temelju tržišne vrijednosti tih financijskih instrumenata. U ovom slučaju nisu potrebni zasebni izračuni najbolje procjene i dodatka za rizik.
+
+(4) Tehničke pričuve iz stavka 3. ovoga članka izračunavaju se u skladu s Uredbom (EU) br. 2015/35.
+
+*Najbolja procjena*
+
+##### Članak 108.
+
+(1) Najbolja procjena mora biti jednaka očekivanoj sadašnjoj vrijednosti budućih novčanih tokova koja uzima u obzir vremensku vrijednost novca koju predstavlja očekivana sadašnja vrijednost budućih novčanih tokova, upotrebljavajući relevantnu vremensku strukturu bezrizičnih kamatnih stopa.
+
+(2) Projekcija novčanog toka koja se upotrebljava u izračunu najbolje procjene mora uzeti u obzir sve novčane priljeve i odljeve koji proizlaze iz obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom njihova trajanja.
+
+(3) Izračun najbolje procjene mora se temeljiti na najnovijim i vjerodostojnim informacijama i realnim pretpostavkama te se koristeći odgovarajuće, primjenjive i relevantne aktuarske i statističke metode u skladu s Uredbom (EU) br. 2015/35.
+
+(4) Najbolja procjena mora se izračunavati na brutoosnovi, bez umanjenja za iznose koji se mogu naplatiti na temelju ugovora o reosiguranju ili od subjekata posebne namjene koji se moraju izračunavati zasebno u skladu s člankom 117. ovoga Zakona.
+
+(5) Društvo za osiguranje dužno je pri izračunu najbolje procjene iz stavka 1. ovoga članka koristiti tehničke informacije u skladu s propisima Europske komisije koje se odnose na relevantne vremenske strukture bezrizičnih kamatnih stopa.
+
+*Dodatak za rizik*
+
+##### Članak 109.
+
+(1) Dodatak za rizik mora biti takav da je vrijednost tehničkih pričuva istovjetna s iznosom koji bi društvo za osiguranje zahtijevalo za preuzimanje i ispunjavanje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+(2) Dodatak za rizik mora se izračunavati tako da se odredi trošak raspolaganja prihvatljivim vlastitim sredstvima koja su jednaka solventnom kapitalu potrebnom za ispunjenje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom trajanja tih obveza u skladu s Uredbom (EU) br. 2015/35.
+
+(3) Stopa koja se upotrebljava u određivanju troška raspolaganja prihvatljivim vlastitim sredstvima, odnosno stopa troška kapitala, jednaka je za sva društva za osiguranje. Stopa troška kapitala jednaka je dodatnoj stopi iznad odgovarajuće bezrizične kamatne stope koju bi imalo društvo za osiguranje kako bi raspolagalo prihvatljivim vlastitim sredstvima iz poglavlja III. ove glave Zakona koja su jednaka solventnom kapitalu potrebnom za ispunjenje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom trajanja tih obveza.
+
+*Ekstrapolacija relevantne vremenske strukture bezrizičnih kamatnih stopa*
+
+##### Članak 110.
+
+(1) Određivanje relevantne vremenske strukture bezrizičnih kamatnih stopa iz članka 108. stavka 1. ovoga Zakona koristi i u skladu je s informacijama koje proizlaze iz odgovarajućih financijskih instrumenata. Prilikom navedenog određivanja uzimaju se u obzir relevantni financijski instrumenti s dospijećima kada su tržišta za te financijske instrumente, uključujući obveznice, duboka, likvidna i transparentna.
+
+(2) Za dospijeća kada tržišta za relevantne financijske instrumente, uključujući obveznice, više nisu duboka, likvidna i transparentna, relevantna vremenska struktura bezrizičnih kamatnih stopa se ekstrapolira.
+
+(3) Ekstrapolirani dio relevantne vremenske strukture bezrizičnih kamatnih stopa temelji se na terminskim kamatnim stopama koje glatko konvergiraju od jedne ili više terminskih kamatnih stopa, vezanih uz najdulja dospijeća relevantnih financijskih instrumenata, uključujući obveznice, na dubokom, likvidnom i transparentnom tržištu, do konačne terminske kamatne stope.
+
+*Prilagodba za uravnoteženje na relevantnu vremensku strukturu bezrizičnih kamatnih stopa*
+
+##### Članak 111.
+
+(1) Društvo za osiguranje može primijeniti prilagodbu za uravnoteženje na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene obveza iz ugovora o osiguranju s obilježjima životnih osiguranja, uključujući rente iz neživotnih osiguranja, odnosno obveza iz ugovora o reosiguranju, uz prethodno odobrenje Agencije.
+
+(2) Agencija će u skladu s propisima Europske komisije kojima se uređuju postupci za odobrenje primjene prilagodbe za uravnoteženje izdati prethodno odobrenje za primjenu prilagodbe za uravnoteženje ako su ispunjeni sljedeći uvjeti:
+
+1. društvo za osiguranje dodjeljuje portfelj imovine, sastavljen od obveznica i ostale imovine koja ima slična obilježja novčanih tokova, za pokriće najbolje procjene portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom čitavog trajanja tih obveza, osim kada nastanu značajna odstupanja očekivanih novčanih tokova dodijeljenog portfelja imovine u odnosu na očekivane tokove novca portfelja tih obveza tijekom trajanja tih obveza
+
+2. društvo za osiguranje identificira i organizira portfelj obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju na koji se primjenjuje prilagodba za uravnoteženje i dodijeljeni portfelj imovine te njima upravlja nezavisno od svojih drugih aktivnosti, pri čemu se dodijeljeni portfelj imovine ne može koristiti za pokriće gubitaka koji proizlaze iz njegovih drugih aktivnosti
+
+3. očekivani novčani tokovi dodijeljenog portfelja imovine repliciraju sve očekivane novčane tokove portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju u istoj valuti te moguće neusklađenosti ne povećavaju rizike koji su značajni u odnosu na rizike svojstvene poslovima osiguranja, odnosno poslovima reosiguranja na koje se primjenjuje prilagodba za uravnoteženje
+
+4. ugovori o osiguranju, odnosno ugovori o reosiguranju iz kojih proizlazi portfelj obveza ne omogućavaju buduća plaćanja premije
+
+5. jedini preuzeti rizici osiguranja povezani s portfeljem obveza iz ugovora o osiguranju odnosno ugovora o reosiguranju su rizik dugovječnosti, rizik troškova osiguranja, rizik usklađenja i rizik smrtnosti
+
+6. kada preuzeti rizik osiguranja povezan s portfeljem obveza iz ugovora o osiguranju odnosno ugovora o reosiguranju uključuje rizik smrtnosti, najbolja procjena portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju ne povećava se za više od 5 % za nepovoljno odstupanje rizika smrtnosti koje se kalibrira u skladu s člankom 131. stavcima 2. – 6. ovoga Zakona
+
+7. ugovori o osiguranju, odnosno ugovori o reosiguranju na kojima se temelji portfelj obveza ne uključuju opcije za ugovaratelja osiguranja ili uključuju samo mogućnost otkupa, pri čemu vrijednost otkupa ne prelazi vrijednost imovine vrednovane u skladu s člankom 105. ovoga Zakona, za pokriće tih obveza u trenutku otkupa
+
+8. novčani tokovi dodijeljenog portfelja imovine su fiksni i ne mogu biti mijenjani od strane izdavatelja imovine ili bilo koje treće strane
+
+9. obveze iz pojedinog ugovora o osiguranju, odnosno ugovora o reosiguranju ne dijele se u više dijelova prilikom sastavljanja portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju u svrhu ovoga stavka.
+
+(3) Društvo za osiguranje dužno je ispuniti uvjete navedene u stavku 2. ovoga članka u skladu s Uredbom (EU) br. 2015/35.
+
+(4) Ne dovodeći u pitanje stavak 2. točku 8. ovoga članka, društvo za osiguranje može koristiti imovinu čiji su novčani tokovi fiksni, osim za ovisnost o inflaciji, pod uvjetom da ta imovina replicira novčane tokove portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju koji ovise o inflaciji.
+
+(5) Ako izdavatelj ili treća strana ima pravo na izmjenu novčanih tokova imovine na način da ulagatelj primi dostatnu nadoknadu kako bi održao iste novčane tokove prilikom ponovnog ulaganja u imovinu jednake ili bolje kreditne kvalitete, tada pravo na izmjenu novčanih tokova ne ukida mogućnost uključivanja te imovine u dodijeljeni portfelj u skladu sa stavkom 2. točkom 8. ovoga članka.
+
+(6) Društvo za osiguranje koje primjenjuje prilagodbu za uravnoteženje na portfelj obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju ne može se vratiti pristupu koji ne uključuje prilagodbu za uravnoteženje. Kada društvo za osiguranje koje primjenjuje prilagodbu za uravnoteženje nije više u mogućnosti poštovati uvjete utvrđene stavcima 2., 3. i 4. ovoga članka, dužno je bez odgađanja o tome obavijestiti Agenciju i poduzeti potrebne mjere za obnavljanje usklađenosti s tim uvjetima. Kada društvo nije u mogućnosti obnoviti usklađenost s tim uvjetima unutar dva mjeseca od datuma neusklađenosti, dužno je prestati primjenjivati uravnoteženu prilagodbu na sve obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju i ne smije primjenjivati uravnoteženu prilagodbu tijekom razdoblja od daljnja 24 mjeseca.
+
+(7) Prilagodba za uravnoteženje ne smije se primjenjivati na obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju ako relevantna vremenska struktura bezrizičnih kamatnih stopa u izračunu najbolje procjene za te obveze uključuje prilagodbu za volatilnost iz članka 113. ovoga Zakona ili prijelazne mjere za bezrizične kamatne stope iz članka 455. ovoga Zakona.
+
+*Izračun prilagodbe za uravnoteženje*
+
+##### Članak 112.
+
+(1) Za svaku valutu prilagodba za uravnoteženje iz članka 111. ovoga Zakona izračunava se u skladu sa sljedećim načelima i u skladu s Uredbom (EU) br. 2015/35:
+
+1. prilagodba za uravnoteženje mora biti jednaka razlici sljedećeg:
+
+– godišnje efektivne kamatne stope koja je izračunata kao jedinstvena diskontna kamatna stopa, takve da vrijednost novčanih tokova portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju na koje se ona primijeni odgovara vrijednosti portfelja dodijeljene imovine koja je vrednovana u skladu s člankom 105. ovoga Zakona
+
+– godišnje efektivne kamatne stope koja je izračunata kao jedinstvena diskontna kamatna stopa, takve da vrijednost novčanih tokova portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju na koje se ona primijeni odgovara vrijednosti najbolje procjene portfelja obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju, upotrebljavajući osnovnu vremensku strukturu bezrizičnih kamatnih stopa
+
+2. prilagodba za uravnoteženje ne smije uključivati temeljni raspon koji odražava rizike koje je preuzelo društvo za osiguranje
+
+3. ne dovodeći u pitanje točku 1. ovoga stavka, ako je potrebno, temeljni raspon se mora povećati kako bi se osiguralo da prilagodba za uravnoteženje za imovinu kreditne kvalitete ispod investicijske razine nije veća od prilagodbe za uravnoteženje za imovinu kreditne kvalitete investicijske razine jednakog trajanja i vrste
+
+4. uporaba vanjskih procjena kreditnog rizika u izračunu prilagodbe za uravnoteženje mora biti u skladu s Uredbom (EU) br. 2015/35.
+
+(2) Za potrebe stavka 1. točke 2. ovoga članka temeljni raspon je:
+
+1. jednak zbroju sljedećeg:
+
+– kreditnog raspona koji odgovara vjerojatnosti gubitka, odnosno neplaćanja sredstava
+
+– kreditnog raspona koji odgovara očekivanom gubitku koji proizlazi iz smanjenja kreditne kvalitete imovine
+
+2. za izloženosti prema središnjim tijelima državne uprave i središnjim bankama država članica, ne niži od 30 % dugoročnog prosjeka raspona nad bezrizičnim kamatnim stopama za imovinu jednakog trajanja, kreditne kvalitete i vrste, koji je moguće utvrditi na financijskim tržištima
+
+3. za imovinu osim izloženosti prema središnjim tijelima državne uprave i središnjim bankama država članica, ne niži od 35 % dugoročnog prosjeka raspona nad bezrizičnim kamatnim stopama za imovinu jednakog trajanja, kreditne kvalitete i vrste, koji je moguće utvrditi na financijskim tržištima.
+
+(3) Vjerojatnost neispunjenja obveza druge ugovorne strane iz stavka 2. točke 1. podtočke 1. ovoga članka temelji se na dugoročnoj statistici neispunjenja obveza druge ugovorne strane relevantne za imovinu u odnosu na njezino trajanje, kreditnu kvalitetu i vrstu.
+
+(4) Kada se pouzdani kreditni raspon ne može dobiti iz statistike navedene u stavku 3. ovoga članka, temeljni raspon mora biti jednak dijelu dugoročnog prosjeka raspona nad bezrizičnim kamatnim stopama iz stavka 2. točaka 2. i 3. ovoga članka.
+
+(5) Društvo za osiguranje je pri izračunu prilagodbe za uravnoteženje dužno koristiti tehničke informacije u skladu s propisima Europske komisije koje se odnose na temeljni raspon za svako relevantno trajanje, kreditnu kvalitetu i vrstu imovine.
+
+*Prilagodba za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa*
+
+##### Članak 113.
+
+(1) Društvo za osiguranje može koristiti prilagodbu za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene iz članka 108. ovoga Zakona uz prethodno odobrenje Agencije.
+
+(2) Prilagodba za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa za svaku valutu temelji se na rasponu između kamatne stope koja se dobije kao prinos od imovine uključene u referentni portfelj za tu valutu i stopa relevantne vremenske strukture bezrizičnih kamatnih stopa za tu valutu u skladu s Uredbom (EU) br. 2015/35.
+
+(3) Referentni portfelj za valutu predstavlja imovinu izraženu u toj valuti koju posjeduju društva za osiguranje za pokriće najbolje procjene obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju izraženih u toj valuti.
+
+(4) Iznos prilagodbe za volatilnost na bezrizične kamatne stope odgovara iznosu od 65 % valutnog raspona prilagođenog za rizik. Valutni raspon prilagođen za rizik izračunava se kao razlika između raspona iz stavka 2. ovoga članka i dijela tog raspona koji se odnosi na realno procijenjeni očekivani gubitak ili neočekivani kreditni ili drugi rizik imovine.
+
+(5) Prilagodba za volatilnost primjenjuje se samo na relevantne kamatne stope iz vremenske strukture kamatnih stopa koje nisu dobivene ekstrapolacijom u skladu s člankom 110. ovoga Zakona. Ekstrapolirani dio relevantne vremenske strukture bezrizičnih kamatnih stopa temelji se na tim prilagođenim bezrizičnim kamatnim stopama.
+
+(6) Za svaku relevantnu državu prilagodba za volatilnost na bezrizične kamatne stope iz stavka 4. ovoga članka, prije primjene faktora 65 %, povećava se za razliku između državnog raspona prilagođenog za rizik i dvostrukog valutnog raspona prilagođenog za rizik, kad god je ta razlika pozitivna i kada je državni raspon prilagođen za rizik veći od 100 baznih bodova. Povećana prilagodba za volatilnost mora se primjenjivati pri izračunu najbolje procjene za obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju vezane uz proizvode prodane na tržištu osiguranja te države. Državni raspon prilagođen za rizik izračunava se na isti način kao i valutni raspon prilagođen za rizik za valutu te države, ali na temelju referentnog portfelja koji predstavlja imovinu koju posjeduju društva za osiguranje za pokriće najbolje procjene obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju vezano uz proizvode prodane na tržištu osiguranja te države i izraženih u valuti te države.
+
+(7) Prilagodba za volatilnost ne smije se primjenjivati na obveze iz ugovora o osiguranju, odnosno ugovore o reosiguranju ako relevantna vremenska struktura bezrizičnih kamatnih stopa u izračunu najbolje procjene za te obveze uključuje prilagodbu za uravnoteženje iz članka 111. ovoga Zakona.
+
+(8) Iznimno od članka 131. ovoga Zakona, potrebni solventni kapital ne pokriva rizik gubitka osnovnih vlastitih sredstava koji je posljedica promjena prilagodbe za volatilnost.
+
+(9) Društvo za osiguranje je pri primjeni prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa dužno koristiti tehničke informacije u skladu s propisima Europske komisije koje se odnose na prilagodbe za volatilnost za svako relevantno nacionalno tržište osiguranja. Kada ova prilagodba za volatilnost za pojedinu valutu i nacionalno tržište nije objavljena u navedenim tehničkim informacijama, društvo za osiguranje ne smije ju primjenjivati.
+
+(10) Agencija će izdati odobrenje za primjenu prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene iz članka 108. ovoga Zakona ako društvo za osiguranje teže ne krši pravila u sustavu upravljanja.
+
+(11) Agencija će pravilnikom detaljnije propisati dokumentaciju koja se mora priložiti uz zahtjev za izdavanje odobrenja iz stavka 10. ovoga članka.
+
+*Ostali elementi pri izračunu tehničkih pričuva*
+
+##### Članak 114.
+
+Društvo za osiguranje dužno je pri izračunu tehničkih pričuva uzeti u obzir i sljedeće elemente:
+
+1. sve troškove koji će nastati pri ispunjavanju obveza iz ugovora o osiguranju odnosno ugovora o reosiguranju
+
+2. inflaciju, uključujući inflaciju troškova i inflaciju iznosa šteta
+
+3. sve isplate ugovarateljima osiguranja i korisnicima osiguranja, uključujući buduće sudjelovanje u dobiti, za koja se očekuje da će ih društvo za osiguranje imati, bez obzira na to jesu li te isplate ugovorno zajamčene, osim ako te isplate nisu obuhvaćene člankom 127. ovoga Zakona.
+
+*Vrednovanje financijskih garancija i ugovornih opcija uključenih u ugovore o osiguranju, odnosno ugovore o reosiguranju*
+
+##### Članak 115.
+
+(1) Pri izračunu tehničkih pričuva društvo za osiguranje dužno je uzeti u obzir vrijednost financijskih garancija i bilo kojih ugovornih opcija uključenih u ugovore o osiguranju, odnosno ugovore o reosiguranju.
+
+(2) Sve pretpostavke društva za osiguranje o vjerojatnosti da ugovaratelji osiguranja iskoriste svoje ugovorne opcije, uključujući odustanke i otkup, moraju biti realne i utemeljene na sadašnjim i vjerodostojnim informacijama. U pretpostavkama društvo za osiguranje dužno je uzeti u obzir, eksplicitno ili implicitno, utjecaj koji promijenjeni budući financijski i nefinancijski uvjeti mogu imati na korištenje tih opcija.
+
+*Segmentacija*
+
+##### Članak 116.
+
+Društvo za osiguranje dužno je pri izračunu tehničkih pričuva segmentirati svoje obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju u homogene grupe rizika, a najmanje prema vrstama osiguranja u skladu s Uredbom (EU) br. 2015/35.
+
+*Iznosi naplativi na temelju ugovora o reosiguranju i od subjekata posebne namjene*
+
+##### Članak 117.
+
+(1) Društvo za osiguranje dužno je izračunavati iznose naplative na temelju ugovora o reosiguranju i od subjekata posebne namjene u skladu s odredbama članaka 105. – 116. ovoga Zakona.
+
+(2) Pri izračunu iznosa naplativih na temelju ugovora o reosiguranju i od subjekata posebne namjene, društvo za osiguranje dužno je uzeti u obzir vremensku razliku između naplativih iznosa i izravnih isplata.
+
+(3) Društvo za osiguranje dužno je prilagoditi vrijednost izračunatih naplativih iznosa kako bi se uzeli u obzir očekivani gubici nastali zbog neispunjenja obveza druge ugovorne strane. Ta se prilagodba mora temeljiti na procjeni vjerojatnosti neispunjenja obveze druge ugovorne strane i prosječnog gubitka zbog neispunjenja obveze, u skladu s Uredbom (EU) br. 2015/35.
+
+*Kvaliteta podataka i primjena približnih vrijednosti, uključujući pristupe u kojima se razmatra svaki slučaj posebno, u izračunu tehničkih pričuva*
+
+##### Članak 118.
+
+(1) Društvo za osiguranje dužno je uspostaviti unutarnje procese i procedure za osiguranje primjerenosti, potpunosti i točnosti podataka koje upotrebljava pri izračunu svojih tehničkih pričuva, u skladu s Uredbom (EU) br. 2015/35.
+
+(2) Ako u posebnim okolnostima društvo za osiguranje nema dovoljno podataka primjerene kvalitete za primjenu pouzdane aktuarske metode za izračun obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju ili iznosa naplativih na temelju ugovora o reosiguranju i od subjekata posebne namjene, društvo za osiguranje može pri izračunu najbolje procjene koristiti primjerene približne vrijednosti, uključujući pristupe u kojima se razmatra svaki slučaj posebno, u skladu s Uredbom (EU) br. 2015/35.
+
+*Usporedba s iskustvom*
+
+##### Članak 119.
+
+(1) Društvo za osiguranje dužno je uspostaviti procese i procedure kako bi osiguralo da se najbolje procjene i pretpostavke na kojima se temelji izračun najboljih procjena redovito uspoređuju s iskustvom.
+
+(2) Ako se usporedbom utvrdi sustavno odstupanje između iskustva i izračuna najboljih procjena, društvo za osiguranje dužno je na primjeren način prilagoditi aktuarske metode i pretpostavke korištene u izračunu.
+
+*Primjerenost razine tehničkih pričuva*
+
+##### Članak 120.
+
+Na zahtjev Agencije, društvo za osiguranje dužno je dokazati primjerenost razine svojih tehničkih pričuva te primjenjivost i relevantnost primijenjenih metoda, kao i adekvatnost upotrijebljenih statističkih podataka na kojima se temelji izračun tehničkih pričuva.
+
+## POGLAVLJE III. — VLASTITA SREDSTVA
+
+### ODJELJAK 1. — ODREĐIVANJE VLASTITIH SREDSTAVA
+
+*Vlastita sredstva*
+
+##### Članak 121.
+
+(1) Vlastita sredstva društva za osiguranje obuhvaćaju zbroj osnovnih vlastitih sredstava iz članka 122. ovoga Zakona i pomoćnih vlastitih sredstava iz članka 123. ovoga Zakona.
+
+(2) Društvo za osiguranje dužno je pri određivanju, razvrstavanju i utvrđivanju prihvatljivosti vlastitih sredstava postupati u skladu s ovim poglavljem i Uredbom (EU) br. 2015/35.
+
+*Osnovna vlastita sredstva*
+
+##### Članak 122.
+
+(1) Pri određivanju osnovnih vlastitih sredstava društvo za osiguranje uzima u obzir sljedeće stavke:
+
+1. višak imovine društva za osiguranje nad obvezama vrednovan u skladu s člancima 105. – 120. ovoga Zakona
+
+2. podređene obveze društva za osiguranje.
+
+(2) Višak imovine nad obvezama iz stavka 1. točke 1. ovoga članka umanjuje se za iznos otkupljenih vlastitih dionica društva za osiguranje.
+
+*Pomoćna vlastita sredstva*
+
+##### Članak 123.
+
+(1) Pri određivanju pomoćnih vlastitih sredstava društvo za osiguranje uzima u obzir stavke koje nisu obuhvaćene osnovnim vlastitim sredstvima, a za koje se može uputiti poziv na plaćanje radi pokrića gubitaka.
+
+(2) Pomoćna vlastita sredstva mogu obuhvaćati sljedeće stavke pod uvjetom da nisu stavke osnovnih vlastitih sredstava:
+
+1. akreditive i jamstva
+
+2. ostale obveze trećih osoba na plaćanje prema društvu za osiguranje.
+
+(3) U slučaju društva za uzajamno osiguranje ili društva za uzajamno osiguranje koje djeluje po načelu uzajamnosti s promjenjivim doprinosima, pomoćna vlastita sredstva mogu obuhvaćati i bilo koja buduća potraživanja koja ta društva mogu imati u odnosu na svoje članove putem poziva da se plate dodatni doprinosi tijekom sljedećih 12 mjeseci.
+
+(4) Kad je stavka pomoćnih vlastitih sredstava plaćena ili pozvana da se plati, smatra se imovinom i prestaje biti dio pomoćnih vlastitih sredstava, a postaje dio osnovnih vlastitih sredstava.
+
+*Odobrenje pomoćnih vlastitih sredstava*
+
+##### Članak 124.
+
+(1) Stavke pomoćnih vlastitih sredstava mogu se uzeti u obzir pri određivanju vlastitih sredstava društva za osiguranje samo na temelju prethodnog odobrenja Agencije.
+
+(2) Iznos stavke pomoćnih vlastitih sredstava mora odražavati sposobnost te stavke da pokrije gubitke i biti temeljen na razboritim i realnim pretpostavkama. Kad stavka pomoćnih vlastitih sredstava ima fiksnu nominalnu vrijednost, iznos te stavke jednak je njezinoj nominalnoj vrijednosti kada taj iznos primjereno odražava njezinu sposobnost pokrića gubitka.
+
+(3) Društvo za osiguranje dužno je dobiti prethodno odobrenje Agencije za:
+
+1. novčani iznos svake stavke pomoćnih vlastitih sredstava i/ili
+
+2. metodu kojom se utvrđuje iznos stavke pomoćnih vlastitih sredstava te u tom slučaju Agencija za iznos određen u skladu s tom metodom izdaje odobrenje za određeno razdoblje.
+
+(4) Agencija izdaje društvu za osiguranje prethodno odobrenje za uključivanje svake stavke pomoćnih vlastitih sredstava u vlastita sredstva društva za osiguranje na temelju procjene:
+
+1. sposobnosti i spremnosti drugih ugovornih strana za plaćanje
+
+2. mogućnosti naplate sredstava, uzimajući u obzir pravni oblik stavke te uvjete koji bi sprječavali uspješnu naplatu stavke ili upućivanje poziva na njezino plaćanje
+
+3. svih informacija o prošlim pozivima na plaćanje društva za osiguranje za takva pomoćna vlastita sredstva u mjeri u kojoj se te informacije mogu pouzdano upotrijebiti za procjenu očekivanih rezultata budućih poziva na plaćanje.
+
+(5) Prethodno odobrenje iz ovoga članka Agencija donosi u skladu s Uredbom (EU) br. 2015/35.
+
+### ODJELJAK 2. — RAZVRSTAVANJE VLASTITIH SREDSTAVA
+
+*Razvrstavanje vlastitih sredstava po kategorijama*
+
+##### Članak 125.
+
+(1) Društvo za osiguranje dužno je razvrstavati stavke vlastitih sredstava u tri kategorije na temelju kriterija iz članka 126. ovoga Zakona i popisa stavki vlastitih sredstava u skladu s Uredbom (EU) br. 2015/35.
+
+(2) Razvrstavanje stavki vlastitih sredstava ovisi o tome jesu li stavke osnovnih vlastitih sredstava ili stavke pomoćnih vlastitih sredstava i o tome u kojoj mjeri te stavke imaju sljedeća obilježja:
+
+1. stavka je u cijelosti na raspolaganju, ili za koju se može uputiti poziv na plaćanje, za pokriće gubitaka iz tekućeg poslovanja, kao i u slučaju stečaja ili likvidacije (trajna raspoloživost)
+
+2. ukupan iznos stavke u slučaju stečaja ili likvidacije društva za osiguranje u cijelosti je na raspolaganju za pokriće gubitaka te se isplaćuje njezinu imatelju nakon podmirenja svih drugih obveza, uključujući obveze osiguranja i obveze reosiguranja prema ugovarateljima osiguranja i korisnicima ugovora o osiguranju i ugovora o reosiguranju (podređenost).
+
+(3) Prilikom procjene u kojoj mjeri stavke vlastitih sredstava imaju, odnosno će imati obilježja navedena u stavku 2. točkama 1. i 2. ovoga članka, društvo za osiguranje dužno je uzeti u obzir trajanje stavke. Ako stavka vlastitih sredstava ima rok dospijeća, u obzir se uzima trajanje stavke u usporedbi s trajanjem osigurateljnih i reosigurateljnih obveza društva za osiguranje (dovoljno trajanje).
+
+(4) Osim navedenog u stavku 3. ovoga članka, društvo za osiguranje dužno je uzeti u obzir i sljedeća obilježja pojedine stavke:
+
+1. nepostojanje mogućnosti otkupa nominalnog iznosa (je li stavka oslobođena od zahtjeva ili poticaja da se otkupi nominalan iznos
+
+2. nepostojanje obveznih fiksnih troškova
+
+3. nepostojanje tereta.
+
+(5) Kada stavke vlastitih sredstava nisu obuhvaćene popisom iz stavka 1. ovoga članka, društvo za osiguranje dužno je razvrstavati stavke vlastitih sredstava u skladu s kriterijima iz članka 126. ovoga Zakona i podnijeti Agenciji zahtjev za odobrenje takvog razvrstavanja vlastitih sredstava.
+
+*Kriteriji za razvrstavanje vlastitih sredstava u kategorije*
+
+##### Članak 126.
+
+(1) Društvo za osiguranje dužno je stavke osnovnih vlastitih sredstava razvrstati u kategoriju 1 ako u značajnoj mjeri imaju obilježja iz članka 125. stavka 2. točaka 1. i 2. ovoga Zakona, uzimajući u obzir obilježja iz članka 125. stavaka 3. i 4. ovoga Zakona.
+
+(2) Društvo za osiguranje dužno je stavke osnovnih vlastitih sredstava razvrstati u kategoriju 2 ako u značajnoj mjeri imaju obilježja iz članka 125. stavka 2. točke 2. ovoga Zakona, uzimajući u obzir obilježja iz članka 125. stavaka 3. i 4. ovoga Zakona.
+
+(3) Društvo za osiguranje dužno je stavke pomoćnih vlastitih sredstava razvrstati u kategoriju 2 ako u značajnoj mjeri imaju obilježja iz članka 125. stavka 2. točaka 1. i 2. ovoga Zakona, uzimajući u obzir obilježja iz članka 125. stavaka 3. i 4. ovoga Zakona.
+
+(4) Društvo za osiguranje dužno je razvrstati u kategoriju 3 sve stavke osnovnih i pomoćnih vlastitih sredstava koje nisu obuhvaćene stavcima 1., 2. i 3. ovoga članka.
+
+*Višak sredstava i razvrstavanje posebnih stavki vlastitih sredstava*
+
+##### Članak 127.
+
+(1) Viškom sredstava smatra se akumulirana dobit koja nije stavljena na raspolaganje za raspodjelu ugovarateljima osiguranja i korisnicima osiguranja.
+
+(2) Društvo za osiguranje dužno je razvrstati u kategoriju 1 višak sredstava neraspoređen ugovarateljima osiguranja i korisnicima osiguranja koji ne podliježe isplati, u skladu s kriterijima iz članka 126. stavka 1. ovoga Zakona.
+
+(3) Društvo za osiguranje dužno je razvrstati u kategoriju 2 akreditive i jamstva koja neovisni povjerenik čuva za vjerovnike društva za osiguranje, a koja su izdale kreditne institucije koje imaju odobrenje za obavljanje poslova osiguranja izdano u skladu s propisima kojima se uređuje osnivanje i poslovanje kreditnih institucija.
+
+(4) Društvo za uzajamno osiguranje s promjenjivim doprinosima dužno je razvrstati u kategoriju 2 buduća potraživanja koja ta društva imaju od svojih članova s osnove zahtjeva za uplatom dodatnih doprinosa tijekom sljedećih 12 mjeseci ako u značajnoj mjeri imaju obilježja iz članka 125. stavka 2. ovoga Zakona, uzimajući u obzir obilježja iz članka 125. stavaka 3. i 4. ovoga Zakona.
+
+### ODJELJAK 3. — PRIHVATLJIVOST VLASTITIH SREDSTAVA
+
+*Prihvatljiva vlastita sredstva za pokriće potrebnog solventnog kapitala*
+
+##### Članak 128.
+
+(1) Prihvatljivi iznos vlastitih sredstava za pokriće potrebnog solventnog kapitala društva za osiguranje jednak je zbroju iznosa vlastitih sredstava iz kategorije 1 i prihvatljivog iznosa vlastitih sredstava iz kategorije 2 i kategorije 3.
+
+(2) U vezi s pokrićem potrebnog solventnog kapitala društva za osiguranje, prihvatljivi iznosi stavki kategorije 2 i kategorije 3 podliježu kvantitativnim ograničenjima. Ta ograničenja moraju biti takva da osiguraju ispunjavanje najmanje sljedećih uvjeta:
+
+1. udjel stavki kategorije 1 u prihvatljivim vlastitim sredstvima veći je od jedne trećine ukupnog iznosa prihvatljivih vlastitih sredstava
+
+2. prihvatljivi iznos stavki kategorije 3 manji je od jedne trećine ukupnog iznosa prihvatljivih vlastitih sredstava.
+
+*Prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala*
+
+##### Članak 129.
+
+(1) Prihvatljivi iznos osnovnih vlastitih sredstava za pokriće minimalnog potrebnog kapitala društva za osiguranje jednak je zbroju iznosa vlastitih sredstava iz kategorije 1 i prihvatljivog iznosa osnovnih vlastitih sredstava iz kategorije 2.
+
+(2) U vezi s pokrićem minimalnog potrebnog kapitala društva za osiguranje, prihvatljivi iznosi stavki osnovnih vlastitih sredstava razvrstanih u kategoriju 2 podliježu kvantitativnim ograničenjima. Ta ograničenja moraju biti takva da najmanje osiguraju da je udjel stavki kategorije 1 u prihvatljivim osnovnim vlastitim sredstvima veći od jedne polovine ukupnog iznosa prihvatljivih osnovnih vlastitih sredstava.
+
+## POGLAVLJE IV. — POTREBNI SOLVENTNI KAPITAL
+
+### ODJELJAK 1. — OPĆE ODREDBE O IZRAČUNU POTREBNOG SOLVENTNOG KAPITALA
+
+*Opće odredbe*
+
+##### Članak 130.
+
+Društvo za osiguranje dužno je imati prihvatljiva vlastita sredstva za pokriće potrebnog solventnog kapitala iz ovoga poglavlja.
+
+*Izračun potrebnog solventnog kapitala*
+
+##### Članak 131.
+
+(1) Potrebni solventni kapital izračunava se korištenjem standardne formule u skladu s člancima 133. – 142. ovoga Zakona ili uporabom unutarnjeg modela u skladu s člancima 143. – 156. ovoga Zakona.
+
+(2) Potrebni solventni kapital izračunava se na temelju pretpostavke kontinuiranog poslovanja društva za osiguranje.
+
+(3) Potrebni solventni kapital kalibrira se tako da se uzmu u obzir svi mjerljivi rizici kojima je društvo za osiguranje izloženo te pokriva postojeće poslove, kao i nove poslove čije se sklapanje očekuje tijekom sljedećih 12 mjeseci. Glede postojećih poslova, potrebnim solventnim kapitalom pokrivaju se samo neočekivani gubici. Potrebni solventni kapital mora odgovarati rizičnoj vrijednosti osnovnih vlastitih sredstava društva za osiguranje sa stupnjem pouzdanosti od 99,5 % tijekom jednogodišnjeg razdoblja.
+
+(4) Potrebni solventni kapital pokriva najmanje sljedeće rizike:
+
+1. preuzeti rizik neživotnog osiguranja
+
+2. preuzeti rizik životnog osiguranja
+
+3. preuzeti rizik zdravstvenog osiguranja
+
+4. tržišni rizik
+
+5. kreditni rizik
+
+6. operativni rizik.
+
+(5) Operativni rizik iz stavka 4. točke 6. ovoga članka obuhvaća pravni rizik, a isključuje rizike koji proizlaze iz strateških odluka te reputacijski rizik.
+
+(6) Pri izračunu potrebnog solventnog kapitala društvo za osiguranje uzima u obzir učinak tehnika smanjenja rizika pod uvjetom da su kreditni rizik i ostali rizici koji proizlaze iz uporabe tih tehnika primjereno odraženi u potrebnom solventnom kapitalu.
+
+*Učestalost izračuna*
+
+##### Članak 132.
+
+(1) Društvo za osiguranje dužno je izračunati potrebni solventni kapital najmanje jedanput godišnje te podnijeti Agenciji izvješće o rezultatu tog izračuna.
+
+(2) Društvo za osiguranje dužno je imati prihvatljiva vlastita sredstva koja pokrivaju posljednji prijavljeni potrebni solventni kapital.
+
+(3) Društvo za osiguranje dužno je kontinuirano pratiti iznos prihvatljivih vlastitih sredstava i potrebnog solventnog kapitala.
+
+(4) Ako profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji posljednji potrebni solventni kapital za koji je društvo za osiguranje podnijelo izvješće Agenciji, društvo bez odgađanja ponovno izračunava potrebni solventni kapital i podnosi Agenciji izvješće o rezultatu tog izračuna.
+
+(5) Ako postoje dokazi koji ukazuju da se profil rizičnosti društva za osiguranje značajno izmijenio od datuma kad je posljednji put podneseno izvješće o potrebnom solventnom kapitalu, Agencija može zahtijevati da društvo za osiguranje ponovno izračuna potrebni solventni kapital.
+
+### ODJELJAK 2. — IZRAČUN POTREBNOG SOLVENTNOG KAPITALA STANDARDNOM FORMULOM
+
+*Opće odredbe*
+
+##### Članak 133.
+
+Društvo za osiguranje dužno je izračun potrebnog solventnog kapitala standardnom formulom provoditi u skladu s člancima 134. – 141. ovoga Zakona, Uredbom (EU) br. 2015/35 te drugim propisima Europske komisije kojima se uređuju:
+
+– ujednačeni uvjeti primjene izračuna kapitalnih zahtjeva u skladu sa standardnom formulom, izračuni modula tržišnog rizika, izračuni modula rizika neispunjenja obveza druge ugovorne strane, vrednovanje tehnika smanjenja rizika, izračuni tehničkih pričuva, tehničke informacije koje se odnose na simetričnu prilagodbu stopa za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire, izračuni modula preuzetog rizika zdravstvenog osiguranja
+
+– metode i parametri koji se koriste pri procjeni kapitalnih zahtjeva rizika neispunjenja obveza druge ugovorne strane za izloženosti kvalificiranim središnjim drugim ugovornim stranama
+
+– kvantitativna ograničenja i kriteriji prihvatljivosti imovine kada ti rizici nisu na odgovarajući način obuhvaćeni standardnom formulom.
+
+*Struktura standardne formule*
+
+##### Članak 134.
+
+Potrebni solventni kapital izračunat na temelju standardne formule jednak je zbroju sljedećih stavki:
+
+1. osnovnog potrebnog solventnog kapitala
+
+2. kapitalnog zahtjeva za operativni rizik
+
+3. prilagodbe za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke.
+
+*Oblik osnovnog potrebnog solventnog kapitala*
+
+##### Članak 135.
+
+(1) Osnovni potrebni solventni kapital obuhvaća najmanje sljedeće module rizika:
+
+1. preuzeti rizik neživotnog osiguranja
+
+2. preuzeti rizik životnog osiguranja
+
+3. preuzeti rizik zdravstvenog osiguranja
+
+4. tržišni rizik
+
+5. rizik neispunjenja obveza druge ugovorne strane
+
+koji se agregiraju u skladu s propisima iz članka 142. stavka 1. ovoga Zakona.
+
+(2) U smislu stavka 1. točke 1., 2. i 3. ovoga članka poslovi osiguranja i poslovi reosiguranja dodjeljuju se onom modulu preuzetog rizika osiguranja koji najbolje odražava tehničku prirodu pripadnih rizika.
+
+(3) Koeficijenti korelacije za agregiranje modula rizika iz stavka 1. ovoga članka, kao i kalibracija kapitalnih zahtjeva za svaki modul rizika rezultiraju ukupnim potrebnim solventnim kapitalom koji je u skladu s načelima iz članka 131. stavaka 2. – 5. ovoga Zakona.
+
+(4) Svaki od modula rizika iz stavka 1. ovoga članka kalibrira se uporabom mjere rizične vrijednosti sa stupnjem pouzdanosti od 99,5 % tijekom jednogodišnjeg razdoblja. Pri oblikovanju svakog od modula rizika, gdje to odgovara prirodi rizika, uzimaju se u obzir učinci diverzifikacije.
+
+(5) Sva društva za osiguranje upotrebljavaju isti oblik i specifikacije za module rizika za potrebe izračuna osnovnog potrebnog solventnog kapitala i bilo kojih pojednostavnjenih izračuna iz članka 140. ovoga Zakona.
+
+(6) Društvo za osiguranje može za rizike koji proizlaze iz katastrofa, ako to odgovara prirodi rizika, za izračun modula preuzetog rizika životnog, neživotnog, odnosno zdravstvenog osiguranja upotrijebiti geografske specifikacije.
+
+(7) Društvo za osiguranje može, uz odobrenje Agencije u skladu s propisima Europske komisije kojima se uređuju postupci za odobrenje specifičnih parametara, unutar standardne formule zamijeniti podskup parametara parametrima koji su specifični za predmetno društvo pri izračunu modula preuzetog rizika životnog, neživotnog, odnosno zdravstvenog osiguranja. Ti se parametri kalibriraju uporabom standardiziranih metoda na temelju unutarnjih podataka predmetnog društva ili podataka koji su izravno relevantni za poslovanje tog društva.
+
+(8) Pri izdavanju odobrenja iz stavka 7. ovoga članka Agencija provjerava potpunost, točnost i primjerenost upotrijebljenih podataka.
+
+*Izračun osnovnog potrebnog solventnog kapitala*
+
+##### Članak 136.
+
+(1) Modul preuzetog rizika neživotnog osiguranja mora odražavati rizik koji proizlazi iz obveza iz ugovora o osiguranju s obilježjima neživotnih osiguranja koji je povezan s pokrivenim opasnostima i procesima koji se upotrebljavaju u obavljanju poslova. Modul preuzetog rizika neživotnog osiguranja mora uzimati u obzir neizvjesnost rezultata društva za osiguranje koja je povezana s postojećim obvezama iz ugovora o osiguranju, odnosno ugovora o reosiguranju, kao i s novim poslovima čije se sklapanje očekuje tijekom sljedećih 12 mjeseci. Izračunava se u skladu s člankom 142. stavkom 2. ovoga Zakona kao kombinacija kapitalnih zahtjeva za najmanje sljedeće podmodule rizika:
+
+1. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u vremenu nastanka, učestalosti i težini osiguranih događaja te promjena u vremenu rješavanja šteta i izdacima za štete, odnosno rizik premija i rizik pričuva neživotnog osiguranja
+
+2. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz postojanja značajnih neizvjesnosti u pretpostavkama u vezi s oblikovanjem premije osiguranja i tehničkih pričuva povezanih s ekstremnim ili iznimnim događajima, odnosno rizik katastrofe neživotnog osiguranja.
+
+(2) Modul preuzetog rizika životnog osiguranja mora odražavati rizik koji proizlazi iz obveza iz ugovora o osiguranju s obilježjima životnih osiguranja koji je povezan s pokrivenim opasnostima i procesima koji se upotrebljavaju u obavljanju poslova. Izračunava se u skladu s člankom 142. stavkom 3. ovoga Zakona kao kombinacija kapitalnih zahtjeva za najmanje sljedeće podmodule rizika:
+
+1. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti stopa smrtnosti, pri čemu povećanje stope smrtnosti dovodi do povećanja vrijednosti obveza iz ugovora o osiguranju, odnosno rizik smrtnosti
+
+2. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti stopa smrtnosti, pri čemu smanjenje stope smrtnosti dovodi do povećanja vrijednosti obveza iz ugovora o osiguranju, odnosno rizik dugovječnosti
+
+3. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti stopa nesposobnosti i pobolijevanja, odnosno rizik nesposobnosti – pobolijevanja
+
+4. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti troškova nastalih održavanjem ugovora o osiguranju ili ugovora o reosiguranju, odnosno rizik troškova životnog osiguranja
+
+5. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti stopa usklađivanja koje se primjenjuju na rente zbog promjena u pravnom okruženju ili zdravstvenom stanju osigurane osobe, odnosno rizik usklađenja
+
+6. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti stopa odustanka, raskida, obnove i otkupa polica, odnosno rizik odustanka
+
+7. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz postojanja značajnih neizvjesnosti u pretpostavkama u vezi s oblikovanjem premija osiguranja i tehničkih pričuva povezanih s ekstremnim ili iznimnim događajima, odnosno rizik katastrofe životnog osiguranja.
+
+(3) Modul preuzetog rizika zdravstvenog osiguranja mora odražavati rizik koji proizlazi iz obveza iz ugovora o zdravstvenom osiguranju, bez obzira na to zasniva li se na sličnoj tehničkoj osnovi kao životno osiguranje ili ne, a koji je povezan s pokrivenim opasnostima i procesima koji se upotrebljavaju u obavljanju poslova. Obuhvaća najmanje sljedeće rizike:
+
+1. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u razini, trendu ili volatilnosti troškova nastalih održavanjem ugovora o osiguranju, odnosno ugovora o reosiguranju
+
+2. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz promjena u vremenu nastanka, učestalosti i težini osiguranih događaja te promjena u vremenu rješavanja šteta i izdacima za štete u trenutku određivanja tehničkih pričuva
+
+3. rizik gubitka ili nepovoljne promjene vrijednosti obveza iz ugovora o osiguranju koji proizlazi iz postojanja značajnih neizvjesnosti u pretpostavkama u vezi s oblikovanjem premija osiguranja i tehničkih pričuva povezanih s pojavom većih epidemija, kao i neuobičajenom akumulacijom rizika u takvim ekstremnim okolnostima.
+
+(4) Modul tržišnog rizika mora odražavati rizik koji proizlazi iz razine ili volatilnosti tržišnih cijena financijskih instrumenata koje utječu na vrijednost imovine i obveza društva za osiguranje. Modul tržišnog rizika mora primjereno odražavati strukturnu neusklađenost između imovine i obveza, posebice s obzirom na njihovu ročnost. Izračunava se u skladu s člankom 142. stavkom 4. ovoga Zakona kao kombinacija kapitalnih zahtjeva za najmanje sljedeće podmodule rizika:
+
+1. osjetljivost vrijednosti imovine, obveza i financijskih instrumenata na promjene u vremenskoj strukturi kamatnih stopa ili volatilnosti kamatnih stopa, odnosno rizik kamatnih stopa
+
+2. osjetljivost vrijednosti imovine, obveza i financijskih instrumenata na promjene u razini ili volatilnosti tržišnih cijena vlasničkih vrijednosnih papira, odnosno rizik vlasničkih vrijednosnih papira
+
+3. osjetljivost vrijednosti imovine, obveza i financijskih instrumenata na promjene u razini ili volatilnosti tržišnih cijena nekretnina, odnosno rizik promjene cijena nekretnina
+
+4. osjetljivost vrijednosti imovine, obveza i financijskih instrumenata na promjene u razini ili volatilnosti kreditnog raspona iznad vremenske strukture bezrizičnih kamatnih stopa, odnosno rizik raspona
+
+5. osjetljivost vrijednosti imovine, obveza i financijskih instrumenata na promjene u razini ili volatilnosti tečaja, odnosno valutni rizik
+
+6. dodatni rizici za društvo za osiguranje koji proizlaze iz nepostojanja diverzifikacije unutar portfelja imovine ili iz velike izloženosti riziku neispunjenja obveza od strane jednog izdavatelja ili grupe povezanih izdavatelja, odnosno koncentracija tržišnog rizika.
+
+(5) Modul rizika neispunjenja obveza druge ugovorne strane mora odražavati moguće gubitke zbog neočekivanog neispunjenja obveza ili pogoršanja kreditnog položaja drugih ugovornih strana i dužnika društva za osiguranje tijekom sljedećih 12 mjeseci.
+
+(6) Modul rizika neispunjenja obveza druge ugovorne strane mora obuhvaćati ugovore za smanjenje rizika, kao što su ugovori o reosiguranju, sekuritizacije i izvedenice te potraživanja od zastupnika i posrednika, kao i sve druge kreditne izloženosti koje nisu obuhvaćene podmodulom rizika raspona. Na primjeren način mora uzimati u obzir kolateral ili druga jamstva koje ima društvo za osiguranje ili koje netko drugi drži za račun društva za osiguranje te s njima povezane rizike.
+
+(7) Modul rizika neispunjenja obveza druge ugovorne strane mora uzimati u obzir ukupnu izloženost društva za osiguranje svakoj pojedinoj drugoj ugovornoj strani bez obzira na pravni oblik njezinih ugovornih obveza prema tom društvu za osiguranje.
+
+*Izračun podmodula rizika vlasničkih vrijednosnih papira: mehanizam simetrične prilagodbe*
+
+##### Članak 137.
+
+(1) Podmodul rizika vlasničkih vrijednosnih papira izračunat u skladu sa standardnom formulom mora uključivati simetričnu prilagodbu u izračun kapitalnih zahtjeva za pokriće rizika koji proizlazi iz promjena u razini cijena vlasničkih vrijednosnih papira.
+
+(2) Simetrična prilagodba stope za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire izračunatog u skladu sa standardnom formulom, kalibriranog u skladu s člankom 135. stavkom 4. ovoga Zakona, koji pokriva rizik koji proizlazi iz promjena u razini cijena vlasničkih vrijednosnih papira, temelji se na funkciji sadašnje razine odgovarajućeg dioničkog indeksa i ponderiranog prosjeka razine tog indeksa. Ponderirani prosjek izračunava se tijekom odgovarajućeg razdoblja koje je jednako za sva društva za osiguranje.
+
+(3) Simetrična prilagodba stope za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire izračunatog u skladu sa standardnom formulom smije rezultirati povećanjem ili smanjenjem stope za izračun navedenog kapitalnog zahtjeva za najviše 10 postotnih bodova.
+
+*Kapitalni zahtjev za operativni rizik*
+
+##### Članak 138.
+
+(1) Kapitalni zahtjev za operativni rizik odražava operativne rizike u mjeri u kojoj nisu odraženi u modulima rizika iz članka 135. stavka 1. ovoga Zakona. Taj se zahtjev kalibrira u skladu s člankom 131. stavkom 3. ovoga Zakona.
+
+(2) Kod ugovora o životnom osiguranju kod kojih rizik ulaganja snosi ugovaratelj osiguranja, izračun kapitalnog zahtjeva za operativni rizik uzima u obzir iznos godišnjih troškova koji su nastali u vezi s obvezama iz tih ugovora o osiguranju.
+
+(3) S obzirom na poslove osiguranja i poslove reosiguranja koji nisu navedeni u stavku 2. ovoga članka, izračun kapitalnog zahtjeva za operativni rizik uzima u obzir opseg tih poslova, u smislu zarađenih premija i tehničkih pričuva koje se odnose na obveze iz tih ugovora o osiguranju, odnosno ugovora o reosiguranju. U navedenom slučaju kapitalni zahtjev za operativni rizik ne smije prelaziti 30 % osnovnog potrebnog solventnog kapitala koji se odnosi na te poslove osiguranja i poslove reosiguranja.
+
+*Prilagodba za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke*
+
+##### Članak 139.
+
+(1) Prilagodba za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke odražava moguću nadoknadu neočekivanih gubitaka kroz istodobno smanjenje tehničkih pričuva ili odgođenih poreza ili kombinaciju obaju smanjenja.
+
+(2) Prilagodba iz stavka 1. ovoga članka uzima u obzir učinak smanjenja rizika koji proizlazi iz budućih sudjelovanja u dobiti iz ugovora o osiguranju u opsegu u kojem društvo za osiguranje može dokazati da se smanjenje tih naknada može upotrijebiti za pokriće neočekivanih gubitaka kad nastanu. Učinak smanjenja rizika koji proizlazi iz budućih sudjelovanja u dobiti ne smije biti veći od zbroja tehničkih pričuva i odgođenih poreza koji se odnose na ta buduća sudjelovanja u dobiti.
+
+(3) U smislu stavka 2. ovoga članka, vrijednost budućih sudjelovanja u dobiti u nepovoljnim okolnostima uspoređuje se s vrijednošću tih sudjelovanja u dobiti prema pretpostavkama na kojima se temelji izračun najbolje procjene.
+
+*Pojednostavnjenja standardne formule*
+
+##### Članak 140.
+
+Društvo za osiguranje može u skladu Uredbom (EU) br. 2015/35 upotrijebiti pojednostavnjeni izračun za pojedini podmodul ili modul rizika kad to opravdavaju priroda, opseg i složenost rizika s kojima se suočava i kad bi bilo neopravdano zahtijevati od društva za osiguranje da primjenjuje standardni izračun. Pojednostavnjeni izračuni kalibriraju se u skladu s člankom 131. stavkom 3. ovoga Zakona.
+
+*Značajna odstupanja od pretpostavki na kojima se temelji izračun prema standardnoj formuli*
+
+##### Članak 141.
+
+(1) Kad nije primjereno izračunavati potrebni solventni kapital u skladu sa standardnom formulom zbog toga što profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun prema standardnoj formuli, Agencija može od društva za osiguranje zahtijevati da podskup parametara koji se upotrebljavaju u izračunu prema standardnoj formuli zamijeni parametrima koji su specifični za to društvo za osiguranje prilikom izračuna modula preuzetog rizika životnog, neživotnog i zdravstvenog osiguranja.
+
+(2) Specifični parametri društva za osiguranje iz stavka 1. ovoga članka izračunavaju se na način koji osigurava da je predmetno društvo usklađeno s člankom 131. stavkom 3. te s člankom 135. stavcima 7. i 8. ovoga Zakona.
+
+*Formule za izračun osnovnog potrebnog solventnog kapitala*
+
+##### Članak 142.
+
+(1) Osnovni potrebni solventni kapital iz članka 135. stavka 1. ovoga Zakona izračunava se prema formuli:
+
+![](https://narodne-novine.nn.hr/dodatni/435157.jpg)
+
+gdje je SCR<sub>i</sub>modul rizika i, SCR<sub>j</sub> modul rizika j te gdje »i,j« označava da su u iznos uključene sve moguće kombinacije i i j. Pri izračunu se SCR<sub>i</sub> i SCR<sub>j</sub> zamjenjuju najmanje sljedećim:
+
+SCR<sub>neživotni</sub> označava modul preuzetog rizika neživotnog osiguranja
+
+SCR<sub>životni</sub> označava modul preuzetog rizika životnog osiguranja
+
+SCR<sub>zdravstveni</sub> označava modul preuzetog rizika zdravstvenog osiguranja
+
+SCR<sub>tržišni</sub> označava modul tržišnog rizika
+
+SCR<sub>neispunjenje obveze</sub> označava modul rizika neispunjenja obveza druge ugovorne strane.
+
+Faktor Corr<sub>i,j</sub> definiran u skladu s Uredbom (EU) br. 2015/35 označava stavku navedenu u retku i i stupcu j sljedeće korelacijske tablice:
+
+![](https://narodne-novine.nn.hr/dodatni/435158.jpg)
+
+(2) Modul preuzetog rizika neživotnog osiguranja iz članka 136. stavka 1. ovoga Zakona izračunava se prema formuli:
+
+![](https://narodne-novine.nn.hr/dodatni/435159.jpg)
+
+gdje je SCR<sub>i</sub> podmodul i, SCR<sub>j</sub> podmodul j te gdje »i,j« označava da su u iznos uključene sve moguće kombinacije i i j. Pri izračunu se SCR<sub>i</sub> i SCR<sub>j</sub> zamjenjuju najmanje sljedećim:
+
+SCR<sub>neživotni-premija i pričuva</sub> označava podmodul premijskog rizika i rizika pričuva neživotnog osiguranja
+
+SCR<sub>neživotni-katastrofa</sub> označava podmodul rizika katastrofe neživotnog osiguranja.
+
+Faktor Corr<sub>i,j</sub> označava stavku definiranu u skladu s Uredbom (EU) br. 2015/35.
+
+(3) Modul preuzetog rizika životnog osiguranja iz članka 136. stavka 2. ovoga Zakona izračunava se prema formuli:
+
+![](https://narodne-novine.nn.hr/dodatni/435160.jpg)
+
+gdje je SCR<sub>i</sub> podmodul i, SCR<sub>j</sub> podmodul j te gdje »i,j« označava da su u iznos uključene sve moguće kombinacije i i j. Pri izračunu se SCR<sub>i</sub> i SCR<sub>j</sub> zamjenjuju najmanje sljedećim:
+
+SCR<sub>smrtnost</sub> označava podmodul rizika smrtnosti
+
+SCR<sub>dugovječnost</sub> označava podmodul rizika dugovječnosti
+
+SCR<sub>invalidnost</sub> označava podmodul rizika invalidnosti – pobolijevanja
+
+SCR<sub>životni-troškovi</sub> označava podmodul rizika troškova životnog osiguranja
+
+SCR<sub>usklađenje</sub> označava podmodul rizika usklađenja
+
+SCR<sub>istek</sub> označava podmodul rizika isteka
+
+SCR<sub>životni-katastrofa</sub> označava podmodul rizika katastrofe životnog osiguranja.
+
+Faktor Corr<sub>i,j</sub> označava stavku definiranu u skladu s Uredbom (EU) br. 2015/35.
+
+(4) Modul tržišnog rizika iz članka 136. stavka 4. ovoga Zakona izračunava se prema formuli:
+
+![](https://narodne-novine.nn.hr/dodatni/435161.jpg)
+
+gdje je SCR<sub>i</sub> podmodul i, SCR<sub>j</sub> podmodul j te gdje »i,j« označava da su u iznos uključene sve moguće kombinacije i i j. Pri izračunu se SCR<sub>i</sub> i SCR<sub>j</sub> zamjenjuju najmanje sljedećim:
+
+SCR<sub>kamatna stopa</sub> označava podmodul rizika kamatne stope
+
+SCR<sub>vlasnički vrijednosni papiri</sub> označava podmodul rizika vlasničkih vrijednosnih papira
+
+SCR<sub>nekretnina</sub> označava podmodul rizika promjene cijene nekretnina
+
+SCR<sub>raspon</sub> označava podmodul rizika raspona
+
+SCR<sub>koncentracija</sub> označava podmodul koncentracije tržišnog rizika
+
+SCR<sub>valuta</sub> označava podmodul valutnog rizika.
+
+Faktor Corr<sub>i,j</sub> označava stavku definiranu u skladu s Uredbom (EU) br. 2015/35.
+
+### ODJELJAK 3. — IZRAČUN POTREBNOG SOLVENTNOG KAPITALA UPORABOM POTPUNOG ILI DJELOMIČNOG UNUTARNJEG MODELA
+
+*Opće odredbe o izdavanju odobrenja za uporabu potpunih i djelomičnih unutarnjih modela*
+
+##### Članak 143.
+
+(1) Društvo za osiguranje može za izračun potrebnog solventnog kapitala koristiti potpuni ili djelomični unutarnji model za koji je dobilo odobrenje Agencije, u skladu s propisima Europske komisije kojima se uređuju postupci za odobrenje unutarnjeg modela.
+
+(2) Društvo za osiguranje može upotrebljavati djelomične unutarnje modele za izračun jednog ili više od sljedećih:
+
+1. jednog ili više modula ili podmodula rizika osnovnog potrebnog solventnog kapitala navedenih u odredbama članaka 135. i 136. ovoga Zakona
+
+2. kapitalnog zahtjeva za operativni rizik navedenog u članku 138. ovoga Zakona
+
+3. prilagodbe za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke iz članka 139. ovoga Zakona.
+
+Upotreba djelomičnog modela može se primijeniti na cjelokupno poslovanje društva za osiguranje ili samo na jednu veću poslovnu jedinicu, odnosno na nekoliko njih.
+
+(3) U svakom zahtjevu za izdavanje odobrenja za uporabu unutarnjeg modela društvo za osiguranje dužno je dostaviti barem dokumentirane dokaze da unutarnji model ispunjava zahtjeve iz članaka 150. – 155. ovoga Zakona u skladu s Uredbom (EU) br. 2015/35. Kad se zahtjev za izdavanje odobrenja odnosi na djelomični unutarnji model, zahtjevi iz članaka 150. – 155. ovoga Zakona prilagođavaju se kako bi se u obzir uzeo ograničeni opseg primjene modela u skladu s Uredbom (EU) br. 2015/35.
+
+(4) Agencija odlučuje o zahtjevu u roku od šest mjeseci od dana zaprimanja urednog zahtjeva.
+
+(5) Agencija izdaje odobrenje na zahtjev samo ako društvo za osiguranje dokaže da su sustavi predmetnog društva za utvrđivanje, mjerenje i praćenje rizika, upravljanje rizicima i izvještavanje o rizicima primjereni, i osobito da unutarnji model ispunjava zahtjeve iz stavka 3. ovoga članka.
+
+(6) U rješenju Agencije o odbijanju zahtjeva za izdavanje odobrenja za uporabu unutarnjeg modela Agencija će navesti razloge na kojima se odbijanje temelji.
+
+(7) Nakon što Agencija izda odobrenje za uporabu unutarnjeg modela, od društva za osiguranje može rješenjem zahtijevati da Agenciji dostavi procjenu potrebnog solventnog kapitala koji je određen u skladu sa standardnom formulom iz članaka 133. – 142. ovoga Zakona.
+
+*Posebne odredbe o izdavanju odobrenja za uporabu djelomičnih unutarnjih modela*
+
+##### Članak 144.
+
+(1) U slučaju djelomičnog unutarnjeg modela odobrenje Agencije izdaje se samo kada taj model ispunjava zahtjeve iz članka 143. ovoga Zakona i sljedeće dodatne uvjete:
+
+1. društvo za osiguranje primjereno je opravdalo razlog za ograničeni opseg primjene modela
+
+2. dobiveni potrebni solventni kapital primjerenije odražava profil rizičnosti društva za osiguranje, i osobito da je usklađen s načelima iz članaka 130. – 132. ovoga Zakona
+
+3. njegov oblik usklađen je s načelima iz članaka 130. – 132. ovoga Zakona tako da omogućuje potpunu integraciju djelomičnog unutarnjeg modela u standardnu formulu za izračun potrebnog solventnog kapitala, u skladu s Uredbom (EU) br. 2015/35.
+
+(2) Pri procjenjivanju zahtjeva za izdavanje odobrenja za uporabu djelomičnog unutarnjeg modela koji pokriva samo određene podmodule specifičnog modula rizika ili neke poslovne jedinice društva za osiguranje s obzirom na specifični modul rizika, ili dijelove jednih i drugih, Agencija može zahtijevati da društvo za osiguranje dostavi realan prijelazni plan za proširenje opsega primjene modela.
+
+(3) Prijelazni plan određuje način na koji društvo za osiguranje planira proširiti opseg primjene modela na druge podmodule ili poslovne jedinice kako bi se osiguralo da taj model pokriva prevladavajući dio njihovih poslova osiguranja s obzirom na taj specifični modul rizika.
+
+*Politika u vezi s izmjenama potpunih i djelomičnih unutarnjih modela*
+
+##### Članak 145.
+
+(1) U okviru početnog postupka za izdavanje odobrenja za uporabu unutarnjeg modela Agencija odobrava politiku u vezi s izmjenama modela društva za osiguranje koja uključuje specifikaciju manjih i većih izmjena unutarnjeg modela. Društvo za osiguranje može mijenjati svoj unutarnji model u skladu s tom politikom.
+
+(2) Za veće izmjene unutarnjeg modela, kao i za izmjene te politike, potrebno je dobiti prethodno odobrenje Agencije iz članka 143. ovoga Zakona koje se izdaje u skladu s propisima Europske komisije kojima se uređuju postupci za odobrenje većih izmjena unutarnjeg modela. Za manje izmjene unutarnjeg modela nije potrebno dobiti prethodno odobrenje Agencije ako su te izmjene uvedene u skladu s predmetnom politikom.
+
+*Odgovornosti uprave i nadzornog odbora društva za osiguranje*
+
+##### Članak 146.
+
+(1) Uprava društva za osiguranje uz odobrenje nadzornog obora podnosi Agenciji zahtjev za izdavanje odobrenja za uporabu unutarnjeg modela iz članka 143. ovoga Zakona, kao i zahtjev za bilo kakve naknadne veće izmjene tog modela.
+
+(2) Uprava društva za osiguranje odgovorna je za uspostavu, a nadzorni odbor za nadzor sustava koji osigurava kontinuirano i pravilno funkcioniranje unutarnjeg modela.
+
+*Povratak na standardnu formulu*
+
+##### Članak 147.
+
+Nakon dobivanja odobrenja u skladu s člankom 143. ovoga Zakona društvo za osiguranje ne može se vratiti na izračun potrebnog solventnog kapitala ili nekog njegova dijela u skladu sa standardnom formulom, osim u primjereno opravdanim okolnostima i pod uvjetom da za to dobije odobrenje Agencije.
+
+*Neusklađenost unutarnjeg modela*
+
+##### Članak 148.
+
+(1) Društvo za osiguranje koje nakon dobivanja odobrenja Agencije za uporabu unutarnjeg modela prestane ispunjavati zahtjeve iz članaka 150. – 155. ovoga Zakona dužno je bez odgađanja Agenciji dostaviti plan za ponovno uspostavljanje usklađenosti s navedenim zahtjevima u razumnom razdoblju ili dostaviti dokaze da učinak neusklađenosti nije značajan.
+
+(2) Ako društvo za osiguranje ne provede plan iz stavka 1. ovoga članka, Agencija može zahtijevati od predmetnog društava da potrebni solventni kapital ponovno izračunava u skladu sa standardnom formulom.
+
+*Značajna odstupanja od pretpostavki na kojima se temelji izračun prema standardnoj formuli*
+
+##### Članak 149.
+
+Kad nije primjereno izračunavati potrebni solventni kapital u skladu sa standardnom formulom jer profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun prema standardnoj formuli, Agencija može zahtijevati od predmetnog društva da za izračun potrebnog solventnog kapitala ili njegovih relevantnih modula rizika upotrebljava unutarnji model.
+
+*Test upotrebljivosti*
+
+##### Članak 150.
+
+(1) Društvo za osiguranje dužno je dokazati da njihov unutarnji model ima široku primjenu i da ima važnu ulogu u njihovu sustavu upravljanja u skladu s odredbama ovoga Zakona, a posebno u:
+
+1. sustavu upravljanja rizicima iz članka 94. ovoga Zakona i postupcima odlučivanja
+
+2. postupcima procjene ekonomskog i solventnog kapitala te procesa njihove alokacije, uključujući procjenu iz članka 96. ovoga Zakona.
+
+(2) Društvo za osiguranje dužno je dodatno dokazati da je učestalost izračuna potrebnog solventnog kapitala uporabom unutarnjeg modela u skladu s učestalošću kojom upotrebljavaju svoj unutarnji model za druge svrhe navedene u stavku 1. ovoga članka.
+
+(3) Uprava društva za osiguranje dužna je osigurati, a nadzorni odbor nadzirati, kontinuiranu primjerenost strukture i funkcionalnosti unutarnjeg modela te osigurati da unutarnji model kontinuirano primjereno odražava profil rizičnosti društva za osiguranje.
+
+*Standardi statističke kvalitete*
+
+##### Članak 151.
+
+(1) Metode koje se upotrebljavaju za izračun prognoze distribucije vjerojatnosti moraju se temeljiti na primjerenim, primjenjivim i relevantnim aktuarskim i statističkim tehnikama te moraju biti usklađene s metodama koje se upotrebljavaju za izračun tehničkih pričuva. Navedene metode moraju se temeljiti na aktualnim i vjerodostojnim informacijama te realnim pretpostavkama.
+
+(2) Društvo za osiguranje dužno je biti u mogućnosti Agenciji opravdati pretpostavke na kojima se temelji njihov unutarnji model.
+
+(3) Podaci koji se upotrebljavaju za unutarnji model moraju biti točni, potpuni i primjereni. Društvo za osiguranje dužno je ažurirati podatke koje upotrebljava u izračunu prognoze distribucije vjerojatnosti najmanje jedanput godišnje.
+
+(4) Za izračun prognoze distribucije vjerojatnosti nije propisana posebna metoda. Neovisno o odabranoj metodi izračuna, sposobnost unutarnjeg modela da ocijeni značajnost rizika mora biti takva da navedeni unutarnji model ima široku primjenu i važnu ulogu u sustavu upravljanja društva za osiguranje, i to posebice u sustavu upravljanja rizicima, postupcima odlučivanja te alokaciji kapitala u skladu s člankom 150. ovoga Zakona.
+
+(5) Unutarnji model mora obuhvaćati sve značajne rizike kojima je društvo za osiguranje izloženo te mora najmanje obuhvaćati rizike iz članka 131. stavka 4. ovoga Zakona.
+
+(6) Što se tiče diverzifikacijskih učinaka, društvo za osiguranje može u svojem unutarnjem modelu uzeti u obzir ovisnosti unutar kategorija rizika i između njih, pod uvjetom da Agenciji dokaže primjerenost sustava koji se upotrebljava za mjerenje tih diverzifikacijskih učinaka.
+
+(7) Društvo za osiguranje može u svojem unutarnjem modelu u potpunosti uzeti u obzir učinak tehnika smanjenja rizika pod uvjetom da unutarnji model primjereno odražava kreditni rizik i druge rizike koji proizlaze iz uporabe tehnika smanjenja rizika.
+
+(8) Društvo za osiguranje dužno je u svojem unutarnjem modelu točno procijeniti posebne rizike povezane s financijskim garancijama i bilo kojim ugovornim opcijama ako su navedeni rizici značajni. Društvo za osiguranje dužno je u svojem unutarnjem modelu procijeniti rizike povezane s opcijama iz ugovora o osiguranju te ugovornim opcijama društva za osiguranje. U tu svrhu predmetno društvo uzima u obzir učinak koji buduće promjene financijskih i nefinancijskih uvjeta mogu imati na provedbu tih opcija.
+
+(9) Društvo za osiguranje može u svojem unutarnjem modelu uzeti u obzir buduće mjere uprave za koje je realno očekivati da će se provesti u posebnim okolnostima. U tom slučaju društvo za osiguranje uzima u obzir vrijeme koje je potrebno za provedbu takvih mjera.
+
+(10) Društvo za osiguranje u svojem unutarnjem modelu uzima u obzir sve isplate ugovarateljima i korisnicima osiguranja koje očekuje da će izvršiti bez obzira na to jesu li te isplate zajamčene ugovorom o osiguranju.
+
+*Standardi kalibracije*
+
+##### Članak 152.
+
+(1) Društvo za osiguranje može za potrebe oblikovanja unutarnjeg modela upotrijebiti drukčije razdoblje ili mjeru rizika od onih iz članka 131. stavka 3. ovoga Zakona pod uvjetom da potrebni solventni kapital izračunat upotrebom unutarnjeg modela ugovarateljima i korisnicima osiguranja pruža istovjetnu razinu zaštite onoj iz članka 131. ovoga Zakona.
+
+(2) Ako je moguće, društvo za osiguranje izračunava potrebni solventni kapital izravno iz prognoze distribucije vjerojatnosti koja je dobivena unutarnjim modelom predmetnog društva, pri čemu se upotrebljava mjera rizične vrijednosti iz članka 131. stavka 3. ovoga Zakona.
+
+(3) Kad društvo za osiguranje ne može izračunati potrebni solventni kapital izravno iz prognoze distribucije vjerojatnosti koja je dobivena unutarnjim modelom, Agencija može dopustiti da se u postupku izračuna potrebnog solventnog kapitala upotrijebe približne vrijednosti pod uvjetom da predmetno društvo može Agenciji dokazati da je ugovarateljima i korisnicima osiguranja osigurana razina zaštite istovjetna s onom iz članka 131. ovoga Zakona.
+
+(4) Agencija može zahtijevati da društvo za osiguranje primijeni svoj unutarnji model na relevantne referentne portfelje, pri čemu upotrebljava pretpostavke koje se ponajprije temelje na vanjskim a ne na unutarnjim podacima, kako bi provjerila kalibraciju unutarnjeg modela i jesu li njegove specifikacije u skladu s općeprihvaćenom tržišnom praksom.
+
+*Raspodjela dobiti i gubitka*
+
+##### Članak 153.
+
+(1) Društvo za osiguranje dužno je najmanje jedanput godišnje preispitati uzroke i izvore dobiti i gubitaka za svaku veću poslovnu jedinicu.
+
+(2) Društvo za osiguranje dužno je Agenciji predočiti kako kategorizacija rizika koja je odabrana u unutarnjem modelu objašnjava uzroke i izvore dobiti i gubitaka. Kategorizacija rizika i raspodjela dobiti i gubitaka moraju odražavati profil rizičnosti društva za osiguranje.
+
+*Standardi validacije*
+
+##### Članak 154.
+
+(1) Društvo za osiguranje dužno je redovito provoditi proces validacije modela koji uključuje praćenje učinkovitosti unutarnjeg modela, preispitivanje kontinuirane primjerenosti njegovih specifikacija i testiranje njegovih rezultata u odnosu na iskustvo.
+
+(2) Statističke metode koje se primjenjuju testiraju primjerenost prognoze distribucije vjerojatnosti ne samo u usporedbi s iskustvom gubitaka, već i s obzirom na sve značajne nove podatke i informacije koje su s njom povezane.
+
+(3) Postupak validacije modela mora uključivati:
+
+– analizu stabilnosti unutarnjeg modela, i osobito testiranje osjetljivosti rezultata unutarnjeg modela na promjene ključnih pretpostavki na kojima se unutarnji model temelji
+
+– procjenu točnosti, potpunosti i primjerenosti podataka koje unutarnji model upotrebljava
+
+– djelotvoran statistički postupak validacije unutarnjeg modela koji omogućuje društvu za osiguranje da Agenciji dokaže da su dobiveni kapitalni zahtjevi primjereni.
+
+*Dokumentacijski standardi*
+
+##### Članak 155.
+
+(1) Društvo za osiguranje dužno je dokumentirati oblik i pojedinosti o djelovanju svojeg unutarnjeg modela. Navedena dokumentacija mora dokazati usklađenost s odredbama članaka 150. – 155. ovoga Zakona.
+
+(2) Dokumentacija iz stavka 1. ovoga članka mora sadržavati detaljan pregled teorije, pretpostavki te matematičkih i empirijskih podloga na kojima se temelji unutarnji model te navesti sve okolnosti u kojima unutarnji model ne funkcionira učinkovito.
+
+(3) Društvo za osiguranje dokumentira sve veće promjene svojeg unutarnjeg modela, kako je određeno u članku 145. ovoga Zakona.
+
+*Vanjski modeli i podaci*
+
+##### Članak 156.
+
+Uporaba modela ili podataka dobivenih od treće strane ne smatra se opravdanjem za izuzeće od bilo kojeg zahtjeva u vezi s unutarnjim modelom iz članaka 150. – 155. ovoga Zakona te iz Uredbe (EU) br. 2015/35.
+
+## POGLAVLJE V. — MINIMALNI POTREBNI KAPITAL
+
+*Opće odredbe*
+
+##### Članak 157.
+
+(1) Društvo za osiguranje dužno je imati prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala.
+
+(2) Društvo za osiguranje dužno je računati minimalni potrebni kapital u skladu s člankom 158. ovoga Zakona i Uredbom (EU) br. 2015/35.
+
+*Izračun minimalnog potrebnog kapitala*
+
+##### Članak 158.
+
+(1) Društvo za osiguranje dužno je izračunavati minimalni potrebni kapital u skladu sa sljedećim načelima:
+
+1. na jasan i jednostavan način te na takav način da se izračun može revidirati
+
+2. na način da minimalni potrebni kapital odgovara iznosu prihvatljivih osnovnih vlastitih sredstava ispod kojeg bi ugovaratelji i korisnici osiguranja bili izloženi neprihvatljivoj razini rizika u slučaju da se društvu za osiguranje dopusti daljnje poslovanje
+
+3. podložno uvjetima iz stavka 2. ovoga članka, minimalni potrebni kapital izračunava se kao linearna funkcija skupa ili podskupa sljedećih varijabli: tehničkih pričuva društva za osiguranje, zaračunatih premija osiguranja, svote pod rizikom, odgođenih poreza i administrativnih troškova, pri čemu su iznosi upotrijebljenih varijabli neto od reosiguranja. Linearna funkcija za izračun minimalnog potrebnog kapitala kalibrira se prema rizičnoj vrijednosti osnovnih vlastitih sredstava društva za osiguranje sa stupnjem pouzdanosti od 85 % tijekom jednogodišnjeg razdoblja
+
+4. minimalni potrebni kapital mora biti najmanje jednak apsolutnom pragu minimalnog potrebnog kapitala koji iznosi:
+
+– 19.500.000,00 kuna za društva za neživotno osiguranje, uključujući vlastita društva za osiguranje, osim u slučaju kada su pokriveni neki ili svi rizici uključeni u jednu od vrsta osiguranja koje su navedene u članku 7. stavku 2. točkama 10. – 15. ovoga Zakona, u kojem slučaju apsolutni prag minimalnog potrebnog kapitala iznosi 28.860.000,00 kuna
+
+– 28.860.000,00 kuna za društva za životno osiguranje, uključujući vlastita društva za osiguranje
+
+– 28.080.000,00 kuna za društva za reosiguranje, osim u slučaju vlastitih društava za reosiguranje, u kojem slučaju apsolutni prag minimalnog potrebnog kapitala iznosi 9.360.000,00 kuna
+
+– zbroj iznosa iz podtočaka 1. i 2. ove točke za društva za osiguranje koja istodobno obavljaju djelatnosti životnih i neživotnih osiguranja.
+
+(2) Ne dovodeći u pitanje stavak 1. točku 4. ovoga članka, minimalni potrebni kapital ne smije biti manji od 25 % niti veći od 45 % potrebnog solventnog kapitala društva za osiguranje, izračunatog u skladu sa standardnom formulom, odnosno potpunim ili djelomičnim unutarnjim modelom iz poglavlja IV. ove glave o potrebnom solventnom kapitalu, uključujući kapitalni dodatak koji može biti uveden u skladu s člankom 239. ovoga Zakona. Društvo za osiguranje u razdoblju do 31. prosinca 2017. primjenjuje navedene postotke isključivo na potrebni solventni kapital društva za osiguranje izračunat u skladu sa standardnom formulom.
+
+(3) Društvo za osiguranje dužno je izračunavati minimalni potrebni kapital najmanje jedanput u tromjesečju te Agenciju izvijestiti o rezultatima tih izračuna. U svrhu izračuna ograničenja iz stavka 2. ovoga članka od društava se ne zahtijeva tromjesečni izračun potrebnog solventnog kapitala.
+
+(4) Kad minimalni potrebni kapital društva za osiguranje određuje neko od ograničenja iz stavka 2. ovoga članka, društvo za osiguranje dužno je Agenciji osigurati informacije koje omogućuju pravilno razumijevanje razloga za to ograničenje.
+
+## POGLAVLJE VI. — ULAGANJA
+
+*Opće odredbe*
+
+##### Članak 159.
+
+(1) Društvo za osiguranje dužno je ulagati imovinu u skladu s ovim poglavljem, Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju kvalitativni zahtjevi pri utvrđivanju, mjerenju i praćenju rizika te upravljanju rizicima koji proizlaze iz ulaganja, posebice uvažavajući načelo razboritosti.
+
+(2) Društvo za osiguranje može ulagati samo u imovinu i financijske instrumente čije rizike može primjereno utvrditi, mjeriti i pratiti, kojima može primjereno upravljati, nadzirati ih i izvještavati o njima i koje na primjeren način uzimaju u obzir prilikom procjene svoje ukupne potrebe za solventnosti u skladu s člankom 96. stavkom 1. točkom 1. ovoga Zakona.
+
+(3) Društvo za osiguranje dužno je svu imovinu, a posebno imovinu za pokriće minimalnog potrebnog kapitala i potrebnog solventnog kapitala, ulagati na način koji osigurava sigurnost, kvalitetu, likvidnost i profitabilnost portfelja u cjelini i provoditi lokalizaciju te imovine na način da se osigura njezina raspoloživost.
+
+*Dodatne odredbe o ulaganjima*
+
+##### Članak 160.
+
+(1) Društvo za osiguranje može ulagati u izvedene financijske instrumente samo ako ti instrumenti pridonose smanjenju rizika ili olakšavaju učinkovito upravljanje portfeljem.
+
+(2) Društvo za osiguranje dužno je ulaganja u imovinu koja nije uvrštena na uređeno tržište održavati na razboritim razinama.
+
+(3) Imovina mora biti primjereno diverzificirana kako bi se izbjeglo prekomjerno oslanjanje na pojedinu vrstu imovine, jednog izdavatelja, grupu izdavatelja, geografsko područje, kao i prekomjerno akumuliranje rizika u portfelju kao cjelini.
+
+(4) Ulaganja u imovinu koju je izdao isti izdavatelj ili izdavatelji koji pripadaju istoj grupi ne smiju društvo za osiguranje izložiti prekomjernoj koncentraciji rizika.
+
+*Ulaganje imovine za pokriće tehničkih pričuva*
+
+##### Članak 161.
+
+(1) Društvo za osiguranje dužno je imovinu za pokriće tehničkih pričuva ulagati na način koji je primjeren prirodi i trajanju obveza osiguranja i obveza reosiguranja i u najboljem interesu ugovaratelja osiguranja, osiguranika i korisnika osiguranja te u skladu s politikom ulaganja, ako je objavljena.
+
+(2) U slučaju sukoba interesa, društvo za osiguranje ili osoba koja upravlja portfeljem njegove imovine dužna je osigurati da je ulaganje izvršeno u najboljem interesu ugovaratelja osiguranja i korisnika osiguranja.
+
+*Posebne odredbe za osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja*
+
+##### Članak 162.
+
+(1) Na osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja osim odredbi članaka 159. i 161. ovoga Zakona primjenjuju se i odredbe ovoga članka.
+
+(2) Ako su prava ugovaratelja osiguranja na temelju ugovora o osiguranju neposredno vezana uz vrijednost udjela UCITS fonda kako je definiran zakonom kojim se uređuje osnivanje i poslovanje otvorenih investicijskih fondova s javnom ponudom ili uz vrijednost imovine unutarnjeg fonda društva za osiguranje koja se u pravilu dijeli na udjele, vrijednost imovine za pokriće tehničkih pričuva koje oblikuje društvo za osiguranje u vezi s tim osiguranjima mora u najvećoj mogućoj mjeri odgovarati ukupnoj vrijednosti tih udjela, odnosno ako udjeli nisu oblikovani, vrijednosti te imovine.
+
+(3) Ako su prava ugovaratelja osiguranja na temelju ugovora o osiguranju neposredno vezana uz dionički indeks, odnosno druge referentne vrijednosti, osim onih navedenih u stavku 2. ovoga članka, vrijednost imovine za pokriće tehničkih pričuva koje društvo za osiguranje oblikuje u vezi s ovim osiguranjima mora u najvećoj mogućoj mjeri odgovarati ukupnoj vrijednosti udjela koji predstavljaju referentnu vrijednost, odnosno, ako udjeli nisu oblikovani, vrijednosti imovine primjerene sigurnosti i utrživosti koja u najvećoj mogućoj mjeri odgovara imovini na kojoj se temelji indeks, odnosno druga referentna vrijednost.
+
+(4) Ako ugovor o osiguranju iz stavaka 2. i 3. ovoga članka jamči određeni prinos na ulaganja ili druge isplate ugovaratelju osiguranja ili korisniku osiguranja, na imovinu za pokriće odgovarajućih dodatnih tehničkih pričuva koje društvo za osiguranje oblikuje za pokriće zajamčenih isplata u vezi s ovim osiguranjima primjenjuju se i odredbe članka 160. ovoga Zakona.
+
+(5) U slučaju iz stavka 2. ovoga članka, kada je ugovor o osiguranju vezan uz vrijednost imovine unutarnjeg fonda, društvo za osiguranje dužno je usvojiti pravila unutarnjeg fonda koja moraju sadržavati najmanje:
+
+– politiku ulaganja
+
+– način izračuna netovrijednosti imovine unutarnjeg fonda
+
+– način izračuna vrijednosti udjela unutarnjeg fonda
+
+– način i vrijeme objavljivanja vrijednosti udjela unutarnjeg fonda
+
+– troškove koji terete premije
+
+– troškove koje terete imovinu unutarnjeg fonda
+
+– troškove koji nastaju u slučaju prestanka ugovora o osiguranju.
+
+## GLAVA X. — POTEŠKOĆE I NEPRAVILNOSTI U POSLOVANJU DRUŠTVA ZA OSIGURANJE
+
+*Utvrđivanje i obavještavanje o pogoršanju financijskog stanja društva za osiguranje*
+
+##### Članak 163.
+
+(1) Društvo za osiguranje dužno je uspostaviti postupke za utvrđivanje pogoršanja financijskog stanja.
+
+(2) Društvo za osiguranje dužno je bez odgađanja obavijestiti Agenciju o pogoršanju financijskog stanja.
+
+*Zabrana isplate dobiti*
+
+##### Članak 164.
+
+Društvo za osiguranje ne smije isplatiti dobit u obliku akontacije dobiti, odnosno dividende ni u obliku isplate iz naslova sudjelovanja u dobiti uprave društva, nadzornog odbora, odnosno zaposlenika ako:
+
+1. je razina prihvatljivih vlastitih sredstava manja od potrebnog solventnog kapitala ili bi se razina prihvatljivih vlastitih sredstava zbog isplate dobiti smanjila ispod potrebnog solventnog kapitala
+
+2. je razina prihvatljivih osnovnih vlastitih sredstava manja od minimalnog potrebnog kapitala ili bi se razina prihvatljivih osnovnih vlastitih sredstava zbog isplate dobiti smanjila ispod minimalnog potrebnog kapitala
+
+3. društvo za osiguranje ne ispunjava najmanji stupanj likvidnosti ili zbog isplate dobiti ne bi više ispunjavalo najmanji stupanj likvidnosti
+
+4. je Agencija društvu za osiguranje odredila otklanjanje nezakonitosti i nepravilnosti u svezi s krivim iskazivanjem bilančnih ili izvanbilančnih stavki i poslovnog rezultata društva za osiguranje te ako društvo za osiguranje nije postupilo u skladu s mjerama Agencije o otklanjanju nezakonitosti i nepravilnosti.
+
+*Neusklađenost s potrebnim solventnim kapitalom*
+
+##### Članak 165.
+
+(1) Društvo za osiguranje dužno je bez odgađanja obavijestiti Agenciju kad utvrdi da više nije usklađeno s potrebnim solventnim kapitalom ili kad postoji rizik da se ta neusklađenost pojavi u sljedeća tri mjeseca.
+
+(2) U slučaju neusklađenosti iz stavka 1. ovoga članka uprava društva za osiguranje dužna je bez odgađanja poduzeti mjere radi dostizanja iznosa potrebnog solventnog kapitala i izraditi prijedlog mjera za koja su nadležna druga tijela tog društva za osiguranje.
+
+(3) Društvo za osiguranje dužno je u roku od dva mjeseca od dana kad je utvrđeno postojanje neusklađenosti s potrebnim solventnim kapitalom dostaviti Agenciji na odobrenje realan plan oporavka.
+
+(4) Društvo za osiguranje dužno je poduzeti potrebne mjere radi otklanjanja neusklađenosti iz stavka 1. ovoga članka u roku od šest mjeseci od dana kad je utvrđeno postojanje neusklađenosti s potrebnim solventnim kapitalom na način da:
+
+1. poveća razinu prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili
+
+2. smanji profil rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom.
+
+(5) Agencija može, na zahtjev društva za osiguranje, produljiti rok iz stavka 4. ovoga članka za tri mjeseca kako bi se osigurala usklađenost s potrebnim solventnim kapitalom.
+
+(6) Ako jedno ili više društava za osiguranje nije usklađeno s potrebnim solventnim kapitalom, a što je posljedica iznimno nepovoljne situacije koja je pogodila jedno ili više društava za osiguranje koja predstavljaju značajan udio na tržištu ili u pogođenim vrstama osiguranja, Agencija može zatražiti od EIOPA-e da u skladu s člankom 18. Uredbe (EU) br. 1094/2010 donese odluku o postojanju iznimno nepovoljne situacije.
+
+(7) Ako EIOPA donese odluku da postoji iznimno nepovoljna situacija, Agencija može, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju plan opravka i financijski plan, donijeti rješenje po službenoj dužnosti kojim će pogođenim društvima produljiti rok iz stavka 5. ovoga članka na najviše sedam godina, uzimajući u obzir sve relevantne čimbenike, uključujući prosječno trajanje obveza za koje su formirane tehničke pričuve.
+
+(8) Iznimno nepovoljna situacija postoji kada je financijsko stanje jednog ili više društava za osiguranje koja predstavljaju znatan udio na tržištu ili u pogođenim vrstama osiguranja ozbiljno ili negativno pogođeno jednim ili više od sljedećih situacija:
+
+1. pad na financijskim tržištima koji je nepredviđen, oštar i strm
+
+2. okolina s trajno niskim kamatnim stopama
+
+3. katastrofa sa snažnim učinkom.
+
+(9) Ako Agencija donese rješenje o produljenju roka iz stavka 7. ovoga članka, društvo za osiguranje dužno je svaka tri mjeseca Agenciji dostavljati izvješće o napretku u kojemu je dužno navesti poduzete mjere i napredak ostvaren u ponovnom dosezanju razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili napredak u smanjenju profila rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom.
+
+(10) Ako Agencija iz izvješća o napretku utvrdi da nije ostvaren znatan napredak u ponovnom dosezanju razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili napredak u smanjenju profila rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom, Agencija će ukinuti rješenje o produljenju roka iz stavka 7. ovoga članka.
+
+(11) Kada Agencija smatra da iznimno nepovoljna situacija više ne postoji, o tome će obavijestiti EIOPA-u.
+
+(12) U iznimnim okolnostima, kad Agencija smatra da će se financijsko stanje predmetnog društva za osiguranje dodatno pogoršati, Agencija može ograničiti ili zabraniti slobodno raspolaganje imovinom tog društva. Agencija će o mjerama koje je poduzela obavijestiti nadležno nadzorno tijelo države članice u kojoj društvo za osiguranje obavlja poslove osiguranja neposredno ili putem podružnice koje je dužno, na zahtjev Agencije, poduzeti iste mjere. Agencija će odrediti koja će imovina biti obuhvaćena tim mjerama.
+
+*Neusklađenost s minimalnim potrebnim kapitalom*
+
+##### Članak 166.
+
+(1) Društvo za osiguranje dužno je bez odgađanja obavijestiti Agenciju kad utvrdi da više nije usklađeno s potrebnim minimalnim kapitalom ili kad postoji rizik da se ta neusklađenost pojavi u sljedeća tri mjeseca.
+
+(2) U slučaju neusklađenosti iz stavka 1. ovoga članka uprava društva za osiguranje dužna je bez odgađanja poduzeti mjere radi dostizanja potrebne visine kapitala i izraditi prijedlog mjera za koja su nadležna druga tijela tog društva za osiguranje.
+
+(3) Društvo za osiguranje dužno je u roku od mjesec dana od dana kad je utvrđeno postojanje neusklađenosti s minimalnim potrebnim kapitalom dostaviti Agenciji na odobrenje realan kratkoročni financijski plan.
+
+(4) Društvo za osiguranje dužno je poduzeti potrebne mjere radi otklanjanja neusklađenosti iz stavka 1. ovoga članka u roku od tri mjeseca od dana kad je utvrđeno postojanje neusklađenosti s potrebnim minimalnim kapitalom na način da:
+
+– poveća razinu prihvatljivih osnovnih vlastitih sredstava na razinu minimalnog potrebnog kapitala ili
+
+– smanji profil rizičnosti kako bi se osigurala usklađenost s potrebnim minimalnim kapitalom.
+
+(5) Agencija može ograničiti ili zabraniti slobodno raspolaganje imovinom društva za osiguranje. Agencija će o mjerama koje je poduzela obavijestiti nadležno nadzorno tijelo države članice u kojoj društvo za osiguranje obavlja poslove osiguranja neposredno ili putem podružnice koje je dužno, na zahtjev Agencije, poduzeti iste mjere. Agencije će odrediti koja će imovina biti obuhvaćena tim mjerama.
+
+*Plan oporavka i financijski plan*
+
+##### Članak 167.
+
+(1) Plan oporavka iz članka 165. stavka 3. ovoga Zakona i financijski plan iz 166. stavka 3. ovoga Zakona moraju sadržavati najmanje pojedinosti ili dokaze o sljedećem:
+
+1. procjeni troškova upravljanja, posebno tekućim općim troškovima i proviziji
+
+2. procjeni prihoda i rashoda iz djelatnosti izravnog osiguranja, preuzetih obveza reosiguranja i ustupljenih obveza reosiguranja
+
+3. projekciji izvještaja o financijskom položaju za potrebe solventnosti
+
+4. procjeni financijskih sredstava za pokriće tehničkih pričuva, potrebnog solventnog kapitala i minimalnog potrebnog kapitala
+
+5. projekcije izvještaja o financijskom položaju i izvještaja o sveobuhvatnoj dobiti
+
+6. ukupnoj politici reosiguranja.
+
+(2) U razdoblju u kojem se provode mjere iz članaka 164. i 165. ovoga Zakona Agencija neće društvu za osiguranje izdati rješenje o odobrenju za prijenos portfelja sve dok smatra da su ugrožena prava ugovaratelja osiguranja ili ugovorne obveze društva za reosiguranje.
+
+## GLAVA XI. — JAVNA OBJAVA
+
+*Sadržaj izvješća o solventnosti i financijskom stanju*
+
+##### Članak 168.
+
+(1) Društvo za osiguranje dužno je svake godine izraditi i na svojim mrežnim stranicama objaviti izvješće o solventnosti i financijskom stanju u skladu s informacijama iz stavka 4. i načelima iz članka 215. stavka 5. ovoga Zakona i Uredbom (EU) br. 2015/35.
+
+(2) Izvješće o solventnosti i financijskom stanju sadržava sljedeće informacije:
+
+1. opis poslovanja i rezultata društva
+
+2. opis sustava upravljanja i procjenu njegove primjerenosti za profil rizičnosti društva
+
+3. opis izloženosti riziku, koncentracije rizika, smanjenja rizika i osjetljivosti na rizik, za svaku kategoriju rizika zasebno
+
+4. opis, zasebno za imovinu, tehničke pričuve i ostale obveze, podloga i metoda upotrijebljenih za njihovo vrednovanje za potrebe solventnosti, zajedno s objašnjenjem svih većih razlika u podlogama i metodama koje su upotrijebljene za njihovo vrednovanje u financijskim izvještajima
+
+5. opis upravljanja kapitalom, koji obuhvaća najmanje:
+
+– strukturu i iznos vlastitih sredstava te njihovu kvalitetu
+
+– iznose potrebnog solventnog kapitala i minimalnog potrebnog kapitala
+
+– informacije koje omogućavaju pravilno razumijevanje glavnih razlika između osnovnih pretpostavki na kojima se temelji standardna formula i pretpostavki na kojima se temelji unutarnji model koji društvo upotrebljava za izračun svojeg potrebnog solventnog kapitala
+
+– iznos bilo kakve neusklađenosti s minimalnim potrebnim kapitalom ili bilo kakve značajne neusklađenosti s potrebnim solventnim kapitalom tijekom izvještajnog razdoblja, čak i ako su te neusklađenosti poslije riješene, uz objašnjenje njihovih uzroka i posljedica, te bilo kakve poduzete mjere za poboljšanje stanja.
+
+(3) Opis za imovinu, tehničke pričuve i ostale obveze iz stavka 2. točke 4. ovoga članka, kada je primijenjena prilagodba za uravnoteženje iz članka 111. ovoga Zakona, uključuje opis prilagodbe za uravnoteženje i portfelja obveza i dodijeljene imovine na koje je primijenjena prilagodba za uravnoteženje, kao i kvantifikaciju utjecaja promjene prilagodbe za uravnoteženje na nulu na financijski položaj društva za osiguranje.
+
+(4) Opis za imovinu, tehničke pričuve i ostale obveze iz stavka 2. točke 4. ovoga članka također uključuje izjavu o tome je li društvo za osiguranje koristilo prilagodbu za volatilnost iz članka 113. ovoga Zakona, kao i kvantifikaciju utjecaja promjene prilagodbe za volatilnost na nulu na financijski položaj društva za osiguranje.
+
+(5) Opis strukture i iznosa te kvalitete vlastitih sredstava iz stavka 2. točke 5. podtočke 1. ovoga članka uključuje analizu svih značajnih promjena u usporedbi s prethodnim izvještajnim razdobljem te objašnjenje svih većih razlika u vezi s vrijednošću tih stavaka u financijskim izvještajima za potrebe solventnosti te kratak opis prenosivosti kapitala.
+
+(6) Objava potrebnog solventnog kapitala iz stavka 2. točke 5. podtočke 2. ovoga članka zasebno prikazuje potrebni solventni kapital izračunat standardnom formulom ili upotrebom unutarnjeg modela u skladu s odredbama iz ovoga Zakona i kapitalni dodatak koji je uveden u skladu s člankom 239. ovoga Zakona ili učinak drugih specifičnih parametara koje društvo za osiguranje mora upotrebljavati u skladu s člankom 141. ovoga Zakona, zajedno sa sažetim informacijama o njegovoj opravdanosti od strane Agencije.
+
+(7) Objava potrebnog solventnog kapitala uključuje, prema potrebi, naznaku da je njegov krajnji iznos još uvijek predmet nadzorne procjene.
+
+*Načela primjene*
+
+##### Članak 169.
+
+(1) Na zahtjev društva za osiguranje Agencija može dopustiti da društvo za osiguranje u cijelosti ili djelomično ne objavi informacije u izvješću o solventnosti i financijskom stanju kada:
+
+1. bi objavljivanjem tih informacija konkurentska društva dobila značajnu neopravdanu prednost
+
+2. postoje obveze prema ugovarateljima osiguranja ili drugi odnosi s drugim ugovornim stranama koji obvezuju društvo za osiguranje na čuvanje poslovne tajne ili povjerljivosti.
+
+(2) Društvo za osiguranje u izvješću o solventnosti i financijskom stanju navodi neobjavljivanje informacija u skladu sa stavkom 1. ovoga članka te razloge neobjavljivanja informacija.
+
+(3) Odredbe stavaka 1. i 2. ovoga članaka ne primjenjuju se na informacije iz članka 168. stavka 2. točke 5. ovoga Zakona.
+
+(4) Agencija će društvu za osiguranje dopustiti korištenje javno objavljenih informacija ili pozivanje na javno objavljene informacije koje su objavljene u okviru drugih pravnih ili regulatornih zahtjeva pod uvjetom da su te informacije po svojoj prirodi i opsegu istovjetne s informacijama koje se zahtijevaju u članku 168. ovoga Zakona.
+
+*Promjene i dodatne dobrovoljne informacije*
+
+##### Članak 170.
+
+(1) U slučaju bilo kakve veće promjene koja značajno utječe na relevantnost informacija objavljenih u skladu s odredbama članaka 168. i 169. ovoga Zakona, društvo za osiguranje objavljuje odgovarajuće informacije o prirodi i učincima navedene promjene.
+
+(2) U smislu odredbe iz stavka 1. ovoga članka većim promjenama smatra se najmanje sljedeće:
+
+1. ako se utvrdi postojanje neusklađenosti s minimalnim potrebnim kapitalom i ako Agencija smatra da društvo za osiguranje neće moći dostaviti realan kratkoročni financijski plan ili ako Agencija ne zaprimi takav plan u roku od mjesec dana od dana kad je utvrđeno postojanje neusklađenosti
+
+2. ako se utvrdi postojanje značajne neusklađenosti s potrebnim solventnim kapitalom i ako Agencija ne primi realan plan oporavka u roku od dva mjeseca od dana kad je utvrđeno postojanje neusklađenosti.
+
+(3) Agencija zahtijeva od društva za osiguranje da u slučaju neusklađenosti:
+
+1. iz stavka 2. ovoga članka odmah objavi iznos neusklađenosti, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja
+
+2. s minimalnim potrebnim kapitalom iz stavka 2. točke 1. ovoga članka, usprkos tome što se kratkoročni financijski plan u početku smatrao realnim, neusklađenost nije riješena tri mjeseca nakon što je utvrđeno njezino postojanje, tu neusklađenost objavi na kraju tog razdoblja, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja, kao i daljnje planirane mjere za poboljšanje stanja
+
+3. s potrebnim solventnim kapitalom iz stavka 2. točke 2. ovoga članka, usprkos tome što se plan oporavka u početku smatrao realnim, značajna neusklađenost nije riješena šest mjeseci nakon što je utvrđeno njezino postojanje, tu neusklađenost objavi na kraju tog razdoblja, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja, kao i daljnje planirane mjere za poboljšanje stanja.
+
+(4) Društvo za osiguranje može dobrovoljno objaviti bilo koju informaciju ili objašnjenje o svojoj solventnosti i financijskom stanju, čija objava nije obvezna prema stavcima 1. – 3. ovoga članka i člancima 168. i 169. ovoga Zakona.
+
+*Odgovarajući sustav u svrhu javne objave*
+
+##### Članak 171.
+
+(1) Društvo za osiguranje dužno je uspostaviti odgovarajuće sustave i strukture u svrhu ispunjavanja zahtjeva iz članaka 168. i 169. te članka 170. stavaka 1. – 3. ovoga Zakona, kao i pisana pravila koja osiguravaju kontinuiranu prikladnost svih informacija koje se objavljuju u skladu s odredbama članaka 168. – 170. ovoga Zakona.
+
+(2) Izvješće o solventnosti i financijskom stanju podliježe odobrenju uprave uz suglasnost nadzornog odbora društva za osiguranje i objavljuje se nakon tog odobrenja.
+
+## GLAVA XII. — TEHNIČKE PRIČUVE PREMA RAČUNOVODSTVENIM PROPISIMA, IMOVINA ZA POKRIĆE TEHNIČKIH PRIČUVA PREMA RAČUNOVODSTVENIM PROPISIMA I OVLAŠTENI AKTUAR
+
+## POGLAVLJE I. — TEHNIČKE PRIČUVE PREMA RAČUNOVODSTVENIM PROPISIMA
+
+*Pojam*
+
+##### Članak 172.
+
+Tehničke pričuve prema računovodstvenim propisima predstavljaju tehničke pričuve oblikovane za potrebe financijskog izvještavanja u skladu s ovim Zakonom i drugim propisima.
+
+*Opće odredbe*
+
+##### Članak 173.
+
+(1) Društvo za osiguranje mora u vezi sa svim poslovima osiguranja, odnosno poslovima reosiguranja koje obavlja oblikovati odgovarajuće tehničke pričuve prema računovodstvenim propisima namijenjene pokriću obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju i eventualnih gubitaka zbog rizika koji proizlaze iz poslova osiguranja, odnosno poslova reosiguranja koje obavlja.
+
+(2) Društvo za osiguranje dužno je oblikovati sljedeće vrste tehničkih pričuva prema računovodstvenim propisima u skladu s poslovima osiguranja, odnosno poslovima reosiguranja koje obavlja:
+
+1. pričuve za prijenosne premije
+
+2. pričuve za bonuse i popuste
+
+3. pričuve šteta
+
+4. matematičke pričuve
+
+5. posebne pričuve
+
+6. pričuve za kolebanje šteta
+
+7. druge tehničke pričuve prema računovodstvenim propisima.
+
+(3) Društvo za osiguranje dužno je oblikovati tehničke pričuve za kolebanje šteta ako obavlja poslove osiguranja iz članka 7. stavka 2. točke 14. ovoga Zakona.
+
+(4) Matematičke pričuve osiguranja dužno je oblikovati društvo za osiguranje koje obavlja poslove životnih osiguranja, odnosno osiguranja kod kojih se kumuliraju sredstva štednje ili sredstva za pokriće rizika u kasnijim godinama osiguranja s višegodišnjim trajanjem za koja se primjenjuju tablice vjerojatnosti i izračuni kao i za životna osiguranja.
+
+(5) Društvo za osiguranje koje obavlja poslove životnih osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja dužno je oblikovati i posebne pričuve za pokriće obveza iz ugovora o osiguranju kod kojih ugovaratelj osiguranja snosi rizik ulaganja koje su direktno vezane za vrijednost ulaganja.
+
+(6) Agencija će pravilnikom propisati mjerila i način obračuna tehničkih pričuva prema računovodstvenim propisima.
+
+*Pričuve za prijenosne premije*
+
+##### Članak 174.
+
+Pričuva za prijenosne premije kod pojedinog ugovora o osiguranju oblikuje se u visini onog dijela obračunate premije koji se odnosi na osigurateljno pokriće za razdoblje osiguranja nakon obračunskog razdoblja za koje se izračunava pričuva.
+
+*Pričuve za bonuse i popuste*
+
+##### Članak 175.
+
+Pričuve za bonuse i popuste oblikuju se u visini iznosa na čiju isplatu imaju pravo osiguranici, ugovaratelji, odnosno korisnici osiguranja s osnove prava na:
+
+1. sudjelovanje u dobiti iz njihovih osiguranja, odnosno drugih prava na temelju ugovora o osiguranju (bonusi), osim ako se za ta osiguranja oblikuje matematička pričuva
+
+2. buduće djelomično sniženje premije (popusti)
+
+3. povrat dijela premije za nepotrošeno vrijeme osiguranja zbog prijevremenog prestanka osiguranja (storno).
+
+*Pričuve šteta*
+
+##### Članak 176.
+
+(1) Pričuve šteta oblikuju se u visini procijenjenih obveza koje je društvo za osiguranje dužno isplatiti na temelju onih ugovora o osiguranju kod kojih je osigurani slučaj nastupio prije kraja obračunskog razdoblja, uključujući sve troškove koji na temelju tih ugovora terete društvo za osiguranje.
+
+(2) Pričuve šteta moraju, osim procijenjenih obveza za nastale prijavljene ali još neriješene štete, obuhvaćati i procijenjene obveze za već nastale ali još neprijavljene štete.
+
+*Matematičke pričuve*
+
+##### Članak 177.
+
+(1) Matematičke pričuve oblikuju se u visini sadašnje vrijednosti procijenjenih budućih obveza društva za osiguranje na temelju sklopljenih ugovora o osiguranju umanjenu za sadašnju procijenjenu vrijednost budućih premija koje će biti uplaćene na temelju ovih ugovora o osiguranju.
+
+(2) Matematičke pričuve izračunavaju se primjenom odgovarajućeg aktuarskog vrednovanja koje uzima u obzir sve buduće obveze društva za osiguranje na temelju pojedinog ugovora o osiguranju, uključujući:
+
+1. zajamčene isplate
+
+2. bonuse bez obzira na to u kojem su obliku izraženi
+
+3. druga prava na temelju ugovora o osiguranju
+
+4. troškove, uključujući provizije.
+
+(3) Pri izboru metode aktuarskog vrednovanja društvo za osiguranje mora na odgovarajući način uzimati u obzir i metode vrednovanja imovine namijenjene za pokriće matematičke pričuve.
+
+(4) Društvo za osiguranje mora izračunavati matematičku pričuvu posebno za svaki ugovor o osiguranju. Primjena odgovarajućih približnih vrijednosti, odnosno poopćavanja dopuštena je samo ako je vjerojatno da će njihova primjena dovesti do približno jednakog rezultata kao pojedinačni izračun.
+
+(5) Kada ugovaratelj ima na temelju ugovora o osiguranju pravo na isplatu otkupne vrijednosti, matematička pričuva oblikovana u vezi s tim ugovorom ne smije biti manja od otkupne vrijednosti.
+
+(6) Ako ugovor o životnom osiguranju kod kojeg ugovaratelj osiguranja snosi rizik ulaganja jamči određeni prinos na ulaganja ili druge isplate ugovaratelju osiguranja ili korisniku osiguranja, društvo za osiguranje dužno je oblikovati i matematičku pričuvu za pokriće zajamčenih isplata u vezi s ovim ugovorima.
+
+*Pričuve za kolebanje šteta*
+
+##### Članak 178.
+
+(1) Pričuve za kolebanje šteta namijenjene su izravnanju neravnomjernog nastajanja štetnih događaja.
+
+(2) Društvo za osiguranje može oblikovati pričuve za kolebanje šteta u onim vrstama osiguranja za koje se na temelju statističkih podataka mogu očekivati značajnija odstupanja godišnjeg iznosa šteta.
+
+(3) Pričuve za kolebanje šteta oblikuju se na temelju odstupanja kvote šteta obračunskog razdoblja od prosječne kvote šteta u promatranom razdoblju.
+
+*Druge tehničke pričuve prema računovodstvenim propisima*
+
+##### Članak 179.
+
+Druge tehničke pričuve prema računovodstvenim propisima oblikuje društvo za osiguranje s obzirom na predviđene obveze i rizike od velikih šteta koji proizlaze iz ugovora o osiguranju, odnosno ugovora o reosiguranju od odgovornosti za nuklearne štete ili odgovornosti proizvođača za farmaceutske proizvode, potresa, poplave te druge obveze i rizike za koje ne oblikuje pojedine pričuve iz članka 173. stavka 2. točaka 1. – 6. ovoga Zakona.
+
+## POGLAVLJE II. — IMOVINA ZA POKRIĆE TEHNIČKIH PRIČUVA prema računovodstvenim propisima
+
+### ODJELJAK 1. — OPĆE ODREDBE
+
+*Imovina za pokriće tehničkih pričuva prema računovodstvenim propisima*
+
+##### Članak 180.
+
+(1) Imovina za pokriće tehničkih pričuva prema računovodstvenim propisima je imovina društva za osiguranje namijenjena pokriću obveza iz osiguranja koje sklapa društvo za osiguranje te eventualnih gubitaka zbog rizika koji proizlaze iz poslova osiguranja koje obavlja društvo za osiguranje te s obzirom na koje je društvo za osiguranje dužno oblikovati tehničke pričuve prema računovodstvenim propisima.
+
+(2) Imovina za pokriće matematičke pričuve je imovina koja je namijenjena pokriću obveza iz ugovora o životnom osiguranju i ostalih ugovora o osiguranju za koja se primjenjuju slične tablice vjerojatnosti i izračuni kao i za životna osiguranja za koje je društvo za osiguranje dužno oblikovati matematičke pričuve.
+
+(3) Vrijednost imovine za pokriće matematičke pričuve mora u svakom trenutku biti najmanje jednaka visini tehničkih pričuva prema računovodstvenim propisima namijenjenih pokriću obveza iz ugovora o životnom osiguranju i ostalih ugovora o osiguranju za koja se primjenjuju slične tablice vjerojatnosti i izračuni kao i za životna osiguranja za koje je društvo za osiguranje dužno oblikovati matematičke pričuve.
+
+(4) Vrijednost imovine za pokriće tehničkih pričuva prema računovodstvenim propisima osim matematičke pričuve koja je namijenjena pokriću obveza iz ugovora o osiguranju za koje je društvo za osiguranje dužno oblikovati tehničke pričuve prema računovodstvenim propisima osim matematičke pričuve mora u svakom trenutku biti najmanje jednaka visini tih tehničkih pričuva.
+
+(5) Vrijednost imovine iz stavaka 3. i 4. ovoga članka utvrđuje se u skladu s računovodstvenim propisima.
+
+(6) Ako imovina za pokriće tehničkih pričuva prema računovodstvenim propisima koja je upisana u registar iz članka 181. ovoga Zakona podliježe stvarnom pravu u korist vjerovnika ili treće osobe i dio vrijednosti te imovine nije dostupan u svrhu pokrivanja obveza, društvo za osiguranje dužno je navesti tu činjenicu u registru, a iznos imovine koji nije raspoloživ ne može se uključiti u ukupnu vrijednost za pokriće tehničkih pričuva.
+
+(7) Na imovini za pokriće tehničkih pričuva prema računovodstvenim propisima nije dopuštena ovrha, osim ako se radi o ovrsi radi naplate tražbine osiguranika iz ugovora o osiguranju u vezi s kojim je oblikovana ta imovina ili o ovrsi u korist vjerovnika ili treće osobe koja na toj imovini ima stvarno pravo.
+
+(8) Ovrha nad imovinom za pokriće matematičke pričuve ograničena je na onaj dio imovine za pokriće matematičke pričuve:
+
+1. čija je vrijednost u jednakom omjeru s tehničkim pričuvama prema računovodstvenim propisima koje se odnose na pokriće obveza za koja je društvo za osiguranje dužno oblikovati matematičke pričuve iz ugovora o osiguranju iz kojeg proizlazi tražbina, kao što je omjer između cjelokupne vrijednosti imovine za pokriće matematičke pričuve i tehničkih pričuva prema računovodstvenim propisima namijenjenih pokriću svih obveza društva za osiguranje za koje je dužno oblikovati matematičke pričuve i
+
+2. čija vrijednost nije veća od tehničkih pričuva prema računovodstvenim propisima koje se odnose na pokriće obveza za koja je društvo za osiguranje dužno oblikovati matematičke pričuve iz ugovora o osiguranju iz kojeg proizlazi tražbina.
+
+*Registar imovine za pokriće tehničkih pričuva prema računovodstvenim propisima*
+
+##### Članak 181.
+
+(1) Društvo za osiguranje dužno je voditi poseban registar imovine za pokriće tehničkih pričuva prema računovodstvenim propisima.
+
+(2) Društvo za osiguranje dužno je u skladu s poslovima osiguranja koje obavlja voditi odvojene registre imovine za pokriće matematičke pričuve iz članka 180. stavka 3. ovoga Zakona i imovine za pokriće tehničkih pričuva osim matematičke pričuve iz članka 180. stavka 4. ovoga Zakona.
+
+(3) Agencija će pravilnikom detaljnije propisati sadržaj registra imovine te opseg, način i rokove izvještavanja.
+
+### ODJELJAK 2. — POSEBNE ODREDBE KOJE SE ODNOSE NA IMOVINU ZA POKRIĆE MATEMATIČKE PRIČUVE
+
+*Odvajanje imovine za pokriće matematičke pričuve od imovine društva za osiguranje*
+
+##### Članak 182.
+
+Društvo za osiguranje dužno je imovinu za pokriće matematičke pričuve iz članka 180. stavka 3. ovoga Zakona odvojiti od svoje imovine na način koji je, s obzirom na vrstu te imovine, propisan u člancima 183. – 185. ovoga Zakona.
+
+*Račun imovine za pokriće matematičke pričuve*
+
+##### Članak 183.
+
+Društvo za osiguranje dužno je kod kreditne institucije ovlaštene za obavljanje platnog prometa otvoriti račun preko kojeg će isključivo primati uplate i obavljati isplate iz poslova u svezi s imovinom za pokriće matematičke pričuve, a nad sredstvima koja se drže na tom računu ne može se provesti ovrha ili osiguranje niti ta sredstva ulaze u imovinu, odnosno stečajnu ili likvidacijsku masu te kreditne institucije, kao ni stečajnu ili likvidacijsku masu društva za osiguranje.
+
+*Odvajanje ulaganja u vrijednosne papire*
+
+##### Članak 184.
+
+(1) Društvo za osiguranje dužno je osigurati da središnje klirinško depozitarno društvo otvori zaseban račun vrijednosnih papira na kojem se vode podaci o vrijednosnim papirima koji su sastavni dio imovine za pokriće matematičke pričuve.
+
+(2) Društvo za osiguranje može povjeriti financijske instrumente na pohranu i administriranje kreditnoj instituciji koja ima odobrenje za obavljanje poslova pohrane i administriranja financijskih instrumenata u skladu s propisima kojima se uređuje tržište kapitala, pri čemu je dužno osigurati da se imovina za pokriće matematičke pričuve evidentira na posebnom skrbničkom računu.
+
+(3) Društvo za osiguranje dužno je vrijednosne papire kojima se ne trguje na uređenom tržištu, a koji su izdani u materijaliziranom obliku, povjeriti na pohranu i administriranje kreditnoj instituciji koja ima odobrenje za obavljanje poslova pohrane i administriranja financijskih instrumenata u skladu s propisima kojima se uređuje tržište kapitala.
+
+(4) Kreditna institucija iz stavaka 2. i 3. ovoga članka dužna je Agenciji, na zahtjev, dostaviti podatke o financijskim instrumentima koji su joj povjereni na pohranu i administriranje.
+
+*Ulaganja imovine za pokriće matematičke pričuve u depozite i zajmove*
+
+##### Članak 185.
+
+(1) Društvo za osiguranje dužno je u svezi s ulaganjem imovine za pokriće matematičke pričuve u depozite kod kreditne institucije, odnosno u zajmove dane zajmoprimcu sklopiti ugovor s kreditnom institucijom odnosno zajmoprimcem iz kojeg mora biti vidljivo da se navedeni ugovor odnosi na imovinu za pokriće matematičke pričuve.
+
+(2) Kada je zajam iz stavka 1. ovoga članka osiguran garancijom kreditne institucije, odnosno vrijednosnim papirima, odnosno na neki drugi način, društvo za osiguranje dužno je osigurati uknjižbu predmeta osiguranja u korist imovine za pokriće matematičke pričuve.
+
+## POGLAVLJE III. — OVLAŠTENI AKTUAR
+
+*Ovlašteni aktuar*
+
+##### Članak 186.
+
+(1) Ovlašteni aktuar je osoba koja ima ovlaštenje Agencije za obavljanje poslova ovlaštenog aktuara. Iznimno, osoba koja ima ovlaštenje za obavljanje poslova ovlaštenog aktuara izdano od strane ministra financija smatra se da ima ovlaštenje za obavljanje poslova ovlaštenog aktuara izdano u skladu s ovim Zakonom.
+
+(2) Agencija će izdati ovlaštenje za obavljanje poslova ovlaštenog aktuara ako osoba ispunjava sljedeće uvjete:
+
+1. znanje hrvatskog jezika
+
+2. stručnosti, odnosno da je uspješno obavila provjeru stručnih znanja potrebnih za obavljanje poslova ovlaštenog aktuara u skladu s programom izobrazbe međunarodnih, odnosno europskih aktuarskih udruga
+
+3. primjerenosti, odnosno ima dobar ugled, poslovnu sposobnost i najmanje tri godine radnog iskustva u obavljanju aktuarskih poslova
+
+4. da nije pravomoćno osuđena za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.) iz:
+
+– glave XXIII. – kaznena djela protiv imovine (osim za kazneno djelo neovlaštene uporabe tuđe pokretne stvari i kazneno djelo oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glave XXIV. – kaznena djela protiv gospodarstva
+
+– glave XXVI. – kaznena djela krivotvorenja
+
+– kaznena djela iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XVII. – kaznena djela protiv imovine (osim za kazneno djelo oduzimanja tuđe pokretne stvari i kazneno djelo uništenja i oštećenja tuđe stvari) kod kojih se kazneni postupak pokreće po službenoj dužnosti
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja
+
+– glava XXIII. – kaznena djela protiv vjerodostojnosti isprava
+
+5. nije pravomoćno osuđena za kaznena djela iz zakona drugih država članica i trećih država koja po svom opisu odgovaraju kaznenim djelima iz točke 4. ovoga stavka
+
+6. da joj dosad nije bilo oduzeto ovlaštenje za obavljanje poslova ovlaštenog aktuara.
+
+(3) Agencija može s nadležnim nadzornim tijelom druge države članice sklopiti sporazum o uzajamnom priznavanju ovlaštenja za obavljanje poslova ovlaštenog aktuara.
+
+(4) Agencija propisuje uvjete za stjecanje i provjeru stručnih znanja potrebnih za obavljanje poslova ovlaštenog aktuara.
+
+(5) Agencija će ukinuti ili poništiti rješenje kojim je izdala ovlaštenje za obavljanje poslova ovlaštenog aktuara ako:
+
+1. je ovlaštenje dobiveno navođenjem neistinitih podataka
+
+2. ovlašteni aktuar teže krši pravila aktuarske struke
+
+3. ne ispunjava uvjete iz stavka 2. točaka 3. – 5. ovoga članka.
+
+(6) O ukidanju ili poništenju rješenja o ovlaštenju za obavljanje poslova ovlaštenog aktuara Agencija je dužna obavijestiti društvo za osiguranje za koje osoba kojoj je oduzeto ovlaštenje obavlja poslove imenovanog ovlaštenog aktuara.
+
+(7) Iznimno od stavka 5. ovoga članka, ovlaštenom aktuaru koji teže krši pravila aktuarske struke Agencija može privremeno zabraniti obavljanje poslova ovlaštenog aktuara na vrijeme od godinu dana do tri godine.
+
+*Imenovanje ovlaštenog aktuara*
+
+##### Članak 187.
+
+(1) Društvo za osiguranje prije početka obavljanja poslova osiguranja, odnosno poslova reosiguranja mora imenovati ovlaštenog aktuara i omogućiti mu obavljanje poslova iz članka 188. ovoga Zakona.
+
+(2) Imenovani ovlašteni aktuar ne može biti osoba koja u društvu za osiguranje obnaša funkciju člana uprave društva, člana upravnog odbora, odnosno izvršnog direktora ili prokurista, odnosno koja posredno ili neposredno ima udjel u društvu za osiguranje veći od 1 ‰.
+
+(3) Društvo za osiguranje o imenovanju ovlaštenog aktuara dužno je u roku od osam dana obavijestiti Agenciju.
+
+(4) Ako društvo za osiguranje u roku od dva mjeseca ne odredi imenovanog ovlaštenog aktuara, odnosno za obavljanje poslova imenovanog ovlaštenog aktuara odredi osobu koja nije ovlašteni aktuar, imenovanog ovlaštenog aktuara odredit će Agencija.
+
+*Poslovi imenovanog ovlaštenog aktuara*
+
+##### Članak 188.
+
+(1) Imenovani ovlašteni aktuar dužan je pri utvrđivanju ispravnosti obračuna tehničkih pričuva prema računovodstvenim propisima:
+
+1. provjeriti čuva li društvo za osiguranje odgovarajuće podatke za izračun tehničkih pričuva prema računovodstvenim propisima, kao i njihovu vjerodostojnost
+
+2. provjeriti jesu li metode i temelji obračuna tehničkih pričuva prema računovodstvenim propisima u skladu s pravilima aktuarske struke i važećim propisima
+
+3. provjeriti oblikuju li se tehničke pričuve prema računovodstvenim propisima tako da omogućuju trajno ispunjavanje svih obveza društva za osiguranje iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+(2) Imenovani ovlašteni aktuar dužan je provjeravati oblikuju li se premije u skladu s aktuarskom strukom važećim propisima te jesu li ugovorene premije takve da omogućuju trajno ispunjavanje svih obveza društva za osiguranje iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+(3) Uprava mora imenovanom ovlaštenom aktuaru osigurati uvjete za učinkovito obavljanje poslova te staviti na raspolaganje sve podatke koji su mu potrebni za obavljanje poslova iz stavaka 1. i 2. ovoga članka.
+
+(4) Imenovani ovlašteni aktuar mora nadzornom odboru i upravi istodobno s mišljenjem uz godišnje izvješće iz članka 193. ovoga Zakona predočiti izvješće o saznanjima imenovanog ovlaštenog aktuara glede nadzora koji je u protekloj poslovnoj godini obavljao na temelju stavaka 1. i 2. ovoga članka. Izvješće mora obuhvaćati prije svega razloge za pozitivno mišljenje, mišljenje uz ograde, odnosno negativno mišljenje imenovanog ovlaštenog aktuara uz godišnje izvješće.
+
+(5) Ako imenovani ovlašteni aktuar u obavljanju poslova iz stavaka 1. i 2. ovoga članka utvrdi nepravilnosti, dužan je bez odgađanja o tome izvijestiti upravu društva za osiguranje.
+
+(6) Uprava društva za osiguranje dužna je poduzeti mjere radi usklađivanja poslovanja u skladu s izvješćem imenovanoga ovlaštenog aktuara.
+
+(7) Ako uprava društva za osiguranje ne poduzme mjere u skladu s izvješćem iz stavka 4. ovoga članka, imenovani ovlašteni aktuar dužan je o tome bez odgađanja, a najkasnije u roku od 30 dana od pisane preporuke upravi društva za osiguranje obavijestiti Agenciju.
+
+(8) Ako imenovani ovlašteni aktuar prestane obavljati tu funkciju u društvu za osiguranje, dužan je o tome obavijestiti Agenciju u roku od osam dana od dana saznanja.
+
+*Razrješenje imenovanog ovlaštenog aktuara*
+
+##### Članak 189.
+
+(1) Ako nakon imenovanja ovlaštenog aktuara Agencija imenovanoj osobi oduzme ovlaštenje za obavljanje poslova ovlaštenog aktuara, odnosno ako nastupe okolnosti iz članka 187. stavka 2. ovoga Zakona ili druge okolnosti zbog kojih društvo za osiguranje nema imenovanog ovlaštenog aktuara, društvo za osiguranje je dužno odrediti drugog imenovanog ovlaštenog aktuara u roku od 30 dana od izvršnosti rješenja kojim se imenovanoj osobi oduzelo ovlaštenje za obavljanje poslova ovlaštenog aktuara, odnosno od trenutka saznanja društva za osiguranje za nastup okolnosti iz članka 187. ovoga Zakona, odnosno od trenutka saznanja društva za osiguranje o drugim okolnostima zbog kojih društvo za osiguranje nema imenovanog ovlaštenog aktuara.
+
+(2) Ako društvo za osiguranje u slučaju iz stavka 1. ovoga članka ne odredi drugog imenovanog ovlaštenog aktuara, Agencija će odrediti otklanjanje nezakonitosti i nepravilnosti u roku koji ne smije biti kraći od 30 dana.
+
+(3) Ako društvo za osiguranje u slučaju iz stavka 2. ovoga članka ne odredi drugog imenovanoga ovlaštenog aktuara, imenovanoga ovlaštenog aktuara odredit će Agencija.
+
+(4) Društvo za osiguranje o razrješenju imenovanog ovlaštenog aktuara dužno je u roku od osam dana od dana razrješenja obavijestiti Agenciju.
+
+## GLAVA XIII. — FINANCIJSKI IZVJEŠTAJI, REVIZIJA I IZVJEŠTAVANJE AGENCIJE
+
+## POGLAVLJE I. — POSLOVNE KNJIGE I FINANCIJSKI IZVJEŠTAJI
+
+*Primjena drugih propisa i standarda*
+
+##### Članak 190.
+
+(1) Društvo za osiguranje dužno je voditi poslovne knjige, ostalu poslovnu dokumentaciju i evidencije, vrednovati imovinu i obveze te sastavljati i objavljivati godišnje financijske izvještaje i godišnje izvješće u skladu sa Zakonom o trgovačkim društvima, Zakonom o računovodstvu, ovim Zakonom te drugim važećim propisima i standardima struke.
+
+(2) Društvo za osiguranje dužno je poslovne knjige i ostalu poslovnu dokumentaciju i evidencije voditi na način koji omogućuje, u bilo koje vrijeme, provjeru posluje li društvo za osiguranje u skladu s važećim propisima i standardima struke.
+
+*Propisi o izvještajima*
+
+##### Članak 191.
+
+Agencija će pravilnikom detaljnije propisati:
+
+1. oblik i sadržaj financijskih i drugih izvještaja društva za osiguranje za potrebe Agencije te način i rokove dostavljanja tih izvještaja Agenciji
+
+2. oblik i sadržaj godišnjeg izvješća i konsolidiranog godišnjeg izvješća te rokove njihova javnog objavljivanja i dostavljanja Agenciji.
+
+*Dostavljanje izvještaja Agenciji i njihovo objavljivanje*
+
+##### Članak 192.
+
+(1) Društvo za osiguranje dužno je Agenciji u roku od 15 dana od dana primitka revizorskog izvješća, a najkasnije u roku od četiri mjeseca od isteka poslovne godine na koju se odnose godišnji financijski izvještaji dostaviti sljedeća izvješća:
+
+1. revizorsko izvješće o obavljenoj reviziji godišnjih financijskih izvještaja iz članka 194. ovoga Zakona, uključujući i te financijske izvještaje, i
+
+2. godišnje izvješće i konsolidirano godišnje izvješće u skladu s propisima kojima se uređuje sadržaj tih izvješća.
+
+(2) Poslovna godina u smislu stavka 1. ovoga članka jednaka je kalendarskoj godini.
+
+(3) Društvo za osiguranje dužno je svoje revidirane nekonsolidirane godišnje financijske izvještaje zajedno sa svojim godišnjim izvješćem objaviti na svojim mrežnim stranicama i učiniti dostupnim najkasnije u roku od pet mjeseci od isteka poslovne godine na koju se oni odnose.
+
+(4) Matično društvo za osiguranje dužno je objaviti svoje revidirane konsolidirane godišnje financijske izvještaje i konsolidirano godišnje izvješće za grupu određenu prema Zakonu o računovodstvu na način i u roku iz stavka 3. ovoga članka.
+
+(5) Podružnica društva za osiguranje iz druge države članice, odnosno podružnica društva za osiguranje iz treće države dužna je na svojim mrežnim stranicama objaviti na hrvatskom jeziku revidirane godišnje financijske izvještaje i revidirane konsolidirane godišnje financijske izvještaje svojeg osnivača te godišnje izvješće svojeg osnivača, uključujući revizorsko izvješće, najkasnije u roku od 15 dana od dana isteka roka za objavu tih izvještaja u državi sjedišta osnivača podružnice.
+
+(6) Izvještaji iz stavka 5. ovoga članka sastavljaju se i revidiraju u skladu s propisima države sjedišta osnivača podružnice.
+
+(7) Društvo za osiguranje, matično društvo za osiguranje, podružnica društva za osiguranje iz druge države članice te podružnica društva za osiguranje iz treće države dužno je na svojim mrežnim stranicama imati objavljene godišnje financijske izvještaje iz stavaka 3. – 5. ovoga članka najmanje za posljednjih pet poslovnih godina ili kraće ako društvo za osiguranje, matično društvo za osiguranje, podružnica društva za osiguranje iz druge države članice te podružnica društva za osiguranje iz treće države posluje kraće od pet godina.
+
+*Mišljenje imenovanog ovlaštenog aktuara uz godišnje izvješće*
+
+##### Članak 193.
+
+Društvo za osiguranje dužno je u roku iz članka 192. stavka 1. ovoga Zakona dostaviti Agenciji i izvješće imenovanog ovlaštenog aktuara iz članka 188. stavka 4. ovoga Zakona s mišljenjem imenovanog ovlaštenog aktuara o oblikovanju i dostatnosti premija i tehničkih pričuva prema računovodstvenim propisima u skladu s odredbama ovoga Zakona, odnosno na temelju njega donesenih propisa.
+
+## POGLAVLJE II. — VANJSKA REVIZIJA
+
+*Obveza obavljanja revizije*
+
+##### Članak 194.
+
+(1) Godišnji financijski izvještaji društva za osiguranje, konsolidirani godišnji financijski izvještaji grupe osiguratelja u Republici Hrvatskoj, konsolidirani financijski izvještaji osigurateljnog holdinga, mješovitog osigurateljnog holdinga i konsolidirani godišnji financijski izvještaji cijele grupe ako su članovi grupe i nefinancijske institucije moraju se revidirati za svaku poslovnu godinu.
+
+(2) Revizija iz stavka 1. ovoga članka provodi se u skladu sa zakonima kojima se uređuju računovodstvo i revizija, ako ovim Zakonom i propisima donesenima na temelju njega nije drukčije određeno.
+
+*Imenovanje revizorskog društva*
+
+##### Članak 195.
+
+(1) Glavna skupština društva za osiguranje imenuje revizorsko društvo koje će obaviti reviziju financijskih izvještaja za poslovnu godinu na koju se revizija odnosi najkasnije do 30. rujna te poslovne godine.
+
+(2) Odluku o imenovanju revizorskog društva uprava društva za osiguranje dužna je dostaviti Agenciji u roku od osam dana od dana donošenja odluke.
+
+(3) Revizorsko društvo dužno je za svako društvo za osiguranje koje mu je povjerilo obavljanje revizije do 31. listopada tekuće godine dostaviti Agenciji plan obavljanja revizije za tu poslovnu godinu, iz kojeg se vide područja poslovanja koja će biti predmet revizije, opis sadržaja planirane revizije po pojedinim područjima i predviđeno trajanje revizije.
+
+*Ograničenje obavljanja revizije*
+
+##### Članak 196.
+
+(1) Isto revizorsko društvo može obavljati reviziju financijskih izvještaja određenog društva za osiguranje najviše za sedam uzastopnih godina.
+
+(2) Reviziju financijskih izvještaja društva za osiguranje obavljaju dvije ili više fizičkih osoba koje su radnici revizorskog društva ovlašteni za obavljanje revizije (u daljnjem tekstu: ovlašteni revizori).
+
+(3) Isto revizorsko društvo ne može preuzeti niti mu društvo za osiguranje može povjeriti obavljanje revizije svojih financijskih izvještaja ako je to revizorsko društvo u prethodnoj godini više od polovine svojih ukupnih prihoda ostvarilo obavljanjem revizije financijskih izvještaja tog društva za osiguranje ili grupe osiguratelja kojoj to društvo za osiguranje pripada.
+
+(4) Reviziju financijskih izvještaja i reviziju za potrebe Agencije mora obavljati isto revizorsko društvo, osim ako ovim Zakonom ili na temelju njega donesenim propisima nije određeno drukčije.
+
+*Zaštita neovisnosti revizora*
+
+##### Članak 197.
+
+(1) U slučaju raskida ugovora o obavljanju revizije financijskih izvještaja društvo za osiguranje, odnosno revizorsko društvo dužni su Agenciji pisano obrazložiti razloge za raskid.
+
+(2) Isto revizorsko društvo ne može obavljati reviziju financijskih izvještaja društva za osiguranje ako je u godini za koju su sastavljeni financijski izvještaji istom društvu za osiguranje pružalo usluge iz područja financija, računovodstva, unutarnje revizije, procjenjivanja vrijednosti društva za osiguranje, njegove imovine i obveza, poreznog i ostalog poslovnog savjetovanja te obavljalo za njega poslove sudskog vještačenja.
+
+(3) Zabrana obavljanja usluga revizije iz stavka 2. ovoga članka odnosi se na sva povezana društva društva za osiguranje, kao i revizorskog društva.
+
+*Obveze revizorskog društva*
+
+##### Članak 198.
+
+(1) Revizorsko društvo dužno je nakon obavljene revizije sastaviti pismo preporuka upravi i dostaviti ga upravi društva za osiguranje i Agenciji.
+
+(2) Revizorsko društvo dužno je pisano i bez odgađanja obavijestiti Agenciju o svim činjenicama, odnosno odlukama koje je utvrdilo pri obavljaju revizije, a koje bi mogle dovesti do:
+
+1. težeg kršenja zakona, propisa ili odredbi na temelju kojih je izdano odobrenje za obavljanje poslova osiguranja društvu za osiguranje
+
+2. ugrožavanja daljnjeg poslovanja društva za osiguranje
+
+3. izdavanja revizorskog mišljenja s rezervom, negativnog mišljenja ili suzdržavanja od izražavanja mišljenja na financijske izvještaje
+
+4. neusklađenosti s potrebnim solventnim kapitalom
+
+5. neusklađenosti s minimalnim potrebnim kapitalom.
+
+(3) Revizorsko društvo dužno je pisano obavijestiti Agenciju o svakoj činjenici iz stavka 2. ovoga članka za koju sazna u postupku obavljanja revizije financijskih izvještaja društva koje kontrolira društvo za osiguranje.
+
+(4) Otkrivanje bilo koje činjenice u smislu stavka 2. i 3. ovoga članka od strane revizorskog društva ne smatra se kršenjem propisa i odredaba ugovora između revizorskog društva i društva za osiguranje koje se odnose na ograničenja davanja podataka pa zbog toga neće snositi odgovornost koja bi u drugim slučajevima iz toga proizlazila.
+
+*Odbijanje revizorskog izvješća*
+
+##### Članak 199.
+
+(1) Ako isto revizorsko društvo obavi reviziju financijskih izvještaja društva za osiguranje suprotno članku 196. ili 197. ovoga Zakona, Agencija neće prihvatiti izvješće o reviziji financijskih izvještaja društva za osiguranje za tu godinu.
+
+(2) Ako Agencija utvrdi da revizija financijskih izvještaja nije obavljena ili da revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona, zakona kojim se uređuje revizija i pravilima revizorske struke ili ako obavljenim nadzorom poslovanja društva za osiguranje ili na drugi način utvrdi da revizorsko mišljenje o financijskim izvještajima društva za osiguranje iz članka 194. ovoga Zakona nije zasnovano na istinitim i objektivnim činjenicama, ona može odbiti revizorsko izvješće i zahtijevati od društva za osiguranje da reviziju obave ovlašteni revizori drugog revizorskog društva, a na trošak društva za osiguranje.
+
+(3) Odbijanje revizorskog izvješća o obavljenoj reviziji financijskih izvještaja društva za osiguranje ima za posljedicu odbijanje ocjene iz članka 200. ovoga Zakona.
+
+(4) U slučaju iz stavka 3. ovoga članka Agencija neće sljedeće dvije kalendarske godine prihvaćati revizorsko izvješće o obavljenoj reviziji financijskih izvještaja koje je izdalo isto revizorsko društvo.
+
+(5) Agencija će pravilnikom propisati razloge za odbijanje revizorskog izvješća iz stavka 2. ovoga članka.
+
+*Revizija za potrebe Agencije*
+
+##### Članak 200.
+
+(1) Za potrebe Agencije revizorsko društvo daje ocjenu o:
+
+1. stanju i promjenama tehničkih pričuva prema računovodstvenim propisima
+
+2. stanju i strukturi ulaganja imovine za pokriće tehničkih pričuva prema računovodstvenim propisima
+
+3. pridržavanju pravila o upravljanju rizicima
+
+4. obavljanju poslova ključnih funkcija
+
+5. stanju informacijskog sustava i adekvatnosti upravljanja informacijskim sustavom
+
+6. pravilnosti, točnosti i potpunosti izvješća koja se dostavljaju Agenciji
+
+7. točnosti i potpunosti izvješća o solventnosti i financijskom stanju iz članka 168. ovoga Zakona.
+
+(2) Ocjena iz stavka 1. ovoga članka opisna je i kreće su u rasponu od potpuno zadovoljavajuće do potpuno nezadovoljavajuće (potpuno zadovoljavajuće, zadovoljavajuće, nezadovoljavajuće, potpuno nezadovoljavajuće).
+
+(3) Agencija može od revizorskog društva zatražiti dodatne informacije u vezi s obavljenom revizijom.
+
+(4) Ako Agencija utvrdi da ocjena nije dana u skladu s ovim Zakonom, propisima donesenima na temelju ovoga Zakona, zakonom kojim se uređuje revizija i pravilima revizorske struke ili ako obavljenim nadzorom poslovanja društva za osiguranje ili na drugi način utvrdi da ocjena nije zasnovana na istinitim i objektivnim činjenicama, može:
+
+1. zahtijevati od revizora da svoju ocjenu ispravi, odnosno dopuni ili
+
+2. odbiti ocjenu i zahtijevati od društva za osiguranje da ocjenu daju ovlašteni revizori drugog revizorskog društva, a na trošak društva za osiguranje.
+
+(5) Odbijanje ocjene iz stavka 1. ovoga članka nema za posljedicu odbijanje revizorskog izvješća o obavljenoj reviziji financijskih izvještaja društva za osiguranje za tu godinu ako je revizorsko izvješće o obavljenoj reviziji financijskih izvještaja prihvaćeno od strane Agencije.
+
+(6) Agencija će donijeti pravilnik kojim pobliže uređuje sadržaj revizije za potrebe Agencije, način i rokove dostave, kao i razloge za odbijanje ocjene iz stavka 1. ovoga članka.
+
+## POGLAVLJE III. — IZVJEŠTAVANJE AGENCIJE
+
+*Redovito izvještavanje i izvještavanje na zahtjev Agencije*
+
+##### Članak 201.
+
+(1) Društvo za osiguranje dužno je izvještavati Agenciju o sljedećim činjenicama i okolnostima:
+
+1. o upisu i promjenama podataka koji se upisuju u sudski registar
+
+2. o sazivu glavne skupštine i svim odlukama prihvaćenim na glavnoj skupštini
+
+3. o imateljima dionica društva za osiguranje te o stjecanju, odnosno izmjeni kvalificiranih udjela iz članka 36. ovoga Zakona najmanje jednom godišnje
+
+4. o imenovanju, odnosno razrješenju članova uprave i nadzornog odbora
+
+5. o imenovanju, odnosno razrješenju osoba koje su nositelji ključnih funkcija u društvu za osiguranje
+
+6. o planiranom otvaranju, preseljenju, zatvaranju ili privremenom prestanku rada podružnice ili predstavništva, odnosno promjenama vrste poslova koje obavlja podružnica
+
+7. o ulaganjima na temelju kojih je društvo za osiguranje posredno ili neposredno steklo kvalificirani udjel u drugoj pravnoj osobi, kao i o svakom daljnjem ulaganju u tu pravnu osobu
+
+8. o značajnijim promjenama u strukturi kapitala
+
+9. o prestanku obavljanja određenih poslova osiguranja
+
+10. o rezultatima svake vlastite procjene rizika i solventnosti u sklopu informacija kojima izvješćuju Agenciju na temelju članaka 215. – 217. ovoga Zakona
+
+11. o pritužbama ugovaratelja osiguranja, osiguranika ili korisnika iz ugovora o osiguranju
+
+12. o statističkim podacima iz članka 202. ovoga Zakona.
+
+(2) Društvo za osiguranje koje obavlja poslove životnog osiguranja, odnosno ostalih osiguranja za koja se primjenjuju slične tablice vjerojatnosti i izračuni kao za životna osiguranja za koje je društvo za osiguranje dužno oblikovati matematičku pričuvu dužno je obavještavati Agenciju o tehničkoj podlozi koju upotrebljava pri izračunu cjenika premija i isključivo za namjene provjere jesu li usklađene s aktuarskim načelima.
+
+(3) Uprava društva za osiguranje dužna je bez odgađanja obavijestiti Agenciju o sljedećim događajima:
+
+1. ako je ugrožena likvidnost
+
+2. kad utvrdi da društvo za osiguranje više nije usklađeno s potrebnim solventnim kapitalom, odnosno nije usklađeno s minimalnim potrebnim kapitalom ili kad postoji rizik da se ta neusklađenost pojavi u sljedeća tri mjeseca
+
+3. ako nastupe razlozi za prestanak, odnosno oduzimanje odobrenja za obavljanje poslova osiguranja.
+
+(4) Društvo za osiguranje dužno je na zahtjev Agencije dostaviti izvješća i informacije o svim poslovima bitnim za obavljanje nadležnosti i poslova Agencije na temelju ovoga Zakona, odnosno zakona kojim se uređuje osnivanje i poslovanje Agencije te propisa donesenih na temelju tih zakona.
+
+(5) Društvo za osiguranje dužno je na zahtjev Agencije osim izvješća i informacija iz stavka 4. ovoga članka dostaviti uvjete osiguranja i druge dokumente isključivo u svrhu provjere usklađenosti s odredbama ovoga Zakona i drugih propisa kojima se uređuje ugovor o osiguranju.
+
+(6) Agencija će pravilnikom detaljnije propisati sadržaj izvješća iz stavaka 1. i 2. ovoga članka, kao i način i rokove za izvještavanje, odnosno obavještavanje.
+
+*Statistički podaci osiguranja*
+
+##### Članak 202.
+
+(1) Društvo za osiguranje dužno je voditi i obrađivati statističke podatke o poslovima osiguranja odnosno poslovima reosiguranja, rizicima koje pokrivaju osiguranja, osiguranim slučajevima i štetama.
+
+(2) Statističke standarde za obrađivanje podataka iz stavka 1. ovoga članka pravilnikom propisuje Agencija.
+
+(3) Društvo za osiguranje dužno je obavijestiti Agenciju o statističkim podacima o poslovima osiguranja, rizicima koje pokrivaju osiguranja, iznosu premija, štetama i provizijama, bez umanjenja za reosiguranje, po državama članicama, i to po vrstama neživotnih i životnih osiguranja iz članka 7. ovoga Zakona posebno za prekogranične poslove osiguranja koje obavlja na temelju slobode poslovnog nastana i posebno u skladu sa slobodom pružanja usluga.
+
+(4) Podatke za prekogranične poslove osiguranja koje obavlja na temelju poslovnog nastana i posebno u skladu sa slobodom pružanja usluga iz stavka 3. ovoga članka koji se odnose na neživotna osiguranja društvo za osiguranje dužno je voditi prema podskupinama, i to:
+
+1. osiguranje od nezgode i osiguranje za slučaj bolesti (vrste osiguranja iz članka 7. stavka 2. točaka 1. i 2. ovoga Zakona)
+
+2. osiguranje cestovnih vozila (vrste osiguranja iz članka 7. stavka 2. točaka 3., 7. i 10. ovoga Zakona, podaci za vrstu osiguranja iz članka 7. stavka 2. točke 10. ovoga Zakona, isključujući odgovornost prijevoznika, navode se posebno)
+
+3. osiguranje od požara i druga osiguranja imovine (vrste osiguranja iz članka 7. stavka 2. točaka 8. i 9. ovoga Zakona)
+
+4. osiguranje zrakoplova, pomorsko i transportno osiguranje (vrste osiguranja iz članka 7. stavka 2. točaka 4., 5., 6., 7., 11. i 12. ovoga Zakona)
+
+5. ostala osiguranja od odgovornosti (vrsta osiguranja iz članka 7. stavka 2. točke 13. ovoga Zakona)
+
+6. kreditno osiguranje i osiguranje jamstava (vrste osiguranja iz članka 7. stavka 2. točaka 14. i 15. ovoga Zakona)
+
+7. ostale vrste osiguranja (vrste osiguranja iz članka 7. stavka 2. točaka 16., 17. i 18. ovoga Zakona).
+
+(5) Za osiguranje od odgovornosti za upotrebu motornih vozila iz članka 7. stavka 2. ovoga Zakona, ne uključujući osiguranje koje se odnosi na odgovornost prijevoznika, društvo za osiguranje na zahtjev Agencije obavještava Agenciju o učestalosti i prosječnom iznosu šteta.
+
+## GLAVA XIV. — NADZOR
+
+## POGLAVLJE I. — OPĆE ODREDBE
+
+*Subjekti nadzora*
+
+##### Članak 203.
+
+(1) Agencija provodi nadzor nad subjektima nadzora u skladu sa zakonom kojim se uređuje osnivanje i poslovanje Agencije, ovim Zakonom i drugim propisima kojima se uređuje poslovanje društva za osiguranje.
+
+(2) Na postupke nadzora koje u okviru svoje nadležnosti provodi Agencija primjenjuju se odredbe ove glave, ako nije drukčije propisano.
+
+(3) Na postupke iz stavka 1. ovoga članka primjenjuju se odredbe Zakona o općem upravnom postupku i ovoga Zakona.
+
+(4) Agencija za potrebe nadzora ima pravo uvida u sve podatke i dokumentaciju subjekta nadzora.
+
+(5) Subjekti nadzora Agencije prema odredbama ovoga Zakona su:
+
+1. društva za osiguranje, odnosno društva za reosiguranje sa sjedištem u Republici Hrvatskoj i njihove podružnice u Republici Hrvatskoj i izvan Republike Hrvatske
+
+2. društva za uzajamno osiguranje sa sjedištem u Republici Hrvatskoj i njihove podružnice u Republici Hrvatskoj i izvan Republike Hrvatske
+
+3. društva za zastupanje u osiguranju, društva za posredovanje u osiguranju i reosiguranju, obrti za zastupanje u osiguranju, ovlašteni zastupnici u osiguranju i ovlašteni posrednici u osiguranju i reosiguranju u Republici Hrvatskoj i njihove podružnice u Republici Hrvatskoj i izvan Republike Hrvatske
+
+4. grupa društva za osiguranje, odnosno društva za reosiguranje
+
+5. udruženje (pool) osiguranja, odnosno reosiguranja
+
+6. nacionalni ured za osiguranje
+
+7. imatelji kvalificiranih udjela u društvu za osiguranje i osobe u odnosu uske povezanosti s društvom za osiguranje ili osobe koje za društvo za osiguranje obavljaju izdvojene poslove ili ključne funkcije, a te su osobe dužne na zahtjev Agencije, a za potrebe nadzora, Agenciji dostaviti odgovarajuća izvješća i informacije
+
+8. društva za osiguranje iz trećih država koje na području Republike Hrvatske obavljaju poslove osiguranja preko podružnice
+
+9. ovlašteni aktuar
+
+10. pružatelj usluga koji obavlja izdvojene poslove, odnosno funkciju
+
+11. ostale pravne i fizičke osobe koje u skladu s ovim Zakonom ima pravo nadzirati Agencija.
+
+(6) Subjekti nadzora Agencije su u dijelu obavljanja poslova zastupanja u osiguranju i Financijska agencija, HP-Hrvatska pošta d. d. i investicijska društva koja imaju odobrenje Agencije za obavljanje poslova zastupanja u osiguranju i kreditne institucije koje imaju suglasnost Agencije za obavljanje poslova zastupanja u osiguranju i dozvolu Hrvatske narodne banke za obavljanje poslova zastupanja u osiguranju.
+
+(7) Subjekti nadzora Agencije su i društva za osiguranje i društva za reosiguranje iz drugih država članica kada obavljaju poslove osiguranja putem poslovnog nastana ili putem slobode pružanja usluga na području Republike Hrvatske te pravne i fizičke osobe koje obavljaju poslove zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju, kada obavljaju poslove osiguranja putem poslovnog nastana ili putem slobode pružanja usluga na području Republike Hrvatske.
+
+(8) Nadzor nad poslovanjem društva za osiguranje mogu obavljati i druge institucije i nadzorna tijela u u skladu s ovlaštenjima na temelju zakona u okviru svoga djelokruga poslovanja.
+
+(9) Kada je za nadzor nad subjektima nadzora iz ovoga članka nadležno drugo nadzorno tijelo, odnosno nadležno nadzorno tijelo, Agencija može sudjelovati u nadzoru poslovanja te osobe uz to nadzorno tijelo ili može od tog nadzornog tijela zatražiti da mu pribavi potrebne podatke i informacije u svrhu nadzora društva.
+
+*Nadzor nad poslovanjem društva za osiguranje*
+
+##### Članak 204.
+
+(1) Nadzor se temelji na pristupu koji je prospektivan (okrenut mogućim budućim događajima) i zasnovan na rizicima.
+
+(2) Agencija primjenjuje nadzorne ovlasti pravodobno te proporcionalno u skladu s rizicima kojima je izloženo društvo za osiguranje.
+
+(3) U smislu ovoga Zakona nadzor je kontinuirana provjera posluje li društvo za osiguranje u skladu s ovim Zakonom i drugim propisima, propisima o upravljanju rizicima, kao i u skladu s internim aktima i standardima, pravilima struke te općenito na način koji omogućuje uredno funkcioniranje društva za osiguranje te provođenje mjera i aktivnosti u cilju otklanjanja utvrđenih nezakonitosti i nepravilnosti.
+
+(4) Osnovni ciljevi nadzora su provjera zakonitosti te procjena sigurnosti i stabilnosti poslovanja društva za osiguranje, a radi zaštite interesa osiguranika, ugovaratelja osiguranja, korisnika iz ugovora o osiguranju i javnog interesa te radi doprinosa stabilnosti financijskog sustava i promicanja i očuvanja povjerenja u tržište osiguranja.
+
+(5) Agencija obavlja i nadzor nad osobama koje su u odnosu uske povezanosti s društvom za osiguranje ako je to nužno radi nadzora nad poslovanjem društva za osiguranje.
+
+(6) Agencija i druga nadzorna tijela Republike Hrvatske, koja su odgovorna za superviziju, odnosno nadzor istih ili drugih institucija, dužna su na zahtjev pojedinih nadzornih tijela razmjenjivati sve podatke potrebne za provođenje postupka supervizije, odnosno nadzora nad društvom za osiguranje i drugim institucijama, u postupku izdavanja odobrenja za obavljanje poslova osiguranja ili drugim postupcima.
+
+(7) Agencija i nadležna nadzorna tijela dužna su se međusobno obavještavati o nepravilnostima ili drugim okolnostima koje su utvrdila, ako su takva utvrđenja važna za rad drugih nadležnih nadzornih tijela.
+
+(8) Osim nadzornih mjera, Agencija može subjektima nadzora (pojedinačno i skupinama) davati pisane preporuke radi poboljšanja poslovanja, financijske stabilnosti i položaja ili smanjenja rizika kojima su izloženi ili mogu biti izloženi. Agencija može tražiti dodatna očitovanja u vezi s primjenom, odnosno, propuštanjem primjene preporuke. Agencija može javno objaviti preporuke skupinama subjekata nadzora.
+
+(9) Odredbe o nadzoru nad društvom za osiguranje na odgovarajući se način primjenjuju i na druge subjekte nadzora ako ovim Zakonom nije drukčije određeno.
+
+(10) Agencija je ovlaštena raznim vrstama objava (uputama, smjernicama i sl.) obavještavati određene skupine subjekata nadzora i druge adresate o objašnjenju ili načinu primjene određenih propisa iz njezine nadležnosti ili s njima povezanih općih pravnih akata.
+
+*Nadzor nad obavljanjem poslova osiguranja društva za osiguranje u drugoj državi članici*
+
+##### Članak 205.
+
+(1) Nadzor nad društvom za osiguranje, uključujući i poslovanje koje provodi ili u podružnici ili na temelju slobode pružanja usluga u drugoj državi članici, provodi Agencija u skladu s odredbama ove glave.
+
+(2) Nadzor iz stavka 1. ovoga članka koji se odnosi na poslovanje društva za osiguranje u drugoj državi članici Agencija može provesti u suradnji s nadležnim nadzornim tijelom.
+
+(3) Agencija će bez odgađanja obavijestiti nadležno nadzorno tijelo o mjerama koje je donijela u postupku nadzora društva za osiguranje.
+
+*Nadzor nad poslovanjem podružnice društva za osiguranje u drugoj državi članici*
+
+##### Članak 206.
+
+(1) Neposredni nadzor nad financijskim poslovanjem podružnice društva za osiguranje u drugoj državi članici na području te države članice obavlja Agencija samostalno ili posredstvom osobe koja je u tu svrhu imenovana. Nadležno nadzorno tijelo te države članice može sudjelovati u predmetnom nadzoru.
+
+(2) O svojoj namjeri da obavi neposredni nadzor nad financijskim poslovanjem podružnice društva za osiguranje u drugoj državi članici u skladu sa stavkom 1. ovoga članka Agencija mora prethodno obavijestiti nadležno nadzorno tijelo te države članice.
+
+(3) Kada Agencija obavijesti nadležno nadzorno tijelo države članice u kojoj se nalazi podružnica društva za osiguranje o namjeri da provede neposredni nadzor u skladu sa stavkom 1. ovoga članka, pri čemu bi Agenciji bilo zabranjeno ostvarivanje prava na provedbu tog neposrednog nadzora, ili ako nadležno nadzorno tijelo države članice nije bilo u mogućnosti sudjelovati u predmetnom neposrednom nadzoru, Agencija i nadležno nadzorno tijelo države članice mogu predmet uputiti EIOPA-i i zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010.
+
+*Nadzor nad poslovanjem podružnice društva za osiguranje iz druge države članice*
+
+##### Članak 207.
+
+(1) Neposredni nadzor nad financijskim poslovanjem podružnice društva za osiguranje iz druge države članice na području Republike Hrvatske obavlja nadležno nadzorno tijelo te države članice samostalno ili posredstvom osobe koja je u tu svrhu imenovana. Agencija može sudjelovati u predmetnom nadzoru.
+
+(2) O svojoj namjeri da obavi neposredni nadzor nad financijskim poslovanjem podružnice društva za osiguranje iz druge države članice u skladu sa stavkom 1. ovoga članka nadležno nadzorno tijelo te države članice mora prethodno obavijestiti Agenciju.
+
+*Nadzor nad poslovanjem podružnica društava za osiguranje iz treće države*
+
+##### Članak 208.
+
+(1) Na društva za osiguranje iz trećih država koja na području Republike Hrvatske obavljaju poslove osiguranja preko podružnice primjenjuju se odredbe o nadzoru koje se primjenjuju na društva za osiguranje iz Republike Hrvatske, kao i odredbe propisane za društva za osiguranje u poteškoćama ili u stanju nepravilnosti.
+
+(2) Nadležno nadzorno tijelo iz članka 81. stavka 2. ovoga Zakona u vezi s primjenom članaka 164. – 166. ovoga Zakona, kada društvo za osiguranje iz treće države ima odobrene pogodnosti iz članka 81. ovoga Zakona, ima sve ovlasti kao i nadležno nadzorno tijelo države članice u kojoj društvo za osiguranje iz treće države ima podružnicu.
+
+*Nadzor nad ovlaštenim aktuarima*
+
+##### Članak 209.
+
+Nadzor nad ovlaštenim aktuarima obavlja Agencija te se na isti na odgovarajući način primjenjuju odredbe članka 201. stavka 6. te članaka 203., 204., 221., 235., 237. i 247. ovoga Zakona.
+
+*Nadzor nad obavljanjem izdvojenih poslova ili funkcija*
+
+##### Članak 210.
+
+(1) Odredbe ove glave na odgovarajući se način primjenjuju i na nadzor nad pružateljem usluga koji obavlja izdvojene poslove, odnosno funkciju.
+
+(2) Društvo za osiguranje dužno je poduzeti sve potrebne mjere kako bi osiguralo ispunjenje sljedećih uvjeta:
+
+1. pružatelj usluga mora surađivati s Agencijom u vezi s izdvojenim poslovima, odnosno funkcijom
+
+2. društvo za osiguranje, revizorsko društvo i Agencija moraju imati učinkovit pristup podacima koji se odnose na izdvojene poslove ili funkcije
+
+3. Agencija mora imati učinkovit pristup poslovnim prostorijama pružatelja usluga i mora moći ostvariti to pravo pristupa.
+
+(3) Društvo za osiguranje dužno je Agenciji, na njezin zahtjev, predočiti sve podatke o pravnom i financijskom stanju te o poslovanju pružatelja usluge te dokazati da je pružatelj usluge izabran primjenom dužne pažnje i da društvo za osiguranje može u svako doba nadzirati obavljanje izdvojenih poslova ili funkcija.
+
+(4) Ako je društvo za osiguranje sa sjedištem u drugoj državi članici izdvojilo poslove ili funkcije pružatelju usluga na području Republike Hrvatske, nadležno nadzorno tijelo te države članice može:
+
+1. obaviti neposredni nadzor nad pružateljem usluga u prostorijama pružatelja usluga, samostalno ili posredstvom osobe koju je ono ovlastilo, nakon što prethodno o tome obavijesti Agenciju ili
+
+2. zatražiti od Agencije da obavi neposredni nadzor nad pružateljem usluga.
+
+(5) Ako je društvo za osiguranje sa sjedištem u Republici Hrvatskoj izdvojilo poslove ili funkcije pružatelju usluge na području druge države članice, Agencija može:
+
+1. obaviti neposredni nadzor nad pružateljem usluga u prostorijama pružatelja usluga na području te države članice samostalno ili posredstvom osobe koju je ovlastila, nakon što prethodno obavijesti nadležno nadzorno tijelo te države članice u kojoj se nalazi pružatelj usluga ili
+
+2. zatražiti od nadležnoga nadzornog tijela druge države članice u kojoj se nalazi pružatelj usluga da obavi neposredni nadzor nad pružateljem usluga.
+
+(6) Kada Agencija obavijesti nadležno nadzorno tijelo države članice pružatelja usluge o namjeri da provede neposredni nadzor u skladu sa stavkom 5. točkom 1. ovoga članka ili kada započne provedbu neposrednog nadzora u skladu sa stavkom 5. točkom 1. ovoga članka, pri čemu Agencija nije bila u mogućnosti provesti neposredni nadzor ili joj je bilo zabranjeno ostvarivanje prava na provedbu tog neposrednog nadzora, Agencija može predmet uputiti EIOPA-i i zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010.
+
+*Nadzor nad osobama koje obavljaju poslove zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju*
+
+##### Članak 211.
+
+(1) Na nadzor nad osobama koje obavljaju poslove zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju na odgovarajući se način primjenjuju odredbe ove glave, osim članka 238. i članaka 240. – 245. ovoga Zakona.
+
+(2) Nad drugim osobama iz članka 418. ovoga Zakona Agencija provodi nadzor u skladu s ovim Zakonom, i to u dijelu obavljanja poslova zastupanja u osiguranju.
+
+*Financijska stabilnost i procikličnost*
+
+##### Članak 212.
+
+(1) Ne dovodeći u pitanje glavni cilj nadzora iz članka 204. ovoga Zakona, Agencija u izvršavanju svojih ovlasti, a posebno u izvanrednim situacijama, na temelju raspoloživih informacija na odgovarajući način uzima u obzir moguće učinke svojih odluka na stabilnost financijskih sustava u Europskoj uniji.
+
+(2) U razdobljima izvanrednih situacija na financijskim tržištima Agencija uzima u obzir moguće procikličke učinke svojih mjera.
+
+*Objavljivanje općih informacija o nadzoru*
+
+##### Članak 213.
+
+(1) Agencija na svojoj mrežnoj stranici objavljuje i redovito ažurira:
+
+1. tekstove zakona, drugih propisa i općih smjernica koji se odnose na djelatnost osiguranja u Republici Hrvatskoj
+
+2. opće kriterije i metodologije koje se koriste u nadzoru, uključujući i kvantitativne alate iz članka 214. stavka 6. ovoga Zakona
+
+3. agregirane statističke podatke o ključnim aspektima realizacije nadzora i upravljanja rizicima od društava za osiguranje u Republici Hrvatskoj
+
+4. način ostvarivanja mogućnosti provođenja nadzora i upravljanja rizicima koje su predviđene ovim Zakonom i drugim propisima
+
+5. ciljeva nadzora te njegovih glavnih funkcija i kontrolnih aktivnosti.
+
+(2) Objavljivanje informacija iz stavka 1. ovoga članka mora biti dovoljno da omogući sveobuhvatnu usporedbu nadzornih pristupa koje su usvojila nadzorna tijela različitih država članica.
+
+(3) Agencija objavljuje informacije iz stavka 1. ovoga članka u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju obrasci i struktura objave informacija.
+
+*Predmet nadzora*
+
+##### Članak 214.
+
+(1) Pri obavljanju nadzora Agencija posebice:
+
+1. provjerava sustav upravljanja, strategije, politike i postupke te procedure izvješćivanja koje je društvo za osiguranje uspostavilo radi usklađenja svojeg poslovanja s odredbama ovoga Zakona i drugim propisima
+
+2. provjerava i procjenjuje financijsku stabilnost i financijski položaj društva za osiguranje te rizike kojima je izloženo ili bi moglo biti izloženo u svom poslovanju
+
+3. provjerava stanje solventnosti društva za osiguranje, oblikovanje tehničkih pričuva, imovinu i prihvatljiva vlastita sredstva u skladu s odredbama ovoga Zakona i drugim propisima
+
+4. provjerava primjerenost metoda i praksi društva za osiguranje koje su namijenjene utvrđivanju mogućih događaja ili budućih promjena gospodarskih uvjeta koji bi mogli nepovoljno utjecati na sveukupni financijski položaj predmetnog društva za osiguranje
+
+5. provjerava oblikovanje tehničkih pričuva prema računovodstvenim propisima i imovinu za pokriće tehničkih pričuva prema računovodstvenim propisima u skladu s odredbama ovoga Zakona i drugim propisima.
+
+(2) Agencija će pri provjeri i procjeni financijske stabilnosti i položaja te pri procjeni rizika kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo, uzeti u obzir prirodu, opseg i složenost rizika prisutnih u poslovanju društva za osiguranje.
+
+(3) Provjera iz stavka 1. ovoga članka osobito obuhvaća provjere i procjene:
+
+1. sustava upravljanja, uključujući vlastitu procjenu rizika i solventnosti
+
+2. tehničkih pričuva
+
+3. potrebnog solventnog kapitala i minimalnog potrebnog kapitala
+
+4. pravila ulaganja
+
+5. kvalitete i kvantitete vlastitih sredstava
+
+6. kontinuiranu usklađenost unutarnjeg modela sa zahtjevima ovoga Zakona i propisima o upravljanju rizicima
+
+7. sposobnost društva za osiguranje da podnese moguće događaje ili buduće promjene gospodarskih uvjeta iz stavka 1. točke 4. ovoga članka.
+
+(4) Agencija će na temelju nadzora, provjera i procjena iz stavka 1. ovoga članka utvrditi posluje li društvo za osiguranje u skladu sa zakonskim i drugim propisima po kojima je dužno poslovati, ima li društvo za osiguranje uspostavljen odgovarajući organizacijski ustroj te stabilan sustav upravljanja, kao i kapital koji osigurava primjeren sustav upravljanja i pokrića rizika kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo u svom poslovanju.
+
+(5) Agencija će na temelju nadzora, provjera i procjena iz stavka 1. ovoga članka procijeniti kvalitativne zahtjeve vezano za sustav upravljanja, procjenu rizika s kojima se društvo za osiguranje suočava ili bi se moglo suočiti te procjenu sposobnosti društva za osiguranje da procijeni rizike uzimajući u obzir okruženje u kojem posluje.
+
+(6) Agencija može, ako je potrebno, razviti prikladne kvantitativne alate u okviru postupka nadzora, u cilju procjene sposobnosti društava za osiguranje da se suoče s mogućim događajima ili budućim promjenama gospodarskih uvjeta koje bi mogle imati nepovoljne učinke na njihov ukupni financijski položaj. Agencija može zahtijevati od društava za osiguranje provedbu odgovarajućih testova.
+
+(7) Agencija se pri utvrđivanju učestalosti i intenziteta obavljanja nadzora rukovodi veličinom i značajem društva za osiguranje, kao i opsegom, prirodom i složenošću rizika prisutnih u poslovanju društva za osiguranje.
+
+*Informacije za potrebe nadzora*
+
+##### Članak 215.
+
+(1) Na zahtjev Agencije društvo za osiguranje dužno je dostaviti informacije koje su potrebne za nadzor koje moraju najmanje sadržavati podatke koji su potrebni za:
+
+1. procjenu sustava upravljanja društva za osiguranje, djelatnosti koje društvo za osiguranje obavlja, načela vrednovanja koja se primjenjuju za potrebe solventnosti, rizika kojima je društvo za osiguranje izloženo, sustava upravljanja rizicima i njihove strukture kapitala
+
+2. donošenje primjerenih odluka Agencije koje proizlaze iz provedbe njezinih nadzornih prava i dužnosti.
+
+(2) Na zahtjev Agencije društvo za osiguranje je za potrebe nadzora dužno dostaviti informacije koje se odnose na ugovore koje je društvo za osiguranje sklopilo s osobama koje obavljaju djelatnosti zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju ili ugovore koje je društvo za osiguranje sklopilo s trećim stranama.
+
+(3) Agencija može za potrebe nadzora zatražiti informacije od vanjskih stručnjaka, kao što su revizori i aktuari.
+
+(4) Informacije iz stavaka 1. – 3. ovoga članka sadržavaju:
+
+1. kvalitativne i kvantitativne elemente ili bilo koju primjerenu kombinaciju tih elemenata
+
+2. prošle, sadašnje i buduće elemente ili bilo koju primjerenu kombinaciju tih elemenata
+
+3. podatke iz unutarnjih i vanjskih izvora ili bilo koju primjerenu kombinaciju tih informacija.
+
+(5) Informacije iz stavaka 1. – 3. ovoga članka moraju biti usklađene sa sljedećim načelima:
+
+1. moraju odražavati prirodu, opseg i složenost poslovanja društva za osiguranje, a posebno rizike prisutne u njegovu poslovanju
+
+2. moraju biti dostupni, potpuni, usporedivi i dosljedni tijekom vremena
+
+3. moraju biti relevantni, pouzdani i razumljivi.
+
+(6) Društvo za osiguranje dužno je dostavljati podatke Agenciji u skladu s glavom XI. ovoga Zakona, Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje redovito nadzorno izvještavanje.
+
+(7) Agencija može, ovisno o slučaju, naložiti društvu za osiguranje da dostavi podatke iz stavka 1. ovoga članka te odrediti prirodu, opseg i oblik podataka u sljedećim slučajevima:
+
+– u unaprijed određenim razdobljima
+
+– nakon što se dogode unaprijed utvrđeni događaji
+
+– tijekom obavljanja postupka nadzora društva za osiguranje.
+
+*Sustav izvještavanja*
+
+##### Članak 216.
+
+(1) Društvo za osiguranje dužno je uspostaviti odgovarajući sustav izvještavanja kako bi ispunilo zahtjeve iz ove glave Zakona.
+
+(2) Društvo za osiguranje dužno je donijeti pisanu politiku koja osigurava kontinuiranu vjerodostojnost i potpunost dostavljenih podataka.
+
+*Ograničenje izvještavanja*
+
+##### Članak 217.
+
+(1) Ne dovodeći u pitanje članak 131. i članak 215. stavke 1. – 5. ovoga Zakona, kada su unaprijed određena razdoblja za redovito izvještavanje Agencije u skladu s člankom 215. stavkom 7. ovoga Zakona kraća od godine dana, Agencija može ograničiti redovito nadzorno izvješćivanje:
+
+1. kada bi podnošenje tih informacija bilo preopterećujuće u odnosu na prirodu, opseg i složenost rizika prisutnog u poslovanju društva za osiguranje
+
+2. kada se o informacijama izvješćuje najmanje jedanput godišnje.
+
+(2) Agencija ne ograničava redovito nadzorno izvješćivanje s učestalošću kraćom od godine dana u slučaju društava za osiguranje koja su dio grupe u smislu članka 297. stavka 1. točke 3. ovoga Zakona, osim ako društvo za osiguranje na zadovoljavajući način Agenciji može dokazati da je redovito nadzorno izvješćivanje s učestalošću kraćom od godine dana neprimjereno zbog prirode, opsega i složenosti rizika prisutnih u poslovanju grupe.
+
+(3) Ograničenje redovitog nadzornog izvješćivanja odobrava se samo društvima za osiguranje koja ne predstavljaju više od 20 % tržišta životnog i neživotnog osiguranja države članice, pri čemu je neživotni udio tržišta temeljen na zaračunatim brutopremijama, a životni udio tržišta na bruto tehničkim pričuvama. Prilikom određivanja prihvatljivosti društava za ta ograničenja Agencija daje prednost najmanjim društvima.
+
+(4) Agencija može ograničiti redovito nadzorno izvješćivanje ili izuzeti društva za osiguranje iz izvješćivanja po stavkama kada:
+
+1. bi podnošenje tih informacija bilo preopterećujuće u odnosu na prirodu, opseg i složenost rizika prisutnog u poslovanju društva za osiguranje
+
+2. podnošenje tih informacija nije potrebno za učinkovit nadzor društva za osiguranje
+
+3. izuzeće ne ugrožava stabilnost financijskih sustava u Europskoj uniji
+
+4. društvo za osiguranje može osigurati informacije u bilo koje vrijeme na zahtjev Agencije.
+
+(5) Agencija iz izvještavanja iz stavka 4. ovoga članka ne izuzima društva za osiguranje koja su dio grupe u smislu članka 297. stavka 1. točke 3. ovoga Zakona, osim ako društvo za osiguranje na zadovoljavajući način Agenciji može dokazati da je izvješćivanje po stavkama neprikladno, s obzirom na prirodu, opseg i složenost rizika prisutnog u poslovanju grupe i uzimajući u obzir cilj financijske stabilnosti.
+
+(6) Izuzeće iz izvještavanja iz stavka 4. ovoga članka primjenjuje se samo na društva za osiguranje koja ne predstavljaju više od 20 % tržišta životnog i neživotnog osiguranja u državi članici, pri čemu je neživotni udio tržišta temeljen na zaračunatim brutopremijama, a životni udio tržišta na bruto tehničkim pričuvama. Prilikom određivanja prihvatljivosti društava za ta izuzeća nadzorna tijela prednost daju najmanjim društvima.
+
+(7) Za potrebe stavaka 1. i 4. ovoga članka, kao dio postupka nadzora, Agencija ocjenjuje hoće li podnošenje informacija biti preopterećujuće u odnosu na prirodu, opseg i složenost rizika društava za osiguranje, uzimajući u obzir barem:
+
+1. opseg premija, tehničke pričuve i imovinu društva za osiguranje
+
+2. volatilnost naknada iz osiguranja koje pokriva društvo za osiguranje
+
+3. tržišne rizike koje uzrokuju ulaganja društava za osiguranje
+
+4. razinu koncentracija rizika
+
+5. ukupan broj vrsta životnog i neživotnog osiguranja za koje je izdano odobrenje
+
+6. moguće učinke upravljanja imovinom društava za osiguranje na financijsku stabilnost
+
+7. sustave i strukture društava za osiguranje za pružanje informacija u nadzorne svrhe i pisana pravila vezano za osiguravanje kontinuirane primjerenosti dostavljenih informacija Agenciji
+
+8. primjerenost sustava upravljanja društva za osiguranje
+
+9. razinu vlastitih sredstava za pokriće potrebnog solventnog kapitala i minimalnog potrebnog kapitala
+
+10. je li društvo za osiguranje vlastito društvo za osiguranje koje pokriva samo rizike povezane s industrijskom ili komercijalnom grupom kojoj pripada.
+
+*Naknada za nadzor*
+
+##### Članak 218.
+
+(1) Za obavljanje nadzora subjekti nadzora iz članka 203. ovoga Zakona, osim subjekata nadzora iz članka 203. stavka 5. točaka 9. i 11. ovoga Zakona, plaćaju Agenciji naknadu za nadzor.
+
+(2) Agencija će pravilnikom propisati visinu, način izračuna i način plaćanja naknade za nadzor iz stavka 1. ovoga članka.
+
+## POGLAVLJE II. — POSTUPAK OBAVLJANJA NADZORA
+
+*Način obavljanja nadzora*
+
+##### Članak 219.
+
+(1) Agencija provodi nadzor po službenoj dužnosti:
+
+1. neposrednim nadzorom, u prostorijama društva za osiguranje ili pravne osobe s kojom je subjekt nadzora u odnosu uske povezanosti ili pravne osobe povezane sa subjektom nadzora na način koji je određen člankom 297. stavkom 1. točkom 1. podtočkama a) ili b) ovoga Zakona, pregledom izvorne dokumentacije, provjerom i procjenom cjelokupnog poslovanja, obavljanjem razgovora s članovima uprave, članovima nadzornog odbora i osobama koje obavljaju ključnu funkciju i s osobama koje su s njima u odnosu uske povezanosti ili u prostorijama Agencije
+
+2. posrednim nadzorom u prostorijama Agencije, putem kontinuirane provjere pravilnog obavljanja poslova osiguranja te usklađenosti društva za osiguranje s nadzornim odredbama na temelju analize izvještaja koje su društva za osiguranje dužna u propisanim rokovima dostavljati Agenciji te prikupljanjem i provjerom dokumentacije, obavijesti i podataka dobivenih na poseban zahtjev Agencije, kao i prikupljanjem i provjerom podataka i saznanja iz drugih izvora te provjerom i procjenom poslovanja na temelju dostavljenih izvještaja i prikupljenih informacija, obavljanjem razgovora s članovima uprave, članovima nadzornog odbora i drugim odgovornim osobama.
+
+(2) Nadzor društava za osiguranje obuhvaća odgovarajuću kombinaciju posrednih i neposrednih nadzora.
+
+(3) Neposredni nadzor iz stavka 1. točke 1. ovoga članka može biti redovit ili izvanredni.
+
+*Osobe ovlaštene za nadzor*
+
+##### Članak 220.
+
+(1) Nadzor obavljaju zaposlenici Agencije (ovlaštene osobe Agencije).
+
+(2) Iznimno od stavka 1. ovoga članka, za obavljanje zadataka u vezi s nadzorom Agencija može zatražiti stručno sudjelovanje revizora, revizorskog društva ili druge stručno osposobljene osobe.
+
+(3) Na osobe iz stavka 2. ovoga članka na odgovarajući se način primjenjuju propisi o izuzeću službene osobe i o tajnosti podataka koji se primjenjuju na zaposlenike Agencije.
+
+*Dostavljanje podataka na zahtjev Agencije*
+
+##### Članak 221.
+
+(1) Na zahtjev Agencije društvo za osiguranje dužno je dostaviti ili učiniti dostupnom dokumentaciju, izvještaje, informacije i podatke o svim okolnostima potrebnim za nadzor iz članka 219. ovoga Zakona.
+
+(2) Dokumentaciju, izvještaje i podatke iz stavka 1. ovoga članka Agenciji su dužni dostaviti članovi uprave, članovi nadzornog odbora, nositelji ključnih funkcija u društvu za osiguranje ili osobe koje su s njima u odnosu uske povezanosti.
+
+(3) Agencija je od osoba iz stavka 2. ovoga članka ovlaštena zatražiti pisano očitovanje o okolnostima iz stavka 1. ovoga članka ili ih pozvati da daju usmeno očitovanje o kojem se sastavlja zapisnik.
+
+(4) Ovlaštena osoba Agencije može obavljati razgovore s osobama iz stavka 2. ovoga članka u cilju dobivanja informacija potrebnih za obavljanje nadzora i ispunjavanje ciljeva nadzora.
+
+*Obavijest o neposrednom nadzoru*
+
+##### Članak 222.
+
+(1) Prije početka obavljanja neposrednog nadzora društvu za osiguranje dostavlja se pisana obavijest o neposrednom nadzoru koja sadržava najmanje:
+
+1. predmet nadzora
+
+2. podatke o ovlaštenim osobama Agencije
+
+3. naznaku lokacije na kojoj će se nadzor obavljati
+
+4. datum početka obavljanja nadzora
+
+5. razdoblje koje se nadzire.
+
+(2) Obavijest iz stavka 1. ovoga članka može sadržavati i podatke koje je društvo za osiguranje dužno pripremiti ovlaštenim osobama Agencije za potrebe obavljanja neposrednog nadzora.
+
+(3) Agencija može tijekom nadzora dopuniti obavijest o neposrednom nadzoru. Na dopunu obavijesti o neposrednom nadzoru na odgovarajući se način odnose odredbe stavka 1. ovoga članka.
+
+(4) Obavijest o neposrednom nadzoru dostavlja se društvu za osiguranje u roku koji ne može biti kraći od tri dana prije dana početka nadzora.
+
+(5) Iznimno od stavka 4. ovoga članka, ovlaštena osoba Agencije može uručiti obavijest o neposrednom nadzoru i na dan početka provođenja nadzora, ako je potrebno hitno provođenje nadzora ili nije moguće na drugi način postići svrhu nadzora.
+
+*Neposredni nadzor poslovanja*
+
+##### Članak 223.
+
+(1) Društvo za osiguranje dužno je ovlaštenoj osobi Agencije, nakon zaprimanja obavijesti o neposrednom nadzoru, omogućiti obavljanje neposrednog nadzora u sjedištu društva za osiguranje i na ostalim mjestima u kojima on ili druga osoba po njegovu ovlaštenju obavlja djelatnost i poslove u vezi s kojima Agencija obavlja nadzor.
+
+(2) Društvo za osiguranje dužno je ovlaštenoj osobi Agencije koja provodi nadzor omogućiti pregled poslovnih knjiga, poslovne dokumentacije, administrativne ili poslovne evidencije te nadzor nad informacijskim sustavom i tehnologijama koje omogućavaju rad informacijskog sustava, u opsegu potrebnom za obavljanje nadzora.
+
+(3) Društvo za osiguranje dužno je ovlaštenoj osobi Agencije koja provodi nadzor uručiti svu traženu poslovnu dokumentaciju, računalne ispise koji uključuju ispise elektroničke pošte, preslike poslovnih knjiga, zapise s telefaksa te administrativne ili poslovne evidencije u papirnatom obliku ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba. Društvo za osiguranje dužno je ovlaštenoj osobi osigurati standardno sučelje za pristup sustavu za upravljanje bazama podataka kojima se koristi, u svrhu provođenja nadzora potpomognutog računalnim programima.
+
+(4) Dokumentaciju, ispise i zapise iz stavka 3. ovoga članka, financijske instrumente, novac ili predmete koji mogu poslužiti kao dokaz u kaznenom ili prekršajnom postupku, ovlaštene osobe Agencije mogu, uz izdavanje potvrde, privremeno oduzeti društvu za osiguranje, ali samo do pokretanja tih postupaka, kada ih predaju tijelu nadležnom za vođenje postupka.
+
+(5) Odgovorne osobe društva za osiguranje dužne su surađivati s ovlaštenom osobom Agencije, na njezin zahtjev obaviti s njom razgovor te joj dati sve informacije bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora.
+
+*Uvjeti za obavljanje neposrednog nadzora*
+
+##### Članak 224.
+
+(1) Društvo za osiguranje dužno je ovlaštenoj osobi Agencije osigurati prikladne prostorije u kojima je moguće neometano i bez nazočnosti drugih osoba obavljati nadzor poslovanja.
+
+(2) Na zahtjev ovlaštene osobe Agencije, društvo za osiguranje dužno je osigurati stručnu i tehničku pomoć, potrebna objašnjenja i druge uvjete potrebne za obavljanje nadzora.
+
+(3) Nadzor poslovanja iz stavaka 1. i 2. ovoga članka obavlja ovlaštena osoba Agencije tijekom radnog vremena društva za osiguranje. Ako je zbog opsega ili prirode posla nužno, društvo za osiguranje dužno je omogućiti ovlaštenoj osobi Agencije obavljanje nadzora poslovanja i izvan radnog vremena.
+
+*Kontrola informacijskog sustava*
+
+##### Članak 225.
+
+(1) Društvo za osiguranje koje se u svom poslovanju koristi informacijskim sustavom dužno je na zahtjev ovlaštene osobe Agencije osigurati uvjete za pregled informacijskog sustava te mogućnost ispitivanja jesu li podaci korištenjem informacijske tehnologije obrađeni na primjeren način.
+
+(2) Društvo za osiguranje dužno je na zahtjev ovlaštene osobe Agencije predati dokumentaciju iz koje je razvidan potpuni opis rada informacijskog sustava. Iz dokumentacije moraju biti razvidne komponente informacijskog sustava. Dokumentacija mora omogućiti ovlaštenoj osobi uvid u:
+
+1. programska rješenja
+
+2. postupke obrade podataka korištenjem informacijske tehnologije
+
+3. kontrole koje osiguravaju pravilnu obradu podataka i
+
+4. kontrole koje osiguravaju čuvanje povjerljivosti, integriteta i raspoloživosti podataka.
+
+*Okončanje postupka neposrednog nadzora*
+
+##### Članak 226.
+
+(1) Nakon obavljenog neposrednog nadzora sastavlja se zapisnik o obavljenom nadzoru koji se dostavlja društvu za osiguranje, s detaljnim opisom utvrđenih činjenica. Uprava društva za osiguranje dužna je bez odgađanja zapisnik o obavljenom nadzoru dostaviti nadzornom odboru ili drugom odgovarajućem nadzornom organu društva za osiguranje.
+
+(2) Na dostavljeni zapisnik društvo za osiguranje ima pravo podnijeti pisani prigovor u roku od osam dana od dana primitka zapisnika.
+
+(3) Ako u postupku nadzora nisu utvrđene nezakonitosti i/ili nepravilnosti za koje bi se donosila odgovarajuća nadzorna mjera, ili su iste utvrđene, ali su otklonjene do izrade zapisnika, to će se unijeti u zapisnik i donijeti rješenje kojim se utvrđuje da je postupak nadzora okončan.
+
+*Dopuna zapisnika*
+
+##### Članak 227.
+
+(1) Ako su zapisnikom utvrđene nezakonitosti i/ili nepravilnosti, za koje bi se donosila odgovarajuća nadzorna mjera, djelomično otklonjene prije donošenja rješenja kojim se izriče odgovarajuća nadzorna mjera, Agencija će o tome sastaviti dopunu zapisnika.
+
+(2) Ako su zapisnikom utvrđene nezakonitosti i/ili nepravilnosti, za koje bi se donosila odgovarajuća nadzorna mjera, u potpunosti otklonjene prije donošenja rješenja kojim se izriče odgovarajuća nadzorna mjera, Agencija će donijeti rješenje kojim će utvrditi da su nezakonitosti i/ili nepravilnosti utvrđene u zapisniku otklonjene, a postupak nadzora okončan.
+
+*Prigovor na zapisnik i dopunu zapisnika*
+
+##### Članak 228.
+
+(1) Prigovor na zapisnik mora sadržavati navode o okolnostima iz kojih proizlazi da je zapisnikom pogrešno utvrđeno postojanje određenih nedostataka, nezakonitosti i nepravilnosti. Prigovoru na zapisnik moraju biti priloženi odgovarajući dokazi, ako društvo za osiguranje njima raspolaže.
+
+(2) Ako Agencija ocijeni osnovanim pojedine ili sve navode iz prigovora na zapisnik, izradit će dopunu zapisnika i dostaviti je društvu za osiguranje.
+
+(3) Na prigovor na dopunu zapisnika na odgovarajući se način primjenjuju odredbe stavka 1. i 2. ovoga članka i članka 226. stavka 2. ovoga Zakona.
+
+(4) Ako Agencija utvrdi da je prigovor društva za osiguranje na zapisnik, odnosno na dopunu zapisnika neosnovan, donijet će rješenje kojim će odlučiti o upravnoj stvari.
+
+*Posredni nadzor poslovanja*
+
+##### Članak 229.
+
+(1) Ovlaštena osoba Agencije tijekom posrednog nadzora:
+
+1. utvrđuje jesu li propisani izvještaji i drugi podaci dostavljeni Agenciji u propisanom roku i propisanoj formi
+
+2. utvrđuje jesu li podaci u izvještajima ili drugoj traženoj dokumentaciji istiniti, točni i ispravni
+
+3. utvrđuje posluje li društvo za osiguranje u skladu s propisima o upravljanju rizicima, drugim propisima donesenim na temelju ovoga Zakona i drugim propisima kojima se uređuje poslovanje društva za osiguranje
+
+4. provjerava i procjenjuje financijsku stabilnost i položaj društva za osiguranje te rizike kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo u svom poslovanju
+
+5. putem odgovarajućih alata utvrđuje pogoršanje financijskih uvjeta društva za osiguranje i prati otklanjanje navedenog pogoršanja.
+
+(2) Agencija će pri provjeri i procjeni financijske stabilnosti i financijskog položaja te pri procjeni rizika kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo uzeti u obzir vrstu, opseg i složenost rizika prisutnih u poslovanju društva za osiguranje.
+
+*Zapisnik o posrednom nadzoru*
+
+##### Članak 230.
+
+(1) U slučaju utvrđenih nedostataka, nezakonitosti i nepravilnosti u poslovanju društva za osiguranje utvrđenih u postupku posrednog nadzora, ovlaštena osoba Agencije sastavlja zapisnik.
+
+(2) Zapisnik o obavljenom nadzoru dostavlja se društvu za osiguranje, s detaljnim opisom utvrđenih činjenica u postupku nadzora.
+
+(3) Na zapisnik o posrednom nadzoru na odgovarajući način se primjenjuju članci 226. – 228. ovoga Zakona.
+
+## POGLAVLJE III. — NADZORNE MJERE
+
+### ODJELJAK I. — OPĆE ODREDBE
+
+*Nadzorne mjere*
+
+##### Članak 231.
+
+(1) Na temelju provedenog postupka neposrednog ili posrednog nadzora Agencija može društvu za osiguranje izreći nadzorne mjere propisane ovim Zakonom.
+
+(2) U smislu ovoga Zakona nezakonitosti su stanja i postupci koji nisu sukladni ovom Zakonu i drugim propisima kojima se uređuje poslovanje društva za osiguranje.
+
+(3) U smislu ovoga Zakona nepravilnosti su stanja i postupci koji nisu sukladni vlastitim poslovnim politikama i internim aktima društva za osiguranje te standardima i pravilima struke ili se isti dosljedno ne primjenjuju, a time se ugrožava poslovanje, posebice u svezi s organizacijskim zahtjevima i upravljanjem rizicima.
+
+(4) Kada Agencija utvrdi postojanje osnovane sumnje o počinjenom kaznenom djelu ili prekršaju, podnosi odgovarajuću prijavu nadležnom tijelu, ako to u konkretnom slučaju smatra opravdanim i svrhovitim.
+
+(5) Agencija može izdati prekršajni nalog društvu za osiguranje ako je utvrdila prekršaj:
+
+1. neposrednim opažanjem ili obavljenim nadzorom njegovih ovlaštenih službenih osoba pri obavljanju inspekcijskog ili drugog nadzora iz njihove nadležnosti koje su o tome sastavile službenu bilješku, zapisnik, odnosno nalaz
+
+2. na temelju vjerodostojne dokumentacije, uključujući i zapisnik o očevidu nadležnog tijela
+
+3. upotrebom propisanih tehničkih uređaja ili provođenjem odgovarajućih propisanih laboratorijskih analiza i vještačenja.
+
+(6) Prekršajni nalog iz stavka 1. ovoga članka Agencija može izdati samo za počinjene prekršaje propisane odredbama ovoga Zakona.
+
+(7) Na sadržaj i postupak izdavanja i prigovor protiv prekršajnog naloga primjenjuju se odredbe Prekršajnog zakona o prekršajnom nalogu tijela državne uprave kao ovlaštenog tužitelja.
+
+*Neprimjeren utjecaj dioničara društva za osiguranje*
+
+##### Članak 232.
+
+(1) Ako je neprimjerenim utjecajem dioničara društva za osiguranje upravljanje društvom za osiguranje pažnjom dobrog stručnjaka dovedeno u pitanje, Agencija je ovlaštena poduzimati odgovarajuće mjere kako bi se taj utjecaj spriječio.
+
+(2) Mjere iz stavka 1. ovoga članka obuhvaćaju, uz odgovarajuće nadzorne mjere, i podnošenje zahtjeva nadležnom sudu za izricanje privremenih mjera u vezi s obustavom glasačkih prava vezanih za dionice dioničara društva za osiguranje iz stavka 1. ovoga članka.
+
+*Vrste nadzornih mjera*
+
+##### Članak 233.
+
+Agencija pod uvjetima propisanim ovim Zakonom može odrediti sljedeće nadzorne mjere:
+
+1. opomenu
+
+2. otklanjanje nezakonitosti i nepravilnosti
+
+3. dodatne nadzorne mjere
+
+4. imenovanje povjerenika
+
+5. ukidanje ili poništenje rješenja o odobrenju za obavljanje poslova osiguranja
+
+6. ukidanje ili poništenje rješenja o odobrenju za stjecanje kvalificiranog udjela
+
+7. ukidanje ili poništenje rješenja o odobrenju za obavljanje funkcije člana uprave
+
+8. ukidanje ili poništenje rješenja o ovlaštenju za obavljanje poslova ovlaštenog aktuara ili privremenu zabranu obavljanja poslova ovlaštenog aktuara
+
+9. reorganizaciju društva za osiguranje i imenovanje posebne uprave
+
+10. likvidaciju društva za osiguranje
+
+11. podnošenje prijedloga za pokretanje stečajnog postupka.
+
+### ODJELJAK II. — OPOMENA
+
+*Opomena*
+
+##### Članak 234.
+
+(1) Kad Agencija tijekom nadzora utvrdi nezakonitosti i nepravilnosti, a priroda i opseg utvrđenih nezakonitosti i nepravilnosti nemaju značajan utjecaj i posljedice na poslovanje društva za osiguranje, na tržište i/ili osiguranike, ugovaratelje osiguranja i korisnike iz ugovora o osiguranju, Agencija može izreći opomenu društvu za osiguranje.
+
+(2) Agencija može opomenu javno objaviti.
+
+(3) Opomena Agencije može sadržavati i nalog da društvo za osiguranje ispravi utvrđene nezakonitosti i nepravilnosti te rokove u kojima je društvo za osiguranje dužno to učiniti i dinamiku obavještavanja Agencije o poduzetim radnjama i aktivnostima.
+
+(4) Ako u roku iz stavka 3. ovoga članka društvo za osiguranje ne postupi po nalogu Agencije iz stavka 3. ovoga članka, Agencija će donijeti rješenje za otklanjanje utvrđenih nezakonitosti i nepravilnosti.
+
+(5) Agencija je ovlaštena provesti ponovni nadzor nad društvom za osiguranje u mjeri i opsegu potrebnima kako bi se utvrdilo je li društvo za osiguranje postupilo po nalogu Agencije iz stavka 3. ovoga članka te jesu li utvrđene nezakonitosti i nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.
+
+### ODJELJAK III. — OTKLANJANJE NEZAKONITOSTI I NEPRAVILNOSTI
+
+*Rješenje o otklanjanju nezakonitosti i nepravilnosti*
+
+##### Članak 235.
+
+(1) Agencija donosi rješenje kojim nalaže društvu za osiguranje otklanjanje nezakonitosti i nepravilnosti ako u postupku nadzora nad društvom za osiguranje utvrdi:
+
+1. da član uprave nema odobrenje iz članka 52. ovoga Zakona
+
+2. da društvo za osiguranje ne ispunjava uvjete za obavljanje poslova osiguranja
+
+3. da društvo za osiguranje obavlja djelatnosti koje prema ovom Zakonu ne smije obavljati
+
+4. da društvo za osiguranje krši pravila o upravljanju rizicima
+
+5. da društvo za osiguranje krši pravila o vođenju poslovnih knjiga i godišnjem izvješću, unutarnjoj reviziji, odnosno reviziji godišnjih izvješća
+
+6. da društvo za osiguranje krši obvezu izvještavanja i obavještavanja
+
+7. da društvo za osiguranje krši pravila o imenovanju ovlaštenog aktuara
+
+8. da društvo za osiguranje krši druge odredbe ovoga Zakona, odnosno na temelju njega donesenih propisa, odnosno odredbe drugih zakona kojima se uređuje poslovanje društava za osiguranje.
+
+(2) Rješenjem iz stavka 1. ovoga članka Agencija određuje rok za otklanjanje nezakonitosti i nepravilnosti.
+
+*Izvješće ovlaštenog revizora o otklanjanju nepravilnosti*
+
+##### Članak 236.
+
+Ako Agencija utvrdi nezakonitosti i nepravilnosti u vođenju poslovnih knjiga, odnosno administrativnih i drugih evidencija koje je društvo za osiguranje dužno voditi, odnosno utvrdi li veće nezakonitosti i nepravilnosti u poslovanju društva za osiguranje, može društvu za osiguranje rješenjem naložiti dostavu izvješća s pozitivnim mišljenjem ovlaštenog revizora o tome da su utvrđene nezakonitosti i nepravilnosti otklonjene.
+
+*Izvješće o otklanjanju nezakonitosti i nepravilnosti*
+
+##### Članak 237.
+
+(1) Društvo za osiguranje dužno je u roku iz članka 235. stavka 2. ovoga Zakona otkloniti utvrđene nezakonitosti i nepravilnosti te Agenciji u istom roku, ako rješenjem nije drukčije određeno, dostaviti izvješće u kojem su opisane mjere za otklanjanje nezakonitosti i nepravilnosti. Izvješću moraju biti priloženi dokumenti i drugi dokazi iz kojih proizlazi da su utvrđene nezakonitosti i nepravilnosti otklonjene. U slučaju iz članka 236. ovoga Zakona društvo za osiguranje dužno je izvješću o otklanjanju nezakonitosti i nepravilnosti priložiti i izvješće ovlaštenog revizora.
+
+(2) Ako iz izvješća iz stavka 1. ovoga članka i priloženih dokaza proizlazi da su nezakonitosti i nepravilnosti otklonjene, Agencija će donijeti rješenje kojim utvrđuje da su nezakonitosti i nepravilnosti otklonjene. Agencija može prije donošenja rješenja obaviti ponovni nadzor u opsegu potrebnom da bi se utvrdilo jesu li nezakonitosti i nepravilnosti otklonjene.
+
+(3) Ako je izvješće nepotpuno, odnosno iz izvješća i priloženih dokaza ne proizlazi da su utvrđene nezakonitosti i nepravilnosti otklonjene, Agencija će društvu za osiguranje naložiti dopunu izvješća te odrediti rok za dopunu. Agencija može u slučaju opravdanih razloga na temelju obrazloženog zahtjeva društva za osiguranje zaključkom produžiti rok određen rješenjem za otklanjanje nezakonitosti i nepravilnosti.
+
+(4) Agencija je dužna rješenje iz stavka 2. ovoga članka donijeti u roku od 30 dana od dana podnošenja izvješća iz stavka 1. ovoga članka, u protivnom se smatra da su nezakonitosti i nepravilnosti otklonjene. Ako Agencija ne naloži dopunu izvješća iz stavka 3. ovoga članka, u roku od 30 dana od dana podnošenja izvješća iz stavka 1. ovoga članka, smatra se da su nezakonitosti i nepravilnosti otklonjene.
+
+(5) Ako su rješenjem određene dodatne mjere iz članka 238. ovoga Zakona, odredbe ovoga članka, koje se odnose na otklanjanje nezakonitosti i nepravilnosti i na izvješće o uklanjanju nezakonitosti i nepravilnosti, odnose se i na izvođenje dodatnih mjera te na obavješćivanje o izvedbi dodatnih mjera.
+
+### ODJELJAK IV. — DODATNE NADZORNE MJERE
+
+*Dodatne nadzorne mjere u svrhu realizacije pravila o upravljanju rizicima*
+
+##### Članak 238.
+
+(1) Ako Agencija prilikom obavljanja nadzora utvrdi da društvo za osiguranje teže krši pravila o upravljanju rizikom, može rješenjem o otklanjanju nezakonitosti i nepravilnosti odrediti i sljedeće dodatne mjere:
+
+1. naložiti upravi društva za osiguranje da prihvati plan mjera radi osiguranja potrebne razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili smanjenja profila rizičnosti društva za osiguranje kako bi se osigurala usklađenost s potrebnim solventnim kapitalom, odnosno radi osiguranja prihvatljivih osnovnih vlastitih sredstava najmanje na razinu minimalnog potrebnog kapitala ili smanjenja profila rizičnosti društva za osiguranje kako bi se osigurala usklađenost s minimalnim potrebnim kapitalom
+
+2. naložiti upravi društva za osiguranje i nadzornom odboru sazivanje glavne skupštine društva za osiguranje te predlaganje odgovarajućih odluka
+
+3. zabraniti društvu za osiguranje sklapanje novih ugovora o osiguranju u pojedinim ili svim vrstama osiguranja
+
+4. zabraniti društvu za osiguranje obavljanje određenih vrsta isplata, odnosno isplata određenim osobama
+
+5. zabraniti društvu za osiguranje sklapanje poslova s pojedinim dioničarima, članovima uprave, članovima nadzornog odbora, osobama koje su s društvom za osiguranje u odnosu uske povezanosti
+
+6. naložiti upravi društva za osiguranje da donese ili provede mjere radi:
+
+– poboljšanja sustava upravljanja
+
+– promjene područja poslovanja društva za osiguranje
+
+– ograničavanja davanja zajmova
+
+– poboljšanja postupka naplate dospjelih tražbina društva za osiguranje
+
+– ispravnog vrednovanja bilančnih i izvanbilančnih stavki
+
+– poboljšanja informacijskog sustava
+
+– poboljšanja postupaka unutarnjih kontrola i unutarnje revizije
+
+– druge mjere nužne radi realizacije pravila o ograničavanju rizika
+
+7. zabraniti, odnosno ograničiti društvu za osiguranje slobodno raspolaganje imovinom
+
+8. naložiti društvu za osiguranje da razriješi nositelja ključne funkcije i imenuje novog
+
+9. naložiti društvu za osiguranje uvođenje kapitalnog dodatka
+
+10. naložiti društvu za osiguranje povećanje tehničkih pričuva kako bi odgovarale razini koja je određena u skladu s odredbama članaka 106. – 120. ovoga Zakona
+
+11. naložiti društvu za osiguranje druge mjere.
+
+(2) Smatra se da društvo za osiguranje teže krši pravila o upravljanju rizikom ako:
+
+1. nije izračunalo potrebni solventni kapital i minimalni potrebni kapital ili ne dostiže razinu prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili nije usklađeno s minimalnim potrebnim kapitalom iz ovoga Zakona ili ako nije izvršilo mjere iz članaka 165. i 166. ovoga Zakona
+
+2. nije organiziralo poslovanje, odnosno ne vodi tekuće poslovne knjige, poslovnu dokumentaciju te druge administrativne i poslovne evidencije na način da je moguće u bilo kojem trenutku provjeriti posluje li u skladu s pravilima o ograničavanju rizika
+
+3. ne donese mjere i ne odredi pravila odgovarajućeg vrednovanja bilančnih i izvanbilančnih stavki za potrebe financijskog izvještavanja i za potrebe solventnosti, odnosno ako te stavke vrednuje u suprotnosti s ovim Zakonom i drugim propisima
+
+4. obavlja djelatnosti koje prema ovom Zakonu ne smije obavljati
+
+5. ako društvo za osiguranje nije uspostavilo, ne provodi ili redovito ne održava sustav upravljanja propisan ovim Zakonom
+
+6. ako društvo za osiguranje nije uspostavilo sustave i strukture za pružanje informacija u nadzorne svrhe i pisana pravila propisana člankom 216. ovoga Zakona
+
+7. ako društvo za osiguranje ne postupi u skladu sa zahtjevima ovoga Zakona i propisima koji se odnose na sustav upravljanja rizicima
+
+8. ako društvo za osiguranje ne provodi vlastitu procjenu rizika i solventnosti propisanu odredbama ovoga Zakona
+
+9. isplaćuje dividende suprotno odredbama članka 164. ovoga Zakona
+
+10. često krši obvezu pravodobnog i korektnog izvještavanja utvrđenu ovim Zakonom, odnosno na temelju njega donesenih propisa
+
+11. sklapa prividne poslove u namjeri netočnog iskazivanja financijskog stanja društva za osiguranje
+
+12. obavlja druge poslove koji mogu ugroziti njegovu likvidnost, odnosno solventnost.
+
+(3) Mjere iz stavka 1. točke 7. ovoga članka Agencija će posebno odrediti u slučaju:
+
+1. ako društvo za osiguranje nije usklađeno s odredbama članaka 106. – 120. ovoga Zakona o tehničkim pričuvama
+
+2. ako društvo za osiguranje nije usklađeno s minimalnim potrebnim kapitalom propisanim odredbama ovoga Zakona
+
+3. u iznimnim okolnostima kad smatra da će se financijsko stanje društva za osiguranje dodatno pogoršati unatoč poduzetim mjerama iz članka 166. stavka 4. ovoga Zakona
+
+4. u slučaju oduzimanja ili prestanka važenja odobrenja za obavljanje poslova osiguranja.
+
+(4) O određivanju mjere iz stavka 1. točke 7. ovoga članka i o njezinim učincima Agencija izvješćuje nadležna nadzorna tijela država članica u kojima društvo za osiguranje prema kojem je primijenjena takva mjera ima podružnicu.
+
+(5) Agencija može rješenjem naložiti nadzornom odboru društva za osiguranje da razriješi dužnosti predsjednika uprave ili članove uprave i da imenuje novoga predsjednika ili članove uprave:
+
+1. ako društvo za osiguranje ne postupa djelomično ili u cijelosti u skladu s rješenjem o otklanjanju nezakonitosti i nepravilnosti, odnosno
+
+2. ako uprava društva za osiguranje ne provede dodatne mjere iz stavka 1. ovoga članka koje je odredila, odnosno
+
+3. ako društvo za osiguranje učestalo krši obvezu pravodobnog i točnog izvještavanja, odnosno obavještavanja Agencije ili ometa Agenciju u obavljanju nadzora.
+
+*Kapitalni dodatak*
+
+##### Članak 239.
+
+(1) Agencija može, u iznimnim okolnostima, u skladu s Uredbom (EU) br. 2015/35, rješenjem naložiti društvu za osiguranje uvođenje kapitalnog dodataka.
+
+(2) Potrebni solventni kapital zajedno s uvedenim kapitalnim dodatkom zamjenjuje neodgovarajući potrebni solventni kapital.
+
+(3) Okolnosti iz stavka 1. ovoga članka nastupaju isključivo ako:
+
+1. profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun potrebnog solventnog kapitala standardnom formulom u skladu s odredbama ovoga Zakona i:
+
+– zahtjev za uporabu unutarnjeg modela iz članka 149. ovoga Zakona je neprimjeren ili je bio nedjelotvoran ili
+
+– za vrijeme dok se djelomični ili potpuni unutarnji model razvija u skladu s člankom 149. ovoga Zakona
+
+2. profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun potrebnog solventnog kapitala uporabom potpunog ili djelomičnog unutarnjeg modela u skladu s odredbama ovoga Zakona jer neki mjerljivi rizici nisu dovoljno obuhvaćeni, a model nije bio prilagođen u odgovarajućem razdoblju kako bi bolje odražavao dani profil rizičnosti
+
+3. sustav upravljanja društva za osiguranje značajno odstupa od standarda propisanih ovim Zakonom te da ta odstupanja sprječavaju da se rizici kojima je društvo izloženo ili kojima bi moglo biti izloženo primjereno utvrde, mjere, prate, da se njima upravlja i o njima izvješćuje te da nije vjerojatno da bi primjena drugih mjera mogla sama po sebi dovoljno poboljšati nedostatke u odgovarajućem razdoblju
+
+4. društvo za osiguranje primjenjuje prilagodbu za uravnoteženje iz članka 111. ovoga Zakona, prilagodbu za volatilnost iz članka 113. ovoga Zakona ili prijelazne mjere iz članaka 455. i 456. ovoga Zakona i Agencija zaključi da profil rizičnosti tog društva značajno odstupa od pretpostavki na kojima se temelje te mjere za prilagodbu i prijelazne mjere.
+
+(4) U okolnostima iz stavka 3. točaka 1. i 2. ovoga članka kapitalni dodatak izračunava se u skladu s Uredbom (EU) br. 2015/35 na način koji osigurava da se društvo uskladi s člankom 131. stavkom 3. ovoga Zakona.
+
+(5) U okolnostima iz stavka 3. točke 3. ovoga članka kapitalni dodatak razmjeran je značajnim rizicima koji proizlaze iz nedostataka koji su doveli do odluke Agencije da odredi taj dodatak.
+
+(6) U okolnostima iz stavka 3. točke 4. ovoga članka kapitalni dodatak razmjeran je značajnim rizicima koji proizlaze iz odstupanja iz stavka 4. ovoga članka.
+
+(7) U slučajevima iz stavka 3. točaka 2. i 3. ovoga članka Agencija osigurava da društvo za osiguranje poduzme sve napore kako bi otklonilo nedostatke koji su doveli do uvođenja kapitalnog dodatka.
+
+(8) Agencija preispituje kapitalni dodatak iz stavka 1. ovoga članka najmanje jedanput godišnje, a on se ukida kad društvo otkloni nedostatke koji su doveli do njegova uvođenja.
+
+(9) Ne dovodeći u pitanje stavak 2. ovoga Zakona, potrebni solventni kapital ne uključuje kapitalni dodatak uveden u skladu sa stavkom 3. točkom 3. ovoga članka za potrebe izračuna dodatka za rizik iz članka 109. stavaka 2. i 3. ovoga Zakona.
+
+### ODJELJAK V. — IMENOVANJE POVJERENIKA
+
+*Povjerenik Agencije u društvu za osiguranje*
+
+##### Članak 240.
+
+(1) Agencija može imenovati povjerenika u društvu za osiguranje kad ocijeni da je potrebna detaljnija procjena i praćenje financijskog stanja te uvjeta poslovanja društva za osiguranje.
+
+(2) Rješenjem o imenovanju povjerenika Agencija može imenovati jednog ili više njegovih pomoćnika, od kojih će jednoga od njih odrediti za zamjenika povjerenika.
+
+(3) Za povjerenika se može imenovati zaposlenik Agencije ili druga osoba.
+
+(4) Povjerenik i pomoćnici povjerenika imaju pravo na naknadu za svoj rad koju isplaćuje Agencija.
+
+(5) Agencija će u rješenju o imenovanju povjerenika odrediti sadržaj izvješća koje je povjerenik dužan sastaviti.
+
+(6) Rješenjem o imenovanju povjerenika i njegovih pomoćnika određuje se njihov mandat, koji ne može biti dulji od 12 mjeseci. U tijeku mandata povjerenika odnosno njegovih pomoćnika, Agencija može opozvati povjerenika odnosno njegovog pomoćnika i imenovati drugog povjerenika odnosno njegova pomoćnika.
+
+*Ovlasti povjerenika*
+
+##### Članak 241.
+
+(1) Društvo za osiguranje dužno je na sjednice uprave, nadzornog odbora i njihovih tijela pozvati povjerenika te mu pravodobno dostaviti svu dokumentaciju potrebnu za praćenje sastanka, a povjerenik ima pravo biti nazočan na tim sjednicama i sudjelovati u njihovu radu, ali nema pravo glasa.
+
+(2) Povjerenik ima pravo sazivati sjednice uprave i nadzornog odbora društva za osiguranje, predlagati dnevni red i davati prijedloge odluka, a članovi tih organa dužni su se odazvati.
+
+(3) Povjerenik, odnosno pomoćnik povjerenika ne može prenijeti svoje ovlasti na druge osobe, a za svoj rad odgovoran je Agenciji.
+
+(4) Društvo za osiguranje dužno je povjereniku i njegovim pomoćnicima staviti na raspolaganje svu potrebnu dokumentaciju i omogućiti im uvid u poslovne knjige.
+
+(5) Povjerenik je dužan postupati u skladu s odredbama ovoga Zakona o poslovnoj tajni.
+
+*Izvješće povjerenika o financijskom stanju društva za osiguranje*
+
+##### Članak 242.
+
+(1) Povjerenik je dužan u roku od 30 dana od dana imenovanja izraditi izvješće o financijskom stanju i uvjetima poslovanja društva za osiguranje s procjenom njegove financijske stabilnosti i mogućnostima za njegovo daljnje poslovanje (u daljnjem tekstu: izvješće o financijskom stanju) i dostaviti ga Agenciji.
+
+(2) Izvješće iz stavka 1. ovoga članka Agencija će dostaviti društvu za osiguranje na očitovanje.
+
+(3) Društvo za osiguranje dužno je očitovati se na izvješće iz stavka 1. ovoga članka u roku od pet dana od njegova primitka.
+
+(4) Povjerenik je dužan bez odgode pisano obavijestiti Agenciju o okolnostima koje po njegovoj ocjeni mogu utjecati na neizvršavanje nadzornih mjera Agencije ili pogoršanje financijskog stanja društva za osiguranje.
+
+*Dužnost povjerenika u vezi s dodatnim izvještavanjem*
+
+##### Članak 243.
+
+Povjerenik je bez odgađanja dužan obavijestiti Agenciju o svim okolnostima koje po njegovoj ocjeni mogu utjecati na neizvršavanje naloženih mjera i o svim okolnostima koje po njegovoj ocjeni mogu utjecati na pogoršanje financijskog stanja društva za osiguranje.
+
+*Postupanje Agencije na temelju izvješća povjerenika o financijskom stanju društva za osiguranje*
+
+##### Članak 244.
+
+Na temelju izvješća povjerenika o financijskom stanju Agencija može društvu za osiguranje naložiti primjerenu mjeru propisanu ovim Zakonom ili imenovati posebnu upravu društva za osiguranje.
+
+*Prestanak ovlasti povjerenika*
+
+##### Članak 245.
+
+Ovlasti povjerenika i njegova pomoćnika prestaju:
+
+1. danom isteka razdoblja navedenog u rješenju o imenovanju
+
+2. danom opoziva njegova imenovanja
+
+3. danom imenovanja posebne uprave
+
+4. danom imenovanja likvidatora ili
+
+5. danom otvaranja stečajnog postupka nad društvom za osiguranje.
+
+### ODJELJAK VI. — UKIDANJE ILI PONIŠTENJE RJEŠENJA O ODOBRENJU ZA OBAVLJANJE POSLOVA OSIGURANJA
+
+*Ukidanje ili poništenje rješenja o odobrenju za obavljanje poslova osiguranja*
+
+##### Članak 246.
+
+(1) Agencija će ukinuti rješenje o odobrenju za obavljanje poslova osiguranja ako društvo za osiguranje nije usklađeno s minimalnim potrebnim kapitalom, a Agencija smatra da je dostavljeni financijski plan očito neodgovarajući ili ako se društvo za osiguranje ne uskladi s odobrenim planom u roku od tri mjeseca od dana kad je utvrđeno postojanje neusklađenosti s minimalnim potrebnim kapitalom.
+
+(2) Agencija može društvu za osiguranje ukinuti ili poništiti odobrenje za obavljanje poslova osiguranja:
+
+1. ako društvo za osiguranje ne počne poslovati u roku od dvanaest mjeseci od izdavanja odobrenja ili prestane obavljati poslove osiguranja duže od šest mjeseci
+
+2. ako društvo za osiguranje prestane ispunjavati uvjete za dobivanje odobrenja za obavljanje poslova osiguranja
+
+3. ako društvo u velikoj mjeri ne ispunjava svoje obveze prema propisima koji se na njega odnose
+
+4. ako je to rješenje doneseno na temelju neistinite ili netočne dokumentacije, odnosno neistinito prezentiranih podataka u postupku izdavanja odobrenja za obavljanje poslova osiguranja, a koji su bitni za odlučivanje o tom odobrenju.
+
+(3) Prestankom važenja odobrenja za obavljanje poslova osiguranja Agencija će ukinuti i sva ostala odobrenja dana tom društvu za osiguranje.
+
+(4) U slučaju ukidanja, poništenja, odnosno prestanka važenja odobrenja za obavljanje poslova osiguranja Agencija će o tome obavijestiti nadležna nadzorna tijela drugih država članica koja će poduzeti primjerene mjere kako bi spriječila društvo za osiguranje da započne nove poslove unutar njihovih državnih područja.
+
+(5) Agencija će u suradnji s nadležnim nadzornim tijelima iz stavka 4. ovoga članka poduzeti sve potrebne mjere za zaštitu interesa osiguranika, a posebno u vezi s raspolaganjem imovinom društva za osiguranje.
+
+(6) Agencija će o poništenom ili ukinutom odobrenju za obavljanje poslova osiguranja društvu za osiguranje bez odgađanja obavijestiti nadležno nadzorno tijelo države članice u kojoj je podružnica tog društva za osiguranje.
+
+(7) Iznimno od odredbi stavka 2. ovoga članka, Agencija će ukinuti odobrenje za obavljanje poslova osiguranja u pojedinim vrstama osiguranja, odnosno rizicima ako se razlog iz stavka 2. ovoga članka odnosi samo na obavljanje poslova osiguranja u tim pojedinim vrstama osiguranja odnosno na pojedini osigurani rizik.
+
+(8) Društvo za osiguranje ne smije sklapati nove ugovore o osiguraju niti poslove u vezi s obavljanjem poslova osiguranja od dana dostave rješenja iz stavaka 1. i 2. ovoga članka, osim onih ugovora i poslova kojima je cilj prijenos portfelja osiguranja odnosno kojima se osigurava prestanak društva za osiguranje na način određen ovim Zakonom.
+
+*Uvjetno ukidanje rješenja o odobrenju za obavljanje poslova osiguranja*
+
+##### Članak 247.
+
+(1) Rješenjem o ukidanju odobrenja za obavljanje poslova osiguranja Agencija može ujedno odlučiti da se ukidanje odobrenja za obavljanje poslova osiguranja neće provesti ako u roku koji odredi Agencija društvo za osiguranje otkloni razloge zbog kojih se odobrenje ukida, odnosno ako ne počini nove nezakonitosti i nepravilnosti zbog kojih se može ukinuti odobrenje za obavljanje poslova osiguranja.
+
+(2) Agencija će ukinuti rješenje iz stavka 1. ovoga članka ako u roku iz tog rješenja društvo za osiguranje ne otkloni razloge zbog kojih se odobrenje ukida, odnosno ako počini nove nezakonitosti i nepravilnosti zbog kojih se odobrenje može ukinuti i donijeti rješenje o ukidanju odobrenja za obavljanje poslova osiguranja.
+
+### ODJELJAK VII. — REORGANIZACIJA I POSEBNA UPRAVA
+
+*Primjena drugih propisa*
+
+##### Članak 248.
+
+Na postupak reorganizacije primjenjuju se odredbe ovoga Zakona i odredbe Zakona o trgovačkim društvima, osim kad je odredbama ovoga Zakona drukčije propisano.
+
+*Reorganizacija društva za osiguranje*
+
+##### Članak 249.
+
+(1) Reorganizacijske mjere su mjere namijenjene očuvanju ili ponovnoj uspostavi financijske stabilnosti društva za osiguranje.
+
+(2) Agencija može donijeti rješenje o reorganizacijskim mjerama društva za osiguranje sa sjedištem u Republici Hrvatskoj koje ima odobrenje Agencije za obavljanje poslova osiguranja, uključujući njegove podružnice.
+
+(3) Reorganizacijske mjere ne isključuju otvaranje likvidacijskog ili stečajnog postupka nad društvom za osiguranje iz stavka 1. ovoga članka.
+
+(4) Reorganizacijske mjere iz stavka 1. ovoga članka imaju bez ograničenja pravni učinak na cijelom području država članica, a odnose se i na treće strane u drugim državama članicama, čak i kad zakonodavstvo tih drugih država članica ne predviđa takve reorganizacijske mjere ili kad za njihovu provedbu vrijede uvjeti koji nisu ispunjeni.
+
+(5) Pravni učinak reorganizacijskih mjera iz stavka 1. ovoga članka nastupa na cijelom području država članica istodobno s nastupanjem njihovih pravnih učinaka u Republici Hrvatskoj.
+
+(6) Agencija imenuje posebnu upravu društva za osiguranje koja u skladu s odredbama ovoga Zakona provodi reorganizacijske mjere Agencije.
+
+*Obavijest nadzornim tijelima drugih država članica*
+
+##### Članak 250.
+
+Agencija će bez odgađanja obavijestiti nadzorna tijela svih drugih država članica o reorganizacijskim mjerama koje je donijela, kao i o mogućim praktičnim učincima takvih mjera.
+
+*Objavljivanje rješenja o reorganizacijskim mjerama*
+
+##### Članak 251.
+
+(1) Agencija će objaviti izreku rješenja s reorganizacijskom mjerom, odnosno imenovanjem posebne uprave društva za osiguranje na svojoj mrežnoj stranici, u »Narodnim novinama« i u »Službenom listu Europske unije«.
+
+(2) U rješenju iz stavka 1. ovoga članka Agencija će imenovati i posebnu upravu za provođenje reorganizacijskih mjera Agencije.
+
+(3) Reorganizacijske mjere primjenjuju se bez obzira na odredbe o objavljivanju iz stavaka 1. i 2. ovoga članka i imaju bez ograničenja pravni učinak na vjerovnike, osim ako u rješenju Agencije nije odlučeno drukčije.
+
+(4) Kad reorganizacijske mjere utječu isključivo na prava dioničara ili zaposlenika društva za osiguranje, odredbe stavaka 1., 2. i 3. ovoga članka se ne primjenjuju.
+
+*Uvjeti za imenovanje posebne uprave društva za osiguranje*
+
+##### Članak 252.
+
+(1) Agencija će donijeti rješenje o imenovanju posebne uprave društva za osiguranje u sljedećim slučajevima:
+
+1. ako ocijeni da je ugrožena likvidnost ili solventnost društva za osiguranje ili da bi daljnje poslovanje društva za osiguranje moglo ugroziti njegovu likvidnost ili solventnost
+
+2. ako društvo za osiguranje nema broj članova uprave propisan statutom, odnosno ovim Zakonom, a nadzorni odbor nije imenovao člana nadzornog odbora za privremenog zamjenika člana uprave ili je proteklo razdoblje obavljanja njegove funkcije kao člana uprave, a nije imenovan član uprave koji nedostaje
+
+3. ako društvo za osiguranje na bilo koji način onemogućuje obavljanje nadzora svojeg poslovanja ili
+
+4. ako društvo za osiguranje ne izvršava nadzorne mjere koje je Agencija naložila svojim rješenjem.
+
+(2) Rješenjem iz stavka 1. ovoga članka Agencija će u posebnu upravu imenovati jednog ili više upravitelja i ukinuti rješenje o odobrenju za obavljanje funkcije članovima uprave društva za osiguranje.
+
+(3) Protiv rješenja Agencije iz stavka 1. ovoga članka dotadašnja uprava i nadzorni odbor društva za osiguranje ovlašteni su podnijeti tužbu nadležnom upravnom sudu u roku od 30 dana od dana primitka navedenog rješenja.
+
+(4) Rješenje iz stavka 1. ovoga članka Agencija će dostaviti nadležnom sudu radi upisa upravitelja društva za osiguranje u sudski registar.
+
+(5) Prava i obveze članova posebne uprave počinju danom izvršnosti rješenja o imenovanju posebne uprave bez obzira na upis u sudski registar.
+
+*Upravitelji i pomoćnici upravitelja*
+
+##### Članak 253.
+
+(1) Upravitelj može biti samo osoba koja ispunjava uvjete iz članka 51. stavka 1. ovoga Zakona.
+
+(2) Upravitelji na državnom području svih država članica imaju sva ovlaštenja koja im pripadaju na državnom području Republike Hrvatske, a pri izvršavanju svojih ovlaštenja u skladu s propisima Republike Hrvatske dužni su poštivati propise država članica u kojima žele djelovati, posebno u vezi s načinom unovčenja imovine i obavješćivanja radnika. Ta ovlaštenja ne uključuju primjenu prisilnih sredstava ni ovlaštenje da odlučuju u sudskim i drugim sporovima.
+
+(3) Agencija može u rješenju o imenovanju posebne uprave imenovati i pomoćnike upravitelja koji će obavljati pomoćne, administrativne i tehničke poslove po nalogu upravitelja. Pomoćnici upravitelja nisu članovi posebne uprave.
+
+(4) Upravitelji i pomoćnici upravitelja imenuju se na razdoblje koje ne može biti duže od godine dana.
+
+(5) Agencija će rješenjem odlučiti o naknadi i troškovima na koje imaju pravo upravitelji i pomoćnici upravitelja.
+
+(6) Naknadu i troškove iz stavka 5. ovoga članka podmiruje društvo za osiguranje kojem je imenovana posebna uprava.
+
+*Prestanak funkcije upravitelja i pomoćnika upravitelja*
+
+##### Članak 254.
+
+(1) Agencija može tijekom razdoblja posebne uprave opozvati imenovanog upravitelja ili pomoćnika upravitelja ako on ne obavlja svoju dužnost ili je ne obavlja na zadovoljavajući način, kao i zbog drugih opravdanih razloga te imenovati novoga upravitelja ili pomoćnika upravitelja, čiji mandat može trajati najduže do isteka započetog mandata razriješenog upravitelja, odnosno pomoćnika upravitelja.
+
+(2) Mandat posebne uprave prestaje:
+
+1. istekom roka na koji je imenovana
+
+2. danom imenovanja likvidatora društva za osiguranje
+
+3. danom otvaranja stečajnog postupka nad društvom za osiguranje
+
+4. danom imenovanja članova uprave odnosno zamjenika članova uprave iz članka 261. ovoga Zakona.
+
+(3) Danom prestanka mandata upravitelja prestaje i mandat pomoćnika upravitelja.
+
+*Pravne posljedice imenovanja posebne uprave*
+
+##### Članak 255.
+
+(1) Rješenjem o imenovanju posebne uprave istodobno se ukida odobrenje za obavljanje funkcije člana uprave osobama koje su obavljale funkciju člana uprave društva za osiguranje do imenovanja posebne uprave i prestaju sve ovlasti i mandati dotadašnjih članova uprave i nadzornog odbora, a ugovori na temelju kojih su dotadašnji članovi uprave i nadzornog odbora obavljali svoje funkcije prestaju važiti.
+
+(2) U slučaju imenovanja posebne uprave zbog razloga iz članka 252. stavka 1. točaka 1., 3. i 4. ovoga Zakona dotadašnji članovi uprave iz stavka 1. ovoga članka ne ostvaruju pravo na isplatu otpremnine i varijabilnih primitaka, neovisno o tome je li ostvarivanje takvih prava bilo ugovoreno s društvom za osiguranje ili je proizlazilo iz drugog akta društva za osiguranje.
+
+(3) Upravitelji i pomoćnici upravitelja odgovorni su za štetu i dužni su je nadoknaditi samo ako je prouzroče pri obavljanju dužnosti u okviru ovoga Zakona namjerno ili iz krajnje nepažnje.
+
+(4) Za vrijeme trajanja posebne uprave obavljanje nadležnosti nadzornog odbora preuzima Agencija.
+
+(5) Iznimno od odredbi stavka 4. ovoga članka, Agencija ima pravo davati upravitelju obvezujuće naloge i upute za reorganizaciju i vođenje poslova društva za osiguranje.
+
+(6) Upravitelji izvršavaju obveze članova uprave društva za osiguranje i postupaju po nalozima i uputama Agencije.
+
+*Dužnost suradnje s posebnom upravom*
+
+##### Članak 256.
+
+(1) Osobe koje su obavljale funkciju člana uprave društva za osiguranje i druge osobe s posebnim ovlaštenjima i odgovornostima društva za osiguranje dužne su posebnoj upravi i pomoćnicima posebne uprave bez odgađanja omogućiti pristup cjelokupnoj poslovnoj i drugoj dokumentaciji društva za osiguranje te sastaviti izvješće o primopredaji poslova.
+
+(2) Osobe iz stavka 1. ovoga članka dužne su na zahtjev posebne uprave, odnosno pojedinog upravitelja i njegova pomoćnika dati sva objašnjenja, odnosno dodatna izvješća o poslovanju društva za osiguranje.
+
+(3) Upravitelj ima pravo udaljiti osobu koja ga ometa u radu, a s obzirom na okolnosti slučaja može zatražiti i pomoć nadležnog tijela unutarnjih poslova.
+
+*Poslovi posebne uprave*
+
+##### Članak 257.
+
+(1) Posebna uprava vodi poslove društva za osiguranje.
+
+(2) Agencija je ovlaštena davati posebnoj upravi pisane naloge i upute.
+
+*Obveze posebne uprave*
+
+##### Članak 258.
+
+(1) Posebna uprava dužna je nakon imenovanja, najmanje svaka tri mjeseca, sastaviti i dostaviti Agenciji izvješće o financijskom stanju i uvjetima poslovanja društva za osiguranje zajedno s procjenom njegove financijske stabilnosti i mogućnostima za njegovo daljnje poslovanje.
+
+(2) Posebna uprava dužna je, u roku od devet mjeseci nakon imenovanja posebne uprave, predati Agenciji izvješće o financijskom stanju i uvjetima poslovanja društva za osiguranje pod posebnom upravom, zajedno s ocjenom stabilnosti društva za osiguranje i mogućnosti za daljnje poslovanje društva za osiguranje, koje obuhvaća:
+
+1. ocjenu i posljedice preuzimanja gubitaka društva za osiguranje od strane dioničara društva za osiguranje
+
+2. mogućnosti alokacije i disperzije ostalih gubitaka društva za osiguranje
+
+3. nepredviđene rashode koji mogu utjecati na obveze društva za osiguranje
+
+4. ocjenu mogućih mjera za otklanjanje financijskih poteškoća društva za osiguranje, uključujući prijenos ugovora o osiguranju s procjenom troškova provedbe tih mjera
+
+5. procjenu uvjeta za početak likvidacije, odnosno stečaja društva za osiguranje.
+
+(3) Posebna uprava dužna je na zahtjev Agencije dostaviti dodatna izvješća i informacije o svim pitanjima važnima za provođenje nadzora te procjene financijskog stanja i mogućnosti daljnjeg poslovanja društva za osiguranje.
+
+(4) Posebna uprava dužna je bez odgađanja obavijestiti Agenciju o svim okolnostima koje mogu utjecati na pogoršanje financijskog stanja društva za osiguranje.
+
+(5) Posebna uprava dužna je postupati po nalozima i uputama Agencije i redovito izvještavati Agenciju o izvršenju naloga i uputa.
+
+(6) Agencija može naložiti posebnoj upravi da sazove glavnu skupštinu dioničara društva za osiguranje s utvrđenim dnevnim redom i prijedlogom odluka.
+
+(7) Posebna uprava sazvat će glavnu skupštinu najkasnije u roku od osam dana od dana primitka naloga Agencije iz stavka 6. ovoga članka, a glavna skupština sazvat će se najmanje 30 dana prije dana njezina održavanja. U taj se rok ne uračunava dan objave poziva.
+
+*Povećanje temeljnog kapitala radi osiguranja financijske stabilnosti društva za osiguranje*
+
+##### Članak 259.
+
+(1) Ako Agencija na temelju izvješća posebne uprave procijeni da je, radi osiguranja usklađenosti s potrebnim solventnim kapitalom društva za osiguranje, odnosno radi otklanjanja uzroka neusklađenosti s potrebnim solventnim kapitalom društva za osiguranje, nužno povećati temeljni kapital društva za osiguranje, naložit će posebnoj upravi da sazove glavnu skupštinu društva za osiguranje i predloži joj prihvaćanje odluke o takvom povećanju temeljnog kapitala.
+
+(2) Posebna uprava dužna je objaviti saziv glavne skupštine radi odlučivanja o povećanju temeljnog kapitala iz stavka 1. ovoga članka najkasnije u roku od osam dana nakon primitka naloga Agencije iz stavka 1. ovoga članka.
+
+(3) U pozivu na glavnu skupštinu dioničari moraju biti upozoreni na pravne posljedice iz članka 273. stavka 2. točke 2. ovoga Zakona.
+
+*Ocjena rezultata posebne uprave*
+
+##### Članak 260.
+
+(1) Ako Agencija procijeni da se za vrijeme trajanja posebne uprave financijsko stanje društva za osiguranje poboljšalo do mjere da društvo za osiguranje doseže razinu potrebnog solventnog kapitala, odnosno da je u stanju izvršavati dospjele obveze, rješenjem će naložiti posebnoj upravi da u roku od osam dana od dostave rješenja sazove glavnu skupštinu društva za osiguranje, radi izbora odnosno imenovanja članova nadzornog odbora, koja se mora održati najkasnije u roku od dva mjeseca od dostave tog rješenja.
+
+(2) U slučaju iz stavka 1. ovoga članka glavna skupština izabire odnosno imenuje članove novog nadzornog odbora, čime prestaju ovlasti Agencije iz članka 255. stavka 4. ovoga Zakona. Nadzorni odbor će nakon dobivanja odobrenja Agencije za imenovanje člana uprave prema odredbama ovoga Zakona imenovati člana uprave društva za osiguranje. Danom imenovanja članova uprave odnosno zamjenika članova uprave u skladu s člankom 261. ovoga Zakona prestaje mandat posebne uprave.
+
+(3) Ako Agencija procijeni da se za vrijeme trajanja posebne uprave financijsko stanje društva za osiguranje nije poboljšalo do mjere da je društvo za osiguranje dostiglo razinu potrebnog solventnog kapitala, odnosno da je u stanju izvršavati dospjele obveze, može donijeti rješenje o produženju rada posebne uprave na rok od najviše šest mjeseci ako ne postoje uvjeti za podnošenje prijedloga za otvaranje stečaja nad društvom za osiguranje odnosno ako Agencija procijeni da će društvo za osiguranje u sljedećih šest mjeseci dostići razinu potrebnog solventnog kapitala.
+
+(4) Ako Agencija ocijeni da se za vrijeme trajanja mandata posebne uprave stanje u društvu za osiguranje nije izmijenilo tako da je kapital društva za osiguranje dosegnuo razinu potrebnog solventnog kapitala odnosno tako da društvo za osiguranje može ispunjavati svoje dospjele obveze, donijet će rješenje o otvaranju postupka likvidacije ili ako su ispunjeni uvjeti za podnošenje prijedloga za otvaranje stečaja, predložiti otvaranje stečajnog postupka.
+
+*Imenovanje zamjenika članova uprave iz redova nadzornog odbora*
+
+##### Članak 261.
+
+(1) Ako je glavna skupština društva za osiguranje donijela odluku o izboru, odnosno imenovanju članova novoga nadzornog odbora, do imenovanja novih članova uprave, ali ne duže od tri mjeseca, prava i dužnosti uprave društva za osiguranje obnašaju dva člana nadzornog odbora koje kao zamjenike članova uprave imenuje nadzorni odbor. Nadzorni odbor dužan je imenovati zamjenike članova uprave u roku od dva radna dana od dana svog imenovanja i o tome bez odgađanja obavijestiti Agenciju.
+
+(2) Ako je statutom društva za osiguranje predviđeno da nadzorni odbor ima tri člana, glavna skupština mora u novi nadzorni odbor izabrati, odnosno imenovati pet članova, od kojih dva s mandatom do imenovanja novih članova uprave.
+
+*Posebna uprava društva za uzajamno osiguranje*
+
+##### Članak 262.
+
+Odredbe ovoga Zakona o posebnoj upravi društva za osiguranje na odgovarajući se način primjenjuju na društvo za uzajamno osiguranje.
+
+### ODJELJAK VIII. — LIKVIDACIJA DRUŠTVA ZA OSIGURANJE
+
+*Otvaranje postupka likvidacije odlukom društva za osiguranje*
+
+##### Članak 263.
+
+(1) Glavna skupština društva za osiguranje može donijeti odluku o prestanku društva za osiguranje, uključujući njegove podružnice u drugim državama članicama i likvidaciji društva za osiguranje.
+
+(2) Najmanje 30 dana prije donošenja odluke iz stavka 1. ovoga članka uprava i nadzorni odbor društva za osiguranje dužni su o toj namjeri pisano obavijestiti Agenciju.
+
+(3) Uprava, odnosno likvidatori društva za osiguranje dužni su obavijestiti Agenciju o donesenoj odluci iz stavka 1. ovoga članka prvog radnog dana nakon njezina donošenja.
+
+(4) Agencija će o donošenju odluke iz stavka 1. ovoga članka obavijestiti nadzorna tijela svih drugih država članica te trećih država ako je odluku iz stavka 1. ovoga članka donijelo društvo za osiguranje koje ima podružnice u tim trećim državama, kao i o mogućim praktičnim učincima takvog postupka.
+
+(5) Obavijest iz stavka 4. ovoga članka mora sadržavati pravne posljedice i stvarne učinke donesene odluke.
+
+*Likvidatori*
+
+##### Članak 264.
+
+(1) Društvo za osiguranje mora imati najmanje dva likvidatora koji ga zajedno zastupaju.
+
+(2) Likvidatorom društva za osiguranje može biti imenovana samo fizička osoba koja ispunjava uvjete za imenovanje za člana uprave društva za osiguranje iz članka 51. stavaka 1. – 6. ovoga Zakona.
+
+(3) Likvidatori društva za osiguranje dužni su okončati poslove koji su u tijeku, naplatiti tražbine, unovčiti imovinu društva za osiguranje i podmiriti obveze društva za osiguranje.
+
+(4) U mjeri u kojoj to zahtijeva provođenje likvidacije, likvidatori mogu ulaziti u nove poslove osim onih koji su nužni radi unovčenja likvidacijske mase.
+
+(5) Na zahtjev Agencije likvidatori su dužni dostaviti izvješće o tijeku postupka likvidacije.
+
+(6) Likvidatori svoje imenovanje dokazuju ovjerenim prijepisom izvornika odluke kojom su imenovani ili bilo kojom drugom potvrdom koju je izdalo nadležno tijelo Republike Hrvatske.
+
+(7) Likvidatori na državnom području svih država članica imaju sva ovlaštenja koja im pripadaju na državnom području Republike Hrvatske, a pri izvršavanju svojih ovlaštenja u skladu s propisima Republike Hrvatske dužni su poštivati propise država članica u kojima žele djelovati, posebno u vezi s načinom unovčenja imovine i obavješćivanja radnika. Ta ovlaštenja ne uključuju primjenu prisilnih sredstava ni ovlaštenje da odlučuje u sudskim i drugim sporovima.
+
+(8) Ako likvidatori utvrde postojanje stečajnog razloga, dužni su bez odgađanja nadležnom sudu podnijeti prijedlog za otvaranje stečajnog postupka nad društvom za osiguranje i o tome odmah pisano obavijestiti Agenciju.
+
+(9) Odluku o imenovanju likvidatora društvo za osiguranje dostavit će bez odgađanja nadležnom sudu radi upisa likvidatora društva za osiguranje u sudski registar.
+
+*Primjena drugih propisa*
+
+##### Članak 265.
+
+Na postupak i učinke likvidacije društva za osiguranje primjenjuju se odredbe ovoga Zakona i odredbe Zakona o trgovačkim društvima o likvidaciji dioničkog društva, osim ako odredbama ovoga Zakona nije drukčije propisano.
+
+*Poslovanje društva za osiguranje u likvidaciji*
+
+##### Članak 266.
+
+Nakon otvorenog postupka likvidacije društvo za osiguranje može obavljati još samo poslove osiguranja potrebne i primjerene za završetak postupka likvidacije te poslove iz članka 264. stavka 4. ovoga Zakona.
+
+*Objava odluke*
+
+##### Članak 267.
+
+(1) Odluku o početku likvidacijskog postupka društvo za osiguranje objavljuje u »Narodnim novinama« i u »Službenom listu Europske unije« na hrvatskom jeziku ili na jednom od službenih jezika drugih država članica.
+
+(2) Sažetak odluke o početku likvidacijskog postupka društvo za osiguranje koje obavlja poslove osiguranja u trećoj državi preko podružnice objavljuje u »Narodnim novinama« i službenom listu treće države u kojoj ima podružnicu.
+
+(3) U objavi iz stavaka 1. i 2. ovoga članka navodi se nadležno nadzorno tijelo, propisi koji se primjenjuju i likvidatori koji su imenovani.
+
+*Obavještavanje poznatih vjerovnika o početku postupka likvidacije i prijava tražbina*
+
+##### Članak 268.
+
+(1) Kad je otvoren postupak likvidacije, likvidator je dužan bez odgađanja pisanim putem o toj odluci pojedinačno obavijestiti svakog poznatog vjerovnika koji ima poreznu rezidentnost, uobičajeno boravište ili sjedište u Republici Hrvatskoj i drugim državama članicama.
+
+(2) Obavijest iz stavka 1. ovoga članka obvezno mora sadržavati:
+
+1. ime i naslov tijela koje će voditi postupak likvidacije i tijela kojem je potrebno poslati prijavu tražbina
+
+2. rok za prijavu tražbina i pravne posljedice ako ih vjerovnik ne prijavi
+
+3. prava i dužnosti vjerovnika u postupku likvidacije, prije svega, jesu li vjerovnici s privilegiranim tražbinama i vjerovnici čije su tražbine osigurane stvarnim pravima dužni podnijeti prijavu
+
+4. opće učinke početka postupka likvidacije na ugovore o osiguranju i poslove, posebno datum s kojim će ugovori o osiguranju ili poslovi prestati imati učinke te prava i obveze osiguranih s obzirom na ugovor ili posao.
+
+(3) Vjerovnik šalje likvidatorima preslike bilo kojih dodatnih dokumenata i naznačuje sljedeće:
+
+1. prirodu i iznos tražbine
+
+2. datum s kojim je tražbina nastala
+
+3. kad tvrdi da je privilegiran, stvarnopravno sredstvo osiguranja ili pridržaj prava vlasništva s obzirom na tražbinu
+
+4. prema potrebi, navodi koja je imovina pokrivena njegovim osiguranjem.
+
+(4) Informacije i obavijesti iz stavaka 1. i 2. ovoga članka dostavljaju se na hrvatskom jeziku. Iznimno, kad poznati vjerovnik potražuje osigurninu, informacije i obavijesti iz stavka 2. ovoga članka dostavljaju se na službenom jeziku ili jednom od službenih jezika države članice u kojoj se nalazi uobičajeno boravište, porezna rezidentnost ili sjedište vjerovnika.
+
+(5) U skladu s odredbama ovoga članka dužni su postupiti i likvidatori društva za osiguranje sa sjedištem u drugoj državi članici koje ima podružnicu u Republici Hrvatskoj.
+
+(6) Vjerovnik prijavljuje tražbinu društvu za osiguranje u likvidaciji na službenom jeziku države članice u kojoj ima prebivalište, odnosno sjedište.
+
+(7) Vjerovnici čije se uobičajeno boravište, porezna rezidentnost ili sjedište nalazi u drugoj državi članici prijavu svojih tražbina ili obrazloženje tražbina mogu dostaviti na službenom jeziku ili na jednom od službenih jezika te druge države članice. U tom slučaju, prijava njihovih tražbina ili dostavljanje obrazloženja tražbina, prema potrebi, sadržavaju u zaglavlju sljedeće riječi »Prijava tražbine« ili »Dostavljanje obrazloženja tražbina« na službenom jeziku Republike Hrvatske.
+
+*Obveze koje proizlaze iz ugovora sklopljenih preko prava poslovnog nastana ili u skladu sa slobodom pružanja usluga*
+
+##### Članak 269.
+
+Prilikom likvidacije društva za osiguranje, obveze koje proizlaze iz ugovora sklopljenih preko prava poslovnog nastana i ugovora sklopljenih u skladu sa slobodom pružanja usluga podmiruju se na isti način kao obveze koje proizlaze iz drugih ugovora o osiguranju tog društva te bez obzira na državljanstvo osiguranih osoba i korisnika osiguranja.
+
+*Redovito obavješćivanje vjerovnika*
+
+##### Članak 270.
+
+(1) Likvidatori društva za osiguranje dužni su na primjeren način redovito obavještavati vjerovnike o postupku likvidacije, a Agenciju na njezin zahtjev.
+
+(2) Agencija obavještava nadzorna tijela drugih država članica o razvoju postupka likvidacije na njihov zahtjev.
+
+*Ponovno stjecanje dozvole za obavljanje poslova osiguranja*
+
+##### Članak 271.
+
+(1) Društvo za osiguranje koje je otvorilo postupak likvidacije ili nad kojim je otvoren postupak likvidacije, odnosno društvo za osiguranje nad kojim je otvoren stečajni postupak ne može promijeniti djelatnost na način da prestane pružati usluge osiguranja i nastavi poslovati već mora završiti postupak likvidacije, odnosno stečaja i provesti brisanje u sudskom registru.
+
+(2) Na društvo za osiguranje u likvidaciji ili stečaju ne primjenjuje se članak 167. ovoga Zakona.
+
+*Likvidacija društva za reosiguranje*
+
+##### Članak 272.
+
+(1) Odredbe o likvidaciji društva za osiguranje na odgovarajući se način primjenjuju na društvo za reosiguranje, ako odredbama ovoga Zakona nije drukčije propisano.
+
+(2) Prilikom likvidacije društva za reosiguranje, obveze koje proizlaze iz ugovora sklopljenih preko podružnice ili u skladu sa slobodom pružanja usluga podmiruju se na isti način kao obveze koje proizlaze iz drugih ugovora o reosiguranju tog društva.
+
+*Otvaranje postupka likvidacije rješenjem Agencije*
+
+##### Članak 273.
+
+(1) Samo Agencija može donijeti rješenje o otvaranju postupka likvidacije nad društvom za osiguranje, uključujući njegove podružnice u drugim državama članicama.
+
+(2) Agencija donosi rješenje iz stavka 1. ovoga članka u slučajevima propisanim člankom 246. ovoga Zakona i u sljedećim slučajevima:
+
+1. ako na temelju izvješća posebne uprave procijeni da se za vrijeme trajanja posebne uprave financijsko stanje društva za osiguranje nije poboljšalo, odnosno da se nastavlja pogoršavati do mjere da društvo za osiguranje neće biti usklađeno s potrebnim solventnim kapitalom, odnosno minimalnim potrebnim kapitalom propisanim ovim Zakonom te da ne postoje uvjeti za podnošenje prijedloga za otvaranje stečajnog postupka
+
+2. ako glavna skupština društva za osiguranje ne donese ili odbije donijeti odluku iz članka 258. stavka 6. ovoga Zakona o povećanju temeljnog kapitala društva za osiguranje ili je donese, ali prva prodaja dionica ne uspije, ili ne donese ili odbije donijeti odluku o izboru ili imenovanju članova nadzornog odbora odnosno članova uprave, u skladu s člankom 260. stavkom 3. ovoga Zakona
+
+3. ako je poništeno rješenje o odobrenju za obavljanje poslova osiguranja društva za osiguranje ili je ukinuto tako da društvo više nema odobrenje za obavljanje poslova osiguranja
+
+4. ako je glavna skupština donijela odluku o promjeni djelatnosti na način da će društvo za osiguranje prestati pružati usluge osiguranja, osim ako je prije toga društvo za osiguranje prenijelo svoj ukupni portfelj osiguranja na drugo društvo za osiguranje u skladu s odredbama ovoga Zakona.
+
+(3) Agencija će donijeti rješenje iz stavka 1. ovoga članka u roku od 30 dana koji teče:
+
+1. u slučaju iz stavka 2. točke 1. ovoga članka najkasnije od dana dostave izvješća posebne uprave iz članka 258. ovoga Zakona
+
+2. u slučaju iz stavka 2. točke 2. ovoga članka od dana kada je glavna skupština trebala donijeti odluku ili odbila donijeti odluku o povećanju temeljnog kapitala društva za osiguranje, odnosno od dana kada je istekao rok za upis i uplatu dionica na temelju bezuspješne prve prodaje
+
+3. u slučaju iz stavka 2. točke 3. ovoga članka Agencija će istodobno s donošenjem rješenja o ukidanju odobrenja za obavljanje poslova osiguranja donijeti rješenje o otvaranju postupka likvidacije
+
+4. u slučaju iz stavka 2. točke 4. ovoga članka istekom dana u kojem je održana glavna skupština.
+
+(4) Agencija će o donošenju rješenja iz stavka 1. ovoga članka obavijestiti nadzorna tijela svih drugih država članica te trećih država ako se rješenje odnosi na društvo za osiguranje koje ima podružnice u tim trećim državama, kao i o mogućim praktičnim učincima takvog postupka.
+
+(5) Ako zbog zaštite interesa stranaka društva za osiguranje ili zbog drugih javnih interesa nije moguće odgoditi donošenje rješenja iz stavka 1. ovoga članka, Agencija će obavijestiti nadzorna tijela iz stavka 4. ovoga članka odmah nakon donošenja rješenja.
+
+*Likvidatori imenovani rješenjem Agencije*
+
+##### Članak 274.
+
+(1) Kad Agencija donese rješenje iz članka 273. stavka 1. ovoga Zakona, istim će rješenjem imenovati najmanje dva likvidatora društva za osiguranje te odrediti vrstu i opseg poslova koje obavlja pojedini likvidator.
+
+(2) Na likvidatore iz stavka 1. ovoga članka primjenjuju se odredbe članka 264. stavaka 1. – 8. ovoga Zakona.
+
+(3) Danom imenovanja likvidatora prestaju sve ovlasti članova uprave društva za osiguranje, a ovlasti glavne skupštine i nadzornog odbora izvršavaju se uz prethodnu suglasnost Agencije, osim ovlasti za podnošenje tužbe nadležnom sudu protiv rješenja Agencije iz stavka 1. ovoga članka.
+
+(4) Likvidatori su dužni pisano izvještavati Agenciju o tijeku likvidacijskog postupka te izraditi i Agenciji dostaviti u roku od 30 dana od dana podmirenja svih obveza i eventualne isplate preostale imovine dioničarima društva za osiguranje, zaključna likvidacijska izvješća i izvješće o provedenoj likvidaciji društva za osiguranje te su odgovorni za izradu tih izvješća.
+
+(5) Likvidatori imaju pravo na primjerenu naknadu troškova i na nagradu za rad koju plaća društvo za osiguranje nad kojim je otvoren postupak likvidacije.
+
+(6) Rješenje o imenovanju likvidatora Agencija će dostaviti nadležnom sudu radi upisa likvidatora društva za osiguranje u sudski registar.
+
+*Poslovanje društva za osiguranje u likvidaciji*
+
+##### Članak 275.
+
+Nakon otvorenog postupka likvidacije društvo za osiguranje može obavljati još samo poslove osiguranja potrebne i primjerene za završetak postupka likvidacije i poslove koji su potrebni za prijenos ugovora o osiguranju na drugo društvo za osiguranje.
+
+*Objava rješenja o početku postupka likvidacije u »Službenom listu Europske unije«*
+
+##### Članak 276.
+
+(1) Rješenje o oduzimanju odobrenja za obavljanje poslova osiguranja i pokretanju postupka likvidacije društva za osiguranje sa sjedištem u Republici Hrvatskoj Agencija će objaviti na svojoj mrežnoj stranici i u »Narodnim novinama«, a izreku rješenja objavit će u »Službenom listu Europske unije«. Na isti će način postupiti nadležno nadzorno tijelo druge države članice u slučaju oduzimanja dozvole za obavljanje poslova osiguranja društvu za osiguranje koje ima sjedište u toj državi članici, a podružnicu u Republici Hrvatskoj.
+
+(2) Na postupak likvidacije društva za osiguranje sa sjedištem u Republici Hrvatskoj koje ima podružnicu u drugoj državi članici primjenjuju se pravni propisi Republike Hrvatske.
+
+*Učinak rješenja o otvaranju postupka likvidacije*
+
+##### Članak 277.
+
+(1) Rješenje o otvaranju postupka likvidacije nad društvom za osiguranje, uključujući njegove podružnice, priznaje se na cijelom području država članica bez daljnjih formalnosti i njegov pravni učinak u drugim državama članicama nastupa istodobno s nastupanjem pravnih učinaka u Republici Hrvatskoj.
+
+(2) Agencija će obavijestiti EIOPA-u i nadzorna tijela drugih država članica u kojima društvo za osiguranje ima podružnicu o rješenju o otvaranju postupka likvidacije nad društvom za osiguranje, kao i o mogućim praktičnim učincima takvog postupka ako je moguće prije donošenja rješenja iz članka 273. ovoga Zakona, a ako to nije moguće, odmah nakon donošenja tog rješenja.
+
+*Učinak odluke o prestanku društva za osiguranje iz druge države članice*
+
+##### Članak 278.
+
+Odluka kojom je oduzeto odobrenje za obavljanje poslova osiguranja društvu za osiguranje iz druge države članice koja ima podružnicu u Republici Hrvatskoj, a koju izdaje nadležno nadzorno tijelo države članice i koja ima jednak pravni učinak kao rješenje o oduzimanju odobrenja za obavljanje poslova osiguranja društvu za osiguranje prema ovom Zakonu, bez posebnog postupka priznanja i izvršenja, ima neposredni učinak na području Republike Hrvatske i u državi članici.
+
+*Primjena drugih propisa*
+
+##### Članak 279.
+
+(1) Na postupak likvidacije društva za osiguranje koji je otvoren rješenjem Agencije primjenjuju se odredbe o likvidaciji dioničkog društva iz Zakona o trgovačkim društvima, osim ako odredbama ovoga Zakona nije drukčije propisano.
+
+(2) Na društvo za osiguranje u likvidaciji iz stavka 1. ovoga članka primjenjuju se odredbe članaka 268. – 272. ovoga Zakona.
+
+(3) Odredbe o likvidaciji društva za osiguranje na odgovarajući se način primjenjuju na društvo za reosiguranje, ako odredbama ovoga Zakona nije drukčije propisano.
+
+*Likvidacija podružnice društva za osiguranje iz treće države osnovane u Republici Hrvatskoj*
+
+##### Članak 280.
+
+(1) Kad društvo za osiguranje iz treće države ima podružnice osnovane u više od jedne države članice, svaka se podružnica tretira zasebno s obzirom na primjenu odredbi o likvidaciji.
+
+(2) Na podružnicu društva za osiguranje iz treće države nad kojom se provodi postupak likvidacije na odgovarajući se način primjenjuju odredbe ovoga Zakona o likvidaciji društva za osiguranje iz članka 273. ovoga Zakona.
+
+(3) Agencija je dužna prije donošenja rješenja o ukidanju odobrenja društvu za osiguranje iz treće države za obavljanje poslova osiguranja preko podružnice osnovane u Republici Hrvatskoj obavijestiti sva nadzorna tijela drugih država članica u kojima društvo za osiguranje nad čijom podružnicom počinje postupak likvidacije ima podružnice.
+
+(4) Obavijest iz stavka 3. ovoga članka mora sadržavati informacije o stvarnim učincima takvog postupka.
+
+(5) Iznimno od odredbi stavka 3. ovoga članka, ako zbog zaštite osiguranika nije početak postupka likvidacije moguće odgađati, Agencija će nadležna nadzorna tijela drugih država članica obavijestiti odmah nakon donošenja rješenja.
+
+(6) Agencija će u postupku likvidacije iz stavka 3. ovoga članka uzajamno surađivati s nadzornim tijelima drugih država članica.
+
+(7) Likvidatori su dužni u postupku likvidacije iz stavka 3. ovoga članka međusobno surađivati, a dužni su jedan drugome dati sve pravno dopuštene obavijesti koje mogu biti od značenja za provođenje likvidacijskog postupka.
+
+*Suosiguranje u postupku likvidacije*
+
+##### Članak 281.
+
+U slučaju likvidacije društva za osiguranje, obveze koje proizlaze iz sudjelovanja u ugovorima o suosiguranju na razini Europske unije ispunjavaju se na isti način kao one koje proizlaze iz ostalih ugovora o osiguranju tog društva te se pri tome ne pravi razlika između državljanstva osiguranika i korisnika osiguranja.
+
+*Otvaranje postupka likvidacije odlukom društva za uzajamno osiguranje*
+
+##### Članak 282.
+
+(1) Likvidaciju društva za uzajamno osiguranje društvo provodi na temelju odluke skupštine društva za uzajamno osiguranje o prestanku društva.
+
+(2) Uplaćena sredstva temeljnog kapitala mogu se vratiti članovima društva tek onda kada su plaćene ostale obveze društva, uključujući obveze prema članovima iz ugovora o osiguranju.
+
+(3) Imovina koja ostane nakon plaćanja obveza podijelit će se osobama koje su bile članovi društva za uzajamno osiguranje u trenutku prihvaćanja odluke o prestanku društva. Dioba se obavlja u skladu s mjerilima o diobi dobiti članovima koja su određena statutom.
+
+(4) Na likvidatore društva za uzajamno osiguranje primjenjuju se odredbe o likvidatorima društva za osiguranje.
+
+(5) Ako ovim Zakonom nije drukčije određeno, na likvidaciju društva za uzajamno osiguranje primjenjuju se odredbe Zakona o trgovačkim društvima koje se odnose na likvidaciju društva s ograničenom odgovornošću.
+
+*Donošenje rješenja o otvaranju postupka likvidacije društva za uzajamno osiguranje*
+
+##### Članak 283.
+
+(1) Samo Agencija može donijeti rješenje o otvaranju likvidacijskog postupka nad društvom za uzajamno osiguranje.
+
+(2) Na postupak iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe ovoga Zakona o likvidaciji društva za osiguranje pokrenutoj na temelju rješenja Agencije.
+
+### ODJELJAK IX. — STEČAJ DRUŠTVA ZA OSIGURANJE
+
+*Primjena odredaba*
+
+##### Članak 284.
+
+(1) Samo nadležni sud u Republici Hrvatskoj može donijeti rješenje o otvaranju stečajnog postupka nad društvom za osiguranje, uključujući njegove podružnice.
+
+(2) Ako ovim Zakonom nije drukčije određeno, na stečajni postupak nad društvom za osiguranje primjenjuju se odredbe Stečajnog zakona.
+
+(3) Odredbe ovoga Zakona o stečaju društva za osiguranje na odgovarajući se način primjenjuju i na društvo za reosiguranje te društvo za uzajamno osiguranje.
+
+(4) Sud iz stavka 1. ovoga članka bez odgađanja će obavijestiti Agenciju o donošenju rješenja o otvaranju stečajnog postupka nad društvom za osiguranje, ako je moguće prije otvaranja tog postupka, a ako to nije moguće, odmah nakon otvaranja tog postupka.
+
+(5) Agencija će nakon primljene obavijesti iz stavka 4. ovoga članka donijeti rješenje kojim će ukinuti rješenje o odobrenju za obavljanje poslova osiguranja društvu za osiguranje u stečaju.
+
+(6) Agencija će o donošenju rješenja iz stavaka 4. 5. ovoga članka obavijestiti nadzorna tijela svih drugih država članica, kao i o mogućim praktičnim učincima takvog postupka.
+
+*Ugovori o osiguranju*
+
+##### Članak 285.
+
+(1) U slučaju stečaja društva za osiguranje kao osiguratelja ugovor o osiguranju prestaje nakon isteka trideset dana od otvaranja stečaja.
+
+(2) Na obavijest o otvaranju stečajnog postupka i prijavu tražbina primjenjuju se na odgovarajući način odredbe članka 268. ovoga Zakona i odredbe Stečajnog zakona koje nisu u suprotnosti s tim odredbama.
+
+(3) Tražbine vjerovnika prijavljuju se stečajnom upravitelju u roku od tri mjeseca od dana otvaranja stečajnog postupka nad društvom za osiguranje.
+
+*Stečajni upravitelj*
+
+##### Članak 286.
+
+(1) Za stečajnog upravitelja društva za osiguranje može se imenovati osoba koja osim uvjeta predviđenih Stečajnim zakonom ima i znanje i iskustvo iz područja osiguranja.
+
+(2) Prije imenovanja stečajnog upravitelja nadležni sud će se savjetovati s Agencijom.
+
+*Obavještavanje*
+
+##### Članak 287.
+
+(1) Nadležni sud obavještava Agenciju o otvaranju stečajnog postupka nad društvom za osiguranje i imenovanju stečajnog upravitelja, skrbnika vjerovnika, obustavi stečajnog postupka, kao i o zaključenju stečajnog postupka nad društvom za osiguranje.
+
+(2) Nadležni sud je dužan izreku rješenja o otvaranju stečajnog postupka nad društvom za osiguranje, uključujući njegove podružnice, objaviti u »Službenom listu Europske unije«.
+
+*Skrbnik vjerovnika*
+
+##### Članak 288.
+
+(1) Stečajni sud mora imenovati skrbnika vjerovnicima iz članka 290. stavka 1. i članka 291. ovoga Zakona radi očuvanja njihovih prava.
+
+(2) Skrbnik vjerovnika iz stavka 1. ovoga članka može biti samo fizička osoba koja ima znanje i iskustvo u obavljanju poslova osiguranja.
+
+(3) Prije imenovanja skrbnika vjerovnika mora se provesti savjetovanje s Agencijom.
+
+(4) Skrbnik vjerovnika mora utvrditi opseg postojeće imovine za pokriće potraživanja vjerovnika iz članaka 290. i 291. ovoga Zakona te utvrditi i prijaviti potraživanja tih osiguranika.
+
+(5) Ako je moguće, skrbnik vjerovnika mora vjerovnike saslušati prije prijave njihovih potraživanja, obavijestiti ih o podnesenoj prijavi i na njihov im zahtjev dati druge obavijesti o činjenicama, koje su bitne za njihove prijave potraživanja, a to ne isključuje pravo pojedinog osiguranika da samostalno prijavi svoje potraživanje. Ako prijava osiguranika odstupa od prijave skrbnika vjerovnika, valjanom se, sve do otklanjanja odstupanja, smatra prijava koja je povoljnija za vjerovnika.
+
+(6) Stečajni upravitelj mora skrbniku vjerovnika dopustiti uvid u sve knjige i pismena stečajnog dužnika te mu na zahtjev dokumentirati stanje imovine za pokriće potraživanja vjerovnika iz članaka 290. i 291. ovoga Zakona.
+
+(7) Skrbnik vjerovnika može za obavljanje svoje dužnosti zahtijevati primjerenu naknadu i naknadu troškova koja se isplaćuje na teret imovine za pokriće matematičke pričuve iz članka 180. stavka 2. ovoga Zakona.
+
+*Tražbine viših isplatnih redova*
+
+##### Članak 289.
+
+U tražbine prvog višeg isplatnog reda, osim onih utvrđenih Stečajnim zakonom, spadaju i:
+
+1. tražbine iz ugovora o životnom osiguranju i ostalih ugovora o osiguranju za koje se primjenjuju slične tablice vjerojatnosti i izračuni kao i za životna osiguranja za obveze za pokriće kojih je društvo za osiguranje dužno oblikovati matematičke pričuve, a koje se nisu mogle namiriti iz imovine za pokriće matematičke pričuve
+
+2. tražbine iz ugovora o neživotnim i drugim osiguranjima za obveze za pokriće kojih je društvo za osiguranje dužno oblikovati tehničke pričuve prema računovodstvenim propisima osim matematičke pričuve, na ime naknade štete za štetne događaje koji su nastupili prije prestanka ugovora o osiguranju i na ime povrata dijela premije plaćene za razdoblje nakon prestanka ugovora o osiguranju
+
+3. tražbine Hrvatskog ureda za osiguranje za izvršene isplate iz Garancijskog fonda, na ime naknade isplaćenog iznosa štete, koje oštećene osobe nisu mogle naplatiti od društva za osiguranje zbog otvaranja stečaja nad društvom za osiguranje.
+
+*Posebne odredbe za isplatu tražbina iz imovine za pokriće matematičke pričuve*
+
+##### Članak 290.
+
+(1) Vjerovnici društva za osiguranje iz ugovora o životnom osiguranju i ostalih ugovora o osiguranju za koja se primjenjuju slične tablice vjerojatnosti i izračuni kao i za životna osiguranja za obveze za pokriće kojih je društvo za osiguranje dužno oblikovati matematičke pričuve namiruju se iz imovine za pokriće matematičke pričuve, odnosno iz sredstava prikupljenih unovčenjem imovine za pokriće matematičke pričuve.
+
+(2) Imovina za pokriće matematičke pričuve iz članka 180. stavka 2. ovoga Zakona ne ulazi u stečajnu masu i isključivo je namijenjena namirenju vjerovnika iz stavka 1. ovoga članka.
+
+(3) Imovina za pokriće matematičke pričuve je imovina društva za osiguranje odvojena od ostale imovine društva za osiguranje u skladu s člancima 182. – 185. ovoga Zakona.
+
+(4) Vjerovnici iz stavka 1. ovoga članka imaju pravo da se iz imovine za pokriće matematičke pričuve isplate njihove tražbine u visini koja odgovara tehničkim pričuvama prema računovodstvenim propisima koje se odnose na pokriće obveza za koje je društvo za osiguranje dužno oblikovati matematičke pričuve iz ugovora o osiguranju iz kojeg proizlazi ta tražbina.
+
+(5) Ako imovina za pokriće matematičke pričuve nije dostatna za cjelokupnu isplatu tražbina vjerovnika iz stavka 4. ovoga članka, tražbine se isplaćuju u visini koja je u jednakom omjeru s tehničkim pričuvama prema računovodstvenim propisima koje se odnose na pokriće obveza za koja je društvo za osiguranje dužno oblikovati matematičke pričuve iz ugovora o osiguranju iz kojeg proizlazi tražbina, kao što je omjer između cjelokupne vrijednosti imovine za pokriće matematičke pričuve i tehničkih pričuva prema računovodstvenim propisima namijenjenih pokriću svih obveza društva za osiguranje za koje je dužno oblikovati matematičke pričuve.
+
+(6) Ostale tražbine vjerovnika iz stavka 4. ovoga članka isplaćuju se iz imovine za pokriće matematičke pričuve koja preostane nakon isplate tražbina iz stavka 4. ovoga članka.
+
+(7) Ako imovina za pokriće matematičke pričuve nije dostatna za cjelokupnu isplatu ostalih tražbina iz stavka 6. ovoga članka, te se tražbine namiruju razmjerno iz imovine za pokriće matematičke pričuve.
+
+(8) Za utvrđivanja visine tražbina i ukupne visine obveznog pokrića mjerodavno je stanje na dan prestanka ugovora o osiguranju.
+
+(9) Potraživanja vjerovnika iz stavka 1. ovoga članka koja nisu namirena u skladu sa stavkom 1. ovoga članka namiruju se iz stečajne mase društva za osiguranje.
+
+(10) Iznimno od stavka 2. ovoga članka, vjerovnici koji na imovini za pokriće matematičke pričuve imaju osnovano založno pravo, imaju pravo namirenja, na imovini za pokriće matematičke pričuve na kojoj imaju založno pravo, prema odredbama Stečajnog zakona.
+
+(11) Kad je postupak stečaja otvoren, struktura imovine upisane u registar u skladu s člancima 180. i 181. ovoga Zakona i ovim člankom se ne mijenja i u registru nisu, osim uz odobrenje nadležnog tijela dopuštene nikakve druge izmjene osim ispravka čistih administrativnih pogrešaka.
+
+(12) Iznimno od stavka 11. ovoga članka, toj imovini stečajni upravitelj dodaje njezin prinos i vrijednost čistih premija koje su primljene s obzirom na predmetne vrste osiguranja u razdoblju između otvaranja stečajnog postupka i trenutka isplate osigurnina.
+
+(13) Kad je rezultat unovčenja imovine niži od njezine procijenjene vrijednosti u registru, stečajni upravitelj o navedenom izvještava stečajnog suca.
+
+*Posebne odredbe za isplatu tražbina iz imovine unutarnjeg fonda*
+
+##### Članak 291.
+
+(1) Ako su prava ugovaratelja osiguranja na temelju ugovora o osiguranju kod kojih ugovaratelj osiguranja snosi rizik ulaganja neposredno vezana uz vrijednost imovine unutarnjeg fonda, ugovaratelj osiguranja ima isključivo pravo namirenja iz imovine tog unutarnjeg fonda koja mu pripada s osnove tog ugovora.
+
+(2) Na imovinu iz stavka 1. ovoga članka primjenjuju se na odgovarajući način odredbe članka 290. ovoga Zakona.
+
+*Poseban račun imovine za pokriće matematičke pričuve*
+
+##### Članak 292.
+
+Cjelokupnim poslovanjem novčanim sredstvima stečenima unovčenjem imovine za pokriće matematičke pričuve iz članka 180. stavka 2. ovoga Zakona stečajni je upravitelj dužan upravljati putem posebnog računa imovine za pokriće matematičke pričuve.
+
+*Suosiguranje u postupku stečaja*
+
+##### Članak 293.
+
+U slučaju stečaja društva za osiguranje obveze koje proizlaze iz sudjelovanja u ugovorima o suosiguranju na razini Europske unije ispunjavaju se na isti način kao one koje proizlaze iz ostalih ugovora o osiguranju tog društva te se pri tome ne pravi razlika između državljanstva osiguranika i korisnika osiguranja.
+
+*Stečajni postupak nad podružnicom društva za osiguranje iz druge države članice ili treće države*
+
+##### Članak 294.
+
+Kad društvo za osiguranje iz druge države članice ili treće države ima podružnicu osnovanu na području Republike Hrvatske, na stečaj te podružnice primjenjuju se odredbe Stečajnog zakona kojima se uređuje međunarodni stečaj, uz odgovarajuću primjenu odredbi članaka 284. – 293. ovoga Zakona.
+
+## POGLAVLJE IV. — NADZOR NAD DRUGIM OSOBAMA
+
+*Opće odredbe*
+
+##### Članak 295.
+
+Agencija provodi i nadzor nad drugim osobama koje osim drugih djelatnosti ili kao jedinu djelatnost obavljaju:
+
+1. poslove osiguranja, odnosno reosiguranja bez odobrenja Agencije za obavljanje navedenih poslova
+
+2. djelatnost posredovanja u osiguranju i reosiguranju, odnosno zastupanja u osiguranju bez odobrenja Agencije za obavljanje navedenih poslova.
+
+*Nadzorne mjere*
+
+##### Članak 296.
+
+(1) Ako Agencija, prema podacima kojima raspolaže, utvrdi da osoba obavlja poslove osiguranja, odnosno posredovanja u osiguranju i reosiguranju i zastupanja u osiguranju bez odobrenja Agencije za obavljanje navedenih poslova, toj će se osobi naložiti da prestane s obavljanjem navedenih poslova.
+
+(2) U slučaju iz stavka 1. ovoga članka, Agencija prethodno može pregledati poslovne knjige i drugu dokumentaciju osobe i prikupiti dokaze kako bi utvrdila obavlja li osoba poslove osiguranja, odnosno posredovanja u osiguranju i reosiguranju i zastupanja u osiguranju.
+
+## GLAVA XV. — NADZOR DRUŠTAVA ZA OSIGURANJE I DRUŠTAVA ZA REOSIGURANJE U GRUPI
+
+## POGLAVLJE I. — NADZOR GRUPE: POJMOVI, SLUČAJEVI PRIMJENE, PODRUČJE PRIMJENE I RAZINE
+
+*Pojmovi*
+
+##### Članak 297.
+
+(1) Za potrebe ove glave primjenjuju se sljedeće definicije:
+
+1. »sudjelujuće društvo« znači društvo koje je matično društvo ili drugo društvo koje sudjeluje ili društvo koje je povezano s drugim društvom na način da se:
+
+a) tim društvom i jednim ili više drugih društava upravlja na jedinstvenoj osnovi u skladu s ugovorom sklopljenim s tim društvom ili prema odredbama statuta tih društava ili
+
+b) uprava ili nadzorni odbor ili drugi rukovoditelji predmetnog društva i jedne ili više drugih pravnih osoba sastoje uglavnom od istih osoba koje su na dužnosti u financijskoj godini dok se ne sastave konsolidirani financijski izvještaji.
+
+Smatra se sudjelovanjem neposredni ili posredni udjel u glasačkim pravima ili kapitalu društva preko kojeg se, prema mišljenju Agencije učinkovito ostvaruje značajan utjecaj.
+
+2. »povezano društvo« znači društvo kćer ili drugo društvo u kojem se sudjeluje ili društvo povezano s drugim društvom na način koji je određen točkom 1. podtočkama a) ili b) ovoga stavka
+
+3. »grupa« znači grupu društava koja:
+
+a) se sastoji od sudjelujućeg društva, njegovih društava kćeri i subjekata u kojima sudjelujuće društvo ili njegova društva kćeri sudjeluju, kao i od društava međusobno povezanih putem odnosa navedenog u točki 1. podtočkama a) ili b) ovoga stavka ili
+
+b) se temelji na ugovornom ili nekom drugom uspostavljanju snažnih i održivih financijskih veza između tih društava i koja može obuhvaćati udruženja za uzajamno osiguranje ili udruženja koja djeluju po načelu uzajamnosti, pod uvjetom da:
+
+– jedno od tih društava učinkovito ostvaruje, putem centralizirane koordinacije, dominantan utjecaj na odluke, uključujući financijske odluke drugih društava koja su dio grupe i
+
+– uspostavljanje i raskidanje takvih veza u svrhu ove glave podliježe prethodnoj suglasnosti nadzornog tijela grupe, pri čemu se društvo koje provodi centraliziranu koordinaciju smatra matičnim društvom, a ostala društva se smatraju društvima kćerima
+
+4. »nadzorno tijelo grupe« znači Agenciju ili nadzorno tijelo države članice nadležno za nadzor grupe, utvrđeno u skladu s člankom 329. ovoga Zakona
+
+5. »kolegij nadzornih tijela« znači stalnu, ali fleksibilnu strukturu za suradnju, koordinaciju i olakšavanje donošenja odluka u vezi s nadzorom grupe
+
+6. »osigurateljni holding« znači matično društvo koje nije mješoviti financijski holding i čija je glavna djelatnost stjecanje udjela i sudjelovanje u društvima kćerima, kada su ta društva kćeri isključivo ili uglavnom društva za osiguranje, odnosno društva za reosiguranje ili društva za osiguranje odnosno društva za reosiguranje iz država članica ili društva za osiguranje, odnosno društva za reosiguranje iz trećih država i najmanje jedno od tih društava kćeri je društvo za osiguranje, odnosno društvo za reosiguranje
+
+7. »mješoviti osigurateljni holding« znači matično društvo koje nije društvo za osiguranje, društvo za osiguranje iz države članice, društvo za osiguranje iz treće države, društvo za reosiguranje, društvo za reosiguranje iz države članice, društvo za reosiguranje iz treće države, osigurateljni holding ili mješoviti financijski holding koji među svojim društvima kćerima uključuje najmanje jedno društvo za osiguranje, odnosno društvo za reosiguranje
+
+8. »mješoviti financijski holding« je mješoviti financijski holding u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata.
+
+(2) Matičnim društvom smatra se i bilo koje društvo koje, prema mišljenju Agencije, učinkovito ostvaruje dominantan utjecaj nad drugim društvom.
+
+(3) Društvom kćeri smatra se bilo koje društvo na koje, prema mišljenju Agencije, matično društvo učinkovito ostvaruje dominantan utjecaj.
+
+*Slučajevi primjene nadzora grupe*
+
+##### Članak 298.
+
+(1) Odredbe ovoga Zakona koje propisuju pravila za nadzor društava za osiguranje i društava za reosiguranje na pojedinačnoj osnovi primjenjuju se na društva za osiguranje i društva za reosiguranje koja su dio grupe i nadziru se na grupnoj osnovi, osim kada je drukčije propisano u ovoj glavi.
+
+(2) Nadzor na razini grupe u odnosu na:
+
+1. društva za osiguranje koja su sudjelujuća društva u najmanje jednom društvu za osiguranje, društvu za reosiguranje, društvu za osiguranje iz države članice ili društvu za reosiguranje iz države članice, društvu za osiguranje iz treće države ili društvu za reosiguranje iz treće države, provodi se u skladu s člancima 303. – 339. ovoga Zakona
+
+2. društva za osiguranje čije je matično društvo osigurateljni holding ili mješoviti financijski holding sa sjedištem u državi članici provodi se u skladu s člancima 303. – 339. ovoga Zakona
+
+3. društva za osiguranje čije je matično društvo osigurateljni holding ili mješoviti financijski holding sa sjedištem u trećoj državi ili društvo za osiguranje, odnosno društvo za reosiguranje iz treće države provodi se u skladu s člancima 340. – 343. ovoga Zakona
+
+4. društva za osiguranje čije je matično društvo mješoviti osigurateljni holding provodi se u skladu s člankom 344. ovoga Zakona.
+
+(3) U slučajevima iz stavka 2. točaka 1. i 2. ovoga članka, kad je sudjelujuće društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding sa sjedištem u jednoj od država članica regulirani subjekt ili povezano društvo takvog subjekta ili mješoviti financijski holding koji podliježe dodatnom nadzoru u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata, Agencija kao nadzorno tijelo grupe može, nakon savjetovanja s drugim nadležnim nadzornim tijelima, odlučiti da se ne provodi nadzor koncentracije rizika iz članka 326. ovoga Zakona, nadzor unutargrupnih transakcija iz članka 327. ovoga Zakona ili oba nadzora, na razini tog sudjelujućeg društva za osiguranje ili tog osigurateljnog holdinga ili mješovitog financijskog holdinga.
+
+(4) Ako mješoviti financijski holding podliježe jednakim odredbama u skladu s ovim Zakonom i u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata, posebno u smislu nadzora koji se temelji na rizicima, Agencija kao nadzorno tijelo grupe može, nakon savjetovanja s drugim nadležnim nadzornim tijelima, primijeniti samo odgovarajuće odredbe zakona kojim se uređuje dodatna supervizija financijskih konglomerata na taj mješoviti financijski holding.
+
+(5) Ako mješoviti financijski holding podliježe jednakim odredbama u skladu s ovim Zakonom i zakonom kojim se uređuju kreditne institucije, posebno u smislu nadzora koji se temelji na rizicima, Agencija kao nadzorno tijelo grupe može, u sporazumu s konsolidacijskim nadzornim tijelom u sektoru bankarskih i investicijskih usluga, primijeniti samo odredbe zakona koje se odnose na najznačajniji sektor, kako je određeno u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata.
+
+(6) Agencija kao nadzorno tijelo grupe obavješćuje EBA-u i EIOPA-u o odlukama donesenima na temelju stavaka 4. i 5. ovoga članka.
+
+(7) Odredbe ove glave koje se odnose na društvo za osiguranje primjenjuju se na odgovarajući način i na društvo za reosiguranje.
+
+*Opseg nadzora grupe*
+
+##### Članak 299.
+
+(1) Obavljanje nadzora grupe u skladu s člankom 298. ovoga Zakona ne podrazumijeva da se od Agencije kao nadzornog tijela grupe zahtijeva da obavlja nadzornu ulogu u odnosu na društvo za osiguranje iz treće države, društvo za reosiguranje iz treće države, osigurateljni holding, mješoviti financijski holding ili mješoviti osigurateljni holding, promatrano pojedinačno, ne dovodeći u pitanje članak 338. ovoga Zakona, u mjeri u kojoj se to tiče osigurateljnih holdinga ili mješovitih financijskih holdinga.
+
+(2) Agencija kao nadzorno tijelo grupe može od slučaja do slučaja odlučivati o neuključivanju društva u nadzor grupe iz članka 298. ovoga Zakona:
+
+1. kada se društvo nalazi u trećoj državi gdje postoje pravne zapreke za prijenos potrebnih informacija, ne dovodeći u pitanje odredbe članka 314. ovoga Zakona
+
+2. kada je društvo koje bi trebalo biti uključeno od zanemarivog interesa s obzirom na ciljeve nadzora grupe ili
+
+3. kada bi uključivanje društva bilo neprimjereno ili zbunjujuće s obzirom na ciljeve nadzora grupe.
+
+Kada nekoliko pojedinačnih društava iz iste grupe može biti isključeno u skladu s točkom 2. ovoga stavka, navedena društva moraju biti uključena kada zajednički nisu od zanemarivog interesa.
+
+(3) Kada Agencija smatra da društvo za osiguranje ne bi trebalo biti uključeno u nadzor grupe u skladu sa stavkom 2. točkom 2. ili 3. ovoga članka, zatražit će savjet od drugih nadležnih nadzornih tijela prije nego što donese odluku.
+
+(4) Kada Agencija ne uključi društvo za osiguranje u nadzor grupe u skladu sa stavkom 2. točkom 2. ili 3. ovoga članka, nadzorna tijela države članice u kojoj se to društvo nalazi mogu zatražiti od društva koje je na čelu grupe informacije koje mogu olakšati nadzor predmetnog društva za osiguranje.
+
+*Krajnje matično društvo na razini država članica*
+
+##### Članak 300.
+
+(1) Kad je sudjelujuće društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding iz članka 298. stavka 2. točaka 1. i 2. ovoga Zakona i društvo kći drugog društva za osiguranje ili drugog osigurateljnog holdinga ili drugog mješovitog financijskog holdinga sa sjedištem u jednoj od država članica, članci 303. – 339. ovoga Zakona primjenjuju se samo na razini krajnjeg matičnog društva za osiguranje, osigurateljnog holdinga ili mješovitog financijskog holdinga sa sjedištem u jednoj od država članica.
+
+(2) Kad je krajnje matično društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding sa sjedištem u jednoj od država članica, kako je određeno stavkom 1. ovoga članka, društvo kći društva koje podliježe dodatnom nadzoru u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata, Agencija kao nadzorno tijelo grupe može, nakon savjetovanja s drugim nadležnim nadzornim tijelima, odlučiti da se na razini tog krajnjeg matičnog društva ne provodi nadzor koncentracije rizika iz članka 326. ovoga Zakona, unutargrupnih transakcija iz članka 327. ovoga Zakona ili oba nadzora.
+
+*Krajnje matično društvo na razini Republike Hrvatske*
+
+##### Članak 301.
+
+(1) Kada sudjelujuće društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding, koji ima sjedište u jednoj od država članica, kako je određeno u članku 298. stavku 2. točkama 1. i 2. ovoga Zakona, nema sjedište u istoj državi članici kao krajnje matično društvo na razini Europske unije iz članka 300. ovoga Zakona, Agencija može donijeti odluku, nakon savjetovanja s nadzornim tijelom grupe i krajnjim matičnim društvom na razini Europske unije, da podvrgne i to krajnje matično društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding na razini Republike Hrvatske nadzoru grupe.
+
+U tom slučaju Agencija objašnjava svoju odluku nadzornom tijelu grupe i krajnjem matičnom društvu na razini Europske unije. Nadzorno tijelo grupe obavješćuje kolegij nadzornih tijela u skladu s člankom 330. stavkom 1. točkom 1. ovoga Zakona.
+
+Članci 303. – 339. ovoga Zakona primjenjuju se na odgovarajući način, u skladu sa stavcima 2. – 6. ovoga članka.
+
+(2) Agencija može ograničiti nadzor grupe krajnjeg matičnog društva na razini Republike Hrvatske na jedan ili više odjeljaka poglavlja II. ove glave Zakona.
+
+(3) Kad Agencija utvrdi da su ispunjeni uvjeti za primjenu članaka 303. – 325. ovoga Zakona na krajnje matično društvo na razini Republike Hrvatske, metoda koju je nadzorno tijelo grupe odabralo u skladu s člankom 305. ovoga Zakona u odnosu na krajnje matično društvo na razini Europske unije iz članka 300. ovoga Zakona smatra se konačnom i Agencija je mora primijeniti.
+
+(4) Kad Agencija odluči primjenjivati članke 303. – 325. ovoga Zakona na krajnje matično društvo na razini Republike Hrvatske i kad je krajnje matično društvo na razini Europske unije iz članka 300. ovoga Zakona dobilo, u skladu s člankom 316. ili člankom 318. stavkom 5. ovoga Zakona, suglasnost za izračun potrebnog solventnog kapitala grupe, kao i potrebnog solventnog kapitala društava za osiguranje u grupi, uporabom unutarnjeg modela, ta se odluka smatra konačnom i Agencija je mora primijeniti.
+
+U takvoj situaciji, kad Agencija smatra da profil rizičnosti krajnjeg matičnog društva na razini Republike Hrvatske znatno odstupa od unutarnjeg modela odobrenog na razini Europske unije, i sve dok to društvo primjereno ne otkloni primjedbe Agencije, Agencija može odrediti kapitalni dodatak na potrebni solventni kapital grupe predmetnom društvu zbog primjene takvog modela ili, u iznimnim okolnostima kad se takav kapitalni dodatak ne bi pokazao primjerenim, zahtijevati od tog društva da izračunava potrebni solventni kapital grupe standardnom formulom.
+
+Agencija obrazlaže takve odluke društvu i nadzornom tijelu grupe koje potom obavješćuje kolegij nadzornih tijela u skladu s člankom 330. stavkom 1. točkom 1. ovoga Zakona.
+
+(5) Kad Agencija utvrdi da su ispunjeni uvjeti za primjenu članaka 303. – 325. ovoga Zakona na krajnje matično društvo na razini Republike Hrvatske, tom društvu neće biti dopušteno da podnese, u skladu s člankom 320. ili 325. ovoga Zakona, zahtjev za izdavanje suglasnosti da se na bilo koje od njegovih društava kćeri primjenjuju odredbe članaka 322. i 323. ovoga Zakona.
+
+(6) Niti jedna odluka iz stavka 1. ovoga članka ne može biti donesena ili primijenjena kad je krajnje matično društvo na razini Republike Hrvatske društvo kći krajnjeg matičnog društva na razini Europske unije iz članka 300. ovoga Zakona, pri čemu je krajnje matično društvo na razini Europske unije iz članka 300. ovoga Zakona u skladu s odredbama članka 321. ili 325. ovoga Zakona dobilo suglasnost da na navedeno društvo kći primjenjuje odredbe članaka 322. i 323. ovoga Zakona.
+
+(7) Prilikom donošenja odluke iz stavka 1. ovoga članka Agencija će uzeti u obzir Uredbu (EU) br. 2015/35.
+
+*Matično društvo koje pokriva nekoliko država članica*
+
+##### Članak 302.
+
+(1) Kada Agencija može donijeti odluku iz članka 301. stavka 1. ovoga Zakona, ovlaštena je donijeti odluku i o sklapanju sporazuma s nadzornim tijelima u drugim državama članicama kada na razini Republike Hrvatske postoji drugo povezano krajnje matično društvo, s ciljem provođenja nadzora grupe na razini podgrupe koja pokriva nekoliko država članica.
+
+Kada Agencija i nadležna nadzorna tijela sklope takav sporazum, nadzor grupe se ne obavlja na razini bilo kojeg krajnjeg matičnog društva iz članka 301. ovoga Zakona koje postoji u državama članicama koje nisu država članica u kojoj se nalazi podgrupa. U tom slučaju Agencija i nadležna nadzorna tijela objašnjavaju svoj sporazum nadzornom tijelu grupe i krajnjem matičnom društvu na razini Europske unije. Nadzorno tijelo grupe obavješćuje kolegij nadzornih tijela u skladu s člankom 330. stavkom 1. točkom 1. ovoga Zakona.
+
+(2) Odredbe članka 301. stavaka 2. – 6. ovoga Zakona primjenjuju se na odgovarajući način.
+
+## POGLAVLJE II. — FINANCIJSKI POLOŽAJ
+
+### ODJELJAK I. — SOLVENTNOST GRUPE
+
+#### Pododjeljak 1. — Opće odredbe
+
+*Nadzor solventnosti grupe*
+
+##### Članak 303.
+
+(1) Nadzor solventnosti grupe obavlja se u skladu s odredbama stavaka 2. i 3. ovoga članka, člankom 328. te člancima 329. – 339. ovoga Zakona.
+
+(2) U slučaju iz članka 298. stavka 2. točke 1. ovoga Zakona sudjelujuća društava za osiguranje moraju osigurati da su prihvatljiva vlastita sredstva raspoloživa unutar grupe te da su uvijek barem jednaka potrebnom solventnom kapitalu grupe izračunatom u skladu s člancima 305. – 318. ovoga Zakona.
+
+(3) U slučaju iz članka 298. stavka 2. točke 2. ovoga Zakona društva za osiguranje i društva za reosiguranje u grupi moraju osigurati da su prihvatljiva vlastita sredstva raspoloživa unutar grupe te da su uvijek barem jednaka potrebnom solventnom kapitalu grupe izračunatom u skladu s člankom 319. ovoga Zakona.
+
+(4) Zahtjevi iz stavaka 2. i 3. ovoga članka podliježu nadzornom pregledu od strane Agencije kao nadzornog tijela grupe u skladu s člancima 329. – 339. ovoga Zakona. Članak 163. i članak 165. stavci 1. i 7. – 11. ovoga Zakona primjenjuju se na odgovarajući način.
+
+(5) Čim sudjelujuće društvo primijeti i obavijesti Agenciju kao nadzorno tijelo grupe o neusklađenosti s potrebnim solventnim kapitalom grupe ili o postojanju rizika za neusklađenost s potrebnim solventnim kapitalom grupe u sljedeća tri mjeseca, Agencija kao nadzorno tijelo grupe obavješćuje druga nadzorna tijela unutar kolegija nadzornih tijela koja će analizirati stanje u grupi.
+
+*Učestalost izračunavanja*
+
+##### Članak 304.
+
+(1) Sudjelujuće društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding provodi izračune iz članka 303. stavaka 2. i 3. ovoga Zakona najmanje jednom godišnje.
+
+Odgovarajuće podatke za izračun i rezultate tog izračuna dostavlja Agenciji kao nadzornom tijelu grupe sudjelujuće društvo za osiguranje ili, ako grupa nije predvođena društvom za osiguranje, osigurateljni holding ili mješoviti financijski holding ili društvo u grupi koje utvrdi Agencija kao nadzorno tijelo grupe nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom.
+
+(2) Društvo za osiguranje, osigurateljni holding i mješoviti financijski holding kontinuirano nadziru potrebni solventni kapital grupe. Ako profil rizičnosti grupe značajno odstupa od pretpostavki na kojima se temelji posljednji prijavljeni potrebni solventni kapital grupe, potrebni solventni kapital grupe se bez odgađanja ponovo izračunava te se Agenciji kao nadzornom tijelu grupe podnosi izvješće o rezultatu tog izračuna.
+
+Ako postoje dokazi koji ukazuju da se profil rizičnosti grupe značajno izmijenio od datuma kada je potrebni solventni kapital grupe posljednji put prijavljen, Agencija kao nadzorno tijelo grupe može zahtijevati ponovni izračun potrebnog solventnog kapitala grupe.
+
+#### Pododjeljak 2. — Odabir metode izračuna i opća načela
+
+*Odabir metode*
+
+##### Članak 305.
+
+(1) Izračunavanje solventnosti na razini grupe društava za osiguranje i društava za reosiguranje iz članka 298. stavka 2. točke 1. ovoga Zakona obavlja se u skladu s tehničkim načelima i metodama, u skladu s člancima 306. – 318. ovoga Zakona i Uredbom (EU) br. 2015/35.
+
+(2) Agencija kao nadzorno tijelo grupe može s obzirom na određenu grupu odlučiti, nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom, da se na predmetnu grupu primjenjuje alternativna metoda iz članka 318. ovoga Zakona, u skladu s Uredbom (EU) br. 2015/35, ili kombinacija metode konsolidacije i alternativne metode, kad isključiva primjena metode konsolidacije ne bi bila primjerena.
+
+*Uključivanje proporcionalnog udjela*
+
+##### Članak 306.
+
+(1) Prilikom izračunavanja solventnosti grupe u obzir se uzima proporcionalni udjel koji sudjelujuće društvo ima u svojim povezanim društvima.
+
+Proporcionalni udjel obuhvaća jedno od sljedećih:
+
+1. kada se upotrebljava metoda konsolidacije, postotke koji se upotrebljavaju za pripremu konsolidiranih financijskih izvještaja ili
+
+2. kada se upotrebljava alternativna metoda, udjel upisanog kapitala koji izravno ili neizravno drži sudjelujuće društvo.
+
+(2) Kada je, bez obzira na upotrijebljenu metodu, povezano društvo društvo kći i kad ono nema dostatna prihvatljiva vlastita sredstva za pokriće svog potrebnog solventnog kapitala, u obzir se uzima ukupni manjak solventnosti društva kćeri.
+
+Iznimno, kada je prema mišljenju nadležnih nadzornih tijela odgovornost matičnog društva koje posjeduje udjel u kapitalu isključivo ograničena na taj udjel u kapitalu, Agencija kao nadzorno tijelo grupe može dopustiti da manjak solventnosti društva kćeri bude uzet u obzir na proporcionalnoj osnovi.
+
+(3) Agencija kao nadzorno tijelo grupe utvrđuje, nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom, proporcionalni udjel koji se uzima u obzir u sljedećim slučajevima:
+
+1. kada ne postoji kapitalna povezanost između nekih društava u grupi
+
+2. kada Agencija utvrdi da udjel, izravni ili neizravni, u glasačkim pravima ili kapitalu društva predstavlja sudjelovanje jer se, prema mišljenju Agencije, nad tim društvom ostvaruje značajan utjecaj
+
+3. kada Agencija utvrdi da je društvo matično društvo drugog društva jer ono, prema mišljenju Agencije, nad tim društvom ostvaruje dominantan utjecaj.
+
+*Ukidanje dvostruke uporabe prihvatljivih vlastitih sredstava*
+
+##### Članak 307.
+
+(1) Dvostruka uporaba vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala između različitih društava za osiguranje koja su prilikom izračunavanja solventnosti grupe uzeta u obzir nije dopuštena.
+
+Prilikom navedenog izračunavanja te ako metode iz članaka 315. – 318. ovoga Zakona to ne predviđaju, isključuju se sljedeći iznosi:
+
+1. vrijednost bilo koje imovine sudjelujućeg društva za osiguranje koja predstavlja financiranje vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala jednog od njegovih povezanih društava za osiguranje
+
+2. vrijednost bilo koje imovine povezanog društva za osiguranje sudjelujućeg društva za osiguranje koja predstavlja financiranje vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala tog sudjelujućeg društva za osiguranje
+
+3. vrijednost bilo koje imovine povezanog društva za osiguranje sudjelujućeg društva za osiguranje koja predstavlja financiranje vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala bilo kojeg drugog povezanog društva za osiguranje tog sudjelujućeg društva za osiguranje.
+
+(2) U izračun se može uključiti sljedeće, samo u mjeri u kojoj je prihvatljivo za pokriće potrebnog solventnog kapitala predmetnog povezanog društva:
+
+1. višak sredstava u smislu članka 127. stavka 2. ovoga Zakona koji nastaje u povezanom društvu za životno osiguranje, odnosno društvu za reosiguranje sudjelujućeg društva za osiguranje za koje se izračunava solventnost grupe
+
+2. bilo koji upisani, a neuplaćeni kapital povezanog društva za osiguranje sudjelujućeg društva za osiguranje za koje se izračunava solventnost grupe.
+
+(3) Iznimno od stavka 2. točke 2. ovoga članka, iz izračuna se uvijek isključuje sljedeće:
+
+1. upisani, a neuplaćeni kapital koji predstavlja potencijalnu obvezu sudjelujućeg društva
+
+2. upisani, a neuplaćeni kapital sudjelujućeg društva za osiguranje koji predstavlja potencijalnu obvezu povezanog društva za osiguranje
+
+3. upisani, a neuplaćeni kapital povezanog društva za osiguranje koji predstavlja potencijalnu obvezu drugog povezanog društva za osiguranje istog sudjelujućeg društva za osiguranje.
+
+(4) Kada Agencija i nadležna nadzorna tijela smatraju da se određena vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala povezanog društva za osiguranje, različita od onih iz stavaka 2. i 3. ovoga članka, ne mogu učinkovito učiniti raspoloživima za pokriće potrebnog solventnog kapitala sudjelujućeg društva za osiguranje za koje se izračunava solventnost grupe, ta se vlastita sredstva mogu uključiti u izračun samo u mjeri u kojoj su prihvatljiva za pokriće potrebnog solventnog kapitala povezanog društva.
+
+(5) Zbroj vlastitih sredstava iz stavaka 2. – 4. ovoga članka ne smije prelaziti vrijednost potrebnog solventnog kapitala povezanog društva za osiguranje.
+
+(6) Bilo koja prihvatljiva vlastita sredstva povezanog društva za osiguranje sudjelujućeg društva za osiguranje za koje se izračunava solventnost grupe, koja podliježu prethodnom odobrenju Agencije u skladu s člankom 124. ovoga Zakona, uključuju se u izračun samo u mjeri u kojoj su na odgovarajući način odobrena od nadležnog nadzornog tijela odgovornog za nadzor povezanog društva.
+
+*Ukidanje unutargrupnog stvaranja kapitala*
+
+##### Članak 308.
+
+(1) Prilikom izračunavanja solventnosti grupe u obzir se ne uzimaju vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala koja proizlaze iz uzajamnog financiranja između sudjelujućeg društva za osiguranje i bilo kojeg od sljedećih:
+
+1. povezanog društva
+
+2. sudjelujućeg društva
+
+3. drugog povezanog društva bilo kojeg od njegovih sudjelujućih društava.
+
+(2) Prilikom izračunavanja solventnosti grupe u obzir se ne uzimaju vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala povezanog društva za osiguranje sudjelujućeg društva za osiguranje za koje se izračunava solventnost grupe ako predmetna vlastita sredstva proizlaze iz uzajamnog financiranja s bilo kojim drugim povezanim društvom tog sudjelujućeg društva za osiguranje.
+
+(3) Smatra se da uzajamno financiranje najmanje postoji kada društvo za osiguranje ili bilo koje od njegovih povezanih društava imaju udjele u ili daju kredite drugom društvu koje izravno ili neizravno ima vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala prvog društva.
+
+*Vrednovanje*
+
+##### Članak 309.
+
+Vrijednost imovine i obveza za potrebe solventnosti grupe procjenjuje se u skladu s člankom 105. ovoga Zakona.
+
+#### Pododjeljak 3. — Primjena metoda izračuna
+
+*Povezana društva za osiguranje i društva za reosiguranje*
+
+##### Članak 310.
+
+Kada društvo za osiguranje ima više od jednog povezanog društva za osiguranje, u izračun solventnosti grupe uključuje se svako od tih povezanih društava za osiguranje.
+
+Kada povezano društvo za osiguranje ima sjedište u državi članici, a koja nije država članica u kojoj se nalazi društvo za osiguranje za koje se izračunava solventnost grupe, u izračunu se u obzir uzima, s obzirom na povezano društvo, potrebni solventni kapital i vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala kako je propisano u toj drugoj državi članici.
+
+*Posrednički osigurateljni holdinzi*
+
+##### Članak 311.
+
+(1) Prilikom izračunavanja solventnosti grupe društvo za osiguranje koje preko osigurateljnog holdinga ili mješovitog financijskog holdinga sudjeluje u povezanom društvu za osiguranje, društvu za reosiguranje, društvu za osiguranje iz treće države ili društvu za reosiguranje iz treće države uzima se u obzir položaj tog osigurateljnog holdinga ili mješovitog financijskog holdinga.
+
+Samo za potrebe tog izračuna, s posredničkim osigurateljnim holdingom ili posredničkim mješovitim financijskim holdingom postupa se kao da je društvo za osiguranje koje podliježe pravilima iz ovoga Zakona u vezi s potrebnim solventnim kapitalom i kao da podliježe istim uvjetima koji su propisani ovim Zakonom u vezi s vlastitim sredstvima koja su prihvatljiva za pokriće potrebnog solventnog kapitala.
+
+(2) Kad posrednički osigurateljni holding ili posrednički mješoviti financijski holding ima podređeni dug ili druga prihvatljiva vlastita sredstva koja podliježu ograničenju u skladu s člancima 128. i 129. ovoga Zakona, ona se priznaju kao prihvatljiva vlastita sredstva do iznosa koji je izračunat primjenom ograničenja navedenih u člancima 128. i 129. ovoga Zakona na višak ukupnih prihvatljivih vlastitih sredstava na razini grupe u usporedbi s potrebnim solventnim kapitalom na razini grupe.
+
+Sva prihvatljiva vlastita sredstva posredničkog osigurateljnog holdinga ili posredničkog mješovitog financijskog holdinga za koje bi se, da ih drže društva za osiguranje, zahtijevalo prethodno odobrenje Agencije u skladu s člankom 124. ovoga Zakona mogu se uključiti u izračun solventnosti grupe samo ako ih je prethodno odobrila Agencija kao nadzorno tijelo grupe.
+
+*Istovjetnost u vezi s povezanim društvima za osiguranje i društvima za reosiguranje iz trećih država*
+
+##### Članak 312.
+
+(1) Prilikom izračunavanja solventnosti grupe društva za osiguranje koje je sudjelujuće društvo u društvu za osiguranje iz treće države, odnosno društvu za reosiguranje iz treće države, u skladu s člankom 318. ovoga Zakona, predmetno društvo za osiguranje, odnosno društvo za reosiguranje iz treće države, isključivo u svrhu tog izračuna, tretira se kao povezano društvo za osiguranje, odnosno društvo za reosiguranje.
+
+Kada treća država u kojoj to društvo ima svoje sjedište zahtijeva od tog društva dobivanje odobrenja za obavljanje poslova osiguranja i nameće mu regulatorni sustav solventnosti koji je barem istovjetan sa sustavom solventnosti iz ovoga Zakona, u izračunu se u obzir uzima, s obzirom na to društvo, potrebni solventni kapital i vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala u skladu s propisima u predmetnoj trećoj državi.
+
+(2) Ako Europska komisija ne donese propise kojima se uređuje istovjetnost nadzornog sustava treće države, provjeru je li sustav iz treće države barem istovjetan uz pomoć EIOPA-e obavlja Agencija kao nadzorno tijelo grupe na zahtjev sudjelujućeg društva ili na vlastitu inicijativu. Agencija kao nadzorno tijelo grupe savjetuje se s drugim nadležnim nadzornim tijelima prije nego što donese odluku o istovjetnosti. Agencija kao nadzorno tijelo grupe ne donosi nikakvu odluku koja se odnosi na treću državu, a koja je u suprotnosti s bilo kojom prije donesenom odlukom za tu treću državu, osim ako je nužno uzeti u obzir značajne promjene u nadzornom sustavu iz odredbi ovoga Zakona i nadzornom sustavu iz treće države.
+
+(3) Ako se nadzorna tijela ne slažu s odlukom donesenom u skladu sa stavkom 2. ovoga članka, ona mogu uputiti predmet EIOPA-i i tražiti njezinu pomoć u roku od tri mjeseca nakon što ih je Agencija kao nadzorno tijelo grupe obavijestila o toj odluci.
+
+(4) Prilikom donošenja odluke iz stavka 2. ovoga članka Agencija kao nadzorno tijelo grupe uzet će u obzir Uredbu (EU) br. 2015/35 i druge propise Europske komisije kojima se uređuje istovjetnost nadzornog sustava u vezi s povezanim društvima za osiguranje i društvima za reosiguranje iz trećih zemalja.
+
+*Povezane kreditne institucije, investicijska društva i financijske institucije*
+
+##### Članak 313.
+
+(1) Prilikom izračunavanja solventnosti grupe društva za osiguranje koje je sudjelujuće društvo u kreditnoj instituciji, investicijskom društvu ili financijskoj instituciji sudjelujuća društva za osiguranje mogu primjenjivati metodu konsolidacije ili alternativnu metodu u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata na odgovarajući način. Metoda konsolidacije primjenjuje se samo kad se Agencija kao nadzorno tijelo grupe uvjerila u razinu integriranog upravljanja i unutarnje kontrole subjekata koji bi bili uključeni u konsolidaciju. Odabrana metoda primjenjuje se stalno i dosljedno.
+
+(2) Agencija kao nadzorno tijelo grupe može, na zahtjev sudjelujućeg društva ili na vlastitu inicijativu, oduzeti bilo koje sudjelovanje kako je navedeno u stavku 1. ovoga članka od vlastitih sredstava prihvatljivih za solventnost grupe sudjelujućeg društva.
+
+*Nedostupnost potrebnih informacija*
+
+##### Članak 314.
+
+Kad Agenciji nisu dostupne informacije koje se odnose na povezano društvo čije je sjedište u državi članici ili u trećoj državi, a koje su potrebne za izračunavanje solventnosti grupe, knjigovodstvena vrijednost predmetnog povezanog društva u sudjelujućem društvu za osiguranje oduzima se od vlastitih sredstava prihvatljivih za solventnost grupe. U tom se slučaju nerealizirana dobit povezana s tim sudjelovanjem ne priznaje kao vlastita sredstva prihvatljiva za solventnost grupe.
+
+#### Pododjeljak 4. — Metode izračuna
+
+*Metoda konsolidacije: Metoda koja se temelji na računovodstvenoj konsolidaciji*
+
+##### Članak 315.
+
+(1) Izračunavanje solventnosti grupe sudjelujućeg društva za osiguranje obavlja se na temelju konsolidiranih financijskih izvještaja.
+
+Solventnost grupe sudjelujućeg društva za osiguranje predstavlja razliku između sljedećeg:
+
+1. vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala izračunatih na temelju konsolidiranih podataka
+
+2. potrebnog solventnog kapitala na razini grupe izračunatog na temelju konsolidiranih podataka.
+
+Pravila iz ovoga Zakona koja se odnose na vlastita sredstva i potrebni solventni kapital primjenjuju se za izračunavanje vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala i za potrebni solventni kapital na razini grupe na temelju konsolidiranih podataka.
+
+(2) Potrebni solventni kapital na razini grupe na temelju konsolidiranih podataka, odnosno konsolidirani potrebni solventni kapital grupe, izračunava se standardnom formulom ili uporabom odobrenog unutarnjeg modela na način koji je dosljedan općim načelima iz ovoga Zakona u vezi s potrebnim solventnim kapitalom.
+
+(3) Konsolidirani potrebni solventni kapital grupe minimalno je jednak zbroju sljedećega:
+
+1. minimalnog potrebnog kapitala iz članka 158. ovoga Zakona sudjelujućeg društva za osiguranje
+
+2. proporcionalnog udjela minimalnog potrebnog kapitala povezanog društva za osiguranje i društva za reosiguranje te se pokriva prihvatljivim osnovnim vlastitim sredstvima kako je utvrđeno u članku 129. stavku 1. ovoga Zakona.
+
+U svrhu utvrđivanja ispunjavaju li takva prihvatljiva vlastita sredstva uvjet za pokriće tog minimalnog konsolidiranog potrebnog kapitala grupe, načela iz članaka 306. – 314. i članku 166. stavaka 1., 3. i 4. ovoga Zakona primjenjuju se na odgovarajući način.
+
+*Unutarnji model grupe*
+
+##### Članak 316.
+
+(1) Društvo za osiguranje i njegova povezana društva ili zajednički povezana društva osigurateljnog holdinga mogu Agenciji kao nadzornom tijelu grupe podnijeti zahtjev za izdavanje suglasnosti za izračunavanje konsolidiranog potrebnog solventnog kapitala grupe, kao i potrebnog solventnog kapitala društva za osiguranje i društva za reosiguranje u grupi, uporabom unutarnjeg modela.
+
+(2) Agencija i nadležna nadzorna tijela surađuju kako bi odlučili hoće li izdati takvu suglasnost i kako bi utvrdili eventualne uvjete koji će se odnositi na takvu suglasnost. Agencija kao nadzorno tijelo grupe bez odgađanja obavješćuje druge članove kolegija nadzornih tijela i prosljeđuje im potpuni zahtjev. Agencija i nadležna nadzorna tijela čine sve što je u skladu s njihovim ovlastima kako bi donijeli, u skladu s propisima Europske komisije kojima se uređuje postupak zajedničkog donošenja odluka, zajedničku odluku o zahtjevu u roku od šest mjeseci od datuma kad Agencija kao nadzorno tijelo grupe primi potpuni zahtjev.
+
+(3) Ako su Agencija i nadležna nadzorna tijela donijela zajedničku odluku iz stavka 2. ovoga članka, Agencija kao nadzorno tijelo grupe dostavlja podnositelju zahtjeva rješenje u kojemu se navode svi razlozi.
+
+(4) Ako se u roku od šest mjeseci od datuma kad članovi kolegija nadzornih tijela prime potpuni zahtjev ne donese zajednička odluka, Agencija kao nadzorno tijelo grupe donosi vlastitu odluku o zahtjevu. Agencija kao nadzorno tijelo grupe uzima u obzir sva mišljenja i ograde drugih nadležnih nadzornih tijela iznesene tijekom tog šestomjesečnog razdoblja. Agencija kao nadzorno tijelo grupe dostavlja podnositelju zahtjeva i drugim nadležnim nadzornim tijelima dokument u kojemu se u cijelosti obrazlaže njegova odluka. Ta se odluka smatra konačnom i nadležna nadzorna tijela je provode.
+
+(5) Ako tijekom šestomjesečnog razdoblja iz stavka 2. ovoga članka bilo koje od nadležnih nadzornih tijela uputi predmet EIOPA-i u skladu s člankom 19. Uredbe (EU) br. 1094/2010, postupak pred Agencijom kao nadzornim tijelom grupe miruje te Agencija čeka bilo koju odluku koju može donijeti EIOPA u skladu s člankom 19. stavkom 3. te Uredbe te donosi svoju odluku u skladu s odlukom EIOPA-e. Ta se odluka smatra konačnom i nadležna nadzorna tijela je provode.
+
+(6) Predmet se ne može uputiti EIOPA-i nakon isteka šestomjesečnog razdoblja ili nakon što je donesena zajednička odluka.
+
+(7) Ako se, u skladu s člankom 41. stavcima 2. i 3. te člankom 44. stavkom 1. podstavkom 3. Uredbe (EU) br. 1094/2010, odluka koju je predložilo radno tijelo odbije, Agencija kao nadzorno tijelo grupe donosi konačnu odluku. Ta se odluka smatra konačnom i nadležna nadzorna tijela je provode.
+
+(8) Kada Agencija smatra da profil rizičnosti društva za osiguranje koje nadzire značajno odstupa od pretpostavki na kojima se temelji unutarnji model odobren na razini grupe, i sve dok to društvo primjereno ne otkloni primjedbe Agencije, Agencija može, u skladu s člankom 239. ovoga Zakona, odrediti kapitalni dodatak na potrebni solventni kapital tog društva za osiguranje koji proizlazi iz primjene tog unutarnjeg modela.
+
+U iznimnim okolnostima, kada takav kapitalni dodatak ne bi bio primjeren, Agencija može zahtijevati od predmetnog društva da izračunava svoj potrebni solventni kapital standardnom formulom u skladu s ovim Zakonom. U skladu s člankom 239. stavkom 3. točkama 1. i 3. ovoga Zakona Agencija može odrediti kapitalni dodatak na potrebni solventni kapital tog društva za osiguranje koji proizlazi iz primjene standardne formule.
+
+Agencija obrazlaže svoju odluku iz ovoga stavka društvu za osiguranje i drugim članovima kolegija nadzornih tijela.
+
+*Kapitalni dodatak na razini grupe*
+
+##### Članak 317.
+
+(1) Agencija kao nadzorno tijelo grupe može odrediti kapitalni dodatak na konsolidirani potrebni solventni kapital grupe kada on primjereno ne odražava profil rizičnosti grupe u slučajevima navedenim u članku 239. stavku 3. točkama 1. – 4. ovoga Zakona na razini grupe, a posebno kada:
+
+1. specifični rizik koji postoji na razini grupe ne bi bio na zadovoljavajući način obuhvaćen standardnom formulom ili unutarnjim modelom koji se koristi jer ga je teško kvantificirati
+
+2. su kapitalni dodatak na potrebni solventni kapital povezanog društva za osiguranje uvela nadležna nadzorna tijela na istovjetan način kako je propisano člankom 239. te člankom 316. stavkom 8. ovoga Zakona.
+
+(2) Članak 239. stavci 1. – 9. ovoga Zakona zajedno s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju postupci donošenja odluka o utvrđivanju, izračunavanju i uklanjanju kapitalnih dodataka primjenjuju se na odgovarajući način kada Agencija kao nadzorno tijelo grupe može odrediti kapitalni dodatak na konsolidirani potrebni solventni kapital grupe u skladu sa stavkom 1. ovoga članka.
+
+*Alternativna metoda: Metoda odbitaka i agregiranja*
+
+##### Članak 318.
+
+(1) Solventnost grupe sudjelujućeg društva za osiguranje predstavlja razliku između sljedećeg:
+
+1. agregiranih prihvatljivih vlastitih sredstava grupe, kako je propisano u stavku 2. ovoga članka
+
+2. vrijednosti u sudjelujućem društvu za osiguranje povezanih društava za osiguranje i agregiranog potrebnog solventnog kapitala grupe, kako je propisano u stavku 3. ovoga članka.
+
+(2) Agregirana prihvatljiva vlastita sredstva grupe su zbroj sljedećega:
+
+1. vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala sudjelujućeg društva za osiguranje
+
+2. proporcionalnog udjela sudjelujućeg društva za osiguranje u vlastitim sredstvima prihvatljivim za pokriće potrebnog solventnog kapitala povezanog društva za osiguranje.
+
+(3) Agregirani potrebni solventni kapital grupe je zbroj:
+
+1. potrebnog solventnog kapitala sudjelujućeg društva za osiguranje
+
+2. proporcionalnog udjela potrebnog solventnog kapitala povezanog društva za osiguranje.
+
+(4) Kad se sudjelovanje u povezanim društvima za osiguranje sastoji, potpuno ili djelomično, od neizravnog držanja, vrijednost u sudjelujućem društvu za osiguranje povezanih društava za osiguranje obuhvaća vrijednost takvog neizravnog držanja, uzimajući u obzir relevantne sukcesivne udjele, a stavke iz stavka 2. točke 2. i stavka 3. točke 2. ovoga članka uključuju odgovarajuće proporcionalne udjele vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala povezanih društva za osiguranje i potrebnog solventnog kapitala povezanih društava za osiguranje.
+
+(5) U slučaju zahtjeva za izdavanje suglasnosti da se potrebni solventni kapital društava za osiguranje i društava za reosiguranje u grupi izračunava uporabom unutarnjeg modela koji dostavi društvo za osiguranje i njegova povezana društva ili zajednički povezana društva osigurateljnog holdinga ili mješovitog financijskog holdinga, članak 316. ovoga Zakona primjenjuje se na odgovarajući način.
+
+(6) Agregirani potrebni solventni kapital grupe, izračunat kako je navedeno u stavku 3. ovoga članka, mora primjereno odražavati profil rizičnosti grupe. Posebnu pozornost potrebno je obratiti na bilo koje specifične rizike koji postoje na razini grupe i koji ne bi bili na zadovoljavajući način obuhvaćeni jer ih je teško kvantificirati.
+
+(7) Kad profil rizičnosti grupe značajno odstupa od pretpostavki na kojima se temelji agregirani potrebni solventni kapital grupe, Agencija kao nadzorno tijelo grupe može odrediti kapitalni dodatak na agregirani potrebni solventni kapital grupe.
+
+(8) Članak 239. stavci 1. – 9. ovoga Zakona zajedno s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju postupci donošenja odluka o utvrđivanju, izračunavanju i uklanjanju kapitalnih dodataka, primjenjuju se na odgovarajući način kada Agencija kao nadzorno tijelo grupe može odrediti kapitalni dodatak na agregirani potrebni solventni kapital grupe.
+
+#### Pododjeljak 5. — Nadzor solventnosti grupe koja uključuje društva za osiguranje i društva za reosiguranje koja su društva kćeri osigurateljnog holdinga ili mješovitog financijskog holdinga
+
+*Solventnost grupe osigurateljnog holdinga ili mješovitog financijskog holdinga*
+
+##### Članak 319.
+
+(1) Ako su društva za osiguranje i društva za reosiguranje društva kćeri osigurateljnog holdinga ili mješovitog financijskog holdinga, Agencija kao nadzorno tijelo grupe osigurava da se solventnost grupe izračunava na razini osigurateljnog holdinga ili mješovitog financijskog holdinga primjenom članaka 305. – 318. ovoga Zakona.
+
+(2) Za potrebe izračuna, s matičnim društvom iz prethodnog stavka ovoga članka postupa se kao da je društvo za osiguranje koje podliježe pravilima ovoga Zakona, vezano uz potrebni solventni kapital i podliježe istim uvjetima koji su propisani ovim Zakonom vezano uz vlastita sredstva prihvatljiva za pokriće potrebnog solventnog kapitala.
+
+#### Pododjeljak 6. — Nadzor solventnosti grupe za grupe s centraliziranim upravljanjem rizicima
+
+*Uvjeti*
+
+##### Članak 320.
+
+Odredbe članaka 322. i 323. ovoga Zakona primjenjuju se na bilo koje društvo za osiguranje koje je društvo kći društva za osiguranje kad su ispunjeni svi sljedeći uvjeti, u skladu s Uredbom (EU) br. 2015/35:
+
+1. društvo kći, u vezi s kojim Agencija kao nadzorno tijelo grupe nije donijela odluku u skladu s člankom 299. stavkom 2. ovoga Zakona, uključeno je u nadzor grupe koji obavlja Agencija kao nadzorno tijelo grupe na razini matičnog društva u skladu s ovom glavom Zakona
+
+2. postupci upravljanja rizicima i mehanizmi unutarnje kontrole matičnog društva pokrivaju društvo kćer, a matično društvo ispunjava uvjete nadležnih nadzornih tijela s obzirom na razborito upravljanje društvom kćeri
+
+3. matično društvo primilo je suglasnost iz članka 328. stavka 7. ovoga Zakona
+
+4. matično društvo primilo je suglasnost iz članka 336. stavka 2. ovoga Zakona
+
+5. zahtjev za izdavanje suglasnosti za primjenu članaka 322. i 323. ovoga Zakona dostavilo je matično društvo i u vezi s tim zahtjevom donesena je povoljna odluka u skladu s postupkom iz članka 321. ovoga Zakona.
+
+*Odluka o zahtjevu za izdavanje suglasnosti*
+
+##### Članak 321.
+
+(1) U slučaju zahtjeva za izdavanje suglasnosti za primjenu pravila iz članaka 322. i 323. ovoga Zakona, Agencija i nadležna nadzorna tijela država članica surađuju u okviru kolegija nadzornih tijela, kako bi odlučili hoće li izdati traženu suglasnost i kako bi utvrdili druge uvjete koji će se odnositi na takvu suglasnost.
+
+(2) Zahtjev iz stavka 1. ovoga članka dostavlja se samo Agenciji ili nadležnom nadzornom tijelu države članice koje je izdalo odobrenje za obavljanje poslova osiguranja društvu kćeri. Agencija ili nadležno nadzorno tijelo bez odgađanja obavješćuje druge članove kolegija nadzornih tijela i prosljeđuje im potpuni zahtjev.
+
+(3) Agencija i nadležna nadzorna tijela država članica dužni su donijeti zajedničku odluku, u skladu s propisima Europske komisije kojima se uređuje postupak zajedničkog donošenja odluka, o zahtjevu u roku od tri mjeseca od dana kada sva nadležna nadzorna tijela u okviru kolegija nadzornih tijela prime potpuni zahtjev.
+
+(4) Ako su Agencija i nadležna nadzorna tijela država članica donijeli zajedničku odluku iz stavka 3. ovoga članka, Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, dostavlja podnositelju zahtjeva rješenje u kojem se navode svi razlozi. Rješenje se smatra konačnim i Agencija i nadležna nadzorna tijela ga provode.
+
+(5) Ako Agencija i nadležna nadzorna tijela država članica ne donesu zajedničku odluku tijekom tromjesečnog razdoblja iz stavka 3. ovoga članka, Agencija kao nadzorno tijelo grupe donosi vlastitu odluku o zahtjevu. Tijekom tog razdoblja Agencija kao nadzorno tijelo grupe na odgovarajući način u obzir uzima sljedeće:
+
+1. sva mišljenja i ograde od mišljenja nadležnih nadzornih tijela
+
+2. sve ograde od mišljenja drugih nadzornih tijela unutar kolegija nadzornih tijela.
+
+U odluci se navode svi razlozi i ona sadržava objašnjenje o svim znatnim odstupanjima od ograda od mišljenja drugih nadležnih nadzornih tijela. Agencija kao nadzorno tijelo grupe dostavlja podnositelju zahtjeva rješenje te ga prosljeđuje i drugim nadležnim nadzornim tijelima. Rješenje se smatra konačnim i Agencija i nadležna nadzorna tijela država članica ga provode.
+
+(6) Ako tijekom tromjesečnog razdoblja iz stavka 3. ovoga članka bilo koje od nadležnih nadzornih tijela uputi predmet EIOPA-i u skladu s člankom 19. Uredbe (EU) br. 1094/2010, Agencija kao nadzorno tijelo grupe stavlja postupak u mirovanje i čeka bilo koju odluku koju može donijeti EIOPA te donosi rješenje u skladu s odlukom EIOPA-e. Rješenje se smatra konačnim i Agencija i nadležna nadzorna tijela ga provode.
+
+(7) Predmet se ne može uputiti EIOPA-i nakon isteka tromjesečnog razdoblja ili nakon što je donesena zajednička odluka.
+
+(8) Ako se, u skladu s člankom 41. stavcima 2. i 3. te člankom 44. stavkom 1. podstavkom 3. Uredbe (EU) br. 1094/2010, odluka koju je predložilo radno tijelo odbije, Agencija kao nadzorno tijelo grupe donosi konačnu odluku. Ta se odluka smatra konačnom i nadležna nadzorna tijela je provode.
+
+*Utvrđivanje potrebnog solventnog kapitala*
+
+##### Članak 322.
+
+(1) Ne dovodeći u pitanje članak 316. ovoga Zakona, potrebni solventni kapital društva kćeri izračunava se kako je određeno u odredbama stavaka 2., 4. i 5. ovoga članka.
+
+(2) Kad se potrebni solventni kapital društva kćeri izračunava uporabom unutarnjeg modela odobrenog na razini grupe u skladu s člankom 316. ovoga Zakona i kada Agencija, ako je dala odobrenje za obavljanje poslova osiguranja društvu kćeri, smatra da njegov profil rizičnosti značajno odstupa od pretpostavki na kojima se temelji unutarnji model te sve dok to društvo primjereno ne otkloni primjedbe Agencije, Agencija može, u slučajevima iz članka 239. ovoga Zakona, odrediti kapitalni dodatak na potrebni solventni kapital tog društva kćeri zbog primjene takvog modela. Iznimno, kad takav kapitalni dodatak nije primjeren, Agencija nalaže društvu da izračunava potrebni solventni kapital standardnom formulom. Prije nego što odredi kapitalni dodatak, odnosno naloži primjenu standardne formule, Agencija raspravlja o svom prijedlogu unutar kolegija nadzornih tijela i priopćava društvu kćeri te drugim članovima kolegija nadzornih tijela razloge za davanje takvog prijedloga.
+
+(3) Kad se potrebni solventni kapital društva kćeri izračunava standardnom formulom i kada Agencija, ako je dala odobrenje za obavljanje poslova osiguranja društvu kćeri, smatra da njegov profil rizičnosti značajno odstupa od pretpostavki na kojima se temelji izračun prema standardnoj formuli, i sve dok to društvo primjereno ne otkloni primjedbe Agencije, Agencija može, u iznimnim okolnostima, naložiti da društvo zamijeni podskup parametara upotrijebljenih u izračunima standardnom formulom parametrima specifičnim za to društvo kad izračunava kapitalne zahtjeve za module preuzetog rizika životnog, neživotnog i zdravstvenog osiguranja u skladu s člankom 141. ovoga Zakona, ili u slučajevima iz članka 239. ovoga Zakona odrediti kapitalni dodatak na potrebni solventni kapital tog društva kćeri. Prije nego što naloži zamjenu parametara, odnosno odredi kapitalni dodatak, Agencija raspravlja o svom prijedlogu unutar kolegija nadzornih tijela i priopćava društvu kćeri te drugim članovima kolegija nadzornih tijela razloge za davanje takvog prijedloga.
+
+(4) Kolegij nadzornih tijela čini sve što je u skladu s njegovim ovlastima kako bi se postigla suglasnost u vezi s prijedlogom Agencije koja je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri ili bilo kojim drugim mogućim mjerama. Postignuti sporazum smatra se konačnim i nadležna nadzorna tijela ga provode.
+
+(5) Kad se Agencija i nadzorno tijelo grupe ne slažu, Agencija ili nadzorno tijelo grupe može to pitanje u roku od mjesec dana od prijedloga Agencije uputiti EIOPA-i i od nje tražiti pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010. Predmet se ne može uputiti EIOPA-i nakon isteka jednomjesečnog razdoblja od prijedloga Agencije ili nakon što je u skladu sa stavkom 4. ovoga članka postignut sporazum na kolegiju nadzornih tijela. Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, čeka bilo koju odluku koju može donijeti EIOPA te donosi rješenje u skladu s odlukom EIOPA-e.
+
+Rješenje se smatra konačnim te ga Agencija i nadležna nadzorna tijela država članica provode. Rješenje se dostavlja društvu kćeri i kolegiju nadzornih tijela.
+
+*Neusklađenost s potrebnim solventnim kapitalom i minimalnim potrebnim kapitalom*
+
+##### Članak 323.
+
+(1) Društvo kći dužno je u roku od šest mjeseci od dana kada su utvrđene neusklađenosti s potrebnim solventnim kapitalom ponovno uspostaviti razinu prihvatljivih vlastitih sredstava ili smanjiti profil rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom. Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, prosljeđuje bez odgađanja kolegiju nadzornih tijela plan oporavka koji je dostavilo društvo.
+
+Kolegij nadzornih tijela mora učiniti sve što je u skladu s njegovim ovlastima kako bi se, u roku od četiri mjeseca od dana kada je prvi put utvrđena neusklađenost s potrebnim solventnim kapitalom, postigla suglasnost u vezi s odobravanjem plana oporavka. Ako se suglasnost ne može postići u navedenom roku, Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, donosi rješenje o odobrenju plana oporavka, vodeći računa o mišljenjima i ogradama od mišljenja drugih nadzornih tijela unutar kolegija nadzornih tijela.
+
+(2) Kad Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, utvrdi u skladu s člankom 163. ovoga Zakona pogoršavanje financijskih uvjeta, ona bez odgađanja obavješćuje kolegij nadzornih tijela o mjerama koje trebaju biti poduzete. Osim u hitnim situacijama, koje se procjenjuju u skladu s Uredbom (EU) br. 2015/35, o mjerama koje trebaju biti poduzete raspravlja se na kolegiju nadzornih tijela.
+
+Kolegij nadzornih tijela mora učiniti sve što je u skladu s njegovim ovlastima kako bi se u roku od jednog mjeseca od obavijesti postigla suglasnost u vezi s predloženim mjerama koje trebaju biti poduzete.
+
+Ako takva suglasnost ne bude postignuta, Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, donosi rješenje o odobrenju predloženih mjera, vodeći računa o mišljenjima i ogradama od mišljenja drugih nadzornih tijela unutar kolegija nadzornih tijela.
+
+(3) U slučaju neusklađenosti s minimalnim potrebnim kapitalom i ne dovodeći u pitanje članak 166. ovoga Zakona, Agencija, ako je izdala odobrenje za obavljanje poslova osiguranja društvu kćeri, bez odgađanja prosljeđuje kolegiju nadzornih tijela kratkoročni financijski plan koji je dostavilo društvo kći kako bi se, u roku od tri mjeseca od kad je prvi put uočena neusklađenost s minimalnim potrebnim kapitalom, ponovno uspostavila razina prihvatljivih vlastitih sredstava za pokriće minimalnog potrebnog kapitala ili smanjio njegov profil rizičnosti kako bi se osigurala usklađenost s minimalnim potrebnim kapitalom. Agencija obavještava kolegij nadzornih tijela o svim mjerama koje su poduzete da bi se osigurao minimalni potrebni kapital na razini društva kćeri.
+
+(4) Agencija ili nadzorno tijelo grupe mogu uputiti predmet EIOPA-i i od nje zatražiti pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010. kada se ne slažu u vezi sa sljedećim:
+
+1. odobravanjem plana oporavka, uključujući svako produljenje razdoblja oporavka, tijekom četveromjesečnog razdoblja iz stavka 1. ovoga članka ili
+
+2. odobravanjem predloženih mjera tijekom jednomjesečnog razdoblja iz stavka 2. ovoga članka.
+
+(5) Predmet se ne može uputiti EIOPA-i:
+
+1. nakon isteka rokova iz stavka 4. ovoga članka
+
+2. nakon što je u skladu sa stavkom 1. ili 2. ovoga članka postignut sporazum na kolegiju nadzornih tijela
+
+3. u hitnim situacijama iz stavka 2. ovoga članka.
+
+(6) Ako EIOPA-a donese odluku u skladu s člankom 19. stavkom 3. Uredbe (EU) br. 1094/2010, Agencija donosi rješenje u skladu s odlukom EIOPA-e. Rješenje se smatra konačnim te ga Agencija i nadležna nadzorna tijela država članica provode. U rješenju se navode svi razlozi na kojima je utemeljena odluka. Agencija će rješenje dostaviti društvu kćeri i kolegiju nadzornih tijela.
+
+*Prestanak važenja iznimki za društva kćeri*
+
+##### Članak 324.
+
+(1) Odredbe iz članaka 322. i 323. ovoga Zakona ne primjenjuju se:
+
+1. kad uvjeti iz članka 320. točke 1. ovoga Zakona više nisu ispunjeni
+
+2. kad uvjeti iz članka 320. točke 2. ovoga Zakona više nisu ispunjeni i grupa nije ponovno uspostavila usklađenost s tim uvjetom u odgovarajućem razdoblju
+
+3. kad uvjeti iz članka 320. točaka 3. i 4. ovoga Zakona više nisu ispunjeni.
+
+(2) U slučaju iz stavka 1. točke 1. ovoga članka, kad Agencija kao nadzorno tijelo, nakon savjetovanja s kolegijem nadzornih tijela, odluči da više neće uključivati društvo kćer u nadzor grupe koji obavlja, ono o tome odmah obavješćuje nadležno nadzorno tijelo države članice i matično društvo.
+
+U svrhu članka 320. točaka 2., 3. i 4. ovoga Zakona matično društvo je odgovorno osigurati kontinuiranu usklađenost s uvjetima. U slučaju neusklađenosti ono bez odgađanja obavješćuje Agenciju kao nadležno nadzorno tijelo i nadležno nadzorno tijelo države članice društva kćeri. Matično društvo predstavlja plan za ponovno uspostavljanje usklađenosti u odgovarajućem roku.
+
+(3) Agencija kao nadležno tijelo grupe barem jednom godišnje provjerava, na vlastitu inicijativu, održanost usklađenosti s uvjetima iz članka 320. točaka 2., 3. i 4. ovoga Zakona. Agencija kao nadležno nadzorno tijelo grupe takvu provjeru također obavlja na zahtjev nadležnog nadzornog tijela države članice, kad nadležno nadzorno tijelo države članice u znatnoj mjeri iskazuje zabrinutost u vezi s kontinuiranom usklađenošću s tim uvjetima.
+
+Kad se na temelju obavljenih provjera utvrde slabosti, Agencija kao nadzorno tijelo grupe zahtijeva od matičnog društva da predstavi plan za ponovno uspostavljanje usklađenosti u odgovarajućem roku.
+
+(4) Kad Agencija kao nadzorno tijelo grupe, nakon savjetovanja s kolegijem nadzornih tijela, utvrdi da je plan iz stavka 2. ili 3. ovoga članka nedostatan ili naknadno utvrdi da on nije proveden u dogovorenom roku, Agencija kao nadzorno tijelo grupe zaključuje da više ne postoji usklađenost s uvjetima iz članka 320. točaka 2., 3. i 4. ovoga Zakona i o tome odmah obavješćuje nadležno nadzorno tijelo države članice.
+
+(5) Postupak iz članaka 322. i 323. ovoga Zakona ponovno se primjenjuje kad matično društvo podnese novi zahtjev i dobije povoljno mišljenje u skladu s postupkom iz članka 320. ovoga Zakona.
+
+*Društva kćeri osigurateljnog holdinga ili mješovitog financijskog holdinga*
+
+##### Članak 325.
+
+(1) Članci 320. – 324. i Uredba (EU) br. 2015/35 primjenjuju se na odgovarajući način na društva za osiguranje i društva za reosiguranje koja su društva kćeri osigurateljnog holdinga ili mješovitog financijskog holdinga.
+
+(2) Agencija se, pri razmjeni informacija, u ostvarivanju svojih prava ili ispunjavanju svojih dužnosti u skladu s odredbama članaka 321. – 324. ovoga Zakona, pridržava postupaka utvrđenih u skladu s Uredbom (EU) br. 2015/35.
+
+### ODJELJAK II. — KONCENTRACIJA RIZIKA I UNUTARGRUPNE TRANSAKCIJE
+
+*Nadzor koncentracije rizika*
+
+##### Članak 326.
+
+(1) Društva za osiguranje i društva za reosiguranje, odnosno osigurateljni holdinzi ili mješoviti financijski holdinzi redovito, a najmanje jednom godišnje podnose izvješće Agenciji kao nadzornom tijelu grupe o svakoj značajnoj koncentraciji rizika, definiranoj u skladu s Uredbom (EU) br. 2015/35, na razini grupe, osim ako se primjenjuje članak 300. stavak 2. ovoga Zakona.
+
+(2) Potrebne podatke Agenciji kao nadzornom tijelu grupe dostavlja, u skladu s propisima Europske komisije kojima se uređuje izvještavanje o koncentraciji rizika, društvo za osiguranje koje se nalazi na čelu grupe ili, ako se na čelu grupe ne nalazi društvo za osiguranje ili društvo za reosiguranje, osigurateljni holding, mješoviti financijski holding ili društvo za osiguranje u grupi koje je odredila Agencija kao nadzorno tijelo grupe nakon savjetovanja s drugim nadležnim nadzornim tijelima država članica i grupom.
+
+(3) Agencija kao nadzorno tijelo grupe, nakon savjetovanja s nadležnim nadzornim tijelima država članica i grupom, utvrđuje tipove rizika, u skladu s Uredbom (EU) br. 2015/35, o kojima društva za osiguranje i društva za reosiguranje u određenoj grupi izvješćuju u svim okolnostima, pri čemu Agencija uzima u obzir specifičnu grupu i strukturu upravljanja rizikom grupe.
+
+(4) Agencija kao nadzorno tijelo grupe, nakon savjetovanja s drugim nadležnim nadzornim tijelima država članica i grupom, uvodi odgovarajuće pragove, u skladu s Uredbom (EU) br. 2015/35, koji se temelje na potrebnom solventnom kapitalu, tehničkim pričuvama ili na jednom i drugom, prema kojima se utvrđuje značajna koncentracija rizika o kojima se izvješćuje.
+
+(5) Kod nadzora koncentracije rizika Agencija kao nadzorno tijelo grupe posebno prati mogući rizik zaraze u grupi, rizik sukoba interesa i razinu ili opseg rizika.
+
+(6) Nadzor koncentracije rizika na razini grupe provodi se i uz odgovarajuću primjenu odredaba članka 328. ovoga Zakona i poglavlja III. ove glave Zakona.
+
+*Nadzor unutargrupnih transakcija*
+
+##### Članak 327.
+
+(1) Društva za osiguranje i društva za reosiguranje, osigurateljni holdinzi i mješoviti financijski holdinzi redovito, a najmanje jednom godišnje podnose izvješće Agenciji kao nadzornom tijelu grupe o svim značajnim unutargrupnim transakcijama, definiranim u skladu s Uredbom (EU) br. 2015/35, društva za osiguranje i društva za reosiguranje unutar grupe, uključujući one provedene s fizičkim osobama koje su usko povezane s društvom u grupi osim ako se primjenjuje članak 300. stavak 2. ovoga Zakona.
+
+(2) Potrebne podatke Agenciji kao nadzornom tijelu grupe dostavlja društvo za osiguranje koje se nalazi na čelu grupe ili, ako se na čelu grupe ne nalazi društvo za osiguranje, osigurateljni holding, mješoviti financijski holding ili društvo za osiguranje u grupi koje je odredila Agencija kao nadzorno tijelo grupe nakon savjetovanja s drugim nadležnim nadzornim tijelima država članica i grupom.
+
+(3) Društvo iz prethodnog stavka dužno je podnositi izvješće, u skladu s propisima Europske komisije kojima se uređuje izvještavanje o unutargrupnim transakcijama, Agenciji kao nadzornom tijelu grupe o vrlo značajnim unutargrupnim transakcijama, čim je to moguće.
+
+(4) Agencija kao nadzorno tijelo grupe, nakon savjetovanja s drugim nadležnim nadzornim tijelima država članica i grupom, utvrđuje tipove transakcija, u skladu s Uredbom (EU) br. 2015/35, unutar grupe o kojima društva za osiguranje i društva za reosiguranje u određenoj grupi moraju izvješćivati u svim okolnostima. Članak 326. stavci 3. – 5. ovoga Zakona primjenjuju se na odgovarajući način.
+
+(5) Nadzor unutargrupnih transakcija provodi se i uz odgovarajuću primjenu odredaba članka 328. i članaka 329. – 339. ovoga Zakona.
+
+### ODJELJAK III. — UPRAVLJANJE RIZICIMA I UNUTARNJA KONTROLA
+
+*Nadzor sustava upravljanja*
+
+##### Članak 328.
+
+(1) Zahtjevi iz ovoga Zakona koji se odnose na sustav upravljanja primjenjuju se na odgovarajući način na razini grupe.
+
+(2) Ne dovodeći u pitanje stavak 1. ovoga članka, sustavi upravljanja rizicima i unutarnje kontrole te postupci izvješćivanja primjenjuju se dosljedno u svim društvima uključenim u opseg nadzora grupe na temelju članka 298. stavka 2. točaka 1. i 2. ovoga Zakona, tako da se navedene sustave i postupke izvješćivanja može nadzirati na razini grupe.
+
+(3) Ne dovodeći u pitanje stavke 1. i 2. ovoga članka, mehanizmi unutarnje kontrole grupe obuhvaćaju najmanje sljedeće:
+
+1. odgovarajuće mehanizme vezane uz solventnost grupe za utvrđivanje i mjerenje svih prisutnih značajnih rizika te primjereno povezivanje prihvatljivih vlastitih sredstava s rizicima
+
+2. pouzdano izvješćivanje i računovodstvene postupke za praćenje i upravljanje unutargrupnim transakcijama te koncentracijom rizika.
+
+(4) Sustavi i postupci izvješćivanja iz stavaka 1., 2. i 3. ovoga članka podliježu nadzornom pregledu od strane Agencije kao nadzornog tijela grupe u skladu s pravilima iz poglavlja III. ove glave Zakona.
+
+(5) Sudjelujuće društvo za osiguranje, osigurateljni holding ili mješoviti financijski holding provodi na razini grupe vlastitu procjenu rizika i solventnosti zahtijevanu u skladu s člankom 96. ovoga Zakona. Vlastita procjena rizika i solventnosti, provedena na razini grupe, predmet je nadzornog pregleda Agencije kao nadzornog tijela grupe u skladu s poglavljem III. ove glave Zakona.
+
+(6) Ako se izračun solventnosti na razini grupe provodi u skladu s metodom konsolidacije iz članka 315. ovoga Zakona, sudjelujuće društvo za osiguranje, osigurateljni holding ili mješoviti financijski holding dostavlja Agenciji kao nadzornom tijelo grupe odgovarajuće objašnjenje o razlici između sume potrebnog solventnog kapitala svih povezanih društava za osiguranje grupe i konsolidiranog potrebnog solventnog kapitala grupe.
+
+(7) Sudjelujuće društvo za osiguranje, osigurateljni holding ili mješoviti financijski holding mogu, ovisno o odobrenju Agencije kao nadzornog tijela grupe, provesti istodobno na razini grupe i na razini bilo kojeg društva kćeri u grupi bilo koju procjenu zahtijevanu u skladu s člankom 96. ovoga Zakona i mogu pripremiti jedinstveno izvješće koje obuhvaća sve procjene. U tom slučaju sudjelujuće društvo za osiguranje, odnosno društvo za reosiguranje, osigurateljni holding ili mješoviti financijski holding dostavlja izvješće svim nadležnim nadzornim tijelima istodobno. Prije izdavanja odobrenja, Agencija se kao nadzorno tijelo grupe mora konzultirati s drugim članovima kolegija nadzornih tijela i uzeti u obzir njihova mišljenja.
+
+Obveza društva kćeri prema članku 96. ovoga Zakona o provedbi vlastite procjene rizika i solventnosti ostaje na snazi.
+
+## POGLAVLJE III. — MJERE ZA OLAKŠANJE NADZORA GRUPE
+
+*Nadzorno tijelo grupe*
+
+##### Članak 329.
+
+(1) Nadzorno tijelo grupe, određeno između nadležnih nadzornih tijela država članica, nadležno je za koordiniranje i obavljanje nadzora grupe.
+
+(2) Kad je Agencija nadležna za sva društva za osiguranje u grupi, nadzorno tijelo grupe je Agencija. U svim drugim slučajevima, u skladu sa stavkom 3. ovoga članka:
+
+1. ako se na čelu grupe nalazi društvo za osiguranje, nadzorno tijelo grupe je nadzorno tijelo koje je izdalo odobrenje za obavljanje poslova osiguranja
+
+2. ako se na čelu grupe ne nalazi društvo za osiguranje:
+
+– te ako je matično društvo društva za osiguranje osigurateljni holding ili mješoviti financijski holding, nadzorno tijelo grupe je nadzorno tijelo koje je izdalo odobrenje za obavljanje poslova osiguranja tom društvu za osiguranje
+
+– te ako više od jednog društva za osiguranje koja imaju sjedišta u Europskoj uniji imaju kao matično društvo isti osigurateljni holding ili mješoviti financijski holding te ako je jedno od tih društava dobilo odobrenje za obavljanje poslova osiguranja u državi članici u kojoj je sjedište osigurateljnog holdinga ili mješovitog financijskog holdinga, nadzorno tijelo grupe je nadzorno tijelo koje je izdalo odobrenje za obavljanje poslova osiguranja tom društvu za osiguranje
+
+– te ako se na čelu grupe nalazi više osigurateljnih holdinga ili mješovitih financijskih holdinga sa sjedištem u različitim državama članicama i ako u svakoj od tih država članica postoji društvo za osiguranje, nadzorno tijelo grupe je nadzorno tijelo društva za osiguranje s najvećim bilančnim iznosom
+
+– te ako više društava za osiguranje sa sjedištem u Europskoj uniji imaju kao matično društvo isti osigurateljni holding ili mješoviti financijski holding i nijedno od tih društava nije dobilo odobrenje za obavljanje poslova osiguranja u državi članici u kojoj je sjedište osigurateljnog holdinga ili mješovitog financijskog holdinga, nadzorno tijelo grupe je nadzorno tijelo koje je izdalo odobrenje za obavljanje poslova osiguranja društvu za osiguranje s najvećim bilančnim iznosom ili
+
+– ako grupa nema matično društvo ili u svim ostalim okolnostima koje nisu navedene u podtočkama 1. – 4. ove točke, nadzorno tijelo grupe je nadzorno tijelo koje je izdalo odobrenje za obavljanje poslova osiguranja društvu za osiguranje s najvećim bilančnim iznosom.
+
+(3) U posebnim slučajevima Agencija kao nadzorno tijelo grupe može, na zahtjev bilo kojeg od drugih nadležnih nadzornih tijela država članica, donijeti zajedničku odluku o odstupanju od kriterija iz stavka 2. ovoga članka ako bi njihova primjena bila neprimjerena, uzimajući u obzir strukturu grupe i relativni značaj djelatnosti društava za osiguranje i društava za reosiguranje u različitim državama te mogu odrediti drugo nadzorno tijelo kao nadzorno tijelo grupe. Drugo nadzorno tijelo grupe ne smije se imenovati češće nego jedanput godišnje. Agencija i nadležna nadzorna tijela država članica čine sve što je u skladu s njihovim ovlastima kako bi donijeli zajedničku odluku o izboru nadzornog tijela grupe u roku od tri mjeseca od podnošenja zahtjeva za raspravu. Prije nego što donesu odluku nadležna nadzorna tijela daju priliku grupi da iznese svoje mišljenje. Imenovano nadzorno tijelo grupe dostavlja grupi zajedničku odluku u kojoj se navode svi razlozi.
+
+(4) Ako tijekom tromjesečnog razdoblja iz stavka 3. ovoga članka bilo koje od nadležnih nadzornih tijela uputi predmet EIOPA-i u skladu s člankom 19. Uredbe (EU) br. 1094/2010, nadležna nadzorna tijela odgađaju svoje odluke i čekaju bilo koju odluku koju može donijeti EIOPA te donose zajedničku odluku u skladu s odlukom EIOPA-e. Ta se zajednička odluka smatra konačnom i nadležna nadzorna tijela je provode. Imenovano nadzorno tijelo grupe dostavlja grupi i kolegiju nadzornih tijela zajedničku odluku u kojoj se navode svi razlozi.
+
+(5) Predmet se ne može uputiti EIOPA-i nakon isteka tromjesečnog razdoblja ili nakon što je donesena zajednička odluka.
+
+(6) Ako se ne donese zajednička odluka u skladu sa stavkom 3. ili 4. ovoga članka, nadzorno tijelo grupe je nadzorno tijelo utvrđeno u skladu sa stavkom 2. ovoga članka.
+
+*Prava i dužnosti nadzornog tijela grupe i drugih nadzornih tijela na kolegiju nadzornih tijela*
+
+##### Članak 330.
+
+(1) Prava i dužnosti dodijeljeni nadzornom tijelu grupe iz članka 329. ovoga Zakona s obzirom na nadzor grupe obuhvaćaju sljedeće:
+
+1. koordiniranje prikupljanja i razmjene informacija u okviru redovitog poslovanja i u izvanrednim situacijama, uključujući razmjenu informacija koje su važne za obavljanje nadzornih zadataka nadležnih nadzornih tijela država članica
+
+2. nadzorni pregled i procjenu financijskog stanja grupe
+
+3. procjenu usklađenosti grupe s pravilima o solventnosti, koncentraciji rizika i unutargrupnim transakcijama u skladu s člancima 303. – 327. ovoga Zakona
+
+4. procjenu sustava upravljanja grupe, u skladu s člankom 328. ovoga Zakona, te ispunjavanje uvjeta vezanih uz poslovno iskustvo i ugled članova uprave i nadzornog odbora sudjelujućeg društva te drugih osoba koje upravljaju sudjelujućim društvom ili imaju druge ključne funkcije kako je određeno u člancima 51., 59. i 93. te članku 338. ovoga Zakona
+
+5. planiranje i koordiniranje nadzornih aktivnosti u redovitom poslovanju i u izvanrednim situacijama putem redovitih sastanaka koji se održavaju barem jednom godišnje ili putem drugih odgovarajućih sredstava, u suradnji s nadležnim nadzornim tijelima država članica i uzimajući u obzir prirodu, opseg i složenost rizika prisutnih u poslovanju svih društava koja su dio grupe
+
+6. ostale zadatke, mjere i odluke koji su dodijeljeni nadzornom tijelu grupe ovim Zakonom ili proizlaze iz primjene ovoga Zakona, posebno postupak validacije svakog unutarnjeg modela na razini grupe u skladu s člancima 316. i 318. ovoga Zakona i postupak za primjenu sustava iz članaka 321. – 324. ovoga Zakona.
+
+(2) Nadzorno tijelo grupe predsjeda kolegiju nadzornih tijela.
+
+(3) Ako nadzorno tijelo grupe ne izvrši zadatke iz stavka 1. ovoga članka ili ako članovi kolegija nadzornih tijela ne surađuju u mjeri u kojoj se zahtijeva stavcima 2. i 5. ovoga članka, bilo koje nadležno nadzorno tijelo može uputiti predmet EIOPA-i i zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010.
+
+(4) Članstvo kolegija nadzornih tijela obuhvaća nadzorno tijelo grupe, nadzorna tijela svih država članica u kojima se nalaze sjedišta svih društava kćeri i EIOPA-u u skladu s člankom 21. Uredbe (EU) br. 1094/2010. Nadzorna tijela značajnih podružnica, definiranih u skladu s Uredbom (EU) br. 2015/35, i povezanih društava mogu sudjelovati u kolegiju nadzornih tijela, ali njihovo sudjelovanje je ograničeno na postizanje cilja učinkovite razmjene informacija.
+
+(5) Kolegij nadzornih tijela osigurava da se suradnja, razmjena informacija i postupci savjetovanja između nadzornih tijela koja su članovi kolegija nadzornih tijela učinkovito obavljaju u skladu s ovom glavom Zakona, radi promicanja usklađivanja njihovih odluka i aktivnosti. Učinkovito funkcioniranje kolegija nadzornih tijela može zahtijevati da neke aktivnosti obavlja manji broj nadzornih tijela unutar kolegija.
+
+(6) Osnivanje i funkcioniranje kolegija nadzornih tijela temelji se na koordinacijskim sporazumima koje su sklopili nadzorno tijelo grupe i druga nadležna nadzorna tijela.
+
+Ako postoje različita mišljenja o koordinacijskim sporazumima, bilo koji član kolegija nadzornih tijela može uputiti predmet EIOPA-i i zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010. Agencija kao nadzorno tijelo grupe donosi svoju konačnu odluku u skladu s odlukom EIOPA-e te dostavlja odluku drugim nadležnim nadzornim tijelima.
+
+(7) Koordinacijski sporazumi iz stavka 6. ovoga članka pobliže propisuju postupke za:
+
+1. odlučivanje između nadležnih nadzornih tijela u skladu s odredbama članaka 316., 317. i 329. ovoga Zakona
+
+2. savjetovanje iz stavka 6. ovoga članka i iz članka 303. stavka 5. ovoga Zakona.
+
+U koordinacijskim sporazumima mogu biti navedeni postupci za:
+
+1. savjetovanje između nadležnih nadzornih tijela, posebno kako je navedeno u odredbama članaka 298. – 302., članaka 304. – 306., članka 312., članaka 326. – 328., članka 332., članka 336., članka 340. i članka 342. ovoga Zakona
+
+2. suradnju s drugim nadzornim tijelima.
+
+Koordinacijskim sporazumima mogu se povjeriti dodatni zadaci nadzornom tijelu grupe, drugim nadzornim tijelima ili EIOPA-i kada bi rezultat toga bio učinkovitiji nadzor grupe i kada se time ne bi narušavale nadzorne aktivnosti članova kolegija nadzornih tijela s obzirom na njihove pojedinačne odgovornosti.
+
+*Suradnja i razmjena informacija između nadzornih tijela*
+
+##### Članak 331.
+
+(1) Tijela odgovorna za nadzor pojedinačnih društava za osiguranje i društava za reosiguranje u grupi i nadzorno tijelo grupe blisko surađuju, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje razmjena informacija između nadzornih tijela, posebno u slučajevima kad se društvo za osiguranje nalazi u financijskim poteškoćama.
+
+(2) Nadležna nadzorna tijela međusobno razmjenjuju informacije, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje razmjena informacija između nadzornih tijela, koje bi omogućile ili olakšale obavljanje nadzornih zadataka drugih tijela u skladu s ovim Zakonom. Nadzorno tijelo grupe dostavlja nadležnim nadzornim tijelima i EIOPA-i informacije koje se odnose na grupu u skladu s člankom 31. stavcima 3. i 4., člankom 33. stavkom 1. točkom 9., člankom 168. stavkom 2. i člankom 334. stavkom 2. ovoga Zakona, a posebno u vezi s pravnom strukturom, upravljanjem i organizacijskom strukturom grupe.
+
+(3) Kada nadležno nadzorno tijelo nije priopćilo relevantne informacije ili kada je zahtjev za suradnju, posebno za razmjenu relevantnih informacija, odbijen ili se nije postupilo u skladu s njim u roku od dva tjedna, Agencija može uputiti predmet EIOPA-i.
+
+(4) Tijela odgovorna za nadzor pojedinačnih društava za osiguranje i društava za reosiguranje u grupi i nadzorno tijelo grupe odmah sazivaju sastanak svih nadzornih tijela uključenih u nadzor grupe najmanje u sljedećim okolnostima:
+
+1. kod značajnog kršenja potrebnog solventnog kapitala ili kršenja minimalnog potrebnog kapitala pojedinačnog društva za osiguranje
+
+2. kod značajnog kršenja potrebnog solventnog kapitala grupe izračunatog na temelju konsolidiranih podataka ili agregiranog potrebnog solventnog kapitala, u skladu s bilo kojom metodom izračuna koja se upotrebljava u skladu s člancima 315. – 318. ovoga Zakona
+
+3. kad se događaju ili su se dogodile druge iznimne okolnosti.
+
+*Savjetovanje Agencije i nadzornih tijela iz drugih država članica*
+
+##### Članak 332.
+
+(1) Agencija i nadležna nadzorna tijela država članica, kada je odluka važna za nadzorne zadatke drugih nadzornih tijela, prije nego što donesu tu odluku međusobno se savjetuju na kolegiju nadzornih tijela s obzirom na sljedeće:
+
+1. promjene u strukturi dioničara, organizacijskoj ili upravljačkoj strukturi društava za osiguranje, odnosno društava za reosiguranje u grupi, za koje je potrebna suglasnost ili odobrenje nadzornih tijela
+
+2. odluku o produljenju razdoblja oporavka u skladu s člankom 165. stavcima 4. i 7. – 11. ovoga Zakona
+
+3. glavne sankcije ili iznimne mjere koje poduzimaju nadzorna tijela, uključujući određivanje kapitalnog dodatka na potrebni solventni kapital u skladu s člankom 239. ovoga Zakona i uvođenje bilo kojih ograničenja za uporabu unutarnjeg modela za izračun potrebnog solventnog kapitala u skladu s ovim Zakonom.
+
+(2) Za potrebe stavka 1. točaka 2. i 3. ovoga članka Agencija se uvijek mora savjetovati s nadzornim tijelom grupe. Osim toga, Agencija i nadležna nadzorna tijela država članica se, kad se odluka temelji na informacijama koje su primljene od drugih nadzornih tijela, međusobno savjetuju prije nego što donesu odluku.
+
+(3) Agencija može odlučiti da se neće savjetovati s drugim nadzornim tijelima u hitnim slučajevima ili kad bi takvo savjetovanje moglo ugroziti učinkovitost odluke. U tom slučaju Agencija bez odgađanja obavješćuje druga nadležna nadzorna tijela država članica.
+
+(4) Agencija kao nadzorno tijelo grupe može pozvati nadležno nadzorno tijelo države članice u kojoj matično društvo ima svoje sjedište i koje ne obavlja nadzor grupe na istovjetan način kako je propisano u članku 329. ovoga Zakona da zatraži od matičnog društva bilo koje informacije koje bi bile relevantne za obavljanje njegovih prava i dužnosti u okviru koordinacije u skladu s člankom 330. ovoga Zakona i da dostavi te informacije Agenciji kao nadzornom tijelu grupe.
+
+(5) Kada su Agenciji kao nadzornom tijelu grupe potrebne informacije iz članka 334. stavaka 2. – 5. ovoga Zakona koje su već dane drugom nadzornom tijelu, Agencija kontaktira s tim tijelom uvijek kada je to moguće kako bi se spriječilo dvostruko izvješćivanje raznih tijela koja su uključena u nadzor.
+
+(6) Kad su društvo za osiguranje i kreditna institucija kako je definirana zakonom kojim se uređuju kreditne institucije ili investicijsko društvo kako je definirano zakonom kojim se uređuje tržište kapitala, ili oba, izravno ili neizravno povezani ili imaju zajedničko sudjelujuće društvo, Agencija i nadležna nadzorna tijela država članica te tijela odgovorna za nadzor tih drugih društava blisko surađuju.
+
+(7) Agencija i tijela iz stavka 6. ovoga članka međusobno razmjenjuju bilo koje informacije za koje je vjerojatno da će pojednostavniti njihove zadatke, posebno u skladu s ovom glavom Zakona.
+
+*Poslovna tajna i povjerljivost*
+
+##### Članak 333.
+
+(1) Razmjena informacija između Agencije i nadležnih nadzornih tijela i između Agencije i drugih nadzornih tijela, provodi se u skladu s člancima 331. i 332. ovoga Zakona.
+
+(2) Informacije primljene u okviru nadzora grupe i posebno bilo koja razmjena informacija, između Agencije i nadležnih nadzornih tijela i između Agencije i drugih nadzornih tijela, predviđena u ovoj glavi Zakona, podliježe odredbama članka 386. ovoga Zakona.
+
+*Pristup informacijama*
+
+##### Članak 334.
+
+(1) Fizičke i pravne osobe uključene u opseg nadzora grupe i njihova povezana društva i sudjelujuća društva mogu razmjenjivati bilo koje informacije koje bi mogle biti relevantne u svrhu nadzora grupe.
+
+(2) Agencija kao nadzorno tijelo grupe ima pristup svim informacijama koje su relevantne u svrhu tog nadzora, bez obzira na prirodu predmetnog društva. Članci 215. i 216. ovoga Zakona primjenjuju se na odgovarajući način.
+
+(3) Agencija kao nadzorno tijelo grupe može ograničiti redovito nadzorno izvješćivanje na razini grupe koje se obavlja češće nego jedanput godišnje ako sva društva za osiguranje u okviru grupe imaju koristi od tog ograničenja u skladu s člankom 217. stavcima 1. – 3. ovoga Zakona, uzimajući u obzir prirodu, opseg i složenost rizika prisutnih u poslovanju grupe.
+
+(4) Agencija kao nadzorno tijelo grupe može izuzeti od izvješćivanja po stavkama na razini grupe ako sva društva za osiguranje u okviru grupe imaju koristi od tog izuzeća u skladu s člankom 217. stavcima 4. – 6. ovoga Zakona, uzimajući u obzir prirodu, opseg i složenost rizika prisutnih u poslovanju grupe te o cilju financijske stabilnosti.
+
+(5) Agencija može zatražiti potrebne informacije izravno od društava u grupi samo kad su te informacije zatražene od društva za osiguranje koje podliježe nadzoru grupe i kad joj nisu dostavljene u razumnom roku.
+
+*Provjera informacija*
+
+##### Članak 335.
+
+(1) Agencija može na području Republike Hrvatske, bilo izravno bilo uz posredovanje osoba koje su imenovane u tu svrhu, obaviti izravnu provjeru informacija iz članka 334. ovoga Zakona u prostorijama jednog od sljedećih:
+
+1. društva za osiguranje koje podliježe nadzoru grupe
+
+2. povezanih društava tog društva za osiguranje
+
+3. matičnih društava tog društva za osiguranje
+
+4. povezanih društava matičnog društva tog društva za osiguranje.
+
+(2) Ako je u specifičnim slučajevima potrebno provjeriti informacije o nekom društvu, bez obzira na to je li ono regulirano ili nije, a koje je dio grupe i nalazi se u drugoj državi članici, Agencija će zamoliti nadzorna tijela te druge države članice da obave provjeru, a nadzorno tijelo grupe se obavješćuje o poduzetoj aktivnosti.
+
+(3) Agencija može u slučaju iz stavka 2. ovoga članka, po potrebi, sudjelovati u provjeri kad izravno ne obavlja provjeru.
+
+(4) Ako se u odnosu na zahtjev iz stavka 2. ovoga članka, koji je podnesen drugom nadzornom tijelu za obavljanje provjere, nije postupilo u roku od dva tjedna ili ako Agencija nije u mogućnosti u praksi ostvariti svoje pravo sudjelovanja u skladu sa stavkom 3. ovoga članka, može uputiti predmet EIOPA-i te može zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010.
+
+*Izvješće o solventnosti i financijskom stanju grupe*
+
+##### Članak 336.
+
+(1) Sudjelujuće društvo za osiguranje i društvo za reosiguranje, osigurateljni holding i mješoviti financijski holding javno objavljuje jedanput godišnje izvješće o solventnosti i financijskom stanju na razini grupe, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje objavljivanje informacija koje se odnose na izvješće o solventnosti i financijskom stanju. Članci 168. – 171. ovoga Zakona primjenjuju se na odgovarajući način.
+
+(2) Sudjelujuće društvo za osiguranje, osigurateljni holding ili mješoviti financijski holding mogu, ovisno o odobrenju Agencije kao nadzornog tijela grupe, dostaviti jedinstveno izvješće o solventnosti i financijskom stanju, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje objavljivanje informacija koje se odnose na izvješće o solventnosti i financijskom stanju, koje će obuhvatiti sljedeće:
+
+1. informacije na razini grupe koje je potrebno objaviti u skladu sa stavkom 1. ovoga članka
+
+2. informacije za bilo koje od društava kćeri u grupi koje moraju biti pojedinačno prepoznatljive i moraju biti objavljene u skladu s člancima 168. – 171. ovoga Zakona.
+
+(3) Prije izdavanja suglasnosti iz stavka 2. ovoga članka, Agencija kao nadzorno tijelo grupe savjetuje se s članovima kolegija nadzornih tijela i uzima u obzir njihova stajališta i ograničavajuće uvjete.
+
+(4) Kad u izvješće iz stavka 2. ovoga članka nisu uključene informacije koje Agencija, ako je dala odobrenje za obavljanje poslova osiguranja društvu kćeri unutar grupe, zahtijeva od usporedivih društava i kad je taj propust značajan, Agencija može zahtijevati od predmetnog društva kćeri da objavi potrebne dodatne informacije.
+
+*Struktura grupe*
+
+##### Članak 337.
+
+Društvo za osiguranje i društvo za reosiguranje, osigurateljni holding i mješoviti osigurateljni holding na razini grupe jedanput godišnje objavljuju pravnu, upravljačku i organizacijsku strukturu, uključujući opis svih društava kćeri, značajno povezanih društava i značajnih podružnica koje pripadaju grupi.
+
+*Uprava osigurateljnih holdinga i mješovitih financijskih holdinga*
+
+##### Članak 338.
+
+(1) Osobe koje upravljaju poslovanjem osigurateljnog holdinga ili mješovitog financijskog holdinga, moraju imati dovoljno dobar ugled i odgovarajuće iskustvo za obavljanje svojih dužnosti.
+
+(2) Na uvjete koje moraju ispunjavati osobe navedene u stavku 1. ovoga članka na odgovarajući se način primjenjuje članak 51. ovoga Zakona.
+
+*Provedbene mjere*
+
+##### Članak 339.
+
+(1) Kad društvo za osiguranje ili društvo za reosiguranje u grupi ne ispunjava zahtjeve predviđene člancima 303. – 328. ovoga Zakona ili u slučaju kad su zahtjevi ispunjeni, ali unatoč tome solventnost može biti ugrožena ili u slučaju kad unutargrupne transakcije ili koncentracije rizika ugrožavaju financijski položaj društava za osiguranje, Agencija je dužna donijeti mjere koje su nužne kako bi se stanje što prije popravilo:
+
+1. ako je nadzorno tijelo grupe u slučaju osigurateljnih holdinga ili mješovitih financijskih holdinga
+
+2. ako je nadležno nadzorno tijelo u slučaju društava za osiguranje i društava za reosiguranje.
+
+(2) Kad u slučaju iz stavka 1. ovoga članka Agencija kao nadzorno tijelo grupe nije jedno od nadzornih tijela države članice u kojoj je sjedište osigurateljnog holdinga, mješovitog financijskog holdinga ili društva za osiguranje, odnosno društva za reosiguranje, Agencija kao nadzorno tijelo grupe obavješćuje ta nadzorna tijela o svojim nalazima kako bi im omogućila da donesu potrebne mjere, u skladu s propisima Europske komisije kojima se uređuju provedbene mjere.
+
+(3) Agencija i nadzorna tijela usko surađuju kako bi osigurala učinkovitost sankcija ili mjera, u odnosu na osigurateljne holdinge, mješovite financijske holdinge ili osobe koje stvarno upravljaju tim društvima, u slučaju kršenja zakona i drugih propisa, posebno ako središnja uprava ili glavne jedinice osigurateljnog holdinga ili mješovitog financijskog holdinga nisu u istoj državi članici kao njihovo sjedište.
+
+## POGLAVLJE IV. — TREĆE DRŽAVE
+
+*Provjera istovjetnosti*
+
+##### Članak 340.
+
+(1) U slučaju iz članka 298. stavka 2. točke 3. ovoga Zakona Agencija provjerava podliježu li društva za osiguranje, odnosno društva za reosiguranje, čije matično društvo ima sjedište u trećoj državi, nadzoru nadzornih tijela iz trećih država, koji je istovjetan s onim koji je propisan u ovoj glavi Zakona o nadzoru na razini grupe društava za osiguranje i društava za reosiguranje iz članka 298. stavka 2. točaka 1. i 2. ovoga Zakona.
+
+(2) Ako Europska komisija ne donese propise kojima se uređuje istovjetnost trećih država, provjeru obavlja Agencija, ako bi bila nadzorno tijelo grupe da se primjenjuju kriteriji iz članka 329. stavka 2. ovoga Zakona (vršitelj dužnosti nadzornog tijela grupe), na zahtjev matičnog društva ili bilo kojeg društva za osiguranje koje je dobilo odobrenje za obavljanje poslova osiguranja u Europskoj uniji ili po službenoj dužnosti.
+
+(3) Prilikom obavljanja provjere iz stavka 2. ovoga članka Agencija se kao vršitelj dužnosti nadzornog tijela grupe uz pomoć EIOPA-e savjetuje s drugim nadležnim nadzornim tijelima prije nego što donese odluku o istovjetnosti. Ta se odluka donosi u skladu s Uredbom (EU) br. 2015/35. Agencija kao vršitelj dužnosti nadzornog tijela grupe ne donosi nikakvu odluku koja se odnosi na treću državu, a koja je u suprotnosti s bilo kojom prije donesenom odlukom za tu treću državu, osim ako se nadzorni sustav propisan odredbama ovoga Zakona i nadzorni sustav treće države značajno promijenio.
+
+(4) Ako se Agencija ne slaže s odlukom koja je donesena na istovjetan način kako je opisano stavkom 3. ovoga članka, može u skladu s člankom 19. Uredbe (EU) br. 1094/2010 uputiti predmet EIOPA-i i tražiti njezinu pomoć u roku od tri mjeseca nakon što ju je vršitelj dužnosti nadzornog tijela grupe obavijestio o toj odluci.
+
+(5) Ako Europska komisija na temelju propisa Europske komisije kojima se uređuje istovjetnost trećih država donese propise kojima se određuje da je bonitetni sustav treće države privremeno istovjetan, primjenjuje se članak 341. ovoga Zakona, osim ako u Republici Hrvatskoj postoji društvo za osiguranje ili društvo za reosiguranje s ukupnim bilančnim iznosom koji premašuje ukupni bilančni iznos matičnog društva izvan Europske unije. U tom slučaju dužnost nadzornog tijela grupe izvršava Agencija kao vršitelj dužnosti nadzornog tijela grupe.
+
+(6) Ako Europska komisija ne donese propise na temelju propisa Europske komisije kojima se uređuje istovjetnost trećih država, primjenjuje se članak 342. ovoga Zakona.
+
+*Istovjetnost*
+
+##### Članak 341.
+
+(1) U slučaju istovjetnog nadzora iz članka 340. ovoga Zakona Agencija prihvaća nadzor grupe koji obavlja nadzorno tijelo treće države u skladu sa stavkom 2. ovoga članka.
+
+(2) Članci 329. – 339. ovoga Zakona primjenjuju se na odgovarajući način na suradnju s nadzornim tijelima trećih država.
+
+*Nedostatak istovjetnosti*
+
+##### Članak 342.
+
+(1) U slučaju nedostatka istovjetnosti nadzora iz članka 340. ovoga Zakona primjenjuju se članci 303. – 319. i članci 326. – 339. ovoga Zakona na odgovarajući način.
+
+(2) Opća načela i metode iz članaka 303. – 339. ovoga Zakona primjenjuju se na razini osigurateljnog holdinga, mješovitog financijskog holdinga, društva za osiguranje iz treće države ili društva za reosiguranje iz treće države. Samo za potrebe izračuna solventnosti grupe, s matičnim društvom postupa se kao s društvom za osiguranje, ovisno o istim uvjetima koji su propisani ovim Zakonom u vezi s vlastitim sredstvima koja su prihvatljiva za pokriće potrebnog solventnog kapitala i jednom od sljedećih uvjeta:
+
+1. potrebni solventni kapital, određen u skladu s načelima iz članka 311. ovoga Zakona, kad se radi o osigurateljnom holdingu ili mješovitom financijskom holdingu
+
+2. potrebni solventni kapital, određen u skladu s načelima iz članka 312. ovoga Zakona, kad se radi o društvu za osiguranje iz treće države ili društvu za reosiguranje iz treće države.
+
+*Razine*
+
+##### Članak 343.
+
+(1) Kad je matično društvo iz članka 340. ovoga Zakona i samo društvo kći osigurateljnog holdinga ili mješovitog financijskog holdinga koji ima sjedište u trećoj državi, ili društva za osiguranje, odnosno društva za reosiguranje iz treće države, Agencija primjenjuje provjeru iz članka 340. ovoga Zakona samo na razini krajnjeg matičnog društva koje je osigurateljni holding treće države, mješoviti financijski holding iz treće države, društvo za osiguranje iz treće države, odnosno društvo za reosiguranje treće države.
+
+(2) Agencija može zbog nedostatka istovjetnosti nadzora iz članka 340. ovoga Zakona provesti novu provjeru na nižoj razini ako postoji matično društvo društava za osiguranje, na razini osigurateljnog holdinga treće države, mješovitog financijskog holdinga iz treće države, društva za osiguranje iz treće države, odnosno društva za reosiguranje treće države. U takvim slučajevima Agencija objašnjava svoju odluku grupi. Članak 342. ovoga Zakona u tom se slučaju primjenjuje na odgovarajući način.
+
+## POGLAVLJE V. — OSIGURATELJNI HOLDINZI I MJEŠOVITI OSIGURATELJNI HOLDINZI
+
+*Unutargrupne transakcije*
+
+##### Članak 344.
+
+Kad je matično društvo jednog ili više društava za osiguranje mješoviti osigurateljni holding, Agencija obavlja opći nadzor nad transakcijama između tih društava za osiguranje i mješovitog osigurateljnog holdinga i njegovih povezanih društava. Odredbe članka 327., članaka 331. – 255. i članka 339. ovoga Zakona primjenjuju se na odgovarajući način.
+
+## GLAVA XVI. — POSEBNE ODREDBE O OSIGURANJU
+
+## POGLAVLJE I. — SPECIFIČNOSTI NEŽIVOTNIH OSIGURANJA
+
+*Zdravstveno osiguranje*
+
+##### Članak 345.
+
+(1) Društvo za osiguranje vodi poslove zdravstvenog osiguranja u vrsti osiguranja iz članka 7. stavka 2. točke 2. ovoga Zakona na tehničkim osnovicama sličnim tehničkim osnovicama za životna osiguranja ako su ispunjeni svi sljedeći uvjeti:
+
+1. premije se izračunavaju na temelju tablica bolesti i drugih statističkih podataka relevantnih za državu članicu u kojoj se nalazi rizik u skladu s aktuarskim metodama
+
+2. oblikuju se tehničke pričuve za povećanje dobi
+
+3. društvo za osiguranje može otkazati ugovor o osiguranju samo unutar tri godine, odnosno točno određenog razdoblja koji je utvrdila država članica u kojoj se nalazi rizik
+
+4. ugovorom o osiguranju predviđena je mogućnost povećanja ili smanjenja premije tijekom trajanja ugovora o osiguranju, uključujući i postojeće ugovore o osiguranju
+
+5. ugovorom o osiguranju predviđeno je da ugovaratelj osiguranja može zamijeniti svoj postojeći ugovor novim ugovorom koji nudi isto društvo za osiguranje ili ista podružnica vodeći računa o stečenim pravima.
+
+(2) U slučaju iz stavka 1. točke 5. ovoga članka u obzir se uzimaju pričuve koje se oblikuju za povećanje dobi, a novi liječnički pregled može se zahtijevati samo kod povećanja osigurateljnog pokrića.
+
+(3) Tablice bolesti i drugi relevantni statistički podaci navedeni u stavku 1. točki 1. ovoga članka u pravilu trebaju biti najnovije službene tablice vjerojatnosti i druge statistike Republike Hrvatske, odnosno države članice u kojoj se rizik nalazi.
+
+(4) Premije moraju biti dostatne, na temelju razumnih aktuarskih pretpostavki, da bi društva za osiguranje mogla ispuniti sve obveze vodeći računa o svim aspektima svoje financijske situacije. O tehničkoj podlozi za izračun premije društvo za osiguranje dužno je obavijestiti Agenciju prije početka primjene proizvoda.
+
+(5) Stavci 3. i 4. ovoga članka primjenjuju se u slučaju kada su postojeći ugovori izmijenjeni.
+
+*Osiguranje troškova pravne zaštite*
+
+##### Članak 346.
+
+(1) Društvo za osiguranje obvezuje se da će na temelju uplate premije naknaditi troškove pravne zaštite i pružiti druge usluge izravno povezane s pokrićem osiguranja koje se odnosi na osiguranje troškova pravne zaštite iz članka 7. stavka 2. točke 17. ovoga Zakona, a posebno u vezi sa sljedećim:
+
+1. osiguranja naknade gubitka, štete ili ozljede koje je pretrpjela osigurana osoba izvansudskom nagodbom u građanskopravnom ili kaznenom postupku
+
+2. obrane ili zastupanja osigurane osobe u građanskopravnim, kaznenim, upravnim ili drugim postupcima, odnosno s obzirom na bilo koje drugo potraživanje od te osobe.
+
+(2) Odredbe iz stavka 1. ovoga članka ne primjenjuju se niti na jedno od sljedećeg:
+
+1. osiguranje troškova pravne zaštite kad se takvo osiguranje odnosi na sporove ili rizike koji proizlaze iz ili su povezani s uporabom pomorskih plovila
+
+2. djelatnosti društva za osiguranje koje osigurava pokriće građanskopravne odgovornosti u svrhu obrane ili zastupanja osigurane osobe u bilo kojoj istrazi ili postupku kad se takva djelatnost istodobno obavlja za vlastiti interes tog društva za osiguranje, a u skladu s takvim pokrićem
+
+3. djelatnost osiguranja troškova pravne zaštite može pružati društvo za osiguranje koje sklapa osiguranje pomoći, odnosno asistenciju, iz članka 7. stavka 2. točke 18. ovoga Zakona, koja ispunjava sljedeće uvjete:
+
+– djelatnost se obavlja u državi članici koja nije država u kojoj je uobičajeno boravište osigurane osobe
+
+– djelatnost predstavlja dio ugovora koji pokriva samo pomoć pruženu osobama koje zapadnu u poteškoće prilikom putovanja kada su izvan svojeg doma ili boravišta.
+
+(3) U smislu stavka 2. točke 3. ovoga članka u ugovoru o osiguranju jasno se navodi da je predmetno pokriće ograničeno na okolnosti navedene u toj točki i da je ono dodatno u odnosu na osiguranje pomoći, odnosno asistenciju.
+
+(4) Za pokriće osiguranja troškova pravne zaštite sklapa se poseban ugovor o osiguranju u odnosu na onaj sklopljen za ostale vrste osiguranja ili se ono uređuje u posebnom odjeljku jedne police u kojoj se pobliže određuje priroda pokrića osiguranja troškova pravne zaštite.
+
+*Upravljanje odštetnim zahtjevima*
+
+##### Članak 347.
+
+(1) Društvo za osiguranje donosi barem jednu od metoda za upravljanje odštetnim zahtjevima iz stavaka 2., 3. i 4. ovoga članka. Odabirom bilo koje metode interesi osoba koje imaju pokriće troškova pravne zaštite smatraju se zaštićenim na istovjetan način u skladu s člancima 346., 348., 376. i 377. ovoga Zakona.
+
+(2) Društvo za osiguranje osigurava da niti jedan član osoblja kojemu je povjereno upravljanje odštetnim zahtjevima vezanim uz troškove pravne zaštite ili davanje pravnih savjeta u vezi s tim zahtjevima istodobno ne obavlja sličnu djelatnost u drugom društvu za osiguranje koje je financijski, poslovno ili u pravnom smislu povezano s društvom za osiguranje i obavlja jednu ili više drugih vrsta osiguranja u skladu s člankom 7. ovoga Zakona.
+
+Kompozitno društvo za osiguranje osigurava da niti jedan zaposlenik kojemu je povjereno upravljanje odštetnim zahtjevima vezanim uz troškove pravne zaštite ili davanje pravnih savjeta u vezi s tim zahtjevima istodobno ne obavlja sličnu djelatnost za drugu vrstu osiguranja koju društvo obavlja.
+
+(3) Društvo za osiguranje povjerava upravljanje odštetnim zahtjevima vezanim uz osiguranje troškova pravne zaštite društvu s posebnom pravnom osobnošću. To se društvo navodi u posebnom ugovoru ili posebnom odjeljku iz članka 346. stavka 4. ovoga Zakona.
+
+(4) Kad je društvo sa zasebnom pravnom osobnošću povezano s društvom za osiguranje koje obavlja jednu ili više vrsta osiguranja iz članka 7. ovoga Zakona, zaposlenici društva s posebnom pravnom osobnošću kojima je povjereno upravljanje odštetnim zahtjevima ili davanje pravnih savjeta povezanih s takvim upravljanjem istodobno ne obavljaju istu ili sličnu djelatnost u drugom društvu za osiguranje. Države članice mogu uvesti iste zahtjeve za članove upravnih, upravljačkih i nadzornih organa.
+
+(5) U ugovoru o osiguranju propisuje se da osigurane osobe mogu dati upute odvjetniku po njihovu izboru ili, u mjeri u kojoj to nacionalno zakonodavstvo dopušta, bilo kojoj drugoj primjereno kvalificiranoj osobi od trenutka kad te osigurane osobe budu uputile zahtjeve za naknadom štete u skladu s tim ugovorom.
+
+*Sloboda izbora odvjetnika*
+
+##### Članak 348.
+
+U slučaju osiguranja troškova pravne zaštite kod angažiranja odvjetnika ili druge osobe koja je odgovarajuće kvalificirana u skladu s pravnim propisima u svrhu obrane, zastupanja ili služenja interesima osigurane osobe u istrazi ili postupku, osigurana osoba slobodno će odabrati odvjetnika ili drugu osobu. Osigurana osoba može odabrati odvjetnika ili, ako želi i ako je to dopušteno u skladu s pravnim propisima, neku drugu odgovarajuće kvalificiranu osobu da služi njezinim interesima kad god nastupi sukob interesa.
+
+## POGLAVLJE II. — SPECIFIČNOSTI ŽIVOTNIH OSIGURANJA
+
+*Premije za nove poslove*
+
+##### Članak 349.
+
+Društvo za osiguranje dužno je oblikovati premije za novosklopljene ugovore životnog osiguranja tako da budu dostatne da, na temelju razumnih aktuarskih pretpostavki i uzimajući u obzir druge financijske izvore društva za osiguranje koji su dostupni u tu svrhu, omoguće društvu za osiguranje ispunjenje svih njegovih obveza, uključujući i oblikovanje dostatnih tehničkih pričuva.
+
+## GLAVA XVII. — UDRUŽENJE OSIGURATELJA I UDRUŽENJE (POOL) OSIGURANJA, ODNOSNO REOSIGURANJA
+
+*Udruženje osiguratelja*
+
+##### Članak 350.
+
+(1) Društva za osiguranje mogu se udružiti u udruženje osiguratelja koje je osnovano kao gospodarsko interesno udruženje ili kao neki drugi oblik udruživanja gospodarskih subjekata.
+
+(2) Društvo za osiguranje ne smije sklapati nikakve pisane ili usmene ugovore s drugim društvom, odnosno društvima za osiguranje ili udrugama osiguranja, odnosno reosiguranja kojima se može ograničiti načelo slobodnog tržišnog natjecanja, odnosno konkurencije u djelatnosti osiguranja.
+
+(3) U cilju provedbe stavka 2. ovoga članka udruženje osiguratelja dužno je Agenciji dostaviti svoj statut, sve sporazume i drugu dokumentaciju na zahtjev Agencije.
+
+*Udruženje (pool) osiguranja, odnosno reosiguranja*
+
+##### Članak 351.
+
+(1) Dva ili više društava za osiguranje, odnosno društava za reosiguranje mogu osnovati udruženje (pool) osiguranja, odnosno reosiguranja radi obavljanja poslova osiguranja, odnosno reosiguranja koji pokrivaju rizike velikih šteta od odgovornosti za atomske štete, odnosno drugih velikih šteta u skladu s odredbama Zakona o trgovačkim društvima o osnivanju gospodarskog interesnog udruženja.
+
+(2) Ako ovim člankom nije drukčije određeno, na udruženje (pool) osiguranja, odnosno reosiguranja primjenjuju se odredbe zakona kojim se uređuje osnivanje gospodarskog interesnog udruženja.
+
+(3) Na udruženje (pool) osiguranja, odnosno reosiguranja na odgovarajući se način primjenjuju odredbe glave III., XIII., XIV., XXI. i XXII. ovoga Zakona te odredbe koje se odnose na unutarnju reviziju.
+
+## GLAVA XVIII. — NACIONALNI URED ZA OSIGURANJE U REPUBLICI HRVATSKOJ
+
+*Opće odredbe*
+
+##### Članak 352.
+
+(1) Nacionalni ured za osiguranje u Republici Hrvatskoj jest Hrvatski ured za osiguranje koji je pravna osoba koja u pravnom prometu s trećim osobama predstavlja udruženje društava za osiguranje.
+
+(2) Tijela Hrvatskog ureda za osiguranje su skupština, upravni odbor i direktor.
+
+(3) Članove skupštine Hrvatskog ureda za osiguranje imenuju društva za osiguranje koja su članovi Hrvatskog ureda za osiguranje.
+
+(4) Statutom Hrvatskog ureda za osiguranje utvrđuje se djelatnost, prava i obveze njegovih tijela, uvjeti za primitak i prestanak članstva u Hrvatskom uredu za osiguranje i način financiranja Hrvatskog ureda za osiguranje.
+
+(5) Djelatnost Hrvatskog ureda za osiguranje financiraju društva za osiguranje kao članovi Hrvatskog ureda za osiguranje.
+
+*Poslovi Hrvatskog ureda za osiguranje*
+
+##### Članak 353.
+
+(1) Hrvatski ured za osiguranje obavlja za svoje članove poslove utvrđene ovim Zakonom, Zakonom o obveznim osiguranjima u prometu te drugim propisima:
+
+– poslove nacionalnog ureda za osiguranje i druge poslove utvrđene međunarodnim sporazumima o osiguranju vlasnika vozila od odgovornosti za štete nanesene trećim osobama
+
+– poslove predstavljanja i zastupanja interesa društava za osiguranje u međunarodnim institucijama
+
+– poslove vođenja Garancijskog fonda
+
+– poslove Ureda za naknadu
+
+– poslove Informacijskog centra
+
+– poslove statistike osiguranja
+
+– poslove rješavanja pritužbi osiguranika, odnosno oštećenih osoba
+
+– poslove izvansudskog rješavanja sporova između osiguranika, odnosno ugovaratelja osiguranja, odnosno potrošača i društava za osiguranje, odnosno ponuditelja usluga osiguranja.
+
+(2) Hrvatski ured za osiguranje propisuje način obavljanja poslova iz stavka 1. ovoga članka.
+
+(3) Hrvatski ured za osiguranje dužan je uspostaviti i održavati računalni sustav za obradu statističkih podataka o poslovima članica Hrvatskog ureda za osiguranje.
+
+(4) Hrvatski ured za osiguranje obavlja i druge poslove od općeg i zajedničkog interesa za djelatnost osiguranja.
+
+*Izvještavanje Agencije*
+
+##### Članak 354.
+
+(1) Hrvatski ured za osiguranje dužan je Agenciji dostavljati izvješća kako je to propisano pravilnikom Agencije.
+
+(2) Agencija će pravilnikom propisati oblik i sadržaj izvješća te rokove i način izvještavanja Hrvatskog ureda za osiguranje.
+
+## GLAVA XIX. — DRUŠTVO ZA UZAJAMNO OSIGURANJE
+
+## POGLAVLJE I. — OPĆE ODREDBE
+
+*Pojam*
+
+##### Članak 355.
+
+(1) Društvo za uzajamno osiguranje je pravna osoba koja je upisana u sudski registar na temelju odobrenja Agencije za obavljanje poslova osiguranja.
+
+(2) Društvo za uzajamno osiguranje iz stavka 1. ovoga članka obavlja poslove osiguranja samo za svoje članove po načelu uzajamnosti.
+
+(3) Društvo za uzajamno osiguranje može obavljati poslove osiguranja u svim vrstama osiguranja iz skupina neživotnih i životnih osiguranja, osim u vrstama osiguranja iz članka 7. stavka 2. točaka 10. – 15. ovoga Zakona.
+
+(4) Društvo za uzajamno osiguranje ne može obavljati poslove reosiguranja.
+
+*Tvrtka*
+
+##### Članak 356.
+
+Tvrtka društva za uzajamno osiguranje mora sadržavati naznaku da se radi o društvu za uzajamno osiguranje. Izraz »društvo za uzajamno osiguranje«, odnosno njegovu izvedenicu u tvrtki ili skraćenoj tvrtki može upisati u sudski registar i koristiti u pravnom prometu samo društvo koje je dobilo odobrenje za obavljanje poslova osiguranja u skladu s odredbama ovoga Zakona.
+
+*Osnivanje i nadzor*
+
+##### Članak 357.
+
+(1) Društvo za uzajamno osiguranje osniva se tako da osnivači kao članovi donose statut i uplaćuju temeljni kapital.
+
+(2) Osnivači društva za uzajamno osiguranje podnose Agenciji zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja društva za uzajamno osiguranje u kojemu navode vrste osiguranja, odnosno rizike koje će društvo osiguravati, a uz zahtjev prilažu:
+
+1. ugovor o osnivanju društva za uzajamno osiguranje
+
+2. statut društva za uzajamno osiguranje u obliku javnobilježničke isprave
+
+3. dokaz o uplati temeljnog kapitala
+
+4. ugovore o obavljanju izdvojenih poslova ako će društvo za uzajamno osiguranje za obavljanje pojedinih poslova ovlastiti druge osobe.
+
+(3) Na odlučivanje o izdavanju odobrenja za obavljanje poslova osiguranja društvu za uzajamno osiguranje na odgovarajući se način primjenjuju odredbe ovoga Zakona o izdavanju odobrenja za obavljanje poslova osiguranja društva za osiguranje iz ovoga Zakona, a na prestanak i ukidanje tog odobrenja na odgovarajući se način primjenjuju odredbe ovoga Zakona propisane za prestanak i ukidanje odobrenja za obavljanje poslova osiguranja društva za osiguranje.
+
+(4) Na nadzor društva za uzajamno osiguranje Agencija će na odgovarajući način primijeniti odredbe ovoga Zakona koje se odnose na nadzor društava za osiguranje.
+
+*Statut*
+
+##### Članak 358.
+
+(1) Statut društva za uzajamno osiguranje mora biti sastavljen u obliku javnobilježničke isprave.
+
+(2) Statut društva za uzajamno osiguranje mora sadržavati sljedeće:
+
+1. tvrtku i sjedište društva
+
+2. vrste osiguranja, odnosno rizike osiguranja koji će biti predmet poslovanja
+
+3. način i oblik objave priopćenja važnih za društvo i članove
+
+4. početak članstva
+
+5. temeljni kapital
+
+6. uvjete i način uplate temeljnog kapitala od strane članova
+
+7. visinu i način oblikovanja pričuva sigurnosti
+
+8. uvjete i način uporabe dobiti, odnosno pokrića dugova
+
+9. mjerila prema kojima se dobit dijeli članovima
+
+10. broj članova uprave i nadzornog odbora
+
+11. minimalni broj članova skupštine koji se mogu koristiti svojim manjinskim pravima.
+
+(3) Agencija može odbiti zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja društvu za uzajamno osiguranje ako odredbe statuta ugrožavaju interes članova te u slučajevima propisanim ovim Zakonom za odbijanje zahtjeva za izdavanje odobrenja za obavljanje poslova osiguranja društva za osiguranje.
+
+*Članstvo u društvu za uzajamno osiguranje*
+
+##### Članak 359.
+
+(1) Članstvo u društvu za uzajamno osiguranje stječe se sklapanjem ugovora o osiguranju s društvom za uzajamno osiguranje, prihvaćanjem statuta i razmjernom (alikvotnom) uplatom temeljnog kapitala.
+
+(2) Članovi ne odgovaraju za obveze društva za uzajamno osiguranje.
+
+(3) Član ne može svoje obveze plaćanja doprinosa i dodatnih uplata prema društvu za uzajamno osiguranje prebiti sa svojim tražbinama prema tom društvu.
+
+(4) Doprinosi i dodatne uplate članova, kao i obveze društva za uzajamno osiguranje prema članovima mogu se odrediti primjenom jednakih uvjeta i mjerila.
+
+## POGLAVLJE II. — SREDSTVA DRUŠTVA ZA UZAJAMNO OSIGURANJE
+
+*Temeljni kapital*
+
+##### Članak 360.
+
+(1) Temeljni kapital društva za uzajamno osiguranje mora biti najmanje jednak iznosu apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. ovoga Zakona.
+
+(2) Temeljni kapital društva za uzajamno osiguranje mora biti u cijelosti uplaćen u novcu prije upisa osnivanja društva za uzajamno osiguranje u sudski registar ili upisa povećanja temeljnog kapitala u sudski registar. Sredstva temeljnog kapitala društva ne smiju potjecati iz zajmova ili kredita niti biti opterećena na bilo koji način.
+
+(3) Statutom se moraju odrediti uvjeti i način vraćanja uplaćenih sredstava temeljnog kapitala. Ako je statutom određeno da se uplaćena sredstva temeljnog kapitala ne vraćaju, statutom mora biti određen način upotrebe ovih sredstava.
+
+(4) Uplaćena sredstva temeljnog kapitala mogu se vraćati samo iz dobiti društva u pojedinoj poslovnoj godini. Povrat u pojedinoj godini ne smije biti viši od iznosa koji je u toj godini bio namijenjen za oblikovanje pričuva sigurnosti.
+
+*Sredstva na računima članova društva za uzajamno osiguranje*
+
+##### Članak 361.
+
+(1) Statutom društva za uzajamno osiguranje može biti određeno da temeljni kapital društva za uzajamno osiguranje čine i sredstva na računima članova društva za uzajamno osiguranje.
+
+(2) Sredstva na računima članova društva za uzajamno osiguranje mogu činiti temeljni kapital društva za uzajamno osiguranje ako je statutom određeno da:
+
+– su isplate s računa članova moguće ako to ne ugrožava adekvatnost kapitala društva, odnosno ako su nakon završetka postupka likvidacije podmirene sve obveze društva
+
+– društvo za uzajamno osiguranje mjesec dana prije isplate s računa članova o namjeri isplate obavijesti Agenciju, osim povrata u slučaju prestanka članstva
+
+– društvo ne smije mijenjati statut u dijelu koji se odnosi na račune članova bez prethodnog odobrenja Agencije.
+
+*Doprinosi (premije), dodatne uplate i pričuve sigurnosti*
+
+##### Članak 362.
+
+(1) Statutom se moraju odrediti uvjeti i način osiguravanja sredstava za poslovanje društva za uzajamno osiguranje od strane članova. Sredstva za poslovanje društva za uzajamno osiguranje u pojedinoj godini pokrivaju se iz unaprijed određenih doprinosa (premija) članova.
+
+(2) Statutom se moraju odrediti uvjeti i način dodatne uplate sredstava ako sredstva iz stavka 1. ovoga članka nisu dovoljna za pokriće obveza društva za uzajamno osiguranje.
+
+(3) Naknadne uplate sredstava moraju uplatiti i osobe koje su članovima postale tijekom godine, odnosno osobe čije je članstvo prestalo u toj godini, i to razmjerno trajanju članstva u toj godini. Ako se tijekom poslovne godine mijenjaju doprinosi (premije) na temelju kojih se određuje visina naknadnih uplata, naknadne se uplate izračunavaju na temelju više osnovice.
+
+(4) Statutom se mora odrediti način oblikovanja pričuva za pokriće gubitaka u poslovanju (pričuve sigurnosti) i odrediti koji će se doprinosi (premije) godišnje upotrijebiti za oblikovanje pričuva sigurnosti te najniži iznos tih pričuva.
+
+*Upotreba godišnje dobiti*
+
+##### Članak 363.
+
+Dobit društva za uzajamno osiguranje može se podijeliti članovima ili prenijeti u sljedeću poslovnu godinu u opsegu koji nije namijenjen za oblikovanje pričuva sigurnosti, odnosno drugih pričuva određenih statutom.
+
+## POGLAVLJE III. — TIJELA DRUŠTVA ZA UZAJAMNO OSIGURANJE
+
+*Tijela društva*
+
+##### Članak 364.
+
+Tijela društva za uzajamno osiguranje jesu uprava, nadzorni odbor i skupština.
+
+*Uprava društva za uzajamno osiguranje*
+
+##### Članak 365.
+
+Na upravu društva za uzajamno osiguranje na odgovarajući se način primjenjuju odredbe ovoga Zakona o upravi društva za osiguranje.
+
+*Nadzorni odbor društva za uzajamno osiguranje*
+
+##### Članak 366.
+
+(1) Nadzorni odbor društva za uzajamno osiguranje mora imati najmanje tri člana.
+
+(2) Statutom društva za uzajamno osiguranje može se odrediti i veći broj članova nadzornog odbora, uz uvjet da broj članova mora biti neparan, a smije imati najviše dvadeset i jednog člana.
+
+(3) Na nadzorni odbor društva za uzajamno osiguranje na odgovarajući se način primjenjuju odredbe Zakona o trgovačkim društvima u dijelu koji se ne odnosi na udjele članova nadzornog odbora u dobiti društva i odredbe ovoga Zakona o nadzornom odboru društva za osiguranje.
+
+*Skupština društva za uzajamno osiguranje*
+
+##### Članak 367.
+
+(1) Članovi društva za uzajamno osiguranje svoja prava u društvu za uzajamno osiguranje ostvaruju na skupštini.
+
+(2) Skupština može biti organizirana kao skupština svih članova (skupština članova) ili kao skupština zastupnika članova koji moraju i sami biti članovi (skupština zastupnika). Ako je statutom određeno da je skupština društva za uzajamno osiguranje organizirana kao skupština zastupnika, statutom mora biti određen i sastav skupštine i postupak imenovanja zastupnika.
+
+(3) Skupština odlučuje o poslovima za koje je zakonom ili statutom ovlaštena, a o pitanjima u vezi s vođenjem poslova skupština može odlučivati samo ako to zahtijeva uprava, odnosno nadzorni odbor.
+
+(4) Na skupštinu društva za uzajamno osiguranje na odgovarajući se način primjenjuju odredbe Zakona o trgovačkim društvima u dijelu koji se odnosi na skupštinu društva s ograničenom odgovornošću.
+
+## POGLAVLJE IV. — PRESTANAK DRUŠTVA ZA UZAJAMNO OSIGURANJE
+
+*Razlozi prestanka*
+
+##### Članak 368.
+
+(1) Društvo za uzajamno osiguranje prestaje:
+
+1. istekom vremena na koje je osnovano
+
+2. na temelju odluke skupštine (likvidacija)
+
+3. ako je društvu ukinuto odobrenje za obavljanje poslova osiguranja ili je otvoren postupak likvidacije ili stečaja.
+
+(2) Za odluku skupštine o prestanku društva potrebna je najmanje tročetvrtinska većina glasova.
+
+(3) Najmanje trideset dana prije donošenja odluke iz stavka 2. ovoga članka potrebno je o namjeri donošenja te odluke pisano obavijestiti Agenciju.
+
+*Prijenos i preuzimanje portfelja društva za uzajamno osiguranje*
+
+##### Članak 369.
+
+(1) Na prijenos i preuzimanje portfelja društva za uzajamno osiguranje na odgovarajući se način primjenjuju odredbe ovoga Zakona za prijenos i preuzimanje portfelja društva za osiguranje.
+
+(2) Za prijenos, odnosno preuzimanje portfelja društva za uzajamno osiguranje potrebna je i suglasnost skupštine društva za uzajamno osiguranje. Ako statutom nije određena veća većina, za donošenje odluke skupštine o suglasnosti za prijenos portfelja potrebna je tročetvrtinska većina glasova.
+
+(3) Društvo za uzajamno osiguranje može prenijeti svoj portfelj na društvo za osiguranje. Na taj se prijenos na odgovarajući način primjenjuju odredbe ovoga Zakona o preuzimanju portfelja drugog društva za osiguranje.
+
+(4) Agencija može odbiti zahtjev za izdavanje odobrenja za prijenos, odnosno preuzimanje portfelja zbog razloga zbog kojih može odbiti taj zahtjev društva za osiguranje.
+
+*Statusne promjene društva za uzajamno osiguranje*
+
+##### Članak 370.
+
+(1) Društvo za uzajamno osiguranje može se pripojiti drugom društvu za uzajamno osiguranje ili društvu za osiguranje.
+
+(2) Na statusne promjene društva za osiguranje na odgovarajući se način primjenjuju odredbe ovoga Zakona o statusnim promjenama društva za osiguranje.
+
+(3) Za donošenje odluke o statusnoj promjeni društva za uzajamno osiguranje potrebna je tročetvrtinska većina glasova.
+
+*Prijenos imovine na društvo za osiguranje*
+
+##### Članak 371.
+
+(1) Društvo za uzajamno osiguranje može cijelu svoju imovinu bez prethodne likvidacije prenijeti na društvo za osiguranje.
+
+(2) Na prijenos imovine društva za uzajamno osiguranje na društvo za osiguranje se na odgovarajući se način primjenjuju odredbe ovoga Zakona o prijenosu portfelja društva za osiguranje.
+
+*Preoblikovanje u dioničko društvo*
+
+##### Članak 372.
+
+(1) Društvo za uzajamno osiguranje može se, na temelju odluke skupštine, preoblikovati u dioničko društvo za osiguranje. Za donošenje odluke o preoblikovanju u dioničko društvo za osiguranje potrebna je odluka skupštine donesena tročetvrtinskom većinom glasova.
+
+(2) Svaki član može, u preporučenom pismu, do isteka trećeg dana prije zasjedanja skupštine uložiti prigovor na preoblikovanje.
+
+(3) Najkasnije istodobno sa sazivom skupštine uprava mora sve članove obavijestiti o sadržaju predložene odluke o preoblikovanju na način koji je statutom predviđen za obavijesti društva. U obavijesti je potrebno članove upoznati o pravu prigovora iz stavka 2. ovoga članka i pravima koja proizlaze iz uloženog prigovora.
+
+(4) Za preoblikovanje je potrebno prethodno odobrenje Agencije. Agencija će odbiti zahtjev za preoblikovanje ako smatra da bi preoblikovanje ugrozilo interese članova.
+
+*Odluka o preoblikovanju*
+
+##### Članak 373.
+
+(1) Odlukom o preoblikovanju mora se odrediti temeljni kapital i iznos na koji glase dionice te i druge za preoblikovanje nužne izmjene statuta. Nominalni iznos temeljnog kapitala ne smije prelaziti vrijednost imovine društva za uzajamno osiguranje umanjenu za njezine obveze. Iznos na koji glase dionice mora biti jednak najnižem iznosu na koji mogu, kako je to određeno Zakonom o trgovačkim društvima, glasiti dionice.
+
+(2) Ako odlukom o preoblikovanju nije drukčije određeno, članovi društva za uzajamno osiguranje sudjeluju u temeljnom kapitalu. Kada odlukom nije određeno da svi članovi društva za uzajamno osiguranje sudjeluju u temeljnom kapitalu dioničkog društva jednakim udjelom, udjel pojedinoga člana određuje se samo na temelju jednog, odnosno više sljedećih mjerila:
+
+1. visine iznosa osiguranja
+
+2. visine doprinosa
+
+3. visine nužnog pokrića u slučaju životnih osiguranja
+
+4. mjerila za podjelu dobiti
+
+5. vremena trajanja članstva.
+
+(3) Ako udjel pojedinoga člana ne dostiže najniži nominalni iznos dionice, njegov udjel u temeljnom kapitalu ne uzima se u obzir. Ostali se udjeli zaokružuju tako da su djeljivi s najnižim nominalnim iznosom dionice i da je podijeljen cjelokupni temeljni kapital.
+
+(4) Ako je nominalni iznos kojim član sudjeluje u temeljnom kapitalu dioničkog društva viši od udjela određenog na temelju stavka 1., odnosno 2. ovoga članka, član je razliku dužan uplatiti dioničkom društvu. Ako je pak nominalni iznos kojim član sudjeluje u temeljnom kapitalu dioničkog društva niži od udjela određenog na temelju stavka 1., odnosno 2. ovoga članka, odnosno ako član ne sudjeluje u temeljnom kapitalu dioničkog društva, razliku, odnosno udjel članu mora isplatiti dioničko društvo.
+
+*Provedba preoblikovanja*
+
+##### Članak 374.
+
+(1) Ako ovim Zakonom nije drukčije određeno, na preoblikovanje društva za uzajamno osiguranje na odgovarajući se način primjenjuju odredbe Zakona o trgovačkim društvima.
+
+(2) Dioničko društvo za osiguranje stječe pravni subjektivitet danom upisa u sudski registar.
+
+(3) Članovi društva za uzajamno osiguranje danom upisa iz stavka 2. ovoga članka postaju dioničari u skladu s odlukom o preoblikovanju.
+
+(4) Svaki dioničar koji se na način iz članka 372. stavka 2. ovoga Zakona usprotivio preoblikovanju može svoje dionice staviti društvu na raspolaganje.
+
+## GLAVA XX. — ZAŠTITA ZAINTERESIRANIH OSOBA I PROMIDŽBENE AKTIVNOSTI
+
+## POGLAVLJE I. — OPĆE ODREDBE
+
+*Pojam zainteresirane osobe*
+
+##### Članak 375.
+
+Zainteresirane osobe u smislu odredaba ovoga Zakona su:
+
+1. potrošači, odnosno svaka fizička osoba koja ima prava i obveze po ugovoru o osiguranju iz vrste osiguranja iz članka 7. ovoga Zakona te korisnici usluga posredovanja u osiguranju i reosiguranju i zastupanja u osiguranju
+
+2. pravne osobe koje imaju prava i obveze po ugovoru o osiguranju iz vrste osiguranja iz članka 7. ovoga Zakona, odnosno koje su korisnici usluga posredovanja u osiguranju i reosiguranju i zastupanja u osiguranju
+
+3. oštećenici u postupku rješavanja odštetnih zahtjeva iz izvanugovorne odgovornosti za štetu.
+
+*Primjena posebnog zakona i mjerodavno pravo*
+
+##### Članak 376.
+
+(1) Zaštita prava potrošača provodi se u skladu s odredbama ovoga Zakona i na temelju posebnog zakona kojim se uređuje zaštita potrošača.
+
+(2) U vezi s ostvarivanjem prava na temelju ovoga Zakona sudska zaštita može se ostvariti pred redovnim sudom Republike Hrvatske, ako ovim Zakonom nije drukčije određeno.
+
+(3) Pravo koje se primjenjuje na ugovore o osiguranju određuje se u skladu s Uredbom (EZ) br. 593/2008 Europskog parlamenta i Vijeća.
+
+*Izvansudski postupak rješavanja pritužbi i prigovora*
+
+##### Članak 377.
+
+(1) Društva za osiguranje dužna su uspostaviti izvansudski postupak rješavanja sporova po pritužbama zainteresiranih osoba iz članka 375. točaka 1. i 2. ovoga Zakona.
+
+(2) Društva za osiguranje dužna su uspostaviti izvansudski postupak rješavanja sporova po prigovorima zainteresiranih osoba iz članka 375. točke 3. ovoga Zakona.
+
+*Pritužbe i prigovori zainteresiranih osoba*
+
+##### Članak 378.
+
+(1) Zainteresirane osobe iz članka 375. točaka 1. i 2. ovoga Zakona imaju pravo podnijeti pritužbu društvu za osiguranje u odnosu na pružanje usluga osiguranja, odnosno u odnosu na izvršenje obveza iz ugovora o osiguranju, a zainteresirane osobe iz članka 375. točke 3. ovoga Zakona imaju pravo podnijeti prigovor društvu za osiguranje u izvansudskom postupku rješavanja sporova.
+
+(2) Društvo za osiguranje dužno je odgovoriti na pritužbu, odnosno prigovor iz stavka 1. ovoga članka u roku od 15 dana od dana zaprimanja pritužbe, odnosno prigovora.
+
+(3) Ako zainteresirana osoba iz stavka 1. ovoga članka smatra da društvo za osiguranje ili osobe koje obavljaju poslove zastupanja u osiguranju ili posredovanja u osiguranju i reosiguranju ne postupaju u skladu sa svojim obvezama, mogu o tome podnijeti predstavku Agenciji.
+
+(4) Agencija će provjeriti navode iz predstavke iz stavka 4. ovoga članka i postupiti u skladu sa svojim ovlastima, a kad utvrdi da ne postoje uvjeti za pokretanje postupka po službenoj dužnosti, obavijestit će o tome podnositelja predstavke što je prije moguće, a najkasnije u roku od 30 dana od završene provjere navoda iz predstavke.
+
+(5) Agencija je ovlaštena u okviru svojih nadležnosti nad društvima za osiguranje i osobama koje obavljaju poslove zastupanja u osiguranju odnosno poslove posredovanja u osiguranju i reosiguranju provjeravati pridržavaju li se dobrih poslovnih običaja i pravila struke.
+
+*Rok za ukidanje rješenja i pravo stranke na pravni lijek*
+
+##### Članak 379.
+
+(1) Agencija će u roku od 60 dana od dana utvrđenja razloga za ukidanje rješenja donijeti rješenje kojim u skladu s odredbama ovoga Zakona ukida rješenje koje je donijela.
+
+(2) Protiv rješenja koja u upravnim stvarima iz svoje nadležnosti donosi Agencija žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+## POGLAVLJE II. — INFORMACIJE UGOVARATELJU OSIGURANJA
+
+*Informacije ugovaratelju osiguranja kod sklapanja ugovora o osiguranju*
+
+##### Članak 380.
+
+(1) Društvo za osiguranje dužno je prije sklapanja ugovora o osiguranju predati ugovaratelju osiguranja ili mu dostaviti poštom ili elektroničkom poštom pisanu obavijest koja sadržava sljedeće informacije i podatke:
+
+1. tvrtku i sjedište društva za osiguranje koje sklapa ugovor o osiguranju
+
+2. kada se ugovor o osiguranju sklapa preko podružnice društva za osiguranje, osim podataka iz točke 1. ovoga stavka, potrebno je navesti i tvrtku i sjedište podružnice društva za osiguranje preko koje se sklapa ugovor o osiguranju
+
+3. uvjete osiguranja koji se primjenjuju na ugovor o osiguranju koji se namjerava sklopiti
+
+4. rok u kojem ponuda obvezuje ponuditelja, pravu na opoziv ponude za sklapanje ugovora za osiguranje i pravu na odustanak od sklopljenog ugovora o osiguranju
+
+5. uvjete za prestanak i raskid ugovora
+
+6. o vremenu trajanja ugovora o osiguranju
+
+7. o visini premije osiguranja, načinu plaćanja premije osiguranja, visini doprinosa, poreza i drugih troškova i naknada koji se naplaćuju osim premije osiguranja i ukupan iznos plaćanja
+
+8. informaciju o postupku rješavanja pritužbi u vezi s ugovorima, uključujući i adresu za primanje pritužbi, i o tijelu nadležnom za rješavanje pritužbe
+
+9. o tijelu koje je nadležno za nadzor nad društvom za osiguranje.
+
+(2) Osim podataka iz stavka 1. ovoga članka, društvo za osiguranje koje pruža usluge neživotnih osiguranja dužno je u obavijesti navesti i:
+
+1. kad je ugovaratelj osiguranja fizička osoba, mjerodavno pravo koje se primjenjuje na ugovor o osiguranju, kad strane nemaju slobodu izbora prava
+
+2. kad je ugovaratelj osiguranja fizička osoba, o slobodi izbora mjerodavnog prava i prava koje društvo za osiguranje predlaže da se izabere kao mjerodavno.
+
+(3) Kad se neživotno osiguranje nudi u skladu s pravom nastana ili slobodom pružanja usluga, ugovaratelja osiguranja se, prije nego što preuzme bilo kakvu obvezu, u svim dokumentima koji mu se izdaju obavješćuje o državi članici u kojoj se nalazi sjedište ili, prema potrebi, podružnica preko koje će ugovor biti sklopljen, s tim da se navedeno ne primjenjuje na velike rizike.
+
+(4) U slučaju iz stavka 3. ovoga članka društvo za osiguranje dužno je u informacijama navesti i ime i adresu predstavnika društva za osiguranje iz članka 67. ovoga Zakona.
+
+(5) Osim podataka iz stavka 1. ovoga članka, društvo za osiguranje koje pruža usluge životnih osiguranja dužno je u obavijesti navesti i:
+
+1. točnu uputu ugovaratelju osiguranja gdje može pronaći izvješće o solventnosti i financijskom stanju društva za osiguranje, čime se ugovaratelju osiguranja omogućava jednostavan pristup tim informacijama
+
+2. određivanje svake naknade i svake opcije
+
+3. osnovicu, mjerila te uvjete za sudjelovanje u dobiti te pravu na isplatu pripisane dobiti u svim slučajevima isplate
+
+4. tablice otkupne vrijednosti i tablice kapitaliziranih svota po godinama trajanja osiguranja
+
+5. informaciju da ugovaratelj osiguranja može odustati od ugovora o životnom osiguranju najkasnije u roku od 30 dana od dana primitka obavijesti društva za osiguranje o sklapanju ugovora, pri čemu ugovaratelj osiguranja ne snosi obveze koje proizlaze iz tog ugovora
+
+6. druge posebne informacije koje su potrebne da bi ugovaratelj osiguranja pravilno razumio rizike na kojima se temelji ugovor i obveze ugovornih strana
+
+7. informacije o sporazumima za primjenu razdoblja mirovanja koje sadržavaju uvjete i posljedice sklapanja tih sporazuma, kad je primjenjivo
+
+8. mjerodavno pravo koje se primjenjuje na ugovor o osiguranju, kad strane nemaju slobodu izbora prava
+
+9. o slobodi izbora mjerodavnog prava i prava koje društvo za osiguranje predlaže da se izabere kao mjerodavno.
+
+(6) Kod ugovora o životnom osiguranju kod kojih ugovaratelj osiguranja snosi rizik ulaganja društvo za osiguranje dužno je u obavijesti prije sklapanja ugovora o osiguranju, osim podataka iz stavaka 1. i 5. ovoga članka, navesti i sljedeće:
+
+– u slučaju osiguranja vezanih uz vrijednost udjela UCITS fonda, podatke sadržane u prospektu i pravilima UCITS fonda kako su definirani zakonom kojim se uređuje osnivanje i poslovanje otvorenih investicijskih fondova s javnom ponudom
+
+– u slučaju osiguranja vezanih uz vrijednost imovine ili udjela unutarnjeg fonda, podatke sadržane u pravilima unutarnjeg fonda iz članka 162. stavka 5. ovoga Zakona
+
+– u slučaju osiguranja vezanih uz dionički indeks, odnosno drugu referentnu vrijednost, podatke o temeljnoj imovini dioničkog indeksa, odnosno druge referentne vrijednosti.
+
+(7) Ako su podaci navedeni u ovome članku sadržani u uvjetima osiguranja koje je društvo za osiguranje predalo ugovaratelju osiguranja prije sklapanja ugovora o osiguranju, smatra se da je društvo ispunilo obvezu davanja informacija ugovaratelju osiguranja.
+
+(8) U slučaju sklapanja ugovora o osiguranju putem mrežne stranice informacije iz ovoga članka moraju biti stavljene na raspolaganje na mrežnoj stranici i prihvaćene od ugovaratelja osiguranja prije samog sklapanja osiguranja.
+
+*Informacije ugovaratelja osiguranja za vrijeme trajanja ugovora o osiguranju*
+
+##### Članak 381.
+
+(1) Društvo za osiguranje dužno je za vrijeme trajanja ugovora o osiguranju pisano obavijestiti ugovaratelja osiguranja o promjeni podataka iz članka 380. stavka 1. ovoga Zakona.
+
+(2) Kad u vezi s ponudom za sklapanje ili sklapanjem ugovora o životnom osiguranju, društvo za osiguranje navede informacije o iznosima potencijalnih isplata iznad i izvan ugovorenih isplata, društvo za osiguranje dužno je dati ugovaratelju osiguranja primjer izračuna mogućih isplata nakon isteka osiguranja, primjenjujući osnovice za izračun premije s tri različite kamatne stope. Navedeno se ne primjenjuje na ugovore o životnom osiguranju za slučaj smrti. Društvo za osiguranje dužno je obavijestiti ugovaratelja osiguranja na jasan i sveobuhvatan način da je primjer izračuna samo model izračuna koji se temelji na pretpostavkama te da ugovaratelj osiguranja na temelju primjera izračuna ne može ostvariti nikakva ugovorna potraživanja.
+
+(3) U slučaju osiguranja sa sudjelovanjem u dobiti društvo za osiguranje dužno je obavijestiti ugovaratelja osiguranja jednom godišnje i u pisanom obliku o stanju ukupnog osigurateljnog pokrića, uključujući sudjelovanje u dobiti Nadalje, kad je društvo za osiguranje navelo informacije o potencijalnom budućem razvoju sudjelovanja u dobiti, društvo za osiguranje dužno je obavijestiti ugovaratelja osiguranja o razlici između ostvarenog sudjelovanja u dobiti i podataka danih pri sklapanju ugovora.
+
+(4) U slučaju osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja društvo za osiguranje dužno je jednom godišnje pisano obavijestiti ugovaratelja osiguranja o vrijednosti imovine po polici osiguranja u skladu s člankom 162. ovoga Zakona.
+
+*Sadržaj obavijesti*
+
+##### Članak 382.
+
+(1) Tekst i sadržaj obavijesti iz članaka 380. i 381. ovoga Zakona mora biti napisan na pregledan i razumljiv način ugovaratelju osiguranja, odnosno osiguraniku te sastavljen na hrvatskom jeziku.
+
+(2) Iznimno, tekst i sadržaj obavijesti iz članaka 380. i 381. ovoga Zakona može biti napisan i na drugom jeziku ako to ugovaratelj osiguranja zatraži ili ako ugovaratelj osiguranja ima slobodu izbora prava koje se primjenjuje.
+
+## POGLAVLJE III. — PROMIDŽBENE AKTIVNOSTI
+
+*Opća odredba*
+
+##### Članak 383.
+
+Promidžbene aktivnosti i informacije o društvima za osiguranje i proizvodima koje nude na tržištu moraju sadržavati jasne, istinite i potpune informacije koje se temelje na vjerodostojnim podacima.
+
+*Promidžbene informacije*
+
+##### Članak 384.
+
+(1) Društvo za osiguranje dužno je promidžbene informacije koje sadržavaju podatke o financijskom stanju, položaju na tržištu i rezultatima poslovanja tog društva za osiguranje, najkasnije 30 dana prije objave, dostaviti Agenciji radi provjere je li sadržaj promidžbene informacije u skladu s odredbama ovoga Zakona. Ako Agencija u roku od 30 dana od dana primitka obavijesti o promidžbenoj informaciji utvrdi da promidžbena informacija nije izrađena u skladu s odredbama ovoga Zakona, obavijestit će o tome društvo za osiguranje.
+
+(2) Ako Agencija ne izvijesti društvo za osiguranje u roku iz stavka 1. ovoga članka, smatra se da Agencija nema primjedbi na sadržaj promidžbene informacije.
+
+(3) Društvo za osiguranje odgovorno je za jasnost, potpunost i istinitost informacija koje se objavljuju u svrhu promidžbe društva za osiguranje i njegovih proizvoda.
+
+(4) U promidžbene informacije spadaju sve informacije priopćene trećim osobama i potencijalnim ugovarateljima osiguranja i osiguranicima putem oglasa u tisku, radiju, televiziji, putem osobnih posjeta, telefonskih poziva, mrežne stranice i elektroničkih medija, putem interaktivne televizije te na bilo koji drugi način iz kojeg proizlazi namjera promidžbe.
+
+*Pravila promidžbenih aktivnosti*
+
+##### Članak 385.
+
+(1) Prilikom pružanja promidžbenih informacija o društvima za osiguranje i proizvodima koje nude na tržištu društva za osiguranje:
+
+– ne smiju prikrivati ili prikazivati na način koji dovodi do zablude promidžbenu svrhu i cilj informacije
+
+– moraju navesti cjelovit, točan, jasan i istinit opis osigurateljnog proizvoda, propisane obveze, projekciju prinosa i mogućnost gubitka te opis rizika koji iz takvog proizvoda proizlazi
+
+– činjenice koje se iznose u informacijama moraju biti potkrijepljene vjerodostojnim dokazima
+
+– ne smiju se navoditi lažni ili neprovjereni pokazatelji o društvu za osiguranje, njegovu položaju na tržištu i proizvodima koje nudi
+
+– sve informacije moraju po svom izgledu, sadržaju i obliku biti jednako i istoznačno zastupljene.
+
+(2) Uspjeh i financijski pokazatelji grupe, holdinga ili konglomerata kojemu pripada i društvo za osiguranje ne mogu biti razlog za promidžbu društva za osiguranje i proizvoda koji nudi na tržištu.
+
+## GLAVA XXI. — POSLOVNA TAJNA
+
+*Opća odredba*
+
+##### Članak 386.
+
+Društvo za osiguranje dužno je kao povjerljive čuvati sve podatke, informacije, činjenice i okolnosti za koje je saznalo u poslovanju s pojedinim društvom za osiguranje, odnosno ugovarateljem osiguranja, osiguranikom i korisnikom osiguranja, odnosno s drugim imateljem prava iz osiguranja.
+
+*Obveza čuvanja povjerljivih podataka*
+
+##### Članak 387.
+
+(1) Članovi tijela društva za osiguranje, dioničari društva za osiguranje, osobe koje obavljaju reviziju, zaposlenici društva za osiguranje, povjerenici, članovi posebne uprave, likvidatori, odnosno druge osobe kojima su vezano za njihov rad u društvu za osiguranje ili uz pružanje usluga za društvo za osiguranje na bilo koji način dostupni podaci koji se u smislu ovoga Zakona i Zakona o zaštiti osobnih podataka smatraju povjerljivim podacima, ne smiju te podatke priopćavati, odnosno učiniti dostupnim trećim osobama, iskoristiti ih protiv interesa društva za osiguranje i korisnika njegovih usluga ili omogućiti da ih koriste treće osobe.
+
+(2) Obveza čuvanja podataka iz stavka 1. ovoga članka prestaje u sljedećim slučajevima:
+
+1. ako stranka izričito pisanim putem pristane da se priopće pojedini povjerljivi podaci za određenu namjenu ili određenoj osobi
+
+2. ako su podaci potrebni Ministarstvu unutarnjih poslova ili nadležnom državnom odvjetništvu za potrebe obavljanja poslova iz njihove nadležnosti
+
+3. ako su podaci potrebni sudu ili javnom bilježniku za postupak koji vodi, a predočenje tih podataka zahtijeva pisanim putem
+
+4. u slučajevima određenima Zakonom o sprječavanju pranja novca i financiranja terorizma
+
+5. ako su ti podaci potrebni Agenciji, nadležnom nadzornom tijelu, odnosno drugom nadzornom tijelu, uključujući EIOPA-u, ESMA-u, EBA-u, ESRB i Zajednički odbor, u svrhu nadzora koji provodi u okviru svojih nadležnosti
+
+6. ako su ti podaci potrebni poreznom tijelu u postupku koji ono provodi u okviru svojih nadležnosti
+
+7. u slučajevima određenima Zakonom o obveznim osiguranjima u prometu.
+
+(3) Obveza čuvanja povjerljivih podataka postoji za osobe iz stavka 1. ovoga članka i nakon prestanka rada u društvu za osiguranje, odnosno nakon prestanka svojstva dioničara ili članstva u tijelima društva za osiguranje.
+
+(4) Agencija, odnosno druga tijela, sudovi i javni bilježnici smiju podatke koje su prikupili na temelju stavka 2. ovoga članka upotrijebiti isključivo u svrhu zbog koje su prikupljeni.
+
+(5) Iznimno od stavka 4. ovoga članka, Agencija, nadležno nadzorno tijelo, EIOPA, ESMA, EBA, ESRB i Zajednički odbor ovlašteno je podatke koje je prikupilo, odnosno dobilo na temelju stavka 2. ovoga članka dostaviti drugom nadležnom nadzornom tijelu, EIOPA-i, ESMA-i, EBA-i, ESRB-u, Zajedničkom odboru, Europskoj komisiji, Europskoj središnjoj banci i Europskom sustavu središnjih banaka za potrebe obavljanja njihovih zadaća.
+
+(6) Društvo za osiguranje dužno je osigurati da ugovaratelj osiguranja pri sklapanju svakog pojedinog ugovora o osiguranju ili tijekom trajanja ugovora o osiguranju da suglasnost iz stavka 2. točke 1. ovoga članka i da je upoznat s odredbom stavka 2. ovoga članka.
+
+(7) Kada se razmjena povjerljivih podataka obavlja na temelju pisane suglasnosti stranke iz stavka 2. točke 1. ovoga članka, društvo za osiguranje dužno je ispuniti sljedeće uvjete:
+
+1. osigurati da su podaci koji se dostavljaju točni, potpuni i ažurni
+
+2. stranki omogućiti uvid u svoje podatke koje dostavlja
+
+3. osigurati da se na taj način ne razmjenjuju podaci u opsegu većem nego što je to potrebno u svrhu u koju se podaci razmjenjuju i
+
+4. čuvati tako primljene podatke ne duže nego što je to potrebno u svrhu u koju se podaci dostavljaju.
+
+*Prikupljanje, vođenje i upotreba osobnih podataka*
+
+##### Članak 388.
+
+(1) Društva za osiguranje i Hrvatski ured za osiguranje prikupljaju, obrađuju, čuvaju, dostavljaju i upotrebljavaju osobne podatke potrebne za sklapanje ugovora o osiguranju i likvidaciju šteta koje proizlaze iz osiguranja u skladu s ovim Zakonom, a u skladu sa Zakonom o zaštiti osobnih podataka i ostalim propisima o zaštiti podataka.
+
+(2) Društva za osiguranje i Hrvatski ured za osiguranje mogu osnovati, održavati i voditi sljedeće baze podataka:
+
+1. bazu podataka o osiguranicima
+
+2. bazu podataka o štetnim događajima
+
+3. bazu podataka za procjenu pokrića osiguranja i visine naknade štete.
+
+## GLAVA XXII. — SURADNJA AGENCIJE S DRUGIM TIJELIMA I EUROPSKOM KOMISIJOM TE DOSTAVA INFORMACIJA
+
+*Obrada podataka i pružanje informacija*
+
+##### Članak 389.
+
+(1) Agencija je nadležna za prikupljanje i obradu podataka o činjenicama i okolnostima koje su bitne za obavljanje poslova iz nadležnosti Agencije određenih ovim Zakonom.
+
+(2) Podacima iz stavka 1. ovoga članka značajnim za obavljanje poslova i nadležnosti Agencije određenih ovim Zakonom smatraju se osobito podaci o:
+
+1. odobrenjima za obavljanje poslova osiguranja i o drugim odobrenjima koje izdaje Agencija na temelju ovoga Zakona
+
+2. članovima uprave i nadzornih odbora društava za osiguranje, njihovoj organizaciji i djelovanju unutarnje revizije
+
+3. podružnicama, odnosno neposrednom obavljanju poslova osiguranja u državama članicama od strane društava za osiguranje sa sjedištem u Republici Hrvatskoj
+
+4. podružnicama, odnosno neposrednom obavljanju poslova osiguranja društava za osiguranje država članica na području Republike Hrvatske
+
+5. podružnicama u trećim državama društava za osiguranje sa sjedištem u Republici Hrvatskoj
+
+6. podružnicama društava za osiguranje iz trećih država u Republici Hrvatskoj
+
+7. poštivanju odredaba o upravljanju rizicima u skladu s ovim Zakonom i drugim propisima
+
+8. informacije iz članka 215. ovoga Zakona
+
+9. imateljima kvalificiranih udjela iz članka 36. ovoga Zakona
+
+10. revidiranim financijskim izvještajima iz članka 194. ovoga Zakona
+
+11. izvršenim mjerama iz članaka 167. i 233. ovoga Zakona
+
+12. informacijama koje Agencija prikupi u okviru razmjene informacija od nadležnih nadzornih tijela
+
+13. informacijama o izdanim odobrenjima danim izravnom ili neizravnom društvu kćeri čije jedno ili više matičnih društava uređuje zakonodavstvo treće države uz navod o strukturi predmetne grupe te o stjecanju kvalificiranog udjela u društvu za osiguranje od strane društva iz treće države, čime društvo za osiguranje postaje društvo kći tog društva
+
+14. informacijama o poteškoćama koje su imala društva za osiguranje prilikom osnivanja i poslovanja u trećim državama.
+
+(3) Agencija je dužna obavještavati Europsku komisiju, EIOPA-u (osim informacije iz stavka 2. točke 12. ovoga članka) i nadležna nadzorna tijela država članica o imenima osoba, odnosno nazivima tijela kojima je dopušteno dostavljati podatke iz stavka 2. ovoga članka.
+
+*Suradnja s nadzornim tijelima Europske unije*
+
+##### Članak 390.
+
+(1) Agencija će surađivati s EIOPA-om te će sudjelovati u aktivnostima EIOPA-e.
+
+(2) Agencija će poduzeti sve potrebne aktivnosti u svrhu usklađivanja sa smjernicama i preporukama koje je izdala EIOPA u skladu s člankom 16. Uredbe (EU) br. 1094/2010 i navesti razloge ako to ne učini.
+
+(3) Agencija će postupiti u skladu s člankom 35. Uredbe (EU) br. 1094/2010, na zahtjev EIOPA-e za prikupljanje podataka koji su joj potrebni za obavljanje njezinih zadaća.
+
+(4) Agencija može podnijeti zahtjev EIOPA-i u skladu s člankom 35. stavkom 3. Uredbe (EU) br. 1094/2010 u svrhu prikupljanja podataka potrebnih za obavljanje nadzora.
+
+(5) Radi približavanja najbolje nadzorne prakse zaposlenici EIOPA-e mogu sudjelovati u radu nadzornih kolegija, uključujući i izravni nadzor koji provode dva ili više nadležnih nadzornih tijela, u smislu članka 21. Uredbe (EU) br. 1094/2010.
+
+*Izvještavanje EIOPA-e*
+
+##### Članak 391.
+
+Agencija jednom godišnje EIOPA-i dostavlja sljedeće informacije:
+
+1. prosječni kapitalni dodatak po pojedinom društvu za osiguranje te raspodjelu kapitalnih dodataka koje je uvela Agencija tijekom prethodne godine, iskazanih kao postotak potrebnog solventnog kapitala te zasebno prikazanih za:
+
+– društva za osiguranje i društva za reosiguranje
+
+– društva za životno osiguranje
+
+– društva za neživotno osiguranje
+
+– društva za osiguranje koja se bave poslovima životnog i neživotnog osiguranja
+
+– društva za reosiguranje
+
+2. za svaku objavu iz točke 1. ovoga stavka, udio kapitalnih dodataka koji su uvedeni u skladu s člankom 239. stavkom 1. i stavkom 3. točkama 1. – 3. ovoga Zakona
+
+3. broj društava za osiguranje i društava za reosiguranje koja imaju koristi od ograničenja redovitog nadzornog izvješćivanja i broj društava za osiguranje i društava za reosiguranje koja imaju koristi od izuzeća od izvještavanja po stavkama iz članka 217. stavaka 1. i 4. ovoga Zakona, zajedno sa svojim opsegom potrebnog kapitala, premija, tehničkih pričuva i imovine koji se iskazuje kao postotak ukupnog opsega potrebnog kapitala, premija, tehničkih pričuva i imovine društava za osiguranje i društava za reosiguranje u državi članici
+
+4. broj grupa koje imaju koristi od ograničenja redovitog nadzornog izvješćivanja i broj grupa koje imaju koristi od izuzeća od izvještavanja po stavkama iz članka 334. stavaka 3. i 4. ovoga Zakona, zajedno sa svojim opsegom potrebnog kapitala, premija, tehničkih pričuva i imovine koji se iskazuje kao postotak ukupnog opsega potrebnog kapitala, premija, tehničkih pričuva i imovine svih grupa.
+
+*Postupanje Agencije*
+
+##### Članak 392.
+
+Kada se Agencija ne slaže s postupkom, sadržajem djelovanja ili nečinjenjem nadležnog nadzornog tijela druge države članice, u slučajevima navedenim u aktima iz članka 1. stavka 2. Uredbe (EU) br. 1094/2010 može postupiti u skladu s člankom 19. Uredbe (EU) br. 1094/2010, odnosno u skladu s člankom 20. Uredbe (EU) br. 1094/2010.
+
+*Preispitivanje mjera dugoročnih garancija i mjera za rizik vlasničkih vrijednosnih papira*
+
+##### Članak 393.
+
+Agencija je dužna u razdoblju do 1. siječnja 2021. jedanput godišnje EIOPA-i dostaviti sljedeće informacije:
+
+1. dostupnost dugoročnih garancija u osigurateljnim proizvodima i ponašanje društava za osiguranje kao dugoročnih ulagatelja
+
+2. broj društava za osiguranje koja primjenjuju prilagodbu za uravnoteženje, prilagodbu za volatilnost, produljenje razdoblja oporavka u skladu s člankom 165. stavcima 7. – 11. ovoga Zakona i prijelazne mjere utvrđene člancima 455. i 456. ovoga Zakona
+
+3. utjecaj prilagodbe za uravnoteženje, prilagodbe za volatilnost, mehanizam simetrične prilagodbe za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire i prijelaznih mjera na financijski položaj društava za osiguranje u skladu s člancima 455. i 456. ovoga Zakona, anonimno za svako pojedino društvo
+
+4. učinak prilagodbe za uravnoteženje, prilagodbe za volatilnost i mehanizam simetrične prilagodbe za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire na investicijsko ponašanje društava za osiguranje te je li učinak navedenih prilagodbi na smanjenje kapitalnih zahtjeva pretjeran
+
+5. učinak svakog produljenja razdoblja oporavka u skladu s člankom 165. stavcima 7. – 11. ovoga Zakona na napore društava za osiguranje da ponovno dosegnu razinu prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili da smanje profil rizičnosti radi postizanja usklađenosti s potrebnim solventnim kapitalom
+
+6. kada društvo za osiguranje primijeni prijelazne mjere utvrđene člancima 455. i 456. ovoga Zakona, jesu li one usklađene s planovima postupnog uvođenja iz članka 457. ovoga Zakona i očekivanjima za smanjenu ovisnost o tim prijelaznim mjerama, uključujući mjere koje su društvo i Agencija poduzeli ili se očekuje da će poduzeti.
+
+*Obavještavanje Europske komisije o odbijanju zahtjeva za dostavljanje obavijesti*
+
+##### Članak 394.
+
+(1) Agencija je dužna obavijestiti Europsku komisiju i EIOPA-u o odbijanju zahtjeva za dostavljanjem obavijesti iz članka 62. stavka 4. ovoga Zakona.
+
+(2) Agencija je dužna obavijestiti Europsku komisiju ako želi biti obaviještena na temelju članka 435. stavka 3. ovoga Zakona.
+
+*Obavještavanje Europske komisije o odnosima s trećim državama*
+
+##### Članak 395.
+
+(1) Agencija je dužna Europsku komisiju obavijestiti o:
+
+1. izdavanju svakog odobrenja društvu za osiguranje ili društvu za reosiguranje čije je posredno ili neposredno nadređeno društvo pravna osoba sa sjedištem u trećoj državi. Te informacije također sadržavaju navod o strukturi predmetne grupe
+
+2. izdavanju svakog odobrenja za stjecanje kvalificiranog udjela na temelju kojeg osoba iz treće države postaje nadređeno društvo društva za osiguranje ili društva za reosiguranje
+
+3. svim značajnijim poteškoćama koje društva za osiguranje ili društva za reosiguranje imaju pri obavljanju poslova osiguranja u trećim državama.
+
+(2) O okolnostima iz stavka 1. točaka 1. i 2. ovoga članka Agencija je dužna izvijestiti i nadzorna tijela drugih država članica.
+
+(3) O okolnostima iz stavka 1. točke 3. ovoga članka Agencija je dužna izvijestiti i EIOPA-u.
+
+(4) Agencija je dužna na zahtjev Europske komisije prekinuti postupke odlučivanja o zahtjevima osoba iz pojedine treće države za najviše tri mjeseca, na temelju odluke o zahtjevima za izdavanje:
+
+1. odobrenja društvu za osiguranje ili društvu za reosiguranje kojeg je posredno ili neposredno vlasnik pravna osoba sa sjedištem u trećoj državi na koju se odnosi odluka Europske komisije
+
+2. odobrenja za stjecanje kvalificiranog udjela na temelju kojeg osoba sa sjedištem u trećoj državi, na koju se odnosi odluka Europske komisije, postaje vladajuće društvo nad društvom za osiguranje ili društvom za reosiguranje.
+
+(5) U razdoblju u kojem traje prekid postupka na temelju stavka 4. ovoga članka rokovi određeni za odlučivanje ne teku.
+
+(6) Agencija je dužna na zahtjev Vijeća Europske unije produžiti rok iz stavka 4. ovoga članka za razdoblje koje je odredilo Vijeće Europske unije.
+
+(7) Iznimno, odredbe stavaka 4. i 6. ovoga članka ne primjenjuju se na:
+
+1. osnivanje društva za osiguranje ili društva za reosiguranje kao društva kćeri koje u trenutku prihvaćanja odluke iz stavaka 4. i 6. ovoga članka ima pravo obavljanja poslova osiguranja, odnosno poslova reosiguranja u državi članici, odnosno na osnivanje društva kćeri od tog društva za osiguranje ili društva za reosiguranje
+
+2. stjecanje kvalificiranog udjela čiji je budući imatelj društvo za osiguranje ili društvo za reosiguranje koje u trenutku prihvaćanja odluke iz stavaka 4. i 6. ovoga članka ima pravo obavljati poslove osiguranja, odnosno poslove reosiguranja u državi članici, odnosno čiji je budući imatelj društvo kćer od tog društva za osiguranje ili društva za reosiguranje.
+
+(8) Agencija je dužna Europsku komisiju na njezin zahtjev obavijestiti o svakom zahtjevu za izdavanje odobrenja iz stavka 1. ovoga članka, odnosno o svakom zahtjevu za stjecanje kvalificiranog udjela na temelju kojeg bi imatelj iz treće države postao vladajuće društvo nad društvom za osiguranje ili društvom za reosiguranje, ako Europska komisija te podatke zahtijeva radi utvrđivanja činjenica bitnih za prihvaćanje odluke na temelju stavaka 4. i 6. ovoga članka.
+
+*Suradnja s Europskom komisijom*
+
+##### Članak 396.
+
+(1) Agencija surađuje s Europskom komisijom i nadležnim nadzornim tijelima država članica u svrhu olakšavanja nadzora nad društvima za osiguranje ili društvima za reosiguranje u Europskoj uniji i ispitivanja bilo kojih poteškoća koje mogu proizaći iz primjene ovoga Zakona.
+
+(2) Agencija obavještava Europsku komisiju o svim većim poteškoćama do kojih dolazi zbog primjene ovoga Zakona. Agencija u suradnji s Europskom komisijom i nadležnim nadzornim tijelima država članica ispituje te poteškoće što je prije moguće kako bi došli do primjerenih rješenja.
+
+*Pružanje informacija nadležnim nadzornim tijelima i drugim osobama ili tijelima*
+
+##### Članak 397.
+
+(1) Osobe zaposlene u Agenciji ili angažirane od strane Agencije ne smiju drugim osobama ili tijelima odavati povjerljive informacije iz članka 389. stavaka 1. i 2. ovoga Zakona koje su pribavile u okviru obavljanja svojih dužnosti.
+
+(2) Obveza iz stavka 1. ovoga članka traje i nakon prestanka radnog odnosa u Agenciji, odnosno nakon prestanka angažmana od strane Agencije.
+
+(3) Stavci 1. i 2. ovoga članka ne odnose se na objavljivanje podataka u sažetom obliku ili zbirnom obliku, kod kojeg se ne mogu razaznati pojedina društva za osiguranje ili društva za reosiguranje.
+
+(4) Obveza čuvanja poslovne tajne iz stavka 1. ovoga članka ne sprječava razmjenu informacija između Agencije i nadležnih nadzornih tijela drugih država članica na temelju ovoga Zakona i drugih propisa koji se primjenjuju na društva za osiguranje ili za društva za reosiguranje. Za tako pribavljene podatke važi obveza povjerljivosti na temelju stavka 1. ovoga članka. Razmjena podataka između Agencije i nadležnih nadzornih tijela trećih zemalja dopuštena je samo ako je sklopljen sporazum o suradnji u tom smislu, ako su ti podaci potrebni za obavljanje nadzornih zadataka tih tijela i ako ta tijela i osobe, koje je to tijelo ovlastilo, podliježu obvezi povjerljivosti iz stavka 1. ovoga članka. Informacije koje je Agencija dužna priopćiti trećoj državi, a koje potječu iz druge države članice ne smiju se priopćiti bez izričite suglasnosti nadležnog nadzornog tijela te države članice te, prema potrebi, samo u svrhe za koje je to tijelo dalo svoju suglasnost.
+
+(5) Agencija može podatke, koje je primila na temelju stavaka 1. i 4. ovoga članka, koristiti samo radi:
+
+1. provjere jesu li ispunjeni uvjeti kojima se uređuje obavljanje djelatnosti subjekata nadzora Agencije u skladu s ovim Zakonom
+
+2. nadzora djelatnosti subjekata nadzora Agencije u skladu s ovim Zakonom
+
+3. donošenja nadzornih mjera te progona ili kažnjavanja počinitelja prekršaja od strane Agencije
+
+4. sudskog postupka
+
+5. ispunjavanja zahtjeva Europskog parlamenta zasnovanih na ovlasti za istraživanje iz članka 226. Ugovora o funkcioniranju Europske unije.
+
+(6) Obveza povjerljivosti iz stavka 1. ovoga članka ne zabranjuje prosljeđivanje podataka:
+
+1. središnjim tijelima državne uprave ili nadležnom državnom odvjetništvu
+
+2. sudovima, a posebno u parničnom postupku ili postupku pred trgovačkim sudom kada je otvoren stečaj društva za osiguranje odnosno društva za reosiguranje ili kad se nad njim provodi postupak likvidacije ako se povjerljive informacije ne odnose na treće strane uključene u pokušaj spašavanja tog društva
+
+3. tijelima koja su ovlaštena nadzirati društva za osiguranje, društva za reosiguranje, zastupnike ili posrednike u osiguranju, kreditne institucije, investicijska društva, druge financijske institucije, financijska tržišta ili platne sustave
+
+4. središnjim bankama
+
+5. tijelima koja su uključena u postupak likvidacije, stečaja ili drugi sličan postupak nad društvom za osiguranje odnosno društvom za reosiguranje
+
+6. osobama koje provode zakonom propisanu reviziju financijskih izvještaja društava za osiguranje, društava za reosiguranje, kreditnih institucija, institucija za financijske usluge, investicijskih društava ili drugih financijskih institucija
+
+7. tijelima koja upravljaju garancijskim fondovima ako su im te informacije potrebne prilikom obavljanja njihovih dužnosti
+
+8. tijelima koja nadziru tijela i osobe iz točaka 5. i 6. ovoga stavka
+
+9. neovisnim ovlaštenim aktuarima društava za osiguranje, odnosno društava za reosiguranje koji obavljaju zakonske provjere poslovanja tih društava te tijelima koja su nadležna za nadzor tih aktuara
+
+10. nadležnim tijelima ovlaštenim za otkrivanje i istraživanje kršenja propisa kojima se uređuje osnivanje i poslovanje trgovačkih društava
+
+11. Europskoj središnjoj banci, Europskom sustavu središnjih banaka, EIOPA-i, EBA-i, ESMA-i, Zajedničkom odboru, ESRB-u i Europskoj komisiji, ako ta tijela trebaju podatke radi obavljanja svojih zadaća
+
+12. Europskom parlamentu s obzirom na njegove ovlasti za istraživanje u skladu s člankom 226. Ugovora o funkcioniranju Europske unije.
+
+(7) Povjerljive informacije koje je Agencija proslijedila tijelima navedenim u stavku 6. točkama 1. – 7. ovoga članka podliježu obvezi čuvanja poslovne tajne iz stavka 1. ovoga članka pa i ako se takva tijela nalaze u drugoj državi članici.
+
+(8) Povjerljive informacije koje je Agencija proslijedila nadzornim tijelima, nadležnim tijelima odnosno ovlaštenim imenovanim aktuarima iz stavka 6. točaka 8. – 10. ovoga članka:
+
+1. moraju biti namijenjene obavljanju nadzora, otkrivanja i istraživanja ili zakonskih provjera koje ta tijela, odnosno te osobe provode
+
+2. podliježu obvezi čuvanja poslovne tajne iz stavka 1. ovoga članka
+
+3. kada informacije koje se prosljeđuju potječu iz druge države članice, ne smiju se priopćiti bez izričite suglasnosti nadležnog nadzornog tijela od kojeg potječu te, prema potrebi, samo u svrhe za koje je to tijelo dalo svoju suglasnost.
+
+(9) Agencija dostavlja Komisiji i nadležnim nadzornim tijelima država članica nazive, odnosno imena tijela i osoba koja mogu primiti informacije u skladu sa stavkom 6. točkama 8. – 10. ovoga članka.
+
+(10) Nadležna tijela iz stavka 6. točke 10. ovoga članka dostavljaju nadležnom nadzornom tijelu, od kojega dostavljene informacije potječu, imena i točne odgovornosti osoba kojima te informacije trebaju biti poslane.
+
+(11) Povjerljive informacije koje je Agencija zaprimila u skladu sa stavkom 4. ovoga članka, odnosno tijekom nadzora poslovanja podružnice društva za osiguranje ili društva za reosiguranje u drugoj državi članici mogu se objaviti samo uz izričitu suglasnost nadzornog tijela države članice od kojeg te informacije potječu, odnosno uz izričitu suglasnost nadzornog tijela države članice u kojoj je nadzor obavljen.
+
+(12) Povjerljive informacije koje je Agencija proslijedila tijelima i institucijama u skladu sa stavkom 6. točkama 1. – 7. ovoga članka ne mogu se objaviti bez odobrenja Agencije.
+
+*Pružanje informacija u izvanrednoj situaciji*
+
+##### Članak 398.
+
+(1) U izvanrednoj situaciji, uključujući izvanrednu situaciju kako je navedeno u članku 18. Uredbe (EU) br. 1094/2010, Agencija, bez odgađanja, dostavlja informacije središnjim bankama ESSB-a, uključujući ESB, ako su te informacije relevantne za obavljanje njihovih zakonom propisanih zadaća, uključujući provođenje monetarne politike i povezano osiguranje likvidnosti, nadzor platnog prometa, sustava za poravnanje i namiru te očuvanje stabilnosti financijskog sustava, te ESRB-u, ako su te informacije relevantne za obavljanje njegovih zadaća.
+
+(2) Institucije ili tijela iz stavka 1. ovoga članka mogu također dostaviti Agenciji one informacije koje joj mogu biti potrebne u smislu članka 397. stavka 5. ovoga Zakona. Informacije primljene u tom kontekstu podliježu odredbama o obvezi čuvanja poslovne tajne koja je utvrđena u ovom odjeljku.
+
+## GLAVA XXIII. — ZASTUPANJE U OSIGURANJU I POSREDOVANJE U OSIGURANJU I REOSIGURANJU
+
+## POGLAVLJE I. — ZASTUPANJE U OSIGURANJU
+
+*Zastupanje u osiguranju*
+
+##### Članak 399.
+
+(1) Zastupanje u osiguranju je djelatnost pokretanja, predlaganja ili obavljanja poslova pripreme i sklapanja ugovora o osiguranju u ime i za račun jednog ili više društava za osiguranje za proizvode osiguranja koji međusobno ne konkuriraju.
+
+(2) Društva za zastupanje u osiguranju, društva za osiguranje, kreditne institucije, Financijska agencija, HP-Hrvatska pošta d. d. i investicijska društva mogu zastupati više društava za osiguranje i za proizvode osiguranja koji su međusobno konkurentni, na temelju pisane suglasnosti zastupanog društva za osiguranje.
+
+*Zastupnik u osiguranju*
+
+##### Članak 400.
+
+(1) Zastupnik u osiguranju je fizička osoba koja je dobila ovlaštenje Agencije za obavljanje poslova zastupanja u osiguranju.
+
+(2) Poslovi zastupnika u osiguranju su poslovi pokretanja, predlaganja pripreme i sklapanja ugovora o osiguranju u ime i za račun jednog ili više društava za osiguranje, u skladu s člankom 399. ovoga Zakona.
+
+(3) Zastupnik u osiguranju iz stavka 1. ovoga članka smije obavljati poslove zastupanja u osiguranju samo na temelju zaposlenja, odnosno drugog pravnog odnosa, na temelju pisanog ugovora, u društvu za osiguranje, društvu za zastupanje u osiguranju, obrtu za zastupanje u osiguranju, kreditnoj instituciji, Financijskoj agenciji, HP-Hrvatskoj pošti d. d. i investicijskom društvu.
+
+(4) Iznimno od odredbe stavka 3. ovoga članka, zastupnikom u osiguranju ne smatraju se osobe koje obavljaju poslove zastupanja u osiguranju na temelju zaposlenja u društvu za osiguranje.
+
+(5) Zastupnik u osiguranju ne smije, u svoje ime i za svoj račun, naplaćivati premije osiguranja niti ostale iznose od ugovaratelja osiguranja.
+
+*Društvo za zastupanje u osiguranju*
+
+##### Članak 401.
+
+(1) Društvo za zastupanje u osiguranju je pravna osoba sa sjedištem u Republici Hrvatskoj koja obavlja gospodarsku djelatnost pružanja usluga zastupanja u osiguranju i koja je dobila dozvolu Agencije za obavljanje djelatnosti zastupanja u osiguranju.
+
+(2) Društvo za zastupanje u osiguranju ne može se upisati u sudski registar prije dobivanja dozvole iz stavka 1. ovoga članka.
+
+(3) Društvo za zastupanje u osiguranju može se osnovati prema Zakonu o trgovačkim društvima kao dioničko društvo, odnosno društvo s ograničenom odgovornošću.
+
+(4) Izraz »zastupanje u osiguranju« odnosno izvedenicu tog izraza u tvrtki ili skraćenoj tvrtki može upisati u sudski registar i koristiti u pravnom prometu samo društvo koje je dobilo dozvolu iz članka 420. ovoga Zakona.
+
+*Obrt za zastupanje u osiguranju*
+
+##### Članak 402.
+
+(1) Obrt za zastupanje u osiguranju je fizička osoba – poduzetnik (obrtnik) s prebivalištem u Republici Hrvatskoj koja obavlja gospodarsku djelatnost pružanja usluga zastupanja u osiguranju i koja je dobila dozvolu Agencije za obavljanje djelatnosti zastupanja u osiguranju.
+
+(2) Obrt za zastupanje u osiguranju ne može se upisati u obrtni registar prije dobivanja dozvole iz stavka 1. ovoga članka.
+
+(3) Obrt za zastupanje u osiguranju može se osnovati prema Zakonu o obrtu.
+
+(4) Odredbe ovoga Zakona koje se odnose na društvo za zastupanje u osiguranju primjenjuju se i na obrt za zastupanje u osiguranju, osim odredaba članka 401. i članka 420. stavka 3. točke 1. ovoga Zakona.
+
+(5) Vlasnik obrta za zastupanje koji nema ovlaštenje za obavljanje poslova zastupanja u osiguranju izdano u skladu s odredbama ovoga Zakona mora imenovati poslovođu, u skladu s odredbama Zakona o obrtu, koji ima ovlaštenje za zastupanje u osiguranju.
+
+*Osiguranje od odgovornosti društva za zastupanje u osiguranju*
+
+##### Članak 403.
+
+(1) Društvo za zastupanje u osiguranju i investicijsko društvo koje obavlja poslove zastupanja u osiguranju za više društava za osiguranje mora imati osiguranu odgovornost obavljanja djelatnosti ili odgovarajuće jamstvo u iznosu koji ne smije biti manji od 9.700.000,00 kuna po svakom odštetnom zahtjevu, odnosno 14.650.000,00 kuna za sve odštetne zahtjeve u jednoj godini.
+
+(2) Osiguranje ili jamstvo iz stavka 1. ovoga članka mora vrijediti za područje država članica.
+
+(3) Iznimno, stavak 1. ovoga članka ne primjenjuje se ako je društvo za osiguranje u čije ime društvo za zastupanje u osiguranju ili investicijsko društvo ili je ovlašteno djelovati, već dalo takvo osiguranje ili odgovarajuće jamstvo ili ako društvo za osiguranje preuzima punu odgovornost za djelovanje društva za zastupanje u osiguranju ili investicijskog društva.
+
+*Obveze zastupnika u osiguranju i odgovornost društva za osiguranje*
+
+##### Članak 404.
+
+(1) Za postupke zastupnika u osiguranju odgovara društvo za zastupanje u osiguranju i društvo za osiguranje.
+
+(2) Zastupnik u osiguranju može obavljati samo one poslove za koje je ovlašten u skladu s odredbama ovoga Zakona.
+
+*Ograničenje ovlasti zastupnika u osiguranju*
+
+##### Članak 405.
+
+(1) Ako je ovlast zastupnika u osiguranju ograničena samo na određeno područje, zastupnik u osiguranju ovlašten je za poduzimanje pravnih radnji iz članka 400. ovoga Zakona samo u svezi s osiguranjima koja se odnose na imovinu iz tog područja, odnosno osobe s prebivalištem na tom području.
+
+(2) Ako je ovlast zastupnika u osiguranju ograničena na način da zastupnik u osiguranju nije ovlašten za poduzimanje svih pravnih radnji iz članka 400. ovoga Zakona ili na način iz stavka 1. ovoga članka, ograničenje ovlasti nema učinak prema ugovaratelju osiguranja, osim ako mu je to ograničenje bilo poznato.
+
+## POGLAVLJE II. — POSREDOVANJE U OSIGURANJU I REOSIGURANJU
+
+*Posredovanje u osiguranju i reosiguranju*
+
+##### Članak 406.
+
+Posredovanje u osiguranju i reosiguranju je djelatnost pokretanja, predlaganja ili obavljanja poslova pripreme za sklapanje ugovora o osiguranju, odnosno reosiguranju, pomoć pri izvršavanju prava iz ugovora o osiguranju, odnosno ugovora o reosiguranju, a posebno pri rješavanju odštetnih zahtjeva naslovljenih na društvo za osiguranje, odnosno društvo za reosiguranje.
+
+*Posrednik u osiguranju i reosiguranju*
+
+##### Članak 407.
+
+(1) Posrednik u osiguranju i reosiguranju je fizička osoba koja je dobila ovlaštenje za obavljanje poslova posredovanja u osiguranju i reosiguranju.
+
+(2) Poslovi posrednika u osiguranju i reosiguranju su poslovi u svezi s pregovaranjem s društvom za osiguranje, odnosno društvom za reosiguranje čiji je predmet nastojanje da se budućem ugovaratelju osiguranja, odnosno reosiguranja u skladu s njegovim zahtjevima, odnosno potrebama, omogući sklapanje ugovora o osiguranju, odnosno reosiguranju.
+
+(3) Uz poslove iz stavka 2. ovoga članka, poslovima posrednika u osiguranju i reosiguranju smatraju se i poslovi koji se odnose na pripremu za sklapanje ugovora o osiguranju, odnosno reosiguranju i pomoć pri izvršavanju prava iz ugovora o osiguranju, odnosno reosiguranju, a posebno pri rješavanju odštetnih zahtjeva naslovljenih na društvo za osiguranje, odnosno društvo za reosiguranje.
+
+(4) Pomoć pri izvršavanju prava iz ugovora o osiguranju, odnosno reosiguranju, a posebno pri rješavanju odštetnih zahtjeva naslovljenih na društvo za osiguranje, odnosno društvo za reosiguranje mogu obavljati samo osobe iz stavka 1. ovoga članka i osobe kojima je to dopušteno drugim zakonima kojima se uređuje obavljanje njihove djelatnosti.
+
+(5) Posrednik u osiguranju i reosiguranju iz stavka 1. ovoga članka smije obavljati poslove posredovanja u osiguranju i reosiguranju samo na temelju zaposlenja u društvu za posredovanje u osiguranju i reosiguranju.
+
+*Odgovornost društva za posredovanje u osiguranju i reosiguranju*
+
+##### Članak 408.
+
+Za postupke posrednika u osiguranju i reosiguranju odgovara društvo za posredovanje u osiguranju i reosiguranju.
+
+*Društvo za posredovanje u osiguranju i reosiguranju*
+
+##### Članak 409.
+
+(1) Društvo za posredovanje u osiguranju i reosiguranju je pravna osoba sa sjedištem u Republici Hrvatskoj koja obavlja gospodarsku djelatnost pružanja usluga posredovanja u osiguranju i reosiguranju i koja je dobila dozvolu Agencije za obavljanje djelatnosti posredovanja u osiguranju i reosiguranju.
+
+(2) Društvo za posredovanje u osiguranju i reosiguranju ne može se upisati u sudski registar prije dobivanja dozvole iz stavka 1. ovoga članka.
+
+(3) Društvo za posredovanje u osiguranju i reosiguranju može se osnovati prema Zakonu o trgovačkim društvima kao dioničko društvo, odnosno društvo s ograničenom odgovornošću.
+
+(4) Izraz »posredovanje u osiguranju i reosiguranju«, odnosno izvedenicu tog izraza u tvrtki ili skraćenoj tvrtki može upisati u sudski registar i koristiti u pravnom prometu samo društvo koje je dobilo dozvolu iz članka 422. ovoga Zakona.
+
+*Osiguranje od odgovornosti društva za posredovanje u osiguranju i reosiguranju*
+
+##### Članak 410.
+
+(1) Društvo za posredovanje u osiguranju i reosiguranju mora imati osiguranu odgovornost obavljanja djelatnosti ili odgovarajuće jamstvo u iznosu koji ne smije biti manji od 9.700.000,00 kuna po svakom odštetnom zahtjevu, odnosno 14.650.000,00 kuna za sve odštetne zahtjeve u jednoj godini.
+
+(2) Osiguranje ili jamstvo iz stavka 1. ovoga članka mora vrijediti za područje država članica.
+
+(3) Iznimno, stavak 1. ovoga članka ne primjenjuje se ako je društvo za osiguranje ili društvo za reosiguranje u čije ime djeluje društvo za posredovanje u osiguranju i reosiguranju ili je ovlašteno djelovati, već dalo takvo osiguranje ili odgovarajuće jamstvo ili ako društvo za osiguranje ili društvo za reosiguranje preuzima punu odgovornost za djelovanje društva za posredovanje u osiguranju i reosiguranju.
+
+*Obveze posrednika u osiguranju i reosiguranju*
+
+##### Članak 411.
+
+(1) Posrednik u osiguranju i reosiguranju dužan je obavljati poslove posredovanja tako da štiti interese ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika.
+
+(2) Radi ispunjavanja obveze iz stavka 1. ovoga članka posrednik u osiguranju i reosiguranju je dužan:
+
+1. načiniti odgovarajuću analizu rizika i odgovarajuća načela pokrića
+
+2. pisano obrazložiti razlog svog prijedloga društva za osiguranje odnosno društva za reosiguranje i izvijestiti ga o visini provizije određene za sklapanje ugovora o osiguranju, odnosno reosiguranju
+
+3. u ime ugovaratelja osiguranja, odnosno reosiguranja posredovati kod sklapanja ugovora o osiguranju, odnosno reosiguranju koje je u skladu sa zahtjevom ugovaratelja osiguranja, odnosno reosiguranja s obzirom na osigurateljno pokriće, pri čemu ta obveza može biti ograničena samo na određene usluge osiguranja, odnosno reosiguranja, ako posrednik u osiguranju o tome izričito obavijesti osiguranika
+
+4. obavijestiti društvo za osiguranje, odnosno reosiguranje o traženju ponude ugovaratelja osiguranja, odnosno reosiguranja za sklapanje ugovora o osiguranju, odnosno reosiguranju
+
+5. uručiti ugovaratelju osiguranja, odnosno reosiguranja policu osiguranja, odnosno ugovor o reosiguranju te druge akte vezane za ugovor o osiguranju, odnosno reosiguranju
+
+6. provjeriti sadržaj police osiguranja, odnosno ugovora o reosiguranju
+
+7. pružati pomoć ugovaratelju osiguranja, ugovaratelju reosiguranja, odnosno osiguraniku za vrijeme trajanja ugovora o osiguranju, odnosno reosiguranju, i to i prije i nakon nastupanja osiguranog slučaja, te se ponajprije brinuti da ugovaratelj osiguranja, ugovaratelj reosiguranja, odnosno osiguranik poduzme sve pravne radnje koje su bitne za očuvanje, odnosno realizaciju prava na temelju ugovora o osiguranju, odnosno reosiguranju poduzima u rokovima određenim za poduzimanje tih pravnih radnji
+
+8. stalno provjeravati ugovore o osiguranju, odnosno reosiguranju koje je ugovaratelj osiguranja, odnosno reosiguranja sklopio njegovim posredovanjem te izraditi prijedloge za izmjenu ovih ugovora o osiguranju, odnosno reosiguranju radi što bolje zaštite.
+
+*Zaštita interesa stranaka*
+
+##### Članak 412.
+
+(1) Posrednik u osiguranju i reosiguranju dužan je pri obavljanju poslova posredovanja u osiguranju i reosiguranju štititi interese ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika.
+
+(2) Posrednik u osiguranju i reosiguranju dužan je kod obavljanja poslova posredovanja u osiguranju i reosiguranju štititi one interese društva za osiguranje, odnosno reosiguranje na koje je inače, prije ili nakon sklapanja ugovora o osiguranju, odnosno reosiguranju, obvezan ugovaratelj osiguranja, odnosno reosiguranja. Posrednik u osiguranju i reosiguranju, obavljajući poslove pripreme za sklapanje ugovora o osiguranju i reosiguranju, dužan je obavijestiti društva za osiguranje, odnosno reosiguranje o svim potrebnim rizicima koji su mu poznati, odnosno morali su mu biti poznati.
+
+(3) Posrednik u osiguranju i reosiguranju dužan je ugovaratelju osiguranja, odnosno reosiguranja objasniti sve pravne i ekonomske veze s pojedinim društvom za osiguranje, odnosno reosiguranje koje mogu utjecati na pristranost posrednika u osiguranju i reosiguranju pri izvršavanju obveza prema ugovaratelju osiguranja, odnosno reosiguranja.
+
+*Zabrana posredovanja u osiguranju i reosiguranju*
+
+##### Članak 413.
+
+Posrednik u osiguranju i reosiguranju ne smije posredovati kod sklapanja ugovora s društvom za osiguranje, odnosno reosiguranje ako bi sklapanje ugovora o osiguranju, odnosno reosiguranju bilo protivno odredbi članka 7., odnosno članka 9. ovoga Zakona.
+
+*Iznimke kod obavljanja poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju*
+
+##### Članak 414.
+
+Odredbe ove glave ne primjenjuju se na osobe koje obavljaju poslove u smislu zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju, ali ne za društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju ako su ispunjeni svi sljedeći uvjeti:
+
+1. ugovor o osiguranju zahtijeva poznavanje samo one vrste osiguranja koja je predmet ugovora
+
+2. ugovor o osiguranju nije ugovor o životnom osiguranju
+
+3. ugovor o osiguranju ne pokriva osiguranje odgovornosti
+
+4. osnovna djelatnost nije zastupanje u osiguranju, odnosno posredovanje u osiguranju i reosiguranju
+
+5. osiguranje predstavlja dopunu uz proizvod ili uslugu, ako takvo osiguranje pokriva:
+
+– rizik kvara, gubitka ili oštećenja proizvoda ili stvari
+
+– rizik oštećenja ili gubitka prtljage i ostalih opasnosti vezanih uz putovanje koje je bilo rezervirano preko turističke agencije te osiguranje sadržava odredbe o životnom osiguranju ili osiguranju odgovornosti, pod uvjetom da osiguranje takve vrste predstavlja pomoćni, odnosno dopunski oblik osiguranja koji pokriva rizike vezane uz navedeno putovanje
+
+6. iznos godišnje premije osiguranja nije veći od 3.750,00 kuna i ako ugovor o osiguranju, uključujući produljenja, nije zaključen na razdoblje duže od pet godina.
+
+## POGLAVLJE III. — OVLAŠTENJE ZA OBAVLJANJE POSLOVA ZASTUPANJA U OSIGURANJU, ODNOSNO POSREDOVANJA U OSIGURANJU I REOSIGURANJU
+
+*Ovlaštenje za obavljanje poslova zastupanja u osiguranju*
+
+##### Članak 415.
+
+(1) Poslove zastupnika u osiguranju mogu obavljati samo fizičke osobe koje imaju ovlaštenje Agencije za obavljanje poslova zastupanja u osiguranju.
+
+(2) Agencija će izdati ovlaštenje za obavljanje poslova zastupanja u osiguranju osobi koja ispunjava sljedeće uvjete:
+
+1. uspješno je obavila provjeru stručnih znanja potrebnih za obavljanje poslova zastupanja u osiguranju
+
+2. znanje hrvatskog jezika
+
+3. ima najmanje srednju stručnu spremu
+
+4. da nije pravomoćno osuđena za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.), i to:
+
+– glava XXIV. – kaznena djela protiv gospodarstva, odnosno za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 110/97., 27/98., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja i
+
+– da nije pravomoćno osuđena za kaznena djela iz zakona drugih država članica ili trećih država koja po svom opisu odgovaraju navedenim kaznenim djelima.
+
+(3) Agencija će ukinuti ili poništiti ovlaštenje za obavljanje poslova zastupanja u osiguranju:
+
+1. ako je ovlaštenje dobiveno na temelju navođenja neistinitih podataka
+
+2. ako su prestali postojati uvjeti iz stavka 2. točke 4. ovoga članka
+
+3. ako zastupnik u osiguranju krši odredbe ovoga Zakona
+
+4. ako zastupnik u osiguranju teže prekrši dobre poslovne običaje i pravila struke.
+
+(4) Osoba kojoj je Agencija ukinula ovlaštenje za obavljanje poslova zastupanja u osiguranju ne može dobiti ovlaštenje Agencije za obavljanje poslova zastupanja u osiguranju prije isteka tri godine od dana pravomoćnosti rješenja o ukidanju ovlaštenja za obavljanje poslova zastupanja u osiguranju.
+
+*Pomoćnik zastupnika u osiguranju*
+
+##### Članak 416.
+
+(1) Pomoćnik zastupnika u osiguranju je fizička osoba koja na temelju zaposlenja, odnosno drugog pravnog odnosa pomaže zastupniku u osiguranju iz članka 400. stavka 3. ovoga Zakona tako da dovodi u vezu zastupnika u osiguranju s potencijalnim ugovarateljem osiguranja radi sklapanja ugovora o osiguranju na temelju kojeg ostvaruje pravo na naknadu.
+
+(2) Osim poslova iz stavka 1. ovoga članka, pomoćnik zastupnika u osiguranju ne smije obavljati druge poslove zastupanja u osiguranju niti smije poslove iz stavka 1. ovoga članka istodobno obavljati za više zastupnika u osiguranju.
+
+(3) Fizička osoba koja nema ovlaštenje iz članka 415. ovoga Zakona može obavljati posao pomoćnika zastupnika u osiguranju u ukupnom trajanju od najdulje dvije godine, neovisno o prekidima obavljanja poslova pomoćnika zastupnika u osiguranju.
+
+(4) Zastupnik u osiguranju prati rad svog pomoćnika iz stavka 1. ovoga članka.
+
+(5) Društva za zastupanje u osiguranju i pravne osobe iz članka 418. stavka 4. ovoga Zakona dužne su voditi evidenciju o imenovanju pomoćnika njihova zastupnika u osiguranju, kao i početku i prestanku njegova rada te o zastupniku u osiguranju koji prati njegov rad.
+
+(6) Stavak 5. ovoga članka na odgovarajući se način primjenjuje i na društvo za osiguranje koje je dužno voditi evidenciju o pomoćniku njegova zastupnika u osiguranju koji obavlja poslove zastupanja u osiguranju za to društvo za osiguranje.
+
+(7) Osobe iz članka 400. stavka 4. ovoga Zakona ne mogu imati pomoćnika iz ovoga članka.
+
+*Ovlaštenje za obavljanje poslova posredovanja u osiguranju i reosiguranju*
+
+##### Članak 417.
+
+(1) Poslove posrednika u osiguranju i reosiguranju mogu obavljati samo fizičke osobe koje imaju ovlaštenje Agencije za obavljanje poslova posredovanja u osiguranju i reosiguranju.
+
+(2) Agencija će izdati ovlaštenje za obavljanje poslova posredovanja u osiguranju i reosiguranju osobi koja ispunjava sljedeće uvjete:
+
+1. uspješno je obavila provjeru stručnih znanja potrebnih za obavljanje poslova posredovanja u osiguranju i reosiguranju
+
+2. znanje hrvatskog jezika
+
+3. da ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studiji ili stručni studij i specijalistički diplomski stručni studij, čijim završetkom je stekla najmanje 300 ECTS bodova, i ima najmanje jednogodišnje iskustvo u području poslova osiguranja, reosiguranja, zastupanja ili posredovanja, ili da ima završen preddiplomski sveučilišni studij ili preddiplomski stručni studij u trajanju od tri godine i čijim završetkom je stekla najmanje 180 ECTS bodova i ima najmanje trogodišnje iskustvo u području poslova osiguranja, reosiguranja, zastupanja ili posredovanja
+
+4. da nije pravomoćno osuđena za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.), i to:
+
+– glava XXIV. – kaznena djela protiv gospodarstva, odnosno za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 110/97., 27/98., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja i
+
+– da nije pravomoćno osuđena za kaznena djela iz zakona drugih država članica ili trećih država koja po svom opisu odgovaraju navedenim kaznenim djelima.
+
+(3) Agencija će ukinuti ili poništiti ovlaštenje za obavljanje poslova posredovanja u osiguranju i reosiguranju ako:
+
+1. je ovlaštenje dobiveno na temelju navođenja neistinitih podataka
+
+2. su prestali postojati uvjeti iz stavka 2. točke 4. ovoga članka
+
+3. posrednik u osiguranju i reosiguranju krši odredbe ovoga Zakona
+
+4. posrednik u osiguranju i reosiguranju teže prekrši dobre poslovne običaje i pravila struke.
+
+(4) Osoba kojoj je Agencija ukinula ovlaštenje za obavljanje poslova posredovanja u osiguranju i reosiguranju ne može dobiti ovlaštenje Agencije za obavljanje poslova posredovanja u osiguranju i reosiguranju prije isteka tri godine od dana pravomoćnosti rješenja o ukidanju ovlaštenja za obavljanje poslova posredovanja u osiguranju i reosiguranju.
+
+## POGLAVLJE IV. — OBAVLJANJE DJELATNOSTI ZASTUPANJA U OSIGURANJU, ODNOSNO POSREDOVANJA U OSIGURANJU I REOSIGURANJU
+
+*Obavljanje djelatnosti zastupanja u osiguranju*
+
+##### Članak 418.
+
+(1) Djelatnost zastupanja u osiguranju može obavljati:
+
+1. društvo za zastupanje u osiguranju sa sjedištem u Republici Hrvatskoj koje ima dozvolu Agencije za obavljanje djelatnosti zastupanja u osiguranju
+
+2. obrt za zastupanje u osiguranju sa sjedištem u Republici Hrvatskoj koji ima dozvolu Agencije za obavljanje djelatnosti zastupanja u osiguranju
+
+3. društvo za zastupanje u osiguranju druge države članice koje u skladu s ovim Zakonom ima pravo obavljati poslove zastupanja u osiguranju na području Republike Hrvatske neposredno ili preko podružnice.
+
+(2) Društvo za zastupanje u osiguranju smije osim obavljanja poslova zastupanja u osiguranju pružati i usluge u skladu s ovim Zakonom.
+
+(3) Društvo za zastupanje u osiguranju iz stavka 1. ovoga članka ne smije obavljati poslove posredovanja u osiguranju i reosiguranju.
+
+(4) Iznimno od stavka 1. ovoga članka, djelatnost zastupanja u osiguranju mogu obavljati i kreditne institucije koje su za pružanje tih usluga dobile odobrenje Hrvatske narodne banke i koje imaju suglasnost Agencije za obavljanje poslova zastupanja u osiguranju, Financijska agencija i HP-Hrvatska pošta d. d. koje su za obavljanje tih usluga dobile dozvolu Agencije te investicijska društva koja su dobila dozvolu Agencije za obavljanje djelatnosti zastupanja u osiguranju izdanu u skladu s ovim Zakonom i zakonom kojim se uređuje tržište kapitala.
+
+(5) Agencija će o zahtjevu za izdavanje suglasnosti iz stavka 4. ovoga članka odlučiti u roku od 60 dana od dana zaprimanja urednog zahtjeva.
+
+(6) Na kreditnu instituciju, investicijsko društvo, Financijsku agenciju i HP-Hrvatsku poštu d. d., koje u skladu sa stavkom 4. ovoga članka obavljaju poslove zastupanja u osiguranju, na odgovarajući se način primjenjuju odredbe ovoga Zakona koje se odnose na društva za zastupanje u osiguranju, osim članka 401., članka 403., članka 419., članka 420. stavka 2. i stavka 3. točke 1. i članka 423. ovoga Zakona.
+
+(7) Osim poslova zastupanja u osiguranju, društvo za zastupanje može:
+
+1. pružati druge intelektualne i tehničke usluge u vezi s poslovima osiguranja pod uvjetima propisanim pravilnikom Agencije
+
+2. obavljati poslove nuđenja udjela investicijskih fondova te poslove ponude mirovinskih programa dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava u skladu s odredbama zakona kojim se uređuje poslovanje investicijskih fondova, dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava
+
+3. surađivati s drugim osobama ovlaštenim za obavljanje poslova zastupanja u osiguranju u obavljanju poslova zastupanja u osiguranju pod uvjetima propisanim pravilnikom Agencije.
+
+(8) Na oduzimanje dozvole za obavljanje poslova zastupanja u osiguranju Financijskoj agenciji, HP-Hrvatskoj pošti d. d., i investicijskim društvima i oduzimanje suglasnosti kreditnim institucijama za obavljanje djelatnosti zastupanja u osiguranju na odgovarajući se način primjenjuju odredbe članka 420. stavaka 5. – 8. ovoga Zakona.
+
+(9) Društvo za zastupanje u osiguranju, obrt za zastupanje u osiguranju i pravne osobe iz stavka 4. ovoga članka moraju imenovati odgovornu osobu za obavljanje poslova zastupanja u osiguranju u svakoj podružnici ili poslovnici u kojoj pružaju usluge zastupanja u osiguranju.
+
+(10) Kreditne institucije podnose Agenciji zahtjev za izdavanje suglasnosti za obavljanje poslova zastupanja u osiguranju, a ostale pravne osobe iz stavka 4. ovoga članka zahtjev za izdavanje dozvole za obavljanje poslova zastupanja u osiguranju. Uz navedene zahtjeve dostavljaju se dokazi propisani stavkom 9. ovoga članka i člankom 420. stavkom 3. točkama 2. – 4. ovoga Zakona.
+
+(11) O oduzimanju suglasnosti kreditnoj instituciji za obavljanje poslova zastupanja u osiguranju odnosno prestanku postojanja uvjeta propisanih ovim Zakonom za obavljanje poslova zastupanja u osiguranju Agencija će bez odgađanja obavijestiti Hrvatsku narodnu banku koja će ukinuti odobrenje kreditnoj instituciji za obavljanje poslova zastupanja u osiguranju bez odgađanja i o tome obavijestiti Agenciju.
+
+*Obavljanje djelatnosti zastupanja u osiguranju u stanicama za tehnički pregled vozila*
+
+##### Članak 419.
+
+(1) Stanica za tehnički pregled vozila je mjesto gdje se obavlja djelatnost od općeg interesa, kako je propisano Zakonom o sigurnosti prometa na cestama.
+
+(2) Poslove pripreme i sklapanja ugovora o osiguranju u stanicama za tehnički pregled vozila može obavljati samo društvo za zastupanje u osiguranju koje je dobilo dozvolu Agencije za obavljanje poslova zastupanja u osiguranju u stanici za tehnički pregled vozila.
+
+(3) Društva za osiguranje mogu poslove pripreme i sklapanja ugovora o osiguranju u stanicama za tehnički pregled vozila obavljati samo preko društva za zastupanje u osiguranju iz stavka 2. ovoga članka.
+
+(4) Na izdavanje dozvole iz stavka 2. ovoga članka primjenjuju se odredbe članka 420. ovoga Zakona.
+
+(5) Stanica za tehnički pregled vozila, u smislu ovoga Zakona, je nekretnina, odnosno više nekretnina koje su međusobno povezane tako da predstavljaju jednu cjelinu u kojoj ovlaštena osoba obavlja tehnički pregled i registraciju vozila.
+
+(6) Fizička ili pravna osoba koja ima pravo dati u zakup dio prostora na stanici za tehnički pregled iz stavka 5. ovoga članka mora omogućiti društvu za zastupanje u osiguranju iz stavka 2. ovoga članka prostor za obavljanje djelatnosti zastupanja u osiguranju.
+
+(7) Ako osoba iz stavka 6. ovoga članka ne omogući prostor za obavljanje djelatnosti zastupanja u osiguranju iz stavka 6. ovoga članka, u stanici za tehnički pregled vozila iz stavka 5. ovoga članka ne smije se obavljati djelatnost zastupanja u osiguranju.
+
+(8) Poslove zastupanja u osiguranju iz stavka 2. ovoga članka društvo za zastupanje u osiguranju dužno je obavljati pod istim uvjetima za sva zainteresirana društva za osiguranje.
+
+(9) Na poslove zastupanja u osiguranju i zastupnika u osiguranju društva za zastupanje u osiguranju iz stavka 2. ovoga članka ne primjenjuje se zabrana pripreme i sklapanja ugovora o osiguranju za proizvode osiguranja koji međusobno konkuriraju iz članka 399. i članka 400. stavka 2. ovoga Zakona.
+
+(10) Poslove zastupanja u osiguranju iz stavka 2. ovoga članka društvo za zastupanje u osiguranju može obavljati samo u vrstama osiguranja iz članka 7. stavka 2. točaka 1., 3., 7., 10., 17. i 18. ovoga Zakona, a u dozvoli za obavljanje zastupanja Agencija će navesti vrste osiguranja u kojima društvo za zastupanje u osiguranju može na stanici za tehnički pregled vozila obavljati poslove zastupanja u osiguranju.
+
+(11) Agencija će pravilnikom propisati tehničke i organizacijske uvjete za obavljanje poslova zastupanja u osiguranju iz stavaka 2. i 6. ovoga članka.
+
+(12) U slučaju obavljanja poslova zastupanja u osiguranju u stanici za tehnički pregled protivno odredbama ovoga Zakona odgovorno je društvo za osiguranje čiji se ugovori o osiguranju sklapaju i društvo za zastupanje u osiguranju u čije se ime i za čiji račun obavljaju ti poslovi zastupanja u osiguranju.
+
+*Dozvola za obavljanje djelatnosti zastupanja u osiguranju*
+
+##### Članak 420.
+
+(1) Društvo za zastupanje u osiguranju mora prije upisa o osnivanju u sudski registar dobiti dozvolu Agencije za obavljanje poslova zastupanja u osiguranju.
+
+(2) Agencija će izdati dozvolu za obavljanje poslova zastupanja u osiguranju na zahtjev osnivača odnosno pravne osobe koja namjerava obavljati poslove zastupanja u osiguranju u skladu s odredbama ovoga Zakona.
+
+(3) Zahtjevu za izdavanje dozvole za obavljanje poslova zastupanja u osiguranju podnositelj zahtjeva dužan je priložiti dokaze iz kojih proizlazi da ispunjava sljedeće uvjete:
+
+1. temeljni kapital uplaćen u novcu u iznosu od najmanje 100.000,00 kuna
+
+2. najmanje jedan zastupnik u osiguranju koji će na temelju ugovora o radu biti zaposlen na puno radno vrijeme
+
+3. da s društvom za posredovanje u osiguranju i reosiguranju nije u odnosu uske povezanosti
+
+4. da nije pravomoćno osuđen za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.), i to:
+
+– glava XXIV. – kaznena djela protiv gospodarstva, odnosno za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 110/97., 27/98., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja i
+
+– da nije pravomoćno osuđen za kaznena djela iz zakona drugih država članica ili trećih država koja po svom opisu odgovaraju navedenim kaznenim djelima.
+
+(4) Član uprave, odnosno direktor društva za zastupanje mora imati ovlaštenje iz članka 415. ovoga Zakona i biti zaposlen u tom društvu na puno radno vrijeme, a pravne osobe iz članka 418. stavka 4. ovoga Zakona moraju imati najmanje jednog zastupnika u osiguranju koji će biti odgovorna osoba za obavljanje poslova zastupanja u osiguranju zaposlena na puno radno vrijeme u sjedištu i podružnici te osobe, ako društvo za zastupanje ima osnovanu podružnicu.
+
+(5) Agencija će ukinuti ili poništiti rješenje kojim je dala dozvolu za obavljanje poslova zastupanja u osiguranju u sljedećim slučajevima:
+
+1. ako je dozvola pribavljena navođenjem neistinitih podataka
+
+2. ako društvo za zastupanje u osiguranju, odnosno zastupnik u osiguranju koji radi za društvo teže krši odredbe članka 424. ovoga Zakona
+
+3. ako društvo za zastupanje u osiguranju nema osiguranu odgovornost u skladu s člankom 403. ovoga Zakona
+
+4. ako društvo za zastupanje u osiguranju učestalo krši obveze pravodobnog i potpunog izvještavanja Agencije određene ovim Zakonom i propisima donesenim na temelju njega
+
+5. ako društvo za zastupanje ne izvršava rješenja Agencije o otklanjanju nezakonitosti i nepravilnosti u zadanom roku
+
+6. ako društvo za zastupanje u osiguranju postupa protivno odredbi članka 399. ovoga Zakona ili ako obavlja poslove za koje nije ovlašten
+
+7. ako su prestali postojati uvjeti iz stavka 3. ovoga članka.
+
+(6) Dozvola za obavljanje djelatnosti zastupanja u osiguranju prestaje važiti, a društvo za zastupanje u osiguranju briše se iz registra društava za zastupanje u osiguranju koji Agencija vodi u skladu s člankom 432. ovoga Zakona:
+
+1. ako društvo za zastupanje u osiguranju ne počne poslovati u roku od šest mjeseci od izdavanja dozvole
+
+2. ako društvo za zastupanje u osiguranju ne obavlja poslove zastupanja u osiguranju dulje od šest mjeseci
+
+3. otvaranjem postupka likvidacije ili stečaja nad društvom za zastupanje u osiguranju
+
+4. donošenjem odluke o prestanku poslovanja društva za zastupanje u osiguranju
+
+5. dovršetkom statusne promjene zbog koje društvo za zastupanje u osiguranju prestaje postojati.
+
+(7) O nastupanju okolnosti iz stavka 6. ovoga članka društvo za zastupanje u osiguranju dužno je bez odgađanja pisano obavijestiti Agenciju.
+
+(8) Ako nastupi razlog iz stavka 6. točaka 1., 2. ili 4. ovoga Zakona, Agencija će donijeti rješenje kojim će utvrditi da je dozvola za obavljanje poslova zastupanja u osiguranju prestala važiti.
+
+*Obavljanje djelatnosti posredovanja u osiguranju i reosiguranju*
+
+##### Članak 421.
+
+(1) Poslove posredovanja u osiguranju i reosiguranju može obavljati:
+
+1. društvo za posredovanje u osiguranju i reosiguranju sa sjedištem u Republici Hrvatskoj koje ima dozvolu Agencije za obavljanje poslova posredovanja u osiguranju i reosiguranju
+
+2. društvo za posredovanje u osiguranju i reosiguranje države članice koje u skladu s ovim Zakonom ima pravo obavljati poslove posredovanja u osiguranju i reosiguranju na području Republike Hrvatske neposredno ili preko podružnice.
+
+(2) Društvo za posredovanje u osiguranju i reosiguranju smije obavljati samo poslove posredovanja u osiguranju i obavljati druge poslove u skladu s ovim Zakonom.
+
+(3) Društvo za posredovanje u osiguranju i reosiguranju iz stavka 1. ovoga članka ne smije obavljati poslove zastupanja u osiguranju.
+
+(4) Društvo za posredovanje u osiguranju i reosiguranju može osim poslova posredovanja u osiguranju i reosiguranju obavljati i poslove nuđenja udjela investicijskih fondova te poslove ponude mirovinskih programa dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava u skladu s odredbama zakona kojim se uređuje poslovanje investicijskih fondova, dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava, kao i surađivati s drugim osobama ovlaštenim za obavljanje poslova posredovanja u osiguranju i reosiguranju u obavljanju poslova posredovanja u osiguranju i reosiguranju pod uvjetima propisanim pravilnikom Agencije.
+
+*Dozvola za obavljanje djelatnosti posredovanja u osiguranju i reosiguranju*
+
+##### Članak 422.
+
+(1) Društvo za posredovanje u osiguranju i reosiguranju mora prije upisa o osnivanju u sudski registar dobiti dozvolu Agencije za obavljanje poslova posredovanja u osiguranju i reosiguranju.
+
+(2) Agencija će izdati dozvolu za obavljanje djelatnosti posredovanja u osiguranju i reosiguranju na zahtjev osnivača ili pravne osobe namjerava obavljati poslove posredovanja u osiguranju odnosno reosiguranju u skladu s odredbama ovoga Zakona.
+
+(3) Zahtjevu za izdavanje dozvole za obavljanje poslova posredovanja u osiguranju i reosiguranju podnositelj zahtjeva dužan je priložiti dokaze iz kojih proizlazi da ispunjava uvjete:
+
+1. temeljni kapital uplaćen u novcu u iznosu od najmanje 200.000,00 kuna
+
+2. najmanje dva posrednika u osiguranju i reosiguranju koji će na temelju ugovora o radu biti zaposleni na puno radno vrijeme
+
+3. da s društvom za osiguranje, drugim društvom za posredovanje u osiguranju i reosiguranju, odnosno društvom za zastupanje u osiguranju nije u odnosu uske povezanosti u smislu ovoga Zakona
+
+4. da nije pravomoćno osuđen za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.), i to:
+
+– glava XXIV. – kaznena djela protiv gospodarstva, odnosno za kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 110/97., 27/98., 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 143/12.), i to:
+
+– glava XXI. – kaznena djela protiv sigurnosti platnog prometa i poslovanja i
+
+– da nije pravomoćno osuđen za kaznena djela iz zakona drugih država članica ili trećih država koja po svom opisu odgovaraju navedenim kaznenim djelima.
+
+(4) Član uprave, odnosno direktor društva za posredovanje u osiguranju i reosiguranju mora imati ovlaštenje Agencije iz članka 417. stavka 1. ovoga Zakona i biti u tom društvu zaposlen na puno radno vrijeme.
+
+(5) Agencija će ukinuti ili poništiti rješenje kojim je dala dozvolu za obavljanje poslova posredovanja u osiguranju i reosiguranju u sljedećim slučajevima:
+
+1. ako je dozvola pribavljena navođenjem neistinitih podataka
+
+2. ako društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju koji radi za društvo učestalo krši odredbe članaka 411. i 424. ovoga Zakona
+
+3. ako društvo za posredovanje u osiguranju i reosiguranju nema osiguranu odgovornost u skladu s člankom 410. ovoga Zakona
+
+4. ako društvo za posredovanje u osiguranju i reosiguranju učestalo krši obveze pravodobnog i potpunog izvještavanja Agencije određene ovim Zakonom i propisima donesenim na temelju njega
+
+5. ako društvo za posredovanje u osiguranju i reosiguranju ne izvršava rješenja Agencije o otklanjanju nezakonitosti i nepravilnosti u zadanom roku
+
+6. ako društvo za posredovanje u osiguranju i reosiguranju postupa protivno odredbi članka 406. ovoga Zakona ili ako obavlja poslove za koje nije ovlašten
+
+7. ako su prestali postojati uvjeti iz stavka 3. ovoga članka.
+
+(6) Dozvola za obavljanje poslova posredovanja u osiguranju i reosiguranju prestaje važiti, a društvo za posredovanje u osiguranju i reosiguranju briše se iz registra društava za posredovanje u osiguranju i reosiguranju koji Agencija vodi u skladu s člankom 432. ovoga Zakona:
+
+1. ako društvo za posredovanje u osiguranju i reosiguranju ne počne poslovati u roku od šest mjeseci od izdavanja dozvole
+
+2. ako društvo za posredovanje u osiguranju i reosiguranju ne obavlja poslove posredovanja u osiguranju i reosiguranju dulje od šest mjeseci
+
+3. po sili zakona, otvaranjem postupka likvidacije ili stečaja nad društvom za posredovanje u osiguranju i reosiguranju
+
+4. donošenjem odluke o prestanku poslovanja društva za posredovanje u osiguranju i reosiguranju
+
+5. po sili zakona dovršetkom statusne promjene zbog koje društvo za posredovanje u osiguranju i reosiguranju prestaje postojati.
+
+(7) O nastupanju okolnosti iz stavka 6. ovoga članka društvo za posredovanje u osiguranju i reosiguranju dužno je bez odgađanja pisano obavijestiti Agenciju.
+
+(8) Ako nastupi razlog iz stavka 6. točaka 1., 2. ili 4. ovoga Zakona, Agencija će donijeti rješenje kojim će utvrditi da je dozvola za obavljanje poslova posredovanja u osiguranju i reosiguranju prestala važiti.
+
+*Pripajanje i spajanje*
+
+##### Članak 423.
+
+(1) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju koje pripoji drugo društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju mora prije upisa odluke o pripajanju u sudski registar od Agencije dobiti odobrenje za pripajanje.
+
+(2) Društva za zastupanje u osiguranju, odnosno društva za posredovanje u osiguranju i reosiguranju koja se spajaju moraju prije upisa odluke o spajanju u sudski registar od Agencije dobiti odobrenje za spajanje te dozvolu za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju za novo društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju koje je nastalo njihovim spajanjem.
+
+(3) Danom upisa novog društva za zastupanje u osiguranju, odnosno novog društva za posredovanje u osiguranju i reosiguranju u sudski registar prestaju postojati društva za zastupanje u osiguranju, odnosno društva za posredovanje u osiguranju i reosiguranju koja se spajaju, a njihove dozvole za obavljanje poslova za zastupanje u osiguranju, odnosno posredovanje u osiguranju i reosiguranju prestaju vrijediti.
+
+*Obveza posrednika u osiguranju i reosiguranju i zastupnika u osiguranju o pružanju informacija*
+
+##### Članak 424.
+
+(1) Zastupnik u osiguranju, odnosno posrednik u osiguranju i reosiguranju dužan je prije sklapanja ugovora o osiguranju, odnosno ugovora o reosiguranju, kao i pri izmjenama i dopunama, odnosno obnavljanju ugovora dati ugovaratelju osiguranja, odnosno ugovaratelju reosiguranja sljedeće podatke:
+
+1. ime i prezime te adresu
+
+2. registar u kojem je prijavljen i način njegove provjere
+
+3. društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju u kojem radi
+
+4. nazive društava za osiguranje, odnosno društava za reosiguranje s kojima ima sklopljen ugovor
+
+5. podatke o izvansudskom postupku rješavanja sporova i internom postupku rješavanja pritužbi zainteresiranih osoba iz članka 377. ovoga Zakona
+
+6. podatke o povezanosti s društvom za osiguranje kad je s društvom za osiguranje u odnosu uske povezanosti prema ovom Zakonu
+
+7. ostale informacije iz članka 380. ovoga Zakona.
+
+(2) Posrednik u osiguranju i reosiguranju dužan je analizu iz članka 411. stavka 2. točke 1. ovoga Zakona izraditi na temelju primjereno velikog broja ugovora o osiguranju, odnosno ugovora o reosiguranju dostupnih na tržištu koji mu omogućavaju davanje preporuka u skladu sa stručnim kriterijima, kako bi ugovaratelj osiguranja, odnosno reosiguranja sklapanjem takva ugovora ostvario svoje potrebe i zahtjeve.
+
+(3) Posrednik u osiguranju i reosiguranju prije sklapanja ugovora dužan je na temelju podataka dobivenih od ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika odrediti potrebe i želje, kao i razloge za savjete ugovaratelju osiguranja, ugovaratelju reosiguranja, odnosno osiguraniku vezano za ugovore o osiguranju, odnosno reosiguranju.
+
+*Oblik pružanja informacija posrednika u osiguranju i reosiguranju, odnosno zastupnika u osiguranju*
+
+##### Članak 425.
+
+(1) Podaci iz članka 424. ovoga Zakona daju se ugovaratelju osiguranja, odnosno ugovaratelju reosiguranja:
+
+1. u pisanom obliku na papiru ili na drugom trajnom mediju koji je dostupan ugovaratelju osiguranja, odnosno ugovaratelju reosiguranja
+
+2. na način razumljiv ugovaratelju osiguranja, odnosno ugovaratelju reosiguranja
+
+3. na hrvatskom jeziku, ako nije drukčije dogovoreno.
+
+(2) Iznimno od stavka 1. ovoga članka, podaci se mogu dati usmeno na zahtjev ugovaratelja osiguranja, odnosno ugovaratelja reosiguranja ili kada je pokriće rizika potrebno odmah.
+
+(3) U slučajevima iz stavka 2. ovoga članka podaci se moraju dati na način propisan stavkom 1. ovoga članka neposredno nakon sklapanja ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+*Obveza društva za osiguranje*
+
+##### Članak 426.
+
+Društvo za osiguranje ne smije omogućiti da poslove zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju obavljaju druge osobe osim osoba iz članaka 418. i 421. ovoga Zakona.
+
+*Obveza društva za zastupanje u osiguranju, odnosno društva za posredovanje u osiguranju i reosiguranju*
+
+##### Članak 427.
+
+(1) Društvo za zastupanje u osiguranju ne smije omogućiti da poslove zastupnika u osiguranju za to društvo obavljaju druge osobe osim osoba iz članka 400. ovoga Zakona.
+
+(2) Društvo za posredovanje u osiguranju i reosiguranju ne smije omogućiti da poslove posrednika u osiguranju i reosiguranju za to društvo obavljaju druge osobe osim osoba iz članka 407. ovoga Zakona.
+
+(3) Na društvo za zastupanje u osiguranju i društvo za posredovanje u osiguranju i reosiguranju na odgovarajući se način primjenjuju i:
+
+1. propisi kojima se reguliraju obvezna osiguranja iz članka 4. stavka 2. ovoga Zakona
+
+2. propisi u Republici Hrvatskoj koji se odnose na obvezu čuvanja poslovne tajne, zaštitu potrošača te propisi kojima se uređuje sprječavanje pranja novca i financiranja terorizma.
+
+*Provizija*
+
+##### Članak 428.
+
+(1) Društvo za zastupanje u osiguranju, odnosno zastupnik u osiguranju nema pravo od ugovaratelja osiguranja, odnosno osiguranika zahtijevati plaćanje provizije ili bilo kakvu drugu naplatu.
+
+(2) Društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju nema pravo od ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika zahtijevati plaćanje provizije ili kakvu drugu naplatu osim ako nije ugovorom s ugovarateljem osiguranja, odnosno s ugovarateljem reosiguranja izričito pismeno drukčije ugovoreno.
+
+(3) Društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju pravo na proviziju stječe početkom važenja ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+(4) Ako je ugovorom s ugovarateljem osiguranja, odnosno s ugovarateljem reosiguranja iz stavka 2. ovoga članka izričito pisano ugovoreno da društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju ima pravo na proviziju ili bilo kakvu drugu naplatu, nema pravo od društva za osiguranje zahtijevati proviziju ili bilo kakvu drugu naplatu po istom ugovoru o osiguranju, odnosno ugovoru o reosiguranju u kojima je posredovao.
+
+(5) Društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju ne smije se naknadno dogovoriti o promjeni načina obračuna, odnosno o visini provizije za sklopljene ugovore o osiguranju, odnosno ugovore o reosiguranju u kojima je posredovao.
+
+*Poslovne knjige i financijski izvještaji*
+
+##### Članak 429.
+
+(1) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju dužno je voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze te sastavljati financijske izvještaje u skladu sa Zakonom o trgovačkim društvima, Zakonom o računovodstvu i drugim propisima, poštujući pritom računovodstvene i financijske standarde i načela te opće računovodstvene pretpostavke, ako to ovim Zakonom nije drukčije propisano.
+
+(2) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju sastavlja polugodišnje i godišnje financijsko izvješće te statistička izvješća.
+
+(3) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju dužno je Agenciji dostaviti godišnje financijsko izvješće najkasnije u roku od tri mjeseca nakon isteka kalendarske godine, a polugodišnje financijsko izvješće najkasnije u roku od 30 dana nakon isteka polugodišta za koje se izvješće sastavlja.
+
+(4) Obrt za zastupanje, društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju, kreditna institucija, Financijska agencija, HP-Hrvatska pošta d. d. i investicijsko društvo dužno je Agenciji dostaviti polugodišnje statističko izvješće u roku od 30 dana od proteka polugodišta za koje se izvješće sastavlja. Godišnje statističko izvješće dostavlja se najkasnije u roku od tri mjeseca nakon isteka kalendarske godine.
+
+(5) Agencija će pravilnikom propisati oblik i sadržaj izvješća iz stavaka 2. i 4. ovoga članka.
+
+*Izvještavanje*
+
+##### Članak 430.
+
+(1) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju dužno je Agenciju izvještavati i o sljedećem:
+
+1. o promjeni podataka koji se upisuju u sudski registar
+
+2. o strukturi i opsegu poslova zastupanja u osiguranju, odnosno poslova posredovanja u osiguranju i reosiguranju prema društvima za osiguranje, odnosno društvima za reosiguranje koje je obavilo u pojedinoj godini
+
+3. o ispunjavanju obveza iz članka 403., odnosno članka 410. ovoga Zakona.
+
+(2) Odredba stavka 1. točke 3. ovoga članka primjenjuje se i na investicijska društva.
+
+*Suradnja s drugim nadležnim nadzornim tijelima*
+
+##### Članak 431.
+
+Nadležna nadzorna tijela razmjenjuju informacije o osobama koje obavljaju djelatnost zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju ako su protiv njih poduzete nadzorne mjere koje bi za posljedicu mogle imati brisanje tih osoba iz registra iz članka 432. stavka 1. ovoga Zakona. Nadležna nadzorna tijela mogu također razmjenjivati sve bitne informacije na međusobni zahtjev.
+
+*Registar zastupnika u osiguranju i posrednika u osiguranju i reosiguranju*
+
+##### Članak 432.
+
+(1) Agencija vodi registar:
+
+1. društava za zastupanje u osiguranju koja imaju, u skladu s ovim Zakonom, na području Republike Hrvatske pravo obavljati poslove zastupanja u osiguranju
+
+2. društava za posredovanje u osiguranju i reosiguranju koja imaju, u skladu s ovim Zakonom, na području Republike Hrvatske pravo obavljati poslove posredovanja u osiguranju i reosiguranju
+
+3. zastupnika u osiguranju
+
+4. posrednika u osiguranju i reosiguranju.
+
+(2) Registri iz stavka 1. ovoga članka su javni.
+
+(3) Registri društava za zastupanje u osiguranju, odnosno društava za posredovanje u osiguranju i reosiguranju moraju sadržavati podatke o odgovornim osobama društva za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju.
+
+(4) Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su pisano izvještavati Agenciju o promjeni podataka koje Agencija vodi u registru.
+
+*Propis o zastupnicima u osiguranju, odnosno posrednicima u osiguranju i reosiguranju i dostavljanju izvješća Agenciji*
+
+##### Članak 433.
+
+Agencija će pravilnikom detaljnije propisati:
+
+1. uvjete za stjecanje i provjeru stručnih znanja potrebnih za dobivanje ovlaštenja za obavljanje poslova zastupanja u osiguranju iz članka 415. ovoga Zakona, odnosno posredovanja u osiguranju i reosiguranju iz članka 417. ovoga Zakona
+
+2. oblik, sadržaj i pravila o načinu vođenja registra iz članka 432. ovoga Zakona i dostavi podataka koje sadržava registar
+
+3. oblik i sadržaj izvješća iz članka 430. ovoga Zakona te rokove i način izvještavanja
+
+4. oblik i sadržaj izvješća te rokove i način na koji će druge osobe iz članka 418. ovoga Zakona, koje obavljaju poslove zastupanja u osiguranju, izvještavati Agenciju.
+
+*Društva za zastupanje u osiguranju, odnosno društva za posredovanje u osiguranju i reosiguranju iz drugih država članica*
+
+##### Članak 434.
+
+(1) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju države članice je pravna osoba sa sjedištem u državi članici koja je dobila dozvolu nadležnog nadzornog tijela za obavljanje poslova zastupanja u osiguranju, odnosno poslova posredovanja u osiguranju i reosiguranju.
+
+(2) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju države članice djelatnost zastupanja u osiguranju, odnosno djelatnost posredovanja u osiguranju i reosiguranju na području Republike Hrvatske može obavljati neposredno ili preko podružnice.
+
+(3) Na društva za zastupanje u osiguranju iz stavka 2. ovoga članka na odgovarajući se način primjenjuje: članak 77., članak 211., članak 399., članak 400., članak 401., članak 404., članak 405., članak 414., članak 418., članak 419., članak 424., članak 425., članak 427., članak 428. i članak 432. ovoga Zakona glede poslova koje društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju obavlja na području Republike Hrvatske.
+
+(4) Na društva za posredovanje u osiguranju i reosiguranju iz stavka 2. ovoga članka na odgovarajući se način primjenjuje: članak 77., članak 211., članci 406. – 412., članak 414., članak 421., članak 424., članak 425., članak 427., članak 428. i članak 432. ovoga Zakona glede poslova koje društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju obavlja na području Republike Hrvatske.
+
+*Obavljanje djelatnosti zastupanja u osiguranju, odnosno djelatnosti posredovanja u osiguranju i reosiguranju u drugoj državi članici*
+
+##### Članak 435.
+
+(1) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju čije je sjedište u Republici Hrvatskoj, na području druge države članice može obavljati djelatnost zastupanja u osiguranju, odnosno djelatnost posredovanja u osiguranju i reosiguranju za koju je dobilo dozvolu Agencije, neposredno ili preko podružnice, ako ispunjava uvjete određene propisima te države članice.
+
+(2) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju koje namjerava započeti s obavljanjem djelatnosti zastupanja u osiguranju, odnosno djelatnosti posredovanja u osiguranju i reosiguranju u drugoj državi članici dužno je o tome obavijestiti Agenciju.
+
+(3) Agencija je dužna obavijest iz stavka 2. ovoga članka u roku od mjesec dana proslijediti nadležnom nadzornom tijelu države članice, ako je ono to zatražilo od Europske komisije, te o tome obavijestiti društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju.
+
+(4) Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju može započeti obavljati djelatnost zastupanja u osiguranju, odnosno djelatnost posredovanja u osiguranju i reosiguranju u drugoj državi članici istekom mjesec dana od dana primitka obavijesti Agencije navedene u stavku 3. ovoga članka. Društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju može odmah započeti obavljati djelatnost zastupanja u osiguranju, odnosno djelatnost posredovanja u osiguranju i reosiguranju ako nadležno nadzorno tijelo države članice nije zatražilo obavijest iz stavka 3. ovoga članka.
+
+(5) Odredbe ovoga članka na odgovarajući se način primjenjuju na obavljanje poslova zastupnika u osiguranju, odnosno posrednika u osiguranju i reosiguranju u drugoj državi članici.
+
+(6) Država članica dužna je dostaviti obavijest Europskoj komisiji ako želi biti obaviještena u skladu sa stavkom 3. ovoga članka.
+
+*Početak obavljanja djelatnosti zastupanja u osiguranju, odnosno djelatnosti posredovanja u osiguranju i reosiguranju društva sa sjedištem u drugoj državi članici*
+
+##### Članak 436.
+
+(1) Društvo za zastupanje u osiguranju, odnosno posredovanje u osiguranju i reosiguranju iz članka 434. stavka 1. ovoga Zakona koje namjerava obavljati djelatnost zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju u Republici Hrvatskoj dužno je o tome obavijestiti nadležno nadzorno tijelo države članice u kojoj ima sjedište.
+
+(2) Nadzorno tijelo iz stavka 1. ovoga članka dužno je obavijest iz stavka 1. ovoga članka u roku od mjesec dana proslijediti Agenciji.
+
+(3) Društvo za zastupanje u osiguranju, odnosno posredovanje u osiguranju i reosiguranju iz članka 434. stavka 1. ovoga Zakona može započeti obavljati djelatnost zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju u Republici Hrvatskoj istekom mjesec dana od dana primitka obavijesti nadzornog tijela navedene u stavku 2. ovoga članka.
+
+(4) Odredbe ovoga članka i članka 434. ovoga Zakona na odgovarajući se način primjenjuju na obavljanje poslova zastupnika u osiguranju, odnosno posrednika u osiguranju i reosiguranju iz drugih država članica u Republici Hrvatskoj.
+
+(5) Nadzorna tijela država članica dužna su međusobno razmjenjivati podatke i informacije koje se odnose na zastupnike u osiguranju, posrednike u osiguranju i reosiguranju te na društva za zastupanje u osiguranju, odnosno posredovanje u osiguranju i reosiguranju, posebice kad su protiv njih određene mjere zbog nepoštivanja zakona države u kojoj obavljaju djelatnost zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju.
+
+(6) Na nadzor osoba iz drugih država članica koje neposredno ili preko podružnice u Republici Hrvatskoj pružaju usluge zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju na odgovarajući se način primjenjuju članci 72., 73. i 76. ovoga Zakona.
+
+## GLAVA XXIV. — PREKRŠAJNE ODREDBE
+
+*Prekršaji društva za osiguranje, odnosno društva za reosiguranje*
+
+##### Članak 437.
+
+(1) Novčanom kaznom u iznosu od 500.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj društvo za osiguranje, odnosno društvo za reosiguranje ako:
+
+1. obavlja poslove osiguranja protivno članku 17. stavku 1. i 3. ovoga Zakona
+
+2. ne ograniči svoje ciljeve na poslove osiguranja u skladu s člankom 20. stavcima 1. i 6. ovoga Zakona
+
+3. ne ograniči svoje ciljeve na poslove reosiguranja, povezane poslove i/ili poslove koji izravno proizlaze iz reosiguranja u skladu s člankom 20. stavkom 2. ovoga Zakona
+
+4. obavlja druge djelatnosti osim poslova navedenih u članku 20. stavku 3. ovoga Zakona
+
+5. ne vodi poslove osiguranja u skladu s člankom 20. stavkom 4. ovoga Zakona
+
+6. obavlja poslove osiguranja protivno članku 21. stavku 1. ovoga Zakona
+
+7. ne postupa u skladu s člankom 21. stavkom 2. ovoga Zakona
+
+8. ako provede pripajanje, spajanje ili podjelu bez odobrenja iz članka 48. stavka 1. ovoga Zakona
+
+9. ako preuzme portfelj osiguranja ili portfelj reosiguranja bez odobrenja iz članka 86. stavka 2. ovoga Zakona
+
+10. ako prenese portfelj osiguranja ili portfelj reosiguranja bez odobrenja iz članka 87. stavka 1. ovoga Zakona
+
+11. ako preuzme portfelj osiguranja ili portfelj reosiguranja bez odobrenja iz članka 88. stavka 1. ovoga Zakona
+
+12. posluje protivno članku 92. stavku 1. ovoga Zakona
+
+13. ne imenuje nositelje ključnih funkcija u skladu s člankom 93. stavkom 2. ovoga Zakona
+
+14. ne obavlja vlastitu procjenu rizika i solventnosti u skladu s člankom 96. stavkom 1. ovoga Zakona
+
+15. ne obavijesti Agenciju u skladu s člankom 104. stavkom 6. ovoga Zakona
+
+16. ne vrednuje imovinu i obveze u skladu s člankom 105. stavkom 1. ovoga Zakona
+
+17. ne ishodi odobrenje u skladu s člankom 124. stavkom 3. ovoga Zakona
+
+18. ne razvrstava stavke vlastitih sredstava u skladu s člankom 125. stavkom 1. ovoga Zakona
+
+19. u vezi s pokrićem potrebnog solventnog kapitala društva za osiguranje ne postupi u skladu s člankom 128. stavkom 2. ovoga Zakona
+
+20. u vezi s pokrićem minimalnog potrebnog kapitala društva za osiguranje ne postupi u skladu s člankom 129. stavkom 2. ovoga Zakona
+
+21. ne izračunava potrebni solventni kapital i/ili ne podnese Agenciji izvješće u skladu s člankom 132. stavkom 1. ovoga Zakona
+
+22. izračun potrebnog solventnog kapitala standardnom formulom ne provodi u skladu s člankom 133. ovoga Zakona
+
+23. za izračun potrebnog solventnog kapitala koristi potpuni ili djelomični unutarnji model protivno članku 143. stavku 1. ovoga Zakona
+
+24. izvrši izmjene unutarnjeg modela i/ili politike protivno članku 145. stavku 2. ovoga Zakona
+
+25. ne izračunava minimalni potrebni kapital u skladu s člankom 157. stavkom 2. ovoga Zakona
+
+26. ne izračunava minimalni potrebni kapital i/ili ne izvijesti Agenciju u skladu s člankom 158. stavkom 3. ovoga Zakona
+
+27. ne ulaže imovinu, odnosno ne osigura upravljanje imovinom u skladu s člankom 159. stavkom 1. ovoga Zakona
+
+28. ne ulaže imovinu, odnosno ne osigura upravljanje imovinom u skladu s člankom 159. stavkom 2. ovoga Zakona
+
+29. ne ulaže imovinu, odnosno ne osigura upravljanje imovinom u skladu s člankom 159. stavkom 3. ovoga Zakona
+
+30. ne ulaže imovinu u skladu s člankom 160. stavkom 1. ovoga Zakona
+
+31. ne ulaže imovinu, odnosno ne osigura upravljanje imovinom u skladu s člankom 160. stavkom 3. ovoga Zakona
+
+32. ne ulaže imovinu, odnosno ne osigura upravljanje imovinom u skladu s člankom 160. stavkom 4. ovoga Zakona
+
+33. nema vrijednost imovine za pokriće matematičke pričuve najmanje jednakoj visini tehničkih pričuva prema računovodstvenim propisima u skladu s člankom 180. stavkom 3. ovoga Zakona
+
+34. ne osigura da vrijednost imovine za pokriće tehničkih pričuva prema računovodstvenim propisima bude u skladu s člankom 180. stavkom 4. ovoga Zakona
+
+35. ne postupi u skladu s člankom 180. stavkom 6. ovoga Zakona
+
+36. ne vodi registar u skladu s člankom 181. stavkom 1. ovoga Zakona
+
+37. ne vodi odvojene registre u skladu s člankom 181. stavkom 2. ovoga Zakona
+
+38. ne imenuje ovlaštenog aktuara u skladu s člankom 187. stavkom 1. ovoga Zakona
+
+39. ne postupa u skladu s člankom 190. stavkom 1. ovoga Zakona
+
+40. ne postupa u skladu s člankom 190. stavkom 2. ovoga Zakona
+
+41. ne osigura da su prihvatljiva vlastita sredstva raspoloživa unutar grupe i/ili da su uvijek barem jednaka potrebnom solventnom kapitalu u skladu s člankom 303. stavkom 2. ovoga Zakona
+
+42. ne osigura da su prihvatljiva vlastita sredstva raspoloživa unutar grupe i/ili da su uvijek barem jednaka potrebnom solventnom kapitalu u skladu s člankom 303. stavkom 3. ovoga Zakona
+
+43. ne provodi na razini grupe vlastitu procjenu rizika i solventnosti u skladu s člankom 328. stavkom 5. ovoga Zakona
+
+44. protivno članku 385. stavku 1. podstavku 2. ovoga Zakona prilikom pružanja promidžbenih informacija ne navede točan i/ili jasan opis osigurateljnog proizvoda, propisane obveze, projekciju prinosa i/ili mogućnost gubitka te opis rizika koji iz takvog proizvoda proizlazi
+
+45. ne potkrijepi vjerodostojnim dokazima činjenice koje iznosi u promidžbenim informacijama u skladu s člankom 385. stavkom 1. podstavkom 3. ovoga Zakona
+
+46. promidžbene informacije koje pruža nisu jednako i/ili istoznačno zastupljene u skladu s člankom 385. stavkom 1. podstavkom 5. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za osiguranje, odnosno društva za reosiguranje.
+
+##### Članak 438.
+
+(1) Novčanom kaznom u iznosu od 75.000,00 do 150.000,00 kuna kaznit će se za prekršaj društvo za osiguranje, odnosno društvo za reosiguranje koje:
+
+1. ne obavijesti Agenciju u skladu s člankom 62. stavkom 1. ovoga Zakona
+
+2. o izmjenama sadržaja podataka ne obavijesti Agenciju u skladu s člankom 62. stavkom 7. ovoga Zakona
+
+3. ne obavijesti Agenciju u skladu s člankom 63. stavkom 1. ovoga Zakona
+
+4. počne obavljati poslove osiguranja protivno članku 63. stavku 4. ovoga Zakona
+
+5. o promjeni podataka ne obavijesti Agenciju u skladu s člankom 63. stavkom 5. ovoga Zakona
+
+6. je osnovalo podružnicu protivno članku 65. stavku 2. ovoga Zakona
+
+7. kao društvo preuzimatelj ne ishodi odobrenje Agencije u skladu s člankom 86. stavkom 2. ovoga Zakona
+
+8. ne obavijesti Agenciju u skladu s člankom 93. stavkom 10. ovoga Zakona
+
+9. protivno članku 111. stavku 1. ovoga Zakona primijeni prilagodbu za uravnoteženje na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene obveza iz ugovora o osiguranju s obilježjima životnih osiguranja, uključujući rente iz neživotnih osiguranja, odnosno obveza iz ugovora o reosiguranju bez prethodnog odobrenja Agencije
+
+10. pri primjeni prilagodbe za uravnoteženje na portfelj obveza iz ugovora o osiguranju i/ili reosiguranju ne obavijesti Agenciju u skladu s člankom 111. stavkom 6. ovoga Zakona
+
+11. protivno članku 113. stavku 1. ovoga Zakona koristi prilagodbu za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa, bez prethodnog odobrenja Agencije
+
+12. ne dostavi Agenciji plan u skladu s člankom 148. stavkom 1. ovoga Zakona
+
+13. ne uspostavi postupke za utvrđivanje pogoršanja financijskog stanja u skladu s člankom 163. stavkom 1. ovoga Zakona
+
+14. ne obavijesti Agenciju o pogoršanju financijskog stanja u skladu s člankom 163. stavkom 2. ovoga Zakona
+
+15. ne obavijesti Agenciju o neusklađenosti s potrebnim solventnim kapitalom u skladu s člankom 165. stavkom 1. ovoga Zakona
+
+16. ne dostavi Agenciji na odobrenje realan plan oporavka u skladu s člankom 165. stavkom 3. ovoga Zakona
+
+17. ne obavijesti Agenciju o neusklađenosti s minimalnim potrebnim kapitalom u skladu s člankom 166. stavkom 1. ovoga Zakona
+
+18. ne dostavi Agenciji na odobrenje realan kratkoročni financijski plan u skladu s člankom 166. stavkom 3. ovoga Zakona
+
+19. ne izradi ili ne objavi izvješće o solventnosti i financijskom stanju u skladu s člankom 168. stavkom 1. ovoga Zakona
+
+20. ne objavljuje odgovarajuće informacije u skladu s člankom 170. stavkom 1. ovoga Zakona
+
+21. ne uspostavi odgovarajuće sustave i strukture u skladu s člankom 171. stavkom 1. ovoga Zakona
+
+22. ne obavijesti Agenciju o imenovanju ovlaštenog aktuara u skladu s člankom 187. stavkom 3. ovoga Zakona
+
+23. ne dostavi Agenciji revizorsko izvješće o obavljenoj reviziji i/ili godišnje izvješće i konsolidirano izvješće u skladu s člankom 192. stavkom 1. ovoga Zakona
+
+24. ne dostavi Agenciji u roku iz članka 193. ovoga Zakona izvješće imenovanog ovlaštenog aktuara iz članka 188. stavka 4. ovoga Zakona s mišljenjem imenovanog ovlaštenog aktuara o oblikovanju i dostatnosti premija i tehničkih pričuva prema računovodstvenim propisima u skladu s člankom 193. ovoga Zakona
+
+25. ne izvještava Agenciju u skladu s člankom 201. stavkom 4. ovoga Zakona
+
+26. ne vodi i/ili ne obrađuje statističke podatke u skladu s člankom 202. stavkom 1. ovoga Zakona
+
+27. ne dostavi podatke Agenciji u skladu s člankom 215. stavkom 6. ovoga Zakona
+
+28. na zahtjev Agencije ne postupi u skladu s člankom 221. stavkom 1. ovoga Zakona
+
+29. ne omogući obavljanje neposrednog nadzora u skladu s člankom 223. stavkom 1. ovoga Zakona
+
+30. ne omogući pregled poslovnih knjiga i/ili poslovne dokumentacije i/ili administrativne ili poslovne evidencije ili nadzor nad informacijskim sustavom i tehnologijama koje omogućavaju rad informacijskog sustava u skladu s člankom 223. stavkom 2. ovoga Zakona
+
+31. na zahtjev ovlaštene osobe Agencije ne preda dokumentaciju u skladu s člankom 225. stavkom 2. ovoga Zakona
+
+32. ne podnese izvješće Agenciji u skladu s člankom 326. stavkom 1. ovoga Zakona
+
+33. ne podnese izvješće Agenciji u skladu s člankom 327. stavkom 1. ovoga Zakona
+
+34. ne preda ili ne dostavi ugovaratelju osiguranja pisanu obavijest u skladu s člankom 380. stavkom 1. ovoga Zakona
+
+35. pisanu obavijest ne sastavi u skladu s člankom 380. stavkom 2. ovoga Zakona
+
+36. pisana obavijest ne sadržava podatke u skladu s člankom 380. stavkom 5. ovoga Zakona
+
+37. prije sklapanja ugovora ne preda ili ne dostavi ugovaratelju osiguranja pisanu obavijest u skladu s člankom 380. stavkom 6. ovoga Zakona
+
+38. o promjeni podataka ne obavijesti ugovaratelja osiguranja u skladu s člankom 381. stavkom 1. ovoga Zakona
+
+39. ne obavijesti ugovaratelja osiguranja o stanju sudjelovanja u dobiti u skladu s člankom 381. stavkom 3. ovoga Zakona
+
+40. ne obavijesti ugovaratelja osiguranja o stanju vrijednosti imovine po polici osiguranja u slučaju osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja društvo za osiguranje u skladu s člankom 381. stavkom 4. ovoga Zakona
+
+41. poslove pripreme i/ili sklapanja ugovora o osiguranju u stanicama za tehnički pregled vozila obavlja protivno članku 419. stavku 3. ovoga Zakona
+
+42. protivno članku 426. ovoga Zakona omogući da poslove zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju obavljaju druge osobe osim osoba iz članaka 418. stavaka 1. i 4. i članka 421. stavka 1. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 40.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za osiguranje, odnosno društva za reosiguranje.
+
+*Prekršaji društva za osiguranje, odnosno društva za reosiguranje iz druge države članice*
+
+##### Članak 439.
+
+(1) Novčanom kaznom u iznosu od 500.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj društvo za osiguranje, odnosno društvo za reosiguranje iz druge države članice, odnosno njihova podružnica u Republici Hrvatskoj ako:
+
+1. društvo za osiguranje postupi protivno članku 66. stavku 2. ovoga Zakona
+
+2. društvo za osiguranje postupi protivno članku 66. stavku 5. ovoga Zakona
+
+3. društvo za osiguranje postupi protivno članku 66. stavku 8. ovoga Zakona
+
+4. društvo za osiguranje postupi protivno članku 67. stavku 4. ovoga Zakona
+
+5. na zahtjev Agencije ne postupi u skladu s člankom 72. stavkom 1. ovoga Zakona
+
+6. društvo za osiguranje ne otkloni nepravilnosti u skladu s člankom 73. stavkom 1. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za osiguranje, odnosno društva za reosiguranje.
+
+(3) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u podružnici društva za osiguranje, odnosno društva za reosiguranje.
+
+*Prekršaji društva za osiguranje, odnosno društva za reosiguranje iz treće države*
+
+##### Članak 440.
+
+(1) Novčanom kaznom u iznosu od 500.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj društvo za osiguranje, odnosno društvo za reosiguranje, odnosno njihova podružnica ako:
+
+1. obavlja poslove osiguranja u Republici Hrvatskoj protivno članku 78. stavku 1. ovoga Zakona
+
+2. obavlja poslove reosiguranja u Republici Hrvatskoj preko podružnice protivno članku 78. stavku 1. ovoga Zakona
+
+3. ne obavijesti Agenciju u skladu s člankom 79. stavkom 4. ovoga Zakona
+
+4. započne obavljanje poslova protivno članku 79. stavku 5. ovoga Zakona
+
+5. ne oblikuje tehničke pričuve u skladu s člankom 80. stavkom 1. ovoga Zakona
+
+6. ne vrednuje imovinu i obveze i/ili ne utvrđuje vlastita sredstva u skladu s člankom 80. stavkom 2. ovoga Zakona
+
+7. ne izračunava potrebni solventni kapital i/ili minimalni potrebni kapital u skladu s člankom 80. stavkom 4. ovoga Zakona
+
+8. ne izračunava depozit u skladu s člankom 80. stavkom 7. ovoga Zakona
+
+9. nema vlastitih sredstava u skladu s člankom 80. stavkom 8. ovoga Zakona
+
+10. obavlja poslove osiguranja protivno članku 82. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za osiguranje, odnosno društva za reosiguranje.
+
+(3) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u podružnici društva za osiguranje, odnosno u podružnici društva za reosiguranje.
+
+*Prekršaji društva za osiguranje iz Švicarske Konfederacije*
+
+##### Članak 441.
+
+(1) Novčanom kaznom u iznosu od 500.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj društvo za osiguranje iz Švicarske Konfederacije
+
+1. koje obavlja poslove osiguranja u Republici Hrvatskoj protivno članku 85. stavku 1. ovoga Zakona
+
+2. koje obavlja poslove osiguranja u Republici Hrvatskoj protivno članku 85. stavku 2. ovoga Zakona
+
+3. koje obavlja poslove osiguranja u Republici Hrvatskoj protivno članku 85. stavku 10. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za osiguranje.
+
+(3) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u podružnici društva za osiguranje iz Švicarske Konfederacije.
+
+*Prekršaji člana uprave, člana nadzornog, odnosno upravnog odbora društva za osiguranje, odnosno društva za reosiguranje*
+
+##### Članak 442.
+
+(1) Novčanom kaznom u iznosu od 15.000,00 do 40.000,00 kuna kaznit će se za prekršaj član uprave društva za osiguranje, odnosno društva za reosiguranje koji:
+
+1. ne izvršava obveze u skladu s člankom 92. stavkom 4. ovoga Zakona
+
+2. ne poduzme mjere i /ili ne izradi prijedlog mjera u skladu s člankom 165. stavkom 2. ovoga Zakona
+
+3. ne poduzme mjere i /ili ne izradi prijedlog mjera u skladu s člankom 166. stavkom 2. ovoga Zakona
+
+4. ne osigura poslovanje društva u skladu s člankom 55. stavkom 1. ovoga Zakona
+
+5. ne uspostavi i /ili ne provodi sustav upravljanja u skladu s člankom 55. stavkom 2. ovoga Zakona
+
+6. u svrhu uspostavljanja i provedbe djelotvornog i pouzdanog sustava upravljanja ne postupa u skladu s člankom 55. stavkom 3. ovoga Zakona
+
+7. ne obavijesti Agenciju u skladu s člankom 55. stavkom 4. ovoga Zakona
+
+8. ne osigura provođenje nadzornih mjera u skladu s člankom 55. stavkom 5. ovoga Zakona
+
+9. ne izvršava svoje obveze u skladu s člankom 55. stavkom 6. ovoga Zakona
+
+10. ne obavijesti Agenciju u skladu s člankom 201. stavkom 3. ovoga Zakona
+
+11. Agenciji ne dostavi odluku o imenovanju revizorskog društva u skladu s člankom 195. stavkom 2. ovoga Zakona
+
+12. ne omogući posebnoj upravi i pomoćnicima posebne uprave pristup dokumentaciji društva za osiguranje i/ili ne sastavi izvješće o primopredaji poslova u skladu s člankom 256. stavkom 1. ovoga Zakona
+
+13. ne obavijesti Agenciju o namjeri donošenja Odluke o prestanku društva za osiguranje, odnosno njegove podružnice u skladu s člankom 263. stavkom 2. ovoga Zakona
+
+14. ne obavijesti Agenciju o donesenoj odluci o prestanku društva za osiguranje, odnosno njegove podružnice u skladu s člankom 263. stavkom 3. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj član nadzornog odbora društva za osiguranje, odnosno društva za reosiguranje koji:
+
+1. ne obavijesti Agenciju o informacijama u skladu s člankom 60. stavkom 5. ovoga Zakona
+
+2. ne obavijesti Agenciju o prestanku društva za osiguranje, odnosno njegove podružnice u skladu s člankom 263. stavkom 2. ovoga Zakona.
+
+*Prekršaji društva za zastupanje u osiguranju, obrtnika za zastupanje u osiguranju, odnosno zastupnika u osiguranju*
+
+##### Članak 443.
+
+(1) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za zastupanje u osiguranju koje:
+
+1. nema osiguranu odgovornost obavljanja djelatnosti i /ili odgovarajuće jamstvo u skladu s člankom 403. stavkom 1. ovoga Zakona
+
+2. obavlja druge poslove i/ili pruža druge usluge, osim onih propisanih člankom 418. stavkom 2. ovoga Zakona
+
+3. protivno odredbi članka 423. stavka 1. ovoga Zakona pripoji drugo društvo bez odobrenja Agencije
+
+4. se protivno odredbi članka 423. stavka 2. ovoga Zakona, spoji s drugim društvom bez odobrenja Agencije
+
+5. protivno članku 427. stavku 1. ovoga Zakona omogući da poslove zastupnika u osiguranju za to društvo obavljaju druge osobe osim osoba iz članka 400. ovoga Zakona
+
+6. protivno odredbi članka 428. stavka 1. ovoga Zakona zahtijeva plaćanje, odnosno izvrši naplatu provizije i/ili bilo kakvu drugu naplatu od ugovaratelja osiguranja, odnosno osiguranika
+
+7. Agenciji ne dostavi godišnje, odnosno polugodišnje financijsko izvješće u roku određenom člankom 429. stavkom 3. ovoga Zakona
+
+8. Agenciji ne dostavi statističko izvješće u roku određenom člankom 429. stavkom 4. ovoga Zakona
+
+9. ne izvještava Agenciju u skladu s člankom 430. ovoga Zakona
+
+10. ne obavijesti Agenciju prije početka obavljanja djelatnosti zastupanja u osiguranju u državi članici u skladu s člankom 435. stavkom 2. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za zastupanje u osiguranju.
+
+(3) Novčanom kaznom u iznosu od 25.000,00 do 100.000,00 kuna kaznit će se za prekršaj obrtnik za zastupanje u osiguranju, odnosno investicijsko društvo koje:
+
+1. nema osiguranu odgovornost obavljanja djelatnosti u skladu s člankom 403. stavkom 1. ovoga Zakona
+
+2. obavlja poslove zastupanja u osiguranju protivno članku 418. stavku 1. ovoga Zakona
+
+3. zahtijeva plaćanje, odnosno izvrši naplatu provizije ili bilo kakvu drugu naplatu od ugovaratelja osiguranja, odnosno osiguranika protivno odredbi članka 428. stavka 1. ovoga Zakona
+
+4. Agenciji ne dostavi statističko izvješće u roku određenom člankom 429. stavkom 4. ovoga Zakona
+
+5. ne izvještava Agenciju u skladu s člankom 430. ovoga Zakona, u rokovima i na način određen propisom donesenim na temelju članka 433. ovoga Zakona
+
+6. ne obavijesti Agenciju prije početka obavljanja djelatnosti zastupanja u osiguranju u državi članici u skladu s člankom 435. stavkom 2. ovoga Zakona
+
+7. omogući da pomoćnik zastupnika u osiguranju postupa protivno članku 416. stavku 2. ovoga Zakona
+
+8. ne postupa u skladu s člankom 416. stavkom 5. ovoga Zakona.
+
+(4) Novčanom kaznom u iznosu od 20.000,00 do 80.000,00 kuna kaznit će se za prekršaj društvo za zastupanje u osiguranju, odnosno obrtnik za zastupanje u osiguranju koji:
+
+1. ovlaštenoj osobi ne omogući obavljanje nadzora i pregled poslovanja u skladu s člankom 219. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+2. ne postupi u skladu s člankom 221. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+3. ne postupi u skladu s člankom 223. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+4. ne postupi u skladu s člankom 224. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+5. ne postupi u skladu s člankom 225. stavkom 2. ovoga Zakona, a u vezi članka 204. stavka 9. ovoga Zakona
+
+6. ne postupi u skladu s člankom 226. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona.
+
+(5) Novčanom kaznom u iznosu od 3.000,00 do 10.000,00 kuna kaznit će se za prekršaj iz stavka 4. ovoga članka i odgovorna osoba društva za zastupanje u osiguranju.
+
+(6) Novčanom kaznom u iznosu od 75.000,00 do 150.000,00 kuna kaznit će se za prekršaj obrtnik za zastupanje u osiguranju koji suprotno članku 427. stavku 1. ovoga Zakona omogući da poslove zastupnika u osiguranju obavljaju druge osobe osim osoba iz članka 400. ovoga Zakona.
+
+(7) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj iz stavka 6. ovoga članka i odgovorna osoba.
+
+(8) Novčanom kaznom u iznosu od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj zastupnik u osiguranju koji:
+
+1. obavlja poslove protivno članku 400. stavku 3. ovoga Zakona
+
+2. u svoje ime i za svoj račun naplati premije osiguranja i/ili ostale iznose od ugovaratelja osiguranja protivno članku 400. stavku 5. ovoga Zakona
+
+3. obavlja poslove protivno članku 404. stavku 2. ovoga Zakona
+
+4. ugovaratelju osiguranja ne predstavi ili pogrešno predstavi informacije iz članka 424. stavka 1. ovoga Zakona
+
+5. informacije iz članka 424. predstavi u obliku protivnom članku 425. stavku 3. ovoga Zakona
+
+6. zahtijeva plaćanje, odnosno izvrši naplatu provizije ili bilo kakvu drugu naplatu od ugovaratelja osiguranja, odnosno osiguranika protivno odredbi članka 428. stavka 1. ovoga Zakona.
+
+##### Članak 444.
+
+(1) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za zastupanje u osiguranju koje:
+
+1. obavlja poslove zastupanja u osiguranju u stanici za tehnički pregled vozila protivno članku 419. stavku 2. ovoga Zakona
+
+2. obavlja poslove zastupanja u osiguranju u stanici za tehnički pregled vozila protivno članku 419. stavku 8. ovoga Zakona
+
+3. obavlja poslove zastupanja u osiguranju u stanici za tehnički pregled vozila protivno članku 419. stavku 10. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za zastupanje u osiguranju.
+
+##### Članak 445.
+
+Novčanom kaznom u iznosu od 25.000,00 do 100.000,00 kuna kaznit će se za prekršaj obrtnik za zastupanje u osiguranju koji obavlja poslove zastupanja u osiguranju u stanici za tehnički pregled vozila protivno članku 419. stavku 2. ovoga Zakona.
+
+*Prekršaji društva za posredovanje u osiguranju i reosiguranju, odnosno posrednika u osiguranju i reosiguranju*
+
+##### Članak 446.
+
+(1) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za posredovanje u osiguranju i reosiguranju koje:
+
+1. nema osiguranu odgovornost obavljanja djelatnosti u skladu s člankom 410. stavkom 1. ovoga Zakona
+
+2. obavlja druge poslove osim onih propisanih člankom 421. stavkom 2. ovoga Zakona
+
+3. pripoji drugo društvo bez odobrenja Agencije protivno članku 423. stavku 1. ovoga Zakona
+
+4. se spoji s drugim društvom bez odobrenja Agencije protivno članku 423. stavku 2. ovoga Zakona
+
+5. protivno članku 427. stavku 2. ovoga Zakona omogući da poslove posrednika u osiguranju i reosiguranju za to društvo obavljaju druge osobe osim osoba iz članka 407. ovoga Zakona
+
+6. zahtijeva plaćanje, odnosno izvrši naplatu provizije ili bilo kakvu drugu naplatu od ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika protivno odredbi članka 428. stavka 2. ovoga Zakona
+
+7. zahtijeva plaćanje, odnosno izvrši naplatu provizije ili bilo kakvu drugu naplatu od društva za osiguranje protivno odredbi članka 428. stavka 4. ovoga Zakona
+
+8. naknadno dogovori promjenu načina obračuna, odnosno visinu provizije za sklopljene ugovore o osiguranju, odnosno ugovore o reosiguranju u kojima je posredovao protivno odredbi članka 428. stavka 5. ovoga Zakona
+
+9. Agenciji ne dostavi godišnje, odnosno polugodišnje financijsko izvješće u roku određenom člankom 429. stavkom 3. ovoga Zakona
+
+10. Agenciji ne dostavi statističko izvješće u roku određenom člankom 429. stavkom 4. ovoga Zakona
+
+11. ne izvještava Agenciju u skladu s člankom 430. ovoga Zakona, u rokovima i na način određen propisom donesenim na temelju članka 433. ovoga Zakona
+
+12. ne obavijesti Agenciju prije početka obavljanja posredovanja u osiguranju i reosiguranju u državi članici u skladu s člankom 435. stavka 2. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za posredovanje u osiguranju i reosiguranju.
+
+(3) Novčanom kaznom u iznosu od 20.000,00 do 80.000,00 kuna kaznit će se za prekršaj društvo za posredovanje u osiguranju i reosiguranju, a novčanom kaznom u iznosu od 3.000,00 do 10.000,00 kuna kaznit će se za navedeni prekršaj i odgovorna osoba društva za posredovanje u osiguranju i reosiguranju koje:
+
+1. ovlaštenoj osobi ne omogući obavljanje nadzora i pregled poslovanja u skladu s člankom 219. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+2. ne postupi u skladu s člankom 221. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+3. ne postupi u skladu s člankom 223. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+4. ne postupi u skladu s člankom 224 stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+5. ne postupi u skladu s člankom 225. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+6. ne postupi u skladu s člankom 226. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona.
+
+(4) Novčanom kaznom u iznosu od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj posrednik u osiguranju i reosiguranju koji:
+
+1. obavlja poslove posredovanja protivno članku 407. stavku 5. ovoga Zakona
+
+2. radi ispunjavanja obveze ne postupa u skladu s člankom 411. stavkom 2. ovoga Zakona
+
+3. pri obavljanju poslova posredovanja u osiguranju i reosiguranju postupa protivno odredbi članka 412. stavka 1. ovoga Zakona
+
+4. obavljajući poslove pripreme za sklapanje ugovora o osiguranju, odnosno ugovora o reosiguranju ne obavijesti društvo za osiguranje, odnosno društvo za reosiguranje o svim potrebnim rizicima u skladu s člankom 412. stavkom 2. ovoga Zakona
+
+5. ugovaratelju osiguranja ne da objašnjenja u skladu s člankom 412. stavkom 3. ovoga Zakona
+
+6. posreduje kod sklapanja ugovora o osiguranju, odnosno ugovora o reosiguranju protivno članku 413. ovoga Zakona
+
+7. obavlja poslove posrednika u osiguranju i reosiguranju bez ovlaštenja Agencije protivno članku 417. stavku 1. ovoga Zakona
+
+8. ugovaratelju osiguranja, odnosno ugovaratelju reosiguranja ne dostavi ili dostavi pogrešne informacije iz članka 424. stavka 1. ovoga Zakona
+
+9. informacije iz članka 424. predstavi u obliku protivnom članku 425. stavku 3. ovoga Zakona
+
+10. zahtijeva plaćanje, odnosno izvrši naplatu provizije ili bilo kakvu drugu naplatu od ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika protivno odredbi članka 428. stavka 2. ovoga Zakona
+
+11. naknadno dogovori promjenu načina obračuna, odnosno visinu provizije za sklopljene ugovore o osiguranju, odnosno ugovore o reosiguranju u kojima je posredovao protivno odredbi članka 428. stavka 5. ovoga Zakona.
+
+*Prekršaji društva za zastupanje u osiguranju i društva za posredovanje u osiguranju i reosiguranju iz druge države članice*
+
+##### Članak 447.
+
+(1) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za zastupanje u osiguranju iz druge države članice ako obavlja poslove zastupanja u osiguranju na području Republike Hrvatske prije isteka mjesec dana od dana primitka obavijesti nadzornog tijela iz članka 436. stavka 3. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za posredovanje u osiguranju i reosiguranju iz druge države članice ako obavlja poslove posredovanja u osiguranju i reosiguranju na području Republike Hrvatske prije isteka mjesec dana od dana primitka obavijesti nadzornog tijela iz članka 436. stavka 1. ovoga Zakona.
+
+(3) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavaka 1. i 2. ovoga članka i odgovorna osoba društva za zastupanje u osiguranju, odnosno društva za posredovanje u osiguranju i reosiguranju.
+
+*Prekršaji grupe osiguratelja*
+
+##### Članak 448.
+
+(1) Novčanom kaznom u iznosu od 500.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj osigurateljni holding, mješoviti osigurateljni holding, mješoviti financijski holding, matično društvo za osiguranje, odnosno matično društvo za reosiguranje u grupi osiguratelja ako:
+
+1. ne objavi izvješće o solventnosti i financijskom stanju na razini grupe u skladu s člankom 336. stavkom 1. ovoga Zakona
+
+2. ne objavi pravnu, upravljačku i organizacijsku strukturu u skladu s člankom 337. ovoga Zakona
+
+3. ne provodi izračune u skladu s člankom 304. stavkom 1. ovoga Zakona
+
+4. prilikom izračuna solventnosti grupe postupa protivno članku 308. stavku 1. ovoga Zakona
+
+5. prilikom izračuna solventnosti grupe postupa protivno članku 308. stavku 2. ovoga Zakona
+
+6. ne podnese izvješće Agenciji u skladu s člankom 326. stavkom 1. ovoga Zakona
+
+7. ne podnese izvješće Agenciji u skladu s člankom 327. stavkom 1. ovoga Zakona
+
+8. ne provodi na razini grupe vlastitu procjenu rizika i solventnosti u skladu s člankom 328. stavkom 5. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba osigurateljnog holdinga, mješovitog osigurateljnog holdinga, mješovitog financijskog holdinga ili matičnog društva za osiguranje, odnosno matičnog društva za reosiguranje u grupi osiguratelja, odnosno u slučaju horizontalne grupe predvodnika u grupi.
+
+*Prekršaji drugih osoba*
+
+##### Članak 449.
+
+(1) Novčanom kaznom u iznosu od 75.000,00 do 750.000,00 kuna kaznit će se za prekršaj pravna osoba koja:
+
+1. započne s radom protivno članku 14. stavku 1. ovoga Zakona
+
+2. stekne kvalificirani udjel protivno članku 36. stavku 2. ovoga Zakona
+
+3. ne zatraži odobrenje Agencije u skladu s člankom 36. stavkom 3. ovoga Zakona
+
+4. ne podnese zahtjev Agenciji u skladu s člankom 36. stavkom 6. ovoga Zakona
+
+5. ne obavijesti Agenciju u skladu s člankom 39. stavkom 7. ovoga Zakona
+
+6. ne podnese zahtjev Agenciji u skladu s člankom 42. stavkom 2. ovoga Zakona
+
+7. obavlja djelatnost zastupanja u osiguranju protivno članku 418. stavku 1. ovoga Zakona
+
+8. obavlja djelatnost zastupanja u osiguranju protivno članku 418. stavku 4. ovoga Zakona
+
+9. obavlja djelatnost zastupanja u osiguranju protivno članku 419. stavku 2. ovoga Zakona
+
+10. obavlja djelatnost posredovanja u osiguranju i reosiguranju protivno članku 421. stavku 1. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba pravne osobe.
+
+(3) Novčanom kaznom u iznosu od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj fizička osoba koja:
+
+1. stekne kvalificirani udjel protivno članku 36. stavku 2. ovoga Zakona
+
+2. ne zatraži odobrenje Agencije u skladu s člankom 36. stavkom 3. ovoga Zakona
+
+3. ne podnese zahtjev Agenciji u skladu s člankom 36. stavkom 6. ovoga Zakona
+
+4. ne obavijesti Agenciju u skladu s člankom 39. stavkom 7. ovoga Zakona
+
+5. ne podnese zahtjev Agenciji u skladu s člankom 42. stavkom 2. ovoga Zakona
+
+6. kao član posebne uprave ne dostavi Agenciji izvješće o financijskom stanju i/ili uvjetima poslovanja društva za osiguranje u skladu s člankom 258. stavkom 1. ovoga Zakona
+
+7. kao član posebne uprave ne preda Agenciji izvješće o financijskom stanju i/ili uvjetima poslovanja društva za osiguranje u skladu s člankom 258. stavkom 2. ovoga Zakona
+
+8. kao član posebne uprave ne obavijesti Agenciju o svim okolnostima koje mogu utjecati na pogoršanje financijskog stanja društva za osiguranje u skladu s člankom 258. stavkom 4. ovoga Zakona
+
+9. kao likvidator ne izvrši svoje obveze u skladu s člankom 274. stavkom 4. ovoga Zakona
+
+10. obavlja poslove zastupanja u osiguranju protivno članku 415. stavku 1. ovoga Zakona
+
+11. obavlja poslove pomoćnika zastupnika u osiguranju protivno članku 416. stavku 1. ovoga Zakona
+
+12. obavlja poslove pomoćnika zastupnika u osiguranju protivno članku 416. stavku 2. ovoga Zakona
+
+13. obavlja poslove pomoćnika zastupnika u osiguranju protivno članku 416. stavku 3. ovoga Zakona
+
+14. obavlja poslove posredovanja u osiguranju i reosiguranju protivno članku 417. stavku 1. ovoga Zakona
+
+15. obavlja poslove zastupanja u osiguranju na temelju zaposlenja u kreditnoj instituciji, investicijskom društvu, Financijskoj agenciji i HP-Hrvatskoj pošti d. d. protivno članku 415. stavku 1. ovoga Zakona u vezi s člankom 418. stavkom 6. ovoga Zakona
+
+16. obavlja djelatnost zastupanja u osiguranju protivno članku 418. stavku 1. točku 2. ovoga Zakona
+
+17. obavlja djelatnost zastupanja u osiguranju protivno odredbama članka 419. stavka 2. ovoga Zakona
+
+18. obavlja djelatnost posredovanja u osiguranju i reosiguranju protivno članku 421. stavku 1. ovoga Zakona.
+
+(4) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj:
+
+1. kreditna institucija, investicijsko društvo, Financijska agencija ili HP-Hrvatska pošta d. d. ako kao osoba koja obavlja poslove zastupanja u osiguranju zahtijeva plaćanje, odnosno izvrši naplatu provizije ili bilo kakvu drugu naplatu od ugovaratelja osiguranja, odnosno osiguranika protivno članku 428. stavku 1. ovoga Zakona
+
+2. kreditna institucija, investicijsko društvo, Financijska agencija ili HP-Hrvatska pošta d. d. ako Agenciji ne dostavi statističko izvješće u roku određenom člankom 429. stavkom 4. ovoga Zakona
+
+3. kreditna institucija, investicijsko društvo, Financijska agencija ili HP-Hrvatska pošta d. d. ako ne izvještava Agenciju u skladu s člankom 430. ovoga Zakona, u rokovima i na način određen propisom donesenim na temelju članka 433. ovoga Zakona.
+
+(5) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 4. ovoga članka i odgovorna osoba investicijskog društva, kreditne institucije, Financijske agencije ili HP-Hrvatske pošte d. d.
+
+(6) Novčanom kaznom u iznosu od 20.000,00 do 80.000,00 kuna kaznit će se za prekršaj investicijsko društvo, kreditna institucija, Financijska agencija i HP-Hrvatska pošta d. d. ako:
+
+1. ovlaštenoj osobi ne omogući obavljanje nadzora i pregled poslovanja u skladu s člankom 219. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+2. ne postupi u skladu s člankom 221. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+3. ne postupi u skladu s člankom 223. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+4. ne postupi u skladu s člankom 224. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+5. ne postupi u skladu s člankom 225. stavkom 2. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona
+
+6. ne postupi u skladu s člankom 226. stavkom 1. ovoga Zakona, a u vezi s člankom 204. stavkom 9. ovoga Zakona.
+
+(7) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 6. ovoga članka i odgovorna osoba investicijskog društva, kreditne institucije, Financijske agencije i HP-Hrvatske pošte d. d.
+
+*Prekršaji revizorskog društva*
+
+##### Članak 450.
+
+(1) Novčanom kaznom u iznosu od 30.000,00 do 100.000,00 kuna kaznit će se za prekršaj revizorsko društvo koje:
+
+1. ne dostavi Agenciji plan obavljanja revizije za svako društvo za osiguranje u skladu s člankom 195. stavkom 3. ovoga Zakona
+
+2. obavlja reviziju financijskih izvještaja društva za osiguranje protivno članku 197. stavku 2. ovoga Zakona
+
+3. ne obavijesti Agenciju u skladu s člankom 198. stavkom 1. ovoga Zakona
+
+4. ne obavijesti Agenciju u skladu s člankom 198. stavkom 2. ovoga Zakona
+
+5. ne obavijesti Agenciju u skladu s člankom 198. stavkom 3. ovoga Zakona
+
+6. ne obavi revizorski pregled u skladu s člankom 200. stavkom 1. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba revizorskog društva.
+
+*Prekršaji imenovanog ovlaštenog aktuara*
+
+##### Članak 451.
+
+Novčanom kaznom u iznosu od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj imenovani ovlašteni aktuar koji:
+
+1. ne izvijesti upravu društva za osiguranje u skladu s člankom 188. stavkom 5. ovoga Zakona
+
+2. ne obavijesti Agenciju u skladu s člankom 188. stavkom 7. ovoga Zakona
+
+3. ne obavijesti Agenciju u skladu s člankom 188. stavkom 8. ovoga Zakona.
+
+*Prekršaji u svezi s čuvanjem povjerljivih podataka*
+
+##### Članak 452.
+
+(1) Novčanom kaznom u iznosu od 75.000,00 do 750.000,00 kuna kaznit će se za prekršaj društvo za osiguranje, odnosno društvo za reosiguranje koje ne poštuje obvezu čuvanja povjerljivih podataka u skladu s člankom 386. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za osiguranje, odnosno društva za reosiguranje.
+
+(3) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba koja ne poštuje obvezu čuvanja povjerljivih podataka u skladu s člankom 387. stavkom 1. ovoga Zakona.
+
+## GLAVA XXV. — PRIJELAZNE I ZAVRŠNE ODREDBE
+
+*Prijelazne odredbe*
+
+##### Članak 453.
+
+(1) Društvo za osiguranje, odnosno društvo za reosiguranje koje na dan stupanja na snagu ovoga Zakona ima dozvolu Agencije za obavljanje poslova osiguranja, odnosno poslova reosiguranja smatra se da ima odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja izdano u skladu s odredbama ovoga Zakona.
+
+(2) Društvo za osiguranje koje je na dan 1. srpnja 2013. istodobno obavljalo poslove životnog i neživotnog osiguranja može nastaviti obavljati poslove životnog i neživotnog osiguranja u Republici Hrvatskoj pod uvjetom da se poslovima životnog i poslovima neživotnog osiguranja zasebno upravlja u skladu s člankom 21. ovoga Zakona.
+
+(3) Društvo za osiguranje, odnosno društvo za reosiguranje iz treće države koje na dan stupanja na snagu ovoga Zakona ima dozvolu Agencije za obavljanje poslova osiguranja, odnosno poslova reosiguranja Republici Hrvatskoj preko podružnice osnovane u Republici Hrvatskoj smatra se da ima odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja preko podružnice osnovane u Republici Hrvatskoj izdano u skladu s odredbama ovoga Zakona.
+
+(4) Osobe koje na dan stupanja na snagu ovoga Zakona imaju ovlaštenje za obavljanje poslova ovlaštenog aktuara izdanog od Agencije ili ministra financija smatra se da imaju ovlaštenje za obavljanje poslova ovlaštenog aktuara u skladu s člankom 186. ovoga Zakona.
+
+(5) Dozvole i ovlaštenja za obavljanje poslova zastupanja u osiguranju, odnosno dozvole i ovlaštenja za obavljanje poslova posredovanja u osiguranju i reosiguranju izdane prije stupanja na snagu ovoga Zakona, a koje važe na dan stupanja na snagu ovoga Zakona ostaju i dalje na snazi.
+
+(6) Prilikom ocjene zadovoljavanja uvjeta iz članka 417. stavka 2. točke 3. ovoga Zakona primjenjuju se odredbe zakona kojim se uređuju akademski i stručni nazivi i akademski stupanj.
+
+(7) Društvo za zastupanje u osiguranju i obrt za zastupanje u osiguranju koji na dan stupanja na snagu ovoga Zakona imaju dozvolu za obavljanje poslova zastupanja u osiguranju na stanici za tehnički pregled smatra se da imaju dozvolu za obavljanje poslova zastupanja u osiguranju na stanici za tehnički pregled u vrstama osiguranja iz članka 419. stavka 10. ovoga Zakona.
+
+(8) Ostala odobrenja Agencije izdana prije stupanja na snagu ovoga Zakona, a koja su važila na dan stupanja na snagu ovoga Zakona ostaju i dalje na snazi.
+
+*Prijelazne mjere*
+
+##### Članak 454.
+
+(1) Društvo za osiguranje koje do 1. siječnja 2016. prestane sklapati nove ugovore o osiguranju, odnosno ugovore o reosiguranju te isključivo upravlja svojim postojećim portfeljem kako bi prestalo s radom ne podliježe odredbama ovoga Zakona, izuzevši odredbe o reorganizaciji, likvidaciji i stečaju društva za osiguranje do datuma utvrđenih stavkom 2. ovoga članka u slučaju:
+
+1. kada je društvo za osiguranje dokazalo Agenciji da će prestati s radom prije 1. siječnja 2019. ili
+
+2. kada društvo za osiguranje podliježe mjerama reorganizacije utvrđenima u skladu s člancima 248. – 251. ovoga Zakona i imenovan je upravitelj.
+
+(2) Društvo za osiguranje na koje se primjenjuje:
+
+1. stavak 1. točka 1. ovoga članka podliježe odredbama ovoga Zakona, izuzevši odredbe o reorganizaciji, likvidaciji i stečaju društva za osiguranje od 1. siječnja 2019. ili od ranijeg datuma, ako Agencija nije zadovoljna napretkom koji je postignut u vezi s prestankom rada društva za osiguranje
+
+2. stavak 1. točka 2. ovoga članka podliježe odredbama ovoga Zakona, izuzevši odredbe o reorganizaciji, likvidaciji i stečaju društva za osiguranje od 1. siječnja 2021. ili od ranijeg datuma, ako Agencija nije zadovoljna napretkom koji je postignut u vezi s prestankom rada društva za osiguranje.
+
+(3) Društvo za osiguranje podliježe prijelaznim mjerama iz stavaka 1. i 2. ovoga članka samo ako su ispunjeni sljedeći uvjeti:
+
+1. društvo za osiguranje nije dio grupe ili ako jest, sva društva koja čine grupu prestala su sklapati nove ugovore o osiguranju, odnosno ugovore o reosiguranju
+
+2. društvo za osiguranje Agenciji dostavlja godišnje izvješće kojim se utvrđuje napredak postignut u vezi s prestankom rada navedenog društva za osiguranje
+
+3. društvo za osiguranje Agenciju je obavijestilo da primjenjuje prijelazne mjere stavcima 1. i 2. ovoga članka ne sprječava se rad društva za osiguranje u skladu s odredbama ovoga Zakona, izuzevši odredbe o reorganizaciji, likvidaciji i stečaju društva za osiguranje.
+
+(4) Agencija sastavlja popis predmetnih društava za osiguranje te ga dostavlja ostalim nadležnim tijelima država članica.
+
+(5) Društvo za osiguranje dužno je podnijeti informacije za potrebe nadzora iz članka 215. ovoga Zakona na godišnjoj osnovi u roku od:
+
+– 20 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2016.
+
+– 18 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2017.
+
+– 16 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2018.
+
+– 14 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2019.
+
+(6) Društvo za osiguranje dužno je objaviti informacije iz članka 168. ovoga Zakona u roku od:
+
+– 20 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2016.
+
+– 18 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2017.
+
+– 16 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2018.
+
+– 14 tjedana nakon isteka poslovne godine koja završava 31. prosinca 2019.
+
+(7) Društvo za osiguranje dužno je podnijeti informacije za potrebe nadzora iz članka 215. ovoga Zakona na tromjesečnoj osnovi u roku od:
+
+– osam tjedana nakon isteka tromjesečnih razdoblja u 2016. godini (31. ožujka, 30. lipnja, 30. rujna, 31. prosinca)
+
+– sedam tjedana nakon isteka tromjesečnih razdoblja u 2017. godini (31. ožujka, 30. lipnja, 30. rujna, 31. prosinca)
+
+– šest tjedana nakon isteka tromjesečnih razdoblja u 2018. godini (31. ožujka, 30. lipnja, 30. rujna, 31. prosinca)
+
+– pet tjedana nakon isteka tromjesečnih razdoblja u 2019. godini (31. ožujka, 30. lipnja, 30. rujna, 31. prosinca).
+
+(8) Stavci 5., 6. i 7. ovoga članka primjenjuju se na odgovarajući način na sudjelujuća društva za osiguranje i društva za reosiguranje, osigurateljne holdinge i mješovite osigurateljne holdinge na razini grupe u skladu s člancima 334. i 336. ovoga Zakona, pri čemu se rokovi iz stavaka 5., 6. i 7. ovoga članka produljuju za šest tjedana.
+
+(9) Neovisno o članku 126. ovoga Zakona, stavke osnovnih vlastitih sredstava uključuju se u osnovna vlastita sredstva kategorije 1 u trajanju do 10 godina nakon 1. siječnja 2016., pod uvjetom da su u pitanju stavke:
+
+1. koje su izdane prije datuma stupanja na snagu Uredbe (EU) br. 2015/35, odnosno prije 18. siječnja 2015.
+
+2. koje bi se 31. prosinca 2015. mogle upotrijebiti kao stavke dopunskog kapitala do 50 % iznosa osnovnog kapitala u skladu s člankom 96. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) te člankom 7. stavkom 2. i člancima 8., 9. i 10. Pravilnika o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje (»Narodne novine«, br. 97/09., 42/10., 94/11., 39/12., 73/13., 105/13. i 136/14.)
+
+3. koje inače ne bi bile svrstane u kategoriju 1 ili kategoriju 2 u skladu s člankom 126. ovoga Zakona.
+
+(10) Neovisno o članku 126. ovoga Zakona, stavke osnovnih vlastitih sredstava uključuju se u osnovna vlastita sredstva kategorije 2 u trajanju do 10 godina nakon 1. siječnja 2016., pod uvjetom da su u pitanju stavke:
+
+1. koje su izdane prije datuma stupanja na snagu Uredbe (EU) br. 2015/35, odnosno prije 18. siječnja 2015.
+
+2. koje bi se 31. prosinca 2015. mogle upotrijebiti kao stavke dopunskog kapitala do 25 % iznosa osnovnog kapitala u skladu s člankom 96. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) te člankom 7. stavkom 2. i člancima 8., 9. i 10. Pravilnika o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje (»Narodne novine«, br. 97/09., 42/10., 94/11., 39/12., 73/13., 105/13. i 136/14.).
+
+(11) Neovisno o članku 130., članku 131. stavcima 1. i 3. te članku 135. ovoga Zakona primjenjuje se sljedeće:
+
+1. do 31. prosinca 2017. standardni parametri koji se koriste za izračunavanje kapitalnih zahtjeva za koncentracijski rizik i rizik raspona u skladu sa standardnom formulom za izloženosti prema središnjim tijelima državne uprave i središnjim bankama država članica koje su denominirane i financirane u domaćoj valuti bilo koje države članice isti su kao oni koji bi se primjenjivali na takve izloženosti denominirane i financirane u domaćim valutama tih država
+
+2. standardni parametri koji će se koristiti pri izračunavanju kapitalnih zahtjeva za koncentracijski rizik i rizik raspona u skladu sa standardnom formulom 2018. godine smanjuju se za 80 % za izloženosti prema središnjim tijelima državne uprave i središnjim bankama država članica denominiranih i financiranih u domaćoj valuti bilo koje druge države članice
+
+3. standardni parametri koji će se koristiti pri izračunavanju kapitalnih zahtjeva za koncentracijski rizik i rizik raspona u skladu sa standardnom formulom 2019. godine smanjuju se za 50 % za izloženosti prema središnjim tijelima državne uprave i središnjim bankama država članica denominiranih i financiranih u domaćoj valuti bilo koje druge države članice
+
+4. standardni parametri koje će se koristiti pri izračunavanju kapitalnih zahtjeva za koncentracijski rizik i rizik raspona u skladu sa standardnom formulom od 1. siječnja 2020. ne smanjuju se za izloženosti prema središnjim tijelima državne uprave i središnjim bankama država članica denominiranih i financiranih u domaćoj valuti bilo koje druge države članice.
+
+(12) Neovisno o članku 130., članku 131. stavcima 1. i 3. te članku 135. ovoga Zakona, standardni parametri koji će se koristiti za vlasničke vrijednosne papire koje je društvo kupilo 1. siječnja 2016. ili ranije pri izračunu podmodula rizika vlasničkih vrijednosnih papira u skladu sa standardnom formulom izračunavaju se kao ponderirani prosjeci:
+
+1. standardnog parametra koji se koristi za izračun podmodula rizika vlasničkih vrijednosnih papira potrebnog solventnog kapitala koji je kalibriran mjerom rizične vrijednosti tijekom razdoblja usklađenog s uobičajenim vremenom držanja vlasničkih vrijednosnih papira društva za osiguranja i sa stupnjem pouzdanosti koji osigurava ugovarateljima i korisnicima osiguranja istovjetnu razinu zaštite onoj iz članka 131. ovoga Zakona i
+
+2. standardnog parametra koji se koristi za izračun podmodula rizika vlasničkih vrijednosnih papira u skladu sa standardnom formulom.
+
+Ponder za standardni parametar izražen u točki 2. ovoga stavka na kraju svake godine povećava se barem linearno od 0% tijekom godine koja počinje 1. siječnja 2016. do 1. siječnja 2023. kada postaje 100%.
+
+Ovaj stavak primjenjuje se u skladu s Uredbom (EU) br. 2015/35 kojima se dodatno objašnjavanju kriteriji za korištenje prijelaznih mjera iz ovoga stavka, uključujući i vlasničke vrijednosne papire na koje se one mogu primijeniti.
+
+(13) Neovisno o članku 165. stavku 4. ovoga Zakona i ne dovodeći u pitanje članak 165. stavke 5. – 10. ovoga Zakona, kada je društvo za osiguranje usklađeno sa zahtjevima vezanim uz granicu solventnosti iz članka 98., odnosno članka 99. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) koja se primjenjuje na dan prije stavljanja izvan snage toga zakona, no u prvoj godini primjene ovoga Zakona nije usklađeno s potrebnim solventnim kapitalom, društvo za osiguranje dužno je poduzeti potrebne mjere za dosezanje razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili smanjenje profila rizičnosti kako bi se do 31. prosinca 2017. osigurala usklađenost s potrebnim solventnim kapitalom.
+
+Predmetno društvo za osiguranje dužno je svaka tri mjeseca dostaviti Agenciji izvješće o napretku u kojemu navodi poduzete mjere i napredak ostvaren u ponovnom dosezanju razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili napredak u smanjenju profila rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom.
+
+Produljenje roka iz točke 1. ovoga stavka ukida se ako izvješće o napretku pokazuje da nije ostvaren značajan napredak u ponovnom dosezanju razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili napredak u smanjenju profila rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom u razdoblju od dana kad je utvrđeno postojanje neusklađenosti s potrebnim solventnim kapitalom do dana dostavljanja izvješća o napretku.
+
+(14) U razdoblju do 31. ožujka 2022. krajnje matično društvo za osiguranje ili društvo za reosiguranje može podnijeti zahtjev za odobrenje unutarnjeg modela na razini grupe primjenjivog na dio grupe pod uvjetom da se i društvo i krajnje matično društvo nalaze u istoj državi članici i da navedeni dio grupe čini zaseban dio koji ima znatno drukčiji profil rizičnosti od ostatka grupe.
+
+(15) Neovisno o članku 303. stavcima 2. i 3. ovoga Zakona, prijelazne odredbe navedene u stavcima 8. – 11. ovoga članka te u člancima 455. – 457. ovoga Zakona primjenjuju se na odgovarajući način na razini grupe. Neovisno o članku 303. stavcima 2., 3. i 4. ovoga Zakona, prijelazne odredbe navedene u stavku 13. ovoga članka primjenjuju se na odgovarajući način na razini grupe i kada su sudjelujuća društva za osiguranje ili društva za reosiguranje, odnosno društva za osiguranje i društva za reosiguranje u grupi usklađena s prilagođenom solventnošću u skladu sa Zakonom o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.), no nisu usklađena s potrebnim solventnim kapitalom grupe. Ovaj stavak primjenjuje se u skladu s propisima Europske komisije kojima se uređuju promjene u solventnosti grupe.
+
+*Prijelazna mjera za bezrizične kamatne stope*
+
+##### Članak 455.
+
+(1) Društvo za osiguranje može uz prethodno odobrenje Agencije primijeniti prijelaznu mjeru za relevantne vremenske strukture bezrizičnih kamatnih stopa za određene obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju, odnosno obveze iz stavka 5. ovoga članka.
+
+(2) Prilagodba se za svaku valutu izračunava kao dio razlike između:
+
+1. kamatne stope koju je društvo za osiguranje odredilo u skladu s člankom 107. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) na zadnji dan primjene toga Zakona i Pravilnikom o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine«, br. 97/09., 135/09., 150/09., 39/12., 56/13. i 97/13.) na zadnji dan primjene toga Pravilnika
+
+2. godišnje efektivne kamatne stope koja je izračunata kao jedinstvena diskontna kamatna stopa, takve da vrijednost novčanih tokova portfelja određenih obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju na koje se ona primijeni odgovara vrijednosti najbolje procjene portfelja određenih obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju, upotrebljavajući relevantnu vremensku strukturu bezrizičnih kamatnih stopa u skladu s člankom 108. ovoga Zakona.
+
+(3) Dio razlike iz stavka 2. ovoga članka linearno se smanjuje na kraju svake godine sa 100 % tijekom godine koja počinje 1. siječnja 2016. na 0 % tijekom godine koja počinje 1. siječnja 2032.
+
+(4) Ako društvo za osiguranje primjenjuje prilagodbu za volatilnost iz članka 113. ovoga Zakona, vremenska struktura bezrizičnih kamatnih stopa iz stavka 2. točke 2. ovoga članka mora biti prilagođena vremenska struktura bezrizičnih kamatnih stopa utvrđena člankom 113. ovoga Zakona.
+
+(5) Društvo za osiguranje može dobiti odobrenje Agencije za primjenu prijelaznih mjera iz stavka 1. ovoga članka samo za obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju koji zadovoljavaju sljedeće zahtjeve:
+
+1. ugovori o osiguranju, odnosno ugovori o reosiguranju iz kojih proizlaze obveze sklopljeni su prije prvog dana primjene ovoga Zakona, isključujući ugovore o osiguranju, odnosno ugovore o reosiguranju obnovljene tog datuma ili kasnije
+
+2. tehničke pričuve za obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju bile su određene u skladu s člankom 107. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) do zadnjeg dana primjene toga Zakona i Pravilnikom o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine«, br. 97/09., 135/09., 150/09., 39/12., 56/13. i 97/13.) na zadnji dan primjene toga pravilnika
+
+3. prilagodba za uravnoteženje iz članka 111. ovoga Zakona ne primjenjuje se na obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+
+(6) Društvo za osiguranje koje ima odobrenje za korištenje prijelaznih mjera iz stavka 1. ovoga članka:
+
+1. u izračun prilagodbe za volatilnost utvrđen člankom 113. ovoga Zakona ne uključuje određene obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju iz stavka 5. ovoga članka
+
+2. ne primjenjuje prijelazne mjere za tehničke pričuve iz članka 456. ovoga Zakona
+
+3. u sklopu svojeg izvješća o solventnosti i financijskom stanju u skladu s člankom 168. ovoga Zakona objavljuje da primjenjuje prijelaznu mjeru za vremensku strukturu bezrizičnih kamatnih stopa, kao i kvantifikaciju utjecaja primjenjivanja prijelazne mjere iz stavka 1. ovoga članka na svoj financijski položaj u odnosu kada se ona ne bi primjenjivala.
+
+(7) Agencija će pravilnikom detaljnije propisati dokumentaciju koja se mora priložiti uz zahtjev za izdavanje odobrenja iz stavka 1. ovoga članka.
+
+*Prijelazna mjera za tehničke pričuve*
+
+##### Članak 456.
+
+(1) Društvo za osiguranje može, uz prethodno odobrenje Agencije, primjenjivati umanjenja iz prijelaznih mjera na tehničke pričuve. To umanjenje može se primijeniti na razini homogenih grupa rizika iz članka 116. ovoga Zakona.
+
+(2) Umanjenje iz prijelaznih mjera odgovara dijelu razlike između sljedećih dvaju iznosa:
+
+1. tehničke pričuve nakon umanjenja za iznose naplative na temelju ugovora o reosiguranju i subjekata posebne namjene, izračunate u skladu s člankom 106. ovoga Zakona na prvi dan primjene ovoga Zakona
+
+2. tehničke pričuve nakon umanjenja za iznose naplative na temelju ugovora o reosiguranju izračunatih u skladu s člankom 107. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) zadnjeg dana primjene toga Zakona i Pravilnikom o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine«, br. 97/09., 135/09., 150/09., 39/12., 56/13. i 97/13.) na zadnji dan primjene toga Pravilnika.
+
+Umanjenje koje se može primijeniti linearno se smanjuje na kraju svake godine sa 100 % tijekom godine koja počinje 1. siječnja 2016. do 0 % 1. siječnja 2032.
+
+Ako društvo za osiguranje prvog dana primjene ovoga Zakona primjenjuje prilagodbu za volatilnost iz članka 113. ovoga Zakona, iznos iz točke 1. ovoga stavka izračunava se uz prilagodbu za volatilnost na taj datum.
+
+(3) Uz prethodno odobrenje Agencije ili na njezinu inicijativu, iznosi tehničkih pričuva, prema potrebi uključujući iznos prilagodbe za volatilnost, koji se koriste za izračun privremenog umanjenja iz stavka 2. točaka 1. i 2. ovoga članka, mogu se ponovno izračunati svaka 24 mjeseca ili češće ako se profil rizičnosti društva značajno promijenio.
+
+(4) Umanjenje iz stavka 2. ovoga članka Agencija može ograničiti ako bi njegova primjena mogla rezultirati smanjenjem iznosa financijskih sredstava kojim društvo mora raspolagati u usporedbi s onim koji se izračunava u skladu sa Zakonom o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) na dan prije stavljanja izvan snage toga Zakona.
+
+(5) Društvo za osiguranje koje primjenjuje stavak 1. ovoga članka dužno je:
+
+1. ne primjenjivati članak 455. ovoga Zakona
+
+2. kada bez primjene umanjenja iz prijelaznih mjera ne ispunjava zahtjeve za potrebnim solventnim kapitalom, Agenciji svake godine podnijeti izvješće u kojem se utvrđuju poduzete mjere i postignuti napredak kako bi se na kraju prijelaznog razdoblja utvrđenog stavkom 2. ovoga članka ponovno dosegnula razina prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili smanjio profil rizičnosti radi ponovnog postizanja usklađenosti s potrebnim solventnim kapitalom
+
+3. u sklopu svojeg izvješća o solventnosti i financijskom stanju u skladu s člankom 168. ovoga Zakona objavljivati da na tehničke pričuve primjenjuje umanjenje iz prijelaznih mjera i kvantifikaciju utjecaja primjenjivanja tog umanjenja na svoj financijski položaj u odnosu kada se on ne bi primjenjivao.
+
+(6) Agencija će pravilnikom detaljnije propisati dokumentaciju koja se mora priložiti uz zahtjev za izdavanje odobrenja iz stavka 1. ovoga članka.
+
+*Plan o postupnom uvođenju prijelaznih mjera za bezrizične kamatne stope i tehničke pričuve*
+
+##### Članak 457.
+
+(1) Društvo za osiguranje koje primjenjuje prijelazne mjere utvrđene člankom 455. ili 456. ovoga Zakona dužno je bez odgađanja obavijestiti Agenciju da neće biti usklađeno s potrebnim solventnim kapitalom bez primjene tih prijelaznih mjera. Agencija će zahtijevati poduzimanje potrebnih mjera kako bi se osigurala usklađenost s potrebnim solventnim kapitalom na kraju prijelaznog razdoblja.
+
+(2) U roku od dva mjeseca od uočene neusklađenosti s potrebnim solventnim kapitalom bez primjene privremenog umanjenja iz članaka 455. i 456. ovoga Zakona društvo za osiguranje dužno je Agenciji dostaviti plan o postupnom uvođenju u kojem se utvrđuju planirane mjere za dosezanje razine prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili za smanjenje profila rizičnosti kako bi se osigurala usklađenost s potrebnim solventnim kapitalom na kraju prijelaznog razdoblja. Društvo za osiguranje tijekom prijelaznog razdoblja može ažurirati plan o postupnom uvođenju.
+
+(3) Društvo za osiguranje dužno je Agenciji godišnje podnositi izvješće u kojem se utvrđuju poduzete mjere i postignuti napredak u osiguravanju usklađenosti s potrebnim solventnim kapitalom na kraju prijelaznog razdoblja. Agencija će opozvati odobrenje za primjenu prijelazne mjere ako izvješće o napretku pokaže da je usklađenost s potrebnim kapitalom na kraju prijelaznog razdoblja nerealna.
+
+*Prijelazne mjere za javnu objavu*
+
+##### Članak 458.
+
+Društvo za osiguranje za koje je određen kapitalni dodatak ili koje mora koristiti specifične parametre kod izračuna ukupnog potrebnog solventnog kapitala u skladu s člankom 141. ovoga Zakona uz objavu iznosa potrebnog solventnog kapitala ne mora do 31. prosinca 2020. posebno navoditi iznos kapitalnog dodatka ili učinak specifičnih parametara.
+
+*Prijelazne odredbe o usklađenosti s minimalnim potrebnim kapitalom*
+
+##### Članak 459.
+
+(1) Iznimno od članaka 34., 166. i 246. ovoga Zakona, kada je društvo za osiguranje 31. prosinca 2015. usklađeno sa zahtjevima vezanim uz granicu solventnosti iz članka 98., odnosno članka 99. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) koja se primjenjuje na dan prije stavljanja izvan snage Zakona, ali nema dovoljna prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala, društvo za osiguranje dužno je uskladiti se s člankom 157. stavkom 1. ovoga Zakona do 31. prosinca 2016.
+
+(2) Kad se društvo za osiguranje ne uspije uskladiti s člankom 157. stavkom 1. ovoga Zakona u roku navedenom u stavku 1. ovoga članka, Agencija će tom društvu za osiguranje oduzeti odobrenje za obavljanje poslova osiguranja.
+
+*Postupci*
+
+##### Članak 460.
+
+(1) Svi postupci za dobivanje odobrenja, ovlaštenja, suglasnosti i dozvola te postupci nadzora koji su pokrenuti prije stupanja na snagu ovoga Zakona i koji su u nadležnosti Agencije dovršit će se u skladu s odredbama Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.), osim ako odredbe tog Zakona nisu u suprotnosti s odredbama ovoga Zakona.
+
+(2) Na postupke za dobivanje odobrenja, ovlaštenja, suglasnosti i dozvola koji su pokrenuti nakon stupanja na snagu ovoga Zakona do stupanja na snagu pravilnika donesenih na temelju ovoga Zakona primjenjuju se odredbe pravilnika donesenih na temelju Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) ako odredbe tih pravilnika nisu u suprotnosti s odredbama ovoga Zakona.
+
+(3) Stavak 2. ovoga članka primjenjuje se i na sva ostala postupanja propisana pravilnicima Agencije.
+
+*Donošenje propisa*
+
+##### Članak 461.
+
+(1) Agencija će u roku od osam mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike čije je donošenje propisano ovim Zakonom.
+
+(2) Do stupanja na snagu pravilnika donesenih na temelju ovoga Zakona primjenjuju se odredbe pravilnika donesenih na temelju Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) ako odredbe tih pravilnika nisu u suprotnosti s odredbama ovoga Zakona.
+
+*Prestanak važenja Zakona*
+
+##### Članak 462.
+
+Zakon o osiguranju (»Narodne novine«, br. 151/08., 87/08., 82/09., 54/13. i 94/14.) prestaje važiti 1. siječnja 2016.
+
+*Postupno uvođenje*
+
+##### Članak 463.
+
+(1) Radi ostvarivanja preduvjeta za poslovanje društava za osiguranje odnosno društava za reosiguranje u skladu s odredbama ovoga Zakona od 1. siječnja 2016., društva za osiguranje odnosno društva za reosiguranje mogu podnositi zahtjeve za izdavanje odobrenja odnosno davanje suglasnosti iz stavaka 2. – 4. ovoga članka.
+
+(2) Agencija će od 1. travnja 2015. na zahtjev društva za osiguranje odnosno društva za reosiguranje donijeti rješenje kojim odlučuje o izdavanju odobrenja za:
+
+1. pomoćna vlastita sredstva u skladu s člankom 124. ovoga Zakona
+
+2. razvrstavanje stavki vlastitih sredstava iz članka 125. stavka 5. ovoga Zakona
+
+3. korištenje posebnih parametara u skladu s člankom 135. stavkom 7. ovoga Zakona
+
+4. potpuni ili djelomični unutarnji model u skladu s člancima 143. i 144. ovoga Zakona
+
+5. pomoćna vlastita sredstva posredničkog osigurateljnog holdinga u skladu s člankom 311. stavkom 2. ovoga Zakona
+
+6. unutarnji model grupe u skladu s člancima 315. i 316. te člankom 318. stavkom 5. ovoga Zakona
+
+7. korištenje prilagodbe za uravnoteženje na relevantnu vremensku strukturu bezrizične kamatne stope u skladu s člancima 111. i 112. ovoga Zakona
+
+8. korištenje prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizične kamatne stope u skladu s člankom 113. ovoga Zakona
+
+9. primjenu prijelazne mjere za bezrizične kamatne stope u skladu s člankom 455. ovoga Zakona
+
+10. primjenu prijelazne mjere na tehničke pričuve u skladu s člankom 456. ovoga Zakona.
+
+(3) Agencija će od 1. travnja 2015. na zahtjev društva za osiguranje odnosno društva za reosiguranje donijeti rješenje kojim odlučuje o izdavanju odobrenja za:
+
+1. određivanje razine i opsega grupnog nadzora u skladu s člancima 298. – 302. ovoga Zakona
+
+2. određivanje nadzornog tijela grupe u skladu s člankom 329. ovoga Zakona
+
+3. uspostavljanje kolegija nadzornih tijela u skladu s člankom 330. ovoga Zakona.
+
+(4) Agencija će od 1. srpnja 2015. na zahtjev društva za osiguranje odnosno društva za reosiguranje donijeti rješenje kojim odlučuje o izdavanju odobrenja odnosno davanju suglasnosti za:
+
+1. umanjenje bilo kojeg sudjelovanja u skladu s člankom 313. stavkom 2. ovoga Zakona
+
+2. određivanje izbora metode izračuna solventnosti grupe u skladu s člankom 305. ovoga Zakona
+
+3. istovjetnosti u skladu s člancima 312. i 340. ovoga Zakona
+
+4. davanje suglasnosti društvu za osiguranje odnosno društvu za reosiguranje da se na isto primjenjuju članci 322. i 323. ovoga Zakona, u skladu s člankom 320. ovoga Zakona
+
+5. provjeru istovjetnosti iz članaka 342. i 343. ovoga Zakona
+
+6. primjenu prijelaznih mjera u skladu s člankom 454. ovoga Zakona.
+
+(5) Agencija će u rješenjima iz stavaka 2. – 4. ovoga članka kojima daje odobrenje ili suglasnost utvrditi da je društvo za osiguranje odnosno društvo za reosiguranje ovlašteno postupati u skladu s danim odobrenjem ili suglasnosti od 1. siječnja 2016.
+
+*Stupanje na snagu*
+
+##### Članak 464.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2016., osim članaka 111., 112., 113. i 124., članka 125. stavka 5., članka 135. stavka 7., članaka 143., 144., 298. – 302., članka 311. stavka 2., članaka 315. i 316., članka 318. stavka 5., članaka 329., 330., 455., 456. i 463 ovoga Zakona koji stupaju na snagu 1. travnja 2015. i članaka 305. i 312., članka 313. stavka 2., članaka 320., 322., 323., 340., 342., 343. i 454. ovoga Zakona koji stupaju na snagu 1. srpnja 2015.
+
+Klasa: 022-03/15-01/24
+
+Zagreb, 6. ožujka 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

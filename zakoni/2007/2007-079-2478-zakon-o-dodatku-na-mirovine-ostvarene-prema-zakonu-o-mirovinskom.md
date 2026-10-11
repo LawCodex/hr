@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/07"
-amendments: []
+last_amended: 2011-10-07
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/07, 114/11"
+amendments:
+  - "NN 114/2011 (2224) Zakon o dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2478"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2478).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -99,3 +103,52 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju (NN 114/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2224*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O DODATKU NA MIROVINE OSTVARENE PREMA ZAKONU O MIROVINSKOM OSIGURANJU
+
+Proglašavam Zakon o dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju, koji je Hrvatski sabor donio na sjednici 30. rujna 2011. godine.
+
+Klasa: 011-01/11-01/180  
+Urbroj: 71-05-03/1-11-2  
+Zagreb, 5. listopada 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O DODATKU NA MIROVINE OSTVARENE PREMA ZAKONU O MIROVINSKOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 79/07.) u članku 2. dodaje se stavak 8. koji glasi:
+
+»(8) Dodatak na mirovinu određen na način i pod uvjetima iz ovoga Zakona sastavni je dio mirovine ostvarene prema Zakonu o mirovinskom osiguranju.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2012.
+
+Klasa: 140-01/11-01/04  
+Zagreb, 30. rujna 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

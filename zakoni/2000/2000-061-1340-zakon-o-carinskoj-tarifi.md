@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2000-06-23
+last_amended: 2008-12-17
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "61/00"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "61/00, 146/08"
+amendments:
+  - "NN 146/2008 (4024) Zakon o izmjeni Zakona o carinskoj tarifi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1340"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o carinskoj tarifi
 
 > Izvor: Narodne novine, NN 61/2000 (https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1340).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 146/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -380,3 +384,53 @@ ODSJEK XIX<br>ORUŽJE I STRELJIVO; DIJELOVI I PRIBOR
 ODSJEK XX<br>RAZNI PROIZVODI
 
 ODSJEK XXI<br>UMJETNINE, KOLEKCIONARSKI PREDMETI I STARINE (ANTIKVITETI)
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o carinskoj tarifi (NN 146/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/146/4024*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O CARINSKOJ TARIFI
+
+Proglašavam Zakon o izmjeni Zakona o carinskoj tarifi, kojega je Hrvatski sabor donio na sjednici 5. prosinca 2008. godine.
+
+Klasa: 011-01/08-01/169
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 12. prosinca 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O CARINSKOJ TARIFI**
+
+### Članak 1.
+
+U Zakonu o carinskoj tarifi (»Narodne novine«, br. 61/00., 117/00. i 119/00.) članak 7. briše se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 413-01/08-01/02
+
+Zagreb, 5. prosinca 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

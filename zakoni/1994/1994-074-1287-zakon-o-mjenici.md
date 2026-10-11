@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-10-18
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1994; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "74/94"
-amendments: []
+last_amended: 2010-07-24
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "74/94, 92/10"
+amendments:
+  - "NN 92/2010 (2596) Zakon o izmjeni Zakona o mjenici"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1287"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o mjenici
 
 > Izvor: Narodne novine, NN 74/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1287).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1004,3 +1008,55 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 Predsjednik Zastupničkog doma Sabora
 
 dr. Nedjeljko Mihanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o mjenici (NN 92/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/92/2596*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O MJENICI
+
+Proglašavam Zakon o izmjeni Zakona o mjenici, koji je Hrvatski sabor donio na sjednici 15. srpnja 2010.
+
+Klasa: 011-01/10-01/89
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 20. srpnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O MJENICI**
+
+### Članak 1.
+
+U Zakonu o mjenici (»Narodne novine«, br. 74/94.) članak 103. mijenja se i glasi:
+
+»Potpis slijepih osoba na mjenici vrijedi bez ovjere. Iznimno na zahtjev slijepe osobe, kad ona smatra da je to potrebno zbog zaštite njezinih interesa, potpis se ovjerava na način uređen Zakonom o javnom bilježništvu. To isto vrijedi i za punomoć izdanu radi mjeničnog zaduženja.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 450-09/10-01/01
+
+Zagreb, 15. srpnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

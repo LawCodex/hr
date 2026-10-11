@@ -6,16 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1992-12-12
-last_amended: 2003-06-26
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+last_amended: 2013-12-11
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "86/92, 76/94, 108/95, 82/01, 103/03"
+narodne_novine: "86/92, 76/94, 108/95, 82/01, 103/03, 148/13"
 amendments:
   - "NN 76/1994 (1302) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 108/1995 (1785) Zakon o izmjeni Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 82/2001 (1407) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 103/2003 (1367) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
+  - "NN 148/2013 (3157) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2229"
 retrieved: 2026-10-12
 ---
@@ -24,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 86/1992 (https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2229).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1994, NN 108/1995, NN 82/2001, NN 103/2003.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1994, NN 108/1995, NN 82/2001, NN 103/2003, NN 148/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1058,9 +1059,9 @@ USTAV REPUBLIKE HRVATSKE
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim Odluku o proglašenju zakona o izmjeni zakona o zaštiti vojnih i civilnih invalida rata
 
-**ZAKON**
+ZAKON
 
-**O IZMJENI ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA**
+O IZMJENI ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA
 
 koji je zastupnički dom Sabora Republike Hrvatske donio na sjednici 12. prosinca 1995.
 
@@ -1068,19 +1069,19 @@ Broj: 01-95-2111/1
 
 Zagreb,19. prosinca 1995.
 
-*Predsjednik Republike Hrvatske*
+Predsjednik Republike Hrvatske
 
 dr. Franjo Tuđman, v. r.
 
-### Zakon
+**Zakon**
 
-### o izmjeni zakona o zaštiti vojnih i civilnih invalida rata
+**o izmjeni zakona o zaštiti vojnih i civilnih invalida rata**
 
-#### Članak 1.
+### Članak 1.
 
 U Zakonu o zaštiti vojnih i civilnih invalida rata ("Narodne novine", br. 33/92., 77/92., 58/93., 2/94. i 76/94.), u članku 106. stavku 1. riječi: "do 30. lipnja 1995. godine" zamjenjuju se riječima: "do 31. prosinca 1996. godine."
 
-#### Članak 2.
+### Članak 2.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
 
@@ -1669,3 +1670,260 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (NN 148/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3157*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata, koji je Hrvatski sabor donio na sjednici 4. prosinca 2013. godine.
+
+Klasa: 011-01/13-01/287  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 9. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01. i 103/03.), u članku 20.a stavku 3. riječi: »osnovice za određivanje opskrbnine« zamjenjuju se riječima: »33 % proračunske osnovice«, a riječi: »dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona« zamjenjuju se riječima: »60 % proračunske osnovice«.
+
+Stavak 5. briše se.
+
+#### Članak 2.
+
+Podnaslov iznad članka 34. i članak 34. brišu se.
+
+#### Članak 3.
+
+Članak 35. briše se.
+
+#### Članak 4.
+
+Članak 37. briše se.
+
+#### Članak 5.
+
+Članak 38. briše se.
+
+#### Članak 6.
+
+Članak 39. briše se.
+
+#### Članak 7.
+
+Članak 40. briše se.
+
+#### Članak 8.
+
+Članak 41. briše se.
+
+#### Članak 9.
+
+Članak 42. briše se.
+
+#### Članak 10.
+
+Članak 43. briše se.
+
+#### Članak 11.
+
+Članak 44. briše se.
+
+#### Članak 12.
+
+Članak 45. briše se.
+
+#### Članak 13.
+
+Članak 46. briše se.
+
+#### Članak 14.
+
+Podnaslov iznad članka 47. koji glasi: »2. Dodatak za pripomoć u kući« zamjenjuje se podnaslovom koji glasi: »1. Dodatak za pripomoć u kući«.
+
+#### Članak 15.
+
+U članku 47. stavku 1. riječ: »opskrbnine« zamjenjuje se riječima: »zajamčene minimalne naknade«.
+
+#### Članak 16.
+
+Podnaslov iznad članka 48.a koji glasi: »3. Besplatni udžbenici« zamjenjuje se podnaslovom koji glasi: »2. Besplatni udžbenici«.
+
+#### Članak 17.
+
+U članku 48.a stavak 4. mijenja se i glasi:
+
+"Osobe iz stavaka 1., 2. i 3. ovoga članka imaju pravo na besplatne obvezatne udžbenike, ako to pravo ne mogu ostvariti po drugim propisima i ako ispunjavaju prihodovni cenzus i druge uvjete predviđene pravilnikom iz stavka 6. ovoga članka.«.
+
+Iza stavka 4. dodaju se stavci 5., 6., 7. i 8. koji glase:
+
+"Iznos sredstava potrebnih za kupnju udžbenika iz ovoga članka osigurava ministarstvo nadležno za obrazovanje.
+
+Postupak za ostvarivanje prava iz ovoga članka provodi se sukladno uvjetima i načinu utvrđenim pravilnikom koji donosi ministar obrazovanja u suradnji s ministrom branitelja.
+
+Nadležni ured državne uprave u jedinici područne (regionalne) samouprave odnosno nadležno upravno tijelo Grada Zagreba je prvostupanjsko tijelo koje rješava o pravu na besplatne udžbenike.
+
+Drugostupanjsko tijelo za postupanje po rješenjima upravnih tijela i službenih osoba iz stavka 7. ovoga članka je ministarstvo nadležno za obrazovanje.«.
+
+#### Članak 18.
+
+Podnaslov iznad članka 48.b i članak 48.b brišu se.
+
+#### Članak 19.
+
+Podnaslov iznad članka 48.c koji glasi: »5. Posebni dodatak« zamjenjuje se podnaslovom koji glasi: »3. Posebni dodatak«.
+
+#### Članak 20.
+
+U članku 48.c. riječ: »opskrbnine« zamjenjuje se riječima: »zajamčene minimalne naknade«, a riječi: »dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona« zamjenjuju se riječima: »60% proračunske osnovice«.
+
+#### Članak 21.
+
+Podnaslov iznad članka 48.d koji glasi: »6. Stipendije« zamjenjuje se podnaslovom koji glasi: »4. Stipendije«.
+
+#### Članak 22.
+
+U članku 48.d stavku 1. riječi: »dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona« zamjenjuju se riječima: »60% proračunske osnovice«.
+
+U stavku 2. riječi: »ministar znanosti i tehnologije uz prethodnu suglasnost ministra rada i socijalne skrbi« zamjenjuju se riječima: »ministar nadležan za obrazovanje u suradnji s ministrom nadležnim za branitelje«.
+
+#### Članak 23.
+
+Podnaslov iznad članka 48.e koji glasi: »7. Prednost pri smještaju u učeničke, odnosno studentske domove« zamjenjuje se podnaslovom koji glasi: »5. Prednost pri smještaju u učeničke, odnosno studentske domove«.
+
+#### Članak 24.
+
+U članku 48.e riječi: »dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona« zamjenjuju se riječima: »60% proračunske osnovice«.
+
+#### Članak 25.
+
+Podnaslov iznad članka 48.f koji glasi: »8. Prednost pri zapošljavanju« zamjenjuje se podnaslovom koji glasi: »6. Prednost pri zapošljavanju«.
+
+#### Članak 26.
+
+U članku 48.f stavcima 2. i 4. brojka: »38.« zamjenjuje se brojkom: »35.«.
+
+#### Članak 27.
+
+Podnaslov iznad članka 48.g koji glasi: »9. Prednost pri smještaju u domove socijalne skrbi« zamjenjuje se podnaslovom koji glasi: »7. Prednost pri smještaju u domove socijalne skrbi«.
+
+#### Članak 28.
+
+Podnaslov iznad članka 48.h koji glasi: »10. Oslobađanje plaćanja naknade za prenamjenu poljoprivrednog zemljišta« zamjenjuje se podnaslovom koji glasi: »8. Oslobađanje plaćanja naknade za prenamjenu poljoprivrednog zemljišta«.
+
+#### Članak 29.
+
+Podnaslov iznad članka 48.i koji glasi: »11. Posebni staž« zamjenjuje se podnaslovom koji glasi: »9. Posebni staž«.
+
+#### Članak 30.
+
+Podnaslov iznad članka 48.j koji glasi: »12. Pravo na troškove prijevoza i pogreba« zamjenjuje se podnaslovom koji glasi: »10. Pravo na troškove prijevoza i pogreba«.
+
+#### Članak 31.
+
+U članku 52. stavcima 1. i 2. iza riječi: »uvećane obiteljske invalidnine« briše se zarez i dodaje riječ: »i«, a riječi: »i svota osnovice za određivanje opskrbnine« brišu se.
+
+#### Članak 32.
+
+U članku 53. riječi: »34. stavka 1. točke 5.« zamjenjuju se riječima: »20.a stavka 3., članka 48.c, članka 48.d stavka 1. i članka 48.e«.
+
+#### Članak 33.
+
+U članku 55. riječi: »svotu osnovice za određivanje opskrbnine« brišu se, a riječi: »ministar rada i socijalne skrbi« zamjenjuju se riječima: »ministar nadležan za branitelje«.
+
+#### Članak 34.
+
+U članku 56. stavku 1. riječi: »Ministar rada i socijalne skrbi« zamjenjuju se riječima: »Ministar nadležan za branitelje«.
+
+U stavku 2. riječi: »Ministar rada i socijalne skrbi« zamjenjuju se riječima: »Ministar nadležan za branitelje«.
+
+#### Članak 35.
+
+U članku 58. stavku 4. riječ: »Opskrbnina« i zarez iza nje brišu se.
+
+Stavak 5. briše se.
+
+U dosadašnjem stavku 6. koji postaje stavak 5. riječ: »opskrbninu« zamjenjuje se riječima: »zajamčenu minimalnu naknadu«.
+
+#### Članak 36.
+
+U članku 61. riječ: »opskrbnina« briše se.
+
+#### Članak 37.
+
+Članak 64. mijenja se i glasi:
+
+»Korisniku dodatka za pripomoć u kući koji boravi u inozemstvu prestaje pravo na dodatak za pripomoć u kući nakon tri mjeseca neprekidnog boravka u inozemstvu.«.
+
+#### Članak 38.
+
+U članku 65. stavku 2. riječi: »opskrbnine i« i druga rečenica brišu se.
+
+#### Članak 39.
+
+Članak 71. mijenja se i glasi:
+
+»O pravima iz ovoga Zakona u prvom stupnju rješava nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba, a u drugom stupnju ministarstvo nadležno za branitelje, ako nije drugačije predviđeno ovim Zakonom.
+
+O pravima iz ovoga Zakona za osobe koje nemaju prebivalište na teritoriju Republike Hrvatske u prvom stupnju rješava nadležno upravno tijelo Grada Zagreba, a u drugom stupnju ministarstvo nadležno za branitelje, odnosno ministarstvo nadležno za obrazovanje o pravu na besplatne udžbenike.«.
+
+#### Članak 40.
+
+U članku 79. Stavku 1. Riječ: »opskrbninu« briše se.
+
+#### Članak 41.
+
+U članku 87. stavku 1. riječ: »opskrbninu« briše se, a riječi: »ministar rada i socijalne skrbi« zamjenjuju se riječima: »ministar nadležan za branitelje.«.
+
+U stavku 2. Riječi: »Služba za računovodstvene poslove« brišu se, a riječi: »Ministarstva rada i socijalne skrbi« zamjenjuju se riječima: »ministarstvo nadležno za branitelje.«.
+
+#### Članak 42.
+
+U nazivu glave IX.a koji glasi: »KAZNENE ODREDBE« riječ: »KAZNENE« zamjenjuje se riječju: »PREKRŠAJNE«.
+
+#### Članak 43.
+
+U članku 98.a točka 1. briše se.
+
+Dosadašnje točke 2., 3., i 4. postaju točke 1., 2., i 3.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 44.
+
+Prava na opskrbninu i besplatne udžbenike ostvarena sukladno odredbama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01. i 103/03.) prestaju s danom stupanja na snagu ovoga Zakona.
+
+#### Članak 45.
+
+Nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba donijet će rješenja o prestanku isplate prava na doplatak za pripomoć u kući, u svim upravnim predmetima u kojima je ovo pravo priznato sukladno odredbama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01. i 103/03.).
+
+#### Članak 46.
+
+Pravilnik iz članka 48.a stavka 6. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01. i 103/03.), ministar obrazovanja donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 47.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/279  
+Zagreb, 4. prosinca 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2008-06-04
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "64/08"
-amendments: []
+last_amended: 2013-06-21
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "64/08, 76/13"
+amendments:
+  - "NN 76/2013 (1539) Uredba o dopunama Uredbe o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/64/2178"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama
 
 > Izvor: Narodne novine, NN 64/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/64/2178).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -289,3 +293,58 @@ Zagreb, 29. svibnja 2008.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopunama Uredbe o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1539*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 20. stavka 1. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 79/2006 i 105/2006 – ispravak), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2013. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA UREDBE O OBVEZAMA IZ PODRUČJA NACIONALNE SIGURNOSTI REPUBLIKE HRVATSKE ZA PRAVNE I FIZIČKE OSOBE U TELEKOMUNIKACIJAMA**
+
+### Članak 1.
+
+U Uredbi o obvezama iz područja nacionalne sigurnost Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama (»Narodne novine«, broj 64/2008), iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovom Uredbom se u pravni poredak Republike Hrvatske prenosi Direktiva 2006/24/EZ Europskog parlamenta i Vijeća od 15. ožujka 2006. o zadržavanju podataka dobivenih ili obrađenih u vezi s pružanjem javno dostupnih elektroničkih komunikacijskih usluga ili javnih komunikacijskih mreža i o izmjeni Direktive 2002/58/EZ (SL, L 105, 13. 4. 2006.).«.
+
+### Članak 2.
+
+Iza članka 40. dodaje se članak 40.a koji glasi:
+
+»Članak 40.a
+
+(1) Prikupljanje statističkih pokazatelja o zadržanim podacima koji su uređeni člankom 110. Zakona o elektroničkim komunikacijama za godišnje izvješćivanje Europske komisije o pristupu zadržanim podacima provodi Operativno-tehnički centar za nadzor telekomunikacija.
+
+(2) Statistički pokazatelji iz stavka 1. ovog članka sadrže:
+
+– slučajeve u kojima je informacija dostavljena nadležnim tijelima u skladu s važećim nacionalnim zakonodavstvom,
+
+– vrijeme koje je proteklo od dana od kada su podaci pohranjeni i dana kad je nadležno tijelo zatražilo prijenos podataka,
+
+– slučajeve u kojima nije bilo moguće ispuniti zahtjeve za podacima.
+
+(3) Statistički pokazatelji iz stavka 2. ovog članka ne sadrže osobne podatke.«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-03/72
+
+Urbroj: 50301-09/09-13-2
+
+Zagreb, 20. lipnja 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.

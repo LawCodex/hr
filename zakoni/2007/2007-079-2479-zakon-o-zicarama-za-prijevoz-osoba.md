@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/07"
-amendments: []
+last_amended: 2014-02-19
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/07, 61/11, 22/14"
+amendments:
+  - "NN 61/2011 (1362) Zakon o izmjenama Zakona o žičarama za prijevoz osoba"
+  - "NN 22/2014 (401) Zakon o izmjenama i dopunama Zakona o žičarama za prijevoz osoba"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2479"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o žičarama za prijevoz osoba
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2479).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 61/2011, NN 22/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -780,3 +785,361 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o žičarama za prijevoz osoba (NN 61/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1362*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ŽIČARAMA ZA PRIJEVOZ OSOBA
+
+Proglašavam Zakon o izmjenama Zakona o žičarama za prijevoz osoba, koji je Hrvatski sabor donio na sjednici 20. svibnja 2011. godine.
+
+Klasa: 011-01/11-01/120
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 27. svibnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ŽIČARAMA ZA PRIJEVOZ OSOBA**
+
+### Članak 1.
+
+U Zakonu o žičarama za prijevoz osoba (»Narodne novine«, br. 79/07. i 75/09.) u članku 1. stavku 3. umjesto zareza stavlja se točka, a riječi: »ako ovim Zakonom nije drugačije određeno« brišu se.
+
+### Članak 2.
+
+Članak 67. mijenja se i glasi:
+
+»(1) Inspektor pisanim rješenjem određuje zabrane, naredbe i druge mjere.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, u slučaju poduzimanja žurnih mjera radi otklanjanja neposredne opasnosti za promet žičare na siguran način, inspektor može rješenje donijeti i usmeno.
+
+(3) Upravitelj te druge pravne i fizičke osobe koje podliježu inspekcijskom nadzoru prema ovom Zakonu dužne su postupiti prema rješenju inspektora u roku određenom rješenjem.«.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 621-01/11-01/01
+
+Zagreb, 20. svibnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o žičarama za prijevoz osoba (NN 22/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/22/401*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŽIČARAMA ZA PRIJEVOZ OSOBA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o žičarama za prijevoz osoba, koji je Hrvatski sabor donio na sjednici 7. veljače 2014. godine.
+
+Klasa: 011-01/14-01/49
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 12. veljače 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŽIČARAMA ZA PRIJEVOZ OSOBA**
+
+### Članak 1.
+
+U Zakonu o žičarama za prijevoz osoba (»Narodne novine«, br. 79/07., 75/09. i 61/11.) u članku 1. stavak 1. mijenja se i glasi:
+
+»(1) Ovim se Zakonom uređuju bitni zahtjevi za projektiranje, proizvodnju, konstrukciju, građenje i rad žičara za prijevoz osoba (u daljnjem tekstu: žičara), uvjeti za sigurnost rada žičare i sigurnost osoba koje koriste žičare, upravljanje žičarom, dodjela koncesija u području žičara te nadležnost tijela za provođenje zakona i nadzor nad njegovom provedbom.«.
+
+### Članak 2.
+
+Iza članka 1. dodaju se članci 1.a i 1.b koji glase:
+
+»Članak 1.a
+
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva 2000/9/EZ Europskoga parlamenta i Vijeća od 20. ožujka 2000. o žičarama za prijevoz osoba (SL L br. 106, 3. 5. 2000.).
+
+### Članak 1.b
+
+(1) Građenje, rekonstrukcija i održavanje žičara za prijevoz osoba od interesa je za Republiku Hrvatsku.
+
+(2) Na postupak izvlaštenja nekretnina radi građenja, rekonstrukcije i održavanja žičara za prijevoz osoba primjenjuju se propisi o izvlaštenju.«.
+
+### Članak 3.
+
+U članku 2. stavku 5. iza podstavka 9. dodaje se podstavak 10. koji glasi:
+
+»– vučnice za skijanje na vodi.«.
+
+### Članak 4.
+
+U članku 3. točka 6. briše se.
+
+Dosadašnje točke 7. do 13. postaju točke 6. do 12.
+
+Dosadašnja točka 14. koja postaje točka 13. mijenja se i glasi:
+
+»13. »Ozbiljna nesreća« je izvanredni događaj u prometu žičarom koji je za posljedicu imao smrt i/ili tešku tjelesnu ozljedu najmanje jedne osobe, i/ili veliku materijalnu štetu na postrojenjima žičara.«.
+
+Dosadašnje točke 15. do 29. postaju točke 14. do 28.
+
+Dosadašnja točka 30. koja postaje točka 29. mijenja se i glasi:
+
+»29. »Upravitelj žičare« je pravna osoba koja je odgovorna za siguran rad žičare.«.
+
+Dosadašnje točke 31. do 39. postaju točke 30. do 38.
+
+### Članak 5.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»(1) Žičare moraju imati pomoćni pogon, a njegova energetska opskrba mora biti neovisna o energetskoj opskrbi glavnoga pogonskog sustava i sigurnosnog električnog kruga.«.
+
+### Članak 6.
+
+U članku 30. iza stavka 4. dodaju se novi stavak 5. i stavak 6. koji glase:
+
+»(5) Troškove rada Povjerenstva, koje čine troškovi prijevoza, smještaja i naknada za rad članova Povjerenstva, snosi podnositelj zahtjeva.
+
+(6) Način obračuna i isplate troškova te visinu naknade za rad članova Povjerenstva odlukom određuje ministar.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+### Članak 7.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Žičara može raditi samo na temelju odobrenja za rad žičare koje mora biti izvješeno stalno i na vidljivom mjestu.
+
+(2) Odobrenje za rad žičare za razdoblje od godinu dana daje Ministarstvo u upravnom postupku na temelju zahtjeva upravitelja žičare.
+
+(3) Protiv odobrenja za rad žičare iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom u roku od 30 dana od dana dostave rješenja.
+
+(4) Za novoizgrađene žičare odobrenje za rad se daje uz uvjet važeće uporabne dozvole.
+
+(5) Uz zahtjev za izdavanje odobrenja za rad žičare iz stavka 4. ovoga članka obvezno se prilaže uporabna dozvola, plan održavanja za sljedeću godinu te propisani dokumenti o sukladnosti.
+
+(6) Za postojeće žičare odobrenje za rad se daje uz uvjet izvršenoga godišnjega stručno tehničkoga pregleda (u daljnjem tekstu: stručni pregled) kojim se pozitivno ocjenjuje sposobnost za rad žičare za naredno razdoblje.
+
+(7) Uz zahtjev za izdavanje odobrenja za rad žičare iz stavka 6. ovoga članka obvezno se prilaže zapisnik o stručnom pregledu, izvršeni program održavanja za prethodnu godinu i plan održavanja za sljedeću godinu, te propisani dokumenti o sukladnosti.
+
+(8) Izgled, sadržaj i način vođenja zapisnika stručnoga pregleda, kao i popis dokumenata o sukladnosti propisuje ministar.
+
+(9) Ministarstvo vodi evidenciju žičara koje imaju odobrenje za rad žičare.
+
+(10) Način vođenja, sadržaj i izgled obrasca evidencije žičara propisuje ministar.«.
+
+### Članak 8.
+
+Naziv glave iznad članka 45. mijenja se i glasi: »V. POSTUPAK KOD IZVANREDNIH DOGAĐAJA«.
+
+### Članak 9.
+
+Članak 50. briše se.
+
+### Članak 10.
+
+Članak 51. mijenja se i glasi:
+
+»(1) U smislu ovoga Zakona i propisa kojim se uređuju koncesije, u području žičara daje se:
+
+– koncesija za gospodarsko korištenje općeg ili drugog dobra,
+
+– koncesija za javne radove,
+
+– koncesija za javne usluge.
+
+(2) Koncesija za javne usluge i koncesija za javne radove, u smislu ovoga Zakona, daje se za pravo obavljanja usluge javnog prijevoza osoba, odnosno za građenje žičara u svrhu obavljanja usluge javnog prijevoza.
+
+(3) Koncesije za gospodarsko korištenje općeg ili drugog dobra, u smislu ovog Zakona, daju se za građenje i upravljanje žičara u svrhu obavljanja isključivo komercijalne djelatnosti, a bez obveze pružanja javne usluge, pri čemu se koncesijom daje pravo korištenja općeg ili drugog dobra, dobra koje je zakonom određeno da je dobro od interesa za Republiku Hrvatsku te dobra u vlasništvu Republike Hrvatske odnosno jedinice lokalne ili područne (regionalne) samouprave.
+
+(4) Javnom uslugom smatrat će se pružanje javne usluge te izgradnja građevina u svrhu pružanja javne usluge, ako se ta usluga i ostvarenje tih radova pružaju na način i pod uvjetima kako je to odredio davatelj koncesije, što uključuje ali nije ograničeno na određenje trase koju žičara pokriva, kapacitet žičare, dostupnost i frekvenciju usluge.
+
+(5) U slučaju koncesije za javne radove ili koncesije za javne usluge, objekt žičare po isteku ugovora o koncesiji prelazi u vlasništvo davatelja koncesije bez naknade.
+
+(6) Koncesije u području žičara iz stavka 1. ovoga članka ne daju se za vučnice.
+
+(7) Na sva pitanja u svezi s koncesijama iz područja žičara koja nisu uređena ovim Zakonom primjenjuju se odredbe propisa kojima se uređuju koncesije.«.
+
+### Članak 11.
+
+Članak 52. mijenja se i glasi:
+
+»(1) Koncesije iz članka 51. stavka 1. ovoga Zakona daju nadležna tijela jedinica lokalne samouprave, uz prethodnu suglasnost Državnog ureda za upravljanje državnom imovinom, ministarstva nadležnog za financije i Ministarstva.
+
+(2) Za žičare čije trase prelaze preko područja više od jedne jedinice lokalne samouprave, koncesije daje nadležno tijelo jedinice lokalne samouprave u kojoj se nalazi ishodišna točka žičare.
+
+(3) Prije sklapanja ugovora o koncesiji iz područja žičara koncesionar je dužan razriješiti imovinskopravne odnose.«.
+
+### Članak 12.
+
+Članak 53. briše se.
+
+### Članak 13.
+
+U članku 54. stavak 2. briše se.
+
+### Članak 14.
+
+Članak 55. briše se.
+
+### Članak 15.
+
+Članak 56. briše se.
+
+### Članak 16.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Koncesije u području žičara daju se na rok najviše do 50 godina.
+
+(2) Kod određivanja roka na koji se daje koncesija uzima se u obzir visina ulaganja te gospodarski učinci koje koncesionar može ostvariti.«.
+
+### Članak 17.
+
+Članak 58. mijenja se i glasi:
+
+»(1) Davatelj koncesije i koncesionar sklapaju ugovor o koncesiji kojim se uređuju njihovi međusobni odnosi vezani uz danu koncesiju, a osobito se utvrđuje predmet koncesije, vrijeme trajanja koncesije, visina naknade za koncesiju i način plaćanja, mjere očuvanja i zaštite okoliša, obveze koncesionara i ostali odgovarajući podaci.
+
+(2) Naknada od koncesije prihod je proračuna jedinice lokalne samouprave.
+
+(3) U slučaju žičara čije trase prelaze preko područja više od jedne jedinice lokalne samouprave, prihod od koncesije dijeli se na način da svakoj jedinici lokalne samouprave pripadne dio naknade za koncesiju proporcionalno dijelu trase koji se nalazi na njenom području, osim ako međusobnim ugovorom nije drugačije riješeno.
+
+(4) Iznimno od stavka. 1. ovog članka, naknada za koncesiju ne mora se ugovoriti u slučajevima:
+
+– kada je studijom opravdanosti ili analizom davanja koncesije utvrđeno da naknada nije ekonomski opravdana,
+
+– kada je analizom davanja koncesije utvrđeno da se samim davanjem koncesije generiraju značajne gospodarske koristi kod drugih poslovnih subjekata na području iste jedinice lokalne samouprave davatelja koncesije čije je poslovanje gospodarski povezano s predmetom koncesije.«.
+
+### Članak 18.
+
+Članak 59. briše se.
+
+### Članak 19.
+
+Članak 60. mijenja se i glasi:
+
+»(1) Ako se za vrijeme trajanja ugovora o koncesiji javi potreba za izvođenjem određenih radova čije izvođenje ne predstavlja promjenu bitnih zahtjeva propisanih ovim Zakonom u odnosu na uvjete u skladu s kojima je žičara izgrađena, upravitelj žičare mora podnijeti davatelju koncesije prijedlog za sklapanje dodatka ugovoru o koncesiji. Dodatak ugovoru o koncesiji predstavlja izmjenu ugovora o koncesiji i provodi se u skladu s propisom kojim se uređuju koncesije.
+
+(2) Davatelj koncesije nastojat će pri izradi dokumentacije za nadmetanje, nacrta ugovora o koncesiji i sklapanju ugovora o koncesiji, predvidjeti moguće promjene uvjeta pružanja usluge i/ili potrebe izvođenja određenih radova.
+
+(3) Ako se određenim radovima namjerava mijenjati kapacitet žičare i/ili trasa žičare ili drugi bitni zahtjevi propisani ovim Zakonom u odnosu na uvjete u skladu s kojima je izgrađena, provodi se postupak davanja nove koncesije, osim ako takve promjene nisu bile predviđene samim ugovorom o koncesiji te dokumentacijom za nadmetanje u postupku davanja koncesije.«.
+
+### Članak 20.
+
+U članku 61. stavak 2. briše se.
+
+### Članak 21.
+
+Naziv glave iznad članka 72. mijenja se i glasi: »VIII. PREKRŠAJNE ODREDBE«.
+
+### Članak 22.
+
+U članku 72. stavci 3., 4. i 5. mijenjaju se i glase:
+
+»(3) Novčanom kaznom od 15.000,00 kuna kaznit će se za prekršaj voditelj i zamjenik ako postupaju suprotno odredbi članka 40. stavka 1. ovoga Zakona.
+
+(4) Novčanom kaznom od 10.000,00 kuna kaznit će se za prekršaj operater ako postupa suprotno odredbi članka 40. stavka 1. ovoga Zakona.
+
+(5) Novčanom kaznom od 1.000,00 kuna kaznit će se za prekršaj izvršni radnik ako postupa suprotno odredbi članka 40. stavka 1. ovoga Zakona.«.
+
+### Članak 23.
+
+Članak 73. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 40.000,00 do 100.000,00 kuna kaznit će se za prekršaj:
+
+1. pravna osoba ako ne izradi sigurnosnu analizu, ako ista ne obuhvaća sigurnosne uređaje i njihov utjecaj na postrojenje žičare ili ista nije izrađena u skladu s priznatom ili potvrđenom metodom u skladu s odredbom članka 22. stavka 1., 3. i 4. ovoga Zakona,
+
+2. pravna osoba ako rezultati sigurnosne analize nisu prikazani u sigurnosnom izvješću i ako sigurnosno izvješće nije izrađeno na hrvatskom jeziku u skladu s odredbom članka 23. stavka 1. i 2. ovoga Zakona,
+
+3. upravitelj ako se podsustav žičare koristi suprotno odredbi članka 25. ovoga Zakona,
+
+4. upravitelj ako ne izradi sve potrebne upute za rad žičare, osigura dnevno izvođenje unutarnjega nadzora, ne postavi znakove upozorenja kao i znakove opasnosti i ne vodi evidencije u skladu s odredbama članka 41. stavka 1., 2., 3. i 4. ovoga Zakona,
+
+5. upravitelj ako inspektoru ne omogući i ne osigura nesmetano obavljanje inspekcijskog nadzora u skladu s odredbom članka 64. stavka 2. ovog Zakona,
+
+6. upravitelj te druge pravne osobe, ako inspektoru ne osigura sve potrebne dozvole i ostale uvjete u skladu s odredbom članka 64. stavka 3. ovoga Zakona,
+
+7. upravitelj te druge pravne osobe koje podliježu inspekcijskom nadzoru prema ovom Zakonu, ako ne postupe prema rješenju inspektora u skladu s odredbom članka 67. stavka 3. ovoga Zakona,
+
+8. upravitelj ako inspekciji pravodobno ne dostavi opće i druge akte u skladu s odredbom članka 69. ovoga Zakona.
+
+(2) Novčanom kaznom od 1.000,00 do 5.000,00 kuna kaznit će se za prekršaj:
+
+1. fizička osoba ako ne izradi sigurnosnu analizu, ako ista ne obuhvaća sigurnosne uređaje i njihov utjecaj na postrojenje žičare ili ista nije izrađena u skladu s priznatom ili potvrđenom metodom u skladu s odredbom članka 22. stavka 1., 3. i 4. ovoga Zakona,
+
+2. fizička osoba ako rezultati sigurnosne analize nisu prikazani u sigurnosnom izvješću i ako sigurnosno izvješće nije izrađeno na hrvatskom jeziku u skladu s odredbom članka 23. stavka 1. i 2. ovoga Zakona,
+
+3. fizička osoba ako inspektoru ne osigura sve potrebne dozvole i ostale uvjete u skladu s odredbom članka 64. stavka 3. ovoga Zakona,
+
+4. fizička osoba koja podliježe inspekcijskom nadzoru prema ovom Zakonu ako ne postupi prema rješenju inspektora u skladu s odredbom članka 67. stavka 3. ovoga Zakona.«.
+
+### Članak 24.
+
+U članku 75. stavku 1. točka 5. mijenja se i glasi:
+
+»5. upravitelj ako sukladno odredbama članka 30. stavka 1. i 2. ovoga Zakona izvršni radnik nema propisano obrazovanje, ili ako nije svladao program stručne izobrazbe, ili ako nije položio stručni ispit, ili ako izvršnoga radnika stručno ne usavršava odnosno ne podučava, ili ako u opsegu značajnom za sigurnost prometa, periodično, a u propisanim slučajevima i izvanredno, ne provjerava njegovo znanje,«.
+
+U stavku 2. točka 5. briše se.
+
+Dosadašnja točka 6. postaje točka 5.
+
+### Članak 25.
+
+U članku 78. stavku 1. podstavku 3. riječi: »i iz članka 50. stavka 8.« brišu se.
+
+### Članak 26.
+
+Članak 85. briše se.
+
+### Članak 27.
+
+Za postojeće žičare nadležna tijela jedinica lokalne samouprave moraju pokrenuti postupak za davanje koncesije najkasnije u roku od godine dana od stupanja na snagu ovoga Zakona.
+
+### Članak 28.
+
+Ministar će odluku o načinu obračuna i isplate troškova te visinu naknade za rad članova Povjerenstva iz članka 6. ovoga Zakona donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 29.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/218
+
+Zagreb, 7. veljače 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2000-12-20
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "127/00"
-amendments: []
+last_amended: 2013-06-21
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "127/00, 76/13"
+amendments:
+  - "NN 76/2013 (1529) Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2354"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o poreznom savjetništvu
 
 > Izvor: Narodne novine, NN 127/2000 (https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2354).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -410,3 +414,179 @@ ZASTUPNIČKI DOM HRVATSKOGA SABORA
 Predsjednik  
 Zastupničkog doma Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1529*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. UStava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOM SAVJETNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu, koji je Hrvatski sabor donio na sjednici 14. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/143  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 18. lipnja 2013.
+
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOM SAVJETNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o poreznom savjetništvu (»Narodne novine«, br. 127/00.) iza članka 1. dodaje se naslov iznad članka i članak 1.a koji glase:
+
+*»Prijenos i provedba propisa Europske unije*
+
+### Članak 1.a
+
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva 2006/123/EZ Europskoga parlamenta i Vijeća od 12. prosinca 2006. o uslugama na unutarnjem tržištu.«.
+
+### Članak 2.
+
+Iza članka 6. dodaje se članak 6.a koji glasi:
+
+»Članak 6.a
+
+(1) Porezno-savjetnička društva iz države ugovornice Europskog gospodarskog prostora u Republici Hrvatskoj mogu osnivati svoje podružnice, sukladno obvezama Republike Hrvatske prema međunarodnim ugovorima, Zakonu o trgovačkim društvima i ovom Zakonu.
+
+(2) Podružnice iz stavka 1. ovoga članka mogu u Republici Hrvatskoj pružati usluge poreznog savjetovanja, koje uključuju usluge savjetovanja o porezima svoje matične države i o porezima država ugovornica Europskog gospodarskog prostora.«.
+
+### Članak 3.
+
+U članku 8. stavku 2. točka 4. mijenja se i glasi:
+
+»4. da nije kažnjen za kaznena djela protiv imovine, protiv sigurnosti platnog prometa i poslovanja, protiv pravosuđa, protiv vjerodostojnosti isprava te protiv službene dužnosti iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00. – Odluka Ustavnog suda Republike Hrvatske, 129/00., 51/01., 111/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11., 77/11. – Odluka Ustavnog suda Republike Hrvatske), i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s time što se u to vrijeme ne računa vrijeme provedeno na izdržavanju kazne ili da protiv njega nije izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno predmetom poreznog savjetništva.«.
+
+Iza točke 4. dodaje se točka 4.a koja glasi:
+
+»4.a da nije kažnjen za kaznena djela protiv imovine, protiv krivotvorenja, protiv službene dužnosti, te protiv pravosuđa iz Kaznenog zakona, i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s time što se u to vrijeme ne računa vrijeme provedeno na izdržavanju kazne ili da protiv njega nije izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno predmetom poreznog savjetništva.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. točke 3. ovoga članka, državljani države ugovornice Europskog gospodarskog prostora koji u Republici Hrvatskoj obavljaju porezno-savjetničku djelatnost moraju poznavati hrvatski jezik najmanje na razini koja je potrebna za nesmetanu i nužnu komunikaciju s primateljem usluga.«.
+
+### Članak 4.
+
+Iza članka 9. dodaje se naslov iznad članka i članci 9.a, 9.b, 9.c, 9.d, 9.e i 9.f koji glase:
+
+*»Obavljanje porezno-savjetničke djelatnosti stranih poreznih savjetnika u Republici Hrvatskoj*
+
+### Članak 9.a
+
+(1) Porezni savjetnik druge države koji je u matičnoj državi – državi ugovornici Europskog gospodarskog prostora stekao pravo obavljanja porezno-savjetničke djelatnosti može, u skladu s uvjetima koje propisuje ovaj Zakon, u Republici Hrvatskoj, uz uvjet uzajamnosti obavljati:
+
+1. porezno-savjetničke radnje sukladno članku 9.d ovoga Zakona,
+
+2. porezno-savjetničku djelatnost pod nazivom »porezni savjetnik« sukladno članku 9.b ovoga Zakona.
+
+(2) Matična je ona država u kojoj porezni savjetnik ima, prema propisima te države ugovornice Europskog gospodarskog prostora, pravo obavljati porezno-savjetničku djelatnost kao zanimanje.
+
+(3) Porezni savjetnik iz druge države, koja je država ugovornica Europskog gospodarskog prostora prema ovome Zakonu je porezni savjetnik koji prema propisima te države ima pravo obavljati porezno-savjetničku djelatnost kao zanimanje u toj ili nekoj od država ugovornica Europskog gospodarskog prostora.
+
+### Članak 9.b
+
+(1) Porezni savjetnik iz države ugovornice Europskog gospodarskog prostora upisuje se u Imenik stranih poreznih savjetnika koji u Republici Hrvatskoj mogu obavljati porezno-savjetničku djelatnost pod nazivom »porezni savjetnik«, sa svim pravima i dužnostima u obavljanju porezno-savjetničke djelatnosti, ako ispunjava uvjete iz članka 8. stavka 1., članka 8. stavka 2. točaka 1., 4. i 4.a, te članka 8. stavka 3. i članka 23. ovoga Zakona.
+
+(2) Porezni savjetnik mora u zahtjevu za upis u Imenik iz stavka 1. ovoga članka priložiti potvrdu o državljanstvu države ugovornice Europskog gospodarskog prostora, dokaz o tome da ima pravo obavljati djelatnost poreznog savjetnika u svojoj matičnoj državi, kao i druge dokaze o ispunjavanju uvjeta iz stavka 1. ovoga članka.
+
+(3) Uvjeti iz članka 8. stavka 1., članka 8. stavka 2. točaka 1., 4. i 4.a, članka 8. stavka 3., te članka 23. ovoga Zakona dokazuju se potvrdom, atestom ili nekim drugim dokumentom koji dokazuje da je zahtjev ispunjen izdanim po propisima matične države poreznog savjetnika. Dokazi ne smiju biti stariji od šest mjeseci te mogu biti priloženi u neovjerenom prijevodu na hrvatski jezik.
+
+(4) Na porezne savjetnike iz stavka 1. ovoga članka ne primjenjuju se odredbe članka 5. ovoga Zakona.
+
+### Članak 9.c
+
+(1) Porezni savjetnik iz članka 9.b ovoga Zakona može davati porezne savjete vezane za porezne postupke u svojoj matičnoj državi, Europskoj uniji i Republici Hrvatskoj.
+
+(2) Porezni savjetnik iz članka 9.b ovoga Zakona ne može biti biran u tijela Hrvatske komore poreznih savjetnika.
+
+### Članak 9.d
+
+(1) Porezni savjetnik iz države ugovornice Europskog gospodarskog prostora koji nije upisan u Imenik stranih poreznih savjetnika, na temelju odredaba članka 9.b ovoga Zakona, smije obavljati pojedine radnje (sloboda pružanja usluga) u okviru obavljanja porezno-savjetničke djelatnosti u skladu s odredbama iz članka 9.c ovoga Zakona.
+
+(2) Porezni savjetnik koji namjerava obavljati radnje na temelju stavka 1. ovoga članka dužan je o tome pismenim putem obavijestiti Hrvatsku komoru poreznih savjetnika te pružiti dokaze o osposobljenosti za obavljanje porezno-savjetničke djelatnosti i dokaze o osiguranju od profesionalne odgovornosti u matičnoj državi, pri čemu se na odgovarajući način primjenjuje odredba članka 23. ovoga Zakona. U obavijesti se mora navesti adresa u Republici Hrvatskoj ili odrediti punomoćnika za primanje pismena. U protivnom taj porezni savjetnik ne može obavljati djelatnost iz stavka 1. ovoga članka.
+
+(3) Na temelju obavijesti i dokaza iz stavka 2. ovoga članka Hrvatska komora poreznih savjetnika izdat će poreznom savjetniku potvrdu da može obavljati porezno-savjetničke usluge.
+
+(4) Porezni savjetnik iz države ugovornice Europskog gospodarskog prostora, kojemu je u Republici Hrvatskoj odbijen upis u Imenik stranih poreznih savjetnika zbog neispunjenja uvjeta propisanih ovim Zakonom, ne može u Republici Hrvatskoj obavljati porezno-savjetničke radnje. Nedostojnost za obavljanje porezno-savjetničke radnje utvrđuje upravnim aktom tijelo određeno Statutom Hrvatske komore poreznih savjetnika.
+
+(5) Protiv upravnog akta iz stavka 4. ovoga članka dopuštena je žalba nadležnom ministarstvu.
+
+### Članak 9.e
+
+(1) Pri obavljanju radnji porezni savjetnik iz članka 9.b i članka 9.d ovoga Zakona dužan je poštivati pravila Etičkog kodeksa poreznih savjetnika.
+
+(2) Pri obavljanju pojedinih radnji u Republici Hrvatskoj porezni savjetnik mora koristiti naziv iz svoje matične države izražen na službenom jeziku ili na jednom od službenih jezika svoje matične države uz naznaku profesionalne organizacije koja mu je dala odobrenje za obavljanje djelatnosti poreznog savjetnika u matičnoj državi i mjerodavnog tijela pri kojem je upisan u svojoj matičnoj državi.
+
+(3) Porezni savjetnik iz članka 9.d ovoga Zakona stegovno je odgovoran po ovom Zakonu kao da je upisan u Imenik poreznih savjetnika. Stegovne kazne i privremene mjere koje ograničavaju poreznog savjetnika mogu biti izrečene samo s valjanošću u Republici Hrvatskoj. Umjesto stegovne mjere brisanje iz Imenika izriče se zabrana obavljanja djelatnosti u Republici Hrvatskoj.
+
+(4) Stegovne mjere mogu se izreći poreznom savjetniku iz članka 9.d ovoga Zakona samo ako se u posebnom postupku, u skladu s ovim Zakonom, Statutom Hrvatske komore poreznih savjetnika i Etičkim kodeksom poreznih savjetnika, utvrdi da je porezni savjetnik odgovoran za povredu svoje dužnosti i ugleda porezno-savjetničkog zanimanja.
+
+### Članak 9.f
+
+U odlukama ovlaštenih tijela Hrvatske komore poreznih savjetnika kojima se u skladu s ovim Zakonom, Statutom Hrvatske komore poreznih savjetnika i Etičkim kodeksom poreznih savjetnika odbije upis u Imenik stranih poreznih savjetnika iz članka 9.b ovoga Zakona, kojima se odlučuje o brisanju iz toga Imenika, te kojima se odlučuje o izricanju stegovnih mjera, moraju se navesti razlozi za njihovo donošenje. Protiv tih odluka može se podnijeti pravni lijek u skladu s ovim Zakonom i Statutom Hrvatske komore poreznih savjetnika.«.
+
+### Članak 5.
+
+U članku 10. stavku 5. riječ: »propisuje« zamjenjuje se riječju: »uređuje«.
+
+### Članak 6.
+
+U članku 11. iza stavka 1. dodaju se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Odobrenje za rad poreznom savjetniku daje, odnosno uskraćuje upravnim aktom tijelo određeno Statutom hrvatske komore poreznih savjetnika.
+
+(3) Protiv upravnog akta iz stavka 2. ovoga članka dopuštena je žalba nadležnom ministarstvu.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 7.
+
+U članku 12. stavku 2. točka 2. mijenja se i glasi:
+
+»2. u slučaju iz točaka 2., 3. i 4. – pravomoćnošću rješenja kojim je odobrenje ukinuto.«.
+
+Točka 3. briše se.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Poreznim savjetništvom se ne smije baviti porezni savjetnik od dana izvršnosti rješenja iz stavka 3. ovoga članka.«.
+
+### Članak 8.
+
+U članku 14. stavku 2. riječ: »propisuje« zamjenjuje se riječju: »uređuje«.
+
+### Članak 9.
+
+U članku 23. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Stranim poreznim savjetnicima, koji imaju osiguranje ili jamstvo profesionalne odgovornosti ugovoreno u matičnoj državi ili drugoj državi ugovornici Europskog gospodarskog prostora, kao dokaz se prihvaćaju potvrde takvog osiguranja, izdane od kreditnih institucija i osiguravatelja s poslovnim nastanom u drugoj državi ugovornici Europskog gospodarskog prostora.«.
+
+### Članak 10.
+
+U članku 28. stavku 2. riječi: »jedinica područne i lokalne samouprave« zamjenjuju se riječima: »jedinica lokalne i područne (regionalne) samouprave«.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 2., 4. i 9. ovoga Zakona koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/127  
+Zagreb, 14. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

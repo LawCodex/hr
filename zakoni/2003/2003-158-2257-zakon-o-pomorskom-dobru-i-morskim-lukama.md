@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-07
-last_amended: 2006-12-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2016-06-17
+status: in_force
+status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "158/03, 141/06"
+narodne_novine: "158/03, 141/06, 38/09, 56/16"
 amendments:
   - "NN 141/2006 (3196) Zakon o izmjenama i dopunama Zakona o pomorskom dobru i morskim lukama"
+  - "NN 38/2009 (842) Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama"
+  - "NN 56/2016 (1447) Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2257"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 158/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2257).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 141/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 141/2006, NN 38/2009, NN 56/2016.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1692,3 +1694,131 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/842*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POMORSKOM DOBRU I MORSKIM LUKAMA
+
+Proglašavam Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/47
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POMORSKOM DOBRU I MORSKIM LUKAMA**
+
+### Članak 1.
+
+U Zakonu o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03., 100/04. i 141/06.) u članku 19. stavku 2., članku 20. stavku 2., članku 22. stavku 1., članku 36. stavku 3., članku 74. stavku 1., članku 75. stavku 2., članku 76. stavku 6. i članku 80. stavku 4. točki 1. riječi: »županijsko poglavarstvo« zamjenjuju se riječima: »županijska skupština« u odgovarajućem rodu i padežu.
+
+### Članak 2.
+
+U članku 4. stavku 4., članku 21. stavku 1., članku 44. stavku 2., članku 46. stavku 3., članku 51. stavku 2. točki 2., članku 51. stavku 3., članku 76. stavku 5. i članku 77. stavku 3. riječi: »županijsko poglavarstvo« zamjenjuju se riječima: »župan« u odgovarajućem rodu i padežu.
+
+### Članak 3.
+
+U članku 37. stavku 2. riječi: »Poglavarstvo županije, grada ili općine« zamjenjuju se riječima: »Župan, gradonačelnik ili općinski načelnik«.
+
+### Članak 4.
+
+U članku 44. stavku 2. riječi: »županijsko, gradsko ili općinsko poglavarstvo« zamjenjuju se riječima: »župan, gradonačelnik ili općinski načelnik«.
+
+### Članak 5.
+
+U članku 51. stavak 2. točki 3. riječi: »gradsko ili općinsko poglavarstvo« zamjenjuju se riječima: »gradonačelnik ili općinski načelnik«.
+
+### Članak 6.
+
+U članku 76. stavku 4. uvodna rečenica mijenja se i glasi: »Županijska skupština može raspustiti Upravno vijeće lučke uprave na prijedlog župana:«.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
+
+Klasa: 934-01/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama (NN 56/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/56/1447*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POMORSKOM DOBRU I MORSKIM LUKAMA
+
+Proglašavam Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama, koji je Hrvatski sabor donio na sjednici 3. lipnja 2016. godine.
+
+Klasa: 011-01/16-01/28
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 9. lipnja 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POMORSKOM DOBRU I MORSKIM LUKAMA**
+
+### Članak 1.
+
+U Zakonu o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03., 100/04., 141/06., 38/09. i 123/11.) u članku 19. stavku 3. riječi: »i posebnom rezervatu« brišu se.
+
+### Članak 2.
+
+U članku 26. stavku 1. riječi: »davatelja koncesije« zamjenjuju se riječima: »tijela koje provodi prethodni postupak za davanje koncesije«.
+
+### Članak 3.
+
+(1) Ugovori o koncesiji u posebnim rezervatima koji su sklopljeni temeljem Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03., 100/04., 141/06., 38/09. i 123/11.) ostaju na snazi do isteka vremena na koje su sklopljeni.
+
+(2) Ministarstvo je dužno u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona dostaviti jedinicama područne (regionalne) samouprave ugovore o koncesiji sklopljene za gospodarsko korištenje pomorskog dobra u posebnim rezervatima, kao i svu dokumentaciju temeljem koje su ugovori o koncesiji zaključeni.
+
+(3) Jedinice područne (regionalne) samouprave stupaju u pravni položaj davatelja koncesije te preuzimaju sva prava i obveze davatelja koncesije danom preuzimanja ugovora o koncesiji i dokumentacije iz stavka 2. ovoga članka, o čemu obavještavaju koncesionare.
+
+### Članak 4.
+
+Postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama ovoga Zakona.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/45
+
+Zagreb, 3. lipnja 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+akademik Željko Reiner, v. r.

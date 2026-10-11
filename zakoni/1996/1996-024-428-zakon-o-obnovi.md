@@ -6,15 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-03-26
-last_amended: 2000-06-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+last_amended: 2013-04-30
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "24/96, 54/96, 87/96, 57/00"
+narodne_novine: "24/96, 54/96, 87/96, 57/00, 38/09, 45/11, 51/13"
 amendments:
   - "NN 54/1996 (1002) Zakon o izmjenama Zakona o obnovi"
   - "NN 87/1996 (1522) Zakon o dopuni Zakona o obnovi"
   - "NN 57/2000 (1260) Zakon o izmjenama i dopunama Zakona o obnovi"
+  - "NN 38/2009 (836) Zakon o izmjenama Zakona o obnovi"
+  - "NN 45/2011 (1049) Zakon o izmjenama Zakona o obnovi"
+  - "NN 51/2013 (1048) Zakon o izmjenama Zakona o obnovi (NN br. 51A)"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/428"
 retrieved: 2026-10-12
 ---
@@ -23,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 24/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/428).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/1996, NN 87/1996, NN 57/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/1996, NN 87/1996, NN 57/2000, NN 38/2009, NN 45/2011, NN 51/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1037,3 +1040,283 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama Zakona o obnovi (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/836*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBNOVI
+
+Proglašavam Zakon o izmjenama Zakona o obnovi, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/41
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBNOVI**
+
+### Članak 1.
+
+U Zakonu o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96. i 57/00.), u članku 8. riječi: »Ministarstvo za javne radove, obnovu i graditeljstvo« zamjenjuju se riječima: »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva«.
+
+### Članak 2.
+
+U članku 9. stavku 2. riječi: »županijskih ureda za obnovu« zamjenjuju se riječima: »ureda državne uprave u županiji«.
+
+### Članak 3.
+
+U članku 12. stavku 2. i 3. riječi: »Ministarstvo zaštite okoliša i prostornog uređenja« zamjenjuju se riječima: »Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva«.
+
+### Članak 4.
+
+U članku 16. stavku 1. riječi: »županijski ured nadležan za poslove obnove »zamjenjuju se riječima: »ured državne uprave u županiji«, riječi: »poglavarstva općine odnosno grada« zamjenjuju se riječima: »općinskog načelnika odnosno gradonačelnika«.
+
+U stavku 5. i 6. riječi: »županijski ured nadležan za poslove obnove« zamjenjuju se riječima: »ured državne uprave u županiji«.
+
+### Članak 5.
+
+U članku 17. stavku 1. riječi: » općinskom odnosno gradskom poglavarstvu« zamjenjuju se riječima: »općinskom načelniku, odnosno gradonačelniku grada«, riječi: »Uredu za prognanike i izbjeglice Vlade Republike Hrvatske« zamjenjuju se riječima: »Upravi za područja posebne državne skrbi Ministarstva«, a riječi: »državnom pravobranitelju« zamjenjuju se riječima: »državnom odvjetništvu«.
+
+### Članak 6.
+
+U članku 20. stavku 3. riječi: »županijski ured nadležan za poslove obnove« zamjenjuju se riječima: »ured državne uprave u županiji«.
+
+### Članak 7.
+
+U članku 34. stavku 1. riječi: »županijski ured nadležan za poslove obnove« zamjenjuje se riječima: »ured državne uprave u županiji«, a riječi: »poglavarstva općine, odnosno grada« zamjenjuju riječima: »općinskog načelnika, odnosno gradonačelnika grada«.
+
+### Članak 8.
+
+U članku 39. stavku 6. riječi: »županijskom uredu nadležnom za poslove obnove« zamjenjuju se riječima: »uredu državne uprave u županiji«.
+
+### Članak 9.
+
+U članku 47. stavku 2. riječi: »Ministarstva gospodarstva, Ministarstva poljoprivrede i šumarstva, Ministarstva privatizacije i upravljanja imovinom« zamjenjuju se riječima: »Ministarstva gospodarstva, rada i poduzetništva, Ministarstva poljoprivrede, ribarstva i ruralnog razvoja, Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva«.
+
+### Članak 10.
+
+U članku 50. stavku 3. riječi: »Ministarstvu privatizacije i upravljanja imovinom« zamjenjuju se riječima: »Ministarstvu gospodarstva, rada i poduzetništva«.
+
+### Članak 11.
+
+U članku 58. stavku 2. riječi: »županijsko poglavarstvu« zamjenjuju se riječju: »župan«.
+
+### Članak 12.
+
+U članku 59. stavku 1. točki 2. i 3. riječi: »Ministarstvo pomorstva, prometa i veza« zamjenjuju se riječima: »Ministarstvo mora, prometa i infrastrukture«.
+
+U točki 4. i 5. riječi: »Državna uprava za vode« i »Ministarstvo poljoprivrede i šumarstva« zamjenjuju se riječima: »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva«.
+
+U točki 6. i 7. riječi: »Ministarstvo prostornog uređenja, graditeljstva i stanovanja« i »Državna uprava za zaštitu okoliša« zamjenjuju se riječima:"Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva«.
+
+U točki 9. riječi: »Ministarstvo uprave« zamjenjuju se riječima: »Središnji državni ured za upravu«.
+
+U točki 10. i 15. riječi: »Ministarstvo prosvjete i športa« zamjenjuju se u riječima: »Ministarstvo znanosti, obrazovanja i športa«.
+
+U točki 12. riječi: »Državna uprava za zaštitu kulturne i prirodne baštine« zamjenjuju se riječima: »Ministarstvo kulture«.
+
+U točki 13. i 14. riječi: »Ministarstvo zdravstva« i »Ministarstvo rada i socijalne skrbi« zamjenjuju se riječima: »Ministarstvo zdravstva i socijalne skrbi«.
+
+### Članak 13.
+
+Naslov Glave VII. mijenja se i glasi »DJELOKRUG ŽUPANA, GRADONAČELNIKA I OPĆINSKIH NAČELNIKA U OBNOVI«.
+
+### Članak 14.
+
+U članku 61. riječi: »županijska, gradska odnosno općinska poglavarstva« zamjenjuju se riječima: »župan, gradonačelnik, odnosno općinski načelnik«.
+
+### Članak 15.
+
+U članku 68. riječi: »županijskog ureda za obnovu« zamjenjuju se riječima: »ureda državne uprave u županiji«.
+
+### Članak 16.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
+
+Klasa:361-08/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o obnovi (NN 45/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1049*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBNOVI
+
+Proglašavam Zakon o izmjenama zakona o obnovi, koji je Hrvatski sabor donio na sjednici 8. travnja 2011. godine.
+
+Klasa: 011-01/11-01/54
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 12. travnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBNOVI**
+
+### Članak 1.
+
+U Zakonu o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96., 57/00. i 38/09.) u članku 17. stavci 3. i 4. brišu se.
+
+U dosadašnjem stavku 5., koji postaje stavak 3., riječi: »u roku od osam dana od dana dostave rješenja« brišu se.
+
+U dosadašnjem stavku 6., koji postaje stavak 4., riječi: »(»Narodne novine«, br. 53/91.), ako ovim Zakonom nije drukčije određeno« brišu se.
+
+### Članak 2.
+
+U cijelom tekstu Zakona o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96., 57/00. i 38/09.) riječi: »konačno rješenje« u odgovarajućem rodu, broju i padežu zamjenjuju se riječima: »izvršno rješenje« u odgovarajućem rodu, broju i padežu.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 361-08/11-01/01
+
+Zagreb, 8. travnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o obnovi (NN br. 51A) (NN 51/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1048*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBNOVI
+
+Proglašavam Zakon o izmjenama Zakona o obnovi, koji je Hrvatski sabor donio na sjednici 19. travnja 2013. godine.
+
+Klasa: 011-01/13-01/80
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 25. travnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBNOVI**
+
+### Članak 1.
+
+U Zakonu o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96., 57/00., 38/09. i 45/11.) u članku 8. riječi: »(u daljnjem tekstu: Ministarstvo)« brišu se.
+
+### Članak 2.
+
+U članku 12. stavku 2. riječi: »Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva« zamjenjuju se riječima: »ministarstvo nadležno za graditeljstvo i prostorno uređenje«.
+
+U stavku 3. riječi: »Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva« zamjenjuju se riječima: »Ministarstvo nadležno za graditeljstvo i prostorno uređenje«.
+
+### Članak 3.
+
+U članku 17. stavku 1. iza riječi: »stan« zarez i riječi: »te Upravi za područja posebne državne skrbi Ministarstva« brišu se.
+
+### Članak 4.
+
+U članku 47. stavku 2. riječi: »Ministarstva gospodarstva, rada i poduzetništva, Ministarstva poljoprivrede, ribarstva i ruralnog razvoja, Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva« zamjenjuju se riječima: »Državnog ureda za stambeno zbrinjavanje, ministarstava nadležnih za gospodarstvo, turizam, poljoprivredu, šumarstvo i vodno gospodarstvo te drugih tijela nadležnih za upravljanje državnom imovinom«.
+
+### Članak 5.
+
+U članku 48. stavku 2. riječi: »Ministarstva poljoprivrede i šumarstva« zamjenjuju se riječima: »ministarstva nadležnog za poljoprivredu«.
+
+### Članak 6.
+
+U članku 49. stavku 2. riječi: »Ministarstva poljoprivrede i šumarstva« zamjenjuju se riječima: »ministarstva nadležnog za poljoprivredu«.
+
+### Članak 7.
+
+U članku 50. stavku 3. riječi: »Ministarstvu gospodarstva, rada i poduzetništva« zamjenjuju se riječima: »ministarstvima nadležnima za gospodarstvo, poduzetništvo i obrt«.
+
+### Članak 8.
+
+U članku 59. stavku 1. riječi: »i to« brišu se.
+
+U točki 1. riječi: »Ministarstvo gospodarstva,« brišu se.
+
+U točkama 2. i 3. riječi: »Ministarstvo mora, prometa i infrastrukture,« brišu se.
+
+U točkama 4. i 5. riječi: »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva,« brišu se.
+
+U točkama 6. i 7. riječi: »Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva,« brišu se.
+
+U točki 8. riječi: »Ministarstvo unutarnjih poslova« zamjenjuju se riječima: »za unutarnje poslove«.
+
+U točki 9. riječi: »Središnji državni ured za upravu,« brišu se.
+
+U točki 10. riječi: »Ministarstvo znanosti, obrazovanja i športa,« brišu se.
+
+U točkama 11. i 12. riječi: »Ministarstvo kulture,« brišu se.
+
+U točkama 13. i 14. riječi: »Ministarstvo zdravstva i socijalne skrbi,« brišu se.
+
+U točki 15. riječi: »Ministarstvo znanosti, obrazovanja i športa,« brišu se.
+
+U stavku 2. riječi: »i državne upravne organizacije iz stavka 1. ovog članka« brišu se.
+
+### Članak 9.
+
+U cijelom tekstu Zakona o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96., 57/00., 38/09. i 45/11.) riječi: »Ministarstvo za javne radove, obnovu i graditeljstvo«, »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva« odnosno: »Ministarstvo« zamjenjuju se riječima: »Državni ured za stambeno zbrinjavanje«, a riječ: »ministar« riječima: »čelnik Državnog ureda za stambeno zbrinjavanje«, u odgovarajućem padežu.
+
+### Članak 10.
+
+Danom stupanja na snagu ovoga Zakona Agencija za pravni promet i posredovanje nekretninama preuzima od Ministarstva regionalnoga razvoja i fondova Europske unije dio poslova koji se odnose na tehničku realizaciju nabave, obnove i izgradnje stambenih jedinica za potrebe provedbe stambenih programa, u skladu s odredbama ovoga Zakona te opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti uredbu o unutarnjem ustrojstvu tijela iz stavka 1. ovoga članka.
+
+Čelnik tijela iz stavka 1. ovoga članka dužan je uskladiti pravilnik o unutarnjem redu prema odredbama ovoga Zakona, u roku od 30 dana od dana stupanja na snagu uredbe iz stavka 2. ovoga članka.
+
+### Članak 11.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. svibnja 2013.
+
+Klasa: 022-03/13-01/67
+
+Zagreb, 19. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

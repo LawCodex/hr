@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-11-21
-last_amended: 2006-05-29
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2011-11-16
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 136/2002 (2194) https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2194"
-narodne_novine: "136/02, 112/05, 59/06"
+narodne_novine: "136/02, 112/05, 59/06, 74/11, 130/11"
 amendments:
   - "NN 112/2005 (2062) Zakon o dopunama Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj"
   - "NN 59/2006 (1428) Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj"
+  - "NN 74/2011 (1576) Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj"
+  - "NN 130/2011 (2613) Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2194"
 retrieved: 2026-10-12
 ---
@@ -25,7 +27,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 136/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2194).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 112/2005, NN 59/2006.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 112/2005, NN 59/2006, NN 74/2011, NN 130/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -213,3 +215,102 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 74/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/74/1576*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O BLAGDANIMA, SPOMENDANIMA I NERADNIM DANIMA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 17. lipnja 2011. godine.
+
+Klasa: 011-01/11-01/136  
+Urbroj: 71-05-03/1-11-2  
+Zagreb, 24. lipnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O BLAGDANIMA, SPOMENDANIMA I NERADNIM DANIMA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Zakonu o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (»Narodne novine«, br. 33/96., 96/01., 13/02., 136/02. – pročišćeni tekst, 112/05., 59/06. i 55/08.) u članku 2. stavku 1. iza riječi: »države« riječ: »i« briše se i stavlja se zarez, a na kraju rečenice briše se točka i dodaju riječi: »i 23. kolovoza – Europski dan sjećanja na žrtve svih totalitarnih i autoritarnih režima.«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»Europski dan sjećanja na žrtve svih totalitarnih i autoritarnih režima, kao dan spomena na žrtve totalitarnih i autoritarnih režima, obilježava se dostojanstveno i nepristrano.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 960-01/11-01/04  
+Zagreb, 17. lipnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 130/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2613*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O BLAGDANIMA, SPOMENDANIMA I NERADNIM DANIMA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 28. listopada 2011. godine.
+
+Klasa: 011-01/11-01/220
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 4. studenoga 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O BLAGDANIMA, SPOMENDANIMA I NERADNIM DANIMA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Zakonu o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (»Narodne novine«, br. 33/96., 96/01., 13/02., 136/02. – pročišćeni tekst, 112/05., 59/06., 55/08. i 74/11.) u članku 2. stavku 1. iza riječi: »Republike Hrvatske« briše se riječ: »i« i stavlja se zarez, a na kraju rečenice briše se točka, stavlja se zarez i dodaju se riječi: »15. ožujka – dan osnivanja Narodne zaštite i 30. travnja – dan pogibije Zrinskog i Frankopana.«.
+
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+
+»Dan osnivanja Narodne zaštite u Republici Hrvatskoj, kao spomendan Narodne zaštite, obilježava se primjereno i dostojanstveno.
+
+Dan pogibije Petra Zrinskog i Frana Krste Frankopana primjereno i dostojanstveno obilježava se kao spomendan na Zrinske i Frankopane kao simbola žrtve za slobodu i pravdu hrvatskoga naroda i hrvatske domovine uz geslo – Navik on živi ki zgine pošteno.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 960-01/11-01/06
+
+Zagreb, 28. listopada 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

@@ -284,9 +284,9 @@ PREDSJEDNIK REPUBLIKE HRVATSKE
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim odluku o proglašenju zakona o izmjenama i dopunama zakona o Hrvatskoj Kreditnoj Banci Za obnovu
 
-**ZAKON**
+ZAKON
 
-**O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOJ KREDITNOJ BANCI ZA OBNOVU**
+O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOJ KREDITNOJ BANCI ZA OBNOVU
 
 Koji je zastupnički dom sabora republike hrvatske donio na sjednici 13. Prosinca 1995.
 
@@ -294,19 +294,19 @@ Broj : 01-95-2113/1
 
 Zagreb,19. prosinca 1995.
 
-*Predsjednik Republike Hrvatske*
+Predsjednik Republike Hrvatske
 
 dr. Franjo Tuđman, v. r.
 
-### Zakon
+**Zakon**
 
-### o izmjenama i dopunama zakona o Hrvatskoj Kreditnoj Banci za obnovu
+**o izmjenama i dopunama zakona o Hrvatskoj Kreditnoj Banci za obnovu**
 
-#### Članak 1.
+### Članak 1.
 
 U Zakonu o Hrvatskoj kreditnoj banci za obnovu ("Narodne novine", br. 33/92. i 76/93.) naziv Zakona mijenja se i glasi: "Zakon o Hrvatskoj banci za obnovu i razvitak".
 
-#### Članak 2.
+### Članak 2.
 
 Ispred članka 1. dodaje se podnaslov koji glasi:
 
@@ -322,13 +322,13 @@ Stavak 4. mijenja se i glasi:
 
 "Sjedište Hrvatske banke za obnovu i razvitak (u daljnjem tekstu: HBOR) je u Zagrebu."
 
-#### Članak 3.
+### Članak 3.
 
 Članak 2. mijenja se i glasi.
 
 "Republika Hrvatska osigurava osnivački kapital HBOR u visini od 3.700.000.000,00 kuna. Dinamiku uplate osnivačkog kapitala određuje Vlada Republike Hrvatske."
 
-#### Članak 4.
+### Članak 4.
 
 Članak 3. mijenja se i glasi:
 
@@ -336,7 +336,7 @@ Stavak 4. mijenja se i glasi:
 
 Za obvezu HBOR iz stavka 1. ovoga članka jamči Republika Hrvatska."
 
-#### Članak 5.
+### Članak 5.
 
 Ispred članka 4. dodaje se podnaslov koji glasi :
 
@@ -354,11 +354,11 @@ Ispred članka 4. dodaje se podnaslov koji glasi :
 
 Vlada Republike Hrvatske može odlučiti da HBOR obavlja i druge financijske poslove ukoliko ocijeni da je to u interesu Republike Hrvatske."
 
-#### Članak 6.
+### Članak 6.
 
 Članak 4a. briše se.
 
-#### Članak 7.
+### Članak 7.
 
 Članak 5. mijenja se i glasi:
 
@@ -368,13 +368,13 @@ U stavku 1. ovoga članka navedeni krediti u pravilu se odobravaju kao srednje i
 
 Od strane HBOR odobreni krediti, data jamstva i drugi poslovi moraju biti osigurani na, u bankarskom poslovanju, uobičajeni način. Rizici izmjerke kamatnih stopa, promjene valutnih tečajeva i izmjene rokova moraju biti bez odgovarajuće bankarske poslove svedeni na minimum."
 
-#### Članak 8.
+### Članak 8.
 
 Iza članka 6. dodaje se podnaslov i članci 6a, do 6m. koji glase:
 
 " III. KREDITlRANJE I OSIGURANJE IZVOZNlH POSLOVA
 
-#### Članak 6a.
+### Članak 6a.
 
 Izvozni poslovi domaćih izvoznika koji su određeni ovim Zakonom mogu se osiguravati od nekomercijalnih rizika te mogu biti financirani i na drugi način podržani u skladu s odredbama ovoga Zakona, pod uvjetom da domaći sadržaj iznosi najmanje 60% po pojedinom ugovoru, odnosno da uvozna komponenta ne prelazi 40%.
 
@@ -382,7 +382,7 @@ U slučaju nastanka štete ostvarenjem jednog od rizika predviđenih ovim Zakono
 
 Republika Hrvatska jamči za obveze koje su za HBOR proizašle iz izdanih jamstava, iz uzetih i dobivenih kredita, te izdanih vrijednosnih papira po osnovi pružanja financijske i druge potpore izvoznim poslovima.
 
-#### Članak 6b.
+### Članak 6b.
 
 Pod izvoznim poslovima u smislu ovoga Zakona razumijeva se:
 
@@ -402,7 +402,7 @@ Pod izvoznim poslovima u smislu ovoga Zakona razumijeva se:
 
 2. Proizvodnja robe za izvoz prema posebnim narudžbama, na temelju ugovora s inozemnim kupcem.
 
-#### Članak 6c.
+### Članak 6c.
 
 Nekomercijalnim rizicima prema ovome Zakonu podrazumijevaju se slučajevi kada domaći izvoznik ne može naplatiti potraživanja od inozemnih poslovnih partnera pod uvjetom da je to potraživanje osigurano kod HBOR uslijed:
 
@@ -426,21 +426,21 @@ l. Nacionalizacije, eksproprijacije ili drugih mjera države koji se mogu izjedn
 
 3. Uništenja ili oštećenja imovine uslijed ratnih događanja u ratu što ga vodi država u kojoj je ulaganje imovine izvršeno, odnosno političkih prilika u toj državi.
 
-#### Članak 6d.
+### Članak 6d.
 
 Osiguranik sam snosi najmanje 15%, od iznosa štete po pojedinom događaju do kojeg je došlo nastankom rizika određenog ovim Zakonom.
 
-#### Članak 6e.
+### Članak 6e.
 
 Domaći izvoznik, ukoliko ugovori poslove iz članka 6b. ovoga Zakona sa rokom naplate preko jedne godine te s te osnove pribavi osiguranje, jamstvo ili kredit po ovom Zakonu, dužan je od strane kupca naplatiti predujam (avans) najmanje u visini 15% od ugovorenog iznosa, premiju osiguranja kao i osigurati odgovarajuće jamčevine za naplatu svojih potraživanja.
 
-#### Članak 6f.
+### Članak 6f.
 
 HBOR može ugovorom povjeriti vođenje tehničkih poslova osiguranja od rizika predviđenih ovim Zakonom, društvu za osiguranje osposobljenom za obavljanje takve vrste poslova.
 
 Društvo za osiguranje iz stavka 1. ovoga članka osigurat će sredstva rada za obavljanje preuzetih poslova u skladu s ugovorom.
 
-#### Članak 6g.
+### Članak 6g.
 
 HBOR osim poslova osiguranja provodi i slijedeće poslove:
 
@@ -452,13 +452,13 @@ HBOR osim poslova osiguranja provodi i slijedeće poslove:
 
 Kod poslova kreditiranja i refinanciranja koji prelaze 20 milijuna kuna pojedinačno, te kod poslova izdavanja garancija koji prelaze 50 milijuna kuna pojedinačno, suglasnost daje Ministarstvo financija.
 
-#### Članak 6h.
+### Članak 6h.
 
 H BOR u ime i za račun Republike Hrvatske obavlja stručne i tehničke poslove u svezi s regresiranjem kamata na srednjoročne i dugoročne izvozne kredite i druge stručne i tehničke poslove koje određuju posebni propisi.
 
 Vlada Republike Hrvatske može na prijedlog HBOR za osiguranje i financiranje izvoza donijeti odluku o držanju posebnih računa u inozemstvu ukoliko ocijeni da je to od interesa za Republiku Hrvatsku.
 
-#### Članak 6i.
+### Članak 6i.
 
 Državnim proračunom Republike Hrvatske odredit će se godišnji okvirni limit pokrića za poslove osiguranja, zaduženja i odobrenja kredita za izvozne poslove, a Zakonom o izvršenju državnog proračuna utvrdit će se sredstva rezervi u skladu sa dinamikom dospijeća obveza proizašlih iz poslovanja HBOR shodno ovom Zakonu.
 
@@ -466,27 +466,27 @@ Ministarstvo financija zaključuje ugovor s HBOR o korištenju i povratu sredsta
 
 Sredstva isplaćena iz državnog proračuna po osnovi jamstva iz članka 6a. ovoga Zakona smatraju se pozajmicom HBOR-a na koju se zaračunava kamata u visini eskontne stope Narodne banke Hrvatske.
 
-#### Članak 6j.
+### Članak 6j.
 
 Osiguranjem izvoznih poslova HBOR ostvaruje premiju osiguranja.
 
 Ostvarena sredstva od premije osiguranja tijekom godine koriste se za naknadu šteta.
 
-#### Članak 6k.
+### Članak 6k.
 
 Dio prihoda HBOR koji preostane nakon podmirenja rashoda iz članka 6j. ovoga Zakona unosi se u posebne rezerve sigurnosti HBOR.
 
-#### Članak 6l.
+### Članak 6l.
 
 U slučaju da su tijekom godine veći rashodi od prihoda štete će se naknaditi iz posebnih rezervi sigurnosti.
 
 Ukoliko nisu dovoljne posebne rezerve sigurnosti za podmirenje obveza HBOR koristit će se instrumenti i sredstva državnog proračuna.
 
-#### Članak 6m.
+### Članak 6m.
 
 U svrhu određivanja poslovne politike osiguranja od nekomercijalnih rizika kao i ostvarenja regresnih prava u stranim državama i od stranih država, kao i reguliranje drugih pitanja Ministarstvo vanjskih poslova kao i druge državne institucije surađivat će s HBOR.
 
-#### Članak 9.
+### Članak 9.
 
 Ispred članka 7. dodaje se podnaslov koji glasi "IV. TIJELA HBOR I OVLASTI".
 
@@ -494,7 +494,7 @@ Ispred članka 7. dodaje se podnaslov koji glasi "IV. TIJELA HBOR I OVLASTI".
 
 "Tijela HBOR su Nadzorni odbor i uprava".
 
-#### Članak 10.
+### Članak 10.
 
 Članak 8. mijenja se i glasi:
 
@@ -512,7 +512,7 @@ Nadzorni odbor imenuje i razrješava članove Uprave te zastupa HBOR u odnosima 
 
 Nadzorni odbor donosi Statut HBOR i druge opće akte HBOR čije donošenje je stavljeno u njegovu nadležnost."
 
-#### Članak 11.
+### Članak 11.
 
 Članak 9. mijenja se i glasi:
 
@@ -530,7 +530,7 @@ Predsjednik Uprave ima prava, dužnosti i obveze utvrđene ovim Zakonom i Statut
 
 Svaki član Uprave ima djelokrug ovlaštenja i zaduženja koja mu, u skladu sa ovim Zakonom i Statutom HBOR i posebnom svojom odlukom dodijeli Predsjednik Uprave. Zaduženja svakog člana Uprave mogu se u toku mandata mijenjati i ponovo definirati."
 
-#### Članak 12.
+### Članak 12.
 
 Članak 10. mijenja se i glasi:
 
@@ -550,7 +550,7 @@ Statutom HKBO uređuje se način rada, poslovanja i ustroj HBOR i mora među ost
 
 5. o drugim za upravljanje HBOR-om važnim pitanjima."
 
-#### Članak 13.
+### Članak 13.
 
 Članak 11. stavak 1. mijenja se i glasi : "Nadzorni odbor utvrđuje godišnja finanancijska izvješća HBOR-a, te ih podnosi na potvrdu Vladi Republike Hrvatske i Saboru Republike Hrvatske.
 
@@ -558,15 +558,15 @@ Dodaju se novi stavci koji glase: "Izvješća su prihvaćena kada ih prihvate Vl
 
 Za poslove revizije HBOR-a nadležna je Državna revizija. Nadzorni odbor pored Državne revizije može uposliti domaćeg ili inozemnog poslovnog revizora."
 
-#### Članak 14.
+### Članak 14.
 
 Članak 14. briše se.
 
-#### Članak 15.
+### Članak 15.
 
 U članku 15. dodaje se novi stavak l. koji glasi "HBOR se ne upisuje u sudski upisnik." Dosadašnji stavak 1. postaje stavak 2.
 
-#### Članak 16.
+### Članak 16.
 
 Članak 16. briše se.
 
@@ -580,7 +580,7 @@ Ukoliko ovim Zakonom nije drugačije određeno na ustroj i poslovanje HBOR primj
 
 HBOR ne mora formirati rezerve, kao ni posebne rezerve banke određene Zakonom o bankama i štedionicama. Pored navedenog, na poslovanje HBOR-a ne primjenjuju se ni odredbe članka 10. točke 1. i 7. Zakona o Narodnoj banci Hrvatske."
 
-#### Članak 18.
+### Članak 18.
 
 Iza članka 18. dodaje se novi članak 18a, koji glasi
 
@@ -588,7 +588,7 @@ Iza članka 18. dodaje se novi članak 18a, koji glasi
 
 Stupanjem na snagu ovoga Zakona prestaju važiti odredbe Zakona o osiguranju izvoznih poslova od nekomercijalnih rizika ("Narodne novine", br. 53/94.), Odluka o osnivanju Hrvatskog ureda za osiguranje izvoznih poslova ("Narodne novine", br. 8/95.) i Rješenja o imenovanju članova Upravnog odbora ("Narodne novine", br. 7/95. i 40/95.)."
 
-#### Članak 19.
+### Članak 19.
 
 Ovaj Zakon stupa na snagu danom objave u "Narodnim novinama".
 

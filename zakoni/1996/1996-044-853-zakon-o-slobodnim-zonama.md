@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-06-05
-last_amended: 2005-07-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2013-12-11
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "44/96, 92/05"
+narodne_novine: "44/96, 92/05, 85/08, 148/13"
 amendments:
   - "NN 92/2005 (1832) Zakon o izmjeni Zakona o slobodnim zonama"
+  - "NN 85/2008 (2732) Zakon o izmjenama i dopunama Zakona o slobodnim zonama"
+  - "NN 148/2013 (3152) Zakon o izmjenama i dopunama Zakona o slobodnim zonama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/44/853"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 44/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/44/853).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2005, NN 85/2008, NN 148/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -545,3 +547,265 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o slobodnim zonama (NN 85/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2732*
+
+HRVATSKI SABOR
+
+2732
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SLOBODNIM ZONAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o slobodnim zonama, kojega je Hrvatski sabor donio na sjednici 9. srpnja 2008. godine.  
+Klasa: 011-01/08-01/93  
+Urbroj: 71-05-03/1-08-2  
+Zagreb,15. srpnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+### ZAKON
+
+### O IZMJENAMA I DOPUNAMA ZAKONA O SLOBODNIM ZONAMA
+
+Članak 1.  
+U Zakonu o slobodnim zonama (»Narodne novine«, br. 44/96. i 92/05.) članak 4. mijenja se i glasi:  
+»U zonu se može slobodno unositi roba.  
+Roba koja se unosi u zonu mora glede zdravstvene, veterinarske ili fitopatološke ispravnosti udovoljavati uvjetima koji su propisani u Republici Hrvatskoj.  
+U zoni se može obavljati: proizvodnja robe, oplemenjivanje robe, skladištenje robe trgovina na veliko, strateške aktivnosti poslovne podrške, aktivnosti osnivanja tehnoloških razvojno-inovacijskih centara te pružanje usluga, osim bankarskih i drugih novčanih poslova i usluga osiguranja i reosiguranja imovine i osoba.  
+U zoni nije dopušteno obavljanje trgovine na malo.«  
+Članak 2.  
+Članak 26. mijenja se i glasi:  
+»Korisnici zone mogu biti osnivač zone te druge domaće i strane fizičke i pravne osobe (u daljnjem tekstu: korisnici).  
+Domaće i strane fizičke i pravne osobe mogu obavljati gospodarsku djelatnost u zoni ako su registrirane u Republici Hrvatskoj za obavljanje te djelatnosti te ako ispunjavaju uvjete propisane ovim Zakonom.  
+Korisnici obavljaju gospodarsku djelatnost u zoni na temelju ugovora sklopljenog s osnivačem zone.  
+Korisnici su dužni voditi knjigovodstvo za poslovanje u zoni, ili odvojeno knjigovodstvo za dio svog poslovanja koje obavljaju u zoni.«  
+Članak 3.  
+Članak 33. mijenja se i glasi:  
+»Korisnik u zoni može obavljati sve oblike trgovine s inozemstvom i tuzemstvom i posredovanja u trgovini, osim trgovine na malo.  
+Na poslove trgovine i posredovanja u trgovini s inozemstvom, ne odnose se ograničenja iz zakona kojima se uređuje ovaj oblik trgovine.  
+Na postupke i postupanja s robom u zoni primjenjuju se carinski propisi.  
+Obavljanjem gospodarske djelatnosti u zoni ne smije se ugrožavati prirodni i radni okoliš.«  
+Članak 4.  
+Članak 36. mijenja se i glasi:  
+»Na korisnike zona koji vrše početno ulaganje, primjenjuju se poticajne mjere iz Zakona o poticanju ulaganja (»Narodne novine«, br. 138/06.).  
+Korisnici zona koji su do stupanja na snagu ovoga Zakona uložili u gradnju ili sudjelovali u izgradnji objekata ulaganjem više od 1.000.000,00 kuna, a pri tome nisu iskoristili gornju granicu dopuštenog intenziteta potpore za ulaganje propisane kartom regionalnih potpora, ostvaruju pravo na oslobođenje plaćanja poreza na dobit do godine u kojoj će iskoristiti gornju granicu dopuštenog intenziteta potpore za ulaganje, propisane kartom regionalnih potpora, ali najdulje do 31. prosinca 2016.  
+Pri izračunu maksimalnog intenziteta potpore – gornje granice dopuštenog intenziteta potpore za ulaganje, izraženog kao bruto ekvivalent potpore, u obzir se uzimaju, s jedne strane, kumulativni iznosi iskorištenih potpora za ulaganje do stupanja na snagu ovoga Zakona, uključujući i potpore iz drugih izvora, povezane s opravdanim troškovima ulaganja, a s druge strane kumulativni iznos realiziranih ulaganja do stupanja na snagu ovoga Zakona za svakog korisnika zone iz stavka 2. ovoga članka.  
+Maksimalni intenzitet potpore za ulaganje iz stavka 3. ovoga članka, izračunava se kao bruto ekvivalent potpore, sukladno odredbama članka 2. stavka 7. Zakona o poticanju ulaganja i ne smije prelaziti iznos gornje granice dopuštenog intenziteta potpore utvrđenog kartom regionalnih potpora.  
+Pri izračunu visine opravdanih troškova ulaganja iz stavka 3. ovoga članka, u obzir se uzimaju opravdani troškovi ulaganja sukladno odredbama članka 2. stavka 5. Zakona o poticanju ulaganja.  
+Korisnici zona koji namjeravaju koristiti potpore za ulaganje propisane stavkom 2. ovoga članka, dužni su do 31. prosinca 2008. dostaviti Ministarstvu gospodarstva, rada i poduzetništva, izračun vrijednosti izvršenih ulaganja i iskorištenih potpora za ulaganje iz stavka 2. ovoga članka, sukladno odredbama stavka 4. i 5. ovoga članka, ovjeren od strane nezavisne pravne ili fizičke osobe ovlaštene za poslove procjene i izračuna vrijednosti ulaganja.  
+Pravilnik o načinu izračuna vrijednosti izvršenih ulaganja i iskorištenih potpora za ulaganje iz stavka 6. ovoga članka donosi ministar nadležan za gospodarstvo uz suglasnost ministra financija.«  
+Članak 5.  
+Iza članka 37. dodaju se članci 37.a i 37.b koji glase:  
+»Članak 37.a  
+Korisnici zona, koji su gospodarsku djelatnost u zoni obavljali do dana stupanja na snagu ovoga Zakona, plaćat će porez na dobit ovisno o prostornoj jedinici za statistiku II razine u kojoj se zona nalazi, a sukladno Nacionalnoj klasifikaciji prostornih jedinica za statistiku-NKPJ, i to na sljedeći način:  
+a) Korisnici zona koje se nalaze u prostornoj jedinici za statistiku II. razine  
+– sjeverozapadna Hrvatska (HR 01), plaćat će porez na dobit  
+– u visini od 50% od propisane porezne stope u razdoblju od 2008. do 2010. godine,  
+– u visini od 75% od propisane porezne stope u razdoblju od 2011. do 2013. godine,  
+– u visini propisane porezne stope od 2014. godine.  
+b) Korisnici zona koje se nalaze u prostornim jedinicama za statistiku II. razine  
+– središnja i istočna (Panonska) Hrvatska (HR 02) i jadranska Hrvatska (HR 03),  
+plaćat će porez na dobit  
+– u visini od 50% od propisane porezne stope u razdoblju od 2008. do 2013. godine,  
+– u visini od 75% od propisane porezne stope u razdoblju od 2014. do 2016. godine,  
+– u visini propisane porezne stope od 2017. godine.  
+Korisnici zona na području Grada Vukovara, koji su gospodarsku djelatnost u slobodnoj zoni obavljali do dana stupanja na snagu ovoga Zakona, plaćat će porez na dobit:  
+– u visini od 0% od propisane porezne stope u razdoblju od 2008. do 2010. godine,  
+– u visini od 25% od propisane porezne stope u razdoblju od 2011. do 2013. godine,  
+– u visini od 75% od propisane porezne stope u razdoblju od 2014. do 2016. godine,  
+– u visini propisane važeće porezne stope od 2017. godine.  
+Iznos oslobođenja od plaćanja poreza na dobit za navedena vremenska razdoblja iz stavka 1. i 2. ovoga članka, utvrđuje se sukladno uvjetima i kriterijima utvrđenim Odlukom o objavi pravila o potporama male vrijednosti.  
+Pravilnik o načinu ostvarivanja porezne olakšice iz stavka 1. i 2. ovoga članka donosi ministar nadležan za gospodarstvo uz suglasnost ministra financija.  
+Članak 37.b  
+Isporuke dobara u zonu te isporuke dobara unutar zone oslobođene su plaćanja poreza na dodanu vrijednost.«  
+PRIJELAZNE I ZAVRŠNE ODREDBE  
+Članak 6.  
+Korisnik zone koji za obavljanje gospodarske djelatnosti nije osnovao podružnicu u Republici Hrvatskoj dužan je to učiniti do 31. prosinca 2008.  
+Korisnik zone iz stavka 1. ovoga članka koji ne osnuje podružnicu u Republici Hrvatskoj u propisanom roku, istekom toga roka neće se smatrati korisnikom zone u smislu ovoga Zakona.  
+Članak 7.  
+Pravilnik iz članka 36. i 37.a ovoga Zakona donijeti će ministar nadležan za gospodarstvo najkasnije u roku od 90 dana od stupanja na snagu ovoga Zakona.  
+Članak 8.  
+U svim odredbama Zakona o slobodnim zonama (»Narodne novine«, br. 44/96. i 92/05.) riječi: »Ministarstvo gospodarstva« zamjenjuju se riječima: »Ministarstvo gospodarstva, rada i poduzetništva« u odgovarajućem padežu.  
+Članak 9.  
+Na dan prijama Republike Hrvatske u Europsku uniju, prestaje važiti članak 37.b ovoga Zakona.  
+Članak 10.  
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa. 413-05/08-01/01  
+Zagreb, 9. srpnja 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o slobodnim zonama (NN 148/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3152*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJA ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SLOBODNIM ZONAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o slobodnim zonama, koji je Hrvatski sabor donio na sjednici 29. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/277
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 4. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SLOBODNIM ZONAMA**
+
+### Članak 1.
+
+U Zakonu o slobodnim zonama (»Narodne novine«, br. 44/96., 92/05. i 85/08.) u članku 5. iza stavka 5. dodaju se stavci 6., 7. i 8. koji glase:
+
+»Produženje koncesije je moguće na zahtjev osnivača zone temeljem gospodarskog interesa kada je iz skupnih pokazatelja poslovanja korisnika u slobodnoj zoni koja podnosi zahtjev za produženje koncesije vidljivo da su u tri godine koje prethode godini u kojoj se podnosi zahtjev za produženjem koncesije ostvarili minimalno 50 % ukupnih prihoda iz poslovanja izvan područja Republike Hrvatske.
+
+Zahtjev za produženjem koncesije podnosi se ministarstvu nadležnom za poduzetništvo i obrt.
+
+Na produženje koncesije odgovarajuće se primjenjuju odredbe ovog Zakona o osnivanju zone.«.
+
+### Članak 2.
+
+U članku 7. stavku 3. podstavak 2. mijenja se i glasi:
+
+»– područje zone na kopnenom području obuhvaćeno katastarskim česticama, a na morskom području omeđeno spojnicama točaka,«.
+
+### Članak 3.
+
+U članku 8. stavak 2. briše se.
+
+Dosadašnji stavak 3. koji postaje stavak 2. mijenja se i glasi:
+
+»U obavljanju poslova iz stavka 1. ovoga članka radi davanja koncesije za osnivanje zone ministarstvo nadležno za poduzetništvo i obrt dužno je zatražiti mišljenje nadležnog tijela jedinice lokalne samouprave na čijem se području zona osniva, ministarstva nadležnog za zaštitu okoliša i prirode radi očuvanja i zaštite okoliša te ministarstva nadležnog za graditeljstvo i prostorno uređenje.«.
+
+### Članak 4.
+
+U članku 10. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»Naknada iz stavka 1. ovoga članka uplaćuje se:
+
+– do 31. ožujka tekuće godine za razdoblje od 1. srpnja do 31. prosinca protekle godine;
+
+– do 30. rujna tekuće godine za razdoblje od 1. siječnja do 30. lipnja tekuće godine.
+
+Ministar nadležan za poduzetništvo i obrt pravilnikom detaljnije propisuje način uplate naknada iz stavaka 1. do 3. ovoga članka uz suglasnost ministra financija.«.
+
+### Članak 5.
+
+U članku 12. stavku 1. podstavak 2. mijenja se i glasi:
+
+»– odreknućem korisnika koncesije tijekom vremena određenog u odluci o koncesiji, za cijelo područje zone ili za određeni dio područja zone,«.
+
+### Članak 6.
+
+Članak 21. mijenja se i glasi:
+
+»Na proširenje zone, izmjenu područja zone ili osnivanje odvojenog dijela zone odgovarajuće se primjenjuju odredbe ovoga Zakona o osnivanju zone.«.
+
+### Članak 7.
+
+U članku 22. stavak 3. mijenja se i glasi:
+
+»Povjerenstvo iz stavka 2. ovoga članka čine predstavnici ministarstva nadležnog za poduzetništvo i obrt, ministarstva nadležnog za financije – Carinske uprave, ministarstva nadležnog za gospodarstvo, ministarstva nadležnog za graditeljstvo i prostorno uređenje, ministarstva nadležnog za pomorstvo, promet i infrastrukturu, ministarstva nadležnog za zaštitu okoliša i prirode i predstavnici jedinice lokalne samouprave na čijem teritoriju se osniva zona, kao i predstavnik osnivača zone.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»Ako korisnik koncesije ne započne s radom zone u roku od 90 dana od dana izvršnosti rješenja iz stavka 1. ovog članka, gubi sva prava određena tim rješenjem.«.
+
+### Članak 8.
+
+U članku 24. stavak 2. mijenja se i glasi:
+
+»Osnivač je dužan donijeti Pravilnik o uvjetima za obavljanje djelatnosti u zoni u roku od 60 dana od dana donošenja akta o osnivanju zone.«.
+
+Stavak 4. mijenja se i glasi:
+
+»Pravilnik iz stavka 2. ovoga članka osnivač je dužan dostaviti ministarstvu nadležnom za poduzetništvo i obrt u roku od 15 dana od dana njegova donošenja.«.
+
+### Članak 9.
+
+Članak 25. mijenja se i glasi:
+
+»Osnivač zone dužan je u svibnju tekuće godine dostaviti ministarstvu nadležnom za poduzetništvo i obrt izvješće o poslovanju zone u protekloj godini.
+
+Ministarstvo nadležno za poduzetništvo i obrt u studenom tekuće godine podnosi Vladi Republike Hrvatske godišnje izvješće o poslovanju svih zona u Republici Hrvatskoj u protekloj godini.
+
+O poslovanju zona u protekloj godini Vlada Republike Hrvatske podnosi izvješće Hrvatskom saboru do kraja prosinca tekuće godine.«.
+
+### Članak 10.
+
+U članku 26. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»Korisnici zone dužni su na zahtjev osnivača zone dostaviti podatke o poslovanju u zoni.«.
+
+### Članak 11.
+
+Iza članka 27. dodaje se članak 27.a koji glasi:
+
+»Članak 27.a
+
+Unos i smještaj robe u slobodnu zonu odvija se u skladu s carinskim propisima bilo da se radi o pravnoj stečevini Europske unije ili nacionalnim propisima Republike Hrvatske.«.
+
+### Članak 12.
+
+Naslov iznad članka 39. mijenja se i glasi: »VI. PREKRŠAJNE ODREDBE«.
+
+### Članak 13.
+
+U članku 40. stavku 1. podstavak 2. mijenja se i glasi:
+
+»– ako u propisanim rokovima ne donese Pravilnik o uvjetima za obavljanje djelatnosti u zoni i ne dostavi ga ministarstvu nadležnom za poduzetništvo i obrt (članak 24. stavci 2. i 4.),«.
+
+### Članak 14.
+
+U članku 41. stavku 1. podstavak 1. mijenja se i glasi:
+
+»– ako ne vodi odvojeno knjigovodstvo za poslovanje u zoni (članak 26. stavak 4.),«.
+
+Iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+»– ako na zahtjev osnivača zone ne dostavi podatke o poslovanju u zoni,«.
+
+Dosadašnji podstavci 2., 3., 4., 5., 6. i 7. postaju podstavci 3., 4., 5., 6., 7. i 8.
+
+### Članak 15.
+
+U cijelom tekstu Zakona o slobodnim zonama (»Narodne novine«, br. 44/96., 92/05. i 85/08.) riječi: »Ministarstvo gospodarstva, rada i poduzetništva« zamjenjuju se riječima: »ministarstvo nadležno za poduzetništvo i obrt« u odgovarajućem padežu, a riječi: »ministar gospodarstva« zamjenjuju se riječima: »ministar nadležan za poduzetništvo i obrt« u odgovarajućem padežu.
+
+### Članak 16.
+
+Ministar nadležan za poduzetništvo i obrt će u roku od 60 dana od dana stupanja na snagu ovoga Zakona, donijeti pravilnik iz članka 4. stavka 4. ovoga Zakona.
+
+### Članak 17.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/277
+
+Zagreb, 29. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

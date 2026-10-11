@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1997-01-09
-last_amended: 2001-12-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+last_amended: 2014-06-13
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "2/97, 119/01"
+narodne_novine: "2/97, 119/01, 72/14"
 amendments:
   - "NN 119/2001 (2003) Uredba o dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti"
+  - "NN 72/2014 (1342) Uredba o izmjenama i dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/2/27"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 2/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/2/27).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2001.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2001, NN 72/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -232,3 +233,102 @@ Zagreb, 27. prosinca 2001.
 Potpredsjednik,  
 zamjenik predsjednika  
 dr. sc. Goran Granić, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti (NN 72/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/72/1342*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. i članka 29. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 2014. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O SPAJANJU JAVNIH USTANOVA RESTAURATORSKE DJELATNOSTI**
+
+### Članak 1.
+
+U Uredbi o spajanju javnih ustanova restauratorske djelatnosti (»Narodne novine«, br. 2/97 i 119/2001), u članku 4. stavak 1. mijenja se i glasi:
+
+»Djelatnost Zavoda je:
+
+– konzerviranje i restauriranje pokretnih i nepokretnih spomenika kulture, te umjetnina i drugih kulturnih dobara, a poglavito: pojedinačnih građevina i građevinskih sklopova; slikarskih djela na zidu, drvu, platnu i drugim materijalima; kiparskih djela od drva, kamena i drugih materijala; predmeta od tekstila i kože; predmeta od metala; predmeta od keramike, stakla i sličnih materijala; ukrasnih elemenata građevina od drva, kamena, štuko-mase, keramike i drugih materijala;
+
+– konzervatorsko i restauratorsko istraživanje nepokretnih i pokretnih spomenika kulture i to: istraživanje stilskih, kulturno-povijesnih i materijalnih svojstava spomenika te istraživanje promjena spomenutih svojstava i njihovih uzroka;
+
+– arheološko istraživanje i to: arheološka iskopavanja (sustavno iskopavanje, zaštitno iskopavanje, revizijsko iskopavanje, probno iskopavanje i arheološki nadzor), arheološki pregled terena (reambulacija i rekognosciranje), nedestruktivne metode (geofizička istraživanja i aeroarheologija);
+
+– izrada prijedloga konzervatorsko-restauratorskih zahvata i izvođenja zahvata;
+
+– vođenje stručne dokumentacije;
+
+– izrada idejnog rješenja, te idejnog, glavnog i izvedbenog projekta za obnovu građevine koja je nepokretno kulturno dobro;
+
+– stručni nadzor nad izvođenjem radova obnove građevina koje su nepokretno kulturno dobro;
+
+– stručno vještačenje o stanju spomenika kulture i konzervatorsko-restauracijskim radovima izvršenim na njima od strane drugih osoba i organizacija;
+
+– davanje mišljenja o ispunjavanju stručno-tehničkih uvjeta za obavljanje restauratorske djelatnosti od strane fizičkih ili pravnih osoba, na traženje Ministarstva kulture;
+
+– obavljanje stručnog uvida u izvršenje konzervatorsko-restauratorskih radova registriranih restauratorskih radionica u vlasništvu fizičkih i pravnih osoba, na traženje Ministarstva kulture;
+
+– unaprjeđivanje tehničke zaštite spomenika kulture;
+
+– organiziranje stručnog usavršavanja konzervatora i restauratora;
+
+– razvijanje i promidžba konzervatorsko-restauratorske djelatnosti;
+
+– kupnja i prodaja robe vezano uz djelatnost Zavoda;
+
+– djelatnost nakladnika vezana uz djelatnost Zavoda;
+
+– pružanje usluga informacijskog društva;
+
+– održavanje stručne suradnje s istovrsnim i sličnim ustanovama u zemlji i inozemstvu.«.
+
+### Članak 2.
+
+U članku 5. stavci 2. i 3. mijenjaju se i glase:
+
+»Upravno vijeće ima sedam članova od kojih je jedan predsjednik.
+
+Predsjednika i tri člana upravnog vijeća imenuje ministar kulture iz reda stručnjaka u područjima društvenih i tehničkih znanosti iz djelatnosti Zavoda, dva člana biraju stručni djelatnici Zavoda, a jedan član bira se iz reda svih zaposlenika Zavoda sukladno Zakonu o radu. Upravno vijeće može se konstituirati kada je imenovana većina članova upravnog vijeća.«.
+
+### Članak 3.
+
+U članku 6. stavku 1. riječ: »dvije« zamjenjuje se riječju: »četiri«.
+
+Stavak 2. mijenja se i glasi:
+
+»Osnivač, stručni djelatnici i radničko vijeće, odnosno radnici mogu i prije isteka mandata razriješiti članove upravnog vijeća koje su imenovali.«.
+
+### Članak 4.
+
+U članku 8. stavci 2. i 3. mijenjaju se i glase:
+
+»Ravnatelja imenuje i razrješuje ministar kulture.
+
+Ravnatelj se imenuje na temelju javnog natječaja što ga raspisuje i provodi upravno vijeće Zavoda, a uz uvjete propisane zakonom i statutom Zavoda.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Ravnatelj ima zamjenika kojeg imenuje upravno vijeće na prijedlog ravnatelja. Zamjenik ravnatelja imenuje se na temelju javnog natječaja na vrijeme od četiri godine, a uz uvjete propisane statutom Zavoda.«.
+
+### Članak 5.
+
+U članku 9. stavku 1. iza riječi: »izvješća o poslovanju Zavoda« dodaju se riječi: »uz prethodnu suglasnost Ministarstva kulture«.
+
+### Članak 6.
+
+Hrvatski restauratorski zavod dužan je uskladiti svoj rad, statut i druge opće akte s odredbama ove Uredbe u roku od 60 dana od dana njezina stupanja na snagu.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-03/59  
+Urbroj: 50301-04/04-14-2  
+Zagreb, 11. lipnja 2014.
+
+Predsjednik  
+Zoran Milanović, v. r.

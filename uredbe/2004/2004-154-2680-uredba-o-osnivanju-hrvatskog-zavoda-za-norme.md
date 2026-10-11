@@ -6,13 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2004-11-05
-last_amended: 2005-04-05
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2012-07-16
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "154/04, 44/05"
+narodne_novine: "154/04, 44/05, 30/10, 34/12, 79/12"
 amendments:
   - "NN 44/2005 (839) Uredba o izmjeni Uredbe o osnivanju Hrvatskog zavoda za norme"
+  - "NN 30/2010 (706) Uredba o izmjeni Uredbe o osnivanju Hrvatskog zavoda za norme"
+  - "NN 34/2012 (821) Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme"
+  - "NN 79/2012 (1861) Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2680"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 154/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2680).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2005, NN 30/2010, NN 34/2012, NN 79/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -325,3 +328,158 @@ Zagreb, 31. ožujka 2005.
 Predsjednik
 
 dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Hrvatskog zavoda za norme (NN 30/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/706*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5. stavka 1. Zakona o normizaciji (»Narodne novine«, broj 163/2003), Vlada Republike Hrvatske je na sjednici održanoj 25. veljače 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU HRVATSKOG ZAVODA ZA NORME**
+
+### Članak 1.
+
+U članku 16. Uredbe o osnivanju Hrvatskog zavoda za norme (»Narodne novine«, br. 154/2004 i 44/2005), riječ: »znanosti« zamjenjuje se riječima: »gospodarstva, rada i poduzetništva«.
+
+### Članak 2.
+
+Hrvatski zavod za norme dužan je uskladiti svoje opće akte s ovom Uredbom u roku od 60 dana od dana stupanja na snagu ove Uredbe.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 383-01/10-01/01
+
+Urbroj: 5030121-10-1
+
+Zagreb, 25. veljače 2010.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme (NN 34/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/821*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5. stavka 1. Zakona o normizaciji (»Narodne novine« broj 163/2003), Vlada Republike Hrvatske je na sjednici održanoj 15. ožujka 2012. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU HRVATSKOG ZAVODA ZA NORME**
+
+### Članak 1.
+
+U Uredbi o osnivanju Hrvatskog zavoda za norme (»Narodne novine«, br. 154/2004, 44/2005 i 30/2010), članak 7. mijenja se i glasi:
+
+»Članak 7.
+
+Upravno vijeće upravlja HZN-om.
+
+Upravno vijeće donosi statut, akt o unutarnjem ustroju i načinu rada, akt o raspodjeli plaća djelatnika, program rada i razvoja, nadzire njihovo izvršavanje, odlučuje o financijskom planu i godišnjem obračunu, predlaže promjenu djelatnosti i statusne promjene, daje Vladi Republike Hrvatske i ravnatelju HZN-a mišljenja i prijedloge o pojedinim pitanjima iz svoje djelatnosti te donosi odluke i obavlja i druge poslove određene ovom Uredbom i Statutom.
+
+Upravno vijeće ima predsjednika i četiri člana od kojih predsjednika i jednog člana predlaže ministarstvo nadležno za poslove gospodarstva, jednog člana predlaže ministarstvo nadležno za poslove znanosti, jednog člana predlaže Stručno vijeće i jednog člana predlaže Radničko vijeće HZN-a.
+
+Upravno vijeće imenuje Vlada Republike Hrvatske na vrijeme od četiri godine.
+
+Vlada Republike Hrvatske može razriješiti predsjednika i članove Upravnog vijeća i prije isteka vremena na koje su imenovani.
+
+Upravno vijeće donosi odluke većinom glasova svih članova.
+
+Predsjednik i članovi Upravnog vijeća imaju pravo na naknadu troškova za svoj rad u skladu s općim aktima HZN-a.«.
+
+### Članak 2.
+
+U članku 8. stavak 2. briše se.
+
+### Članak 3.
+
+Hrvatski zavod za norme dužan je uskladiti svoje opće akte s ovom Uredbom u roku 60 dana od dana stupanja na snagu ove Uredbe.
+
+### Članak 4.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 383-01/12-01/01  
+Urbroj: 5030105-12-1  
+Zagreb, 15. ožujka 2012.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme (NN 79/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/79/1861*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5. stavka 1. Zakona o normizaciji (»Narodne novine«, broj 163/2003), Vlada Republike Hrvatske je na sjednici održanoj 12. srpnja 2012. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU HRVATSKOG ZAVODA ZA NORME**
+
+### Članak 1.
+
+U Uredbi o osnivanju Hrvatskog zavoda za norme (»Narodne novine«, br. 154/2004, 44/2005, 30/2010 i 34/2012), članak 6. mijenja se i glasi:
+
+»Članak 6.
+
+Tijela HZN-a su Upravno vijeće, ravnatelj i Stručno vijeće.«.
+
+### Članak 2.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»Upravno vijeće ima predsjednika i četiri člana od kojih predsjednika i dva člana predlaže ministarstvo nadležno za poslove gospodarstva, jednog člana predlaže Stručno vijeće i jednog člana predlaže Radničko vijeće HZN-a.«.
+
+### Članak 3.
+
+Članak 8. mijenja se i glasi:
+
+»Članak 8.
+
+Sastav, poslovi i način rada Stručnog vijeća utvrđuju se Statutom HZN-a.«.
+
+### Članak 4.
+
+Članak 9. mijenja se i glasi:
+
+»Članak 9.
+
+Voditelj HZN-a je ravnatelj. Ravnatelja imenuje i razrješuje Vlada Republike Hrvatske u skladu sa zakonom i statutom.
+
+Ravnatelj predstavlja i zastupa HZN, organizira i vodi poslovanje HZN-a, poduzima sve pravne radnje u ime i za račun HZN-a, zastupa ga u svim postupcima pred sudovima, upravnim i drugim državnim tijelima te pravnim osobama s javnim ovlastima, izvršava odluke Upravnog vijeća, obavlja i druge poslove utvrđene ovom Uredbom i Statutom HZN-a, te je odgovoran za zakonitost rada HZN-a.
+
+U slučaju spriječenosti ravnatelja u izvršenju poslova, ravnatelj će imenovanjem iz redova načelnika odjela odrediti zamjenu ravnatelja u okviru ovlasti ravnatelja u skladu s primjenom odredbi iz stavka 2. ovog članka.«.
+
+### Članak 5.
+
+Članak 10. briše se.
+
+### Članak 6.
+
+U članku 16. riječi: »gospodarstva, rada i poduzetništva« zamjenjuje se s riječi: »gospodarstva«.
+
+### Članak 7.
+
+Hrvatski zavod za norme dužan je uskladiti svoje opće akte s ovom Uredbom u roku 60 dana od dana stupanja na snagu ove Uredbe.
+
+### Članak 8.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 383-01/12-01/01
+
+Urbroj: 5030105-12-4
+
+Zagreb, 12. srpnja 2012.
+
+Predsjednik  
+Zoran Milanović, v. r.

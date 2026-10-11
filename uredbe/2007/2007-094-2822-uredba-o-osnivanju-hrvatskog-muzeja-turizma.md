@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-09-13
+last_amended: 2009-09-16
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "94/07"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "94/07, 110/09"
+amendments:
+  - "NN 110/2009 (2805) Uredba o izmjenama Uredbe o osnivanju Hrvatskog muzeja turizma"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/94/2822"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Hrvatskog muzeja turizma
 
 > Izvor: Narodne novine, NN 94/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/94/2822).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -117,3 +121,40 @@ Zagreb, 7. rujna 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o osnivanju Hrvatskog muzeja turizma (NN 110/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/110/2805*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 7. stavka 1. i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 16. stavka 3. Zakona o muzejima (»Narodne novine«, br. 142/98 i 65/2009), Vlada Republike Hrvatske je na sjednici održanoj 10. rujna 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU HRVATSKOG MUZEJA TURIZMA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Hrvatskog muzeja turizma (»Narodne novine«, broj 94/2007), u članku 2. stavku 3. riječi: »Gradsko poglavarstvo« zamjenjuju se riječju: »gradonačelnik«.
+
+### Članak 2.
+
+U članku 10. stavku 1. riječi: »Gradskog poglavarstva« zamjenjuju se riječju: »gradonačelnika«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 612-05/09-02/09
+
+Urbroj: 5030112-09-1
+
+Zagreb, 10. rujna 2009.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.

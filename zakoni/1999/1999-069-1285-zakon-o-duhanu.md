@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-05
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "69/99"
-amendments: []
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "69/99, 14/14"
+amendments:
+  - "NN 14/2014 (287) Zakon o izmjeni Zakona o duhanu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1285"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o duhanu
 
 > Izvor: Narodne novine, NN 69/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1285).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -484,3 +488,55 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o duhanu (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/287*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DUHANU
+
+Proglašavam Zakon o izmjeni Zakona o duhanu, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/21
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DUHANU**
+
+### Članak 1.
+
+U Zakonu o duhanu (»Narodne novine«, br. 69/99.) u članku 32. stavak 3. mijenja se i glasi:
+
+»Nadzor nad provedbom ovoga Zakona provodi Ministarstvo financija, Carinska uprava te poljoprivredni inspektori u dijelu proizvodnje duhana.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/303
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

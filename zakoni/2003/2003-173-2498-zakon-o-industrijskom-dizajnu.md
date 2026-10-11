@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2007-07-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2011-04-29
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 76/07"
+narodne_novine: "173/03, 76/07, 30/09, 49/11"
 amendments:
   - "NN 76/2007 (2411) Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu"
+  - "NN 30/2009 (655) Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu"
+  - "NN 49/2011 (1100) Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2498"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2498).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 30/2009, NN 49/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1233,3 +1235,252 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu (NN 30/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/655*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O INDUSTRIJSKOM DIZAJNU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu, koji je Hrvatski sabor donio na sjednici 20. veljače 2009. godine.
+
+Klasa: 011-01/09-01/19  
+Urbroj: 71-05-03/1-09-2  
+Zagreb, 27. veljače 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O INDUSTRIJSKOM DIZAJNU**
+
+### Članak 1.
+
+U Zakonu o industrijskom dizajnu (»Narodne novine«, br. 173/03. i 76/07.) u članku 2. točki 2. riječ: »knjiga« briše se.
+
+### Članak 2.
+
+U članku 31. dodaju se stavci 7. i 8. koji glase:
+
+»(7) Prijava industrijskog dizajna kojoj je utvrđen datum podnošenja ne može se naknadno izmijeniti proširenjem predmeta čija se zaštita zahtijeva.
+
+(8) Na zahtjev podnositelja prijave industrijskoga dizajna ili nositelja industrijskoga dizajna ili po službenoj dužnosti, može se izvršiti ispravak imena ili adrese podnositelja prijave odnosno nositelja industrijskog dizajna, ispravak pogreške u tekstu ili prijepisu ili ispravak neke druge očite pogreške, pod uvjetom da se tim izmjenama ne proširuje predmet čija se zaštita zahtijeva odnosno koji se štiti.«
+
+### Članak 3.
+
+Iza članka 38. dodaju se naslov i članak 38.a koji glase:
+
+»NASTAVAK POSTUPKA
+
+### Članak 38.a
+
+(1) Ako je podnositelj prijave za registraciju industrijskog dizajna ili nositelj industrijskog dizajna propustio u roku izvršiti neku radnju u postupku pred Zavodom a neposredna posljedica toga je gubitak prava iz prijave industrijskog dizajna ili gubitak industrijskog dizajna, može podnijeti zahtjev za nastavak postupka u vezi s prijavom industrijskog dizajna ili industrijskog dizajna. Zavod će dopustiti nastavak postupka, pod uvjetom da podnositelj:
+
+1. podnese zahtjev za nastavak postupka i izvrši sve propuštene radnje u roku iz stavka 2. ovoga članka i
+
+2. uplati upravnu pristojbu i naknadu troškova upravnoga postupka.
+
+(2) Zahtjev za nastavak postupka može se podnijeti u roku od dva mjeseca od dana saznanja za pravne posljedice iz stavka 1. ovoga članka.
+
+(3) Ako propuštene radnje nisu izvršene u roku iz stavka 2. ovoga članka ili ako upravna pristojba i naknada troškova upravnoga postupka nisu plaćene, smatrat će se da zahtjev za nastavak postupka nije ni podnesen, o čemu Zavod donosi zaključak.
+
+(4) Zahtjev za nastavak postupka ne može se podnijeti ako je propušten rok:
+
+1. iz stavka 2. ovoga članka,
+
+2. za podnošenje zahtjeva iz članka 29. i 30. ovoga Zakona,
+
+3. za podnošenje zahtjeva iz članka 16. ovoga Zakona,
+
+4. za podnošenje žalbe iz članka 52.a ovoga Zakona,
+
+5. za podnošenje zahtjeva za povrat u prijašnje stanje prema odredbama Zakona o općem upravnom postupku,
+
+6. za sve radnje u postupcima pred Zavodom u kojima sudjeluje više stranaka.
+
+(5) Ako je Zavod udovoljio zahtjevu iz stavka 1. ovoga članka smatrat će se da posljedice propuštanja roka nisu nastupile te će se poništiti sva rješenja i zaključci koje je donio u svezi s propuštanjem.«
+
+### Članak 4.
+
+U članku 44.c stavak 1. mijenja se i glasi:
+
+»(1) U smislu članaka 4., 5., 6. i 9. ovoga Zakona, prijava dizajna Zajednice i dizajn Zajednice su raniji dizajn u odnosu na nacionalne prijave dizajna koje su podnesene, kao i na nacionalne dizajne koji su na temelju takvih prijava stečeni nakon dana prijama Republike Hrvatske u punopravno članstvo Europske unije.«
+
+### Članak 5.
+
+U članku 44.e stavak 2. briše se.
+
+### Članak 6.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Strane pravne i fizičke osobe koje nemaju sjedište, odnosno prebivalište ili uobičajeno boravište u Republici Hrvatskoj mogu ostvarivati prava iz ovoga Zakona u postupcima pred Zavodom samo preko ovlaštenih zastupnika.
+
+(2) Opća načela zastupanja i posebni uvjeti na temelju kojih osobe iz stavka 1. ovoga članka mogu ostvarivati prava iz ovoga Zakona uređeni su posebnim propisima.«
+
+### Članak 7.
+
+U članku 52. dodaje se stavak 5. koji glasi:
+
+»(5) U odnosu na zahtjeve iz stavka 4. ovoga članka, rok propisan u članku 33. stavku 4. ovoga Zakona zamjenjuje se rokom od četiri mjeseca koji teče od dana koji slijedi nakon datuma obavijesti o odbijanju zaštite.«
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 310-01/09-01/01  
+Zagreb, 20. veljače 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu (NN 49/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1100*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O INDUSTRIJSKOM DIZAJNU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu, koji je Hrvatski sabor donio na sjednici 15. travnja 2011. godine.
+
+Klasa: 011-01/11-01/66
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. travnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O INDUSTRIJSKOM DIZAJNU**
+
+#### Članak 1.
+
+U Zakonu o industrijskom dizajnu (»Narodne novine«, br. 173/03., 76/07. i 30/09.) u članku 23. stavku 2. riječi: »upravnih akata« zamjenjuju se riječju: »rješenja«, a zadnja rečenica briše se.
+
+Stavak 3. briše se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »upravnih akata« zamjenjuju se riječju: »rješenja«.
+
+#### Članak 2.
+
+U članku 31. stavku 2. riječi: »poziva podnositelja« zamjenjuju se riječima: »zaključkom nalaže podnositelju«, a riječ: »poziva« zamjenjuje se riječju: »zaključka«.
+
+U stavku 3. riječ: »pozivom« zamjenjuje se riječju: »zaključkom«.
+
+U stavku 4. riječ: »pozivu« zamjenjuje se riječju: »zaključku«, a riječ: »zaključkom« zamjenjuje se riječju: »rješenjem«.
+
+U stavku 5. riječi: »poziva podnositelja« zamjenjuju se riječima: »zaključkom nalaže podnositelju«, a riječ: »poziva« zamjenjuje se riječju: »zaključka«.
+
+U stavku 6. riječ »pozivu« zamjenjuje se riječju: »zaključku«, a riječ: »zaključkom« zamjenjuje se riječju: »rješenjem«.
+
+#### Članak 3.
+
+U članku 32. stavku 2. riječi: »poziva podnositelja« zamjenjuju se riječima: »zaključkom nalaže podnositelju«.
+
+U stavku 4. riječ: »pozivu« zamjenjuje se riječju: »zaključku«, a riječ: »zaključkom« zamjenjuje se riječju: »rješenjem«.
+
+#### Članak 4.
+
+U članku 36. stavku 3. riječi: »pozvati nositelja« zamjenjuju se riječima: »zaključkom naložiti nositelju«, a riječ: »poziva« zamjenjuje se riječju: »zaključka«.
+
+U stavku 4. riječ: »pozivu« zamjenjuje se riječju: »zaključku«.
+
+#### Članak 5.
+
+U članku 38.a stavak 3. mijenja se i glasi:
+
+»(3) Ako propuštene radnje nisu izvršene u roku iz stavka 2. ovoga članka, zahtjev za nastavak postupka se rješenjem odbacuje.«.
+
+#### Članak 6.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Industrijski dizajn može biti predmetom licencija u cijelosti ili djelomično, a licencija se može dati za cijeli teritorij ili za dio teritorija Republike Hrvatske.
+
+(2) Ugovor o licenciji mora biti sastavljen u pisanom obliku.
+
+(3) Licencija može biti isključiva ili neisključiva.
+
+(4) Nositelj industrijskoga dizajna može se pozvati na prava koja proizlaze iz industrijskoga dizajna protiv stjecatelja licencije koji krši neku od odredaba iz ugovora o licenciji, u odnosu na trajanje licencije, registracijom obuhvaćen oblik u kojem se industrijskim dizajnom može koristiti, opseg proizvoda za koje je licencija dana, teritorij na kojem se industrijskim dizajnom može koristiti i u odnosu na kakvoću proizvedenih proizvoda.
+
+(5) Upis licencije u registar izvršit će se na zahtjev nositelja prava industrijskog dizajna ili na zahtjev stjecatelja licencije, uz uvjet da je Zavodu dostavljen izvadak iz ugovora o licenciji iz kojeg se vide stranke toga ugovora i prava koja se licenciraju, ovjeren kao stvaran izvadak iz toga ugovora ili izvornik potvrde o davanju licencije potpisan od davatelja i stjecatelja licencije.
+
+(6) Licencija ima učinak prema trećim osobama nakon upisa u registar.
+
+(7) Upis licencije objavljuje se u službenom glasilu Zavoda.
+
+(8) Podaci koje treba sadržavati zahtjev za upis licencije propisuju se Pravilnikom.«.
+
+#### Članak 7.
+
+U članku 40. stavku 5. riječi: »i ovrhe« brišu se.
+
+#### Članak 8.
+
+U članku 46. stavak 2. briše se.
+
+#### Članak 9.
+
+Iza članka 51. dodaju se naslovi i članci 51.a i 51.b koji glase:
+
+### »ISPRAVLJANJE POGREŠAKA
+
+#### Članak 51.a
+
+(1) Kada upis u registar industrijskog dizajna ili objava registracije industrijskog dizajna sadrži pogrešku do koje je došlo propustom Zavoda, Zavod će ispraviti pogrešku po službenoj dužnosti ili na zahtjev stranke.
+
+(2) Za zahtjev za ispravak pogreške iz stavka 1. ovoga članka ne plaća se pristojba i naknada troškova.
+
+(3) Zavod će objaviti ispravke pogrešaka učinjene u skladu s ovim člankom.
+
+### POKRETANJE POSTUPAKA
+
+#### Članak 51.b
+
+(1) Prijava za registraciju industrijskog dizajna može se podnijeti Zavodu neposredno u pisanom obliku, poštom ili elektroničkim putem.
+
+(2) Zahtjevi za pokretanje ostalih postupaka uređenih ovim Zakonom podnose se Zavodu neposredno u pisanom obliku ili poštom.
+
+(3) Uvjeti i način na koji se prijava za registraciju industrijskog dizajna, te ostali zahtjevi za pokretanje postupaka dostavljaju Zavodu propisat će se Pravilnikom.«.
+
+#### Članak 10.
+
+U članku 52.a riječ: »odluka« u odgovarajućem broju i padežu zamjenjuje se riječju: »rješenje« u odgovarajućem broju i padežu.
+
+#### Članak 11.
+
+Ministar nadležan za rad Zavoda, na prijedlog ravnatelja Zavoda, uskladit će Pravilnik iz članka 61. Zakona o industrijskom dizajnu (»Narodne novine«, br. 173/03., 76/07. i 30/09.) s odredbama ovoga Zakona najkasnije u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 310-01/11-01/01
+
+Zagreb, 15. travnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

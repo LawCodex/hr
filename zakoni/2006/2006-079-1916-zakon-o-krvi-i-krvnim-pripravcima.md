@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-17
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/06"
-amendments: []
+last_amended: 2011-11-04
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/06, 124/11"
+amendments:
+  - "NN 124/2011 (2476) Zakon o izmjenama i dopunama Zakona o krvi i krvnim pripravcima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1916"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o krvi i krvnim pripravcima
 
 > Izvor: Narodne novine, NN 79/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1916).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 124/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -498,3 +502,91 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o krvi i krvnim pripravcima (NN 124/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2476*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KRVI I KRVNIM PRIPRAVCIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o krvi i krvnim pripravcima, koji je Hrvatski sabor donio na sjednici 21. listopada 2011. godine.
+
+Klasa: 011-01/11-01/196
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 26. listopada 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KRVI I KRVNIM PRIPRAVCIMA**
+
+### Članak 1.
+
+U Zakonu o krvi i krvnim pripravcima (»Narodne novine«, br. 79/06.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+
+– Direktiva 2002/98/EZ Europskog parlamenta i Vijeća od 27. siječnja 2003. kojom se utvrđuju standardi kvalitete i sigurnosti za prikupljanje, ispitivanje, preradu, čuvanje i promet ljudske krvi i krvnih sastojaka i kojom se izmjenjuje i dopunjuje Direktiva 2001/83/EZ (SL L 033, 8. 2. 2003.),
+
+– Direktiva 2004/33/EZ od 22. ožujka 2004. kojom se primjenjuje Direktiva 2002/98/EZ Europskog parlamenta i Vijeća u odnosu na određene tehničke zahtjeve za krv i krvne sastojke (SL L 091, 30. 3. 2004.),
+
+– Direktiva Komisije 2005/61/EZ od 30. rujna 2005. kojom se primjenjuje Direktiva 2002/98/EZ Europskog parlamenta i Vijeća u odnosu na zahtjeve sljedivosti i obavješćivanje o ozbiljnim štetnim reakcijama i događajima (SL L 256, 1. 10. 2005.),
+
+– Direktiva 2005/62/EZ od 30. rujna 2005. kojom se primjenjuje Direktiva 2002/98/EZ Europskog parlamenta i Vijeća u vezi sa standardima i specifikacije Zajednice u odnosu na sustav kvalitete krvnih ustanova (SL L 256, 1. 10. 2005.).«.
+
+### Članak 2.
+
+U članku 2. točki 8. iza riječi: »liječenje« zarez se zamjenjuje točkom i dodaje tekst: »Pojam ovlaštene zdravstvene ustanove ne obuhvaća bolničke transfuzijske jedinice,«.
+
+### Članak 3.
+
+U članku 8. stavku 3. riječ: »zapošljavati« zamjenjuje se riječju: »osigurati«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Odgovorna osoba iz stavka 3. ovoga članka zaposlenik je Hrvatskog zavoda za transfuzijsku medicinu, a poslove odgovorne osobe ovlaštene zdravstvene ustanove obavlja na temelju ugovora sklopljenog između Hrvatskog zavoda za transfuzijsku medicinu i ovlaštene zdravstvene ustanove.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 4.
+
+U članku 20. stavku 1. riječi: »Hrvatski zavod za transfuzijsku medicinu« zamjenjuju se riječju: »Ministarstvo«.
+
+### Članak 5.
+
+U članku 22. riječi: »Hrvatski zavod za transfuzijsku medicinu« zamjenjuju se riječju: »ministarstvo«.
+
+### Članak 6.
+
+Hrvatski zavod za transfuzijsku medicinu i ovlaštene zdravstvene ustanove obvezni su svoje poslovanje i akte uskladiti s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 500-01/11-01/09
+
+Zagreb, 21. listopada 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

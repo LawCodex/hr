@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-02-01
-last_amended: 2007-12-31
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2012-12-20
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "10/99, 25/00, 1/01, 30/01, 59/01, 114/01, 64/02, 153/02, 17/04, 8/06, 142/06, 134/07"
+narodne_novine: "10/99, 25/00, 1/01, 30/01, 59/01, 114/01, 64/02, 153/02, 17/04, 8/06, 142/06, 134/07, 146/08, 155/08, 39/09, 155/09, 14/11, 154/11, 143/12"
 amendments:
   - "NN 25/2000 (437) Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
   - "NN 1/2001 (5) Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
@@ -23,6 +23,13 @@ amendments:
   - "NN 8/2006 (160) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
   - "NN 142/2006 (3206) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
   - "NN 134/2007 (3841) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 146/2008 (4023) Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 155/2008 (4214) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 39/2009 (873) Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 155/2009 (3823) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 14/2011 (264) Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 154/2011 (3212) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 143/2012 (3035) Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245"
 retrieved: 2026-10-12
 ---
@@ -31,7 +38,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 10/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2000, NN 1/2001, NN 30/2001, NN 59/2001, NN 114/2001, NN 64/2002, NN 153/2002, NN 17/2004, NN 8/2006, NN 142/2006, NN 134/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2000, NN 1/2001, NN 30/2001, NN 59/2001, NN 114/2001, NN 64/2002, NN 153/2002, NN 17/2004, NN 8/2006, NN 142/2006, NN 134/2007, NN 146/2008, NN 155/2008, NN 39/2009, NN 155/2009, NN 14/2011, NN 154/2011, NN 143/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -937,3 +944,312 @@ i ministrica obitelji, branitelja i
 međugeneracijske solidarnosti
 
 Jadranka Kosor, dipl. iur., v. r.
+
+## Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 146/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/146/4023*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 5. prosinca 2008. godine.
+
+Klasa: 011-01/08-01/168
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 12. prosinca 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 1/01., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 17/04., 8/06., 142/06. i 134/07.) u članku 4. stavku 3. točki 6. dodaje se nova podtočka a) koja glasi:
+
+»6.a) predsjednici županijskih sudova iz članka 24. Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta 5,80.«
+
+Dosadašnje podtočka a), b) i c) postaju podtočke b), c) i d).
+
+U točki 7. dodaje se nova podtočka a) koja glasi:
+
+»7.a) suci županijskih sudova iz točke 6.a) ovoga članka određeni za postupanje u kaznenim predmetima korupcije i organiziranog kriminaliteta 5,70.«
+
+Dosadašnje podtočke a) i b) postaju podtočke b) i c).
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2009.
+
+Klasa: 120-02/08-01/02
+
+Zagreb, 5. prosinca 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 155/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/155/4214*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 116/2008), Vlada Republike Hrvatske je na sjednici održanoj 24. prosinca 2008. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredbe članka 5. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002, 154/2002, 17/2004, 8/2006, 142/2006, 34/2007 i 134/2007), neće se primjenjivati u 2009. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/08-01/10
+
+Urbroj: 5030109-08-2
+
+Zagreb, 24. prosinca 2008.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 39/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/39/873*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 27. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/58
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 27. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 34/07., 146/08. i 155/08.) u članku 4. stavak 2. mijenja se i glasi:
+
+»Osnovicu za obračun plaće sudaca i drugih pravosudnih dužnosnika određuje Vlada Republike Hrvatske posebnom odlukom.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/09-01/02
+
+Zagreb, 27. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 155/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/155/3823*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 121/2009), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2009. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredbe članka 5. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002, 154/2002, 17/2004, 8/2006, 142/2006, 34/2007, 146/2008, 155/2008 i 39/2009) neće se primjenjivati u 2010. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/09-01/08
+
+Urbroj: 5030109-09-2
+
+Zagreb, 23. prosinca 2009.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 14/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/14/264*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Rpublike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je Hrvatski sabor donio na sjednici 28. siječnja 2011. godine.
+
+Klasa: 011-01/11-01/02
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 28. siječnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 1/01., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 8/06., 142/06., 34/07., 134/07., 146/08., 155/08., 39/09. i 155/09.) u članku 4. stavku 3. točki 4. dodaje se nova podtočka b) koja glasi:
+
+»4. b) predsjednik Visokog upravnog suda Republike Hrvatske 6,42«.
+
+Dosadašnje podtočke b), c), d) i e) postaju podtočke c), d), e) i f).
+
+U točki 5. dodaje se nova podtočka b) koja glasi:
+
+»5. b) suci Visokog upravnog suda Republike Hrvatske 5,70«.
+
+Dosadašnje podtočke b), c) i d) postaju podtočke c), d) i e).
+
+U točki 6. dodaje se nova točka c) koja glasi:
+
+»6. c) predsjednici upravnih sudova 4,98«.
+
+Dosadašnje podtočke c) i d) postaju podtočke d) i e).
+
+U točki 8. dodaje se nova točka b) koja glasi:
+
+»8. b) suci upravnih sudova 3,54«.
+
+Dosadašnje podtočke b), c) i d) postaju podtočke c), d) i e).
+
+### Članak 2.
+
+Odredbe članka 5. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 1/01., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 8/06., 142/06., 34/07., 134/07., 146/08., 155/08., 39/09. i 155/09.) neće se primjenjivati u 2011. godini.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«, osim odredbe članka 2. ovoga Zakona koja stupa na snagu 1. siječnja 2011.
+
+Klasa: 120-02/11-01/01
+
+Zagreb, 28. siječnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 154/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/154/3212*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 114/2011), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2011. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredbe članka 5. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002, 154/2002, 17/2004, 8/2006, 142/2006, 34/2007, 134/2007, 146/2008, 155/2008, 39/2009, 155/2009 i 14/2011), neće se primjenjivati u 2012. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/10-01/09
+
+Urbroj: 5030109-11-2
+
+Zagreb, 29. prosinca 2011.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 143/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3035*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je Hrvatski sabor donio na sjednici 7. prosinca 2012. godine.
+
+Klasa: 011-01/12-01/170
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 12. prosinca 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 146/08., 39/09., 14/11. i 12/12.) odredbe članka 5. neće se primjenjivati u 2013. i 2014. godini.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/12-01/04
+
+Zagreb, 7. prosinca 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

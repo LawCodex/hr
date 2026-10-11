@@ -6,13 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2004-03-22
-last_amended: 2008-06-02
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2014-05-23
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "36/04, 63/08"
+narodne_novine: "36/04, 63/08, 133/13, 63/14"
 amendments:
   - "NN 63/2008 (2132) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru"
+  - "NN 133/2013 (2885) Uredba o izmjenama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru"
+  - "NN 63/2014 (1163) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/36/916"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 36/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/36/916).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 63/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 63/2008, NN 133/2013, NN 63/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -240,3 +242,125 @@ Potpredsjednica Vlade
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
 Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru (NN 133/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/133/2885*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 119. stavka 1. točke 1.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2009 i 123/2011), Vlada Republike Hrvatske je na sjednici održanoj 31. listopada 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O POSTUPKU DAVANJA KONCESIJSKOG ODOBRENJA NA POMORSKOM DOBRU**
+
+### Članak 1.
+
+U Uredbi o postupku davanja koncesijskog odobrenja na pomorskom dobru (»Narodne novine«, br. 36/2004 i 63/2008), u članku 2. stavku 3. riječi: »(»Narodne novine«, br. 53/91, 103/96)« brišu se.
+
+U stavku 4. Prilog »1A« briše se.
+
+### Članak 2.
+
+U članku 4. stavak 1. briše se.
+
+Dosadašnji stavci 2. i 3. postaju stavci 1. i 2.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »1., 2. i 3.« zamjenjuju se riječima: »1. i 2.«.
+
+### Članak 3.
+
+U članku 7. stavku 2. riječi: »Prilog 2. i« brišu se.
+
+Stavak 6. briše se.
+
+Dosadašnji stavak 7. postaje stavak 6.
+
+### Članak 4.
+
+U članku 9. stavku 4. riječi: »Prilog 4. i« brišu se.
+
+### Članak 5.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014. godine.
+
+Klasa: 022-03/13-03/126
+
+Urbroj: 50301-05/20-13-2
+
+Zagreb, 31. listopada 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru (NN 63/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/63/1163*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 119. točke 1.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2009 i 123/2011), Vlada Republike Hrvatske je na sjednici održanoj 22. svibnja 2014. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O POSTUPKU DAVANJA KONCESIJSKOG ODOBRENJA NA POMORSKOM DOBRU**
+
+### Članak 1.
+
+U Uredbi o postupku davanja koncesijskog odobrenja na pomorskom dobru (»Narodne novine«, br. 36/2004, 63/2008 i 133/2013), u članku 2. dodaje se novi stavak 3. koji glasi:
+
+»Odobrenje iz stavka 2. ovoga članka ne može se dati na dijelu pomorskog dobra koje je utvrđeno kao lučko područje niti na dijelu pomorskog dobra koje je dano u koncesiju.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+U dosadašnjem stavku 4. koji postaje stavak 5. riječ: »prilozi« zamjenjuje se riječju: »prilog«, a riječi: »i 1C« brišu se.
+
+### Članak 2.
+
+U članku 4. stavku 1. riječi: « i Tablici 3« brišu se, a iza riječi: »pomorsko dobro« stavlja se zarez i dodaju se riječi: »odnosno mikrolokacija na morskoj obali,«.
+
+Stavak 2. briše se.
+
+U dosadašnjem stavku 3., koji postaje stavak 2. riječi: »stavcima 1. i 2.« zamjenjuju se riječima: »stavku 1.«.
+
+### Članak 3.
+
+U članku 7. stavku 1. iza riječi: »osoba« stavlja se zarez i dodaju se riječi: »vlasnik obrta«.
+
+Stavci 4. i 5. brišu se.
+
+U dosadašnjem stavku 6. koji postaje stavak 4. riječi: »i Tablici 3.« brišu se.
+
+### Članak 4.
+
+U članku 8. stavku 4. zarez i riječi: »a za obavljanje djelatnosti potrebna je mikrolokacija na pomorskom dobru,« brišu se.
+
+### Članak 5.
+
+U članku 10. stavak 2. briše se.
+
+### Članak 6.
+
+U članku 11. stavku 1. riječi: »mora, turizma, prometa i razvitka« zamjenjuju se riječima: »pomorstva, prometa i infrastrukture«.
+
+### Članak 7.
+
+U članku 13. stavku 4. riječi: »Pravilniku o proglašenju i razvrstaju turističkih mjesta u razrede (»Narodne novine«, br. 75/94, 69/97, 60/98 i 78/99)« zamjenjuju se riječima: »Pravilniku o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede«.
+
+### Članak 8.
+
+U članku 15. riječi: »stavak 5.« zamjenjuju se riječima: »stavku 4.«.
+
+### Članak 9.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-03/53
+
+Urbroj: 50301-05/18-14-2
+
+Zagreb, 22. svibnja 2014.
+
+Predsjednik  
+Zoran Milanović, v. r.

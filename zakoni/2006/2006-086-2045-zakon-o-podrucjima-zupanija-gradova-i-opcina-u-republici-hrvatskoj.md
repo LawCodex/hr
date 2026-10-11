@@ -6,13 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-28
-last_amended: 2007-02-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2015-10-13
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "86/06, 16/07"
+narodne_novine: "86/06, 16/07, 145/10, 37/13, 44/13, 45/13, 110/15"
 amendments:
   - "NN 16/2007 (667) Ispravak Zakona o područjima županija, gradova i općina u Republici Hrvatskoj"
+  - "NN 145/2010 (3670) Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj"
+  - "NN 37/2013 (670) Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj"
+  - "NN 44/2013 (835) Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj"
+  - "NN 45/2013 (851) Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj"
+  - "NN 110/2015 (2137) Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2045"
 retrieved: 2026-10-12
 ---
@@ -21,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 86/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2045).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2007, NN 145/2010, NN 37/2013, NN 44/2013, NN 45/2013, NN 110/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -361,3 +366,336 @@ Zagreb, 6. veljače 2007.
 Tajnik  
 Hrvatskoga sabora  
 Josip Sesar, prof., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 145/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3670*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 15. prosinca 2010. godine.
+
+Klasa: 011-01/10-01/157  
+Urbroj: 71-05-03/1-1-2  
+Zagreb, 17. prosinca 2010
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Zakonu o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine«, br. 86/06., 125/06. – ispravak, 16/07. – ispravak, 95/08. – Odluka USRH i 46/10 – ispravak) u članku 16. XIII. ZADARSKA ŽUPANIJA, u Općini pod rednim brojem 13. – Općina Poličnik popis naselja koja ulaze u sastav te Općine mijenja se na način da sada glasi:
+
+»13. Poličnik
+
+Briševo
+
+Dračevac Ninski
+
+Gornji Poličnik
+
+Lovinac
+
+Murvica
+
+Murvica Gornja
+
+Poličnik
+
+Rupalj
+
+Suhovare
+
+Visočane.«
+
+### Članak 2.
+
+U članku 16. XIII. ZADARSKA ŽUPANIJA u Općini pod rednim brojem 14. – Općina Posedarje popis naselja koja ulaze u sastav te Općine mijenja se na način da sada glasi:
+
+»14. Posedarje
+
+Grgurice
+
+Islam Latinski
+
+Podgradina
+
+Posedarje
+
+Slivnica
+
+Vinjerac
+
+Ždrilo.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 015-01/10-01/02  
+Zagreb, 15. prosinca 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 37/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/670*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 15. ožujka 2013. godine.
+
+Klasa: 011-01/13-01/44
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 20. ožujka 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Zakonu o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine«, br. 86/06., 125/06. – ispravak, 16/07. – ispravak, 95/08. – Odluka USRH, 46/10. – ispravak i 145/10.) u članku 8. – V. VARAŽDINSKA ŽUPANIJA u popisu naselja grada pod rednim brojem 3. LUDBREG iza naselja: »Ludbreg« dodaje se naselje: »Poljanec«.
+
+U popisu naselja općine pod rednim brojem 12. Martijanec naselje: »Poljanec« briše se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 015-01/12-01/05
+
+Zagreb, 15. ožujka 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 44/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/44/835*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 12. travnja 2013. godine.
+
+Klasa: 011-01/13-01/61
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 12. travnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Zakonu o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine«, br. 86/06., 125/06. – ispravak, 16/07. – ispravak, 95/08., 46/10. – ispravak, 145/10. i 37/13.) u članku 23. – XX. MEĐIMURSKA ŽUPANIJA u popisu naselja grada pod rednim brojem 1. ČAKOVEC iza naselja: »Šandorovec« dodaje se naselje: »Štefanec«.
+
+U popisu naselja općine pod rednim brojem 10. Mala Subotica naselje: »Štefanec« briše se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu 17. travnja 2013.
+
+Klasa: 015-01/13-01/02
+
+Zagreb, 12. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 45/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/45/851*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 12. travnja 2013. godine.
+
+Klasa: 011-01/13-01/62  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 12. travnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Zakonu o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine«, br. 86/06., 125/06. – ispravak, 16/07. – ispravak, 95/08. – Odluka USRH, 46/10. – ispravak, 145/10. i 37/13.) u članku 6. – III. SISAČKO-MOSLAVAČKA ŽUPANIJA iza grada pod rednim brojem 6. »SISAK« s pripadajućim naseljima, dodaje se grad pod rednim brojem 7. »POPOVAČA« s pripadajućim naseljima: »Ciglenica, Donja Gračenica, Donja Jelenska, Donja Vlahinička, Gornja Gračenica, Gornja Jelenska, Moslavačka Slatina, Osekovo, Podbrđe, Popovača, Potok, Stružec, Voloder«.
+
+U popisu općina, općina pod rednim brojem 10. »Popovača« s pripadajućim naseljima briše se.
+
+Redni brojevi općina 11., 12. i 13. postaju 10., 11. i 12.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 015-01/13-01/01  
+Zagreb, 12. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 110/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2137*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj, koji je Hrvatski sabor donio na sjednici 25. rujna 2015. godine.
+
+Klasa: 011-01/15-01/125  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 1. listopada 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PODRUČJIMA ŽUPANIJA, GRADOVA I OPĆINA U REPUBLICI HRVATSKOJ**
+
+#### Članak 1.
+
+U Zakonu o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine«, br. 86/06., 125/06. – ispravak, 16/07. – ispravak, 95/08. – Odluka Ustavnog suda Republike Hrvatske, 46/10. – ispravak, 145/10., 37/13., 44/13. i 45/13.) u članku 26. stavku 2. riječ: »poglavarstva« zamjenjuje se riječima: »općinskog načelnika, odnosno gradonačelnika«.
+
+U stavku 3. riječi: »predsjednici poglavarstava« zamjenjuju se riječima: »općinski načelnici, odnosno gradonačelnici«.
+
+#### Članak 2.
+
+U članku 28. stavku 1. iza riječi: »tajnika Povjerenstva« dodaju se riječi: »te određuje naknadu za njihov rad«.
+
+#### Članak 3.
+
+U naslovu glave IV. iznad članka 30., iza riječi: »SJEDIŠTA« stavlja se zarez i dodaju riječi: »DOBROVOLJNO SPAJANJE«.
+
+#### Članak 4.
+
+Iza članka 30. dodaje se članak 30.a koji glasi:
+
+»Članak 30.a
+
+Jedinice lokalne samouprave koje međusobno graniče mogu se dobrovoljno spajati.
+
+Odluku o dobrovoljnom spajanju jedinica lokalne samouprave iz stavka 1. ovoga članka donose njihova predstavnička tijela većinom glasova svih članova, nakon pribavljenog mišljenja građana s područja jedinica na koje se spajanje odnosi.
+
+Odluka iz stavka 1. ovoga članka mora sadržavati:
+
+– nazive jedinica lokalne samouprave koje se spajaju
+
+– naziv i vrstu te sjedište nove jedinice lokalne samouprave koja nastaje spajanjem
+
+– suglasnost za prijenos imovine te prava i obveza jedinice koja se spaja na jedinicu koja nastaje spajanjem.«.
+
+#### Članak 5.
+
+U članku 37. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»Protiv odluke Povjerenstva iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.«.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., iza riječi: »tajnika Povjerenstva« dodaju se riječi: »te određuje naknadu za njihov rad«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 6.
+
+Vlada Republike Hrvatske raspisat će izbore za članove predstavničkih tijela novoosnovanih jedinica lokalne samouprave nastalih dobrovoljnim spajanjem i za općinskog načelnika, odnosno gradonačelnika te njihove zamjenike u roku od 90 dana od dana stupanja na snagu zakona kojim su te jedinice osnovane.
+
+Iznimno, ako je zakon kojim su nove jedinice osnovane stupio na snagu manje od godinu dana prije održavanja redovitih lokalnih izbora, izbori za članove predstavničkih tijela novoosnovanih jedinica lokalne samouprave nastalih dobrovoljnim spajanjem i za općinskog načelnika, odnosno gradonačelnika te njihove zamjenike neće se raspisati u roku iz stavka 1. ovoga članka.
+
+#### Članak 7.
+
+Postojeća predstavnička i izvršna tijela jedinica kod kojih je došlo do promjena područja, nastavljaju s radom u dosadašnjem djelokrugu i s dosadašnjom područnom nadležnosti do konstituiranja novih predstavničkih tijela, odnosno početka mandata novih izvršnih tijela.
+
+#### Članak 8.
+
+Novoosnovane jedinice lokalne samouprave ustrojit će upravna tijela u roku od 60 dana od dana konstituiranja predstavničkog tijela.
+
+Do ustrojavanja upravnih tijela iz stavka 1. ovoga članka i preuzimanja predmeta, poslove upravnih tijela novoosnovanih jedinica obavljaju upravna tijela jedinica koje se spajaju.
+
+#### Članak 9.
+
+Upravna tijela novoosnovanih jedinica lokalne samouprave koje su nastale dobrovoljnim spajanjem preuzet će sve predmete u radu, kao i arhivirane predmete i dokumentaciju upravnih tijela jedinica koje se spajaju.
+
+Preuzimanje predmeta i dokumentacije provest će povjerenstva za preuzimanje predmeta i dokumentacije. U povjerenstvo za preuzimanje predmeta i dokumentacije svaka jedinica lokalne samouprave koja se spaja imenuje po jednog člana, a jednog imenuje župan županije s čijeg su područja jedinice koje se spajaju.
+
+#### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/157  
+Zagreb, 25. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

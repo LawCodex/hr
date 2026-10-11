@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-06-03
-last_amended: 2004-05-12
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
+last_amended: 2013-02-06
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "44/94, 79/98, 19/99, 60/04"
+narodne_novine: "44/94, 79/98, 19/99, 60/04, 12/12, 15/13"
 amendments:
   - "NN 79/1998 (1057) Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
   - "NN 19/1999 (401) Zakon o izmjenama Zakona o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
   - "NN 60/2004 (1340) Zakon o izmjenama i dopunama Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
+  - "NN 12/2012 (335) Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
+  - "NN 15/2013 (243) Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/777"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 44/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/777).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 79/1998, NN 19/1999, NN 60/2004.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 79/1998, NN 19/1999, NN 60/2004, NN 12/2012, NN 15/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -400,3 +402,115 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 12/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/335*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DRŽAVNOJ AGENCIJI ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA
+
+Proglašavam Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka, koji je Hrvatski sabor donio na sjednici 25. siječnja 2012. godine.
+
+Klasa: 011-01/12-01/10
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 25. siječnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DRŽAVNOJ AGENCIJI ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA**
+
+### Članak 1.
+
+U Zakonu o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (»Narodne novine«, br. 44/94., 79/98., 19/99., 35/00. i 60/04.) u članku 11. stavak 1. mijenja se i glasi:
+
+»(1) Tijelo koje upravlja Agencijom je Uprava koju čine:
+
+1. prvi potpredsjednik Vlade Republike Hrvatske, koji je po položaju predsjednik Uprave,
+
+2. ministar financija, koji je po položaju zamjenik predsjednika Uprave,
+
+3. predsjednik Odbora za financije i državni proračun Hrvatskoga sabora, član Uprave,
+
+4. predsjednik Odbora za gospodarstvo Hrvatskoga sabora, član Uprave.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 450-02/12-01/01
+
+Zagreb, 25. siječnja 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.
+
+## Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 15/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/243*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DRŽAVNOJ AGENCIJI ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA
+
+Proglašavam Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka, koji je Hrvatski sabor donio na sjednici 25. siječnja 2013. godine.
+
+Klasa: 011-01/13-01/05
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 31. siječnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DRŽAVNOJ AGENCIJI ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA**
+
+### Članak 1.
+
+U Zakonu o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (»Narodne novine« br. 44/94., 79/98., 19/99., 35/00., 60/04. i 12/12.) članak 11. mijenja se i glasi:
+
+»(1) Tijelo koje upravlja Agencijom je Uprava koju čine:
+
+1. ministar financija, koji je po položaju predsjednik Uprave,
+
+2. predsjednik Odbora za financije i državni proračun Hrvatskoga sabora, član Uprave,
+
+3. predsjednik Odbora za gospodarstvo Hrvatskoga sabora, član Uprave.
+
+(2) Uprava Agencije odlučuje većinom glasova svih svojih članova.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 450-02/13-01/01
+
+Zagreb, 25. siječnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

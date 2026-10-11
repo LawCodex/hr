@@ -6,14 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-06-10
-last_amended: 2006-12-06
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2013-06-21
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "96/03, 140/05, 132/06"
+narodne_novine: "96/03, 140/05, 132/06, 150/08, 92/09, 153/09, 145/10, 76/13"
 amendments:
   - "NN 140/2005 (2646) Zakon o izmjenama i dopunama Zakona o deviznom poslovanju"
   - "NN 132/2006 (2955) Zakon o izmjenama i dopunama Zakona o deviznom poslovanju"
+  - "NN 150/2008 (4103) Uredba o izmjenama i dopunama Zakona o deviznom poslovanju"
+  - "NN 92/2009 (2314) Uredba o izmjeni Zakona o deviznom poslovanju"
+  - "NN 153/2009 (3762) Uredba o izmjenama i dopunama Zakona o deviznom poslovanju"
+  - "NN 145/2010 (3672) Zakon o izmjenama i dopunama Zakona o deviznom poslovanju"
+  - "NN 76/2013 (1527) Zakon o izmjenama i dopunama Zakona o deviznom poslovanju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/96/1217"
 retrieved: 2026-10-12
 ---
@@ -22,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 96/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/96/1217).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 140/2005, NN 132/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 140/2005, NN 132/2006, NN 150/2008, NN 92/2009, NN 153/2009, NN 145/2010, NN 76/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1464,3 +1469,548 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Uredba o izmjenama i dopunama Zakona o deviznom poslovanju (NN 150/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/150/4103*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine«, broj 116/2008), Vlada Republike Hrvatske je na sjednici održanoj 19. prosinca 2008. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZOM POSLOVANJU**
+
+### Članak 1.
+
+U Zakonu o deviznom poslovanju (»Narodne novine«, br. 96/2003, 140/2005 i 132/2006) u članku 78. stavku 1. iza riječi: »članak 35. stavak 3. ovog Zakona« stavlja se točka, a ostatak rečenice briše se.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Dana 1. kolovoza 2009. godine prestaju važiti članak 28. stavak 6. i članak 63. stavak 1. točka 10. ovoga Zakona.
+
+(3) Dana 1. siječnja 2010. godine prestaju važiti članak 14. stavak 3., članak 18. stavci 2. i 3., članak 28. stavak 4., članak 29., članak 34. stavak 1., članak 36., članak 37., članak 38., članak 42. stavak 6., članak 63. stavak 1. točke 8.a, 9., 11. i 15. i članak 68. ovoga Zakona.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 440-01/08-01/01
+
+Urbroj: 5030120-08-1
+
+Zagreb, 19. prosinca 2008.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni Zakona o deviznom poslovanju (NN 92/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/92/2314*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine«, broj 116/2008), Vlada Republike Hrvatske je na sjednici održanoj 24. srpnja 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O DEVIZNOM POSLOVANJU**
+
+### Članak 1.
+
+U Zakonu o deviznom poslovanju (»Narodne novine«, broj 96/2003, 140/2005, 132/2006 i 150/2008) u članku 78. stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Dana 1. siječnja 2010. prestaje važiti članak 14. stavak 3., članak 18. stavci 2. i 3., članak 28. stavak 4., članak 29., članak 34. stavak 1., članak 36., članak 37., članak 38., članak 42. stavak 6., članak 63. stavak 1. točke 8.a, 9., 11. i 15. i članak 68. ovoga Zakona.
+
+(3) Dana 1. veljače 2010. prestaje važiti članak 28. stavak 6. i članak 63. stavak 1. točka 10. ovoga Zakona.
+
+(4) Danom pristupanja Republike Hrvatske Europskoj uniji prestaje važiti članak 47. stavak 4. ovoga Zakona.«.
+
+### Članak 2.
+
+Stupanjem na snagu ove Uredbe prestaje važiti Uredba o izmjenama i dopunama Zakona o deviznom poslovanju (»Narodne novine«, broj 150/2008).
+
+### Članak 3.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 440-01/09-01/01
+
+Urbroj: 5030120-09-1
+
+Zagreb, 24. srpnja 2009.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama i dopunama Zakona o deviznom poslovanju (NN 153/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3762*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 121/2009), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZNOM POSLOVANJU**
+
+### Članak 1.
+
+U Zakonu o deviznom poslovanju (»Narodne novine«, br. 96/2003, 140/2005, 132/2006 i 92/2009), u članku 28. stavku 6. prva rečenica mijenja se i glasi:
+
+»Zabranjeno je odobravati nerezidentima financijske kredite s rokom dospijeća kraćim od tri mjeseca.«.
+
+### Članak 2.
+
+Članak 34. mijenja se i glasi:
+
+»Hrvatska narodna banka propisuje način na koji rezidenti iz članka 2. stavka 1. točaka 1., 2. i 3. ovoga Zakona podižu i polažu stranu gotovinu i čekove na račun otvoren u banci, rok u kojem su dužni naplaćenu stranu gotovinu i čekove položiti na račun otvoren u banci te uvjete pod kojima mogu držati stranu gotovinu i čekove u blagajni.«.
+
+### Članak 3.
+
+U članku 63. stavku 1. točka 10. mijenja se i glasi:
+
+»10. ako nerezidentu odobri financijski kredit suprotno odredbi članka 28. stavka 6. ovoga Zakona,«.
+
+Točka 14. mijenja se i glasi:
+
+»14. ako ne postupi u skladu s odlukom Hrvatske narodne banke donesenom na temelju članka 34. ovoga Zakona,«.
+
+### Članak 4.
+
+U članku 78. stavku 1. iza riječi: »članak 35. stavak 3. ovoga Zakona« stavlja se točka, a ostatak rečenice briše se.
+
+Iza stavka 1. dodaju se stavci 2., 3. i 4. koji glase:
+
+»(2) Dana 1. siječnja 2010. prestaje važiti članak 14. stavak 3., članak 18. stavci 2. i 3., članak 36., članak 37., članak 38., članak 42. stavak 6., članak 63. stavak 1. točke 9. i 15. i članak 68. ovoga Zakona, te:
+
+– Odluka o uvjetima za izdavanje odobrenja za osobne prijenose imovine u inozemstvo s osnove pomoći i poklona (»Narodne novine«, br. 111/2003 i 149/2003),
+
+– Odluka o unošenju i iznošenju gotovine, čekova i materijaliziranih vrijednosnih papira (»Narodne novine«, br. 111/2003, 69/2006 i 82/2006) i
+
+– Odluka o načinu i uvjetima pod kojima rezidenti u poslovanju s nerezidentima mogu primiti naplatu ili izvršiti plaćanje u gotovini u kunama, stranoj gotovini i čekovima (»Narodne novine«, br. 54/2006 i 132/2007), osim odredbi točke II., točke III. stavaka 3. i 4., točke IV. stavka 1., točke V., točke VII. stavaka 2. do 4., točke VIII., točke X., točke XII. i točke XIII., koje se primjenjuju do stupanja na snagu podzakonskog akta iz članka 34. ovoga Zakona.
+
+(3) Dana 1. srpnja 2010. prestaju važiti članak 28. stavak 6. i članak 63. stavak 1. točka 10. ovoga Zakona.
+
+(4) Dana 1. siječnja 2011. prestaju važiti članak 28. stavak 4., članak 29., članak 63. stavak 1. točke 8.a i 11. ovoga Zakona, te Odluka o uvjetima za izdavanje odobrenja za otvaranje deviznog računa u inozemstvu (»Narodne novine«, br. 111/2003, 189/2004 i 124/2006).«.
+
+Dosadašnji stavak 2. koji postaje stavak 5. mijenja se i glasi:
+
+»(5) Danom pristupanja Republike Hrvatske Europskoj uniji prestaje važiti članak 47. stavak 4. ovoga Zakona.«.
+
+### Članak 5.
+
+Stupanjem na snagu ove Uredbe prestaje važiti Uredba o izmjeni Zakona o deviznom poslovanju (»Narodne novine«, broj 92/2009).
+
+### Članak 6.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 31. prosinca 2009. godine.
+
+Klasa: 440-01/09-01/01
+
+Urbroj: 5030120-09-3
+
+Zagreb, 17. prosinca 2009.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o deviznom poslovanju (NN 145/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3672*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZNOM POSLOVANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o deviznom poslovanju, koji je Hrvatski sabor donio na sjednici 15. prosinca 2010. godine.
+
+Klasa: 011-01/10-01/159
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 17. prosinca 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZNOM POSLOVANJU**
+
+### Članak 1.
+
+U Zakonu o deviznom poslovanju (»Narodne novine«, br. 96/03., 140/05., 132/06. i 153/09.) u članku 3. stavak 1. mijenja se i glasi:
+
+»(1) Banka je u smislu ovoga Zakona:
+
+– kreditna institucija prema zakonu kojim se regulira poslovanje kreditnih institucija koja ima odobrenje za rad Hrvatske narodne banke i odobrenje za obavljanje poslova uređenih ovim Zakonom,
+
+– podružnica kreditne institucije iz treće države koja je od Hrvatske narodne banke dobila odobrenje za osnivanje podružnice i koja ima odobrenje za obavljanje poslova uređenih ovim Zakonom,
+
+– kreditna institucija iz države članice koja je prema zakonu kojim se regulira poslovanje kreditnih institucija ovlaštena obavljati poslove uređene ovim Zakonom i
+
+– Hrvatska banka za obnovu i razvitak.«.
+
+### Članak 2.
+
+U članku 15. iza riječi: »stranim sredstvima plaćanja« dodaju se riječi: »te prijenosi deviznih sredstava«.
+
+### Članak 3.
+
+Naslov iznad članka 34. mijenja se i glasi: »Plaćanja i naplate u gotovini u kunama, stranoj gotovini i čekovima«.
+
+Članak 34. mijenja se i glasi:
+
+»Hrvatska narodna banka propisuje način na koji rezidenti iz članka 2. stavka 1. točke 1., 2. i 3. ovoga Zakona podižu i polažu stranu gotovinu i čekove na račun otvoren u banci, rok u kojem su dužni naplaćenu stranu gotovinu i čekove položiti na račun otvoren u banci te uvjete pod kojima mogu držati stranu gotovinu i čekove u blagajni.«.
+
+### Članak 4.
+
+U članku 42. stavak 4. mijenja se i glasi:
+
+»(4) Rezidenti iz članka 2. stavka 1. točke 4. i 5. ovoga Zakona i fizičke osobe nerezidenti mogu kupoprodaju strane gotovine te prodaju čekova koji glase na stranu valutu obavljati i kod ovlaštenih mjenjača.«.
+
+### Članak 5.
+
+U članku 46. stavak 1. mijenja se i glasi:
+
+»(1) Mjenjački poslovi koje obavljaju ovlašteni mjenjači obuhvaćaju otkup strane gotovine i čekova koji glase na stranu valutu za gotovinu u kunama te prodaju strane gotovine za gotovinu u kunama.«.
+
+U stavku 3. točki 4. iza riječi: »pravne osobe« dodaju se riječi: »odnosno izvršni direktor dioničkog društva koje ima upravni odbor, prokurist«, a riječ: »kažnjene« zamjenjuje se riječima: »pravomoćno osuđene«.
+
+### Članak 6.
+
+U članku 46.a stavku 1. točki 4. iza riječi: »certificiran« umjesto točke stavlja se zarez.
+
+Iza točke 4. dodaje se točka 5. koja glasi:
+
+»5. podatke o neosuđivanosti u inozemstvu osoba iz članka 46. stavka 3. točke 4. ovoga Zakona za kaznena djela koja po svom opisu odgovaraju kaznenim djelima iz članka 46. stavka 3. točke 4. ovoga Zakona, koji nisu stariji od tri mjeseca.«.
+
+U stavku 3. riječ: »nekažnjavanju« zamjenjuje se riječju: »neosuđivanosti«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Smatra se nepotpunim zahtjev kojem nisu priloženi svi potrebni dokumenti iz ovoga članka Zakona. Hrvatska narodna banka rješenjem će odbaciti nepotpun zahtjev nakon proteka naknadnog roka iz članka 46.b stavka 2. ovoga Zakona.«.
+
+### Članak 7.
+
+U članku 46.b stavku 1. točka 3. mijenja se i glasi:
+
+»3. ako utvrdi da je podnositelj zahtjeva obrtnik odnosno trgovac pojedinac ili, kod pravne osobe, član uprave odnosno izvršni direktor dioničkog društva koje ima upravni odbor te prokurist ili bilo koji kvalificirani vlasnik iz članka 46.a stavka 1. točke 2. i stavka 2. točke 2. ovoga Zakona, osoba pravomoćno osuđena za kazneno djelo protiv vrijednosti zaštićenih međunarodnim pravom, sigurnosti platnog prometa i poslovanja te vjerodostojnosti isprava ili za kazneno djelo propisano ovim Zakonom, i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s tim da se u to vrijeme ne uračunava vrijeme provedeno na izdržavanju kazne,«.
+
+U točki 4. iza riječi: »mjenjača« briše se točka i dodaje se riječ: »ili«.
+
+Iza točke 4. dodaje se točka 5. koja glasi:
+
+»5. ako je nad podnositeljem zahtjeva otvoren postupak likvidacije odnosno stečajni postupak.«.
+
+### Članak 8.
+
+U članku 46.c stavku 1. točki 5. briše se riječ: »ili«.
+
+U točki 6. iza riječi: »programa« umjesto točke stavlja se riječ: »ili«.
+
+Iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. ako ovlašteni mjenjač ne dostavi zatražene informacije i dokaze na zahtjev Hrvatske narodne banke iz članka 46.e stavka 3. ovoga Zakona, u ostavljenom roku, koji ne može biti kraći od 30 dana.«.
+
+### Članak 9.
+
+U članku 46.d točki 2. iza riječi: »otvaranja« dodaju se riječi: »likvidacijskog ili«.
+
+### Članak 10.
+
+U članku 46.e dodaje se stavak 3. koji glasi:
+
+»(3) Ovlašteni mjenjač iz članka 46. stavka 2. ovoga Zakona dužan je na zahtjev Hrvatske narodne banke dostaviti informacije i dokaze o ispunjavanju uvjeta iz članka 46. stavka 3. ovoga Zakona.«.
+
+### Članak 11.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Hrvatska narodna banka propisuje način prijavljivanja i prikupljanja podataka o izravnim i drugim vlasničkim ulaganjima.
+
+(2) Rezidenti su obvezni Hrvatskoj narodnoj banci dostavljati izvješća o izravnim i ostalim vlasničkim ulaganjima, na način i u rokovima koje Hrvatska narodna banka utvrdi odlukom.«.
+
+### Članak 12.
+
+Članak 52. mijenja se i glasi:
+
+»(1) Hrvatska narodna banka propisuje način prijavljivanja i prikupljanja podataka o poslovima s vrijednosnim papirima.
+
+(2) Rezidenti su obvezni Hrvatskoj narodnoj banci dostavljati izvješća o poslovima s vrijednosnim papirima, na način i u rokovima koje Hrvatska narodna banka utvrdi odlukom.«.
+
+### Članak 13.
+
+U članku 53. stavku 1. iza riječi: »koje« dodaje se riječ: »odlukom«.
+
+### Članak 14.
+
+U članku 57. stavku 2. riječi: »deviznom inspektoru« zamjenjuju se riječima: »ovlaštenoj osobi Financijskog inspektorata«.
+
+### Članak 15.
+
+U članku 63. stavku 1. točka 1. briše se.
+
+Točka 14. mijenja se i glasi:
+
+»14. ako ne postupi u skladu s odlukom Hrvatske narodne banke donesenom na temelju članka 34. ovoga Zakona,«.
+
+U točki 22. iza riječi: »banka« umjesto točke stavlja se zarez.
+
+Iza točke 22. dodaje se točka 23. koja glasi:
+
+»23. ako kao ovlašteni mjenjač obavlja mjenjačke poslove, a ta djelatnost nije upisana u sudski, odnosno obrtni registar.«.
+
+### Članak 16.
+
+Članak 78. mijenja se i glasi:
+
+»(1) Dana 1. siječnja 2011. prestaje važiti članak 28. stavak 4., članak 29., članak 39. i članak 63. stavak 1. točka 8.a i 11. ovoga Zakona te Odluka o uvjetima za izdavanje odobrenja za otvaranje deviznog računa u inozemstvu (»Narodne novine«, br. 111/03., 189/04. i 124/06.).
+
+(2) Dana 1. siječnja 2011. prestaje važiti članak 32., članak 33., članak 63. stavak 1. točka 13. i članak 64. stavak 1. točka 6. ovoga Zakona te sljedeći podzakonski akti:
+
+– Odluka o uvjetima i načinu obavljanja platnog prometa s inozemstvom (»Narodne novine«, br. 88/05., 18/06. i 132/07.),
+
+– Uputa za provedbu Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom (»Narodne novine«, br. 136/05., 143/05., 37/06., 134/07. i 4/08.),
+
+– Uputa o upotrebi slovnih kratica i brojčanih oznaka za države i zemlje i novčane jedinice u platnom prometu s inozemstvom (»Narodne novine«, br. 75/07., 77/07., 112/07., 95/08., 28/09., 45/09. i 67/09.),
+
+– Uputa o upotrebi šifara osnova naplate i plaćanja u platnom prometu s inozemstvom (»Narodne novine«, br. 136/05. i 24/06.) i
+
+– Odluka o prikupljanju podataka o ostvarenom platnom prometu s inozemstvom (»Narodne novine«, br. 136/05. i 24/06.).
+
+(3) Dana 1. siječnja 2012. prestaje važiti članak 16., članak 30. i članak 64. stavak 1. točka 11. ovoga Zakona te sljedeći podzakonski akti:
+
+– Odluka o postupku otvaranja i vođenja deviznih računa i deviznih štednih uloga rezidenata u banci (»Narodne novine«, br. 111/03., 138/03., 176/04. i 122/05.) i
+
+– Odluka o uvjetima i načinu otvaranja i vođenja računa nerezidenata u banci (»Narodne novine«, br. 124/06., 131/06. i 74/07.).
+
+(4) Danom pristupanja Republike Hrvatske Europskoj uniji prestaje važiti članak 47. stavak 4. ovoga Zakona.«.
+
+*Prijelazne i završne odredbe*
+
+### Članak 17.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti odobrenje za obavljanje mjenjačkih poslova izdano ovlaštenom mjenjaču koji je u likvidaciji na dan stupanja na snagu ovoga Zakona.
+
+### Članak 18.
+
+U cijelom tekstu Zakona o deviznom poslovanju (»Narodne novine«, br. 96/03., 140/05., 132/06. i 153/09.) riječi: »Devizni inspektorat« zamjenjuju se riječima: »Financijski inspektorat«, riječi: »Komisija za vrijednosne papire Republike Hrvatske« riječima: »Hrvatska agencija za nadzor financijskih usluga«, riječi: »Središnja depozitarna agencija« riječima: »Središnje klirinško depozitarno društvo« i riječi: »Zakon o tržištu vrijednosnih papira« riječima: »Zakon o tržištu kapitala«, u odgovarajućem padežu.
+
+*Stupanje na snagu*
+
+### Članak 19.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2011.
+
+Klasa: 440-01/10-01/01
+
+Zagreb, 15. prosinca 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o deviznom poslovanju (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1527*
+
+HRVATSKI SABOR
+
+Na temelju člank4 89. č1stava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZNOM POSLOVANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o deviznom poslovanju, koji je Hrvatski sabor donio na sjednici 14. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/142  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 18. lipnja 2013.
+
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZNOM POSLOVANJU**
+
+#### Članak 1.
+
+U Zakonu o deviznom poslovanju (»Narodne novine«, br. 96/03., 140/05., 132/06., 150/08., 92/09., 133/09., 153/09. i 145/10.) iza članka 1. dodaje se naslov i članak 1.a koji glase:
+
+*»Provedba pravnih akata Europske unije*
+
+#### Članak 1.a
+
+Ovim se Zakonom uređuje provedba sljedećih uredbi Europske unije:
+
+– Uredba (EZ) br. 1889/2005 Europskog parlamenta i Vijeća od 26. listopada 2005. o kontrolama gotovine koja se unosi u Zajednicu ili iznosi iz Zajednice (SL L 309, 25. 11. 2005.) – u daljnjem tekstu: Uredba (EZ) br. 1889/2005,
+
+– Uredba Vijeća (EZ) br. 2182/2004 od 6. prosinca 2004. o medaljama i žetonima koji nalikuju eurokovanicama (SL L 373, 21. 12. 2004.) – u daljnjem tekstu: Uredba (EZ) br. 2182/2004 i
+
+– Uredba Vijeća (EZ) br. 2183/2004 o proširenju primjene Uredbe (EZ) br. 2182/2004 o medaljama i žetonima koji nalikuju eurokovanicama na države članice nesudionice (SL L 373, 21. 12. 2004.) – u daljnjem tekstu: Uredba (EZ) br. 2183/2004.«.
+
+#### Članak 2.
+
+Naslov iznad članka 40. mijenja se i glasi: »Unošenje gotovine u Europsku uniju i iznošenje gotovine iz Europske unije«.
+
+Članak 40. mijenja se i glasi:
+
+»(1) Fizičke osobe koje ulaze u Europsku uniju ili izlaze iz Europske unije preko Republike Hrvatske, a prenose gotovinu u vrijednosti od 10.000,00 eura ili većoj, dužne su u skladu sa člankom 3. stavkom 1. Uredbe (EZ) br. 1889/2005 Ministarstvu financija – Carinskoj upravi prijaviti podatke iz članka 3. stavka 2. iste Uredbe, u pisanom obliku na obrascu za prijavu koji je dostupan u carinskim uredima na graničnim prijelazima i objavljen na internetskim stranicama Ministarstva financija – Carinske uprave i Financijskog inspektorata.
+
+(2) Pojam »gotovina« u ovom članku ima značenje identično definiciji istog pojma u Uredbi (EZ) br. 1889/2005.«.
+
+#### Članak 3.
+
+Naslov iznad članka 40.a mijenja se i glasi: »Medalje i žetoni koji nalikuju eurokovanicama«.
+
+Članak 40.a mijenja se i glasi:
+
+(1) Fizičke i pravne osobe koje u Republici Hrvatskoj proizvode, prodaju, uvoze za prodaju ili za druge komercijalne svrhe ili za te svrhe distribuiraju medalje i žetone dužne su na temelju Uredbe (EZ) br. 2183/2004 postupati u skladu s Uredbom (EZ) br. 2182/2004.
+
+(2) Svaka osoba koja na bilo koji način dođe u posjed medalje i žetona za koji sumnja da je suprotan Uredbi (EZ) br. 2182/2004, dužna je o tome obavijestiti Hrvatsku narodnu banku.
+
+(3) Hrvatska narodna banka proslijedit će medalje i žetone koje dobije na uvid ili koji na drugi način dođu u njezin posjed Europskoj komisiji radi očitovanja o tome jesu li suprotni Uredbi (EZ) br. 2182/2004.
+
+(4) Očitovanje Europske komisije kojim se utvrđuje da je riječ o medaljama ili žetonima koji su suprotni Uredbi (EZ) br. 2182/2004 Hrvatska narodna banka dostavit će fizičkim i pravnim osobama iz stavka 1. ovoga članka.
+
+(5) Fizičke i pravne osobe iz stavka 1. ovoga članka kojima je dostavljeno očitovanje iz stavka 4. ovoga članka dužne su bez odgode povući iz prometa i uništiti medalje i žetone za koje je tim očitovanjem utvrđeno da su suprotni Uredbi (EZ) br. 2182/2004. i o tome obavijestiti Hrvatsku narodnu banku.«.
+
+#### Članak 4.
+
+U članku 45. stavak 4. briše se.
+
+#### Članak 5.
+
+U članku 46. stavku 3. točka 4. mijenja se i glasi:
+
+»4. ovlašteni mjenjač obrtnik odnosno trgovac pojedinac, a kod mjenjača koji je pravna osoba član uprave odnosno izvršni direktor dioničkog društva koje ima upravni odbor, prokurist i kvalificirani vlasnik ovlaštenog mjenjača iz članka 46.a stavka 1. točke 2. i stavka 2. točke 2. ovoga Zakona nije pravomoćno osuđen u Republici Hrvatskoj za neko od sljedećih kaznenih djela:
+
+– iz članka 279. (prikrivanje protuzakonito dobivenog novca) Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00. – Odluka USRH, 129/00., 51/01., 111/03., 190/03. – Odluka USRH, 105/04., 84/05., 71/06. i 110/07.),
+
+– iz članka 173. (zlouporaba opojnih droga), članka 175. (trgovanje ljudima i ropstvo), članka 187.a (pripremanje kaznenih djela protiv vrijednosti zaštićenih međunarodnim pravom), članka 223. (povreda tajnosti, cjelovitosti i dostupnosti računalnih podataka, programa ili sustava), članka 223.a (računalno krivotvorenje), članka 224.a (računalna prijevara), članka 274. (krivotvorenje novca), članka 275. (krivotvorenje vrijednosnih papira), članka 276. (krivotvorenje znakova za vrijednost), članka 277. (izradba, nabavljanje, posjedovanje, prodaja ili davanje na uporabu sredstva za krivotvorenje), članka 278. (krivotvorenje znakova za obilježavanje robe, mjera i utega), članka 279. (pranje novca), članka 286. (utaja poreza i drugih davanja), članka 287. (povreda obveze vođenja trgovačkih i poslovnih knjiga), članka 291. (nesavjesno gospodarsko poslovanje), članka 292. (zlouporaba ovlasti u gospodarskom poslovanju), članka 293. (prijevara u gospodarskom poslovanju), članka 294.a (primanje mita u gospodarskom poslovanju), članka 294.b (davanje mita u gospodarskom poslovanju), članka 311. (krivotvorenje isprave), članka 312. (krivotvorenje službene isprave), članka 313. (posebni slučajevi krivotvorenja), članka 314. (izradba, nabavljanje, posjedovanje, prodaja ili davanje na uporabu sredstva za krivotvorenje isprava) i članka 315. (ovjerovljavanje neistinitog sadržaja) Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00. – Odluka USRH, 129/00., 51/01., 111/03., 190/03. – Odluka USRH, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 77/11. – Odluka USRH),
+
+– iz članka 98. (financiranje terorizma), članka 105. (ropstvo), članka 106. (trgovanje ljudima), članka 190. (neovlaštena proizvodnja i promet drogama), članka 191. (omogućavanje trošenja droga), članka 246. (zlouporaba povjerenja u gospodarskom poslovanju), članka 247. (prijevara u gospodarskom poslovanju), članka 248. (povreda obveze vođenja trgovačkih i poslovnih knjiga), članka 252. (primanje mita u gospodarskom poslovanju), članka 253. (davanje mita u gospodarskom poslovanju), članka 256. (utaja poreza ili carine), članka 258. (subvencijska prijevara), članka 265. (pranje novca), članka 274. (krivotvorenje novca), članka 275. (krivotvorenje vrijednosnih papira), članka 276. (krivotvorenje znakova za vrijednost), članka 277. (krivotvorenje znakova za obilježavanje robe, mjera i utega), članka 278. (krivotvorenje isprave), članka 279. (krivotvorenje službene ili poslovne isprave), članka 281. (ovjeravanje neistinitog sadržaja), članka 283. (izrada, nabavljanje, posjedovanje ili davanje na uporabu sredstva za krivotvorenje) te za neko kazneno djelo protiv računalnih sustava, programa i podataka (glava XXV.) iz Kaznenog zakona ili
+
+– kazneno djelo propisano ovim Zakonom,
+
+ili u inozemstvu za kaznena djela koja opisom odgovaraju kaznenim djelima iz podstavka 1., 2., 3. i 4. ove točke, a ako je pravomoćno osuđen za neko od tih djela, da je od pravomoćnosti presude proteklo najmanje pet godina, ne uračunavajući u to vrijeme ono provedeno na izdržavanju kazne.«.
+
+#### Članak 6.
+
+U članku 46.a stavak 4. mijenja se i glasi:
+
+»(4) Smatra se nepotpunim zahtjev kojem nisu priloženi svi potrebni dokumenti iz ovoga članka Zakona.«.
+
+#### Članak 7.
+
+U članku 46.b stavku 1. točka 3. mijenja se i glasi:
+
+»3. ako utvrdi da podnositelj zahtjeva obrtnik odnosno trgovac pojedinac, a kod podnositelja zahtjeva koji je pravna osoba, član uprave odnosno izvršni direktor dioničkog društva koje ima upravni odbor, ili prokurist, ili kvalificirani vlasnik podnositelja zahtjeva iz članka 46.a stavka 1. točke 2. i stavka 2. točke 2. ovoga Zakona ne udovoljava uvjetima iz članka 46. stavka 3. točke 4. ovoga Zakona,«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Hrvatska narodna banka obvezna je u roku od 60 dana od dana primitka urednog zahtjeva za izdavanje odobrenja za obavljanje mjenjačkih poslova odlučiti o zahtjevu.«.
+
+#### Članak 8.
+
+Članak 50. mijenja se i glasi:
+
+»(1) Rezidenti iz članka 2. stavka 1. točke 1., 2. i 3. ovoga Zakona, osim banaka, dužni su voditi nadzornu knjigu o plaćanju i naplati u kapitalnim poslovima s inozemstvom neovisno o tome trebaju li podatke koji se u nju unose upisivati u druge knjige i evidencije koje su obvezni voditi prema drugim propisima.
+
+(2) Nadzorna knjiga mora biti dostupna deviznoj kontroli odmah, a najkasnije sljedeći radni dan.
+
+(3) Ministar financija naredbom propisuje sadržaj i način vođenja nadzorne knjige.«.
+
+#### Članak 9.
+
+Članak 59. mijenja se i glasi:
+
+»(1) Ministarstvo financija – Carinska uprava u skladu s Uredbom (EZ) br. 1889/2005 obavlja u smislu članka 40. ovoga Zakona nadzor nad vrstom i količinom gotovine koju preko Republike Hrvatske u Europsku uniju unose i iz Europske unije iznose fizičke osobe u putničkom prometu.
+
+(2) Ministarstvo financija – Carinska uprava nadzire vrstu i količinu strane gotovine, gotovine u kunama i vrijednosnih papira koju preko Republike Hrvatske u Europsku uniju ili iz Europske unije prenose rezidenti i nerezidenti u robnom i poštanskom prometu.«.
+
+#### Članak 10.
+
+U članku 61. stavku 3. riječi: »blaže kazniti ili« brišu se.
+
+#### Članak 11.
+
+U članku 63. stavku 1. točke 21. i 22. mijenjaju se i glase:
+
+»21. ako izradi, proda, uveze za prodaju ili u druge komercijalne svrhe ili u te svrhe distribuira medalje ili žetone koji nalikuju eurokovanicama protivno člancima 2., 3. i 4. Uredbe (EZ) br. 2182/2004, koja se primjenjuje na temelju Uredbe (EZ) br. 2183/2004,
+
+22. ako bez odgode ne povuče iz prometa ili ne uništi medalje ili žetone za koje je očitovanjem iz članka 40.a stavka 4. ovoga Zakona utvrđeno da su suprotni Uredbi (EZ) br. 2182/2004 koja se primjenjuje na temelju Uredbe (EZ) br. 2183/2004«.
+
+#### Članak 12.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 5.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba ako bez pisane prijave na obrascu za prijavu Ministarstvu financija – Carinskoj upravi pri ulasku u Europsku uniju ili izlasku iz Europske unije preko Republike Hrvatske prenese ili pokuša prenijeti gotovinu u smislu članka 40. ovoga Zakona u vrijednosti od 10.000,00 eura ili većoj (članak 40. ovoga Zakona i članak 3. Uredbe (EZ) br. 1889/2005).
+
+(2) Gotovina u smislu članka 40. ovoga Zakona koja je predmet prekršaja iz stavka 1. ovoga članka oduzet će se rješenjem o prekršaju u korist proračuna Republike Hrvatske.
+
+(3) Gotovina u smislu članka 40. ovoga Zakona koja je predmet izvršenja prekršaja može se oduzeti i kada nije vlasništvo počinitelja.
+
+(4) Iznimno, u posebno opravdanim slučajevima u kojima postoje posebno olakotne okolnosti, prekršajno tijelo može odlučiti da se gotovina u smislu članka 40. ovoga Zakona, koja je predmet prekršaja iz stavka 1. ovoga članka, ne oduzme ili da se oduzme samo djelomično.«.
+
+#### Članak 13.
+
+U članku 70. iza riječi: »oduzeti gotovinu u kunama i stranu gotovinu« dodaju se riječi: »odnosno gotovinu u smislu članka 40. ovoga Zakona«.
+
+#### Članak 14.
+
+Članak 73. briše se.
+
+#### Članak 15.
+
+U članku 75. riječi: »dnevnih dohodaka« zamjenjuju se riječima: »dnevnih iznosa«.
+
+#### Članak 16.
+
+U članku 76. riječi: »dnevnih dohodaka« zamjenjuju se riječima: »dnevnih iznosa«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+(1) Stupanjem na snagu ovoga Zakona prestaje važiti Odluka o medaljama i žetonima koji nalikuju kovanicama eura (»Narodne novine«, br. 132/07. i 34/10.).
+
+(2) Odluka o postupanju sa stranom gotovinom za koju postoji sumnja da je krivotvorena (»Narodne novine«, br. 21/07. i 34/10.) ostaje na snazi i nakon stupanja na snagu ovoga Zakona do donošenja odgovarajućega podzakonskog akta prema posebnom zakonu i primjenjuje se na svu stranu gotovinu osim na onu koja glasi na euro.
+
+(3) Ministar financija će u roku od 90 dana od dana stupanja na snagu ovoga Zakona donijeti naredbu temeljem članka 8. ovoga Zakona.
+
+(4) Naredba o vođenju nadzorne knjige o tekućim i kapitalnim poslovima s inozemstvom (»Narodne novine«, br. 145/03.) na odgovarajući način primjenjivat će se do stupanja na snagu naredbe iz stavka 3. ovoga članka.
+
+#### Članak 18.
+
+(1) Na postupke izdavanja i oduzimanja odobrenja za obavljanje mjenjačkih poslova, koji nisu dovršeni do stupanja na snagu ovoga Zakona, primjenjivat će se članci 5. i 7. ovoga Zakona.
+
+(2) Hrvatska narodna banka oduzet će odobrenje za obavljanje mjenjačkih poslova ovlaštenom mjenjaču ako na temelju podataka koje pribavi iz kaznene evidencije i drugih izvora utvrdi da nije udovoljeno uvjetima iz članka 5. ovoga Zakona.
+
+#### Članak 19.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/128  
+Zagreb, 14. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskog sabor  
+Josip Leko, v. r.

@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-07-11
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "62/01"
-amendments: []
+last_amended: 2014-10-07
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "62/01, 125/08, 36/09, 119/14"
+amendments:
+  - "NN 125/2008 (3565) Zakon o izmjenama i dopunama Zakona o Gradu Zagrebu"
+  - "NN 36/2009 (794) Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu (\"Narodne novine\", br. 125/08.)"
+  - "NN 119/2014 (2235) Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1001"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o Gradu Zagrebu
 
 > Izvor: Narodne novine, NN 62/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1001).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2008, NN 36/2009, NN 119/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -282,3 +288,248 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Gradu Zagrebu (NN 125/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/125/3565*
+
+HRVATSKI SABOR
+
+3565
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRADU ZAGREBU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Gradu Zagrebu, kojega je Hrvatski sabor donio na sjednici 17. listopada 2008. godine.  
+Klasa: 011-01/08-01/140  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 22. listopada 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O GRADU ZAGREBU**
+
+### Članak 1.
+
+U Zakonu o Gradu Zagrebu (»Narodne novine« br. 62/01.) naslov iznad članka 6. mijenja se i glasi: »Izvršno tijelo Grada Zagreba«.  
+Članak 6. mijenja se i glasi:  
+»Izvršno tijelo Grada Zagreba je gradonačelnik Grada Zagreba (u daljnjem tekstu gradonačelnik).«
+
+### Članak 2.
+
+U članku 7. stavak 2. mijenja se i glasi:  
+»Gradonačelnik se bira na način propisan Zakonom o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba.«
+
+### Članak 3.
+
+U članku 8. stavku 3. riječi: »ministra nadležnog za poslove uprave« zamjenjuju se riječima: »čelnika središnjeg tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave«.  
+U stavku 5. riječi: »Ministarstva pravosuđa, uprave i lokalne samouprave« zamjenjuju se riječima: »središnjeg tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave«.
+
+### Članak 4.
+
+Članak 9. mijenja se i glasi:  
+»Gradonačelnik ima dva zamjenika koji se biraju na način propisan Zakonom o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba.«
+
+### Članak 5.
+
+Članak 10. briše se.
+
+### Članak 6.
+
+Članak 11. mijenja se i glasi:  
+»Gradonačelnik dužnost obavlja profesionalno, a njegovi zamjenici će odlučiti hoće li dužnost na koju su izabrani obavljati profesionalno ili bez zasnivanja radnog odnosa.  
+Zamjenici su dužni u roku od 8 dana od dana stupanja na dužnost dostaviti pisanu obavijest nadležnoj gradskoj službi o tome hoće li dužnost na koju su izabrani obavljati profesionalno ili bez zasnivanja radnog odnosa.«
+
+### Članak 7.
+
+U članku 14. stavak 2. mijenja se i glasi:  
+»Pročelnike upravnih tijela na temelju javnog natječaja imenuje gradonačelnik.«  
+U stavku 3. riječi »Gradskog poglavarstva« zamjenjuju se riječju: »gradonačelnika«.  
+Stavak 4. briše se.  
+Dosadašnji stavak 5. postaje stavak 4.
+
+### Članak 8.
+
+U članku 15. stavku 1. riječi: »i Gradskom poglavarstvu« brišu se.
+
+### Članak 9.
+
+U članku 21. stavku 1. iza riječi: »Skupštine« zarez i riječi: »odnosno poglavarstva« brišu se.
+
+### Članak 10.
+
+Grad Zagreb dužan je uskladiti Statut i druge opće akte s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 11.
+
+Stupanjem na snagu ovoga Zakona prestaju vrijediti odredbe Statuta Grada Zagreb koje se odnose na izbor gradonačelnika i njegovih zamjenika te gradskog poglavarstva, odnosno odredbe Statuta koje se tiču povjerenja i razrješenja gradonačelnika te druge odredbe Statuta koje su suprotne odredbama ovoga Zakona.
+
+### Članak 12.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 18. svibnja 2009.  
+Klasa: 015-07/08-01/01  
+Zagreb, 17. listopada 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu ("Narodne novine", br. 125/08.) (NN 36/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/36/794*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRADU ZAGREBU (»Narodne novine«, br. 125/08.)
+
+Proglašavam Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu (»Narodne novine«, br. 125/08.), kojega je Hrvatski sabor donio na sjednici 13. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/35
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 19. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRADU ZAGREBU (»Narodne novine«, br. 125/08.)**
+
+### Članak 1.
+
+U članku 12. Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu (»Narodne novine«, br. 125/08.) riječi: »18. svibnja 2009.« zamjenjuju se riječima: »na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnje Gradsko poglavarstvo nastavlja s radom do stupanja na dužnost gradonačelnika Grada Zagreba.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 015-07/09-01/01
+
+Zagreb, 13. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu (NN 119/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/119/2235*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O GRADU ZAGREBU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu, koji je Hrvatski sabor donio na sjednici 26. rujna 2014. godine.
+
+Klasa: 011-01/14-01/134
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 1. listopada 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O GRADU ZAGREBU**
+
+#### Članak 1.
+
+U Zakonu o Gradu Zagrebu (»Narodne novine«, br. 62/01., 125/08. i 36/09.) u članku 4. stavku 2. riječi: »u jedinici područne (regionalne) samouprave« brišu se.
+
+#### Članak 2.
+
+Iza članka 4. dodaju se podnaslov i članak 4.a koji glase:
+
+*»Koordinator poslova državne uprave za područje Grada Zagreba*
+
+#### Članak 4.a
+
+Koordinator poslova državne uprave za područje Grada Zagreba (u daljnjem tekstu: koordinator) koordinira suradnju upravnih tijela Grada Zagreba u obavljanju povjerenih poslova državne uprave s nadležnim središnjim tijelima državne uprave i uredima državne uprave.
+
+Koordinatora određuje gradonačelnik Grada Zagreba između pročelnika upravnih tijela Grada Zagreba koja obavljaju samo poslove državne uprave.«.
+
+#### Članak 3.
+
+U članku 5. stavku 2. riječ: »člana« zamjenjuje se riječima: »gradskog zastupnika«.
+
+#### Članak 4.
+
+U članku 7. stavku 2. riječi: »Zakonom o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba« zamjenjuju se riječima: »zakonom kojim se uređuju lokalni izbori«.
+
+#### Članak 5.
+
+U članku 9. riječi: »Zakonom o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba« zamjenjuju se riječima: »zakonom kojim se uređuju lokalni izbori«.
+
+#### Članak 6.
+
+Članak 11. mijenja se i glasi:
+
+»Gradonačelnik i njegovi zamjenici odlučit će hoće li dužnost na koju su izabrani obavljati profesionalno.
+
+Gradonačelnik i njegovi zamjenici dužni su u roku od osam dana od dana stupanja na dužnost dostaviti pisanu obavijest nadležnoj gradskoj službi o tome na koji način će obnašati dužnost.
+
+Za osobu iz stavka 1. ovoga članka koja nije postupila na način propisan stavkom 2. ovoga članka smatra se da dužnost obavlja volonterski.
+
+Gradonačelnik i njegovi zamjenici mogu promijeniti način obavljanja dužnosti u tijeku mandata dostavom pisane obavijesti o promjeni načina obavljanja dužnosti nadležnoj gradskoj službi Grada Zagreba.
+
+Novi način obavljanja dužnosti započinje prvog dana sljedećeg mjeseca nakon dostave obavijesti iz stavka 4. ovoga članka.«.
+
+#### Članak 7.
+
+U članku 14. stavku 3. riječi: »ministra, odnosno ravnatelja državne upravne organizacije« zamjenjuju se riječima: »čelnika središnjeg tijela državne uprave«.
+
+#### Članak 8.
+
+U članku 15. stavku 2. riječi: »u jedinici područne (regionalne) samouprave« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 9.
+
+Gradonačelnik Grada Zagreba dužan je u roku od 30 dana od dana stupanja na snagu ovoga Zakona odrediti koordinatora iz članka 2. ovoga Zakona.
+
+#### Članak 10.
+
+Grad Zagreb dužan je uskladiti Statut i druge opće akte s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 11.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2015.
+
+Klasa: 022-03/14-01/110
+
+Zagreb, 26. rujna 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

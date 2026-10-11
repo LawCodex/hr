@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-12-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "141/06"
-amendments: []
+last_amended: 2011-08-02
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "141/06, 25/09, 90/11"
+amendments:
+  - "NN 25/2009 (538) Zakon o izmjenama i dopunama Zakona o kreditnim unijama"
+  - "NN 90/2011 (1928) Zakon o izmjenama i dopunama Zakona o kreditnim unijama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3187"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o kreditnim unijama
 
 > Izvor: Narodne novine, NN 141/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3187).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2009, NN 90/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -953,3 +958,252 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o kreditnim unijama (NN 25/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/25/538*
+
+HRVATSKI SABOR
+
+538
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KREDITNIM UNIJAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kreditnim unijama, kojega je Hrvatski sabor donio na sjednici 13. veljače 2009. godine.  
+Klasa: 011-01/09-01/05  
+Urbroj: 71-05-03/1-09-2  
+Zagreb, 18. veljače 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KREDITNIM UNIJAMA**
+
+### Članak 1.
+
+U Zakonu o kreditnim unijama (»Narodne novine«, br. 141/06.) u članku 17. stavku 1. podstavak 3. briše se.
+
+### Članak 2.
+
+U članku 23. stavku 1. točki 3. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 2.«
+
+### Članak 3.
+
+U članku 38. stavak 3. briše se.
+
+### Članak 4.
+
+U članku 56. stavak 2. mijenja se i glasi:
+
+"(2) Hrvatska narodna banka propisat će postupak i način obavljanja nadzora te sastavljanje i dostavljanje zapisnika o obavljenom nadzoru.«
+
+### Članak 5.
+
+Iza članka 75. dodaje se članak 75.a koji glasi:
+
+»Članak 75.a
+
+(1) Novčanom kaznom u iznosu od 10.000,00 do 200.000,00 kuna kaznit će se za prekršaj štedno-kreditna zadruga koja:
+
+1. u postupku likvidacije sklapa poslove suprotno odredbama ovoga Zakona,
+
+2. ne omogući nadzor ovlaštenim službenicima Ministarstva financija u skladu s odredbama ovoga Zakona i podzakonskih akata koji će se donijeti na temelju ovoga Zakona,
+
+3. ako u postupku likvidacije ne izvještava Ministarstvo financija o poslovima iz članka 85.b stavka 3. ovoga Zakona,
+
+4. ako u postupku likvidacije ne izvještava Hrvatsku narodnu banku o poslovima iz članka 85. b stavka 4. ovoga Zakona.
+
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i likvidator štedno-kreditne zadruge u likvidaciji, novčanom kaznom u iznosu od 5.000,00 do 30.000,00 kuna.«
+
+### Članak 6.
+
+U članku 85. stavku 4. riječi: »Zakona o bankama (»Narodne novine«, br. 84/02.)« zamjenjuju se riječima: »zakona koji uređuju poslovanje banaka«.
+
+### Članak 7.
+
+Iza članka 85. dodaje se podnaslov i članci 85.a, 85.b i 85.c koji glase:
+
+"Nadzor štedno-kreditnih zadruga u likvidaciji
+
+### Članak 85.a
+
+(1) Nadzor štedno-kreditnih zadruga u likvidaciji, a do završetka postupka likvidacije, sukladno odredbama ovoga Zakona, drugih zakona i propisa donesenih na temelju ovoga Zakona, ovlašteno je obavljati Ministarstvo financija.
+
+(2) Nadzor poslovanja štedno-kreditnih zadruga u likvidaciji provode službenici Ministarstva financija na temelju ovlaštenja ministra financija.
+
+(3) Ministar financija donijet će pravilnik kojim će se propisati postupak nadzora štedno-kreditnih zadruga u likvidaciji u roku 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Iznimno od odredbi ovoga članka, nadzor štedno-kreditnih zadruga u likvidaciji pokrenut rješenjem Hrvatske narodne banke sukladno odredbama članka 80. stavka 6. ovoga Zakona, provodi Hrvatska narodna banka.
+
+### Članak 85.b
+
+(1) Štedno-kreditna zadruga u likvidaciji ne smije primati nove štedne uloge, produživati dospjele oročene štedne uloge, odobravati nove kredite, niti produživati dospjele kredite, obavljati mjenjačke poslove, kao ni sklapati druge poslove izuzev onih koji su potrebni za unovčenje likvidacijske mase radi podmirenja obveza štedno-kreditne zadruge u likvidaciji.
+
+(2) Tijekom postupka likvidacije štedno-kreditna zadruga u likvidaciji dužna je najmanje jednom godišnje izvještavati Ministarstvo financija o tijeku postupka likvidacije.
+
+### Članak 85.c
+
+(1) Ako likvidator utvrdi da imovina štedno-kreditne zadruge u likvidaciji nije dovoljna za plaćanje potraživanja svih vjerovnika štedno-kreditne zadruge, dužan je bez odgode o tome obavijestiti Ministarstvo financija i podnijeti prijedlog za otvaranje stečaja.
+
+(2) Na stečaj štedno-kreditne zadruge u likvidaciji primjenjuju se odredbe propisa koji uređuju stečaj.«
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 452-02/08-01/01
+
+Zagreb, 13. veljače 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o kreditnim unijama (NN 90/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1928*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KREDITNIM UNIJAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kreditnim unijama, koji je Hrvatski sabor donio na sjednici 15. srpnja 2011. godine.
+
+Klasa: 011-01/11-01/171
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. srpnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KREDITNIM UNIJAMA**
+
+### Članak 1.
+
+U Zakonu o kreditnim unijama (»Narodne novine«, br. 141/06. i 25/09.) u članku 3. stavku 1. iza točke 2. dodaju se nove točke 3. i 4. koje glase:
+
+»3. primati novčane depozite od sindikata i obrtničkih komora te primati bespovratna novčana sredstva od međunarodnih institucija,
+
+4. obavljati platni promet za svoje članove,«.
+
+Dosadašnje točke 3., 4. i 5. postaju točke 5., 6. i 7.
+
+U stavku 2. riječi: »točke 3.« zamjenjuju se riječima: »točke 5.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Kreditna unija može poslove platnog prometa iz stavka 1. točke 4. ovoga članka obavljati samo ako dobije odobrenje Hrvatske narodne banke sukladno propisima koji uređuju platni promet.«.
+
+### Članak 2.
+
+U članku 5. stavku 7. riječi: »jedinstveni matični broj građana« zamjenjuju se riječima: »osobni identifikacijski broj«.
+
+U stavku 8. riječi: »postupku imenovanja« zamjenjuju se riječju: »imenovanju«.
+
+### Članak 3.
+
+U članku 17. stavak 1. mijenja se i glasi:
+
+»(1) Član uprave kreditne unije može biti osoba koja ispunjava sljedeće uvjete:
+
+1) ima najmanje srednju stručnu spremu,
+
+2) ima odgovarajuće stručne kvalifikacije, sposobnost i radno iskustvo potrebno za vođenje poslova kreditne unije,
+
+3) nije pravomoćno osuđena za kazneno djelo protiv vrijednosti zaštićenih međunarodnim pravom te ni za jedno od sljedećih kaznenih djela:
+
+a) protiv sigurnosti platnog prometa i poslovanja,
+
+b) protiv vjerodostojnosti isprava,
+
+c) protiv službene dužnosti,
+
+d) odavanje državne tajne,
+
+e) prikrivanje protuzakonito pribavljenog novca,
+
+f) pranje novca ili
+
+g) financiranje terorizma,
+
+4) nije bila član uprave ili nadzornog odbora kreditne unije, odnosno član uprave trgovačkog društva u stečaju, odnosno kreditne unije kojoj je oduzeto odobrenje za rad,
+
+5) ispunjava uvjete iz Zakona o trgovačkim društvima za člana uprave,
+
+6) nije član uprave ili nadzornog odbora niti prokurist druge kreditne unije ili trgovačkog društva.«.
+
+### Članak 4.
+
+U članku 18. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Hrvatska narodna banka podatke o nekažnjavanju iz članka 17. stavka 1. podstavka 3. ovoga Zakona dobiva iz kaznene evidencije na temelju obrazloženog zahtjeva.«.
+
+Dosadašnji stavci 4., 5., 6., 7. i 8. postaju stavci 5., 6., 7., 8. i 9.
+
+Iza dosadašnjeg stavka 9., koji je postao stavak 10., dodaje se stavak 11. koji glasi:
+
+»(11) Nadzorni odbor kreditne unije dužan je podnijeti zahtjev iz stavka 2., odnosno stavka 9. ovoga članka najmanje tri mjeseca prije isteka mandata članu uprave.«.
+
+Dosadašnji stavak 10. postaje stavak 12.
+
+### Članak 5.
+
+U članku 19. podstavku 4. zarez se zamjenjuje točkom, a riječi: »odnosno danom prestanka članstva u kreditnoj uniji« brišu se.
+
+### Članak 6.
+
+U članku 47. iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+
+»(3) Godišnji financijski izvještaji kreditne unije moraju se revidirati za svaku poslovnu godinu.
+
+(4) Revizija iz stavka 3. ovoga članka provodi se u skladu sa zakonima kojima se uređuje računovodstvo i revizija ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drukčije određeno.
+
+(5) Kreditna unija dužna je Hrvatskoj narodnoj banci u roku od 15 dana od dana primitka revizorskog izvješća, a najkasnije u roku od četiri mjeseca od isteka poslovne godine na koju se odnose godišnji financijski izvještaji, dostaviti revizorsko izvješće o obavljenoj reviziji godišnjih financijskih izvještaja.«.
+
+### Članak 7.
+
+Iza članka 77. dodaju se naslov i članak 77.a koji glasi:
+
+»Zastara
+
+### Članak 77.a
+
+(1) Prekršajni postupak za prekršaje utvrđene ovim Zakonom ne može se pokrenuti nakon isteka roka od tri godine od dana počinjenja prekršaja.
+
+(2) Zastarijevanje se prekida svakom radnjom Hrvatske narodne banke poduzetom radi gonjenja počinitelja prekršaja. Poslije svakog prekida počinje ponovo teći zastara, ali se prekršajni postupak ni u kojem slučaju ne može voditi nakon isteka dvostrukog vremena određenog u stavku 1. ovoga članka.«.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 452-02/11-01/01
+
+Zagreb, 15. srpnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

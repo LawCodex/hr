@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-05-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "54/97"
-amendments: []
+last_amended: 2010-12-10
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "54/97, 139/10"
+amendments:
+  - "NN 139/2010 (3543) Zakon o izmjenama Zakona o pučkim otvorenim učilištima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/54/820"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o pučkim otvorenim učilištima
 
 > Izvor: Narodne novine, NN 54/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/54/820).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 139/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -91,3 +95,64 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o pučkim otvorenim učilištima (NN 139/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3543*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Zakona Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PUČKIM OTVORENIM UČILIŠTIMA
+
+Proglašavam Zakon o izmjenama Zakona o pučkim otvorenim učilištima, koji je Hrvatski sabor donio na sjednici 3. prosinca 2010. godine.
+
+Klasa: 011-01/10-01/148
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 6. prosinca 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PUČKIM OTVORENIM UČILIŠTIMA**
+
+### Članak 1.
+
+U Zakonu o pučkim otvorenim učilištima (»Narodne novine«, br. 54/97., 5/98 – ispr. i 109/99. – Odluka Ustavnog suda Republike Hrvatske) u članku 3. riječi: »ministar prosvjete i športa« zamjenjuju se riječima: »ministar nadležan za obrazovanje«.
+
+### Članak 2.
+
+U članku 4. stavak 2. briše se.
+
+### Članak 3.
+
+Stupanjem na snagu ovoga Zakona osnivačka prava nad Pučkim otvorenim učilištem u Zagrebu prenose se s Republike Hrvatske na Grad Zagreb, te Grad Zagreb postaje jedini osnivač Pučkog otvorenog učilišta u Zagrebu.
+
+### Članak 4.
+
+Pučko otvoreno učilište u Zagrebu dužno je u roku od 30 dana od dana stupanja na snagu ovoga Zakona uskladiti svoje opće akte s ovim Zakonom.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 602-04/10-01/01  
+Zagreb, 3. prosinca 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

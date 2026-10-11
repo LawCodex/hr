@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-12-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1995; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "108/95"
-amendments: []
+last_amended: 2010-05-07
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "108/95, 56/10"
+amendments:
+  - "NN 56/2010 (1345) Zakon o izmjenama i dopunama Zakona o zapaljivim tekućinama i plinovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1778"
 retrieved: 2026-10-12
 ---
@@ -19,13 +21,15 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 108/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1778).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 56/2010.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim Odluku o proglašenju zakona o zapaljivim tekućinama i plinovima
 
-**ZAKON**
+ZAKON
 
-**O ZAPALJIVIM TEKUĆINAMA I PLINOVIMA**
+O ZAPALJIVIM TEKUĆINAMA I PLINOVIMA
 
 Koji je zastupnički dom sabora republike hrvatske donio na sjednici 13. Prosinca 1995.
 
@@ -33,25 +37,25 @@ Broj: 01-95-2117/1
 
 Zagreb,19. prosinca 1995.
 
-*Predsjednik Republike Hrvatske*
+Predsjednik Republike Hrvatske
 
 dr. Franjo Tuđman, v. r.
 
-## Zakon
+**Zakon**
 
-## o zapaljivim tekućinama i plinovima
+**o zapaljivim tekućinama i plinovima**
 
 I. TEMELJNE ODREDBE
 
-### Članak 1.
+## Članak 1.
 
 Ovim Zakonom utvrđuju se uvjeti za izgradnju građevina i postrojenja za držanje, skladištenje i promet zapaljivih tekućina i plinova, uvjeti držanja, skladištenja i prometa zapaljivim tekućinama i plinovima, uvjeti za obavljanje poslova skladištenja zapaljivih tekućina i plinova, načela za provedbu mjera zaštite od požara i eksplozija pri gradnji i uporabi građevina i postrojenja i držanju, skladištenju i prometu zapaljivim tekućinama i plinovima te provedba nadzora nad tim mjerama.
 
-### Članak 2.
+## Članak 2.
 
 Odredbe ovoga Zakona primjenjuju se i u oružanim snagama Hrvatske, osim ako posebnim propisima nije drugačije određeno.
 
-### Članak 3.
+## Članak 3.
 
 Izrazi koji se rabe u ovom Zakonu imaju sljedeće značenje:
 
@@ -95,7 +99,7 @@ Izrazi koji se rabe u ovom Zakonu imaju sljedeće značenje:
 
 - dobavljač plina je pravna osoba koja opskrbljuje plinom potrošača putem plinovoda ili na drugi način dostavlja plin u spremnik potrošača (npr. putem vagona, auto-cisterni i sl.).
 
-### Članak 4.
+## Članak 4.
 
 (1) Skladištenje, držanje i promet zapaljivih tekućina i plinova mora se obavljati sukladno ovom Zakonu, propisima donijetim na temelju zakona, tehničkim normativima i normama, a uporaba i prema uputama proizvođača.
 
@@ -103,7 +107,7 @@ Izrazi koji se rabe u ovom Zakonu imaju sljedeće značenje:
 
 II. ZAPALJIVE TEKUĆINE
 
-### Članak 5.
+## Članak 5.
 
 (1) Prije stavljanja zapaljivih tekućina u promet, proizvođač, odnosno uvoznik obvezan je utvrditi grupu zapaljive tekućine prema temperaturi plamišta, kategoriju i stupanj opasnosti od požara prema hrvatskim normama te izraditi upute za sigurno skladištenje, držanje i prometovanje.
 
@@ -117,7 +121,7 @@ II. ZAPALJIVE TEKUĆINE
 
 (6) Kada se isporuka zapaljivih tekućina ne obavlja u posudama ili bočicama isporučitelj je dužan kupcu dati podatke i upute iz stavka 1. ovoga članka.
 
-### Članak 6.
+## Članak 6.
 
 (1) Pravne i fizičke osobe te tijela državne vlasti, tijela državne uprave, i jedinice lokalne samouprave i uprave koje obavljaju skladištenje, držanje i promet zapaljivih tekućina moraju za sve zapaljive tekućine koje skladište, drže ili kojima prometuju, a čije značajke nisu općepoznate, imati podatke o grupi zapaljive tekućine prema temperaturi plamišta i o kategoriji i stupnju opasnosti od požara, sukladno hrvatskim normama.
 
@@ -127,7 +131,7 @@ II. ZAPALJIVE TEKUĆINE
 
 III. ZAPALJIVI PLINOVI
 
-### Članak 7.
+## Članak 7.
 
 (1) Prije stavljanja u promet zapaljivih plinova proizvođač, odnosno uvoznik obvezan je utvrditi kategoriju i stupanj opasnosti od požara prema hrvatskim normama te izraditi upute za sigurno skladištenje, držanje i promet.
 
@@ -139,7 +143,7 @@ III. ZAPALJIVI PLINOVI
 
 (5) Propise o uvjetima za izgradnju građevina i postrojenja za zapaljive plinove, skladištenju, držanju i prometu zapaljivih plinova te provedbi mjere zaštite od požara i eksplozija pri gradnji i korištenju građevina i postrojenja, skladištenju, držanju i prometu zapaljivih plinova donosi ministar unutarnjih poslova.
 
-### Članak 8.
+## Članak 8.
 
 (1) Spremnici i posude koje sadrže zapaljive plinove moraju biti označene, obojene i izrađene od materijala na način određen propisima i hrvatskim normama.
 
@@ -147,7 +151,7 @@ III. ZAPALJIVI PLINOVI
 
 (3) Bočice koje sadrže zapaljive plinove moraju biti izrađene od materijala otpornog na zapaljivi plin što ga sadrže i označene znakovima opasnosti od požara i tekstom upozorenja za sigurnu uporabu i držanje na hrvatskom jeziku.
 
-### Članak 9.
+## Članak 9.
 
 (1) Ispravnost i nepropusnost novoizgrađene ili obnovljene (rekonstruirane) plinske instalacije u građevini ili dijelu građevine mora se, prije puštanja u rad, ispitati sukladno projektu plinske instalacije.
 
@@ -165,7 +169,7 @@ III. ZAPALJIVI PLINOVI
 
 (8) Visinu troškova ispitivanja ispravnosti i nepropusnosti plinskih instalacija iz stavka 1., 2. i 3. ovoga članka propisuje dobavljač plina uz suglasnost Ministarstva unutarnjih poslova.
 
-### Članak 10.
+## Članak 10.
 
 (1) Plinska instalacija u građevini ili dijelu građevine mora biti izvedena sukladno projektu plinske instalacije izrađenom prema propisima i hrvatskim normama, odnosno pravilima tehničke prakse sukladno propisima o normizaciji, do donošenja propisa i hrvatskih normi.
 
@@ -173,7 +177,7 @@ III. ZAPALJIVI PLINOVI
 
 IV. UVJETI GRAĐENJA
 
-### Članak 11.
+## Članak 11.
 
 (1) Građevine i postrojenja u kojima se obavlja skladištenja i promet zapaljivih tekućina i/ili plinova moraju se graditi na sigurnosnoj udaljenosti, sukladno posebnim uvjetima građenja.
 
@@ -197,13 +201,13 @@ IV. UVJETI GRAĐENJA
 
 (8) U slučaju iz stavka 7. ovoga članka, nadležna policijska uprava izdat će odobrenje za skladištenje ili korištenje postrojenja za zapaljive tekućine i/ili plinove kada utvrdi da su ispunjeni posebni uvjeti i provedene propisima utvrđene miere zaštite od požara i eksplozija pri skladištenju zapaljivih tekućina i/ili plinova, odnosno postavljanju postrojenja za zapaljive tekućine i/ili plinove.
 
-### Članak 12.
+## Članak 12.
 
 Građevna i uporabna dozvola za građevinu ili postrojenje u kojima se obavlja skladištenje i promet zapaljivih tekućina i/ili plinova izdaje se sukladno odredbama posebnog zakona i Zakona o zaštiti od požara.
 
 V. UVJETI ZA OBAVLJANJE POSLOVA SKLADIŠTENJA I PROMETA ZAPALJIVIH TEKUĆINA I PLINOVA I ODRŽAVANJE I NADZIRANJE POSTROJENJA
 
-### Članak 13.
+## Članak 13.
 
 (1) Poslove skladištenja i prometa zapaljivih tekućina i/ili plinova mogu obavljati fizičke osobe koje su osposobljene za obavljanje tih poslova i koje su upoznate s mjerama za sprečavanje nastanka i širenja požara i eksplozije te s postupcima za gašenje požara.
 
@@ -211,11 +215,11 @@ V. UVJETI ZA OBAVLJANJE POSLOVA SKLADIŠTENJA I PROMETA ZAPALJIVIH TEKUĆINA I P
 
 (3) U građevinama i na prostorima gdje se obavlja skladištenje i promet zapaljivih tekućina i/ili plinova na vidnim mjestima moraju se postaviti oznake u svezi sa zaštitom od požara i eksplozija, upute za siguran rad i postupanje u slučaju požara i eksplozije.
 
-### Članak 14.
+## Članak 14.
 
 Uvjete i načine osposobljavanja osoba koje obavljaju poslove skladištenja i prometa zapaljivih tekućina i/ili plinova propisuje ministar unutarnjih poslova.
 
-### Članak 15.
+## Članak 15.
 
 (1) Održavanje i nadziranje ispravnosti postrojenja za zapaljive tekućine i plinove obavlja se na način i u vremenskim razmacima određenim propisom, odnosno uputom proizvodača, o ćemu mora postojati dokumentacija.
 
@@ -223,11 +227,11 @@ Uvjete i načine osposobljavanja osoba koje obavljaju poslove skladištenja i pr
 
 VI. OPĆE MJERE ZAŠTITE OD POŽARA I EKSPLOZIJA
 
-### Članak 16.
+## Članak 16.
 
 Tehnološki procesi u kojima se uporabljuju zapaljive tekućine i/ili plinovi moraju imati uređaje za upravljanje i nadziranje tehnološkog procesa te sprečavanje nastanka požara ili eksplozije, kao i sustave za dojavu i gašenje požara prema propisima i hrvatskim normama i/ili inozemnim propisima i normama sukladno propisima o normizaciji.
 
-### Članak 17.
+## Članak 17.
 
 U zonama opasnosti zabranjeno je :
 
@@ -245,7 +249,7 @@ U zonama opasnosti zabranjeno je :
 
 7. nošenje odjeće i obuće koja se može nabiti statičkim elektricitetom i uporaba uređaja i opreme koji nisu propisno zaštićeni od statičkog elektriciteta.
 
-### Članak 18.
+## Članak 18.
 
 (1) Zabranjeno je skladištenje i promet zapaljivih tekućina i plinova u građevinama, dijelovima građevine ili prostora koji nisu namijenjeni za skladištenje i/ili promet zapaljivih tekućina i/ili plinova.
 
@@ -257,19 +261,19 @@ U zonama opasnosti zabranjeno je :
 
 VII. UVJETI ZA PRODAJU ZAPALJlVIH TEKUĆINA I PLINOVA
 
-### Članak 19.
+## Članak 19.
 
 (1) Prodaja upaljivih (lako zapaljivih) tekućina i/ili plinova u posudama dopuštena je samo u prodavaonicama zapaljivih tekućina i/ili plinova.
 
 (2) U prodavaonicama mogu se prodavati upaljive (lako zapaljive) tekućine i/ili plinovi samo u originalnom i neoštećenom pakovanju.
 
-### Članak 20.
+## Članak 20.
 
 (1) Prodaja upaljivih (lako zapaljivih) tekućina i/ili zapaljivih plinova u bočicama može se obavljati izvan prodavaonica zapaljivih tekućina i/ili plinova, ako njihov ukupni obujam ne prelazi 20 l.
 
 (2) Prodaja, držanje i skladištenje upaljivih (lako zapaljivih) tekućina i/ili zapaljivih plinova u bočicama kada ukupna kolićina prelazi 20 l mora se obavljati na način predviđen za posude koje sadrže upaljive (lako zapaljive) tekućine, odnosno zapaljive plinove.
 
-### Članak 21.
+## Članak 21.
 
 (1) Opskrba motornih vozila, plovila i drugih prometnih sredstava zapaljivim tekućinama i/ili plinovima (gorivom) mora se obavljati samo u građevinama i otvorenim prostorima koji ispunjavaju propisane uvjete.
 
@@ -277,7 +281,7 @@ VII. UVJETI ZA PRODAJU ZAPALJlVIH TEKUĆINA I PLINOVA
 
 VIII. NADZOR
 
-### Članak 22.
+## Članak 22.
 
 (1) Upravni nadzor nad provedbom ovoga Zakona i propisa donijetih na temelju njega obavlja Ministarstvo unutarnjih poslova.
 
@@ -287,7 +291,7 @@ VIII. NADZOR
 
 IX. KAZNENE ODREDBE
 
-### Članak 23.
+## Članak 23.
 
 (1) Novčanom kaznom u iznosu od 10.000 do 40.000 kuna, kaznit će se za prekršaj pravna osoba ili obrtnik:
 
@@ -359,7 +363,7 @@ IX. KAZNENE ODREDBE
 
 (2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 3.000 do 10.000 kuna i odgovorna osoba u pravnoj osobi, tijelu državne vlasti, tijela državne uprave i jedinice lokalne samouprave i uprave ili kod obrtnika.
 
-### Članak 24.
+## Članak 24.
 
 Novčanom kaznom u iznosu od 3.000 do 10.000 kuna kaznit će se za prekršaj fizička osoba:
 
@@ -383,21 +387,21 @@ Novčanom kaznom u iznosu od 3.000 do 10.000 kuna kaznit će se za prekršaj fiz
 
 X. PRIJELAZNE I ZAVRŠNE ODREDBE
 
-### Članak 25.
+## Članak 25.
 
 (1) Propise za čije je donošenje po ovom Zakonu ovlašten ministar unutarnjih poslova će donijeti u roku godine dana od dana stupanja na snagu ovoga Zakona.
 
 (2) Ovlašćuje se ministar unutarnjih poslova da u propisima za čije je donošenje po ovom Zakonu ovlašten uređuje prekršaje i propisuje kazne za te prekršaje.
 
-### Članak 26.
+## Članak 26.
 
 Do stupanja na snagu propisa iz članka 25. ovoga Zakona ostaju na snazi propisi iz članka 25. Zakona o skladištenju i prometu zapaljivih tekućina i plinova ("Narodne novine", br. 24/76., 31/86., 47/89. i 26/93.)
 
-### Članak 27.
+## Članak 27.
 
 Na dan stupanja na snagu ovoga Zakona prestaje važiti Zakon o skladištenju i prometu zapaljivih tekućina i plinova ("Narodne novine", br. 24/76., 31/86., 41/89. i 26/93.).
 
-### Članak 28.
+## Članak 28.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u " Narodnim novinama".
 
@@ -410,3 +414,177 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 Predsjednik Zastupničkog doma Sabora
 
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zapaljivim tekućinama i plinovima (NN 56/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/56/1345*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Repbulike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAPALJIVIM TEKUĆINAMA I PLINOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama zakona o zapaljivim tekućinama i plinovima, koji je Hrvatski sabor donio na sjednici 23. travnja 2010. godine.
+
+Klasa: 011-01/10-01/36
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 28. travnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAPALJIVIM TEKUĆINAMA I PLINOVIMA**
+
+### Članak 1.
+
+U Zakonu o zapaljivim tekućinama i plinovima (»Narodne novine«, br. 108/95.) u članku 3. stavku 1. iza podstavka 12. dodaju se novi podstavci 13. i 14. koji glase:
+
+»– sustav za upravljanje i nadziranje sigurnog odvijanja tehnološkog procesa sastoji se od uređaja koji upozoravaju na prekoračenje ili pad dopuštenih vrijednosti tehnoloških parametara kada je potrebno automatski, poluautomatski ili ručno obaviti popravak tijeka ili zaustavljanja tehnološkog procesa radi sprječavanja nastanka požara ili eksplozija,
+
+– plinska instalacija je instalacija od glavnog zapora za zatvaranje na kraju priključka koji služi za prekid opskrbe plinom odnosno od spremnika plina do ispusta dimnih plinova, a sastoji se od plinskog cjevovoda s opremom, plinskih uređaja i trošila, uređaja ili otvora za opskrbu zrakom za izgaranje i odvod dimnih plinova,«
+
+Dosadašnji podstavci 13., 14., 15., 16., 17., 18. i 19. postaju podstavci 15., 16., 17., 18., 19., 20. i 21.
+
+Dosadašnji podstavak 20. koji postaje podstavak 22. mijenja se i glasi:
+
+»operator distribucijskog sustava (u daljnjem tekstu: operator) je pravna ili fizička osoba koja neposredno distribuira plin krajnjem kupcu, koji kupuje plin za vlastitu potrošnju (u daljnjem tekstu: potrošač), putem plinovoda ili dostavom u spremnik (npr. putem vagon-cisterni, autocisterni i dr.).«.
+
+### Članak 2.
+
+U članku 4. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Iznimno od stavka 1. ovoga članka, kao i u slučajevima nedostatka hrvatskih propisa, mogu se primijeniti strani propisi, tehnička pravila ili primijenjene znanstvene spoznaje, uz prethodno odobrenje Ministarstva unutarnjih poslova.
+
+(3) O zahtjevu za izdavanje odobrenja iz prethodnog stavka odlučuje se rješenjem protiv kojeg nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 3.
+
+U članku 8. stavku 2. riječi: »sudova pod tlakom« zamjenjuju se riječima: »tlačne opreme«.
+
+### Članak 4.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Operator može puniti plinom plinsku instalaciju, samo na temelju ispitnog izvještaja o nepropusnosti i ispravnosti novoizgrađene ili obnovljene (rekonstruirane) plinske instalacije u građevini ili dijelu građevine sukladno tehničkoj dokumentaciji plinske instalacije.
+
+(2) Operator, prilikom promjene ili umjeravanja plinomjera, produžuje ili uskraćuje isporuku plina samo na temelju ispitnog izvještaja o nepropusnosti i ispravnosti plinske instalacije u građevini ili dijelu građevine namijenjene za stanovanje, a najmanje jednom u 10 godina, ako drugim propisom nije određen kraći rok.
+
+(3) Potrošač u građevini ili dijelu građevine javne namjene i građevine ili dijela građevine u kojoj se obavlja gospodarska djelatnost dužan je ispitati nepropusnost i ispravnost plinske instalacije najmanje jednom u 5 godina, a operator u tom roku produžuje ili uskraćuje isporuku plina samo na temelju ispitnog izvještaja, ako drugim propisom nije određen kraći rok.
+
+(4) Potrošač, po prethodnoj najavi operatora ili ovlaštene pravne ili fizička osobe, dužan je omogućiti nesmetano ispitivanje plinske instalacije iz stavka 1., 2. i 3. ovoga članka u cilju dobivanja ispitnog izvještaja.
+
+(5) Ispitivanje plinske instalacije iz stavka 1., 2. i 3. ovoga članka, po propisanom postupku od strane operatora, pored operatera, može obavljati i od njega ovlaštena pravna ili fizička osoba ili stručna služba potrošača o čemu se izdaje ispitni izvještaj.
+
+(6) Ispitni izvještaj sadrži:
+
+– naziv tvrtke koja je obavila ispitivanje,
+
+– naziv vlasnika, odnosno korisnika plinske instalacije, datum ispitivanja i popis ispitivača,
+
+– podatke o plinskoj instalaciji i podatke o prostorijama gdje je postavljena plinska instalacija (projektirano i nađeno stanje i datum zadnjeg izvještaja),
+
+– tlocrt objekta s ucrtanom plinskom instalacijom i/ili shematski prikaz plinske instalacije,
+
+– popis korištenih uređaja i metode ispitivanja,
+
+– popis dokaza o održavanju u ispravnom stanju plinskih uređaja i trošila, uređaja ili otvora za opskrbu zrakom za izgaranje i odvod dimnih plinova, odnosno nalaza pri kontroli njihove ispravnosti od strane servisera i/ili dimnjačara,
+
+– rezultate ispitivanja s navođenjem možebitno utvrđenih nedostataka,
+
+– zaključak s utvrđenim rokom ponovnog ispitivanja.
+
+(7) Jedan primjerak ispitnog izvještaja dostavlja se potrošaču, a drugi operatoru koji se čuva u evidenciji do ponovnog ispitivanja.
+
+(8) Pravilnik o uvjetima i postupku ispitivanja nepropusnosti i ispravnosti plinskih instalacija te o osposobljavanju djelatnika koji neposredno obavljaju ta ispitivanja, mora se temeljiti na priznatim tehničkim pravilima, kao i uvjete za dobivanje i oduzimanje ovlaštenja iz stavka 5. ovoga članka na temelju praćenja kakvoće ispitivanja od strane ovlaštenih pravnih ili fizičkih osoba, propisuje operator uz suglasnost Ministarstva unutarnjih poslova.
+
+(9) Operatori mogu sporazumno međusobno priznavati ispitne izvještaje.
+
+(10) Cijena pružanja usluga ispitivanja nepropusnosti i ispravnosti plinskih instalacija iz stavka 1., 2. i 3. ovoga članka mora se javno objavljivati i biti usklađena s posebnim propisima.«.
+
+### Članak 5.
+
+U članku 10. stavak 2. mijenja se i glasi:
+
+»(2) Operator je dužan uskratiti isporuku plina potrošaču kod kojeg u propisanim rokovima nije obavljeno ispitivanje nepropusnosti i ispravnosti plinske instalacije ili je pri ispitivanju utvrđena propusnost ili neispravnost.«.
+
+### Članak 6.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Građevine i postrojenja u kojima se obavlja skladištenje i promet zapaljivih tekućina i/ili plinova moraju se graditi na sigurnosnoj udaljenosti.
+
+(2) Posebne uvjete građenja iz područja zaštite od požara i eksplozije u postupku izdavanja lokacijske dozvole za gradnju građevina i postrojenja iz stavka 1. ovoga članka utvrđuje nadležna policijska uprava.
+
+(3) Kada lokacijsku dozvolu izdaje Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva, posebne uvjete građenja iz područja zaštite od požara i eksplozije utvrđuje Ministarstvo unutarnjih poslova.
+
+(4) Idejni projekt koji se odnosi na građevine i postrojenja iz stavka 1. ovoga članka, pored sadržaja utvrđenog propisima o gradnji, sadrži:
+
+– situacijski nacrt u odgovarajućem omjeru, a najviše u omjeru 1:500 s ucrtanim planiranim i postojećim građevinama, postrojenjima, prometnicama, ogradama i sl., te predviđenim sigurnosnim udaljenostima i zonama opasnosti u tri dimenzije,
+
+– popis vrsta i količina zapaljivih tekućina i/ili plinova koji se namjeravaju skladištiti ili s kojima će se obavljati promet,
+
+– tehnički opis planirane građevine i/ili postrojenja, tehnološkog procesa i sustava za upravljanje i nadziranje sigurnog odvijanja tehnološkog procesa,
+
+– tehnički opis planiranih sustava, sredstava i opreme za dojavu i gašenje požara.
+
+(5) Kada se za skladištenje, odnosno za postavljanje postrojenja za zapaljive tekućine i/ili plinove, prema propisima o gradnji, ne izdaje lokacijska dozvola i potvrda projekta ili drugi akt o pravu građenja, nadležna policijska uprava izdat će odobrenje za skladištenje, odnosno za korištenje postrojenja za zapaljive tekućine i/ili plinove kada utvrdi da su ispunjeni uvjeti sigurnosnih udaljenosti i provedene propisima utvrđene mjere zaštite od požara i eksplozija.
+
+(6) Odobrenje za skladištenje odnosno za korištenje postrojenja za zapaljive tekućine i/ili plinove izdaje se na temelju uvida u tehničku dokumentaciju, dokaze kakvoće izvedenih radova, ugrađenih materijala i opreme, potrebnih ispitivanja ispravnosti, kao i neposrednog uvida na licu mjesta iz čega je razvidno da sigurnosne udaljenosti kao i druge predviđene i izvedene mjere zaštite od požara i tehnoloških eksplozija ispunjavaju propisane uvjete.«.
+
+### Članak 7.
+
+U članku 12. iza riječi: »dozvola« dodaju se riječi: »ili drugi akt o pravu građenja i uporabe«.
+
+### Članak 8.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Osposobljavanje djelatnika za poslove skladištenja i prometa zapaljivih tekućina i/ili plinova i upoznavanje s mjerama za sprečavanje nastanka i širenja požara i eksplozije te postupcima za gašenje na njihovim radnim mjestima obavlja se prije zaposlenja prema uputama za siguran rad i postupanje u slučaju požara, koje moraju biti u razumljivom obliku prilagođene specifičnostima radnog mjesta i tehnološkog procesa.
+
+(2) Teorijsko i praktično osposobljavanje djelatnika iz stavka 1. ovoga članka, kao i obveznu godišnju provjeru osposobljenosti, mogu obavljati osobe koje imaju posebne ovlasti i odgovornosti u stručnim službama korisnika.
+
+(3) O osposobljavanju i godišnjoj provjeri osposobljenosti vodi se dokumentacija iz koje je vidljivo tko je, kada, kako i prema kojim uputama za siguran rad i postupanje u slučaju požara obavio osposobljavanje i godišnju provjeru osposobljenosti.«.
+
+### Članak 9.
+
+U članku 16. riječi: »uređaje za upravljanje i nadziranje tehnološkog procesa te sprečavanje nastanka požara ili eksplozije« zamjenjuju se riječima: »sustave za upravljanje i nadziranje sigurnog odvijanja tehnološkog procesa«.
+
+### Članak 10.
+
+U članku 23. stavku 1. točki 11. iza riječi: »rokovima« dodaju se riječi: »ili na način predviđen pravilnikom na koji je dana suglasnost Ministarstva unutarnjih poslova ili ne izdaje ili ne čuva ispitni izvještaj (članka 9. stavak 1., 2., 3., 5., 6. i 7.)«, a riječi: »(članak 9. stavak 1., 2. i 3.)« brišu se.
+
+### Članak 11.
+
+Danom prijama Republike Hrvatske u punopravno članstvo u Europsku uniju, svojstva reakcije na požar i otpornost na požar u graditeljstvu navedena u propisima donesenim na temelju Zakona o zapaljivim tekućinama i plinovima određuju se prema hrvatskim normama kojima su preuzete europske norme, a dokazuju sukladno posebnim propisima.
+
+### Članak 12.
+
+Operatori su dužni Pravilnik o uvjetima i postupku ispitivanja nepropusnosti i ispravnosti plinskih instalacija uskladiti s odredbama ovoga Zakona i ishoditi suglasnost Ministarstva unutarnjih poslova u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 214-01/10-01/01
+
+Zagreb, 23. travnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

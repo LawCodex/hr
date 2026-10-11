@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "76/07"
-amendments: []
+last_amended: 2012-05-28
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "76/07, 59/12"
+amendments:
+  - "NN 59/2012 (1457) Zakon o izmjenama i dopunama Zakona o financijskom osiguranju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2396"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o financijskom osiguranju
 
 > Izvor: Narodne novine, NN 76/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2396).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 59/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -232,3 +236,141 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o financijskom osiguranju (NN 59/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1457*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIJSKOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o financijskom osiguranju, koji je Hrvatski sabor donio na sjednici 18. svibnja 2012. godine.
+
+Klasa: 011-01/12-01/65
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 22. svibnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIJSKOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o financijskom osiguranju (»Narodne novine«, br. 76/07.) u članku 1. riječi: »financijskim instrumentima ili novčanim sredstvima koja« zamjenjuju se riječima: »instrumentima financijskog osiguranja u ugovorima koje«.
+
+### Članak 2.
+
+Iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu s Direktivom 2009/44/EZ Europskog parlamenta i Vijeća, od 6. svibnja 2009. godine, kojom se mijenja i dopunjuje Direktiva 98/26/EZ o konačnosti namire u platnim sustavima i sustavima za namiru vrijednosnih papira i Direktiva 2002/47/EZ o sporazumima o financijskom osiguranju u pogledu povezanih sustava i kreditnih potraživanja.«.
+
+### Članak 3.
+
+U članku 2. točki 1. riječi: »financijskim instrumentima ili novčanim sredstvima« zamjenjuju se riječima: »instrumentima financijskog osiguranja«.
+
+Točke 3. i 4. mijenjaju se i glase:
+
+»3. Instrumenti financijskog osiguranja jesu financijski instrumenti, novčana sredstva ili kreditna potraživanja,
+
+4. Financijski instrument jest financijski instrument u smislu zakona koji uređuje tržište kapitala,«.
+
+Iza točke 4. dodaje se točka 4.a koja glasi:
+
+»4.a Kreditno potraživanje je potraživanje nastalo po ugovoru o kreditu ili ugovoru o zajmu u kojem je davatelj kredita ili zajma kreditna institucija definirana zakonom koji uređuje poslovanje kreditnih institucija, Hrvatska narodna banka, Hrvatska banka za obnovu i razvitak ili subjekt financijskog tržišta iz članka 3. stavka 1. točke 1. i 2. ovoga Zakona, a u kojem druga ugovorna strana nije potrošač definiran zakonom koji uređuje potrošačko kreditiranje,«.
+
+### Članak 4.
+
+Naslov iznad članka 3. mijenja se i glasi: »Subjekti u ugovorima o financijskom osiguranju«.
+
+### Članak 5.
+
+U članku 3. stavku 1. riječi: »Subjekti na koje se primjenjuju odredbe ovoga Zakona jesu:« zamjenjuju se riječima: »Subjekti u ugovorima o financijskom osiguranju iz članka 2. ovoga Zakona jesu:«.
+
+U točki 3. riječi: »Financijske institucije koje su:« zamjenjuju se riječima: »Institucije koje jesu:«.
+
+U alineji prvoj riječi: »odnosno izdavanje sredstava plaćanja u obliku elektroničkog novca,« brišu se.
+
+Točka 4. mijenja se i glasi:
+
+»4. središnja druga ugovorna strana, agent za namiru te klirinška organizacija.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U Republici Hrvatskoj subjektima financijskog tržišta iz članka 1. ovoga Zakona smatraju se Republika Hrvatska, Hrvatska narodna banka i Hrvatska banka za obnovu i razvitak, kreditne institucije kako su uređene zakonom koji uređuje kreditne institucije, financijske institucije kako su uređene zakonom koji uređuje tržište kapitala, investicijska društva kako su uređena zakonom koji uređuje tržište kapitala, društva za osiguranje, odnosno društva za reosiguranje kako su uređena zakonom koji uređuje osiguranje, investicijski i mirovinski fondovi, Središnje klirinško depozitarno društvo, Hrvatski zavod za zdravstveno osiguranje i Hrvatski zavod za mirovinsko osiguranje te središnja druga ugovorna strana, agent za namiru i klirinška organizacija, sukladno zakonu koji uređuje konačnost namire u platnim sustavima i sustavima za namiru financijskih instrumenata.«.
+
+### Članak 6.
+
+Iza članka 3. dodaje se naslov i članak 3.a koji glasi:
+
+*»Instrumenti financijskog osiguranja*
+
+### Članak 3.a
+
+(1) Financijsko osiguranje provodi se instrumentima financijskog osiguranja.
+
+(2) Instrumenti financijskog osiguranja iz stavka 1. ovoga članka jesu:
+
+1) novčana sredstva,
+
+2) kreditno potraživanje,
+
+3) financijski instrumenti.
+
+(3) Instrument financijskog osiguranja iz stavka 2. točke 1. ovoga članka mora biti iskazan u određenom iznosu koji odgovara financijskoj obvezi osiguranoj ugovorom o financijskom osiguranju.
+
+(4) Instrument financijskog osiguranja iz stavka 2. točke 2. ovoga članka ne može biti kreditno potraživanje u kojem je dužnik potrošač definiran zakonom koji uređuje potrošačko kreditiranje.
+
+(5) Instrument financijskog osiguranja iz stavka 2. točke 2. ovoga članka ne može se ugovoriti ako nije ispunjeno sljedeće:
+
+1) dužnik po kreditnom potraživanju koje se daje kao instrument financijskog osiguranja dao je suglasnost za priopćavanje svojih podataka koji se smatraju bankarskom tajnom u smislu zakona koji uređuje kreditne institucije za one podatke koji su potrebni primatelju instrumenta financijskog osiguranja u svrhu korištenja toga instrumenta financijskog osiguranja i
+
+2) dužnik po kreditnom potraživanju je dao izjavu kako neće izvršiti prijeboj prema vjerovniku iz toga kreditnog potraživanja u razdoblju dok traje korištenje toga kreditnog potraživanja kao instrumenta financijskog osiguranja.
+
+(6) Ako je instrument financijskog osiguranja iz stavka 2. točke 2. ovoga članka ugovor o financijskom osiguranju, sadržava i odredbu o pravima davatelja kredita ili zajma koji se daje kao instrument financijskog osiguranja na kamatu i naknadu po tom kreditu ili zajmu.«.
+
+### Članak 7.
+
+U članku 4. iza stavka 1. dodaju se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Ako je instrument financijskog osiguranja kreditno potraživanje uz ugovor iz stavka 1. ovoga članka, dostavlja se popis kreditnih potraživanja koja su instrument financijskog osiguranja, o čemu mora postojati pisani dokaz.
+
+(3) Popis iz stavka 2. ovoga članka sadrži najmanje podatke o dužniku, iznosu kreditnog potraživanja koje se daje kao instrument financijskog osiguranja (glavnica ili ukupno potraživanje po kreditu), podatak o tome kada je dužnik upoznat i dao suglasnost kako neće izvršiti prijeboj prema vjerovnicima iz toga kreditnog potraživanja u razdoblju dok traje korištenje toga kreditnog potraživanja kao instrumenta financijskog osiguranja.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 4., riječi: »iz stavka 1.« zamjenjuju se riječima: »iz stavka 1. i 2.«.
+
+### Članak 8.
+
+U cijelom tekstu Zakona o financijskom osiguranju (»Narodne novine«, br. 76/07.) riječi: »instrument osiguranja« zamjenjuju se riječima: »instrument financijskog osiguranja« u odgovarajućem broju i padežu.
+
+*Prijelazne i završene odredbe*
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 450-01/12-01/02
+
+Zagreb, 18. svibnja 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r.

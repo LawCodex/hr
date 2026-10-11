@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2006-01-18
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "8/06"
-amendments: []
+last_amended: 2015-04-10
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "8/06, 40/15"
+amendments:
+  - "NN 40/2015 (824) Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/162"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o ustrojstvu i načinu rada Odbora za državnu službu
 
 > Izvor: Narodne novine, NN 8/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/162).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 40/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -184,3 +188,80 @@ Zagreb, 12. siječnja 2006.
 Predsjednik
 
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu (NN 40/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/40/824*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 66. stavka 10. Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008, 34/2011, 49/2011, 150/2011, 34/2012, 49/2012 – pročišćeni tekst, 37/2013, 38/2013 i 1/2015), Vlada Republike Hrvatske je na sjednici održanoj 9. travnja 2015. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O USTROJSTVU I NAČINU RADA ODBORA ZA DRŽAVNU SLUŽBU**
+
+### Članak 1.
+
+U Uredbi o ustrojstvu i načinu rada Odbora za državnu službu (»Narodne novine«, broj 8/2006), u članku 2. stavku 1. riječ: »šest« zamjenjuje se riječju: »deset«.
+
+### Članak 2.
+
+Članak 6. mijenja se i glasi:
+
+»Predsjednik Odbora zastupa i predstavlja Odbor, organizira rad Odbora, raspoređuje zaprimljene predmete u rad članovima Odbora, brine za usklađivanje prakse Odbora, te obavlja i druge poslove utvrđene zakonom i ovom Uredbom.
+
+S ciljem ujednačavanja postupanja i prakse Odbora, Predsjednik Odbora po potrebi saziva sjednice Odbora ako u radu članova uoči nejednako postupanje, postupanje protivno propisima ili odstupanje od ustaljene prakse. Kada član Odbora uoči navedene okolnosti, o tome će obavijestiti predsjednika Odbora.
+
+Pravno shvaćanje prihvaćeno na sjednici Odbora većinom glasova svih članova Odbora obvezno je za sve članove Odbora.«.
+
+### Članak 3.
+
+Članak 9. mijenja se i glasi:
+
+»Postupak povodom žalbe provodi član Odbora kao ovlašteni voditelj postupka.
+
+Ovlaštenog voditelja postupka određuje predsjednik Odbora. Predsjednik Odbora ne može sebe odrediti za voditelja postupka.«.
+
+### Članak 4.
+
+Naslov iznad članka 10. i članak 10. brišu se.
+
+### Članak 5.
+
+Naslov iznad članka 11. i članak 11. brišu se.
+
+### Članak 6.
+
+Članak 12. mijenja se i glasi:
+
+»Rješenja Odbora donosi predsjednik Odbora.
+
+Ako predsjednik Odbora nije suglasan s predloženim nacrtom rješenja, o prijedlogu rješenja odlučuje Odbor većinom glasova članova prisutnih na sjednici Odbora.
+
+Sjednice Odbora održavaju se u pravilu jednom tjedno. Član Odbora ne može se suzdržati od glasanja na sjednici Odbora.
+
+O radu Odbora vodi se zapisnik.«.
+
+### Članak 7.
+
+Članak 13. mijenja se i glasi:
+
+»Odbor je dužan o svom radu dvaput godišnje izvijestiti Vladu Republike Hrvatske.«.
+
+### Članak 8.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-03/29
+
+Urbroj: 50301-09/06-15-2
+
+Zagreb, 9. travnja 2015.
+
+Predsjednik  
+Zoran Milanović, v. r.

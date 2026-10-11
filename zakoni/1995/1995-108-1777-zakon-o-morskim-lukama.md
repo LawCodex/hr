@@ -30,9 +30,9 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim Odluku o proglašenju zakona o morskim lukama
 
-**ZAKON**
+ZAKON
 
-**O MORSKIM LUKAMA**
+O MORSKIM LUKAMA
 
 Koji je zastupnički dom sabora republike hrvatske donio na sjednici 13. Prosinca 1995.
 
@@ -40,21 +40,21 @@ Broj: 01-95-2114/1
 
 Zagreb,19. prosinca 1995.
 
-*Predsjednik Republike Hrvatske*
+Predsjednik Republike Hrvatske
 
 dr. Franjo Tuđman, v. r.
 
-## Zakon
+**Zakon**
 
-## o morskim lukama
+**o morskim lukama**
 
 I. OSNOVNE ODREDBE
 
-### Članak 1.
+## Članak 1.
 
 Ovim Zakonom uređuje se razvrstaj morskih luka, lučko područje, lučke djelatnosti i njihovo obavljanje, izgradnja i korištenje lučke nadgradnje i podgradnje, osnivanje, ustrojstvo i djelatnost lučkih uprava, osnovne odredbe o redu u morskim lukama te pretvorba postojećih društvenih poduzeća luka.
 
-### Članak 2.
+## Članak 2.
 
 Ako ovim Zakonom nije drugačije određeno, pojedini izrazi upotrebljeni u ovom Zakonu imaju sljedeća značenja:
 
@@ -76,7 +76,7 @@ Ako ovim Zakonom nije drugačije određeno, pojedini izrazi upotrebljeni u ovom 
 
 II. RAZVRŠTAJ LUKA
 
-### Članak 3.
+## Članak 3.
 
 Prema namjeni kojoj služe, luke se dijele na luke otvorene za javni promet i luke za posebne namjene.
 
@@ -84,13 +84,13 @@ Luke iz stavka 1. ovoga članka mogu biti otvorene za međunarodni promet i luke
 
 Luka može obuhvaćati jedan ili više lučkih bazena.
 
-### Članak 4.
+## Članak 4.
 
 Luke otvorene za međunarodni promet određuju se posebnim propisima.
 
 Luke otvorene za domaći promet određuje, uz suglasnost Vlade Republike Hrvatske, skupština one županije na podrućju koje se nalazi luka, nakon što nadležna lučka kapetanija utvrdi da su ispunjeni uvjeti za sigurnost plovidbe u luci ako ovim Zakonom nije drugačije predviđeno.
 
-### Članak 5.
+## Članak 5.
 
 Prema veličini i značaju za Republiku Hrvatsku, luke otvorene za javni promet dijele se na:
 
@@ -120,7 +120,7 @@ Prema značaju za Republiku Hrvatsku luke za posebne namjene iz stavka 2. ovoga 
 
 2. luke od županijskog značaja.
 
-### Članak 6.
+## Članak 6.
 
 Vlada Republike Hrvatske donosi odluku kojom propisuje mjerila za razvrstaj luka iz članka 5. stavak 1. ovoga Zakona i odluku o razvrstaju luka za posebne namjene prema značaju za Republiku Hrvatsku, sukladno članku 5. stavak 3. ovoga zakona.
 
@@ -128,7 +128,7 @@ Kod utvrđivanja mjerila za razvrstaj luka, Vlada Republike Hrvatske uzet će u 
 
 Polazeći od općih smjernica za razvoj luka utvrđenih desetogodišnjim planom razvoja lučkog sustava, Vlada Republike Hrvatske može promijeniti mjerila iz stavka 1. ovoga članka, uzimajući u obzir objektivno predvidive mogućnosti razvoja pojedine luke.
 
-### Članak 7.
+## Članak 7.
 
 Ministar donosi propis o razvrstaju luka iz članka 5. stavak 1. ovoga Zakona, sukladno odluci o mjerilima za razvrstaj luka.
 
@@ -138,7 +138,7 @@ III. LUKE OTVORENE ZA JAVNI PROMET
 
 1. LUČKO PODRUČJE
 
-### Članak 8.
+## Članak 8.
 
 Vlada Republike Hrvatske utvrđuje lučko područje u lukama iz članka 5. stavak 1. točka 1. ovoga Zakona u skladu s prostornim planom.
 
@@ -150,7 +150,7 @@ Lučka uprava je dužna predložiti promjenu akta o lučkom području ako to zah
 
 2. LUČKE DJELATNOSTI
 
-### Članak 9.
+## Članak 9.
 
 Vrste lučkih djelatnosti u lukama otvorenim za javni promet su:
 
@@ -168,7 +168,7 @@ Na lučkom području mogu se obavljati i druge djelatnosti ako je to propisano p
 
 3, KONCESIJE
 
-### Članak 10.
+## Članak 10.
 
 Lučke djelatnosti obavljaju trgovačka društva na temelju koncesije.
 
@@ -192,7 +192,7 @@ Vlada Republike Hrvatske propisat će:
 
 2. postupak, kriterije i rokove u svezi s izdavanjem i otkazom koncesije, određivanje visine naknade, jamstvu kao i nadzoru poštivanja odredaba ugovora o koncesiji u lukama otvorenim za javni promet.
 
-### Članak 11.
+## Članak 11.
 
 Koncesija za obavljanje lučke djelatnosti daje se na osnovi ocjene plana i operativnog programa rada ovlaštenika koncesije, uključujući i program ulaganja u održavanje luke.
 
@@ -200,7 +200,7 @@ Koncesija može obuhvaćati korištenje i održavanje postojećih objekata infra
 
 Objekte infrastrukture i suprastrukture izgrađene ili postavljene na lučkom području bez, odnosno protivno odluci i ugovoru o koncesiji za obavljanje djelatnosti iz članka 9. ovoga Zakona, ovlaštenik koncesije dužan je u roku od 60 dana ukloniti. U protivnom lučka uprava može oduzeti koncesiju i ukloniti objekt o trošku ovlaštenika.
 
-### Članak 12.
+## Članak 12.
 
 Podnositelj zahtjeva za koncesiju za obavljanje lučke djelatnosti dužan je uz zahtjev za izdavanje koncesije predočiti :
 
@@ -212,13 +212,13 @@ Podnositelj zahtjeva za koncesiju za obavljanje lučke djelatnosti dužan je uz 
 
 4. dokaz i jamstvo da raspolaže potrebnim financijskim sredstvima ili izvorima sredstava za ostvarenje plana i programa rada i investicija.
 
-### Članak 13.
+## Članak 13.
 
 Rok na koji se daje koncesija iz članka 10. stavak 6. ovoga Zakona određuje se ovisno o planu i programu rada trgovačkog društva koje traži koncesiju, vodeći u svakom slučaju računa da rok ne bude kraći negoli je potrebno za amortizaciju vrijednosti planom predviđenih ulaganja na lučkom području.
 
 Nakon isteka koncesije radi obavljanja djelatnosti iz članka 9. ovoga Zakona, koncesija se može obaviti samo u postupku predviđenom za dodjelu koncesije sukladno odredbama članka 10. stavak 1. do 4. i članka 11. i 12. ovoga Zakona.
 
-### Članak 14.
+## Članak 14.
 
 Koncesija radi obavljanja lučke djelatnosti prestaje:
 
@@ -232,7 +232,7 @@ d) oduzimanjem koncesije od strane davatelja uz uvjete iz članka 15. ovoga Zako
 
 Odluku o prestanku koncesije donosi davatelj koncesije.
 
-### Članak 15.
+## Članak 15.
 
 Lučka uprava može oduzeti koncesiju za obavljanje lučke djelatnosti ako utvrdi da ovlaštenik koncesije :
 
@@ -260,7 +260,7 @@ Odluku o oduzimanju koncesije donosi lučka uprava.
 
 Oduzimanjem koncesije, prestaje i pravo na korištenje lučkog prostora, objekata infrastrukture i suprastrukture, a raskidaju se i svi drugi ugovorni odnosi koji se temelje ili proizlaze iz koncesije, ako su vezani uz obavljanje djelatnosti te korištenje objekata infrastrukture i suprastrukture na lučkom području.
 
-### Članak 16.
+## Članak 16.
 
 Kada koncesija prestane sukladno članku 14. i 15. ovoga Zakona, ovlaštenik koncesije nema pravo na odštetu.
 
@@ -268,7 +268,7 @@ Ako je ovlaštenik koncesije izgradio štogod na lučkom području na osnovi kon
 
 Ako ovlaštenik koncesije ne udovolji traženju davatelja koncesije da mu u određenom roku preda lučko područje na slobodno raspolaganje, odnosno da ukloni prinove i građevine, davatelj koncesije može prinove i građevine ukloniti na trošak ovlaštenika koncesijc.
 
-### Članak 17.
+## Članak 17.
 
 Lučka uprava utvrđuje na osnovi godišnjeg plana i programa rada na početku svake godine najveći broj novih koncesija koje se mogu izdati radi obavljanja lučkih djelatnosti, uzimajući u obzir potrebe funkcioniranja luke i razinu prometa u luci.
 
@@ -276,19 +276,19 @@ Lučka uprava dužna je najmanje dva puta godišnje provjeravati izvršavanje pl
 
 Ovlaštenik koncesije dužan je omogućiti lučkoj upravi i drugom nadležnom tijelu provjeravanje izvršavanja plana i godišnjeg operativnog programa rada ovlaštenika koncesije.
 
-### Članak 18.
+## Članak 18.
 
 Trgovačka društva koja dobiju koncesiju za obavljanje lučkih djelatnosti, upisuju se u posebni upisnik koji vodi lučka uprava.
 
 Sadržaj i način vođenja upisnika iz stavka 1. ovoga članka propisuje ministar.
 
-### Članak 19.
+## Članak 19.
 
 Na sva pitanja koja se odnose na obavljanje lučkih djelatnosti, odnosno korištenje pomorskog dobra radi obavljanja lučkih djelatnosti, a koja nisu uređena ovim Zakonom, na odgovarajući način se primjenjuju odredbe Pomorskog zakonika, kojima se uređuje koncesija na pomorskom dobru.
 
 4. NAKNADE
 
-### Članak 20.
+## Članak 20.
 
 Trgovačka društva koja obavljaju djelatnosti iz članka 9. ovoga Zakona u lukama otvorenim za javni promet pružaju usluge korisnicima luke uz naknadu. Visinu naknade utvrđuje trgovačko društvo koje obavlja određenu djelatnost u okviru cjenika (tarifa) za svaku pojedinu vrstu usluge.
 
@@ -300,7 +300,7 @@ Radi osjguranja konkurencije unutar luke, lučka uprava može, ako ocijeni da po
 
 5. LUČKA INFRASTRUKTURA I SUPRASTRUKTURA (PODGRADNJA I NADGRADNJA)
 
-### Članak 21.
+## Članak 21.
 
 Izgradnja i održavanje objekata lučke infrastrukture i suprastrukture osigurava se putem lučke uprave, sukladno ovom Zakonu i s drugim sredstvima iz državnog ili županijskog proračuna.
 
@@ -316,7 +316,7 @@ Na temelju odluke o koncesiji lučka uprava i ovlaštenik koncesije sklapaju ugo
 
 Na oduzimanje i prestanak koncesije iz stavka 3. ovoga članka, primjenjuju se odredbe članka 14., 15. i 16. ovoga Zakona.
 
-### Članak 22.
+## Članak 22.
 
 Novoizgrađene objekte infrastruklure i suprastrukture ovlaštenik koncesije može dati na korištenje prema općim uvjetima korištenja i uz naknadu.
 
@@ -330,11 +330,11 @@ Kod donošenja cjenika (tarifa) lučka uprava dužna je voditi računa da ukupni
 
 Ako ovlaštenik koncesije ne poštuje cjenik (tarife) koje je donijela lučka uprava, može mu se oduzeti koncesija sukladno članku 15. ovoga Zakona.
 
-### Članak 23.
+## Članak 23.
 
 Izgradnja, održavanje i modernizacija važnijih infrastrukturnih i suprastrukturnih objekata u lukama otvorenim za javni promet obavlja se na osnovi desetogodišnjeg plana razvoja lučkog sustava Republike Hrvatske, iz njega izvedenih dvogodišnjih planova razvoja, a razrađuju detaljno u godišnjim programima rada i razvoja svake luke za javni promet iz članka 5. stavka 1. ovoga Zakona.
 
-### Članak 24.
+## Članak 24.
 
 Desetogodišnji plan razvoja lučkog sustava Republike Hrvatske obuhvaća izgradnju, održavanje i modernizaciju svih luka iz članka 5. stavka 1. ovoga Zakona, kao i opće smjernice za razvoj ostalih luka po potrebi.
 
@@ -342,23 +342,23 @@ Plan razvoja iz prethodnog stavka s utvrđenim izvorima sredstava za njegovo ost
 
 Kod izrade desetogodišnjeg plana razvoja lučkog sustava Republike Hrvatske potrebno je ocijeniti značaj i objektivne razvojne mogućnosti luka iz članka 5. stavka 1. ovoga Zakona, uzimajući u obzir osobito potrebe za lučkim uslugama u okviru globalne ponude i potražnje transportnih usluga.
 
-### Članak 25.
+## Članak 25.
 
 Na osnovi desetogodišnjeg plana razvoja lučkog sustava Republike Hrvatske, lučka uprava izrađuje i nakon usklađivanja u Stručnom tijelu za luke donosi dvogodišnji plan razvoja luke, koji potvrđuje Vlada Republike Hrvatske.
 
-### Članak 26.
+## Članak 26.
 
 Godišnji program rada i razvoja luke donosi, na prijedlog direktora, upravni odbor lučke uprave. U lukama iz članka 5. stavka 1. točke 1. ovoga Zakona, suglasnost na godišnji program rada i razvoja luke daje ministar i ministar financija, a za luke iz članka 5. stavka 1. točke 2. i 3. ovoga Zakona, župan uz prethodno mišljenje ministra.
 
 Na kraju svakog razdoblja koje je utvrđeno planom podnosi se izvješće o ostvarenju plana tijelu koje je donijelo plan.
 
-### Članak 27.
+## Članak 27.
 
 Do donošenja planova iz članka 23. do 26. ovoga Zakona, lučka uprava ne može obavljati bilo kakve radove radi izgradnje i modernizacije lučke podgradnje i nadgradnje bez prethodne suglasnosti tijela iz članka 31. stavka 2. ovoga Zakona.
 
 IV. LUKE ZA POSEBNE NAMJENE
 
-### Članak 28.
+## Članak 28.
 
 Odluku o otvaranju luke za posebne namjene iz članka 5. stavka 2. točke 1. i 2. ovoga Zakona i njene granice na moru i kopnu donosi Vlada Republike Hrvatske na prijedlog ministra obrane, odnosno ministra unutarnjih poslova, a nakon pribavljenog mišljenja ministra. Ova luka može služiti isključivo za vojne namjene, odnosno za namjene unutarnjih poslova koji su utvrđeni posebnim zakonom.
 
@@ -372,7 +372,7 @@ Ovlaštenici koncesija iz stavka 2. ovoga članka upisuju se u posebni upisnik k
 
 Otvaranje luke posebne namjene iz stavka 1. i 2. ovoga članka, mora biti utemeljeno na prostornim planovima.
 
-### Članak 29.
+## Članak 29.
 
 Lukom za posebne namjene iz članka 28. stavka 1. ovoga Zakona upravlja ministarstvo za čije potrebe se luka otvara.
 
@@ -384,7 +384,7 @@ V. LUČKA UPRAVA
 
 1. OSNIVANJE I DJELATNOST
 
-### Članak 30.
+## Članak 30.
 
 Radi upravljanja, izgradnje i korištenja luke otvorene za javni promet osniva se lučka uprava.
 
@@ -400,7 +400,7 @@ Lučka uprava može u pravnom prometu stjecati prava i preuzimati obveze.
 
 Imovinu lučke uprave ćine sredstva i prava koja lučka uprava ostvaruje na temelju članka 45. ovoga Zakona.
 
-### Članak 31.
+## Članak 31.
 
 Osnivač lučke uprave u lukama iz članka 5. stavka 1. točke 1. ovoga Zakona je Republika Hrvatska, a za luke iz članka 5. stavka 1. točka 2. i 3. ovoga Zakona županija.
 
@@ -410,7 +410,7 @@ Odluku o osnivanju lučke uprave čiji je osnivač Republika Hrvatska donosi Vla
 
 Lučka uprava osniva se sredstvima iz članka 59. stavka 3. ovoga Zakona, koja postaju sredstva u njenom vlasništvu, osim sredstava koja čine pomorsko dobro na kojima stječe uporabu i korištenje.
 
-### Članak 32.
+## Članak 32.
 
 Odluka o osnivanju lučke uprave pored elemenata propisanih Zakonom o ustanovama, treba sadržavati:
 
@@ -418,7 +418,7 @@ Odluka o osnivanju lučke uprave pored elemenata propisanih Zakonom o ustanovama
 
 2. određenje lučkih djelatnosti, odnosno objekata suprastrukture i infrastrukture za koje se može dobiti koncesija.
 
-### Članak 33.
+## Članak 33.
 
 Djelatnost lučke uprave je:
 
@@ -436,7 +436,7 @@ Djelatnost lučke uprave je:
 
 7. drugi poslovi utvrđeni zakonom.
 
-### Članak 34.
+## Članak 34.
 
 Lučka uprava može u cilju obavljanja djelatnosti iz članka 33. stavka 1. točka 4. ovoga Zakona osnovati jedno ili više trgovačkih društava u svom vlasništvu radi obavljanja poslova djelatnosti čuvanja luke, protupožarne zaštite, rukovanja opasnim teretom i sl., uz prethodnu suglasnost Ministarstva i Ministarstva financija, ukoliko u ponovljenom postupku koncesije nije donesena odluka o dodjeli koncesije.
 
@@ -446,7 +446,7 @@ Dobit trgovačkog društva iz stavka 1. ovoga članka koristi se namjenski isklj
 
 2. TIJELA LUČKE UPRAVE
 
-### Članak 35.
+## Članak 35.
 
 Tijela lučke uprave su Upravno vijeće i ravnatelj. Upravno vijeće lučke uprave u lukama iz članka 5. stavka 1. točke 1. ovoga Zakona čine:
 
@@ -476,13 +476,13 @@ Ako ovlašteno tijelo ne imenuje članove Upravnog vijeća u roku predviđenom p
 
 Mandat članova Upravnog vijeća i predsjednika je četiri godine. Iste osobe mogu biti ponovno imenovane odnosno izabrane za člana Upravnog vijeća.
 
-### Članak 36.
+## Članak 36.
 
 Radom Upravnog vijeća rukovodi predsjednik Upravnog vijeća koji ne može biti iz reda članova Upravnog vijeća iz članka 35. ovoga Zakona.
 
 Predsjednika Upravnog vijeća lučke uprave imenuje Vlada Repuhlike Hrvatske odnosno županijsko poglavarstvo vodeći računa o stručnosti i iskustvu kandidata.
 
-### Članak 37.
+## Članak 37.
 
 Vlada Republike Hrvatske može raspustiti Upravno vijeće lučke uprave iz članka 35. stavka 2 ovoga Zakona na prijedlog ministra i Stručnog tijela za luke, a županijsko poglavarstvo može raspustiti upravni odbor lučke uprave iz članka 35. stavka 3. ovoga Zakona na prijedlog ministra i Stručnog tijela za luke:
 
@@ -494,7 +494,7 @@ Vlada Republike Hrvatske može raspustiti Upravno vijeće lučke uprave iz član
 
 4. u drugim naročito opravdanim slučajevima iz članka 38. ovoga Zakona.
 
-### Članak 38.
+## Članak 38.
 
 Upravno vijeće:
 
@@ -532,13 +532,13 @@ Upravno vijeće:
 
 17. obavlja i druge poslove koji su mu stavljeni u nadležnost zakonom, odlukom o osnivanju i Statutom.
 
-### Članak 39.
+## Članak 39.
 
 Upravno vijeće sastaje se po potrebi, a najmanje jednom mjesečno, a odluke donosi većinom glasova svih članova Upravnog vijeća.
 
 Upravno vijeće može osnivati privremena ili stalna radna tijela za stručnu obradu i praćenje pojedinih zadataka iz svoje nadležnosti.
 
-### Članak 40.
+## Članak 40.
 
 Na osnovi javnog natječaja, na prijedlog natječajne komisije, a uz suglasnost ministra, ravnatelja lučke uprave imenuje Upravno vijeće lučke uprave na vrijeme od četiri godine.
 
@@ -546,13 +546,13 @@ Ista osoba može se ponovno imenovati za ravnatelja.
 
 Ravnatelj je za svoj rad odgovoran Upravnom vijeću i Vladi Republike Hrvatske odnosno županijskom poglavarstvu.
 
-### Članak 41.
+## Članak 41.
 
 Ravnatelj predlaže Upravnom vijeću lučke uprave ustroj, potreban broj i sastav stručno-tehničkog osoblja.
 
 Ravnatelj i stručno-tehničko osoblje sklapaju ugovor o radu s Upravnim vijećem lučke uprave.
 
-### Članak 42.
+## Članak 42.
 
 Ravnatelj organizira, vodi rad i poslovanje lučke uprave i ima sljedeća prava i obveze:
 
@@ -568,7 +568,7 @@ Ravnatelj organizira, vodi rad i poslovanje lučke uprave i ima sljedeća prava 
 
 6. izbor stručno-tehničkog osoblja.
 
-### Članak 43.
+## Članak 43.
 
 U Ministarstvu se osniva Stručno tijelo za luke. Stručno tijelo za luke sastoji se od :
 
@@ -592,7 +592,7 @@ U Ministarstvu se osniva Stručno tijelo za luke. Stručno tijelo za luke sastoj
 
 10. dva predstavnika sindikalnih organizacija koje bira gradski sindikat.
 
-### Članak 44.
+## Članak 44.
 
 Zadaci Stručnog tijela za luke su:
 
@@ -610,7 +610,7 @@ Stručno tijelo za luke sastaje se najmanje dvaput godišnje. Sastanak Stručnog
 
 3. PRIHODI
 
-### Članak 45.
+## Članak 45.
 
 Prihodi lučke uprave su:
 
@@ -624,7 +624,7 @@ Prihodi lučke uprave su:
 
 5. ostali prihodi.
 
-### Članak 46.
+## Članak 46.
 
 Sredstva ostvarena prema članku 45. ovoga Zakona pripadaju u cijelosti lučkoj upravi na čijem se području ubiru i namijenjena su iskljućivo za:
 
@@ -638,7 +638,7 @@ d) troškove poslovanja lučke uprave.
 
 Sredstva ostvarena na temelju koncesijskih naknada sukladno članku 21. stavka 3. ovoga Zakona za koncesije koje daje Vlada Republike Hrvatske i Sabor Republike Hrvatske, prihod su državnog proračuna.
 
-### Članak 41.
+## Članak 41.
 
 U lukama otvorenim za javni promet plaćaju se lučke pristojbe.
 
@@ -654,7 +654,7 @@ Osnove za naplatu lučkih pristojbi propisuje ministar na prijedlog Upravnog vij
 
 Pristojbe iz stavka 2. ovoga članka ne plaćaju hrvatski javni i hrvatski ratni brodovi i brodice.
 
-### Članak 48.
+## Članak 48.
 
 Pristojbu za upotrebu obale plaća brod koji koristi luku u svrhu ukrcavanja ili iskrcavanja putnika i tereta.
 
@@ -662,19 +662,19 @@ Brodsku ležarinu plaća brod koji koristi luku u bilo koju svrhu osim radi ukrc
 
 Pristojbu za vez plaća vlasnik ribarskog broda, jahte, ribarske, športske ili druge brodice i plutajućeg objekta.
 
-### Članak 49.
+## Članak 49.
 
 Lučke uzance koje se primjenjuju u luci otvorenoj za javni promet utvrđuje upravni odbor lučke uprave.
 
 VI. RED U LUCI
 
-### Članak 50.
+## Članak 50.
 
 Lučka uprava, odnosno trgovačko društvo koje je dobilo koncesiju za gospodarsko korištenje luke posebne namjene (u daljnjem tekstu : pravna osoba) dužni su opremiti luku sukladno posebnim propisima.
 
 Pravna osoba iz stavka 1. ovoga članka koja je opremila luku ima pravo ubirati naknadu za korištenje uređaja i opreme, kojom je luka opremljena.
 
-### Članak 51.
+## Članak 51.
 
 Pravna osoba iz članka 50. ovoga Zakona odgovorna je za onečišćavanje mora u luci i za taloženje otpadaka kojima se zatrpava luka.
 
@@ -682,11 +682,11 @@ Pravna osoba iz članka 50. ovoga Zakona naložit će osobi koja onečišćuje m
 
 Ako nadležno tijelo utvrdi da se onečišćuje more ili otpaci talože djelovanjem lučke uprave troškove čišćenja snosi lučka uprava.
 
-### Članak 52.
+## Članak 52.
 
 Pravna osoba iz članka 50. ovoga Zakona u luci u kojoj se rukuje opasnim tvarima dužna je uz prethodnu suglasnost lučke kapetanije i drugih nadležnih tijela, odrediti podrućje u luci na kojem će se rukovati takvim tvarima.
 
-### Članak 53.
+## Članak 53.
 
 Pravna osoba iz članka 50. ovoga Zakona dužna je od ovlaštene ustanove pribaviti:
 
@@ -696,13 +696,13 @@ b) svjedodžbu o najvećem dopuštenom opterećenju svake izgrađene obale na ko
 
 Svjedodžba iz točke b) prethodnog stavka ovoga članka mora se pribaviti prigodom gradnje nove obale ili popravka postojeće obale.
 
-### Članak 54.
+## Članak 54.
 
 Inspekcijski nadzor nad provođenjem ovoga Zakona obavIja Ministarstvo.
 
 VI. KAZNENE ODREDBE
 
-### Članak 55.
+## Članak 55.
 
 Novčanom kaznom od 300.000 kuna do 450.000 kuna kaznit će se za prekršaj pravna osoba:
 
@@ -712,7 +712,7 @@ Novčanom kaznom od 300.000 kuna do 450.000 kuna kaznit će se za prekršaj prav
 
 Novčanom kaznom od 50.000 kuna do 100.000 kuna kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz stavka 1. ovoga članka.
 
-### Članak 56.
+## Članak 56.
 
 Novčanom kaznom od 150.000 kuna do 450.000 kuna kaznit će se za prekršaj ovlaštenik koncesije:
 
@@ -722,7 +722,7 @@ Novčanom kaznom od 150.000 kuna do 450.000 kuna kaznit će se za prekršaj ovla
 
 3. ako ne omogući lučkoj upravi najmanje dva puta godišnje provjeru izvršenja investicija predviđenih u planu i uvjeta predviđenih u operativnom programu aktivnosti (članak 17.)
 
-### Članak 57.
+## Članak 57.
 
 Novčanom kaznom od 150.000 kuna do 450.000 kuna kaznit će se za prekršaj lučka uprava:
 
@@ -738,7 +738,7 @@ Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 50.000
 
 VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
 
-### Članak 58.
+## Članak 58.
 
 Sabor Republike Hrvatske donijet će desetogodišnji plan razvoja lučkog sustava Republike Hrvatske u roku godine dana od dana stupanja na snagu ovoga Zakona.
 
@@ -764,11 +764,11 @@ Do osnivanja lučke uprave objektima infrastrukture i suprastrukture na lučkom 
 
 U lukama u kojima je bio prekinut promet zbog ratom prouzročene blokade prometnica, rok iz stavka 2. ovoga članka Vlada Republike Hrvatske može produžiti na 12 mjeseci.
 
-### Članak 60.
+## Članak 60.
 
 U roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona Upravni odbor društvenog poduzeća luka dostavit će Hrvatskom fondu za privatizaciju odluku o pretvorbi u skladu sa Zakonom o pretvorbi društvenih poduzeća ("Narodne novine", br. 18/91., 83/92.,16/93., 2/94. i 9/95).
 
-### Članak 61.
+## Članak 61.
 
 Trgovačko društvo za obavljanje lučkih djelatnosti koje nastane pretvorbom predviđenom u članku 60. ovoga Zakona dužno je u roku od 90 dana od upisa u trgovački registar uskladiti svoje poslovanje s odredbama ovoga Zakona.
 
@@ -778,19 +778,19 @@ Ako trgovačko društvo iz stavka 1. ovoga članka ne postupi sukladno odredbi s
 
 Do osnivanja trgovačkog društva iz stavka 1. ovoga članka poslove upravljanja sredstvima, pravima, radom i poslovanjem obavlja Upravni odbor društvenog poduzeća luka.
 
-### Članak 62.
+## Članak 62.
 
 Lučka uprava će trgovačkom društvu za obavljanje lučke djelatnosti iz članka 9. ovoga Zakona koje nastane pretvorbom predviđenom u članku 60. ovoga Zakona, dodijeliti koncesiju za obavljanje djelatnosti iz članka 9. ovoga Zakona i korištenje objekata infrastrukture i suprastrukture na lučkom području na osnovi njihovog pismenog zahtjeva (prvenstvena koncesija), na vrijeme od 12 godina.
 
-### Članak 63.
+## Članak 63.
 
 Usklađivanje trgovačkog društva nastalog pretvorbom društvenog poduzeća luka s odredbama ovoga Zakona kojima se uređuje obavljanje lučke djelatnosti, obavit će se u roku od dvije godine od upisa društva u trgovački registar.
 
-### Članak 64.
+## Članak 64.
 
 U lukama otvorenim za javni promet u kojima nije bilo osnovano društveno poduzeće radi obavljanja djelatnosti iz članka 9. ovoga Zakona, već je te poslove obavljalo drugo tijelo ili pravna osoba, to tijelo će nastaviti obavljati te poslove do osnivanja lučke uprave iz članka 31. ovoga Zakona.
 
-### Članak 65.
+## Članak 65.
 
 U roku od 30 dana od stupanja na snagu ovoga Zakona nadležni županijski ured za pomorstvo objavit će tri puta u službenim glasilima i u važnijim dnevnim listovima te oglasom u općinama i gradovima na području kojih se nalaze luke posebne namjene, poziv svim korisnicima pomorskog dobra u lukama posebne ikamjene koji su to pravo stekli po Zakonu o pomorskom i vodnom dobru, lukama i pristaništima ("Narodne novine", br. 19/74., 39/75., 17/77. i 18/81.), odnosno koji su to pravo stekli na osnovi valjane pravne osnove, da odluku o davanju na korištenje pomorskog dobra u luci posebne namjene prijave u roku od šest mjeseci računajući od dana trećeg oglasa u "Narodnim novinama".
 
@@ -806,21 +806,21 @@ Ako odluka o davanju na korištenje pomorskog dobra u luci posebne namjene nema 
 
 Ako korisnici luka posebne namjene iz stavka 1. ovoga članka ne zatraže koncesiju u roku predviđenom u stavku 1. ovoga članka, tijelo iz članka 28. stavka 3. ovoga Zakona može raspisati javno prikupljanje ponuda za dodjelu nove koncesije za luku posebne namjene ili prenamijeniti luku posebne namjene u luku za javni promet i dati je na upravljanje lučkoj upravi na području kojem gravitira luka.
 
-### Članak 66.
+## Članak 66.
 
 Nad korisnicima luka posebne namjene pretvorba će se obaviti na način i uz uvjete propisane Zakonom o pretvorbi društvenih poduzeća, ali tek nakon što se prethodno utvrde granice pomorskog dobra sukladno važećim propisima.
 
 Odredba stavka 1. ovoga članka ne odnosi se na luke iz članka 28. stavka 1. ovoga Zakona.
 
-### Članak 67.
+## Članak 67.
 
 Carinskom zonom koja posluje na lučkom području na dan stupanja na snagu ovoga Zakona upravlja društveno poduzeće luka do osnivanja lučke uprave.
 
-### Članak 68.
+## Članak 68.
 
 Stupanjem na snagu ovoga Zakona prestaju važiti odredbe Zakona o pomorskom i vodnom dobru, lukama i pristanišiima ("Narodne novine", br. 19/74, 39/75, 17/77 i 18/78 ) koje se odnose na morske luke.
 
-### Članak 69.
+## Članak 69.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
 

@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-06-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "71/06"
-amendments: []
+last_amended: 2014-02-25
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "71/06, 121/13, 26/14"
+amendments:
+  - "NN 121/2013 (2592) Zakon o izmjenama i dopunama Zakona o kazalištima"
+  - "NN 26/2014 (463) Zakon o izmjenama Zakona o kazalištima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/71/1703"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o kazalištima
 
 > Izvor: Narodne novine, NN 71/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/71/1703).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 121/2013, NN 26/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -411,3 +416,179 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o kazalištima (NN 121/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/121/2592*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KAZALIŠTIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kazalištima, koji je Hrvatski sabor donio na sjednici 27. rujna 2013. godine.
+
+Klasa: 011-01/13-01/211
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 27. rujna 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KAZALIŠTIMA**
+
+### Članak 1.
+
+U Zakonu o kazalištima (»Narodne novine«, br. 71/06.) u članku 20. stavku 1. iza podstavka 4. umjesto točke stavlja se zarez te dodaje podstavak 5. koji glasi:
+
+»– Hrvatsko narodno kazalište u Varaždinu.«.
+
+### Članak 2.
+
+U članku 25. stavak 1. mijenja se i glasi:
+
+»Intendanta Hrvatskoga narodnog kazališta u Zagrebu imenuje i razrješava Vlada Republike Hrvatske na zajednički prijedlog ministra kulture i gradonačelnika Grada Zagreba. Ako se ne utvrdi zajednički prijedlog u roku od sedam dana od dana podnošenja pisanog zahtjeva ministra kulture ili gradonačelnika Grada Zagreba radi utvrđivanja zajedničkog prijedloga, intendanta Hrvatskog narodnog kazališta u Zagrebu imenuje i razrješava Vlada Republike Hrvatske na prijedlog ministra kulture. Imenovanje i razrješenje vršitelja dužnosti intendanta Hrvatskog narodnog kazališta u Zagrebu obavlja se na isti način, bez provođenja javnog natječaja.«.
+
+### Članak 3.
+
+U članku 31. stavak 1. mijenja se i glasi:
+
+»Kazališno vijeće javnog kazališta i javne kazališne družine ima pet ili sedam članova od kojih većinu imenuje predstavničko tijelo osnivača iz reda uglednih umjetnika i radnika u kulturi, koji nisu državni službenici ureda državne uprave u županiji na čijem području kazalište djeluje, odnosno gradskog ureda nadležnog za poslove kulture, najmanje jedan član bira se iz redova kazališnih umjetnika, a jedan iz redova svih zaposlenika. Ako članu vijeća iz reda kazališnih umjetnika, odnosno zaposlenika prestane rad, prestaje mu i članstvo u vijeću.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»Kazališno vijeće može se konstituirati kada je imenovana većina članova kazališnog vijeća.«.
+
+### Članak 4.
+
+Članak 32. mijenja se i glasi:
+
+»Kazališno vijeće:
+
+– na prijedlog intendanta, odnosno ravnatelja usvaja godišnji program rada i razvoja javnog kazališta, odnosno javne kazališne družine, koji mora biti sukladan s osnovnim programskim i financijskim okvirom iz članka 27. stavka 3. ovoga Zakona,
+
+– na prijedlog intendanta, odnosno ravnatelja usvaja financijski plan,
+
+– na prijedlog intendanta, odnosno ravnatelja usvaja godišnji obračun te plan nabave,
+
+– prati ostvarivanje programa te njegovo financijsko i kadrovsko izvršavanje,
+
+– razmatra i usvaja programska i financijska izvješća intendanta odnosno ravnatelja,
+
+– na prijedlog intendanta, odnosno ravnatelja, donosi statut uz suglasnost osnivača odnosno osnivača s većinskim udjelom i druge opće akte kazališta odnosno kazališne družine,
+
+– obavlja i druge poslove određene zakonom, aktom o osnivanju i statutom.«.
+
+*Prijelazne i završne odredbe*
+
+### Članak 5.
+
+Javna kazališta i javne kazališne družine dužne su u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti svoj rad i statut te druge opće akte s odredbama ovoga Zakona.
+
+### Članak 6.
+
+Postupci započeti prema odredbama Zakona o kazalištima (»Narodne novine«, br. 71/06.) dovršit će se prema odredbama ovoga Zakona.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/208
+
+Zagreb, 27. rujna 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o kazalištima (NN 26/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/26/463*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O KAZALIŠTIMA
+
+Proglašavam Zakon o izmjenama Zakona o kazalištima, koji je Hrvatski sabor donio na sjednici 21. veljače 2014. godine
+
+Klasa: 011-01/14-01/51
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 24. veljače 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O KAZALIŠTIMA**
+
+### Članak 1.
+
+U Zakonu o kazalištima (»Narodne novine«, br. 71/06. i 121/13.) u članku 25. stavci 3., 4. i 5. mijenjaju se i glase:
+
+»Intendanta nacionalnog kazališta na prijedlog kazališnog vijeća imenuje i razrješava predstavničko tijelo osnivača, odnosno sporazumno predstavnička tijela osnivača kada nacionalno kazalište ima više osnivača, a potvrđuje ministar kulture. Imenovanje i razrješenje vršitelja dužnosti intendanta nacionalnog kazališta obavlja se na isti način, bez provođenja javnog natječaja i potvrđivanja ministra kulture.
+
+Ako u skladu sa stavkom 3. ovoga članka na dan isteka mandata ne bude razriješen intendant nacionalnog kazališta i imenovan novi intendant nacionalnog kazališta, odnosno vršitelj dužnosti intendanta nacionalnog kazališta, intendanta nacionalnog kazališta kojemu je istekao mandat razriješit će ministar kulture i imenovati vršitelja dužnosti intendanta nacionalnog kazališta bez provođenja javnog natječaja. Vršitelj dužnosti intendanta nacionalnog kazališta kojeg je imenovao ministar kulture obavlja svoju dužnost do imenovanja intendanta nacionalnog kazališta, odnosno vršitelja dužnosti intendanta nacionalnog kazališta u skladu sa stavkom 3. ovoga članka. Ministar kulture ovlašten je imenovati vršitelja dužnosti intendanta nacionalnog kazališta i u drugim slučajevima u kojima intendantu nacionalnog kazališta prestaje mandat, odnosno ovlast vršitelju dužnosti intendanta nacionalnog kazališta, a osnivač, odnosno osnivači nisu postupili u skladu sa stavkom 3. ovoga članka.
+
+Ako ministar kulture ne potvrdi akt o imenovanju ili razrješenju intendanta iz stavka 3. ovoga članka u roku od 30 dana, računajući od dana dostave akta na potvrdu, smatrat će se da je potvrda dana.«.
+
+### Članak 2.
+
+Članak 26. mijenja se i glasi:
+
+»Ravnatelja javnog kazališta i javne kazališne družine čiji su osnivači županije, Grad Zagreb, gradovi i općine imenuje i razrješava predstavničko tijelo osnivača na prijedlog kazališnog vijeća. Imenovanje i razrješenje vršitelja dužnosti ravnatelja obavlja se na isti način, bez provođenja javnog natječaja.
+
+Ako javno kazalište i javna kazališna družina imaju više osnivača iz stavka 1. ovoga članka, ravnatelja imenuju i razrješuju, na prijedlog kazališnog vijeća, sporazumno predstavnička tijela osnivača. Postupak i način imenovanja i razrješenja pobliže se uređuju aktom o osnivanju, statutom i ugovorom iz članka 18. ovoga Zakona.
+
+Ako osnivači iz stavka 2. ovoga članka na dan isteka, odnosno prestanka mandata ne razriješe ravnatelja javnog kazališta i javne kazališne družine i ne imenuju sporazumno novog ravnatelja javnog kazališta i javne kazališne družine, odnosno vršitelja dužnosti ravnatelja, predstavničko tijelo, odnosno predstavnička tijela osnivača s većinskim udjelom na prijedlog kazališnog vijeća razrješuju ravnatelja kojem je prestao mandat te imenuju novog ravnatelja javnog kazališta i javne kazališne družine, odnosno vršitelja dužnosti ravnatelja.
+
+Tijelo nadležno za provedbu nadzora nad zakonitošću rada iz članka 38. stavka 2. ovoga Zakona, na čijem je području sjedište javnog kazališta i javne kazališne družine, razriješit će dužnosti ravnatelja i imenovati vršitelja dužnosti ravnatelja javnog kazališta i javne kazališne družine bez provođenja javnog natječaja u slučajevima u kojima je ravnatelju istekao, odnosno prestao mandat ili ovlast vršitelju dužnosti, a osnivač, odnosno osnivači ne obave razrješenje i imenovanje u skladu sa stavcima 1., 2., 3. i 6. ovoga članka. Vršitelj dužnosti ravnatelja javnog kazališta i javne kazališne družine kojega je imenovalo tijelo iz članka 38. stavka 2. ovoga Zakona, obavlja svoju dužnost do imenovanja ravnatelja javnog kazališta i javne kazališne družine, odnosno vršitelja dužnosti ravnatelja u skladu sa stavcima 1., 2., 3. i 6. ovoga članka.
+
+Ravnatelja javnog kazališta kojemu je osnivač Republika Hrvatska imenuje i razrješava ministar kulture. Ako je Republika Hrvatska suosnivač javnog kazališta s najmanje jednom polovinom udjela, ravnatelja javnog kazališta imenuje i razrješava ministar kulture, uz prethodno pribavljeno mišljenje suosnivača. Ne dostavi li suosnivač mišljenje u roku od osam dana od podnesenog pisanog zahtjeva, ministar kulture imenuje i razrješuje ravnatelja javnog kazališta bez pribavljenog mišljenja. Imenovanje i razrješenje vršitelja dužnosti ravnatelja javnog kazališta obavlja se na isti način, bez provođenja javnog natječaja.
+
+Ako je Republika Hrvatska suosnivač javnog kazališta sa županijom, Gradom Zagrebom, gradom i općinom koji imaju većinski udio, ravnatelja javnog kazališta imenuje i razrješava predstavničko tijelo osnivača s većinskim udjelom, na prijedlog kazališnog vijeća, uz prethodno pribavljeno mišljenje ministra kulture. Ne dostavi li ministar kulture mišljenje u roku od osam dana od podnesenog pisanog zahtjeva, imenovanje i razrješenje ravnatelja javnog kazališta može se obaviti bez pribavljenog mišljenja. Imenovanje i razrješenje vršitelja dužnosti ravnatelja javnog kazališta obavlja se na isti način, bez provođenja javnog natječaja. Ako se ne obavi imenovanje ravnatelja, odnosno vršitelja dužnosti ravnatelja javnog kazališta u propisanom postupku, imenovat će se vršitelj dužnosti ravnatelja sukladno odredbi stavka 4. ovoga članka.«.
+
+*Prijelazne i završne odredbe*
+
+### Članak 3.
+
+Javna kazališta i javne kazališne družine dužni su u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti statut te druge opće akte s odredbama ovoga Zakona.
+
+### Članak 4.
+
+Postupci imenovanja i razrješenja intendanta nacionalnog kazališta i ravnatelja javnog kazališta i javne kazališne družine započeti prema odredbama Zakona o kazalištima (»Narodne novine«, br. 71/06. i 121/13.) dovršit će se prema odredbama ovoga Zakona.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/27
+
+Zagreb, 21. veljače 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

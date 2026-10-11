@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2004-07-12
-last_amended: 2007-02-12
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2010-07-23
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "94/04, 17/07"
+narodne_novine: "94/04, 17/07, 91/10"
 amendments:
   - "NN 17/2007 (669) Zakon o izmjenama i dopunama Zakona o postupku primopredaje vlasti"
+  - "NN 91/2010 (2574) Zakon o izmjenama i dopunama Zakona o postupku primopredaje vlasti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/94/1774"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 94/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/94/1774).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 17/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 17/2007, NN 91/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -221,3 +222,57 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o postupku primopredaje vlasti (NN 91/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2574*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O POSTUPKU PRIMOPREDAJE VLASTI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o postupku primopredaje vlasti, koji je Hrvatski sabor donio na sjednici 9. srpnja 2010. godine.
+
+Klasa: 011-01/10-01/73
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 14. srpnja 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O POSTUPKU PRIMOPREDAJE VLASTI**
+
+### Članak 1.
+
+U Zakonu o postupku primopredaje vlasti (»Narodne novine«, br. 94/04. i 17/07.) u članku 7. stavku 1. riječi: »predsjednici i članovi nadzornih odbora trgovačkih društava,« zamjenjuju se riječima: »upravnih vijeća ustanova, odnosno nadzornih odbora izvanproračunskih fondova«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Članovi nadzornih, odnosno upravnih odbora trgovačkih društava u kojima Republika Hrvatska ima većinski paket dionica ili većinski udio, a koje po prethodno provedenom javnom natječaju na prijedlog Vlade Republike Hrvatske imenuje glavna skupština, odnosno skupština društva, stavljaju članstvo u nadzornom, odnosno upravnom odboru trgovačkog društva, na raspolaganje Vladi Republike Hrvatske.«
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »iz stavka 1.« zamjenjuju se riječima: »iz stavaka 1. i 2.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 010-01/10-01/02
+
+Zagreb, 9. srpnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

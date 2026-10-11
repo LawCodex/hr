@@ -6,17 +6,23 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-28
-last_amended: 2006-12-27
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original_with_amendments
-narodne_novine: "91/96, 73/00, 114/01, 79/06, 141/06"
+last_amended: 2015-07-22
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: official_consolidated
+consolidated_text: "NN 81/2015 (1548) https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548"
+narodne_novine: "91/96, 73/00, 114/01, 79/06, 141/06, 146/08, 38/09, 153/09, 143/12, 152/14, 81/15"
 amendments:
   - "NN 73/2000 (1578) Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima"
   - "NN 114/2001 (1883) Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima"
   - "NN 79/2006 (1917) Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima"
   - "NN 141/2006 (3195) ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA"
-source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1596"
+  - "NN 146/2008 (4021) Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 38/2009 (837) Zakon o izmjenama Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 153/2009 (3751) Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 143/2012 (3034) Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 152/2014 (2857) Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima"
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548"
 retrieved: 2026-10-12
 ---
 
@@ -24,23 +30,34 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 91/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1596).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 73/2000, NN 114/2001, NN 79/2006, NN 141/2006.
+> Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 81/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548).
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
-## ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+ODBOR ZA ZAKONODAVSTVO
 
-## Z A K O N
+Na temelju svoje nadležnosti utvrđene člankom 62. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 81/13.) Odbor za zakonodavstvo Hrvatskoga sabora na 123. sjednici održanoj 14. srpnja 2015. utvrdio je pročišćeni tekst Zakona o vlasništvu i drugim stvarnim pravima.
 
-## O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
+Pročišćeni tekst Zakona o vlasništvu i drugim stvarnim pravima obuhvaća Zakon o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96), Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo (»Narodne novine«, br. 68/98), Odluku Ustavnog suda Republike Hrvatske br. U-I-58/97, U-I-235/97,U-I-237/97, U-I-1053/97 i U-I-1054/97 od 17. studenoga 1999. (»Narodne novine«, br. 137/99), Odluku Ustavnog suda Republike Hrvatske br. U-I-1094/99 od 9. veljače 2000. (»Narodne novine«, br. 22/00), Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« br. 37/00), Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 114/01), Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 141/06), Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 146/08), Zakon o izmjenama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 38/09), Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 153/09), Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 143/12) i Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 152/14), u kojima je utvrđeno vrijeme njihova stupanja na snagu.
 
-*Dio prvi*
+Klasa: 021-17/15-02/23
 
-## OPĆE ODREDBE O STVARIMA I STVARNIM PRAVIMA
+Zagreb, 14. srpnja 2015.
+
+Predsjednica  
+Odbora za zakonodavstvo  
+Hrvatskoga sabora  
+Ingrid Antičević Marinović, v. r.
+
+**ZAKON**
+
+**O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA (pročišćeni tekst)**
+
+## Dio prvi — OPĆE ODREDBE O STVARIMA I STVARNIM PRAVIMA
 
 *Vlasništvo i druga stvarna prava*
 
-### Članak 1.
+###### Članak 1.
 
 (1) Svaka fizička i pravna osoba može biti nositeljem prava vlasništva, a i drugih stvarnih prava: prava služnosti, prava iz stvarnoga tereta, prava građenja i založnoga prava na svemu što može biti objektom tih prava, ako zakonom nije drukčije određeno.
 
@@ -56,7 +73,7 @@ retrieved: 2026-10-12
 
 *Predmet vlasništva i drugih stvarnih prava*
 
-### Članak 2.
+###### Članak 2.
 
 (1) Predmet prava vlasništva i drugih stvarnih prava može biti svaka pokretna (pokretnina) ili nepokretna stvar (nekretnina), osim onih koje nisu za to sposobne.
 
@@ -74,7 +91,7 @@ retrieved: 2026-10-12
 
 *Sposobnost stvari*
 
-### Članak 3.
+###### Članak 3.
 
 (1) Sposobne biti objektom prava vlasništva i drugih stvarnih prava jesu sve stvari, osim onih kojima njihove naravne osobine ili zakonske odredbe priječe da pripadaju pojedincu.
 
@@ -86,7 +103,7 @@ retrieved: 2026-10-12
 
 *Stvari od interesa za Republiku Hrvatsku*
 
-### Članak 4.
+###### Članak 4.
 
 (1) Stvari za koje je na temelju Ustava Republike Hrvatske posebnim zakonom određeno da su dobra od interesa za nju pa imaju njezinu osobitu zaštitu, a nisu opća dobra, sposobne su biti objektom prava vlasništva i drugih stvarnih prava.
 
@@ -94,7 +111,7 @@ retrieved: 2026-10-12
 
 *Stvar i njezine pripadnosti*
 
-### Članak 5.
+###### Članak 5.
 
 (1) Objekt prava vlasništva je pojedinačno određena stvar.
 
@@ -104,7 +121,7 @@ retrieved: 2026-10-12
 
 *Dijelovi stvari*
 
-### Članak 6.
+###### Članak 6.
 
 (1) Dio stvari koji se ne može od nje fizički odvojiti, a da ne bude time uništen on ili sama stvar (bitni dio), ne može biti samostalnim objektom stvarnih prava, ako zakonom nije što drugo određeno.
 
@@ -118,7 +135,7 @@ retrieved: 2026-10-12
 
 *Pripadak stvari*
 
-### Članak 7.
+###### Članak 7.
 
 (1) Pripadak (pertinencija ili pobočna stvar) je pokretna stvar koju je njezin vlasnik namijenio da kao sporedna trajno služi svrsi glavne, a stoji u takvu prostornom odnosu prema glavnoj stvari koji odgovara toj namjeni. Nije pripadak ona stvar koja se prema shvaćanju u prometu ne smatra pripatkom.
 
@@ -132,13 +149,13 @@ retrieved: 2026-10-12
 
 *Koristi*
 
-### Članak 8.
+###### Članak 8.
 
 (1) Koristi su plodovi neke stvari ili prava, a i druge prednosti koje donosi uporaba neke stvari ili prava.
 
 (2) Plodovi stvari su proizvodi koje ona daje prirodno ili posredovanjem nečijega rada, a i sve drugo što ona daje s obzirom na svoju namjenu.
 
-(3) Plodovi nekoga prava su prinosi koje to pravo daje s obzirom na svoju namjenu, kao kod prava koje ovlašćuje na stjecanje plodova ili drugih dijelova stvari - dobiveni dijelovi stvari.
+(3) Plodovi nekoga prava su prinosi koje to pravo daje s obzirom na svoju namjenu, kao kod prava koje ovlašćuje na stjecanje plodova ili drugih dijelova stvari – dobiveni dijelovi stvari.
 
 (4) Plodovi su i prinosi koje stvar ili pravo daje posredovanjem nekoga pravnoga odnosa, kao što su to najamnine, zakupnine i kamate.
 
@@ -148,7 +165,7 @@ retrieved: 2026-10-12
 
 *Osobito o nekretninama*
 
-### Članak 9.
+###### Članak 9.
 
 (1) Pojedinačnu nekretninu čini zemljišna čestica, uključujući i sve što je s njom razmjerno trajno povezano na njezinoj površini ili ispod nje; ali kad je više zemljišnih čestica upisano u zemljišnoj knjizi u isti zemljišnoknjižni uložak, one su pravno sjedinjene u jedno tijelo (zemljišnoknjižno tijelo), koje je kao takvo jedna nekretnina.
 
@@ -162,17 +179,13 @@ retrieved: 2026-10-12
 
 (6) Prava koja postoje u korist neke nekretnine smatraju se pripadnošću te nekretnine.
 
-*Dio drugi*
+## Dio drugi — POSJED
 
-## POSJED
-
-Glava 1.
-
-## OPĆE ODREDBE
+### Glava 1. — OPĆE ODREDBE
 
 *Posjednik*
 
-### Članak 10.
+###### Članak 10.
 
 (1) Osoba koja ima faktičnu vlast glede neke stvari, njezin je posjednik.
 
@@ -188,9 +201,9 @@ Glava 1.
 
 *Samostalni posjednik*
 
-### Članak 11.
+###### Članak 11.
 
-(1) Tko stvar ili pravo posjeduje priznajući višu vlast posrednoga posjednika, nesamostalni je posjednik; tko stvar posjeduje kao da je njezin vlasnik ili posjeduje pravo kao da je nositelj toga prava - samostalni je posjednik.
+(1) Tko stvar ili pravo posjeduje priznajući višu vlast posrednoga posjednika, nesamostalni je posjednik; tko stvar posjeduje kao da je njezin vlasnik ili posjeduje pravo kao da je nositelj toga prava – samostalni je posjednik.
 
 (2) Posjed će se smatrati samostalnim, ako se ne dokaže suprotno.
 
@@ -198,35 +211,33 @@ Glava 1.
 
 *Pomoćnik u posjedovanju*
 
-### Članak 12.
+###### Članak 12.
 
 (1) Posjed nema onaj tko ne izvršava nikakvu svoju vlast glede neke stvari.
 
 (2) Dok osoba koja je u radnom ili sličnom odnosu ili u nečijem kućanstvu postupa pokoravajući se tuđim nalozima glede neke stvari ili prava, pa izvršava isključivo tuđu faktičnu vlast, ona nema posjed toga, nego je samo posjednikov pomoćnik u posjedovanju.
 
-Glava 2.
-
-## STJECANJE
+### Glava 2. — STJECANJE
 
 *Izvorno i izvedeno stjecanje*
 
-### Članak 13.
+###### Članak 13.
 
 Posjed je stečen kad stjecatelj uspostavi svoju faktičnu vlast glede stvari, bilo da ju je osnovao jednostranim činom (izvorno stjecanje posjeda), ili da mu je prenesena (izvedeno stjecanje posjeda).
 
 *Predaja*
 
-### Članak 14.
+###### Članak 14.
 
 (1) Posjed se prenosi predajom same stvari ili sredstva kojim stjecatelj ima vlast na stvari, a predaja je izvršena čim se stjecatelj s voljom prenositelja nađe u položaju izvršavati vlast glede stvari.
 
 (2) Kad se posjed prenosi osobi koja nije prisutna, predaja je izvršena kad stvar primi sam stjecatelj ili osoba koja ga po njegovoj volji ili po zakonu u tome zastupa, a predajom prijevozniku samo ako prijevoznik radi za račun stjecatelja.
 
-(3) Kad su za robu predanu prijevozniku ili skladištaru izdani vrijednosni papiri koji je zamjenjuju u pravnom prometu, predaja takva papira znači predaju te robe; pritom kad je jedna osoba u dobroj vjeri primila takav papir, a druga je u dobroj vjeri primila robu - posjed robe je stekla ova druga.
+(3) Kad su za robu predanu prijevozniku ili skladištaru izdani vrijednosni papiri koji je zamjenjuju u pravnom prometu, predaja takva papira znači predaju te robe; pritom kad je jedna osoba u dobroj vjeri primila takav papir, a druga je u dobroj vjeri primila robu – posjed robe je stekla ova druga.
 
 *Predaja očitovanjem volje*
 
-### Članak 15.
+###### Članak 15.
 
 (1) Samim očitovanjem volje da se posjed predaje stjecatelju taj stječe neposredni posjed samo ako je već u položaju da izvršava svoju vlast glede stvari.
 
@@ -236,7 +247,7 @@ Posjed je stečen kad stjecatelj uspostavi svoju faktičnu vlast glede stvari, b
 
 *Stjecanje posjeda prava*
 
-### Članak 16.
+###### Članak 16.
 
 (1) Kad posjednik jedne nekretnine jednostrano učini glede nekretnine koju drugi posjeduje nešto što taj ne bi trebao trpjeti, a taj to ipak otrpi, posjednik prve nekretnine je time u korist te nekretnine, kao povlasne, izvorno stekao posjed prava stvarne služnosti na drugoj nekretnini kao poslužnoj.
 
@@ -252,7 +263,7 @@ Posjed je stečen kad stjecatelj uspostavi svoju faktičnu vlast glede stvari, b
 
 *Nasljeđivanje posjeda*
 
-### Članak 17.
+###### Članak 17.
 
 (1) Ostaviteljevi posjedi stvari i prava prelaze na njegova nasljednika zbog ostaviteljeve smrti i u njezinu času, onakvi kakvi su u tom času bili u ostavitelja.
 
@@ -260,13 +271,11 @@ Posjed je stečen kad stjecatelj uspostavi svoju faktičnu vlast glede stvari, b
 
 (3) Prelaskom ostaviteljeva posjeda na njegova nasljednika ili nasljednike ne dira se u ostale posjede iste stvari, odnosno prava.
 
-Glava 3.
-
-## KAKVOĆA POSJEDA
+### Glava 3. — KAKVOĆA POSJEDA
 
 *Zakonitost, istinitost i poštenje posjeda*
 
-### Članak 18.
+###### Članak 18.
 
 (1) Posjed je zakonit ako posjednik ima valjani pravni temelj toga posjedovanja (pravo na posjed).
 
@@ -278,15 +287,13 @@ Glava 3.
 
 (5) Posjed se smatra poštenim, osim ako se dokaže suprotno.
 
-(6) Poštenje i istinitost posjeda pravne osobe prosuđuje se prema poštenju i postupanju one fizičke osobe koja je za tu pravnu osobu ovlaštena poduzimati čine stjecanja ili izvršavanja njezina posjeda, a poštenje i istinitost posjeda osoba koje imaju zakonskoga zastupnika - prema poštenju i postupanju toga njihova zastupnika.
+(6) Poštenje i istinitost posjeda pravne osobe prosuđuje se prema poštenju i postupanju one fizičke osobe koja je za tu pravnu osobu ovlaštena poduzimati čine stjecanja ili izvršavanja njezina posjeda, a poštenje i istinitost posjeda osoba koje imaju zakonskoga zastupnika – prema poštenju i postupanju toga njihova zastupnika.
 
-Glava 4.
-
-## TRAJNOST I ZAŠTITA
+### Glava 4. — TRAJNOST I ZAŠTITA
 
 *Načelo trajnosti*
 
-### Članak 19.
+###### Članak 19.
 
 (1) Posjed traje dok traje posjednikova faktična vlast glede stvari, ali on ne prestaje, niti se prekida, ako je smetnja ili propuštanje izvršavanja posjednikove vlasti bilo po svojoj naravi samo privremeno.
 
@@ -294,9 +301,9 @@ Glava 4.
 
 *Samovlasno smetanje*
 
-### Članak 20.
+###### Članak 20.
 
-(1) Samovlast je zabranjena; bez obzira na to kakav je posjed, nitko ga nema pravo samovlasno smetati, ako i smatra da ima jače pravo na posjed.
+(1) Samovlast je zabranjena, bez obzira na to kakav je posjed, nitko ga nema pravo samovlasno smetati, ako i smatra da ima jače pravo na posjed.
 
 (2) Tko posjedniku bez njegove volje oduzme posjed ili ga u posjedovanju uznemirava, samovlasno je smetao njegov posjed.
 
@@ -306,7 +313,7 @@ Glava 4.
 
 *Pravo na zaštitu posjeda*
 
-### Članak 21.
+###### Članak 21.
 
 (1) Koga drugi samovlasno smeta u posjedu, bilo da ga uznemirava u posjedu ili mu ga je oduzeo, ima pravo na zaštitu posjeda.
 
@@ -320,7 +327,7 @@ Glava 4.
 
 *Sudska zaštita*
 
-### Članak 22.
+###### Članak 22.
 
 (1) Posjednik kojemu je posjed samovlasno smetan ovlašten je svoj posjed štititi putem suda, zahtijevajući da se utvrdi čin smetanja njegova posjeda, naredi uspostava posjedovnoga stanja kakvo je bilo u času smetanja, te zabrani takvo ili slično smetanje ubuduće.
 
@@ -328,19 +335,19 @@ Glava 4.
 
 (3) Pravo na poduzimanje posjedovnih čina smije se isticati i o njemu se smije raspravljati jedino u vezi s prigovorom da oduzimanje, odnosno smetanje posjeda nije bilo samovlasno.
 
-### Članak 23.
+###### Članak 23.
 
 (1) Zaštitu posjeda ovlašten je tražiti i posredni posjednik, s time da u slučaju kad neposredni posjednik ne može ili neće ponovo preuzeti neposredni posjed koji mu je bio oduzet, posredni posjednik može za sebe zahtijevati predaju stvari.
 
 (2) Posredni posjednik nije ovlašten staviti zahtjev u cilju zaštite svoga posrednoga posjeda od smetanja koje je počinio neposredni posjednik, ako bi za odlučivanje o tom zahtjevu bilo nužno raspravljati o njihovu pravnom odnosu.
 
-### Članak 24.
+###### Članak 24.
 
 (1) Svaki je suposjednik ovlašten štititi suposjed putem suda od samovlasnoga smetanja treće osobe, a od drugih suposjednika jedino ako su ga potpuno isključili od dotadašnjega suposjeda ili su mu bitno ograničili dotadašnji način izvršavanja faktične vlasti.
 
 (2) Suposjednik nije ovlašten staviti zahtjev za zaštitu svoga suposjeda od smetanja koje je počinio njegov suposjednik ako bi za odlučivanje o tom zahtjevu bilo nužno raspravljati o njihovu pravnom odnosu.
 
-### Članak 25.
+###### Članak 25.
 
 (1) Posjed koji je s ostavitelja prešao na nasljednike ovlašten je štititi svaki nasljednik, odnosno sunasljednik od samovlasnoga smetanja treće osobe.
 
@@ -348,27 +355,25 @@ Glava 4.
 
 (3) Odredbom stavka 2. ovoga članka ne dira se u pravo svakoga pojedinoga nasljednika ili sunasljednika na zaštitu, no s time da može zahtijevati povrat oduzetoga jedino prema izvršitelju oporuke, odnosno skrbniku ostavine.
 
-### Članak 26.
+###### Članak 26.
 
 Pravo na posjed može se utvrđivati i ostvarivati pred sudom, ili drugim nadležnim tijelom vlasti, neovisno o trajanju i ishodu postupka za zaštitu posjeda.
 
 *Dopuštena samopomoć*
 
-### Članak 27.
+###### Članak 27.
 
-(1) Tko ima pravo na zaštitu posjeda, smije svoj posjed zaštititi za vrijeme trajanja rokova iz članka 21. stavak 3. ovoga Zakona i silom od onoga tko mu posjed samovlasno oduzme ili ga u posjedovanju uznemirava, ako je to nužno jer bi sudska pomoć stigla prekasno, a opasnost je neposredna, ali samo ako za zaštitu svoga posjeda ne primjeni silu veće jakosti nego li je primjerena okolnostima (dopuštena samopomoć).
+(1) Tko ima pravo na zaštitu posjeda, smije svoj posjed zaštititi za vrijeme trajanja rokova iz članka 21. stavka 3. ovoga Zakona i silom od onoga tko mu posjed samovlasno oduzme ili ga u posjedovanju uznemirava, ako je to nužno jer bi sudska pomoć stigla prekasno, a opasnost je neposredna, ali samo ako za zaštitu svoga posjeda ne primjeni silu veće jakosti nego li je primjerena okolnostima (dopuštena samopomoć).
 
 (2) Dopuštenom samopomoći smije se umjesto posjednika poslužiti posjednikov pomoćnik u posjedovanju.
 
 (3) Ostvari li posjednik svoje pravo na zaštitu posjeda putem samopomoći kad nisu ispunjene pretpostavke iz stavka 1. ovoga članka, zaštitio je svoj posjed, ali odgovara za štetu koju je pritom nanio.
 
-Glava 5.
-
-## PRESTANAK
+### Glava 5. — PRESTANAK
 
 *Prestanak posjeda stvari*
 
-### Članak 28.
+###### Članak 28.
 
 (1) Posjed stvari je prestao kad je stvar propala, kad se izgubila, a nema izgleda da će se opet naći, a i kad je posjednik svojom voljom napustio stvar.
 
@@ -376,7 +381,7 @@ Glava 5.
 
 *Prestanak posjeda prava*
 
-### Članak 29.
+###### Članak 29.
 
 (1) Posjed prava je prestao kad je propala nekretnina na kojoj se izvršavao sadržaj toga prava ili se posjednik odrekao svojega posjeda prava.
 
@@ -384,17 +389,13 @@ Glava 5.
 
 (3) Posjed prava stvarne služnosti prestaje dotadašnjem posjedniku i zajedno s prestankom njegova posjeda nekretnine u čiju ga je korist izvršavao.
 
-*Dio treći*
+## Dio treći — PRAVO VLASNIŠTVA
 
-## PRAVO VLASNIŠTVA
-
-Glava 1.
-
-## O VLASNIŠTVU UOPĆE
+### Glava 1. — O VLASNIŠTVU UOPĆE
 
 *Vlasnikova prava*
 
-### Članak 30.
+###### Članak 30.
 
 (1) Pravo vlasništva je stvarno pravo na određenoj stvari koje ovlašćuje svoga nositelja da s tom stvari i koristima od nje čini što ga je volja te da svakoga drugoga od toga isključi, ako to nije protivno tuđim pravima ni zakonskim ograničenjima.
 
@@ -402,27 +403,31 @@ Glava 1.
 
 *Opća ograničenja*
 
-### Članak 31.
+###### Članak 31.
 
 Vlasništvo obvezuje i vlasnik je dužan pridonositi općem dobru, pa je općenito prilikom izvršavanja svoga prava dužan postupati obzirno prema općim i tuđim interesima koji nisu protivni njegovu pravu, a osobito:
 
-- vlasnik se, a ni itko drugi, ne smije služiti svojim pravom s jedinim ciljem da drugome šteti ili da ga smeta,
+– vlasnik se, a ni itko drugi, ne smije služiti svojim pravom s jedinim ciljem da drugome šteti ili da ga smeta,
 
-- vlasnik nije ovlašten zabraniti tuđi zahvat u svoju stvar kad je taj nužan radi otklanjanja štete koja nekome neposredno prijeti, a nerazmjerno je veća od one što iz toga zahvata proizlazi za vlasnika, nego je samo ovlašten potraživati naknadu za pretrpljenu štetu,
+– vlasnik nije ovlašten zabraniti tuđi zahvat u svoju stvar kad je taj nužan radi otklanjanja štete koja nekome neposredno prijeti, a nerazmjerno je veća od one što iz toga zahvata proizlazi za vlasnika, nego je samo ovlašten potraživati naknadu za pretrpljenu štetu,
 
-- vlasnik nekretnine nije ovlašten braniti tuđe zahvate poduzete na tolikoj visini ili dubini gdje on nema nikakva opravdanoga interesa da ih isključi.
+– vlasnik nekretnine nije ovlašten braniti tuđe zahvate poduzete na tolikoj visini ili dubini gdje on nema nikakva opravdanoga interesa da ih isključi.
 
 *Posebna ograničenja*
 
-### Članak 32.
+###### Članak 32.
 
 (1) Vlasnik stvari ne smije izvršavati svoje pravo vlasništva preko granica koje su svim vlasnicima takvih stvari postavljene na temelju ovoga ili posebnih zakona radi zaštite interesa i sigurnosti države, prirode, ljudskoga okoliša i zdravlja ljudi.
 
 (2) Vlasnik neke od stvari koje su na temelju Ustava posebnim zakonom proglašene stvarima od interesa za Republiku, i za koje je propisan poseban način njihove uporabe i iskorištavanja od strane njihovih vlasnika i ovlaštenika drugih prava na njima, dužan je izvršavati svoje pravo vlasništva s time u skladu, ali mu pripada pravo na naknadu za ograničenja kojima je podvrgnut.
 
-(3) Kad je radi zaštite interesa i sigurnosti države, prirode, spomenika kulture, ljudskoga okoliša ili zdravlja ljudi određeno da je vlasnik na temelju zakona dužan nešto poduzeti glede vlastite stvari, a njega se na to ne može prisiliti, poglavarstvo jedinica lokalne samouprave i jedinica lokalne samouprave i uprave je ovlašteno uspostaviti privremeno upravljanje tom stvarju (sekvestraciju) primjenjujući na odgovarajući način pravila o privremenom skrbništvu nad ostavinom za slučaj da su nasljednici nepoznati ili nepoznatoga boravišta, ako posebni zakon ne određuje što drugo.
+(3) Kad je radi zaštite interesa i sigurnosti države, prirode, spomenika kulture, ljudskoga okoliša ili zdravlja ljudi određeno da je vlasnik na temelju zakona dužan nešto poduzeti glede vlastite stvari, a njega se na to ne može prisiliti, općinski načelnik, gradonačelnik odnosno župan je ovlašten uspostaviti privremeno upravljanje tom stvarju (sekvestraciju) primjenjujući na odgovarajući način pravila o privremenom skrbništvu nad ostavinom za slučaj da su nasljednici nepoznati ili nepoznatoga boravišta, ako posebni zakon ne određuje što drugo.
 
-(4) U izvršavanju privremenoga upravljanja, poglavarstvo može stvari dati u zakup.
+Odredbom članka 1. Zakona o izmjenama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 38/09), koji je stupio na snagu 15. travnja 2009., u stavku 3. izmijenjen je dio teksta.
+
+(4) U izvršavanju privremenoga upravljanja, općinski načelnik, gradonačelnik odnosno župan može stvari dati u zakup.
+
+Odredbom članka 1. Zakona o izmjenama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 38/09), koji je stupio na snagu 15. travnja 2009., u stavku 4. izmijenjen je dio teksta.
 
 (5) Ugovor o zakupu sklapa se na određeno vrijeme.
 
@@ -432,19 +437,19 @@ Vlasništvo obvezuje i vlasnik je dužan pridonositi općem dobru, pa je općeni
 
 *Naknada*
 
-### Članak 33.
+###### Članak 33.
 
 (1) Pravo vlasništva može u interesu Republike Hrvatske biti zakonom oduzeto (potpuno izvlaštenje) ili ograničeno osnivanjem za drugoga nekoga prava glede vlasnikove stvari (nepotpuno izvlaštenje), u kojem slučaju vlasnik ima pravo na naknadu prema propisima o izvlaštenju.
 
 (2) Bude li zakonom nekoj vrsti stvari oduzeta sposobnost da bude objekt prava vlasništva, to za dotadašnje vlasnike takvih stvari proizvodi jednake pravne učinke kao da je glede tih stvari provedeno potpuno izvlaštenje.
 
-(3) Ako je vlasnik glede neke svoje stvari podvrgnut ograničenjima radi zaštite interesa i sigurnosti Republike Hrvatske, prirode, ljudskoga okoliša ili zdravlja ljudi, koja od njega, ali ne i od svih ostalih vlasnika takvih stvari, zahtijevaju težu žrtvu, ili ga inače dovode u položaj nalik na onaj u kojem bi bio da je provedeno izvlaštenje - on ima pravo na naknadu kao za izvlaštenje.
+(3) Ako je vlasnik glede neke svoje stvari podvrgnut ograničenjima radi zaštite interesa i sigurnosti Republike Hrvatske, prirode, ljudskoga okoliša ili zdravlja ljudi, koja od njega, ali ne i od svih ostalih vlasnika takvih stvari, zahtijevaju težu žrtvu, ili ga inače dovode u položaj nalik na onaj u kojem bi bio da je provedeno izvlaštenje – on ima pravo na naknadu kao za izvlaštenje.
 
 (4) Ne bude li razlog radi kojega je bilo provedeno neko izvlaštenje ostvaren u propisanom, odnosno razumnom roku, izvlaštenik ima pravo zahtijevati da se uspostavi prijašnje pravno i faktično stanje koliko je to najviše moguće, ali tada smije zadržati samo onoliko od primljene naknade koliko je na gubitku u odnosu na stanje kakvo bi prema redovitom tijeku stvari bilo bez izvlaštenja.
 
 *Ograničenja na temelju pravnoga posla*
 
-### Članak 34.
+###### Članak 34.
 
 (1) Ako nije što drugo određeno, vlasnik može u svaku svrhu koja nije zabranjena svoje pravo ograničiti, uvjetovati ili oročiti, a može ga i opteretiti.
 
@@ -460,11 +465,13 @@ Vlasništvo obvezuje i vlasnik je dužan pridonositi općem dobru, pa je općeni
 
 *Osobito o vlasništvu Republike Hrvatske i drugih osoba javnoga prava*
 
-### Članak 35.
+###### Članak 35.
 
 (1) Republika Hrvatska i druge pravne osobe javnoga prava koje su nositelji prava vlasništva imaju kao vlasnici u pravnim odnosima jednak položaj kao i privatni vlasnici, ako zakonom nije što drugo određeno.
 
-(2) Stvarima u vlasništvu Republike Hrvatske raspolaže, upravlja i koristi se Vlada Republike Hrvatske ili od nje ovlašteno tijelo ako posebnim zakonom nije drukčije određeno. Stvarima u vlasništvu jedinica lokalne samouprave i jedinica lokalne samouprave i uprave raspolaže, upravlja i koristi se njezino poglavarstvo, ako posebnim zakonom nije drukčije određeno.
+(2) Stvarima u vlasništvu Republike Hrvatske raspolaže, upravlja i koristi se Vlada Republike Hrvatske ili od nje ovlašteno tijelo ako posebnim zakonom nije drukčije određeno. Ovlasti za raspolaganje, upravljanje i korištenje stvarima u vlasništvu jedinica lokalne i područne (regionalne) samouprave imaju tijela jedinica lokalne i područne (regionalne) samouprave određena propisom o ustrojstvu lokalne i područne (regionalne) samouprave, osim ako posebnim zakonom nije drukčije određeno.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 146/08), koja odredba je stupila na snagu 17. svibnja 2009. u članku 35. stavku 2. izmijenjena je 2. rečenica.
 
 (3) Namjenu stvari u vlasništvu Republike Hrvatske određuje zakon ili državno tijelo koje je za to nadležno na temelju zakona.
 
@@ -478,17 +485,13 @@ Vlasništvo obvezuje i vlasnik je dužan pridonositi općem dobru, pa je općeni
 
 (8) Na pravo vlasništva jedinica lokalne samouprave i jedinica lokalne samouprave i uprave na odgovarajući će se način primjenjivati pravila o vlasništvu Republike Hrvatske, ako nije što drugo određeno zakonom, niti proizlazi iz naravi tih osoba. Isto vrijedi i za pravo vlasništva ustanova, te s njima izjednačenih pravnih osoba.
 
-Glava 2.
+### Glava 2. — SUVLASNIŠTVO
 
-## SUVLASNIŠTVO
-
-*Odjeljak 1.*
-
-*Opće odredbe*
+#### Odjeljak 1. — Opće odredbe
 
 *Suvlasnički dijelovi*
 
-### Članak 36.
+###### Članak 36.
 
 (1) Ako više osoba ima neku stvar u svome vlasništvu tako da svakoj pripada po dio toga prava vlasništva, računski određen razmjerom prema cijelom pravu vlasništva te stvari, sve su one suvlasnici te stvari, a dijelovi prava vlasništva koji im pripadaju njihovi su suvlasnički dijelovi.
 
@@ -496,7 +499,7 @@ Glava 2.
 
 *Idealni dio stvari*
 
-### Članak 37.
+###### Članak 37.
 
 (1) Kad postoji suvlasništvo neke stvari, uzima se da je ta stvar pravno razdijeljena na sadržajno jednake dijelove (idealne dijelove), kojima je veličina određena veličinom suvlasničkih dijelova.
 
@@ -512,7 +515,7 @@ Glava 2.
 
 *Izvršavanje prava vlasništva glede cijele stvari*
 
-### Članak 38.
+###### Članak 38.
 
 (1) Nije li što drugo određeno, svaki suvlasnik smije izvršavati glede cijele stvari sve ovlasti koje ima kao nositelj dijela prava vlasništva bez suglasnosti ostalih suvlasnika, ako time ne vrijeđa prava ostalih suvlasnika.
 
@@ -522,13 +525,11 @@ Glava 2.
 
 (4) Svaki suvlasnik nekretnine koji ima za to odgovarajući suvlasnički dio, ima pravo u svako doba zahtijevati da se u korist njegova suvlasničkoga dijela nekretnine osnuje vlasništvo određenoga posebnoga dijela, ako su ispunjene pretpostavke pod kojima se ono može osnovati.
 
-*Odjeljak 2.*
-
-*Upravljanje stvarju*
+#### Odjeljak 2. — Upravljanje stvarju
 
 *Pravo na upravljanje*
 
-### Članak 39.
+###### Članak 39.
 
 (1) Svaki suvlasnik ima pravo sudjelovati u odlučivanju o svemu što se tiče stvari koja je u suvlasništvu (upravljanje stvarju) zajedno s ostalim suvlasnicima.
 
@@ -536,7 +537,7 @@ Glava 2.
 
 *Poslovi redovite uprave*
 
-### Članak 40.
+###### Članak 40.
 
 (1) O poslovima koji se tiču samo redovitoga upravljanja stvarju odlučuju suvlasnici većinom glasova.
 
@@ -550,7 +551,7 @@ Glava 2.
 
 *Izvanredni poslovi*
 
-### Članak 41.
+###### Članak 41.
 
 (1) Za poduzimanje poslova koji premašuju okvir redovitoga upravljanja (naročito promjena namjene stvari, veći popravci, dogradnja, nadogradnja, preuređenje, otuđenje cijele stvari, davanje cijele stvari u zakup ili najam na dulje od jedne godine, osnivanje hipoteke na cijeloj stvari, odnosno davanje pokretne stvari u zalog, osnivanje stvarnih i osobnih služnosti, stvarnoga tereta ili prava građenja na cijeloj stvari) potrebna je suglasnost svih suvlasnika.
 
@@ -560,7 +561,7 @@ Glava 2.
 
 *Odluka o izvršavanju posjeda i vlasničkih ovlasti*
 
-### Članak 42.
+###### Članak 42.
 
 (1) Svim suvlasnicima pripada pravo na suposjed stvari, ali oni mogu odlučiti da će međusobno podijeliti posjed stvari i/ili izvršavanje svih ili nekih vlasničkih ovlasti glede nje.
 
@@ -568,7 +569,7 @@ Glava 2.
 
 *Odluka o uspostavi etažnoga vlasništva*
 
-### Članak 43.
+###### Članak 43.
 
 (1) Sastoji li se nekretnina od zemljišta sa zgradom, suvlasnik čiji je suvlasnički dio te nekretnine dovoljno velik za to ovlašten je uz suglasnost ostalih suvlasnika i pod daljnjim pretpostavkama iz glave 4. trećega dijela ovoga Zakona uspostaviti i sa svojim suvlasničkim dijelom povezati vlasništvo određenoga posebnoga dijela te nekretnine (etažno vlasništvo).
 
@@ -584,7 +585,7 @@ Glava 2.
 
 *Upravitelj*
 
-### Članak 44.
+###### Članak 44.
 
 (1) Suvlasnici mogu suglasno povjeriti upravljanje stvarju određenoj osobi kao upravitelju, koji će djelovati kao njihov opunomoćenik. Za upravitelja mogu izabrati jednoga ili nekolicinu između sebe, a mogu upravljanje povjeriti i bilo kojoj drugoj poslovno sposobnoj fizičkoj ili pravnoj osobi.
 
@@ -596,39 +597,35 @@ Glava 2.
 
 *Pravni položaj upravitelja*
 
-### Članak 45.
+###### Članak 45.
 
 (1) Upravitelj je nalogoprimac suvlasnika pa se glede njegovih prava, dužnosti i prestanka odnosa s njim, ako nije što drugo određeno, primjenjuju odgovarajuća pravila o nalogu, s time što:
 
-- upravitelju postavljenom na neodređeno vrijeme mogu suvlasnici koji zajedno imaju većinu suvlasničkih dijelova otkazati uz otkazni rok od tri mjeseca, koji će početi teći prvoga dana mjeseca koji slijedi otkazu,
+– upravitelju postavljenom na neodređeno vrijeme mogu suvlasnici koji zajedno imaju većinu suvlasničkih dijelova otkazati uz otkazni rok od tri mjeseca, koji će početi teći prvoga dana mjeseca koji slijedi otkazu,
 
-- upravitelju postavljenom na vrijeme dulje od pet godina mogu, nakon proteka pet godina, otkazati suvlasnici koji zajedno imaju većinu suvlasničkih dijelova, ne navodeći otkazni razlog,
+– upravitelju postavljenom na vrijeme dulje od pet godina mogu, nakon proteka pet godina, otkazati suvlasnici koji zajedno imaju većinu suvlasničkih dijelova, ne navodeći otkazni razlog,
 
-- ako za to postoji važan razlog, upravitelja mogu u svako doba smijeniti suvlasnici koji zajedno imaju većinu suvlasničkih dijelova
+– ako za to postoji važan razlog, upravitelja mogu u svako doba smijeniti suvlasnici koji zajedno imaju većinu suvlasničkih dijelova
 
-- ako upravitelj grubo zanemaruje svoje dužnosti, sud će ga smijeniti na zahtjev bilo kojega suvlasnika i odrediti drugoga upravitelja; smijenjena osoba ne može nikad više biti postavljena za upravitelja iste stvari,
+– ako upravitelj grubo zanemaruje svoje dužnosti, sud će ga smijeniti na zahtjev bilo kojega suvlasnika i odrediti drugoga upravitelja; smijenjena osoba ne može nikad više biti postavljena za upravitelja iste stvari,
 
-- upravitelj koji je postavljen na neodređeno vrijeme ovlašten je otkazati uz otkazni rok od tri mjeseca, koji će početi teći prvoga dana mjeseca koji slijedi otkazu.
+– upravitelj koji je postavljen na neodređeno vrijeme ovlašten je otkazati uz otkazni rok od tri mjeseca, koji će početi teći prvoga dana mjeseca koji slijedi otkazu.
 
 (2) Kad upravitelju prestane mandat odlukom suvlasnika koji za nju nisu imali suglasnost svih, ti su suvlasnici dužni poduzeti što je potrebno da se do donošenja odluke o daljnjem upravljanju upravlja stvari u skladu s predmnjevanom voljom svih, za što i odgovaraju ostalim suvlasnicima.
 
-*Odjeljak 3.*
+#### Odjeljak 3. — Zaštita
 
-*Zaštita*
-
-### Članak 46.
+###### Članak 46.
 
 (1) Svaki suvlasnik ima pravo glede cijele stvari postavljati svojim suvlasnicima one zahtjeve koji proizlaze iz njegova suvlasništva.
 
 (2) Svaki suvlasnik ima glede cijele stvari pravo postavljati protiv svakoga one zahtjeve koje može staviti vlasnik stvari, s time da predaju cijele stvari u posjed može od trećega zahtijevati samo prema obveznopravnim pravilima o nedjeljivim obvezama.
 
-*Odjeljak 4.*
-
-*Razvrgnuće*
+#### Odjeljak 4. — Razvrgnuće
 
 *Pravo na razvrgnuće*
 
-### Članak 47.
+###### Članak 47.
 
 (1) Suvlasnik ima pravo na razvrgnuće suvlasništva, ako je moguće i dopušteno; to mu pravo ne zastarijeva.
 
@@ -636,11 +633,11 @@ Glava 2.
 
 (3) Suvlasnik se ne može valjano unaprijed odreći prava na razvrgnuće, ali može valjano ugovoriti ograničenja prava na razvrgnuće.
 
-(4) Ugovor o ograničenju prava na razvrgnuće neće vezati nasljednike, ali zabilježe li se ograničenja prava na razvrgnuće u zemljišnim knjigama - vezat će svakoga.
+(4) Ugovor o ograničenju prava na razvrgnuće neće vezati nasljednike, ali zabilježe li se ograničenja prava na razvrgnuće u zemljišnim knjigama – vezat će svakoga.
 
 *Ostvarivanje prava na razvrgnuće*
 
-### Članak 48.
+###### Članak 48.
 
 (1) Suvlasnik može svoje pravo na razvrgnuće ostvarivati zahtijevajući ga potpuno ili pak samo djelomično, i to što se tiče suvlasnika s kojima se dijeli ili pak što se tiče stvari i prava glede kojih se suvlasništvo razvrgava.
 
@@ -650,7 +647,7 @@ Glava 2.
 
 *Način razvrgnuća*
 
-### Članak 49.
+###### Članak 49.
 
 (1) Suvlasnici sporazumno određuju način razvrgnuća, u granicama mogućega i dopuštenoga.
 
@@ -662,7 +659,7 @@ Glava 2.
 
 *Način sudskoga razvrgnuća*
 
-### Članak 50.
+###### Članak 50.
 
 (1) Kad razvrgnuće provodi sud, vezan je u prvom redu strogim zakonskim odredbama, a podredno valjanim sporazumom stranaka o načinu razvrgnuća, ako takav postoji, a moguć je i dopušten, a i pravom na razvrgnuće isplatom koje bi imao pojedini suvlasnik na temelju pravnoga posla ili zakona.
 
@@ -674,7 +671,7 @@ Glava 2.
 
 *Pravo na razvrgnuće isplatom*
 
-### Članak 51.
+###### Članak 51.
 
 (1) Suvlasnik ima pravo na razvrgnuće isplatom ako je to posebno određeno zakonom ili pravnim poslom, ili ako učini vjerojatnim da za to postoji osobito ozbiljan razlog, pa će sud odrediti da mu pripadne stvar u cijelosti, a da on ostalim suvlasnicima isplati vrijednost njihovih dijelova u roku koji će sud odrediti prema okolnostima.
 
@@ -684,7 +681,7 @@ Glava 2.
 
 *Razvrgnuće suvlasništva na nekoliko stvari*
 
-### Članak 52.
+###### Članak 52.
 
 (1) Kad suvlasnici razvrgavaju suvlasništvo na nekoliko stvari istodobno, sud može na zahtjev svakoga od njih odlučiti da, umjesto da se dijeli svaka pojedina, svakom od njih pripadne određena stvar ili skupina stvari, razmjerno suvlasničkim dijelovima, uzimajući u obzir njihove potrebe.
 
@@ -694,19 +691,19 @@ Glava 2.
 
 *Razvrgnuće uspostavom etažnoga vlasništva*
 
-### Članak 53.
+###### Članak 53.
 
 Ako suvlasnici suglasno odluče da će umjesto diobe nekretnine svoja suvlasnička prava ograničiti tako što će s određenim idealnim dijelom povezati vlasništvo posebnoga dijela suvlasničke nekretnine (uspostaviti etažno vlasništvo), uzima se da je to njihova odluka o načinu razvrgnuća, pa se na odgovarajući način i na nju primjenjuju pravila o razvrgnuću.
 
 *Troškovi razvrgnuća*
 
-### Članak 54.
+###### Članak 54.
 
 Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima, osim ako zakon ili njihov sporazum određuju drukčije.
 
 *Pravni učinci razvrgnuća*
 
-### Članak 55.
+###### Članak 55.
 
 (1) Svaki suvlasnik koji je sudjelovao u razvrgnuću stječe na temelju sporazuma o razvrgnuću ili pravomoćne odluke suda o razvrgnuću, a na zakonom određeni način, pravo vlasništva ili/i neko drugo pravo, izvodeći ga iz onoga svoga suvlasničkoga dijela s kojim je sudjelovao u tom razvrgnuću, a koji mu istodobno prestaje.
 
@@ -718,21 +715,19 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Tuđa prava*
 
-### Članak 56.
+###### Članak 56.
 
-(1) Razvrgnuće ne može biti na štetu prava trećih osoba, prava suvlasnika koji nisu sudjelovali u razvrgnuću, a kad razvrgnuće nije bilo potpuno - ni onih stvari i prava s kojima sudionici nisu sudjelovali u razvrgnuću.
+(1) Razvrgnuće ne može biti na štetu prava trećih osoba, prava suvlasnika koji nisu sudjelovali u razvrgnuću, a kad razvrgnuće nije bilo potpuno – ni onih stvari i prava s kojima sudionici nisu sudjelovali u razvrgnuću.
 
 (2) Sva založna prava, služnosti i druga stvarna prava koja su i prije razvrgnuća teretila podijeljenu stvar mogu se izvršavati kao i do tada. Ipak, kad se izvršavanje stvarne služnosti odnosi samo na jedan dio, prestaje to pravo u pogledu ostalih dijelova.
 
 (3) Ako neka služnost ili stvarni teret daje pravo na koristi, može pri diobi gospodujuće nekretnine svaki ovlaštenik, a pri diobi poslužne nekretnine svaki opterećenik zahtijevati da sud uredi izvršavanje na pravedan način.
 
-*Glava 3.*
-
-*Zajedničko vlasništvo*
+### Glava 3. — ZAJEDNIČKO VLASNIŠTVO
 
 *Neodređenost udjela u vlasništvu*
 
-### Članak 57.
+###### Članak 57.
 
 (1) Stvar je u zajedničkom vlasništvu kad na nepodijeljenoj stvari postoji vlasništvo dviju ili više osoba (zajedničara) koje sve u njemu imaju udjela, ali veličina njihovih udjela nije određena, bez obzira na to što je odrediva.
 
@@ -744,7 +739,7 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Udio zajedničara*
 
-### Članak 58.
+###### Članak 58.
 
 (1) Zajedničar može svoj udio u zajedničkom vlasništvu prenijeti u cijelosti ili djelomično samo na drugoga zajedničara iste stvari, inače ne može pravnim poslovima među živima valjano raspolagati svojim udjelom.
 
@@ -754,7 +749,7 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Izvršavanje zajedničkoga vlasništva*
 
-### Članak 59.
+###### Članak 59.
 
 (1) Zajedničar je ovlašten izvršavati sve vlasničke ovlasti glede zajedničke stvari jedino zajedno sa svim ostalim zajedničarima, ako što drugo nije određeno ovim ili drugim zakonom ili sporazumom zajedničara.
 
@@ -766,7 +761,7 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Upravljanje zajedničkom stvari*
 
-### Članak 60.
+###### Članak 60.
 
 (1) Svaki zajednički vlasnik ima pravo sudjelovati u odlučivanju o svemu što se tiče stvari koja je u suvlasništvu (upravljanje stvarju) zajedno s ostalim suvlasnicima.
 
@@ -774,21 +769,21 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Raspolaganja zajedničkom stvari*
 
-### Članak 61.
+###### Članak 61.
 
 (1) Zajedničkim stvarima raspolažu zajedničari zajednički; pojedini od njih može stvarju raspolagati samo na temelju ovlasti koju su mu za to dali svi ostali.
 
 (2) Iznimno, od stavka 1. ovoga članka, a radi zaštite povjerenja u pravnom prometu, treća će osoba moći, na temelju pravnoga posla koji nije sklopljen sa svim zajedničarima, steći pravo vlasništva:
 
-- na pokretnoj stvari, ako je stvar pribavila na temelju naplatnoga posla, postupajući u dobroj vjeri,
+– na pokretnoj stvari, ako je stvar pribavila na temelju naplatnoga posla, postupajući u dobroj vjeri,
 
-- na nekretninima pod pretpostavkama pod kojima se štiti povjerenje u zemljišne knjige ako vlasništvo nije bilo upisano u zemljišnim knjigama kao zajedničko.
+– na nekretninima pod pretpostavkama pod kojima se štiti povjerenje u zemljišne knjige ako vlasništvo nije bilo upisano u zemljišnim knjigama kao zajedničko.
 
 (3) Odredbe stavka 2. ovoga članka na odgovarajući se način primjenjuju i na stjecanje drugih stvarnih prava na zajedničkoj stvari.
 
 *Zaštita*
 
-### Članak 62.
+###### Članak 62.
 
 (1) Svaki zajedničar ima pravo glede zajedničke stvari postavljati ostalim zajedničarima one zahtjeve koji proizlaze i iz njegova zajedničkoga vlasništva.
 
@@ -796,7 +791,7 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Pravo na diobu*
 
-### Članak 63.
+###### Članak 63.
 
 (1) Svaki zajedničar ima pravo na diobu stvari koja je moguća i dopuštena; to mu pravo ne zastarijeva.
 
@@ -812,33 +807,29 @@ Troškove razvrgnuća snose suvlasnici razmjerno svojim suvlasničkim dijelovima
 
 *Tuđa prava na diobu*
 
-### Članak 64.
+###### Članak 64.
 
 Pravo zahtijevati da se zajedničko vlasništvo podijeli određivanjem koliki suvlasnički dio pripada određenom zajedničaru na ime njegova udjela u zajedničkom vlasništvu imaju:
 
-- vjerovnici glede udjela njihova dužnika,
+– vjerovnici glede udjela njihova dužnika,
 
-- nasljednici glede ostaviteljeva udjela,
+– nasljednici glede ostaviteljeva udjela,
 
-- svatko glede udjela bilo kojega od zajedničara, ako za to ima pravni interes.
+– svatko glede udjela bilo kojega od zajedničara, ako za to ima pravni interes.
 
 *Podredna primjena pravila o suvlasništvu*
 
-### Članak 65.
+###### Članak 65.
 
 Glede onoga što o zajedničkom vlasništvu nije određeno ovim ili drugim zakonom, niti proizlazi iz naravi takva vlasništva, prosuđivat će se prava i dužnosti zajedničara odgovarajućom primjenom pravila postavljenih za suvlasnike.
 
-Glava 4.
+### Glava 4. — VLASNIŠTVO POSEBNIH DIJELOVA NEKRETNINE
 
-## VLASNIŠTVO POSEBNIH DIJELOVA — NEKRETNINE
-
-*Odjeljak 1.*
-
-*Opće odredbe*
+#### Odjeljak 1. — Opće odredbe
 
 *Suvlasništvo cijele nekretnine i vlasništvo posebnoga dijela*
 
-### Članak 66.
+###### Članak 66.
 
 (1) Vlasništvo određenoga posebnoga dijela nekretnine (etažno vlasništvo) proizlazi i ostaje neodvojivo povezano s odgovarajućim suvlasničkim dijelom (idealnim dijelom) nekretnine na kojem je uspostavljeno.
 
@@ -850,7 +841,7 @@ Glava 4.
 
 *Posebni dio nekretnine i njegovi pripadci*
 
-### Članak 67.
+###### Članak 67.
 
 (1) Vlasništvo posebnoga dijela može biti uspostavljeno glede dijela suvlasničke nekretnine koji čini samostalnu uporabnu cjelinu, prikladnu za samostalno izvršavanje suvlasnikovih ovlasti, kao što je stan ili druga samostalna prostorija.
 
@@ -862,11 +853,11 @@ Glava 4.
 
 (5) Glede sporednih dijelova na odgovarajući se način primjenjuju pravila koja vrijede za pripatke stvari.
 
-(6) Vlasništvo posebnoga dijela nekretnine ne može postojati na dijelovima nekretnine koji služe kao zajednički, ili im se namjena protivi isključivoj uporabi samo u korist određenoga posebnoga dijela nekretnine; u sumnji se uzima da dio služi kao zajednički i da mu se namjena protivi isključivoj uporabi u korist određenoga posebnoga dijela.
+(6) Vlasništvo posebnoga dijela nekretnine ne može postojati na dijelovima nekretnine koji služe kao zajednički, ili im se namjena protivi isključivoj uporabi samo u korist određenoga posebnoga dijela nekretnine, u sumnji se uzima da dio služi kao zajednički i da mu se namjena protivi isključivoj uporabi u korist određenoga posebnoga dijela.
 
 *Odgovarajući suvlasnički dio*
 
-### Članak 68.
+###### Članak 68.
 
 (1) Vlasništvo određenoga posebnoga dijela nekretnine može proizaći i biti uspostavljeno samo na suvlasničkom dijelu nekretnine koji je barem toliko velik da odgovara odnosu korisne vrijednosti toga samostalnoga dijela prema korisnoj vrijednosti svih stanova i ostalih prostorija cijele nekretnine (odgovarajući suvlasnički dio).
 
@@ -876,7 +867,7 @@ Glava 4.
 
 *Neodvojivost*
 
-### Članak 69.
+###### Članak 69.
 
 (1) Vlasništvo posebnoga dijela nekretnine nedjeljivo je povezano s odgovarajućim suvlasničkim dijelom nekretnine, pa ga se može samo zajedno s njime ograničiti, opteretiti, otuđiti, prenijeti za slučaj smrti i podvrgnuti ovrsi.
 
@@ -886,7 +877,7 @@ Glava 4.
 
 *Više ovlaštenika glede istoga posebnoga dijela*
 
-### Članak 70.
+###### Članak 70.
 
 (1) Ako bi na bilo kojem temelju odgovarajući suvlasnički dio nekretnine zajedno s vlasništvom određenoga posebnoga dijela stekle dvije ili više osoba kao suvlasnici ili zajednički vlasnici, sva će prava i dužnosti u svezi s vlasništvom toga posebnoga dijela nekretnine oni moći izvršavati samo solidarno, pa će se u odnosu prema trećima i prema ostalim suvlasnicima iste nekretnine uzimati da su jedna osoba, kako glede upravljanja cijelom nekretninom, tako i svih ostalih prava i obveza iz ove glave zakona.
 
@@ -894,25 +885,27 @@ Glava 4.
 
 (3) Međusobni odnosi osoba iz stavka 1. ovoga članka prosuđuju se, ovisno o vrsti sudjelovanja tih osoba u suvlasništvu odgovarajućega suvlasničkoga dijela, po pravilima o suvlasništvu odnosno o zajedničkom vlasništvu, ali nikada suprotno pravilu iz stavka 1. ovoga članka.
 
-*Odjeljak 2.*
-
-*Uspostava vlasništva posebnoga dijela*
+#### Odjeljak 2. — Uspostava vlasništva posebnoga dijela
 
 *Zahtjev za uspostavu*
 
-### Članak 71.
+###### Članak 71.
 
 (1) Vlasništvo određenoga posebnoga dijela nekretnine uspostavit će se na određenom suvlasničkom dijelu, ako to zahtijeva suvlasnik te nekretnine koji ima barem odgovarajući suvlasnički dio, te ako su ispunjene sve pretpostavke određene zakonom.
 
 (2) Vlasništvo određenoga posebnoga dijela nekretnine uspostavit će se i na zahtjev zajedničkih vlasnika koji imaju u svome zajedničkom vlasništvu barem odgovarajući suvlasnički dio te nekretnine, ako su ispunjene sve pretpostavke određene zakonom, s time da će se nakon uspostave na njih primjenjivati odredba članka 70. ovoga Zakona.
 
-(3) Vlasništvo određenoga posebnoga dijela nekretnine uspostavit će se i na suglasni zahtjev više suvlasnika te nekretnine, ako njihovi suvlasnički dijelovi ukupno iznose barem koliko je odgovarajući suvlasnički dio, a ispunjene su i sve pretpostavke određene zakonom, s time da će se nakon uspostave na njih primjenjivati odredba članka 70. ovoga Zakona.
+(3) Vlasništvo posebnog dijela ne može se uspostaviti dok nadležno tijelo ne potvrdi da je određeni stan ili druga prostorija u određenoj zgradi i na određenoj zemljišnoj čestici samostalna uporabna cjelina. Potvrda mora sadržavati popis i opis posebnih dijelova nekretnine i da su izgrađeni u skladu s dozvolom nadležnog tijela.
 
-(4) Vlasništvo određenoga posebnoga dijela nekretnine uspostavit će se i na zahtjev vlasnika zemljišta, odnosno nositelja prava građenja koji dijele tu nekretninu na suvlasničke dijelove koji su odgovarajući dijelovi za uspostavu vlasništva posebnih dijelova, ako su ispunjene pretpostavke iz članka 75. ovoga Zakona.
+(4) Potvrdu iz stavka 3. ovoga članka može zamijeniti uporabna dozvola iz koje je razvidno da je zgrada izgrađena sukladno planu posebnih dijelova nekretnine, potvrđenim građevinskom dozvolom da ti posebni dijelovi predstavljaju samostalnu uporabnu cjelinu.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. iza stavka 3. dodan je novi stavak 4., a dotadašnji stavak 4. postao je stavak 5.
+
+(5) Vlasništvo određenoga posebnoga dijela nekretnine uspostavit će se i na zahtjev vlasnika zemljišta, odnosno nositelja prava građenja koji dijele tu nekretninu na suvlasničke dijelove koji su odgovarajući dijelovi za uspostavu vlasništva posebnih dijelova, ako su ispunjene pretpostavke iz članka 75. ovoga Zakona.
 
 *Način uspostave*
 
-### Članak 72.
+###### Članak 72.
 
 (1) Vlasništvo određenoga posebnoga dijela nekretnine uspostavlja se upisom u zemljišnu knjigu kao pravo povezano s određenim suvlasničkim dijelom te nekretnine.
 
@@ -920,37 +913,41 @@ Glava 4.
 
 *Pravni temelj*
 
-### Članak 73.
+###### Članak 73.
 
 (1) Vlasništvo posebnoga dijela nekretnine uspostavlja se na temelju pisane suglasnosti svih suvlasnika te nekretnine.
 
 (2) Niti jedan suvlasnik nekretnine ne može uskratiti svoj pristanak na uspostavu vlasništva posebnoga dijela drugom suvlasniku koji ima odgovarajući suvlasnički dio, osim ako bi se uspostavom novoga vlasništva posebnoga dijela u korist toga suvlasnika ukinula ili ograničila prava koja njemu već pripadaju na temelju njegova prije uspostavljenoga vlasništva posebnoga dijela.
 
-(3) Vlasništvo posebnoga dijela ne može se uspostaviti dok nadležna upravna vlast ne potvrdi da je određeni stan ili druga prostorija u određenoj zgradi i na određenoj zemljišnoj čestici samostalna uporabna cjelina.
+(3) Vlasništvo posebnog dijela ne može se uspostaviti dok nadležno tijelo ne potvrdi da je određeni stan ili druga prostorija u određenoj zgradi i na određenoj zemljišnoj čestici samostalna uporabna cjelina. Potvrda mora sadržavati popis i opis posebnih dijelova nekretnine i da su izgrađeni u skladu s dozvolom nadležnog tijela.
 
-(4) Vlasništvo posebnoga dijela ne može se uspostaviti dok ne postane pravomoćnom odluka suda o utvrđivanju korisnih vrijednosti toga stana, odnosno druge prostorije te korisnih vrijednosti svih stanova i ostalih prostorija cijele nekretnine, osim kad ovaj Zakon određuje da pravomoćnu odluku suda o utvrđivanju korisnih vrijednosti zamjenjuje isprava suvlasnika.
+(4) Potvrdu iz stavka 3. ovoga članka može zamijeniti uporabna dozvola iz koje je razvidno da je zgrada izgrađena sukladno planu posebnih dijelova nekretnine, potvrđenim građevinskom dozvolom da ti posebni dijelovi predstavljaju samostalnu uporabnu cjelinu.
+
+(5) Vlasništvo posebnoga dijela ne može se uspostaviti dok ne postane pravomoćnom odluka suda o utvrđivanju korisnih vrijednosti toga stana, odnosno druge prostorije te korisnih vrijednosti svih stanova i ostalih prostorija cijele nekretnine, osim kad ovaj Zakon određuje da pravomoćnu odluku suda o utvrđivanju korisnih vrijednosti zamjenjuje isprava suvlasnika.
 
 *Odgovarajući dio i korisne vrijednosti*
 
-### Članak 74.
+###### Članak 74.
 
 (1) Je li suvlasnički dio nekretnine one osobe koja zahtijeva uspostavu vlasništva na nekom određenom posebnom dijelu nekretnine za to odgovarajući, prosuđuje se prema tome je li taj suvlasnički dio u odnosu prema vlasništvu cijele nekretnine jednak ili veći od odnosa korisne vrijednosti stana, odnosno druge samostalne prostorije glede koje se traži uspostava vlasništva posebnoga dijela prema korisnoj vrijednosti svih stanova i ostalih prostorija cijele nekretnine.
 
 (2) Korisne vrijednosti utvrđuje sud svojom odlukom donesenom u izvanparničnom postupku, po pravilima da se:
 
-- korisna vrijednost stana ili druge prostorije izračunava iz korisne površine stana ili druge prostorije i odgovarajućih dodataka ili odbitaka za razlike koje povećavaju ili smanjuju vrijednost prema drugim stanovima, odnosno prostorijama, a koje po shvaćanju u prometu i iskustvu proizlaze iz namjene, položaja i sl., a nisu nastale na trošak samo jednoga od suvlasnika,
+– korisna vrijednost stana ili druge prostorije izračunava iz korisne površine stana ili druge prostorije i odgovarajućih dodataka ili odbitaka za razlike koje povećavaju ili smanjuju vrijednost prema drugim stanovima, odnosno prostorijama, a koje po shvaćanju u prometu i iskustvu proizlaze iz namjene, položaja i sl., a nisu nastale na trošak samo jednoga od suvlasnika,
 
-- prigodom izračunavanja korisne vrijednosti zanemaruju razlike koje povećavaju ili smanjuju vrijednost, ako bi sve zajedno opravdale dodatak ili odbitak od manje 2% korisne površine stana ili druge prostorije,
+– prigodom izračunavanja korisne vrijednosti zanemaruju razlike koje povećavaju ili smanjuju vrijednost, ako bi sve zajedno opravdale dodatak ili odbitak od manje 2% korisne površine stana ili druge prostorije,
 
-- korisna površina je ukupna podna površina stana ili druge samostalne prostorije, umanjena za širinu zidova koji je prekidaju,
+– korisna površina je ukupna podna površina stana ili druge samostalne prostorije, umanjena za širinu zidova koji je prekidaju,
 
-- prigodom izračunavanja korisne površine neće se uzeti u obzir podrumske i tavanske prostorije koje po svojoj opremi nisu prikladne za stambene ili poslovne svrhe, kao ni stubišta, otvoreni balkoni i terase; isto vrijedi i za druge dijelove nekretnine koji su pripadak nekog stana ili druge samostalne prostorije u skladu s odredbama članka 67. stavka 3. do 5. ovoga Zakona,
+– prigodom izračunavanja korisne površine neće se uzeti u obzir podrumske i tavanske prostorije koje po svojoj opremi nisu prikladne za stambene ili poslovne svrhe, kao ni stubišta, otvoreni balkoni i terase; isto vrijedi i za druge dijelove nekretnine koji su pripadak nekog stana ili druge samostalne prostorije u skladu s odredbama članka 67. stavka 3. do 5. ovoga Zakona,
 
-- korisna se površina u pravilu izračunava prema građevnom planu, odobrenom od vlasti; ali ako netko učini vjerojatnim da postoje znatnija odstupanja od toga plana, korisna će se površina izračunati prema stvarnom stanju.
+– korisna se površina u pravilu izračunava prema glavnom projektu koji je sastavni dio građevinske dozvole ili koji je potvrđen po nadležnom tijelu; ali ako netko učini vjerojatnim da postoje znatnija odstupanja od tog projekta, korisna će se površina izračunati prema stvarnom stanju.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je u stavku 2. podstavak 5.
 
 (3) Iznimno, od odredbe stavka 2. ovoga članka, ako su suvlasnici nekretnine suglasno odlučili da će svoja suvlasnička prava ograničiti tako što će s određenim suvlasničkim dijelom povezati vlasništvo određenoga posebnoga dijela nekretnine, uzima se da je taj suvlasnički dio odgovarajući dio, pa tada pravomoćnu odluku suda o utvrđivanju korisnih vrijednosti zamjenjuje isprava svih suvlasnika o toj njihovoj odluci.
 
-### Članak 75.
+###### Članak 75.
 
 (1) Vlasnik zemljišta sa zgradom, odnosno nositelj prava građenja sa zgradom može svojim očitovanjem volje učinjenim zemljišnoknjižnom sudu podijeliti svoje pravo vlasništva na suvlasničke dijelove i pritom sa svakim od tih dijelova uspostaviti pravo vlasništva na određenom stanu ili drugom posebnom dijelu u zgradi.
 
@@ -962,23 +959,23 @@ Glava 4.
 
 *Naknadna promjena korisnih vrijednosti*
 
-### Članak 76.
+###### Članak 76.
 
 (1) Premda je već utvrđena, korisna će se vrijednost nanovo utvrđivati na zahtjev za to ovlaštene osobe ako su se promijenile prilike na neki od načina predviđenih odredbama članka 77. ili 78. ovoga Zakona.
 
 (2) Sud koji nanovo odredi neku korisnu vrijednost, ujedno će utvrditi mijenja li se, i koliko zbroj svih korisnih vrijednosti stanova i ostalih posebnih dijelova iste nekretnine.
 
-### Članak 77.
+###### Članak 77.
 
 (1) Na zahtjev svakoga suvlasnika nekretnine, a nakon završetka gradnje i svakoga tko želi steći vlasništvo posebnoga dijela, sud će nanovo utvrđivati korisnu vrijednost ako su se od tada izmijenile prilike u tom smislu:
 
-- da se utvrđena korisna vrijednost stana, odnosno druge prostorije utvrđena prije završetka gradnje, promijenila do završetka gradnje za najmanje 2% radnjama za koje je potrebna građevna dozvola, s time da u tom slučaju zahtjev za ponovo utvrđivanje može biti postavljen samo u roku od godine dana od pravomoćnosti uporabne dozvole,
+– da se utvrđena korisna vrijednost stana, odnosno druge prostorije utvrđena prije završetka gradnje, promijenila do završetka gradnje za najmanje 2% radnjama za koje je potrebna građevna dozvola, s time da u tom slučaju zahtjev za ponovo utvrđivanje može biti postavljen samo u roku od godine dana od pravomoćnosti uporabne dozvole,
 
-- da se nakon završene gradnje bitno promijenila utvrđena korisna vrijednost stana, odnosno druge prostorije takvim građevinskim zahvatima obavljenim na nekretnini za koje je potrebna građevna dozvola, s time da u tom slučaju zahtjev za ponovo utvrđivanje može biti postavljen samo u roku od godine dana od pravomoćnosti uporabne dozvole.
+– da se nakon završene gradnje bitno promijenila utvrđena korisna vrijednost stana, odnosno druge prostorije takvim građevinskim zahvatima obavljenim na nekretnini za koje je potrebna građevna dozvola, s time da u tom slučaju zahtjev za ponovo utvrđivanje može biti postavljen samo u roku od godine dana od pravomoćnosti uporabne dozvole.
 
 (2) Utvrdi li se ponovo korisna vrijednost zbog promjene iz stavka 1. ovoga članka, dužni su suvlasnici međusobno preuzeti ili prenijeti one suvlasničke dijelove koji su potrebni kako bi svakom etažnom vlasniku pripao barem onoliki dio koji je nakon utvrđenja korisnih vrijednosti nužan za uspostavu njegova prava vlasništva na posebnom dijelu (odgovarajući suvlasnički dio).
 
-### Članak 78.
+###### Članak 78.
 
 (1) Korisnu će se vrijednost ponovno utvrđivati i ako se prije utvrđena vrijednost promijenila zbog promjena stanja stanova, odnosno drugih prostorija koji neposredno prostorno graniče, ili zbog prijenosa sporednih dijelova jednoga posebnoga dijela zgrade na drugi, ako zahtjev za ponovno utvrđivanje korisne vrijednosti stave vlasnici posebnih dijelova koji izvode promjene ili prijenos.
 
@@ -986,13 +983,11 @@ Glava 4.
 
 (3) Utvrdi li se ponovno korisna vrijednost u slučaju iz stavka 1. ovoga članka, suvlasnici čija je korisna vrijednost povećana dužni su punu naknadu onim suvlasnicima kojima se korisna vrijednost njihovih dijelova smanjila.
 
-*Odjeljak 3.*
-
-*Izvršavanje ovlasti glede posebnoga dijela*
+#### Odjeljak 3. — Izvršavanje ovlasti glede posebnoga dijela
 
 *Uprava umjesto svih suvlasnika*
 
-### Članak 79.
+###### Članak 79.
 
 (1) Suvlasnik na čijem je suvlasničkom dijelu uspostavljeno vlasništvo određenoga posebnoga dijela nekretnine upravlja tim posebnim dijelom umjesto svih suvlasnika, pri čemu je ovlašten da sve vlasničke ovlasti i dužnosti izvršava kao da je taj posebni dio samo njegovo vlasništvo, pa da, ako nije drukčije određeno, čini s tim dijelom što ga je volja te svakoga drugoga iz toga isključi.
 
@@ -1000,17 +995,17 @@ Glava 4.
 
 *Dužnost održavanja*
 
-### Članak 80.
+###### Članak 80.
 
 (1) Suvlasnik na čijem je suvlasničkom dijelu uspostavljeno vlasništvo određenoga posebnoga dijela nekretnine dužan je za taj stan, odnosno drugu samostalnu prostoriju, te za njima namijenjene uređaje, osobito svjetlovodne, plinovodne, vodovodne, toplovodne i sanitarne naprave, kao i sve druge pripatke toga posebnoga dijela brinuti se i tako ih održavati da drugim suvlasnicima ne nastane nikakva šteta.
 
-(2) Za svu štetu koju drugi suvlasnici pretrpe u svezi s izvršavanjem dužnosti iz stavka 1. ovoga članka, ili zbog njezina neizvršavanja, odgovara im onaj suvlasnik čija je to bila dužnost održavanja, a ako je to bila dužnost više suvlasnika - oni odgovaraju za tu štetu solidarno.
+(2) Za svu štetu koju drugi suvlasnici pretrpe u svezi s izvršavanjem dužnosti iz stavka 1. ovoga članka, ili zbog njezina neizvršavanja, odgovara im onaj suvlasnik čija je to bila dužnost održavanja, a ako je to bila dužnost više suvlasnika – oni odgovaraju za tu štetu solidarno.
 
 (3) Suvlasnik na čijem je suvlasničkom dijelu uspostavljeno vlasništvo određenoga posebnoga dijela nekretnine dužan je dopustiti pristup u stan, odnosno prostoriju i njihovu uporabu, ako je to potrebno za održavanje zajedničkih dijelova nekretnine; imovinsku štetu koju u svezi s time pretrpi dužni su mu primjereno naknaditi suvlasnici solidarno.
 
 *Najam i zakup*
 
-### Članak 81.
+###### Članak 81.
 
 (1) Suvlasnik na čijem je suvlasničkom dijelu uspostavljeno vlasništvo određenoga posebnoga dijela nekretnine ovlašten je taj dio, cijeli ili pojedine njegove dijelove, iznajmiti ili dati u zakup, ne tražeći za to odobrenje ostalih suvlasnika, ako nije što drugo ugovoreno i upisano u zemljišnoj knjizi.
 
@@ -1018,17 +1013,21 @@ Glava 4.
 
 *Promjene stanja*
 
-### Članak 82.
+###### Članak 82.
 
 (1) Suvlasnik na čijem je suvlasničkom dijelu uspostavljeno vlasništvo određenoga posebnoga dijela nekretnine ovlašten je, ne tražeći za to odobrenje od ostalih suvlasnika, u skladu s građevinskim propisima o svome trošku izvršiti prepravke u stanu ili drugoj samostalnoj prostoriji, uključujući i promjenu namjene, ako se pridržava sljedećih pravila:
 
-- promjena ne smije prouzročiti oštećenje zgrade i drugih dijelova nekretnine, a ni povredu onih interesa ostalih suvlasnika koji zaslužuju zaštitu; osobito ne smije prouzročiti povredu vanjskoga izgleda zgrade, ni opasnost za sigurnost osoba, zgrade ili drugih stvari,
+– promjena ne smije prouzročiti oštećenje zgrade i drugih dijelova nekretnine, a ni povredu onih interesa ostalih suvlasnika koji zaslužuju zaštitu; osobito ne smije prouzročiti povredu vanjskoga izgleda zgrade, ni opasnost za sigurnost osoba, zgrade ili drugih stvari,
 
-- ako bi za promjenu bilo potrebno zadrijeti u zajedničke dijelove nekretnine, to je dopušteno samo ako je takva promjena uobičajena ili služi važnom interesu vlasnika posebnoga dijela, inače je svaki suvlasnik može zabraniti; ali ne može zabraniti postavljanje vodova za svjetlo, plin, energiju, vodu i telefon i sličnih uređaja, a ni postavljanje radijskih ili televizijskih antena, potrebnih prema stanju tehnike, ako nije moguć ili nije odobren priključak na postojeću antenu,
+– ako bi za promjenu bilo potrebno zadrijeti u zajedničke dijelove nekretnine, to je dopušteno samo ako je takva promjena uobičajena ili služi važnom interesu vlasnika posebnoga dijela, inače je svaki suvlasnik može zabraniti; ali ne može zabraniti postavljanje vodova za svjetlo, plin, energiju, vodu i telefon i sličnih uređaja, a ni postavljanje elektroničke komunikacijske infrastrukture, potrebnih prema stanju tehnike, ako nije moguć ili nije odobren priključak na postojeću antenu, te izvođenje radova kojima se osigurava nesmetan pristup, kretanje i rad osobama smanjene pokretljivosti.
 
-- radi promjena na svome dijelu nije dopušteno zadrijeti u one dijelove nekretnine koji su kao posebni dio u vlasništvu drugoga suvlasnika bez njegova odobrenja; ali taj će ipak morati trpjeti ono u vezi s tuđim prepravkom čime se bitno i trajno ne povređuje njegovo pravo na posebnom dijelu, a i ono što je umjesno kad se pravedno odvagnu svi interesi,
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 141/06), koji je stupio na snagu 27. prosinca 2006. u stavku 1. podstavku 2. izmijenjen je dio teksta.
 
-- vlasnik posebnoga dijela koji provodi promjene na svome dijelu dužan je dati primjerenu naknadu drugomu čija je prava time povrijedio i kad je taj bio dužan trpjeti tu povredu.
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 146/08), koji je stupio na snagu 1. veljače 2009. u stavku 1. podstavku 2. izmijenjen je dio teksta.
+
+– radi promjena na svome dijelu nije dopušteno zadrijeti u one dijelove nekretnine koji su kao posebni dio u vlasništvu drugoga suvlasnika bez njegova odobrenja; ali taj će ipak morati trpjeti ono u vezi s tuđim prepravkom čime se bitno i trajno ne povređuje njegovo pravo na posebnom dijelu, a i ono što je umjesno kad se pravedno odvagnu svi interesi,
+
+– vlasnik posebnoga dijela koji provodi promjene na svome dijelu dužan je dati primjerenu naknadu drugomu čija je prava time povrijedio i kad je taj bio dužan trpjeti tu povredu.
 
 (2) Ako je za promjenu namjene iz stavka 1. ovoga članka potrebna dozvola vlasti, drugi suvlasnici koji tu promjenu moraju trpjeti nisu ovlašteni uskratiti svoj pristanak kad je on potreban te odgovaraju za štetu koju bi prouzročili svojom uskratom.
 
@@ -1038,7 +1037,7 @@ Glava 4.
 
 *Primjereno osiguranje*
 
-### Članak 83.
+###### Članak 83.
 
 (1) Ako s obzirom na okolnosti prijeti ozbiljna opasnost da će nastati šteta zbog onoga što u izvršavanju ili prekoračenju ovlasti poduzima ili je već poduzeo glede nekretnine pojedini suvlasnik bez suglasnosti svih ostalih, svaki od suvlasnika cijele nekretnine je ovlašten od njega zahtijevati primjereno osiguranje.
 
@@ -1048,7 +1047,7 @@ Glava 4.
 
 *Troškovi posebnoga dijela*
 
-### Članak 84.
+###### Članak 84.
 
 (1) Suvlasnik na čijem je suvlasničkom dijelu uspostavljeno vlasništvo određenoga posebnoga dijela nekretnine održava taj dio o svome trošku te snosi sve javne obveze i terete u svezi s vlasništvom toga dijela, ako nije što drugo zakonom određeno.
 
@@ -1056,13 +1055,11 @@ Glava 4.
 
 (3) Ako je dužnik obveze iz stavka 2. ovoga Zakona osoba koja posebni dio nekretnine rabi ili iskorištava na temelju najma, zakupa ili drugoga ugovora sa suvlasnikom na čijem je suvlasničkom dijelu uspostavljeno vlasništvo toga posebnoga dijela, taj suvlasnik jamči dobavljaču za ispunjenje te obveze.
 
-*Odjeljak 4.*
-
-*Izvršavanje ovlasti glede cijele nekretnine*
+#### Odjeljak 4. — Izvršavanje ovlasti glede cijele nekretnine
 
 *Uprava svih suvlasnika*
 
-### Članak 85.
+###### Članak 85.
 
 (1) Cijelom nekretninom na kojoj je na jednom ili više suvlasničkih dijelova osnovano vlasništvo određenoga posebnog dijela upravljaju suvlasnici po općim pravilima o upravljanju suvlasničkom stvari, ako ovim Zakonom nije što drugo određeno.
 
@@ -1074,55 +1071,63 @@ Glava 4.
 
 *Poslovi redovite uprave*
 
-### Članak 86.
+###### Članak 86.
 
 Poslovi redovite uprave cijelom nekretninom su osobito:
 
-- redovito održavanje zajedničkih dijelova i uređaja nekretnine, uključujući i građevne promjene nužne radi održavanja,
+– redovito održavanje zajedničkih dijelova i uređaja nekretnine, uključujući i građevne promjene nužne radi održavanja,
 
-- stvaranje primjerene zajedničke pričuve za predvidive buduće troškove,
+– stvaranje primjerene zajedničke pričuve za predvidive buduće troškove,
 
-- uzimanje zajmova radi pokrića troškova održavanja koji nisu pokriveni pričuvom, a potrebni su za obavljanje poslova urednoga održavanja koji se ponavljaju u razmacima duljim od jedne godine,
+– uzimanje zajmova radi pokrića troškova održavanja koji nisu pokriveni pričuvom, a potrebni su za obavljanje poslova urednoga održavanja koji se ponavljaju u razmacima duljim od jedne godine,
 
-- primjereno osiguranje nekretnine,
+– primjereno osiguranje nekretnine,
 
-- imenovanje i opoziv zajedničkoga upravitelja,
+– imenovanje i opoziv zajedničkoga upravitelja,
 
-- određivanje i promjene kućnog reda,
+– određivanje i promjene kućnog reda,
 
-- iznajmljivanje i davanje u zakup, kao i otkazivanje stanova i drugih samostalnih prostorija nekretnine glede kojih nije uspostavljeno vlasništvo posebnoga dijela, s tim da je dopušteno otkazati najam mjesta u zajedničkoj garaži ili zajedničkom parkiralištu čim nastane potreba bilo kojega suvlasnika za tim mjestom, a uz rok od tri mjeseca, pa makar bilo i što drugo ugovoreno ili zakonom određeno.
+– iznajmljivanje i davanje u zakup, kao i otkazivanje stanova i drugih samostalnih prostorija nekretnine glede kojih nije uspostavljeno vlasništvo posebnoga dijela, s tim da je dopušteno otkazati najam mjesta u zajedničkoj garaži ili zajedničkom parkiralištu čim nastane potreba bilo kojega suvlasnika za tim mjestom, a uz rok od tri mjeseca, pa makar bilo i što drugo ugovoreno ili zakonom određeno.
+
+– iznajmljivanje i davanje u zakup zajedničkih dijelova zgrade, odnosno zasnivanje drugih pravnih odnosa vezanih za postavljanje, održavanje i razvoj elektroničke komunikacijske infrastrukture i plaćanje naknade vlasnicima u skladu s posebnim propisima.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, broj 146/08), koji je stupio na snagu 1. veljače 2009. u stavku 1. iza podstavka 7. dodan je podstavak 8.
 
 *Izvanredni poslovi*
 
-### Članak 87.
+###### Članak 87.
 
 (1) Osim za one poslove koji se i inače smatraju izvanrednim poslovima, za donošenje odluke o poduzimanju poboljšice zajedničkih dijelova i uređaja nekretnine potreban je pristanak svih suvlasnika nekretnine.
 
 (2) Iznimno, od odredbe stavka 1. ovoga članka, ipak nije potreban pristanak svih ako suvlasnici koji zajedno imaju većinu suvlasničkih dijelova odluče da se poboljšica učini, a da će oni sami snositi troškove ili se ti troškovi mogu pokriti iz pričuve, ne ugrožavajući time mogućnost da se iz pričuve podmire potrebe redovitoga održavanja, te ako te poboljšice neće ići suviše na štetu nadglasanih suvlasnika.
 
+(3) Iznimno od odredbe stavka 1. ovoga članka, pristanak svih suvlasnika nije potreban ni za poboljšicu kojom se na zajedničkim dijelovima i uređajima nekretnine osigurava nesmetan pristup, kretanje i rad osobama smanjene pokretljivosti.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 141/06), koji je stupio na snagu 27. prosinca 2006. dodan je stavak 3.
+
 *Pravo svakoga suvlasnika*
 
-### Članak 88.
+###### Članak 88.
 
 Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od suda da svojom odlukom odredi:
 
-- rok u kojem se treba obaviti neki od poslova iz članka 86. ovoga Zakona, o kojem je većinom glasova donesena odluka,
+– rok u kojem se treba obaviti neki od poslova iz članka 86. ovoga Zakona, o kojem je većinom glasova donesena odluka,
 
-- stvaranje primjerene zajedničke pričuve ili primjereno povećavanje, odnosno smanjivanje te pričuve koju je odredila većina, prema pravilu da pri određivanju pričuve i doprinosa u nju treba, osim o predvidivim troškovima, voditi računa i o imovinskom stanju svih suvlasnika,
+– stvaranje primjerene zajedničke pričuve ili primjereno povećavanje, odnosno smanjivanje te pričuve koju je odredila većina, prema pravilu da pri određivanju pričuve i doprinosa u nju treba, osim o predvidivim troškovima, voditi računa i o imovinskom stanju svih suvlasnika,
 
-- da se tom suvlasniku, ako bi mu bilo nemoguće odmah platiti dio troškova nekoga posla održavanja cijele nekretnine koji se javlja u vremenskim razmacima duljim od jedne godine, a nije pokriven pričuvom, dopušta da plati u mjesečnim obrocima u razdoblju ne dužem od deset godina, uz osiguranje osnivanjem hipoteke na njegovu suvlasničkom dijelu, s uobičajenim kamatama na dug osiguran hipotekom,
+– da se tom suvlasniku, ako bi mu bilo nemoguće odmah platiti dio troškova nekoga posla održavanja cijele nekretnine koji se javlja u vremenskim razmacima duljim od jedne godine, a nije pokriven pričuvom, dopušta da plati u mjesečnim obrocima u razdoblju ne dužem od deset godina, uz osiguranje osnivanjem hipoteke na njegovu suvlasničkom dijelu, s uobičajenim kamatama na dug osiguran hipotekom,
 
-- zaključenje primjerenoga osiguranja od požara ili od odgovornosti trećim osobama,
+– zaključenje primjerenoga osiguranja od požara ili od odgovornosti trećim osobama,
 
-- postavljanje zajedničkoga upravitelja, ili smjenjivanje upravitelja koji grubo zanemaruje svoje dužnosti,
+– postavljanje zajedničkoga upravitelja, ili smjenjivanje upravitelja koji grubo zanemaruje svoje dužnosti,
 
-- ukidanje ili izmjenu onih odredaba kućnoga reda koje je donijela većina, ako one vrijeđaju takve interese toga suvlasnika koji zaslužuju zaštitu, ili bi njihovo izvršavanje bilo nepravedno zahtijevati od njega,
+– ukidanje ili izmjenu onih odredaba kućnoga reda koje je donijela većina, ako one vrijeđaju takve interese toga suvlasnika koji zaslužuju zaštitu, ili bi njihovo izvršavanje bilo nepravedno zahtijevati od njega,
 
-- otkazivanje ugovora o najmu jednoga mjesta u zajedničkoj garaži ili parkiralištu zbog potreba toga suvlasnika, ali to samo ako je on ujedno i vlasnik posebnoga dijela zgrade.
+– otkazivanje ugovora o najmu jednoga mjesta u zajedničkoj garaži ili parkiralištu zbog potreba toga suvlasnika, ali to samo ako je on ujedno i vlasnik posebnoga dijela zgrade.
 
 *Troškovi cijele nekretnine*
 
-### Članak 89.
+###### Članak 89.
 
 (1) Troškove za održavanje i za poboljšavanje nekretnine snose svi suvlasnici nekretnine razmjerno svojim suvlasničkim dijelovima, ako nije drukčije određeno.
 
@@ -1130,9 +1135,9 @@ Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od sud
 
 (3) Suvlasnici mogu odrediti drukčiji ključ raspodjele troškova i doprinosa zajedničkoj pričuvi nego u stavku 1. i 2. ovoga članka, i to:
 
-- odlukom većine suvlasničkih dijelova, kad je riječ o troškovima za održavanje onih uređaja nekretnine koji nisu u podjednakom omjeru korisni svim suvlasnicima, kao što su troškovi za dizalo, centralno grijanje i dr., ako takvu odluku opravdavaju različite mogućnosti pojedinih suvlasnika da te uređaje rabe i nemogućnost utvrđivanja stvarnoga potroška svakoga pojedinoga suvlasnika,
+– odlukom većine suvlasničkih dijelova, kad je riječ o troškovima za održavanje onih uređaja nekretnine koji nisu u podjednakom omjeru korisni svim suvlasnicima, kao što su troškovi za dizalo, centralno grijanje i dr., ako takvu odluku opravdavaju različite mogućnosti pojedinih suvlasnika da te uređaje rabe i nemogućnost utvrđivanja stvarnoga potroška svakoga pojedinoga suvlasnika,
 
-- suglasnom odlukom svih suvlasnika, u pisanom obliku, glede svih ostalih troškova za održavanje i poboljšavanje nekretnine te doprinosa zajedničkoj pričuvi.
+– suglasnom odlukom svih suvlasnika, u pisanom obliku, glede svih ostalih troškova za održavanje i poboljšavanje nekretnine te doprinosa zajedničkoj pričuvi.
 
 (4) Svaki suvlasnik može zahtijevati od suda da utvrdi odgovara li način raspodjele troškova pravilu iz stavka 1., odnosno stavka 2. ovoga članka i je li valjana odluka iz stavka 3. ovoga članka, a kad nema valjane odluke o raspodjeli troškova za održavanje onih uređaja nekretnine koji nisu u podjednakom omjeru korisni svim suvlasnicima, da po pravednoj ocjeni utvrdi ključ za raspodjelu troškova s obzirom na različitu mogućnost uporabe tih uređaja.
 
@@ -1142,7 +1147,7 @@ Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od sud
 
 *Zajednička pričuva*
 
-### Članak 90.
+###### Članak 90.
 
 (1) Zajednička pričuva iz članka 85. stavka 2. ovoga Zakona je namjenski vezana zajednička imovina svih koji su suvlasnici nekretnine, namijenjena za pokriće troškova održavanja i poboljšavanja nekretnine te za otplaćivanje zajma za pokriće tih troškova.
 
@@ -1158,7 +1163,7 @@ Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od sud
 
 *Koristi*
 
-### Članak 91.
+###### Članak 91.
 
 (1) Plodovi i druge koristi od stanova i drugih samostalnih prostorija nekretnine glede kojih nije uspostavljeno vlasništvo posebnoga dijela pripadaju svim suvlasnicima nekretnine razmjerno njihovim suvlasničkim dijelovima, ali svakom od suvlasnika koji je ujedno i vlasnik nekoga posebnoga dijela te nekretnine pripadaju ti plodovi i druge koristi samo za onoliko za koliko mu je suvlasnički dio veći od odgovarajućega suvlasničkoga dijela.
 
@@ -1168,7 +1173,7 @@ Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od sud
 
 *Dužnost prijave štete*
 
-### Članak 92.
+###### Članak 92.
 
 (1) Svaki suvlasnik je ovlašten i dužan bez odgađanja prijaviti zajedničkom upravitelju štete za koje je spoznao da su nastale na dijelovima ili uređajima nekretnine kojima taj upravlja, a i štete na onim posebnim dijelovima te nekretnine na kojima je uspostavljeno vlasništvo u korist određenoga suvlasničkoga dijela ako od njih prijeti opasnost ostalim dijelovima nekretnine.
 
@@ -1176,7 +1181,7 @@ Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od sud
 
 *Upraviteljeve dužnosti i ovlasti*
 
-### Članak 93.
+###### Članak 93.
 
 (1) Upravitelj, bio postavljen od suvlasnika ili od suda, upravlja nekretninom i zajedničkom pričuvom kao zastupnik svih suvlasnika, i to umjesto njih, pri čemu u odnosu prema trećima ne djeluju ograničenja koja bi mu bila postavljena pravnim poslom.
 
@@ -1186,27 +1191,25 @@ Svaki suvlasnik nekretnine ovlašten je, neovisno o ostalima, zahtijevati od sud
 
 (4) Upravitelj je obvezan koliko je najviše moguće čuvati interese svih suvlasnika nekretnine i u obavljanju poslova redovite uprave slijediti upute većine, a izvanredne poslove poduzimati samo na temelju suglasnosti svih suvlasnika ili odluke suda koja je zamjenjuje; uz to je osobito dužan:
 
-- položiti svakom suvlasniku uredan račun o poslovanju u prethodnoj kalendarskoj godini i staviti mu na prikladan način na uvid isprave na kojima se temelji, i to najkasnije do 30. lipnja svake godine,
+– položiti svakom suvlasniku uredan račun o poslovanju u prethodnoj kalendarskoj godini i staviti mu na prikladan način na uvid isprave na kojima se temelji, i to najkasnije do 30. lipnja svake godine,
 
-- izraditi pregled predviđenih poslova za održavanje i poboljšice, kao i predvidivih troškova i opterećenja u narednoj kalendarskoj godini, te to na prikladan način objaviti u kući najkasnije do isteka tekuće kalendarske godine,
+– izraditi pregled predviđenih poslova za održavanje i poboljšice, kao i predvidivih troškova i opterećenja u narednoj kalendarskoj godini, te to na prikladan način objaviti u kući najkasnije do isteka tekuće kalendarske godine,
 
-- prikupiti više ponuda za poslove održavanja koji se ponavljaju u razmacima duljim od jedne godine, kao i za veće radove radi poboljšice.
+– prikupiti više ponuda za poslove održavanja koji se ponavljaju u razmacima duljim od jedne godine, kao i za veće radove radi poboljšice.
 
 (5) Suvlasnici, u čije ime upravitelj upravlja nekretninom, dužni su o promjeni osobe upravitelja ili o promjenama njegovih ovlasti koje se i njih tiču obavijestiti najmoprimce i zakupnike na prikladan način; ono što bi neobaviješteni najmoprimci i zakupnici ispunili osobi koja više nije upravitelj, ili više nije ovlaštena primiti ispunjenje, valjano je ispunjeno i oslobađa dužnike obveze, ali samo ako nisu znali za tu promjenu.
 
-*Odjeljak 5.*
-
-*Prestanak vlasništva na posebnom dijelu*
+#### Odjeljak 5. — Prestanak vlasništva na posebnom dijelu
 
 *Propast predmeta*
 
-### Članak 94.
+###### Članak 94.
 
 Vlasništvo posebnoga dijela nekretnine prestaje ako stan ili druga samostalna prostorija koja je bila predmetom toga vlasništva trajno prestane biti prikladna za samostalno izvršavanje suvlasnikovih ovlasti, a s time ujedno prestaje i vlasništvo sporednih dijelova.
 
 *Brisanje*
 
-### Članak 95.
+###### Članak 95.
 
 (1) Osim u slučaju iz članka 94. ovoga Zakona, vlasništvo posebnoga dijela nekretnine prestaje uknjižbom brisanja u zemljišnoj knjizi onog upisa kojim je vlasništvo određenoga posebnoga dijela nekretnine bilo uspostavljeno kao pravo povezano s određenim suvlasničkim dijelom te nekretnine.
 
@@ -1214,19 +1217,19 @@ Vlasništvo posebnoga dijela nekretnine prestaje ako stan ili druga samostalna p
 
 *Prestanak suvlasništva*
 
-### Članak 96.
+###### Članak 96.
 
 Kad dotadašnji suvlasnik nekretnine prestane biti suvlasnikom odgovarajućega suvlasničkoga dijela, prestalo je za njega i vlasništvo onoga posebnoga dijela koje je bilo uspostavljeno na tom odgovarajućem dijelu; ali prestanak vlasništva posebnoga dijela ne povlači za sobom prestanak suvlasništva na nekretnini.
 
 *Isključenje iz suvlasničke zajednice*
 
-### Članak 97.
+###### Članak 97.
 
 Svaki od suvlasnika iste nekretnine koja se sastoji od zemljišta sa zgradom ili od prava građenja sa zgradom dužan je prigodom izvršavanja svoga prava postupati osobito obzirno prema ostalima, u protivnom njegovi suvlasnici mogu ishoditi njegovo isključenje iz suvlasničke zajednice, pod pretpostavkama koje određuju članci 98. i 99. ovoga Zakona.
 
 *Isključenje na zahtjev većine*
 
-### Članak 98.
+###### Članak 98.
 
 (1) Suvlasnici koji zajedno imaju većinu suvlasničkih dijelova mogu odlučiti da će zahtijevati isključenje iz suvlasničke zajednice određenoga suvlasnika na čijem je odgovarajućem suvlasničkom dijelu uspostavljeno vlasništvo nekoga posebnoga dijela nekretnine, ako za to postoji neki od razloga iz stavka 3., odnosno 4. ovoga članka.
 
@@ -1234,11 +1237,11 @@ Svaki od suvlasnika iste nekretnine koja se sastoji od zemljišta sa zgradom ili
 
 (3) Odluka o isključenju određenoga suvlasnika može se donijeti:
 
-- ako suvlasnik ne udovoljava dužnostima koje proizlaze iz zajednice, osobito ako ne plati dužne iznose ni do završetka rasprave koja prethodi presudi prvostupanjskoga suda, a ako je bilo sporno koliko je dužan platiti pa je sud donio međupresudu, tada do završetka prvostupanjske rasprave koja slijedi nakon međupresude,
+– ako suvlasnik ne udovoljava dužnostima koje proizlaze iz zajednice, osobito ako ne plati dužne iznose ni do završetka rasprave koja prethodi presudi prvostupanjskoga suda, a ako je bilo sporno koliko je dužan platiti pa je sud donio međupresudu, tada do završetka prvostupanjske rasprave koja slijedi nakon međupresude,
 
-- ako dijelove nekretnine koji su u njegovu vlasništvu kao posebni dijelovi ili dijelove koje rabe i drugi suvlasnici rabi na način koji znatno ide na štetu interesa drugih suvlasnika,
+– ako dijelove nekretnine koji su u njegovu vlasništvu kao posebni dijelovi ili dijelove koje rabe i drugi suvlasnici rabi na način koji znatno ide na štetu interesa drugih suvlasnika,
 
-- ako svojim bezobzirnim, nepristojnim ili uopće nedoličnim ponašanjem učini tegobnim zajedničko stanovanje ostalim suvlasnicima, ili počini kažnjivo djelo protiv imovine, morala ili tjelesne cjelovitosti kojega od suvlasnika ili druge osobe koja stanuje u kući, a nije riječ o djelima tako maloga značenja da bi ih trebalo zanemariti.
+– ako svojim bezobzirnim, nepristojnim ili uopće nedoličnim ponašanjem učini tegobnim zajedničko stanovanje ostalim suvlasnicima, ili počini kažnjivo djelo protiv imovine, morala ili tjelesne cjelovitosti kojega od suvlasnika ili druge osobe koja stanuje u kući, a nije riječ o djelima tako maloga značenja da bi ih trebalo zanemariti.
 
 (4) Radnje i ponašanja suvlasnikovoga bračnoga druga i drugih članova obitelji koji s njim stanuju, kao i osoba koje s njegovim pristankom rabe dijelove nekretnine, a koje je on propustio spriječiti koliko je bilo moguće, uzimaju se za radnje toga suvlasnika.
 
@@ -1248,7 +1251,7 @@ Svaki od suvlasnika iste nekretnine koja se sastoji od zemljišta sa zgradom ili
 
 *Isključenje na zahtjev manjine*
 
-### Članak 99.
+###### Članak 99.
 
 (1) Ako je neki suvlasnik nekretnine drugoga suvlasnika, koji ga ničim nije izazvao, povrijedio bezobzirnim, nepristojnim ili uopće nedoličnim ponašanjem, učinio mu tegobnim zajedničko stanovanje, ili je počinio kažnjivo djelo protiv njegove imovine, morala ili tjelesne cjelovitosti ili nekoga od njegovih ukućana, a nije riječ o djelima tako maloga značenja da bi ih trebalo zanemariti, tada povrijeđeni suvlasnik, ako i nije dobio od drugih dovoljnu podršku da bi većina donijela odluku iz članka 98. stavka 1. i 2. ovoga Zakona, može tužbom zahtijevati od ovoga da se ubuduće suzdržava od takvih postupaka.
 
@@ -1256,13 +1259,11 @@ Svaki od suvlasnika iste nekretnine koja se sastoji od zemljišta sa zgradom ili
 
 (3) Nastave li se takvi postupci i nakon pravomoćnosti presude kojom je sud odlučio da se tuženik dužan suzdržavati od njih, povrijeđeni suvlasnik može i sam podnijeti tužbu iz članka 98. stavka 5. ovoga Zakona, u kojem će se slučaju na odgovarajući način primjenjivati odredbe koje inače vrijede kad tu tužbu podnose suvlasnici koji su donijeli odluku da će zahtijevati isključenje.
 
-Glava 5.
-
-## SUSJEDSKA PRAVA
+### Glava 5. — SUSJEDSKA PRAVA
 
 *Opće odredbe*
 
-### Članak 100.
+###### Članak 100.
 
 (1) Susjedska su prava ovlasti koje radi uzajamno obzirnoga izvršavanja prava vlasništva daju odredbe ovoga ili drugoga zakona vlasniku nekretnine, ovlašćujući ga da u svezi s izvršavanjem svojega prava vlasništva zahtijeva od osobe koja je vlasnik druge nekretnine da ona u njegovu interesu trpi, propušta ili čini glede svoje nekretnine ono što je određeno zakonom.
 
@@ -1276,7 +1277,7 @@ Glava 5.
 
 *Zajednička ograda*
 
-### Članak 101.
+###### Članak 101.
 
 (1) Ograde između susjednih nekretnina (zidovi, plotovi, ograde, živice i druge prepreke) kao i stvari koje služe kao međni znakovi, zajedničke su ograde i u suvlasništvu su susjeda s obje strane međe, osim ako se dokaže (naročito znacima, natpisima, grbovima ili drugim dokazima) da su vlasništvo jednoga susjeda.
 
@@ -1288,7 +1289,7 @@ Glava 5.
 
 *Vlastita ograda*
 
-### Članak 102.
+###### Članak 102.
 
 (1) Ograda koja se nalazi isključivo na nekretnini jednoga vlasnika nije u suvlasništvu susjeda, nego u vlasništvu onoga čije je zemljište.
 
@@ -1298,13 +1299,13 @@ Glava 5.
 
 *Međa*
 
-### Članak 103.
+###### Članak 103.
 
 (1) Ako su međašni znakovi između dvije nekretnine zbog bilo kakvih okolnosti toliko oštećeni da bi se moglo dogoditi da se međe neće moći raspoznati, ili ako se međe više ne raspoznaju, ili su sporne, onda svaki od susjeda ima pravo zahtijevati da sud u izvanparničnom postupku (postupku uređenja međa) obnovi ili ispravi među.
 
 (2) Sud će među obnoviti ili ispraviti prema katastarskom nacrtu, ako je to moguće i ako na to stranke pristaju.
 
-(3) Ako ne bi bio u stanju postupiti prema odredbi stavka 2. ovoga članka, sud će među obnoviti ili ispraviti prema sporazumu susjeda čija je međa u pitanju, a ne bude li postignut sporazum, prema posljednjem mirnom posjedu, a ne uspije li ga utvrditi - prema pravičnoj ocjeni.
+(3) Ako ne bi bio u stanju postupiti prema odredbi stavka 2. ovoga članka, sud će među obnoviti ili ispraviti prema sporazumu susjeda čija je međa u pitanju, a ne bude li postignut sporazum, prema posljednjem mirnom posjedu, a ne uspije li ga utvrditi – prema pravičnoj ocjeni.
 
 (4) Istodobno s donošenjem odluke iz stavka 2. ili 3. ovoga članka, sud će na licu mjesta označiti među međašnim znakovima.
 
@@ -1314,7 +1315,7 @@ Glava 5.
 
 *Stablo na međi*
 
-### Članak 104.
+###### Članak 104.
 
 (1) Stablo pripada onome iz čijega je zemljišta izraslo deblo, bez obzira na to kuda se ono nadvilo, kamo se proteže korijenje i vise grane.
 
@@ -1324,7 +1325,7 @@ Glava 5.
 
 *Grane i korijenje*
 
-### Članak 105.
+###### Članak 105.
 
 (1) Vlasnik smije iz svojega zemljišta istrgnuti žile i korijenje tuđega drveća i ostaloga raslinja kao i odsjeći grane tuđega drveta i dio debla koje se nalaze u zračnom prostoru iznad njegove nekretnine i zadržati ih za sebe, ili se pak služiti tim dijelovima tuđega drveta.
 
@@ -1336,7 +1337,7 @@ Glava 5.
 
 *Pristup na tuđe*
 
-### Članak 106.
+###### Članak 106.
 
 (1) Ako na tuđu nekretninu dospiju nečija životinja, roj pčela ili stvar koja se s njom nije povezala tako da je time prestala samostalno postojati, onaj čije su to stvari može, u primjerenom roku pristupiti na tuđe zemljište da bi ih uzeo nazad.
 
@@ -1346,7 +1347,7 @@ Glava 5.
 
 *Uporaba tuđe nekretnine radi izvođenja radova*
 
-### Članak 107.
+###### Članak 107.
 
 (1) Vlasnik nekretnine na kojoj je nužno obaviti radove potrebne za njezinu uporabu ili korištenje može privremeno uporabiti tuđe zemljište radi izvođenja radova, postavljanja skele i sl., ako se to na drugi način ne može izvesti.
 
@@ -1356,13 +1357,13 @@ Glava 5.
 
 *Postavljanje vodova i drugih uređaja*
 
-### Članak 108.
+###### Članak 108.
 
 Postavljanje vodova i drugih uređaja (električnih, kanalizacijskih, plinovodnih, vodovodnih, toplovodnih, telekomunikacijskih i dr.) na tuđoj nekretnini bez pristanka njezina vlasnika moguće je u interesu Republike Hrvatske na temelju zakonskih odredaba koje uređuju nepotpuno izvlaštenje, a u privatnom interesu prema odredbama o osnivanju služnosti vodova i drugih uređaja odlukom suda, ako zakon ne odredi drukčije.
 
 *Potkopavanje tuđe nekretnine*
 
-### Članak 109.
+###### Članak 109.
 
 (1) Vlasniku nije dopušteno kopati svoje zemljište i uopće činiti na svojoj nekretnini išta za što je razumno očekivati da bi moglo dovesti u opasnost stabilnost tuđe nekretnine.
 
@@ -1374,7 +1375,7 @@ Postavljanje vodova i drugih uređaja (električnih, kanalizacijskih, plinovodni
 
 *Imisije*
 
-### Članak 110.
+###### Članak 110.
 
 (1) Nitko se ne smije služiti ni koristiti nekretninom na način da zbog toga na tuđu nekretninu slučajno ili po prirodnim silama dospiju dim, neugodni mirisi, čađa, otpadne vode, potresi, buka i sl., ako su prekomjerni s obzirom na namjenu kakva je primjerena toj nekretnini s obzirom na mjesto i vrijeme, ili izazivaju znatniju štetu, ili su nedopušteni na temelju odredaba posebnoga zakona (prekomjerne posredne imisije).
 
@@ -1388,13 +1389,13 @@ Postavljanje vodova i drugih uređaja (električnih, kanalizacijskih, plinovodni
 
 *Opasnost od rušenja zgrade*
 
-### Članak 111.
+###### Članak 111.
 
 Kad postoji ozbiljna opasnost da bi se nečija zgrada ili neki drugi dio nečije nekretnine mogao potpuno ili djelomično srušiti, od čega prijeti opasnost susjednoj nekretnini, susjed čija je nekretnina u opasnosti može od onoga čiji je to objekt zahtijevati poduzimanje svih potrebnih mjera za sprječavanje nastanka štete, kao i zahtijevati dovoljno osiguranje naknade buduće štete.
 
 *Zabrana mijenjanja naravnoga toka vode*
 
-### Članak 112.
+###### Članak 112.
 
 (1) Vlasnik zemljišta ne smije na štetu drugoga zemljišta mijenjati smjer ili jačinu naravnog toka vode preko svoga zemljišta ili kroz njega (podzemne vode).
 
@@ -1404,29 +1405,25 @@ Kad postoji ozbiljna opasnost da bi se nečija zgrada ili neki drugi dio nečije
 
 *Odvođenje kišnice s krova*
 
-### Članak 113.
+###### Članak 113.
 
 Vlasnik nekretnine je dužan poduzeti sve potrebne mjere da kišnica koja se slijeva s njegove zgrade ne pada na tuđu nekretninu.
 
-Glava 6.
-
-## STJECANJE VLASNIŠTVA
+### Glava 6. — STJECANJE VLASNIŠTVA
 
 *Pravni temelji stjecanja*
 
-### Članak 114.
+###### Članak 114.
 
 (1) Vlasništvo se može steći na temelju pravnoga posla, odluke suda, odnosno druge nadležne vlasti, nasljeđivanjem i na temelju zakona.
 
 (2) Na temelju stavka 1. ovoga članka stečeno je pravo vlasništva kad su ispunjene sve pretpostavke određene zakonom.
 
-*Odjeljak 1.*
-
-*Stjecanje na temelju pravnoga posla*
+#### Odjeljak 1. — Stjecanje na temelju pravnoga posla
 
 *Opće odredbe*
 
-### Članak 115.
+###### Članak 115.
 
 (1) Na temelju valjanoga pravnoga posla kojemu je cilj stjecanje vlasništva prelazi vlasništvo s dotadašnjega vlasnika na stjecatelja, a na način određen zakonom.
 
@@ -1436,11 +1433,11 @@ Glava 6.
 
 (4) Stjecanje vlasništva na temelju pravnoga posla ne utječe na prava trećih koja postoje na toj stvari, osim ako je drukčije određeno zakonom radi zaštite onoga koji je u dobroj vjeri postupao s povjerenjem u zemljišne knjige ili druge javne evidencije namijenjene spoznaji mjerodavnih podataka.
 
-*a/ Stjecanje pokretnina*
+### a/ Stjecanje pokretnina
 
 *Predaja u samostalni posjed*
 
-### Članak 116.
+###### Članak 116.
 
 (1) Vlasništvo pokretne stvari stječe se predajom te stvari stjecatelju u samostalan posjed na temelju valjano očitovane volje dotadašnjega vlasnika usmjerene na to da njegovo vlasništvo prijeđe na stjecatelja, ako zakonom nije određeno drukčije.
 
@@ -1448,7 +1445,7 @@ Glava 6.
 
 *Višestruko ugovaranje otuđenja*
 
-### Članak 117.
+###### Članak 117.
 
 (1) Kad je više osoba sklopilo s otuđivateljem pravne poslove radi stjecanja vlasništva iste pokretnine, vlasništvo će steći ona od njih kojoj je stvar prije predana, ako su ispunjene i sve druge pretpostavke za stjecanje vlasništva.
 
@@ -1456,7 +1453,7 @@ Glava 6.
 
 *Stjecanje od nevlasnika*
 
-### Članak 118.
+###### Članak 118.
 
 (1) Tko je u dobroj vjeri stekao samostalni posjed pokretne stvari na temelju naplatnoga pravnog posla sklopljenoga radi stjecanja prava vlasništva s posjednikom kojem ta stvar ne pripada, ili koji nije ovlašten njome tako pravno raspolagati, stekao je vlasništvo te stvari.
 
@@ -1468,11 +1465,11 @@ Glava 6.
 
 (5) Prava trećih koja terete pokretnu stvar prestaju stjecanjem vlasništva od otuđivatelja kojemu stvar ne pripada; međutim, ne prestaju ona prava trećih za koja je stjecatelj znao da postoje ili je to morao znati u času kad je stjecao vlasništvo.
 
-*b/ Stjecanje nekretnina*
+### b/ Stjecanje nekretnina
 
 *Upis vlasništva u zemljišnu knjigu*
 
-### Članak 119.
+###### Članak 119.
 
 (1) Vlasništvo nekretnine stječe se zakonom predviđenim upisom stjecateljeva vlasništva u zemljišnoj knjizi na temelju valjano očitovane volje dotadašnjega vlasnika usmjerene na to da njegovo vlasništvo prijeđe na stjecatelja, ako zakonom nije određeno drukčije.
 
@@ -1482,7 +1479,7 @@ Glava 6.
 
 *Stjecanje uknjižbom*
 
-### Članak 120.
+###### Članak 120.
 
 (1) Vlasništvo na nekretninama stječe se uknjižbom u zemljišnu knjigu, ako zakon ne omogućuje da se vlasništvo nekretnine stekne nekim drugim upisom u zemljišnu knjigu.
 
@@ -1494,7 +1491,7 @@ Glava 6.
 
 *Stjecanje predbilježbom*
 
-### Članak 121.
+###### Članak 121.
 
 (1) Ako nisu ispunjene sve pretpostavke koje zemljišnoknjižno pravo zahtijeva za uknjižbu, a zatražena je uknjižba prava vlasništva, stjecanje prava vlasništva će se predbilježiti, ako su ispunjene barem one pretpostavke pod kojima ta pravila dopuštaju predbilježbu.
 
@@ -1508,7 +1505,7 @@ Glava 6.
 
 *Zaštita povjerenja u zemljišne knjige*
 
-### Članak 122.
+###### Članak 122.
 
 (1) Smatra se da zemljišna knjiga istinito i potpuno odražava činjenično i pravno stanje nekretnine, pa tko je u dobroj vjeri postupao s povjerenjem u zemljišne knjige, ne znajući da ono što je u njih upisano nije potpuno ili da je različito od izvanknjižnoga stanja, uživa glede toga stjecanja zaštitu prema odredbama zakona.
 
@@ -1518,7 +1515,7 @@ Glava 6.
 
 *Djelovanje povjerenja u istinitost*
 
-### Članak 123.
+###### Članak 123.
 
 (1) Stjecatelj upisom stječe nekretninu kao od njezina vlasnika, ako je, postupajući s povjerenjem u zemljišnu knjigu, u dobroj vjeri stekne od osobe koja je bila upisana kao vlasnik te nekretnine premda to nije bila, i ako mu upis ne bude izbrisan zbog nevaljanosti.
 
@@ -1526,7 +1523,7 @@ Glava 6.
 
 *Djelovanje povjerenja u potpunost*
 
-### Članak 124.
+###### Članak 124.
 
 (1) Stjecatelj koji je, postupajući s povjerenjem u zemljišne knjige, u dobroj vjeri stekao pravo vlasništva neke nekretnine, stekao je tu nekretninu kao da na njoj ne postoje tuđa prava, tereti ni ograničenja koja u tom trenutku nisu bila upisana, niti je iz zemljišnih knjiga bilo vidljivo da je zatražen njihov upis.
 
@@ -1534,7 +1531,7 @@ Glava 6.
 
 *Višestruko ugovaranje otuđenja*
 
-### Članak 125.
+###### Članak 125.
 
 (1) Kad je više osoba sklopilo s otuđivateljem pravne poslove radi stjecanja vlasništva iste nekretnine, vlasništvo će steći ona koja je u dobroj vjeri prva zatražila upis u zemljišnu knjigu, ako su ispunjene i sve ostale pretpostavke za stjecanje vlasništva.
 
@@ -1542,13 +1539,11 @@ Glava 6.
 
 (3) Odnos otuđivatelja s osobama s kojima je sklopio pravne poslove, ali one nisu stekle vlasništvo nekretnine, uređuju obveznopravna pravila.
 
-*Odjeljak 2.*
-
-*Stjecanje odlukom suda ili druge vlasti*
+#### Odjeljak 2. — Stjecanje odlukom suda ili druge vlasti
 
 *Djelovanje odluke*
 
-### Članak 126.
+###### Članak 126.
 
 (1) Odlukom suda ili drugoga tijela stječe se vlasništvo u slučajevima određenim zakonom, a na način i pod pretpostavkama određenim zakonom.
 
@@ -1558,17 +1553,15 @@ Glava 6.
 
 *Posebno glede nekretnina*
 
-### Članak 127.
+###### Članak 127.
 
 (1) Tko stekne pravo vlasništva nekretnine odlukom suda ili drugoga tijela, ovlašten je ishoditi upis stečenoga prava vlasništva u zemljišnoj knjizi.
 
 (2) Vlasništvo nekretnine stečeno odlukom suda ili drugoga tijela ne može se suprotstaviti pravu onoga koji je, postupajući s povjerenjem u zemljišne knjige, u dobroj vjeri upisao svoje pravo na nekretnini dok još pravo koje je bilo stečeno odlukom suda ili drugoga tijela nije bilo upisano.
 
-*Odjeljak 3.*
+#### Odjeljak 3. — Stjecanje nasljeđivanjem
 
-*Stjecanje nasljeđivanjem*
-
-### Članak 128.
+###### Članak 128.
 
 (1) Nasljednik stječe vlasništvo nasljeđenih stvari u času otvaranja nasljedstva, ako zakonom nije drukčije određeno.
 
@@ -1578,15 +1571,13 @@ Glava 6.
 
 (4) Što je određeno za nasljeđivanje, vrijedi na odgovarajući način i za svako sveopće sljedništvo (univerzalnu sukcesiju).
 
-*Odjeljak 4.*
+#### Odjeljak 4. — Stjecanje na temelju zakona
 
-*Stjecanje na temelju zakona*
-
-*a/ Općenito*
+### a/ Općenito
 
 *Djelovanje zakonskih pretpostavaka*
 
-### Članak 129.
+###### Članak 129.
 
 (1) Kad je zakon odredio da će se vlasništvo steći ispunjenjem određenih pretpostavaka koje nisu pravni posao, ni odluka suda ili drugoga tijela na temelju kojega se stječe vlasništvo, niti su nasljeđivanje, onaj kome se glede neke stvari ispune te pretpostavke stječe samim tim pravo vlasništva na njoj u trenutku ispunjenja tih pretpostavaka.
 
@@ -1596,29 +1587,31 @@ Glava 6.
 
 *Posebno glede nekretnina*
 
-### Članak 130.
+###### Članak 130.
 
 (1) Tko stekne pravo vlasništva nekretnine na temelju zakona, ovlašten je ishoditi upis stečenoga prava vlasništva u zemljišnoj knjizi.
 
 (2) Vlasništvo nekretnine stečene na temelju zakona ne može se suprotstaviti pravu onoga koji je, postupajući s povjerenjem u zemljišne knjige, u dobroj vjeri upisao svoje pravo na nekretnini dok još pravo koje je bilo stečeno na temelju zakona nije bilo upisano.
 
-*b/ Stjecanje prisvojenjem i nalazom*
+### b/ Stjecanje prisvojenjem i nalazom
 
 *Prisvojenje*
 
-### Članak 131.
+###### Članak 131.
 
 (1) Na pokretnoj stvari koju nitko nema u svom vlasništvu, steći će vlasništvo osoba koja uzme tu stvar u samostalni posjed s namjerom da je prisvoji, ako zakonom nije drukčije određeno.
 
 (2) Na pokretnim stvarima koje nitko nema u vlasništvu, a koje se mogu nabavljati ili rabiti samo uz posebnu dozvolu koju daje nadležno tijelo, vlasništvo može steći prisvojenjem samo osoba koja ima takvu dozvolu.
 
-(3) Ne može se steći prisvojenjem vlasništvo na stvarima koje po posebnom zakonu mogu biti samo u vlasništvu Republike Hrvatske ili jedinice lokalne uprave i samouprave; ali kad se radi o stvarima čija je namjena prisvajati ih (kao što su to rude, ribe, voda iz vodotoka i sl.), tada svaka osoba koja je na prisvajanje ovlaštena zakonom ili dopuštenjem izdanim na temelju zakona, stječe vlasništvo onoga što prisvoji na temelju i u granicama te ovlasti, ako posebnim zakonom nije drukčije određeno.
+(3) Ne može se steći prisvojenjem vlasništvo na stvarima koje po posebnom zakonu mogu biti samo u vlasništvu Republike Hrvatske ili jedinice područne (regionalne) samouprave; ali kad se radi o stvarima čija je namjena prisvajati ih (kao što su to rude, ribe, voda iz vodotoka i sl.), tada svaka osoba koja je na prisvajanje ovlaštena zakonom ili dopuštenjem izdanim na temelju zakona, stječe vlasništvo onoga što prisvoji na temelju i u granicama te ovlasti, ako posebnim zakonom nije drukčije određeno.
+
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je dio riječi u stavku 3.
 
 (4) Na nekretnini koju nitko nema u vlasništvu, ne može se prisvojenjem steći pravo vlasništva.
 
 *Napuštene stvari*
 
-### Članak 132.
+###### Članak 132.
 
 (1) Osim izvorno ničijih stvari, ničije su i one koje je vlasnik napustio ako se time odrekao svoga prava vlasništva.
 
@@ -1630,7 +1623,7 @@ Glava 6.
 
 *Posebno o napuštenim nekretninama*
 
-### Članak 133.
+###### Članak 133.
 
 (1) Nekretnina je ničija tek kad na temelju očitovanja o odreknuću od vlasništva danog u obliku isprave prikladne za zemljišnoknjižni upis bude to pravo izbrisano u zemljišnoj knjizi.
 
@@ -1640,7 +1633,7 @@ Glava 6.
 
 *Izgubljena stvar i nalaznik*
 
-### Članak 134.
+###### Članak 134.
 
 (1) Stvar koju je vlasnik izgubio, koja je zametnuta, ili mu je ukradena, nije samim tim prestala biti njegovim vlasništvom, pa ju je nalaznik dužan bez odgode predati onomu tko ju je izgubio, odnosno vlasniku stvari, ako po znakovima na stvari ili iz drugih okolnosti može za njega saznati, a nije mu teško dostupan.
 
@@ -1648,7 +1641,7 @@ Glava 6.
 
 *Nalazni ured*
 
-### Članak 135.
+###### Članak 135.
 
 (1) Nalazni ured dužan je nađenu stvar primiti u polog, te čuvati za onoga koji ju je izgubio iz posjeda, odnosno za njezina vlasnika, kao i poduzeti sve mjere radi očuvanja stvari.
 
@@ -1658,7 +1651,7 @@ Glava 6.
 
 *Povrat stvari*
 
-### Članak 136.
+###### Članak 136.
 
 (1) Ako se onaj koji je stvar izgubio ili je njezin vlasnik javi u roku od godine dana od objave oglasa i dokaže da je stvar izgubio iz posjeda, odnosno da je njezin vlasnik, predat će mu se stvar ili iznos dobiven njezinom prodajom, čim se od njega naplate svi nužni troškovi u svezi s nađenom stvari, kao i nagrada nalazniku (nalaznina).
 
@@ -1668,7 +1661,7 @@ Glava 6.
 
 *Nalaznina*
 
-### Članak 137.
+###### Članak 137.
 
 (1) Nalaznik ima pravo na nalazninu u visini od 10% od prometne vrijednosti stvari, a i na naknadu za nužne troškove koje je imao u svezi s nađenom stvari.
 
@@ -1682,7 +1675,7 @@ Glava 6.
 
 *Predaja stvari nalazniku*
 
-### Članak 138.
+###### Članak 138.
 
 (1) Ako se osoba koja je izgubila posjed stvari, a niti vlasnik stvari, ne jave u roku od godine dana od objave oglasa o nalazu stvari, ili ne dokažu svoje pravo na stvar ili odbiju primiti stvar, tada se nađena stvar, odnosno novac dobiven njezinom prodajom predaje u neposredni posjed nalazniku.
 
@@ -1690,7 +1683,7 @@ Glava 6.
 
 *Stjecanje vlasništva nađene stvari*
 
-### Članak 139.
+###### Članak 139.
 
 (1) Nađenu stvar, odnosno za nju dobiveni novac može nalaznik steći u vlasništvo pod pretpostavkama za stjecanje stvari putem dosjelosti, s tim da je njegov posjed nađene stvari pošten ako ne zna niti bi morao znati čija je stvar.
 
@@ -1698,7 +1691,7 @@ Glava 6.
 
 *Nalaz blaga*
 
-### Članak 140.
+###### Članak 140.
 
 (1) Blagom se u smislu ovoga Zakona smatraju novac, dragocjenosti i druge stvari od vrijednosti koje su bile skrivene tako dugo da se više ne može utvrditi tko im je vlasnik.
 
@@ -1716,11 +1709,11 @@ Glava 6.
 
 (8) Odredbe o pravu vlasnika nekretnine na nagradu na odgovarajući se način primjenjuju i na nositelja prava građenja, ako je blago nađeno u zgradi koja je pripadnost zemljišta na kojem on ima pravo građenja.
 
-*c) Stjecanje priraštaja*
+##### c) Stjecanje priraštaja
 
 *Stjecanje odvajanjem*
 
-### Članak 141.
+###### Članak 141.
 
 (1) Plodovi i sve što se odvoji od neke stvari pripada i nakon odvajanja njezinu vlasniku, ako nije što drugo određeno.
 
@@ -1730,7 +1723,7 @@ Glava 6.
 
 *Stjecanja na temelju ograničenoga stvarnog prava*
 
-### Članak 142.
+###### Članak 142.
 
 (1) Kome na temelju njegova ograničenoga stvarnog prava pripada pravo na vlasništvo plodova ili drugih dijelova neke tuđe stvari, taj postaje njihovim vlasnikom kad se odvoje od vlasnikove stvari; ali ako ga njegovo pravo samo ovlašćuje da uzme plodove ili dijelove neke stvari u vlasništvo, oni će postati njegovi tek kad ih za sebe ubere.
 
@@ -1740,7 +1733,7 @@ Glava 6.
 
 *Stjecanje na temelju obveznoga prava*
 
-### Članak 143.
+###### Članak 143.
 
 (1) Tko na temelju nekoga obveznoga prava ima pravo na plodove ili druge dijelove tuđe stvari koja mu je predana u posjed, a posjeduje je u času odvajanja tih plodova ili dijelova, stekao ih je u vlasništvo samim odvajanjem; nema li u tom času stvar u posjedu, steći će ih tek kad ih primi u posjed.
 
@@ -1748,7 +1741,7 @@ Glava 6.
 
 *Plodovi životinje*
 
-### Članak 144.
+###### Članak 144.
 
 (1) Plodovi životinje i sve druge koristi od nje pripadaju njezinu vlasniku, odnosno drugim osobama, prema pravilima iz članka 141. do 143. ovoga Zakona.
 
@@ -1756,7 +1749,7 @@ Glava 6.
 
 *Priraštaj zemljišta*
 
-### Članak 145.
+###### Članak 145.
 
 (1) Nastane li otok u sredini vodotoka koji nije opće dobro, a posebnim zakonom nije ništa drugo određeno, tada otok pravno prirasta zemljištima koja leže duž toga otoka na obje obale po dužini zemljišta, a u širinu do polovine vodotoka.
 
@@ -1764,7 +1757,7 @@ Glava 6.
 
 (3) Odredbe o stjecanju priraštajem otoka nastalih u vodotoku ne primjenjuju se na otoke koji nastanu presušivanjem vode, ili diobom vode na više rukavaca, ili ako zemljišta budu poplavljena, jer tada dotadašnja prava ostaju nepromijenjena.
 
-### Članak 146.
+###### Članak 146.
 
 (1) Ako vodotok promijeni svoj tok, zainteresirani priobalni vlasnici imaju pravo da u roku od tri godine vrate prijašnji tok o svom trošku, ako se to ne protivi planu regulacije toga vodotoka, niti odredbama posebnoga zakona.
 
@@ -1772,7 +1765,7 @@ Glava 6.
 
 (3) Osim u slučaju naknade prema odredbi stavka 2. ovoga članka, ostavljeno korito pripada vlasnicima obale u skladu s pravilima o stjecanju vlasništva otoka, ako posebnim zakonom nije drukčije određeno.
 
-### Članak 147.
+###### Članak 147.
 
 (1) Otrgne li vodotok komad zemljišta i pripoji ga drugom zemljištu, vlasnik otrgnutoga komada zemljišta smije u roku od godine dana vratiti taj komad zemljišta.
 
@@ -1782,7 +1775,7 @@ Glava 6.
 
 *Prerada, sjedinjenje, miješanje i građenje tuđim materijalom*
 
-### Članak 148.
+###### Članak 148.
 
 (1) Tko tuđe pokretne stvari preradi, sjedini sa svojima, pomiješa ili smiješa s njima, ili se to dogodilo bez njegove volje, nije time dobio nikakvo pravo na tuđe, ako za to nema pravni temelj stjecanja.
 
@@ -1792,7 +1785,7 @@ Glava 6.
 
 *Nenamjerno suvlasništvo*
 
-### Članak 149.
+###### Članak 149.
 
 (1) Ako uspostava prijašnjega stanja prerađenih, sjedinjenih, pomiješanih ili smiješanih stvari, odnosno njihovo rastavljanje, nije moguće ili nije dopušteno, a po općem je shvaćanju nastala nova stvar, tada, nema li pravnog temelja na kojem bi ta stvar pripala komu drugomu, ona pripada svim sudionicima u suvlasništvo, prema razmjeru vrijednosti njihovih stvari i korisnoga rada u času kad je od toga nastala nova stvar, a obveznopravna pravila određuju ima li neki od suvlasnika pravo potraživati naknadu i od koga.
 
@@ -1800,7 +1793,7 @@ Glava 6.
 
 *Prirastanje glavnoj stvari*
 
-### Članak 150.
+###### Članak 150.
 
 (1) Kad uspostava prijašnjega stanja, odnosno rastavljanje nije moguće bez nerazmjerno velikih troškova, a nije nastala nova stvar nego je postojećoj stvari kao glavnoj prirasla druga stvar postavši njezinom pripadnošću, ili su u nju uloženi tuđi rad ili sredstva, vlasništvo glavne stvari postoji i dalje, protežući se i na sve ono što je toj stvari priraslo ili je u nju uloženo, a obveznopravna pravila određuju tko ima pravo tražiti naknadu i od koga.
 
@@ -1810,7 +1803,7 @@ Glava 6.
 
 *Utjecaj na ograničena stvarna prava*
 
-### Članak 151.
+###### Članak 151.
 
 (1) Kad preradom, sjedinjenjem, miješanjem ili stvaranjem smjese, građenjem tuđim materijalom ili njegovom ugradnjom u vlastitu nekretninu prestane samostalno postojati neka pokretna stvar, prestaju time i sva ograničena stvarna prava na njoj, osim onih koja po svojoj naravi mogu za predmet imati naknadu na koju bivši vlasnik ima pravo.
 
@@ -1820,7 +1813,7 @@ Glava 6.
 
 *Građenje na tuđem zemljištu*
 
-### Članak 152.
+###### Članak 152.
 
 (1) Zgrada koju netko bez znanja i volje vlasnika zemljišta izgradi na tuđem zemljištu pripada vlasniku tog zemljišta.
 
@@ -1834,13 +1827,13 @@ Glava 6.
 
 *Pošteni graditelj i nepošteni vlasnik*
 
-### Članak 153.
+###### Članak 153.
 
 Ako je vlasnik zemljišta znao za građenje, a nije bez odgode zabranio daljnju gradnju poštenom graditelju, zemljišna čestica sa zgradom koja je na njoj izgrađena pripada graditelju, a prijašnji vlasnik zemljišta ima samo pravo zahtijevati naknadu tržišne vrijednosti zemljišta.
 
 *Nepošteni i graditelj i vlasnik zemljišta*
 
-### Članak 154.
+###### Članak 154.
 
 (1) Ako graditelj nije bio pošten, zgrada je pripala vlasniku zemljišta i kad nije bez odgode zabranio gradnju, no vlasnik zemljišta tada nema pravo zahtijevati uspostavu prijašnjega stanja.
 
@@ -1848,7 +1841,7 @@ Ako je vlasnik zemljišta znao za građenje, a nije bez odgode zabranio daljnju 
 
 *Prekoračenje međe građenjem*
 
-### Članak 155.
+###### Članak 155.
 
 (1) Ako je građenjem zgrade prekoračena međa i zahvaćen dio susjednoga zemljišta uz među, vlasnik susjednoga zemljišta ima pravo zahtijevati uspostavu prijašnjega stanja.
 
@@ -1860,7 +1853,7 @@ Ako je vlasnik zemljišta znao za građenje, a nije bez odgode zabranio daljnju 
 
 *Dogradnja, nadogradnja, preuređenje i ulaganje*
 
-### Članak 156.
+###### Članak 156.
 
 (1) Dogradnjom, nadogradnjom ili preuređenjem (adaptacijom) zgrada, odnosno prostorija u suvlasničkim, zajedničkim ili tuđim zgradama, kao ni njihovom prigradnjom, ugradnjom, ili ulaganjem u njih, ne može se steći vlasništvo, ako nije što drugo odredio vlasnik dograđene, nadograđene, odnosno prigrađene nekretnine.
 
@@ -1868,21 +1861,21 @@ Ako je vlasnik zemljišta znao za građenje, a nije bez odgode zabranio daljnju 
 
 *Građenje na tuđem pravu građenja*
 
-### Članak 157.
+###### Članak 157.
 
 Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju toga prava pripadaju prava i obveze vlasnika zemljišta iz članka 152. do 155. ovoga Zakona.
 
 *Sijanje i sađenje*
 
-### Članak 158.
+###### Članak 158.
 
 (1) Biljke koje puste korijenje u nekom zemljištu vlasništvo su onoga čije je to zemljište, bez obzira na to čije je bilo sjeme ili sadnice, a odnos s vlasnikom sjemena ili sadnica prosuđivat će se prema obveznopravnim pravilima.
 
 (2) Što je u stavku 1. ovoga članka određeno za biljke koje su pustile korijenje, vrijedi i za one koje se ne mogu od nekretnine odvojiti bez nerazmjerno velikih troškova.
 
-*d/ Stjecanje dosjelošću*
+### d/ Stjecanje dosjelošću
 
-### Članak 159.
+###### Članak 159.
 
 (1) Dosjelošću se stječe vlasništvo stvari samostalnim posjedom te stvari ako taj ima zakonom određenu kakvoću i neprekidno traje zakonom određeno vrijeme, a posjednik je sposoban da bude vlasnikom te stvari.
 
@@ -1894,7 +1887,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Tijek vremena*
 
-### Članak 160.
+###### Članak 160.
 
 (1) Vrijeme potrebno za dosjelost počinje teći onoga dana kad je posjednik stupio u samostalni posjed stvari, a završava se istekom posljednjega dana vremena potrebnoga za dosjelost.
 
@@ -1908,13 +1901,11 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 (6) Na prekid odnosno zastoj tijeka vremena dosjelosti na odgovarajući se način primjenjuju odredbe o prekidu, odnosno zastoju tijeka rokova za zastaru tražbina.
 
-*Glava 7.*
-
-*Zaštita vlasništva*
+### Glava 7. — ZAŠTITA VLASNIŠTVA
 
 *Vlasnički zahtjev za povrat stvari*
 
-### Članak 161.
+###### Članak 161.
 
 (1) Vlasnik ima pravo zahtijevati od osobe koja posjeduje njegovu stvar da mu ona preda svoj posjed te stvari.
 
@@ -1924,7 +1915,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Prava vlasnička tužba*
 
-### Članak 162.
+###### Članak 162.
 
 (1) Da bi u postupku pred sudom ili drugim nadležnim tijelom ostvario svoje pravo da od osobe koja posjeduje njegovu stvar zahtijeva da mu ona preda svoj posjed te stvari, vlasnik mora dokazati da je stvar koju zahtijeva njegovo vlasništvo i da se nalazi u tuženikovu posjedu.
 
@@ -1936,7 +1927,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Posjednikovi prigovori*
 
-### Članak 163.
+###### Članak 163.
 
 (1) Posjednik ima pravo odbiti predaju stvari njezinom vlasniku ako ima pravo koje ovlašćuje na posjedovanje te stvari (pravo na posjed).
 
@@ -1948,7 +1939,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Pravni položaj poštenoga posjednika*
 
-### Članak 164.
+###### Članak 164.
 
 (1) Pošteni posjednik tuđe stvari koju nema pravo posjedovati mora je predati vlasniku ili osobi koju taj odredi, ali nije dužan dati naknadu za to što ju je upotrebljavao i od nje imao koristi primjerene onom pravu na posjed za koje je vjerovao da mu pripada, a ne treba ni naknaditi ono što je pritom oštećeno ili uništeno.
 
@@ -1966,7 +1957,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Pravni položaj nepoštenoga posjednika*
 
-### Članak 165.
+###### Članak 165.
 
 (1) Nepošteni posjednik tuđe stvari mora je predati vlasniku ili osobi koju taj odredi te naknaditi sve štete koje su na njoj nastale i sve koristi koje je imao za vrijeme svojega posjedovanja, pa i one koje bi stvar dala da ih nije zanemario.
 
@@ -1982,7 +1973,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Vlasnička tužba predmnjevanoga vlasnika*
 
-### Članak 166.
+###### Članak 166.
 
 (1) Onoga tko u postupku pred sudom ili drugim nadležnim tijelom dokaže pravni temelj i istinit način svoga stjecanja stvari smatrat će se vlasnikom te stvari (predmnjevani vlasnik) prema osobi koja stvar posjeduje bez pravnoga temelja ili na slabijem pravnom temelju.
 
@@ -1994,7 +1985,7 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Zaštita od uznemiravanja*
 
-### Članak 167.
+###### Članak 167.
 
 (1) Ako treća osoba bespravno uznemirava vlasnika na drugi način, a ne oduzimanjem stvari, vlasnik može i putem suda zahtijevati da to uznemiravanje prestane.
 
@@ -2006,17 +1997,15 @@ Kad je građeno na zemljištu opterećenom tuđim pravom građenja, nositelju to
 
 *Zaštita od povrede upisom u zemljišnoj knjizi*
 
-### Članak 168.
+###### Članak 168.
 
 Ako netko povrijedi vlasnikovo pravo vlasništva nevaljanim upisom u zemljišne knjige, vlasnik se ima pravo štititi od toga sredstvima koja za zaštitu knjižnih prava daju pravila zemljišnoknjižnoga prava.
 
-*Glava 8.*
-
-*Prestanak vlasništva*
+### Glava 8. — PRESTANAK VLASNIŠTVA
 
 *Propast stvari*
 
-### Članak 169.
+###### Članak 169.
 
 (1) Pravo vlasništva prestaje propašću stvari koja je bila predmetom toga prava, no ostanu li neki ostaci stvari, vlasnik na njima zadržava vlasništvo.
 
@@ -2024,19 +2013,19 @@ Ako netko povrijedi vlasnikovo pravo vlasništva nevaljanim upisom u zemljišne 
 
 *Stavljanje izvan prometa*
 
-### Članak 170.
+###### Članak 170.
 
 Pravo vlasništva prestaje zakonskom odredbom po kojoj stvar koja je bila predmetom prava vlasništva više to ne može biti, u kojem slučaju za dotadašnjega vlasnika nastupaju pravni učinci kao da je glede te stvari provedeno potpuno izvlaštenje.
 
 *Tuđe stjecanje*
 
-### Članak 171.
+###### Članak 171.
 
 Pravo vlasništva potpuno prestaje kad druga osoba izvorno stekne vlasništvo stvari, dok s prelaskom vlasništva na drugu osobu ono prestaje samo za dotadašnjega vlasnika.
 
 *Odreknuće*
 
-### Članak 172.
+###### Članak 172.
 
 (1) Pravo vlasništva pokretnina prestaje napuštanjem posjeda stvari koje znači odreknuće od prava vlasništva.
 
@@ -2046,23 +2035,19 @@ Pravo vlasništva potpuno prestaje kad druga osoba izvorno stekne vlasništvo st
 
 *Prestanak na temelju zakona*
 
-### Članak 173.
+###### Članak 173.
 
 (1) Pravo vlasništva prestaje kad to određuje posebni zakon, pod pretpostavkama i na način određen zakonom.
 
 (2) Kad pravo vlasništva nekretnine na temelju posebnoga zakona prestane bez brisanja u zemljišnoj knjizi, takav prestanak prava vlasništva ne može ići na štetu onih koji za nj nisu znali niti su to morali znati, pri čemu se nikomu ne može predbaciti da nije istraživao izvanknjižno stanje.
 
-*Dio četvrti*
+## Dio četvrti — SLUŽNOSTI
 
-## SLUŽNOSTI
-
-Glava 1.
-
-## O SLUŽNOSTIMA UOPĆE
+### Glava 1. — O SLUŽNOSTIMA UOPĆE
 
 *Ovlaštenikovo pravo*
 
-### Članak 174.
+###### Članak 174.
 
 (1) Služnost je ograničeno stvarno pravo na nečijoj stvari koje ovlašćuje svojega nositelja da se na određeni način služi tom stvari (poslužna stvar) ma čija ona bila, a njezin svagdašnji vlasnik je dužan to trpjeti ili pak zbog toga glede nje nešto propuštati.
 
@@ -2072,7 +2057,7 @@ Glava 1.
 
 *Svrha*
 
-### Članak 175.
+###### Članak 175.
 
 (1) Svaka služnost mora imati razumnu svrhu.
 
@@ -2080,13 +2065,13 @@ Glava 1.
 
 *Ovlaštenik služnosti*
 
-### Članak 176.
+###### Članak 176.
 
 Nekretnina može biti opterećena pravom služnosti, bilo u korist svagdašnjega vlasnika određene nekretnine (povlasna nekretnina) ili nositelja prava građenja na njoj, bilo u korist određene osobe.
 
 *Izvršavanje ovlasti*
 
-### Članak 177.
+###### Članak 177.
 
 (1) Ovlaštenik prava služnosti može ovlasti koje mu to njegovo pravo daje izvršavati po svojoj volji, ali ne šireći ih, nego stežući koliko to dopušta narav i svrha služnosti.
 
@@ -2096,17 +2081,17 @@ Nekretnina može biti opterećena pravom služnosti, bilo u korist svagdašnjega
 
 *Preinaka načina izvršavanja*
 
-### Članak 178.
+###### Članak 178.
 
 (1) Dotadašnji način izvršavanja svojih ovlasti može nositelj prava služnosti glede sadržaja i mjesta na kojem ih izvršava na poslužnoj stvari preinačiti po svojoj volji, ako bitno ne mijenja dotadašnji način na koji ih je izvršavao.
 
-(2) Ako bi se bitno promijenio dotadašnji način izvršavanja ovlasti, preinaka je dopuštena samo u sporazumu s vlasnikom poslužne stvari, a ako bi se time ometao dotadašnji način izvršavanja ostalih stvarnih prava na istoj stvari - tada i u sporazumu s ovlaštenicima tih prava.
+(2) Ako bi se bitno promijenio dotadašnji način izvršavanja ovlasti, preinaka je dopuštena samo u sporazumu s vlasnikom poslužne stvari, a ako bi se time ometao dotadašnji način izvršavanja ostalih stvarnih prava na istoj stvari – tada i u sporazumu s ovlaštenicima tih prava.
 
 (3) Na preinaku iz stavka 2. ovoga članka, na odgovarajući se način primjenjuje ono što je određeno za osnivanje služnosti na temelju pravnoga posla.
 
 *Prelaganje*
 
-### Članak 179.
+###### Članak 179.
 
 (1) Služnost je teret na cijeloj poslužnoj stvari, ali ako se stalno izvršava samo na jednom njezinu dijelu, može vlasnik poslužne stvari zahtijevati da se izvršavanje preloži na neko drugo, ovlašteniku podjednako prikladno mjesto, ako je izvršavanje na dosadašnjem mjestu vlasniku osobito tegobno.
 
@@ -2116,19 +2101,17 @@ Nekretnina može biti opterećena pravom služnosti, bilo u korist svagdašnjega
 
 *Izvršavanja više služnosti na istoj poslužnoj stvari*
 
-### Članak 180.
+###### Članak 180.
 
 (1) Jedna nekretnina može biti opterećena s više služnosti, ali novija služnost ne može ograničiti izvršavanje onih koje su prije nje u prvenstvenom redu.
 
-(2) Ako služnosti odnosno drugi stvarni tereti koji daju pravo na koristi imaju isti prvenstveni red, a izvršavanje jednoga ometa izvršavanje drugoga, svaki
-
-ovlaštenik može zahtijevati da sud na pravedan način uredi izvršavanje u interesu svih ovlaštenika.
+(2) Ako služnosti odnosno drugi stvarni tereti koji daju pravo na koristi imaju isti prvenstveni red, a izvršavanje jednoga ometa izvršavanje drugoga, svaki ovlaštenik može zahtijevati da sud na pravedan način uredi izvršavanje u interesu svih ovlaštenika.
 
 (3) Nitko ne može imati služnost na nečijem pravu služnosti.
 
 *Troškovi održavanja*
 
-### Članak 181.
+###### Članak 181.
 
 (1) Troškove održavanja i popravka poslužne stvari snosi ovlaštenik, ako nije drukčije određeno.
 
@@ -2140,7 +2123,7 @@ ovlaštenik može zahtijevati da sud na pravedan način uredi izvršavanje u int
 
 *Neodvojivost*
 
-### Članak 182.
+###### Članak 182.
 
 (1) Služnost se ne može samovlasno razdvojiti od poslužne stvari, niti prenijeti na drugoga ovlaštenika ili stvar.
 
@@ -2148,7 +2131,7 @@ ovlaštenik može zahtijevati da sud na pravedan način uredi izvršavanje u int
 
 *Utjecaj diobe*
 
-### Članak 183.
+###### Članak 183.
 
 (1) Služnost je nedjeljiva; povećanjem, smanjenjem ili komadanjem poslužne stvari, uključujući i promjene oblika, površine ili izgrađenosti katastarske čestice koja je poslužna stvar, ne može se služnost koja je tereti promijeniti ni razdijeliti, ako nije što drugo određeno zakonom.
 
@@ -2158,7 +2141,7 @@ ovlaštenik može zahtijevati da sud na pravedan način uredi izvršavanje u int
 
 *Prividne služnosti*
 
-### Članak 184.
+###### Članak 184.
 
 (1) Ovlasti kakve daje neka služnost mogu se dati i do opoziva (prividna služnost), u kojem će se slučaju ovlasti i dužnosti do opoziva prosuđivati uz odgovarajuću primjenu pravila o služnostima.
 
@@ -2166,21 +2149,17 @@ ovlaštenik može zahtijevati da sud na pravedan način uredi izvršavanje u int
 
 *Zakonske služnosti*
 
-### Članak 185.
+###### Članak 185.
 
 Određuje li neki posebni zakon da pod određenim pretpostavkama neke služnosti terete one stvari glede kojih su te pretpostavke ispunjene (zakonske služnosti), to su zakonska ograničenja prava vlasništva, pa se na njih ne primjenjuju pravila o služnostima, ako zakonom nije drukčije određeno.
 
-Glava 2.
+### Glava 2. — STVARNE SLUŽNOSTI
 
-## STVARNE SLUŽNOSTI
-
-*Odjeljak 1.*
-
-*Opće odredbe*
+#### Odjeljak 1. — Opće odredbe
 
 *Povlasna nekretnina i služnost*
 
-### Članak 186.
+###### Članak 186.
 
 (1) Stvarna služnost je stvarno pravo svagdašnjega vlasnika određene nekretnine (povlasna nekretnina) da se za potrebe te nekretnine na određeni način služi nečijom nekretninom (poslužna nekretnina), čiji svagdašnji vlasnik to mora trpjeti ili mora propuštati određene radnje glede svoje nekretnine koje bi inače imao pravo činiti.
 
@@ -2192,13 +2171,13 @@ Glava 2.
 
 *Pravo građenja na povlasnoj nekretnini*
 
-### Članak 187.
+###### Članak 187.
 
 Što je određeno za vlasnika povlasne nekretnine, na odgovarajući način vrijedi i za nositelja prava građenja, ako nije što drugo određeno, niti proizlazi iz naravi toga prava.
 
 *Sadržaj ovlasti*
 
-### Članak 188.
+###### Članak 188.
 
 (1) Vlasnik povlasne i vlasnik poslužne nekretnine mogu osnivati stvarne služnosti bilo kojega sadržaja koji je moguć, a nije zabranjen, bilo da time nastane stanje koje traje i nije potrebno ovlaštenikovo činjenje za izvršavanje ovlasti koje ta služnost daje, bilo da se služnost izvršava ponavljanjem ljudskih radnji, uzastopce ili na određeno vrijeme ili u određeno doba godine, osim ako je što drugo zakonom određeno.
 
@@ -2212,7 +2191,7 @@ Glava 2.
 
 *Nepravilna služnost*
 
-### Članak 189.
+###### Članak 189.
 
 (1) Služnost koja je po svojoj naravi stvarna može se osnovati na poslužnoj nekretnini i u korist određene osobe (nepravilna služnost).
 
@@ -2220,13 +2199,11 @@ Glava 2.
 
 (3) Tko tvrdi da je stvarna služnost osnovana u korist određene osobe, treba to i dokazati.
 
-*Odjeljak 2.*
-
-*Posebna pravila za pojedine služnosti*
+#### Odjeljak 2. — Posebna pravila za pojedine služnosti
 
 *O služnostima puta*
 
-### Članak 190.
+###### Članak 190.
 
 (1) Vlasnik povlasne nekretnine koji ima pravo staze ovlašten je time hodati tom stazom te tako tuda k sebi puštati druge ljude; ima li pravo progoniti stoku, ovlašten je time i služiti se kolicima; a ima li pravo kolnika, ovlašten je voziti se po poslužnoj nekretnini jednom ili više zaprega, motornim vozilom i biciklom.
 
@@ -2236,7 +2213,7 @@ Glava 2.
 
 *O služnostima puta kao nužnom prolazu*
 
-### Članak 191.
+###### Članak 191.
 
 (1) Nužni prolaz je služnost puta koju je osnovao sud na zahtjev vlasnika nekretnine do koje nema nikakve ili nema prikladne putne veze s javnim putom.
 
@@ -2244,7 +2221,7 @@ Glava 2.
 
 *O služnosti vodovoda*
 
-### Članak 192.
+###### Članak 192.
 
 (1) Vlasnik povlasne nekretnine koji je ovlašten crpsti vodu na poslužnoj nekretnini, ima i pravo na slobodan pristup k njoj.
 
@@ -2252,15 +2229,15 @@ Glava 2.
 
 *O služnosti paše*
 
-### Članak 193.
+###### Članak 193.
 
 (1) Ako u času stjecanja prava služnosti paše nisu određeni vrsta i broj stoke niti vrijeme i mjera izvršavanja prava paše, mjerodavno je kako se mirno izvršavao posjed toga prava služnosti kroz dvadeset godina.
 
 (2) Ako se vrsta i broj stoke ne može utvrditi prema pravilu iz stavka 1. ovoga članka, tada se ravna prema sljedećem:
 
-­ pravo paše odnosi se, ako se to ne protivi posebnim propisima, na svaku vrstu tegleće stoke, goveda i ovaca, ali ne na svinje i perad, niti na koze u šumskim područjima; nečista, nezdrava i tuđa stoka uvijek se isključuje od paše;
+pravo paše odnosi se, ako se to ne protivi posebnim propisima, na svaku vrstu tegleće stoke, goveda i ovaca, ali ne na svinje i perad, niti na koze u šumskim područjima; nečista, nezdrava i tuđa stoka uvijek se isključuje od paše;
 
-­ ako se broj stoke koja se napasa mijenjao u zadnjih dvadeset godina, tad se uzima srednji broj iz prve tri godine, a ako nije jasno kolik je, ima se uzeti u obzir što je pravedno s obzirom na to kolika je i kakva paša; ni u kojem slučaju ovlašteniku nije dopušteno da na tuđoj paši drži više stoke nego što je moguće preko zime prehraniti krmom dobivenom s povlasnoga zemljišta; no stoku koja još siše ne računa se nikad u broj stoke.
+ako se broj stoke koja se napasa mijenjao u zadnjih dvadeset godina, tad se uzima srednji broj iz prve tri godine, a ako nije jasno kolik je, ima se uzeti u obzir što je pravedno s obzirom na to kolika je i kakva paša; ni u kojem slučaju ovlašteniku nije dopušteno da na tuđoj paši drži više stoke nego što je moguće preko zime prehraniti krmom dobivenom s povlasnoga zemljišta; no stoku koja još siše ne računa se nikad u broj stoke.
 
 (3) Vrijeme paše određuje se uopće po ustaljenom mjesnom običaju, ali radi paše ne smije nikad biti smetano ili otežano poljsko obrađivanje uređeno posebnim propisima.
 
@@ -2268,13 +2245,13 @@ Glava 2.
 
 *O ostalim poljskim služnostima*
 
-### Članak 194.
+###### Članak 194.
 
 Što je određeno za pravo paše, na odgovarajući se način primjenjuje i na služnost sječe drva i ostale poljske služnosti.
 
 *O pravu prozora*
 
-### Članak 195.
+###### Članak 195.
 
 (1) Pravo prozora u zidu poslužne nekretnine daje vlasniku povlasne nekretnine samo pravo na svjetlo i zrak; a na vidik samo ako mu je ta ovlast posebno dana.
 
@@ -2284,7 +2261,7 @@ Glava 2.
 
 *O pravu imati dio zgrade i naprave na poslužnoj nekretnini*
 
-### Članak 196.
+###### Članak 196.
 
 (1) Vlasnik povlasne nekretnine kojega njegovo pravo služnosti ovlašćuje da na susjednoj nekretnini, na njezinoj površini, ispod nje ili u njezinu zračnom prostoru ima dio svoje zgrade, neku drugu izgrađenu napravu ili kakav uređaj koji služi njegovoj zgradi, dužan je to uzdržavati o svome trošku, a vlasniku poslužne nekretnine plaćati naknadu za iskorištavanje njegove nekretnine u visini zakupnine, ako nije drukčije određeno ugovorom ili zakonom.
 
@@ -2294,13 +2271,13 @@ Glava 2.
 
 *O pravu provođenja tekućina*
 
-### Članak 197.
+###### Članak 197.
 
 Ako su za provodnju tekućina kroz poslužnu nekretninu potrebni jarci i kanali, mora ih izgraditi vlasnik povlasne nekretnine, te ih držati dobro pokrivene i čiste i time olakšati opterećenje poslužnoga zemljišta.
 
 *O pravu kapnice*
 
-### Članak 198.
+###### Članak 198.
 
 (1) Vlasnik povlasne nekretnine koji ima pravo odvođenja kišnice sa svojega krova na poslužnu nekretninu (pravo kapnice) može pustiti da kišnica otječe na tuđu nekretninu slobodno ili kroz žlijeb.
 
@@ -2308,17 +2285,13 @@ Ako su za provodnju tekućina kroz poslužnu nekretninu potrebni jarci i kanali,
 
 (3) Ovlaštenik služnosti iz stavka 1. ovoga članka dužan je održavati žljebove namijenjene otjecanju kao i svoj krov u takvu stanju da mlaz kišnice ne šteti opterećenoj nekretnini, a i napali snijeg na vrijeme počistiti.
 
-Glava 3.
+### Glava 3. — OSOBNE SLUŽNOSTI
 
-## OSOBNE SLUŽNOSTI
-
-*Odjeljak 1.*
-
-*Opće odredbe*
+#### Odjeljak 1. — Opće odredbe
 
 *Služnosti osobne naravi*
 
-### Članak 199.
+###### Članak 199.
 
 (1) Osobna služnost je stvarno pravo koje ovlašćuje pojedinačno određenu osobu da se na određeni način služi tuđom stvari (poslužna stvar), čiji svagdašnji vlasnik to mora trpjeti.
 
@@ -2326,7 +2299,7 @@ Glava 3.
 
 *Poslužna stvar*
 
-### Članak 200.
+###### Članak 200.
 
 (1) Osobne služnosti mogu postojati na cijeloj poslužnoj stvari, a i na idealnom dijelu ako je to moguće s obzirom na sadržaj služnosti i narav predmeta.
 
@@ -2334,13 +2307,13 @@ Glava 3.
 
 *Ograničeno trajanje*
 
-### Članak 201.
+###### Članak 201.
 
 Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju najkasnije smrću njihova ovlaštenika, ako zakon ne određuje drukčije.
 
 *Neotuđivost i nenasljedivost*
 
-### Članak 202.
+###### Članak 202.
 
 (1) Osobne služnosti ne mogu se prenositi s ovlaštenika na drugu osobu.
 
@@ -2348,15 +2321,13 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 (3) Iznimno, kad je osobna služnost izričito osnovana i za ovlaštenikove nasljednike, nasljeđivanjem će ona prijeći na one koji nasljeđuju zbog smrti prvoga ovlaštenika; smrću nasljednika koji je naslijedio osobnu služnost, ona se beziznimno gasi.
 
-*Odjeljak 2.*
+#### Odjeljak 2. — Posebna pravila o pojedinim služnostima
 
-*Posebna pravila o pojedinim služnostima*
-
-*a/ O pravu plodouživanja*
+### a/ O pravu plodouživanja
 
 *Uopće*
 
-### Članak 203.
+###### Članak 203.
 
 (1) Pravo plodouživanja je osobna služnost koja svojega nositelja (plodouživatelja) ovlašćuje da se u svakom pogledu služi nečijom stvari (poslužna stvar) u skladu s njezinom namjenom, čuvajući njezino sućanstvo.
 
@@ -2372,7 +2343,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Ovlasti*
 
-### Članak 204.
+###### Članak 204.
 
 (1) Plodouživatelj je ovlašten da se, bez obzira na to kolike su mu potrebe, služi poslužnom stvari u skladu s njezinom namjenom, da je posjeduje kao nesamostalni posjednik te je potpuno za sebe rabi, a njegov je i čisti prihod od čiste vrijednosti te stvari, ali sve to samo u granicama očuvanja sućanstva, što uključuje i očuvanje temeljne namjene poslužne stvari.
 
@@ -2382,7 +2353,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Čisti prihod od čiste vrijednosti*
 
-### Članak 205.
+###### Članak 205.
 
 (1) Plodouživateljev je sav prihod koji poslužna stvar daje bez umanjenja sućanstva, ali on snosi troškove i terete određene ovim Zakonom.
 
@@ -2398,7 +2369,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Izvanredni popravci i obnova stvari*
 
-### Članak 206.
+###### Članak 206.
 
 (1) Ako je zbog dotrajalosti ili više sile postalo nužno obaviti izvanredne popravke ili izvanredna obnavljanja poslužne stvari, plodouživatelj je dužan bez odgađanja obavijestiti vlasnika, odnosno onoga tko za vlasnika upravlja tom stvari, osim ako je te popravke ili obnavljanja dužan učiniti o svome trošku.
 
@@ -2410,7 +2381,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Poboljšice*
 
-### Članak 207.
+###### Članak 207.
 
 (1) Plodouživatelj nije dužan dopustiti da vlasnik obavlja poboljšice na poslužnoj stvari koje nisu nužne, osim ako mu se vlasnik obveže dati punu odštetu za uporabu i prihod koji plodouživatelj gubi zbog obavljanja radova.
 
@@ -2420,7 +2391,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Popis i procjena*
 
-### Članak 208.
+###### Članak 208.
 
 (1) Vlasnik i plodouživatelj sastavit će ovjerovljeni popis svih poslužnih stvari s naznakom njihove vrijednosti u vrijeme sastavljanja popisa i procjene, radi lakšega dokazivanja uzajamnih tražbina.
 
@@ -2428,7 +2399,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Dužnost dati osiguranje*
 
-### Članak 209.
+###### Članak 209.
 
 (1) Kad je ugroženo sućanstvo poslužne stvari, vlasnik može od plodouživatelja zahtijevati primjereno osiguranje.
 
@@ -2440,7 +2411,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Povrat stvari*
 
-### Članak 210.
+###### Članak 210.
 
 (1) Pošto prestane pravo plodouživanja, dužan je dotadašnji plodouživatelj predati posjed poslužne stvari njezinu vlasniku, pri čemu stvar treba biti u stanju u kakvu ju je plodouživatelj bio primio.
 
@@ -2456,7 +2427,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Nepravo plodouživanje*
 
-### Članak 211.
+###### Članak 211.
 
 (1) Ako je pravo plodouživanja osnovano na stvari koja je potrošna ili na pravu koje ne daje plodove, to je nepravo plodouživanje.
 
@@ -2466,11 +2437,11 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 (4) Na nepravo plodouživanje na odgovarajući se način primjenjuju pravila o pravu plodouživanja, ako nije što posebno određeno zakonom niti to zahtijeva narav takva plodouživanja.
 
-*b/ Pravo uporabe*
+### b/ Pravo uporabe
 
 *Uopće*
 
-### Članak 212.
+###### Članak 212.
 
 (1) Pravo uporabe je osobna služnost koja svojega nositelja (uporabovnika) ovlašćuje da se za svoje potrebe služi nečijom stvari (poslužna stvar) prema njezinoj namjeni, čuvajući njezino sućanstvo.
 
@@ -2486,7 +2457,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Ovlasti*
 
-### Članak 213.
+###### Članak 213.
 
 (1) Uporabovnik je ovlašten da se za svoje potrebe služi poslužnom stvari tako da je, u time određenom opsegu, posjeduje kao nesamostalni posjednik, rabi je i uzima njezin prihod, ali čuvajući njezino sućanstvo.
 
@@ -2496,7 +2467,7 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Uporabovnikove potrebe*
 
-### Članak 214.
+###### Članak 214.
 
 (1) Uporabovnik je ovlašten, bez obzira na ostalu svoju imovinu, služiti se poslužnom stvari u opsegu svojih potreba, primjerenih njegovu dobu, zvanju, zanimanju i veličini obiteljskog kućanstva.
 
@@ -2506,23 +2477,23 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 *Stjecanje plodova i drugih koristi*
 
-### Članak 215.
+###### Članak 215.
 
 (1) Plodove poslužne stvari stječe uporabovnik kad ih na temelju ovlasti koje mu daje njegovo pravo uporabe ubere za svoje potrebe, a isto vrijedi i za sve ostale koristi od stvari.
 
-(2) Što je u stavku 1. ovoga članka određeno za plodove, vrijedi i za najamnine, zakupnine, kamate i druge prihode koje stvar daje posredovanjem nekoga pravnoga odnosa (civilni plodovi), ali s tim da uporabovnik nije ovlašten ubirati ništa što se ne odnosi na razdoblje trajanja njegova prava uporabe; ostalo pripada vlasniku poslužne stvari, koji to može zahtijevati.
+(2) Što je u stavku 1. ovoga članka određeno za plodove, vrijedi i za najamnine, zakupnine, kamate i druge prihode koje stvar daje posredovanjem nekoga pravnoga odnosa (civilni plodovi), ali s tim da uporabovnik nije ovlašten ubirati ništa što se ne odnosi na razdoblje trajanja njegova prava uporabe, a ostalo pripada vlasniku poslužne stvari, koji to može zahtijevati.
 
 *Troškovi i tereti*
 
-### Članak 216.
+###### Članak 216.
 
 (1) Sve koristi koje se mogu crpsti iz stvari bez smetanja uporabovnika pripadaju vlasniku, pa je vlasnik dužan snositi sve redovite i izvanredne troškove i terete poslužne stvari, te je o svome trošku održavati u dobru stanju.
 
 (2) Ako troškovi i tereti nadilaze korist koja preostaje vlasniku, mora ovlaštenik snositi taj višak, osim ako se odrekne svojega prava uporabe.
 
-*c/ Pravo stanovanja*
+### c/ Pravo stanovanja
 
-### Članak 217.
+###### Članak 217.
 
 (1) Pravo stanovanja je osobna služnost koja svojega nositelja (stanovatelja) ovlašćuje da se služi nečijom stambenom zgradom ili njezinim dijelom namijenjenim stanovanju (poslužna stvar) u skladu s tom namjenom, a čuvajući njezino sućanstvo.
 
@@ -2534,17 +2505,13 @@ Osobne služnosti traju samo onoliko vremena za koliko su osnovane te prestaju n
 
 (5) Izvršavanjem prava stanovanja ne smije se vlasniku onemogućiti ili otežati potrebno nadgledanje cijele njegove nekretnine.
 
-Glava 4.
+### Glava 4. — STJECANJE
 
-## STJECANJE
-
-*Odjeljak 1.*
-
-*Osnivanje prava služnosti*
+#### Odjeljak 1. — Osnivanje prava služnosti
 
 *Općenito*
 
-### Članak 218.
+###### Članak 218.
 
 (1) Na temelju pravnoga posla vlasnika poslužne nekretnine, odluke suda ili druge vlasti, ili samoga zakona, osniva se pravo stvarne služnosti kao pripadak povlasne stvari za njezina svagdašnjega vlasnika, a na teret određene stvari kao poslužne.
 
@@ -2552,11 +2519,11 @@ Glava 4.
 
 (3) Pravo služnosti je osnovano kad se ispune sve pretpostavke određene zakonom.
 
-*a/ Osnivanje na temelju pravnoga posla*
+### a/ Osnivanje na temelju pravnoga posla
 
 *Pravni temelj*
 
-### Članak 219.
+###### Članak 219.
 
 (1) Na temelju valjanoga pravnoga posla kojemu je cilj stjecanje služnosti osnivaju se prava služnosti izvođenjem iz vlasništva poslužne stvari, odnosno iz pripadanja prava koje je poslužna stvar, a na način određen zakonom.
 
@@ -2570,25 +2537,25 @@ Glava 4.
 
 *Način osnivanja služnosti na nekretninama*
 
-### Članak 220.
+###### Članak 220.
 
 (1) Pravo služnosti na nekretnini osniva se uknjižbom toga prava u zemljišnoj knjizi kao tereta na poslužnoj nekretnini, osim ako zakon omogućuje da se služnost osnuje drukčije.
 
 (2) Ako nisu ispunjene sve pretpostavke koje zemljišnoknjižno pravo zahtijeva za uknjižbu, a zatražena je uknjižba prava služnosti, predbilježbom će se osnovati to pravo pod uvjetom naknadnoga opravdanja toga upisa, ako su ispunjene barem pretpostavke pod kojima pravila zemljišnoknjižnoga prava dopuštaju predbilježbu.
 
-(3) Na nekretninama koje nisu upisane u zemljišne knjige pravo služnosti osniva se polaganjem u sud ovjerovljene isprave sposobne za upis prava u zemljišnu knjigu, kojom vlasnik nekretnine dopušta uknjižbu služnosti na njoj; za to polaganje uzima se da je uknjižba, odnosno predbilježba i na odgovarajući se način primjenjuju pravila o stjecanju tim upisom u zemljišnu knjigu.
+(3) Na nekretninama koje nisu upisane u zemljišne knjige pravo služnosti osniva se polaganjem u sud ovjerovljene isprave sposobne za upis prava u zemljišnu knjigu, kojom vlasnik nekretnine dopušta uknjižbu služnosti na njoj, a za to polaganje uzima se da je uknjižba, odnosno predbilježba i na odgovarajući se način primjenjuju pravila o stjecanju tim upisom u zemljišnu knjigu.
 
 (4) Odredbe ovoga Zakona o osnivanju prava služnosti na nekretninama upisom u zemljišnu knjigu na odgovarajući se način primjenjuju i na promjene i prestanak služnosti na temelju pravnih poslova.
 
 *Zaštita povjerenja*
 
-### Članak 221.
+###### Članak 221.
 
 Na zaštitu povjerenja u zemljišne knjige glede prava služnosti, na odgovarajući se način primjenjuju odredbe članka 122. do 125. ovoga Zakona, ako nisu suprotne pravnoj naravi tih prava.
 
 *Način osnivanja služnosti na pokretninama*
 
-### Članak 222.
+###### Članak 222.
 
 (1) Pravo osobne služnosti na pokretnoj stvari osniva se predajom te stvari stjecatelju u nesamostalni posjed na temelju valjano očitovane volje vlasnika usmjerene na to da se stjecatelju izvede pravo služnosti, ako zakonom nije drukčije određeno.
 
@@ -2596,9 +2563,11 @@ Na zaštitu povjerenja u zemljišne knjige glede prava služnosti, na odgovaraju
 
 (3) U slučaju iz stavka 2. ovoga članka odnose otuđivatelja s osobama s kojima je sklopio pravne poslove, ali one nisu stekle osobnu služnost, uređuju obveznopravna pravila.
 
-*b/ Osnivanje odlukom suda ili druge vlasti Osnivanje odlukom*
+### b/ Osnivanje odlukom suda ili druge vlasti
 
-### Članak 223.
+*Osnivanje odlukom*
+
+###### Članak 223.
 
 (1) Služnost može svojom odlukom, pod pretpostavkama određenim zakonom, osnovati sud u postupku osnivanja nužnoga prolaza, odnosno nužnoga osnivanja služnosti vodova ili drugih uređaja u postupku diobe i u ostavinskom postupku, a i u drugim slučajevima određenim zakonom.
 
@@ -2610,11 +2579,11 @@ Na zaštitu povjerenja u zemljišne knjige glede prava služnosti, na odgovaraju
 
 *Odluka o nužnom prolazu*
 
-### Članak 224.
+###### Članak 224.
 
 (1) Nužni prolaz preko neke nekretnine kao poslužne osnovat će svojom odlukom sud na zahtjev vlasnika druge nekretnine, ako do nje nema nikakve ili nema prikladne putne veze s javnim putom i ako je korist od otvaranja nužnoga prolaza za gospodarenje tom nekretninom veća od štete na poslužnoj nekretnini, a uz obvezu vlasnika nekretnine u čiju se korist nužni prolaz osniva da plati punu naknadu vlasniku poslužne nekretnine.
 
-(2) Nužni prolaz ne može sud osnovati preko nekretnina glede kojih se tome protive javni interesi, kroz zgrade, kroz ograđena kućna dvorišta, kroz ograđena uzgajališta divljači; a kroz ograđene vrtove i vinograde može osnovati nužni prolaz samo ako za to postoji osobito jak razlog.
+(2) Nužni prolaz ne može sud osnovati preko nekretnina glede kojih se tome protive javni interesi, kroz zgrade, kroz ograđena kućna dvorišta, kroz ograđena uzgajališta divljači, a kroz ograđene vrtove i vinograde može osnovati nužni prolaz samo ako za to postoji osobito jak razlog.
 
 (3) Sud će svojom odlukom kojom osniva nužni prolaz odrediti da se on osniva u korist određene nekretnine kao služnost prava staze, progona stoke, kolnika, ili svega zajedno, vodeći računa o potrebama povlasne nekretnine i o tome da poslužno zemljište bude što manje opterećeno; no nikad ne može osnovati nužni prolaz u korist određene osobe, niti općega dobra.
 
@@ -2622,7 +2591,7 @@ Na zaštitu povjerenja u zemljišne knjige glede prava služnosti, na odgovaraju
 
 *Odluka o nužnim vodovima i uređajima*
 
-### Članak 225.
+###### Članak 225.
 
 (1) Služnost vodova ili drugih uređaja (električnih, kanalizacijskih, plinovodnih, vodovodnih, toplovodnih, telekomunikacijskih i dr.) na tuđoj nekretnini kao poslužnoj osnovat će svojom odlukom sud na zahtjev vlasnika druge nekretnine, ako do nje nema nikakve ili nema prikladne veze s dobavljačem tvari, energija ili usluga koje se dostavljaju tim vodovima i drugim uređajima i ako je korist od postavljanja tih vodova odnosno uređaja za gospodarenje tom nekretninom veća od štete na poslužnoj nekretnini, a uz obvezu vlasnika nekretnine u čiju se korist osniva služnost vodova ili drugih uređaja da plati punu naknadu vlasniku poslužne nekretnine.
 
@@ -2630,7 +2599,7 @@ Na zaštitu povjerenja u zemljišne knjige glede prava služnosti, na odgovaraju
 
 *Odluka u diobnom i ostavinskom postupku*
 
-### Članak 226.
+###### Članak 226.
 
 (1) Sud koji provodi diobu suvlasništva ili zajedničkoga vlasništva može odlučiti da se osnuje pravo stvarne služnosti, ako su stranke s tim suglasne, a kod geometrijske diobe nekretnine i bez njihove suglasnosti.
 
@@ -2640,23 +2609,23 @@ Na zaštitu povjerenja u zemljišne knjige glede prava služnosti, na odgovaraju
 
 *Zaštita povjerenja*
 
-### Članak 227.
+###### Članak 227.
 
 Pravo služnosti koje je na teret neke nekretnine osnovano odlukom suda ili druge vlasti, ali nije upisano u zemljišnu knjigu, ne može se suprotstaviti pravu onoga koji je postupajući s povjerenjem u zemljišne knjige, u dobroj vjeri upisao svoje pravo na nekretnini dok još nije bilo upisano pravo služnosti koje je osnovano odlukom suda ili druge vlasti.
 
-*c/ Osnivanje na temelju zakona*
+### c/ Osnivanje na temelju zakona
 
 *Općenito*
 
-### Članak 228.
+###### Članak 228.
 
-(1) Neposredno na temelju zakona pravo služnosti osnovat će se kad se ispune sve zakonom predviđene pretpostavke za dosjelost služnosti; inače samo kad tako odredi posebni zakon.
+(1) Neposredno na temelju zakona pravo služnosti osnovat će se kad se ispune sve zakonom predviđene pretpostavke za dosjelost služnosti, a inače samo kad tako odredi posebni zakon.
 
 (2) Tko stekne pravo služnosti nekretnine na temelju zakona, ovlašten je ishoditi upis stečenoga prava vlasništva u zemljišnoj knjizi.
 
 *Dosjelost služnosti*
 
-### Članak 229.
+###### Članak 229.
 
 (1) Stvarna služnost osniva se na temelju zakona dosjelošću, ako ju je posjednik povlasne nekretnine pošteno posjedovao izvršavajući njezin sadržaj kroz dvadeset godina, a vlasnik poslužne nekretnine nije se tome protivio.
 
@@ -2666,33 +2635,29 @@ Pravo služnosti koje je na teret neke nekretnine osnovano odlukom suda ili drug
 
 *Zaštita povjerenja*
 
-### Članak 230.
+###### Članak 230.
 
 Pravo stvarnih služnosti koje je na teret neke nekretnine osnovano na temelju zakona, ali nije upisano u zemljišnu knjigu, ne može se, niti kad je utvrđeno odlukom suda, suprotstaviti pravu onoga koji je postupajući s povjerenjem u zemljišne knjige u dobroj vjeri upisao svoje pravo na nekretnini dok još nije bilo upisano to pravo služnosti koje je osnovano na temelju zakona.
 
-*Odjeljak 2.*
-
-*Stjecanje nečijih prava služnosti*
+#### Odjeljak 2. — Stjecanje nečijih prava služnosti
 
 *Stjecanje s povlasnom stvari*
 
-### Članak 231.
+###### Članak 231.
 
 Tko stekne vlasništvo povlasne stvari na bilo kojem pravnom temelju, stekao je ujedno i svako pravo stvarne služnosti koje je njezin pripadak, osim ako je drukčije određeno.
 
 *Stjecanje s poslužnom stvari*
 
-### Članak 232.
+###### Članak 232.
 
 Tko stekne vlasništvo poslužne stvari na bilo kojem pravnom temelju, stekao ju je opterećenu svakim pravom služnosti koje je njezin teret, osim ako zakonom nije drukčije određeno.
 
-Glava 5.
-
-## ZAŠTITA
+### Glava 5. — ZAŠTITA
 
 *Zahtjev za poštovanje prava služnosti*
 
-### Članak 233.
+###### Članak 233.
 
 (1) Ovlaštenik prava služnosti ima pravo zahtijevati od vlasnika poslužne stvari da prizna i trpi njegovo pravo služnosti kao teret na poslužnoj stvari, te da trpi izvršavanje ovlaštenikova prava na njoj, odnosno da propušta činiti na njoj ono što je zbog ovlaštenikova prava dužan propuštati; isto ima pravo zahtijevati i od svake druge osobe koja svojim činima niječe njegovo pravo služnosti ili ga samovlasno onemogućuje ili uznemirava u izvršavanju toga prava.
 
@@ -2702,13 +2667,13 @@ Glava 5.
 
 *Tužba ovlaštenika služnosti*
 
-### Članak 234.
+###### Članak 234.
 
 Da bi ovlaštenik prava služnosti mogao u postupku pred sudom, odnosno drugim nadležnim tijelom, ostvariti svoje pravo iz članka 233. ovoga Zakona, mora dokazati svoje pravo služnosti i tuženikov čin onemogućavanja ili uznemiravanja izvršavanja toga prava.
 
 *Tužba predmnjevanoga ovlaštenika služnosti*
 
-### Članak 235.
+###### Članak 235.
 
 (1) Pravo na zaštitu svojega predmnjevanoga prava služnosti ima, poput onoga koji je dokazao svoje pravo služnosti, i onaj koji u postupku pred sudom ili drugim nadležnim tijelom dokaže pravni temelj i istiniti način svoga stjecanja posjeda te služnosti (predmnjevani ovlaštenik služnosti).
 
@@ -2716,19 +2681,17 @@ Da bi ovlaštenik prava služnosti mogao u postupku pred sudom, odnosno drugim n
 
 *Zaštita od povrede upisom u zemljišnoj knjizi*
 
-### Članak 236.
+###### Članak 236.
 
 (1) Ako netko povrijedi pravo služnosti nevaljanim upisom u zemljišnu knjigu, ovlaštenik se ima pravo štititi od toga sredstvima koja za zaštitu knjižnih prava daju pravila zemljišnoknjižnoga prava.
 
 (2) Na preinaku sadržaja na odgovarajući se način primjenjuje ono što je određeno za osnivanje stvarnih tereta na temelju pravnoga posla.
 
-Glava 6.
-
-## PRESTANAK
+### Glava 6. — PRESTANAK
 
 *Propast stvari*
 
-### Članak 237.
+###### Članak 237.
 
 (1) Propašću povlasne ili poslužne stvari prestaje i pravo služnosti, ali čim se stvar vrati u prijašnje stanje, oživljava i ona.
 
@@ -2738,7 +2701,7 @@ Glava 6.
 
 *Sjedinjenje*
 
-### Članak 238.
+###### Članak 238.
 
 (1) Ako se vlasništvo povlasne i poslužne nekretnine nađu u imovini iste osobe, tada tim sjedinjenjem samim po sebi prestaje stvarna služnost.
 
@@ -2746,7 +2709,7 @@ Glava 6.
 
 *Odreknuće ovlaštenika*
 
-### Članak 239.
+###### Članak 239.
 
 (1) Pravo služnosti prestaje valjanim jednostranim odreknućem njezina ovlaštenika, bez obzira na to na kojem je pravnom temelju osnovana.
 
@@ -2760,7 +2723,7 @@ Glava 6.
 
 *Istek roka i ispunjenje raskidnoga uvjeta*
 
-### Članak 240.
+###### Članak 240.
 
 (1) Služnost prestaje istekom vremena na koje je bila osnovana ili na koje je bilo osnovano pravo vlasništva iz kojega je izvedena, a isto je i kad se ispuni raskidni uvjet pod kojim je bila osnovana ona ili pravo vlasništva iz kojega je izvedena.
 
@@ -2770,7 +2733,7 @@ Glava 6.
 
 *Neizvršavanje*
 
-### Članak 241.
+###### Članak 241.
 
 (1) Pravo služnosti prestaje zastarom ako se nije izvršavalo kroz dvadeset godina.
 
@@ -2778,15 +2741,13 @@ Glava 6.
 
 (3) Pravo služnosti prestaje ako se vlasnik poslužne stvari protivio njegovu izvršavanju, a ovlaštenik ga zbog toga nije izvršavao neprekidno tri godine.
 
-(4) Zastara ne nastupa, niti pravo služnosti prestaje neizvršavanjem,
-
-dok na poslužnoj stvari postoji naprava namijenjena upravo izvršavanju toga prava.
+(4) Zastara ne nastupa, niti pravo služnosti prestaje neizvršavanjem, dok na poslužnoj stvari postoji naprava namijenjena upravo izvršavanju toga prava.
 
 (5) Ako je služnost upisana u zemljišnoj knjizi, ona će prestati tek brisanjem.
 
 *Ukinuće*
 
-### Članak 242.
+###### Članak 242.
 
 (1) Izgubi li pravo služnosti razumnu svrhu, vlasnik poslužne stvari može zahtijevati da se ono ukine; ako nije što posebno određeno, odluku o ukinuću donijet će sud na zahtjev vlasnika poslužne stvari, bez obzira na pravni temelj na kojem je ta služnost bila osnovana.
 
@@ -2800,13 +2761,13 @@ dok na poslužnoj stvari postoji naprava namijenjena upravo izvršavanju toga pr
 
 *Zaštita tuđega povjerenja*
 
-### Članak 243.
+###### Članak 243.
 
 Služnost koja nije upisana u zemljišnoj knjizi prestaje kad poslužnu stvar stekne osoba koja nije znala niti je morala znati za tu služnost.
 
 *Prestanak ovlaštenika*
 
-### Članak 244.
+###### Članak 244.
 
 (1) Pravo osobne služnosti prestaje smrću ovlaštenika ili prestankom pravne osobe koja je bila ovlaštenik toga prava, ako nije drukčije određeno.
 
@@ -2816,7 +2777,7 @@ Služnost koja nije upisana u zemljišnoj knjizi prestaje kad poslužnu stvar st
 
 *Rasterećenje zakonom ili odlukom upravne vlasti*
 
-### Članak 245.
+###### Članak 245.
 
 (1) Služnosti prestaju ispunjenjem pretpostavaka koje je za to odredio posebni zakon.
 
@@ -2826,23 +2787,19 @@ Služnost koja nije upisana u zemljišnoj knjizi prestaje kad poslužnu stvar st
 
 (4) Ako je služnost upisana u zemljišnoj knjizi, ona će prestati tek brisanjem, ako zakonom nije drukčije određeno.
 
-*Dio peti*
+## Dio peti — STVARNI TERETI
 
-## STVARNI TERETI
-
-Glava 1.
-
-## O STVARNIM TERETIMA UOPĆE
+### Glava 1. — O STVARNIM TERETIMA UOPĆE
 
 *Pojam i sadržaj*
 
-### Članak 246.
+###### Članak 246.
 
 Stvarni teret daje svomu korisniku stvarno pravo na nekretnini koju opterećuje ovlašćujući ga da mu se na teret njezine vrijednosti ponavljano daju stvari ili čine radnje koje su sadržaj toga stvarnog tereta.
 
 *Opterećena nekretnina*
 
-### Članak 247.
+###### Članak 247.
 
 (1) Stvarnim teretom može biti opterećena nekretnina koja je sposobna biti predmetom založnoga prava, a i zajedno više takvih nekretnina.
 
@@ -2852,13 +2809,13 @@ Stvarni teret daje svomu korisniku stvarno pravo na nekretnini koju opterećuje 
 
 *Korisnik tereta*
 
-### Članak 248.
+###### Članak 248.
 
 Nekretnina može biti opterećena stvarnim teretom, bilo u korist svagdašnjega vlasnika određene nekretnine (povlasna nekretnina) ili nositelja prava građenja na njoj, bilo u korist određene osobe.
 
 *Sadržaj tereta*
 
-### Članak 249.
+###### Članak 249.
 
 (1) Sadržaj stvarnoga tereta je činidba na koju korisnik ima pravo na teret vrijednosti opterećene nekretnine.
 
@@ -2868,7 +2825,7 @@ Nekretnina može biti opterećena stvarnim teretom, bilo u korist svagdašnjega 
 
 *Preinaka sadržaja*
 
-### Članak 250.
+###### Članak 250.
 
 (1) Preinaka sadržaja stvarnoga tereta dopuštena je samo u sporazumu s vlasnikom poslužne stvari, a ako bi se time ometao dotadašnji način izvršavanja ostalih stvarnih prava na opterećenoj nekretnini, tada i u sporazumu s ovlaštenicima tih prava.
 
@@ -2876,7 +2833,7 @@ Nekretnina može biti opterećena stvarnim teretom, bilo u korist svagdašnjega 
 
 *Temeljna vlasnikova obveza*
 
-### Članak 251.
+###### Članak 251.
 
 (1) Stvarni teret obvezuje svagdašnjega vlasnika opterećene nekretnine da korisniku tereta ispunjava sadržaj tereta, za što odgovara vrijednošću te nekretnine.
 
@@ -2888,7 +2845,7 @@ Nekretnina može biti opterećena stvarnim teretom, bilo u korist svagdašnjega 
 
 *Pojedinačne obveze davanja ili činjenja*
 
-### Članak 252.
+###### Članak 252.
 
 (1) Kad na temelju vlasnikove obveze iz članka 251. ovoga Zakona dospije za ispunjenje neko davanje ili činjenje, nastala je time pojedinačna obveza onoga tko je tada vlasnik opterećene nekretnine da to davanje, odnosno činjenje ispuni korisniku tereta kao vjerovniku, a za korisnika tereta pravo da to od njega traži.
 
@@ -2898,7 +2855,7 @@ Nekretnina može biti opterećena stvarnim teretom, bilo u korist svagdašnjega 
 
 *Osobna odgovornost za pojedinačne obveze*
 
-### Članak 253.
+###### Članak 253.
 
 (1) Tko je vlasnik opterećene nekretnine u doba kad je nastala neka pojedinačna obveza davanja ili činjenja iz članka 252. ovoga Zakona, odgovara za ispunjenje te obveze vlastitom imovinom, a ta mu odgovornost ne prestaje s prestankom njegova prava vlasništva opterećene nekretnine.
 
@@ -2908,27 +2865,25 @@ Nekretnina može biti opterećena stvarnim teretom, bilo u korist svagdašnjega 
 
 *Stvarnopravna odgovornost za pojedinačne obveze*
 
-### Članak 254.
+###### Članak 254.
 
-(1) Za sve dospjele a nezastarjele pojedinačne obveze, davanja i činjenja iz članka 252. ovoga Zakona odgovara svagdašnji vlasnik vrijednošću opterećene nekretnine; a nakon diobe te nekretnine, vrijednošću svojih dijelova solidarno svi vlasnici dijelova na koje je razdijeljena.
+(1) Za sve dospjele a nezastarjele pojedinačne obveze, davanja i činjenja iz članka 252. ovoga Zakona odgovara svagdašnji vlasnik vrijednošću opterećene nekretnine, a nakon diobe te nekretnine, vrijednošću svojih dijelova solidarno svi vlasnici dijelova na koje je razdijeljena.
 
 (2) Stvarnopravna odgovornost za pojedinačnu obvezu davanja i činjenja solidarna je s osobnom odgovornošću za istu obvezu.
 
 *Neodvojivost*
 
-### Članak 255.
+###### Članak 255.
 
 (1) Stvarni teret ne može se odvojiti od nekretnine koju opterećuje, pa tko na bilo kojem pravnom temelju stekne vlasništvo opterećene nekretnine, stekao je nekretninu opterećenu stvarnim teretom, ako zakonom nije drukčije određeno.
 
 (2) Pravo iz stvarnoga tereta osnovanoga u korist neke osobe ne može se prenositi s ovlaštenika na drugu osobu, ako nije drukčije određeno, a pravo iz stvarnoga tereta osnovanoga u korist svagdašnjega vlasnika neke nekretnine prenosi se samo zajedno s vlasništvom te nekretnine.
 
-Glava 2.
-
-## TERETI U KORIST NEKRETNINA
+### Glava 2. — TERETI U KORIST NEKRETNINA
 
 *Teret i povlasna nekretnina*
 
-### Članak 256.
+###### Članak 256.
 
 (1) Stvarni teret u korist neke nekretnine (povlasna nekretnina) daje svagdašnjem vlasniku povlasne nekretnine ograničeno stvarno pravo na opterećenoj nekretnini koje ga ovlašćuje da mu se ponavljano daju stvari ili čine činjenja koja su sadržaj toga stvarnoga tereta, a da mu za to odgovara svagdašnji vlasnik opterećene nekretnine njezinom vrijednošću.
 
@@ -2936,7 +2891,7 @@ Glava 2.
 
 *Utjecaj diobe*
 
-### Članak 257.
+###### Članak 257.
 
 (1) Ako se podijeli povlasna nekretnina, stvarni teret postoji i dalje u korist pojedinih dijelova, i to razmjerno veličini svakoga dijela, ako su djeljiva davanja i činjenja na koje stvarni teret ovlašćuje; glede onih koje to nisu, na odgovarajući se način primjenjuju pravila o nedjeljivim obvezama.
 
@@ -2944,17 +2899,15 @@ Glava 2.
 
 *Prenosivost pojedinih tražbina*
 
-### Članak 258.
+###### Članak 258.
 
 Dospjele pojedinačne obveze davanja ili činjenja na koje je svagdašnji vlasnik nekretnine obvezan stvarnim teretom u korist neke nekretnine mogu se prenijeti na drugu osobu, ako nije drukčije određeno.
 
-Glava 3.
-
-## TERETI U KORIST OSOBE
+### Glava 3. — TERETI U KORIST OSOBE
 
 *Tereti osobne naravi*
 
-### Članak 259.
+###### Članak 259.
 
 (1) Stvarni teret u korist neke osobe daje joj ograničeno stvarno pravo na opterećenoj nekretnini koje je ovlašćuje da joj se ponavljano daju stvari ili čine činjenja koja su sadržaj toga stvarnoga tereta, a da joj za to odgovara svagdašnji vlasnik opterećene nekretnine njezinom vrijednošću.
 
@@ -2962,21 +2915,17 @@ Glava 3.
 
 *Prenosivost pojedinih tražbina*
 
-### Članak 260.
+###### Članak 260.
 
 Dospjela pojedina davanja ili činjenja na koja je svagdašnji vlasnik nekretnine obvezan stvarnim teretom u korist osobe može se prenijeti na drugu osobu, ako nije drukčije određeno niti suprotno naravi činidbe koja se traži.
 
-Glava 4.
+### Glava 4. — STJECANJE
 
-## STJECANJE
-
-*Odjeljak 1.*
-
-*Osnivanje stvarnih tereta*
+#### Odjeljak 1. — Osnivanje stvarnih tereta
 
 *Općenito*
 
-### Članak 261.
+###### Članak 261.
 
 (1) Stvarni teret se osniva na određenoj nekretnini kao poslužnoj na temelju pravnoga posla vlasnika nekretnine koju se opterećuje, a i odlukom suda.
 
@@ -2984,11 +2933,11 @@ Glava 4.
 
 (3) Stvarni teret je osnovan kad su ispunjene sve pretpostavke određene zakonom.
 
-*a/ Osnivanje na temelju pravnoga posla*
+### a/ Osnivanje na temelju pravnoga posla
 
 *Pravni temelj*
 
-### Članak 262.
+###### Članak 262.
 
 (1) Na temelju valjanoga pravnoga posla kojemu je cilj osnutak stvarnoga tereta osniva se stvarni teret njegovim izvođenjem iz vlasništva nekretnine koju se njime opterećuje, a na način određen zakonom.
 
@@ -3000,7 +2949,7 @@ Glava 4.
 
 *Način osnivanja*
 
-### Članak 263.
+###### Članak 263.
 
 (1) Stvarni se teret osniva njegovom uknjižbom u zemljišnoj knjizi kao tereta na njime opterećenoj nekretnini, a kad se osniva u korist svagdašnjega vlasnika određene nekretnine, tada i kao prava u korist povlasne nekretnine, osim ako zakon omogućuje da se stvarni teret osnuje drukčije.
 
@@ -3012,47 +2961,43 @@ Glava 4.
 
 *Zaštita povjerenja*
 
-### Članak 264.
+###### Članak 264.
 
 Na zaštitu povjerenja u zemljišne knjige glede stvarnih tereta, na odgovarajući se način primjenjuju odredbe članka 122. do 125. ovoga Zakona, ako nisu suprotne pravnoj naravi stvarnoga tereta.
 
-*b/ Osnivanje odlukom suda*
+### b/ Osnivanje odlukom suda
 
 *Osnivanje odlukom*
 
-### Članak 265.
+###### Članak 265.
 
 (1) Stvarni teret može svojom odlukom osnovati sud u postupku diobe i ostavinskom postupku, ako je ovlašten u tom postupku osnovati služnost, a i u drugim slučajevima određenim zakonom.
 
 (2) Na osnivanje stvarnoga tereta odlukom suda na odgovarajući se način primjenjuju pravila o osnivanju služnosti odlukom suda.
 
-*c/ Osnivanje na temelju zakona*
+### c/ Osnivanje na temelju zakona
 
 *Javnopravni stvarni tereti*
 
-### Članak 266.
+###### Članak 266.
 
 (1) Na temelju zakona osniva se javnopravni stvarni teret ispunjenjem pretpostavaka koje za to određuje zakon.
 
 (2) Ako zakon na temelju kojega se osniva stvarni teret to nije drukčije odredio, javnopravni teret ne upisuje se u zemljišnu knjigu.
 
-*Odjeljak 2.*
-
-*Stjecanje nečijih stvarnih tereta*
+#### Odjeljak 2. — Stjecanje nečijih stvarnih tereta
 
 *Stjecanje s povlasnom nekretninom*
 
-### Članak 267.
+###### Članak 267.
 
 Tko stekne vlasništvo povlasne nekretnine na bilo kojem pravnom temelju, stekao je ujedno kao njezin pripadak i stvarni teret u korist svagdašnjega vlasnika te nekretnine, osim ako je drukčije određeno.
 
-Glava 5.
-
-## ZAŠTITA
+### Glava 5. — ZAŠTITA
 
 *Zahtjev za zaštitu ovlaštenikova prava*
 
-### Članak 268.
+###### Članak 268.
 
 (1) Korisnik tereta ima pravo zahtijevati od svagdašnjega vlasnika opterećene nekretnine koji ne priznajući stvarni teret uskraćuje davati ili činiti ono što je sadržaj toga tereta da prizna i trpi stvarni teret na opterećenoj nekretnini.
 
@@ -3062,7 +3007,7 @@ Glava 5.
 
 *Zahtjev osobno odgovornoj osobi*
 
-### Članak 269.
+###### Članak 269.
 
 (1) Korisnik tereta ima pravo zahtijevati ispunjenje dospjelih a neispunjenih pojedinačnih obveza iz članka 252. ovoga Zakona, ili njihovu novčanu protuvrijednost, od onoga koji za tu obvezu osobno odgovara na temelju članka 253. ovoga Zakona.
 
@@ -3070,7 +3015,7 @@ Glava 5.
 
 *Zahtjev stvarnopravno odgovornoj osobi*
 
-### Članak 270.
+###### Članak 270.
 
 (1) Korisnik tereta ima pravo zahtijevati da vlasnik opterećene nekretnine trpi iz njezine vrijednosti namirenje dospjelih a neispunjenih pojedinačnih obveza davanja ili činjenja iz članka 252. ovoga Zakona, ili njihove novčane protuvrijednosti.
 
@@ -3082,7 +3027,7 @@ Glava 5.
 
 *Tužba korisnika tereta*
 
-### Članak 271.
+###### Članak 271.
 
 (1) Da bi korisnik tereta mogao u postupku pred sudom, odnosno drugim nadležnim tijelom ostvariti svoje pravo iz članka 268. ovoga Zakona, mora dokazati stvarni teret u svoju korist i tuženikov čin uskraćivanja dužnih činidaba, odnosno čin onemogućavanja ili uznemiravanja izvršavanja tih činidaba.
 
@@ -3094,17 +3039,15 @@ Glava 5.
 
 *Zaštita od povrede upisom u zemljišnu knjigu*
 
-### Članak 272.
+###### Članak 272.
 
 Ako netko povrijedi pravo korisnika stvarnoga tereta nevaljanim upisom u zemljišnu knjigu, on se ima pravo štititi od toga sredstvima koja za zaštitu knjižnih prava daju pravila zemljišnoknjižnoga prava.
 
-Glava 6.
-
-## PRESTANAK
+### Glava 6. — PRESTANAK
 
 *Propast stvari*
 
-### Članak 273.
+###### Članak 273.
 
 (1) Propašću opterećene, a i povlasne nekretnine prestaje i stvarni teret, ali čim se stvar vrati u prijašnje stanje, oživljava i on.
 
@@ -3112,7 +3055,7 @@ Glava 6.
 
 *Odreknuće ovlaštenika*
 
-### Članak 274.
+###### Članak 274.
 
 (1) Stvarni teret prestaje valjanim jednostranim odreknućem njegova korisnika.
 
@@ -3126,7 +3069,7 @@ Glava 6.
 
 *Istek roka i ispunjenje raskidnoga uvjeta*
 
-### Članak 275.
+###### Članak 275.
 
 (1) Stvarni teret prestaje istekom vremena na koje je bio osnovan kao i ispunjenjem raskidnog uvjeta pod kojim je bio osnovan.
 
@@ -3134,7 +3077,7 @@ Glava 6.
 
 *Ukinuće*
 
-### Članak 276.
+###### Članak 276.
 
 (1) Izgubi li stvarni teret razumnu svrhu, vlasnik opterećene nekretnine može zahtijevati da se on ukine; ako nije što posebno određeno, odluku o ukidanju donijet će sud na zahtjev vlasnika opterećene nekretnine, bez obzira na pravni temelj na kojem je taj teret bio osnovan.
 
@@ -3146,7 +3089,7 @@ Glava 6.
 
 *Zaštita tuđega povjerenja*
 
-### Članak 277.
+###### Članak 277.
 
 (1) Stvarni teret koji nije upisan u zemljišnoj knjizi prestaje kad opterećenu nekretninu stekne osoba koja nije znala niti morala znati da on postoji.
 
@@ -3154,7 +3097,7 @@ Glava 6.
 
 *Prestanak korisnika*
 
-### Članak 278.
+###### Članak 278.
 
 (1) Stvarni teret koji je bio osnovan u korist određene osobe prestaje njezinom smrću odnosno prestankom osobnosti pravne osobe, ako nije drukčije određeno.
 
@@ -3164,7 +3107,7 @@ Glava 6.
 
 *Rasterećenje zakonom ili odlukom upravne vlasti*
 
-### Članak 279.
+###### Članak 279.
 
 (1) Stvarni tereti prestaju ispunjenjem pretpostavaka određenih posebnim zakonom.
 
@@ -3172,17 +3115,13 @@ Glava 6.
 
 (3) Ako ukidanje tereta ima značenje izvlaštenja, osoba čije je pravo iz stvarnoga tereta time prestalo ima pravo na punu naknadu.
 
-*Dio šesti*
+## Dio šesti — PRAVO GRAÐENJA
 
-## PRAVO GRAÐENJA
-
-Glava 1.
-
-## O PRAVU GRAÐENJA UOPĆE
+### Glava 1. — O PRAVU GRAÐENJA UOPĆE
 
 *Pojam*
 
-### Članak 280.
+###### Članak 280.
 
 (1) Pravo građenja je ograničeno stvarno pravo na nečijem zemljištu koje ovlašćuje svoga nositelja da na površini toga zemljišta ili ispod nje ima vlastitu zgradu, a svagdašnji vlasnik tog zemljišta dužan je to trpjeti.
 
@@ -3192,7 +3131,7 @@ Glava 1.
 
 *Sadržaj prava građenja*
 
-### Članak 281.
+###### Članak 281.
 
 (1) Tko je nositelj prava građenja taj je i vlasnik zgrade koja je pripadnost toga njegova prava, a glede zemljišta koje je opterećeno pravom građenja ima ovlasti i dužnosti plodouživatelja; svaka tome suprotna odredba je ništava.
 
@@ -3202,21 +3141,21 @@ Glava 1.
 
 *Preinaka sadržaja*
 
-### Članak 282.
+###### Članak 282.
 
-(1) Preinaka sadržaja prava građenja dopuštena je samo u sporazumu s vlasnikom opterećene stvari, a ako bi se time ometao dotadašnji način izvršavanja ostalih stvarnih prava na opterećenoj nekretnini - tada i u sporazumu s ovlaštenicima tih prava.
+(1) Preinaka sadržaja prava građenja dopuštena je samo u sporazumu s vlasnikom opterećene stvari, a ako bi se time ometao dotadašnji način izvršavanja ostalih stvarnih prava na opterećenoj nekretnini – tada i u sporazumu s ovlaštenicima tih prava.
 
 (2) Na preinaku sadržaja primjenjuje se na odgovarajući način ono što je određeno za osnivanje prava građenja na temelju pravnoga posla.
 
 *Neodvojivost*
 
-### Članak 283.
+###### Članak 283.
 
 Pravo građenja ne može se odvojiti od zemljišta koje opterećuje, pa tko na bilo kojem pravnom temelju stekne vlasništvo opterećenoga zemljišta, stekao je zemljište opterećeno pravom građenja, ako zakonom nije drukčije određeno.
 
 *Nositelj prava građenja*
 
-### Članak 284.
+###### Članak 284.
 
 (1) Nositelj prava građenja je osoba u čiju je korist to pravo osnovano ili je na nju prešlo.
 
@@ -3224,7 +3163,7 @@ Pravo građenja ne može se odvojiti od zemljišta koje opterećuje, pa tko na b
 
 *Prometnost*
 
-### Članak 285.
+###### Članak 285.
 
 (1) Pravo građenja je otuđivo i nasljedivo kao i druge nekretnine, ako nije što drugo određeno.
 
@@ -3232,27 +3171,23 @@ Pravo građenja ne može se odvojiti od zemljišta koje opterećuje, pa tko na b
 
 (3) Zgrada koja je izgrađena dio je prava građenja, pa se prenosi, nasljeđuje i opterećuje zajedno s pravom građenja.
 
-Glava 2.
+### Glava 2. — STJECANJE
 
-## STJECANJE
-
-*Odjeljak 1.*
-
-*Osnivanje prava građenja*
+#### Odjeljak 1. — Osnivanje prava građenja
 
 *Općenito*
 
-### Članak 286.
+###### Članak 286.
 
 (1) Pravo građenja osniva se na temelju pravnoga posla vlasnika nekretnine koja se opterećuje, a i odlukom suda.
 
 (2) Pravo građenja je osnovano kad su ispunjene sve pretpostavke određene zakonom.
 
-*a/ Osnivanje na temelju pravnoga posla*
+### a/ Osnivanje na temelju pravnoga posla
 
 *Pravni temelj*
 
-### Članak 287.
+###### Članak 287.
 
 (1) Na temelju valjana pravnoga posla kojemu je cilj osnutak prava građenja osniva se to pravo izvođenjem iz vlasništva nekretnine koja se njime opterećuje, a na način određen zakonom.
 
@@ -3264,7 +3199,7 @@ Glava 2.
 
 *Način osnivanja*
 
-### Članak 288.
+###### Članak 288.
 
 (1) Pravo građenja osniva se dvostrukim upisom toga prava u zemljišnu knjigu, i to njegovim upisom kao tereta na zemljištu koje opterećuje te njegovim upisom kao posebnoga zemljišnoknjižnoga tijela u za to novoosnovanom zemljišnoknjižnom ulošku.
 
@@ -3276,47 +3211,41 @@ Glava 2.
 
 (5) Kad zakonom nije što drugo određeno glede načina osnivanja prava građenja, njegove promjene i prestanka te glede zaštite povjerenja u zemljišne knjige, na odgovarajući će se način primjenjivati odredbe članka 263. i 264. ovoga Zakona.
 
-*b/ Osnivanje odlukom suda*
+### b/ Osnivanje odlukom suda
 
 *Osnivanje odlukom*
 
-### Članak 289.
+###### Članak 289.
 
 (1) Pravo građenja može svojom odlukom osnovati sud u postupku diobe i ostavinskom postupku, ako je ovlašten u tom postupku osnovati služnost, a i u drugim slučajevima određenim zakonom.
 
 (2) Na osnivanje prava građenja odlukom suda na odgovarajući se način primjenjuju pravila o osnivanju služnosti odlukom suda.
 
-*Odjeljak 2.*
-
-*Stjecanje nečijega prava građenja*
+#### Odjeljak 2. — Stjecanje nečijega prava građenja
 
 *Prijenos i nasljeđivanje*
 
-### Članak 290.
+###### Članak 290.
 
 (1) Na prijenos prava građenja na odgovorajući se način primjenjuju odredbe o stjecanju prava vlasništva na nekretninama na temelju pravnoga posla, odluke suda i nasljeđivanja, ako nije što drugo određeno niti proizlazi iz pravne naravi prava građenja.
 
 (2) S pravom građenja ujedno se prenosi i vlasništvo zgrade izgrađene na pravu građenja; suprotna odredba je ništava.
 
-Glava 3.
-
-## ZAŠTITA
+### Glava 3. — ZAŠTITA
 
 *Zaštita prava građenja*
 
-### Članak 291.
+###### Članak 291.
 
 (1) Pravo građenja, dok nije izgrađena zgrada, a i nakon toga, uživa zaštitu po pravilima o zaštiti prava služnosti, koja se primjenjuju na odgovarajući način.
 
 (2) Pravo vlasništva zgrade izgrađene na pravu građenja uživa zaštitu po pravilima o zaštiti prava vlasništva, koja se primjenjuju na odgovarajući način.
 
-Glava 4.
-
-## PRESTANAK
+### Glava 4. — PRESTANAK
 
 *Općenito*
 
-### Članak 292.
+###### Članak 292.
 
 (1) Pravo građenja prestaje propašću stvari, ovlaštenikovim odreknućem, istekom roka i ispunjenjem raskidnoga uvjeta, zaštitom tuđega povjerenja, prestankom korisnika, rasterećenjem te ukinućem.
 
@@ -3324,15 +3253,15 @@ Glava 4.
 
 *Propast stvari i neki drugi razlozi*
 
-### Članak 293.
+###### Članak 293.
 
 Na prestanak prava građenja propašću stvari, ovlaštenikovim odreknućem, istekom roka i ispunjenjem raskidnoga uvjeta, zaštitom tuđega povjerenja, prestankom korisnika i rasterećenjem, na odgovarajući se način primjenjuju pravila o prestanku stvarnih tereta.
 
 *Ukinuće*
 
-### Članak 294.
+###### Članak 294.
 
-(1) Ne bude li na pravu građenja izgrađena zgrada u roku od dvadeset godina od osnutka toga prava, vlasnik opterećene nekretnine može zahtijevati da se ono ukine; ako nije što posebno određeno, odluku o ukinuću donijet će sud na zahtjev vlasnika opterećene nekretnine, bez obzira na pravni temelj na kojem je pravo građenja bilo osnovano.
+(1) Ne bude li na pravu građenja izgrađena zgrada u roku od dvadeset godina od osnutka toga prava, vlasnik opterećene nekretnine može zahtijevati da se ono ukine, a ako nije što posebno određeno, odluku o ukinuću donijet će sud na zahtjev vlasnika opterećene nekretnine, bez obzira na pravni temelj na kojem je pravo građenja bilo osnovano.
 
 (2) Pravo građenja na kojem je bila izgrađena zgrada, ali je srušena do te mjere da se ne može rabiti za svrhu kojoj je bila namijenjena, prestat će ukinućem kao da zgrada i nije bila izgrađena, ako nije u roku od šest godina ponovno izgrađeno barem u mjeri koliko je najnužnije da služi svojoj prijašnjoj glavnoj namjeni.
 
@@ -3342,7 +3271,7 @@ Na prestanak prava građenja propašću stvari, ovlaštenikovim odreknućem, ist
 
 *Posljedice prestanka*
 
-### Članak 295.
+###### Članak 295.
 
 (1) S prestankom prava građenja postaje pripadnost zemljišta ono što je pravom građenja bilo od zemljišta pravno odvojeno.
 
@@ -3352,7 +3281,7 @@ Na prestanak prava građenja propašću stvari, ovlaštenikovim odreknućem, ist
 
 *Tuđa prava*
 
-### Članak 296.
+###### Članak 296.
 
 (1) Tuđa stvarna prava koja su bila teret prava građenja prestaju s prestankom toga prava, ako nije što drugo određeno.
 
@@ -3360,17 +3289,13 @@ Na prestanak prava građenja propašću stvari, ovlaštenikovim odreknućem, ist
 
 (3) Služnosti, stvarni tereti i založna prava u korist i na teret prava građenja sa zgradom, ostaju kao služnosti i stvarni tereti u korist, odnosno na teret zemljišta sa zgradom, a s dotadašnjim prvenstvenim redom.
 
-*Dio sedmi*
+## Dio sedmi — ZALOŽNO PRAVO
 
-## ZALOŽNO PRAVO
-
-Glava 1.
-
-## O ZALOŽNOM PRAVU UOPĆE
+### Glava 1. — O ZALOŽNOM PRAVU UOPĆE
 
 *Pojam*
 
-### Članak 297.
+###### Članak 297.
 
 (1) Založno pravo je ograničeno stvarno pravo na određenoj stvari (zalogu) koje ovlašćuje svog nositelja (založnoga vjerovnika) da određenu tražbinu, ne bude li mu o dospijeću ispunjena, namiri iz vrijednosti te stvari, ma čija ona bila, a njezin svagdašnji vlasnik (založni dužnik) dužan je to trpjeti.
 
@@ -3378,7 +3303,7 @@ Glava 1.
 
 *Zalog*
 
-### Članak 298.
+###### Članak 298.
 
 (1) Založnim pravom može biti opterećena pojedinačno određena pokretna ili nepokretna stvar sposobna za unovčenje, kao i idealni dio takve stvari.
 
@@ -3396,7 +3321,7 @@ Glava 1.
 
 *Neodvojivost*
 
-### Članak 299.
+###### Članak 299.
 
 (1) Založno pravo ne može se odvojiti od zaloga koji opterećuje, pa tko na bilo kojem pravnom temelju stekne zalog, stekao ga je opterećenoga založnim pravom, ako zakonom nije drukčije određeno.
 
@@ -3404,13 +3329,13 @@ Glava 1.
 
 *Založni vjerovnik*
 
-### Članak 300.
+###### Članak 300.
 
 Zalog se opterećuje založnim pravom u korist svagdašnjega vjerovnika određene tražbine čije se namirenje time osigurava.
 
 *Tražbina i založno pravo*
 
-### Članak 301.
+###### Članak 301.
 
 (1) Založnim se pravom osigurava namirenje iz vrijednosti zaloga određene novčane tražbine, ili tražbine kojoj je vrijednost izražena u novcu; dovoljno je određena tražbina kojoj su određeni vjerovnik i dužnik, pravni temelj i visina, ili barem najviši iznos do kojega se osigurava zalogom.
 
@@ -3418,7 +3343,7 @@ Zalog se opterećuje založnim pravom u korist svagdašnjega vjerovnika određen
 
 (3) Pored glavne tražbine iz stavka 1. ovoga članka založno pravo ujedno osigurava i namirenje iz vrijednosti zaloga sporednih tražbina, kamata, troškova za očuvanje stvari i troškova naplate tražbine.
 
-(4) Dok traje založno pravo, namirenje tražbine osigurava zalog kao cjelina, uključivši sve njezine pripadnosti; ako se zalog podijeli, založno pravo nastavlja teretiti ono na što se zalog podijelio ili se od njega odvojilo; ako zalog propadne pa umjesto njega nastane pravo koje ga nadomješćuje (pravo na naknadu, na osigurninu i dr.), založno pravo traje i dalje na tom pravu.
+(4) Dok traje založno pravo, namirenje tražbine osigurava zalog kao cjelina, uključivši sve njezine pripadnosti, a ako se zalog podijeli, založno pravo nastavlja teretiti ono na što se zalog podijelio ili se od njega odvojilo; ako zalog propadne pa umjesto njega nastane pravo koje ga nadomješćuje (pravo na naknadu, na osigurninu i dr.), založno pravo traje i dalje na tom pravu.
 
 (5) Založno pravo osigurava namirenje iz vrijednosti zaloga određene tražbine kao cjeline, pa se opterećenje zaloga ne smanjuje sa smanjenjem tražbine, ako nije što drugo zakonom određeno.
 
@@ -3430,7 +3355,7 @@ Zalog se opterećuje založnim pravom u korist svagdašnjega vjerovnika određen
 
 *Prednost pri namirivanju*
 
-### Članak 302.
+###### Članak 302.
 
 (1) Tražbina osigurana založnim pravom ima pri namirivanju iz vrijednosti zaloga prednost pred svim tražbinama koje nisu osigurane založnim pravima na tom zalogu, ako nije što drugo zakonom određeno.
 
@@ -3442,7 +3367,7 @@ Zalog se opterećuje založnim pravom u korist svagdašnjega vjerovnika određen
 
 *Prometnost*
 
-### Članak 303.
+###### Članak 303.
 
 (1) Založno se pravo može otuđiti i naslijediti samo zajedno s tražbinom koju osigurava.
 
@@ -3452,7 +3377,7 @@ Zalog se opterećuje založnim pravom u korist svagdašnjega vjerovnika određen
 
 *Založno pravo kao hipoteka*
 
-### Članak 304.
+###### Članak 304.
 
 (1) Dobrovoljno založno pravo koje se na stvari osniva bez predaje stvari vjerovniku u posjed i koje ga ne ovlašćuje da drži zalog u posjedu jest hipoteka.
 
@@ -3462,27 +3387,23 @@ Zalog se opterećuje založnim pravom u korist svagdašnjega vjerovnika određen
 
 (4) Na hipoteku osnovanu na stvarima iz stavka 3. ovoga članka primjenjuju se posebne zakonske odredbe, a podredno će se na odgovarajući način primijeniti i odredbe ovoga Zakona koje uređuju založno pravo na nekretninama, ako nisu suprotne posebnim zakonskim odredbama ni naravi takve hipoteke.
 
-Glava 2.
+### Glava 2. — STJECANJE
 
-## STJECANJE
-
-*Odjeljak 1.*
-
-*Osnivanje založnoga prava*
+#### Odjeljak 1. — Osnivanje založnoga prava
 
 *Davanje u zalog*
 
-### Članak 305.
+###### Članak 305.
 
 (1) Založno pravo osniva se na određenoj stvari ili pravu kao zalogu na temelju pravnoga posla osobe čiji je zalog (dobrovoljno založno pravo), sudske odluke (sudsko založno pravo) ili zakona (zakonsko založno pravo), a na način određen zakonom.
 
 (2) Založno je pravo osnovano kad su ispunjene sve pretpostavke određene zakonom.
 
-*a/ Osnivanje dobrovoljnoga založnoga prava*
+### a/ Osnivanje dobrovoljnoga založnoga prava
 
 *Izvođenje iz vlasništva zaloga*
 
-### Članak 306.
+###### Članak 306.
 
 (1) Na temelju pravnoga posla kojemu je cilj osnivanje založnoga prava na određenoj stvari ili pravu radi osiguranja namirenja određene tražbine iz vrijednosti zaloga osniva se dobrovoljno založno pravo njegovim izvođenjem iz vlasništva stvari, odnosno pripadanja prava koje se njime opterećuje, a na način određen zakonom.
 
@@ -3490,7 +3411,7 @@ Glava 2.
 
 *Založni ugovor*
 
-### Članak 307.
+###### Članak 307.
 
 (1) Ugovorom o davanju u zalog, odnosno ugovorom o hipoteci, obvezuje se dužnik ili netko treći (zalogodavac) da će radi osnivanja založnoga prava koje će osiguravati određenu vjerovnikovu tražbinu, predati vjerovniku određenu pokretnu stvar u zalog, ili će mu dopustiti da svoje založno pravo upiše u javnu knjigu kao teret određene stvari, ili će mu prenijeti neko pravo radi osiguranja. Ujedno se obvezuje druga strana da će čuvati pokretni zalog i čim njegova tražbina prestane, vratiti ga zalogodavcu, ili da će učiniti što je potrebno da bi se izbrisalo založno pravo iz javne knjige, ili da će mu natrag prenijeti pravo.
 
@@ -3506,7 +3427,7 @@ Glava 2.
 
 *Način dobrovoljnoga davanja u zalog pokretnina*
 
-### Članak 308.
+###### Članak 308.
 
 (1) Dobrovoljno ugovorno založno pravo na pokretnoj stvari stječe vjerovnik kad ona na temelju založnoga ugovora bude predana u posjed njemu ili onomu koga on odredi.
 
@@ -3514,7 +3435,7 @@ Glava 2.
 
 *Način dobrovoljnoga davanja u zalog nekretnina*
 
-### Članak 309.
+###### Članak 309.
 
 (1) Dobrovoljno ugovorno založno pravo na nekretnini (dobrovoljna ugovorna hipoteka) i na pravu izjednačenom s nekretninom stječe vjerovnik uknjižbom toga prava u zemljišnu knjigu kao tereta na njime opterećenoj nekretnini, ako zakonom nije što drugo određeno.
 
@@ -3526,19 +3447,19 @@ Glava 2.
 
 *Način dobrovoljnoga davanja u zalog prava*
 
-### Članak 310.
+###### Članak 310.
 
-(1) Dobrovoljno založno pravo na vrijednosnim papirima koji glase na donositelja stječe vjerovnik jednako kao i na pokretnim stvarima, na papirima po naredbi založnim indosamentom, na papirima koji glase na ime, kao i na tražbinama - ustupom radi osiguranja i obavještavanjem dužnikova dužnika o tom ustupu, a na ostalim pravima na način koji je predviđen za prijenos tih prava, ako što drugo nije zakonom određeno.
+(1) Dobrovoljno založno pravo na vrijednosnim papirima koji glase na donositelja stječe vjerovnik jednako kao i na pokretnim stvarima, na papirima po naredbi založnim indosamentom, na papirima koji glase na ime, kao i na tražbinama – ustupom radi osiguranja i obavještavanjem dužnikova dužnika o tom ustupu, a na ostalim pravima na način koji je predviđen za prijenos tih prava, ako što drugo nije zakonom određeno.
 
 (2) Na pravima koja nastaju upisom u javne knjige ili druge javne upisnike, a o njima nije izdan vrijednosni papir, stječe se založno pravo upisom u tu knjigu ili upisnik na temelju prijave za upis podatka o osnutku založnoga prava, koju podnosi osoba čije se pravo zalaže, prilažući založni ugovor.
 
 (3) Prvenstveni red založnih prava osnovanih na način iz stavka 2. ovoga članka, određuje se odgovarajućom primjenom pravila zemljišnoknjižnoga prava, ako zakonom nije drukčije određeno.
 
-*b/ Osnivanje sudskoga i zakonskoga založnoga prava*
+### b/ Osnivanje sudskoga i zakonskoga založnoga prava
 
 *Osnivanje prisilnoga sudskoga založnoga prava*
 
-### Članak 311.
+###### Članak 311.
 
 (1) Prisilno sudsko založno pravo osniva se na temelju odluke suda donesene u postupku prisilnog osiguranja tražbine. Zakonske odredbe koje uređuju sudski postupak osiguranja novčanih tražbina određuju pretpostavke pod kojima sud može odlučiti da se osnuje prisilno založno pravo.
 
@@ -3548,7 +3469,7 @@ Glava 2.
 
 *Osnivanje dobrovoljnoga sudskoga založnoga prava na pokretnim i nepokretnim stvarima*
 
-### Članak 312.
+###### Članak 312.
 
 (1) Sudsko založno pravo na pokretnim i nepokretnim stvarima osniva se dobrovoljno na temelju založnoga ugovora koji, u obliku sudskoga zapisnika o sporazumu stranaka da založnim pravom osiguraju određenu tražbinu, one sklope pred sudom u postupku osiguranja novčane tražbine.
 
@@ -3560,7 +3481,7 @@ Glava 2.
 
 *Osnivanje dobrovoljnoga sudskoga založnoga prava na pravima*
 
-### Članak 313.
+###### Članak 313.
 
 (1) Sudsko založno pravo na pravima osniva se dobrovoljno na temelju založnoga ugovora koji, u obliku sudskoga zapisnika o sporazumu stranaka da založnim pravom osiguraju određene tražbine, one sklope pred sudom u postupku osiguranja novčane tražbine.
 
@@ -3570,17 +3491,17 @@ Glava 2.
 
 *Osnivanje zakonskoga založnoga prava*
 
-### Članak 314.
+###### Članak 314.
 
 (1) Zakonsko založno pravo osniva se ispunjenjem pretpostavaka koje za to odredi posebni zakon.
 
 (2) Zakonsko založno pravo na nekretnini upisat će se u zemljišnu knjigu na zahtjev založnoga vjerovnika.
 
-*c/ Osnivanje podzaložnoga prava*
+### c/ Osnivanje podzaložnoga prava
 
 *Dobrovoljno podzaložno pravo*
 
-### Članak 315.
+###### Članak 315.
 
 (1) Založni vjerovnik može založenu mu pokretnu stvar koju posjeduje dalje založiti u granicama svojega prava na namirenje iz nje, a na pravnom temelju i na način određen za osnivanje dobrovoljnoga založnoga prava; založi li je, osnovano je na zalogu podzaložno pravo podzaložnoga vjerovnika.
 
@@ -3590,7 +3511,7 @@ Glava 2.
 
 *Sudsko i zakonsko podzaložno pravo*
 
-### Članak 316.
+###### Članak 316.
 
 (1) Na zalogu koji osigurava tražbinu založnoga vjerovnika osniva se prisilno sudsko podzaložno pravo na temelju sudske odluke, a na način kako se osniva sudsko založno pravo.
 
@@ -3598,11 +3519,11 @@ Glava 2.
 
 (3) Na zalogu koji osigurava tražbinu založnoga vjerovnika osniva se zakonsko podzaložno pravo ispunjenjem pretpostavaka koje za osnivanje zakonskoga založnoga prava odredi posebni zakon. Pošto bude osnovano, zakonsko podzaložno pravo na nekretnini upisat će se u zemljišnu knjigu na zahtjev založnoga vjerovnika.
 
-*d/ Zaštita povjerenja*
+### d/ Zaštita povjerenja
 
 *Stjecanje od nevlasnika*
 
-### Članak 317.
+###### Članak 317.
 
 (1) Ako je vjerovnik koji ima pravni temelj za stjecanje dobrovoljnoga založnoga prava dobio u zalog tuđu pokretnu stvar bez pristanka njezina vlasnika, stekao je time založno pravo ako su ispunjene pretpostavke pod kojima bi mogao steći i pravo vlasništva na toj stvari od nevlasnika, odnosno od osobe koja nije ovlaštena tako pravno raspolagati stvarju; to na odgovarajući način vrijedi i ako je dobio u zalog vrijednosni papir na donositelja.
 
@@ -3610,39 +3531,33 @@ Glava 2.
 
 *Zaštita povjerenja u zemljišne knjige*
 
-### Članak 318.
+###### Članak 318.
 
 Na zaštitu povjerenja u zemljišne knjige glede založnih prava na nekretninama (hipoteka), na odgovarajući se način primjenjuju odredbe članka 122. do 125. ovoga Zakona, ako nisu suprotne pravnoj naravi tih prava.
 
-*Odjeljak 2.*
-
-*Stjecanje nečijega založnoga prava*
+#### Odjeljak 2. — Stjecanje nečijega založnoga prava
 
 *Prijenos*
 
-### Članak 319.
+###### Članak 319.
 
 Prijeđe li na bilo kojem pravnom temelju tražbina osigurana založnim pravom na drugu osobu, na nju je time ujedno prešlo i to založno pravo bez posebnoga pravnoga temelja za to i bez posebnoga načina stjecanja, osim ako je što drugo bilo određeno.
 
 *Posjed i upis*
 
-### Članak 320.
+###### Članak 320.
 
 (1) Ako založni dužnik nije pristao da pokretna stvar koja je zalog bude predana u neposredan posjed novom vjerovniku zalogom osigurane tražbine, zalog ostaje u posjedu prenositelja tražbine da ga čuva za založnoga vjerovnika kao posrednoga posjednika; vrijedi i za predaju vrijednosnoga papira na donositelja.
 
 (2) Novi će vjerovnik moći izvršavati ovlasti koje ima na temelju hipoteke koja je prešla na njega zajedno s tražbinom koju osigurava pošto ona bude upisana u zemljišnim knjigama kao njegovo pravo.
 
-Glava 3.
+### Glava 3. — VJEROVNIKOVA OVLAŠTENJA DO NAMIRENJA
 
-## VJEROVNIKOVA OVLAŠTENJA DO NAMIRENJA
-
-*Odjeljak 1.*
-
-*Ovlaštenja glede založenih pokretnina*
+#### Odjeljak 1. — Ovlaštenja glede založenih pokretnina
 
 *Pravo na posjed*
 
-### Članak 321.
+###### Članak 321.
 
 (1) Založni vjerovnik ima na temelju svoga dobrovoljnoga založnoga prava na pokretnoj stvari pravo posjedovati tu stvar.
 
@@ -3654,7 +3569,7 @@ Glava 3.
 
 *Čuvanje i povrat zaloga*
 
-### Članak 322.
+###### Članak 322.
 
 (1) Založni vjerovnik treba zalog koji posjeduje čuvati pažnjom dobroga domaćina, a u protivnom odgovara za štetu.
 
@@ -3670,7 +3585,7 @@ Glava 3.
 
 *Plodovi zaloga*
 
-### Članak 323.
+###### Članak 323.
 
 (1) Plodovi i druge koristi od založene stvari pripadaju založnom dužniku.
 
@@ -3680,19 +3595,19 @@ Glava 3.
 
 *Uzimanje iz vjerovnikova posjeda*
 
-### Članak 324.
+###### Članak 324.
 
 Založni dužnik može zahtijevati putem suda da se zalog oduzme iz neposrednoga posjeda založnoga vjerovnika te se preda nekoj trećoj osobi da ga čuva za račun vjerovnika kao posrednoga posjednika, ako založni vjerovnik ne čuva zalog kako treba, ako ga neovlašteno rabi ili ga je neovlašteno dao drugomu na uporabu, ili je za sebe uzeo plodove i druge koristi od zaloga premda se obvezao da to neće činiti.
 
 *Davanje u podzalog*
 
-### Članak 325.
+###### Članak 325.
 
 Založni je vjerovnik ovlašten dati zalog koji posjeduje u podzalog, pa i protiv zabrane založnoga dužnika ili zalogodavca, ali će odgovarati i za slučajnu propast i oštećenje zaloga do kojih inače ne bi došlo.
 
 *Skriveni nedostatci*
 
-### Članak 326.
+###### Članak 326.
 
 (1) Pokaže li se da zalog ima neki stvarni ili pravni nedostatak za koji vjerovnik nije znao niti trebao znati kad je zalog primio u posjed, a zbog kojega zalog nije dovoljno osiguranje namirenja njime osigurane tražbine, založni je vjerovnik ovlašten zahtijevati od zalogodavca drugi primjereni zalog.
 
@@ -3700,7 +3615,7 @@ Založni je vjerovnik ovlašten dati zalog koji posjeduje u podzalog, pa i proti
 
 *Nužna prodaja zaloga*
 
-### Članak 327.
+###### Članak 327.
 
 (1) Ako se pokretna stvar koju je založni vjerovnik dobio u zalog kvari ili gubi na vrijednosti iz nekoga razloga koji nije u skrivenim nedostacima stvari, pa postoji opasnost da zalog postane nedovoljan za osiguranje tražbine založnoga vjerovnika, založni dužnik ima pravo zahtijevati da se zalog odmah proda po burzovnoj ili tržišnoj cijeni te dovoljan dio cijene položi kod suda radi osiguranja vjerovnikove tražbine.
 
@@ -3708,25 +3623,23 @@ Založni je vjerovnik ovlašten dati zalog koji posjeduje u podzalog, pa i proti
 
 *Zaštita zaloga*
 
-### Članak 328.
+###### Članak 328.
 
 Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene stvari, postavljati sve zahtjeve potrebne radi zaštite svojega prava na zalogu, a osobito ima pravo:
 
-- zahtijevati od onoga koji bespravno posjeduje založenu stvar da mu je preda; na to se na odgovarajući način primjenjuju pravila za vlasnika, odnosno za predmnjevanoga vlasnika koji štiti svoje pravo vlasništva,
+– zahtijevati od onoga koji bespravno posjeduje založenu stvar da mu je preda; na to se na odgovarajući način primjenjuju pravila za vlasnika, odnosno za predmnjevanoga vlasnika koji štiti svoje pravo vlasništva,
 
-- zahtijevati od onoga koji ga u njegovu pravu glede založene stvari bespravno uznemirava na drugi način a ne oduzimanjem te stvari da ga prestane uznemiravati; na to se na odgovarajući način primjenjuju pravila za vlasnika, odnosno za predmnjevanoga vlasnika koji štiti svoje pravo vlasništva,
+– zahtijevati od onoga koji ga u njegovu pravu glede založene stvari bespravno uznemirava na drugi način a ne oduzimanjem te stvari da ga prestane uznemiravati; na to se na odgovarajući način primjenjuju pravila za vlasnika, odnosno za predmnjevanoga vlasnika koji štiti svoje pravo vlasništva,
 
-- zahtijevati od zalogodavca drugi primjereni zalog umjesto zaloga sa skrivenim nedostacima; na to se na odgovarajući način primjenjuju pravila o odgovornosti za stvarne i pravne nedostatke,
+– zahtijevati od zalogodavca drugi primjereni zalog umjesto zaloga sa skrivenim nedostacima; na to se na odgovarajući način primjenjuju pravila o odgovornosti za stvarne i pravne nedostatke,
 
-- zahtijevati nužnu prodaju zaloga.
+– zahtijevati nužnu prodaju zaloga.
 
-*Odjeljak 2.*
-
-*Ovlaštenja glede založenih nekretnina*
+#### Odjeljak 2. — Ovlaštenja glede založenih nekretnina
 
 *Založno pravo bez posjeda*
 
-### Članak 329.
+###### Članak 329.
 
 (1) Vjerovnik tražbine osigurane založnim pravom na nekretnini (hipotekarni vjerovnik) nema pravo na posjed založene nekretnine, niti ima pravo ubirati i prisvajati njezine plodove i druge koristi od nje, ili bilo kako upotrebljavati tu nekretninu.
 
@@ -3736,7 +3649,7 @@ Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene stvari, postavl
 
 *Održanje vrijednosti zaloga*
 
-### Članak 330.
+###### Članak 330.
 
 (1) Ako hipotekarni dužnik čini nešto što dovodi u opasnost ili smanjuje vrijednost nekretnine opterećene hipotekom, hipotekarni je vjerovnik ovlašten zahtijevati da hipotekarni dužnik propusti to činiti, a ako to ne propusti, može i prije dospijeća zahtijevati prisilnu naplatu tražbine osigurane hipotekom.
 
@@ -3744,7 +3657,7 @@ Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene stvari, postavl
 
 *Civilni plodovi nekretnine kao zalog*
 
-### Članak 331.
+###### Članak 331.
 
 (1) Kad je založnom vjerovniku založeno samo pravo na plodove koje nekretnina daje posredovanjem kakva pravnoga odnosa, on ih ima pravo ubrati.
 
@@ -3752,25 +3665,23 @@ Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene stvari, postavl
 
 *Zaštita*
 
-### Članak 332.
+###### Članak 332.
 
 (1) Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene nekretnine, postavljati sve zahtjeve potrebne radi zaštite svojega založnoga prava na nekretnini, a osobito ima pravo:
 
-- zahtijevati zaštitu svojega povrijeđenoga založnoga prava sredstvima koja za zaštitu knjižnih prava daju pravila zemljišnoknjižnoga prava,
+– zahtijevati zaštitu svojega povrijeđenoga založnoga prava sredstvima koja za zaštitu knjižnih prava daju pravila zemljišnoknjižnoga prava,
 
-- zahtijevati da založni dužnik ili treći propušta činiti glede založene nekretnine ono što dovodi u opasnost ili smanjuje njezinu vrijednost,
+– zahtijevati da založni dužnik ili treći propušta činiti glede založene nekretnine ono što dovodi u opasnost ili smanjuje njezinu vrijednost,
 
-- zahtijevati da se njemu preda ono što daje založena stvar posredovanjem kakva pravnoga odnosa, ako je njemu založeno pravo na te plodove.
+– zahtijevati da se njemu preda ono što daje založena stvar posredovanjem kakva pravnoga odnosa, ako je njemu založeno pravo na te plodove.
 
 (2) Na zahtjeve koje založni vjerovnik postavlja radi ostvarenja svojih ovlasti glede založene mu stvari, na odgovarajući se način primjenjuju pravila koja vrijede za vlasnika, odnosno predmnjevanoga vlasnika koji štiti svoje pravo vlasništva.
 
-*Odjeljak 3.*
-
-*Ovlasti glede zaloga prava*
+#### Odjeljak 3. — Ovlasti glede zaloga prava
 
 *Opće pravilo*
 
-### Članak 333.
+###### Članak 333.
 
 (1) Založni vjerovnik koji ima u zalogu nečije pravo izjednačeno s pokretnom stvari ima glede toga prava ovlasti i dužnosti poput onih koje bi imao da mu je založena pokretna stvar, ako nije što drugo zakonom određeno, ili ne proizlazi iz pravne naravi zaloga prava.
 
@@ -3778,7 +3689,7 @@ Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene stvari, postavl
 
 *Posebno o zalogu tražbine*
 
-### Članak 334.
+###### Članak 334.
 
 (1) Založni vjerovnik kojemu je založena nečija tražbina dužan je poduzeti mjere potrebne za očuvanje te tražbine.
 
@@ -3790,23 +3701,21 @@ Založni vjerovnik je ovlašten svakomu, pa i vlasniku založene stvari, postavl
 
 *Zaštita zaloga*
 
-### Članak 335.
+###### Članak 335.
 
 (1) Založni vjerovnik je ovlašten svakomu, pa i onomu čije je založeno pravo, postavljati sve zahtjeve potrebne radi zaštite svojega založnoga prava na tom zalogu, a osobito ima pravo:
 
-- zahtijevati od dužnika založene tražbine dospjele kamate i druga povremena davanja koja daje ta tražbina, odnosno od trećega zahtijevati ono što je primio na ime dospjelih kamata i drugih povremenih davanja,
+– zahtijevati od dužnika založene tražbine dospjele kamate i druga povremena davanja koja daje ta tražbina, odnosno od trećega zahtijevati ono što je primio na ime dospjelih kamata i drugih povremenih davanja,
 
-- zahtijevati od dužnika da mu ispuni založenu tražbinu koja je dospjela, odnosno od trećega zahtijevati ono što je primio na ime ispunjenja založene tražbine.
+– zahtijevati od dužnika da mu ispuni založenu tražbinu koja je dospjela, odnosno od trećega zahtijevati ono što je primio na ime ispunjenja založene tražbine.
 
 (2) Na zahtjeve koje založni vjerovnik postavlja radi ostvarenja svojih ovlasti na založenom mu pravu, na odgovarajući se način primjenjuju pravila koja vrijede za odgovarajuće zahtjeve založnoga vjerovnika kojemu je založena pokretna odnosno nepokretna stvar, a podredno obveznopravna pravila koja vrijede za vjerovnika koji ostvaruje svoje pravo.
 
-Glava 4.
-
-## OSTVARENJE PRAVA NA NAMIRENJE
+### Glava 4. — OSTVARENJE PRAVA NA NAMIRENJE
 
 *Pravo na namirenje založnoga vjerovnika*
 
-### Članak 336.
+###### Članak 336.
 
 (1) Ako se zalogom osigurana tražbina ne ispuni o dospijeću, založni je vjerovnik ovlašten ostvarivati svoje pravo na namirenje te tražbine iz vrijednosti zaloga.
 
@@ -3824,7 +3733,7 @@ Glava 4.
 
 *Namirivanje izvansudskim putem*
 
-### Članak 337.
+###### Članak 337.
 
 (1) Svoje pravo na namirenje zalogom osigurane tražbine iz vrijednosti zaloga ovlašten je založni vjerovnik ostvarivati izvansudskim putem, ako je predmet založnoga prava pokretna stvar ili pravo koje se ne smatra nekretninom, a založni je dužnik u trenutku osnivanja založnoga prava ili naknadno izričito u pisanom obliku dopustio takvo namirivanje.
 
@@ -3836,25 +3745,23 @@ Glava 4.
 
 (5) Ako je u zalog dan novac, založni je vjerovnik ovlašten svoju dospjelu tražbinu osiguranu tim zalogom namiriti zadržavši za sebe odgovarajući iznos. Isto vrijedi i kad vjerovnik namiruje svoju dospjelu tražbinu iz novca koji primi na ime založene mu tražbine ili na ime kamata odnosno drugih povremenih davanja koja daje založena tražbina, ili iz založenih plodova koje nekretnina daje posredovanjem nekoga pravnoga odnosa.
 
-(6) Ako je založni vjerovnik ovlašten za sebe ubrati plodove od pokretne stvari koja mu je predana u zalog, vrijednost ubranoga prebija se po samom zakonu u trenutku ubiranja s tražbinom osiguranom zalogom, pa ma i ona nije dospjela; založni je dužnik ovlašten u svako doba zahtijevati da mu vjerovnik o svom trošku izda priznanicu o tom prijeboju. Isto na odgovarajući način vrijedi i za vrijednost drugih koristi koje je založni vjerovnik ovlašteno imao od založene stvari.
+(6) Ako je založni vjerovnik ovlašten za sebe ubrati plodove od pokretne stvari koja mu je predana u zalog, vrijednost ubranoga prebija se po samom zakonu u trenutku ubiranja s tražbinom osiguranom zalogom, pa ma i ona nije dospjela, založni je dužnik ovlašten u svako doba zahtijevati da mu vjerovnik o svom trošku izda priznanicu o tom prijeboju. Isto na odgovarajući način vrijedi i za vrijednost drugih koristi koje je založni vjerovnik ovlašteno imao od založene stvari.
 
 (7) Vjerovnik koji je neovlašteno ostvarivao svoje pravo na namirenje izvansudskim putem, ili ga je ostvarivao na način na koji nije bio ovlašten, odgovara za svaku štetu koja bi odatle proizašla.
 
 *Zabilježba otkaza i tužbe*
 
-### Članak 338.
+###### Članak 338.
 
 (1) Kad je, da bi došao do namirenja svoje tražbine iz vrijednosti nekretnine, vjerovniku potrebno da prethodno putem parnice ishodi pravomoćnu presudu kojom će biti naređeno založnom vjerovniku da je dužan trpjeti namirenje iz vrijednosti zaloga, ili presudu kojom će osobno dužniku biti naređeno da podmiri vjerovnikovu tražbinu, ovlašten je zahtijevati da se u zemljišnim knjigama zabilježi tužba protiv vlasnika nekretnine; isto je tako ovlašten zahtijevati da se zabilježi otkaz o kojemu ovisi dospijeće tražbine.
 
 (2) Zabilježeni će otkaz ili tužba djelovati i protiv svakoga kasnijega vlasnika nekretnine, pa će se na temelju ovršne presude čije je donošenje ishođeno zabilježenom tužbom ili zabilježenim otkazom moći provesti ovrhu namirenjem iz nekretnine bez obzira tko je u međuvremenu postao njezinim vlasnikom.
 
-Glava 5.
-
-## ZAŠTITA
+### Glava 5. — ZAŠTITA
 
 *Zahtjev za poštovanje založnoga prava*
 
-### Članak 339.
+###### Članak 339.
 
 (1) Založni vjerovnik ima pravo zahtijevati od vlasnika zaloga da prizna i trpi njegovo založno pravo kao teret na založenoj stvari, te da trpi izvršavanje ovlaštenikova prava na njoj, a osobito namirenje dospjele tražbine založnoga vjerovnika iz vrijednosti zaloga, te da propušta činiti na zalogu ono što je zbog ovlaštenikova prava dužan propuštati; isto ima pravo zahtijevati i od svake druge osobe koja svojim činima niječe njegovo založno pravo ili ga bespravno onemogućuje ili uznemirava u izvršavanju toga prava.
 
@@ -3864,13 +3771,13 @@ Glava 5.
 
 *Tužba založnoga vjerovnika*
 
-### Članak 340.
+###### Članak 340.
 
 Da bi založni vjerovnik mogao u postupku pred sudom, odnosno drugim nadležnim tijelom, ostvariti svoje pravo iz članka 339. ovoga Zakona, mora dokazati svoje založno pravo i tuženikov čin onemogućivanja ili uznemiravanja izvršavanja toga prava.
 
 *Tužba predmnjevanoga založnoga vjerovnika*
 
-### Članak 341.
+###### Članak 341.
 
 (1) Pravo na zaštitu svojega predmnjevanoga založnoga prava ima, poput onoga koji je dokazao svoje založno pravo, i onaj koji u postupku pred sudom ili drugim nadležnim tijelom dokaže pravni temelj i istinit način svoga stjecanja posjeda zaloga, odnosno da je barem postojao upis njegova založnoga prava na nekretnini u zemljišnoj knjizi (predmnjevani založni vjerovnik).
 
@@ -3878,23 +3785,21 @@ Da bi založni vjerovnik mogao u postupku pred sudom, odnosno drugim nadležnim 
 
 *Zaštita od povrede upisom u zemljišnu knjigu*
 
-### Članak 342.
+###### Članak 342.
 
 Ako netko povrijedi založno pravo na nekretnini nevaljanim upisom u zemljišnu knjigu, založni se vjerovnik ima pravo štititi od toga sredstvima koja za zaštitu knjižnih prava daju pravila zemljišnoknjižnoga prava.
 
-Glava 6.
-
-## PRESTANAK
+### Glava 6. — PRESTANAK
 
 *Propast zaloga*
 
-### Članak 343.
+###### Članak 343.
 
 Propadne li zalog a da na njegovo mjesto nije stupila druga stvar ili pravo, založno pravo prestaje, ali tražbina ostaje i nadalje.
 
 *Odreknuće*
 
-### Članak 344.
+###### Članak 344.
 
 (1) Založno pravo prestaje valjanim odreknućem založnoga vjerovnika.
 
@@ -3908,7 +3813,7 @@ Propadne li zalog a da na njegovo mjesto nije stupila druga stvar ili pravo, zal
 
 *Istek roka i ispunjenje raskidnoga uvjeta*
 
-### Članak 345.
+###### Članak 345.
 
 (1) Založno pravo koje je ograničeno rokom ili raskidnim uvjetom prestaje zbog isteka toga roka ili ispunjenja uvjeta, ali će založno pravo upisano u zemljišnoj knjizi prestati tek brisanjem toga prava.
 
@@ -3916,13 +3821,13 @@ Propadne li zalog a da na njegovo mjesto nije stupila druga stvar ili pravo, zal
 
 *Prestanak osigurane tražbine*
 
-### Članak 346.
+###### Članak 346.
 
 Založno pravo prestaje kad prestane cijela njime osigurana tražbina i sve sporedne tražbine kamata i troškova, ako nije što drugo zakonom određeno.
 
 *Raspolaganje neizbrisanom hipotekom*
 
-### Članak 347.
+###### Članak 347.
 
 (1) Da bi založno pravo na nekretnini prestalo, nije dovoljno da je prestala tražbina koju je osiguravala, već hipoteka prestaje brisanjem iz zemljišne knjige.
 
@@ -3936,7 +3841,7 @@ Založno pravo prestaje kad prestane cijela njime osigurana tražbina i sve spor
 
 *Zabilježba pridržaja prvenstvenoga reda*
 
-### Članak 348.
+###### Članak 348.
 
 (1) U slučaju brisanja hipoteke može vlasnik istodobno ishoditi da se u zemljišnoj knjizi zabilježi da je za upis nove hipoteke do visine izbrisane pridržan prvenstveni red za vrijeme od tri godine od odobrenja te zabilježbe. Promijeni li se vlasništvo, taj pridržaj djeluje i u korist novoga vlasnika, ali u slučaju prisilne javne dražbe te nekretnine ovaj se pridržaj ne uzima u obzir, ako nije iskorišten prije zabilježbe rješenja kojim je dopuštena ovrha na toj nekretnini radi naplate nečije novčane tražbine.
 
@@ -3950,19 +3855,19 @@ Založno pravo prestaje kad prestane cijela njime osigurana tražbina i sve spor
 
 *Zaštita tuđega povjerenja*
 
-### Članak 349.
+###### Članak 349.
 
 Založno pravo na nekretnini koje nije upisano u zemljišnoj knjizi prestaje kad njime opterećenu nekretninu stekne osoba koja nije znala niti morala znati da ono postoji.
 
 *Prestanak založnoga vjerovnika*
 
-### Članak 350.
+###### Članak 350.
 
-Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju osobnost, a nema sveopćega pravnoga sljednika; ali založno pravo upisano u zemljišnoj knjizi prestat će tek brisanjem.
+Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju osobnost, a nema sveopćega pravnoga sljednika, ali založno pravo upisano u zemljišnoj knjizi prestat će tek brisanjem.
 
 *Ukinuće*
 
-### Članak 351.
+###### Članak 351.
 
 (1) Založno pravo na nekretninama prestaje ukinućem na temelju odluke zemljišnoknjižnoga suda koji, nakon što provede postupak koji je za to predviđen odredbama zakona koji uređuje zemljišnoknjižno pravo, dopusti amortizaciju hipoteke.
 
@@ -3970,7 +3875,7 @@ Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju
 
 *Rasterećenje zakonom ili odlukom upravne vlasti*
 
-### Članak 352.
+###### Članak 352.
 
 (1) Založna prava prestaju ispunjenjem pretpostavaka koje za to odredi posebni zakon.
 
@@ -3980,19 +3885,17 @@ Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju
 
 *Prestanak sudskoga i zakonskoga založnoga prava*
 
-### Članak 353.
+###### Članak 353.
 
-(1) Ako nije što drugo određeno zakonom, prisilno založno pravo prestaje pravomoćnošću rješenja koja ukidaju provedene radnje i mjere kojima je to pravo bilo osnovano, a ako je u tom postupku provedeno namirenje - pravomoćnošću rješenja o namirenju, s time da hipoteka prestaje brisanjem iz zemljišnih knjiga.
+(1) Ako nije što drugo određeno zakonom, prisilno založno pravo prestaje pravomoćnošću rješenja koja ukidaju provedene radnje i mjere kojima je to pravo bilo osnovano, a ako je u tom postupku provedeno namirenje – pravomoćnošću rješenja o namirenju, s time da hipoteka prestaje brisanjem iz zemljišnih knjiga.
 
 (2) Zakonsko založno pravo prestaje kao i dobrovoljno, a i prestankom okolnosti zbog kojih je na temelju zakona osnovano, ako nije što drugo zakonom određeno. Ako je upisano u zemljišnu knjigu, prestaje tek brisanjem.
 
-*Dio osmi*
-
-## STVARNA PRAVA STRANIH OSOBA
+## Dio osmi — STVARNA PRAVA STRANIH OSOBA
 
 *Primjena zakona na strane osobe*
 
-### Članak 354.
+###### Članak 354.
 
 (1) Odredbe ovoga Zakona primjenjuju se i na strane fizičke i pravne osobe, osim ako je što drugo zakonom ili međunarodnim ugovorom određeno.
 
@@ -4000,7 +3903,7 @@ Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju
 
 *Strane osobe*
 
-### Članak 355.
+###### Članak 355.
 
 (1) Fizička osoba smatra se sa stajališta ovoga Zakona stranom kad nema državljanstvo Republike Hrvatske, osim ako je što drugo određeno zakonom.
 
@@ -4010,35 +3913,53 @@ Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju
 
 *Vlasništvo nekretnina*
 
-### Članak 356.
+###### Članak 356.
 
 (1) Strane fizičke i pravne osobe mogu, pod pretpostavkom uzajamnosti, stjecati na temelju nasljeđivanja vlasništvo nekretnina na području Republike Hrvatske.
 
-(2) Strane fizičke i pravne osobe mogu, ako zakonom nije drukčije određeno, pod pretpostavkom uzajamnosti, stjecati vlasništvo nekretnina na području Republike Hrvatske, ako suglasnost za to dade ministar vanjskih poslova Republike Hrvatske, po prethodno pribavljenom mišljenju ministra pravosuđa Republike Hrvatske, ako zakonom nije drukčije određeno.
+(2) Strane fizičke i pravne osobe mogu ako zakonom nije drukčije određeno, pod pretpostavkom uzajamnosti, stjecati vlasništvo nekretnina na području Republike Hrvatske, ako suglasnost za to dade ministar nadležan za poslove pravosuđa Republike Hrvatske.
 
-(3) Strane osobe bez državljanstva koje su iseljenici s područja bivše SFRJ ili su potomci takvih osoba mogu stjecati vlasništvo nekretnina na području Republike Hrvatske, ako suglasnost za to stjecanje dade ministar zadužen za iseljeništvo, po prethodno pribavljenom mišljenju ministra pravosuđa Republike Hrvatske.
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je stavak 2.
 
-(4) Tko se smatra iseljenikom, određuje se posebnim propisom.
+(3) Suglasnost iz stavka 2. ovoga članka je upravni akt.
 
-(5) Suglasnost iz stavka 2. i 3. ovoga članka nije upravni akt.
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je stavak 3.
 
-*Suglasnost i mišljenje*
+(4) Brisan.
 
-### Članak 357.
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. stavak 4. je brisan.
 
-(1) Ako je za stjecanje prava vlasništva nekretnine potrebna suglasnost ministra vanjskih poslova ili ministra zaduženoga za iseljeništvo, pravni posao kojemu je cilj stjecanje toga prava vlasništva ne proizvodi pravni učinak bez suglasnosti nadležnoga ministra.
+(5) Ukinut.
+
+Odlukom Ustavnog suda Republike Hrvatske br. U-I-1094/99 od 9. veljače 1999. ukinuta je odredba članka 356. stavka 5. (»Narodne novine« br. 22/00).
+
+*Suglasnost*
+
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je naslov iznad članka 357.
+
+###### Članak 357.
+
+(1) Ako je za stjecanje prava vlasništva nekretnine potrebna suglasnost ministra nadležnog za poslove pravosuđa Republike Hrvatske, pravni posao kojemu je cilj stjecanje toga prava vlasništva ništetan je bez suglasnosti ministra nadležnog za poslove pravosuđa.
+
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je stavak 1.
 
 (2) O davanju suglasnosti za stjecanje prava vlasništva odlučuje nadležni ministar na zahtjev strane osobe koja namjerava steći vlasništvo određene nekretnine ili osobe koja namjerava otuđiti tu nekretninu.
 
-(3) Kad odlučuje o zahtjevu iz stavka 1. ovoga članka, nadležni ministar po službenoj dužnosti pribavlja prethodno mišljenje ministra pravosuđa Republike Hrvatske.
+(3) Brisan.
 
-(4) Strana osoba kojoj je uskraćena suglasnost za stjecanje prava vlasništva na nekretnini ne može ponoviti zahtjev za davanje suglasnosti na stjecanje prava vlasništva iste nekretnine prije nego što protekne pet godina od dana podnošenja zahtjeva koji je odbijen.
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. brisan je stavak 3.
 
-(5) Suglasnost iz stavka 1., 2. i 4. ovoga članka nije upravni akt.
+(3) Strana osoba kojoj je uskraćena suglasnost za stjecanje prava vlasništva na nekretnini ne može ponoviti zahtjev za davanje suglasnosti na stjecanje prava vlasništva iste nekretnine prije nego što protekne pet godina od dana podnošenja zahtjeva koji je odbijen.
+
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. dotadašnji stavak 4. postao stavak 3.
+
+(5) Ukinut.
+
+Odlukom Ustavnog suda Republike Hrvatske br. U-I-1094/99 od 9. veljače 1999. ukinuta je odredba članka 357. stavka 5. (»Narodne novine« br. 22/00).
 
 *Nekretnine na isključenom području*
 
-### Članak 358.
+###### Članak 358.
 
 (1) Strana osoba ne može biti vlasnikom nekretnine koja leži na području koje je radi zaštite interesa i sigurnosti Republike Hrvatske zakonom proglašeno područjem na kojem strane osobe ne mogu imati pravo vlasništva, osim ako je zakonom što drugo određeno.
 
@@ -4046,17 +3967,37 @@ Založno pravo prestaje ako pravna osoba koja je založni vjerovnik izgubi svoju
 
 (3) Ako strana osoba ne može na području iz stavka 1. ovoga članka steći vlasništvo nekretnine koje bi inače stekla nasljeđivanjem, ona ima pravo na naknadu prema propisima o izvlaštenju, kao da joj je ta nekretnina oduzeta u postupku izvlaštenja.
 
-*Dio deveti*
+###### Članak 358.a
 
-## PRIJELAZNE I ZAVRŠNE ODREDBE
+(1) Odredbe članka 354. do 358. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00., 114/01., 79/06. i 141/06.) ne odnose se na državljane i pravne osobe iz država članica Europske unije. Te osobe stječu pravo vlasništva nekretnina pod pretpostavkama koje vrijede za stjecanje prava vlasništva za državljane Republike Hrvatske i pravne osobe sa sjedištem u Republici Hrvatskoj.
 
-Glava 1.
+(2) Odredba stavka 1. ovoga članka ne odnosi se na nekretnine u izuzetim područjima:
 
-## PRETVORBA DRUŠTVENOG VLASNIŠTVA
+– poljoprivredno zemljište određeno posebnim zakonom,
+
+– zaštićeni dijelovi prirode prema posebnom zakonu.
+
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 146/08), koji je stupio na snagu 1. veljače 2009. dodan je članak 358.a.
+
+###### Članak 358.b
+
+(1) Nekretnine za koje je stranoj osobi prestalo pravo vlasništva na temelju članka 358. stavak 2., kao i nekretnine koje strana osoba ne može steći nasljeđivanjem na temelju članka 358. stavka 3. Zakona o vlasništvu i drugim stvarnim pravima postaju vlasništvo Republike Hrvatske, koja je obveznik naknade. Nasljednik ostvaruje pravo na naknadu prema propisima o izvlaštenju, na temelju pravomoćnog rješenja o nasljeđivanju kojim mu je to pravo utvrđeno.
+
+(2) Založna prava i druga stvarnopravna osiguranja koja su teretila nekretninu terete naknadu koju stječe nasljednik.
+
+(3) Ostala stvarna prava trećih osoba koja su teretila nekretninu ne prestaju.
+
+(4) Odredbe ovoga članka primjenjuju se i na druge nekretnine koje strane osobe ne mogu steći nasljeđivanjem.
+
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, broj 146/08), koji je stupio na snagu 1. veljače 2009. dodan je članak 358.b.
+
+## Dio deveti — PRIJELAZNE I ZAVRŠNE ODREDBE
+
+### Glava 1. — PRETVORBA DRUŠTVENOG VLASNIŠTVA
 
 *Opće odredbe o pretvorbi*
 
-### Članak 359.
+###### Članak 359.
 
 (1) Što je odredbama ove glave određeno o pretvorbi prava upravljanja, korištenja i raspolaganja stvarima u društvenom vlasništvu te o pretvorbi prava korištenja neizgrađenoga građevinskoga zemljišta u društvenom vlasništvu za nositelje tih prava, vrijedi i za njihove nasljednike i druge pravne sljednike.
 
@@ -4064,9 +4005,9 @@ Glava 1.
 
 *Pretvorba prava upravljanja, korištenja i raspolaganja*
 
-### Članak 360.
+###### Članak 360.
 
-(1) Pravo upravljanja, odnosno korištenja i raspolaganja na stvari u društvenom vlasništvu postalo je pretvorbom nositelja toga prava - pravo vlasništva one osobe koja je pretvorbom postala sveopći pravni sljednik dotadašnjega nositelja prava upravljanja, odnosno korištenja i raspolaganja na toj stvari, ako je stvar sposobna biti predmetom prava vlasništva; osim ako posebnim zakonom nije određeno drukčije.
+(1) Pravo upravljanja, odnosno korištenja i raspolaganja na stvari u društvenom vlasništvu postalo je pretvorbom nositelja toga prava – pravo vlasništva one osobe koja je pretvorbom postala sveopći pravni sljednik dotadašnjega nositelja prava upravljanja, odnosno korištenja i raspolaganja na toj stvari, ako je stvar sposobna biti predmetom prava vlasništva; osim ako posebnim zakonom nije određeno drukčije.
 
 (2) Pravo upravljanja, odnosno korištenja i raspolaganja na stvari u društvenom vlasništvu osobe koja se do stupanja na snagu ovoga Zakona nije pretvorila u subjekt prava vlasništva, postaje stupanjem na snagu ovoga Zakona pravo vlasništva dotadašnjega nositelja prava upravljanja, odnosno korištenja i raspolaganja na toj stvari, ako je stvar sposobna biti predmetom prava vlasništva, osim ako posebnim zakonom nije određeno drukčije.
 
@@ -4076,7 +4017,7 @@ Glava 1.
 
 *Pretvorba prava korištenja neizgrađenoga građevinskoga zemljišta*
 
-### Članak 361.
+###### Članak 361.
 
 (1) Pravo korištenja neizgrađenoga građevinskog zemljišta u društvenom vlasništvu koje nije prestalo do donošenja ovoga Zakona pretvara se njegovim stupanjem na snagu u pravo vlasništva dotadašnjega nositelja toga prava ili njegova pravnoga sljednika.
 
@@ -4086,7 +4027,7 @@ Glava 1.
 
 *Predmnjeve*
 
-### Članak 362.
+###### Članak 362.
 
 (1) Smatra se da je vlasnik nekretnine u društvenom vlasništvu osoba koja je u zemljišnim knjigama upisana kao nositelj prava upravljanja, korištenja ili raspolaganja tom nekretninom, a tko tvrdi suprotno, treba to dokazati.
 
@@ -4098,7 +4039,7 @@ Glava 1.
 
 *Zaštita pretvorenih prava*
 
-### Članak 363.
+###### Članak 363.
 
 (1) Osoba čije pravo vlasništva potječe od nekadašnjega prava upravljanja ili korištenja i raspolaganja stvari u društvenom vlasništvu, odnosno od nekadašnjega prava korištenja ili prvenstvenoga prava korištenja građevinskoga zemljišta u društvenom vlasništvu, ima pravo na zaštitu svoga prava kao svaki vlasnik, uz odgovarajuću primjenu odredaba članka 161. do 168. ovoga Zakona, ako nije što posebno određeno zakonom.
 
@@ -4106,7 +4047,7 @@ Glava 1.
 
 *Upis neuknjiženih prava na nekretninama*
 
-### Članak 364.
+###### Članak 364.
 
 (1) Upis prava vlasništva nekretnine koje potječe od nekadašnjega prava upravljanja ili korištenja i raspolaganja stvari u društvenom vlasništvu provest će se po pravilima zemljišnoknjižnoga prava, ako ovim člankom Zakona nije što drugo propisano.
 
@@ -4124,7 +4065,7 @@ Glava 1.
 
 *Upis vlasništva u koje se pretvorilo pravo korištenja građevinskoga zemljišta*
 
-### Članak 365.
+###### Članak 365.
 
 (1) Upis prava vlasništva nekretnine koje potječe od nekadašnjega prava korištenja neizgrađenoga građevinskoga zemljišta u društvenom vlasništvu ili od prvenstvenoga prava korištenja takva zemljišta provest će se po pravilima zemljišnoknjižnoga prava, a uz odgovarajuću primjenu odredaba članka 364. ovoga Zakona, ako ovim člankom nije što drugo propisano.
 
@@ -4138,13 +4079,11 @@ Glava 1.
 
 (6) Tko tvrdi da je pravo korištenja na neizgrađenom građevinskom zemljištu odnosno prvenstveno pravo korištenja toga zemljišta u međuvremenu izvanknjižno prestalo, treba to dokazati pred sudom da bi se na temelju sudske odluke izbrisalo to pravo odnosno pravo vlasništva u koje se ono pretvorilo.
 
-Glava 2.
-
-## USPOSTAVA PRAVNOGA JEDINSTVA NEKRETNINE
+### Glava 2. — USPOSTAVA PRAVNOGA JEDINSTVA NEKRETNINE
 
 *Jedinstvenost nekretnine*
 
-### Članak 366.
+###### Članak 366.
 
 (1) Od dana stupanja na snagu ovoga Zakona, u Republici Hrvatskoj vrijedi načelo pravne jedinstvenosti određeno člankom 9. ovoga Zakona, ako posebnim zakonom nije što drugo određeno.
 
@@ -4154,51 +4093,55 @@ Glava 2.
 
 (4) Kad dvostrano ili jednostrano obvezni ugovor ne proizvodi pravne učinke zbog suprotnosti načelu jedinstvenosti nekretnine, svaka ugovorna strana, a i treći u čiju je korist ugovor sklopljen, ima pravo zahtijevati pravednu izmjenu ugovora kojom bi se taj nedostatak uklonio.
 
-*Odjeljak 1.*
-
-*Uspostava jedinstva zemljišta i zgrade*
+#### Odjeljak 1. — Uspostava jedinstva zemljišta i zgrade
 
 *Pravno sjedinjenje zemljišta i upisane zgrade*
 
-### Članak 367.
+###### Članak 367.
 
 (1) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada u nečijem vlasništvu te je upisana u zemljišnoj knjizi kao zemljišnoknjižno tijelo zasebno od zemljišta na kojem je izgrađena, vlasnik zgrade steći će pravo vlasništva cijele nekretnine spajanjem svih tih zemljišnoknjižnih tijela u jedno uz upis prava vlasništva na spojenom tijelu u korist vlasnika zgrade.
 
 (2) Nadležni će sud u slučaju iz stavka 1. ovoga članka odrediti spajanje zemljišnoknjižnih uložaka u jedan na zahtjev vlasnika zgrade.
 
-(3) U slučaju kad je na istom zemljištu izgrađeno više zgrada koje su upisane kao zemljišnoknjižna tijela zasebna od zemljišta na kojem su izgrađena, sud će na zahtjev vlasnika bilo koje od tih zgrada spojiti sva ta zemljišnoknjižna tijela u jedno zemljišnoknjižno tijelo uz upis prava vlasništva na njemu u korist svih vlasnika zgrada kao suvlasnika cijele tako stvorene nekretnine s jednakim suvlasničkim dijelovima.
+(3) Ukinut.
 
-(4) Svaki od bivših vlasnika zgrada koji su upisom iz stavka 3. ovoga članka postali suvlasnici nekretnine može putem suda ishoditi utvrđenje veličine suvlasničkih dijelova prema odnosu vrijednosti zgrada u trenutku spajanja u jedno zemljišnoknjižno tijelo.
+Odlukom Ustavnog suda Republike Hrvatske br. U-I-58/97, U-I-235/97,U-I-237/97, U-I-1053/97 i U-I-1054/97 od 17. studenoga 1999. ukinuta je odredba članka 367. stavka 3. (»Narodne novine« br. 137/99).
 
-(5) U slučaju kad se zbog uspostave jedinstva nekretnine spaja više zemljišnoknjižnih tijela u jedno, ne dira se u prava koja su do tog spajanja postojala u korist ili na teret jednoga i drugoga zemljišnoknjižnoga tijela, nego će se po službenoj dužnosti upisati u korist, odnosno na teret odnosnoga suvlasničkoga dijela; a ako to nije moguće, upisat će se u korist, odnosno na teret spojenoga tijela, svako s onim prvenstvenim redom koje ima prema vremenu svoga nastanka, odnosno prema provedenom ustupu prvenstva.
+(3) U slučaju kad se zbog uspostave jedinstva nekretnine spaja više zemljišnoknjižnih tijela u jedno, ne dira se u prava koja su do tog spajanja postojala u korist ili na teret jednoga i drugoga zemljišnoknjižnoga tijela, nego će se po službenoj dužnosti upisati u korist, odnosno na teret odnosnoga suvlasničkoga dijela; a ako to nije moguće, upisat će se u korist, odnosno na teret spojenoga tijela, svako s onim prvenstvenim redom koje ima prema vremenu svoga nastanka, odnosno prema provedenom ustupu prvenstva.
+
+Odredbom članka 1. Zakona o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« broj 114/01), koji je stupio na snagu 20. prosinca 2001. dotadašnji stavak 5. postao je stavak 3.
+
+(4) Brisan.
+
+Odredbom članka 1. Zakona o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« broj 114/01), koji je stupio na snagu 20. prosinca 2001. brisan je stavak 4.
 
 *Pravno sjedinjenje zemljišta i neupisane zgrade*
 
-### Članak 368.
+###### Članak 368.
 
 (1) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, ali nije upisana u zemljišnoj knjizi iako je upisano zemljište na kojem je izgrađena, vlasnik te zgrade steći će pravo vlasništva cijele nekretnine upisom postojanja zgrade na zemljišnoj čestici na kojoj je izgrađena, uz upis prava vlasništva na cijelom zemljišnoknjižnom tijelu u korist vlasnika zgrade.
 
 (2) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, a na tom je zemljištu upisano pravo korištenja građevinskoga zemljišta u društvenom vlasništvu, odnosno prvenstvenoga prava korištenja građevinskoga zemljišta u društvenom vlasništvu u korist vlasnika te zgrade, nadležni će sud na zahtjev vlasnika zgrade odrediti upis iz stavka 1. ovoga članka na temelju obavijesti nadležnoga katastarskoga tijela da je na odnosnoj građevinskoj čestici izgrađena zgrada.
 
-(3) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, ali na zemljištu nije upisano pravo korištenja građevinskoga zemljišta u društvenom vlasništvu, odnosno prvenstvenoga prava korištenja građevinskoga zemljišta u društvenom vlasništvu u korist vlasnika te zgrade, nadležni će sud na zahtjev vlasnika zgrade odrediti upis iz stavka 1. ovoga članka na temelju ovršne odluke vlasti kojom je radi izgradnje zgrade dodijeljeno pravo korištenja njegovu nositelju, s rješenjem o oduzimanju građevinskoga zemljišta iz posjeda prijašnjega vlasnika ili korisnika i o davanju toga zemljišta na korištenje, s ugovorom o međusobnim pravima i obvezama sklopljenim u skladu s uvjetima utvrđenim u tom rješenju, te obavijesti nadležnoga katastarskoga tijela da je na odnosnoj građevinskoj čestici izgrađena zgrada.
+(3) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, ali na zemljištu nije upisano pravo korištenja građevinskoga zemljišta u društvenom vlasništvu, odnosno prvenstvenoga prava korištenja građevinskoga zemljišta u društvenom vlasništvu u korist vlasnika te zgrade, nadležni će sud na zahtjev vlasnika zgrade odrediti upis iz stavka 1. ovoga članka na temelju ovršne odluke vlasti kojom je radi izgradnje zgrade dodijeljeno pravo korištenja odnosno utvrđeno prvenstveno pravo korištenja njegovu nositelju, ugovora o međusobnim pravima i obvezama sklopljenim u skladu s uvjetima utvrđenim u toj odluci te obavijesti nadležnoga katastarskoga tijela da je na odnosnoj građevinskoj čestici izgrađena zgrada.
+
+Odredbom članka 6. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« br. 79/2006), koji je stupio na snagu 25. srpnja 2006. izmijenjen je stavak 3.
 
 (4) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, ali to zemljište nije upisano u zemljišnu knjigu, vlasnik te zgrade steći će vlasništvo cijele nekretnine odgovarajućom primjenom odredaba stavka 3. ovoga članka, s time da će, umjesto upisom u zemljišnu knjigu, vlasništvo nekretnine steći polaganjem u sud isprave na temelju koje bi se inače mogao dopustiti upis prema odredbi stavka 3. ovoga članka; na to će se na odgovarajući način primijeniti odredba članka 120. stavka 4. ovoga Zakona.
 
 *Pravno sjedinjenje nekretnine i pretvorba prava upravljanja, korištenja ili raspolaganja*
 
-### Članak 369.
+###### Članak 369.
 
 (1) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u društvenom vlasništvu, a pravo upravljanja, korištenja ili raspolaganja zgradom pripadalo je pravnoj osobi različitoj od one kojoj je pripadalo pravo upravljanja ili korištenja i raspolaganja zemljištem, pravo vlasništva cijele nekretnine steći će vlasnik zgrade na način određen člancima 367. i 368. ovoga Zakona, koji se primjenjuju na odgovarajući način.
 
 (2) U slučaju iz stavka 1. ovoga članka vlasnik je osoba čije se pravo upravljanja, korištenja ili raspolaganja pretvorilo u pravo vlasništva prema odredbama ovoga ili posebnoga zakona.
 
-*Odjeljak 2.*
-
-*Uspostava jedinstva nekretnine i posebnih dijelova zgrade*
+#### Odjeljak 2. — Uspostava jedinstva nekretnine i posebnih dijelova zgrade
 
 *Povezivanje etažnoga vlasništva sa suvlasništvom*
 
-### Članak 370.
+###### Članak 370.
 
 (1) Vlasništvo na posebnom dijelu zgrade (etažno vlasništvo), a isto tako i pravo raspolaganja na posebnom dijelu zgrade u društvenom vlasništvu, stečeno na temelju prijašnjih propisa, od stupanja na snagu ovoga Zakona vlasništvo je posebnih dijelova nekretnine, kako je uređeno odredbama ovoga Zakona, pa se prosuđuje po njima, ako ovim prijelaznim odredbama nije što posebno određeno.
 
@@ -4212,17 +4155,15 @@ Glava 2.
 
 (6) Vlasništvo određenoga posebnoga dijela nekretnine, povezanoga s određenim suvlasničkim dijelom te nekretnine, upisuje se u zemljišnoj knjizi uz odgovarajuću primjenu odredaba predviđenih ovim Zakonom za uspostavu vlasništva na posebnom dijelu; do tada već provedeni upisi vlasništva na posebnom dijelu zgrade, odnosno upisi prava raspolaganja na posebnom dijelu zgrade u društvenom vlasništvu smatraju se upisima prava vlasništva posebnoga dijela nekretnine povezanoga sa suvlasničkim dijelom te nekretnine koji je određen po stavku 4. ovoga članka.
 
-### Članak 371.
+###### Članak 371.
 
-(1) Vlasnik koji je posebni dio zgrade stekao u vlasništvo na temelju ugovora zaključenoga prema odredbi Zakona o prodaji stanova na kojima postoji stanarsko pravo, kojim u cijenu stana nije bila uračunata cijena zemljišta, pošto na temelju odredbe članka 370. stavka 3. ovoga Zakona stekne i suvlasništvo zemljišta, obvezan je da vrijednost time postignute koristi naknadi dotadašnjem vlasniku zemljišta.
+*Prestao važiti.*
 
-(2) Obveza naknade iz stavka 1. ovoga članka sastoji se u plaćanju onolikoga iznosa novca, u onim rokovima i na onaj način, koliko, kada i kako bi kupac stana bio dužan platiti cijenu zemljišta da je ona bila uračunata u cijenu stana sukladno odredbama Zakona o prodaji stanova na kojima postoji stanarsko pravo, s time da rokovi počinju teći od dana stupanja na snagu ovoga Zakona, a što će se pobliže urediti posebnim propisom koji će Ministarstvo prostornoga uređenja, graditeljstva i stanovanja donijeti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
-
-(3) Zastarijevanje obveze naknade iz stavka 1. i 2. ovoga članka ne može početi teći prije stupanja na snagu ovoga Zakona.
+*Odredbom članka 12. Zakona o izmjenama i dopunama zakona o prodaji stanova na kojima postoji stanarsko pravo (»Narodne novine«, broj 68/98) koji je stupio na snagu 20. svibnja 1998. prestao je važiti.*
 
 *Posebni dijelovi nastali prenamjenom, nadogradnjom, prigradnjom ili dogradnjom*
 
-### Članak 372.
+###### Članak 372.
 
 (1) Tko je do stupanja na snagu ovoga Zakona, a na temelju odobrenja koje je nadležna vlast dala u granicama svoje ovlasti na takvo imovinskopravno raspolaganje, o svome trošku proveo prenamjenu zajedničkih prostorija u zgradi u društvenom vlasništvu u stan ili drugu samostalnu prostoriju, stekao je time na temelju i u okviru toga odobrenja pravo vlasništva prenamijenjenih prostorija kao posebnoga dijela nekretnine, zajedno s odgovarajućim suvlasničkim dijelom cijele nekretnine, u smislu odredaba članka 370. ovoga Zakona.
 
@@ -4232,17 +4173,15 @@ Glava 2.
 
 *Pripadci posebnoga dijela nastali prenamjenom, nadogradnjom, prigradnjom ili dogradnjom*
 
-### Članak 373.
+###### Članak 373.
 
 (1) Tko je do stupanja na snagu ovoga Zakona, a na temelju odobrenja koje je nadležna vlast dala u granicama svoje ovlasti na takvo imovinskopravno raspolaganje, o svome trošku proveo prenamjenu zajedničkih prostorija u zgradi u društvenom vlasništvu u dio koji bi služio njegovu posebnom dijelu nekretnine, njegovo se pravo vlasništva posebnoga dijela protegnulo i na taj dio kao pripadak tog dijela, osim ako to po odredbama ovoga Zakona ne može biti pripadak toga posebnoga dijela.
 
 (2) Odredba stavka 1. ovoga Zakona na odgovarajući se način primjenjuje i na nadogradnje, dogradnje i prigradnje nekretnine urađene do stupanja na snagu ovoga Zakona na temelju valjanoga odobrenja nadležne vlasti i o svome trošku.
 
-Glava 3.
+### Glava 3. — IZVRŠAVANJE OVLASTI GLEDE CIJELE NEKRETNINE U PRIJELAZNOM RAZDOBLJU
 
-## IZVRŠAVANJE OVLASTI GLEDE CIJELE NEKRETNINE U PRIJELAZNOM RAZDOBLJU
-
-### Članak 374.
+###### Članak 374.
 
 (1) Odredbama ove glave uređuju se međusobni odnosi suvlasnika dok oni svoje odnose ne urede sukladno odredbama glave 4. trećega dijela ovoga Zakona.
 
@@ -4250,31 +4189,31 @@ Glava 3.
 
 *Međuvlasnički ugovor*
 
-### Članak 375.
+###### Članak 375.
 
 (1) Uzajamni odnosi suvlasnika u svezi s upravljanjem i korištenjem nekretnine utvrđuju se ugovorom koji mora biti sklopljen u pisanom obliku (međuvlasnički ugovor).
 
 (2) Međuvlasnički ugovor iz stavka 1. ovoga članka sadrži osobito:
 
-- veličinu suvlasničkih dijelova nekretnine,
+– veličinu suvlasničkih dijelova nekretnine,
 
-- uvjete i način upravljanja nekretninom,
+– uvjete i način upravljanja nekretninom,
 
-- pobliže podatke o osobi koja će upravljati nekretninom,
+– pobliže podatke o osobi koja će upravljati nekretninom,
 
-- opseg poslova koje će obavljati ta osoba, odgovornost za obavljanje poslova i sl.,
+– opseg poslova koje će obavljati ta osoba, odgovornost za obavljanje poslova i sl.,
 
-- uvjete i način prikupljanja i raspolaganja sredstvima zajedničke pričuve,
+– uvjete i način prikupljanja i raspolaganja sredstvima zajedničke pričuve,
 
-- ime suvlasnika ovlaštenoga za predstavljanje i zastupanje suvlasnika prema upravitelju, odnosno trećim osobama i granice njegovih ovlasti,
+– ime suvlasnika ovlaštenoga za predstavljanje i zastupanje suvlasnika prema upravitelju, odnosno trećim osobama i granice njegovih ovlasti,
 
-- uvjete i način korištenja zajedničkih prostorija, uključujući i stan namijenjen za nadstojnika zgrade, te uređaja i zemljišta koje pripada određenoj nekretnini.
+– uvjete i način korištenja zajedničkih prostorija, uključujući i stan namijenjen za nadstojnika zgrade, te uređaja i zemljišta koje pripada određenoj nekretnini.
 
 (3) Odluke koje proizlaze iz međuvlasničkoga ugovora obvezuju sve suvlasnike ako je ugovor sklopila većina suvlasnika čiji suvlasnički dijelovi čine više od polovice vrijednosti svih posebnih dijelova nekretnine.
 
 (4) Odredbe međuvlasničkoga ugovora imaju učinak i prema suvlasniku koji je to pravo stekao nakon sklapanja međuvlasničkoga ugovora.
 
-### Članak 376.
+###### Članak 376.
 
 (1) Ako je nekretninom upravljao fond u stambenom gospodarstvu, suvlasnici su dužni tom fondu dostaviti ugovor iz članka 375. ovoga Zakona i obavijestiti ga o računu sredstava zajedničke pričuve.
 
@@ -4282,13 +4221,13 @@ Glava 3.
 
 *Ugovor u svezi zajedničkih dijelova*
 
-### Članak 377.
+###### Članak 377.
 
 Ako se u jednoj nekretnini nalaze zajednički dijelovi i uređaji koji koriste i drugim nekretninama (krov, oluci, fasada, kotlovnica), odnosno nadstojnički stan koji pripada i drugim nekretninama, suvlasnici tih nekretnina dužni su sklopiti ugovor o upravljanju i korištenju tih zajedničkih dijelova i uređaja, odnosno nadstojničkoga stana.
 
 *Upravitelj*
 
-### Članak 378.
+###### Članak 378.
 
 (1) Suvlasnici nekretnine su dužni poslove upravljanja nekretninom povjeriti upravitelju u skladu s ugovorom kojega s tim upraviteljem sklapaju.
 
@@ -4304,35 +4243,39 @@ Ako se u jednoj nekretnini nalaze zajednički dijelovi i uređaji koji koriste i
 
 *Upraviteljeve dužnosti i ovlasti*
 
-### Članak 379.
+###### Članak 379.
 
 (1) Upravitelj je dužan osobito:
 
-- brinuti se da se zajednički dijelovi nekretnine održavaju u graditeljskom i funkcionalnom stanju, nužnom za normalno korištenje,
+– brinuti se da se zajednički dijelovi nekretnine održavaju u graditeljskom i funkcionalnom stanju, nužnom za normalno korištenje,
 
-- obavljati povremeni i godišnji pregled nekretnine i o tome sačiniti zapisnik,
+– obavljati povremeni i godišnji pregled nekretnine i o tome sačiniti zapisnik,
 
-- utvrditi visinu sredstava zajedničke pričuve koju snosi pojedini suvlasnik,
+– utvrditi visinu sredstava zajedničke pričuve koju snosi pojedini suvlasnik,
 
-- raspoređivati i druge troškove nekretnine na suvlasnike, naplaćivati dugovanja te redovno podmirivati te troškove prema trećima, sukladno sredstvima kojima raspolaže,
+– raspoređivati i druge troškove nekretnine na suvlasnike, naplaćivati dugovanja te redovno podmirivati te troškove prema trećima, sukladno sredstvima kojima raspolaže,
 
-- obavještavati suvlasnike na prikladan način o obavljenim poslovima,
+– obavještavati suvlasnike na prikladan način o obavljenim poslovima,
 
-- obavljati i druge poslove u skladu s obvezama preuzetim ugovorom iz članka 378. ovoga Zakona,
+– obavljati i druge poslove u skladu s obvezama preuzetim ugovorom iz članka 378. ovoga Zakona,
 
-- položiti svakom suvlasniku uredan račun o poslovanju u prethodnoj kalendarskoj godini i staviti mu na prikladan način na uvid isprave na kojima se temelji, i to najkasnije do 30. lipnja svake godine,
+– položiti svakom suvlasniku uredan račun o poslovanju u prethodnoj kalendarskoj godini i staviti mu na prikladan način na uvid isprave na kojima se temelji, i to najkasnije do 30. lipnja svake godine,
 
-- izraditi pregled predviđenih poslova za održavanje i poboljšice, kao i predvidivih troškova i opterećenja u narednoj kalendarskoj godini (godišnji program) ili za višegodišnje razdoblje, te to na prikladan način objaviti u kući najkasnije do isteka tekuće kalendarske godine,
+– izraditi pregled predviđenih poslova za održavanje i poboljšice, kao i predvidivih troškova i opterećenja u narednoj kalendarskoj godini (godišnji program) ili za višegodišnje razdoblje, te to na prikladan način objaviti u kući najkasnije do isteka tekuće kalendarske godine,
 
-- prikupiti više ponuda za poslove održavanja koji se ponavljaju u razmacima duljim od jedne godine kao i za veće radove radi poboljšice.
+– prikupiti više ponuda za poslove održavanja koji se ponavljaju u razmacima duljim od jedne godine kao i za veće radove radi poboljšice.
 
-(2) Suvlasnici, u čije ime upravitelj upravlja nekretninom, dužni su o promjeni osobe upravitelja ili o promjenama njegovih ovlasti koje se i njih tiču, obavijestiti najmoprimce i zakupnike na prikladan način; ono što bi neobaviješteni najmoprimci i zakupnici ispunili osobi koja više nije upravitelj ili više nije ovlaštena primiti ispunjenje, valjano je ispunjeno i oslobađa dužnike obveze, ali samo ako nisu znali za tu promjenu.
+– pokrenuti sve potrebne postupke pred nadležnim tijelima državne uprave i sudovima u svrhu upisa zgrade na građevinskoj čestici i svih njezinih posebnih dijelova u zemljišnim knjigama.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 153/09), koji je stupio na snagu 29. prosinca 2009. u stavku 1. dodan je podstavak 10.
+
+(2) Suvlasnici, u čije ime upravitelj upravlja nekretninom, dužni su o promjeni osobe upravitelja ili o promjenama njegovih ovlasti koje se i njih tiču, obavijestiti najmoprimce i zakupnike na prikladan način, a ono što bi neobaviješteni najmoprimci i zakupnici ispunili osobi koja više nije upravitelj ili više nije ovlaštena primiti ispunjenje, valjano je ispunjeno i oslobađa dužnike obveze, ali samo ako nisu znali za tu promjenu.
 
 (3) Upravitelja koji postupa suprotno obvezama iz ovoga članka, suvlasnici mogu razriješiti dužnosti te im je dužan naknaditi štetu koja nastane radi njegove nemarnosti ili propusta.
 
 *Zajednička pričuva*
 
-### Članak 380.
+###### Članak 380.
 
 (1) Sredstva zajedničke pričuve suvlasnici su dužni uplaćivati na račun koji će u tu svrhu otvoriti, prema utvrđenom godišnjem, odnosno višegodišnjem programu.
 
@@ -4344,13 +4287,13 @@ Ako se u jednoj nekretnini nalaze zajednički dijelovi i uređaji koji koriste i
 
 *Troškovi upravljanja*
 
-### Članak 381.
+###### Članak 381.
 
 Dok se ne utvrde vrijednosti posebnih dijelova nekretnine udio vlasnika posebnoga dijela nekretnine u troškovima upravljanja odredit će se na način da visina udjela odgovara udjelu korisne površine stana ili na druge samostalne prostorije koja je u njegovu vlasništvu, prema zbroju korisnih površina svih stanova i drugih samostalnih prostorija u nekretnini.
 
 *Hitni popravci*
 
-### Članak 382.
+###### Članak 382.
 
 (1) Ako suvlasnici ne osiguraju upravljanje nekretninom, jedinica lokalne samouprave i jedinica lokalne samouprave i uprave odredit će fizičku ili pravnu osobu za obavljanje hitnih popravaka na toj nekretnini.
 
@@ -4364,7 +4307,7 @@ Dok se ne utvrde vrijednosti posebnih dijelova nekretnine udio vlasnika posebnog
 
 *Nužni popravci*
 
-### Članak 383.
+###### Članak 383.
 
 (1) Kada zbog oštećenja zajedničkih dijelova i uređaja nekretnine postoji opasnost za život i zdravlje ljudi, građevinski inspektor naredit će upravitelju nekretnine, odnosno suvlasnicima ako nemaju upravitelja, izvršenje nužnih popravaka.
 
@@ -4374,13 +4317,13 @@ Dok se ne utvrde vrijednosti posebnih dijelova nekretnine udio vlasnika posebnog
 
 *Rok za zaključenje ugovora*
 
-### Članak 384.
+###### Članak 384.
 
 Suvlasnici su dužni međuvlasnički ugovor iz članka 375., ugovor u svezi sa zajedničkim dijelovima iz članka 377. i ugovor s upraviteljem iz članka 378. ovoga Zakona zaključiti u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.
 
 *Prinudna uprava*
 
-### Članak 385.
+###### Članak 385.
 
 (1) Ako suvlasnici nisu osigurali upravljanje nekretninom u roku iz članka 384. ovoga Zakona, jedinice lokalne samouprave odredit će fizičku ili pravnu osobu koja će obavljati poslove uprave tom nekretninom (prinudni upravitelj).
 
@@ -4388,25 +4331,23 @@ Suvlasnici su dužni međuvlasnički ugovor iz članka 375., ugovor u svezi sa z
 
 *Prestanak rada fondova*
 
-### Članak 386.
+###### Članak 386.
 
 Fondovi u stambenom gospodarstvu prestaju s radom u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.
 
 *Donošenje podzakonskih propisa*
 
-### Članak 387.
+###### Članak 387.
 
 (1) Namjenu sredstava zajedničke pričuve, vrste i način otklanjanja hitnih i nužnih popravaka, dostavljanje podataka o stanovima nadležnom upravnom tijelu jedinica lokalne samouprave i jedinica lokalne samouprave i uprave, preuzimanje sredstava i djelatnika fonda, prijenos sredstava zatečenih na računu fonda te uvjete i način prestanka rada fondova uredit će Vlada Republike Hrvatske posebnom uredbom.
 
 (2) Vlada Republike Hrvatske uredbu iz stavka 1. ovoga članka donijet će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
 
-Glava 4.
-
-## ZAVRŠNE ODREDBE
+### Glava 4. — ZAVRŠNE ODREDBE
 
 *Djelovanje zakona*
 
-### Članak 388.
+###### Članak 388.
 
 (1) Stjecanje, promjena, pravni učinci i prestanak stvarnih prava od stupanja na snagu ovoga Zakona prosuđuju se prema njegovim odredbama, ako ovim prijelaznim i završnim odredbama ili posebnim zakonom nije drukčije određeno.
 
@@ -4414,13 +4355,27 @@ Glava 4.
 
 (3) Rokovi koji su za stjecanje i prestanak stvarnih prava određeni ovim Zakonom, ako su bili počeli teći prije nego što je on stupio na snagu, nastavljaju teći u skladu s odredbom stavka 2. ovoga članka, ali ne dulje nego što bi trebao isteći rok određen ovim Zakonom ako bi počeo teći u času njegova stupanja na snagu.
 
-(4) U rok za stjecanje dosjelošću nekretnina koje su na dan 8. listopada 1991. godine bile u društvenom vlasništvu, kao i za stjecanje stvarnih prava na tim nekretninama dosjelošću, računa se i vrijeme posjedovanja proteklo prije toga dana.
+(4) Ukinut.
 
-(5) Zaštita povjerenja u istinitost i potpunost zemljišnih knjiga određena ovim Zakonom neće se primjenjivati u korist stjecanja do kojih dođe unutar roka od pet godina od stupanja ovoga Zakona na snagu, ako se njime stječe nekretnina na kojoj je bilo upisano društveno vlasništvo, a nije brisano prije nego što je ovaj Zakon stupio na snagu.
+Odlukom Ustavnog suda Republike Hrvatske broj: U-I-58/97, U-I-235/97,U-I-237/97, U-I-1053/97 i U-I-1054/97 od 17. studenoga 1999. ukinuta je odredba članka 388. stavka 4. (»Narodne novine« br. 137/99).
+
+(5) Zaštita povjerenja u istinitost i potpunost zemljišnih knjiga određena ovim Zakonom neće se primjenjivati u korist stjecanja do kojih dođe do 1. siječnja 2017., ako se njime stječe nekretnina na kojoj je bilo upisano društveno vlasništvo, a nije brisano prije nego što je ovaj Zakon stupio na snagu.
+
+Odredbom članka 2. Zakona o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 114/01), koji je stupio na snagu 20. prosinca 2001. u stavku 5. dio riječi je izmijenjen.
+
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 141/06), koji je stupio na snagu 27. prosinca 2006.u stavku 5. dio riječi: je izmijenjen.
+
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 114/09), koji je stupio na snagu 29. prosinca 2009. u stavku 5. dio riječi je izmijenjen.
+
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 152/14), koji je stupio na snagu 30. prosinca 2014. u stavku 5. dio riječi je izmijenjen.
+
+(6) Iznimno od odredbe stavka 5. ovoga članka zaštita povjerenja u istinitost i potpunost zemljišnih knjiga primjenjuje se od 1. siječnja 2007. na nekretnine u katastarskim općinama za koje je otvorena EOP zemljišna knjiga kao i na nekretnine koje su prema posebnim odredbama Zakona o zemljišnim knjigama unesene u Bazu zemljišnih podataka.
+
+Odredbom članka 3. stavka 2. Zakona o izmjeni i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 141/06), koji je stupio na snagu 27. prosinca 2006. dodan je stavak 6.
 
 *Stečena prava*
 
-### Članak 389.
+###### Članak 389.
 
 (1) Stupanjem na snagu ovoga Zakona ne dira se u postojeće odnose vlasnika, odnosno suvlasnika stvari, s jedne, te osoba koje su na valjanom pravnom temelju i na valjani način stekle prava glede tih stvari, s druge strane.
 
@@ -4430,290 +4385,15 @@ Glava 4.
 
 *Iznimke od pretvorbe prava upravljanja, korištenja i raspolaganja*
 
-### Članak 390.
+###### Članak 390.
 
 (1) Odredbe članka 360. do 365. ovoga Zakona ne odnose se na stvari na kojima su pravo upravljanja, korištenja i raspolaganja imale bivše društvene i društveno-političke organizacije, na stvari koje nisu unesene u društveni kapital pravnih osoba u postupku pretvorbe na temelju Zakona o pretvorbi društvenih poduzeća, te na stvari pravnih osoba u društvenom vlasništvu sa sjedištem na prije okupiranom, a sada oslobođenom području Republike Hrvatske.
 
 (2) Pretvorba prava upravljanja, korištenja i raspolaganja na stvarima iz stavka 1. ovoga članka uredit će se posebnim zakonom.
 
-*Raspolaganje nekretninama u vlasništvu jedinica lokalne samouprave*
+*Vlasništvo trgovačkog društva kao pravnog sljednika društvenog poduzeća*
 
-### Članak 391.
-
-(1) Nekretninu u vlasništvu jedinica lokalne samouprave i jedinica lokalne uprave i samouprave poglavarstva tih jedinica mogu otuđiti ili njom na drugi način raspolagati samo na osnovu javnog natječaja i uz naknadu utvrđenu po tržnoj cijeni, ako zakonom nije drukčije određeno.
-
-(2) Pravni poslovi sklopljeni protivno odredbama ovoga članka ništavi su.
-
-*Nalazni uredi*
-
-### Članak 392.
-
-(1) Ministarstvo unutarnjih poslova ustrojit će nalazne urede i rad u njima u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
-
-(2) Do ustroja nalaznih ureda po odredbi stavka 1. ovoga članka, poslove nalaznih ureda obavljaju policijske postaje.
-
-*Iznimke od primjene Zakona o zakupu poslovnoga prostora*
-
-### Članak 393.
-
-Na ugovore o zakupu zaključene sukladno odredbama članka 32. ovoga Zakona ne primjenjuju se odredbe Zakona o zakupu poslovnoga prostora.
-
-*Prestanak važenja zakona*
-
-### Članak 394.
-
-(1) Stupanjem na snagu ovoga Zakona prestaju važiti sljedeći zakoni:
-
-- Zakon o osnovnim vlasničkopravnim odnosima ("Narodne novine", br. 53/91.),
-
-- Zakon o vlasništvu na dijelovima zgrada ("Narodne novine", br. 52/73.),
-
-- Zakon o prometu zemljišta i zgrada ("Narodne novine", br. 52/73.),
-
-- Zakon o prenamjeni zajedničkih prostorija u stanove ("Narodne novine", br. 37/88.),
-
-- Osnovni zakon o stjecanju prava vlasništva na poljoprivrednim oruđima i o korištenju poljoprivrednog oruđa od strane građana ("Narodne novine", br. 52/71.),
-
-- Glava II i III Zakona o stambenim odnosima ("Narodne novine", br. 51/85., 42/86., 22/92. i 70/93.),
-
--Zakon o korištenju dijela sredstava amortizacije za velike popravke stambenih zgrada ("Narodne novine", br. 39/88. i 33/89.) i
-
-- Zakon o fondovima u stambenom i komunalnom gospodarstvu ("Narodne novine", br. 53/90. i 76/93.).
-
-(2) Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o građevinskom zemljištu ("Narodne novine", br. 48/88. - pročišćeni tekst, 16/90. i 53/90.), a postupci započeti po odredbama toga Zakona, dovršit će se po odredbama ovoga Zakona, ako su povoljniji za nositelja prava korištenja.
-
-(3) Stupanjem na snagu ovoga Zakona prestaje važiti Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada ("Narodne novine", br. 19/95.).
-
-(4) Stupanjem na snagu ovoga Zakona stavljaju se izvan snage odredbe sljedećih članaka zakona:
-
-- članka 966. do 996. Zakona o obveznim odnosima, koji je preuzet kao Zakon Republike Hrvatske Zakonom o preuzimanju Zakona o obveznim odnosima ("Narodne novine", br. 53/91. i 73/91.),
-
-- članka 34. i 53. Zakona o građenju ("Narodne novine", br. 77/92.).
-
-*Tumačenje i primjena zakonskih odredaba*
-
-### Članak 395.
-
-(1) Od dana stupanja na snagu ovoga Zakona mogu se odredbe propisa koji su na snazi, a različito uređuju društveno od ostaloga vlasništva, tumačiti i primjenjivati samo u skladu s načelom jednovrsnosti vlasništva.
-
-(2) Od dana stupanja na snagu ovoga Zakona mogu se odredbe propisa koji su na snazi, a različito uređuju pripadanje zgrada, odnosno dijelova zgrada od pripadanja zemljišta, tumačiti i primjenjivati samo u skladu s načelom jedinstvenosti nekretnine.
-
-*Stupanje na snagu*
-
-### Članak 396.
-
-Ovaj Zakon stupa na snagu 1. siječnja 1997. godine.
-
-Klasa: 941-06/95-01/01
-
-Zagreb, 2. listopada 1996.
-
-ZASTUPNIČKI DOM
-
-SABORA REPUBLIKE HRVATSKE
-
-Predsjednik  
-Zastupničkog doma Sabora  
-akademik Vlatko Pavletić, v. r.
-
-![](https://narodne-novine.nn.hr/dodaci\1996\TipkaPočStr.GIF)![](https://narodne-novine.nn.hr/dodaci\1996\TSluzGl.GIF)![](https://narodne-novine.nn.hr/dodaci\1996\TPretra.GIF)![](https://narodne-novine.nn.hr/dodaci\1996\TElPosta.GIF)
-
----
-
-# Izmjene, dopune i ispravci nakon izvornog teksta
-
-## Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima (NN 73/2000)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1578*
-
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
-
-1578
-
-Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
-
-Proglašavam Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima, koji je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 12. srp­nja 2000.
-
-Broj: 01-081-00-2532/2  
-Zagreb, 19. srp­nja 2000.
-
-Predsjednik  
-Republike Hrvatske  
-Stjepan Mesić, v. r.
-
-**ZAKON**
-
-**O DOPUNI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
-
-### Članak 1.
-
-U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99. i 22/00) u članku 391. iza stavka 1. dodaje se novi stavak 2. koji glasi:
-
-»(2) Odredba stavka 1. ovoga članka ne odnosi se na pravne poslove koje međusobno sklapaju Republika Hrvatska i jedinica lokalne samouprave, odnosno jedinica lokalne uprave i samouprave, ako je to u interesu i ci­­lju opće­ga gospodarskog i socijalnog napretka ­­njezinih građana.«
-
-Dosadaš­­nji stavak 2. postaje stavak 3.
-
-### Članak 2.
-
-Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
-
-Klasa: 941-06/00-01/01  
-Zagreb, 12. srp­­nja 2000.
-
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
-
-Predsjednik  
-Zastupničkog doma  
-Hrvatskoga državnog sabora  
-Zlatko Tomčić, v. r.
-
-## Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (NN 114/2001)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1883*
-
-HRVATSKI SABOR
-
-1883
-
-Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
-
-Proglašavam Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
-
-Broj: 01-081-01-3881/2  
-Zagreb, 13. prosinca 2001.
-
-Predsjednik  
-Republike Hrvatske  
-Stjepan Mesić, v. r.
-
-**ZAKON**
-
-**O IZMJENI I DOPUNI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
-
-### Članak 1.
-
-U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00. i 73/00.) u članku 367. stavak 4. briše se.
-
-Dosadaš­nji stavak 5. postaje stavak 3.
-
-### Članak 2.
-
-U članku 388. iza stavka 3. dodaje se novi stavak 4. koji glasi:
-
-»U rok za stjeca­nje dosjelošću nekretnine koje su na dan 8. listopada 1991. bile u društvenom vlasništvu, kao i za stjeca­nje stvarnih prava na tim nekretninama dosjelošću, ne računa se i vrijeme posjedova­nja proteklo prije toga dana.«
-
-U stavku 5. riječi: »do kojih dođe unutar roka od pet godina od stupa­nja ovoga Zakona na snagu«, zamje­njuju se riječima: »do kojih dođe do 1. siječ­nja 2007.«
-
-### Članak 3.
-
-Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
-
-Klasa: 941-06/01-01/01  
-Zagreb, 7. prosinca 2001.
-
-HRVATSKI SABOR
-
-Predsjednik  
-Hrvatskoga sabora  
-Zlatko Tomčić, v. r.
-
-## Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (NN 79/2006)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1917*
-
-HRVATSKI SABOR
-
-1917
-
-Na temelju članka 88. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARIM PRAVIMA
-
-Proglašavam Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima, kojega je Hrvatski sabor donio na sjednici 30. lipnja 2006. godine
-
-Klasa: 011-01/06-01/31
-
-Urbroj: 71-05-03/1-06-2
-
-Zagreb, 5. srpnja 2006.
-
-Predsjednik
-
-Republike Hrvatske
-
-Stjepan Mesić, v. r.
-
-**ZAKON**
-
-**O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
-
-#### Članak 1.
-
-U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00. i 114/01.), u članku 73. stavak 3. mijenja se i glasi:
-
-»(3) Vlasništvo posebnog dijela ne može se uspostaviti dok nadležno tijelo ne potvrdi da je određeni stan ili druga prostorija u određenoj zgradi i na određenoj zemljišnoj čestici samostalna uporabna cjelina. Potvrda mora sadržavati popis i opis posebnih dijelova nekretnine i da su izgrađeni u skladu s dozvolom nadležnog tijela.«
-
-Iza stavka 3. dodaje se novi stavak 4. koji glasi:
-
-»(4) Potvrdu iz stavka 3. ovoga članka može zamijeniti uporabna dozvola iz koje je razvidno da je zgrada izgrađena sukladno planu posebnih dijelova nekretnine, potvrđenim građevinskom dozvolom da ti posebni dijelovi predstavljaju samostalnu uporabnu cjelinu.«
-
-Dosadašnji stavak 4. postaje stavak 5.
-
-#### Članak 2.
-
-U članku 74. stavku 2. podstavak 5. mijenja se i glasi:
-
-»– korisna se površina u pravilu izračunava prema glavnom projektu koji je sastavni dio građevinske dozvole ili koji je potvrđen po nadležnom tijelu; ali ako netko učini vjerojatnim da postoje znatnija odstupanja od tog projekta, korisna će se površina izračunati prema stvarnom stanju.«
-
-#### Članak 3.
-
-U članku 356. stavak 2. i 3. mijenjaju se i glase:
-
-»(2) Strane fizičke i pravne osobe mogu ako zakonom nije drukčije određeno, pod pretpostavkom uzajamnosti, stjecati vlasništvo nekretnina na području Republike Hrvatske, ako suglasnost za to dade ministar nadležan za poslove pravosuđa Republike Hrvatske.
-
-(3) Suglasnost iz stavka 2. ovoga članka je upravni akt.«
-
-Stavak 4. briše se.
-
-#### Članak 4.
-
-Naslov iznad članka 357. mijenja se i glasi: »Suglasnost«.
-
-#### Članak 5.
-
-U članku 357. stavak 1. mijenja se i glasi:
-
-»(1) Ako je za stjecanje prava vlasništva nekretnine potrebna suglasnost ministra nadležnog za poslove pravosuđa Republike Hrvatske, pravni posao kojemu je cilj stjecanje toga prava vlasništva ništetan je bez suglasnosti ministra nadležnog za poslove pravosuđa.«
-
-Stavak 3. briše se.
-
-Dosadašnji stavak 4. postaje stavak 3.
-
-#### Članak 6.
-
-U članku 368. stavak 3. mijenja se i glasi:
-
-»(3) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, ali na zemljištu nije upisano pravo korištenja građevinskoga zemljišta u društvenom vlasništvu, odnosno prvenstvenoga prava korištenja građevinskoga zemljišta u društvenom vlasništvu u korist vlasnika te zgrade, nadležni će sud na zahtjev vlasnika zgrade odrediti upis iz stavka 1. ovoga članka na temelju ovršne odluke vlasti kojom je radi izgradnje zgrade dodijeljeno pravo korištenja odnosno utvrđeno prvenstveno pravo korištenja njegovu nositelju, ugovora o međusobnim pravima i obvezama sklopljenim u skladu s uvjetima utvrđenim u toj odluci te obavijesti nadležnoga katastarskoga tijela da je na odnosnoj građevinskoj čestici izgrađena zgrada.«
-
-#### Članak 7.
-
-Iza članka 390. dodaje se naslov i članak 390.a koji glase:
-
-»Vlasništvo trgovačkog društva kao pravnog sljednika društvenog poduzeća
-
-#### Članak 390.a
+###### Članak 390.a
 
 Trgovačko društvo kao pravni sljednik društvenog poduzeća, po završenoj pretvorbi društvenoga vlasništva, vlasnik je nekretnina koje su na dan procjene vrijednosti temeljnog kapitala u postupku pretvorbe ili privatizacije bile:
 
@@ -4721,35 +4401,129 @@ Trgovačko društvo kao pravni sljednik društvenog poduzeća, po završenoj pre
 
 – koje su mogle biti predmet stjecanja prava vlasništva i
 
-– čija je vrijednost procijenjena u kapital društva i koje su po nadležnom tijelu iskazane u kapitalu društva.«
+– čija je vrijednost procijenjena u kapital društva i koje su po nadležnom tijelu iskazane u kapitalu društva.
 
-#### Članak 8.
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. dodan je naslov i članak 390.a.
 
-U članku 391. stavak 2. mijenja se i glasi:
+*Raspolaganje nekretninama u vlasništvu jedinica lokalne samouprave*
 
-»(2) Odredbe stavka 1. ovoga članka ne odnose se na slučajeve kad pravo vlasništva na nekretninama u vlasništvu jedinica lokalne i područne (regionalne) samouprave, stječu Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, odnosno pravne osobe u vlasništvu ili pretežitom vlasništvu jedinice lokalne i područne (regionalne) samouprave, ako je to u interesu i cilju općega gospodarskog i socijalnog napretka njezinih građana.«
+###### Članak 391.
 
-Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+(1) Nekretninu u vlasništvu jedinica lokalne samouprave tijela nadležna za njihovo raspolaganje mogu otuđiti ili njom na drugi način raspolagati samo ako na osnovi javnog natječaja i uz naknadu utvrđenu po tržnoj cijeni, ako zakonom nije drugačije određeno.
 
-»(3) Zemljište u vlasništvu jedinica lokalne i područne (regionalne) samouprave poglavarstva tih jedinica mogu prodati po utvrđenoj tržišnoj cijeni bez provedbe javnog natječaja:
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. u stavku 1. izmijenjen je dio teksta.
+
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 146/08), koji je stupio na snagu 1. veljače 2009. izmijenjen je stavak 1.
+
+(2) Odredbe stavka 1. ovoga članka ne odnose se na slučajeve kad pravo vlasništva na nekretninama u vlasništvu jedinica lokalne i područne (regionalne) samouprave, stječu Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, odnosno pravne osobe u vlasništvu ili pretežitom vlasništvu jedinice lokalne i područne (regionalne) samouprave, ako je to u interesu i cilju općega gospodarskog i socijalnog napretka njezinih građana.
+
+Odredbom članka 1. Zakona o dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 73/00), koji je stupio na snagu 29. srpnja 2000. dodan je novi stavak 2.
+
+Odredbom članka 8. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine, br. 79/06), koji je stupio na snagu 25. srpnja 2006. izmijenjen je stavak 2.
+
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. u stavku 2. izmijenjen je dio teksta.
+
+(3) Zemljište u vlasništvu jedinica lokalne i područne (regionalne) samouprave poglavarstva tih jedinica mogu prodati po utvrđenoj tržišnoj cijeni bez provedbe javnog natječaja:
 
 – osobi kojoj je dio tog zemljišta potreban za formiranje neizgrađene građevne čestice u skladu s lokacijskom dozvolom ili detaljnim planom uređenja, ako taj dio ne prelazi 20 % površine planirane građevne čestice i
 
 – osobi koja je na zemljištu u svom vlasništvu, bez građevinske dozvole ili drugog odgovarajućeg akta nadležnog tijela državne uprave, izgradila građevinu u skladu s detaljnim planom uređenja ili lokacijskom dozvolom, a nedostaje joj do 20% površine planirane građevne čestice, pod uvjetom da se obveže da će u roku od jedne godine od dana sklapanja kupoprodajnog ugovora ishoditi građevinsku dozvolu.
 
-(4) Tržišna cijena iz stavka 3. ovoga članka je vrijednost izražena u cijeni koja se za određenu nekretninu može postići na tržištu i koja ovisi o odnosu ponude i potražnje u vrijeme njezinog utvrđivanja na području jedinice lokalne samouprave.«
+Odredbom članka 1. Zakona o dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 73/00), koji je stupio na snagu 20. svibnja 1998. dotadašnji stavak 2. postao je stavak 3.
 
-Dosadašnji stavak 3., koji postaje stavak 5., mijenja se i glasi:
+Odredbom članka 8. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine, br. 79/06), koji je stupio na snagu 25. srpnja 2006. iza stavka 2. dodan je novi stavak 3.
 
-»(5) Pravni poslovi sklopljeni protivno odredbama ovoga članka ništetni su.«
+Odredbom članka 9. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006. u stavku 3. izmijenjen je dio teksta.
 
-#### Članak 9.
+(4) Tržišna cijena iz stavka 3. ovoga članka je vrijednost izražena u cijeni koja se za određenu nekretninu može postići na tržištu i koja ovisi o odnosu ponude i potražnje u vrijeme njezinog utvrđivanja na području jedinice lokalne samouprave.
 
-U Zakonu o vlasništvu i drugim stvarnim pravima riječi: »lokalne uprave i samouprave« zamjenjuju se riječima: »područne (regionalne) samouprave« u odgovarajućem padežu.
+Odredbom članka 8. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine, br. 79/06), koji je stupio na snagu 25. srpnja 2006. iza stavka 2. dodan je novi stavak 4.
 
-### PRIJELAZNE I ZAVRŠNE ODREDBE
+(5) Pravni poslovi sklopljeni protivno odredbama ovoga članka ništetni su.
 
-#### Članak 10.
+Odredbom članka 8. Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine, br. 79/06), koji je stupio na snagu 25. srpnja 2006. dotadašnji stavak 3. postao je stavak 5. u izmijenjenom tekstu.
+
+*Nalazni uredi*
+
+###### Članak 392.
+
+(1) Ministarstvo unutarnjih poslova ustrojit će nalazne urede i rad u njima u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Do ustroja nalaznih ureda po odredbi stavka 1. ovoga članka, poslove nalaznih ureda obavljaju policijske postaje.
+
+*Iznimke od primjene Zakona o zakupu poslovnoga prostora*
+
+###### Članak 393.
+
+Na ugovore o zakupu zaključene sukladno odredbama članka 32. ovoga Zakona ne primjenjuju se odredbe Zakona o zakupu poslovnoga prostora.
+
+*Prestanak važenja zakona*
+
+###### Članak 394.
+
+(1) Stupanjem na snagu ovoga Zakona prestaju važiti sljedeći zakoni:
+
+– Zakon o osnovnim vlasničkopravnim odnosima (»Narodne novine«, br. 53/91.),
+
+– Zakon o vlasništvu na dijelovima zgrada (»Narodne novine«, br. 52/73.),
+
+– Zakon o prometu zemljišta i zgrada (»Narodne novine«, br. 52/73.),
+
+– Zakon o prenamjeni zajedničkih prostorija u stanove (»Narodne novine«, br. 37/88.),
+
+– Osnovni zakon o stjecanju prava vlasništva na poljoprivrednim oruđima i o korištenju poljoprivrednog oruđa od strane građana (»Narodne novine«, br. 52/71.),
+
+– Glava II i III Zakona o stambenim odnosima (»Narodne novine«, br. 51/85., 42/86., 22/92. i 70/93.),
+
+– Zakon o korištenju dijela sredstava amortizacije za velike popravke stambenih zgrada (»Narodne novine«, br. 39/88. i 33/89.) i
+
+– Zakon o fondovima u stambenom i komunalnom gospodarstvu (»Narodne novine«, br. 53/90. i 76/93.).
+
+(2) Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o građevinskom zemljištu (»Narodne novine«, br. 48/88. – pročišćeni tekst, 16/90. i 53/90.), a postupci započeti po odredbama toga Zakona, dovršit će se po odredbama ovoga Zakona, ako su povoljniji za nositelja prava korištenja.
+
+(3) Stupanjem na snagu ovoga Zakona prestaje važiti Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada (»Narodne novine«, br. 19/95.).
+
+(4) Stupanjem na snagu ovoga Zakona stavljaju se izvan snage odredbe sljedećih članaka zakona:
+
+– članka 966. do 996. Zakona o obveznim odnosima, koji je preuzet kao Zakon Republike Hrvatske Zakonom o preuzimanju Zakona o obveznim odnosima (»Narodne novine«, br. 53/91. i 73/91.),
+
+– članka 34. i 53. Zakona o građenju (»Narodne novine«, br. 77/92.).
+
+*Tumačenje i primjena zakonskih odredaba*
+
+###### Članak 395.
+
+(1) Od dana stupanja na snagu ovoga Zakona mogu se odredbe propisa koji su na snazi, a različito uređuju društveno od ostaloga vlasništva, tumačiti i primjenjivati samo u skladu s načelom jednovrsnosti vlasništva.
+
+(2) Od dana stupanja na snagu ovoga Zakona mogu se odredbe propisa koji su na snazi, a različito uređuju pripadanje zgrada, odnosno dijelova zgrada od pripadanja zemljišta, tumačiti i primjenjivati samo u skladu s načelom jedinstvenosti nekretnine.
+
+*Stupanje na snagu*
+
+###### Članak 396.
+
+Ovaj Zakon stupa na snagu 1. siječnja 1997.
+
+### ZAVRŠNA ODREDBA — Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo (»Narodne novine« br. 68/98), koji je stupio na snagu 20. svibnja 1998.
+
+###### Članak 14.
+
+Ovaj Zakon stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+### ZAVRŠNA ODREDBA — Zakona o dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« br. 73/00), koji je stupio na snagu 29. srpnja 2000.
+
+###### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+### ZAVRŠNA ODREDBA — Zakona o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« br. 114/01), koji je stupio na snagu 20. prosinca 2001.
+
+###### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE — Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 79/06), koji je stupio na snagu 25. srpnja 2006.
+
+###### Članak 10.
 
 Članak 1. stavak 1. ovoga Zakona ne primjenjuje se na uspostavu vlasništva posebnog dijela zgrade ucrtane u katastarskom operatu do stupanja na snagu ovoga Zakona.
 
@@ -4759,75 +4533,64 @@ Na temelju potvrde iz stavka 2. ovoga članka nadležni sud će po službenoj du
 
 Iznimno od stavka 1. ovoga članka, na zahtjev vlasnika nekretnine, izdat će se potvrda sukladno članku 1. stavku 1. ovoga Zakona ako je posebni dio zgrade izgrađen u skladu s dozvolom nadležnog tijela.
 
-#### Članak 11.
+###### Članak 11.
 
 Postupci započeti po odredbama članka 356. i 357. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00. i 114/01.) dovršit će se po odredbama ovoga Zakona.
 
-#### Članak 12.
+###### Članak 12.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 
-Klasa: 941-06/05-01/01
+### ZAVRŠNA ODREDBA — Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 141/06), koji je stupio na snagu 27. prosinca 2006.
 
-Zagreb, 30. lipnja 2006.
+###### Članak 4.
 
-HRVATSKI SABOR
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
 
-Predsjednik
+### PRIJELAZNE I ZAVRŠNE ODREDBE — Zakona o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 146/2008), koji je stupio na snagu 1. veljače 2009., osim članaka 1. i 4. toga Zakona koje su stupile na snagu 17. svibnja 2009.
 
-Hrvatskoga sabora
+###### Članak 5.
 
-Vladimir Šeks, v. r.
+Postupci koji su pokrenuti radi dobivanja suglasnosti za stjecanje prava vlasništva po odredbama članka 356. i 357. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00., 114/01., 79/06. i 141/06.), u korist državljana i pravnih osoba iz država članica Europske unije, a koji još nisu pravomoćno okončani do stupanja na snagu ovoga Zakona, obustavit će se po službenoj dužnosti.
 
-## ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA (NN 141/2006)
+###### Članak 6.
 
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3195*
+Pravni posao kojem je cilj stjecanje prava vlasništva nekretnina u Republici Hrvatskoj koji je kao stjecatelj sklopio državljanin ili pravna osoba iz država članica Europske unije do stupanja na snagu ovoga Zakona, konvalidirat će ako je ispunjen i ako su ispunjene opće pretpostavke za valjanost toga pravnog posla, a nije riječ o nekretninama iz članka 358. a stavka 2. ovoga Zakona.
 
-HRVATSKI SABOR
+###### Članak 7.
 
-3195
+U cijelom tekstu Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00., 114/01., 79/06. i 141/06.), riječi: »telefonski vodovi, radijske i televizijske antene« zamjenjuju se riječima »elektronička komunikacijska infrastruktura«, a riječ: »telekomunikacijskih«, zamjenjuje se riječima: »elektroničkih komunikacijskih« u odgovarajućem padežu.
 
-Na temelju članka 88. Ustava Republike Hrvatske, donosim
+###### Članak 8.
 
-ODLUKU
+Ovaj Zakon objavit će se u »Narodnim novinama», a stupa na snagu 1. veljače 2009., osim odredbi članka 1. i 4. ovoga Zakona koje stupaju na snagu 17. svibnja 2009.
 
-O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
+### ZAVRŠNA ODREDBA — Zakona o izmjenama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 38/09), koji je stupio na snagu 15. travnja 2009.
 
-Proglašavam Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2006. godine.  
-Klasa: 011-01/06-01/102  
-Urbroj: 71-05-03/1-06-2  
-Zagreb, 19. prosinca 2006.
+###### Članak 3.
 
-Predsjednik  
-Republike Hrvatske  
-Stjepan Mesić, v. r.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
 
-**ZAKON**
+### PRIJELAZNE I ZAVRŠNE ODREDBE — Zakona o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 153/09), koji je stupio na snagu 29. prosinca 2009.
 
-**O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
+###### Članak 3.
 
-### Članak 1.
+Postupke iz članka 1. ovoga Zakona upravitelj je dužan pokrenuti do 31. prosinca 2015.
 
-U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00., 114/01. i 79/06.), u članku 82. stavku 1. podstavku 2. iza riječi: »postojeću antenu« stavlja se zarez i dodaju se riječi: »te izvođenje radova kojima se osigurava nesmetan pristup, kretanje i rad osobama smanjene pokretljivosti.«
+Odredbom članka 1. Zakona o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« broj 143/2012)
 
-### Članak 2.
+###### Članak 4.
 
-U članku 87. dodaje se stavak 3. koji glasi:  
-»(3) Iznimno od odredbe stavka 1. ovoga članka, pristanak svih suvlasnika nije potreban ni za poboljšicu kojom se na zajedničkim dijelovima i uređajima nekretnine osigurava nesmetan pristup, kretanje i rad osobama smanjene pokretljivosti.«
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 
-### Članak 3.
+### ZAVRŠNA ODREDBA — Zakona o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« br. 143/12, koji je stupio na snagu 28. prosinca 2012.
 
-U članku 388. stavku 5. riječi: »do kojih dođe do 1. siječnja 2007.« zamjenjuju se riječima: »do kojih dođe do 1. siječnja 2010.«  
-Iza stavka 5. dodaje se stavak 6. koji glasi:  
-»(6) Iznimno od odredbe stavka 5. ovoga članka zaštita povjerenja u istinitost i potpunost zemljišnih knjiga primjenjuje se od 1. siječnja 2007. na nekretnine u katastarskim općinama za koje je otvorena EOP zemljišna knjiga kao i na nekretnine koje su prema posebnim odredbama Zakona o zemljišnim knjigama unesene u Bazu zemljišnih podataka.«
+###### Članak 2.
 
-### Članak 4.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 
-Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
-Klasa: 941-06/06-01/01  
-Zagreb, 15. prosinca 2006.
+### ZAVRŠNA ODREDBA — Zakona o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine« br. 152/14, koji je stupio na snagu 30. prosinca 2014.
 
-HRVATSKI SABOR  
-Predsjednik  
-Hrvatskoga sabora  
-Vladimir Šeks, v. r.
+###### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.

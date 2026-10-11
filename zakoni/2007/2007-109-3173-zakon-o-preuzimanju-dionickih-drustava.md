@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-10-24
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "109/07"
-amendments: []
+last_amended: 2013-12-11
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "109/07, 108/12, 148/13"
+amendments:
+  - "NN 108/2012 (2364) Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava"
+  - "NN 148/2013 (3141) Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3173"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o preuzimanju dioničkih društava
 
 > Izvor: Narodne novine, NN 109/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3173).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 108/2012, NN 148/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -624,3 +629,815 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava (NN 108/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/108/2364*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA I DOPUNI ZAKONA O PREUZIMANJU DIONIČKIH DRUŠTAVA
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava, koji je Hrvatski sabor donio na sjednici 28. rujna 2012. godine.
+
+Klasa: 011-01/12-01/108
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 28. rujna 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O PREUZIMANJU DIONIČKIH DRUŠTAVA**
+
+### Članak 1.
+
+U Zakonu o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07. i 36/09.) u članku 14. stavku 1. iza točke 6. dodaje se nova točka 7. koja glasi:
+
+»7. stekne dionice ciljnog društva koje je nagodbeni dužnik u postupku predstečajne nagodbe,«.
+
+Dosadašnje točke 7., 8., 9., 10., 11., 12. i 13. postaju točke 8., 9., 10., 11., 12., 13. i 14.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 432-02/12-01/02
+
+Zagreb, 28. rujna 2012.
+
+HRVATSKI SABOR
+
+Potpredsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava (NN 148/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3141*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PREUZIMANJU DIONIČKIH DRUŠTAVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava, koji je Hrvatski sabor donio na sjednici 29. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/265
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 4. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PREUZIMANJU DIONIČKIH DRUŠTAVA**
+
+#### Članak 1.
+
+U Zakonu o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.) u članku 1. ispred riječi: »Ovim« dodaje se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva 2004/25/EZ Europskog parlamenta i Vijeća od 21. travnja 2004. o ponudama za preuzimanje (SL L 142, 30. 4. 2004.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. točki 1. podtočki a) podstavak 2. mijenja se i glasi:
+
+»– čije su dionice s pravom glasa uvrštene na uređeno tržište države članice, a nisu uvrštene na uređeno tržište u Republici Hrvatskoj,«.
+
+U podtočki b) riječi: »Europskoga gospodarskog prostora« i riječi: »Europskog gospodarskog prostora« zamjenjuju se riječju: »članici«.
+
+Stavak 2. briše se.
+
+#### Članak 3.
+
+U članku 3. ispred riječi: »U postupku« dodaje se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Kada provodi postupke sukladno ovom Zakonu, Agencija postupa isključivo u javnom interesu.«.
+
+#### Članak 4.
+
+U članku 4. stavku 1. riječi: »na hrvatskom jeziku« zamjenjuju se riječima: »putem tržišnog operatera uređenog tržišta na koje su uvrštene dionice ciljnog društva i«, a riječi: »i u jednim dnevnim novinama koje se redovito prodaju na cijelom teritoriju Republike Hrvatske« brišu se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Smatra se da je obveza objave putem tržišnog operatera uređenog tržišta na koje su uvrštene dionice ciljnog društva izvršena dostavom obavijesti iz članka 9. stavka 3. i članka 10. stavka 2. ovoga Zakona, a koju je tržišni operater dužan bez odgode objaviti na svojim internetskim stranicama. Smatra se da je obveza objave u »Narodnim novinama« izvršena ako je prije isteka roka oglašivač prihvatio narudžbu za objavljivanje u prvom sljedećem izdanju.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Prije objave iz stavka 2. ovoga članka tržišni operater smije informacije iz zaprimljene obavijesti upotrijebiti samo u svrhu odlučivanja treba li obustaviti trgovanje dionicama ciljnog društva.«.
+
+U dosadašnjem stavku 3. koji postaje stavak 4. riječi: »u jednim novinama, uz prihvat narudžbe za objavljivanje u prvom sljedećem izdanju drugih novina« zamjenjuju se riječima: »putem tržišnog operatera uređenog tržišta na koje su uvrštene dionice ciljnog društva«.
+
+U dosadašnjem stavku 4. koji postaje stavak 5. iza riječi: »obveza objave« dodaju se riječi: »u »Narodnim novinama«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 5.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Osobe koje djeluju zajednički su fizičke i/ili pravne osobe koje surađuju međusobno na temelju sporazuma, izričitog ili prešutnog, usmenog ili pisanog, čiji je cilj stjecanje dionica s pravom glasa, usklađeno ostvarivanje prava glasa ili sprječavanje druge osobe u provođenju postupka preuzimanja, ili koje surađuju s ciljnim društvom na temelju sporazuma, izričitog ili prešutnog, usmenog ili pisanog, čiji je cilj sprječavanje druge osobe u provođenju postupka preuzimanja.«.
+
+U stavku 4. točki 1. iza riječi: »pravne osobe« dodaje se riječ: »ili«.
+
+U točki 2. iza riječi: »pravne osobe« dodaje se riječ: »ili«.
+
+U točki 3. iza riječi: »sporazuma« dodaje se riječ: »ili«.
+
+Iza stavka 5. dodaju se novi stavak 6. i stavci 7., 8., 9., 10., 11., 12., 13. i 14. koji glase:
+
+»(6) Iznimno od odredaba stavaka 4. i 5. ovoga članka, neće se smatrati da vladajuća i ovisna osoba koje se nalaze u odnosu kontrole iz stavka 4. ovoga članka djeluju zajednički u odnosu na ciljno društvo, odnosno da povezana društva iz stavka 5. ovoga članka djeluju zajednički u odnosu na ciljno društvo, kad je ovisna osoba ili povezano društvo:
+
+– društvo za upravljanje investicijskim fondovima, tuzemno ili sa sjedištem u drugoj državi članici koje se osniva i posluje sukladno propisima kojima se uređuje osnivanje i poslovanje društava za upravljanje investicijskim fondovima, a fondovi kojima društvo upravlja drže ili steknu dionice s pravom glasa ciljnog društva,
+
+– društvo za upravljanje mirovinskim fondovima, tuzemno ili sa sjedištem u drugoj državi članici koje se osniva i posluje sukladno propisima kojima se uređuje osnivanje i poslovanje društava za upravljanje obveznim i dobrovoljnim mirovinskim fondovima, a fondovi kojima društvo upravlja drže ili steknu dionice s pravom glasa ciljnog društva.
+
+Iznimka iz prve rečenice ovoga stavka vrijedi pod uvjetom da navedena ovisna osoba, odnosno povezano društvo iz stavka 5. ovoga članka, neovisno o vladajućoj osobi, odnosno povezanim društvima, ostvaruju glasačka prava iz dionica ciljnog društva koje drže fondovi kojima upravlja sukladno propisima kojima se uređuje osnivanje i poslovanje društava za upravljanje investicijskim fondovima i društava za upravljanje obveznim i dobrovoljnim mirovinskim fondovima.
+
+(7) Smatra se da je uvjet neovisnosti iz stavka 6. druge rečenice ovoga članka ostvaren ako su ispunjeni sljedeći uvjeti:
+
+1. vladajuća osoba ne smije se uplitati u ostvarivanje glasačkih prava koja pripadaju društvu za upravljanje investicijskim fondovima, odnosno društvu za upravljanje mirovinskim fondovima iz stavka 6. ovoga članka, bilo davanjem neposredne ili posredne upute, bilo na neki drugi način,
+
+2. društvo za upravljanje investicijskim fondovima, odnosno društvo za upravljanje mirovinskim fondovima iz stavka 6. ovoga članka mora samostalno i neovisno o vladajućoj osobi ostvarivati glasačka prava iz imovine kojom upravlja.
+
+Uvjeti iz točaka 1. i 2. ovoga stavka na odgovarajući način primjenjuju se i na povezana društva iz stavka 5. ovoga članka.
+
+(8) U smislu stavka 7. točke 1. i stavka 10. ovoga članka, neposrednom uputom smatra se svaka uputa vladajuće osobe ili drugog kontroliranog društva te vladajuće osobe, kao i svaka uputa povezanog društva iz stavka 5. ovoga članka, kojom se određuje na koji način u pojedinom slučaju društvo za upravljanje investicijskim fondovima, odnosno društvo za upravljanje mirovinskim fondovima iz stavka 6. ovoga članka, ostvaruje glasačka prava. Posredna uputa je svaka općenita ili određena uputa vladajuće osobe ili drugog kontroliranog društva te vladajuće osobe, kao i svaka uputa povezanog društva iz stavka 5. ovoga članka, neovisno o formi u kojoj se daje, kojom se ograničava samostalnost društva za upravljanje investicijskim fondovima, odnosno društva za upravljanje mirovinskim fondovima iz stavka 6. ovoga članka, u ostvarivanju glasačkih prava u svrhu ostvarivanja određenih poslovnih interesa vladajuće osobe ili drugog kontroliranog društva te vladajuće osobe, kao i povezanog društva iz stavka 5. ovoga članka.
+
+(9) Iznimno od odredaba stavaka 4. i 5. ovoga članka, neće se smatrati da vladajuća i ovisna osoba koje se nalaze u odnosu kontrole iz stavka 4. ovoga članka djeluju zajednički u odnosu na ciljno društvo, odnosno da povezana društva iz stavka 5. ovoga članka djeluju zajednički u odnosu na ciljno društvo, kad je ovisna osoba, odnosno povezana osoba iz stavka 5. ovoga članka, investicijsko društvo, društvo za upravljanje investicijskim fondovima i kreditna institucija koja raspolaže glasačkim pravima iz dionica ciljnog društva kojima upravlja u sklopu pružanja usluge upravljanja portfeljem, pod uvjetom da investicijsko društvo, društvo za upravljanje investicijskim fondovima ili kreditna institucija:
+
+– ima odobrenje za pružanje usluge upravljanja portfeljem izdano od Agencije ili nadležnog tijela države članice,
+
+– može ostvariti glasačka prava samo uz uputu klijenta dobivenu u pisanom obliku ili korištenjem elektroničkih sredstava ili, ako glasačka prava može ostvarivati bez upute klijenta, primjenom odgovarajućih mjera kojima se osigurava da se usluga upravljanja portfeljem pruža neovisno o ostalim uslugama pod uvjetima koji su jednaki uvjetima određenim propisima kojima se uređuje osnivanje i poslovanje investicijskih društava, društava za upravljanje investicijskim fondovima i kreditnih institucija,
+
+– glasačka prava ostvaruje neovisno o vladajućoj osobi, odnosno povezanom društvu iz stavka 5. ovoga članka, pri čemu moraju biti ostvareni uvjeti iz stavka 7. ovoga članka.
+
+(10) Iznimke iz stavaka 6. i 9. ovoga članka ne primjenjuju se u slučaju kada društvo za upravljanje investicijskim fondovima, investicijsko društvo ili kreditna institucija upravlja glasačkim pravima iz dionica s pravom glasa ciljnog društva koje pripadaju njegovoj vladajućoj osobi ili drugom kontroliranom društvu te vladajuće osobe, odnosno povezanom društvu iz stavka 5. ovoga članka, pri čemu ta glasačka prava društvo za upravljanje, investicijsko društvo ili kreditna institucija ne može ostvariti samostalno, po vlastitoj ocjeni, već uz neposrednu ili posrednu uputu vladajuće osobe ili drugog kontroliranog društva te vladajuće osobe, odnosno povezanog društva iz stavka 5. ovoga članka.
+
+(11) Iznimke iz stavaka 6. i 9. ovoga članka na odgovarajući način primjenjuju se i na sljedeće ovisne osobe, odnosno povezana društva:
+
+a) društva za upravljanje investicijskim ili mirovinskim fondovima sa sjedištem u trećoj državi koja imaju odobrenje za rad, a koja bi, da imaju sjedište u Republici Hrvatskoj, tražila odobrenje za pružanje usluge upravljanja otvorenim fondom s javnom ponudom i/ili mirovinskim fondom, sukladno propisima kojima se uređuje osnivanje i poslovanje investicijskih i mirovinskih fondova te,
+
+b) društva sa sjedištem u trećoj državi koja imaju odobrenje za pružanje usluge upravljanja portfeljem koja bi, da imaju sjedište u Republici Hrvatskoj, tražila odobrenje za pružanje usluge upravljanja portfeljem, sukladno propisima kojima se uređuje osnivanje i poslovanje investicijskih društava, društava za upravljanje fondovima i kreditnih institucija.
+
+Iznimke iz ovoga stavka će se primijeniti pod uvjetom da su uvjeti neovisnosti takvih društava propisani pravom treće države istovjetni onima iz stavaka 6. do 9. ovoga članka.
+
+(12) U smislu stavka 11. ovoga članka, smatrat će se da su uvjeti neovisnosti propisani pravom treće države sjedišta pravnog subjekta iz stavka 10. ovoga članka istovjetni onima iz stavaka 6. do 9. ovoga članka ako je pravnim propisima treće države propisano da pravni subjekt iz stavka 11. ovoga članka mora biti samostalan u svim slučajevima te neovisno o vladajućoj osobi ostvarivati glasačka prava iz imovine kojom upravlja, kao i zanemariti interese vladajuće osobe ili bilo koje druge ovisne osobe vladajuće osobe, u svakom slučaju nastanka sukoba interesa.
+
+(13) Vladajuće društvo ovisnog društva iz stavka 6. ovoga članka, odnosno povezanog društva iz stavka 5. ovoga članka obvezno je, u vezi s korištenjem iznimke iz stavaka 6. i 9. ovoga članka, na zahtjev Agencije, dokazati najmanje sljedeće:
+
+1. organizacijska struktura vladajuće osobe i investicijskog društva ili društva za upravljanje investicijskim ili mirovinskim fondom je takva da ista moraju imati pisana pravila kojima se sprječava razmjena informacija koje se odnose na ostvarivanje glasačkih prava,
+
+2. osobe koje odlučuju kako ostvariti glasačka prva djeluju neovisno jedna o drugoj,
+
+3. u slučaju kad je vladajuća osoba klijent ovisne osobe, postoji jasno pisano ovlaštenje vladajuće osobe za međusobno nepristran odnos s ovisnom osobom.
+
+Agencija može, neovisno o dokazima u vezi s točkama 1. do 3. ovoga stavka, tražiti druge dokaze i od odnosnih vladajućih i ovisnih osoba, povezanih društava iz stavka 5. ovoga članka i trećih osoba.
+
+(14) Smatra se da investicijski, odnosno mirovinski fondovi kojima upravlja isto društvo za upravljanje investicijskim, odnosno mirovinskim fondovima djeluju zajednički.«.
+
+U dosadašnjem stavku 6. koji postaje stavak 15. riječi: »Fizičke osobe« zamjenjuju se riječima: »Smatra se da fizičke osobe«, a riječ: »prvog« zamjenjuje se riječju: »drugog«.
+
+#### Članak 6.
+
+U članku 8. stavku 1. točki 4. riječi: »ponuditelj može« zamjenjuju se riječima: »te osobe mogu«.
+
+U stavku 3. u drugoj rečenici riječi: »a kojim potvrdama se trguje na uređenom tržištu i multilateralnoj trgovinskoj platformi,« brišu se, a treća rečenica zamjenjuje se rečenicom koja glasi: »Odredbe stavka 1. točaka 2. do 5. ovoga članka primjenjuju se na odgovarajući način i na ove potvrde.«.
+
+Iza stavka 3. dodaju se stavci 4., 5., 6., 7. i 8. koji glase:
+
+»(4) U smislu ovoga Zakona, za potrebe utvrđivanja broja dionica s pravom glasa ciljnog društva koje drži ponuditelj i osobe koje s njim djeluju zajednički, kad je riječ o dionicama s pravom glasa ciljnog društva koje drži fond kojim upravlja društvo za upravljanje investicijskim fondovima ili društvo za upravljanje mirovinskim fondovima, smatrat će se da ta društva drže dionice s pravom glasa i ostvaruju pravo glasa iz tih dionica, osim kad je investicijskom ili mirovinskom fondu kojim upravlja društvo za upravljanje investicijskim fondovima ili društvo za upravljanje mirovinskim fondovima dopušteno ulaganje kojim se prelazi prag iz članka 9. stavka 1. ovoga Zakona.
+
+(5) Odredbe stavka 4. ovoga članka na odgovarajući način odnose se na društva za upravljanje investicijskim fondovima ili društva za upravljanje mirovinskim fondovima koja imaju odobrenje za rad u drugoj državi članici ili trećoj državi, a koja bi, da imaju sjedište u Republici Hrvatskoj, tražila odobrenje za pružanje usluge upravljanja investicijskim fondom ili obveznim ili dobrovoljnim mirovinskim fondom, sukladno propisima kojima se uređuje osnivanje i poslovanje investicijskih i mirovinskih fondova.
+
+(6) Odredbe stavka 1. ovoga članka ne odnose se na dionice s pravom glasa ciljnog društva:
+
+1. koje su stečene isključivo u svrhu poravnanja i namire unutar uobičajenog vremena za provođenje poravnanja i namire na relevantnom tržištu,
+
+2. koje drži skrbnik u okviru pružanja usluge skrbništva, pod uvjetom da skrbnik glasačka prava može ostvarivati isključivo uz uputu dioničara dobivenu u pisanom obliku ili korištenjem elektroničkih sredstava,
+
+3. koje se vode kao pozicije u knjizi trgovanja kreditne institucije ili investicijskog društva sukladno propisima kojima se uređuje knjiga trgovanja kreditne institucije, odnosno investicijskog društva ako:
+
+– kreditna institucija ili investicijsko društvo koje želi koristiti iznimku o istome bez odgode obavijesti Agenciju,
+
+– glasačka prava koja proizlaze iz dionica s pravom glasa koje su pozicije u knjizi trgovanja ne prelaze 5% od ukupnog broja glasova koje daju dionice s pravom glasa ciljnog društva i
+
+– kreditna institucija ili investicijsko društvo ne ostvaruje glasačka prava niti se ista koriste za utjecaj na upravljanje ciljnim društvom,
+
+4. koje stječe ili otuđuje osoba koja djeluje kao održavatelj tržišta, pod uvjetom da glasačka prava ne prelaze 5% od ukupnog broja glasova koje daju dionice s pravom glasa ciljnog društva i da održavatelj tržišta:
+
+– ima odobrenje za pružanje investicijskih usluga i obavljanje investicijskih aktivnosti od strane nadležnog tijela, i
+
+– ne ostvaruje glasačka prava niti se ista koriste za utjecaj na upravljanje ciljnim društvom.
+
+(7) Održavatelj tržišta koji želi koristiti iznimku iz stavka 6. točke 4. ovoga članka, obvezan je bez odgode obavijestiti Agenciju da djeluje ili namjerava djelovati kao održavatelj tržišta u odnosu na određeno ciljno društvo te Agenciji dostaviti sporazum o održavanju tržišta koji je sklopio s tržišnim operaterom uređenog tržišta, odnosno određenim ciljnim društvom ako je takav ugovor sklopljen.
+
+(8) Kada održavatelj tržišta prestane djelovati kao održavatelj tržišta u odnosu na određeno ciljno društvo, obvezan je o istome bez odgode obavijestiti Agenciju.«.
+
+#### Članak 7.
+
+U članku 9. stavak 2. mijenja se i glasi:
+
+»(2) Ponudu za preuzimanje iz stavka 1. ovoga članka obvezno je objaviti društvo za upravljanje investicijskim fondovima ili društvo za upravljanje mirovinskim fondovima u vlastito ime i za račun fonda bez pravne osobnosti kojim upravlja, odnosno u ime i za račun fonda s pravnom osobnosti kojim upravlja, kada investicijski ili mirovinski fond kojem je dopušteno ulaganje iznad praga iz stavka 1. ovoga članka isti prijeđe stjecanjem dionica ciljnog društva. Kada investicijski ili mirovinski fond kojem je zabranjeno ulaganje iznad praga iz stavka 1. ovoga članka isti prijeđe stjecanjem dionica ciljnog društva, ponudu za preuzimanje obvezno je objaviti društvo za upravljanje investicijskim fondovima ili društvo za upravljanje mirovinskim fondovima u vlastito ime i za vlastiti račun.«.
+
+Stavci 3. i 4. brišu se.
+
+U dosadašnjem stavku 5. koji postaje stavak 3. riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama ciljnog društva,« brišu se.
+
+Dosadašnji stavak 6. postaje stavak 4.
+
+#### Članak 8.
+
+U članku 10. stavku 2. riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama ciljnog društva,« brišu se.
+
+U stavku 4. riječi: »točke 1., 2., 3. i 4. ovoga Zakona« zamjenjuju se riječima: »točke 1., 2., 3., 4. i 5. ovoga Zakona te članka 22. stavka 1. točke 6. ovoga Zakona kad je ista primjenjiva«.
+
+#### Članak 9.
+
+U članku 11. stavku 1. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 3.«, riječi: »točke 1., 2., 3. i 4. ovoga Zakona« zamjenjuju se riječima: »točke 1., 2., 3., 4. i 5. ovoga Zakona te članka 22. stavka 1. točke 6. ovoga Zakona kad je ista primjenjiva«, a iza prve rečenice dodaje se druga rečenica koja glasi: »U slučaju iz članka 24.a ovoga Zakona, obavijesti iz članka 9. stavka 3. i članka 10. stavka 2. ovoga Zakona obvezno sadrže napomenu o tome da su ishođene odgovarajuće suglasnosti javnopravnog tijela, odnosno napomenu o obvezi ishođenja posebne suglasnosti odgovarajućeg javnopravnog tijela te mogućnosti da, ako ponuditelj takvu suglasnost ne ishodi, ne bude objavljena ponuda za preuzimanje, osim u slučaju naknadnog ishođenja suglasnosti.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. koji postaje stavak 2. mijenja se i glasi:
+
+»(2) Nakon što je putem tržišnog operatera uređenog tržišta objavljena obavijest iz stavka 1. ovoga članka, ciljno društvo je obvezno bez odgode o sadržaju objavljene obavijesti obavijestiti predstavnike radnika, ili u njihovoj odsutnosti radnike.«.
+
+Dosadašnji stavak 4. koji postaje stavak 3. mijenja se i glasi:
+
+»(3) Ciljno društvo je obvezno u roku od tri dana nakon što je putem tržišnog operatera uređenog tržišta objavljena obavijest iz stavka 1. ovoga članka, obavijestiti Agenciju o svim postupcima ili pregovorima s ponuditeljem ili osobama koje djeluju zajednički s ponuditeljem, ili o tome da takvi postupci ili pregovori nisu u tijeku, te dostaviti dokaz o izvršenju obveze iz stavka 2. ovoga članka.«.
+
+#### Članak 10.
+
+U članku 12. stavku 1. točki 2. riječi: »ili multilateralnoj trgovinskoj platformi« brišu se.
+
+U stavku 4. riječi: »i dostaviti uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama ciljnog društva« brišu se.
+
+#### Članak 11.
+
+U članku 13. stavak 3. mijenja se i glasi:
+
+»(3) Ponuditelj i osobe koje s njim djeluju zajednički ne mogu ostvariti pravo glasa iz svih dionica ciljnog društva koje drže u sljedećim slučajevima:
+
+1. kad ponuditelj i osobe koje s njim djeluju zajednički, nakon nastupanja obveze objavljivanja ponude za preuzimanje, objave obavijest iz članka 9. stavak 3. ovoga Zakona, odnosno kad ponuditelj i osobe koje s njim djeluju zajednički objave obavijest iz članka 10. stavak 2. ovoga Zakona,
+
+– ako u zakonskom roku ne podnesu zahtjev za odobrenje objavljivanja ponude za preuzimanje, od dana kad su došli u zakašnjenje do dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje,
+
+– ako Agencija odbije ili odbaci zahtjev za odobrenje objavljivanja ponude za preuzimanje, od dana izvršnosti rješenja kojim se odbija ili odbacuje isti zahtjev do dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje,
+
+– ako nakon što im je Agencija odobrila objavljivanje ponude za preuzimanje, istu ne objave u zakonskom roku, od dana kad su došli u zakašnjenje do dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje,
+
+2. kad ponuditelj i osobe koje s njim djeluju zajednički, nakon nastupanja obveze objavljivanja ponude za preuzimanje, ne objave obavijest iz članka 11. ovoga Zakona te Agencija rješenjem utvrdi nastanak obveze i naloži poduzimanje radnji radi objavljivanja ponude za preuzimanje, od dana pravomoćnosti rješenja Agencije do dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje.«.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Iznimno od stavka 3. ovoga članka, isključenje prava glasa prestat će i prije dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje ako ponuditelj i/ili osobe koje s njim djeluju zajednički padnu do ili ispod praga od 25% dionica s pravom glasa ciljnog društva, pod uvjetom da o istom bez odgode obavijeste Agenciju, tržišnog operatera uređenog tržišta na koje su uvrštene dionice ciljnog društva i ciljno društvo. Isključenje prava glasa prestaje važiti od dana kada tržišni operater uređenog tržišta objavi zaprimljenu obavijest na svojim internetskim stranicama.
+
+(5) Obavijest iz stavka 4. ovoga članka mora sadržavati opis okolnosti iz kojih proizlazi da su ponuditelj i/ili osobe koje s njim djeluju zajednički pali do ili ispod praga od 25% dionica s pravom glasa ciljnog društva i dokumentaciju kojom se iste okolnosti dokazuju.«.
+
+#### Članak 12.
+
+U članku 14. stavku 1. točki 1. iza riječi: »nasljeđivanjem« briše se zarez i dodaju riječi: »ili nenaplatnim pravnim poslom od fizičke osobe za koju se smatra da sa stjecateljem djeluje zajednički sukladno članku 5. stavku 15. ovoga Zakona,«.
+
+U točki 3. iza riječi: »odobri da« dodaju se riječi: »određeni ili neodređeni«.
+
+Točka 5. briše se.
+
+Dosadašnja točka 6. postaje točka 5.
+
+U dosadašnjoj točki 7. koja postaje točka 6. iza riječi: »predstečajne nagodbe,« dodaju se riječi: »pod uvjetom da sudjeluje u mjerama financijskog restrukturiranja nagodbenog dužnika na način predviđen zakonom koji uređuje postupak predstečajne nagodbe i da je planom financijskog i operativnog restrukturiranja utvrđen kao stjecatelj dionica nagodbenog dužnika,«.
+
+Dosadašnja točka 8. koja postaje točka 7. mijenja se i glasi:
+
+»7. prijenosom dionica ciljnog društva nije došlo do promjene osobe koja ostvaruje kontrolu nad ciljnim društvom u smislu članka 5. stavka 4. ovoga Zakona ili ako stekne dionice prijenosom radi restrukturiranja unutar koncerna,«.
+
+U dosadašnjoj točki 9. koja postaje točka 8. iza riječi: »odobri da« dodaju se riječi: »određeni ili neodređeni«.
+
+Dosadašnja točka 10. postaje točka 9.
+
+U dosadašnjoj točki 11. koja postaje točka 10. riječi: »koji je objavio ponudu za preuzimanje« brišu se.
+
+U dosadašnjoj točki 12. koja postaje točka 11. riječ: »otpusti« zamjenjuje se riječju: »otuđi«.
+
+U dosadašnjoj točki 13. koja postaje točka 12. riječi: »vjerovnici, stječu« zamjenjuju se riječima: »vjerovnik, stječe«.
+
+Iza točke 12. dodaju se nove točke 13. i 14. koje glase:
+
+»13. stekne dionice ciljnog društva radi sanacije ciljnog društva, izvan slučajeva iz točaka 6. i 12. ovoga stavka, pri čemu su ispunjeni sljedeći uvjeti:
+
+– financijski položaj ciljnog društva je takav da je ozbiljno ugrožena sposobnost ciljnog društva da nastavi trajno poslovati,
+
+– namjeravani stjecatelj je u mogućnosti i ima namjeru poduzeti mjere kojima će bitno doprinijeti sposobnosti ciljnog društva da nastavi trajno poslovati,
+
+– namjeravani stjecatelj je dostavio Agenciji plan sanacije revidiran od strane ovlaštenog neovisnog revizora,
+
+– Agencija je izdala odobrenje za korištenje ove iznimke, sukladno članku 14.a stavku 1. ovoga Zakona.
+
+14. stekne dionice ciljnog društva kao posljedicu raskida ugovora o prodaji i prijenosu dionica ciljnog društva koji je pravni temelj za prijenos dionica, a do kojeg raskida je došlo u roku od šest mjeseci od dana sklapanja ugovora koji je bio pravni temelj za prijenos dionica,«.
+
+Dosadašnja točka 14. postaje točka 15.
+
+U stavku 3. iza prve rečenice dodaje se druga rečenica koja glasi: »U slučaju iz stavka 1. točke 10. ovoga članka, stjecatelju na kojeg se primijenila ta iznimka, naknadno će nastati obveza objavljivanja ponude za preuzimanje, i u slučaju daljnjeg stjecanja dionica ako i kada postane imateljem većeg postotka dionica od drugog dioničara.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Republika Hrvatska kao stjecatelj dionica s pravom glasa ciljnog društva nije obvezna objaviti ponudu za preuzimanje ako stekne dionice ciljnog društva raskidom ugovora koji su pravni temelj za prijenos dionica, a koji su sklopljeni sukladno odredbama Zakona o pretvorbi društvenih poduzeća (»Narodne novine«, br. 19/91., 45/92., 83/92., 16/93., 94/93. i 2/94.), Zakona o privatizaciji (»Narodne novine«, br. 21/96., 71/97. i 73/00.) Zakona o upravljanju državnom imovinom (»Narodne novine«, br. 145/10. i 70/12.) i Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, br. 94/13.) u postupku prodaje dionica ciljnog društva javnim prikupljanjem ponuda.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Osobe iz stavaka 1. i 4. ovoga članka koje su izuzete od obveze objavljivanja ponude za preuzimanje obvezne su o korištenju iznimke bez odgode, a najkasnije u roku od 4 dana od dana nastanka okolnosti iz članka 14. stavaka 1. i 4. ovoga Zakona, obavijestiti Agenciju. Obavijest o korištenju iznimke mora sadržavati:
+
+– osnovne podatke o stjecatelju i ciljnom društvu,
+
+– iznimku na koju se stjecatelj poziva,
+
+– opis okolnosti koje se odnose na korištenje iznimke,
+
+– popis osoba s kojima stjecatelj djeluje zajednički u odnosu na ciljno društvo,
+
+– dokumentaciju kojom se dokazuju okolnosti koje se odnose na korištenje iznimke.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Agencija je ovlaštena rješenjem utvrditi da nije riječ o iznimci iz stavaka 1. i 4. ovoga članka ili da se radi o zlouporabi iznimke. U tom slučaju stjecatelj je obvezan objaviti ponudu za preuzimanje pod uvjetima i na način određen ovim Zakonom.«.
+
+#### Članak 13.
+
+Iza članka 14. dodaju se naslov i članak 14.a koji glase:
+
+### »RJEŠENJE O ODOBRENJU KORIŠTENJA IZNIMKE
+
+#### Članak 14.a
+
+(1) Agencija će u rješenju kojim se stjecatelju dionica ciljnog društva odobrava korištenje iznimke od obveze objavljivanja ponude za preuzimanje iz članka 14. stavka 1. točke 13. ovoga Zakona odrediti mjere i/ili uvjete korištenja iznimke i rokove njihova ispunjenja te obvezati stjecatelja dionica na dostavu dokaza kojima potvrđuje izvršenje mjera i uvjeta u zadanom roku.
+
+(2) Ako stjecatelj dionica ciljnog društva ne ispuni mjere i uvjete u rokovima određenim rješenjem iz stavka 1. ovoga članka, Agencija će, ovisno o utvrđenju razloga neispunjenja, a pod uvjetima iz stavaka 3. i 4. ovoga članka, samo ukinuti ili ukinuti i donijeti novo rješenje kojim se stjecatelju dionica odobrava korištenje iznimke od obveze objavljivanja ponude za preuzimanje iz članka 14. stavka 1. točke 13. ovoga Zakona.
+
+(3) Agencija može po službenoj dužnosti ili na zahtjev stjecatelja dionica:
+
+– ovisno o prirodi upravne stvari i posljedicama koje bi nastale ukidanjem rješenja, ukinuti rješenje iz stavka 1. ovoga članka, ako je rješenje bilo doneseno na temelju netočnih ili neistinitih podataka koji su bili od odlučujućeg utjecaja za njegovo donošenje,
+
+– ukinuti rješenje iz stavka 1. ovoga članka ako stjecatelj dionica nije ispunio mjere i uvjete u rokovima određenim rješenjem Agencije.
+
+(4) Agencija može po službenoj dužnosti ili na zahtjev stjecatelja dionica ukinuti rješenje iz stavka 1. ovoga članka i donijeti novo rješenje ako utvrdi da stjecatelj dionica ne može ispuniti neku od mjera ili uvjeta, ili ih ne može ispuniti u određenim rokovima, zbog okolnosti koje se nisu mogle predvidjeti niti izbjeći i ne ovise o volji stjecatelja dionica, te u novom rješenju odrediti nove mjere, uvjete i rokove za korištenje iznimke od obveze objavljivanja ponude za preuzimanje iz članka 14. stavka 1. točke 13. ovoga Zakona.«.
+
+#### Članak 14.
+
+U članku 16. stavku 2. na kraju rečenice briše se točka i dodaju riječi: »objavljivanja ponude za preuzimanje, uključujući i stjecanje na temelju kojeg je za ponuditelja i/ili osobe koje s njim djeluju zajednički nastala obveza objavljivanja ponude za preuzimanje.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako je prosječna cijena dionica ostvarena na uređenom tržištu viša od cijene iz stavka 2. ovoga članka, ponuditelj je obvezan ponuditi višu cijenu, s tim da se prosječna cijena izračunava kao ponderirani prosjek svih cijena ostvarenih na uređenom tržištu u zadnja tri mjeseca prije nastanka obveze objavljivanja ponude za preuzimanje, računajući od dana koji prethodi danu nastanka obveze. Ako su dionice ciljnog društva uvrštene na više uređenih tržišta, ponuditelj je obvezan ponuditi najmanje volumenom trgovanja ponderiranu prosječnu cijenu ostvarenu na tim tržištima uzimajući u izračun cijene i volumene trgovanja na svim uređenim tržištima u prethodno navedenom razdoblju. Međutim, ova cijena neće se uzeti u obzir ako se dionicama ciljnog društva trgovalo u manje od 1/3 trgovinskih dana unutar zadnja tri mjeseca prije dana nastanka obveze objavljivanja ponude za preuzimanje, već se u tom slučaju cijena iz stavka 2. ovoga članka uspoređuje s cijenom utvrđenom elaboratom iz članka 22. stavka 3. točke 9. ovoga Zakona, pri čemu je ponuditelj dužan ponuditi višu cijenu. Ako je obveza iz članka 9. stavka 1. ovoga Zakona nastala stjecanjem dionica ciljnog društva u postupku provedenom prema odredbama propisa koji uređuje upravljanje i raspolaganje državnom imovinom, prosječna cijena izračunava se kao ponderirani prosjek svih cijena ostvarenih na uređenom tržištu u zadnja tri mjeseca prije javne objave poziva potencijalnim ulagateljima od strane tijela ovlaštenog sukladno odredbama propisa koji uređuje upravljanje i raspolaganje državnom imovinom, računajući od dana koji prethodi danu objave poziva. Međutim, ova cijena neće se uzeti u obzir ako se dionicama ciljnog društva trgovalo u manje od 1/3 trgovinskih dana unutar zadnja tri mjeseca prije dana javne objave poziva potencijalnim ulagateljima od strane tijela ovlaštenog sukladno propisima koji uređuju upravljanje i raspolaganje državnom imovinom, već se u tom slučaju cijena iz stavka 2. ovoga članka uspoređuje s cijenom utvrđenom elaboratom iz članka 22. stavka 3. točke 9. ovoga Zakona, pri čemu je ponuditelj dužan ponuditi višu cijenu. Način izračuna cijene iz prethodne dvije rečenice neće se primjenjivati kada tijelo ovlašteno sukladno odredbama propisa koji uređuju upravljanje i raspolaganje državnom imovinom dionice prodaje na uređenom tržištu kapitala, posredstvom ovlaštenog društva, u skladu s propisima koji uređuju trgovanje vrijednosnim papirima.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Ako ponuditelj i osobe koje s njim djeluju zajednički nisu u razdoblju od jedne godine prije dana nastanka obveze stekli dionice s pravom glasa ili kada se ne može utvrditi po kojoj cijeni su ponuditelj i osobe koje s njim djeluju zajednički stekli dionice ciljnog društva na temelju kojeg stjecanja je nastala obveza objavljivanja ponude za preuzimanje, cijena u ponudi ne smije biti niža od prosječne cijene ostvarene na uređenom tržištu izračunate na način iz stavka 3. ovoga članka, odnosno ako se dionicama ciljnog društva trgovalo u manje od 1/3 trgovinskih dana unutar zadnja tri mjeseca prije dana nastanka obveze objavljivanja ponude za preuzimanje, cijene utvrđene elaboratom iz članka 22. stavka 3. točke 9. ovoga Zakona.«.
+
+U stavku 5. riječ: »odredbi« zamjenjuje se riječju: »odredbama«, riječ: »otpusti« zamjenjuje se riječju: »otuđi«, a riječ: »višu« zamjenjuje se riječju: »najvišu«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Ako ponuditelj zahtjev za odobrenje objavljivanja ponude za preuzimanje ne podnese u roku iz članka 24. stavka 1. ovoga Zakona, prosječna cijena iz stavka 3. ovoga članka izračunava se kao ponderirani prosjek svih cijena ostvarenih na uređenom tržištu, i to za tromjesečje koje prethodi danu nastanka obveze objavljivanja ponude za preuzimanje te tromjesečje koje prethodi danu podnošenja zahtjeva, a ako je dionica uvrštena na više uređenih tržišta, prosječna cijena se izračunava na način da se volumenom trgovanja ponderira prosječna cijena ostvarena na tim tržištima, uzimajući u izračun cijene i volumen trgovanja na svim uređenim tržištima s tim da je ponuditelj obvezan u ponudi za preuzimanje ponuditi najmanje najvišu tromjesečnu prosječnu cijenu izračunatu u navedenim razdobljima, ako je ta cijena viša od cijene iz stavka 2. ovoga članka. Međutim, ova cijena neće se uzeti u obzir ako se dionicama ciljnog društva trgovalo u manje od 1/3 trgovinskih dana unutar zadnja tri mjeseca prije dana nastanka obveze objavljivanja ponude za preuzimanje, već se u tom slučaju cijena iz stavka 2. ovoga članka uspoređuje s cijenom utvrđenom elaboratom iz članka 22. stavka 3. točke 9. ovoga Zakona, pri čemu je ponuditelj dužan ponuditi višu cijenu.«.
+
+U stavku 7. riječi: »koje su bile predmet ponude« brišu se.
+
+Iza stavka 7. dodaju se novi stavci 8. i 9. koji glase:
+
+»(8) Ponuditelj ili osoba koja s njim djeluje zajednički dužna je o stjecanju dionica ciljnog društva iz stavka 7. ovoga članka bez odgode, a najkasnije sljedeći radni dan od dana stjecanja, obavijestiti Agenciju, ciljno društvo i uređeno tržište na koje su dionice ciljnog društva uvrštene. Obavijest mora sadržavati podatke o ponuditelju i osobama koje s njim zajednički djeluju (tvrtka, poslovna adresa i sjedište), razdoblju u kojem je trajala pohrana dionica u provedenoj ponudi za preuzimanje, broju pohranjenih, isplaćenih i preuzetih dionica u provedenom preuzimanju, podatke o apsolutnom i relativnom broju dionica kojima ponuditelj i osobe koje s njim zajednički djeluju raspolažu prije i nakon stjecanja, cijeni u provedenoj ponudi, razlici u cijeni koja će se isplatiti u roku od sedam dana i detaljno obrazloženje okolnosti nastanka obveze isplate razlike u cijeni. Uz obavijest dostavljenu Agenciji potrebno je dostaviti i dokumentaciju iz koje će biti vidljiva cijena stjecanja i razlika u cijeni koja se mora isplatiti dioničarima.
+
+(9) Ponuditelj ili osoba koja s njim djeluje zajednički dužna je bez odgode, a najkasnije u roku od pet dana od dana isplate, o isplati razlike u cijeni koja je isplaćena dioničarima obavijestiti Agenciju. Obavijesti mora biti priložena dokumentacija iz koje će biti vidljiva cijena stjecanja, razlika u cijeni koja je isplaćena dioničarima, popis dioničara kojima je ista razlika isplaćena, kao i dokumentacija iz koje proizlazi da je ista razlika dioničarima isplaćena.«.
+
+U dosadašnjem stavku 8. koji postaje stavak 10. iza riječi: »statusnih promjena« dodaju se riječi: »ciljnog društva«.
+
+#### Članak 15.
+
+U članku 17. stavku 3. riječi: »istu kotaciju ili kotaciju« zamjenjuju se riječima: »isti segment uređenog tržišta ili segment«.
+
+Stavak 4. briše se.
+
+#### Članak 16.
+
+U članku 19. stavak 1. mijenja se i glasi:
+
+»(1) Radi osiguranja novčane naknade ponuditelj je obvezan na transakcijski račun depozitara otvoren kod kreditne institucije u svrhu provođenja ponude za preuzimanje izdvojiti novčana sredstva potrebna za plaćanje svih dionica koje su predmet ponude za preuzimanje i/ili depozitaru dostaviti neopozivu bankovnu garanciju na prvi poziv izdanu u korist osoba koje će pohraniti svoje dionice u ponudi za preuzimanje, na iznos potreban za plaćanje svih dionica koje su predmet ponude za preuzimanje. Novčana sredstva pohranjena na transakcijskom računu depozitara ne ulaze u likvidacijsku ili stečajnu masu depozitara i/ili kreditne institucije, niti mogu biti predmetom ovrhe u vezi s potraživanjem prema depozitaru i/ili kreditnoj instituciji.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Ponuditelj ne smije raspolagati novčanim sredstvima koja su, radi osiguranja isplate pohranjenih dionica, izdvojena na transakcijskom računu depozitara otvorenom kod kreditne institucije, osim radi isplate pohranjenih dionica.«.
+
+#### Članak 17.
+
+U članku 22. stavku 1. točki 2. iza riječi: »adresu ponuditelja,« dodaju se riječi: »a za pravnu osobu i podatke o glavnim djelatnostima te osnovne podatke o poslovanju i financijskom položaju,«.
+
+U stavku 3. točki 1. riječ: »otpuštanja« zamjenjuje se riječju: »otuđivanja«.
+
+Točka 4. mijenja se i glasi:
+
+»4. potvrdu tržišnog operatera uređenog tržišta, izdanu na zahtjev ponuditelja, o prosječnoj cijeni iz članka 16. stavaka 3. i 6. ovoga Zakona, a u slučaju kad su dionice ciljnog društva uvrštene na više uređenih tržišta, potvrdu tržišnih operatera tih uređenih tržišta o cijenama i količinama protrgovanih dionica ciljnog društva u pisanom i elektroničkom obliku,«.
+
+U točki 7. riječi: »ako je ponuditelj i osoba koja s njim djeluje zajednički, pravna osoba« zamjenjuju se riječima: »ako su ponuditelj i osoba koja s njim djeluje zajednički, pravne osobe«.
+
+Iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. elaborat o procjeni fer vrijednosti dionice ciljnog društva, revidiran od strane neovisnog ovlaštenog revizora, ako se dionicom ciljnog društva trgovalo u manje od 1/3 trgovinskih dana unutar razdoblja iz članka 16. stavka 3. ovoga Zakona, odnosno članka 16. stavka 6. ovoga Zakona,«.
+
+Dosadašnje točke 9. i 10. postaju točke 10. i 11.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) U elaboratu o procjeni fer vrijednosti dionice ciljnog društva iz stavka 3. točke 9. ovoga članka potrebno je navesti:
+
+– primjenom kojih metoda je određena fer vrijednost dionice ciljnog društva, pri čemu primijenjene metode moraju biti temeljene na međunarodno priznatim standardima za procjenu vrijednosti i uobičajeno se koristiti između sudionika tržišta u određivanju vrijednosti dionica,
+
+– detaljno obrazloženje usvojenih metoda procjene i svih važnih pretpostavki koje su korištene u primjeni istih,
+
+– iz kojih je razloga primjena tih metoda primjerena,
+
+– ako je primijenjeno više metoda, do koje bi se fer vrijednosti dionice ciljnog društva došlo primjenom pojedine metode te koji je značaj dan pojedinim metodama za utvrđivanje predložene fer vrijednosti dionice ciljnog društva,
+
+– posebne teškoće koje su se javile pri procjeni fer vrijednosti dionice ciljnog društva.
+
+Fer vrijednost dionice ciljnog društva procjenjuje se na dan nastanka obveze objavljivanja ponude za preuzimanje ili na dan javne objave poziva potencijalnim ulagateljima od strane tijela ovlaštenog sukladno odredbama propisa koji uređuje upravljanje i raspolaganje državnom imovinom, a u slučaju iz članka 16. stavka 6. ovoga Zakona dodatno i na dan podnošenja zahtjeva.«.
+
+#### Članak 18.
+
+U članku 23. stavku 2. točki 2. riječi: »koje ponuditelj već drži« zamjenjuju se riječima: »koje ponuditelj i osobe koje s njim djeluju zajednički već drže«.
+
+#### Članak 19.
+
+Iza članka 24. dodaje se članak 24.a koji glasi:
+
+»Članak 24.a
+
+(1) Ako je prema odredbama posebnog zakona ponuditelj za stjecanje dionica koje su predmet ponude prethodno obvezan ishoditi odobrenje (suglasnost i sl.) javnopravnog tijela, početak roka od 30 dana za podnošenje zahtjeva za odobrenje objavljivanja ponude za preuzimanje iz članka 24. stavka 1. ovoga Zakona odgađa se do ishođenja takvog odobrenja.
+
+(2) Ako ponuditelj ne ishodi odobrenje iz stavka 1. ovoga članka, bilo zbog toga što je propustio postaviti odgovarajući zahtjev bilo zbog toga što je odgovarajući zahtjev odbijen ili odbačen, obveza objavljivanja ponude za preuzimanje miruje (ponuditelj nema obvezu podnijeti zahtjev za odobrenje objavljivanja ponude za preuzimanje i objaviti ponudu za preuzimanje), ali ponuditelj za to vrijeme nema pravo glasa iz dionica kojima prelazi prag od 25% od ukupnog broja dionica s pravom glasa.
+
+(3) Ako ponuditelj padne do ili ispod praga od 25% od ukupnog broja dionica, obveza objavljivanja ponude za preuzimanje prestaje.
+
+(4) Smatrat će se da je ponuditelj pao do ili ispod praga od 25% ako je obveza objavljivanja ponude za preuzimanje nastala stjecanjem dionica pravnim poslom sklopljenim pod suspenzivnim uvjetom, pa učinci tog pravnog posla zbog neishođenja odobrenja nadležnog tijela prestanu. Pritom se na odgovarajući način primjenjuju odredbe članka 40. stavka 3. ovoga Zakona.
+
+(5) Ako ponuditelj ipak naknadno ishodi odobrenje iz stavka 1. ovoga članka, obveza prestaje mirovati te će ponuditelj biti obvezan podnijeti zahtjev za odobrenje objavljivanja ponude za preuzimanje i objaviti ponudu za preuzimanje, tj. provesti postupak preuzimanja.«.
+
+#### Članak 20.
+
+U članku 25. stavku 2. riječ: »zaključak« zamjenjuje se riječju: »rješenje«.
+
+#### Članak 21.
+
+U članku 27. stavku 3. riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama,« zamjenjuju se riječima: »ciljnom društvu i tržišnom operateru uređenog tržišta na koje su uvrštene dionice«.
+
+U stavku 4. riječi: »ciljno društvo obvezno je« zamjenjuju se riječima: »ponuditelj je obvezan«, a iza riječi: »dioničara« dodaju se riječi: »ciljnog društva«.
+
+#### Članak 22.
+
+U članku 30. stavku 3. riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »ciljnom društvu i tržišnom operateru uređenog tržišta na koje su uvrštene dionice«.
+
+#### Članak 23.
+
+U članku 33. stavku 3. riječi: »Agenciju, uređeno tržište i multilateralnu trgovinsku platformu na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »Agenciju i tržišnog operatera uređenog tržišta na koje su uvrštene dionice«.
+
+#### Članak 24.
+
+U članku 36. stavak 1. mijenja se i glasi:
+
+»(1) Dioničari koji pohranjuju dionice koje su neotplaćene u smislu propisa o pretvorbi i privatizaciji dužni su prilikom pohrane dionica priložiti potvrdu tijela ovlaštenog sukladno odredbama propisa koji uređuje upravljanje i raspolaganje državnom imovinom o broju otplaćenih i neotplaćenih dionica te obračun za prijevremenu otplatu preostalih obroka u jednokratnom iznosu.«.
+
+U stavku 2. riječi: »Hrvatskog fonda za privatizaciju« zamjenjuju se riječima: »tijela ovlaštenog sukladno odredbama propisa koji uređuje upravljanje i raspolaganje državnom imovinom«.
+
+#### Članak 25.
+
+U članku 39. stavku 1. riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »ciljnom društvu i tržišnom operateru uređenog tržišta na koje su uvrštene dionice«.
+
+#### Članak 26.
+
+U naslovu iznad članka 40. riječ: »otpuštanja« zamjenjuje se riječju: »otuđivanja«.
+
+U članku 40. stavak 1. mijenja se i glasi:
+
+»(1) Od trenutka nastanka obveze objavljivanja ponude za preuzimanje do isteka roka trajanja ponude, ponuditelj i osobe koje s njim djeluju zajednički ne smiju steći niti se smiju obvezivati da će steći dionice ciljnog društva na drugi način osim ponudom za preuzimanje.«.
+
+U stavku 2. riječi: »sklapanja pravnog posla stjecanja dionica ciljnog društva, kojim nastaje obveza« zamjenjuju se riječima: »nastanka obveze«, a riječi: »otpuštati niti se obvezivati da će otpustiti dionice koje su predmet ponude za preuzimanje« zamjenjuju se riječima: »otuđivati ili se obvezivati na otuđivanje dionica ciljnog društva koje drže«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od odredbe stavka 2. ovoga članka, ponuditelj i osobe koje s njim djeluju zajednički smiju otuđivati dionice ciljnog društva, ako su ispunjeni sljedeći uvjeti:
+
+– ponuditelj i osobe koje s njim djeluju zajednički obvezni su najkasnije 30 dana prije namjeravanog otuđivanja dionica ciljnog društva objaviti obavijest kojom ponuditelj i osobe koje s njim djeluju zajednički izjavljuju da ne namjeravaju provesti postupak preuzimanja ciljnog društva te da imaju namjeru otuđiti određeni broj dionica,
+
+– obavijest iz podstavka 1. ovoga stavka mora sadržavati podatke o broju dionica koje ponuditelj i osobe koje s njim zajednički djeluju drže te podatke o broju dionica koje namjeravaju otuđiti,
+
+– ponuditelj i osobe koje s njim djeluju zajednički obvezni su bez odgode objaviti podatke o svakom otuđivanju dionica ciljnog društva, a ista obavijest mora sadržavati podatke o datumu otuđivanja, broju otuđenih dionica i postotku od ukupno izdanih dionica s pravom glasa ciljnog društva koje ponuditelj i osobe koje s njim djeluju zajednički drže nakon otuđivanja.«.
+
+U dosadašnjem stavku 3. koji postaje stavak 4. riječi: »1. i 2.« zamjenjuju se riječima: »1. do 3.«.
+
+#### Članak 27.
+
+U članku 41. stavak 5. mijenja se i glasi:
+
+»(5) Mišljenje o ponudi za preuzimanje uprava ciljnog društva obvezna je dostaviti Agenciji i tržišnom operateru uređenog tržišta na koje su uvrštene dionice ciljnog društva, najkasnije istog dana kada oglašivaču daje narudžbu za objavljivanje.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Kad je ponuditelj ili osoba koja s njim djeluje zajednički ujedno i član uprave ciljnog društva, isti će se izuzeti od izrade obrazloženog mišljenja o ponudi za preuzimanje iz stavka 1. ovoga članka. U slučaju da preostali članovi uprave ciljnog društva bez sudjelovanja izuzetog člana ne mogu zastupati ciljno društvo, obrazloženo mišljenje o ponudi za preuzimanje iz stavka 1. ovoga članka daje nadzorni odbor ciljnog društva pri čemu se sve odredbe ovoga članka koje vrijede za upravu na odgovarajući način primjenjuju na nadzorni odbor ciljnog društva.«.
+
+#### Članak 28.
+
+U članku 42. stavku 1. riječi: »Od trenutka zaprimanja obavijesti iz članka 9. stavka 5. i članka 10. stavka 2. ovoga Zakona, odnosno od objave istih, ako uprava nije zaprimila navedene obavijesti,« zamjenjuju se riječima: »Nakon što je putem tržišnog operatera uređenog tržišta objavljena obavijest iz članka 9. stavka 3. i članka 10. stavka 2. ovoga Zakona,«.
+
+U točki 4. riječ: »otpuštanju« zamjenjuje se riječju: »otuđivanju«.
+
+U stavku 2. riječ: »zaprimanja« zamjenjuje se riječju: »objave«, riječi: »stavka 5.« zamjenjuju se riječima: »stavka 3.«, a riječi: »ili objave istih« brišu se.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Ograničenja iz ovoga članka ne primjenjuju se ako ponuditelj i osobe koje djeluju zajednički ne provedu postupak preuzimanja u zakonski predviđenim rokovima. U smislu ove odredbe, neće se smatrati da ponuditelj i osobe koje zajednički djeluju ne provode postupak preuzimanja u zakonski predviđenim rokovima ako je, s obzirom na okolnosti slučaja, riječ o kratkotrajnom prekoračenju roka.«.
+
+#### Članak 29.
+
+U članku 43. stavku 2. riječi: »je odobreno trgovanje dionicama« zamjenjuju se riječima: »su uvrštene dionice«.
+
+#### Članak 30.
+
+U članku 45. stavku 4. riječi: »uređeno tržište i multilateralnu trgovinsku platformu na kojem je odobreno trgovanje dionicama ciljnog društva,« zamjenjuju se riječima: »tržišnog operatera uređenog tržišta na koje su uvrštene dionice ciljnog društva i Agenciju«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Radi osiguranja naknade iz stavka 5. ovoga članka ponuditelj je obvezan na transakcijski račun depozitara otvoren kod kreditne institucije izdvojiti novčana sredstva ili depozitaru dostaviti neopozivu bankovnu garanciju na prvi poziv izdanu u korist manjinskih dioničara na iznos potreban za plaćanje svih dionica manjinskih dioničara. Novčana sredstva pohranjena na transakcijskom računu depozitara ne ulaze u likvidacijsku ili stečajnu masu depozitara i/ili kreditne institucije, niti mogu biti predmetom ovrhe u vezi s potraživanjem prema depozitaru i/ili kreditnoj instituciji.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Središnje klirinško depozitarno društvo će izvršiti prijenos dionica s računa dioničara na račun ponuditelja te isplatiti manjinske dioničare nakon što utvrdi:
+
+1. da nakon ponude za preuzimanje ponuditelj i osobe koje s njim djeluju zajednički drže najmanje 95% dionica s pravom glasa ciljnog društva i 95% povlaštenih dionica bez prava glasa u slučaju primjene stavka 2. ovoga članka,
+
+2. da je ponuditelj za dionice koje su predmet zahtjeva osigurao naknadu iz stavka 5. ovoga članka,
+
+3. da nije protekao rok od tri mjeseca od isteka roka trajanja ponude za preuzimanje do dana podnošenja zahtjeva iz stavka 3. ovoga članka.
+
+O točnom datumu prijenosa i isplate Središnje klirinško depozitarno društvo će obavijestiti manjinske dioničare, ciljno društvo, tržišnog operatera uređenog tržišta na koje su uvrštene dionice ciljnog društva i Agenciju te istu obavijest, bez odgode, objaviti, i to sve na trošak ponuditelja.«.
+
+#### Članak 31.
+
+U članku 47. stavak 1. mijenja se i glasi:
+
+»(1) Agencija nadzire primjenu odredbi ovoga Zakona provodeći posredne i/ili neposredne nadzore. Nadzor se obavlja:
+
+1. praćenjem, prikupljanjem i provjerom objavljenih podataka i obavijesti te izvješća koja su sudionici tržišta, sukladno zakonima za čiju je provedbu Agencija zadužena, dužni dostavljati Agenciji (posredni nadzor),
+
+2. prikupljanjem podataka i pregledom izvorne dokumentacije u prostorijama subjekta nadzora ili pravne osobe s kojom je nadzirana osoba izravno ili neizravno, poslovno, upravljački ili kapitalno povezana (neposredni nadzor),
+
+3. izricanjem nadzornih mjera iz članka 48. ovoga Zakona.
+
+Nadzor obavljaju radnici Agencije (ovlaštene osobe Agencije), pri čemu za obavljanje pojedinih zadataka u vezi s nadzorom Agencija može ovlastiti revizora, revizorsko društvo ili druge stručno osposobljene osobe. Na stručno osposobljene osobe iz prethodne rečenice primjenjuju se na odgovarajući način propisi o tajnosti podataka koji se primjenjuju na radnike Agencije.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Prije početka obavljanja neposrednog nadzora, osobama koje su obvezne dostavljati isprave, očitovanja i izjave prema stavku 2. ovoga članka dostavlja se pisana obavijest o neposrednom nadzoru koja sadrži najmanje:
+
+1. predmet nadzora,
+
+2. podatke o tome što je subjekt nadzora dužan pripremiti ovlaštenim osobama za potrebe obavljanja neposrednog nadzora,
+
+3. podatke o osobama ovlaštenima za nadzor,
+
+4. naznaku lokacije na kojoj će se nadzor obavljati,
+
+5. datum početka obavljanja nadzora.
+
+Agencija može tijekom nadzora nadopuniti obavijest o nadzoru iz prve rečenice ovoga stavka, a na takvu dopunjenu obavijest na odgovarajući način se odnose odredbe prve rečenice ovoga stavka. Osobe koje su obvezne dostavljati isprave, očitovanja i izjave prema stavku 2. ovoga članka obvezne su ovlaštenim osobama Agencije, nakon što im iste uruče pisanu obavijest o pokretanju postupka neposrednog nadzora, omogućiti pristup u poslovne prostorije, osigurati odgovarajuće prostorije i osoblje, dati na uvid i dostaviti traženu dokumentaciju i isprave, dati izjave i očitovanja te osigurati druge uvjete potrebne za obavljanje nadzora.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Nakon obavljenog nadzora ovlaštene osobe Agencije sastavljaju zapisnik o obavljenom nadzoru, koji su dužne dostaviti stranki. Na dostavljeni zapisnik o nadzoru, stranka ima pravo uložiti prigovor Agenciji u roku od osam dana od dana primitka zapisnika.«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Prigovor na zapisnik mora sadržavati navode o okolnostima iz kojih proizlazi da je zapisnikom pogrešno utvrđeno postojanje određenih nedostataka, nezakonitosti i nepravilnosti. Prigovoru na zapisnik moraju biti priloženi odgovarajući dokazi, ako stranka istima raspolaže.«.
+
+Iza dosadašnjeg stavka 6. koji postaje stavak 7. dodaju se stavci 8. i 9. koji glase:
+
+»(8) Stranka snosi trošak upravnog postupka nadzora neovisno o tome je li postupak nadzora okončan povoljno za stranku.
+
+(9) Agencija može neposredno rješavati u postupcima nadzora.«.
+
+#### Članak 32.
+
+U članku 48. stavku 3. u uvodnoj rečenici riječi: »Agencija će« zamjenjuju se riječima: »Agencija može«.
+
+U točki 1. riječ: »postojanje« zamjenjuje se riječju: »nastanak«, a riječi: »te naložiti poduzimanje radnji radi objavljivanja ponude za preuzimanje,« brišu se.
+
+U točki 2. iza riječi: »naložiti« dodaju se riječi: »poduzimanje radnji radi objavljivanja ponude za preuzimanje,«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Sve poduzete mjere iz stavka 3. ovoga članka Agencija će dostaviti ciljnom društvu, depozitaru i tržišnom operateru uređenog tržišta na koje su uvrštene dionice ciljnog društva.«.
+
+#### Članak 33.
+
+U članku 49. iza riječi: »Ako ponuditelj« stavlja se zarez i dodaju riječi: »nakon nastanka obveze objavljivanja ponude za preuzimanje, neovisno o tome je li ista utvrđena rješenjem Agencije sukladno odredbama ovoga Zakona, u zakonskom roku ne podnese uredan zahtjev za odobrenje objavljivanja ponude za preuzimanje ili mu Agencija odbije ili odbaci zahtjev za odobrenje objavljivanja ponude za preuzimanje ili nakon što mu je Agencija odobrila zahtjev za objavljivanje ponude za preuzimanje,«.
+
+#### Članak 34.
+
+U članku 50. stavku 1. riječi: »ako nije drukčije propisano ovim Zakonom,« brišu se.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. koji postaje stavak 2. mijenja se i glasi:
+
+»(2) Protiv rješenja koje u upravnim stvarima iz svoje nadležnosti donosi Agencija žalba nije dopuštena, ali nezadovoljna strana može u roku od 30 dana od dana dostave rješenja pokrenuti tužbom upravni spor pred nadležnim upravnim sudom.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Pravodobno podnesena tužba protiv rješenja Agencije u dijelu rješenja kojim se utvrđuje nastanak obveze objavljivanja ponude za preuzimanje odgađa pravne učinke tog dijela rješenja do nastupanja pravomoćnosti istog. U tom slučaju i dio rješenja koji se odnosi na poduzimanje radnji radi objavljivanja ponude za preuzimanje odgađa se do pravomoćnosti rješenja iz prve rečenice ovoga stavka.
+
+(4) O tužbama protiv akata Agencije nadležni upravni sud odlučit će po hitnom postupku, a najkasnije u roku od šest mjeseci od dana podnošenja tužbe. O žalbama protiv presuda upravnog suda, Visoki upravni sud odlučit će u hitnom postupku, najkasnije u roku od šest mjeseci od dana podnošenja žalbe.«.
+
+#### Članak 35.
+
+U članku 52. riječ: »Uprave« zamjenjuje se riječima: »Upravnog vijeća«.
+
+#### Članak 36.
+
+Članak 55. mijenja se i glasi:
+
+»Agencija je nadležna za nadzor postupka preuzimanja ciljnog društva:
+
+1. koje ima sjedište u Republici Hrvatskoj, a njegove dionice su uvrštene na uređeno tržište u Republici Hrvatskoj,
+
+2. koje ima sjedište u Republici Hrvatskoj, a njegove dionice su uvrštene na uređeno tržište države članice,
+
+3. koje ima sjedište izvan Republike Hrvatske u zemlji članici, a njegove dionice su uvrštene jedino na uređeno tržište u Republici Hrvatskoj,
+
+4. koje ima sjedište izvan Republike Hrvatske u zemlji članici, a njegove dionice su uvrštene na uređena tržišta u nekoliko zemalja članica koje nisu zemlje sjedišta ciljnog društva uključujući i uređena tržišta Republike Hrvatske, s tim da je prvo uvrštenje dionica ciljnog društva bilo na uređeno tržište u Republici Hrvatskoj,
+
+5. koje ima sjedište izvan Republike Hrvatske u zemlji članici, a njegove dionice su uvrštene na uređena tržišta u nekoliko zemalja članica koje nisu zemlje sjedišta ciljnog društva uključujući i uređena tržišta Republike Hrvatske, ako je o nadležnosti Agencije odlučeno na način iz članka 56. ovoga Zakona.«.
+
+#### Članak 37.
+
+U članku 57. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) U slučaju iz članka 55. točke 2. ovoga Zakona primjenjuju se odredbe ovoga Zakona u onom dijelu koji se odnosi na utvrđivanje postotka prava glasa i nastanak obveze objavljivanja ponude za preuzimanje, iznimke od obveze objavljivanja ponude za preuzimanje, uvjete pod kojima uprava i nadzorni odbor ciljnog društva mogu poduzimati mjere koje za posljedicu imaju ometanje ili onemogućavanje ponude za preuzimanje te odredbe o izvješćivanju radnika ciljnog društva.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »točke 2., 3. i 4.« zamjenjuju se riječima: »točke 3., 4. i 5.«.
+
+#### Članak 38.
+
+U članku 58. stavku 1. riječi: »čijim dionicama je odobreno trgovanje na uređenom tržištu i multilateralnoj trgovinskoj platformi« zamjenjuju se riječima: »čije dionice su uvrštene na uređeno tržište«.
+
+#### Članak 39.
+
+U članku 59. stavku 1. u uvodnom dijelu riječi: »od 100.000 do 500.000 kuna«, zamjenjuju se riječima: »od 100,00 do 50.000,00 kuna«.
+
+U točki 1. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 3.«, a riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj platformi na kojem je odobreno trgovanje dionicama ciljnog društva, ili istu obavijest,« zamjenjuju se riječima: »i/ili istu«.
+
+U točki 2. riječi: »ciljnom društvu, uređenom tržištu i multilateralnoj platformi na kojem je odobreno trgovanje dionicama ciljnog društva, ili istu obavijest« zamjenjuju se riječima: »i/ili istu«.
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. protivno odredbama članka 16. stavka 7. ovoga Zakona, ponuditelj ili osobe koje s njim zajednički djeluju ne isplate dioničarima razliku u cijeni,«.
+
+Dosadašnje točke 3., 4. i 5. postaju točke 4., 5. i 6.
+
+U stavku 2. točki 1. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 3.«, a iza riječi: »točke 1., 2., 3. i 4., ovoga Zakona« briše se zarez i dodaju se riječi: »i/ili napomenu iz druge rečenice članka 11. stavka 1. ovoga Zakona,«.
+
+Iza točke 5. dodaju se nove točke 6., 7., 8., 9. i 10. koje glase:
+
+»6. protivno odredbama članka 13. stavka 4. ovoga Zakona, ponuditelj i/ili osobe koje s njim zajednički djeluju ne dostave Agenciji, ciljnom društvu i tržišnom operateru uređenog tržišta na koje su uvrštene dionice ciljnog društva obavijest o padanju do ili ispod praga,
+
+7. protivno odredbama članka 13. stavka 5. ovoga Zakona, obavijest iz članka 13. stavka 4. ovoga Zakona ne sadrži podatke i dokumentaciju propisanu odredbom članka 13. stavka 5. ovoga Zakona,
+
+8. protivno odredbama članka 14. stavka 5. ovoga Zakona osobe iz članka 14. stavaka 1. i 4. ovoga Zakona ne dostave bez odgode, a najkasnije u roku od četiri dana od dana nastanka okolnosti iz članka 14. stavaka 1. i 4. ovoga Zakona, Agenciji, obavijest o korištenju iznimke ili kad ista obavijest ne sadrži sve propisane podatke i dokumentaciju,
+
+9. protivno odredbama članka 16. stavka 8. ovoga Zakona, ponuditelj ili osoba koja s njim zajednički djeluje ne dostavi ili dostavi sa zakašnjenjem Agenciji obavijest o stjecanju dionica ili kad ista obavijest ne sadrži sve propisane podatke i dokumentaciju,
+
+10. protivno odredbama članka 16. stavka 9. ovoga Zakona, ponuditelj ili osobe koje s njim zajednički djeluju ne dostave ili dostave sa zakašnjenjem Agenciji obavijest o isplati razlike u cijeni dioničarima ili kad ista obavijest ne sadrži sve propisane podatke i dokumentaciju,«.
+
+U dosadašnjoj točki 6. koja postaje točka 11. riječi: »sve podatke iz tog članka ili ako podaci nisu istiniti,«, zamjenjuju se riječima: »sve nužne podatke kako bi dioničari mogli odlučiti o prihvaćanju ponude, a osobito podatke iz članka 22. stavka 1. ovoga Zakona ili ako ti podaci nisu istiniti,«.
+
+U dosadašnjoj točki 7. koja postaje točka 12. iza riječi: »ciljnom društvu« briše se zarez i dodaju se riječi: »i tržišnom operateru uređenog tržišta na koje su uvrštene dionice«, a riječi: »uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama« brišu se.
+
+Dosadašnja točka 8. postaje točka 13.
+
+Dosadašnja točka 9. koja postaje točka 14. mijenja se i glasi:
+
+»14. protivno odredbama članka 40. stavka 1. ovoga Zakona, od trenutka nastanka obveze objavljivanja ponude za preuzimanje, do isteka roka trajanja ponude za preuzimanje, stekne ili se obveže steći dionice koje su predmet ponude za preuzimanje ili iznimno od zabrane iz članka 40. stavka 2. ovoga Zakona, otuđi dionice iako nisu ispunjeni uvjeti iz članka 40. stavka 3. ovoga Zakona.«.
+
+Dosadašnja točka 10. postaje točka 15.
+
+U dosadašnjoj točki 11. koja postaje točka 16. riječ: »poduzimaju« zamjenjuje se riječju: »poduzima«.
+
+U dosadašnjoj točki 12. koja postaje točka 17. riječ: »provedu« zamjenjuje se riječju: »provede«.
+
+U dosadašnjoj točki 13. koja postaje točka 18. riječ: »dostave« zamjenjuje se riječju: »dostavi«.
+
+Dosadašnja točka 14. postaje točka 19.
+
+U stavku 3. dodaju se nove točke 1. i 2. koje glase:
+
+»1. protivno odredbama članka 8. stavka 7. ovoga Zakona, održavatelj tržišta bez odgode ne obavijesti Agenciju da djeluje ili namjerava djelovati kao održavatelj tržišta u odnosu na određeno ciljno društvo i/ili Agenciji ne dostavi sporazum o održavanju tržišta koji je sklopio s tržišnim operaterom uređenog tržišta, odnosno određenim ciljnim društvom ako je takav ugovor sklopljen,
+
+2. protivno odredbama članka 8. stavka 8. ovoga Zakona, održavatelj tržišta bez odgode ne obavijesti Agenciju da prestaje djelovati kao održavatelj tržišta u odnosu na određeno ciljno društvo,«.
+
+U dosadašnjoj točki 1. koja postaje točka 3. riječi: »o primitku i sadržaju zaprimljene obavijesti iz članka 11. stavka 1. ovoga Zakona, te« brišu se.
+
+U dosadašnjoj točki 2. koja postaje točka 4. riječi: »odredbama članka 11. stavka 4.« zamjenjuju se riječima: »odredbama članka 11. stavka 2.«, a riječ: »zaprimljene« zamjenjuje se riječju: »objavljene«.
+
+Dosadašnja točka 3. postaje točka 5.
+
+U dosadašnjoj točki 4. koja postaje točka 6. riječi: »i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »na koje su uvrštene dionice«.
+
+Dosadašnja točka 5. postaje točka 7.
+
+U dosadašnjoj točki 6. koja postaje točka 8. riječi: »ciljnom društvu, uređenom tržištu i multilateralnu trgovinsku platformu na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »ciljnom društvu i tržišnom operateru uređenog tržišta na koje su uvrštene dionice«.
+
+U dosadašnjoj točki 7. koja postaje točka 9. riječi: »Agenciju, uređeno tržište i multilateralnu trgovinsku platformu na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »Agenciju i tržišnog operatera uređenog tržišta na koje su uvrštene dionice«.
+
+Dosadašnja točka 8. postaje točka 10.
+
+U dosadašnjoj točki 9. koja postaje točka 11. iza riječi: »ciljnom društvu« briše se zarez, riječi: »uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »i tržišnom operateru uređenog tržišta na koje su uvrštene dionice ciljnog društva,«, a iza riječi: »ili« dodaje se riječ: »isto«.
+
+Dosadašnje točke 10., 11. i 12. postaju točke 12., 13. i 14.
+
+U dosadašnjoj točki 13. koja postaje točka 15. riječi: »Agenciji, uređenom tržištu i multilateralnoj trgovinskoj platformi na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »Agenciji i tržišnom operateru uređenog tržišta na koje su uvrštene dionice«.
+
+U dosadašnjoj točki 14. koja postaje točka 16. riječi: »je odobreno trgovanje dionicama« zamjenjuju se riječima: »su uvrštene dionice«.
+
+U dosadašnjoj točki 15. koja postaje točka 17. riječi: »uređeno tržište i multilateralnu trgovinsku platformu na kojem je odobreno trgovanje dionicama« zamjenjuju se riječima: »tržišnog operatera uređenog tržišta na koje su uvrštene dionice«.
+
+Iza točke 17. dodaje se točka 18. koja glasi:
+
+»18. protivno odredbi članka 4. stavka 2. ovoga Zakona, kao tržišni operater uređenog tržišta na koje su uvrštene dionice ciljnog društva na svojim internetskim stranicama ne objavi zaprimljeni dokument,«.
+
+U dosadašnjoj točki 16. koja postaje točka 19. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 6.«.
+
+#### Članak 40.
+
+Članak 60. mijenja se i glasi:
+
+»Na prekršajni progon počinitelja zbog počinjenih prekršaja iz ovoga Zakona primjenjuju se odredbe o zastari propisane Prekršajnim zakonom.«.
+
+#### Članak 41.
+
+Članak 61. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 42.
+
+(1) Postupci nadzora i postupci povodom zahtjeva za odobrenje objavljivanja ponude za preuzimanje, pokrenuti nakon stupanja na snagu Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07.), a koji nisu okončani do dana stupanja na snagu ovoga Zakona, dovršit će se sukladno odredbama zakona koje su bile na snazi u vrijeme pokretanja upravnog postupka.
+
+(2) Od dana stupanja na snagu ovoga Zakona osobe kojima je obveza objavljivanja ponude za preuzimanje nastala sukladno odredbama Zakona o postupku preuzimanja dioničkih društava (»Narodne novine«, br. 124/97. i 57/01.), a koje do dana stupanja na snagu ovoga Zakona nisu podnijele zahtjev za odobrenje objavljivanja ponude za preuzimanje, nisu obvezne tada nastalu obvezu izvršiti sukladno odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.). Osobe kojima je obveza objavljivanja ponude za preuzimanje nastala sukladno odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 84/02., 87/02., 2/07. i 120/02. – ispravak) i Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.), a koje do dana stupanja na snagu ovoga Zakona nisu podnijele zahtjev za odobrenje objavljivanja ponude za preuzimanje, obvezne su tada nastalu obvezu izvršiti sukladno odredbama ovoga Zakona.
+
+(3) Za osobe kojima je na dan stupanja na snagu ovoga Zakona isključeno pravo glasa u smislu odredbi članka 13. stavka 3. Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.) ili prijelazne odredbe članka 61. stavka 3. Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.) ovo isključenje traje do dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje, ako su te osobe obavijestile o nastanku obveze sukladno mjerodavnoj zakonskoj odredbi ili ako nisu obavijestile o nastanku obveze sukladno mjerodavnoj zakonskoj odredbi, a Agencija je donijela rješenje kojim je utvrdila nastanak obveze koje je do dana stupanja na snagu ovoga Zakona postalo pravomoćno. Ako rješenje Agencije nije postalo pravomoćno do dana stupanja na snagu ovoga Zakona, isključenje prava glasa će prestati s danom stupanja na snagu ovoga Zakona, s tim da će se isključenje prava glasa nastaviti od dana pravomoćnosti tog rješenja. Isključenje prava glasa prestat će u navedenim slučajevima u svakom slučaju i prije dana isplate i prijenosa dionica pohranjenih u ponudi za preuzimanje pod uvjetima iz, ovim Zakonom dodanih, odredbi članka 13. stavaka 4. i 5. Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.). Odredbe ovoga stavka primjenjuju se isključivo na obveze objavljivanja ponude za preuzimanje nastale prema odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 84/02., 87/02., 120/02. – ispravak i 2/07.) i Zakona. Isključenje prava glasa u odnosu na neizvršene obveze objavljivanja ponude za preuzimanje nastale na temelju Zakona o postupku preuzimanja dioničkih društava (»Narodne novine«, br. 124/97. i 57/01.) prestaje danom stupanja na snagu ovoga Zakona.
+
+(4) Osobe koje na dan stupanja na snagu ovoga Zakona drže više od 25 % dionica s pravom glasa ciljnog društva, a iznimno, do stupanja na snagu Zakona o izmjenama i dopunama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 36/09.), nisu bile obvezne objaviti ponudu za preuzimanje, u slučaju daljnjeg stjecanja dionica s pravom glasa ciljnog društva, obvezne su objaviti ponudu za preuzimanje sukladno odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.).
+
+(5) Osobe koje su do stupanja na snagu ovoga Zakona objavile ponudu za preuzimanje i koje su nakon ponude za preuzimanje objavljene sukladno važećem zakonu koji uređuje preuzimanje dioničkih društava pale do ili ispod praga od 25 % dionica s pravom glasa ciljnog društva, u slučaju daljnjeg stjecanja dionica s pravom glasa ciljnog društva i prelaska spomenutog praga, obvezne su objaviti ponudu za preuzimanje sukladno Zakonu o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.).
+
+(6) Osobe koje su do stupanja na snagu ovoga Zakona kontrolni prag od 25 % dionica s pravom glasa ciljnog društva, prema odredbama prethodno važećih zakona koji uređuju preuzimanje dioničkih društava, prešle smanjenjem temeljnog kapitala ciljnog društva i koje nakon stupanja na snagu ovoga Zakona steknu dionice s pravom glasa ciljnog društva, obvezne su objaviti ponudu za preuzimanje sukladno odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.).
+
+(7) Osobe koje do stupanja na snagu ovoga Zakona nisu izvršile obvezu objavljivanja ponude za preuzimanje nastalu prema odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 84/02., 87/02., 120/02. – ispravak i 2/07.) i Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.), izvršit će nastalu obvezu sukladno odredbama Zakona neovisno o tome je li dioničko društvo za koje nije izvršena nastala obveza, ciljno društvo u smislu, ovim Zakonom izmijenjene, odredbe članka 2. stavka 1. točke 1. Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.).
+
+(8) Agencija je od stupanja na snagu ovoga Zakona ovlaštena pokrenuti postupak nadzora u vezi ispitivanja nastanka i izvršenja obveze nastale prema odredbama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 84/02., 87/02. i 120/02. – ispravak i 2/07.) i Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.), neovisno o tome jesu li ispunjeni uvjeti da se dioničko društvo za koje nije izvršena nastala obveza smatra ciljnim društvom u smislu, ovim Zakonom izmijenjene, odredbe članka 2. stavka 1. točke 1. Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13. i 99/13.).
+
+#### Članak 43.
+
+Stupanjem na snagu ovoga Zakona prestaje važiti odredba članka 6. Zakona o izmjenama i dopunama Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 36/09.).
+
+#### Članak 44.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 15. prosinca 2013.
+
+Klasa: 022-03/13-01/278
+
+Zagreb, 29. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

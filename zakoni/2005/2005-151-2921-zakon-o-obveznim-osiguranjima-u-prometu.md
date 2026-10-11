@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-12-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "151/05"
-amendments: []
+last_amended: 2014-12-22
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "151/05, 36/09, 75/09, 76/13, 152/14"
+amendments:
+  - "NN 36/2009 (797) Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu"
+  - "NN 75/2009 (1793) Zakon o dopuni Zakona o obveznim osiguranjima u prometu"
+  - "NN 76/2013 (1526) Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu"
+  - "NN 152/2014 (2870) Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2921"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o obveznim osiguranjima u prometu
 
 > Izvor: Narodne novine, NN 151/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2921).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 36/2009, NN 75/2009, NN 76/2013, NN 152/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1158,3 +1165,801 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu (NN 36/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/36/797*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu, kojega je Hrvatski sabor donio na sjednici 13. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/31
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 19. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU**
+
+##### Članak 1.
+
+U Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05.) u članku 2. stavku 1. točki 3. riječi: »(u daljnjem tekstu: vlasnika)« brišu se.
+
+##### Članak 2.
+
+U članku 3. stavku 1. točke 9. i 10. mijenjaju se i glase:
+
+»9. vozilo je svako motorno, odnosno priključno vozilo koje podliježe obvezi registracije te po propisima o registraciji mora imati prometnu dozvolu,
+
+10. osigurana svota je iznos do kojega je osiguran imovinski interes, posebno za štete na stvarima te posebno za štete na osobama,«.
+
+U točki 14. iza riječi: »razdoblje od« dodaje se riječ: »najviše«.
+
+Točke 16. i 17. mijenjaju se i glase:
+
+»16. zračni prijevoznik je poduzetnik koji posjeduje valjanu operativnu licenciju ili jednakovrijedan dokument,
+
+17. operator zrakoplova je osoba ili tijelo, a nije zračni prijevoznik, koji kontinuirano ima mogućnost stvarne uporabe ili operiranja zrakoplovom; fizička ili pravna osoba na koju je zrakoplov registriran, a pretpostavlja se da je operator zrakoplova, osim ako dokaže da je operator neka druga fizička ili pravna osoba,«.
+
+U točki 18. podstavak 1. mijenja se i glasi:
+
+»– putnika i njegovu osobnu prtljagu koja se nalazi u kabini zrakoplova, je vrijeme prijevoza putnika zrakoplovom, uključujući njihov ukrcaj i iskrcaj,«.
+
+Točka 22. mijenja se i glasi:
+
+»22. područje država članica Sustava zelene karte osiguranja je područje država potpisnica Kretskog sporazuma,«.
+
+Točka 24. mijenja se i glasi:
+
+»24. područje na kojem je vozilo uobičajeno stacionirano je područje države članice Multilateralnog sporazuma:
+
+– čiju registarsku pločicu vozilo nosi, bez obzira jesu li pločice trajne ili privremene,
+
+– u kojoj su izdane tablice osiguranja ili znak raspoznavanja sličan registarskoj pločici koju vozilo nosi u slučaju kada registracija za određeni tip vozila nije potrebna,
+
+– u kojoj vlasnik vozila ima prebivalište u slučaju kada za određeni tip vozila nije potrebna registarska pločica niti tablica osiguranja niti drugi znak raspoznavanja sličan registarskoj pločici,
+
+– u kojoj se prometna nezgoda dogodila u slučaju kada vozilo koje je sudjelovalo u prometnoj nezgodi nema nikakvu registarsku pločicu ili ima registarsku pločicu koja ne odgovara ili više ne odgovara vozilu,«.
+
+Iza točke 30. stavlja se zarez i dodaju se točke 31. i 32. koje glase:
+
+»31. komercijalna operacija je operacija za naknadu i/ili najam,
+
+32. ECAA sporazum je mnogostrani sporazum između Europske zajednice i njezinih država članica, Republike Albanije, Bosne i Hercegovine, Republike Bugarske, Republike Hrvatske, Bivše Jugoslavenske Republike Makedonije, Republike Island, Republike Crne Gore, Kraljevine Norveške, Rumunjske, Republike Srbije i Misije privremene Uprave Ujedinjenih naroda na Kosovu o uspostavi Europskog zajedničkog zračnog prostora.«.
+
+##### Članak 3.
+
+U članku 8. stavku 6. iza riječi: »osiguranju za« dodaje se riječ: »najviše«.
+
+##### Članak 4.
+
+U članku 17. stavak 2. mijenja se i glasi:
+
+»(2) Ugovor iz stavka 1. ovoga članka dužni su sklopiti:
+
+1. vlasnici autobusa kojima se obavlja javni prijevoz u gradskom, međugradskom i međunarodnom linijskom i izvanlinijskom prometu,
+
+2. vlasnici autobusa koji prevoze radnike na posao i s posla te autobusa kojim se prevoze turisti,
+
+3. vlasnici taksi automobila i rent-a-car vozila kad se iznajmljuju s vozačem,
+
+4. vlasnici tračnih vozila za prijevoz putnika,
+
+5. vlasnici svih vrsta pomorskih, jezerskih i riječnih plovila, uključujući skele i splavove, koji na redovitim linijama slobodno prevoze putnike, uključujući krstarenje i prijevoz turista,
+
+6. vlasnici svih vrsta plovila iz točke 5. ovoga članka koja se iznajmljuju s najmanje jednim članom posade,
+
+7. zračni prijevoznici, odnosno operatori zrakoplova kojima se obavlja prijevoz osoba i stvari u javnom zračnom prometu,
+
+8. vlasnici svih ostalih prijevoznih sredstava, bez obzira na vrstu pogona, kojima se uz naplatu prijevoza prevoze putnici u javnom prometu.«.
+
+##### Članak 5.
+
+U članku 18. stavak 3. mijenja se i glasi:
+
+»(3) Putnik iz stavka 1. ovoga članka je i svaka osoba koja se u zrakoplovu iz članka 17. stavka 2. točke 7. ovoga Zakona nalazi uz pristanak zračnog prijevoznika, odnosno operatora zrakoplova, osim članova letačke i kabinske posade zrakoplova koji su u službi za vrijeme leta zrakoplova.«.
+
+##### Članak 6.
+
+U članku 22. iza stavka 2. dodaje se stavak 3. koji glasI:
+
+»(3) Ugovorom o osiguranju iz stavka 1. ovoga članka pokrivene štete su štete nastale od vozila koja se kreću javnim cestama i ostalim površinama na kojima se odvija promet, a koja podliježu obvezi registracije te po propisima o registraciji moraju imati prometnu dozvolu.«
+
+Dosadašnji stavci 3. do 8. postaju stavci 4. do 9.
+
+##### Članak 7.
+
+U članku 36. stavak 5. briše se.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+##### Članak 8.
+
+Naslov Glave IV. mijenja se i glasi:
+
+### »OSIGURANJE ZRAČNOG PRIJEVOZNIKA, ODNOSNO OPERATORA ZRAKOPLOVA OD ODGOVORNOSTI ZA ŠTETE NANESENE TREĆIM OSOBAMA I PUTNICIMA«.
+
+##### Članak 9.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Odredbe ovoga Zakona o obvezi sklapanja ugovora o osiguranju zračnog prijevoznika, odnosno operatora zrakoplova od odgovornosti za štete nanesene trećim osobama i putnicima primjenjuju se na sve zračne prijevoznike, odnosno operatore zrakoplova koji lete unutar, u, iz ili preko teritorija Republike Hrvatske, ako posebnim propisom ili međunarodnim sporazumom koji obvezuje Republiku Hrvatsku nije drugačije određeno.
+
+(2) Ugovorom o osiguranju iz stavka 1. ovoga članka pokrivene su:
+
+1. štete trećim osobama zbog smrti, tjelesne ozljede, narušavanja zdravlja, uništenja ili oštećenja stvari za vrijeme leta zrakoplova,
+
+2. štete zbog smrti, tjelesne ozljede ili narušavanja zdravlja putnika za vrijeme leta zrakoplova,
+
+3. štete zbog gubitka, odnosno oštećenja osobnih stvari putnika koje se nalaze u kabini zrakoplova,
+
+4. štete zbog gubitka, odnosno oštećenja tereta i predane prtljage.
+
+(3) Treća osoba je svaka pravna ili fizička osoba osim putnika i članova letačke i kabinske posade zrakoplova za vrijeme leta zrakoplova.
+
+(4) Putnik iz stavka 2. točke 2. i 3. ovoga članka je svaka osoba koja se prevozi zrakoplovom uz pristanak zračnog prijevoznika, odnosno operatora zrakoplova, osim članova letačke i kabinske posade zrakoplova koji su u službi za vrijeme leta zrakoplova.
+
+(5) Ugovor o osiguranju iz stavka 1. ovoga članka ne mora pokrivati štete iz stavka 2. točke 3. i 4. ovoga članka ako se zrakoplov ne koristi u komercijalne svrhe.
+
+(6) Ugovorom o osiguranju iz stavka 1. ovoga članka pokrivene su i štete zbog rizika rata, terorizma, otmice, sabotaže, nezakonitog prisvajanja zrakoplova i građanske pobune.
+
+(7) Iznimno od odredbe stavka 6. ovoga članka, ugovor o osiguranju iz stavka 1. ovoga članka ne mora pokrivati štete zbog rizika rata i terorizma za:
+
+a) državne zrakoplove kako su definirani u članku 3(b) Konvencije o međunarodnom civilnom zrakoplovstvu, potpisane u Chicagu 7. prosinca 1944.,
+
+b) zrakoplovne modele kojima MTOM iznosi do 20 kg,
+
+c) letjelice koje polijeću s nogu pilota (uključujući motorne parajedrilice i ovjesne jedrilice),
+
+d) vezane balone,
+
+e) zmajeve,
+
+f) padobrane (uključujući vučene padobrane),
+
+g) zrakoplove (uključujući jedrilice) kojima MTOM iznosi do 500 kg, i mikrolake zrakoplove, koji:
+
+– se koriste u nekomercijalne svrhe, ili
+
+– se koriste za obuku pilota, lokalno, koji ne uključuju prelazak državne granice.
+
+(8) Zračni prijevoznik, odnosno operator zrakoplova koji leti unutar, u, iz ili preko teritorija Republike Hrvatske mora imati važeći ugovor o osiguranju od odgovornosti za štete iz stavka 2. ovoga članka, ako međunarodnim ugovorom nije drugačije određeno.
+
+(9) Iznimno od odredbe stavka 8. ovoga članka, zračni prijevoznik koji nije iz Republike Hrvatske, odnosno države stranke ECAA Sporazuma, odnosno čiji zrakoplov je registriran izvan teritorija neke od država stranaka ECAA Sporazuma i čiji letovi ne uključuju slijetanje na teritorij ili uzlijetanje s teritorija Republike Hrvatske nego samo vrše prelet preko teritorija Republike Hrvatske ne mora ugovorom o osiguranju imati pokrivene štete iz stavka 2. točke 2., 3. i 4. ovoga članka.
+
+(10) Odredbe članka 29., 30., 31., 32., 33. i 34. ovoga Zakona kojima se uređuje osiguranje vlasnika vozila od odgovornosti za štete nanesene trećim osobama, odgovarajuće se primjenjuju na osiguranje zrakoplova od odgovornosti za štetu nanesenu trećim osobama i putnicima.«.
+
+##### Članak 10.
+
+U članku 40. stavku 2. točki 1. podtočka a) mijenja se i glasi:
+
+»a) za letjelice koje polijeću s nogu pilota 10.000 SDR,«.
+
+U podtočki c) podstavku 1. riječi: »od 20« brišu se.
+
+Točke 3. i 4. mijenjaju se i glase:
+
+»3. za prtljagu 1.000 SDR,
+
+4. za teret, po kg 17 SDR.«.
+
+##### Članak 11.
+
+U članku 71. stavku 1. riječi: »članka 36. stavka 6.« zamjenjuju se riječima: »članka 36. stavka 5.«.
+
+#### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Stupanje na snagu
+
+##### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 453-02/09-01/01
+
+Zagreb, 13. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o dopuni Zakona o obveznim osiguranjima u prometu (NN 75/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1793*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU
+
+Proglašavam Zakon o dopuni Zakona o obveznim osiguranjima u prometu, kojega je Hrvatski sabor donio na sjednici 19. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/105
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 23. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU**
+
+### Članak 1.
+
+U Zakonu o obveznim osiguranjima u prometu (»Narodne novine« br. 151/05. i 36/09.) u članku 71. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Danom prijama Republike Hrvatske u Europsku uniju prestaju važiti odredbe članka 10. stavka 2. i 3. ovoga Zakona.«
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+*Stupanje na snagu*
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 453-02/09-01/02
+
+Zagreb, 19. lipnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1526*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu, koji je Hrvatski sabor donio na sjednici 14. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/140  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 18. lipnja 2013.
+
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU**
+
+#### Članak 1.
+
+U Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.), iza članka 1. dodaju se naslov i članak 1.a koji glase:
+
+*»Prijenos pravnih akata Europske unije*
+
+#### Članak 1.a
+
+(1) Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+
+1. Prva Direktiva Vijeća 73/239/EEZ od 24. srpnja 1973. o usklađivanju zakona i drugih propisa koji se odnose na osnivanje i obavljanje poslova izravnog osiguranja, osim životnog osiguranja (SL L 228, 16. 8. 1973.),
+
+2. Direktiva 88/357/EEZ Vijeća od 22. lipnja 1988. o usklađivanju zakona i drugih propisa u odnosu na izravno osiguranje, osim životnog osiguranja, koja propisuje odredbe kako bi se olakšalo ostvarivanje slobode pružanja usluga i izmjeni Direktive 73/239/EEZ (SL L 172, 4. 7. 1988.),
+
+3. Direktiva 90/618/EEZ od 8. studenoga 1990. o izmjeni, posebice u pogledu osiguranja od odgovornosti za upotrebu motornih vozila, Direktive 73/239/EEZ i Direktive 88/357/EEZ o usklađivanju zakona i drugih propisa koji se odnose na izravno osiguranje osim životnog osiguranja (SL L 330, 29. 11. 1990.),
+
+4. Direktiva 92/49//EEZ od 18. lipnja 1992. o usklađivanju zakona i drugih propisa koji se odnose na izravno osiguranje, osim životnog osiguranja, te kojom se izmjenjuje Direktiva 73/239/EEZ i Direktiva 88/357/EEZ (SL L 311, 14. 11. 1997.),
+
+5. Direktiva 2001/17/EZ Europskog parlamenta i Vijeća od 19. ožujka 2001. o sanaciji i likvidaciji društva za osiguranje (SL L 110, 20. 4. 2001.),
+
+6. Direktiva Europskog parlamenta i Vijeća 2009/103/EZ od 16. rujna 2009. u odnosu na osiguranje od građanskopravne odgovornosti u pogledu upotrebe motornih vozila i izvršenje obveze osiguranja od takve odgovornosti (SL L 263, 7. 10. 2009.).
+
+(2) Ovim se Zakonom uređuje provedba sljedećih uredbi Europske unije:
+
+1. Uredba (EZ) br. 785/2004 Europskog parlamenta i Vijeća od 21. travnja 2004. o zahtjevima za zračne prijevoznike i operatore zrakoplova u vezi s osiguranjem (SL L, 138, 30. 4. 2004.),
+
+2. Uredba (EZ) br. 1137/2008 Europskog parlamenta i Vijeća od 22. listopada 2008. o prilagodbi nekih instrumenata podložnih postupku utvrđenom u članku 251. Ugovora, Odluci Vijeća 1999/468/EZ u vezi s regulatornim postupkom s kontrolom (SL L 311, 21. 11. 2008.),
+
+3. Uredba Komisije (EU) br. 285/2010 od 6. travnja 2010. o izmjeni Uredbe (EZ) br. 785/2004 Europskog parlamenta i Vijeća o zahtjevima za zračne prijevoznike i operatore zrakoplova u vezi s osiguranjem (SL L 87, 7. 4. 2010.).«.
+
+#### Članak 2.
+
+U članku 3. stavku 1. točka 9. mijenja se i glasi:
+
+»9. »vozilo« je svako motorno vozilo namijenjeno za promet na kopnu koje se kreće snagom vlastita motora, ali se ne kreće po tračnicama, i svako priključno vozilo, priključeno ili ne, koje podliježe obvezi registracije te po propisima o registraciji mora imati prometnu dozvolu,«.
+
+U točkama 19. i 20. riječi: »(»Narodne novine«, br. 181/04.)« brišu se.
+
+Točka 21. mijenja se i glasi:
+
+»21. »društvo za osiguranje« je društvo za osiguranje koje ima dozvolu nadzornog tijela za obavljanje poslova obveznih osiguranja u prometu, društvo za osiguranje države članice koje poslove obveznih osiguranja u prometu ima pravo obavljati neposredno ili preko podružnice, odnosno strano društvo za osiguranje koje poslove obveznih osiguranja u prometu obavlja preko podružnice uz dozvolu nadzornog tijela,«.
+
+Iza točke 21. dodaje se točka 21.a koja glasi:
+
+»21.a »država članica« je država članica Europske unije i država potpisnica Ugovora o Europskom gospodarskom prostoru,«.
+
+#### Članak 3.
+
+U članku 8. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za osiguranje dužno je sklopiti ugovor o osiguranju sukladno ovome Zakonu i uvjetima za osiguranje.«.
+
+U stavku 9. riječi: »prijevoznog sredstva« zamjenjuju se riječju: »vozila«.
+
+Iza stavka 10. dodaje se stavak 11. koji glasi:
+
+»(11) Društvo za osiguranje dužno je sklopiti ugovor o osiguranju sukladno cjenicima premija osiguranja.«.
+
+#### Članak 4.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za osiguranje dužno je obavijestiti nadzorno tijelo o uvjetima osiguranja koje koristi za osiguranja iz članka 2. ovoga Zakona najkasnije 60 dana prije njihove primjene i to u svrhu provjere jesu li sukladni s propisima, osiguravateljskim načelima i pravilima struke. Društvo za osiguranje dužno je oblikovati premije osiguranja na temelju aktuarskih metoda i načela tako da omogućuju trajno ispunjavanje svih obveza društva za osiguranje iz ugovora o osiguranju uključivo i formiranje dostatnih tehničkih pričuva za navedeno osiguranje. Nadzorno tijelo može tražiti od društva za osiguranje dostavu cjenika premija, tehničkih podloga i ostalih elemenata korištenih za izračun premija osiguranja, a u svrhu provjere jesu li usklađeni s propisima Republike Hrvatske.«.
+
+U stavku 2. riječ: »sa« zamjenjuje se riječju: »s«, a riječ: »zakonskim« briše se.
+
+#### Članak 5.
+
+U članku 12. stavak 1. mijenja se i glasi:
+
+»(1) Odgovorni osiguratelj je dužan u roku od 60 dana od dana primitka odštetnog zahtjeva utvrditi osnovanost i visinu toga zahtjeva te dostaviti podnositelju zahtjeva:
+
+1. obrazloženu ponudu za naknadu štete, ako su odgovornost za naknadu štete te visina štete nesporne, ili
+
+2. utemeljen odgovor na sve točke iz odštetnog zahtjeva u slučaju ako su odgovornost za naknadu štete ili visina štete sporne.«.
+
+#### Članak 6.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Nadzorno tijelo može društvu za osiguranje koje krši odredbe ovoga Zakona izreći jednu ili više primjerenih mjera, a koje mogu biti:
+
+1. opomena,
+
+2. rješenje za otklanjanje utvrđene nezakonitosti i nepravilnosti,
+
+3. javno objavljivanje informacije o nekorektnim postupcima odgovornog osiguratelja na njegov trošak,
+
+4. oduzimanje odobrenja za obavljanje funkcije člana uprave,
+
+5. privremeno ili stalno oduzimanje dozvole za obavljanje poslova obveznih osiguranja u prometu u kojima su teže prekršene odredbe ovoga Zakona,
+
+6. podnošenje optužnog prijedloga,
+
+7. drugu primjerenu mjeru ili mjere koje nadzorno tijelo ocijeni potrebnim.
+
+(2) Prilikom određivanja nadzorne mjere nadzorno tijelo uzet će u obzir:
+
+1. težinu, odnosno posljedicu neizvršavanja ili nepravodobnog izvršavanja obveza društva za osiguranje,
+
+2. stupanj ugrožavanja stabilnosti tržišta osiguranja,
+
+3. dosadašnje slučajeve i stupnjeve utvrđenih nepravilnosti i nezakonitosti u poslovanju društva za osiguranje,
+
+4. pokazanu spremnost uprave društva za osiguranje da otkloni utvrđene nepravilnosti u poslovanju društva za osiguranje,
+
+5. težinu, odnosno posljedicu utvrđene nezakonitosti, odnosno nepravilnosti.«
+
+#### Članak 7.
+
+U članku 15. stavku 1. iza rednog broja: »12.« stavlja se zarez i dodaje redni broj: »13.«.
+
+#### Članak 8.
+
+U članku 16. stavku 2. na kraju stavka dodaje se rečenica koja glasi: »Podaci o štetama vode se odvojeno za štete zbog smrti, tjelesne ozljede i oštećenja zdravlja te uništenja ili oštećenja stvari.«.
+
+U stavku 5. iza riječi: »tijelu« dodaju se riječi: »i ministarstvu nadležnom za financije«, a riječi: »njegov« zamjenjuje se riječju: »njihov«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Hrvatski ured za osiguranje dostavlja nacionalnim uredima država članica ili trećih država članica Sustava zelene karte, neovisno o obvezi osiguranja iz članka 22. ovoga Zakona, sljedeće:
+
+1. podatak o području Republike Hrvatske na kojem je vozilo uobičajeno stacionirano i njegovoj registarskoj pločici, ako postoji,
+
+2. podatak o osiguranju vozila, u pravilu naveden na zelenoj karti koju ima korisnik vozila, ako to zahtijeva država članica na čijem je području vozilo uobičajeno stacionirano.
+
+(7) Hrvatski ured za osiguranje obvezan je podatke iz stavka 6. ovoga članka dostaviti nacionalnom uredu za osiguranje država članica ili trećih država članica Sustava zelene karte, na njihov zahtjev.«.
+
+#### Članak 9.
+
+U članku 17. stavku 2. točke 5. i 6. mijenjaju se i glase:
+
+»5. vlasnici brodica i jahti u pomorskoj plovidbi, svih vrsta riječnih i jezerskih plovila, uključujući skele i splavi koje na redovitim linijama slobodno prevoze putnike, uključujući krstarenje i prijevoz turista,
+
+6. vlasnici svih vrsta brodica i jahti, plovila i čamaca unutarnje plovidbe koji se iznajmljuju s najmanje jednim članom posade,«.
+
+#### Članak 10.
+
+U članku 22. stavku 9. iza riječi: »najmanje« dodaje se riječ: »posljednjih«.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Trećom osobom iz stavka 1. ovoga članka smatra se i primatelj leasinga koji je ugovaratelj osiguranja i korisnik vozila, a nije odgovoran za prometnu nesreću u kojoj mu je prouzročena šteta od vozila istoga davatelja leasinga.«.
+
+#### Članak 11.
+
+U članku 23. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. suputnik koji je dragovoljno ušao u neregistrirano vozilo bez istaknutih registarskih oznaka na vozilu, ako osiguratelj dokaže da je ta okolnost suputniku bila poznata,«.
+
+Iza dosadašnje točke 4. koja postaje točka 5. dodaje se točka 6. koja glasi:
+
+»6. oštećena osoba koja je vlasnik ili vozač neosiguranog vozila koje je sudjelovalo u prometnoj nesreći,«.
+
+Dosadašnja točka 5. postaje točka 7.
+
+#### Članak 12.
+
+U članku 24. stavku 1. točki 4. riječ: »opojnih« briše se.
+
+Iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. ako je šteta prouzročena kaznenim djelom obijesne vožnje u cestovnom prometu za koje je donesena pravomoćna sudska presuda.«.
+
+U stavku 2. redni broj: »6.« zamjenjuje se rednim brojem: »7.«.
+
+#### Članak 13.
+
+U članku 26. stavku 3. iza riječi: »smanjuju« stavlja se zarez i dodaju riječi: »a prednost u redoslijedu namirenja štete imaju oštećene fizičke osobe.«.
+
+Iza stavka 7. dodaju se stavci 8., 9. i 10. koji glase:
+
+»(8) Najniža osigurana svota temeljem ugovora o osiguranju od automobilske odgovornosti određuje se u sljedećim iznosima:
+
+1. u slučaju štete zbog smrti, tjelesne ozljede i oštećenja zdravlja do iznosa od 42,750.000,00 kuna po štetnom događaju bez obzira na broj oštećenika,
+
+2. u slučaju uništenja ili oštećenja stvari do iznosa od 8,550.000,00 kuna po štetnom događaju bez obzira na broj oštećenika.
+
+(9) Vlada Republike Hrvatske može donijeti odluku o povećanju ili sniženju osigurane svote iz stavka 8. ovoga članka sukladno obavijesti Europske komisije koja se periodično objavljuje u Službenom listu Europske unije u skladu s Europskim indeksom potrošačkih cijena, utvrđenim na temelju Uredbe Vijeća (EZ) br. 2494/95 od 23. listopada 1995. o harmoniziranim indeksima potrošačkih cijena (SL L 257, 27. 10. 1995.).
+
+(10) Ako osigurane svote iz stavka 8. ovoga članka zbog promjene tečaja ne odgovaraju iznosima izraženim u eurima u obavijesti Europske komisije iz stavka 9. ovoga članka Vlada Republike Hrvatske može odlukom uskladiti iznose osiguranih svota.«.
+
+#### Članak 14.
+
+U članku 27. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Obvezu iz stavka 1. ovoga članka prema zavodu koji obavlja poslove zdravstvenog osiguranja društvo za osiguranje dužno je izvršiti u skladu s odredbama zakona koji uređuje obvezno zdravstveno osiguranje.«.
+
+#### Članak 15.
+
+U članku 29. stavku 2. iza riječi: »neregistriranog« dodaju se riječi: »i neosiguranog«.
+
+#### Članak 16.
+
+U članku 32. stavku 2. riječi: »Granična policija ovlaštena je« zamjenjuju se riječima: »Policija je ovlaštena«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Kada vozila ulaze na teritorij Republike Hrvatske s teritorija druge države članice, policija je ovlaštena obavljati nesustavne kontrole ispunjavanja uvjeta iz stavka 1. ovoga članka kojima nije cilj isključivo provjera osiguranja od automobilske odgovornosti.«.
+
+#### Članak 17.
+
+U članku 33. stavak 3. mijenja se i glasi:
+
+»(3) Priznavanje valjanosti međunarodnih isprava i dokaza uključuje i jamčenje Hrvatskog ureda za osiguranje za obveze utemeljene tim ispravama i dokazima do iznosa iz članka 26. ovoga Zakona, a ako je za vozilo inozemne registracije ugovorom o osiguranju ugovoren veći iznos, Hrvatski ured za osiguranje jamči do visine ugovorenog iznosa osigurateljnog pokrića.«.
+
+#### Članak 18.
+
+U članku 34. stavak 2. mijenja se i glasi:
+
+»(2) Za naknadu štete koja je nanesena uporabom vozila s teritorija država potpisnica Multilateralnog sporazuma koje nema nikakvu registarsku pločicu ili ima registarsku pločicu koja ne odgovara ili više ne odgovara vozilu, odnosno štete nanesene uporabom određenog tipa vozila za koji registarska pločica, tablica osiguranja niti drugi znak raspoznavanja sličan registarskoj pločici nije potreban, primjenjuju se odredbe članka 29. ovoga Zakona.«.
+
+#### Članak 19.
+
+U naslovu iznad članka 38. riječ: »nezgodi« zamjenjuje se riječju: »nesreći«.
+
+U članku 38. stavak 1. mijenja se i glasi:
+
+»(1) U slučaju prometne nesreće sudionici moraju ispuniti i potpisati te međusobno razmijeniti Europsko izvješće o nesreći. Uredno ispunjeno Europsko izvješće o nesreći može se koristiti kao odštetni zahtjev po osnovi osiguranja od automobilske odgovornosti, odnosno kao izjava o okolnostima načina nastanka štetnog događaja.«.
+
+U stavcima 2. i 3. riječ: »nezgodi« zamjenjuje se riječju: »nesreći«.
+
+#### Članak 20.
+
+Iza članka 40. dodaju se članci 40.a, 40.b, 40.c, 40.d i 40.e koji glase:
+
+»Članak 40.a
+
+Pojmovi u smislu ove glave imaju jednako značenje kao pojmovi uporabljeni u Uredbi (EZ) br. 785/2004.
+
+#### Članak 40.b
+
+(1) Zračni prijevoznik, odnosno operator zrakoplova obvezan je sklopiti ugovor o osiguranju od odgovornosti za štetu prouzročenu putnicima, prtljazi, teretu i trećim osobama, koju prouzroči zrakoplov registriran u skladu s odredbama ovoga Zakona i Uredbom br. (EZ) 785/2004, ako se nalazi na teritoriju Republike Hrvatske, odnosno u njezinu zračnom prostoru.
+
+(2) Ugovor o osiguranju iz stavka 1. ovoga članka sklapa zračni prijevoznik, odnosno operator zrakoplova u skladu s Uredbom (EZ) br. 785/2004.
+
+(3) Obveza osiguranja od odgovornosti u skladu s Uredbom (EZ) br. 785/2004 vrijedi i za zračnog prijevoznika i operatora stranog zrakoplova ako ulazi u zračni prostor Republike Hrvatske.
+
+(4) Obveza iz stavka 1. ovoga članka ne vrijedi za zrakoplove Oružanih snaga Republike Hrvatske i za druge državne zrakoplove i uređaje na koje se ne primjenjuje Uredba (EZ) br. 785/2004.
+
+(5) U potvrdi ili drugom dokazu o sklopljenom ugovoru o osiguranju iz stavka 1. ovoga članka moraju biti navedeni osigurani rizici te da je osiguranje sklopljeno u skladu s Uredbom (EZ) br. 785/2004.
+
+#### Članak 40.c
+
+(1) Obveza društva za osiguranje iz članka 40.a ovoga Zakona ograničena je iznosom osiguranja na dan štetnog događaja, ako ugovorom o osiguranju nije ugovoren viši iznos.
+
+(2) Najniži iznos osiguranja iz pojedinačnog štetnog događaja neovisno o broju oštećenika za koji mora biti sklopljeno osiguranje iz ove glave utvrđen je Uredbom (EZ) br. 785/2004.
+
+(3) U vezi s primjenom članka 6. stavka 1. Uredbe (EZ) br. 785/2004, najniža osigurana svota u odnosu na putnike za nekomercijalne operacije zrakoplova s MTOM od 2700 kg ili manje je 100.000 SDR za svakog putnika.
+
+#### Članak 40.d
+
+(1) Ako je šteta prouzročena neosiguranim zrakoplovom za kojeg važi obvezno osiguranje po ovome Zakonu ili Uredbi br. (EZ) 785/2004, osim kod osiguranja odgovornosti za štetu prouzročenu na teretu, odgovara Hrvatski ured za osiguranje onako kako bi odgovaralo društvo za osiguranje da je sklopljeno osiguranje, i to najviše do osiguranog iznosa koji je propisan na dan štetnog događaja.
+
+(2) Hrvatski ured za osiguranje ne odgovara za štetu koju prouzroči nepoznati zrakoplov.
+
+#### Članak 40.e
+
+Za štete koje prouzroče neosigurani zrakoplovi primjenjuju se odredbe članka 44. stavka 5. i stavka 10. ovoga Zakona.«.
+
+#### Članak 21.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Društvo za osiguranje smije obavljati poslove obveznih osiguranja u prometu samo u vrsti obveznog osiguranja iz članka 2. stavka 1. ovoga Zakona za koje je dobilo dozvolu nadzornog tijela, a društvo za osiguranje države članice smije obavljati poslove obveznih osiguranja u prometu samo u vrsti obveznog osiguranja iz članka 2. stavka 1. ovoga Zakona u kojoj ima pravo obavljati poslove obveznih osiguranja u prometu u Republici Hrvatskoj neposredno ili preko podružnice.
+
+(2) Društvo za osiguranje iz stavka 1. ovoga članka poslove obveznih osiguranja u prometu dužno je obavljati u skladu s odredbama ovoga Zakona i Zakona o osiguranju.
+
+(3) Informacije koje društvo za osiguranje daje ugovaratelju osiguranja prije sklapanja ugovora o osiguranju i tijekom trajanja ugovora o osiguranju moraju biti sastavljene u skladu s odredbama ovoga Zakona i Zakona o osiguranju koje propisuju sadržaj i oblik tih informacija.
+
+(4) Ugovor o osiguranju, polica osiguranja ili druga isprava o osiguranju, uvjeti osiguranja i druga dokumentacija u vezi s ugovorom o osiguranju moraju biti u skladu s odredbama ovoga Zakona i drugih propisa koji određuju njihov sadržaj, u pisanom obliku i na hrvatskom jeziku.
+
+(5) Društvo za osiguranje ne smije obavljati poslove obveznih osiguranja u prometu ako nije član Hrvatskog ureda za osiguranje.
+
+(6) Na nadzor poslovanja društva za osiguranje primjenjuju se odredbe Zakona o osiguranju koje propisuju nadzor poslovanja društva za osiguranje.
+
+(7) Nadzorno tijelo izriče nadzorne mjere društvu za osiguranje u skladu s odredbama ovoga Zakona i Zakona o osiguranju.
+
+(8) Protiv rješenja nadzornog tijela žalba nije dopuštena, ali se može pokrenuti upravni spor podnošenjem tužbe nadležnom Upravnom sudu u roku od 30 dana od dana primitka rješenja nadzornog tijela.
+
+(9) Društvo za osiguranje države članice koje neposredno ili preko podružnice obavlja poslove osiguranja iz članka 2. stavka 1. točke 2. ovoga Zakona mora imenovati predstavnika koji ima sjedište, odnosno stalno prebivalište u Republici Hrvatskoj te njegovo ime, odnosno naziv i adresu priopćiti nadzornom tijelu i Hrvatskom uredu za osiguranje.
+
+(10) Imenovani predstavnik iz stavka 9. ovoga članka u ime i za račun društva za osiguranje obrađuje odštetne zahtjeve i isplaćuje štete oštećenim osobama, zastupa društvo za osiguranje pred sudovima i nadležnim tijelima u Republici Hrvatskoj.
+
+(11) Imenovani predstavnik iz stavka 9. ovoga članka može obavljati i poslove ovlaštenog predstavnika iz članka 47. ovoga Zakona.
+
+(12) Imenovani predstavnik iz stavka 9. ovoga članka mora obavljati poslove na hrvatskom jeziku.«.
+
+#### Članak 22.
+
+U članku 44. stavku 1. iza točke 9. dodaje se točka 10. koja glasi:
+
+»10. šteta nastalih na teritoriju Republike Hrvatske, odnosno u nekoj od država članica Sustava zelene karte od osiguranih vozila koja su uobičajeno stacionirana u Republici Hrvatskoj, koje su isplatili uredi za naknadu država članica sukladno njihovom zakonodavstvu, odnosno međunarodnim sporazumima, a za koje jamči Hrvatski ured za osiguranje.«.
+
+Iza stavka 10. dodaju se stavci 11. i 12. koji glase:
+
+»(11) Sredstva koja se isplaćuju iz Garancijskog fonda na temelju stavka 1. točke 8. i točke 9. ovoga članka zbog nastanka razloga za prestanak društva za osiguranje, odnosno stečaja, ograničena su u jednoj kalendarskoj godini na 0,5% od ukupno zaračunate bruto premije obveznih osiguranja u prometu u prethodnoj kalendarskoj godini i isplaćuju se isključivo iz sredstava Garancijskog fonda koja su namijenjena izvršenju obveza iz stavka 1. točke 8. i točke 9. ovoga članka zbog nastanka razloga za prestanak društva za osiguranje, odnosno stečaja.
+
+(12) Ako je iz Garancijskog fonda isplaćena naknada štete prema stavku 1. točki 8. i točki 9. ovoga članka, zbog nastanka razloga za prestanak društva za osiguranje, odnosno stečaja, Hrvatski ured za osiguranje ima pravo regresa prema svakom od osiguranika ili ugovaratelja osiguranja najviše do iznosa od 20.000,00 kuna iz istog štetnog događaja.«.
+
+#### Članak 23.
+
+U članku 45. stavku 1. iza riječi: »premiji« dodaju se riječi: »ili broju rizika«, a riječ: »prethodnoj« zamjenjuje se riječju: »tekućoj«.
+
+#### Članak 24.
+
+U članku 50. stavku 1. riječ: »neimovinske« briše se.
+
+#### Članak 25.
+
+U članku 52. stavku 2. točki 5. iza riječi: »rođenja« dodaju se riječi: »osobnom identifikacijskom broju (OIB),«.
+
+U točki 7. na kraju točke dodaje se rečenica koja glasi:
+
+»Navedeni popis i ime tijela odgovornog za plaćanje odštete dostavlja se Europskoj komisiji.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Društva za osiguranje dužna su dostavljati podatke za registar iz stavka 2. ovoga članka u skladu s odredbama Zakona o zaštiti osobnih podataka.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 26.
+
+U članku 61. iza riječi: »članka 57.« dodaju se riječi: »i članka 59. stavka 4.«.
+
+#### Članak 27.
+
+Naslov iznad članka 62. i članak 62. brišu se.
+
+#### Članak 28.
+
+Iznad članka 63. u nazivu glave IX. riječ: »KAZNENE« zamjenjuje se riječju: »PREKRŠAJNE«.
+
+U članku 63. stavku 3. točka 2. mijenja se i glasi:
+
+»2. ako obavlja poslove obveznih osiguranja u prometu protivno članku 43. stavku 1. ovoga Zakona,«.
+
+U stavku 5. točka 2. mijenja se i glasi:
+
+»2. ako počne primjenjivati uvjete osiguranja, a o tome ne obavijesti nadzorno tijelo u roku iz članka 10. stavka 1. ovoga Zakona ili ako ne oblikuje premije osiguranja u skladu s člankom 10. stavkom 1. ovoga Zakona ili ako na zahtjev nadzornog tijela iz stavka 1. ovoga Zakona ne dostavi cjenik premija, tehničke podloge i ostale elemente korištene za izračun premija osiguranja,«.
+
+#### Članak 29.
+
+U naslovu iznad članka 65. riječi: »prijevoznog sredstva« zamjenjuju se riječima: »vozila, brodice, odnosno jahte«.
+
+U članku 65. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ako kao vlasnik vozila, odnosno korisnik u svojstvu posjednika brodice, odnosno jahte prije uporabe vozila, brodice, odnosno jahte u prometu ne sklopi ugovor o osiguranju te ga ne obnavlja dok je vozilo, brodica, odnosno jahta u prometu sukladno odredbi članka 4. stavka 1. ovoga Zakona.«.
+
+#### Članak 30.
+
+Iza članka 65. dodaje se naslov i članak 65.a koji glase:
+
+*»Prekršaji zračnog prijevoznika, odnosno operatora zrakoplova*
+
+#### Članak 65.a
+
+»(1) Novčanom kaznom u iznosu od 20.000,00 do 200.000,00 kuna kaznit će se za prekršaj zračni prijevoznik, odnosno operator zrakoplova koji je pravna osoba ili trgovac pojedinac ako:
+
+1. ne sklopi ugovor o osiguranju od odgovornosti za štetu putnicima, prtljazi, teretu i trećim osobama sukladno članku 4. stavku 1. Uredbe (EZ) br. 785/2004,
+
+2. ne osigura svaki pojedini let, bez obzira na to je li zrakoplov koji se upotrebljava njegovo vlasništvo, predmet ugovora o leasingu, sporazuma o zajedničkom pothvatu, franšizi, partnerstvu (primjerice, zajedničko prodavanje mjesta na istom letu, codesharing) ili bilo kojem drugom sporazumu iste prirode sukladno članku 4. stavku 2. Uredbe (EZ) br. 785/2004,
+
+3. u ugovoru o osiguranju od odgovornosti za štetu putnicima, prtljazi i teretu, kada se zrakoplov koristi u komercijalne svrhe, najniže osigurane svote nisu u skladu sa člankom 6. Uredbe (EZ) br. 785/2004,
+
+4. zrakoplov iz članka 2. Uredbe (EZ) br. 785/2004 nema pri svakom letu potvrdu ili drugi dokaz o sklopljenom ugovoru o osiguranju u skladu sa člankom 8. Uredbe (EZ) br. 785/2004,
+
+5. ako na zahtjev Hrvatske agencije za civilno zrakoplovstvo ne predoči ugovor o osiguranju u skladu s člankom 8. Uredbe (EZ) br. 785/2004.
+
+(2) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka operator zrakoplova u nekomercijalnom letu koji je fizička osoba.
+
+(3) Kaznom od 3.000,00 do 10.000,00 kuna kaznit će se:
+
+1. odgovorna osoba zračnog prijevoznika, odnosno operatora zrakoplova koji počini prekršaj iz stavka 1. ovoga članka,
+
+2. zapovjednik, odnosno druga odgovorna osoba koju odredi zračni prijevoznik ili operator zrakoplova, ako na zahtjev inspektora ili druge ovlaštene osobe za nadzor odbije predočiti dokaz o sklopljenom odgovarajućem osiguranju od odgovornosti u skladu sa člankom 8. Uredbe br. (EZ) 785/2004,
+
+3. operator zrakoplova u nekomercijalnom zračnom prometu koji je fizička osoba i koji počini prekršaj iz točke 2. ovoga stavka.«.
+
+#### Članak 31.
+
+U naslovu iznad članka 66. riječi: »prijevoznog sredstva« zamjenjuju se riječju: »vozila«.
+
+U članku 66. stavku 1. u uvodnoj rečenici riječi: »prijevoznog sredstva« zamjenjuju se riječju: »vozila«.
+
+U stavku 1. točki 2. riječ: »nezgodi« zamjenjuje se riječju: »nesreći«.
+
+U stavku 2. riječi: »prijevoznog sredstva« zamjenjuju se riječju: »vozila«.
+
+#### Članak 32.
+
+U članku 67. stavku 1. iza podstavka 2. dodaje se podstavak 3. koji glasi:
+
+»– Hrvatske agencije za civilno zrakoplovstvo za prekršaje iz članka 65.a.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 33.
+
+(1) U cijelom tekstu Zakona o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.) riječi: »država članica Europske unije« u odgovarajućem broju i padežu zamjenjuju se riječima: »država članica« u odgovarajućem broju i padežu.
+
+(2) U cijelom tekstu Zakona o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.) riječi: »prometna nezgoda« u odgovarajućem broju i padežu zamjenjuju se riječima: »prometna nesreća« u odgovarajućem broju i padežu.
+
+#### Članak 34.
+
+(1) Na dan stupanja na snagu ovoga Zakona u Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.) u članku 26. stavku 3., 4. i 5., članku 29. stavku 3., članku 30. stavku 2., članku 31. stavku 2., članku 32. stavku 1., članku 34. stavku 3. i članku 36. stavku 2. brojka »2.« zamjenjuje se brojkom »8.«.
+
+(2) Na dan stupanja na snagu ovoga Zakona u Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.) odredbe članka 3. stavka 1. točke 15., 16., 17., 18., 28., 29. i 31., članka 6. stavka 2., članka 26. stavka 2., 6. i 7., članka 39. i 40. prestaju važiti.
+
+#### Članak 35.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/114  
+Zagreb, 14. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu (NN 152/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/152/2870*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu, koji je Hrvatski sabor donio na sjednici 12. prosinca 2014. godine.
+
+Klasa: 011-01/14-01/181
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 17. prosinca 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM OSIGURANJIMA U PROMETU**
+
+#### Članak 1.
+
+U Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09., 75/09. i 76/13.) u članku 12. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Odgovorni osiguratelj je dužan isplatiti iznos naknade štete u roku iz stavka 1. ovoga članka. U slučaju nemogućnosti utvrđenja visine konačnog iznosa štete, odgovorni osiguratelj je oštećenoj osobi dužan isplatiti iznos nespornog iznosa naknade štete kao predujam u roku propisanom stavkom 1. ovoga članka.
+
+(4) U slučaju neizvršenja obveze isplate naknade štete ili nespornog iznosa naknade štete, u roku iz stavka 1. ovoga članka, oštećena osoba uz dužni iznos naknade štete, odnosno uz dužni nesporni iznos naknade štete ima pravo i na isplatu iznosa kamate, i to od dana podnošenja odštetnog zahtjeva.«.
+
+#### Članak 2.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Odredbe članka 11., 12., 13. i 14. ovoga Zakona koje se odnose na društvo za osiguranje na odgovarajući se način primjenjuju i na Hrvatski ured za osiguranje.«.
+
+#### Članak 3.
+
+U članku 23. točka 6. briše se.
+
+Dosadašnja točka 7. postaje točka 6.
+
+#### Članak 4.
+
+U članku 24. stavku 3. iza riječi: »točke 5.« dodaju se riječi: »i 7.«
+
+#### Članak 5.
+
+U članku 63. stavku 5. točki 4. iza riječi: »iznos« dodaju se riječi: »naknade štete ili«.
+
+#### Članak 6.
+
+U članku 64. stavku 1. točki 2. iza riječi: »iznos« dodaju se riječi: »naknade štete ili«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 7.
+
+(1) Odredba članka 3. stavka 1. ovoga Zakona primjenjuje se od 1. srpnja 2013.
+
+(2) U pogledu odštetnih zahtjeva na koje se odnosi odredba članka 3. stavka 1. ovoga Zakona podnijetih prije stupanja na snagu ovoga Zakona, rokovi i zakonske zatezne kamate iz članka 12. Zakona o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09., 75/09. i 76/13.) teku od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/170
+
+Zagreb, 12. prosinca 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

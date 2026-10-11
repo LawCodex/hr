@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-16
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "163/03"
-amendments: []
+last_amended: 2011-02-09
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "163/03, 18/11"
+amendments:
+  - "NN 18/2011 (312) Zakon o izmjenama Zakona o zaštiti svjedoka"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2340"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti svjedoka
 
 > Izvor: Narodne novine, NN 163/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2340).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 18/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -483,3 +487,69 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o zaštiti svjedoka (NN 18/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/312*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI SVJEDOKA
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti svjedoka, koji je Hrvatski sabor donio na sjednici 28. siječnja 2011. godine.
+
+Klasa: 011-01/11-01/06
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 2. veljače 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI SVJEDOKA**
+
+### Članak 1.
+
+U Zakonu o zaštiti svjedoka (»Narodne novine«, br. 163/03.) članak 15. mijenja se i glasi:
+
+»Nakon obavijesti o primitku zahtjeva za uključivanje ugrožene osobe u Program zaštite, predsjednik Povjerenstva u roku od tri dana sazvat će sjednicu Povjerenstva. Sjednica Povjerenstva mora biti održana u roku od 21 dan od dana podnošenja zahtjeva.
+
+Ako postoji potreba za duljim vremenskim periodom provedbe hitnih mjera radi obrade i davanja preporuke za uključivanje ugrožene osobe u Program zaštite, odnosno prijedloga za uključivanje u Program zaštite bliske osobe te davanje mišljenja o vrsti mjera koje će se primijeniti, Povjerenstvo može na prijedlog Jedinice za zaštitu odrediti vremenski rok provođenja hitnih mjera.
+
+Hitne mjere ne mogu trajati dulje od 120 dana od dana primitka zahtjeva za uključivanje ugrožene osobe u Program zaštite, u kojem roku Povjerenstvo mora donijeti odluku o zahtjevu.«.
+
+### Članak 2.
+
+U članku 44. stavak 1. mijenja se i glasi:
+
+»Svi podaci o radu Povjerenstva, podaci iz evidencija, kao i drugi podaci koji nastanu u vezi s provedbom ovoga Zakona su klasificirani podaci, čiji stupanj tajnosti određuje nadležno tijelo.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 740-02/11-01/01
+
+Zagreb, 28. siječnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

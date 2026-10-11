@@ -6,13 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-22
-last_amended: 2007-07-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2014-10-29
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "167/03, 79/07"
+narodne_novine: "167/03, 79/07, 80/11, 141/13, 127/14"
 amendments:
   - "NN 79/2007 (2491) Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima"
+  - "NN 80/2011 (1707) Zakon o izmjeni Zakona o autorskom pravu i srodnim pravima"
+  - "NN 141/2013 (3015) Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima"
+  - "NN 127/2014 (2400) Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/167/2399"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 167/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/167/2399).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 79/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 79/2007, NN 80/2011, NN 141/2013, NN 127/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2576,3 +2579,501 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjeni Zakona o autorskom pravu i srodnim pravima (NN 80/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1707*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O AUTORSKOM PRAVU I SRODNIM PRAVIMA
+
+Proglašavam Zakon o izmjeni Zakona o autorskom pravu i srodnim pravima, koji je Hrvatski sabor donio na sjednici 1. srpnja 2011. godine.
+
+Klasa: 011-01/11-01/145
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 6. srpnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O AUTORSKOM PRAVU I SRODNIM PRAVIMA**
+
+### Članak 1.
+
+U Zakonu o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03. i 79/07.) u članku 157. stavku 2. točki a) riječi: »Republici Hrvatskoj« zamjenjuju se riječima: »Europskoj uniji«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 121-12/11-01/01
+
+Zagreb, 1. srpnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima (NN 141/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3015*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O AUTORSKOM PRAVU I SRODNIM PRAVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima, koji je Hrvatski sabor donio na sjednici 15. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/250
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 21. studenoga 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O AUTORSKOM PRAVU I SRODNIM PRAVIMA**
+
+#### Članak 1.
+
+U Zakonu o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03., 79/07., 80/11. i 125/11.) iza članka 1. dodaju se naslovi iznad članaka i članci 1.a i 1.b koji glase:
+
+### »PRIJENOS PRAVNE STEČEVINE EUROPSKE UNIJE
+
+#### Članak 1.a
+
+Odredbe ovoga Zakona u skladu su sa:
+
+– Direktivom Vijeća 91/250/EEC od 14. svibnja 1991. o zakonskoj zaštiti računalnih programa (SL L 122, 17. 5. 1991.),
+
+– Direktivom Vijeća 92/100/EEC od 19. studenoga 1992. koja se odnosi na pravo iznajmljivanja i pravo posudbe te na određena prava srodna autorskom pravu u području intelektualnog vlasništva (SL L 346, 27. 11. 1992.),
+
+– Direktivom Vijeća 93/83/EEC od 27. rujna 1993. o koordinaciji nekih pravila koja se odnose na autorsko pravo i srodna prava primjenljivih na satelitsku radiodifuziju i kabelsku retransmisiju (SL L 248, 6. 10. 1993.),
+
+– Direktivom Vijeća 93/98/EEC od 29. listopada 1993. kojom se harmonizira rok zaštite autorskog prava i nekih srodnih prava (SL L 290, 24. 11. 1993.),
+
+– Direktivom 96/9/EC Europskog parlamenta i Vijeća od 11. ožujka 1996. o zakonskoj zaštiti baza podataka (SL L 77, 27. 3. 1996.),
+
+– Direktivom 2001/29/EC Europskog parlamenta i Vijeća od 22. svibnja 2001. o harmonizaciji određenih aspekata autorskog prava i srodnih prava u informatičkom društvu (SL L 167, 22. 6. 2001.),
+
+– Direktivom 2001/84/EC Europskog parlamenta i Vijeća od 27. rujna 2001. o pravu slijeđenja u korist autora izvornika umjetničkog djela (SL L 272, 13. 10. 2001.),
+
+– Direktivom 2004/48/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o provedbi zaštite prava intelektualnog vlasništva (SL L 157, 30. 4. 2004.),
+
+– Direktivom 2006/123/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o uslugama na unutarnjem tržištu (SL L 376, 27. 12. 2006.),
+
+– Direktivom 2006/116/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o trajanju zaštite autorskog prava i određenih srodnih prava (SL L 372, 27. 12. 2006.),
+
+– Direktivom 2011/77/EU Europskog parlamenta i Vijeća od 27. rujna 2011. (SL L 265, 11. 10. 2011.) kojom se mijenja Direktiva 2006/116/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o trajanju zaštite autorskog prava i određenih srodnih prava.
+
+### RODNA NEUTRALNOST IZRAZA
+
+#### Članak 1.b
+
+Izrazi koji se koriste u ovome Zakonu, a koji imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski spol.«.
+
+#### Članak 2.
+
+U članku 20. stavku 5. iza riječi: »producentu« zarez i riječi: »ili kojoj drugoj osobi,« brišu se.
+
+#### Članak 3.
+
+Iza članka 100. dodaju se naslov iznad članka i članak 100.a koji glase:
+
+### »TRAJANJE AUTORSKOG PRAVA ZA GLAZBENO DJELO S RIJEČIMA
+
+#### Članak 100.a
+
+U pogledu glazbenog djela s riječima, rok iz članka 99. ovoga Zakona računa se od smrti posljednjeg preživjelog među autorima glazbe i autorima teksta koji su glazbu, odnosno tekst stvorili posebno za korištenje u tom glazbenom djelu s riječima. Ako glazba, odnosno tekst nisu stvoreni posebno za korištenje u tom glazbenom djelu s riječima, primjenjuju se opća pravila o trajanju autorskog prava.«.
+
+#### Članak 4.
+
+Članak 131. mijenja se i glasi:
+
+»(1) Imovinska prava umjetnika izvođača traju 50 godina od izvedbe.
+
+(2) Ako u razdoblju iz stavka 1. ovoga članka izvedba fiksirana na fonogram bude zakonito izdana ili zakonito priopćena javnosti, prava prestaju istekom 70 godina od prvog takvog izdanja ili prvog takvog priopćavanja javnosti, ovisno o tome koje je bilo ranije.
+
+(3) Ako u razdoblju iz stavka 1. ovoga članka fiksacija izvedbe koja nije fonogram bude zakonito izdana ili zakonito priopćena javnosti, prava prestaju istekom 50 godina od prvog takvog izdanja ili prvog takvog priopćavanja javnosti, ovisno o tome koje je bilo ranije.«.
+
+#### Članak 5.
+
+Članak 137. mijenja se i glasi:
+
+»(1) Prava proizvođača fonograma traju 70 godina od prvog fiksiranja fonograma. Ako je u tom razdoblju fonogram zakonito izdan, prava traju 70 godina od takva prvog izdanja. Ako fonogram u tom razdoblju nije zakonito izdan, ali je zakonito priopćen javnosti, prava traju 70 godina od takva prvog priopćavanja javnosti.
+
+(2) Rokovi trajanja prava proizvođača fonograma iz stavka 1. ovoga članka ne primjenjuju se ako su nastupile okolnosti iz članka 137.a ovoga Zakona.«.
+
+#### Članak 6.
+
+Iza članka 137. dodaje se poglavlje 2.a te naslovi iznad članaka i članci 137.a, 137.b, 137.c i 137.d koji glase:
+
+### »Poglavlje 2.a ODNOS PRAVA UMJETNIKA IZVOĐAČA I PRAVA PROIZVOĐAČA FONOGRAMA
+
+### OTKAZ UGOVORA IZMEĐU UMJETNIKA IZVOĐAČA I PROIZVOĐAČA FONOGRAMA
+
+#### Članak 137.a
+
+(1) Ako 50 godina od zakonitog izdavanja fonograma, odnosno ako fonogram nije zakonito izdan, 50 godina od njegova zakonitog priopćavanja javnosti, proizvođač fonograma ne ponudi primjerke fonograma na prodaju u količini koja zadovoljava razumne potrebe javnosti ili ga ne stavi na raspolaganje javnosti, umjetnik izvođač može otkazati ugovor koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja fiksirane izvedbe na fonogramu.
+
+(2) Prije otkaza ugovora iz stavka 1. ovoga članka umjetnik izvođač dužan je obavijestiti proizvođača fonograma da ima obvezu ponuditi primjerke fonograma na prodaju u količini koja zadovoljava razumne potrebe javnosti i staviti ga na raspolaganje javnosti u roku od godine dana, računajući od dana primitka pisane obavijesti umjetnika izvođača.
+
+(3) Umjetnik izvođač ne može se odreći prava na otkaz ugovora iz stavka 1. ovoga članka.
+
+(4) Ako je u stvaranju umjetničke izvedbe sudjelovalo više umjetnika izvođača, oni mogu otkazati ugovor o osnivanju prava iskorištavanja njihove fiksirane izvedbe na fonogramu u skladu s odredbom članka 123. ovoga Zakona.
+
+(5) Ako je umjetnik izvođač otkazao ugovor o osnivanju prava iskorištavanja fiksirane izvedbe na fonogramu u skladu sa stavkom 1. ovoga članka, prava proizvođača fonograma na tom fonogramu prestaju istekom 50 godina od zakonitog izdavanja javnosti fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije izdan.
+
+### DODATNA GODIŠNJA NAKNADA UMJETNIKU IZVOĐAČU
+
+#### Članak 137.b
+
+(1) Ako je prema ugovoru između umjetnika izvođača i proizvođača fonograma koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja fiksirane izvedbe na fonogramu, umjetnik izvođač stekao pravo na jednokratnu naknadu, umjetnik izvođač, prema ovome Zakonu, stječe pravo na dodatnu godišnju naknadu. Proizvođač fonograma dužan je umjetniku izvođaču plaćati dodatnu godišnju naknadu za svaku punu godinu koja slijedi pedesetu godinu od zakonitog izdavanja fonograma, odnosno pedesetu godinu od njegova zakonitog priopćavanja javnosti ako fonogram nije tako izdan.
+
+(2) Umjetnik izvođač ne može se odreći prava na dodatnu godišnju naknadu iz stavka 1. ovoga članka.
+
+(3) Dodatna godišnja naknada, prema ovome Zakonu, iznosi 20 % od prihoda kojega proizvođač fonograma ostvari od reproduciranja, distribuiranja i stavljanja na raspolaganje javnosti fonograma na kojem se nalazi izvedba umjetnika izvođača iz stavka 1. ovoga članka. Dodatna godišnja naknada obračunava se prema prihodu kojeg proizvođač fonograma ostvari u godini koja prethodi godini njezina dospijeća.
+
+(4) Obveza plaćanja dodatne godišnje naknade, prema ovome Zakonu, nastaje u godini koja slijedi pedesetu godinu od zakonitog izdavanja fonograma, odnosno pedesetu godinu od njegova zakonitog priopćavanja javnosti ako fonogram nije tako izdan.
+
+(5) Proizvođač fonograma dužan je, prema ovome Zakonu, umjetniku izvođaču koji je ovlašten primati dodatnu godišnju naknadu, osobi koju on ovlasti, kao i udruzi koja pravo na dodatnu godišnju naknadu ostvaruje u kolektivnom sustavu dati sve podatke koji su potrebni za njezinu isplatu.
+
+### PROMJENA SADRŽAJA UGOVORA U KORIST UMJETNIKA IZVOĐAČA
+
+#### Članak 137.c
+
+(1) Ako je prema ugovoru između umjetnika izvođača i proizvođača fonograma koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja fiksirane izvedbe na fonogramu, umjetnik izvođač stekao pravo na naknadu koja dospijeva u obrocima, pri obračunu iznosa takve naknade, prema ovome Zakonu, ne oduzimaju se eventualno ranije plaćeni predujmovi kao ni eventualni drugi odbici koji su određeni u takvom ugovoru.
+
+(2) Odredba iz stavka 1. ovoga članka primjenjuje se nakon što istekne 50 godina od zakonitog izdavanja fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije zakonito izdan.
+
+(3) Umjetnik izvođač, prema ovome Zakonu, ima pravo zahtijevati izmjenu ugovora iz stavka 1. ovoga Zakona sklopljenog prije 1. studenoga 2013. nakon što istekne 50 godina od zakonitog izdavanja fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije izdan.
+
+(4) Ako umjetnik izvođač i proizvođač fonograma ne postignu sporazum u vezi pravične izmjene ugovora iz stavka 3. ovoga članka, prava proizvođača fonograma na tom fonogramu prestaju istekom 50 godina od zakonitog izdavanja javnosti fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije zakonito izdan.
+
+### UGOVORI KOJI OSTAJU NA SNAZI
+
+#### Članak 137.d
+
+Ugovor između umjetnika izvođača i proizvođača fonograma o osnivanju prava iskorištavanja izvedbe fiksirane na fonogram koji je sklopljen prije 1. studenoga 2013. proizvodi učinke do isteka roka zaštite umjetnika izvođača iz članka 131. ovoga Zakona, osim ako je u ugovoru izrijekom drukčije određeno.«.
+
+#### Članak 7.
+
+U članku 156. stavku 1. točki 1. na kraju podtočke h) točka se zamjenjuje zarezom te se dodaje podtočka i) koja glasi:
+
+»i) pravo radiodifuzijskog reemitiranja audiovizualnih djela.«.
+
+U točki 2. na kraju podtočke g) točka se zamjenjuje zarezom te se dodaje podtočka h) koja glasi:
+
+»h) pravo na dodatnu godišnju naknadu iz članka 137.b ovoga Zakona.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Pravo radiodifuzijskog emitiranja i reemitiranja iz stavka 1. točaka 1.a) i 2.c), pravo radiodifuzijskog reemitiranja iz stavka 1. točke 1.i), pravo na naknadu za radiodifuzijsko emitiranje iz stavka 1. točke 3.b), pravo iznajmljivanja iz stavka 1. točaka 1.c), 2.e) i 3.c) ako se radi o snimljenim glazbenim djelima i glazbenim izvedbama, pravo na naknadu za javnu posudbu iz stavka 1. točaka 1.d), 2.f), 3.d) i 4.a), pravo na naknadu za reproduciranje za privatno i drugo vlastito korištenje iz stavka 1. točaka 1.f), 2.g), 3.e), 4.b) i 5.a) i pravo na naknadu iz stavka 1. točke 2.h) mogu se ostvarivati samo preko udruge za kolektivno ostvarivanje prava.«.
+
+#### Članak 8.
+
+U članku 164. stavku 1. riječi: »Vlada Republike Hrvatske na prijedlog ministra« zamjenjuju se riječima: »ministar u čijem je djelokrugu nadzor nad radom Zavoda, na prijedlog ravnatelja Zavoda«.
+
+U stavku 2. riječ: »Ministar« zamjenjuje se riječima: »Ravnatelj Zavoda«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako ministar smatra da predloženi kandidati ne osiguravaju primjeren sastav Vijeća stručnjaka, naložit će ravnatelju Zavoda da ponovi postupak izbora.«.
+
+U stavku 7. iza riječi: »propisat će« dodaje se riječ: »pravilnikom«.
+
+#### Članak 9.
+
+Naziv glave VI. koji glasi: »VI. KAZNENE ODREDBE« mijenja se i glasi: »VI. PREKRŠAJNE ODREDBE«.
+
+Nazivi poglavlja koji glase: »1. Kaznena djela« i »2. Prekršaji« brišu se.
+
+#### Članak 10.
+
+U članku 189. stavku 1. točka 2. mijenja se i glasi:
+
+»2. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava reproducira autorsko djelo (članak 19.),«.
+
+Iza točke 2. dodaju se nove točke 3., 4., 5., 6., 7. i 8. koje glase:
+
+»3. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava distribuira ili iznajmljuje ili skladišti ili poduzima druge radnje radi distribucije autorskog djela (članak 20.),
+
+4. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava na bilo koji način priopći javnosti autorsko djelo (članci 22. do 26., članak 27. stavak 1., članci 28. do 30.),
+
+5. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava preradi autorsko djelo (članak 31.),
+
+6. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava ne plati naknadu za reproduciranje autorskog djela za privatno ili drugo vlastito korištenja kada je po zakonu to dužan platiti (članak 32.),
+
+7. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava ne plati naknadu za javnu posudbu kada je po zakonu to dužan platiti (članak 33.),
+
+8. bez odobrenja autora ili drugog nositelja autorskog prava ili udruge za kolektivno ostvarivanje autorskog prava ne plati naknadu za pravo slijeđenja kada je po zakonu to dužan platiti (članak 34.),«.
+
+Dosadašnje točke 3. do 8. postaju točke 9. do 14.
+
+Dosadašnja točka 9. briše se, a dosadašnje točke 10. do 13. postaju točke 15. do 18.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Predmeti i sredstva koji su bili namijenjeni ili uporabljeni za počinjenje prekršaja ili su nastali njegovim počinjenjem oduzet će se u skladu s odredbama Prekršajnog zakona.«.
+
+#### Članak 11.
+
+U članku 190. stavku 1. iza riječi »ugovoreno« dodaju se riječi: »(članak 166. stavak 2.)«.
+
+#### Članak 12.
+
+U članku 191. stavku 1. iza riječi: »odobrenju« dodaju se riječi: »(članak 157. stavci 1. i 2.)«.
+
+#### Članak 13.
+
+Naslov iznad članka 193. i članak 193. brišu se.
+
+#### Članak 14.
+
+(1) Odredba članka 3. ovoga Zakona primjenjuje se na glazbena djela s riječima kod kojih je autorsko pravo autora glazbe ili autora teksta zaštićeno barem u jednoj od država članica Europske unije na dan 1. studenoga 2013., kao i na glazbena djela s riječima koja nastanu nakon toga dana.
+
+(2) Odredba stavka 1. ovoga članka neće utjecati na radnje iskorištavanja glazbenih djela s riječima koje su poduzete prije 1. studenoga 2013. Treće osobe koje su prije toga dana u dobroj vjeri stekle neka prava u odnosu na takva djela mogu, prema ovome Zakonu, nastaviti izvršavati ta prava pod istim uvjetima.
+
+(3) Odredbe članka 6. ovoga Zakona primjenjuju se na izvedbe koje su fiksirane na fonograme i na fonograme kod kojih je pravo umjetnika izvođača, odnosno pravo proizvođača fonograma bilo zaštićeno u Republici Hrvatskoj na dan 1. studenoga 2013., kao i na izvedbe i fonograme koji nastanu nakon toga dana.
+
+#### Članak 15.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/241
+
+Zagreb, 15. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima (NN 127/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/127/2400*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA I IZMJENAMA I DOPUNAMA ZAKONA O AUTORSKOM PRAVU I SRODNIM PRAVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima, koji je Hrvatski sabor donio na sjednici 24. listopada 2014. godine.
+
+Klasa. 011-01/14-01/145
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 27. listopada 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O AUTORSKOM PRAVU I SRODNIM PRAVIMA**
+
+#### Članak 1.
+
+U Zakonu o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03., 79/07., 80/11., 125/11. i 141/13.) članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+
+– Direktiva Vijeća 93/83/EEZ od 27. rujna 1993. o koordinaciji određenih pravila s obzirom na autorsko pravo i srodna prava koja se odnose na satelitsko emitiranje i kabelsko reemitiranje (SL L 248, 6. 10. 1993.),
+
+– Direktiva 96/9/EZ Europskog parlamenta i Vijeća od 11. ožujka 1996. o pravnoj zaštiti baza podataka (SL L 77, 27. 3. 1996.),
+
+– Direktiva 2001/29/EZ Europskog parlamenta i Vijeća od 22. svibnja 2001. o usklađivanju određenih aspekata autorskog prava i srodnih prava u informacijskom društvu (SL L 167, 22. 6. 2001.),
+
+– Direktiva 2001/84/EZ Europskog parlamenta i Vijeća od 27. rujna 2001. o pravu slijeđenja u korist autora izvornika umjetničkog djela (SL L 272, 13. 10. 2001.),
+
+– Direktiva 2004/48/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o provedbi zaštite prava intelektualnog vlasništva (SL L 157, 30. 4. 2004.),
+
+– Direktiva 2006/123/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o uslugama na unutarnjem tržištu (SL L 376, 27. 12. 2006.),
+
+– Direktiva 2006/115/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o pravu iznajmljivanja i pravu posudbe te o određenim autorskom pravu srodnim pravima u području intelektualnog vlasništva (kodificirana verzija) (SL L 376, 27. 12. 2006.),
+
+– Direktiva 2006/116/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o trajanju zaštite autorskog prava i određenih srodnih prava (kodificirana verzija) (SL L 372, 27. 12. 2006.),
+
+– Direktiva 2009/24/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o pravnoj zaštiti računalnih programa (kodificirana verzija) (SL L 111, 5. 5. 2009.),
+
+– Direktiva 2011/77/EU Europskog parlamenta i Vijeća od 27. rujna 2011. o izmjeni Direktive 2006/116/EZ o trajanju zaštite autorskog prava i određenih srodnih prava (SL L 265, 11. 10. 2011.),
+
+– Direktiva 2012/28/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o određenim dozvoljenim korištenjima djela siročadi (SL L 299, 27. 10. 2012.).«.
+
+#### Članak 2.
+
+U članku 4. stavku 2. iza riječi: »iznimkama i ograničenjima autorskog prava,« dodaju se riječi: »djelima siročadi i pažljivoj potrazi,«.
+
+#### Članak 3.
+
+Iza članka 12. dodaju se naslovi iznad članaka i članci 12.a i 12.b koji glase:
+
+### »DJELA SIROČAD
+
+#### Članak 12.a
+
+(1) Ako nakon provedbe potrage i evidencije iz članka 12.b ovoga Zakona nije identificiran autor ili nijedan od koautora nekog djela ili, čak i ako je identificiran autor ili jedan ili više koautora nekog djela, ali nijedan od njih nije pronađen, to se djelo smatra djelom siročetom.
+
+(2) Ako nakon provedbe i evidencije potrage iz članka 12.b ovoga Zakona nisu identificirani svi koautori nekog djela ili, čak i ako su identificirani, nisu pronađeni, na njih će se primjenjivati članak 84.a ovoga Zakona, ali samo ako su svi identificirani i pronađeni koautori dali dopuštenje za reproduciranje i stavljanje na raspolaganje javnosti tog djela na način koji je opisan u članku 84.a ovoga Zakona. Prava koautora koji su identificirani i pronađeni ostaju netaknuta.
+
+(3) Stavci 1. i 2. ovoga članka primjenjuju se na:
+
+– djela izdana u obliku knjiga, časopisa, novina, revija ili drugih tiskovina koja čine sastavni dio zbirki u javno dostupnim knjižnicama, obrazovnim ustanovama ili muzejima i drugim pravnim osobama koje obavljaju muzejsku djelatnost, kao i zbirki arhiva ili ustanova za filmsku i audiobaštinu;
+
+– kinematografska ili druga audiovizualna djela koja čine sastavni dio zbirki u javno dostupnim knjižnicama, obrazovnim ustanovama ili muzejima i drugim pravnim osobama koje obavljaju muzejsku djelatnost, kao i zbirki arhiva ili ustanova za filmsku ili audio baštinu i
+
+– kinematografska ili druga audiovizualna djela koje su proizvele (producirale) javne organizacije za radiodifuziju do zaključno 31. prosinca 2002. i koja se nalaze u njihovim arhivima;
+
+koja su zaštićena autorskim pravom i prvi put izdana u Republici Hrvatskoj ili, ako nisu izdana, prvi put emitirana u Republici Hrvatskoj.
+
+(4) Stavci 1. i 2. ovoga članka primjenjuju se i na djela iz stavka 3. ovoga članka koja nikada nisu bila izdana ili emitirana, ali su ih na drugi način uz pristanak autora prvi put javno objavile javno dostupne knjižnice, obrazovne ustanove ili muzeji i druge pravne osobe koje obavljaju muzejsku djelatnost, kao i arhivi, ustanove za filmsku i audiobaštinu te javne organizacije za radiodifuziju osnovane u Republici Hrvatskoj, pod uvjetom da se opravdano može predmnijevati da se autori tih djela ne bi protivili korištenjima opisanim u članku 84.a ovoga Zakona.
+
+(5) Stavci 1. i 2. ovoga članka primjenjuju se i na djela koja su ugrađena ili uključena u djela ili čine sastavni dio djela iz stavaka 3. i 4. ovoga članka.
+
+(6) Autor ili koautor djela koje se prema stavcima 1. do 5. ovoga članka smatra djelom siročetom može u bilo kojem trenutku prekinuti primjenu navedenih odredbi u odnosu na vlastita prava.
+
+(7) Djelo koje se prema pravu druge države članice Europske unije smatra djelom siročetom, smatra se djelom siročetom i u Republici Hrvatskoj, bez potrebe provedbe postupka potrage iz članka 12.b ovoga Zakona, te se na njega primjenjuju odredbe iz članka 84.a ovoga Zakona. Isto se na odgovarajući način primjenjuje i na koautorska djela u odnosu na koja je u drugoj državi članici Europske unije utvrđeno da im pripada status djela siročadi jer nisu identificirani ili pronađeni svi koautori, ali samo u odnosu na njihov koautorski dio.
+
+(8) Članak 12. ovoga Zakona kojim se uređuju presumpcija autorstva i ostvarivanje autorskog prava kad autor nije poznat (uključujući autorska prava na anonimnim djelima i djelima objavljenim pod pseudonimom) primjenjuje se u mjeri u kojoj nije u suprotnosti s ovim člankom.
+
+### PAŽLJIVA POTRAGA ZA UTVRĐIVANJE STATUSA DJELA SIROČADI I EVIDENCIJA PODATAKA
+
+#### Članak 12.b
+
+(1) Javno dostupne knjižnice, obrazovne ustanove ili muzeji i druge pravne osobe koje obavljaju muzejsku djelatnost kao i arhivi, ustanove za filmsku i audiobaštinu te javne organizacije za radiodifuziju osnovane u Republici Hrvatskoj dužne su u svrhu identifikacije i/ili pronalaženja autora ili koautora, odnosno u svrhu utvrđenja statusa djela siročeta u dobroj vjeri provesti pažljivu potragu za svako djelo. Pažljiva potraga provodi se prije uporabe djela, pretragom odgovarajućih izvora za odnosnu kategoriju djela. Ako postoje dokazi na temelju kojih se može zaključiti da se relevantni podaci o nositeljima prava mogu pronaći u drugim državama, pretražit će se i izvori podataka dostupni u tim državama.
+
+(2) Odgovarajući izvori iz stavka 1. ovoga članka su:
+
+1. za objavljene knjige:
+
+a. zbirke obaveznih primjeraka, osobito nacionalne bibliografije, knjižnični katalozi, biografski priručnici, normativne i bibliografske baze podataka knjižnica i ostalih ustanova,
+
+b. baze podataka i dokumentacija udruženja nakladnika te udruženja autora u Republici Hrvatskoj,
+
+c. postojeće baze podataka i registri, WATCH (Writers, Artists and their Copyright Holders), ISBN (International Standard Book Number) i baze podataka o knjigama u tisku,
+
+d. baze podataka i dokumentacija odgovarajućih udruga za kolektivno ostvarivanje prava, posebno za ostvarivanje prava reproduciranja,
+
+e. izvori koji objedinjuju više baza podataka i upisnika, uključujući VIAF (Virtual International Authority Files) i ARROW (Accesible Registers of Rights Information and Orphan Works);
+
+2. za novine, časopise, dnevne listove i periodične publikacije:
+
+a. ISSN (International Standard Serial Number) za periodične publikacije,
+
+b. kazala i kataloge iz knjižnica i zbirki,
+
+c. zbirke obveznih primjeraka, osobito nacionalne i specijalne bibliografije,
+
+d. baze podataka i dokumentacija udruženja nakladnika te udruženja autora i novinara u Republici Hrvatskoj,
+
+e. baze podataka i dokumentacija odgovarajućih udruga za kolektivno ostvarivanje prava, posebno za ostvarivanje prava reproduciranja,
+
+f. biografski priručnici;
+
+3. za vizualna djela, uključujući likovna djela, fotografije, ilustracije, nacrte, arhitekturu, skice kasnijih djela i druga slična djela koja se nalaze u knjigama, časopisima, novinama, dnevnim listovima te u drugim djelima:
+
+a. izvori navedeni pod točkama 1. i 2. ovoga stavka,
+
+b. baze podataka i dokumentacija odgovarajućih udruga za kolektivno ostvarivanje prava, posebno za vizualne umjetnosti, uključujući i udruge za ostvarivanje prava reproduciranja,
+
+c. prema potrebi, baze podataka agencija za arhiviranje slika;
+
+4. za audiovizualna djela, umjetničke izvedbe, fonograme i videograme:
+
+a. zbirke obveznih primjeraka,
+
+b. baze podataka i dokumentacija udruženja producenata u Republici Hrvatskoj,
+
+c. baze podataka i dokumentacija institucija za filmsku i audiobaštinu te nacionalnih knjižnica,
+
+d. baze podataka s relevantnim normama i oznakama kao što su ISAN (International Standard Audiovisual Number) za audiovizualnu građu, ISWC (International standard Music Work Code) za glazbena djela i ISRC (International Standard Recording Code) za fonograme,
+
+e. baze podataka i dokumentacija odgovarajućih udruga za kolektivno ostvarivanje prava, posebno za autore, izvođače, proizvođače fonograma i proizvođače videograma (filmske producente),
+
+f. popisi suradnika i drugi podaci koji se pojavljuju na omotu djela ili predmeta srodnog prava,
+
+g. baze podataka i dokumentacija drugih udruženja koje predstavljaju određenu kategoriju nositelja prava.
+
+(3) Pažljiva potraga provest će se ako je djelo prvi put izdano ili, ako nije izdano, prvi put emitirano u Republici Hrvatskoj. Za kinematografska i druga audiovizualna djela pažljiva potraga provest će se ako filmski producent ima u Republici Hrvatskoj svoje sjedište ili uobičajeno boravište. Za djela iz članka 12.a stavka 3. podstavka 3. ovoga Zakona pažljiva potraga provest će se ako organizacija za radiodifuziju koja ih je objavila javnosti uz odobrenje autora ili drugog nositelja prava ima svoje sjedište u Republici Hrvatskoj.
+
+(4) Institucije iz stavka 1. ovoga članka dužne su voditi evidenciju o provedenim pažljivim potragama. Podatke iz tih evidencija dostavljat će Državnom zavodu za intelektualno vlasništvo koji je dužan bez odgode proslijediti ih Uredu za harmonizaciju na unutarnjem tržištu radi njihove pohrane u jedinstvenu javno dostupnu bazu podataka koju na internetu uspostavlja i kojom upravlja taj Ured u skladu s Uredbom (EU) broj 386/2012 Europskog parlamenta i Vijeća od 19. travnja 2012. o povjeravanju Uredu za usklađivanje na unutarnjem tržištu (žigovi i dizajni) zadaća u vezi s provedbom prava intelektualnog vlasništva, uključujući i okupljanje predstavnika javnog i privatnog sektora u okviru Europske promatračnice za povrede prava intelektualnog vlasništva.
+
+(5) Evidencije iz stavka 4. ovoga članka obuhvaćaju najmanje sljedeće podatke:
+
+a. rezultate pažljivih potraga koje su te institucije provele i na temelju kojih su izvele zaključak da se djela ili predmeti srodnih prava smatraju djelima odnosno predmetima srodnih prava siročadi,
+
+b. korištenje djela ili predmeta srodnih prava siročadi koje u skladu s člankom 84.a ovoga Zakona poduzimaju te institucije,
+
+c. sve promjene o prestanku statusa djela siročadi odnosno predmeta srodnog prava siročadi koje koriste te institucije,
+
+d. važeće kontakt podatke institucije.«.
+
+#### Članak 4.
+
+Članak 84. mijenja se i glasi:
+
+»Javni arhivi, javne knjižnice, muzeji i druge pravne osobe koje obavljaju muzejsku djelatnost, obrazovne i znanstvene ustanove, ustanove za predškolski odgoj i socijalne (karitativne) ustanove mogu iz vlastitog primjerka reproducirati autorsko djelo na bilo koju podlogu za potrebe očuvanja i osiguranja građe, tehničke obnove i popravljanja građe, upravljanja zbirkom i ostale vlastite potrebe, ako pri tome ne ostvaruju izravnu ili neizravnu komercijalnu korist.«.
+
+#### Članak 5.
+
+Iza članka 84. dodaje se naslov iznad članka i članak 84.a koji glasi:
+
+### »SLOBODNO KORIŠTENJE DJELA SIROČADI
+
+#### Članak 84.a
+
+(1) Javno dostupne knjižnice, obrazovne ustanove ili muzeji i druge pravne osobe koje obavljaju muzejsku djelatnost, kao i arhivi, ustanove za filmsku i audiobaštinu te javne organizacije za radiodifuziju osnovane u Republici Hrvatskoj mogu reproducirati djela siročad koja su sadržana u njihovim zbirkama u svrhu digitalizacije, stavljanja na raspolaganje javnosti, indeksiranja, katalogiziranja, očuvanja ili obnove te ih mogu stavljati na raspolaganje javnosti. Radnje reproduciranja i stavljanja na raspolaganje javnosti navedene institucije mogu poduzimati samo radi postizanja ciljeva vezanih uz njihove zadaće od javnog interesa, posebno radi očuvanja i obnavljanja djela siročadi koja čine sastavni dio njihovih zbirki te osiguravanja njihove dostupnosti za kulturne i obrazovne potrebe. Institucije mogu od takvih korištenja ostvarivati prihode, isključivo u svrhu pokrivanja svojih troškova u svezi s digitalizacijom i stavljanjem na raspolaganje javnosti djela siročadi. Navedeno ne utječe na pravo institucija na slobodu ugovaranja u okviru provedbe svojih zadaća od javnog interesa, posebno u pogledu sklapanja sporazuma o javno-privatnom partnerstvu.
+
+(2) Prigodom svakog korištenje djela siročadi institucije iz stavka 1. ovoga članka dužne su na uobičajen način navesti autora odnosno koautore tih djela koji su identificirani.
+
+(3) Autor ili koautor koji ukine status djela siročeta u skladu s člankom 12.a stavkom 6. ovoga Zakona ima pravo na pravičnu naknadu za dotadašnje korištenje svojeg djela prema stavku 1. ovoga članka. Naknadu je dužna isplatiti institucija iz stavka 1. ovoga članka koja je koristila djelo. Visina naknade određuje se s obzirom na kategoriju djela siročadi, uzimajući u obzir, među ostalim, ciljeve Republike Hrvatske u području promicanja kulture, nekomercijalnu narav korištenja koje poduzima institucija iz stavka 1. ovoga članka i kojim se ostvaruju ciljevi vezani uz njihove zadaće od javnog interesa kao što su promicanje učenja i širenje kulture, te moguću štetu koju su pretrpjeli autori. Pravična naknada isplaćuje se za najviše tri godine unatrag, računajući od dana ukidanja statusa djela siročeta.
+
+(4) Zahtjev za isplatom pravične naknade može postaviti autor ili odgovarajuća udruga za kolektivno ostvarivanje prava koju je autor ovlastio na podnošenje takvog zahtjeva. Zahtjev za isplatom pravične naknade zastarijeva u roku od godine dana, računajući od dana ukidanja statusa djela siročeta.
+
+(5) Odredbe iz ovoga članka ne utječu na obveze i prava stečena drugim propisima o drugim pravima intelektualnog vlasništva, o uvjetnom pristupu, o pristupu uslugama kabelskog reemitiranja, o zaštiti nacionalnih bogatstava, o obvezi deponiranja, o zaštiti poštenog trgovanja, o poslovnoj tajni, o sigurnosti, o povjerljivosti, o zaštiti podataka i privatnosti, o pristupu javnim dokumentima, o ugovornom pravu te o slobodi tiska i slobodi izražavanja u medijima.«.
+
+#### Članak 6.
+
+(1) Ovaj Zakon primjenjuje se na sva djela, umjetničke izvedbe, fonograme i videograme koji su zaštićeni Zakonom o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03., 79/07., 80/11., 125/11. i 141/13.) na dan 29. listopada 2014. ili kasnije.
+
+(2) Ovaj Zakon primjenjuje se ne dovodeći u pitanje pravne poslove sklopljene ili prava stečena prije 29. listopada 2014.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/112
+
+Zagreb, 24. listopada 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

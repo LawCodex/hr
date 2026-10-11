@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2002-07-03
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/02"
-amendments: []
+last_amended: 2015-10-30
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/02, 119/15"
+amendments:
+  - "NN 119/2015 (2249) Uredba o izmjenama Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Gruž"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1274"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž
 
 > Izvor: Narodne novine, NN 79/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1274).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -157,3 +161,86 @@ Zagreb, 27. lip­nja 2002.
 
 Predsjednik  
 Ivica Račan, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Gruž (NN 119/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/119/2249*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 118. stavka 3. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 100/04, 141/06, 38/09 i 123/11), Vlada Republike Hrvatske je na sjednici održanoj 29. listopada 2015. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O ODREĐIVANJU GRANICE POMORSKOG DOBRA NA DIJELU k.o. GRUŽ**
+
+### Članak 1.
+
+U Uredbi o određivanju granice pomorskog dobra na dijelu k.o. Gruž (»Narodne novine«, broj 6/99), članak 2. mijenja se i glasi:
+
+»Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+
+Y X  
+TOČKA 1 6 505 447.600 4 723 715.500  
+TOČKA 2 6 505 452.600 4 723 728.400  
+TOČKA 3 6 505 429.600 4 723 736.800  
+TOČKA 4 6 505 432.600 4 723 743.100  
+TOČKA 5 6 505 426.900 4 723 746.200  
+TOČKA 6 6 505 415.700 4 723 753.400  
+TOČKA 7 6 505 396.800 4 723 795.400  
+TOČKA 8 6 505 399.078 4 723 796.100  
+TOČKA 9 6 505 396.002 4 723 803.095  
+TOČKA 10 6 505 393.900 4 723 803.900  
+TOČKA 11 6 505 381.700 4 723 807.300  
+TOČKA 12 6 505 373.100 4 723 809.300  
+TOČKA 13 6 505 369.800 4 723 810.300  
+TOČKA 14 6 505 332.400 4 723 829.700  
+TOČKA 15 6 505 320.000 4 723 836.300  
+TOČKA 16 6 505 299.900 4 723 842.700  
+TOČKA 17 6 505 264.500 4 723 857.100  
+TOČKA 18 6 505 242.400 4 723 864.000  
+TOČKA 19 6 505 231.100 4 723 867.300  
+TOČKA 20 6 505 222.300 4 723 871.500  
+TOČKA 21 6 505 215.700 4 723 875.600  
+TOČKA 22 6 505 208.100 4 723 879.500  
+TOČKA 23 6 505 205.000 4 723 881.600  
+TOČKA 24 6 505 191.800 4 723 890.800  
+TOČKA 25 6 505 174.300 4 723 903.700  
+TOČKA 26 6 505 174.700 4 723 904.600  
+TOČKA 27 6 505 160.200 4 723 914.900  
+TOČKA 28 6 505 152.900 4 723 920.600  
+TOČKA 29 6 505 149.441 4 723 922.705  
+TOČKA 30 6 505 146.688 4 723 923.018  
+TOČKA 31 6 505 138.665 4 723 933.054  
+TOČKA 32 6 505 134.977 4 723 938.360  
+TOČKA 33 6 505 132.420 4 723 943.027  
+TOČKA 34 6 505 128.650 4 723 950.480  
+TOČKA 35 6 505 126.847 4 723 955.148  
+TOČKA 36 6 505 125.275 4 723 959.215  
+TOČKA 37 6 505 114.091 4 723 982.309  
+TOČKA 38 6 505 083.100 4 723 965.200
+
+a sve kako je nacrtano i označeno u grafičkoj podlozi – geodetskoj situaciji s uklopljenom snimkom stvarnog stanja i čestica stare izmjere, u mjerilu 1:500.«.
+
+### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»Grafička podloga iz članka 2. ove Uredbe, sastavni je dio ove Uredbe i ne objavljuje se u »Narodnim novinama«.«
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-03/111
+
+Urbroj: 50301-05/18-15-2
+
+Zagreb, 29. listopada 2015.
+
+Predsjednik  
+Zoran Milanović, v. r.

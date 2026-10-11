@@ -1,0 +1,1932 @@
+---
+title: "Zakon o zaštiti tržišnog natjecanja"
+identifier: "NN 79/2009 (1877)"
+eli: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1877"
+type: act
+jurisdiction: hr
+language: hr
+date: 2009-07-08
+last_amended: 2013-06-28
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/09, 80/13"
+amendments:
+  - "NN 80/2013 (1671) Zakon o izmjenama i dopunama Zakona o zaštiti tržišnog natjecanja"
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1877"
+retrieved: 2026-10-12
+---
+
+# Zakon o zaštiti tržišnog natjecanja
+
+> Izvor: Narodne novine, NN 79/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1877).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 80/2013.
+>
+> Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O ZAŠTITI TRŽIŠNOG NATJECANJA
+
+Proglašavam Zakon o zaštiti tržišnog natjecanja, kojega je Hrvatski sabor donio na sjednici 24. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/115
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 30. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O ZAŠTITI TRŽIŠNOG NATJECANJA**
+
+## I. OPĆE ODREDBE
+
+*Predmet Zakona*
+
+### Članak 1.
+
+Ovim se Zakonom uređuju pravila i sustav mjera za zaštitu tržišnog natjecanja, ovlasti i zadaće te ustrojstvo tijela za zaštitu tržišnog natjecanja i postupanje u vezi s provedbom ovoga Zakona.
+
+*Primjena Zakona*
+
+### Članak 2.
+
+Ovaj se Zakon primjenjuje na sve oblike sprječavanja, ograničavanja ili narušavanja tržišnog natjecanja (u daljnjem tekstu: narušavanje tržišnog natjecanja) od strane poduzetnika, na teritoriju Republike Hrvatske ili izvan teritorija Republike Hrvatske, ako imaju učinak na Republiku Hrvatsku.
+
+*Pojam poduzetnika*
+
+### Članak 3.
+
+(1) Poduzetnicima, u smislu ovoga Zakona, smatraju se trgovačka društva, trgovci pojedinci, obrtnici i druge pravne i fizičke osobe koje obavljajući gospodarsku djelatnost sudjeluju u proizvodnji i/ili prometu robe, odnosno pružanju usluga, državna tijela i jedinice lokalne i područne (regionalne) samouprave, kada izravno ili neizravno djeluju na tržištu, kao i sve druge pravne ili fizičke osobe (udruge, sportske organizacije, ustanove, vlasnici autorskih i sličnih prava i ostali) koje djeluju na tržištu.
+
+(2) Pravni oblik, način financiranja i namjera ili činjenica ostvarivanja dobiti, sjedište ili prebivalište u Republici Hrvatskoj ili inozemstvu, kao i činjenica obavlja li se djelatnost na tržištu izravno ili neizravno, trajno, povremeno ili jednokratno, nije od utjecaja na određivanje pojma poduzetnika iz stavka 1. ovoga članka.
+
+(3) Ovaj se Zakon primjenjuje i na poduzetnike kojima je na temelju posebnih propisa povjereno obavljanje usluga od općeg gospodarskog interesa, poduzetnike koji su po svojoj prirodi monopoli koji ostvaruju prihod ili kojima je, na temelju dodijeljenih posebnih ili isključivih prava, povjereno obavljanje određene djelatnosti, i to samo u slučajevima ako primjena ovoga Zakona ne bi sprječavala, pravno i činjenično, obavljanje zadaća koje su im posebnim propisima i mjerama utvrđene i zbog kojih su te osobe osnovane.
+
+*Poduzetnik pod kontrolom drugog poduzetnika*
+
+### Članak 4.
+
+(1) Poduzetnikom pod kontrolom drugog poduzetnika smatra se poduzetnik u kojem drugi poduzetnik izravno ili neizravno:
+
+1. ima više od polovine udjela ili dionica ili
+
+2. može ostvarivati više od polovine glasačkih prava ili
+
+3. ima pravo na postavljanje više od polovine članova uprave, ili nadzornog odbora ili odgovarajućeg tijela za upravljanje te vođenje poslova ili
+
+4. na drugi način ima pravo na upravljanje poslovanjem poduzetnika.
+
+(2) Poduzetnici iz stavka 1. ovoga članka smatraju se jednim gospodarskim subjektom.
+
+*Pravni odnosi i poduzetnici na koje se ovaj Zakon ne primjenjuje*
+
+### Članak 5.
+
+Ovaj se Zakon ne primjenjuje na odnose između poslodavaca i radnika te na odnose koji su uređeni kolektivnim ugovorima između poslodavaca i sindikata.
+
+*Nadležnost tijela za provedbu ovoga Zakona*
+
+### Članak 6.
+
+Za provedbu ovoga Zakona nadležna je Agencija za zaštitu tržišnog natjecanja (u daljnjem tekstu: Agencija).
+
+*Mjerodavno tržište*
+
+### Članak 7.
+
+(1) U smislu ovoga Zakona, mjerodavno tržište određuje se kao tržište određene robe i/ili usluga koje su predmet obavljanja djelatnosti poduzetnika na određenom zemljopisnom području.
+
+(2) Mjerodavno tržište u proizvodnom smislu obuhvaća sve robe i/ili usluge za koje potrošači smatraju da su međusobno zamjenjive s obzirom na njihove bitne značajke, cijenu ili način uporabe.
+
+(3) Mjerodavno tržište u zemljopisnom smislu obuhvaća zemljopisno područje na kojem poduzetnici sudjeluju u ponudi ili nabavi robe i/ili usluga.
+
+(4) Vlada Republike Hrvatske će na prijedlog Agencije utvrditi kriterije i način određivanja mjerodavnog tržišta.
+
+## II. SPORAZUMI PODUZETNIKA
+
+*Zabranjeni sporazumi*
+
+### Članak 8.
+
+(1) Zabranjeni su svi sporazumi između dva ili više neovisnih poduzetnika, odluke udruženja poduzetnika i usklađeno djelovanje, koje kao cilj ili posljedicu imaju narušavanje tržišnog natjecanja na mjerodavnom tržištu, a osobito oni kojima se:
+
+1. izravno ili neizravno utvrđuju kupovne ili prodajne cijene, odnosno drugi trgovinski uvjeti,
+
+2. ograničava ili nadzire proizvodnja, tržište, tehnološki razvoj ili ulaganje,
+
+3. dijele tržišta ili izvori nabave,
+
+4. primjenjuju nejednaki uvjeti na istovrsne poslove s različitim poduzetnicima, čime ih se dovodi u nepovoljniji položaj u odnosu na konkurenciju,
+
+5. uvjetuje sklapanje ugovora prihvaćanjem od drugih ugovornih strana dodatnih obveza, koje po svojoj prirodi ili običajima u trgovini nisu u vezi s predmetom tih ugovora.
+
+(2) Sporazumima u smislu stavka 1. ovoga članka smatraju se osobito ugovori, pojedine odredbe ugovora, usmeni ili pisani dogovori među poduzetnicima te usklađena praksa koja je posljedica takvih dogovora, odluke poduzetnika ili udruženja poduzetnika, opći uvjeti poslovanja i drugi akti poduzetnika koji jesu ili mogu biti sastavni dio ugovora i slično, neovisno o tome jesu li takvi sporazumi sklopljeni između poduzetnika koji djeluju na istoj razini proizvodnje, odnosno distribucije (horizontalni sporazumi) ili između poduzetnika koji ne djeluju na istoj razini proizvodnje, odnosno distribucije (vertikalni sporazumi).
+
+(3) Iznimno od stavka 1. ovoga članka, određeni sporazumi neće se smatrati zabranjenim sporazumima, odnosno izuzet će se od opće zabrane ako kumulativno, za vrijeme njihova trajanja, ispunjavaju sljedeće uvjete i to:
+
+1. pridonose unapređenju proizvodnje ili distribucije robe i/ili usluga ili promicanju tehnološkog ili gospodarskog razvoja,
+
+2. pružaju potrošačima razmjernu korist,
+
+3. poduzetnicima ne nameću ograničenja koja nisu neophodna za postizanje navedenih ciljeva i
+
+4. poduzetnicima ne omogućuju isključivanje znatnog dijela konkurencije s tržišta, za robe i/ili usluge koje su predmetom sporazuma.
+
+(4) Sporazumi kojima se narušava tržišno natjecanje u smislu stavka 1. ovoga članka, a koji ne ispunjavaju uvjete iz stavka 3. ovoga članka, ili na koje se ne odnosi članak 10. ovoga Zakona, su ex lege ništetni.
+
+(5) Teret dokaza o postojanju uvjeta iz stavka 3. ovoga članka snose poduzetnici sudionici sporazuma.
+
+*Rješenje o utvrđivanju zabranjenog sporazuma*
+
+### Članak 9.
+
+Agencija na temelju odredbe članka 8. stavka 1. i 4. ovoga Zakona rješenjem:
+
+1. utvrđuje postojanje zabranjenog sporazuma, sudionike tog sporazuma, vrstu sporazuma, robe i/ili usluge na koje sporazum ima ili može imati učinak, zemljopisno područje na kojem sporazum ima učinak, trajanje sporazuma, cilj sporazuma i način provođenja sporazuma,
+
+2. određuje mjere, uvjete i rokove za otklanjanje štetnih učinaka zabranjenog sporazuma,
+
+3. izriče upravno-kaznenu mjeru sukladno odredbama ovoga Zakona.
+
+*Skupno izuzeće*
+
+### Članak 10.
+
+(1) Propisima o skupnom izuzeću utvrđuju se uvjeti koje pojedini sporazumi moraju ispuniti kako bi bili izuzeti od opće zabrane iz članka 8. stavka 1. ovoga Zakona.
+
+(2) Vlada Republike Hrvatske će na prijedlog Agencije propisati uvjete za skupna izuzeća, a osobito za:
+
+1. vertikalne sporazume kojima se smatraju sporazumi između poduzetnika koji ne djeluju na istoj razini proizvodnje, odnosno distribucije, a osobito sporazumi o isključivoj distribuciji, selektivnoj distribuciji, isključivoj kupnji i franchisingu,
+
+2. horizontalne sporazume kojima se smatraju sporazumi između poduzetnika koji djeluju na istoj razini proizvodnje, odnosno distribucije, a osobito sporazumi o istraživanju i razvoju te o specijalizaciji,
+
+3. sporazume o prijenosu tehnologije,
+
+4. sporazume o distribuciji i servisiranju motornih vozila,
+
+5. sporazume o osiguranju, te
+
+6. sporazume u sektoru prometa.
+
+(3) Propisima iz stavka 1. ovoga članka određuju se osobito:
+
+1. uvjeti koje sporazumi moraju sadržavati te
+
+2. ograničenja ili uvjeti koje takvi sporazumi ne smiju sadržavati.
+
+(4) Agencija može pokrenuti postupak za ocjenu pojedinog sporazuma koji ispunjava uvjete za skupno izuzeće kada učinci tog sporazuma, samostalno ili kumulativno sa sličnim sporazumima na mjerodavnom tržištu, ne ispunjavaju uvjete iz članka 8. stavka 3. ovoga Zakona. Ako se u postupku ocjene pojedinog sporazuma utvrdi da sporazum ima učinke koji su u suprotnosti s uvjetima propisanim člankom 8. stavkom 3. ovoga Zakona, Agencija će rješenjem ukinuti skupno izuzeće za taj sporazum.
+
+*Sporazumi male vrijednosti*
+
+### Članak 11.
+
+(1) Odredbe o zabranjenim sporazumima iz članka 8. stavka 1. ovoga Zakona ne primjenjuju se na sporazume male vrijednosti.
+
+(2) Sporazumom male vrijednosti iz stavka 1. ovoga članka smatra se sporazum u kojem je zajednički tržišni udio sudionika sporazuma i poduzetnika pod njihovom kontrolom neznatan, pod uvjetom da ne sadrži odredbe koje se smatraju teškim ograničenjima tržišnog natjecanja, a koje unatoč neznatnom tržišnom udjelu sudionika sporazuma dovode do narušavanja tržišnog natjecanja.
+
+(3) Vlada Republike Hrvatske će na prijedlog Agencije utvrditi uvjete kojima sporazumi male vrijednosti moraju udovoljavati te ograničenja ili odredbe koje ne smiju sadržavati.
+
+(4) Agencija će pokrenuti postupak za ocjenu pojedinog sporazuma koji udovoljava uvjetima propisanim propisom iz stavka 3. ovoga članka ako učinci tog sporazuma i drugih sporazuma na mjerodavnom tržištu značajno narušavaju tržišno natjecanje.
+
+## III. VLADAJUĆI POLOŽAJ I OGRANIČAVAJUĆA DJELOVANJA
+
+*Vladajući položaj*
+
+### Članak 12.
+
+(1) Pretpostavlja se da je poduzetnik u vladajućem položaju ako se zbog svoje tržišne snage može ponašati na mjerodavnom tržištu u značajnoj mjeri neovisno o svojim stvarnim ili mogućim konkurentima, potrošačima, kupcima ili dobavljačima, a osobito ako:
+
+1. nema značajnih konkurenata na mjerodavnom tržištu, i/ili
+
+2. ima značajnu tržišnu snagu na mjerodavnom tržištu u odnosu na stvarne ili moguće konkurente, a osobito s obzirom na:
+
+– tržišni udjel i položaj te vrijeme kroz koje ga ostvaruje,i/ili
+
+– financijsku snagu, i/ili
+
+– prednosti u pristupu izvorima nabave ili tržištu, i/ili
+
+– povezanost s drugim poduzetnicima, i/ili
+
+– pravne ili činjenične zapreke pristupa drugih poduzetnika tržištu, i/ili
+
+– sposobnost nametanja tržišnih uvjeta s obzirom na njegovu ponudu ili potražnju, i/ili
+
+– sposobnost isključivanja konkurenata s tržišta usmjeravanjem na druge poduzetnike.
+
+(2) U smislu ovoga Zakona poduzetnik čiji tržišni udjel na mjerodavnom tržištu iznosi više od 40 posto može biti u vladajućem položaju.
+
+(3) Dva ili više pravno neovisna poduzetnika mogu biti u zajedničkom vladajućem položaju ako u odnosu na svoje konkurente i/ili dobavljače i/ili potrošače, na određenom tržištu nastupaju ili djeluju zajednički.
+
+*Zlouporabe vladajućeg položaja*
+
+### Članak 13.
+
+Zabranjena je svaka zlouporaba vladajućeg položaja jednog ili više poduzetnika na mjerodavnom tržištu, a osobito:
+
+1. izravno ili neizravno nametanje nepravednih kupovnih ili prodajnih cijena, odnosno drugih nepravednih trgovinskih uvjeta,
+
+2. ograničavanje proizvodnje, tržišta ili tehnološkog razvitka na štetu potrošača,
+
+3. primjena nejednakih uvjeta na istovrsne poslove s drugim poduzetnicima, čime ih se dovodi u nepovoljniji položaj u odnosu na konkurenciju,
+
+4. uvjetovanje sklapanja ugovora pristankom drugih ugovornih strana na dodatne obveze, koje po svojoj prirodi ili običajima u trgovini nisu u izravnoj vezi s predmetom tih ugovora.
+
+*Rješenje o utvrđivanju zlouporabe vladajućeg položaja*
+
+### Članak 14.
+
+(1) Agencija na temelju odredba članka 12. i 13. ovoga Zakona rješenjem o zlouporabi vladajućeg položaja:
+
+1. utvrđuje postojanje vladajućeg položaja i postupanje poduzetnika kojim se taj položaj zlorabi, odnosno narušava tržišno natjecanje te trajanje takvoga postupanja,
+
+2. zabranjuje svako daljnje postupanje poduzetnika iz točke 1. ovoga članka,
+
+3. određuje mjere, uvjete i rokove za otklanjanje štetnih učinaka takvoga postupanja,
+
+4. izriče upravno-kaznenu mjeru sukladno odredbama ovoga Zakona.
+
+(2) Agencija može kao mjeru iz stavka 1. točke 3. ovoga članka odrediti i mjeru praćenja poslovanja i/ili strukturnu mjeru. Strukturna mjera može se odrediti samo u slučaju ako ne postoji jednako učinkovita mjera praćenja poslovanja, ili ako je ta mjera veće opterećenje za poduzetnika od strukturne mjere.
+
+## IV. KONCENTRACIJE PODUZETNIKA
+
+*Pojam koncentracije*
+
+### Članak 15.
+
+(1) Koncentracija poduzetnika nastaje promjenom kontrole nad poduzetnikom na trajnoj osnovi koja se stječe:
+
+1. pripajanjem ili spajanjem dva ili više neovisnih poduzetnika ili dijelova tih poduzetnika,
+
+2. stjecanjem izravne ili neizravne kontrole ili prevladavajućeg utjecaja jednog, odnosno više poduzetnika nad drugim, odnosno više drugih poduzetnika ili dijelom, odnosno dijelovima drugih poduzetnika i to:
+
+– stjecanjem većine dionica ili udjela, ili
+
+– stjecanjem većine prava glasa, ili
+
+– na drugi način u skladu s odredbama Zakona o trgovačkim društvima i drugim propisima.
+
+(2) Stjecanje kontrole u smislu stavka 1. ovoga članka ostvaruje se prijenosom prava, ugovora ili drugih sredstava kojima jedan ili više poduzetnika, bilo pojedinačno, bilo zajednički, uzimajući u obzir sve pravne i činjenične okolnosti, stječe mogućnost ostvarivanja prevladavajućeg utjecaja nad jednim ili više poduzetnika na trajnijoj osnovi.
+
+(3) Stvaranje zajedničkog pothvata (joint venture) od strane dva ili više neovisnih poduzetnika, koji na trajnijoj osnovi djeluje kao neovisan gospodarski subjekt, smatrat će se koncentracijom u smislu stavka 1. ovoga članka.
+
+(4) Vlada Republike Hrvatske će na prijedlog Agencije utvrditi način prijave i kriterije za ocjenu koncentracije.
+
+(5) Koncentracijom poduzetnika u smislu odredbi stavka 1. do 3. ovoga članka ne smatra se:
+
+1. kada kreditne ili druge financijske institucije, investicijski fondovi ili društva za osiguranje, u svojem redovnom poslovanju, koje uključuje promet i posredovanje vrijednosnim papirima, za vlastiti račun ili račun trećih, privremeno, ali ne dulje od 12 mjeseci, stječu ili drže dionice ili udjele s namjerom njihove daljnje prodaje i to, ako ne koriste pravo glasa s obzirom na te dionice ili udjele na takav način da to utječe na konkurentno ponašanje tog poduzetnika. Na zahtjev, Agencija može produljiti rok od 12 mjeseci ako poduzetnik dokaže da se takva prodaja nije mogla provesti u zadanom roku,
+
+2. stjecanje dionica ili udjela koje je posljedica internog restrukturiranja poduzetnika povezanih zajedničkom kontrolom (pripajanje, spajanje, prijenos vlasništva i sl.),
+
+3. kada je kontrola nad poduzetnikom prenesena na stečajnog upravitelja ili likvidatora sukladno odredbama Stečajnog zakona i Zakona o trgovačkim društvima.
+
+(6) Stvaranje zajedničkog pothvata (joint venture) od strane dva ili više neovisnih poduzetnika, koji na trajnijoj osnovi djeluje kao neovisan gospodarski subjekt, ako je cilj ili učinak takvog zajedničkog pothvata značajno ograničavanje tržišnog natjecanja putem usklađenih postupanja na tržištu između navedenih, međusobno neovisnih poduzetnika, neće se smatrati koncentracijom, već sporazumom u smislu članka 8. ovoga Zakona.
+
+*Zabranjena koncentracija*
+
+### Članak 16.
+
+Zabranjena je koncentracija poduzetnika koja može značajno narušiti tržišno natjecanje, a osobito ako je takvo narušavanje tržišnog natjecanja posljedica jačanja postojećeg ili stvaranja novog vladajućeg položaja sudionika koncentracije.
+
+*Obveza prijave namjere provedbe koncentracije*
+
+### Članak 17.
+
+(1) Radi ocjene dopuštenosti koncentracije, u smislu ovoga Zakona, sudionici koncentracije obvezni su Agenciji prijaviti svaku namjeru provedbe koncentracije ako su kumulativno ostvareni sljedeći uvjeti:
+
+1. ukupan godišnji konsolidirani prihod svih poduzetnika sudionika koncentracije ostvaren prodajom robe i/ili usluga (u daljnjem tekstu: ukupan prihod) na svjetskom tržištu, iznosi najmanje jednu milijardu kuna sukladno financijskim izvješćima za financijsku godinu koja je prethodila koncentraciji, ako najmanje jedan sudionik koncentracije ima sjedište i/ili podružnicu u Republici Hrvatskoj, i
+
+2. ukupan prihod svakog od najmanje dva sudionika koncentracije, u Republici Hrvatskoj, sukladno financijskim izvještajima iznosi najmanje 100.000.000 kuna, u financijskoj godini koja je prethodila koncentraciji.
+
+(2) Ako do podnošenja prijave koncentracije sudionici koncentracije nemaju zaključena godišnja financijska izvješća, kao mjerodavna godina u postupku ocjene koncentracije smatrat će se posljednja godina za koju sudionici koncentracije imaju zaključena godišnja financijska izvješća.
+
+(3) Prihod ostvaren prodajom robe odnosno pružanjem usluga između društava unutar koncerna (prihod unutar grupe) ne uzima se u obzir prilikom izračunavanja ukupnog godišnjeg prihoda iz stavka 1. ovoga članka.
+
+(4) U slučaju kad se koncentracija iz članka 15. stavka 1. ovoga Zakona odnosi na pripajanje ili spajanje dijela ili dijelova jednog ili više poduzetnika, neovisno o njihovom pravnom statusu, pri izračunu prihoda u smislu stavka 1. ovoga članka, obračunava se samo prihod onih dijelova poduzetnika koji su predmet koncentracije.
+
+(5) Dvije ili više transakcija u smislu stavka 4. ovoga članka koje su provedene u razdoblju od dvije godine, smatrat će se jednom koncentracijom, provedenom na dan posljednje transakcije.
+
+(6) Agencija ocjenjuje dopuštenost samo onih koncentracija koje podliježu obvezi prijave namjere provedbe koncentracije iz stavka 1. ovoga članka.
+
+*Ukupni prihod kreditnih i drugih financijskih institucija*
+
+### Članak 18.
+
+(1) Pri ocjeni dopuštenosti koncentracije, koja uključuje kreditne i druge financijske institucije, uključujući i društva za osiguranje i društva za reosiguranje kao sudionike koncentracije, ukupni prihod iz članka 17. ovoga Zakona, utvrđuje se za te poduzetnike prema ukupnom prihodu iz njihovoga redovnog poslovanja u financijskoj godini koja prethodi koncentraciji.
+
+(2) Za kreditne i druge institucije koje pružaju financijske usluge, ukupan prihod iz stavka 1. ovoga članka utvrđuje se po odbitku neizravnih poreza vezanih uz te usluge, uzimajući u obzir zbroj sljedećih stavki prihoda:
+
+1. prihod od kamata i drugi slični prihod,
+
+2. prihod od vrijednosnih papira:
+
+– prihod od udjela i ostalih vrijednosnih papira s promjenjivim prinosom,
+
+– prihod od sudjelovanja u temeljnom kapitalu gospodarskih subjekata,
+
+– prihod od udjela u povezanim gospodarskim subjektima,
+
+3. potraživanja na temelju provizija,
+
+4. neto dobit od financijskih operacija i
+
+5. drugi poslovni prihodi.
+
+(3) Za društva za osiguranje i društva za reosiguranje, ukupan prihod iz stavka 1. ovoga članka utvrđuje se od vrijednosti bruto premija koja uključuje iznose plaćene i primljene u svezi s ugovorima o osiguranju sklopljenim od ili u ime i za račun društva za osiguranje uključujući i premije za reosiguranje, po odbitku poreza i parafiskalnih doprinosa obračunatih na iznos pojedinačnih premija ili vezanih za ukupan iznos premija.
+
+*Prijava namjere provedbe koncentracije*
+
+### Članak 19.
+
+(1) Svaku namjeru provedbe koncentracije poduzetnika iz članka 15. ovoga Zakona, sudionici koncentracije obvezni su prijaviti Agenciji kada se ispune uvjeti iz članka 17. ovoga Zakona.
+
+(2) U slučaju kada jedan poduzetnik stječe kontrolu ili prevladavajući utjecaj nad cijelim ili dijelom drugog poduzetnika, prijavu namjere koncentracije podnosi poduzetnik koji stječe kontrolu. U svim drugim slučajevima svi sudionici koncentracije kao obveznici podnošenja prijave podnose jednu prijavu, sukladno njihovom zajedničkom dogovoru.
+
+(3) Prijava namjere koncentracije podnosi se Agenciji na ocjenu nakon zaključenja ugovora kojim se stječe kontrola ili prevladavajući utjecaj nad poduzetnikom ili dijelom poduzetnika, odnosno nakon objave javne ponude, a prije provedbe koncentracije.
+
+(4) Iznimno od stavka 3. ovoga članka, sudionici koncentracije mogu i prije zaključenja ugovora, odnosno objave javne ponude podnijeti prethodnu prijavu namjere provedbe koncentracije, ako u dobroj vjeri dokažu stvarnu namjeru zaključenja ugovora ili javno oglase namjeru objave javne ponude.
+
+(5) Provedba prijavljene koncentracije dopuštena je tek po isteku roka iz članka 22. stavka 1. ovoga Zakona, odnosno danom dostave rješenja Agencije kojim se koncentracija ocjenjuje dopuštenom ili uvjetno dopuštenom u smislu članka 22. stavka 7. točke 1. i 2. ovoga Zakona.
+
+(6) Iznimno od stavka 5. ovoga članka, u opravdanim slučajevima, a na zahtjev sudionika koncentracije, Agencija može dopustiti provedbu određenih radnji provedbe prijavljene koncentracije i prije isteka roka, odnosno dostave rješenja iz stavka 5. ovoga članka. Pri ocjeni opravdanosti takvog zahtjeva, Agencija uzima u obzir sve okolnosti slučaja, a osobito prirodu i težinu štete koja bi mogla nastupiti sudionicima koncentracije ili trećim stranama, te učinke na tržišno natjecanje koji bi mogli nastati provedbom koncentracije.
+
+*Sadržaj prijave namjere provedbe koncentracije*
+
+### Članak 20.
+
+(1) Uz prijavu namjere provedbe koncentracije iz članka 19. ovoga Zakona, podnositelj prijave obvezan je dostaviti:
+
+1. izvornik ili ovjereni prijepis izvornika dokumenta iz kojeg je vidljiv pravni temelj koncentracije, odnosno ovjereni prijevod na hrvatski jezik ako dokument nije napisan na hrvatskom jeziku,
+
+2. godišnja financijska izvješća sudionika koncentracije za prethodnu financijsku godinu,
+
+3. ostale dokumente i podatke uređene propisom iz članka 15. stavka 4. ovoga Zakona.
+
+(2) Agencija može, na zahtjev sudionika koncentracije, u opravdanim slučajevima, odlučiti da ne postoji obveza dostave određenih dokumenata i podataka iz stavka 1. točke 3. ovoga članka, ako utvrdi da za ocjenu koncentracije navedeni dokumenti i podaci nisu neophodni.
+
+(3) Podnositelj prijave namjere provedbe koncentracije obvezan je u prijavi navesti ima li obvezu podnijeti zahtjev za ocjenu koncentracije nekom drugom tijelu ovlaštenom za ocjenu koncentracije izvan teritorija Republike Hrvatske, ili je već takav zahtjev podnio te dostaviti odluku toga tijela, ako je ona već donesena.
+
+(4) Iznimno od odredbi stavka 1. ovoga članka, u slučaju kada Agencija u skraćenom postupku ocjenjuje prijavu namjere provedbe koncentracije, obveznik prijave koncentracije dostavlja Agenciji Kratki obrazac prijave koncentracije. Skraćeni postupak ocjene namjere provedbe koncentracije vodi se osobito u slučajevima kada:
+
+1. niti jedan od sudionika koncentracije ne djeluje na istom mjerodavnom tržištu u proizvodnom i zemljopisnom smislu te među njima nema horizontalnog preklapanja, ili kada niti jedan sudionik ne djeluju na tržištu koje je uzlazno ili silazno u odnosu na tržište na kojem djeluje drugi sudionik koncentracije pa među njima nema vertikalne povezanosti,
+
+2. dva ili više sudionika koncentracije djeluju na istom mjerodavnom tržištu u proizvodnom i zemljopisnom smislu, ali njihov zajednički tržišni udjel iznosi manje od 15%, i/ili kad jedan ili više sudionika koncentracije djeluju na mjerodavnom tržištu u proizvodnom smislu koje je uzlazno ili silazno u odnosu na mjerodavno tržište na kojem djeluje bilo koji sudionik koncentracije, ali njihov pojedinačni ili zajednički tržišni udjel niti na jednom tržištu ne iznosi 25% ili više,
+
+3. sudionik koncentracije stječe samostalno kontrolu nad poduzetnikom nad kojim već ima zajedničku kontrolu, ili
+
+4. u slučajevima kada dva ili više poduzetnika stječu kontrolu nad zajedničkim pothvatom (joint venture), koji nema značajnijih aktivnosti u Republici Hrvatskoj, ili kada se takve značajnije aktivnosti ne predviđaju u razumno vrijeme.
+
+(5) Iznimno od stavka 4. ovoga članka, Agencija može od podnositelja prijave namjere provedbe koncentracije zatražiti potpunu prijavu koncentracije u smislu stavka 1. ovoga članka, ako ocijeni da postoje dostatne indicije o negativnim učincima te koncentracije na tržišno natjecanje, i u tom slučaju neće voditi skraćeni postupak njezine ocjene.
+
+(6) Danom primitka potpune prijave koncentracije smatra se dan kada je Agencija primila sve dokumente i podatke iz stavka 1. i 3. ovoga članka, o čemu Agencija daje podnositelju prijave potvrdu. Agencija će podnositelju prijave dati potvrdu i u slučaju iz stavka 2. ovoga članka.
+
+*Postupak ocjene dopuštenosti koncentracije*
+
+### Članak 21.
+
+(1) Agencija će pokrenuti postupak ocjene dopuštenosti koncentracije po zaprimanju potpune prijave iz članka 20. stavka 6. ovoga Zakona.
+
+(2) Prilikom ocjene dopuštenosti koncentracije, Agencija će utvrditi njezine učinke na tržišno natjecanje te moguće zapreke pristupu tržištu, a osobito u slučajevima kada se koncentracijom stvara novi ili jača postojeći vladajući položaj sudionika koncentracije.
+
+(3) Pri ocjeni učinaka koncentracije iz stavka 2. ovoga članka Agencija utvrđuje osobito:
+
+1. strukturu mjerodavnog tržišta, postojeće i moguće buduće konkurente na mjerodavnom tržištu na teritoriju Republike Hrvatske ili izvan njega, strukturu i izbor ponude i potražnje na tržištu te njihove trendove, cijene, rizike, ekonomske, pravne i ostale zapreke pristupu ili izlasku s tržišta,
+
+2. položaj, tržišne udjele te ekonomsku i financijsku snagu poduzetnika na mjerodavnom tržištu, stupanj konkurentnosti sudionika koncentracije, moguće promjene u poslovanju sudionika koncentracije i alternativne izvore nabave za kupce koji nastaju kao posljedica koncentracije,
+
+3. učinke koncentracije na druge poduzetnike ili na potrošače, kao što su kraći putevi distribucije, sniženje troškova transporta ili distribucije, specijalizacija u proizvodnji, tehnološke inovacije, sniženje cijena proizvoda i/ili usluga, kao i druge prednosti koje izravno proizlaze iz provedbe koncentracije.
+
+(4) Agencija je ovlaštena od podnositelja prijave zatražiti svu dokumentaciju koju smatra bitnom za utvrđivanje činjenica iz stavka 3. ovoga članka, na temelju članka 41. ovoga Zakona, a podnositelj prijave, odnosno sudionici koncentracije mogu Agenciji dostaviti i drugu dokumentaciju i podatke koje smatraju bitnim za ocjenu koncentracije, budući da je teret dokaza o postojanju pozitivnih učinaka koncentracije na sudionicima koncentracije.
+
+(5) Po zaprimanju potpune prijave namjere provedbe koncentracije iz članka 20. stavka 6. ovoga Zakona, Agencija sukladno članku 32. točki 1. a) i b) ovoga Zakona, na internetskoj stranici Agencije objavljuje javni poziv svim zainteresiranim osobama, za dostavljanje pisanih primjedaba i mišljenja o koncentraciji, kako bi tako prikupljeni podatci pridonijeli pojašnjenju, odnosno boljem razumijevanju odnosa i stanja na mjerodavnim tržištima.
+
+(6) Javni poziv iz stavka 5. ovoga članka osobito sadrži:
+
+1. naziv djelatnosti koje u Republici Hrvatskoj obavljaju sudionici koncentracije,
+
+2. tržišta u Republici Hrvatskoj na koja će koncentracija imati učinke,
+
+3. poziv svim poduzetnicima koji djeluju na tržištima na kojima će koncentracija imati učinke, kao i poduzetnicima koji djeluju na uzlaznim, silaznim ili susjednim tržištima na kojima bi navedena koncentracija mogla imati učinke, strukovnim udrugama, udrugama poslodavaca, udrugama za zaštitu potrošača, te ostalim osobama koje nisu stranke u postupku, odnosno konkurenti sudionika koncentracije, ali za koje se može razumno pretpostaviti da imaju saznanja o odnosima na navedenim tržištima, na dostavu svojih primjedaba, stavova i mišljenja o mogućim konkretnim značajnim učincima koncentracije na njihovo poslovanje, kao i na moguće značajne učinke te koncentracije na tržišno natjecanje na navedenim tržištima, te
+
+4. rok za dostavu primjedbi, stavova i mišljenja, koji ne može biti kraći od 8 niti dulji od 15 dana.
+
+(7) Ako u tijeku postupka ocjene koncentracije Agencija zaprimi jednu ili više novih prijava namjere provedbe koncentracije u kojoj isti poduzetnik stječe kontrolu ili prevladavajući utjecaj, Agencija može sve prijave smatrati jednom koncentracijom, o tome voditi jedan postupak i donijeti jedno rješenje ako to smatra svrsishodnim i ekonomičnim. Rok za ocjenu koncentracije iz članka 22. stavka 1. i 3. ovoga Zakona u tom slučaju počinje teći od trenutka davanja potvrde o potpunosti prijave posljednje prijavljene namjere koncentracije u smislu članka 20. stavka 6. ovoga Zakona.
+
+*Potvrda o dopuštenosti koncentracije i rješenje o ocjeni koncentracije*
+
+### Članak 22.
+
+(1) Ako Agencija na temelju dokumenata i podataka dostavljenih uz prijavu namjere provedbe koncentracije, u smislu članka 19. ovoga Zakona, odnosno na temelju drugih raspoloživih podataka i saznanja kojima raspolaže ocijeni da se može razumno pretpostaviti da nije riječ o zabranjenoj koncentraciji u smislu odredbe članka 16. ovoga Zakona, te ako u roku od 30 dana od dana zaprimanja potpune prijave koncentracije sukladno odredbi članka 39. ovoga Zakona ne donese zaključak o pokretanju postupka ocjene koncentracije, smatrat će se da je koncentracija dopuštena.
+
+(2) Na pisani zahtjev sudionika koncentracije, u slučaju iz stavka 1. ovoga članka, Agencija daje potvrdu (obavijest) da je koncentracija dopuštena.
+
+(3) Ako Agencija na temelju dokaza dostavljenih uz prijavu namjere koncentracije, u smislu članka 19. ovoga Zakona, odnosno na temelju drugih raspoloživih podataka i saznanja ocijeni da bi provedba koncentracije mogla imati značajan učinak na tržišno natjecanje na mjerodavnom tržištu, a osobito ako se tom koncentracijom stvara novi ili jača postojeći vladajući položaj sudionika koncentracije u smislu članka 16. ovoga Zakona, donijet će u smislu članka 39. ovoga Zakona zaključak o pokretanju postupka ocjene dopuštenosti koncentracije.
+
+(4) Ako tijekom postupka ocjene koncentracije Agencija utvrdi da se koncentracija može dopustiti samo uz ispunjavanje određenih mjera i uvjeta, o tome će bez odgode, sukladno odredbi članka 48. ovoga Zakona, dostaviti obavijest podnositelju prijave, koji je obvezan, u roku ne duljem od mjesec dana od dana primitka obavijesti, predložiti odgovarajuće mjere praćenja poslovanja i/ili strukturne mjere, i uvjete kojima bi se trebali otkloniti negativni učinci predmetne koncentracije.
+
+(5) Mjere i uvjete iz stavka 4. ovoga članka podnositelj prijave može predložiti i ranije, pa i u samoj prijavi namjere koncentracije.
+
+(6) U slučaju iz stavka 4. ovoga članka, Agencija može u cijelosti ili djelomično prihvatiti mjere, uvjete i rokove predložene od sudionika koncentracije, ako utvrdi da su iste dostatne za otklanjanje negativnih učinaka te koncentracije na tržišno natjecanje. Ukoliko Agencija ne prihvati ili samo djelomično prihvati mjere, uvjete i rokove predložene od sudionika koncentracije, ovlaštena je sama odrediti i druge mjere praćenja poslovanja i/ili strukturne mjere te uvjete i rokove za njihovo ispunjenje.
+
+(7) U roku od 3 mjeseca od dana donošenja zaključka o pokretanju postupka iz stavka 3. ovoga članka, Agencija će donijeti rješenje:
+
+1. kojim se koncentracija ocjenjuje dopuštenom,
+
+2. kojim se koncentracija ocjenjuje uvjetno dopuštenom ako se ispune određene mjere i uvjeti u rokovima koje odredi Agencija,
+
+3. kojim se koncentracija ocjenjuje zabranjenom.
+
+(8) U slučaju iz stavka 7. točke 2. ovoga članka, sudionici koncentracije mogu poduzimati radnje radi provedbe koncentracije počevši od dana dostave rješenja kojim Agencija koncentraciju ocjenjuje uvjetno dopuštenom. Ako sudionici koncentracije ne ispune mjere i uvjete u rokovima određenim rješenjem, Agencija će ovisno o utvrđenju razloga neispunjenja, ukinuti ili izmijeniti rješenje o uvjetno dopuštenoj koncentraciji u smislu članka 23. ovoga Zakona.
+
+(9) Rok iz stavka 7. ovoga članka ne teče počevši od dana dostave sudionicima koncentracije obavijesti iz članka 48. ovoga Zakona, do dana dostave Agenciji prijedloga mjera, uvjeta i rokova iz stavka 4. ovoga članka.
+
+*Ukidanje i izmjena rješenja o koncentraciji*
+
+### Članak 23.
+
+(1) Agencija može po službenoj dužnosti ili na zahtjev sudionika koncentracije ukinuti rješenje iz članka 22. ovoga Zakona, u slučajevima:
+
+1. ako je rješenje bilo doneseno na temelju netočnih ili neistinitih podataka koji su bili od odlučujućeg utjecaja za njegovo donošenje, i/ili
+
+2. ako bilo koji od sudionika koncentracije nije ispunio mjere i uvjete u rokovima određenim rješenjem Agencije.
+
+(2) U rješenju iz stavka 1. ovoga članka Agencija će uz odluku o ukidanju rješenja koncentraciju ocijeniti zabranjenom u smislu članka 16. ovoga Zakona, sudionicima koncentracije odrediti mjere, uvjete i rokove za ponovnu uspostavu učinkovitog tržišnog natjecanja, te izreći upravno-kaznenu mjeru sukladno odredbama ovoga Zakona.
+
+(3) Agencija može po službenoj dužnosti ili na zahtjev sudionika koncentracije izmijeniti rješenje iz članka 22. ovoga Zakona kada stranke ne mogu ispuniti neki od uvjeta ili ih ne mogu ispuniti u određenim rokovima, zbog okolnosti koje se nisu mogle predvidjeti niti izbjeći i ne ovise o volji stranke, te u izmijenjenom rješenju odrediti nove mjere, uvjete i rokove za ponovnu uspostavu učinkovitog tržišnog natjecanja.
+
+*Mjere nakon provedbe nedopuštene koncentracije*
+
+### Članak 24.
+
+(1) Agencija po službenoj dužnosti posebnim rješenjem određuje neophodne mjere praćenja poslovanja ili strukturne mjere potrebne za ponovnu uspostavu tržišnog natjecanja na mjerodavnom tržištu, te određuje rokove za njihovo izvršenje u slučajevima kada je:
+
+1. predmetna koncentracija provedena protivno rješenju Agencije kojim se ona ocjenjuje zabranjenom u smislu članka 22. stavka 7. točke 3. ovoga Zakona, ili
+
+2. koncentracija provedena bez podnošenja obvezne prijave namjere koncentracije iz članka 19. ovoga Zakona.
+
+(2) Rješenjem iz stavka 1. ovoga članka, Agencija osobito može:
+
+1. naložiti prodaju ili prijenos stečenih dionica ili poslovnih udjela,
+
+2. zabraniti ili ograničiti ostvarivanje prava glasa vezanog uz dionice ili udjele u poduzetnicima – sudionicima koncentracije i narediti prestanak zajedničkog pothvata (joint venture) ili drugih oblika stjecanja kontrole iz članka 15. ovoga Zakona koji su doveli do nedopuštene koncentracije.
+
+(3) U rješenju iz stavka 1. ovoga članka Agencija izriče i upravno-kaznenu mjeru sukladno odredbama ovoga Zakona.
+
+## V. STRUČNA MIŠLJENJA AGENCIJE
+
+*Davanje stručnih mišljenja*
+
+### Članak 25.
+
+(1) Agencija, na zahtjev Hrvatskoga sabora, Vlade Republike Hrvatske, središnjih tijela državne uprave, pravnih osoba s javnim ovlastima u skladu s posebnim zakonom i tijela jedinica lokalne i područne (regionalne) samouprave daje stručna mišljenja o sukladnosti nacrta prijedloga zakona i drugih propisa s ovim Zakonom te o ostalim pitanjima koja mogu značajno utjecati na tržišno natjecanje.
+
+(2) Agencija može zatražiti od središnjih tijela državne uprave ili drugih državnih tijela dostavljanje na uvid nacrta prijedloga zakona i drugih propisa, radi davanja stručnih mišljenja o njihovoj sukladnosti s ovim Zakonom, ako smatra da mogu značajno utjecati na tržišno natjecanje.
+
+(3) Agencija može tijelima iz stavka 1. ovoga članka davati mišljenja o sukladnosti važećih zakona i drugih propisa s ovim Zakonom, donositi mišljenja kojima se promiče znanje o tržišnom natjecanju, odnosno podiže razina svijesti i informiranosti o ulozi politike i prava tržišnog natjecanja, kao i donositi mišljenja i stručne stavove o rješenjima i razvoju komparativne prakse iz područja prava i politike tržišnog natjecanja.
+
+## VI. AGENCIJA ZA ZAŠTITU TRŽIŠNOG NATJECANJA
+
+*Pravni položaj i ustrojstvo Agencije*
+
+### Članak 26.
+
+(1) Agencija je pravna osoba s javnim ovlastima koja samostalno i neovisno obavlja poslove u okviru djelokruga i nadležnosti određenih ovim Zakonom i Zakonom o državnim potporama, za što odgovara Hrvatskom saboru.
+
+(2) Zabranjen je svaki oblik utjecaja na rad Agencije koji bi mogao ugroziti njezinu samostalnost i neovisnost.
+
+(3) Rad Agencije je javan.
+
+(4) Sjedište Agencije je u Zagrebu.
+
+(5) Unutarnje ustrojstvo i način poslovanja Agencije, opći akti Agencije te druga pitanja značajna za rad Agencije pobliže se uređuju Statutom Agencije, kojega potvrđuje Hrvatski sabor.
+
+(6) Za ostvarivanje prava i obveza iz radnog odnosa, na radnike Agencije i članove Vijeća za zaštitu tržišnog natjecanja primjenjuju se opći propisi o radu.
+
+(7) Sredstva za obavljanje poslova iz djelokruga Agencije osiguravaju se u državnom proračunu Republike Hrvatske.
+
+(8) Upravne pristojbe i upravno-kaznene mjere koje naplaćuje i izriče Agencija, prihod su državnog proračuna Republike Hrvatske.
+
+*Vijeće za zaštitu tržišnog natjecanja*
+
+### Članak 27.
+
+(1) Vijeće za zaštitu tržišnog natjecanja (u daljnjem tekstu: Vijeće) je tijelo koje upravlja radom Agencije, a sastoji se od pet članova, od kojih je jedan predsjednik Vijeća.
+
+(2) Predsjednik Vijeća za zaštitu tržišnog natjecanja zastupa, predstavlja i rukovodi Agencijom.
+
+(3) U rukovođenju Agencijom predsjednik Vijeća organizira i vodi rad i poslovanje Agencije, vodi stručni rad i odgovara za stručni rad Agencije.
+
+(4) Predsjednika i ostale članove Vijeća imenuje i razrješuje dužnosti Hrvatski sabor na prijedlog Vlade Republike Hrvatske.
+
+(5) Zamjenika predsjednika, na prijedlog predsjednika Vijeća, bira Vijeće većinom glasova.
+
+(6) Predsjednik i članovi Vijeća zaposleni su u Agenciji.
+
+*Uvjeti za imenovanje i trajanje mandata*
+
+### Članak 28.
+
+(1) Predsjednikom i članom Vijeća može biti imenovan državljanin Republike Hrvatske koji je završio preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij pravnog ili ekonomskog smjera i stekao odgovarajući naziv u skladu s posebnim zakonom te koji ima deset godina radnog staža u struci.
+
+(2) Uz uvjete iz stavka 1. ovoga članka predsjednik i članovi Vijeća moraju ispunjavati i sljedeće uvjete:
+
+1. za pravnika položen pravosudni ispit,
+
+2. za ekonomista specijalistički ispit ili znanstveni stupanj magistra ili doktora znanosti.
+
+(3) Predsjednik i članovi Vijeća imenuju se na razdoblje od pet godina, te mogu biti ponovno imenovani.
+
+(4) Predsjednik i članovi Vijeća dužnost obnašaju profesionalno.
+
+(5) Predsjednik i članovi Vijeća ne mogu biti državni dužnosnici, osobe koje obnašaju dužnost u tijelima političke stranke niti članovi uprava, nadzornih odbora te upravnih vijeća poduzetnika, ili biti članovi bilo kojih drugih oblika interesnih udruživanja, koji bi mogli dovesti do sukoba interesa.
+
+(6) Predsjednik i članovi Vijeća mogu pisati i objavljivati stručne ili znanstvene radove i sudjelovati u radu stručnih ili znanstvenih skupova i projekata.
+
+(7) Predsjednik i članovi Vijeća su obvezni ponašati se tako da ne umanjuju ugled Agencije, te da ne dovode u pitanje samostalnost i neovisnost Agencije pri donošenju odluka.
+
+*Razrješenje predsjednika i članova Vijeća*
+
+### Članak 29.
+
+(1) Hrvatski sabor može razriješiti dužnosti predsjednika, odnosno člana Vijeća prije isteka mandata, na prijedlog Vlade Republike Hrvatske, ako:
+
+1. to sam zatraži,
+
+2. bude osuđen za kazneno djelo koje ga čini nedostojnim obavljanja dužnosti predsjednika, odnosno člana Vijeća,
+
+3. trajno izgubi sposobnost obavljanja povjerenih mu dužnosti,
+
+4. tijekom mandata preuzme neku od dužnosti iz članka 28. stavka 5. ovoga Zakona,
+
+5. u obnašanju dužnosti povrijedi odredbe članka 28. ovoga Zakona.
+
+(2) O postojanju razloga za razrješenje predsjednika, odnosno člana Vijeća prije isteka mandata Vijeće je obvezno izvijestiti Vladu Republike Hrvatske.
+
+(3) Prije donošenja odluke o razrješenju, predsjedniku, odnosno članu Vijeća mora se omogućiti da se pisano očituje o razlozima razrješenja Hrvatskom saboru.
+
+*Djelokrug Vijeća*
+
+### Članak 30.
+
+U upravljanju radom Agencije, Vijeće osobito:
+
+1. predlaže Vladi Republike Hrvatske donošenje propisa na temelju odredaba ovoga Zakona,
+
+2. donosi odluke na temelju kojih Agencija pokreće i vodi postupak utvrđivanja narušavanja tržišnog natjecanja i postupak utvrđivanja postojanja uvjeta za izricanje upravno-kaznenih mjera zbog povrede ovoga Zakona, okončava postupak i određuje mjere, uvjete i rokove za ponovnu uspostavu učinkovitog tržišnog natjecanja, te izriče upravno-kaznenu mjeru i rokove i način njezina izvršenja,
+
+3. nalaže stručnoj službi provođenje prethodnog ispitivanja stanja na mjerodavnom tržištu,
+
+4. donosi odluku na temelju koje Agencija podnosi zahtjev Upravnom sudu Republike Hrvatske za davanjem naloga za određivanje nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava, dokumenata, isprava i stvari koje se tamo nalaze kao i pečaćenje i privremeno oduzimanje predmeta pretrage iz članka 42. stavka 1. i članka 44. ovoga Zakona,
+
+5. aktivno promiče znanje o tržišnom natjecanju, odnosno podiže razinu svijesti i informiranosti o ulozi politike i prava tržišnog natjecanja,
+
+6. daje mišljenja o sukladnosti nacrta prijedloga zakona i drugih propisa s ovim Zakonom,
+
+7. utvrđuje metodološke osnove za istraživanje tržišnog natjecanja,
+
+8. utvrđuje pravila i mjere za zaštitu tržišnog natjecanja, mjere za otklanjanje narušavanja tržišnog natjecanja i druge mjere za unapređenje prava i politike tržišnog natjecanja na području Republike Hrvatske,
+
+9. daje mišljenja i stručne stavove o rješenjima i razvoju komparativne prakse iz područja prava i politike tržišnog natjecanja,
+
+10. na zahtjev Hrvatskoga sabora, Vlade Republike Hrvatske, središnjih tijela državne uprave, pravnih osoba s javnim ovlastima u skladu s posebnim zakonom te tijela jedinica lokalne i područne (regionalne) samouprave daje stručna mišljenja o pitanjima iz područja prava i politike tržišnog natjecanja,
+
+11. obavlja poslove međunarodne suradnje, vezane uz izvršenje međunarodnih obveza Republike Hrvatske, prenesenih u ovlast Agencije, te uz izvršenje projekata međunarodnih i europskih gospodarskih integracija, odnosno surađuje s inozemnim tijelima ovlaštenima za tržišno natjecanje te međunarodnim organizacijama i institucijama,
+
+12. usvaja godišnje Izvješće o radu koje Agencija jednom godišnje podnosi Hrvatskom saboru za proteklu kalendarsku godinu.
+
+*Način donošenja odluka*
+
+### Članak 31.
+
+(1) Odluke o svim općim i pojedinačnim aktima Vijeće donosi na sjednicama većinom od najmanje tri glasa, a član Vijeća ne može biti suzdržan od glasovanja.
+
+(2) Tri člana Vijeća čine kvorum, a svakoj sjednici Vijeća obvezno prisustvuje predsjednik Vijeća, odnosno u njegovoj odsutnosti njegov zamjenik.
+
+*Stručna služba Agencije*
+
+### Članak 32.
+
+Stručna služba Agencije obavlja upravne i stručne poslove zaštite tržišnog natjecanja, a osobito:
+
+1. vodi prethodno ispitivanje stanja na mjerodavnom tržištu radi utvrđivanja postojanja dostatnih indicija za pokretanje postupka u smislu članka 39. ovoga Zakona te u tu svrhu
+
+a) prikuplja podatke i obavijesti od pravnih ili fizičkih osoba, strukovnih ili gospodarskih interesnih udruga, odnosno komora poduzetnika, udruga potrošača, tijela državne uprave, te tijela jedinice lokalne i područne (regionalne) samouprave koji imaju određena saznanja koja su bitna za ispitivanje tržišta i utvrđivanje stanja na tržištu, neovisno o konkretnim postupcima koje Agencija vodi,
+
+b) prikuplja podatke i obavijesti od pravnih ili fizičkih osoba, strukovnih ili gospodarskih interesnih udruga, odnosno komora poduzetnika, udruga potrošača, tijela državne uprave, te tijela jedinice lokalne i područne (regionalne) samouprave koji imaju određena saznanja koja su bitna za utvrđivanje stanja na pojedinim tržištima, te prije donošenja zaključka o pokretanju postupka u svakom pojedinom slučaju nastoji postići ponovnu uspostavu tržišnog natjecanja na mjerodavnom tržištu, ako je to u javnom interesu, i nije riječ o značajnom narušavanju tržišnog natjecanja,
+
+2. predlaže Vijeću donošenje odluke o pokretanju postupka u smislu članka 39. ovoga Zakona,
+
+3. izvještava Vijeće o činjenicama i okolnostima na temelju kojih Vijeće donosi odluku o podnošenju zahtjeva Agencije Upravnom sudu Republike Hrvatske za davanje naloga za određivanje nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava, dokumenata, isprava i stvari koje se tamo nalaze kao i pečaćenje i privremeno oduzimanje predmeta pretrage iz članka 42. stavka 1. i članka 44. ovoga Zakona,
+
+4. vodi postupak utvrđivanja narušavanja tržišnog natjecanja i postupak izricanja upravno-kaznenih mjera u pojedinačnim predmetima, te nakon što utvrdi sve relevantne činjenice i okolnosti za donošenje odluke izvještava Vijeće koje odlučuje o predmetnom postupku sukladno odredbama ovoga Zakona,
+
+5. izrađuje nacrte odluka kojima se okončava postupak za koji je nadležna Agencija, odnosno kojima se utvrđuju povrede odredaba ovoga Zakona i izriče upravno-kaznena mjera, rokovi i način njezina izvršenja, te određuju mjere, uvjeti i rokovi za ponovnu uspostavu učinkovitog tržišnog natjecanja,
+
+6. izrađuje nacrte mišljenja o sukladnosti nacrta prijedloga zakona i drugih propisa s ovim Zakonom,
+
+7. izrađuje nacrte propisa i drugih akata potrebnih za provedbu ovoga Zakona,
+
+8. izrađuje nacrte dokumenata kojima se aktivno promiče znanje o tržišnom natjecanju, odnosno podiže razinu svijesti i informiranosti o ulozi politike i prava tržišnog natjecanja,
+
+9. prati i analizira uvjete na tržištu s ciljem razvoja tržišnog natjecanja,
+
+10. obavlja poslove međunarodne suradnje, vezane uz izvršenje međunarodnih obveza Republike Hrvatske, prenesenih u ovlast Agencije, te uz izvršenje projekata međunarodnih i europskih gospodarskih integracija, odnosno surađuje s inozemnim tijelima za tržišno natjecanje te međunarodnim organizacijama i institucijama,
+
+11. priprema godišnje izvješće o radu.
+
+*Sukob interesa radnika*
+
+### Članak 33.
+
+(1) Radnici Agencije ne mogu biti članovi uprava ili nadzornih odbora te upravnih vijeća poduzetnika, ili biti u članstvima bilo kojih drugih oblika interesnog udruživanja, koja bi mogla dovesti u sumnju njihovu nepristranost u vođenju postupaka koji su u nadležnosti Agencije.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, dopušteno je članstvo i sudjelovanje u znanstvenim udrugama, asocijacijama i projektima, pod uvjetom da isto ne utječe na nepristranost u vođenju postupaka.
+
+*Izvješće o radu*
+
+### Članak 34.
+
+Agencija jednom godišnje podnosi Hrvatskom saboru Izvješće o radu za proteklu kalendarsku godinu.
+
+## VII. POSTUPAK U NADLEŽNOSTI AGENCIJE
+
+*Primjena odredaba koje uređuju postupak koji je u nadležnosti Agencije*
+
+### Članak 35.
+
+(1) U postupcima koji su u nadležnosti Agencije, ako nije drugačije propisano ovim Zakonom, podredno se primjenjuje Zakon o općem upravnom postupku i Prekršajni zakon.
+
+(2) Radnici stručne službe – diplomirani pravnici s položenim pravosudnim ispitom vode postupke koji su u nadležnosti Agencije iz stavka 1. ovoga članka, a odluke u tim predmetima donosi Vijeće u smislu članka 30. točke 2. ovoga Zakona.
+
+(3) Za vođenje postupka utvrđivanja postojanja uvjeta za izricanje upravno kaznene mjere i izricanja upravno-kaznene mjere iz članka 52. i 60. do 65. ovoga Zakona, obvezan je i radni staž u struci od najmanje 4 godine nakon položenog pravosudnog ispita.
+
+*Stranke u postupku*
+
+### Članak 36.
+
+(1) Položaj stranke u postupku imaju poduzetnici protiv kojih Agencija vodi postupak koji je u njezinoj nadležnosti, te poduzetnici sudionici koncentracija.
+
+(2) Podnositelj inicijative za pokretanje postupka iz članka 37. ovoga Zakona nema položaj stranke u postupku.
+
+(3) Osoba koja smatra da se u postupku koji je u nadležnosti Agencije odlučuje o njezinim pravima ili pravnim interesima, a nema položaj stranke u postupku, može podnijeti pisani zahtjev Agenciji za priznavanje istih postupovnih prava koje ima podnositelj inicijative iz članka 37. ovoga Zakona, ako dokaže postojanje tog interesa.
+
+(4) Agencija će o zahtjevu iz stavka 3. ovoga članka zaključkom odlučiti u roku od 30 dana od dana zaprimanja zahtjeva. Protiv tog zaključka nije dopuštena žalba, ali je tužbom dopušteno pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+*Postupak utvrđivanja povrede odredbi ovoga Zakona*
+
+*Inicijativa za pokretanje postupka*
+
+### Članak 37.
+
+(1) Inicijativu za pokretanje postupka koji je u nadležnosti Agencije, u obliku pisanog zahtjeva, prijedloga, obavijesti, prigovora ili drugog podneska može podnijeti svaka pravna ili fizička osoba, strukovna ili gospodarska interesna udruga, odnosno komora poduzetnika, udruga potrošača, Vlada Republike Hrvatske, središnja tijela državne uprave te tijela jedinice lokalne i područne (regionalne) samouprave.
+
+(2) Inicijativa iz stavka 1. ovoga članka sadrži:
+
+1. naziv i sjedište pravne osobe, odnosno ime i prezime i prebivalište fizičke osobe podnositelja inicijative,
+
+2. podatke pomoću kojih se može nedvojbeno i jasno odrediti protiv koga se podnosi inicijativa,
+
+3. opis činjeničnog stanja, prakse ili okolnosti koje su razlog za podnošenje inicijative,
+
+4. isprave, dokumente i druge dokaze kojima podnositelj inicijative raspolaže, a kojima se potkrepljuju navodi iz točke 3. ovoga stavka.
+
+(3) Ako inicijativa iz stavka 1. ovoga članka sadrži podatke koje podnositelj smatra poslovnom tajnom, obvezan je to naznačiti te navesti pravnu osnovu.
+
+(4) Podnositelj inicijative može pisanim putem zatražiti od Agencije dostavu Obavijesti o preliminarno utvrđenim činjenicama u postupku iz članka 48. ovoga Zakona u skraćenom obliku, i može zatražiti saslušanje u postupku u svojstvu svjedoka. U tom slučaju, Agencija će udovoljiti zahtjevu podnositelja.
+
+(5) Podnositelj inicijative može tražiti od Agencije zaštitu identiteta. Ako ocijeni da za to postoje opravdani razlozi, Agencija će udovoljiti takvom zahtjevu. U tom slučaju, podnositelj inicijative nema pravo na dostavu skraćenog oblika obavijesti iz stavka 4. ovoga članka.
+
+*Pokretanje postupka*
+
+### Članak 38.
+
+(1) Postupak utvrđivanja zabranjenih sporazuma iz članka 8. ovoga Zakona, postupak ocjene sporazuma iz članka 10. stavka 4. i članka 11. stavka 4. ovoga Zakona te postupak utvrđivanja zlouporabe vladajućeg položaja iz članka 14. ovoga Zakona, Agencija pokreće po službenoj dužnosti.
+
+(2) Postupak ocjene dopuštenosti koncentracije Agencija pokreće u pravilu na temelju prijave sudionika koncentracije u smislu članka 19. ovoga Zakona. Agencija može pokrenuti postupak ocjene koncentracija po službenoj dužnosti ako sudionici ne prijave koncentraciju u smislu članka 17. ovoga Zakona, u slučaju ukidanja ili izmjene rješenja o koncentraciji u smislu članka 23. ovoga Zakona, te u slučaju određivanja mjera nakon provedbe nedopuštene koncentracije iz članka 24. ovoga Zakona.
+
+(3) Postupci iz stavka 1. i 2. ovoga članka smatraju se pokrenutim danom donošenja zaključka o pokretanju postupka sukladno članku 39. ovoga Zakona.
+
+(4) Ako ocijeni da se inicijativa iz članka 37. ovoga Zakona odnosi na postupanje koje ima neznatan učinak na tržišno natjecanje na određenom mjerodavnom tržištu, Agencija će donijeti zaključak kojim utvrđuje da ne postoji javni interes za pokretanje postupka i isti dostaviti podnositelju inicijative.
+
+(5) Ako Agencija na temelju inicijative iz članka 37. ovoga Zakona tijekom prethodnog ispitivanja stanja na mjerodavnom tržištu u smislu članka 32. točke 1. a) i b) utvrdi da nema uvjeta za pokretanje postupka u smislu odredaba ovoga Zakona, dužna je nakon utvrđenja stanja na mjerodavnom tržištu, a najkasnije u roku od 10 mjeseci od dana zaprimanja inicijative za pokretanje postupka, o tome donijeti zaključak i isti dostaviti podnositelju inicijative iz članka 37. ovoga Zakona.
+
+(6) Protiv zaključka iz stavka 4. i 5. ovoga članka nije dopuštena žalba ali je dopušteno tužbom pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+(7) Agencija je u zaključku iz stavka 4 i 5. ovoga članka dužna, na nedvojben način navesti razloge zbog kojih nema javnog interesa za pokretanje postupka odnosno nema uvjeta za pokretanje postupka, s time da ne postoji obveza Agencije da ocjenjuje i obrazlaže svaki prijedlog podnositelja inicijative pojedinačno.
+
+*Zaključak o pokretanju postupka*
+
+### Članak 39.
+
+(1) Zaključak o pokretanju postupka na temelju odredbi ovoga Zakona osobito sadrži:
+
+1. oznaku predmeta na koji se zaključak odnosi,
+
+2. odredbe ovoga Zakona, na temelju kojih se pokreće postupak,
+
+3. opis činjeničnog stanja, prakse ili okolnosti koje su razlog za pokretanje postupka,
+
+4. zahtjev za dostavom podataka i dokumentacije u smislu članka 41. ovoga Zakona.
+
+(2) Protiv zaključka o pokretanju postupka iz stavka 1. ovoga članka nije dopuštena žalba niti je tužbom dopušteno pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+### Članak 40.
+
+(1) Primjerak zaključka o pokretanju postupka iz članka 39. ovoga Zakona Agencija dostavlja stranci protiv koje je postupak pokrenut odnosno podnositelju prijave koncentracije, osim podataka koji se smatraju poslovnom tajnom, u smislu članka 53. ovoga Zakona.
+
+(2) Stranka protiv koje je pokrenut postupak dostavlja očitovanje u roku koji odredi Agencija. Taj rok se određuje za svaki slučaj pojedinačno, a ne može biti kraći od 8 ni dulji od 30 dana.
+
+(3) U zadanom roku, stranka protiv koje je pokrenut postupak dužna je dostaviti Agenciji traženo očitovanje, te ostale podatke i dokumentaciju koji se odnose na predmet postupka.
+
+(4) Iznimno od stavka 2. i 3. ovoga članka, stranka protiv koje je pokrenut postupak može iz opravdanih razloga tražiti produljenje roka za dostavu očitovanja. Agencija može odobriti produljenje roka za najdulje 30 dana.
+
+(5) Ako stranka protiv koje je postupak pokrenut ne postupi po zahtjevu i u rokovima koje odredi Agencija, ili ako izjavi da nije u mogućnosti postupiti po zahtjevu, Agencija će činjenice i okolnosti relevantne za postupak utvrditi po službenoj dužnosti, na temelju vlastitih saznanja, raspoloživih podataka i dokumentacije, te će bez odgađanja stranci protiv koje je pokrenut postupak dostaviti Obavijest o preliminarno utvrđenim činjenicama u postupku iz članka 48. ovoga Zakona, a potom zakazati usmenu raspravu.
+
+(6) Ako je postupak pokrenut na temelju inicijative iz članka 37. ovoga Zakona, Agencija podnositelju inicijative ne dostavlja zaključak iz članka 39. ovoga Zakona, već ga o pokretanju postupka obavještava dopisom.
+
+*Prikupljanje podataka*
+
+### Članak 41.
+
+(1) Agencija je ovlaštena pisanim zahtjevom:
+
+1. zahtijevati od stranke u postupku, kao i od drugih pravih ili fizičkih osoba, strukovnih ili gospodarskih interesnih udruga, odnosno komora poduzetnika, udruga potrošača, tijela državne uprave te tijela jedinica lokalne i područne (regionalne) samouprave, sve potrebne obavijesti, u obliku pisanih očitovanja ili usmenih izjava te dostavu na uvid potrebnih podataka i dokumentacije,
+
+2. zahtijevati od stranke u postupku da joj omogući neposredan uvid u sve poslovne prostorije, svu nepokretnu i pokretnu imovinu, poslovne knjige, baze podataka i drugu dokumentaciju,
+
+3. zahtijevati od stranke u postupku obavljanje drugih radnji koje smatra potrebnima radi utvrđenja svih relevantnih činjenica.
+
+(2) Zahtjev iz stavka 1. ovoga članka mora sadržavati pravni temelj, predmet i svrhu zahtjeva, rok za njegovo provođenje, kao i upozorenje da će stranci u postupku i drugim pravnim i fizičkim osobama iz stavka 1. ovoga članka, ako ne postupe po zahtjevu, biti izrečena upravno-kaznena mjera sukladno ovome Zakonu.
+
+(3) Ako stranka u postupku i druge pravne i fizičke osobe iz stavka 1. ovoga članka ne postupe po zahtjevu, Agencija će rješenjem utvrditi povredu ovoga Zakona i izreći upravno-kaznenu mjeru za tu povredu sukladno ovome Zakonu. Protiv toga rješenja nije dopuštena žalba, ali je dopušteno tužbom pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+(4) Kada podaci i dokumentacija iz stavka 1. ovoga članka sadrže poslovnu tajnu, stranka u postupku i druge pravne i fizičke osobe iz stavka 1. ovoga članka obvezne su Agenciji označiti, uz valjano obrazloženje, što se smatra poslovnom tajnom.
+
+(5) U slučaju iz stavka 4. ovoga članka, stranka u postupku i druge pravne i fizičke osobe iz stavka 1. ovoga članka su obvezne Agenciji dostaviti i primjerak poslovne dokumentacije koja ne sadrži poslovne tajne. U slučaju da samo naznače koje podatke smatraju poslovnom tajnom, a ne dostave primjerak dopisa i/ili poslovne dokumentacije bez poslovnih tajni, Agencija će te osobe ponovno pozvati na dostavu dopisa i/ili poslovne dokumentacije bez poslovnih tajni. Ako stranka u postupku ili druga pravna ili fizička osoba iz stavka 1. ovoga članka ne postupe niti po ponovljenom zahtjevu, Agencija će smatrati da takav dopis i/ili poslovna dokumentacija ne sadrži poslovne tajne.
+
+(6) Ako stranka u postupku ili druga pravna ili fizička osoba iz stavka 1. ovoga članka ne dostavi podatke i dokumentaciju iz stavka 1. ovoga članka, Agencija će pri utvrđivanju činjenica ocijeniti značenje propuštanja da se dostave podaci i dokumentacija i sukladno tome utvrditi relevantne činjenice.
+
+*Nenajavljene pretrage poslovnih i drugih prostorija, zemljišta i prijevoznih sredstava, kao i pečaćenje te privremeno oduzimanje predmeta*
+
+### Članak 42.
+
+(1) Prije provođenja nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava, Agencija će od Upravnog suda Republike Hrvatske zatražiti da, prema pravilima koja vrijede za osiguranje dokaza u izvanparničnom postupku, naloži nenajavljenu pretragu poslovnih prostorija, zemljišta i prijevoznih sredstava, dokumenata, isprava i stvari koje se tamo nalaze, kao i pečaćenje te privremeno oduzimanje predmeta, osobito ako postoji opasnost od skrivanja ili uništenja dokaza.
+
+(2) U slučaju kada postoji osnovana sumnja da postoji opasnost uklanjanja ili izmjene dokaza koji se nalaze kod stranaka u postupku, ovlašteni radnici Agencije, samostalno ili uz pomoć ovlaštenih stručnjaka ministarstva nadležnog za unutarnje poslove – Odjela za gospodarski kriminalitet (dalje: ovlaštene osobe) mogu provesti nenajavljenu pretragu iz stavka 1. ovoga članka, o čemu stranku, odnosno posjednika prostorija i stvari izvješćuju na mjestu događaja i u trenutku provedbe nenajavljene pretrage.
+
+(3) Prije provedbe nenajavljene pretrage iz stavka 2. ovoga članka, ovlaštene osobe Agencije dužne su predočiti stranci u postupku ili posjedniku prostorija i stvari službenu iskaznicu i nalog Upravnog suda Republike Hrvatske za provedbu pretrage. Oblik i sadržaj službene iskaznice određen je Pravilnikom o službenoj iskaznici Agencije. Ukoliko u pretrazi sudjeluju i druge ovlaštene osobe iz stavka 2. ovoga članka, stranci u postupku ili posjedniku prostorija iste su dužne predočiti pisano ovlaštenje Agencije za sudjelovanje u pretrazi.
+
+(4) Ovlaštene osobe u slučaju nenajavljene pretrage iz stavka 2. ovoga članka mogu:
+
+1. ući i provesti pretragu svih poslovnih prostorija, zemljišta i prijevoznih sredstava (dalje: prostorije) u sjedištu poduzetnika protiv kojeg se vodi postupak, kao i na svakoj drugoj adresi na kojoj taj poduzetnik djeluje;
+
+2. pregledati poslovne knjige i drugu dokumentaciju koja se odnosi na poslovanje poduzetnika, neovisno o mediju na kojemu su te knjige ili dokumentacija pohranjeni,
+
+3. oduzeti i/ili napraviti preslike poslovnih knjiga i druge dokumentacije ili izvadaka iz poslovnih knjiga i druge dokumentacije, u elektroničkom ili drugom obliku,
+
+4. oduzeti potrebnu dokumentaciju i zadržati je koliko je potrebno za izradu preslike te dokumentacije, ukoliko iz tehničkih razloga nije moguće tijekom pretrage napraviti preslike potrebne dokumentacije, o čemu je ovlaštena osoba dužna sastaviti službenu zabilješku,
+
+5. zapečatiti prostoriju i/ili poslovnu knjigu ili dokumentaciju za vrijeme pretrage i u opsegu neophodnom za provedbu pretrage,
+
+6. zatražiti od zastupnika poduzetnika ili radnika poduzetnika usmeno očitovanje o činjenicama ili dokumentima koji se odnose na cilj i predmet pretrage, te dobivene odgovore zabilježiti,
+
+7. zatražiti od zastupnika poduzetnika ili radnika poduzetnika dostavu pisanog očitovanja o činjenicama ili dokumentima koji se odnose na cilj i predmet pretrage, te odrediti rok u kojem je potrebno dostaviti to očitovanje,
+
+8. obavljati i druge radnje potrebne za postizanje cilja pretrage.
+
+(5) U slučaju privremenog oduzimanja stvari, poslovnih knjiga i druge dokumentacije tijekom nenajavljene pretrage iz stavka 2. ovoga članka, Agencija će o tome sačiniti službenu zabilješku u kojoj će osobito navesti mjesto pronalaska privremeno oduzetih stvari i njihov opis. Ovlaštena osoba Agencije bez odgađanja dužna je stranci u postupku ili posjedniku stvari dati potvrdu o privremenom oduzimanju stvari i druge dokumentacije. Privremeno oduzete stvari, poslovne knjige i dokumentacija zadržat će se do utvrđivanja svih relevantnih činjenica i okolnosti koje te stvari i dokumentacija sadrže, a najdulje do dana donošenja rješenja kojim se okončava postupak u Agenciji.
+
+### Članak 43.
+
+Ukoliko poduzetnik odbija dopustiti ulaz ovlaštenim osobama u poslovne prostorije, odnosno ukoliko sprječava uvid u poslovne knjige i drugu dokumentaciju, ili na bilo koji drugi način otežava provedbu nenajavljene pretrage, ovlaštene osobe mogu, uz pomoć djelatnika ministarstva nadležnog za unutarnje poslove, i protiv volje poduzetnika ući u poslovne prostorije i izvršiti uvid u poslovne knjige i drugu dokumentaciju.
+
+### Članak 44.
+
+(1) Ukoliko postoji osnovana sumnja da se poslovne knjige i/ili druga dokumentacija koja se odnosi na postupak koji se vodi u Agenciji nalazi u prostorijama poduzetnika protiv kojeg nije pokrenut postupak, ili u stanu ili drugoj prostoriji koja ima istu, sličnu ili povezanu namjenu članova Uprave i radnika poduzetnika protiv kojeg je pokrenut postupak ili drugih osoba, nenajavljenoj pretrazi tih prostorija obvezno moraju nazočiti i dvije punoljetne osobe kao svjedoci.
+
+(2) Na nenajavljenu pretragu iz stavka 1. ovoga članka na odgovarajući način se primjenjuju odredbe članka 42.,43., 45. i 46. ovoga Zakona.
+
+### Članak 45.
+
+(1) Prilikom provedbe nenajavljene pretrage, iz dokumentacije koja se pretražuje izuzet će se pisma, obavijesti i drugi oblici komunikacije između poduzetnika protiv kojeg se vodi postupak i njegovih opunomoćenika, koji se smatraju povjerljivim informacijama.
+
+(2) Ukoliko poduzetnik ili njegov opunomoćenik odbijaju dati na uvid dokumentaciju pozivajući se na povjerljivost informacija iz stavka 1. ovoga članka, ovlaštena osoba Agencije ima pravo uvida u naznačenu dokumentaciju. U slučaju da ovlaštena osoba Agencije smatra da nije riječ o povjerljivim informacijama iz stavka 1. ovoga članka, dužna je tu dokumentaciju ili njezinu presliku staviti u posebnu omotnicu koja će se, pred poduzetnikom i njegovim opunomoćenikom ako je nazočan, zatvoriti, naznačiti datum i staviti službeni pečat Agencije, a koju će potpisati sve stranke i opunomoćenici.
+
+(3) U slučaju iz stavka 2. ovoga članka, na odgovarajući način primjenjivat će se odredbe Zakona o općem upravnom postupku o rješavanju prethodnog pitanja.
+
+### Članak 46.
+
+(1) Nakon provedene nenajavljene pretrage iz članaka 42. i 44. ovoga Zakona, a najkasnije u roku od 15 dana, ovlaštena osoba sastavit će zapisnik o pretrazi.
+
+(2) Zapisnik iz stavka 1. ovoga članka sadrži osobito:
+
+1. mjesto i datum sastavljanja zapisnika,
+
+2. klasu predmeta i pravni temelj za provedbu nenajavljene pretrage,
+
+3. mjesto i vrijeme provedbe nenajavljene pretrage,
+
+4. osobna imena ovlaštenih osoba koje su sudjelovale u pretrazi, nazočnih stranaka u postupku i njihovih opunomoćenika i trećih osoba,
+
+5. opis tijeka i sadržaja svake provedene radnje tijekom nenajavljene pretrage i danih izjava,
+
+6. popis dokumenata i ostalih predmeta korištenih i/ili privremeno oduzetih tijekom nenajavljene pretrage.
+
+(3) Zapisnik iz stavka 1. ovoga članka dostavit će se strankama u postupku kao i osobama kod kojih je provedena nenajavljena pretraga.
+
+(4) Stranke u postupku, kao i osobe kod kojih je provedena nenajavljena pretraga imaju pravo dostaviti svoje primjedbe na zapisnik iz stavka 1. ovoga članka, u pisanom obliku, u roku od 15 dana od dana primitka zapisnika.
+
+*Pravo uvida u spis*
+
+### Članak 47.
+
+(1) Stranke u postupku imaju pravo tražiti uvid u spis predmeta po zaprimanju Obavijesti o preliminarno utvrđenim činjenicama u postupku iz članka 48. ovoga Zakona. Agencija će na trošak stranke načiniti presliku spisa ili pojedinih isprava.
+
+(2) Zahtjev za uvid u spis, iz stavka 1. ovoga članka, podnosi se Agenciji pisanim putem.
+
+(3) Agencija će odrediti termin za uvid u spis najkasnije u roku od 15 dana od dana zaprimanja zahtjeva iz stavka 2. ovoga članka.
+
+(4) Iznimno od odredaba stavka 1. i 2. ovoga članka, ne mogu se razgledati niti prepisivati nacrti rješenja Agencije, službeni referati te zapisnici ili tonski zapisi sa sjednica Vijeća, interne upute i zabilješke o predmetu, sva prijepiska između Agencije i Europske komisije, kao i prijepiska između Agencije i tijela za zaštitu tržišnog natjecanja drugih država i njihovih udruženja, te druge isprave koje se smatraju poslovnom tajnom u smislu članka 53. ovoga Zakona.
+
+(5) Podnositelj inicijative po zaprimanju zaključka da ne postoji javni interes za pokretanje postupka iz članka 38. stavka 4. ovoga Zakona ili da nema uvjeta za pokretanje postupka iz članka 38. stavka 5. ovoga Zakona, odnosno po zaprimanju rješenja Agencije kojim se utvrđuje da nije narušeno tržišno natjecanja u smislu odredaba ovoga Zakona (članak 58. stavak 1. točka 12.) ima pravo uvida u dokumentaciju na kojoj se temelji zaključak, odnosno rješenje Agencije. U tom slučaju, odredbe stavaka 2., 3. i 4. ovoga članka odnose se i na pravo podnositelja inicijative za uvidom u spis.
+
+(6) Iznimno od stavka 5. ovoga članka, osobe iz članka 36. stavka 2. i 3. ovoga Zakona nemaju pravo uvida u spis predmeta za vrijeme trajanja postupka, ali imaju pravo na dostavu Obavijesti o preliminarno utvrđenim činjenicama u postupku iz članka 48. ovoga Zakona u skraćenom obliku, ako to pisanim putem zatraže od Agencije.
+
+(7) Protiv zaključka kojom se odbija zahtjev za uvid u spis ili dio spisa, nije dopuštena žalba niti je dopušteno pokretanje upravnog spora.
+
+*Obavijest o preliminarno utvrđenim činjenicama u postupku*
+
+### Članak 48.
+
+(1) Kako bi strankama u postupku iz članka 36. stavka 1. ovoga Zakona osigurala mogućnost da se izjasne o svim relevantnim činjenicama i okolnostima, Agencija će im prije zakazivanja usmene rasprave dostaviti pisanu Obavijest o preliminarno utvrđenim činjenicama u postupku.
+
+(2) Stranke u postupku imaju pravo dostaviti svoje primjedbe na Obavijest iz stavka 1. ovoga članka, u pisanom obliku, u roku od mjesec dana od dana primitka Obavijesti.
+
+(3) Osim primjedbi iz stavka 2. ovoga članka, stranke u postupku mogu pisanim putem predložiti saslušanje dodatnih svjedoka i izvođenje dodatnih dokaza.
+
+(4) Primjerak Obavijesti iz stavka 1. ovoga članka u skraćenom obliku, koji ne sadrži poslovne tajne, Agencija će na zahtjev dostaviti podnositelju inicijative iz članka 37. stavka 1. ovoga Zakona, s uputom da je ovlašten u roku od mjesec dana od dana primitka Obavijesti, u pisanom obliku dostaviti svoje primjedbe Agenciji.
+
+(5) Primjerak Obavijesti iz stavka 1. ovog članka u skraćenom obliku koja ne sadrži poslovne tajne Agencija će na zahtjev dostaviti i osobi koja smatra da se u postupku za koji je nadležna Agencija odlučuje o njezinim pravima ili pravnim interesima, s uputom da je ovlaštena u roku od mjesec dana od dana primitka Obavijesti, u pisanom obliku dostaviti svoje primjedbe Agenciji.
+
+(6) Ako nakon donošenja Obavijesti iz stavka 1. ovoga članka provede dodatne analize te na taj ili neki drugi način utvrdi nove činjenice ili dokaze kojima se značajno mijenja već utvrđeno činjenično stanje, Agencija može donijeti odluku koja se razlikuje od stajališta utvrđenog u Obavijesti iz stavka 1. ovoga članka. U tom slučaju, Agencija će prije donošenja konačne odluke strankama u postupku dostaviti novu Obavijest u kojoj će navesti sve novo utvrđene činjenice, okolnosti i zaključke. Stranke imaju pravo i na tu Obavijest dostaviti pisane primjedbe i prijedloge u roku koji odredi Agencija. Na odgovarajući način Agencija će postupiti i prema osobama iz stavka 4. i 5. ovoga članka, kojima će dostaviti novu Obavijest u skraćenom obliku.
+
+(7) Agencija ne može temeljiti svoju odluku na činjenicama i okolnostima o kojima stranci u postupku nije dana mogućnost obrane.
+
+*Preuzimanje obveza od strane poduzetnika*
+
+### Članak 49.
+
+(1) Nakon pokretanja postupka sukladno članku 39. ovoga Zakona, a najkasnije prije dostave Obavijesti o preliminarno utvrđenim činjenicama u postupku iz članka 48. ovoga Zakona, stranka u postupku može Agenciji predložiti preuzimanje obveze izvršenja određenih mjera i uvjeta, te rokove u kojima će to učiniti, kako bi se otklonili negativni učinci njezinog postupanja ili propuštanja postupanja na tržišno natjecanje.
+
+(2) Ako ocijeni da su predložene mjere, uvjeti i rokovi iz stavka 1. ovoga članka dostatni za otklanjanje negativnih učinaka i ponovnu uspostavu tržišnog natjecanja, Agencija će rješenjem prihvatiti predložene mjere, uvjete i rokove koji time postaju obveznim za predlagatelja.
+
+(3) Rješenjem iz stavka 2. ovoga članka Agencija određuje rokove u kojima poduzetnik treba izvršiti mjere i uvjete iz stavka 2. ovoga članka, obvezuje poduzetnika na dostavu dokaza kojima potvrđuje izvršenje mjera i uvjeta u zadanom roku, te utvrđuje da nema uvjeta za daljnje vođenje postupka protiv tog poduzetnika.
+
+(4) Agencija može prihvatiti preuzimanje izvršenja određenih mjera i uvjeta iz stavka 1. ovoga članka u slučaju kratkog trajanja povrede, suradnje poduzenika u postupku i predlaganja mjera i uvjeta u prvih šest mjeseci vođenja postupka, a osobito ako je riječ o postupku koji se vodi protiv više stranaka, te u drugim slučajevima kada ocijeni da je prihvaćanje preuzimanja mjera i uvjeta iz stavka 1. ovoga članka svrsishodno radi bržeg uspostavljanja tržišnog natjecanja na određenom tržištu, a bez dugotrajnog vođenja postupka.
+
+(5) Namjeru prihvaćanja preuzimanja izvršenja mjera i uvjeta iz stavka 1. ovoga članka Agencija će objaviti na svojoj internet stranici u obliku skraćenog opisa predmeta i sadržaja mjera i uvjeta, uz poziv svim zainteresiranim stranama za dostavljanje pisanih primjedaba, stavova i mišljenja u roku od 20 dana od dana objave poziva.
+
+(6) Neovisno o odredbi stavka 3. ovoga članka, Agencija može ponovno pokrenuti postupak protiv poduzetnika iz stavka 2. ovoga članka u slučaju:
+
+1. ako je rješenje Agencije doneseno na temelju netočnih ili neistinitih podataka dostavljenih od stranaka, i/ili
+
+2. ako su se značajno promijenile okolnosti na kojima se temeljilo rješenje Agencije.
+
+(7) Ako u nadzoru nad provedbom mjera i uvjeta iz stavka 1. ovoga članka Agencija utvrdi da se poduzetnik ne pridržava utvrđenih mjera, uvjeta i rokova iz stavka 3. ovoga članka, takvo postupanje smatrat će se povredom ovoga Zakona, te će se to utvrditi posebnim rješenjem kojim će se izreći i upravno-kaznena mjera sukladno odredbama ovoga Zakona.
+
+*Usmena rasprava*
+
+### Članak 50.
+
+(1) U postupcima utvrđivanja narušavanja tržišnog natjecanja koje vodi Agencija na temelju ovoga Zakona, u pravilu se održava usmena rasprava s koje je isključena javnost radi zaštite poslovne tajne.
+
+(2) Na usmenu raspravu u svojstvu svjedoka Agencija može pozvati i podnositelja inicijative iz članka 37. ovoga Zakona, a obvezna ga je pozvati ako je pisanim zahtjevom to zatražio od Agencije.
+
+(3) Ako bilo koja od pozvanih stranaka, odnosno njihovih opunomoćenika ne dođe na prvu usmenu raspravu zakazanu u postupku, Agencija može odgoditi usmenu raspravu i zakazati novu.
+
+(4) Ako bilo koja od stranaka u postupku, odnosno njihovih opunomoćenika ne dođe na sljedeću usmenu raspravu, zakazanu na temelju odredbe stavka 3. ovoga članka, Agencija neće zakazivati novu usmenu raspravu, već će provesti raspravu s prisutnim strankama i u postupku odlučiti na temelju vlastitih saznanja, raspoloživih podataka i dokumentacije.
+
+*Privremene mjere*
+
+### Članak 51.
+
+(1) Agencija može pokrenuti postupak protiv određenog poduzetnika i donijeti rješenje o privremenoj mjeri u hitnim slučajevima kada postoji opasnost od značajne i nepopravljive štete za tržišno natjecanje, osobito u slučajevima pojedinih radnji narušavanja tržišnog natjecanja, u smislu ovoga Zakona.
+
+(2) Rješenjem o privremenoj mjeri iz stavka 1. ovoga članka, Agencija nalaže poduzetniku obustavu postupanja, ispunjenje posebnih uvjeta ili druge mjere potrebne za uklanjanje štetnog učinka narušavanja tržišnog natjecanja, trajanje mjera koje u pravilu ne smije biti dulje od šest mjeseci, kao i obavijest o upravno-kaznenoj mjeri koja može biti izrečena sukladno ovome Zakonu u slučaju nepostupanja po rješenju o privremenoj mjeri.
+
+(3) Iznimno od stavka 2. ovoga članka, trajanje mjere Agencija može produljivati ako utvrdi da je to neophodno potrebno.
+
+(4) Protiv rješenja o privremenoj mjeri iz stavka 1. ovoga članka nije dopuštena žalba ali je dopušteno tužbom pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+*Postupak utvrđivanja uvjeta za izricanje upravno-kaznene mjere zbog povrede odredbi ovoga Zakona*
+
+### Članak 52.
+
+(1) Nakon što Vijeće na svojoj sjednici sukladno ovlastima iz članka 30. ovoga Zakona utvrdi da je stranka u postupku narušila tržišno natjecanje, odnosno povrijedila odredbe ovoga Zakona, Agencija će stranci dostaviti Obavijest o utvrđenom činjeničnom stanju u konkretnom predmetu i obavijestiti je o sadržaju odluke Vijeća donesene na temelju utvrđenog činjeničnog stanja.
+
+(2) Agencija će uz Obavijest iz stavka 1. ovoga članka stranci dostaviti i poziv na glavnu raspravu na kojoj će se stranci dati mogućnost za davanje obrane, odnosno izvoditi dokazi radi utvrđivanja postojanja uvjeta za izricanje upravno kaznene mjere, te utvrđivanja olakotnih i otegotnih okolnosti kao kriterija za određivanje visine upravno-kaznene mjere propisane odredbama ovoga Zakona.
+
+(3) Poziv na glavnu raspravu iz stavka 2. ovoga članka osobito sadrži:
+
+1. naziv i sjedište poduzetnika, ime i prezime, te adresu osobe ovlaštene za zastupanje tog poduzetnika i opunomoćenika ukoliko ga poduzetnik ima,
+
+2. činjenični opis postupanja ili propuštanja postupanja kojima je narušeno tržišno natjecanje i odredba ovoga Zakona koje su tim postupanjem ili propuštanjem postupanja povrijeđena,
+
+3. dan i sat održavanja glavne rasprave,
+
+4. oznaku prostorije u sjedištu Agencije u kojoj će se održati glavna rasprava,
+
+5. naznaka svojstva u kojem se poziva,
+
+6. upozorenje da će u slučaju nedolaska po prvom pozivu biti ponovno pozvan, dok u slučaju ponovnog nedolaska može biti određeno njegovo prisilno dovođenje ili će se glavna rasprava održati bez njegove nazočnosti,
+
+7. službeni pečat Agencije i potpis osobe ovlaštene za vođenje postupka izricanja upravno-kaznene mjere.
+
+(4) Obavijest iz stavka 1. ovoga članka sadrži osobito:
+
+1. naziv i sjedište poduzetnika, odnosno ime i prezime, te adresu fizičke osobe koja je narušila tržišno natjecanje,
+
+2. utvrđeno mjerodavno tržište u proizvodnom i zemljopisnom smislu,
+
+3. vrijeme, mjesto, te trajanje povrede ovoga Zakona,
+
+4. detaljan činjenični opis postupanja ili propuštanja postupanja kojima je narušeno tržišno natjecanje i odredbe ovoga Zakona koje su tim postupanjem ili propuštanjem postupanja povrijeđene,
+
+5. članak ovoga Zakona koji propisuje visinu upravno-kaznene mjere za tu povredu,
+
+6. poziv poduzetniku da predloži dodatne dokaze i svjedoke ako ih ima, te
+
+7. poziv poduzetniku da dostavi pisanu obranu te rok za dostavu iste, koji ne može biti kraći od 15 niti dulji od 30 dana.
+
+(5) Po okončanju glavne rasprave iz stavka 2. ovoga članka, Vijeće će sukladno ovlastima iz članka 30. ovoga Zakona odlučiti o postojanju uvjeta za izricanje upravno kaznene mjere, odrediti njezinu visinu, kao i rokove i način njezina izvršenja.
+
+(6) Agencija sukladno odlukama Vijeća kojima je utvrđeno narušavanje tržišnog natjecanja i kojima je utvrđeno postojanje uvjeta za izricanje upravno kaznene mjere i njezina visina, okončava postupak donošenjem jedinstvenog rješenja.
+
+(7) Ukoliko drugačije nije određeno ovim Zakonom, na oblik i sadržaj poziva za glavnu raspravu, tijek glavne rasprave, dovođenje stranaka i trećih osoba na glavnu raspravu i zapisnik o glavnoj raspravi na odgovarajući način primjenjivat će se odredbe Prekršajnog zakona.
+
+*Poslovna tajna*
+
+### Članak 53.
+
+(1) Članovi Vijeća i radnici Agencije dužni su čuvati poslovnu tajnu, bez obzira na način na koji su je doznali, a obveza čuvanja poslovne tajne traje 5 godina nakon prestanka rada u Agenciji.
+
+(2) Pod poslovnom tajnom iz stavka 1. ovoga članka, smatra se osobito:
+
+1. sve ono što je kao poslovna tajna određeno zakonom ili drugim propisom,
+
+2. sve ono što je poslovnom tajnom naznačio poduzetnik, pod uvjetom da Agencija to prihvati,
+
+3. sva prepiska između Agencije i Europske komisije, kao i prepiska između Agencije i tijela za zaštitu tržišnog natjecanja drugih država i njihovih udruženja.
+
+(3) Pod poslovnom tajnom iz stavka 1. ovoga članka smatraju se osobito poslovne informacije koje imaju stvarnu ili potencijalnu tržišnu vrijednost, a čije bi otkrivanje ili uporaba moglo rezultirati ekonomskom prednosti za druge poduzetnike.
+
+(4) Pri ocjeni predstavlja li određena informacija poslovnu tajnu Agencija osobito uzima u obzir:
+
+1. dostupnost tih informacija izvan pojedinog poduzetnika,
+
+2. interne mjere koje sam poduzetnik poduzima radi zaštite tajnosti tih informacija, a osobito klauzule o zabrani nenatjecanja ili o zabrani objavljivanja informacija sadržanih u ugovorima o radu i slično,
+
+3. vrijednost tih informacija za poduzetnika i njegove konkurente.
+
+(5) U smislu odredaba ovoga Zakona, u pravilu se poslovnom tajnom ne smatraju:
+
+1. informacije koje su javno dostupne, uključujući informacije koje se mogu redovito pribaviti od specijaliziranih institucija i servisa, kao i informacije koje su općepoznate stručnjacima unutar određene profesije,
+
+2. povijesne informacije, osobito informacije starije od 5 godina, neovisno o tome jesu li bile smatrane poslovnom tajnom,
+
+3. godišnja financijska i statistička izvješća, odnosno podaci o ukupnom prihodu koji se uobičajeno ne smatraju poslovnom tajnom jer se objavljuju u godišnjim financijskim izvješćima ili su na drugi način dostupni, te
+
+4. podaci i dokumentacija na kojoj se temelji odluka Agencije.
+
+(6) Iznimno od odredaba stavka 1. i 2. ovoga članka, a sukladno odredbi članka 41. stavka 5. ovoga Zakona, u slučaju ako poduzetnik dostavi Agenciji dokumentaciju i podatke koji sadrže poslovnu tajnu, a ne dostavi i primjerak dopisa i/ili poslovne dokumentacije koji ne sadrži tajne podatke niti nakon ponovljenog zahtjeva, Agencija će smatrati da takav dopis i/ili poslovna dokumentacija ne sadrži poslovne tajne.
+
+*Čuvanje spisa i dokumentacije*
+
+### Članak 54.
+
+Spisi i dokumentacija koju Agencija zaprimi od poduzetnika tijekom vođenja postupka ili koju Agencija sama prikupi i obradi za potrebe vođenja postupka, čuvat će se u pismohrani Agencije, sukladno propisima o čuvanju arhivskoga gradiva.
+
+*Izuzeće ovlaštene osobe Agencije*
+
+### Članak 55.
+
+(1) Osoba ovlaštena za vođenje postupka u Agenciji obvezno će se izuzeti od vođenja postupka ako je:
+
+1. stranka, svjedok, odnosno vještak u tom predmetu,
+
+2. sa strankom, zastupnikom ili opunomoćenikom stranke, srodnik u ravnoj lozi do bilo kojeg stupnja, u pobočnoj lozi i po tazbini do drugog stupnja, bračni ili izvanbračni drug, pa i u slučaju kada je brak prestao, i
+
+3. sa strankom, zastupnikom ili opunomoćenikom stranke u odnosu posvojitelja, posvojenika, skrbnika, štićenika, udomitelja ili udomljenika.
+
+(2) Zahtjev za izuzeće osobe iz stavka 1. ovoga članka može podnijeti i stranka u postupku koji se vodi u Agenciji. Zahtjev se podnosi u pisanom obliku.
+
+(3) Odredbe ovoga članka na odgovarajući se način odnose i na članove Vijeća.
+
+### Članak 56.
+
+(1) Osoba ovlaštena za vođenje postupka u Agenciji, može se izuzeti od rada u predmetu ako:
+
+1. je ta osoba ili član njezine uže obitelji imatelj više od 3 posto dionica ili udjela u poduzetniku koji je stranka u postupku,
+
+2. je u svojstvu nezavisnog stručnjaka – eksperta dala iskaze ili pisana mišljenja o pojedinim pitanjima koji su u svezi s predmetom tog postupka,
+
+3. se iz drugih opravdanih razloga ne može očekivati objektivno vođenje postupka i objektivno donošenja odluke u predmetu.
+
+(2) Osobe iz stavka 1. ovoga članka, dužne su bez odgađanja pisanim putem izvijestiti Vijeće o postojanju nekog od razloga navedenih u stavku 1. ovoga članka.
+
+(3) Zahtjev za izuzeće ovlaštene osobe iz stavka 1. ovoga članka može podnijeti i stranka u postupku koji se vodi u Agenciji. Zahtjev se podnosi u pisanom obliku.
+
+(4) Odredbe ovoga članka na odgovarajući se način odnose i na članove Vijeća.
+
+(5) O zahtjevima za izuzeće iz članka 55. i 56. ovoga Zakona odlučuje Vijeće.
+
+*Rokovi za donošenje rješenja*
+
+### Članak 57.
+
+(1) Rješenje o utvrđenju zabranjenog sporazuma iz članka 9. i rješenje o utvrđenju zlouporabe vladajućeg položaja iz članka 14. ovoga Zakona, Agencija donosi u roku od 4 mjeseca od dana kada utvrdi sve činjenice relevantne za donošenje odluke, odnosno najkasnije u roku od 4 mjeseca od dana zaključenja glavne rasprave u postupku izricanja upravno kaznene mjere.
+
+(2) Rješenje o ocjeni koncentracije iz članka 22. stavka 7. ovoga Zakona Agencija donosi u roku od 3 mjeseca od dana donošenja zaključka o pokretanju postupka, u smislu članka 39. ovoga Zakona.
+
+(3) Rješenje o ukidanju primjene skupnog izuzeća iz članka 10. stavka 4. ovoga Zakona, o ocjeni sporazuma male vrijednosti iz članka 11. stavka 4. ovoga Zakona te rješenje o izmjeni rješenja o koncentraciji iz članka 23. stavka 3. ovoga Zakona, Agencija donosi u roku od 4 mjeseca od dana kada utvrdi sve činjenice relevantne za donošenje odluke, odnosno najkasnije u roku od 4 mjeseca od dana zaključenja usmene rasprave.
+
+(4) Rješenje o ukidanju rješenja o koncentraciji iz članka 23. stavka 1. i 2. ovoga Zakona, odnosno rješenje o mjerama nakon provedbe nedopuštene koncentracije iz članka 24. stavka 1. ovoga Zakona, Agencija donosi u roku od 4 mjeseca od dana kada utvrdi sve činjenice relevantne za donošenje odluke, odnosno najkasnije u roku od 4 mjeseca od dana zaključenja glavne rasprave u postupku izricanja upravno-kaznene mjere.
+
+(5) Rješenje o preuzimanju obveza od strane poduzetnika iz članka 49. stavka 3. ovoga Zakona i rješenje kojim utvrđuje da se poduzetnik ne pridržava utvrđenih mjera, uvjeta i rokova iz članka 49. stavka 7. ovoga Zakona, Agencija donosi u roku od 3 mjeseca od dana kada utvrdi sve činjenice relevantne za donošenje rješenja.
+
+(6) Iznimno od stavka 2. ovoga članka, Agencija može produljiti rok za donošenje rješenja o ocjeni koncentracije iz članka 22. stavka 7. ovoga Zakona na rok od 3 mjeseca, u slučajevima kada ocijeni da je za utvrđivanje činjeničnog stanja i ocjenu dokaza potrebno izvršiti dopunska vještačenja ili analize, o čemu je obvezna izvijestiti stranke u postupku prije isteka roka.
+
+*Akti Agencije*
+
+### Članak 58.
+
+(1) U smislu članka 30. ovoga Zakona, Agencija osobito donosi rješenja kojima:
+
+1. utvrđuje zabranjene sporazume, određuje mjere u smislu odredbe članka 9. ovoga Zakona, te izriče upravno-kaznenu mjeru propisanu za povredu tog članka,
+
+2. ukida primjenu skupnog izuzeća za pojedini sporazum u smislu odredbe članka 10. stavka 4. ovoga Zakona,
+
+3. ocjenjuje sporazume male vrijednosti u smislu odredbe članka 11. stavka 4. ovoga Zakona,
+
+4. utvrđuje zlouporabu vladajućeg položaja, određuje mjere u smislu odredbe članka 14. ovoga Zakona, te izriče upravno-kaznenu mjeru propisanu za povredu tog članka,
+
+5. ocjenjuje dopuštenost koncentracije i određuje mjere u smislu odredbe članka 22. ovoga Zakona,
+
+6. posebnim rješenjem ukida rješenje Agencije u smislu odredbe članka 23. stavka 1. i 2. ovoga Zakona, te izriče upravno-kaznenu mjeru propisanu za povredu tog članka,
+
+7. posebnim rješenjem mijenja rješenje Agencije i određuje mjere u smislu odredbe članka 23. stavka 3. ovoga Zakona,
+
+8. određuje posebne mjere za ponovnu uspostavu tržišnog natjecanja kod zabranjenih koncentracija na temelju članka 24. ovoga Zakona, te izriče upravno-kaznenu mjeru propisanu za povredu tog članka,
+
+9. prihvaća mjere i uvjete poduzetnika iz članka 45. stavka 3. ovoga Zakona i određuje rokove provedbe,
+
+10. određuje privremene mjere u smislu odredbe članka 51. ovoga Zakona,
+
+11. utvrđuje da se poduzetnik ne pridržava utvrđenih mjera, uvjeta i rokova iz članka 49. stavka 7. ovoga Zakona,
+
+12. izriče upravno-kaznene mjere sukladno ovome Zakonu,
+
+13. utvrđuje da nije narušeno tržišno natjecanje u smislu odredaba ovoga Zakona.
+
+(2) U smislu članka 30. ovoga Zakona, Agencija osobito donosi zaključke kojima:
+
+1. pokreće postupak sukladno odredbi članka 39. ovoga Zakona,
+
+2. odlučuje o pokretanju jednog postupka protiv dva ili više neovisnih poduzetnika u slučajevima kada se njihova prava i/ili obveze temelje na istom ili sličnom činjeničnom stanju i na istoj pravnoj osnovi,
+
+3. spaja dva ili više prethodno pokrenuta postupka na temelju članka 39. ovoga Zakona, koji se temelje na istom ili sličnom činjeničnom stanju i na istoj pravnoj osnovi u jedinstven postupak,
+
+4. traži od Upravnog suda Republike Hrvatske davanje naloga za određivanje nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava, dokumenata, isprava i stvari koje se tamo nalaze, kao i pečaćenje i privremeno oduzimanje predmeta iz članka 42. stavka 1. i članka 44. ovoga Zakona,
+
+5. utvrđuje nepostojanje uvjeta za pokretanje postupka iz članka 38. ovoga Zakona,
+
+6. u smislu odredbe članka 36. ovoga Zakona, priznaje ili ne priznaje osobama koje nemaju položaj stranke u postupku, postupovna prava koja ima podnositelj inicijative.
+
+*Dostava i objava rješenja i ostalih akata Agencije*
+
+### Članak 59.
+
+(1) Rješenje Agencije dostavlja se strankama u postupku najkasnije u roku od 30 dana od dana isteka roka za donošenje rješenja u smislu članka 57. ovoga Zakona, a ako je postupak pokrenut na temelju inicijative podnositelja, rješenje se u istom roku dostavlja i podnositelju inicijative. Ako rješenje Agencije sadrži podatke koji se smatraju poslovnom tajnom u smislu članka 53. ovoga Zakona, svakoj stranci, kao i podnositelju inicijative, dostavit će se rješenje u kojem obrazloženje ne sadrži tajne podatke.
+
+(2) Izreke rješenja Agencije iz članka 58. stavka 1. točke 1. do 11. ovoga Zakona objavljuju se u »Narodnim novinama«.
+
+(3) Rješenja iz stavka 1. ovoga članka, odluke Upravnog suda Republike Hrvatske povodom tužbi na ta rješenja te ostali akti Agencije objavljivat će se na internet stranici Agencije.
+
+(4) Podaci koji se smatraju poslovnom tajnom, u smislu odredaba članka 53. ovoga Zakona, izuzet će se od objave iz stavka 3. ovoga članka.
+
+## VIII. UPRAVNO-KAZNENE MJERE
+
+*Pojam upravno-kaznene mjere*
+
+### Članak 60.
+
+Upravno-kaznenim mjerama koje Agencija izriče prema ovome Zakonu cilj je osiguravanje učinkovitog tržišnog natjecanja, kažnjavanje počinitelja povreda ovoga Zakona, otklanjanje štetnih posljedica takvih povreda i odvraćanje drugih poduzetnika od kršenja odredaba ovoga Zakona.
+
+*Upravno-kaznene mjere za teške povrede propisa o tržišnom natjecanju*
+
+### Članak 61.
+
+Upravno-kaznenom mjerom u iznosu do najviše 10% vrijednosti ukupnoga prihoda koji je poduzetnik ostvario u posljednjoj godini za koju postoje zaključena godišnja financijska izvješća, kaznit će se poduzetnik koji:
+
+1. sklopi zabranjeni sporazum ili na koji drugi način sudjeluje u sporazumu kojim je narušeno tržišno natjecanje, na način opisan odredbom članka 8. ovoga Zakona,
+
+2. zlouporabi vladajući položaj na način opisan odredbom članka 13. ovoga Zakona,
+
+3. sudjeluje u provedbi zabranjene koncentracije poduzetnika, opisanoj odredbom članka 16. ovoga Zakona,
+
+4. ne postupi po rješenju Agencije kojim se određuju mjere za uspostavu tržišnog natjecanja ili određuju privremene mjere (članak 58. stavak 1. točke 1. do 10.).
+
+*Upravno-kaznene mjere za lakše povrede propisa o tržišnom natjecanju*
+
+### Članak 62.
+
+Upravno-kaznenom mjerom do najviše 1% vrijednosti ukupnoga prihoda koji je poduzetnik ostvario u posljednjoj godini za koju postoje zaključena godišnja financijska izvješća, kaznit će se poduzetnik – stranka u postupku koji:
+
+1. Agenciji ne podnese obveznu prijavu namjere koncentracije (članak 24. stavak 1. točka 2.),
+
+2. Agenciji podnese netočne ili neistinite podatke u postupku ocjene koncentracije (članak 20.),
+
+3. ne postupi po zahtjevu Agencije (članak 41. stavak 1. i 3.),
+
+4. ometa izvršenje naloga Upravnog suda Republike Hrvatske (članci 42. do 46.).
+
+*Upravno-kaznene mjere za ostale povrede propisa o tržišnom natjecanju*
+
+### Članak 63.
+
+Upravno-kaznenom mjerom od 10.000,00 do 100.000,00 kuna kaznit će se poduzetnik koji nema položaj stranke u postupku, a koji ne postupi po zahtjevu Agencije (članak 32. točka 1. a) i b). i članak 41. stavak 1. i 3.).
+
+*Kriteriji za izricanje upravno-kaznene mjere*
+
+### Članak 64.
+
+(1) Najviši iznos upravno-kaznene mjere koja se može izreći na temelju ovoga Zakona, ne može niti u kojem slučaju premašiti iznos od 10% vrijednosti ukupnoga prihoda koji je poduzetnik ostvario u posljednjoj godini za koju postoje zaključena godišnja financijska izvješća u smislu članka 61. ovoga Zakona.
+
+(2) Pri izricanju upravno-kaznene mjere Agencija uzima u obzir sve olakotne i otegotne okolnosti kao što su težina povrede, vrijeme trajanja povrede i posljedice te povrede za druge poduzetnike na tržištu i potrošače. Pri tome se primjenjuje dvostupanjska metodologija izračuna upravno-kaznene mjere na način da se utvrđuje osnovni iznos upravno-kaznene mjere za poduzetnika, a zatim se tako utvrđeni iznos smanjuje ili povećava ovisno o utvrđenim olakotnim i/ili otegotnim okolnostima.
+
+(3) Osnovni iznos upravno-kaznene mjere obračunava se do najviše 30% prihoda koji je poduzetnik ostvario isključivo od obavljanja djelatnosti na utvrđenom mjerodavnom tržištu na kojem je povrijeđen ovaj Zakon, koji se množi s brojem godina trajanja povrede, a nakon toga se smanjuje ili povećava ovisno o utvrđenim olakotnim i/ili otegotnim okolnostima.
+
+(4) Olakotnim okolnostima iz stavka 2. ovoga članka smatraju se osobito:
+
+1. dostava dokaza o prekidu protupravnog postupanja, žurno po saznanju poduzetnika o pokretanju postupka od strane Agencije. Iznimno, u slučaju kartela dostava dokaza o prekidu protupravnog postupanja neće se smatrati olakotnom okolnošću,
+
+2. dostava dokaza o povredi ovoga Zakona kao posljedici nehaja poduzetnika,
+
+3. dostava dokaza da poduzetnik, premda sudionik zabranjenog sporazuma nije primjenjivao taj sporazum, odnosno da je na mjerodavnom tržištu, unatoč postojanju sporazuma, postupao sukladno propisima o zaštiti tržišnog natjecanja,
+
+4. suradnja poduzetnika s Agencijom na način i u opsegu koji prelazi obveze poduzetnika za oslobođenje ili umanjenje upravno-kaznene mjere iz članka 65. ovoga Zakona.
+
+(5) Otegotnim okolnostima iz stavka 2. ovoga članka smatraju se osobito:
+
+1. nastavak protupravnog postupanja poduzetnika ili ponavljanje istog ili sličnog postupanja kojima se krše odredbe ovoga Zakona, nakon dostave rješenja Agencije kojim je utvrđeno da je takvim postupanjem poduzetnik narušio tržišno natjecanje. U tom slučaju, osnovni iznos upravno-kaznene mjere povećava se za 100% za svaki utvrđeni slučaj ponovljene povrede ovoga Zakona,
+
+2. odbijanje suradnje poduzetnika s Agencijom ili ometanje Agencije tijekom provedbe postupka,
+
+3. uloga inicijatora ili poticatelja drugih poduzetnika na povredu ovoga Zakona, odnosno sve radnje tog poduzetnika poduzete u cilju osiguranja sudjelovanja drugih poduzetnika u povredi ovoga Zakona.
+
+(6) Agencija može povećati iznos upravno-kaznene mjere, ukoliko je to potrebno za oduzimanje imovinske koristi koju je poduzetnik ostvario povredom ovoga Zakona, pod uvjetom da je tu korist moguće procijeniti.
+
+(7) Iznimno od odredbe stavka 4. ovoga članka, Agencija može dodatno smanjiti iznos upravno-kaznene mjere poduzetniku koji se nalazi u teškoj financijskoj situaciji i koji je povrijedio odredbe ovoga Zakona, ako on podnese Agenciji relevantne dokaze da bi izricanje upravno-kaznene mjere u iznosu kako je to propisano ovim Zakonom nepovratno ugrozilo njegovu ekonomsku održivost i dovelo do potpunog gubitka vrijednosti njegove imovine.
+
+(8) Agencija može poduzetniku izreći simboličnu upravno-kaznenu mjeru u slučaju iz stavka 7. ovoga članka, kao i u drugim slučajevima u kojima je utvrđeno da narušavanje tržišnog natjecanja nije bilo značajno, odnosno da nije imalo negativan učinak na tržištu. Razloge za takvu odluku Agencija mora posebno obrazložiti.
+
+(9) Vlada Republike Hrvatske će na prijedlog Agencije detaljno razraditi kriterije za izricanje upravno-kaznene mjere iz stavka 2. do 8. ovoga članka, sukladno kriterijima koji proizlaze iz primjene pravila o tržišnom natjecanju u Europskim zajednicama, u smislu članka 74. ovoga Zakona.
+
+*Oslobođenje ili umanjenje upravno-kaznene mjere*
+
+### Članak 65.
+
+(1) U cilju otkrivanja najtežih povreda ovoga Zakona, Agencija može osloboditi od plaćanja upravno-kaznene mjere onog sudionika zabranjenog horizontalnog sporazuma (kartela) koji prvi obavijesti Agenciju o kartelu i dostavi joj podatke, činjenice i dokaze koji joj omogućuju pokretanje postupka, ili prvom sudioniku kartela koji Agenciji dostavi dokaze koji joj omogućuju utvrđivanje povrede ovoga Zakona u slučajevima kad je Agencija već prethodno pokrenula postupak, ali nije imala dovoljno dokaza za njegovo okončanje, odnosno utvrđenje kartela.
+
+(2) Oslobođenje od plaćanja upravno-kaznene mjere iz stavka 1. ovoga članka ne može se primijeniti na poduzetnika koji je bio inicijator ili poticatelj sklapanja kartela.
+
+(3) Upravno-kaznenu mjeru u umanjenom iznosu Agencija može izreći onim sudionicima kartela koji ne ispunjavaju uvjete za oslobođenje od upravno-kaznene mjere iz stavka 1. ovoga članka, ali su Agenciji dostavili dodatne valjane dokaze koji su, uz dokaze koje je Agencija već utvrdila u postupku, bili od odlučujućeg značaja za okončanje postupka utvrđenja kartela.
+
+(4) Vlada Republike Hrvatske će na prijedlog Agencije detaljno razraditi kriterije za oslobođenje od upravno-kaznene mjere ili umanjenje upravno-kaznene mjere iz stavka 1. i 2. ovoga članka, sukladno kriterijima koji proizlaze iz primjene pravila o tržišnom natjecanju u Europskim zajednicama, sukladno odredbi članka 74. ovoga Zakona.
+
+(5) Izricanje upravno-kaznene mjere prema ovome Zakonu nije od utjecaja na kaznenu odgovornost osobe kojoj je ta mjera izrečena sukladno odredbama ovoga Zakona.
+
+## IX. SURADNJA AGENCIJE S DRUGIM TIJELIMA I SUDSKA ZAŠTITA
+
+*Suradnja Agencije s pravosudnim i drugim tijelima*
+
+### Članak 66.
+
+(1) Agencija je dužna surađivati s nadležnim pravosudnim, regulatornim i drugim tijelima u predmetima koji su vezani za narušavanje tržišnog natjecanja na teritoriju Republike Hrvatske.
+
+(2) Na temelju pisanog zahtjeva Agencije, ministarstvo nadležno za unutarnje poslove dužno je pružiti, bez naknade, pomoć pri provedbi nenajavljene pretrage i/ili privremenog oduzimanja predmeta i/ili dokumentacije iz članka 42. do 46. ovoga Zakona.
+
+(3) Na zahtjev Agencije iz članka 41. ovoga Zakona, sva tijela državne uprave te tijela jedinica lokalne i područne (regionalne) samouprave, kao i pravne osobe s javnim ovlastima, obvezni su Agenciji, bez naknade dostaviti sve zahtijevane podatke i dokumentaciju, uključivo podatke i dokumentaciju koji sadrže poslovne tajne, neovisno o posebnim propisima kojima je uređena tajnost tih podataka, a Agencija je s takvim podacima i dokumentacijom dužna postupati sukladno odredbi članka 53. ovoga Zakona.
+
+*Sudska zaštita*
+
+### Članak 67.
+
+(1) Protiv rješenja Agencije kojim se utvrđuje povreda ovoga Zakona i izriču upravno-kaznene mjere, kao i protiv rješenja kojim se prekida postupak zbog rješavanja prethodnog pitanja nije dopuštena žalba, ali se u roku od 30 dana može tužbom pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske koji o tužbi odlučuje u vijeću sastavljenom od tri suca i to zbog:
+
+1. povrede propisa materijalnog prava o tržišnom natjecanju,
+
+2. bitne povrede odredbi o postupku,
+
+3. pogrešno ili nepotpuno utvrđenog činjeničnog stanja,
+
+4. pogrešne odluke o upravno kaznenoj mjeri i drugim pitanjima o kojima odlučuje Agencija.
+
+(2) Protiv zaključaka Agencije donesenih tijekom postupka, nije dopuštena žalba ali se može tužbom pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+(3) Iznimno od stavka 2. ovoga članka, protiv zaključka kojim se pokreće postupak (članak 39.), zaključka kojim Agencija odlučuje o pokretanju jednog postupka protiv dva ili više neovisnih poduzetnika u slučajevima kada se njihova prava i/ili obveze temelje na istom ili sličnom činjeničnom stanju i na istoj pravnoj osnovi, zaključka kojim se odbija zahtjev za uvid u spis ili dio spisa (članak 47.), te zaključka kojim Agencija spaja više novih prijava namjere provedbe koncentracije koje je Agenciji podnio isti poduzetnik tijekom već pokrenutog postupka ocjene koncentracije u jedan postupak (članak 21. stavak 7.) nije dopuštena žalba niti se može tužbom pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske.
+
+(4) Tužba iz stavka 1. ovoga članka zadržava izvršenje rješenja Agencije.
+
+(5) Tužbu protiv rješenja Agencije kojim se utvrđuje povreda ovoga Zakona i izriču upravno-kaznene mjere iz stavka 1. ovoga članka, može podnijeti nezadovoljna stranka u postupku, a tužbu protiv rješenja Agencije kojim se utvrđuje da nije narušeno tržišno natjecanja u smislu odredaba ovoga Zakona može podnijeti i podnositelj inicijative, odnosno osoba kojoj su zaključkom Agencije utvrđena ista postupovna prava kao i podnositelju inicijative (članak 36. stavak 3. i 4.).
+
+### Članak 68.
+
+(1) Vijeće Upravnog suda Republike Hrvatske raspravlja i odlučuje na temelju činjenica koje su iznesene u postupku.
+
+(2) Tužitelj u tužbi ne može iznositi nove činjenice, ali može predložiti nove dokaze u pogledu činjenica koje je iznio u postupku.
+
+(3) Nove činjenice mogu se iznositi samo ako tužitelj dokaže da za odnosne činjenice nije znao niti mogao znati tijekom postupka.
+
+### Članak 69.
+
+(1) Svi sporovi pred Upravnim sudom Republike Hrvatske pokrenuti na temelju odredbi ovoga Zakona su žurni.
+
+(2) O naknadama štete zbog povreda ovoga Zakona odlučuju nadležni trgovački sudovi.
+
+## X. IZVRŠENJE UPRAVNO-KAZNENE MJERE, ZASTARA I TROŠKOVI POSTUPKA
+
+*Postupak izvršenja upravno-kaznene mjere*
+
+### Članak 70.
+
+(1) U rješenju Agencije kojim se zbog povrede ovoga Zakona izriče upravno-kaznena mjera naznačit će se rok i način uplate izrečene upravno-kaznene mjere.
+
+(2) Upravno-kaznene mjere uplaćuju se po konačnosti rješenja Agencije ukoliko nije uložena tužba, odnosno po pravomoćnosti sudske odluke, uračunavajući u iznos upravno-kaznene mjere i zakonske zatezne kamate od dana dostave stranci rješenja Agencije do dana plaćanja. Agencija može, vodeći se kriterijima iz članka 64. ovoga Zakona, odobriti plaćanje upravno-kaznene mjere u obrocima.
+
+(3) Ako poduzetnik u roku ne uplati upravno-kaznene mjere, Agencija će obavijestiti Područni ured Porezne uprave Ministarstva financija na čijem je području prebivalište, odnosno sjedište kažnjene osobe, radi naplate upravno-kaznene mjere prisilnim putem prema propisima o prisilnoj naplati poreza. Upravno-kaznene mjere koje na zahtjev Agencije prisilno naplaćuje Porezna uprava uplaćuju se izravno u korist državnog proračuna.
+
+*Zastara*
+
+### Članak 71.
+
+(1) Postupak utvrđivanja povrede ovoga Zakona i izricanja upravno-kaznene mjere zbog počinjenja te povrede ne može biti pokrenut kada protekne rok od 5 godina od dana počinjenja povrede ovoga Zakona.
+
+(2) U slučaju kontinuirane ili ponavljane povrede ovoga Zakona, vrijeme zastare računa se od dana kad je prestala povreda Zakona.
+
+(3) Zastarijevanje iz stavka 1. ovoga članka prekida se svakom radnjom Agencije, poduzetom radi utvrđivanja počinjenja povrede ovoga Zakona i izricanja upravno-kaznene mjere zbog te povrede. Kad se postupak za koji je nadležna Agencija vodi protiv više poduzetnika ili grupe poduzetnika, prekid zastare nastupa danom kada je bilo kojem od poduzetnika koji ima status stranke u postupku dostavljeno pismeno Agencije.
+
+(4) Poslije svakog prekida zastara počinje ponovno teći, ali se postupak ni u kojem slučaju ne može voditi protekom dvostrukog vremena određenog stavkom 1. ovoga članka.
+
+*Zastara izvršenja upravno-kaznene mjere*
+
+### Članak 72.
+
+(1) Upravno-kaznene mjere izrečene zbog povrede odredaba ovoga Zakona ne mogu se izvršiti ako od dana konačnosti rješenja Agencije i/ili pravomoćnosti odluke suda protekne rok od 5 godina. Zastara počinje teći od dana kad je poduzetnik uredno primio pravomoćnu odluku suda, ili od dana konačnosti rješenja Agencije ako stranka nije podnijela tužbu na to rješenje.
+
+(2) Zastarijevanje iz stavka 1. ovoga članka prekida se svakom radnjom nadležnog tijela poduzetom radi izvršenja upravno-kaznene mjere. Poslije svakog prekida zastara počinje ponovo teći, ali postupak izvršenja upravno-kaznene mjere ne može se voditi protekom dvostrukog vremena određenog stavkom 1. ovoga članka.
+
+(3) Iznimno, u slučajevima kad Agencija odobri plaćanje upravno-kaznene mjere u obrocima, zastarijevanje počinje teći od dana kada poduzetnik nije platio dospjelu obvezu.
+
+*Troškovi postupka*
+
+### Članak 73.
+
+Svi troškovi vođenja postupka utvrđivanja povrede ovoga Zakona i izricanja upravno-kaznene mjere zbog povrede ovoga Zakona utvrdit će se Tarifom upravnih pristojbi iz Zakona o upravnim pristojbama.
+
+## XI. PRIJELAZNE I ZAVRŠNE ODREDBE
+
+*Primjena Zakona i okončanje postupaka u tijeku*
+
+### Članak 74.
+
+U primjeni ovoga Zakona, a osobito u slučajevima postojanja pravnih praznina ili dvojbi pri tumačenju propisa, u skladu sa člankom 70. Sporazuma o stabilizaciji i pridruživanju između Europskih zajednica i njihovih država članica i Republike Hrvatske (»Narodne novine – Međunarodni ugovori«, br. 14/01.), primjenjuju se na odgovarajući način kriteriji koji proizlaze iz primjene pravila o tržišnom natjecanju u Europskim zajednicama.
+
+### Članak 75.
+
+Zahtjevi za pokretanje postupaka za koje je nadležna Agencija zaprimljeni do 30. rujna 2010., kao i postupci koji su pokrenuti u Agenciji do 30. rujna 2010., okončat će se primjenom odredaba Zakona o zaštiti tržišnog natjecanja (»Narodne novine«, br. 122/03.).
+
+*Podzakonski akti*
+
+### Članak 76.
+
+(1) Vlada Republike Hrvatske će na prijedlog Agencije donijeti propise iz članka 7. stavka 4., članka 10. stavka 2., članka 11. stavka 3., članka 15. stavka 4., članka 64. stavka 9. i članka 65. stavka 4. ovoga Zakon najkasnije u roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Do donošenja propisa iz stavka 1. ovoga članka na odgovarajući se način primjenjuju propisi doneseni na temelju Zakona o zaštiti tržišnog natjecanja (»Narodne novine«, br. 122/03.).
+
+(3) Agencija će, najkasnije u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona, uskladiti Statut i druge opće akte Agencije s odredbama ovoga Zakona.
+
+### Članak 77.
+
+(1) Članovi Vijeća za zaštitu tržišnog natjecanja imenovani prije stupanja na snagu ovoga Zakona nastavljaju s radom do isteka razdoblja na koje su imenovani.
+
+(2) Predsjednik i članovi Vijeća, nakon razrješenja dužnosti, pa sve do početka ostvarivanja plaće po drugoj osnovi ili do ostvarivanja prava na mirovinu u skladu s općim propisima, a najdulje godinu dana od dana razrješenja s dužnosti, imaju pravo na naknadu plaće koju ostvaruju kao predsjednik, odnosno članovi Vijeća, osim u slučajevima razrješenja iz članka 29. stavka 1. točke 2., 4. i 5. ovoga Zakona.
+
+*Prestanak važenja Zakona o zaštiti tržišnog natjecanja*
+
+### Članak 78.
+
+Na dan stupanja na snagu ovoga Zakona prestaje važiti Zakon o zaštiti tržišnog natjecanja (»Narodne novine«, br. 122/03.).
+
+*Stupanje na snagu ovoga Zakona*
+
+### Članak 79.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. listopada 2010. godine.
+
+Klasa: 330-01/09-01/07
+
+Zagreb, 24. lipnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti tržišnog natjecanja (NN 80/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1671*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI TRŽIŠNOG NATJECANJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti tržišnog natjecanja, koji je Hrvatski sabor donio na sjednici 21. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/163
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 24. lipnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI TRŽIŠNOG NATJECANJA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti tržišnog natjecanja (»Narodne novine«, br. 79/09.) iza članka 2. dodaju se članak 2.a i naslov iznad njega koji glase:
+
+*»Primjena pravne stečevine Europske unije*
+
+#### Članak 2.a
+
+Ovim se Zakonom uređuje i primjena članaka 101. i 102. Ugovora o funkcioniranju Europske unije (SL C 115 od 9. 5. 2008.; u daljnjem tekstu: UFEU) na sve oblike narušavanja tržišnog natjecanja od strane poduzetnika koji imaju učinak na trgovinu između Republike Hrvatske i država članica Europske unije sukladno s Uredbom Vijeća (EZ) br. 1/2003 od 16. prosinca 2002. o provedbi pravila o tržišnom natjecanju koja su propisana člancima 81. i 82. Ugovora o osnivanju EZ-a (Tekst značajan za EGP) (SL L 1, 4. 1. 2003.; str. 1.– 25., u daljnjem tekstu: Uredba Vijeća (EZ) br. 1/2003) i Uredbom Vijeća (EZ) br. 139/2004 od 20. siječnja 2004. o kontroli koncentracija između poduzetnika (Uredba EZ o koncentracijama) (Tekst značajan za EGP) (SL L 24, 29. 1. 2004. str. 1.– 22.; u daljnjem tekstu: Uredba Vijeća (EZ) br. 139/2004).«.
+
+#### Članak 2.
+
+U članku 9., u uvodnoj rečenici iza riječi: »Zakona« dodaju se riječi: »ili članka 101. UFEU«.
+
+#### Članak 3.
+
+Iza članka 10. dodaje se članak 10.a koji glasi:
+
+»Članak 10.a
+
+(1) Skupna izuzeća primijenit će se i na sporazume s učinkom na trgovinu između Republike Hrvatske i država članica Europske unije koji ispunjavaju uvjete iz članka 101. stavka 3. UFEU i odgovarajućih uredbi Komisije (EU) ili Vijeća (EU) o skupnom izuzeću određene kategorije sporazuma od opće zabrane sporazuma iz članka 101. stavka 1. UFEU.
+
+(2) Agencija može u smislu Uredbe Vijeća (EZ) br. 1/2003 rješenjem ukinuti skupno izuzeće iz stavka 1. ovoga članka, odnosno odlučiti da se Uredbe Komisije (EU) ili Vijeća (EU) o skupnom izuzeću određene kategorije sporazuma od opće zabrane iz članka 101. stavka 1. UFEU neće primijeniti na određeni sporazum s učinkom na teritoriju Republike Hrvatske ili nekom njegovu dijelu koji ima obilježja posebnog tržišta u zemljopisnom smislu koji nije usklađen s odredbom članka 101. stavka 3. UFEU.
+
+(3) U slučaju iz stavka 2. ovoga članka Agencija neće u rješenju o ukidanju skupnog izuzeća izreći upravno-kaznenu mjeru, nego će sudionicima sporazuma odrediti rok za njegovo usklađivanje s uvjetima iz članka 101. stavka 3. UFEU ili ako to nije moguće naložiti stavljanje sporazuma izvan snage.«.
+
+#### Članak 4.
+
+U članku 14. stavku 1. u uvodnoj rečenici iza riječi: »Zakona« dodaju se riječi: »ili članka 102. UFEU«.
+
+#### Članak 5.
+
+U članku 15. stavku 5. točki 3. iza riječi: »društvima« dodaju se riječi: »ili drugih primjenjivih propisa«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Osnivanje zajedničkog pothvata (joint venture) od strane dvaju ili više neovisnih poduzetnika, koji na trajnijoj osnovi djeluje kao neovisan gospodarski subjekt, ako je cilj ili posljedica osnivanja zajedničkog pothvata usklađivanje konkurentskog ponašanja poduzetnika koji ostaju neovisni, smatrat će se koncentracijom, ali će se za ocjenu takvog usklađivanja primijeniti kriteriji iz članka 8. stavka 1. i 3. ovoga Zakona.«.
+
+#### Članak 6.
+
+U članku 17. stavku 2. riječi: »nemaju zaključena godišnja financijska izvješća« zamjenjuju se riječima: »nemaju zaključena godišnja financijska izvješća za financijsku godinu koja je prethodila koncentraciji«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) U izračun ukupnog godišnjeg prihoda iz stavka 1. ovoga članka:
+
+1. Uzima se u obzir prihod:
+
+– poduzetnika sudionika koncentracije,
+
+– poduzetnika u kojima sudionik koncentracije izravno ili neizravno ima više od polovine udjela ili dionica ili poslovne imovine, ili može ostvarivati više od polovine glasačkih prava, ili ima pravo na postavljanje više od polovine članova uprave, ili nadzornog odbora ili odgovarajućeg tijela za upravljanje te vođenje poslova ili na drugi način ima pravo na upravljanje poslovanjem poduzetnika,
+
+– poduzetnika koji u poduzetniku sudioniku koncentracije (stjecatelju) imaju prethodno navedena prava ili ovlasti i
+
+– poduzetnika koji u poduzetnicima iz podstavka 3. ove točke imaju ovlasti navedene u podstavku 2. ove točke.
+
+2. Ne uzima se u obzir prihod:
+
+– ostvaren prodajom robe odnosno pružanjem usluga između društava unutar koncerna (prihod unutar grupe).«.
+
+U stavku 6. iza riječi: »članka« dodaju se riječi: »te onih koncentracija za koje je posebnim propisima uređena obveza prijave Agenciji«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Iznimno, sudionici koncentracije nisu obvezni podnijeti prijavu namjere provedbe koncentracije Agenciji, iako su ispunjeni kumulativni uvjeti iz stavka 1. ovoga članka, pod uvjetom da ista podliježe obvezi prijave Europskoj komisiji u smislu Uredbe Vijeća (EZ) br. 139/2004.«.
+
+#### Članak 7.
+
+U članku 19. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Ako Europska komisija u smislu Uredbe Vijeća (EZ) br. 139/2004 odluči da neće ocjenjivati koncentraciju s učinkom na trgovinu između država članica Europske unije, a koja ujedno ispunjava i uvjete iz članka 17. ovoga Zakona, odnosno da će ocjenu te koncentracije ustupiti Agenciji, sudionici te koncentracije obvezni su podnijeti prijavu namjere provedbe koncentracije Agenciji u roku od 30 dana od dana zaprimanja takve odluke Europske komisije.«.
+
+#### Članak 8.
+
+U članku 20. stavku 1. točka 2. mijenja se i glasi:
+
+»2. godišnja financijska izvješća sudionika koncentracije za financijsku godinu koja je prethodila koncentraciji,«.
+
+#### Članak 9.
+
+U članku 22. stavak 2. mijenja se i glasi:
+
+»(2) U slučaju iz stavka 1. ovoga članka, Agencija bez odgađanja dostavlja podnositelju prijave namjere provedbe koncentracije potvrdu (obavijest) da je koncentracija dopuštena, a potvrda se i objavljuje na internetskim stranicama Agencije.«.
+
+#### Članak 10.
+
+Naslov iznad članka 23. mijenja se i glasi: »Ukidanje ili djelomično ukidanje rješenja o koncentraciji«.
+
+U članku 23. stavku 3. riječ: »izmijeniti« zamjenjuje se riječima: »rješenjem djelomično ukinuti«, a riječ: »izmijenjenom« briše se.
+
+#### Članak 11.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»(1) Agencija je pravna osoba s javnim ovlastima koja samostalno i neovisno obavlja poslove u okviru djelokruga i nadležnosti određenih ovim Zakonom, Uredbom Vijeća (EZ) br. 1/2003 vezano uz primjenu članaka 101. i 102. UFEU te Uredbom Vijeća (EZ) br. 139/2004.«.
+
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Agencija u provedbi poslova iz stavka 1. ovoga članka surađuje s Europskom komisijom i nadležnim tijelima za zaštitu tržišnog natjecanja država članica Europske unije.
+
+(3) Za obavljanje poslova iz svoje nadležnosti Agencija odgovara Hrvatskom saboru.«.
+
+Dosadašnji stavci 2., 3., 4., 5., 6. i 7. postaju stavci 4., 5., 6., 7., 8. i 9.
+
+U dosadašnjem stavku 8. koji postaje stavak 10. riječ: »naplaćuje« zamjenjuje se riječju: »utvrđuje«.
+
+#### Članak 12.
+
+U članku 30. točka 2. mijenja se i glasi:
+
+»2. donosi odluku na temelju koje Agencija pokreće i vodi postupak utvrđivanja narušavanja tržišnog natjecanja i postupak utvrđivanja postojanja uvjeta za izricanje upravno-kaznene mjere zbog povrede ovoga Zakona i povrede članka 101. ili 102. UFEU, odnosno donosi odluku na temelju koje Agencija rješava upravnu stvar i određuje mjere, uvjete i rokove za ponovnu uspostavu učinkovitog tržišnog natjecanja te izriče upravno-kaznenu mjeru i rokove te način njezina izvršenja,«.
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. donosi odluku na temelju koje Agencija obustavlja postupak kada u istom predmetu odlučuje ili je već odlučila Europska komisija ili nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije,«.
+
+Dosadašnja točka 3. postaje točka 4.
+
+U dosadašnjoj točki 4. koja postaje točka 5. riječ: »Upravnom« zamjenjuje se riječima: »Visokom upravnom«.
+
+Dosadašnje točke 5., 6., 7., 8., 9. i 10. postaju točke 6., 7., 8., 9., 10. i 11.
+
+Dosadašnja točka 11. koja postaje točka 12. mijenja se i glasi:
+
+»12. obavlja poslove međunarodne suradnje vezane za izvršenje međunarodnih obveza Republike Hrvatske prenesenih u ovlast Agencije, što posebice obuhvaća izvršenje obveza suradnje s Europskom komisijom i nadležnim tijelima za zaštitu tržišnog natjecanja država članica Europske unije uređenih Uredbom Vijeća (EZ) br. 1/2003 i Uredbom Vijeća (EZ) br. 139/2004, u okviru Europske mreže tijela za zaštitu tržišnog natjecanja te surađuje s ostalim međunarodnim organizacijama i institucijama u području zaštite tržišnog natjecanja,«.
+
+Dosadašnja točka 12. postaje točka 13.
+
+#### Članak 13.
+
+U članku 32. točki 3. riječ: »Upravnom« zamjenjuje se riječima: »Visokom upravnom«.
+
+Iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. izvještava Vijeće o zaprimljenom zahtjevu Europske komisije, podnesenom sukladno s Uredbom Vijeća (EZ) br. 1/2003 za provedbu nenajavljene pretrage od strane Agencije na području Republike Hrvatske radi utvrđivanja povrede članka 101. ili 102. UFEU, odnosno o zahtjevu Europske komisije za pružanje pomoći Agencije u provedbi tih pretraga te o zahtjevu nadležnog tijela za zaštitu tržišnog natjecanja države članice Europske unije Agenciji da, u ime i za račun tog tijela, na području Republike Hrvatske provede nenajavljenu pretragu ili neku drugu ispitnu radnju u svrhu prikupljanja činjenica radi utvrđivanja povrede članka 101. ili 102. UFEU,«.
+
+U dosadašnjoj točki 4. koja postaje točka 5. iza riječi: »odluke« dodaju se riječi: »izrađuje nacrt odluke i«, a iza riječi: »Zakona,« dodaju se riječi: »odnosno članka 101. ili 102. UFEU«.
+
+Dosadašnja točka 5. koja postaje točka 6. mijenja se i glasi:
+
+»6. izrađuje nacrt odluke kojim Agencija obustavlja postupak kada u istom predmetu odlučuje ili je već odlučila Europska komisija ili nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije,«.
+
+Dosadašnje točke 6., 7., 8. i 9. postaju točke 7., 8., 9. i 10.
+
+Dosadašnja točka 10. koja postaje točka 11. mijenja se i glasi:
+
+»11. obavlja poslove međunarodne suradnje vezane za izvršenje međunarodnih obveza Republike Hrvatske prenesenih u ovlast Agencije, što posebice obuhvaća izvršenje obveza suradnje s Europskom komisijom i nadležnim tijelima za zaštitu tržišnog natjecanja država članica Europske unije uređenih Uredbom Vijeća (EZ) br. 1/2003 i Uredbom Vijeća (EZ) br. 139/2004, u okviru Europske mreže tijela za zaštitu tržišnog natjecanja te surađuje s ostalim međunarodnim organizacijama i institucijama u području zaštite tržišnog natjecanja,«.
+
+Dosadašnja točka 11. postaje točka 12.
+
+#### Članak 14.
+
+U članku 35. stavak 1. mijenja se i glasi:
+
+»(1) U postupcima koji su u nadležnosti Agencije primjenjuje se zakon kojim se uređuje opći upravni postupak.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako drukčije nije određeno ovim Zakonom, na oblik i sadržaj poziva za glavnu raspravu, tijek glavne rasprave, dovođenje stranaka i trećih osoba na glavnu raspravu i zapisnik o glavnoj raspravi primjenjivat će se na odgovarajući način Prekršajni zakon.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 15.
+
+U članku 36. stavku 4. riječ: »zaključkom« zamjenjuje se riječju: »rješenjem«, riječ: »zaključka« zamjenjuje se riječju: »rješenja«, a riječ: »Upravnim« zamjenjuje se riječima: »Visokim upravnim«.
+
+#### Članak 16.
+
+U članku 37. stavku 5. riječi: »pravo na dostavu skraćenog oblika obavijesti iz stavka 4. ovoga članka« zamjenjuju se riječima: »prava uređena stavkom 4. ovoga članka«.
+
+#### Članak 17.
+
+U članku 38. stavak 1. mijenja se i glasi:
+
+»(1) Postupak utvrđivanja zabranjenog sporazuma iz članka 8. ovoga Zakona i postupak utvrđivanja zabranjenog sporazuma iz članka 101. UFEU, postupak ocjene sporazuma iz članka 10. stavka 4., članka 10.a i članka 11. stavka 4. ovoga Zakona te postupak utvrđivanja zlouporabe vladajućeg položaja iz članka 13. ovoga Zakona i postupak utvrđivanja zlouporabe vladajućeg položaja iz članka 102. UFEU Agencija pokreće po službenoj dužnosti.«.
+
+U stavku 2. riječ: »izmjene« zamjenjuje se riječima: »djelomičnog ukidanja«.
+
+U stavku 4. riječ: »zaključak« zamjenjuje se riječju: »rješenje«.
+
+U stavku 5. brojka: »10« zamjenjuje se brojkom: »6«, a riječi: »zaključak i isti« zamjenjuju se riječima: »rješenje i isto«.
+
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Ako Agencija, na temelju inicijative iz članka 37. ovoga Zakona tijekom prethodnog ispitivanja stanja na mjerodavnom tržištu u smislu članka 32. točke 1. podtočke a) i b) ovoga Zakona, radi utvrđivanja postojanja dostatnih indicija za pokretanje postupka utvrđivanja narušavanja tržišnog natjecanja temeljem članka 101. ili 102. UFEU, utvrdi da ne postoji učinak na trgovinu između država članica Europske unije, donijet će o tome najkasnije u roku od šest mjeseci od dana zaprimanja inicijative za pokretanje postupka rješenje kojim će utvrditi da nema uvjeta za pokretanje postupka i isto dostaviti podnositelju inicijative.
+
+(7) Agencija će rješenjem utvrditi da nema uvjeta za pokretanje postupka i u slučaju kada Europska komisija ili drugo nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije vodi postupak u istom predmetu ili kada su Europska komisija ili nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije već donijeli odluku u istom predmetu.«.
+
+Dosadašnji stavak 6. koji postaje stavak 8. mijenja se i glasi:
+
+»(8) Protiv rješenja iz stavka 4., 5., 6. i 7. ovoga članka nije dopuštena žalba, ali je dopušteno tužbom pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.«.
+
+U dosadašnjem stavku 7. koji postaje stavak 9. riječi: »zaključku iz stavka 4. i 5.« zamjenjuju se riječima: »rješenju iz stavka 4., 5., 6. i 7.«.
+
+#### Članak 18.
+
+U članku 39. stavku 1. u uvodnoj rečenici iza riječi: »Zakona« dodaju se riječi: »i članka 101. ili 102. UFEU«.
+
+U točki 2. iza riječi: »Zakona« dodaju se riječi: »i članka 101. ili 102. UFEU«.
+
+U stavku 2. riječ: »Upravnim« zamjenjuje se riječima: »Visokim upravnim«.
+
+#### Članak 19.
+
+U članku 40. dodaje se stavak 7. koji glasi:
+
+»(7) Ako je postupak pokrenut primjenom članka 101. ili 102. UFEU, Agencija će temeljem Uredbe Vijeća (EZ) br. 1/2003 bez odgađanja, najkasnije nakon prve radnje u postupku, obavijestiti Europsku komisiju i po potrebi nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije.«.
+
+#### Članak 20.
+
+U članku 41. stavku 1. iza riječi: »Agencija je« stavlja se zarez i dodaju riječi: »u svrhu primjene ovoga Zakona i članka 101. ili 102. UFEU,«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako stranka u postupku i druge pravne i fizičke osobe iz stavka 1. ovoga članka ne postupe po zahtjevu, Agencija će zaključkom pokrenuti postupak utvrđivanja postojanja uvjeta za izricanje upravno-kaznene mjere, stranki dostaviti Obavijest o utvrđenom činjeničnom stanju i poziv za glavnu raspravu, nakon čega će rješenjem odlučiti o tome je li povrijeđen ovaj Zakon i u slučaju povrede izreći upravno-kaznenu mjeru za tu povredu sukladno ovome Zakonu. Protiv tog rješenja nije dopuštena žalba, ali je dopušteno tužbom pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.«.
+
+#### Članak 21.
+
+U članku 42. stavak 1. mijenja se i glasi:
+
+»(1) Prije provođenja nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava Agencija će od Visokog upravnog suda Republike Hrvatske zatražiti nalog za provedbu nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava, dokumenata, isprava i stvari koje se tamo nalaze, kao i pečaćenje te privremeno oduzimanje predmeta, osobito ako postoji opasnost od skrivanja ili uništenja dokaza, a koji su nužni za utvrđivanje narušavanja tržišnog natjecanja u smislu članka 8. ili 13. ovoga Zakona ili članka 101. ili 102. UFEU, a razumno je pretpostaviti da se oni nalaze u određenom prostoru ili kod određene osobe. U smislu Uredbe Vijeća (EZ) br. 1/2003 Agencija će zahtjev za takav nalog podnijeti Visokom upravnom sudu Republike Hrvatske i kada isti zatraži Europska komisija ili nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije«.
+
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Visoki upravni sud Republike Hrvatske dužan je:
+
+1. u roku od dva dana od dana zaprimanja zahtjeva Agencije iz stavka 1. ovoga članka, odlučiti o davanju naloga za provedbu nenajavljene pretrage, a
+
+2. nalog o nenajavljenoj pretrazi mora sadržavati:
+
+– oznaku predmeta nenajavljene pretrage iz stavka 1. ovoga članka te članka 44. ovoga Zakona,
+
+– pravni temelj za provedbu nenajavljene pretrage,
+
+– ovlaštene osobe iz Agencije i druge ovlaštene osobe koje će provesti pretragu,
+
+– rok za provedbu nenajavljene pretrage.
+
+(3) U smislu Uredbe Vijeća (EZ) br. 1/2003 Agencija će pružiti potrebnu pomoć Europskoj komisiji u pripremi i provedbi nenajavljene pretrage na području Republike Hrvatske. Agencija može ovlastiti osobe iz nadležnog tijela za zaštitu tržišnog natjecanja druge države članice Europske unije za sudjelovanje u provedbi nenajavljene pretrage na području Republike Hrvatske ili je može provesti u ime i za račun tog tijela.«.
+
+Dosadašnji stavak 2. koji postaje stavak 4. mijenja se i glasi:
+
+»(4) Ovlašteni radnici Agencije, samostalno ili uz pomoć ovlaštenih stručnjaka ministarstva nadležnog za unutarnje poslove (dalje: ovlaštene osobe), odnosno ovlaštenih osoba iz stavka 3. ovoga članka, mogu provesti nenajavljenu pretragu iz stavka 1. ovoga članka, o čemu stranku, odnosno posjednika prostorija i stvari izvješćuju na mjestu događaja i u trenutku provedbe nenajavljene pretrage. Ako je kod izvođenja nenajavljene pretrage iz stavka 1. ovoga članka potrebna primjena prinude ili se očekuje fizički otpor provođenju pretrage, kao i u slučaju kada je potrebno provesti određena vještačenja ili pružiti drugu stručnu pomoć, ovlaštene osobe ministarstva nadležnog za unutarnje poslove dužne su ovlaštenim osobama iz Agencije, iz Europske komisije ili iz nadležnog tijela za zaštitu tržišnog natjecanja države članice Europske unije pružiti pomoć pri provođenju nenajavljene pretrage.«.
+
+U dosadašnjem stavku 3. koji postaje stavak 5. riječ: »Upravnog« zamjenjuje se riječima: »Visokog upravnog«.
+
+U dosadašnjem stavku 4. koji postaje stavak 6. u točki 2. iza riječi: »pohranjeni« dodaju se zagrada i riječi: »(primjerice, računala, serveri, telefonski uređaji)«.
+
+Iza dosadašnjeg stavka 5. koji postaje stavak 7. dodaje se stavak 8. koji glasi:
+
+»(8) Odredbe članka 42. do 46. ovoga Zakona primjenjuju se na odgovarajući način i na inspekcijske pretrage koje je, na zahtjev Europske komisije sukladno s njezinim ovlastima u provedbi Uredbe Vijeća (EZ) br. 139/2004 koja uređuje ocjene koncentracija poduzetnika s učinkom na trgovinu između država članica Europske unije, Agencija obvezna izvršiti u poduzetnicima i njihovim udrugama na području Republike Hrvatske.«.
+
+#### Članak 22.
+
+Iza članka 42. dodaje se članak 42.a koji glasi:
+
+»Članak 42.a
+
+Ako se pri provedbi nenajavljene pretrage iz članka 42. i 44. ovoga Zakona pronađu predmeti koji upućuju na počinjenje kaznenog djela za koje se progoni po službenoj dužnosti, ovlaštene osobe ministarstva nadležnog za unutarnje poslove će navedene predmete opisati u posebnom zapisniku i privremeno ih oduzeti, a o njihovu oduzimanju izdat će bez odgađanja potvrdu. O tome su te osobe dužne bez odgađanja izvijestiti državnog odvjetnika.«.
+
+#### Članak 23.
+
+U članku 43. ispred riječi: »Ukoliko« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Zastupnici poduzetnika ili radnici poduzetnika obvezni su surađivati s ovlaštenim osobama iz članka 42. stavka 3. i 4. ovoga Zakona za provedbu nenajavljene pretrage iz članka 42. i članka 44. ovoga Zakona.
+
+(3) Na zahtjev ovlaštenih osoba Agencije, osoba koja se koristi računalom ili ima pristup računalu ili drugom uređaju ili nositelju podataka, dužna je omogućiti pristup računalu, uređaju ili nositelju podataka te dati sve potrebne obavijesti za njihovu nesmetanu uporabu.«.
+
+#### Članak 24.
+
+U članku 44. stavku 1. iza riječi: »u Agenciji« dodaju se riječi: »po osnovi članka 8. ili 13. ovoga Zakona odnosno članka 101. ili 102. UFEU,«.
+
+#### Članak 25.
+
+U članku 45. stavak 1. mijenja se i glasi:
+
+»(1) Prilikom provedbe nenajavljene pretrage, iz dokumentacije koja se pretražuje izuzet će se pisma, obavijesti i drugi oblici komunikacije, koji se smatraju povjerljivim informacijama, između poduzetnika protiv kojeg se vodi postupak i njegovih opunomoćenika koji su njihovu komunikaciju obvezni čuvati kao profesionalnu tajnu temeljem posebnih propisa.«.
+
+#### Članak 26.
+
+U članku 47. stavak 5. mijenja se i glasi:
+
+»(5) Podnositelj inicijative i osobe kojima je Agencija rješenjem priznala ista postupovna prava koja ima podnositelj inicijative, po zaprimanju rješenja iz članka 38. ovoga Zakona, kojim je utvrđeno da ne postoji javni interes za pokretanje postupka ili da nema uvjeta za pokretanje postupka, odnosno po zaprimanju rješenja Agencije kojim je utvrđeno da nije narušeno tržišno natjecanje u smislu odredba ovoga Zakona (članak 58. stavak 1. točka 13.) ili po zaprimanju rješenja kojim se obustavlja postupak, imaju pravo uvida u dokumentaciju na kojoj se temelji rješenje Agencije. U tom slučaju, odredbe stavka 2. i 4. ovoga članka odnose se i na njihova prava za uvidom u spis. Agencija će odrediti termin za uvid u spis bez odgađanja, a najkasnije u roku od osam dana od dana zaprimanja pisanog zahtjeva.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) O odbijanju zahtjeva za uvidom u spis Agencija odlučuje rješenjem.«.
+
+#### Članak 27.
+
+U članku 48. stavak 5. mijenja se i glasi:
+
+»(5) Primjerak Obavijesti iz stavka 1. ovoga članka, u skraćenom obliku koja ne sadrži poslovne tajne, Agencija će na zahtjev dostaviti i osobi kojoj je Agencija rješenjem priznala postojanje prava ili pravnih interesa, odnosno istovjetna prava u postupku koje ima podnositelj inicijative, s uputom da je ovlaštena u roku od mjesec dana od dana primitka Obavijesti, u pisanom obliku dostaviti svoje primjedbe Agenciji.«.
+
+U stavku 6. riječi: »konačne odluke« zamjenjuju se riječima: »rješenja kojim se rješava o upravnoj stvari«.
+
+#### Članak 28.
+
+U članku 49. stavku 7. iza riječi: »povredom ovoga Zakona« dodaju se riječi: »ili povredom članka 101. ili 102. UFEU«.
+
+#### Članak 29.
+
+U članku 51. stavku 1. iza riječi: »Zakona« stavlja se zarez i dodaju riječi: »odnosno članka 101. ili 102. UFEU«.
+
+U stavku 4. riječ: »Upravnim« zamjenjuje se riječima: »Visokim upravnim«.
+
+#### Članak 30.
+
+U članku 52. stavku 1. iza riječi: »Zakona« dodaju se riječi: »ili odredbe članka 101. ili 102. UFEU«.
+
+U stavku 3. točki 2. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«.
+
+U stavku 4. točki 3. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«.
+
+U točki 4. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«.
+
+Stavak 7. briše se.
+
+#### Članak 31.
+
+U članku 53. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) U smislu Uredbe Vijeća (EZ) br. 1/2003 i Uredbe Vijeća (EZ) br. 139/2004, a iznimno od obveze čuvanja poslovne tajne od strane Agencije uređene ovim člankom, Agencija može informacije koje se smatraju poslovnom tajnom otkriti, koristiti ili razmjenjivati s Europskom komisijom ili nadležnim tijelima za zaštitu tržišnog natjecanja država članica Europske unije, odnosno koristiti ih kao dokaz samo u postupcima radi utvrđivanja narušavanja tržišnog natjecanja iz članka 101. ili 102. UFEU.«.
+
+#### Članak 32.
+
+U članku 57. stavku 3. iza riječi: »članka 10. stavka 4.« dodaju se riječi: »i članka 10.a«, a riječ: »izmjeni« zamjenjuje se riječima: »djelomičnom ukidanju«.
+
+#### Članak 33.
+
+U članku 58. stavku 1. točki 2. iza riječi: »članka 10. stavka 4.« dodaju se riječi »i članka 10.a«.
+
+U točki 7. riječ: »mijenja« zamjenjuje se riječima: »djelomično ukida«.
+
+U točki 9. brojka: »45.« zamjenjuje se brojkom: »49.«.
+
+U točki 13. iza riječi: »Zakona« dodaju se riječi: »ili odredaba članka 101. ili 102. UFEU«.
+
+Iza točke 13. umjesto točke, stavlja se zarez i dodaju točke 14.,15., 16. i 17. koje glase:
+
+"14. obustavlja postupak kada u istom predmetu odlučuje ili je već odlučila Europska komisija ili nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije u smislu članka 30. točke 3. ovoga Zakona i Uredbe Vijeća (EZ) br. 1/2003,
+
+15. utvrđuje nepostojanje uvjeta ili javnog interesa za pokretanje postupka iz članka 38. ovoga Zakona,
+
+16. osobama koje nemaju položaj stranke u postupku priznaje ili ne priznaje postojanje prava ili pravnih interesa, odnosno istovjetna prava u postupku koja ima podnositelj inicijative,
+
+17. odbija zahtjev za uvidom u spis.«.
+
+U stavku 2. točki 4. riječ: »Upravnog« zamjenjuje se riječima: »Visokog upravnog«.
+
+Točke 5. i 6. brišu se.
+
+#### Članak 34.
+
+U članku 59. stavak 2. mijenja se i glasi:
+
+»(2) Rješenja Agencije iz članka 58. stavka 1. točke 1. do 11. ovoga Zakona objavljuju se u »Narodnim novinama«.
+
+U stavku 3. riječ: »Upravnog« zamjenjuje se riječima: »Visokog upravnog«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Agencija će u smislu Uredbe Vijeća (EZ) br. 1/2003, najkasnije u roku od 30 dana prije dana donošenja odluke kojom se utvrđuje narušavanje tržišnog natjecanja temeljem članka 101. ili 102. UFEU, kojom se prihvaća preuzimanje obveza iz članka 49. ovoga Zakona u postupcima koji su pokrenuti radi utvrđivanja povrede članaka 101. ili 102. UFEU, ili kojom se ukida skupno izuzeće sporazuma u smislu članka 10.a stavka 2. ovoga Zakona, o tome izvijestiti Europsku komisiju, a po potrebi i tijela nadležna za zaštitu tržišnog natjecanja država članica Europske unije, odnosno dostaviti joj na uvid sažetak predmeta i nacrt odluke.«.
+
+#### Članak 35.
+
+U članku 60. iza riječi: »povreda ovoga Zakona« dodaju se riječi: »i povreda članka 101. ili 102. UFEU«.
+
+#### Članak 36.
+
+U članku 61. točki 1. iza riječi: »Zakona« dodaju se riječi: »i članka 101. UFEU«.
+
+U točki 2. iza riječi: »Zakona« dodaju se riječi: »i članka 102. UFEU«.
+
+U točki 4. brojka u zagradi: »10.« zamjenjuje se brojkom: »11.«.
+
+#### Članak 37.
+
+U članku 62. točki 1., u zagradi riječi: »članak 24. stavak 1. točka 2.« zamjenjuju se riječima: »članak 19. stavak 1.«.
+
+U točki 4. riječ: »Upravnog« zamjenjuje se riječima: »Visokog upravnog«.
+
+Iza točke 4. umjesto točke stavlja se zarez i dodaje točka 5. koja glasi:
+
+»5. provede koncentraciju protivno odredbi članka 19. stavka 5. ovoga Zakona.«.
+
+#### Članak 38.
+
+U članku 64. stavku 3. iza riječi: »Zakon« dodaju se riječi: »ili članak 101. ili 102. UFEU«.
+
+U stavku 4. točki 2. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«.
+
+U stavku 5. točki 1. iza riječi: »odredbe ovoga Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«, a iza riječi: »povrede« riječi: »ovoga Zakona« brišu se.
+
+U točki 3. iza riječi: »povredu ovoga Zakona« dodaju se riječi: »i članka 101. ili 102. UFEU«, a iza riječi: »u povredi« riječi: »ovoga Zakona« brišu se.
+
+U stavku 6. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102 UFEU«.
+
+U stavku 7. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102 UFEU«.
+
+#### Članak 39.
+
+U članku 65. stavku 1. iza riječi: »najtežih povreda ovoga Zakona« dodaju se riječi: »i članka 101. UFEU«.
+
+U stavku 4. riječi: »Europskim zajednicama« zamjenjuju se riječima: »Europskoj uniji«.
+
+U stavku 5. riječi: »sukladno odredbama ovoga Zakona« brišu se.
+
+#### Članak 40.
+
+Iza članka 66. dodaju se članak 66.a i naslov iznad njega koji glase:
+
+*»Suradnja sudova, Europske komisije i Agencije*
+
+#### Članak 66.a
+
+(1) U smislu Uredbe Vijeća (EZ) br. 1/2003 trgovački sudovi nadležni su za primjenu članaka 101. i 102. UFEU te su dužni bez odgađanja obavijestiti Agenciju o svim sudskim postupcima koji se vode temeljem članka 101. ili 102. UFEU.
+
+(2) U slučaju kada u smislu Uredbe Vijeća (EZ) br. 1/2003 Europska komisija podnosi nadležnom sudu iz stavka 1. ovoga članka pisana očitovanja ili mišljenja o primjeni članka 101. ili 102. UFEU, sud je dužan bez odgađanja presliku pisanog očitovanja ili mišljenja Europske komisije dostaviti Agenciji i strankama u postupku.
+
+(3) U slučaju kada Agencija u smislu Uredbe Vijeća (EZ) br. 1/2003 podnosi nadležnom sudu iz stavka 1. ovoga članka pisana očitovanja ili mišljenja o primjeni članka 101. ili 102. UFEU, sud je dužan bez odgađanja presliku pisanog očitovanja ili mišljenja Agencije dostaviti strankama u postupku.
+
+(4) Agencija i Europska komisija mogu navedena pisana očitovanja ili mišljenja koja nisu obvezujuća podnositi nadležnom sudu iz stavka 1. ovoga članka u bilo kojem trenutku sve do usvajanja konačne sudske odluke. Uz prethodno odobrenje suda, navedena tijela mogu sudu podnositi i usmena očitovanja.
+
+(5) U slučaju kada nadležni sud iz stavka 1. ovoga članka u smislu Uredbe Vijeća (EZ) br. 1/2003 zatraži od Europske komisije dostavu mišljenja, dužan je bez odgađanja o tome obavijestiti stranke, a po primitku neobvezujućeg mišljenja Europske komisije, presliku navedenog mišljenja dostaviti Agenciji i strankama u postupku.
+
+(6) U svrhu očuvanja jedinstvene primjene prava tržišnog natjecanja Europske unije uređene Uredbom Vijeća (EZ) br. 1/2003, odluke koje donose nadležni sudovi iz stavka 1. ovoga članka o sporazumima ili postupanjima poduzetnika iz članka 101. ili 102. UFEU, a koje su već bile predmetom odluke Europske komisije, ne smiju biti protivne odluci Europske komisije. Ako je postupak utvrđivanja povrede članka 101. ili 102. UFEU u tijeku pred Europskom komisijom, nadležni sud može procijeniti je li svrhovito nastaviti ili zastati s postupkom do donošenja konačne odluke Europske komisije. Ova obveza ne dovodi u pitanje prava i obveze iz članka 267. UFEU.
+
+(7) Nadležni sud iz stavka 1. ovoga članka je dužan Agenciji dostaviti presliku svake odluke donesene temeljem članka 101. ili 102. UFEU istodobno kada se takva odluka dostavlja strankama u postupku.«.
+
+#### Članak 41.
+
+Članak 67. mijenja se i glasi:
+
+»(1) Protiv rješenja Agencije nije dopuštena žalba, ali se u roku od 30 dana od dana dostave rješenja može tužbom pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske, koji o tužbi odlučuje u Vijeću sastavljenom od tri suca, i to zbog:
+
+1. povrede propisa materijalnog prava o tržišnom natjecanju,
+
+2. bitne povrede odredbi o postupku,
+
+3. pogrešno ili nepotpuno utvrđenog činjeničnog stanja,
+
+4. pogrešne odluke o upravno-kaznenoj mjeri i drugim pitanjima o kojima odlučuje Agencija.
+
+(2) Tužbe protiv rješenja Agencije kojim se odlučuje o postupovnim pitanjima ne zaustavljaju tijek postupka.
+
+(3) Protiv zaključka Agencije kojim se odlučuje o postupovnim pitanjima nije dopuštena žalba niti se može pokrenuti upravni spor, ali se zaključak može pobijati tužbom kojom se pokreće upravni spor pred Visokim upravnim sudom Republike Hrvatske protiv rješenja kojim se rješava o upravnoj stvari.
+
+(4) Tužba iz stavka 1. ovoga članka ne zadržava izvršenje rješenja, osim u dijelu rješenja koji se odnosi na izrečenu upravno-kaznenu mjeru.
+
+(5) Tužbu protiv rješenja Agencije kojim se utvrđuje povreda ovoga Zakona ili članka 101. ili 102. UFEU i izriče upravno-kaznena mjera sukladno ovome Zakonu može podnijeti nezadovoljna stranka u postupku, a tužbu protiv rješenja Agencije kojim se utvrđuje da nije narušeno tržišno natjecanje u smislu odredba ovoga Zakona ili članka 101. ili 102. UFEU i rješenja kojim se obustavlja postupak može podnijeti i podnositelj inicijative, odnosno osoba kojoj su rješenjem Agencije utvrđena ista postupovna prava kao i podnositelju inicijative (članak 36. stavci 3. i 4.).
+
+(6) Protiv naloga za provedbu nenajavljene pretrage iz članka 42. i 44. ovoga Zakona nije dopuštena žalba.«.
+
+#### Članak 42.
+
+U članku 68. stavku 1. riječ: »Upravnog« zamjenjuje se riječima: »Visokog upravnog«.
+
+#### Članak 43.
+
+U članku 69. briše se oznaka stavka koja glasi: »(1)«, a riječ: »Upravnim« zamjenjuje se riječima: »Visokim upravnim«.
+
+Stavak 2. briše se.
+
+#### Članak 44.
+
+Iza članka 69. dodaju se članak 69.a i naslov iznad njega koji glase:
+
+*»Naknade štete*
+
+#### Članak 69.a
+
+(1) O naknadama štete zbog povreda ovoga Zakona ili članka 101. ili 102. UFEU odlučuju nadležni trgovački sudovi.
+
+(2) Poduzetnici koji su povrijedili odredbe ovoga Zakona ili članka 101. ili 102. UFEU odgovorni su za naknadu štete nastalu tim povredama.
+
+(3) Nadležni trgovački sud će pri donošenju odluke o naknadi štete iz stavka 1. ovoga članka osobito uzeti u obzir pravomoćno rješenje Agencije kojim je utvrđena povreda ovoga Zakona ili članka 101. ili 102. UFEU, odnosno konačnu odluku Europske komisije u slučaju kada je Europska komisija utvrdila povredu članka 101. ili 102. UFEU. Navedeno ne dovodi u pitanje prava i obveze iz članka 267. UFEU.
+
+(4) Ako je postupak utvrđivanja povrede članka 101. ili 102. UFEU u tijeku pred Agencijom ili Europskom komisijom, nadležni trgovački sud može procijeniti je li svrhovito nastaviti ili zastati s postupkom do donošenja pravomoćnog rješenja Agencije ili konačne odluke Europske komisije.
+
+(5) Nadležni trgovački sud dužan je bez odgađanja obavijestiti Agenciju o podnesenoj tužbi radi utvrđivanja prava na naknadu štete nastale povredom odredbi ovoga Zakona ili članka 101. ili 102. UFEU.
+
+(6) Tijek zastare za podnošenje tužbe radi ostvarivanja prava na naknadu štete iz stavka 1. ovoga članka prekida se od dana pokretanja postupka u nadležnosti Agencije ili Europske komisije do dana okončanja tih postupaka.«.
+
+#### Članak 45.
+
+U članku 70. stavku 1. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«.
+
+U stavku 2. riječ: »konačnosti« zamjenjuje se riječju: »izvršnosti«.
+
+#### Članak 46.
+
+U članku 71. stavku 1. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«, a iza riječi: »počinjenja povrede« riječi: »ovoga Zakona« brišu se.
+
+U stavku 2. iza riječi: »ovoga Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«, a iza riječi: »povreda« riječ: »Zakona« briše se.
+
+U stavku 3., u prvoj rečenici, iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«.
+
+#### Članak 47.
+
+U članku 72. stavku 1. iza riječi: »Zakona« dodaju se riječi: »ili članka 101. ili 102. UFEU«, a riječi: »konačnosti« zamjenjuju se riječima: »izvršnosti«.
+
+#### Članak 48.
+
+U članku 73. ispred riječi: »Svi« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Stranke u postupcima u nadležnosti Agencije nemaju pravo na naknadu troškova izazvanih tim postupcima.«.
+
+#### Članak 49.
+
+Članak 74. mijenja se i glasi:
+
+»(1) U primjeni ovoga Zakona, a osobito u slučajevima postojanja pravnih praznina ili dvojbi pri tumačenju propisa, u skladu s člankom 1. Ugovora o pristupanju Republike Hrvatske Europskoj uniji (»Narodne novine – Međunarodni ugovori« br. 2/12.), primjenjuju se na odgovarajući način kriteriji koji proizlaze iz primjene pravila o tržišnom natjecanju u Europskoj uniji.
+
+(2) Danom pristupanja Republike Hrvatske Europskoj uniji Agencija postaje ovlašteno tijelo za primjenu članaka 101. i 102. UFEU.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 50.
+
+(1) Tužbe protiv akata Agencije zaprimljene u mjesno nadležnim upravnim sudovima nakon pristupanja Republike Hrvatske Europskoj uniji rješavat će Visoki upravni sud Republike Hrvatske.
+
+(2) Mjesno nadležni upravni sudovi obvezni su sve predmete vezane za provedbu Zakona o zaštiti tržišnog natjecanja, odnosno koji se vode po tužbama protiv akata Agencije zatečene u postupku na dan stupanja na snagu ovoga Zakona dostaviti na rješavanje Visokom upravnom sudu Republike Hrvatske.
+
+(3) Danom stupanja na snagu ovoga Zakona Hrvatska narodna banka će sve predmete zatečene u postupku, a koji se odnose na zaštitu tržišnog natjecanja na tržištu bankovnih usluga, kao i na tržištu financijskih usluga kada ih pružaju kreditne institucije, ustupiti Agenciji za zaštitu tržišnog natjecanja na nadležno postupanje.
+
+#### Članak 51.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/134
+
+Zagreb, 21. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

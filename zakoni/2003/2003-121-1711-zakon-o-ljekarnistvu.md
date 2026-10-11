@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-07-29
-last_amended: 2008-03-28
+last_amended: 2008-10-13
 status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "121/03, 142/06, 35/08"
+narodne_novine: "121/03, 142/06, 35/08, 117/08"
 amendments:
   - "NN 142/2006 (3207) Uredba o dopuni Zakona o ljekarništvu"
   - "NN 35/2008 (1140) Zakon o dopuni Zakona o ljekarništvu"
+  - "NN 117/2008 (3377) Zakon o izmjeni i dopuni Zakona o ljekarništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1711"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 121/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1711).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 142/2006, NN 35/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 142/2006, NN 35/2008, NN 117/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -685,6 +686,60 @@ Stupanjem na snagu ovoga Zakona prestaje važiti Uredba o dopuni Zakona o ljekar
 Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
 Klasa: 510-11/08-01/01  
 Zagreb, 14. ožujka 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o ljekarništvu (NN 117/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/117/3377*
+
+HRVATSKI SABOR
+
+3377
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O LJEKARNIŠTVU
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o ljekarništvu, kojega je Hrvatski sabor donio na sjednici 26. rujna 2008. godine.  
+Klasa: 011-01/08-01/123  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 2. listopada 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O LJEKARNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o ljekarništvu (»Narodne novine«, br. 121/03. i 35/08.) u članku 20. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:  
+»Opći uvjeti iz stavka 1. podstavka 2. i 4. ovoga članka ne odnose se na državljane država članica Europske unije.  
+Državljani država članica Europske unije moraju poznavati hrvatski jezik najmanje na razini koja je potrebna za nesmetanu i nužnu komunikaciju s pacijentom.«  
+Dosadašnji stavci 2. – 4. postaju stavci 4. – 6.
+
+### Članak 2.
+
+U članku 21. stavku 2. riječi: »odnosno stavka 2.« zamjenjuju se riječima: »odnosno stavka 2., 3. i 4.«.
+
+### Članak 3.
+
+Hrvatska ljekarnička komora obvezna je uskladiti Statut s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.  
+Ostale opće akte Hrvatska ljekarnička komora obvezna je uskladiti s ovim Zakonom i Statutom u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu na dan prijama Republike Hrvatske u Europsku uniju, a objavit će se u »Narodnim novinama«.  
+Klasa: 510-11/08-01/02  
+Zagreb, 26. rujna 2008.
 
 HRVATSKI SABOR  
 Predsjednik  

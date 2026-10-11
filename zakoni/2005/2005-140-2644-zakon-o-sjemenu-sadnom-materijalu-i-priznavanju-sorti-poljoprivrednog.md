@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-11-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "140/05"
-amendments: []
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "140/05, 55/11, 14/14"
+amendments:
+  - "NN 55/2011 (1199) Zakon o izmjenama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja"
+  - "NN 14/2014 (284) Zakon o izmjeni Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2644"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja
 
 > Izvor: Narodne novine, NN 140/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2644).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 55/2011, NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1554,3 +1559,137 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (NN 55/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1199*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O SJEMENU, SADNOM MATERIJALU I PRIZNAVANJU SORTI POLJOPRIVREDNOG BILJA
+
+Proglašavam Zakon o izmjenama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja, koji je Hrvatski sabor donio na sjednici 6. svibnja 2011. godine.
+
+Klasa: 011-01/11-01/86
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 10. svibnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O SJEMENU, SADNOM MATERIJALU I PRIZNAVANJU SORTI POLJOPRIVREDNOG BILJA**
+
+### Članak 1.
+
+U Zakonu o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05., 35/08., 25/09. i 124/10.) u članku 33. stavci 3. i 4. brišu se.
+
+Dosadašnji stavak 5. postaje stavak 3.
+
+U dosadašnjem stavku 6., koji postaje stavak 4., brojka: »5« zamjenjuje se brojkom: »3«.
+
+Dosadašnji stavci 7. i 8. postaju stavci 5. i 6.
+
+### Članak 2.
+
+U članku 41. stavku 1. podstavak 1. briše se.
+
+### Članak 3.
+
+Članak 83. mijenja se i glasi:
+
+»(1) Ako nadležni inspektor u postupku inspekcijskog nadzora utvrdi da je povrijeđen ovaj Zakon ili propisi doneseni na temelju njega, naredit će rješenjem da se utvrđene nepravilnosti, odnosno nedostaci uklone u određenom roku.
+
+(2) Nadležni inspektor donijet će rješenje iz stavka 1. ovoga članka bez odgađanja, a najkasnije u roku od 15 dana od dana završetka nadzora.
+
+(3) Protiv rješenja nadležnog inspektora može se u roku od 15 dana od dana dostave rješenja izjaviti žalba.
+
+(4) Žalbu protiv rješenja inspektora rješava Povjerenstvo za žalbe pri Ministarstvu, koje imenuje Vlada Republike Hrvatske.
+
+(5) Povjerenstvo iz stavka 4. ovoga članka ima tri člana koji moraju biti diplomirani inženjeri agronomije/poljoprivrede određenog studija, odsjeka ili smjera, odnosno magistri agronomske/poljoprivredne struke ili pravne struke s položenim državnim stručnim ispitom za inspektora, te moraju imati najmanje pet godina radnog iskustva u struci.
+
+(6) Povjerenstvo donosi Poslovnik o radu.«.
+
+### Članak 4.
+
+Članak 90. briše se.
+
+### Članak 5.
+
+Članak 91. briše se.
+
+### Članak 6.
+
+U članku 96. stavku 1. točki 2. riječi: »(članak 90. stavak 1.)« brišu se.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 320-20/11-01/01
+
+Zagreb, 6. svibnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/284*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O SJEMENU, SADNOM MATERIJALU I PRIZNAVANJU SORTI POLJOPRIVREDNOG BILJA
+
+Proglašavam Zakon o izmjeni Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/18
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O SJEMENU, SADNOM MATERIJALU I PRIZNAVANJU SORTI POLJOPRIVREDNOG BILJA**
+
+### Članak 1.
+
+U Zakonu o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05., 35/08., 25/09., 124/10. i 55/11.) u članku 77. stavak 3. briše se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/298
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

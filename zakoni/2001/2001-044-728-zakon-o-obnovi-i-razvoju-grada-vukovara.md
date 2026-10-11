@@ -6,13 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-05-16
-last_amended: 2005-07-25
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2013-12-11
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "44/01, 90/05"
+narodne_novine: "44/01, 90/05, 80/08, 38/09, 148/13"
 amendments:
   - "NN 90/2005 (1778) Zakon o dopuni Zakona o obnovi i razvoju Grada Vukovara"
+  - "NN 80/2008 (2605) Zakon o izmjenama i dopunama Zakona o obnovi i razvoju Grada Vukovara"
+  - "NN 38/2009 (835) Zakon o izmjenama Zakona o obnovi i razvoju Grada Vukovara"
+  - "NN 148/2013 (3144) Zakon o izmjeni Zakona o obnovi i razvoju Grada Vukovara"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/728"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 44/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/728).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2005, NN 80/2008, NN 38/2009, NN 148/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -403,3 +406,205 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obnovi i razvoju Grada Vukovara (NN 80/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/80/2605*
+
+HRVATSKI SABOR
+
+2605
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBNOVI I RAZVOJU GRADA VUKOVARA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obnovi i razvoju Grada Vukovara, kojega je Hrvatski sabor donio na sjednici 2. srpnja 2008. godine.  
+Klasa: 011-01/08-01/74  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 4. srpnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBNOVI I RAZVOJU GRADA VUKOVARA**
+
+### Članak 1.
+
+U Zakonu o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01. i 90/05.) u članku 5. riječi: »Ministarstvo za javne radove obnovu i graditeljstvo« zamjenjuju se riječima: »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva«.
+
+### Članak 2.
+
+U članku 15. stavci 2. i 3. mijenjaju se i glase:  
+»Upravni odbor ima pet članova:  
+– ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva,  
+– župan Vukovarsko-srijemske županije,  
+– gradonačelnik Grada Vukovara,  
+– 2 člana koje imenuje Vlada Republike Hrvatske na prijedlog Ministarstva.  
+Ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva je predsjednik Upravnog odbora.«
+
+### Članak 3.
+
+U članku 18. stavak 3. mijenja se i glasi:  
+»Predsjednika Fonda i zamjenika predsjednika imenuje i razrješuje Vlada Republike Hrvatske na prijedlog Ministarstva.«
+
+### Članak 4.
+
+Članak 21. briše se.
+
+### Članak 5.
+
+U članku 25. stavku 2. riječi: »Ministarstvo za obrt, srednje i malo poduzetništvo« zamjenjuju se riječima: »Ministarstvo gospodarstva, rada i poduzetništva«.
+
+### Članak 6.
+
+U članku 26. riječi: »Ministarstvo znanosti i tehnologije« zamjenjuju se riječima: »Ministarstvo znanosti, obrazovanja i športa«.
+
+### Članak 7.
+
+U članku 30. riječi: »Ministarstvo gospodarstva« zamjenjuje se riječima: »Ministarstvo gospodarstva, rada i poduzetništva«.
+
+### Članak 8.
+
+Članak 30. a mijenja se i glasi:  
+»Obveznici poreza na dobit koji obavljaju djelatnost poljoprivrede i ribarstva na području Grada Vukovara i zapošljavaju više od pet zaposlenika u radnom odnosu na neodređeno vrijeme, pri čemu više od 50% zaposlenika ima prebivalište i boravište na području Grada Vukovara ili brdsko-planinskom području ili području posebne državne skrbi, oslobođeni su od plaćanja poreza na dobit do dana prijama Republike Hrvatske u Europsku uniju.  
+Smatra se da obveznik poreza iz stavka 1. ovoga članka zapošljava na neodređeno vrijeme zaposlenika ako je zaposlenik proveo u radnom odnosu kod poreznog obveznika i imao prebivalište i boravio na području Grada Vukovara ili brdsko-planinskom području ili području posebne državne skrbi najmanje devet mjeseci u poreznom razdoblju.«
+
+### Članak 9.
+
+Iza članka 30.a dodaje se članak 30.b koji glasi:  
+»Članak 30.b  
+Obveznici poreza na dobit koji obavljaju djelatnost na području Grada Vukovara, osim djelatnosti poljoprivrede i ribarstva, i zapošljavaju više od pet zaposlenika u radnom odnosu na neodređeno vrijeme, pri čemu više od 50% zaposlenika ima prebivalište i boravište na području Grada Vukovara ili brdsko-planinskom području ili području posebne državne skrbi, plaćaju porez na dobit kako slijedi:  
+– ne plaćaju porez na dobit, u razdoblju 2008.-2010. godine,  
+– plaćaju 25% od propisane stope poreza u razdoblju 2011.-2013. godine,  
+– plaćaju 75% od propisane stope poreza u razdoblju 2014.-2016. godine.  
+Iznos oslobađanja od plaćanja poreza na dobit za navedena vremenska razdoblja iz stavka 1. ovoga članka, utvrđuje se sukladno uvjetima i kriterijima utvrđenim Odlukom o objavi pravila o potporama male vrijednosti.  
+Od 2017. godine obveznici poreza na dobit iz stavka 1. ovoga članka plaćat će porez na dobit u visini propisane važeće porezne stope.  
+Smatra se da obveznik poreza iz stavka 1. ovoga članka zapošljava na neodređeno vrijeme zaposlenika ako je zaposlenik proveo u radnom odnosu kod poreznog obveznika i imao prebivalište i boravio na području Grada Vukovara ili brdsko-planinskom području ili području posebne državne skrbi najmanje devet mjeseci u poreznom razdoblju.  
+Pravilnik o načinu ostvarivanja porezne olakšice iz stavka 1. ovoga članka donosi ministar nadležan za regionalni razvoj uz suglasnost ministra financija.«
+
+### Članak 10.
+
+Na dan prijama Republike Hrvatske u Europsku uniju prestaje važiti odredba članka 22. stavka 1. ovoga Zakona.
+
+### Članak 11.
+
+Pravilnik iz članka 9. ovoga Zakona donijet će ministar nadležan za regionalni razvoj, najkasnije u roku od 90 dana od stupanja na snagu ovoga Zakona.
+
+### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 304-03/08-01/01  
+Zagreb, 2. srpnja 2008.  
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o obnovi i razvoju Grada Vukovara (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/835*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBNOVI I RAZVOJU GRADA VUKOVARA
+
+Proglašavam Zakon o izmjenama Zakona o obnovi i razvoju Grada Vukovara, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/40
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBNOVI I RAZVOJU GRADA VUKOVARA**
+
+### Članak 1.
+
+U Zakonu o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01. i 90/05.) u članku 29. riječi: »Zakonu o područjima od posebne državne skrbi (»Narodne novine«, br. 44/96., 57/96., 124/97. i 73/00.)« zamjenjuju se riječima: »Zakonu o područjima posebne državne skrbi (»Narodne novine«, br. 86/08.)«.
+
+### Članak 2.
+
+U članku 30. stavku 2. riječi: »Gradskog poglavarstva« zamjenjuju se riječima: »gradonačelnika«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općinskih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
+
+Klasa: 304-03/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o obnovi i razvoju Grada Vukovara (NN 148/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3144*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O OBNOVI I RAZVOJU GRADA VUKOVARA
+
+Proglašavam Zakon o izmjeni Zakona o obnovi i razvoju Grada Vukovara, koji je Hrvatski sabor donio na sjednici 29. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/268
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 4. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OBNOVI I RAZVOJU GRADA VUKOVARA**
+
+#### Članak 1.
+
+U Zakonu o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01., 90/05., 80/08. i 38/09.) članak 30.b briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 2.
+
+Na porezne obveznike koji tijekom 2014. godine podnesu poreznu prijavu za prethodnu fiskalnu godinu primjenjuje se Pravilnik o načinu ostvarivanja porezne olakšice obveznika poreza na dobit na području Grada Vukovara iz članka 30.b stavka 4. Zakona o obnovi i razvoju Grada Vukovara iz članka 1. ovog Zakona.
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/271
+
+Zagreb, 29. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

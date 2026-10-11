@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-06-18
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "48/96"
-amendments: []
+last_amended: 2013-10-18
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "48/96, 72/13, 127/13"
+amendments:
+  - "NN 72/2013 (1437) Zakon o dopunama Zakona o vanjskim poslovima"
+  - "NN 127/2013 (2756) Zakon o izmjeni Zakona o vanjskim poslovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/918"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o vanjskim poslovima
 
 > Izvor: Narodne novine, NN 48/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/918).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 72/2013, NN 127/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -742,3 +747,167 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopunama Zakona o vanjskim poslovima (NN 72/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/72/1437*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O VANJSKIM POSLOVIMA
+
+Proglašavam Zakon o dopunama Zakona o vanjskim poslovima, koji je Hrvatski sabor donio na sjednici 5. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/124
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 10. lipnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O VANJSKIM POSLOVIMA**
+
+### Članak 1.
+
+U Zakonu o vanjskim poslovima (»Narodne novine«, br. 48/96.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1. a
+
+Ovaj Zakon usklađen je sa sljedećim aktima Europske unije:
+
+– Odluka 95/553/EZ predstavnika vlada država članica na sastanku Vijeća 19. prosinca 1995. u vezi zaštite građana Europske unije u diplomatskim i konzularnim predstavništvima (SL L 314, 28. 12. 1995.) i
+
+– Odluka 96/409/ZVSP predstavnika vlada država članica na sastanku Vijeća 25. lipnja 1996. o uspostavi hitne putne isprave (SL L 168, 6. 7. 1996.).«.
+
+### Članak 2.
+
+Iza članka 14. dodaju se naslovi iznad članaka i članci 14.a i 14.b koji glase:
+
+*»Zaštita državljana Republike Hrvatske*
+
+### Članak 14.a
+
+Konzularnu zaštitu i pomoć državljanima Republike Hrvatske koji se nalaze u inozemstvu, gdje Republika Hrvatska nema svoje diplomatsko ili drugo predstavništvo, pružaju diplomatske misije ili konzularni uredi druge države članice Europske unije, u skladu sa svojim nacionalnim zakonodavstvom.
+
+*Davanje novčane pozajmice državljaninu Republike Hrvatske*
+
+### Članak 14.b
+
+Diplomatske misije i konzularni uredi Republike Hrvatske pružaju pomoć državljaninu Republike Hrvatske kako bi olakšali njegov povratak u Republiku Hrvatsku kada se nađe u nevolji u inozemstvu, i to:
+
+– davanjem uputa i savjeta da bi se vratio u Republiku Hrvatsku vlastitim sredstvima;
+
+– pomaganjem u pribavljanju potrebnih novčanih sredstava iz vlastitih ili drugih izvora.
+
+Iznimno, u slučaju kada nema druge mogućnosti da se državljaninu Republike Hrvatske u nevolji osigura povratak u Republiku Hrvatsku, a odgađanje povratka bi moglo uzrokovati ozbiljne posljedice za njegove interese, šef diplomatske misije, odnosno konzularnog ureda može odobriti davanje novčane pozajmice i odrediti način njezina trošenja, uz pisano preuzetu obvezu povrata posuđenih sredstava po povratku u Republiku Hrvatsku.
+
+Novčana pozajmica iz stavaka 1. i 2. ovog članka će biti uskraćena ako podnositelj zahtjeva odbije pisano preuzeti obvezu povrata pozajmice, ako je dao lažne podatke ili se utvrdi da nije vratio ranije dobivenu pozajmicu.
+
+U posebno opravdanim slučajevima, glavni tajnik Ministarstva može donijeti odluku o djelomičnom ili potpunom oslobađanju obveze povrata pozajmice iz stavaka 1., 2. i 3. ovog članka, u skladu s pravilnikom kojim će se urediti uvjeti utvrđivanja posebno opravdanih slučajeva za oslobođenje.«.
+
+### Članak 3.
+
+Iza članka 15. dodaju se naslov iznad članka i članak 15.a koji glase:
+
+*»Zaštita državljana država članica Europske unije*
+
+### Članak 15.a
+
+Republika Hrvatska osigurava zaštitu državljana država članica Europske unije kako je navedeno u Odluci 95/553/EZ predstavnika vlada država članica na sastanku Vijeća 19. prosinca 1995. u vezi zaštite građana Europske unije u diplomatskim i konzularnim predstavništvima (SL L 314, 28. 12. 1995.), a koja uključuje:
+
+– pomoć kod smrtnog slučaja;
+
+– pomoć u slučaju ozbiljne nesreće ili ozbiljne bolesti;
+
+– pomoć u slučaju pritvaranja ili uhićenja;
+
+– pomoć žrtvama nasilnih kažnjivih djela te
+
+– pomoć i repatrijaciju državljana država članica Europske unije u nevolji.
+
+U slučaju gubitka putne isprave, diplomatske misije i konzularni uredi Republike Hrvatske izdaju Europski hitni putni list za povratak državljanima država članica Europske unije, sukladno Odluci 96/409/ZVSP predstavnika vlada država članica na sastanku Vijeća 25. lipnja 1996. o uspostavi hitne putne isprave (SL L 168, 6. 7. 1996.), prilagođenoj radi prijema novih država članica.
+
+Pored navedenog, diplomatske misije i konzularni uredi Republike Hrvatske koji se nalaze u državama koje nisu članice Europske unije, na području svoje nadležnosti, na zahtjev državljana država članica Europske unije pružaju pomoć i u drugim slučajevima.«.
+
+### Članak 4.
+
+Ministar vanjskih poslova donijet će, u roku od 30 dana od dana stupanja na snagu ovoga Zakona, pravilnik kojim će propisati:
+
+– sadržaj isprave iz članka 14.b Zakona kojom se državljanina Republike Hrvatske obvezuje na povrat pozajmice,
+
+– uvjete utvrđivanja posebno opravdanih slučajeva iz članka 14.b stavka 4. Zakona,
+
+– postupovna pravila o načinu primjene Odluka iz članaka 1.a i 15.a Zakona.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/110
+
+Zagreb, 5. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o vanjskim poslovima (NN 127/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2756*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O VANJSKIM POSLOVIMA
+
+Proglašavam Zakon o izmjeni Zakona o vanjskim poslovima, koji je Hrvatski sabor donio na sjednici 4. listopada 2013. godine.
+
+Klasa: 011-01/13-01/223
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 10. listopada 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O VANJSKIM POSLOVIMA**
+
+### Članak 1.
+
+U Zakonu o vanjskim poslovima (»Narodne novine«, br. 48/96. i 72/13.) u članku 66. stavku 1. riječi: »uz suglasnost Vlade Republike Hrvatske,« brišu se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/212
+
+Zagreb, 4. listopada 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v.r.

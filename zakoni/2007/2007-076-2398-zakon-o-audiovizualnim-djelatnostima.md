@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "76/07"
-amendments: []
+last_amended: 2011-08-02
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "76/07, 90/11"
+amendments:
+  - "NN 90/2011 (1930) Zakon o izmjenama i dopuni Zakona o audiovizualnim djelatnostima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2398"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o audiovizualnim djelatnostima
 
 > Izvor: Narodne novine, NN 76/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2398).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -612,3 +616,279 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o audiovizualnim djelatnostima (NN 90/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1930*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O AUDIOVIZUALNIM DJELATNOSTIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o audiovizualnim djelatnostima, koji je Hrvatski sabor donio na sjednici 15. srpnja 2011. godine.
+
+Klasa: 011-01/11-01/173
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. srpnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O AUDIOVIZUALNIM DJELATNOSTIMA**
+
+### Članak 1.
+
+U Zakonu o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) članak 3. mijenja se i glasi:
+
+»U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+
+Audiovizualnim djelatnostima smatraju se razvoj, proizvodnja, promocija, distribucija i prikazivanje audiovizualnih djela. U svrhu provedbe odredbe članka 36. ovoga Zakona smatra se da audiovizualne djelatnosti obuhvaćaju i proizvodnju jednog ili više audiovizualnih i multimedijskih programa, pružanje audiovizualnih medijskih usluga, audiovizualnih medijskih usluga na zahtjev i usluga elektroničkih publikacija te prijenos i/ili retransmisiju audiovizualnih programa i njihovih dijelova.
+
+Audiovizualna djela su igrani i dokumentarni filmovi, animirani filmovi, alternativni filmovi, eksperimentalni filmovi te sva druga audiovizualna djela, koja su umjetnički i/ili autorski izraz bez obzira na tehnologiju kojom su nastala, podlogu na kojoj su fiksirana te način na koji se prikazuju.
+
+Kulturni proizvod je audiovizualno djelo za koje je moguće dodijeliti državnu potporu sukladno uspostavljenom nacionalnom sustavu odabira utemeljenom na mjerljivim kriterijima.
+
+Teško ili zahtjevno audiovizualno djelo je djelo posebne umjetničke i/ili kulturne vrijednosti za nacionalnu ili europsku filmsku umjetnost koje pridonosi kulturnoj raznolikosti i pluralizmu umjetničkog izraza. Teško ili zahtjevno audiovizualno djelo je osobito:
+
+– djelo visoke kvalitete, ili kreativnog rizika ili eksperimentalni film, koje iz bilo kojeg razloga nije komercijalno isplativo, odnosno kojemu je otežan pristup financiranju,
+
+– djelo zahtjevne tematike važne za kulturni cilj koje nije komercijalno održivo,
+
+– prvi ili drugi film nekog redatelja, dokumentarni film, kratki film i slično.
+
+Audiovizualno djelo niskoga proračuna je svako djelo čiji troškovi proizvodnje ne premašuju prosječne troškove audiovizualnog djela u njegovoj kategoriji (cjelovečernji igrani film, kratki igrani film, cjelovečernji dokumentarni film, kratki dokumentarni film, animirani film, eksperimentalni film) koje je pretežito financirano iz javnih sredstava Republike Hrvatske u zadnje tri godine.
+
+Komplementarne djelatnosti su zaštita audiovizualne baštine, uključujući kinotečnu djelatnost, filmske festivale i druge audiovizualne manifestacije, te djelatnosti razvijanja audiovizualne kulture, programi promocije i prodaje hrvatskih audiovizualnih djela, međunarodna suradnja, proučavanje i kritičko vrednovanje audiovizualnih djelatnosti, izdavaštvo u području audiovizualnih djelatnosti, programi stručnog usavršavanja i programi audiovizualnih udruga i organizacija.
+
+Hrvatski film je:
+
+– film čiji su redatelj i/ili producent državljani Republike Hrvatske ili pravna osoba sa sjedištem u Republici Hrvatskoj i u kojem je sudjelovanje hrvatskih autora, glumaca i drugih hrvatskih umjetnika i radnika ili hrvatskog kapitala od većeg značaja,
+
+– film proizveden od jednog ili više hrvatskih producenata s najmanje jednim hrvatskim autorom i s pretežnim dijelom hrvatskih filmskih radnika, kao i film proizveden u suradnji s inozemnim producentom sukladno Europskoj konvenciji o filmskoj koprodukciji.
+
+Producent je fizička ili pravna osoba koja pokreće proces produkcije audiovizualnog djela i sveobuhvatno nadzire njegovu proizvodnju, u svoje ime prikuplja financijska sredstva, organizira proizvodnju i preuzima odgovornost za ukupno financijsko poslovanje i kvalitetu djela te zajedno s redateljem i autorskom ekipom sudjeluje u stvaranju audiovizualnog djela, te njegovoj promidžbi, plasmanu na filmske festivale i eksploataciji.
+
+Pojmovi autor, autorsko djelo, audiovizualne medijske usluge, elektroničke publikacije, audiovizualne medijske usluge na zahtjev, prijenos i/ili retransmisija audiovizualnih programa, televizijski programski kanali, koprodukcija, koproducent, koncesionar, operator, nakladnici televizijskih programa, europsko audiovizualno djelo, fiksacija, neovisni producent, kao i drugi pojmovi iz područja intelektualnog vlasništva, elektroničkih medija i elektroničkih komunikacija (telekomunikacija) imaju značenje uređeno posebnim zakonima.«.
+
+### Članak 2.
+
+Članak 5. mijenja se i glasi:
+
+»Centar obavlja sljedeću djelatnost:
+
+– priprema i provodi Nacionalni program promicanja audiovizualnog stvaralaštva (u daljnjem tekstu: Nacionalni program), potičući obavljanje, organiziranje i financiranje pripreme, razvoja, proizvodnje, distribucije i prikazivanja hrvatskih, europskih i svjetskih kulturno vrijednih audiovizualnih djela,
+
+– prikuplja i putem javnog natječaja raspodjeljuje sredstva za poticanje audiovizualnih djelatnosti u skladu s ovim Zakonom i drugim propisima,
+
+– podupire i potiče proizvodnju filmova mladih autora i debitanata,
+
+– potiče, usmjerava i organizira domaća i inozemna ulaganja u audiovizualne djelatnosti,
+
+– provodi u skladu sa člankom 38., 39. i 39.a ovoga Zakona mjere poticanja ulaganja u proizvodnju audiovizualnih djela kao kulturnih proizvoda,
+
+– predstavlja hrvatske audiovizualne djelatnosti i stvaralaštvo na međunarodnim festivalima i manifestacijama,
+
+– obavlja zadaće i aktivnosti u provedbi programa Europske unije i Vijeća Europe iz područja audiovizualnih djelatnosti,
+
+– potiče sudjelovanje hrvatskih producenata u europskim i međunarodnim koprodukcijama,
+
+– potiče i organizira domaće i međunarodne audiovizualne festivale i manifestacije,
+
+– obavlja i organizira nakladničku djelatnost,
+
+– razvija i promiče audiovizualnu kulturu,
+
+– obavlja poslove produkcijsko-troškovne kontrole i analize,
+
+– utvrđuje način i rokove distribucije audiovizualnih djela za koja je dodijeljena potpora ugovorom o dodjeli sredstava,
+
+– obavlja referalno-dokumentacijsku djelatnost za audiovizualne djelatnosti u Republici Hrvatskoj,
+
+– potiče zaštitu, prikazivanje i proučavanje audiovizualne baštine,
+
+– podupire i organizira stručno i profesionalno usavršavanje u području audiovizualnih djelatnosti,
+
+– predlaže mjere i surađuje s drugim tijelima na suzbijanju nelegalnog prometa i uporabe audiovizualnih djela,
+
+– promiče vrijednosti i potiče mjere značajne za zaštitu djece i mladeži, ravnopravnost spolova, rasa i nacionalnih manjina,
+
+– nadzire provedbu kategorizacije audiovizualnih djela u skladu sa člankom 30. ovoga Zakona,
+
+– donosi rješenje kojim se odlučuje o zahtjevu za ostvarivanje prava na financijski poticaj sukladno članku 39.a stavku 4. ovoga Zakona,
+
+– surađuje sa strukovnim udrugama, pravnim i fizičkim osobama u cilju unapređenja audiovizualnih djelatnosti,
+
+– vodi očevidnike sukladno ovom Zakonu,
+
+– podnosi optužni prijedlog sukladno prekršajnim odredbama ovoga Zakona i odredbama Prekršajnog zakona.
+
+Poslovi iz stavka 1. podstavka 1., 2., 5., 12., 13., 19., 20., 22. i 23. ovoga članka su poslovi u području javnih ovlasti Centra.
+
+Centar sklapa sporazum sa strukovnim udrugama iz područja audiovizualnih djelatnosti o utvrđivanju Općih uvjeta pod kojima umjetnici i drugi djelatnici mogu sudjelovati u provedbi Nacionalnog programa.
+
+Djelatnost Centra pobliže se uređuje Statutom sukladno odredbama ovoga Zakona.«.
+
+### Članak 3.
+
+U članku 14. stavak 3. mijenja se i glasi:
+
+»Na sjednice Vijeća poziva se ravnatelj Centra.«
+
+### Članak 4.
+
+U članku 15. stavku 2. riječi: »što se smatra niskoproračunskim ili složenim filmom, kao i« brišu se.
+
+### Članak 5.
+
+U članku 16. stavku 1. riječi: »pravomoćnih odluka« zamjenjuju se riječima: »odluka Vijeća«.
+
+### Članak 6.
+
+U članku 21. stavak 2. mijenja se i glasi:
+
+»Umjetnički savjetnik ne smije za vrijeme trajanja svoga mandata biti nositelj projekta, koautor ili autor doprinosa projektu koji je prijavljen na Javni poziv i ne smije sudjelovati u vlasničkoj i/ili upravljačkoj strukturi pravne osobe koja je prijavila projekt na Javni poziv.«.
+
+### Članak 7.
+
+Članak 36. mijenja se i glasi:
+
+»Sredstva za provedbu Nacionalnog programa osiguravaju se iz državnog proračuna te iz dijela ukupnog godišnjeg bruto prihoda ostvarenog obavljanjem djelatnosti iz članka 3. stavka 1. podstavka 1. ovoga Zakona, i to:
+
+– Hrvatske radiotelevizije u iznosu od 2%,
+
+– nakladnika televizije na nacionalnoj razini u iznosu od 0,8%,
+
+– nakladnika televizije na regionalnoj ili gradskoj razini čije područje pokrivanja obuhvaća više od 750.000 stanovnika u iznosu od 0,5%,
+
+– pružatelja audiovizualnih medijskih usluga na zahtjev u iznosu od 2%,
+
+– pružatelja medijskih usluga koji imaju dopuštenje za satelitski, internetski, kabelski prijenos i druge dopuštene oblike prijenosa audiovizualnog programa u iznosu od 0,5%,
+
+– kinoprikazivača u iznosu od 0,1%.
+
+Operatori javnih komunikacijskih mreža, uključujući operatore usluga pristupa internetu, osim operatora kojima je osnovna djelatnost obavljanje usluga prijenosa i odašiljanja audiovizualnih i/ili radijskih programa osoba iz stavka 1. ovoga članka, za provedbu Nacionalnog programa plaćaju 0,8% ukupnog godišnjeg bruto prihoda ostvarenog u prethodnoj kalendarskoj godini obavljanjem djelatnosti prijenosa i/ili retransmisije audiovizualnih programa i njihovih dijelova u javnim komunikacijskim mrežama, a što obuhvaća internetsku i kabelsku distribuciju.
+
+Sredstva za provedbu Nacionalnog programa mogu se osiguravati i iz proračuna jedinica lokalne i područne (regionalne) samouprave, međunarodnih fondova, donacija, kao i iz dijela prikupljenih naknada za privatno i drugo vlastito korištenje audiovizualnih djela.
+
+Osobe iz stavka 1. i 2. ovoga članka dužne su najkasnije do kraja travnja svake godine za prethodnu kalendarsku godinu dostaviti Centru podatke o ukupnom godišnjem bruto prihodu iz stavka 1. i 2. ovoga članka, a u protivnom će Centar za izračun koristiti javno objavljena godišnja financijska izvješća koja su osobe iz stavka 1. i 2. ovoga članka predale nadležnoj financijskoj agenciji.
+
+Centar ima pravo dostavljene podatke iz stavka 4. ovoga članka dati na provjeru ovlaštenom revizoru kojem su osobe iz stavka 1. i 2. ovoga članka dužne omogućiti pristup svojoj financijskoj dokumentaciji.
+
+Osobe iz stavka 1. i 2. ovoga članka dužne su uplatiti sredstva za provedbu Nacionalnog programa u korist Centra na temelju računa koji Centar izdaje za tekuću godinu na temelju izračuna prihoda iz stavka 1. i 2. ovoga članka za prethodnu kalendarsku godinu.
+
+Sredstva iz stavka 6. ovoga članka uplaćuju se Centru najmanje jednom tromjesečno.«.
+
+### Članak 8.
+
+Naslov iznad članka 38. mijenja se i glasi: »Poticanje ulaganja u proizvodnju audiovizualnih djela«
+
+Članak 38. mijenja se i glasi:
+
+»Ulaganje u proizvodnju audiovizualnih djela kao kulturnih proizvoda potiče se mjerama propisanim ovim Zakonom u cilju doprinosa razvoju projekata s područja filmskih i audiovizualnih djelatnosti, stvaranja povoljnih uvjeta razvoja hrvatskog i europskog kulturnog proizvoda, razvoja međunarodne filmske suradnje i internacionalnih koprodukcija kao i radi poticanja razvoja struke i rasta zapošljavanja te postizanja dugoročnih pozitivnih učinaka za Republiku Hrvatsku kao produkcijsku lokaciju, s ciljem doprinosa napretku audiovizualnog stvaralaštva i očuvanju hrvatske kulturne baštine u zemlji i inozemstvu.
+
+Poticanjem ulaganja u proizvodnju audiovizualnih djela mjerama iz stavka 1. ovoga članka ostvaruje se i međunarodna promidžba Republike Hrvatske, jačanje međunarodne kulturne razmjene, povećanje kvalitete audiovizualnih djela, razvoj i jačanje audiovizualne tehničke infrastrukture, stručno usavršavanje kreativnog i tehničkog osoblja u audiovizualnim i pratećim djelatnostima.«.
+
+### Članak 9.
+
+Članak 39. mijenja se glasi:
+
+»Poticanje ulaganja u proizvodnju audiovizualnih djela odnosi se na pravo osoba iz članka 39.a stavka 1. ovoga Zakona na ostvarivanje financijskog poticaja u obliku povrata određenog dijela novčanih sredstava utrošenih u Republici Hrvatskoj za proizvodnju audiovizualnih djela kao kulturnih proizvoda iz članka 39.a stavka 2. ovoga Zakona.
+
+Financijski poticaj iznosi 20% od ukupnog iznosa troškova koji su učinjeni za proizvodnju audiovizualnog djela iz članka 39.a stavka 2. ovoga Zakona u Republici Hrvatskoj, uz ograničenje iznosa sredstava za pojedino audiovizualno djelo predviđeno ovim Zakonom i Pravilnikom o poticanju ulaganja u proizvodnju audiovizualnih djela.
+
+Osnovicom za izračun financijskog poticaja smatra se ukupni iznos bez poreza na dodanu vrijednost.
+
+Financijski poticaj iz stavka 1. ovoga članka izvršit će Ministarstvo kulture na teret državnog proračuna u okviru osiguranih sredstava namijenjenih za mjere poticaja.
+
+Pravo na financijski poticaj iz stavka 2. ovoga članka imaju i pravne osobe koje su za proizvodnju istog audiovizualnog djela primile sredstva iz javnih izvora Republike Hrvatske i drugih izvora zemalja članica Europske unije, uz uvjet da zbroj tako dobivenih ukupnih sredstava, uključujući iznos financijskog poticaja iz stavka 2. ovoga članka, ne iznosi više od 50% cjelokupnog proračuna predmetnog audiovizualnog djela odnosno 50% opravdanih troškova projekta.
+
+Sukladno važećoj Odluci Vlade Republike Hrvatske o objavljivanju pravila o državnoj potpori kinematografskoj i ostaloj audiovizualnoj djelatnosti, ograničenje iz stavka 5. ovoga članka ne odnosi se na teška ili zahtjevna audiovizualna djela, te audiovizualna djela s niskim proračunom.
+
+Dodjeljivanje financijskog poticaja iz članka 39. i 39.a ovoga Zakona nema značenje povrata poreza u smislu poreznih propisa.«.
+
+### Članak 10.
+
+Iza članka 39. dodaje se članak 39.a koji glasi:
+
+»Članak 39.a
+
+Pravo na financijski poticaj iz članka 39. ovoga Zakona imaju pravne osobe registrirane u Republici Hrvatskoj za proizvodnju audiovizualnih djela iz stavka 2. ovoga članka koje udovoljavaju kriterijima određenim Pravilnikom o poticanju ulaganja u proizvodnju audiovizualnih djela.
+
+Pravo na financijski poticaj iz članka 39. ovoga Zakona ostvaruje se za igrane, animirane i dokumentarne filmove, televizijske filmove i televizijske serije, koji se proizvode u cijelosti ili djelomično u Republici Hrvatskoj koji su namijenjeni javnom prikazivanju, te udovoljavaju kriterijima određenim ovim Zakonom i Pravilnikom o poticanju ulaganja u proizvodnju audiovizualnih djela, bez obzira financiraju li se iz domaćih ili međunarodnih izvora.
+
+Prije početka proizvodnje djela iz stavka 2. ovoga članka u Republici Hrvatskoj, pravna osoba iz stavka 1. ovoga članka podnosi zahtjev za ostvarivanje prava na financijski poticaj Povjerenstvu Centra za poticanje ulaganja u proizvodnju audiovizualnih djela (u daljnjem tekstu: Povjerenstvo), koje se imenuje i razrješava u skladu s Pravilnikom o poticanju ulaganja u proizvodnju audiovizualnih djela.
+
+Nakon provedenog postupka, Centar na prijedlog Povjerenstva odlučuje o zahtjevu iz stavka 3. ovoga članka rješenjem kojim jamči podnositelju zahtjeva ostvarivanje prava na financijski poticaj u određenom iznosu po završetku proizvodnje audiovizualnog djela u Republici Hrvatskoj u roku propisanom Pravilnikom o poticanju ulaganja u proizvodnju audiovizualnih djela, a u okviru osiguranih sredstava iz članka 39. stavka 4. ovoga Zakona. Protiv rješenja Centra može se podnijeti žalba Ministarstvu kulture.
+
+Po završetku proizvodnje audiovizualnog djela u Republici Hrvatskoj, pravna osoba kojoj je izdano rješenje iz stavka 4. ovoga članka dužna je Centru dostaviti u rješenjem utvrđenom roku svu potrebnu dokumentaciju kojom dokazuje da su ispunjeni svi propisani uvjeti i rokovi za ostvarivanje financijskog poticaja zajamčenog navedenim rješenjem.
+
+Način ostvarivanja financijskog poticaja, audiovizualna djela za koje se ostvaruje financijski poticaj, rokove, kriterije i druge uvjete za ostvarivanje financijskog poticaja iz članka 39. ovoga Zakona kao i program potpora sukladno posebnim propisima o državnim potporama i važećom Odlukom Vlade Republike Hrvatske o objavljivanju pravila o državnoj potpori kinematografskoj i ostaloj audiovizualnoj djelatnosti, pravilnikom propisuje ministar kulture na prijedlog Centra uz prethodnu suglasnost ministra financija.«.
+
+### Članak 11.
+
+Članak 40. mijenja se i glasi:
+
+»Novčanom kaznom od 50.000,00 kuna do 500.000,00 kuna kaznit će se pravna osoba koja:
+
+– je registrirana za proizvodnju, promet ili javno prikazivanje audiovizualnih djela i obavlja navedene djelatnosti, a nije sukladno članku 26., 28. i 29. ovoga Zakona upisana u odgovarajući očevidnik koji vodi Centar,
+
+– postupa suprotno odredbi članka 29. stavka 2. ovoga Zakona,
+
+– prikazuje, distribuira, iznajmljuje, posuđuje, prodaje ili na bilo koji drugi način prezentira audiovizualno djelo javnosti za kućnu uporabu ili putem javnog prikazivanja, suprotno članku 30. ovoga Zakona,
+
+– ne dostavi Centru obavijest o kategorizaciji djela u roku iz članka 30. stavka 2. ovoga Zakona,
+
+– postupa suprotno odredbi članka 31. ovoga Zakona,
+
+– javno prikazuje strana audiovizualna djela koja nisu obrađena na standardnom hrvatskom jeziku ili njegovim narječjima suprotno članku 32. stavku 1. i 2. ovoga Zakona,
+
+– postupa suprotno odredbi članka 34. ovoga Zakona,
+
+– ne dostavi Centru podatke o ukupnom godišnjem brutoprihodu iz članka 36. stavka 1. i 2. ovoga Zakona ili ih ne dostavi u propisanom roku sukladno članku 36. stavku 4. ovoga Zakona,
+
+– ne omogući pristup svojoj financijskoj dokumentaciji ovlaštenom revizoru suprotno članku 36. stavku 5. ovoga Zakona.
+
+Ako prekršaje iz stavka 1. ovoga članka počini odgovorna osoba u pravnoj osobi kaznit će se novčanom kaznom od 5.000,00 kuna do 20.000,00 kuna.
+
+Ako prekršaje iz stavka 1. ovoga članka počini fizička osoba, uključivši obrtnika i trgovca pojedinca, kaznit će se novčanom kaznom od 5.000,00 kuna do 20.000,00 kuna.
+
+Predmeti koji su bili namijenjeni ili su korišteni za počinjenje prekršaja iz stavka 1. podstavka 3. i 5. ovoga članka oduzet će se.
+
+Pravnoj osobi, fizičkoj osobi uključujući obrtnika i trgovca pojedinca koji u obavljanju djelatnosti počine prekršaje iz stavka 1. podstavka 3. i 5. ovoga članka može se izreći zaštitna mjera zabrane obavljanja djelatnosti ili dijelova djelatnosti u trajanju do jedne godine, ako je počinjeni prekršaj naročito težak zbog načina izvršenja, posljedica djela, počinjenja u povratu ili drugih okolnosti počinjenog prekršaja koji ga čine naročito teškim.«.
+
+### Članak 12.
+
+Ministar kulture donijet će provedbeni propis utvrđen ovim Zakonom u roku od 60 dana od dana stupanja na snagu odredbi članka 8., 9. i 10. ovoga Zakona.
+
+### Članak 13.
+
+Ugovori sklopljeni na temelju članka 36. i 38. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) prestaju važiti s danom podmirenja novčanih obveza koje su prema navedenim odredbama toga Zakona nastale do trenutka stupanja na snagu ovoga Zakona.
+
+Obveznici uplate sredstava za Nacionalni program koji nisu sklopili ugovor iz članka 36. i 38. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) do dana stupanja na snagu ovoga Zakona dužni su uplatiti sredstva za Nacionalni program u iznosima propisanim člankom 36. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) u roku od trideset dana od dana stupanja na snagu ovoga Zakona zajedno sa zateznim kamatama.
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 8., 9. i 10. ovoga Zakona koje stupaju na snagu 1. siječnja 2012.
+
+Klasa: 612-01/11-01/02
+
+Zagreb, 15. srpnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

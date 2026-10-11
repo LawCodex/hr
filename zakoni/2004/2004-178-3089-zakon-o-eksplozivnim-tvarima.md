@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2004-12-16
-last_amended: 2008-06-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2010-12-22
+status: in_force
+status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "178/04, 67/08"
+narodne_novine: "178/04, 67/08, 144/10"
 amendments:
   - "NN 67/2008 (2230) Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima"
+  - "NN 144/2010 (3628) Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/178/3089"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 178/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/178/3089).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2008, NN 144/2010.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1119,6 +1120,140 @@ Klasa: 213-04/08-01/02
 Zagreb, 30. svibnja 2008.
 
 HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima (NN 144/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3628*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O EKSPLOZIVNIM TVARIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima, koji je Hrvatski sabor donio na sjednici 10. prosinca 2010. godine.
+
+Klasa: 011-01/10-01/151
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 15. prosinca 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O EKSPLOZIVNIM TVARIMA**
+
+### Članak 1.
+
+U Zakonu o eksplozivnim tvarima (»Narodne novine«, br. 178/04., 109/07. i 67/08.) u članku 4. stavku 1. podstavku 1. riječi: »za zabavu razreda I. i II.« zamjenjuju se riječima: »razreda I., II., III., T1. i P1.«.
+
+U podstavku 8. iza riječi: »ovim Zakonom« umjesto zareza stavlja se točka te se dodaje rečenica: »U smislu ovoga Zakona ne smatra se rukovanjem eksplozivnim tvarima prodaja na malo streljiva i pirotehničkih sredstava razreda I.«.
+
+Podstavak 12. mijenja se i glasi:
+
+»– priručno skladište je prostorija:
+
+– koja je izgrađena u sklopu prodavaonice i/ili proizvodnog prostora oružja i streljiva, prodavaonice pirotehničkih sredstava, proizvodnog pogona za proizvodnju eksplozivnih tvari, ispitnog laboratorija ili lansirne postaje za obranu od tuče,
+
+– čiji su građevinsko-konstrukcijski uvjeti propisani posebnim propisom,
+
+– koja služi za smještaj eksplozivnih tvari ovisno o namjeni priručnog skladišta, uz uvjet da ukupne količine pirotehničkih sredstava ne prelaze 60 kg neto pirotehničke smjese po m2 prostora, a maksimalno 300 kg ako se priručno skladište nalazi u sklopu poslovnog objekta ili maksimalno 150 kg ako se priručno skladište nalazi u sklopu poslovno-stambenog objekta. Ako se u priručnom skladištu skladište ostale eksplozivne tvari maksimalna količina ne smije prelaziti 12 kg ekvivalentne mase eksploziva s jediničnom energijom od 420 daNm/kg.«.
+
+### Članak 2.
+
+U članku 8. stavku 4. riječi: »ukinut će« zamjenjuju se riječima: »rješenjem će ukinuti«.
+
+### Članak 3.
+
+U članku 15. stavku 2. podstavak 2. mijenja se i glasi:
+
+»– imati najmanje višu stručnu spremu, odnosno završen stručni studij ili završen preddiplomski sveučilišni studij iz područja tehničkih znanosti,«.
+
+### Članak 4.
+
+U članku 16. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ministarstvo će rješenjem oduzeti odobrenje za proizvodnju eksplozivnih tvari na radilištu pravnoj osobi ili obrtniku koji više ne ispunjavaju uvjete iz stavka 2. ovoga članka.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 5.
+
+U članku 17. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo će rješenjem oduzeti odobrenje za proizvodnju eksplozivnih tvari pravnoj osobi ili obrtniku koji više ne ispunjavaju uvjete propisane člankom 15. stavkom 1. i 2. ovoga Zakona.«.
+
+### Članak 6.
+
+U članku 21. stavak 3. mijenja se i glasi:
+
+»(3) Pravne osobe ili obrtnici koji imaju odobrenje iz stavka 1. ovoga članka i članka 14. stavka 1. ovoga Zakona, smiju prodavati eksplozivne tvari samo pravnim osobama i obrtnicima koji imaju odobrenje za uporabu, promet i proizvodnju eksplozivnih tvari te proizvodnju oružja izdano od strane Ministarstva i/ili ministarstva nadležnog za obranu.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Ministarstvo će rješenjem oduzeti odobrenje za promet eksplozivnim tvarima pravnoj osobi ili obrtniku koji više ne ispunjavaju uvjete iz stavka 2. ovoga članka.«.
+
+### Članak 7.
+
+Iza članka 21. dodaje se članak 21.a koji glasi:
+
+»Članak 21.a
+
+Pravna osoba ili obrtnik koji su obavljali poslove proizvodnje, prometa ili uporabe eksplozivnih tvari, a koji više ne obavljaju navedene djelatnosti, preostale eksplozivne tvari moraju uništiti ili prodati pravnoj osobi koja se bavi proizvodnjom, prometom ili uporabom eksplozivnih tvari.«.
+
+### Članak 8.
+
+U članku 29. stavak 1. mijenja se i glasi:
+
+»Pirotehnička sredstva razreda I. mogu se prodavati u maloprodaji tijekom cijele godine osobama starijim od 14 godina u prodavaonicama i kioscima.«.
+
+U stavku 2. riječi: »ili pokretnim trgovinama« brišu se.
+
+### Članak 9.
+
+U članku 30. stavku 1. riječi: »i to pirotehnička sredstva II. razreda osobama starijim od 16 godina, a pirotehnička sredstva III., T1. i P1. razreda« brišu se.
+
+Stavak 4. briše se.
+
+### Članak 10.
+
+U članku 41. stavku 2. podstavku 4. riječ: »metalnog« briše se, a riječi: »minimalne vatrootpornosti od 60 minuta« zamjenjuju se riječima: »izrađenog od materijala reakcije na požar A1 i najmanjeg razreda otpornosti na požar EI 30.«.
+
+### Članak 11.
+
+U članku 44. stavak 3. mijenja se i glasi:
+
+»(3) Eksplozivne tvari privremeno se mogu skladištiti u prijenosnim spremnicima ili građevinama uz prethodno odobrenje Ministarstva.«.
+
+U stavku 4. iza riječi: »prijenosni spremnik« dodaju se riječi: »ili građevina«.
+
+U stavku 9. riječi: »za potrebe radilišta koje« zamjenjuju se riječju: »kako«.
+
+### Članak 12.
+
+U članku 52. stavku 1. točka 19. mijenja se i glasi:
+
+»19. bez prethodnog odobrenja Ministarstva eksplozivne tvari privremeno skladišti u prijenosnim spremnicima ili građevinama (članak 44. stavak 3.).«.
+
+### Članak 13.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 213-04/10-01/02
+
+Zagreb, 10. prosinca 2010.
+
+HRVATSKI SABOR
+
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.

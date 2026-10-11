@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-07-23
-last_amended: 2006-06-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2011-03-23
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "117/03, 71/06"
+narodne_novine: "117/03, 71/06, 43/09, 34/11"
 amendments:
   - "NN 71/2006 (1705) Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima"
+  - "NN 43/2009 (986) Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima"
+  - "NN 34/2011 (766) Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1634"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 117/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1634).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 71/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 71/2006, NN 43/2009, NN 34/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -632,3 +634,658 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima (NN 43/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/43/986*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SPRJEČAVANJU NEREDA NA ŠPORTSKIM NATJECANJIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sprečavanju nereda na športskim natjecanjima, kojega je Hrvatski sabor donio na sjednici 27. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/62
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 1. travnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SPRJEČAVANJU NEREDA NA ŠPORTSKIM NATJECANJIMA**
+
+### Članak 1.
+
+U Zakonu o sprječavanju nereda na športskim natjecanjima (»Narodne novine« br. 117/03. i 71/06.) u članku 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Redar u smislu ovoga Zakona je posebno osposobljena osoba angažirana od strane organizatora radi održavanja reda i mira u športskom objektu.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+### Članak 2.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Protupravnim ponašanjem u smislu ovoga Zakona smatra se:
+
+– posjedovanje ili konzumiranje opojnih droga te posjedovanje pirotehničkih sredstava, oružja i drugih sredstava pogodnih za nanošenje ozljeda ili za stvaranje nereda i nasilja,
+
+– pokušaj unošenja ili unošenje u športski objekt alkoholnih i drugih pića koja sadrže više od 2% alkohola, opojnih droga, pirotehničkih sredstava, oružja i drugih predmeta koji su prema prosudbi redara pogodni za nanošenje ozljeda ili za stvaranje nereda i nasilja,
+
+– pokušaj ulaska, dolazak i boravak na prostoru športskog objekta u alkoholiziranom stanju iznad 0,8 g/kg alkohola u krvi, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka ili odbijanje podvrgavanju ispitivanja alkoholiziranosti mjernim uređajem,
+
+– pokušaj unošenja, unošenje i isticanje transparenta, zastave ili druge stvari s tekstom, slikom, znakom ili drugim obilježjem kojima se iskazuje ili potiče mržnja ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti,
+
+– bacanje predmeta u natjecateljski prostor ili gledateljski prostor,
+
+– pjevanje pjesama ili dobacivanje poruka čiji sadržaj iskazuje ili potiče mržnju ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti,
+
+– paljenje i bacanje pirotehničkih sredstava,
+
+– paljenje ili uništavanje na drugi način navijačkih rekvizita i drugih predmeta,
+
+– pozivanje i poticanje na tučnjavu ili na napad na druge gledatelje, redare, službene osobe organizatora natjecanja, športaše i druge sudionike u športskom natjecanju,
+
+– poticanje i sudjelovanje u tučnjavi ili napadima na druge gledatelje, redare, službene osobe organizatora natjecanja, športaše i druge sudionike u športskom natjecanju,
+
+– pokušaj nedopuštenog ulaska ili nedopušten ulazak u natjecateljski prostor ili u gledateljski prostor ili prostor koji je namijenjen sucima ili drugim osobama koje sudjeluju u športskom natjecanju,
+
+– boravak i zadržavanje na mjestu u gledateljskom prostoru za koje se ne posjeduje ulaznica ili odgovarajuća isprava izdana od strane organizatora,
+
+– oštećenje ili uništavanje dijelova športskog objekta, prijevoznih sredstva i druge imovine.
+
+(2) Kada je neko od protupravnih ponašanja iz stavka 1. ovoga članka ostvareno uz maskiranje lica radi prikrivanja identiteta, takvo maskiranje smatra se protupravnim ponašanjem.
+
+(3) Protupravna ponašanja iz stavka 1. ovoga čanka mogu biti ostvarena tijekom čitavog razdoblja od polaska, putovanja, trajanja natjecanja do povratka sa športskog natjecanja.
+
+(4) Iznimno od odredbe stavka 1. podstavka 1. i 2. ovoga članka, unošenje i posjedovanje športskog oružja od strane natjecatelja koji to oružje unose u športski objekt radi sudjelovanja na športskom natjecanju u odgovarajućem športu, ne smatra se protupravnim ponašanjem.«.
+
+### Članak 3.
+
+U članku 6. stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Redarsku službu mogu činiti zaposlenici organizatora športskog natjecanja, redari dragovoljci, članovi klubova navijača, koji su osposobljeni za obavljanje poslova redara na športskom natjecanju.
+
+(3) Organizator športskog natjecanja može za poslove redarske službe koristiti čuvare i zaštitare koji imaju odobrenje (licenciju) za obavljanje poslova privatne zaštite.
+
+(4) Pravilima športskog saveza ili druge športske udruge više razine propisuju se, sukladno propisima iz članka 5. stavka 1. ovoga Zakona i ovisno o kriterijima iz stavka 1. ovoga članka, mjerila za opremanje športskih objekata uređajima za kontrolu i brojanje ulaznica i videonadzorom, mjerila za određivanje minimalnog broja redara za pojedina športska natjecanja te ovisno o razini športskog natjecanja kada redarsku službu moraju činiti redari zaposlenici organizatora športskog natjecanja, redari dragovoljci, članovi klubova navijača i/ili čuvari i zaštitari koji imaju odobrenje (licenciju) za obavljanje poslova privatne zaštite.«.
+
+### Članak 4.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Redari su dužni:
+
+– štititi sudionike športskog natjecanja te imovinu koja se nalazi u športskom objektu,
+
+– utvrditi posjeduje li osoba ulaznicu ili drugu odgovarajuću ispravu izdanu od strane organizatora te spriječiti neovlašten ulazak u športski objekt,
+
+– utvrditi posjeduje li osoba koja ulazi ili se nalazi na športskom objektu alkoholna pića, opojnu drogu, pirotehnička sredstva, oružje ili druge predmete pogodne za nanošenje ozljeda ili za stvaranje nereda i nasilja te takve predmete privremeno oduzeti,
+
+– utvrditi posjeduje li osoba koja ulazi ili se nalazi u športskom objektu transparente, zastave, simbole i sl. kojima se iskazuje ili potiče mržnja ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti ili neke druge posebnosti i privremeno oduzeti takve predmete,
+
+– zabraniti pristup u športski objekt osobi koja je u alkoholiziranom stanju iznad 0,8 g/kg alkohola u krvi, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka ili pod utjecajem opojne droge, ili koja pokušava unijeti u športski objekt alkohol, opojnu drogu, pirotehnička sredstva, oružje ili druge predmete pogodne za nanošenje ozljeda ili za stvaranje nereda i nasilja,
+
+– zabraniti gledateljima prijelaz iz jednog dijela športskog objekta u drugi dio,
+
+– zadržati gledatelja koji se nasilno ponaša ili drugačije remeti red i mir na športskom natjecanju i predati ga policiji,
+
+– onemogućiti gledatelje u pristupu u one dijelove športskog objekta koji nisu namijenjeni gledateljima,
+
+– osobe zatečene u počinjenju prekršaja predati policiji.
+
+(2) Iznimno od odredbe stavka 1. podstavka 5. ovoga članka, redari neće zabraniti pristup športskom objektu športašima koji unose športsko oružje namijenjeno natjecanju u odgovarajućem športu ako se natjecanje održava u tom objektu.
+
+(3) Radi provedbe dužnosti iz stavka 1. ovoga članka redari su ovlašteni:
+
+– izdati upozorenje i zapovijed, pregledati osobu, privremeno oduzeti predmete, utvrditi osobne podatke, podvrgnuti utvrđivanju prisutnosti alkohola u organizmu, zabraniti i spriječiti ulazak u športski objekt.
+
+(4) Redari u obavljanju svojih poslova smiju uporabiti tjelesnu snagu ako na drugi način ne mogu odbiti:
+
+– napad usmjeren prema sebi, prema gledateljima, prema natjecateljima i drugim osobama,
+
+– napad usmjeren na uništenje ili oštećenje dijelova športskog objekta i njegove opreme.
+
+(5) Redari zaposlenici trgovačkog društva koje obavlja zaštitarsku djelatnost i pripadnici policije imaju i ovlasti propisane posebnim zakonima.«.
+
+### Članak 5.
+
+U članku 11. stavku 2. riječi: »nisu zaposlenici organizatora športskog natjecanja ili zaposlenici trgovačkog društva koje obavlja djelatnost privatne zaštite«, zamjenjuju se riječima: »nemaju odobrenje (licenciju) za obavljanje poslova privatne zaštite«.
+
+### Članak 6.
+
+U članku 16. stavku 1. iza riječi: »ovoga Zakona i« dodaju se riječi: »uređaje za kontrolu i brojanje ulaznica te«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako športski objekt nema parkiralište ili je njegovo parkiralište nedovoljno za prihvat očekivanog broja autobusa i osobnih automobila, organizator športskog natjecanja je dužan od nadležnog tijela Grada Zagreba, odnosno grada ili općine na čijem području se nalazi športski objekt, ishoditi odgovarajuće odobrenje da se određeni prostor koristi za parkiranje autobusa i osobnih automobila.«.
+
+### Članak 7.
+
+U članku 21. stavku 1. ispred riječi: »Na prostoru« dodaje se brojka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, nacionalni športski savezi, uz prethodnu suglasnost policije, mogu dopustiti prodaju i distribuciju pića s koncentracijom alkohola do 6%, u papirnatim ili otvorenim plastičnim posudama, u športskim objektima na športskim natjecanjima koja nisu označena kao visokorizična natjecanja prema odredbama članka 5. stavka 1. i članka 6. stavka 1. ovoga Zakona.«.
+
+### Članak 8.
+
+U članku 25. stavak 1. mijenja se i glasi:
+
+»(1) Policija je ovlaštena osobi koja se izjasni ili je prema okolnostima očigledno da ide na športsko natjecanje, a svojim ponašanjem izaziva osnovanu sumnju da je pod utjecajem alkohola ili opojnih droga ili se drugačije protupravno ponaša utvrditi identitet, pregledati nosi li alkoholno piće ili opojne droge, pirotehnička sredstva, oružje i druga sredstva pogodna za nanošenje ozljeda ili za stvaranje nereda i nasilja, nosi li transparente, zastave, simbole i sl. koji sadržavaju rasističke ili druge poruke koje mogu izazvati nesnošljivost, oduzeti joj takve stvari, podvrgnuti je utvrđivanju prisutnosti alkohola u organizmu mjerenjem količine alkohola u litri izdahnutog zraka odgovarajućim mjernim uređajem, udaljiti je iz sredstava javnog prometa, zabraniti joj dolazak u mjesto športskog natjecanja ili ulazak u športski objekt, zadržati je do isteka vremena od dva sata nakon završetka športskog natjecanja.«.
+
+### Članak 9.
+
+U članku 28. stavku 2. riječi: »može zatražiti« zamjenjuju se riječima: »zatražit će«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Kada je za vrijeme održavanja športskog natjecanja došlo do protupravnog ponašanja gledatelja u većem opsegu policija će predložiti službenim osobama koje vode natjecanje da privremeno ili trajno prekinu športsko natjecanje.«.
+
+### Članak 10.
+
+U članku 29. stavku 3. riječi: »stavka 1.« zamjenjuju se riječima: »stavka 2.«.
+
+### Članak 11.
+
+Članak 32. mijenja se i glasi:
+
+»(1) Prekršajni sud može počinitelju prekršaja propisanog ovim Zakonom uz novčanu kaznu i kaznu zatvora, pored zaštitnih mjera i mjera opreza propisanih Prekršajnim zakonom izreći i zaštitnu mjeru:
+
+– zabrane prisustvovanja određenim športskim natjecanjima na području Republike Hrvatske s obvezom javljanja u policijsku postaju,
+
+– zabrane prisustvovanja određenim športskim natjecanjima na području Republike Hrvatske s obvezom boravka u policijskoj postaji,
+
+– zabrane odlaska na određena športska natjecanja u inozemstvu na kojima sudjeluju hrvatske reprezentacije ili športski klubovi s obvezom javljanja u policijsku postaju.
+
+(2) Zaštitne mjere iz stavka 1. ovoga članka mogu se izreći u trajanju koje ne može biti kraće od jedne godine niti duže od dvije godine.
+
+(3) Za prekršaje propisane ovim Zakonom zaštitna mjera oduzimanja predmeta obvezno se izriče.
+
+(4) Pravomoćnu odluku o prekršaju u kojoj je izrečena zaštitna mjera iz stavka 1. ovoga članka, sud osim podnositelju optužnog prijedloga dostavlja i nacionalnom športskom savezu, koji je o tome dužan obavijestiti organizatora športskog natjecanja, odnosno ugovornog distributera ovlaštenog za prodaju ulaznica te klub, odnosno udrugu navijača.
+
+(5) Organizator športskog natjecanja ili ugovorni distributer odbit će prodati ili dodijeliti ulaznicu za određeno natjecanje osobi kojoj je izrečena zaštitna mjera iz stavka 1. ovoga članka ili mjera opreza za vrijeme dok traje ta zaštitna mjera ili mjera opreza.
+
+(6) Organizator športskog natjecanja dužan je poduzeti mjere za onemogućivanje pristupa na prostor športskog objekta osobi za koju zna ili je dužan znati da joj je izrečena zaštitna, odnosno sigurnosna mjera zabrane prisustvovanja određenim športskim natjecanjima ili mjera opreza.«.
+
+### Članak 12.
+
+Iza članka 32. dodaje se članak 32.a koji glasi:
+
+»Članak 32.a
+
+(1) Osoba kojoj je izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 1. ovoga Zakona dužna je najkasnije pola sata prije početka određenoga športskog natjecanja pristupiti u nadležnu policijsku postaju prema mjestu prebivališta i javiti se dežurnom policijskom službeniku te ga izvijestiti o adresi na kojoj će se nalaziti za vrijeme trajanja određenoga športskog natjecanja kao i za vrijeme do isteka dva sata nakon završetka tog natjecanja.
+
+(2) Osoba kojoj je izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 2. ovoga Zakona dužna je najkasnije dva sata prije početka određenoga športskog natjecanja pristupiti u nadležnu policijsku postaju prema mjestu prebivališta te je dužna boraviti u službenim prostorijama policije ili drugim pogodnim prostorijama do isteka dva sata nakon završetka športskog natjecanja.
+
+(3) Osoba kojoj je izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 3. ovoga Zakona dužna je najkasnije pola sata prije početka određenoga športskog natjecanja pristupiti u policijsku postaju prema mjestu prebivališta i javiti se dežurnom policijskom službeniku te ga izvijestiti o adresi na kojoj će se nalaziti za vrijeme trajanja određenoga športskog natjecanja kao i za vrijeme do isteka dva sata nakon završetka tog natjecanja.
+
+(4) Ako je osoba iz stavka 1., 2., i 3. ovoga članka iz opravdanih razloga, zdravstvenog stanja ili profesionalnih obveza koje ne trpe odgodu, u nemogućnosti postupiti sukladno navedenom, dužna je javiti se telefonom u policijsku postaju prema mjestu prebivališta i izvijestiti o adresi na kojoj se nalazi.
+
+(5) Policija je ovlaštena provjeriti nalazi li se osoba iz stavka 1. i 3. ovoga članka na danoj adresi.
+
+(6) Policija može, za osobom iz stavka 1., 2., i 3. ovoga članka koja nije pristupila u nadležnu ili najbližu policijsku postaju i javila se dežurnom policijskom službeniku ili za koju se provjerom utvrdilo da se ne nalazi na danoj adresi, raspisati potragu radi dovođenja sucu prekršajnog suda.
+
+(7) Policija će prekršajnom sudu dovesti osobu iz stavka 1. i 2. ovoga članka, ako je zatečena u prostoru športskog objekta ili je njezina prisutnost utvrđena pregledom zapisa videonadzora športskog objekta ili zapisa videonadzora kojeg je obavila policija.«.
+
+### Članak 13.
+
+U članku 33. stavak 1. mijenja se i glasi:
+
+»(1) Ako je športsko natjecanje, na temelju mjerila iz članka 5. i 6. ovoga Zakona ocijenjeno s visokom opasnošću od izbijanja nereda i nasilja, na zahtjev policije predsjednik prekršajnog suda osigurat će prisustvo suca prekršajnog suda i zapisničara, ukoliko športski objekt raspolaže odgovarajućim prostorijama za njegov rad.«
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ukoliko športski objekt ne raspolaže odgovarajućim prostorijama za rad prekršajnog suca, potrebno je osigurati njegovo dežurstvo u prostorijama nadležnoga prekršajnog suda«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »suda za prekršaje« zamjenjuju se riječima: »prekršajnog suda«.
+
+### Članak 14.
+
+U članku 34. stavku 1. riječi: »Kaznenim zakonikom« zamjenjuju se riječima: »Kaznenim zakonom«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Na sigurnosnu mjeru iz stavka 1. ovoga članka, na odgovarajući način se primjenjuju odredbe članka 32.a ovoga Zakona.«.
+
+### Članak 15.
+
+Članak 35. briše se.
+
+### Članak 16.
+
+Članak 35.a briše se.
+
+### Članak 17.
+
+U članku 36. iza riječi: »staratelje,« koja se zamjenjuje riječju: »skrbnike« dodaje se riječ: »te«, a riječi: »i obrazovnu ustanovu, a o studentima visokoškolsku ustanovu u kojoj se školuju« brišu se.
+
+### Članak 18.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba koja organizira športsko natjecanje ako:
+
+1. ne poduzme mjere radi sprječavanja i suzbijanja nereda i nasilja na športskom natjecanju, odnosno odbije surađivati s nadležnim policijskim tijelom i postupati po nalogu policije glede otklanjanja uočenih nedostataka u postupku pripreme, organizacije i održavanja športskog natjecanja (članak 5.),
+
+2. na športskom natjecanju nema redarsku službu ili nema dovoljan broj redara (članak 6.),
+
+3. omogući da poslove redara obavljaju osobe koje nemaju oznaku ili natpis koji označava da su pripadnici redarske službe (članak 9.),
+
+4. kao redara zapošljava ili koristi osobu koja nije osposobljena za poslove redara (članak 11.),
+
+5. zapis videonadzora športskog objekta ne dostavi na zahtjev policije (članak 16. stavak 1.),
+
+6. ne osigura odgovarajući prostor za parkiranje autobusa i osobnih automobila (članak 16. stavak 3),
+
+7. ulaznim i izlaznim vratima športskog objekta ne rukuje osposobljeno osoblje (članak 17. stavak 1.),
+
+8. se ulazna i izlazna vrata športskog objekta, prostor za prodaju ulaznica, rampe za usmjeravanje gledatelja, prolazi (tuneli) i stepenice ne nalaze pod stalnim nadzorom redara (članak 17. stavak 3.),
+
+9. ako nije prije održavanja športskog natjecanja provedeno pretraživanje športskog objekta ili dijela športskog objekta u kojem se organizira športsko natjecanje i na kojem se smještaju gledatelji (članak 19.),
+
+10. sustav obavještavanja gledatelja koristi za namjene koje nisu dopuštene (članak 20. stavak 2.),
+
+11. na prostoru športskog objekta dopusti prodaju i distribuciju alkoholnih pića (članak 21. stavak 1.),
+
+12. športsko natjecanje održava noću, a športski objekt nije opremljen samostalnim izvorom električne energije (članak 22.),
+
+13. športski objekt ne otvori dovoljno rano da bi se izbjegle gužve i neredi prilikom ulaska gledatelja u športski objekt (članak 23.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 10.000,00 do 80.000,00 kuna kaznit će se fizička osoba obrtnik ili osoba koja obavlja drugu samostalnu djelatnost organizator športskog natjecanja.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 20.000,00 do 150.000,00 kuna kaznit će se pravna osoba organizator športskog natjecanja.
+
+(4) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 5.000,00 do 50.000,00 kuna kaznit će se odgovorna osoba pravne osobe organizatora športskog natjecanja.«.
+
+### Članak 19.
+
+Članak 38. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba koja je vlasnik ili korisnik športskog objekta ako:
+
+1. na športskom objektu nema neprekidni videonadzor s mogućnošću ispisa i pohranjivanja snimljenog zapisa, uređaj za brojanje i kontrolu ulaznica te sustav za obavještavanje gledatelja (članak 16. stavak 1.),
+
+2. ulazna i izlazna vrata športskog objekta, prostor za prodaju ulaznica, rampe za usmjeravanje gledatelja, prolazi (tuneli) i stepenice nisu odgovarajuće i vidljivo označeni (članak 17. stavak 3.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna kaznit će se fizička osoba obrtnik ili osoba koja obavlja drugu samostalnu djelatnost koja je vlasnik ili korisnik športskog objekta.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 30.000,00 do 200.000,00 kuna kaznit će se pravna osoba koja je vlasnik ili korisnik športskog objekta.
+
+(4) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se odgovorna osoba pravne osobe vlasnika sportskog objekta.«.
+
+### Članak 20.
+
+Iza članka 38. dodaje se članak 38.a koji glasi:
+
+»Članak 38.a
+
+Novčanom kaznom od 1.000,00 do 10.000,00 kuna kaznit će se za prekršaj redar koji ne obavi dužnosti iz članka 10. stavka 1.ovoga Zakona.«.
+
+### Članak 21.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 1.000,00 do 10.000,00 kuna ili kaznom zatvora u trajanju od najmanje 3 dana do najdulje 30 dana kaznit će se za prekršaj fizička osoba koja:
+
+1. posjeduje ili konzumira opojne droge ili posjeduje pirotehnička sredstva, oružje i druga sredstva pogodna za nanošenje ozljeda ili za stvaranje nereda i nasilja (članak 4. stavak 1. podstavak 1.),
+
+2. pokuša unijeti ili unese u športski objekt alkoholna pića, opojnu drogu, pirotehničko sredstvo, oružje ili drugo sredstvo pogodno za nanošenje ozljeda ili za stvaranje nereda i nasilja (članak 4. stavak 1. podstavak 2.),
+
+3. pokuša ući, dođe ili boravi na prostoru športskog objekta u alkoholiziranom stanju iznad 0,8 g/kg alkohola u krvi ili se odbije podvrgnuti ispitivanju alkoholiziranosti mjernim uređajem (članak 4. stavak 1. podstavak 3.),
+
+4. pokuša unijeti ili unese i ističe u športskom objektu transparent, zastavu ili drugu stvar s obilježjem kojima se iskazuje ili potiče mržnja ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti (članak 4. stavak 1. podstavak 4.),
+
+5. boravi i zadržava se na mjestu u gledateljskom prostoru za koje ne posjeduje ulaznicu ili odgovarajuću ispravu izdanu od strane organizatora (članak 4. stavak 1. podstavak 12.),
+
+6. maskira lice radi prikrivanja identiteta (članak 4. stavak 2.).
+
+(2) Novčanom kaznom od 1.000,00 do 10.000,00 kuna ili kaznom zatvora u trajanju od najmanje tri dana do najdulje 30 dana kaznit će se za prekršaj fizička osoba, odnosno novčanom kaznom od 5.000,00 do 30.000,00 kuna pravna osoba koja kupi ili na drugi način pribavi ili omogući kupnju ili pribavljanje ulaznica osobi kojoj je izrečena zaštitna mjera (članak 32. stavak 1.) i organizator športskog natjecanja koji ne postupi sukladno odredbi članka 32. stavka 5. i 6. ovoga Zakona.«.
+
+### Članak 22.
+
+Članak 39.a mijenja se i glasi:
+
+»(1) Novčanom kaznom od 4.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju od najmanje 20 dana do najdulje 60 dana kaznit će se za prekršaj fizička osoba koja:
+
+1. baca predmete u natjecateljski prostor ili gledateljski prostor športskog objekta (članak 4. stavak 1. podstavak 5.),
+
+2. pjeva pjesme ili dobacuje natjecateljima ili drugim gledateljima poruke, čiji sadržaj iskazuje ili potiče mržnju na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti (članak 4. stavak 1. podstavak 6.),
+
+3. pali ili baca pirotehnička sredstva (članak 4. stavak 1. podstavak 7.),
+
+4. pali ili na drugi način uništava navijačke rekvizite ili druge predmete (članak 4. stavak 1. podstavak 8.),
+
+5. poziva ili potiče na tučnjavu ili na napad na druge gledatelje, redare, službene osobe organizatora natjecanja, športaše i druge sudionike u športskom natjecanju (članak 4. stavak 1. podstavak 9.),
+
+6. potiče i sudjeluje u tučnjavi ili napadima na druge gledatelje, redare, službene osobe organizatora natjecanja, športaše i druge sudionike u športskom natjecanju (članak 4. stavak 1. podstavak 10.),
+
+7. pokuša nedopušteno ući ili nedopušteno uđe u natjecateljski prostor ili gledateljski prostor ili prostor koji je namijenjen sucima ili drugim osobama koje sudjeluju u športskom natjecanju (članak 4. stavak 1. podstavak 11.),
+
+8. oštećuje ili uništava dijelove športskog objekta, prijevoznih sredstva i druge imovine (članak 4. stavak 1. podstavak 13.).
+
+(2) Novčanom kaznom od 5.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju od najmanje 20 do najdulje 60 dana kaznit će se osoba kojoj je izrečena mjera iz članka 32., a koja nije postupila sukladno odredbama članka 32.a ovoga Zakona.
+
+(3) Novčanom kaznom od 5.000,00 do 50.000,00 kuna ili kaznom zatvora od najmanje 20 do najdulje 60 dana kaznit će se fizička osoba koja je dva ili više puta od dana počinjenja prekršaja u razdoblju od dvije godine unatrag pravomoćno proglašena krivom za prekršaje iz ovoga članka.
+
+(4) Novčanom kaznom od 10.000,00 do 50.000,00 kuna ili kaznom zatvora od najmanje 30 do najdulje 90 dana kaznit će se fizička osoba koja se za vrijeme trajanja zaštitne mjere iz članka 32. ili sigurnosne mjere iz članka 34. zatekne u prostoru športskog objekta ili se njezina prisutnost utvrdi pregledom zapisa videonadzora obavljenog na temelju ovoga Zakona (članak 16. stavak 1.) ili Zakona o policiji.«.
+
+### Članak 23.
+
+Članak 39.b mijenja se i glasi:
+
+»(1) Ministarstvo nadležno za unutarnje poslove ustrojava i vodi Zbirku podataka o osobama i događajima vezanim uz športska natjecanja.
+
+(2) Zbirka podataka iz stavka 1. ovoga članka sadrži: osobne podatke o osobama evidentiranim za prekršaje iz ovoga Zakona (ime i prezime, ime oca/majke, osobni identifikacijski broj, datum i mjesto rođenja, spol, nadimak, pseudonim, zanimanje, pripadnost klubu navijača ili navijačkoj skupini, fotografiju te svaku informaciju koja se odnosi na identificiranu fizičku osobu koja se može identificirati), podnesenim kaznenim prijavama i optužnim prijedlozima, izrečenim mjerama opreza, kaznama, sigurnosnim i zaštitnim mjerama, dovedenim i zadržanim osobama, podatke dobivene od inozemnih policijskih tijela, te s time u vezi podatke o navijačima i navijačkim skupinama.
+
+(3) Podaci iz stavka 2. ovoga članka o izrečenim mjerama opreza, kaznama, sigurnosnim i zaštitnim mjerama, mogu se koristiti za razmjenu u okviru međunarodne policijske suradnje.
+
+(4) Podaci iz stavka 2. ovoga članka čuvaju se deset godina.«.
+
+### Članak 24.
+
+Članak 40. mijenja se i glasi:
+
+»Nadzor nad provođenjem ovoga Zakona obavlja ministarstvo nadležno za unutarnje poslove, a druga ministarstva u okviru svoje nadležnosti.«.
+
+### Članak 25.
+
+Športski savezi i druge športske udruge svoje će statute i druge svoje opće akte uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od dana njegova stupanja na snagu, a športski klubovi svoje statute i druge svoje akte s aktima športskih saveza i drugih športskih udruga u daljnjem roku od šest mjeseci od dana stupanja na snagu tih akata.
+
+Pravila o mjerilima za opremanje športskog objekta uređajima za kontrolu i brojanje ulaznica, videonadzorom te mjerila za određivanje minimalnog broja redara za pojedina športska natjecanja kao i načinu ustrojavanja redarske službe iz članka 3. ovoga Zakona, športski savezi ili druge športske udruge više razine ovlašteni za propisivanje sustava natjecanja donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 26.
+
+Vlasnici ili korisnici športskih objekata opremit će športske objekte u skladu s odredbama ovoga Zakona u roku od godine dana od dana njegovog stupanja na snagu.
+
+Športski savezi ili druge udruge više razine sukladno svojim ovlastima zabranit će održavanje športskog natjecanja na športskom objektu koji ne ispunjava uvjete propisane ovim Zakonom.
+
+### Članak 27.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa. 620-03/09-01/01
+
+Zagreb, 27. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima (NN 34/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/766*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SPRJEČAVANJU NEREDA NA ŠPORTSKIM NATJECANJIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima, koji je Hrvatski sabor donio na sjednici 11. ožujka 2011. godine.
+
+Klasa: 011-01/11-01/45
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 16. ožujka 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SPRJEČAVANJU NEREDA NA ŠPORTSKIM NATJECANJIMA**
+
+### Članak 1.
+
+U Zakonu o sprječavanju nereda na športskim natjecanjima (»Narodne novine«, br. 117/03., 71/06. i 43/09.) u članku 2. stavku 1. podstavak 8. mijenja se i glasi:
+
+»– kaznena djela, prekršaji i sankcije za protupravna ponašanja propisana ovim Zakonom.«.
+
+### Članak 2.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Protupravnim ponašanjem u smislu ovoga Zakona smatra se:
+
+– posjedovanje ili konzumiranje alkoholnih pića i drugih pića koja sadrže više od 6% alkohola, droga te posjedovanje pirotehničkih sredstava, oružja i drugih sredstava pogodnih za nanošenje ozljeda ili za stvaranje nereda i nasilja,
+
+– pokušaj unošenja ili unošenje u športski objekt alkoholnih pića, droga, pirotehničkih sredstava, oružja i drugih predmeta koji su prema prosudbi redara pogodni za nanošenje ozljeda ili za stvaranje nereda i nasilja,
+
+– pokušaj ulaska, dolazak i boravak na prostoru športskog objekta u alkoholiziranom stanju iznad 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka,
+
+– maskiranje lica kapom, maramom ili na drugi način radi prikrivanja identiteta,
+
+– pokušaj unošenja, unošenje i isticanje transparenta, zastave ili druge stvari s tekstom, slikom, znakom ili drugim obilježjem kojima se iskazuje ili potiče mržnja ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti,
+
+– bacanje predmeta u natjecateljski prostor ili gledateljski prostor,
+
+– pjevanje pjesama ili dobacivanje poruka čiji sadržaj iskazuje ili potiče mržnju ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti,
+
+– paljenje i bacanje pirotehničkih sredstava,
+
+– paljenje ili uništavanje na drugi način navijačkih rekvizita i drugih predmeta,
+
+– pokušaj nedopuštenog ulaska ili nedopušten ulazak u natjecateljski prostor ili u gledateljski prostor ili prostor koji je namijenjen sucima ili drugim osobama koje sudjeluju u športskom natjecanju,
+
+– boravak i zadržavanje na mjestu u gledateljskom prostoru za koje se ne posjeduje ulaznica ili odgovarajuća isprava izdana od strane organizatora.
+
+(2) Protupravna ponašanja iz stavka 1. ovoga članka mogu biti ostvarena tijekom čitavog razdoblja od polaska, putovanja, trajanja natjecanja do povratka sa športskog natjecanja.
+
+(3) Iznimno od odredbe stavka 1. podstavka 1. i 2. ovoga članka, unošenje i posjedovanje športskog oružja od strane natjecatelja koji to oružje unose u športski objekt radi sudjelovanja na športskom natjecanju u odgovarajućem športu, ne smatra se protupravnim ponašanjem.«.
+
+### Članak 3.
+
+U članku 5. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Kada je za vrijeme održavanja športskog natjecanja došlo do protupravnog ponašanja gledatelja u većem opsegu, službene osobe organizatora koje vode natjecanje dužne su privremeno ili trajno prekinuti športsko natjecanje.«.
+
+### Članak 4.
+
+U članku 6. stavak 3. mijenja se i glasi:
+
+»(3) Organizator športskog natjecanja može za poslove redarske službe angažirati zaštitare i čuvare zaposlene u trgovačkom društvu koje ima odobrenje za obavljanje djelatnosti privatne zaštite, na temelju ugovora s tim društvom, prema propisima koji reguliraju poslove privatne zaštite.«.
+
+U stavku 4. riječi: »čuvari i zaštitari koji imaju odobrenje (licenciju) za obavljanje poslova privatne zaštite« zamjenjuju se riječima: »zaštitari i čuvari zaposleni u trgovačkom društvu koje ima odobrenje za obavljanje djelatnosti privatne zaštite, na temelju ugovora s tim društvom, prema propisima koji reguliraju poslove privatne zaštite.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Prema zahtjevu policije, a iz razloga sigurnosti, organizator je dužan ograničiti broj ulaznica koje se stavljaju u prodaju, na broj manji od ukupnog kapaciteta športskog objekta.«.
+
+### Članak 5.
+
+Članak 7. mijenja se i glasi:
+
+»Kada se športsko natjecanje održava u sustavu natjecanja organiziranom za područje dviju ili više županija, za razinu države ili kao međunarodno natjecanje, a označeno je kao visokorizično, najmanje 30 posto osoba koje obavljaju redarske poslove moraju biti zaštitari, zaposlenici trgovačkog društva koje ima odobrenje za obavljanje poslova privatne zaštite, prema propisima koji reguliraju poslove privatne zaštite.«.
+
+### Članak 6.
+
+U članku 8. stavku 2. na kraju rečenice iza riječi: »policije« stavlja se zarez te se dodaju riječi: »a pripadnici redarske službe dužni su postupati po zapovijedi policije«.
+
+### Članak 7.
+
+U članku 9. iza riječi: »iskaznicu« dodaju se riječi: »te imati radni nalog«.
+
+### Članak 8.
+
+U članku 10. stavku 1. podstavak 5. mijenja se i glasi:
+
+»– zabraniti pristup u športski objekt osobi koja je u alkoholiziranom stanju iznad 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka ili pod utjecajem droge, ili koja pokušava unijeti u športski objekt alkohol, drogu, pirotehnička sredstva, oružje ili druge predmete pogodne za nanošenje ozljeda ili za stvaranje nereda i nasilja,«.
+
+### Članak 9.
+
+U članku 16. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ukoliko športski objekt nije opremljen prema odredbi stavka 1. ovoga članka ili ukoliko organizator ne ispuni obveze iz stavka 2. i 3. ovoga članka, policija može zabraniti održavanje športskog natjecanja.«.
+
+### Članak 10.
+
+U članku 28. stavku 4. iza riječi: »opsegu« stavlja se zarez i dodaju se riječi: »a ne prijeti opasnost za sigurnost gledatelja i natjecatelja,«.
+
+### Članak 11.
+
+Iza članka 31. dodaju se naslovi i članci 31.a, 31.b, 31.c i 31.d koji glase:
+
+»Sudjelovanje u tučnjavi ili napadu na gledatelje ili druge osobe
+
+### Članak 31.a
+
+(1) Tko za vrijeme odlaska na športsko natjecanje, trajanja športskog natjecanja ili povratka sa športskog natjecanja sudjeluje u tučnjavi ili napadu na druge gledatelje, redare, službene osobe organizatora natjecanja, športaše ili druge osobe, uslijed čega je neka osoba teško tjelesno ozlijeđena, kaznit će se za samo sudjelovanje kaznom zatvora od tri mjeseca do tri godine.
+
+(2) Ako je kaznenim djelom iz stavka 1. ovoga članka prouzročena smrt neke osobe, počinitelj će se kazniti za samo sudjelovanje kaznom zatvora od šest mjeseci do pet godina.
+
+(3) Organizator ili vođa grupe koja počini kazneno djelo iz stavka 1. ovoga članka kaznit će se kaznom zatvora od jedne do osam godina.
+
+(4) Organizator ili vođa grupe koja počini kazneno djelo iz stavka 2. ovoga članka kaznit će se kaznom zatvora od tri do deset godina.
+
+(5) Nema kaznenog djela iz stavka 1. i 2. ovoga članka ako je osoba koja je sudjelovala u tučnjavi uvučena u nju bez svoje krivnje ili samo radi toga jer se branila ili razdvajala druge sudionike u tučnjavi.
+
+*Organiziranje nasilja na športskim natjecanjima*
+
+### Članak 31.b
+
+Tko organizira ili vodi grupu ljudi koja zajednički za vrijeme odlaska na športsko natjecanje, trajanja športskog natjecanja ili povratka sa športskog natjecanja sudjeluje u tučnjavi ili napadu na druge gledatelje, redare, službene osobe organizatora natjecanja, športaše ili druge osobe, uslijed čega je neka osoba tjelesno ozlijeđena ili je došlo do oštećenja ili uništenja tuđe stvari ili imovine veće vrijednosti, kaznit će se kaznom zatvora od jedne do pet godina.
+
+*Uništavanje stvari ili imovine na športskom natjecanju*
+
+### Članak 31.c
+
+Tko za vrijeme odlaska na športsko natjecanje, trajanja športskog natjecanja ili povratka sa športskog natjecanja ošteti, izobliči, uništi ili učini neuporabljivom tuđu stvar ili imovinu veće vrijednosti, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+
+*Nepoštivanje mjera i zabrana*
+
+### Članak 31.d
+
+Tko se za vrijeme trajanja zaštitne mjere iz članka 32., sigurnosne mjere iz članka 34. ili zabrane prisustvovanja športskom natjecanju iz članka 34.a ovoga Zakona zatekne na prostoru športskog objekta ili se njegova prisutnost utvrdi na drugi način, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.«.
+
+### Članak 12.
+
+U članku 32. stavku 1. podstavku 3. iza riječi: »postaju« dodaju se riječi: »i obvezom predavanja putne isprave«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Organizator športskog natjecanja ili ugovorni distributer odbit će prodati ili dodijeliti ulaznicu za određeno natjecanje osobi za koju raspolaže saznanjima da se ranije protupravno ponašala te će poduzeti mjere za onemogućavanje pristupa na prostor športskog objekta toj osobi.«.
+
+### Članak 13.
+
+Članak 32.a mijenja se i glasi:
+
+»(1) Osoba kojoj je izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 1. ovoga Zakona, dužna je najkasnije dva sata prije početka određenog športskog natjecanja pristupiti u nadležnu policijsku postaju prema mjestu prebivališta, a ako je odsutna iz mjesta prebivališta i nalazi se u Republici Hrvatskoj u najbližu policijsku postaju i javiti se dežurnom policijskom službeniku te ga izvijestiti o adresi na kojoj će se nalaziti za vrijeme trajanja određenog športskog natjecanja, kao i za vrijeme do isteka dva sata nakon završetka tog natjecanja.
+
+(2) Adresa iz stavka 1. ovoga članka ne može biti unutar područja od dva kilometra od športskog objekta na kojem se održava športsko natjecanje za koje je osobi izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 1. ovoga Zakona, osim u slučaju kada ta osoba unutar navedenog područja ima prebivalište ili boravište, odnosno mjesto rada ili u drugim opravdanim slučajevima.
+
+(3) Osoba kojoj je izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 2. ovoga Zakona, dužna je najkasnije dva sata prije početka određenog športskog natjecanja pristupiti u nadležnu policijsku postaju prema mjestu prebivališta, a ako je odsutna iz mjesta prebivališta i nalazi se u Republici Hrvatskoj u najbližu policijsku postaju, te je dužna boraviti u službenim prostorijama policije ili drugim pogodnim prostorijama do isteka dva sata nakon završetka športskog natjecanja.
+
+(4) Osoba kojoj je izrečena zaštitna mjera iz članka 32. stavka 1. podstavka 3. ovoga Zakona, dužna je najkasnije pola sata prije početka određenog športskog natjecanja pristupiti u policijsku postaju prema mjestu prebivališta, a ako je odsutna iz mjesta prebivališta i nalazi se u Republici Hrvatskoj u najbližu policijsku postaju i javiti se dežurnom policijskom službeniku te ga izvijestiti o adresi na kojoj će se nalaziti za vrijeme trajanja određenog športskog natjecanja kao i za vrijeme do isteka dva sata nakon završetka tog natjecanja te je dužna sedam dana prije održavanja športskog natjecanja predati putnu ispravu u policijskoj postaji prema mjestu prebivališta.
+
+(5) Ako je osoba iz stavka 1., 3. i 4. ovoga članka iz opravdanih razloga, radi zdravstvenog stanja ili profesionalnih obveza koje ne trpe odgodu, u nemogućnosti postupiti sukladno odredbama stavka 1., 3. i 4. ovoga članka, dužna je javiti se telefonom u policijsku postaju prema mjestu prebivališta i izvijestiti o adresi na kojoj se nalazi.
+
+(6) Policija je ovlaštena provjeriti nalazi li se osoba iz stavka 1. i 4. ovoga članka na danoj adresi.
+
+(7) Policija može za osobom iz stavka 1., 3. i 4. ovoga članka koja nije pristupila u nadležnu ili najbližu policijsku postaju i javila se dežurnom policijskom službeniku ili za koju se provjerom utvrdilo da se ne nalazi na danoj adresi, raspisati potragu radi dovođenja sucu prekršajnog suda.
+
+(8) Policija će prekršajnom sudu dovesti osobu iz stavka 1., 3. i 4. ovoga članka, ako je zatečena u prostoru športskog objekta ili je njezina prisutnost utvrđena pregledom zapisa videonadzora športskog objekta ili zapisa videonadzora koji je obavila policija.«.
+
+### Članak 14.
+
+Iza članka 34. dodaje se članak 34.a koji glasi:
+
+»Članak 34.a
+
+(1) Osobi za koju postoje saznanja da se već ranije protupravno ponašala za vrijeme dolaska, održavanja ili odlaska s nekog športskog natjecanja prekršajni sud na prijedlog policijske uprave nadležne za mjesto održavanja športskog natjecanja ili policijske uprave nadležne za područje na kome se nalazi prebivalište takve osobe može izreći zabranu prisustvovanja određenom športskom natjecanju ili zabranu prisustvovanja športskim natjecanjima za vrijeme koje ne može biti kraće od šest mjeseci niti duže od godinu dana.
+
+(2) Osoba kojoj je izrečena zabrana iz stavka 1. ovoga članka dužna je najkasnije dva sata prije početka određenog športskog natjecanja pristupiti u nadležnu policijsku postaju prema mjestu prebivališta, a ako je odsutna iz mjesta prebivališta i nalazi se u Republici Hrvatskoj u najbližu policijsku postaju i javiti se dežurnom policijskom službeniku te ga izvijestiti o adresi na kojoj će se nalaziti za vrijeme trajanja određenog športskog natjecanja, kao i za vrijeme do isteka dva sata nakon završetka tog natjecanja.
+
+(3) Adresa iz stavka 2. ovoga članka ne može biti unutar područja od dva kilometra od športskog objekta na kojem se održava športsko natjecanje za koje je osobi izrečena zabrana iz stavka 1. ovoga članka, osim u slučaju kada ta osoba unutar navedenog područja ima prebivalište ili boravište, odnosno mjesto rada ili u drugim opravdanim slučajevima.«.
+
+### Članak 15.
+
+U članku 37. stavku 3. riječi: »od 20.000,00 do 150.000,00« zamjenjuju se riječima: »od 50.000,00 do 250.000,00«.
+
+### Članak 16.
+
+U članku 38. stavku 3. riječi: »od 30.000,00 do 200.000,00« zamjenjuju se riječima: »od 100.000,00 do 500.000,00«.
+
+### Članak 17.
+
+U članku 38.a iza riječi: »Zakona« dodaju se riječi: »te koji ne postupa po zapovijedi policije.«.
+
+### Članak 18.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 2.000,00 do 15.000,00 kuna ili kaznom zatvora u trajanju do 30 dana kaznit će se za prekršaj fizička osoba koja:
+
+1. posjeduje ili konzumira alkoholna pića i druga pića koja sadrže više od 6% alkohola, droge ili posjeduje pirotehnička sredstva, oružje i druga sredstva pogodna za nanošenje ozljeda ili za stvaranje nereda i nasilja (članak 4. stavak 1. podstavak 1.),
+
+2. pokuša unijeti ili unese u športski objekt alkoholna pića, drogu, pirotehničko sredstvo, oružje ili drugo sredstvo pogodno za nanošenje ozljeda ili za stvaranje nereda i nasilja (članak 4. stavak 1. podstavak 2.),
+
+3. pokuša ući, dođe ili boravi na prostoru športskog objekta u alkoholiziranom stanju iznad 0,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka (članak 4. stavak 1. podstavak 3.),
+
+4. maskira lice radi prikrivanja identiteta (članak 4. stavak 1. podstavak 4.),
+
+5. pokuša unijeti ili unese i ističe u športskom objektu transparent, zastavu ili drugu stvar s obilježjem kojim se iskazuje ili potiče mržnja ili nasilje na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti (članak 4. stavak 1. podstavak 5.),
+
+6. boravi i zadržava se na mjestu u gledateljskom prostoru za koje ne posjeduje ulaznicu ili odgovarajuću ispravu izdanu od strane organizatora (članak 4. stavak 1. podstavak 11.).
+
+(2) Novčanom kaznom od 1.000,00 do 10.000,00 kuna ili kaznom zatvora u trajanju od najmanje tri dana do najdulje 30 dana kaznit će se za prekršaj fizička osoba, odnosno novčanom kaznom od 5.000,00 do 30.000,00 kuna pravna osoba koja kupi ili na drugi način pribavi ili omogući kupnju ili pribavljanje ulaznica osobi kojoj je izrečena zaštitna mjera (članak 32. stavak 1.), zabrana prisustvovanja športskom natjecanju (članak 34.a stavak 1.) i mjera opreza te organizator športskog natjecanja koji ne postupi sukladno odredbi članka 32. stavka 5., 6. i 7. ovoga Zakona.«.
+
+### Članak 19.
+
+Članak 39.a mijenja se i glasi:
+
+»(1) Novčanom kaznom od 5.000,00 do 25.000,00 kuna ili kaznom zatvora u trajanju od najmanje 30 dana do najdulje 60 dana kaznit će se za prekršaj fizička osoba koja:
+
+1. baca predmete u natjecateljski prostor ili gledateljski prostor športskog objekta (članak 4. stavak 1. podstavak 6.),
+
+2. pjeva pjesme ili dobacuje natjecateljima ili drugim gledateljima poruke čiji sadržaj iskazuje ili potiče mržnju na temelju rasne, nacionalne, regionalne ili vjerske pripadnosti (članak 4. stavak 1. podstavak 7.),
+
+3. pali ili baca pirotehnička sredstva (članak 4. stavak 1. podstavak 8.),
+
+4. pali ili na drugi način uništava navijačke rekvizite ili druge predmete (članak 4. stavak 1. podstavak 9.),
+
+5. pokuša nedopušteno ući ili nedopušteno uđe u natjecateljski prostor ili gledateljski prostor ili prostor koji je namijenjen sucima ili drugim osobama koje sudjeluju u športskom natjecanju (članak 4. stavak 1. podstavak 10.).
+
+(2) Novčanom kaznom od 5.000,00 do 25.000,00 kuna ili kaznom zatvora u trajanju od najmanje 30 do najdulje 60 dana kaznit će se osoba kojoj je izrečena zaštitna mjera iz članka 32. ovoga Zakona, a koja nije postupila sukladno odredbama članka 32.a ovoga Zakona, te kojoj je izrečena zabrana iz članka 34.a stavka 1. ovoga Zakona, a koja nije postupila sukladno odredbi članka 34.a stavka 2. ovoga Zakona.
+
+(3) Novčanom kaznom od 5.000,00 do 50.000,00 kuna ili kaznom zatvora od najmanje 30 do najdulje 60 dana kaznit će se fizička osoba koja je dva ili više puta od dana počinjenja prekršaja u razdoblju od dvije godine unatrag pravomoćno proglašena krivom za prekršaje iz ovoga članka.«.
+
+### Članak 20.
+
+U članku 39.b stavku 2. iza riječi: »i zaštitnim mjerama« dodaju se riječi: »te zabranama prisustvovanja športskim natjecanjima,«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Podaci iz stavka 2. ovoga članka mogu se koristiti za razmjenu u okviru međunarodne policijske suradnje, a mogu se davati i drugim korisnicima sukladno propisu kojim se uređuje zaštita osobnih podataka.«.
+
+### Članak 21.
+
+U cijelom tekstu Zakona o sprječavanju nereda na športskim natjecanjima (»Narodne novine«, br. 117/03., 71/06. i 43/09.) riječi: »opojna droga« zamjenjuju se riječju: »droga« u odgovarajućem broju i padežu.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 620-03/10-01/01  
+Zagreb, 11. ožujka 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

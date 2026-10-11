@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2003-11-24
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+last_amended: 2011-04-29
+status: in_force
+status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 186/03"
+narodne_novine: "173/03, 186/03, 49/11"
 amendments:
   - "NN 186/2003 (2710) Ispravak Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga"
+  - "NN 49/2011 (1103) Zakon o izmjenama i dopuni Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2496"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2496).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 186/2003.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 186/2003, NN 49/2011.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -792,3 +793,89 @@ Zagreb, 17. studenoga 2003.
 Tajnica  
 Hrvatskoga sabora  
 Danica Orčić, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopuni Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (NN 49/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1103*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O OZNAKAMA ZEMLJOPISNOG PODRIJETLA I OZNAKAMA IZVORNOSTI PROIZVODA I USLUGA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga, koji je Hrvatski sabor donio na sjednici 15. travnja 2011. godine.
+
+Klasa: 011-01/11-01/69
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. travnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O OZNAKAMA ZEMLJOPISNOG PODRIJETLA I OZNAKAMA IZVORNOSTI PROIZVODA I USLUGA**
+
+### Članak 1.
+
+U Zakonu o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (»Narodne novine«, br. 173/03., 186/03. i 76/07.) u članku 11. stavku 2. riječi: »upravnih akata« zamjenjuju se riječju: »rješenja«, a zadnja rečenica briše se.
+
+Stavak 3. briše se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »upravnih akata« zamjenjuju se riječju: »rješenja«.
+
+### Članak 2.
+
+U članku 27. stavku 2. riječi: »poziva ga na« zamjenjuju se riječima: »zaključkom mu nalaže«.
+
+U stavku 3. riječ: »poziva« zamjenjuje se riječju: »zaključka«.
+
+U stavku 4. riječ: »zaključak« zamjenjuje se riječju: »rješenje«.
+
+### Članak 3.
+
+U članku 30. stavku 6. riječ: »zaključak« zamjenjuje se riječju: »rješenje«.
+
+### Članak 4.
+
+U članku 31. stavak 3. mijenja se i glasi:
+
+»(3) Ako podnositelj prijave u propisanom roku ne dostavi očitovanje na prigovor, Zavod će odbiti prijavu za upis oznake zemljopisnog podrijetla ili oznake izvornosti.«.
+
+### Članak 5.
+
+U članku 32. stavku 2. riječi: »pozvati podnositelja« zamjenjuju se riječima: »zaključkom naložiti podnositelju«.
+
+### Članak 6.
+
+U članku 44. stavku 1. dodaje se točka 4. koja glasi:
+
+»4. da više nije osigurana sukladnost s uvjetima navedenim u specifikaciji.«.
+
+### Članak 7.
+
+U članku 46.a riječ: »odluka« u odgovarajućem broju i padežu zamjenjuje se riječju: »rješenje« u odgovarajućem broju i padežu.
+
+### Članak 8.
+
+Ministar nadležan za rad Zavoda, na prijedlog ravnatelja Zavoda, uskladit će Pravilnik iz članka 57. Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (»Narodne novine«, br. 173/03., 186/03. i 76/07.) s odredbama ovoga Zakona najkasnije u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 310-01/11-01/02
+
+Zagreb, 15. travnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

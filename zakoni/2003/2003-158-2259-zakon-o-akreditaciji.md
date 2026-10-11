@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-07
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "158/03"
-amendments: []
+last_amended: 2013-05-10
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "158/03, 75/09, 56/13"
+amendments:
+  - "NN 75/2009 (1790) ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O AKREDITACIJI"
+  - "NN 56/2013 (1146) Zakon o izmjenama i dopuni Zakona o akreditaciji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2259"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o akreditaciji
 
 > Izvor: Narodne novine, NN 158/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2259).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 75/2009, NN 56/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -174,3 +179,137 @@ Zagreb, 25. rujna 2003.
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O AKREDITACIJI (NN 75/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1790*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O AKREDITACIJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o akreditaciji, kojega je Hrvatski sabor donio na sjednici 19. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/102  
+Urbroj: 71-05-03/1-09-2  
+Zagreb, 23. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O AKREDITACIJI**
+
+### Članak 1.
+
+U Zakonu o akreditaciji (»Narodne novine«, br. 158/03.) u članku 2. riječi: »određene poslove« zamjenjuju se riječima: »poslove ocjenjivanja sukladnosti«.
+
+### Članak 2.
+
+U članku 4. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Akreditacijsko tijelo će se učlaniti u Europsku organizaciju za akreditaciju (EA) i zaključiti multilateralne sporazume o priznavanju akreditacije s drugim članicama EA.«
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+### Članak 3.
+
+U članku 6. dodaje se stavak 2. koji glasi:
+
+»(2) Akreditacijsko tijelo ne smije obavljati poslove i zadatke iz djelatnosti tijela za ocjenjivanje sukladnosti za koje akreditacijsko tijelo provodi postupke akreditacije i daje potvrde o akreditaciji.«
+
+### Članak 4.
+
+Ispred članka 8. naslov poglavlja mijenja se i glasi: »IV. AKREDITACIJA U VEZI S PROPISIMA O OCJENJIVANJU SUKLADNOSTI«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 383-03/09-01/01
+
+Zagreb, 19. lipnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o akreditaciji (NN 56/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1146*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O AKREDITACIJI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o akreditaciji, koji je Hrvatski sabor donio na sjednici 26. travnja 2013. godine.
+
+Klasa: 011-01/13-01/105
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 2. svibnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O AKREDITACIJI**
+
+### Članak 1.
+
+U Zakonu o akreditaciji (»Narodne novine«, br. 158/03. i 75/09.) u članku 1. iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Odredbe ovoga Zakona koje se odnose na propise o ocjenjivanju sukladnosti odgovarajuće se odnose na propise o ocjenjivanju i provjeri stalnosti svojstava te na propise o tehničkom ocjenjivanju građevnih proizvoda, ako posebnim Zakonom nije drugačije uređeno.
+
+(3) Ovim se Zakonom utvrđuje okvir za provedbu Uredbe (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta s obzirom na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 (Tekst značajan za EGP) (SL L 218, 13. 8. 2008) u dijelu koji se odnosi na akreditaciju (u daljnjem tekstu: Uredba (EZ) br. 765/2008).«.
+
+### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»Nadležno tijelo za provedbu Uredbe (EZ) br. 765/2008 i ovoga Zakona je akreditacijsko tijelo.«.
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»Pojmovi koji se upotrebljavaju u smislu odredaba ovoga Zakona imaju jednako značenje kao i pojmovi uporabljeni u Uredbi (EZ) br. 765/2008, a pojam "norma" ima jednako značenje kao pojam definiran u članku 2. Uredbe (EU) br. 1025/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. o europskoj normizaciji i koja dopunjuje i mijenja direktive Vijeća 89/686/EEZ i 93/15/EEZ i direktive 94/9/EZ, 94/25/EZ, 95/16/EZ, 97/23/EZ, 98/34/EZ, 2004/22/EZ, 2007/23/EZ, 2009/23/EZ i 2009/105/EZ Europskoga parlamenta i Vijeća i stavlja izvan snage Odluku Vijeća br. 87/95/EEZ te Odluku br. 1673/2006/EZ Europskoga parlamenta i Vijeća (SL L 316, 14. 11. 2012).«.
+
+### Članak 4.
+
+U članku 4. stavak 5. mijenja se i glasi:
+
+»(5) Poslove iz stavka 2. podstavaka 1., 2. i 3. i stavka 3. ovoga članka može obavljati samo akreditacijsko tijelo.«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/91
+
+Zagreb, 26. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

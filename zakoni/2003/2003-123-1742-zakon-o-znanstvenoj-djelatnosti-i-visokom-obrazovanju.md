@@ -6,16 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-07-31
-last_amended: 2007-05-07
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2013-11-20
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "123/03, 198/03, 105/04, 174/04, 46/07"
+narodne_novine: "123/03, 198/03, 105/04, 174/04, 46/07, 63/11, 94/13, 139/13"
 amendments:
   - "NN 198/2003 (3153) Uredba o izmjeni Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
   - "NN 105/2004 (2025) Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
   - "NN 174/2004 (3013) Zakon o izmjenama Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
   - "NN 46/2007 (1555) Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
+  - "NN 63/2011 (1402) Zakon o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
+  - "NN 94/2013 (2132) Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
+  - "NN 139/2013 (2971) Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/123/1742"
 retrieved: 2026-10-12
 ---
@@ -24,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 123/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/123/1742).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 198/2003, NN 105/2004, NN 174/2004, NN 46/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 198/2003, NN 105/2004, NN 174/2004, NN 46/2007, NN 63/2011, NN 94/2013, NN 139/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3137,3 +3140,1176 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju (NN 63/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/63/1402*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O ZNANSTVENOJ DJELATNOSTI I VISOKOM OBRAZOVANJU
+
+Proglašavam Zakon o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju, koji je Hrvatski sabor donio na sjednici 27. svibnja 2011. godine.
+
+Klasa: 011-01/11-01/128
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 2. lipnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O ZNANSTVENOJ DJELATNOSTI I VISOKOM OBRAZOVANJU**
+
+### Članak 1.
+
+U Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07. i 45/09.) u članku 102. iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Iznimno od odredbe stavka 7. ovoga članka, nastavniku iz područja biomedicine i zdravstva, polje kliničke medicinske znanosti, koji nije izabran u zvanje redovitog profesora u trajnom zvanju, visoko učilište može produljiti radni odnos do isteka akademske godine u kojoj navršava 70 godina života, posebno cijeneći pri tome njegov znanstveni doprinos te uspješnost u obrazovnom procesu i odgoju mladih znanstvenika i nastavnika.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 602-04/11-01/01  
+Zagreb, 27. svibnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (NN 94/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2132*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZNANSTVENOJ DJELATNOSTI I VISOKOM OBRAZOVANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju, koji je Hrvatski sabor donio na sjednici 15. srpnja 2013. godine.
+
+Klasa: 011-01/13-01/203
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 18. srpnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZNANSTVENOJ DJELATNOSTI I VISOKOM OBRAZOVANJU**
+
+#### Članak 1.
+
+U Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.) naziv glave iznad članka 6. mijenja se i glasi: »II. NACIONALNO VIJEĆE ZA ZNANOST, VISOKO OBRAZOVANJE I TEHNOLOŠKI RAZVOJ«.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj (u daljnjem tekstu: Nacionalno vijeće) najviše je stručno tijelo koje se brine za razvitak i kvalitetu cjelokupne znanstvene djelatnosti i sustava znanosti, visokog obrazovanja i tehnološkog razvoja u Republici Hrvatskoj.
+
+(2) Nacionalno vijeće:
+
+1. raspravlja pitanja od važnosti za znanstvenu djelatnost te predlaže i potiče donošenje mjera za njezino unapređenje,
+
+2. predlaže i potiče donošenje mjera za unapređenje visokog obrazovanja,
+
+3. daje suglasnost na uvjete Rektorskog zbora i Vijeća veleučilišta i visokih škola za stjecanje znanstveno-nastavnih, umjetničko--nastavnih i nastavnih zvanja,
+
+4. prati razvitak i utvrđuje znanstvena i umjetnička područja i polja, imenuje područna znanstvena i umjetnička vijeća te matične odbore za pojedina polja,
+
+5. općim aktom utvrđuje uvjete za stjecanje znanstvenih zvanja u skladu s ovim Zakonom,
+
+6. općim aktom utvrđuje minimalne uvjete radnih obveza za znanstveno, znanstveno-nastavna i umjetničko-nastavna zvanja o kojima se podnosi izvješće u skladu s ovim Zakonom,
+
+7. utvrđuje uvjete koje trebaju ispuniti znanstvene organizacije i visoka učilišta u području umjetnosti da bi dobile ovlaštenje za provođenje postupka izbora u znanstvena zvanja odnosno umjetničku komponentu umjetničko-nastavnih zvanja u skladu s ovim Zakonom,
+
+8. donosi kriterije izvrsnosti za odabir znanstvenika i nastavnika za produljenje ugovora o radu nakon 65 godina života, u skladu s ovim Zakonom,
+
+9. propisuje minimalne uvjete radnih obveza za reizbor na znanstvena, znanstveno-nastavna, umjetničko-nastavna, nastavna i stručna radna mjesta, u skladu s ovim Zakonom,
+
+10. predlaže proglašavanje znanstvenih centara izvrsnosti te daje mišljenje o osnivanju znanstveno-tehnologijskih parkova i kolaborativnih tehnologijskih centara,
+
+11. predlaže kriterije i odnose raspodjele proračunskih sredstava za znanstvenu djelatnost i visoko obrazovanje te tehnološki razvoj,
+
+12. predlaže i potiče sudjelovanje drugih subjekata i organizacija civilnog društva, posebno tijela državne uprave, tijela jedinica lokalne i područne (regionalne) samouprave te gospodarskih subjekata u sustavu znanstvene djelatnosti i visokog obrazovanja,
+
+13. predlaže mjere i poduzima aktivnosti za afirmaciju i napredovanje znanstvenog i nastavnog pomlatka,
+
+14. imenuje članove Savjeta za financiranje znanstvene djelatnosti i visokog obrazovanja,
+
+15. predlaže i potiče mjere vezane za policentrični sustav znanstvene djelatnosti i visokog obrazovanja u Republici Hrvatskoj te predlaže Hrvatskome saboru strateški dokument mreže javnih visokih učilišta i javnih znanstvenih instituta,
+
+16. raspravlja pitanja od važnosti za razvoj nacionalnoga inovacijskog sustava i predlaže i potiče donošenje mjera za njegovo unapređenje te poticanje tehnološkog razvoja,
+
+17. predlaže članove Odbora za etiku u znanosti i visokom obrazovanju,
+
+18. razmatra i daje svoje mišljenje o drugim pitanjima važnima za razvoj sustava znanosti i visokog obrazovanja u Republici Hrvatskoj.«.
+
+#### Članak 2.
+
+Naslov iznad članka 7. i članak 7. brišu se.
+
+#### Članak 3.
+
+Naslov iznad članka 8. i članak 8. brišu se.
+
+#### Članak 4.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»(1) Nacionalno vijeće ima predsjednika i šesnaest članova, od kojih su četiri znanstvena savjetnika u trajnom zvanju zaposlena u znanstvenim institutima, sedam redovitih profesora u trajnom zvanju, dva profesora visoke škole te dvije osobe iz područja gospodarstva i dvije osobe iz poduzetništva. U radu Nacionalnog vijeća sudjeluje i predstavnik reprezentativnih sindikata u znanosti i visokom obrazovanju bez prava odlučivanja.«.
+
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Članovi Nacionalnog vijeća u zvanju znanstvenog savjetnika u trajnom zvanju te redovitog profesora u trajnom zvanju biraju se iz redova vrhunskih znanstvenika, osobito onih koji imaju svjetski priznate znanstvene radove iz više znanstvenih polja.
+
+(3) Članove Nacionalnog vijeća koji su profesori visoke škole predlaže Vijeće veleučilišta i visokih škola.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 4. i 5.
+
+#### Članak 5.
+
+Naslov iznad članka 10. i članak 10. brišu se.
+
+#### Članak 6.
+
+U članku 11. stavku 1. riječi: »na prijedlog Vlade Republike Hrvatske« zamjenjuju se riječima: »na prijedlog Odbora za obrazovanje, znanost i kulturu Hrvatskoga sabora«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. koji postaje stavak 2. mijenja se i glasi:
+
+»(2) Hrvatski sabor, sukladno sa stavkom 1. ovoga članka, svake dvije godine imenuje osam članova Nacionalnog vijeća, a predsjednika navedenog tijela imenuje svake četiri godine.«.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+U dosadašnjem stavku 5. koji postaje stavak 4. iza riječi: »Državni dužnosnici« dodaju se riječi: »te čelnici znanstvenih organizacija, visokih učilišta i članovi drugih najviših stručnih tijela koja se brinu za razvitak i kvalitetu cjelokupnog sustava znanosti i visokog obrazovanja«.
+
+#### Članak 7.
+
+U članku 12. stavku 2. riječi: »članku 11. stavku 4. ovoga Zakona« zamjenjuju se riječima: »članku 11. stavku 3. ovoga Zakona«.
+
+#### Članak 8.
+
+U članku 13. stavak 5. briše se.
+
+Dosadašnji stavci 6., 7. i 8. postaju stavci 5., 6. i 7.
+
+#### Članak 9.
+
+U članku 19. stavku 2. u drugoj rečenici iza riječi: »znanstvena« dodaju se riječi: »ili umjetničku komponentu umjetničko-nastavnih«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Matični odbori sudjeluju u izboru u znanstvena, znanstveno-nastavna i umjetničko-nastavna zvanja sukladno s ovim Zakonom i na njemu utemeljenim propisima.«.
+
+#### Članak 10.
+
+U članku 23. stavku 2. prva rečenica mijenja se i glasi: »Upis u Upisnik znanstvenika provodi se na temelju odluke o izboru u znanstveno, znanstveno-nastavno ili umjetničko-nastavno zvanje te zahtjeva zainteresirane fizičke ili pravne osobe.«.
+
+#### Članak 11.
+
+U članku 24. stavku 1. riječi: »Nacionalna zaklada za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske (u daljnjem tekstu: Nacionalna zaklada)« zamjenjuju se riječima: »Hrvatska zaklada za znanost (u daljnjem tekstu: Zaklada)«.
+
+#### Članak 12.
+
+U članku 26. stavku 4. prva rečenica mijenja se i glasi: »Upravno vijeće instituta, sukladno statutu, čine članovi koje imenuje i razrješava osnivač, članovi koje izabere znanstveno vijeće instituta te jedan član koji je predstavnik zaposlenika.«.
+
+#### Članak 13.
+
+U članku 29. stavku 2. riječi: »iz članka 16. ovoga Zakona« zamjenjuju se riječima: »sukladno zakonu koji regulira osiguravanje kvalitete u znanosti i visokom obrazovanju«.
+
+#### Članak 14.
+
+U članku 32. stavku 1. iza riječi: »viši znanstveni suradnik« stavlja se zarez, riječ: »i« briše se, a iza riječi: »znanstveni savjetnik« briše se točka i dodaju riječi: »i znanstveni savjetnik u trajnom zvanju.«.
+
+Na kraju stavka 3. briše se točka i dodaju riječi: »te koji je najmanje pet godina bio u zvanju znanstvenog suradnika.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Za znanstvenog savjetnika i znanstvenog savjetnika u trajnom zvanju može biti izabran istraživač koji ima doktorat znanosti i znanstvene radove kojima je znatno unaprijedio znanost, pri čemu će se posebno cijeniti međunarodna afirmacija znanstvenika i međunarodna priznatost njegova znanstvenog rada odnosno njegovo značenje u okviru nacionalnih sadržaja. Uz navedene uvjete, u znanstveno zvanje znanstvenog savjetnika izabrat će se istraživač koji je najmanje pet godina bio u zvanju višega znanstvenog suradnika, a u znanstveno zvanje znanstvenog savjetnika u trajnom zvanju istraživač koji je najmanje pet godina bio u zvanju znanstvenog savjetnika.«.
+
+Iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+
+»(7) Ako se jasno utvrdi da zaposlenik ispunjava kriterije za izbor u više zvanje u odnosu na zvanje u koje se bira, posebnom odlukom znanstvenog vijeća i uz suglasnost zaposlenika, pristupnik može biti izabran u više zvanje i ranije od rokova propisanih ovim člankom, ali ne prije nego što isteknu tri godine od njegova izbora u prethodno zvanje. Za izbor u zvanje znanstvenog savjetnika u trajnom zvanju izbor ranije od rokova propisanih stavkom 4. ovoga članka nije moguć.
+
+(8) Iznimno, ako je pristupnik istraživač koji nije bio zaposlen u Republici Hrvatskoj, matični odbor može odobriti zahtjev za izbor u znanstveno zvanje višega znanstvenog suradnika i znanstvenog savjetnika te znanstvenog savjetnika u trajnom zvanju pristupniku koji nije bio prije izabran u znanstveno zvanje, ako iz prijave procijeni da zadovoljava istovjetne uvjete koji su prema propisima Republike Hrvatske potrebni za izbor u odgovarajuće zvanje, odnosno da je bio izabran u odgovarajuće zvanje.«.
+
+#### Članak 15.
+
+U članku 34. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, rješenje o ovlaštenju za provođenje dijela postupka izbora u znanstveno zvanje može dobiti i visoko učilište sa statusom znanstvene organizacije koja u stalnom radnom odnosu ima zaposlenike s nepunim radnim vremenom, a čiji ekvivalent pune zaposlenosti zadovoljava uvjet iz stavka 1. ovoga članka.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+Dosadašnji stavak 4. koji postaje stavak 5. mijenja se i glasi:
+
+»(5) Postupak izbora u znanstvenoj organizaciji provodi stručno tijelo kojemu su statutom u nadležnost stavljena znanstvena pitanja. Ispunjavanje uvjeta iz stavaka 1. i 2. ovoga članka provjerava Ministarstvo po službenoj dužnosti, te ako institucija više ne ispunjava uvjete, ministar će donijeti rješenje o brisanju ovlaštenja iz Upisnika znanstvenih organizacija.«.
+
+Iza dosadašnjeg stavka 5. koji postaje stavak 6. dodaje se stavak 7. koji glasi:
+
+»(7) Postupak dobivanja rješenja o ovlaštenju za provođenje dijela postupka izbora u umjetničko-nastavna zvanja primjenjuje se na odgovarajući način i pri izboru u umjetničku komponentu umjetničko-nastavnog zvanja.«.
+
+#### Članak 16.
+
+U članku 35. stavak 2. mijenja se i glasi:
+
+»(2) Ovlaštena znanstvena organizacija, u roku 30 dana od dana primitka zahtjeva za izbor u znanstveno zvanje, imenuje stručno povjerenstvo. Stručno povjerenstvo se sastoji od tri člana koji moraju biti u istom ili višem znanstvenom zvanju s obzirom na ono za koje se traži izbor. Barem jedan član povjerenstva ne može biti zaposlenik znanstvene organizacije u kojoj je zaposlen pristupnik.«.
+
+Stavak 9. mijenja se i glasi:
+
+»(9) Odluka matičnog odbora je izvršna, predstavlja upravni akt te se u postupku izbora u znanstveno zvanje primjenjuju odredbe Zakona o općem upravnom postupku.«.
+
+Iza stavka 12. dodaje se stavak 13. koji glasi:
+
+»(13) Postupak za izbor u znanstvena zvanja primjenjuje se na odgovarajući način i na izbor u umjetničku komponentu umjetničko-nastavnog zvanja koja je u svemu izjednačena s znanstvenim zvanjem.«.
+
+#### Članak 17.
+
+U članku 37. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Postupak oduzimanja znanstvenog, odnosno umjetničko-nastavnog zvanja provodi odgovarajući matični odbor i to u roku od najviše 120 dana od dana pokretanja postupka«.
+
+#### Članak 18.
+
+U članku 39. stavku 1. iza riječi: »viši znanstveni suradnik« stavlja se zarez, a riječ: »i« briše se, a iza riječi: »znanstveni savjetnik« briše se točka i dodaju riječi: »i znanstveni savjetnik u trajnom zvanju.«.
+
+#### Članak 19.
+
+U članku 40. na kraju stavka 2. briše se točka i dodaju riječi: »te na službenom internetskom portalu za radna mjesta Europskoga istraživačkog prostora. Natječaj mora biti otvoren najmanje 30 dana.«.
+
+U stavku 3. riječi: »u roku od šezdeset dana« zamjenjuju se riječima: »u roku od 90 dana«.
+
+#### Članak 20.
+
+Članak 41. mijenja se i glasi:
+
+»(1) U institutima znanstvenici se biraju na znanstvena radna mjesta.
+
+(2) Opći uvjet za izbor na znanstveno radno mjesto je upis u Upisnik znanstvenika u istom ili višem znanstvenom zvanju, odnosno izbor proveden sukladno članku 40. stavku 3. ovoga Zakona.
+
+(3) Na radno mjesto višega znanstvenog suradnika može biti izabrana osoba koja je najmanje pet godina bila u zvanju i na radnom mjestu znanstvenog suradnika ili znanstveno-nastavnom radnom mjestu docenta.
+
+(4) Na radno mjesto znanstvenog savjetnika može biti izabrana osoba koja je najmanje pet godina bila u zvanju i na radnom mjestu višega znanstvenog suradnika ili znanstveno-nastavnom radnom mjestu izvanrednog profesora.
+
+(5) Na radno mjesto znanstvenog savjetnika u trajnom zvanju može biti izabrana osoba koja je najmanje pet godina bila u zvanju i na radnom mjestu znanstvenog savjetnika ili znanstveno-nastavnom radnom mjestu redovitog profesora.
+
+(6) Ako se jasno utvrdi da zaposlenik ispunjava kriterije za izbor na više znanstveno radno mjesto u odnosu na ono na koje se bira, posebnom odlukom znanstvenog vijeća i uz suglasnost zaposlenika, natječaj za izbor iz stavka 3. i 4. ovoga članka može biti raspisan i ranije od rokova propisanih tim stavcima, ali ne prije nego što isteknu tri godine od njegovog prethodnog izbora na radno mjesto s nižim zvanjem.
+
+(7) Znanstvenik izabran na znanstveno radno mjesto nema obvezu izbora na više znanstveno radno mjesto, ali može biti izabran na više znanstveno radno mjesto sukladno objavljenom javnom natječaju.
+
+(8) Uz uvjete za izbor na radno mjesto koji su propisani ovim Zakonom institut može svojim statutom ili drugim općim aktom utvrditi i dodatne uvjete.«.
+
+#### Članak 21.
+
+Članak 42. mijenja se i glasi:
+
+»(1) S osobama izabranim na znanstvena radna mjesta u javnim znanstvenim institutima zaključuje se ugovor o radu na neodređeno vrijeme, s obvezom provođenja reizbora ili izbora na više radno mjesto.
+
+(2) Reizbor znanstvenika na znanstvenom radnom mjestu znanstvenog suradnika, višega znanstvenog suradnika i znanstvenog savjetnika vrši se na način da stručno povjerenstvo ovlaštene znanstvene organizacije podnosi znanstvenom vijeću javnog znanstvenog instituta u kojem je pristupnik zaposlen, svakih pet godina, izvješće o radu znanstvenika. Stručno povjerenstvo se sastoji od tri člana koji moraju biti u istom ili višem znanstvenom zvanju i na odgovarajućem radnom mjestu, s obzirom na ono za koje se traži reizbor. Barem jedan član povjerenstva ne može biti zaposlenik znanstvene organizacije u kojoj je zaposlen pristupnik.
+
+(3) Oblik izvješća te minimalne uvjete radnih obveza za znanstvena radna mjesta za koje se podnosi izvješće iz stavka 2. ovoga članka propisuje Nacionalno vijeće. Javni znanstveni institut općim aktom propisuje postupak odlučivanja o prihvaćanju izvješća, a može propisati i dodatne uvjete radnih obveza na znanstvenim radnim mjestima za koje se podnosi izvješće iz stavka 2. ovoga članka.
+
+(4) Ako znanstveno vijeće javnog znanstvenog instituta ne prihvati pozitivno izvješće o radu, odnosno prihvati negativno izvješće o radu, u skladu sa stavkom 3. ovoga članka, nakon dvije godine od dana donošenja navedene odluke, ponavlja se postupak reizbora u skladu sa stavcima 2. i 3. ovoga članka.
+
+(5) Mišljenje o ponovljenom izvješću iz stavka 4. ovoga članka donosi upravno vijeće javnog znanstvenog instituta. Ako upravno vijeće javnog znanstvenog instituta ne prihvati izvješće, odnosno ako je mišljenje upravnog vijeća negativno, ravnatelj pokreće postupak redovitog otkaza ugovora o radu (otkaz uvjetovan skrivljenim ponašanjem radnika) u skladu s općim propisima o radu i općim aktom javnog znanstvenog instituta.
+
+(6) S osobama izabranim na znanstvena i suradnička radna mjesta koje rade na projektu ograničenog trajanja, ugovor o radu zaključuje se na određeno vrijeme, dok traje projekt ili njegova dionica na kojoj je ta osoba angažirana.
+
+(7) Obveza podnošenja izvješća o radu znanstvenika iz ovog članka prestaje nakon što zaposlenik bude izabran na znanstveno radno mjesto znanstvenog savjetnika u trajnom zvanju.
+
+(8) Znanstveniku u javnom znanstvenom institutu istekom kalendarske godine u kojoj je navršio 65 godina života prestaje ugovor o radu zbog odlaska u mirovinu. Iznimno, kada postoji potreba za nastavkom rada znanstvenika, znanstvena organizacija može sa znanstvenikom koji udovoljava kriterijima izvrsnosti zaključiti ugovor o radu na određeno vrijeme od dvije godine s mogućnošću produljenja u dvogodišnjim mandatima. Kriterije izvrsnosti za odabir znanstvenika za zaključenje ugovora o radu nakon 65. godine donosi Nacionalno vijeće, a javni znanstveni institut općim aktom može propisati i dodatne kriterije izvrsnosti.
+
+(9) Na temelju izvješća stručnog povjerenstva ovlaštene znanstvene organizacije iz članka 34. ovoga Zakona, a koje se sastoji od tri člana koji moraju biti u istom ili višem znanstvenom zvanju u odnosu na pristupnika, pri čemu barem jedan član povjerenstva ne može biti zaposlenik znanstvene organizacije u kojoj je zaposlen pristupnik, odgovarajući matični odbor donosi odluku o ispunjenju kriterija izvrsnosti iz stavka 8. ovoga članka.
+
+(10) Kada su sredstva za plaću znanstvenika iz stavka 8. ovoga članka osigurana iz namjenskih sredstava za znanstvene ili stručne projekte, ili iz vlastitih sredstava, javni znanstveni institut može mu produljiti radni odnos i izvan ograničenja propisanih stavkom 8. ovoga članka.
+
+(11) Znanstvenik stariji od 65 godina kojem je prestao ugovor o radu zbog odlaska u mirovinu može se zaposliti na određeno vrijeme u drugoj znanstvenoj organizaciji pod uvjetima iz stavaka 8., 9. ili 10. ovoga članka, ako se na raspisani natječaj u toj znanstvenoj organizaciji nije javio odgovarajući pristupnik.«.
+
+#### Članak 22.
+
+U članku 43. stavku 2. riječi: »najviše šest« zamjenjuju se riječju: »pet«, a iza riječi: »poslijediplomski« dodaje se riječ: »sveučilišni«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Osobu koja je završila poslijediplomski sveučilišni studij, znanstvena organizacija može na temelju javnog natječaja izabrati u zvanje poslijedoktoranda te s njom zaključiti ugovor o radu na određeno vrijeme, u trajanju od najviše četiri godine na suradničkom radnome mjestu poslijedoktoranda.«.
+
+U dosadašnjem stavku 3. koji postaje stavak 4. riječ: »poslijediplomskog« zamjenjuje se riječima: »poslijediplomskog sveučilišnog«, iza riječi: »asistenta« dodaju se riječi: »ili poslijedoktoranda«, a riječi: »stavka 2.« zamjenjuju se riječima: »stavaka 2. i 3.«.
+
+Dosadašnji stavak 4. koji postaje stavak 5. mijenja se i glasi:
+
+»(5) Na traženje voditelja znanstvenog ili tehnologijskog projekta, znanstvena organizacija može zaposliti asistenta ili poslijedoktoranda za rad na projektu na teret sredstava projekta i na rok koliko traje znanstveni projekt.«.
+
+Dosadašnji stavci 5., 6., 7. i 8. brišu se.
+
+#### Članak 23.
+
+Iza članka 43. dodaju se naslov i članak 43.a koji glase:
+
+»Vrednovanje rada asistenata, poslijedoktoranada i mentora
+
+#### Članak 43.a
+
+(1) Svake godine znanstvena organizacija ocjenjuje rad asistenta. Ocjena se temelji na pisanom izvješću mentora u kojem se vrednuje kandidatova uspješnost u znanstvenom ili umjetničkom te nastavnom radu, kao i uspješnost na poslijediplomskom sveučilišnom studiju.
+
+(2) Najmanje jednom u dvije godine poslijedoktorand podnosi izvješće znanstvenom vijeću o svom radu temeljem kojeg se vrednuje njegova uspješnost u znanstvenom ili umjetničkom te nastavnom radu.
+
+(3) Ako je asistent ili poslijedoktorand dva puta ocijenjen negativno, o drugom izvješću mišljenje donosi upravno vijeće javnog znanstvenog instituta. Ako se drugo negativno izvješće, koje sadrži i očitovanje asistenta ili poslijedoktoranda, usvoji, ravnatelj pokreće postupak redovitog otkaza ugovora o radu (otkaz uvjetovan skrivljenim ponašanjem radnika).
+
+(4) Sadržaj, kriterije te postupak usvajanja izvješća iz stavaka 1., 2. i 3. ovoga članka propisuje znanstvena organizacija općim aktom.
+
+(5) Najmanje jedanput u dvije godine znanstvena organizacija ocjenjuje rad mentora asistenta na temelju izvješća o radu te izvješća i ocjene asistenta o mentorstvu znanstvenika. Mentor koji je dva puta ocijenjen negativno, ne može više biti imenovan za mentora. Postupak, kriteriji ocjene i imenovanja mentora propisuju se općim aktom znanstvene organizacije.«.
+
+#### Članak 24.
+
+Naslov iznad članka 45. briše se.
+
+Članak 45. mijenja se i glasi:
+
+"Osobama zaposlenima na znanstvenim i suradničkim radnim mjestima, a koja se financiraju iz državnog proračuna, produljuje se ugovor o radu na određeno vrijeme za onoliko vremena koliko im je trajao rodiljni i/ili roditeljski dopust, bolovanje dulje od tri mjeseca, obavljanje javne službe ili dužnosti te drugi opravdani slučaj predviđen zakonom, kolektivnim ugovorom ili općim aktom znanstvene organizacije.«.
+
+#### Članak 25.
+
+Iza članka 57. dodaju se naslov i članak 57.a koji glase:
+
+»Plaća rektora i prorektora
+
+#### Članak 57.a
+
+Plaću rektora i prorektora javnih sveučilišta ovisno o broju zaposlenika na sveučilištu, utvrdit će Vlada Republike Hrvatske posebnom odlukom, s tim da plaća rektora ne smije biti viša od plaće zamjenika ministra, a plaća prorektora ne smije biti viša od plaće pomoćnika ministra.«.
+
+#### Članak 26.
+
+U članku 59. stavku 2. točki 8. iza riječi: »standardu« dodaju se riječi: »sukladno članku 88. ovoga Zakona«.
+
+#### Članak 27.
+
+U članku 63. stavku 5. prva rečenica mijenja se i glasi: »Vijeće fakulteta i umjetničke akademije čine nastavnici, suradnici, studenti i jedan predstavnik zaposlenika, u skladu sa statutom fakulteta ili umjetničke akademije.«.
+
+#### Članak 28.
+
+U članku 68. stavak 2. mijenja se i glasi:
+
+»(2) Dekana veleučilišta i visoke škole bira i razrješava upravno vijeće. Stručno vijeće utvrđuje i predlaže upravnom vijeću kandidate za izbor dekana na način i u postupku utvrđenom statutom veleučilišta ili visoke škole. Dekan predstavlja i zastupa veleučilište ili visoku školu te u svom radu ima prava i obveze ravnatelja ustanove. Za akademska pitanja dekan je odgovoran stručnom vijeću, a za zakonitost rada financijskog poslovanja i racionalne uporabe materijalnih i kadrovskih resursa upravnom vijeću.«.
+
+U stavku 3. prva rečenica mijenja se i glasi: »Stručno vijeće veleučilišta i visoke škole čine nastavnici, suradnici, studenti i jedan predstavnik zaposlenika, u skladu sa statutom.«.
+
+#### Članak 29.
+
+U članku 69. stavku 2. iza riječi: »znanosti« stavlja se zarez i dodaje riječ: »umjetnosti«, a iza riječi: »znanstvenih« stavlja se zarez i dodaje riječ: »umjetničkih«.
+
+U stavku 4. riječ: »(»harmoniziraju«)« briše se.
+
+Iza stavka 4. dodaju se stavci 5. i 6. i glase:
+
+»(5) Studiji iz stavka 1. ovoga članka moraju biti u skladu s europskim sustavom stjecanja i prijenosa bodova (u daljnjem tekstu: ECTS) po kojem se jednom godinom studija u punom nastavnom opterećenju u pravilu stječe najmanje 60 ECTS bodova.
+
+(6) ECTS bodovi dodjeljuju se studijskim obvezama studenata na temelju prosječno ukupno utrošenog rada koji student mora uložiti kako bi stekao predviđene ishode učenja u sklopu te obveze, pri čemu jedan ECTS bod predstavlja u pravilu 30 sati ukupnog prosječnog studentskog rada uloženog za stjecanje ishoda učenja.«.
+
+#### Članak 30.
+
+U članku 70. stavku 1. u uvodnoj rečenici iza riječi: »obuhvaća« riječi: »sljedeće tri razine« brišu se.
+
+U podstavcima 1. i 2. iza riječi: »preddiplomski« i iza riječi: »diplomski« dodaje se riječ: »sveučilišni«.
+
+U stavku 2. iza riječi: »diplomski« dodaje se riječ: »sveučilišni«.
+
+Stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Studijski programi mogu se provoditi i kao integrirani preddiplomski i diplomski sveučilišni studiji čijim završetkom se stječe najmanje 300 ECTS bodova.
+
+(5) Sveučilište može akreditirati i integrirani preddiplomski i diplomski sveučilišni studij iz stavka 4. ovoga članka uz prethodno odobrenje Nacionalnoga vijeća.«.
+
+#### Članak 31.
+
+Članak 73. mijenja se i glasi:
+
+»(1) Poslijediplomski studiji su poslijediplomski sveučilišni studij i poslijediplomski specijalistički studij.
+
+(2) Poslijediplomski sveučilišni studij (doktorski studij) može se upisati nakon završetka diplomskog sveučilišnog studija.
+
+(3) Poslijediplomski sveučilišni studij traje najmanje tri godine. Ispunjenjem svih propisanih uvjeta i javnom obranom doktorske disertacije u znanstvenim područjima se stječe akademski stupanj doktora znanosti (dr. sc.). Ispunjenjem svih propisanih uvjeta u umjetničkom području se stječe akademski stupanj doktora umjetnosti (dr. art.).
+
+(4) Iznimno, osobe koje su ostvarile znanstvena dostignuća koja svojim značenjem odgovaraju uvjetima za izbor u znanstvena zvanja, na temelju odluke nadležnog vijeća utvrđenog statutom sveučilišta o ispunjavanju propisanih uvjeta te izrade i javne obrane doktorske disertacije, a uz suglasnost senata sveučilišta, mogu steći doktorat znanosti.
+
+(5) Iznimno, osobe koje su ostvarile umjetnička dostignuća koja svojim značenjem odgovaraju uvjetima za izbor u umjetničko-nastavna zvanja, na temelju odluke nadležnog vijeća utvrđenog statutom sveučilišta, o ispunjavanju propisanih uvjeta te izrade i javne obrane doktorske disertacije, a uz suglasnost senata sveučilišta, mogu steći doktorat umjetnosti.
+
+(6) Iznimno, osobe izabrane u umjetničko-nastavna zvanja i na umjetničko-nastavna radna mjesta, mogu temeljem umjetničkih radova, na temelju odluke nadležnog vijeća, utvrđenog statutom sveučilišta, o ispunjavanju propisanih uvjeta koje donosi senat sveučilišta, steći doktorat umjetnosti.
+
+(7) Kratica akademskog stupnja stavlja se ispred imena i prezimena osobe.
+
+(8) Sveučilište može organizirati poslijediplomski specijalistički studij u trajanju od jedne do dvije godine, kojim se stječe akademski naziv specijalist određenog područja (spec.), u skladu s posebnim zakonom. Naziv specijalist, odnosno njegova kratica dodaju se akademskom nazivu iz članka 72. stavka 3. ovoga Zakona. Završetkom poslijediplomskog specijalističkog studija stječe se od 60 do 120 ECTS bodova.
+
+(9) Posebnim propisom utvrdit će se akademski naziv koji se stječe završetkom poslijediplomskog specijalističkog studija, u slučaju kada je za određeno stručno područje posebnim zakonom propisano specijalističko usavršavanje.
+
+(10) Sveučilište općim aktom može odrediti stjecanje ECTS bodova na poslijediplomskom sveučilišnom studiju.«.
+
+#### Članak 32.
+
+Članak 74. mijenja se i glasi:
+
+»(1) Stručno obrazovanje obuhvaća:
+
+– kratki stručni studij,
+
+– preddiplomski stručni studij,
+
+– specijalistički diplomski stručni studij.
+
+(2) Stručni studiji provode se na visokoj školi ili veleučilištu. Iznimno, stručni studiji mogu se provoditi i na sveučilištu, uz pribavljenu suglasnost Nacionalnog vijeća u skladu s ovim Zakonom.
+
+(3) Svaka razina stručnog studija završava stjecanjem određenog stručnog naziva.
+
+(4) Kratki stručni studiji traju od dvije do dvije i pol godine i njihovim se završetkom stječe od 120 do 150 ECTS bodova. Završetkom kratkoga stručnog studija stječe se stručni naziv stručni pristupnik/pristupnica uz naznaku struke, u skladu s posebnim zakonom.
+
+(5) Preddiplomski stručni studij traje tri godine, a iznimno, uz odobrenje Nacionalnog vijeća, preddiplomski stručni studij može trajati do četiri godine, u slučaju kada je to sukladno s međunarodno prihvaćenim standardima. Završetkom preddiplomskog stručnog studija stječe se od 180 do 240 ECTS bodova te stručni naziv stručni/a prvostupnik/prvostupnica (baccalaureus/baccalaurea) uz naznaku struke, u skladu s posebnim zakonom.
+
+(6) Kratica stručnog naziva stavlja se iza imena i prezimena osobe.
+
+(7) Specijalistički diplomski stručni studij traje jednu ili dvije godine i njegovim se završetkom stječe od 60 do 120 ECTS bodova. Završetkom specijalističkog diplomskog stručnog studija stječe se stručni naziv stručni/a specijalist/ica određene struke, u skladu s posebnim zakonom.
+
+(8) Ukupan broj bodova koji se stječu na preddiplomskom i specijalističkom diplomskom stručnom studiju iznosi najmanje 300 ECTS bodova.
+
+(9) U slučaju kada je za određeno stručno područje posebnim zakonom propisano usavršavanje na razini specijalističkog diplomskog stručnog studija, odgovarajući stručni naziv utvrdit će se provedbenim propisom koji se donosi temeljem posebnog zakona.«.
+
+#### Članak 33.
+
+U članku 75. na kraju stavka 1. briše se točka i dodaju riječi: »ili obrazovnih programa iz članka 76.a ovoga Zakona.«.
+
+#### Članak 34.
+
+Naslov iznad članka 76. mijenja se i glasi: »Zajednički i združeni studij i prekogranična suradnja«.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Zajednički studij je zajednički program koji izvode dva ili više akreditirana visoka učilišta u Republici Hrvatskoj, pri čemu je samo jedno visoko učilište nositelj.
+
+(2) Sveučilište, veleučilište ili visoka škola mogu s drugim akreditiranim visokim učilištem u Republici Hrvatskoj ustrojiti zajednički studij, na temelju zajednički utvrđenog studijskog programa.
+
+(3) Združeni studij je zajednički program dva ili više visoka učilišta od kojih je najmanje jedno izvan Republike Hrvatske.
+
+(4) Združeni studiji mogu se ustrojiti ako su visoka učilišta akreditirana sukladno s Europskim standardima i smjernicama za osiguravanje kvalitete u visokom obrazovanju ili ekvivalentnom standardu kvalitete.
+
+(5) Ustroj, izvedba i završetak zajedničkog i združenog studija uređuje se sporazumom između visokih učilišta, a provodi se sukladno s odredbama ovoga Zakona.
+
+(6) Akreditacijski postupak zajedničkog i združenog studija provodi se na svim visokim učilištima u Republici Hrvatskoj koja sudjeluju u izdavanju svjedodžbe ili diplome o završenom zajedničkom ili združenom studiju, sukladno s odredbama zakona koji regulira osiguravanje kvalitete u znanosti i visokom obrazovanju za odgovarajuće visoko učilište.
+
+(7) Inozemno visoko učilište može na teritoriju Republike Hrvatske izvoditi svoje studije pod uvjetima da su: navedeno visoko učilište i studiji koje ono izvodi akreditirani u matičnoj državi, da je navedeno visoko učilište upisano u Upisnik visokih učilišta nadležnog ministarstva Republike Hrvatske, kao i u registar ustanova pri trgovačkom sudu u Republici Hrvatskoj, te da je studij, prema postupku koji propisuje ministar, akreditiran od strane nacionalnog akreditacijskog tijela Republike Hrvatske.«.
+
+#### Članak 35.
+
+Iza članka 76. dodaju se naslov i članak 76.a koji glase:
+
+»Cjeloživotno učenje, izvođenje programa koji se ne smatraju studijem i razlikovne obveze u studijskim programima
+
+#### Članak 76.a
+
+(1) Visoka učilišta mogu izvoditi različite obrazovne programe koji se ne smatraju studijem u smislu ovoga Zakona, te se temelje na načelima cjeloživotnog učenja.
+
+(2) Visoka učilišta općim aktom uređuju načine i oblike provođenja aktivnosti koje se temelje na načelima cjeloživotnog učenja, uključujući načine i postupke utvrđivanja razlikovnih obveza studenata za potrebe promjene studijskog programa i/ili upisa na studij, dovršetka ranije započetog studija i priznavanja kompetencija stečenih izvan studijskog programa, a koje su uvjet za sudjelovanje na studiju.
+
+(3) Visoka učilišta općim aktom uređuju status studenata na razlikovnim obvezama, polaznika obrazovnih programa koji se ne smatraju studijem i sudionika u aktivnostima kojima se promoviraju načela cjeloživotnog učenja.
+
+(4) Svi programi i postupci iz ovoga članka sastavni su dio unutarnjeg sustava osiguravanja i unapređivanja kvalitete te na odgovarajući način podliježu postupcima vanjskog osiguravanja i unapređivanja kvalitete.«.
+
+#### Članak 36.
+
+U članku 77. stavku 3. iza riječi: »preddiplomskog« dodaju se riječi: »sveučilišnog, integriranog preddiplomskog i diplomskog sveučilišnog studija«, a iza riječi: »stručnog studija« dodaju se riječi: »iz članka 74. stavka 1. podstavaka 1. i 2. ovoga Zakona«.
+
+Stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Diplomski sveučilišni studij ili specijalistički diplomski stručni studij može upisati osoba koja je završila odgovarajući preddiplomski studij. Visoka učilišta propisuju koji se studiji smatraju odgovarajućim za upis pojedinog diplomskog studija, kao i uvjete upisa.
+
+(5) Osobe koje su završile preddiplomski stručni studij mogu kandidirati za upis na diplomski sveučilišni studij u skladu s općim aktom sveučilišta koje provodi taj studij, pri čemu se odabir za upis može uvjetovati polaganjem ispita kompetencija tijekom razredbenog postupka i/ili razlikovnih ispita na početku studijskog programa u statusu redovitog ili izvanrednog studenta.«.
+
+Na kraju stavka 7. briše se točka i dodaju riječi: »i ako je sveučilište, veleučilište i visoka škola općim aktom definiralo kriterije za takve procjene.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Sveučilišta, veleučilišta i visoke škole donose opći akt za reguliranje uvjeta upisa na studij za studente koji su završili studije ustrojene na temelju propisa koji su bili na snazi prije donošenja ovoga Zakona.«.
+
+#### Članak 37.
+
+U članku 78. stavku 2. dodaje se novi podstavak 2. koji glasi:
+
+»– usklađen sa strateškim dokumentom mreže visokih učilišta,«.
+
+Dosadašnji podstavci 2. i 3. postaju podstavci 3. i 4.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Studijski program donosi se u skladu sa statutom i drugim općim aktom sveučilišta, veleučilišta ili visoke škole te sadrži:
+
+1. stručni ili akademski naziv ili stupanj koji se stječe završetkom studija,
+
+2. akademske uvjete upisa na studij na početku studija, uvjete upisa studenta u sljedeći semestar ili trimestar, odnosno sljedeću godinu studija, kao i preduvjete upisa studijskih obveza,
+
+3. predviđene ishode učenja koji se stječu ispunjavanjem pojedinačnih studijskih obveza, modula studija i ukupnog studijskog programa, kao i predviđen broj sati za svaku studijsku obvezu koji osigurava stjecanje predviđenih ishoda učenja,
+
+4. za svaku studijsku obvezu dodijeljen odgovarajući broj ECTS bodova temeljen na prosječno ukupno utrošenom radu koji student mora uložiti kako bi stekao predviđene ishode učenja u sklopu te obveze,
+
+5. oblik provođenja nastave i način provjere stečenih ishoda učenja za svaku studijsku obvezu,
+
+6. popis drugih studijskih programa iz kojih se mogu steći ECTS bodovi,
+
+7. način završetka studija,
+
+8. odredbe o tome mogu li i pod kojim uvjetima studenti koji su prekinuli studij ili su izgubili pravo studiranja nastaviti studij.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) ECTS bodovi ne trebaju biti navedeni na poslijediplomskom sveučilišnom studiju na kojem nije predviđeno njihovo stjecanje.«.
+
+#### Članak 38.
+
+U članku 79. iza stavka 1. dodaju se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Ako se na studijski program upisuju izvanredni studenti, u izvedbenom planu nastave definira se ustroj i način izvođenja nastave za izvanredne studente.
+
+(3) Donošenje izvedbenog plana nastave uvjet je za početak izvođenja nastave u toj akademskoj godini.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+#### Članak 39.
+
+U članku 80. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Nastava može početi i prije početka akademske godine iz stavka 1. ovoga članka, ako je tako propisano izvedbenim planom nastave za tu akademsku godinu, ali ne prije 1. rujna.«.
+
+#### Članak 40.
+
+Članak 83. mijenja se i glasi:
+
+»(1) Preddiplomski studij završava polaganjem svih ispita te, ovisno o studijskom programu, izradom završnog rada i/ili polaganjem završnog ispita u skladu sa studijskim programom.
+
+(2) Diplomski studij završava polaganjem svih ispita, izradom diplomskog rada i polaganjem diplomskog ispita i/ili izradom ili izvedbom umjetničkog djela u skladu sa studijskim programom.
+
+(3) Integrirani preddiplomski i diplomski sveučilišni studij završava polaganjem svih ispita, izradom diplomskog rada i polaganjem diplomskog ispita i/ili izradom ili izvedbom umjetničkog djela u skladu sa studijskim programom.
+
+(4) Poslijediplomski sveučilišni studij završava polaganjem svih ispita, izradom i javnom obranom znanstvene ili umjetničke doktorske disertacije.
+
+(5) Poslijediplomski specijalistički studij završava polaganjem svih ispita, izradom završnog rada i/ili polaganjem odgovarajućeg završnog ispita u skladu sa studijskim programom.
+
+(6) Studijskim programom može se utvrditi da poslijediplomski umjetnički studij završava polaganjem svih ispita te polaganjem završnog ispita pred ispitnim povjerenstvom i/ili izradom ili izvedbom umjetničkog djela.
+
+(7) Postupak prijave, ocjene i obrane doktorske disertacije odnosno izrade i/ili izvedbe umjetničkog djela uređuje se statutom sveučilišta ili općim aktom sveučilišta.
+
+(8) Kratki stručni studij i preddiplomski stručni studij završava polaganjem svih ispita. Studijskim programom može se predvidjeti i polaganje završnog ispita i/ili izrada završnog rada.
+
+(9) Specijalistički diplomski stručni studij završava polaganjem svih ispita, izradom završnog rada i polaganjem odgovarajućeg završnog ispita u skladu sa studijskim programom.
+
+(10) Završetkom studija sukladno s odredbama ovoga članka student stječe odgovarajući stručni ili akademski naziv ili stupanj te druga prava sukladno s posebnim propisima.
+
+(11) Završne radove studija sveučilišta i fakulteti dužni su trajno objaviti na javnoj internetskoj bazi sveučilišne knjižnice u sastavu sveučilišta te kopirati u javnu internetsku bazu završnih radova Nacionalne i sveučilišne knjižnice. Veleučilišta i visoke škole dužne su završene radove studija kopirati u javnu internetsku bazu završnih radova Nacionalne i sveučilišne knjižnice.
+
+(12) Doktorske disertacije visoko učilište dužno je trajno objaviti na javnoj internetskoj bazi doktorskih disertacija Nacionalne i sveučilišne knjižnice. Sveučilište je dužno osigurati da se i jedan otisnuti primjerak doktorske disertacije dostavi Nacionalnoj i sveučilišnoj knjižnici.
+
+(13) Završni radovi istovrsnih umjetničkih studija koji se realiziraju kroz umjetnička ostvarenja objavljuju se na odgovarajući način.«.
+
+#### Članak 41.
+
+U članku 84. stavku 1. riječ: »svjedodžba« zamjenjuje se riječju: »diploma«.
+
+U stavku 2. prva rečenica mijenja se i glasi: »Nakon završetka diplomskog sveučilišnog, integriranog preddiplomskog i diplomskog sveučilišnog studija, poslijediplomskog sveučilišnog i poslijediplomskog specijalističkog studija studentu se izdaje diploma.«.
+
+Stavci 3., 4. i 5. mijenjaju se i glase:
+
+»(3) Nakon završetka kratkog stručnog studija studentu se izdaje svjedodžba, a nakon završetka preddiplomskog stručnog studija i specijalističkog diplomskog stručnog studija studentu se izdaje diploma kojima se potvrđuje završetak studija i stjecanje određenog stručnog naziva.
+
+(4) Nakon završenog programa stručnog usavršavanja visoko učilište polazniku izdaje potvrdu koja sadrži opis obveza polaznika, a ako se opterećenje u sklopu programa mjeri ECTS bodovima, sadrži i ECTS bodove.
+
+(5) Uz svjedodžbu, diplomu ili potvrdu studentu se bez naknade i na hrvatskome i engleskom jeziku izdaje i dopunska isprava o studiju kojom se potvrđuje koje je ispite položio i s kojom ocjenom te s drugim podacima potrebnim za razumijevanje stečene kvalifikacije.«.
+
+#### Članak 42.
+
+U članku 86. stavku 4. druga rečenica mijenja se i glasi: »Troškovi studija (studijskog programa) mogu redovitim studentima biti dijelom ili u cijelosti financirani iz državnog proračuna, sukladno s općim aktom sveučilišta, veleučilišta ili visoke škole.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Sveučilišta, veleučilišta i visoke škole mogu s ministarstvom nadležnim za visoko obrazovanje potpisati jednogodišnje ili višegodišnje ugovore o subvenciji participacije redovitih studenata u troškovima studija, u kojima se obvezno navode ciljevi subvencije, aktivnosti i rezultati za ostvarenje ciljeva, indikatori praćenja provedbe te dinamika dostave izvještaja o provedbi ugovora.«.
+
+U dosadašnjem stavku 5. koji postaje stavak 6. prva rečenica mijenja se i glasi: »Izvanredni studenti su oni koji obrazovni program pohađaju uz rad ili drugu aktivnost koja traži posebno prilagođene termine i načine izvođenja studija u skladu s izvedbenim planom nastave.«.
+
+#### Članak 43.
+
+U članku 88. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Redoviti studenti imaju prava iz zdravstvenog osiguranja sukladno posebnim propisima.
+
+(4) Pravilnicima koje donosi ministar uredit će se uvjeti i način ostvarivanja prava redovitih studenata iz studentskog standarda, i to na: subvencionirano stanovanje, subvencioniranu prehranu, prijevoz studenata s invaliditetom, državne stipendije, zajmove i druge novčane potpore te zapošljavanje posredstvom studentskih centara.«.
+
+#### Članak 44.
+
+Naslov iznad članka 90. mijenja se i glasi: »Evidencije u visokom obrazovanju«.
+
+Članak 90. mijenja se i glasi:
+
+»(1) Visoka učilišta elektronički vode evidencije i zbirke podataka te obrađuju prikupljene osobne i druge podatke za obavljanje poslova iz svoje nadležnosti. Navedene evidencije visoka učilišta mogu voditi i u tiskanom obliku.
+
+(2) Visoko učilište vodi sljedeće evidencije o osobnim podacima studenata:
+
+1. evidenciju prijavljenih za postupke upisa na studij i programe stručnog usavršavanja, koja uključuje i rezultate postupka;
+
+2. evidenciju studenata i polaznika programa stručnog usavršavanja;
+
+3. osobni karton studenata i polaznika programa stručnog usavršavanja;
+
+4. evidenciju o ispitima i drugim studijskim obvezama;
+
+5. evidenciju izdanih isprava o završetku studija te stečenih akademskih i stručnih naziva i akademskih stupnjeva;
+
+6. druge evidencije propisane zakonom, provedbenim aktima i općim aktima visokog učilišta.
+
+(3) Visoko učilište vodi sljedeće evidencije o osobnim podacima zaposlenika:
+
+1. osobni karton zaposlenika;
+
+2. evidenciju nastavnog osoblja i opterećenja u nastavi;
+
+3. druge evidencije propisane zakonom, provedbenim aktima i općim aktima visokog učilišta.
+
+(4) Visoka učilišta i studentski centri obvezni su za potrebe subvencioniranja studentskog standarda voditi sljedeće evidencije:
+
+1. evidenciju prijava za subvencionirano stanovanje i korisnika subvencioniranog stanovanja;
+
+2. evidenciju korisnika i razine prava na subvencioniranu prehranu,
+
+3. evidenciju korisnika subvencioniranih troškova studija.
+
+(5) Postupak vođenja evidencija iz stavaka 2., 3. i 4. ovoga članka sastavni je dio unutarnjeg sustava osiguravanja i unapređivanja kvalitete te podliježe postupcima vanjskog osiguravanja i unapređivanja kvalitete.
+
+(6) Ministarstvo vodi sljedeće zbirke podataka o visokom obrazovanju:
+
+1. Upisnik visokih učilišta;
+
+2. Upisnik studijskih programa;
+
+3. Evidenciju studenata;
+
+4. Evidenciju studenata s invaliditetom;
+
+5. Evidenciju diplomiranih studenata;
+
+6. Evidenciju prijavljenih za upisni postupak koja uključuje i rezultate postupka;
+
+7. Evidenciju prijavljenih i korisnike subvencioniranog stanovanja, prehrane i troškova studija;
+
+8. Evidenciju zaposlenika visokih učilišta;
+
+9. Evidenciju nastavnog osoblja i opterećenja u nastavi;
+
+10. Druge evidencije i zbirke podataka propisane zakonom i provedbenim aktima te potrebne za provedbu zakonskih ovlasti.
+
+(7) Podatke za zbirke podataka iz stavka 6. ovoga članka prikupljaju i obrađuju Ministarstvo i Agencija za znanost i visoko obrazovanje za potrebe utvrđivanja prava studenata na studij i drugih prava na teret javnih sredstava, planiranja politika i praćenja visokog obrazovanja, obavještavanja javnosti, planiranja i praćenja mreže visokih učilišta i studijskih programa, za izradu analiza, statistika i provedbu istraživanja iz područja visokog obrazovanja, provedbu postupaka vanjskog osiguranja kvalitete te izrade analiza i statističkih izvješća o visokom obrazovanju.
+
+(8) Ministar će, uz prethodno mišljenje Agencije za znanost i visoko obrazovanje, pravilnikom propisati sadržaj, način vođenja i način dostave podataka iz evidencija i zbirki podataka iz stavaka 2., 3., 4. i 6. ovoga članka.«.
+
+#### Članak 45.
+
+U članku 91. stavak 1. mijenja se i glasi:
+
+»(1) Znanstveno-nastavna i umjetničko-nastavna zvanja su docent (doc. dr. sc./dr. art.), izvanredni profesor (izv. prof. dr. sc./dr. art.), redoviti profesor i redoviti profesor u trajnom zvanju (prof. dr. sc./dr. art.). Kratice naziva znanstveno-nastavnih i umjetničko-nastavnih radnih mjesta pišu se ispred imena i prezimena osobe koja je izabrana na navedeno radno mjesto.«
+
+U stavku 2. na kraju podtočke 3. točka se zamjenjuje zarezom, te se dodaje podtočka 4. koja glasi:
+
+»4. redoviti profesor u trajnom zvanju – znanstveni savjetnik u trajnom zvanju.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Nastavna zvanja su predavač (pred.), viši predavač (v. pred.), profesor visoke škole (prof. v. š.), lektor, viši lektor, umjetnički suradnik, viši umjetnički suradnik i umjetnički savjetnik. Kratice naziva nastavnih zvanja na nastavnim radnim mjestima pišu se iza imena i prezimena osobe koja je izabrana na navedeno nastavno radno mjesto.«.
+
+#### Članak 46.
+
+U članku 92. stavku 3. iza riječi: »znanstveno-nastavno zvanje« dodaju se riječi: »ili umjetničko-nastavno zvanje«.
+
+U stavku 4. iza riječi: »znanstveno-nastavno« dodaju se riječi: »ili umjetničko-nastavno«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Studenti poslijediplomskog sveučilišnog studija mogu sudjelovati u izvođenju nastave preddiplomskog stručnog ili sveučilišnog studija, ili diplomskog sveučilišnog ili specijalističkog diplomskog stručnog studija, u skladu sa studijskim programom poslijediplomskog sveučilišnog studija i općim aktom sveučilišta, veleučilišta i visoke škole.«.
+
+#### Članak 47.
+
+U članku 93. stavku 2. na kraju podstavka 3. točka se zamjenjuje zarezom, te se dodaje podstavak 4. koji glasi:
+
+»– redovitog profesora u trajnom zvanju: znanstveni savjetnik u trajnom zvanju.«.
+
+#### Članak 48.
+
+U članku 95. stavku 1. iza riječi: »dnevnom tisku« stavlja se zarez, a riječi: »i na INTERNET stranici visokog učilišta« zamjenjuju se riječima: »na internetskoj stranici visokog učilišta te na službenom internetskom portalu za radna mjesta Europskoga istraživačkog prostora. Natječaj mora biti otvoren najmanje 30 dana.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Zahtjev za pokretanje postupka podnosi pristupnik ili znanstvena organizacija, a odluku donosi sveučilište, odnosno sastavnica sveučilišta u skladu s općim aktom sveučilišta.«.
+
+Stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Na znanstveno-nastavno radno mjesto docenta može biti izabran onaj pristupnik koji je izabran u znanstveno-nastavno zvanje docenta.
+
+(5) Na znanstveno-nastavno radno mjesto izvanrednog profesora može biti izabran onaj pristupnik koji je izabran u znanstveno-nastavno zvanje izvanrednog profesora i bio je najmanje pet godina na znanstveno-nastavnom radnom mjestu docenta ili znanstvenom radnom mjestu znanstvenog suradnika.«.
+
+Iza stavka 5. dodaju se stavci 6., 7., 8. i 9. koji glase:
+
+»(6) Na znanstveno-nastavno radno mjesto redovitog profesora može biti izabran onaj pristupnik koji je izabran u znanstveno-nastavno zvanje redovitog profesora i bio je najmanje pet godina na znanstveno-nastavnom radnom mjestu izvanrednog profesora ili znanstvenom radnom mjestu višeg znanstvenog suradnika.
+
+(7) Na znanstveno-nastavno radno mjesto redovitog profesora u trajnom zvanju može biti izabran onaj pristupnik koji je izabran u znanstveno-nastavno zvanje redovitog profesora u trajnom zvanju i bio je najmanje pet godina na znanstveno-nastavnom radnom mjestu redovitog profesora ili znanstvenom radnom mjestu znanstvenog savjetnika.
+
+(8) Ako se jasno utvrdi da zaposlenik ispunjava kriterije za izbor na više znanstveno-nastavno radno mjesto u odnosu na ono na koje se bira, posebnom odlukom stručnog vijeća visokog učilišta i uz suglasnost zaposlenika, natječaj za izbor iz stavka 5. i 6. ovoga članka može biti raspisan i ranije od rokova propisanih tim stavcima, ali ne prije nego što isteknu tri godine od njegovog prethodnog izbora na radno mjesto s nižim zvanjem.
+
+(9) Odredbe ovoga članka na odgovarajući način se primjenjuju na nastavnike izabrane u umjetničko-nastavna zvanja i umjetničko-nastavna radna mjesta.«.
+
+#### Članak 49.
+
+U članku 97. stavku 2. riječi: »visokog učilišta« zamjenjuju se riječima: »sveučilišta odnosno sastavnice«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Osobu koja je završila diplomski sveučilišni studij, sveučilište odnosno sastavnica može izabrati u zvanje asistenta te s njom zaključiti ugovor o radu na određeno vrijeme, u trajanju od šest godina na suradničkom radnom mjestu asistenta. Asistent je dužan upisati i redovito pohađati poslijediplomski sveučilišni studij, osim za asistente u umjetničkom području.«.
+
+U dosadašnjem stavku 3. koji postaje stavak 4. riječi: »visokog učilišta« zamjenjuju se riječima: »sveučilišta, odnosno sastavnice«.
+
+#### Članak 50.
+
+Iza članka 97. dodaju se naslov i članak 97.a koji glase:
+
+»Vrednovanje rada asistenata, poslijedoktoranada i mentora
+
+#### Članak 97.a
+
+(1) Svake godine sveučilište odnosno sastavnica ocjenjuje rad asistenta. Ocjena se temelji na pisanom izvješću mentora u kojem se vrednuje kandidatova uspješnost u znanstvenom ili umjetničkom te nastavnom radu, kao i uspješnost na poslijediplomskom sveučilišnom studiju.
+
+(2) Najmanje jednom u dvije godine poslijedoktorand podnosi stručnom vijeću izvješće o svom radu temeljem kojeg se vrednuje njegova uspješnost u znanstvenom ili umjetničkom te nastavnom radu.
+
+(3) Ako stručno vijeće sveučilišta odnosno sastavnice drugi puta negativno ocjeni rad asistenta ili poslijedoktoranda, pokreće se postupak redovitog otkaza ugovora o radu (otkaz uvjetovan skrivljenim ponašanjem radnika). Sadržaj, kriterije te postupak usvajanja izvješća iz stavaka 1. i 2. ovoga članka propisuje visoko učilište općim aktom.
+
+(4) Najmanje jedanput u dvije godine sveučilište odnosno sastavnica ocjenjuje rad mentora asistenta na temelju izvješća o radu te izvješća i ocjene asistenta o mentorstvu nastavnika. Mentor koji je dva puta ocijenjen negativno ne može više biti imenovan za mentora. Kriteriji ocjene i imenovanja mentora utvrđuju se općim aktom sveučilišta odnosno sastavnice.«.
+
+#### Članak 51.
+
+U članku 98. na kraju stavka 2. dodaje se rečenica: »Isključivo za potrebe sveučilišnog studija jezika i književnosti nastavnici se biraju u nastavna zvanja lektora i višeg lektora.«.
+
+U stavku 3. riječi: »diplomski studij ili stručni specijalistički studij« zamjenjuju se riječima: »diplomski sveučilišni studij ili specijalistički diplomski stručni studij«.
+
+U stavku 6. iza riječi: »struci« stavlja se zarez te dodaju riječi: »kod prvog izbora na nastavno radno mjesto, pozitivno ocijenjeno nastupno predavanje pred nastavnicima i studentima«.
+
+U stavku 7. iza riječi: »diplomski« dodaje se riječ: »sveučilišni«, a iza riječi: »struci« stavlja se zarez te dodaju riječi: »kod prvog izbora na nastavno radno mjesto pozitivno ocijenjeno nastupno predavanje pred nastavnicima i studentima«.
+
+Iza stavka 9. dodaju se stavci 10. i 11. koji glase:
+
+»(10) U zvanje umjetničkog suradnika i na odgovarajuće radno mjesto može biti izabrana osoba koja ima završeni umjetnički diplomski sveučilišni studij, ispunjene nužne uvjete koje propisuje Rektorski zbor, odnosno Vijeće veleučilišta i visokih škola, dokazanu umjetničku djelatnost, najmanje osam godina radnog iskustva u struci te ispunjene uvjete propisane statutom visokog učilišta.
+
+(11) U zvanje umjetničkog savjetnika i na odgovarajuće radno mjesto može biti izabrana osoba koja ima završen umjetnički diplomski sveučilišni studij, ispunjene nužne uvjete koje propisuje Rektorski zbor, odnosno Vijeće veleučilišta i visokih škola, dokazanu umjetničku djelatnost, najmanje 20 godina radnog iskustva u struci te ispunjene uvjete propisane statutom visokog učilišta.«.
+
+#### Članak 52.
+
+U članku 98.a riječi: »stranim visokoškolskim ustanovama« zamjenjuju se riječima: »stranim visokim učilištima«, u odgovarajućem padežu.
+
+#### Članak 53.
+
+U članku 101. stavak 1. mijenja se i glasi:
+
+»(1) Postupak izbora u nastavna i stručna zvanja te odgovarajuća radna mjesta provodi visoko učilište sukladno statutu, na temelju javnog natječaja koji se objavljuje u »Narodnim novinama«, dnevnom tisku, na internetskoj stranici visokog učilišta te na službenom internetskom portalu za radna mjesta Europskoga istraživačkog prostora. Natječaj mora biti otvoren najmanje 30 dana.«.
+
+#### Članak 54.
+
+Članak 102. mijenja se i glasi:
+
+»(1) S osobama izabranim na znanstveno-nastavna, umjetničko-nastavna, nastavna i stručna radna mjesta sklapa se ugovor o radu na neodređeno vrijeme, s obvezom provođenja reizbora ili izbora na više radno mjesto.
+
+(2) Reizbor osobe na znanstveno-nastavnim, umjetničko-nastavnim, nastavnim i stručnim radnim mjestima, osim redovitih profesora u trajnom zvanju, vrši se na način da stručno povjerenstvo visokog učilišta podnosi stručnom vijeću visokog učilišta u kojem je pristupnik zaposlen izvješće o radu zaposlenika svakih pet godina sukladno općim aktima visokog učilišta. Stručno povjerenstvo se sastoji od tri člana koji moraju biti u istom ili višem zvanju i odgovarajućem radnom mjestu s obzirom na ono za koje se traži reizbor. Barem jedan član povjerenstva ne može biti zaposlenik visokog učilišta u kojem je zaposlen pristupnik.
+
+(3) Oblik izvješća te minimalne uvjete radnih obveza o kojima se podnosi izvješće iz stavka 2. ovoga članka za znanstveno-nastavno, umjetničko-nastavno, nastavno i stručno radno mjesto propisuje Nacionalno vijeće. Visoko učilište općim aktom propisuje postupak odlučivanja o prihvaćanju izvješća, a može propisati i dodatne uvjete o kojima se podnosi izvješće iz stavka 2. ovoga članka.
+
+(4) Ako stručno vijeće visokog učilišta ne prihvati izvješće o radu, odnosno prihvati negativno izvješće o radu, u skladu sa stavkom 3. ovoga članka, nakon dvije godine od dana donošenja navedene odluke, ponavlja se postupak reizbora u skladu sa stavcima 2. i 3. ovoga članka.
+
+(5) Ako stručno vijeće visokog učilišta ne prihvati izvješće zaposlenika iz stavka 4. ovoga članka, čelnik visokog učilišta pokreće postupak redovitog otkaza ugovora o radu (otkaz uvjetovan skrivljenim ponašanjem radnika) u skladu s općim propisima o radu i općim aktom visokog učilišta.
+
+(6) Obveza podnošenja izvješća iz ovog članka prestaje nakon što zaposlenik bude izabran na znanstveno-nastavno radno mjesto redovitog profesora u trajnom zvanju.
+
+(7) Zaposleniku na znanstveno-nastavnom, umjetničko-nastavnom, nastavnom i stručnom radnom mjestu na visokom učilištu istekom akademske godine u kojoj je navršio 65 godina prestaje ugovor o radu radi odlaska u mirovinu.
+
+(8) Iznimno od odredbe stavka 7. ovoga članka, kada na sveučilištu odnosno fakultetu postoji potreba za nastavkom rada zaposlenika na znanstveno-nastavnom i/ili umjetničko-nastavnom radnom mjestu, odnosno kada na veleučilištu i visokoj školi postoji potreba za nastavkom rada zaposlenika na nastavnom radnom mjestu, sveučilište, fakultet, veleučilište, odnosno visoka škola može sa zaposlenikom koji udovoljava kriterijima izvrsnosti zaključiti ugovor o radu na određeno vrijeme od dvije godine s mogućnošću produljenja u dvogodišnjim mandatima. Kriterije izvrsnosti za odabir zaposlenika za zaključenje ugovora o radu nakon 65. godine donosi Nacionalno vijeće, a sveučilište, veleučilište ili visoka škola općim aktom može propisati i dodatne kriterije izvrsnosti.
+
+(9) Na temelju izvješća stručnog povjerenstva ovlaštene znanstvene organizacije iz članka 34. ovoga Zakona, a koje se sastoji od tri člana koji moraju biti u istom ili višem znanstvenom zvanju u odnosu na pristupnika, pri čemu barem jedan član povjerenstva ne može biti zaposlenik znanstvene organizacije u kojoj je zaposlen pristupnik, odgovarajući matični odbor donosi odluku o ispunjenju kriterija znanstvene izvrsnosti iz stavka 8. ovoga članka. Za kandidata na znanstveno-nastavnom i/ili umjetničko-nastavnom radnom mjestu na sveučilištu, odnosno fakultetu, odnosno za kandidata na nastavnom radnom mjestu na veleučilištu i visokoj školi, stručno povjerenstvo sveučilišta, fakulteta, veleučilišta, odnosno visoke škole podnosi izvješće o ispunjenju kriterija nastavne izvrsnosti koje potvrđuje povjerenstvo koje imenuje Nacionalno vijeće.
+
+(10) Kada su sredstva za plaću zaposlenika iz stavka 8. ovoga članka osigurana iz namjenskih sredstava znanstvenih ili stručnih projekata ili iz vlastitih sredstava, visoko učilište može zaposleniku produljiti radni odnos i izvan ograničenja iz stavka 8. ovoga članka. Pri tome će se posebno cijeniti njegov znanstveni doprinos, uspješnost u obrazovnom procesu i odgoju mladih znanstvenika i nastavnika.
+
+(11) Nastavnik stariji od 65 godina kojem je prestao ugovor o radu radi odlaska u mirovinu, može se na određeno vrijeme zaposliti na drugom visokom učilištu pod uvjetima iz stavaka 8., 9. ili 10. ovoga članka, ako se na raspisani natječaj na tom visokom učilištu nije javio odgovarajući pristupnik.«.
+
+#### Članak 55.
+
+U članku 103. stavak 5. mijenja se i glasi:
+
+»(5) Nastavnik ili znanstvenik tijekom obavljanja javne dužnosti na koju je imenovan ili izabran (npr. nastavnik ili znanstvenik izabran u Hrvatski sabor, dužnosnik kojeg je na dužnost imenovao Sabor, predsjednik Republike, Vlada ili Ustavni sud, župan, podžupan, gradonačelnik i zamjenik gradonačelnika Grada Zagreba), odnosno radi čijeg je obavljanja sklopio odgovarajući ugovor, može obavljati nastavu i baviti se znanstvenim radom na visokom učilištu ili u drugoj znanstvenoj organizaciji tako da s visokim učilištem ili drugom znanstvenom organizacijom zaključi odgovarajući ugovor. Nastavnik ili znanstvenik koji obnaša javnu dužnost ima se pravo, sukladno ugovoru s visokim učilištem ili drugom znanstvenom organizacijom, vratiti na radno mjesto na kojem je radio prije odlaska na javnu dužnost ili drugo odgovarajuće radno mjesto.«.
+
+#### Članak 56.
+
+U članku 105. stavak 1. mijenja se i glasi:
+
+»(1) Rektorski zbor čine svi rektori javnih sveučilišta u Republici Hrvatskoj. U radu Rektorskog zbora sudjeluje, bez prava odlučivanja, predstavnik Vijeća veleučilišta i visokih škola te predstavnik privatnih sveučilišta.«.
+
+#### Članak 57.
+
+U članku 107. stavak 1. mijenja se i glasi:
+
+»(1) Visoka učilišta, instituti i druge znanstvene organizacije financiraju se iz:
+
+1. sredstava osnivača,
+
+2. državnog proračuna Republike Hrvatske,
+
+3. proračuna županija, gradova i općina,
+
+4. školarina,
+
+5. prihoda od znanstvenih, istraživačkih, umjetničkih i stručnih projekata, znanstvenih i stručnih elaborata i ekspertiza,
+
+6. zaklada, donacija i pomoći,
+
+7. prihoda od nakladničke djelatnosti,
+
+8. prihoda ostvarenih na tržištu,
+
+9. prihoda od imovine, udjela u trgovačkim društvima, prihoda ostvarenih od pravnih osoba iz članka 66. ovoga Zakona, kao i prihoda od ulaganja fizičkih i pravnih osoba,
+
+10. ostalih izvora.«.
+
+#### Članak 58.
+
+U članku 108. stavku 2. iza riječi: »kolaborativnih znanstvenih programa,« dodaju se riječi: »umjetničkog istraživanja i s njima povezanih skupova,«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. koji postaje stavak 3. mijenja se i glasi:
+
+»(3) Sredstva za razvoj sustava znanosti i visokog obrazovanja znanstvene, umjetničke i istraživačke projekte i programe, znanstvenu, umjetničku i istraživačku infrastrukturu i opremu, znanstveno izdavaštvo, znanstvene konferencije te znanstvene i znanstveno stručne udruge raspoređuje ministar na temelju javnog poziva i mišljenja odgovarajućih povjerenstva koja imenuje ministar. Sredstva se raspoređuju vodeći računa o raspodjeli sredstava koja su za istu namjenu predviđena u razdjelima drugih tijela državne uprave te tijela lokalne odnosno područne (regionalne) samouprave.«.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 59.
+
+U članku 109. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Javna visoka učilišta raspolažu sredstvima sukladno ovome Zakonu te propisima kojima se regulira izvršavanje državnog proračuna.
+
+(6) Uz suglasnost ugovornih strana dio djelatnosti javnih sveučilišta može se financirati i sukladno posebnim ugovorima sklopljenima između Ministarstva i javnih sveučilišta.«.
+
+#### Članak 60.
+
+Naslov iznad članka 110. mijenja se i glasi: »Financiranje instituta«.
+
+Članak 110. mijenja se i glasi:
+
+»(1) Proračun javnog znanstvenog instituta predlaže ravnatelj temeljem rasprave znanstvenog vijeća. Odluku o proračunu donosi upravno vijeće na temelju prethodne suglasnosti ministra.
+
+(2) Djelatnost javnih znanstvenih instituta financira se sredstvima državnog proračuna Republike Hrvatske.
+
+(3) Uz suglasnost ugovornih strana dio djelatnosti instituta može se financirati i sukladno posebnim ugovorima sklopljenima između Ministarstva i instituta.«.
+
+#### Članak 61.
+
+U članku 112. stavku 1. iza riječi: »Odbor za etiku u znanosti i visokom obrazovanju« dodaju se riječi: »(u daljnjem tekstu: Odbor)«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Članovi Odbora ne mogu biti rektori, prorektori, dekani, prodekani, ravnatelji te članovi Nacionalnog vijeća, predsjednik, potpredsjednici, glavni tajnik i voditelji zavoda HAZU.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »za etiku« brišu se.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+Iza dosadašnjeg stavka 4. koji postaje stavak 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Odbor donosi poslovnik o radu.«.
+
+Iza dosadašnjeg stavka 5. koji postaje stavak 7. dodaju se stavci 8., 9., 10. i 11. koji glase:
+
+»(8) Odbor može angažirati vanjske stručnjake u svojstvu savjetnika za pojedine predmete.
+
+(9) Odbor ima tajnika pravne struke iz redova zaposlenika Agencije za znanost i visoko obrazovanje, koji operativno vodi rad Odbora.
+
+(10) Odbor može predložiti pokretanje postupka oduzimanja znanstvenog zvanja pred odgovarajućim matičnim odborom, a postupak se pokreće i vodi sukladno članku 37. ovoga Zakona.
+
+(11) U slučaju ako visoko učilište ili druga znanstvena organizacija sustavno krši Etički kodeks, Odbor će javno objaviti svoje mišljenje.«.
+
+Dosadašnji stavak 6. postaje stavak 12.
+
+Dosadašnji stavak 7. koji postaje stavak 13. mijenja se i glasi:
+
+»(13) Sveučilišta, veleučilišta, visoke škole, instituti i druge znanstvene organizacije mogu, sukladno statutu, osnovati svoja etička povjerenstva te donijeti svoje etičke kodekse koji moraju biti usklađeni s etičkim kodeksom Odbora. Na visokim učilištima najmanje jedan član etičkog povjerenstva je student.«.
+
+#### Članak 62.
+
+Naziv glave: »VIII. KAZNENE ODREDBE« mijenja se i glasi: »VIII. PREKRŠAJNE ODREDBE«.
+
+U članku 113.a stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 30.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba koja:
+
+1. obavlja izbor u znanstvena, znanstveno-nastavna, umjetničko-nastavna, suradnička ili nastavna zvanja, a da za to nema ovlasti (članak 34. stavak 1., članak 92. stavak 1. i članak 98. stavci 1. i 2.),
+
+2. izabere u znanstveno, znanstveno-nastavno, umjetničko-nastavno, suradničko ili nastavno zvanje osobu za koju zna ili mora znati da ne ispunjava uvjete za izbor ili izbor obavi ne poštujući postupak izbora predviđen ovim Zakonom (članci 35., 95. i 98.),
+
+3. ne otkaže ugovor o radu osobi izabranoj u znanstveno, znanstveno-nastavno, umjetničko-nastavno, suradničko ili nastavno zvanje i odgovarajuće radno mjesto u slučajevima kada ovaj Zakon predviđa otkazivanje ugovora o radu zbog neispunjavanja uvjeta za reizbor, negativnog izvješća o radu ili ako ne poštuje odredbe ovoga Zakona o odlasku znanstvenika i nastavnika u mirovinu (članak 42. stavak 5., članak 43.a stavak 3., članak 97.a stavak 3., članak 102. stavak 5.),
+
+4. obavi izbor u znanstveno, znanstveno-nastavno, umjetničko-nastavno, suradničko ili nastavno zvanje, odnosno izbor na odgovarajuće radno mjesto bez natječaja ako je ovim Zakonom predviđeno da će se izbor obaviti na temelju natječaja (članak 40. stavak 2., članak 43. stavci 1. i 3., članak 95. stavak 1. i članak 101. stavak 1.),
+
+5. suprotno članku 50. ovoga Zakona koristi naziv sveučilište, fakultet, umjetnička akademija, odnosno riječ: »akademija« uz naziv područja umjetnosti te veleučilište i visoka škola, ili drugi naziv koji sadrži neki od tih pojmova,
+
+6. započne obavljanje znanstvene djelatnosti ili djelatnosti visokog obrazovanja bez dopusnice ili tu djelatnost obavlja bez dopusnice kad je ona za obavljanje djelatnosti potrebna prema odredbama zakona koji regulira osiguravanje kvalitete u znanosti i visokom obrazovanju ili djelatnost obavlja na način koji nije predviđen dopusnicom,
+
+7. svojim statutom ne predvidi tijela upravljanja ili njihov sastav kako je to predviđeno ovim Zakonom (članci 26., 54., 62. i 68.),
+
+8. upiše studente na studij ili u višu godinu studija, a da za to nisu ispunjeni uvjeti predviđeni ovim Zakonom i općim aktom visokog učilišta (članci 77. i 86.),
+
+9. izdaje isprave o studiju suprotno članku 84. ovoga Zakona ili studentu ne izda ispravu o studiju iako su za to ispunjeni, ovim Zakonom i općim aktima visokog učilišta, predviđeni uvjeti,
+
+10. ne vodi evidencije o studentima (članak 90.).«.
+
+#### Članak 63.
+
+U članku 115. stavku 5. riječi: »područja, polja i grane,« zamjenjuju se riječima: »područja i polja,«.
+
+#### Članak 64.
+
+U članku 120. stavak 2. mijenja se i glasi:
+
+»(2) Osobe iz stavka 1. ovoga članka mogu tražiti od visokog učilišta na kojem su stekli stručni naziv da im u postupku i pod uvjetima predviđenim općim aktom visokog učilišta izda potvrdu o tome da prije stečeni stručni naziv odgovara nekom od akademskih odnosno stručnih naziva iz članaka 71. do 74. ovoga Zakona, te nakon što dobiju takvu potvrdu mogu koristiti akademski odnosno stručni naziv prema ovome Zakonu. U takvim potvrdama ne navode se ECTS bodovi. Ako visoko učilište na kojem je stečen stručni naziv ili njegov pravni sljednik ne postoji, Nacionalno vijeće odredit će visoko učilište koje će odlučiti o zahtjevu. Ako je visoko učilište općim aktom utvrdilo da prije stečeni stručni naziv odgovara nekom od akademskih odnosno stručnih naziva iz članaka 71. do 74. ovoga Zakona, osobe iz stavka 1. ovoga članka novi akademski odnosno stručni naziv mogu koristiti i bez izdavanja potvrde.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+*Predlaganje članova Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj i Odbora za etiku u znanosti i visokom obrazovanju*
+
+#### Članak 65.
+
+(1) Odbor za obrazovanje, znanost i kulturu Hrvatskoga sabora predložit će sukladno odredbama ovoga Zakona kandidate za Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj i Odbora za etiku u znanosti i visokom obrazovanju u roku od 60 dana od dana njegovog stupanja na snagu.
+
+(2) Iznimno od odredbe članka 6. stavka 2. ovoga Zakona, prilikom imenovanja prvog saziva Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj temeljem ovoga Zakona, Hrvatski sabor imenovat će predsjednika i svih šesnaest članova. Nakon imenovanja članovi Nacionalnog vijeća za znanost visoko obrazovanje i tehnološki razvoj će ždrijebom između sebe odlučiti o tome kojih će osam članova imati mandat od dvije godine, dok će preostalih osam članova imati mandat od četiri godine.
+
+(3) Članovi Nacionalnog vijeća za znanost i Nacionalnog vijeća za visoko obrazovanje kojima teče mandat, kao i sva njihova tijela ustrojena prema odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.), nastavljaju radom do imenovanja prvog saziva Nacionalnog vijeća, zajednički obavljajući tekuće administrativne poslove iz svoje nadležnosti, osim strateških poslova važnih za sustav znanosti i visokog obrazovanja.
+
+(4) Članovi Nacionalnog vijeća za znanost i Nacionalnog vijeća za visoko obrazovanje iz stavka 3. ovoga članka kojima teče mandat, donose odluke većinom glasova tih članova.
+
+*Obveza donošenja provedbenih i drugih propisa*
+
+#### Članak 66.
+
+(1) Pravilnike iz članka 43. ovoga Zakona kojim se mijenja članak 88. stavak 4. Zakona i pravilnik iz članka 44. ovoga Zakona kojim se mijenja članak 90. stavak 8. Zakona ministar će donijeti u roku od šest mjeseci od dana njegovog stupanja na snagu.
+
+(2) Provedbeni propisi doneseni na temelju Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.), primjenjivat će se sve do stupanja na snagu odgovarajućih propisa prema ovome Zakonu, osim ako nisu u suprotnosti s odredbama ovoga Zakona.
+
+(3) Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj donijet će akte iz članka 1. kojim se mijenja članak 6. stavak 2. ovoga Zakona u roku od šest mjeseci od početka rada.
+
+(4) Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj donijet će uvjete za izbor u zvanje znanstvenog savjetnika u trajnom zvanju u roku od godine dana od početka rada.
+
+(5) Odbor za etiku u znanosti i visokom obrazovanju uskladit će propise iz svoje nadležnosti s odredbama ovoga Zakona u roku od šest mjeseci od početka rada.
+
+(6) Visoka učilišta i druge znanstvene organizacije dužne su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti opće akte s odredbama ovoga Zakona.
+
+*Izbori u znanstvena i znanstveno-nastavna, suradnička i stručna zvanja i na znanstvena i znanstveno-nastavna, suradnička i stručna radna mjesta*
+
+#### Članak 67.
+
+(1) Natječajni postupci izbora u znanstvena, znanstveno-nastavna, umjetničko-nastavna i nastavna zvanja i na odgovarajuća radna mjesta započeti prema propisima koji su važili prije stupanja na snagu ovoga Zakona dovršit će se prema propisima koji su važili prije njegova stupanja na snagu, a najkasnije u roku od devet mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Osobe izabrane u znanstvena, znanstveno-nastavna, umjetničko-nastavna, nastavna, suradnička i stručna zvanja prema propisima koji su važili prije stupanja na snagu ovoga Zakona zadržavaju stečena zvanja.
+
+(3) Ponovni izbor na radno mjesto znanstvenog savjetnika (trajno zvanje) odnosno radno mjesto redovitog profesora (trajno zvanje) za osobe zatečene u zvanju i na radnom mjestu znanstvenog savjetnika odnosno redovitog profesora, provest će se prema dosadašnjim odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.) i podzakonskih propisa donesenih na temelju tog Zakona.
+
+(4) Osobe koje su na dan stupanja na snagu ovoga Zakona zatečene na znanstvenim, znanstveno-nastavnim, umjetničko-nastavnim, nastavnim i suradničkim radnim mjestima zadržavaju postojeće ugovore o radu.
+
+(5) Osobe koje su izabrane u znanstveno zvanje znanstvenog savjetnika u drugom izboru (trajno zvanje) smatraju se izabranima sukladno članku 20. stavku 5. ovoga Zakona. Osobe koje su izabrane na znanstveno-nastavno radno mjesto redovitog profesora u drugom izboru (trajno zvanje) smatraju se izabrani sukladno članku 48. stavku 7. ovoga Zakona.
+
+(6) U odnosu na osobe izabrane u suradničko zvanje asistenta prema ranijim propisima, odredbe o izboru u suradničko zvanje i na radno mjesto poslijedoktoranda stupaju na snagu dvije godine od dana stupanja na snagu ovoga Zakona.
+
+*Ugovori s osobama iznad 65 godina života*
+
+#### Članak 68.
+
+Osobe koje su navršile 65 godina života, a koje imaju ugovore o radu na znanstvenim, znanstveno-nastavnim i umjetničko-nastavnim radnim mjestima zaključenim sukladno člancima 42. i 102. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.), imaju pravo ostati na tim radnim mjestima do isteka roka iz ugovora o radu.
+
+*Stručni specijalisti*
+
+#### Članak 69.
+
+Osobe koje su na dan stupanja na snagu ovoga Zakona upisane na specijalistički diplomski stručni studij završavaju studij ustrojen sukladno propisima koji su bili na snazi prije donošenja ovoga Zakona.
+
+*Izvedbeni planovi*
+
+#### Članak 70.
+
+Izvedbeni planovi nastave usklađuju se s odredbama članka 38. ovoga Zakona od akademske godine 2014./2015.
+
+*Informacijski sustavi i statistike*
+
+#### Članak 71.
+
+Visoka učilišta moraju ustrojiti evidencije i zbirke podataka sukladno članku 44. ovoga Zakona u roku od godinu dana od dana stupanja na snagu pravilnika iz članka 44. ovoga Zakona.
+
+#### Članak 72.
+
+U cijelom tekstu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.) riječi: »Nacionalno vijeće za znanost«, »Nacionalno vijeće za visoko obrazovanje« te »Nacionalno vijeće za znanost i/ili Nacionalno vijeće za visoko obrazovanje« zamjenjuju se riječima: »Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj«, te riječi: »viši asistent« zamjenjuju se riječju: »poslijedoktorand«, u odgovarajućem padežu.
+
+*Stupanje na snagu*
+
+#### Članak 73.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/16
+
+Zagreb, 15. srpnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (NN 139/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/139/2971*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZNANSTVENOJ DJELATNOSTI I VISOKOM OBRAZOVANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju, koji je Hrvatski sabor donio na sjednici 8. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/242
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 12. studenoga 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZNANSTVENOJ DJELATNOSTI I VISOKOM OBRAZOVANJU**
+
+### Članak 1.
+
+U Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.) u članku 1. dodaje se stavak 3. koji glasi:
+
+»(3) Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje koriste se neutralno i odnose se jednako na muški i ženski spol.«
+
+### Članak 2.
+
+U članku 42. stavku 6. riječi: »na znanstvena i suradnička radna mjesta« zamjenjuju se riječima: »u znanstvena, suradnička i stručna zvanja«.
+
+### Članak 3.
+
+U članku 44. stavku 3. iza riječi: »statutom« točka se zamjenjuje zarezom, te se dodaju riječi: »osim u slučaju zapošljavanja osoba koje rade na projektu ograničena trajanja, kada uvjete za izbor propisuje institucija koja financira projekt.«.
+
+### Članak 4.
+
+U članku 68. stavak 4. mijenja se i glasi:
+
+»(4) Upravno vijeće veleučilišta ili visoke škole ima pet članova od kojih tri imenuje osnivač, jednog bira stručno vijeće veleučilišta ili visoke škole, a jedan član je predstavnik zaposlenika. Predsjednika upravnog vijeća biraju članovi između sebe. Dekan veleučilišta i visoke škole sudjeluje u radu upravnog vijeća bez prava glasovanja.«.
+
+### Članak 5.
+
+U članku 86. stavak 1. mijenja se i glasi:
+
+»(1) Status studenta stječe se upisom na sveučilište, veleučilište ili visoku školu, a dokazuje se odgovarajućom studentskom ispravom, čiji sadržaj, te pristup i uređivanje sadržaja, izradu, izdavanje, korištenje i poništavanje, pravilnikom propisuje ministar, a oblik sveučilište, veleučilište ili visoka škola.
+
+### Članak 6.
+
+U članku 98. stavak 10. briše se.
+
+Dosadašnji stavak 11. postaje stavak 10.
+
+### Članak 7.
+
+U članku 100. iza riječi: »učilišta« točka se zamjenjuje zarezom te se dodaju riječi: »osim u slučaju zapošljavanja osoba koje rade na projektu ograničena trajanja, kada uvjete za izbor propisuje institucija koja financira projekt.«.
+
+### Članak 8.
+
+U Zakonu o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 94/13.) članak 65. briše se.
+
+*Prijelazne i završne odredbe*
+
+### Članak 9.
+
+(1) Vlada Republike Hrvatske predložit će, sukladno odredbama ovoga Zakona, kandidate za Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj i Odbora za etiku u znanosti i visokom obrazovanju u roku od 90 dana od dana njegova stupanja na snagu.
+
+(2) Iznimno od odredbe članka 11. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.), prilikom imenovanja prvog saziva Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj Hrvatski sabor imenovat će predsjednika i svih šesnaest članova. Nakon imenovanja članovi Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj ždrijebom će između sebe odlučiti o tome kojih će osam članova imati mandat od dvije godine, dok će preostalih osam članova imati mandat od četiri godine.
+
+(3) Članovi Nacionalnog vijeća za znanost i Nacionalnog vijeća za visoko obrazovanje kojima teče mandat prema odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.) nastavljaju s radom kao jedno tijelo do imenovanja prvog saziva Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj, zajednički obavljajući tekuće administrativne poslove iz svoje nadležnosti, osim strateških poslova važnih za sustav znanosti i visokog obrazovanja. Članovi navedenog tijela će između sebe većinom glasova svih članova izabrati predsjedajućeg člana, koji će biti zadužen za sazivanje sjednica te potpisivanje zapisnika, odluka, uputa, preporuka, mišljenja, prijedloga i zaključaka donesenih na sjednicama.
+
+(4) Članovi Nacionalnog vijeća za znanost i Nacionalnog vijeća za visoko obrazovanje iz stavka 3. ovoga članka kojima teče mandat donose odluke većinom glasova tih članova.
+
+### Članak 10.
+
+(1) Do donošenja kriterija izvrsnosti Nacionalnog vijeća iz članka 42. stavka 8. i članka 102. stavka 8. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.) znanstvena organizacija, odnosno visoko učilište, može s osobama izabranim na znanstvena, odnosno znanstveno-nastavna, umjetničko-nastavna i nastavna radna mjesta, a koje su navršile 65 godina života, zaključiti ugovor o radu na određeno vrijeme od dvije godine ako ispunjavaju sljedeće kriterije:
+
+a) kriteriji znanstvene izvrsnosti za znanstvena radna mjesta (kumulativno):
+
+– u zadnjih pet godina ima objavljen najmanje broj i vrstu radova potrebnih za izbor u znanstveno zvanje znanstvenog suradnika u odgovarajućem području i polju znanosti sukladno odredbama pravilnika kojima se reguliraju uvjeti izbora u znanstvena zvanja;
+
+– u zadnjih pet godina voditelj je ili suradnik aktivnog kompetitivnog nacionalnog znanstvenog projekta financiranog od strane Hrvatske zaklade za znanost ili Fonda »Jedinstvo uz pomoć znanja«, odnosno kompetitivnog međunarodnog znanstvenog projekta iz okvirnih programa Europske unije ili po vrsnoći izjednačenih kompetitivnih znanstvenih projekata drugih međunarodnih institucija,
+
+b) kriterij nastavne izvrsnosti za znanstveno-nastavna i umjetničko-nastavna radna mjesta:
+
+– ima vrlo dobrom ili izvrsnom ocjenom (3,5 ili više) ocijenjene rezultate studentske ankete u svakoj godini u kojoj je provedena anketa, u prethodnom petogodišnjem razdoblju (ankete se prilažu prijavi),
+
+– uz navedene kriterije nastavne izvrsnosti, za znanstveno-nastavna radna mjesta osobe moraju ispunjavati i kriterije znanstvene izvrsnosti iz točke a) ovoga stavka,
+
+c) kriteriji nastavne izvrsnosti za nastavna radna mjesta (kumulativno):
+
+– ima doktorat znanosti;
+
+– u zadnjih pet godina ima objavljena najmanje tri stručna i/ili znanstvena rada;
+
+– u zadnjih pet godina ima objavljen recenziran nastavni materijal za nastavni predmet iz kojeg izvodi nastavu u tiskanom ili elektroničkom obliku, koji je kategoriziran;
+
+– ima vrlo dobrom ili izvrsnom ocjenom (3,5 ili više) ocijenjene rezultate studentske ankete u svakoj godini u kojoj je provedena anketa, u prethodnom petogodišnjem razdoblju (ankete se prilažu prijavi).
+
+(2) Postupak provjere uvjeta iz stavka 1. ovoga članka provodi se sukladno s odredbama članka 42. stavka 9. i članka 102. stavka 9. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.).
+
+### Članak 11.
+
+Predsjednik i članovi upravnog vijeća veleučilišta ili visoke škole imenovani, odnosno izabrani sukladno odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.), nastavljaju s radom do imenovanja, odnosno izbora sukladno odredbi članka 4. ovoga Zakona.
+
+### Članak 12.
+
+Ministar će donijeti pravilnik iz članka 5. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/228
+
+Zagreb, 8. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

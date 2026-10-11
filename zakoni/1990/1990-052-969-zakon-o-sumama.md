@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1990-12-12
-last_amended: 2006-07-21
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2014-07-31
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 52/1990 (969) https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/969"
-narodne_novine: "52/90, 9/91, 14/93, 76/93, 13/02, 160/04, 82/06"
+narodne_novine: "52/90, 9/91, 14/93, 76/93, 13/02, 160/04, 82/06, 129/08, 80/10, 124/10, 25/12, 94/14"
 amendments:
   - "NN 9/1991 (220) Zakon o izmjenama i dopuni Zakona o šumama"
   - "NN 14/1993 (218) Uredba o izmjenama i dopunama Zakona o šumama"
@@ -19,6 +19,11 @@ amendments:
   - "NN 13/2002 (316) Zakon o izmjenama i dopunama Zakona o šumama"
   - "NN 160/2004 (2806) Zakon o izmjenama i dopunama Zakona o šumama"
   - "NN 82/2006 (1964) Zakon o izmjenama i dopunama Zakona o šumama"
+  - "NN 129/2008 (3681) Zakon o izmjeni i dopunama Zakona o šumama"
+  - "NN 80/2010 (2280) Zakon o izmjeni Zakona o šumama"
+  - "NN 124/2010 (3211) Zakon o izmjenama Zakona o šumama"
+  - "NN 25/2012 (638) Zakon o izmjeni Zakona o šumama"
+  - "NN 94/2014 (1884) Zakon o izmjenama i dopunama Zakona o šumama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/969"
 retrieved: 2026-10-12
 ---
@@ -29,7 +34,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 52/1990 (https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/969).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 9/1991, NN 14/1993, NN 76/1993, NN 13/2002, NN 160/2004, NN 82/2006.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 9/1991, NN 14/1993, NN 76/1993, NN 13/2002, NN 160/2004, NN 82/2006, NN 129/2008, NN 80/2010, NN 124/2010, NN 25/2012, NN 94/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2162,3 +2167,903 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o šumama (NN 129/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/129/3681*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o šumama, kojega je Hrvatski sabor donio na sjednici 24. listopada 2008. godine.
+
+Klasa: 011-01/08-01/144
+
+Urbroj: 71-05-03/1-08-2
+
+Zagreb, 30. listopada 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O ŠUMAMA**
+
+#### Članak 1.
+
+U Zakonu o šumama (»Narodne novine«, br. 140/05. i 82/06.) u članku 51. stavku 2. podstavak 1. mijenja se i glasi:
+
+»– radi izgradnje poduzetničke zone.«
+
+#### Članak 2.
+
+Iza članka 51. dodaje se članak 51.a koji glasi:
+
+»Članak 51.a
+
+Pored slučajeva iz članka 51. ovoga Zakona izdvajanje šume i /ili šumskog zemljišta u vlasništvu Republike Hrvatske iz šumskogospodarskog područja vršit će se i na temelju urbanističkog plana uređenja određene poduzetničke zone.
+
+Izdvajanje iz stavka 1. ovoga članka vršit će se samo u korist jedinice lokalne samouprave.
+
+Izdvajanje radi izgradnje određene poduzetničke zone vrši se na temelju percelacijskog elaborata izrađenog na temelju urbanističkog plana uređenja, za koji je izdana potvrda nadležnih tijela o njegovoj usklađenosti s urbanističkim planom uređenja i tehničkoj ispravnosti.
+
+Izdvajanje iz stavka 3. ovoga članka može biti za pojedine šume i/ili šumska zemljišta u vlasništvu Republike Hrvatske.«
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 3.
+
+Postupci započeti prema odredbama Zakona o šumama (»Narodne novine«, br. 140/05. i 82/06.) dovršit će se prema odredbama toga Zakona.
+
+Iznimno kada je zahtjev za izdvajanje radi izgradnje određene poduzetničke zone podnesen na temelju Zakona o šumama (»Narodne novine«, br. 140/05. i 82/06.), a stranka to zatraži, postupak će se završiti po odredbama ovoga Zakona.
+
+#### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 321-01/08-01/01
+
+Zagreb, 24. listopada 2008.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o šumama (NN 80/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/80/2280*
+
+HRVATSKI SABOR
+
+2280
+
+Na temelju članka 88. Ustava Republike Hrvstake, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ŠUMAMA
+
+Proglašavam Zakon o izmjeni Zakona o šumama, koji je Hrvatski sabor donio na sjednici 18. lipnja 2010. godine.  
+Klasa: 011-01/10-01/54  
+Urbroj: 71-05-03/3-10-2  
+Zagreb, 21. lipnja 2010.
+
+Predsjednik
+
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ŠUMAMA**
+
+### Članak 1.
+
+U Zakonu o šumama (»Narodne novine«, br. 140/05., 82/06. i 129/08.) u članku 62. stavak 2. mijenja se i glasi:
+
+»(2) Naknada iz stavka 1. ovoga članka plaća se u visini 0,0525% od ukupnog prihoda i uplaćuje se na poseban račun Trgovačkog društva za namjene iz članka 64. ovoga Zakona, tromjesečno i po završnome računu.«
+
+### Članak 2.
+
+Ministar nadležan za poslove šumarstva uskladit će Pravilnik o načinu obračuna, obrascima i rokovima uplate naknade za korištenje općekorisnih funkcija šuma (»Narodne novine«, br. 22/07.) s odredbama ovoga Zakona u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. srpnja 2010.
+
+Klasa: 321-01/10-01/01
+
+Zagreb, 18. lipnja 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o šumama (NN 124/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3211*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ŠUMAMA
+
+Proglašavam Zakon o izmjenama Zakona o šumama, koji je Hrvatski sabor donio na sjednici 22. listopada 2010. godine.
+
+Klasa: 011-01/10-01/108
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 27. listopada 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ŠUMAMA**
+
+### Članak 1.
+
+U Zakonu o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08. i 80/10.) u članku 22. stavak 1. mijenja se i glasi:
+
+»(1) Šumskogospodarske planove, njihovu obnovu ili reviziju odobrava Ministarstvo na prijedlog Trgovačkog društva.«
+
+U stavku 5. riječi: »i Šumarska savjetodavna služba dužni su« zamjenjuju se riječima: »dužno je«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Troškovi izrade, obnove ili revizije šumskogospodarskih planova i troškovi rada stručnog povjerenstva iz stavka 4. ovoga članka terete Trgovačko društvo.«
+
+U stavku 7. riječi: »i Šumarska savjetodavna služba dužni su« zamjenjuju se riječima: »dužno je«.
+
+### Članak 2.
+
+U članku 30. stavci 2. i 3. brišu se.
+
+U dosadašnjem stavku 4., koji postaje stavak 2., riječi: »iz stavka 2. i 3. ovoga članka« brišu se.
+
+Dosadašnji stavak 5. postaje stavak 3.
+
+Stavak 6. briše se.
+
+Dosadašnji stavak 7. postaje stavak 4.
+
+### Članak 3.
+
+U članku 31. stavku 4. riječi: »Šumarska savjetodavna služba« zamjenjuju se riječima: »Trgovačko društvo«.
+
+### Članak 4.
+
+U članku 37. stavak 5. mijenja se i glasi:
+
+»(5) U postupku izdavanja lokacijske dozvole, posebne uvjete za izgradnju građevina iz stavka 1. ovoga članka i izgradnju objekata u pojasu do 50 m od ruba šume utvrđuje Trgovačko društvo.«.
+
+U stavku 6. riječi: »za šume u vlasništvu Republike Hrvatske, odnosno Šumarske savjetodavne službe za šume šumoposjednika« brišu se.
+
+### Članak 5.
+
+U članku 38. stavku 3. riječi: »Šumarska savjetodavna služba« zamjenjuju se riječima: »Trgovačko društvo«.
+
+### Članak 6.
+
+U članku 40. stavku 2. riječi: »i Šumarska savjetodavna služba dužni su« zamjenjuju se riječima: »dužno je«.
+
+### Članak 7.
+
+U članku 48. stavku 3. riječi: »Šumarska savjetodavna služba« zamjenjuju se riječima: »šumoposjednici«.
+
+### Članak 8.
+
+Naslov iznad članka 68. briše se.
+
+Članak 68. mijenja se i glasi:
+
+»Trgovačko društvo dužno je za šume šumoposjednika obavljati sljedeće djelatnosti:
+
+1. vođenje evidencije o šumama šumoposjednika i o poslovima iz djelatnosti,
+
+2. predlaganje Ministarstvu odobrenja programa gospodarenja šumoposjednika,
+
+3. sudjelovanje u izradi akata zaštite od požara šuma i šumskog zemljišta šumoposjednika,
+
+4. predlaganje smjernica gospodarenja i praćenje provedbe programa gospodarenja šumoposjednika,
+
+5. za šumoposjednike organiziranje izvođenja šumarskih radova putem licenciranih izvođača, ako ih šumoposjednik sam ne obavlja,
+
+6. nakon izvođenja šumarskih radova skrb o provedbi šumskoga reda,
+
+7. organiziranje nabave šumskih sadnica i sjemena za obnovu šuma i pošumljavanje,
+
+8. pripremanje stručnih podloga za izgradnju šumske infrastrukture te protupožarnih prosjeka za šume šumoposjednika,
+
+9. planiranje i praćenje održavanja šumskih prometnica u šumama šumoposjednika,
+
+10. izvješćivanje Instituta o pojavi štetnih organizama te na temelju naredbe organiziranje provođenja mjera zaštite šuma putem ovlaštenih osoba,
+
+11. davanje savjeta o gospodarenju šumama, te organiziranje stručnih edukacija, radionica i seminara iz područja šumarstva za šumoposjednike,
+
+12. prikupljanje podataka o šumskim požarima u šumama šumoposjednika i dostavljanje Ministarstvu.«
+
+### Članak 9.
+
+U članku 70.a stavku 2. riječi: » i Šumarske savjetodavne službe« brišu se.
+
+### Članak 10.
+
+U članku 80. stavku 1. podstavku 1. riječi: »članku 30. stavku 1., 3., 5. i 6.« zamjenjuju se riječima: »članku 30. stavku 1. i 3.«.
+
+### Članak 11.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o osnivanju šumarske savjetodavne službe (»Narodne novine«, br. 64/06. i 19/10.).
+
+### Članak 12.
+
+Danom stupanja na snagu ovoga Zakona Trgovačko društvo preuzet će poslove, službenike i namještenike, opremu, prava i obveze te financijska sredstva Šumarske savjetodavne službe.
+
+Do donošenja općeg akta o sistematizaciji radnih mjesta Trgovačkog društva preuzeti službenici i namještenici Šumarske savjetodavne službe nastavljaju obavljati poslove koje su obavljali i zadržavaju sva prava iz radnog odnosa koja su stekli do dana preuzimanja.
+
+Preuzetim službenicima i namještenicima koji se ne mogu rasporediti u skladu s odredbom stavka 2. ovoga članka otkazat će se radni odnos sukladno općim propisima o radu.
+
+Danom upisa promjena Trgovačkog društva u sudski registar na temelju ovoga Zakona prestaje mandat ravnatelju i članovima Upravnog vijeća Šumarske savjetodavne službe.
+
+### Članak 13.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 321-01/10-01/02
+
+Zagreb, 22. listopada 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o šumama (NN 25/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/638*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU U ZAKONA O IZMJENI ZAKONA O ŠUMAMA
+
+Proglašavam Zakon o izmjeni Zakona o šumama, koji je Hrvatski sabor donio na sjednici 24. veljače 2012. godine.
+
+Klasa: 011-01/12-01/29  
+Urbroj: 71-05-03/1-12-2  
+Zagreb, 27. veljače 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ŠUMAMA**
+
+### Članak 1.
+
+U Zakonu o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08., 80/10. i 124/10.) u članku 62. stavku 2. brojka: »0,0525%« zamjenjuje se brojkom: »0,0265%«.
+
+### Članak 2.
+
+Ministar nadležan za poslove šumarstva uskladit će Pravilnik o načinu obračuna, obrascima i rokovima uplate naknade za korištenje općekorisnih funkcija šuma (»Narodne novine«, broj 84/10.) s odredbama ovoga Zakona u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 321-01/12-01/01  
+Zagreb, 24. veljače 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Boris Šprem, v. r
+
+## Zakon o izmjenama i dopunama Zakona o šumama (NN 94/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/94/1884*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o šumama, koji je Hrvatski sabor donio na sjednici 15. srpnja 2014. godine.
+
+Klasa: 011-01/14-01/124  
+Urbroj: 71-05-03/1-14-2  
+Zagreb, 18. srpnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA**
+
+#### Članak 1.
+
+U Zakonu o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08., 80/10., 124/10., 25/12., 68/12. i 148/13.) u članku 5. točki 5. iza riječi: »tehnologije« dodaju se riječi: »(u daljnjem tekstu: Komora)«.
+
+Iza točke 15. dodaje se točka 15.a koja glasi:
+
+»15.a podizanje novih šuma je izvođenje radova biološke obnove šuma opisanih člankom 28. stavkom 1. točkama 10. do 15. ovoga Zakona,«.
+
+Iza točke 21. dodaje se točka 21.a koja glasi:
+
+»21.a Savjetodavna služba je specijalizirana javna ustanova za obavljanje poslova savjetodavne djelatnosti u poljoprivredi, ruralnom razvoju, ribarstvu te unapređenju gospodarenja šumama i šumskim zemljištima šumoposjednika,«.
+
+Točka 24. mijenja se i glasi:
+
+»24. šumoposjednik je pravna ili fizička osoba – vlasnik i/ili posjednik šume, osim Republike Hrvatske, društva »Hrvatske šume« d.o.o. (u daljnjem tekstu: Trgovačko društvo), tijela državne uprave i pravnih osoba čiji je osnivač Republika Hrvatska, koje gospodare šumama u vlasništvu Republike Hrvatske,«.
+
+#### Članak 2.
+
+U članku 6. točka 4. briše se.
+
+U dosadašnjoj točki 5., koja postaje točka 4., riječi: »Nacionalnoga šumarskog programa« zamjenjuju se riječima: »Nacionalne strategije šumarstva i drvne industrije te Nacionalnog programa šumarstva i Nacionalnog programa drvne industrije,«.
+
+Dosadašnje točke 6., 7., 8., 9. i 10. postaju točke 5., 6., 7., 8. i 9.
+
+#### Članak 3.
+
+U članku 8. stavku 1. riječi: »»Hrvatske šume« d.o.o. (u daljnjem tekstu: Trgovačko društvo)« zamjenjuju se riječima: »Trgovačko društvo, osobe iz članka 17. stavka 3. ovoga Zakona«.
+
+#### Članak 4.
+
+U članku 14. stavku 4. točka 1. mijenja se i glasi:
+
+»1. šumski sjemenski objekti sukladno posebnom propisu,«.
+
+U točki 3. iza riječi: »Hrvatske« stavlja se zarez i dodaju riječi: »izgradnji golf igrališta i kampa«.
+
+#### Članak 5.
+
+U članku 17. stavak 2. mijenja se i glasi:
+
+»(2) Pojedine šume i šumska zemljišta iz stavka 1. ovoga članka mogu koristiti tijela državne uprave i pravne osobe čiji je osnivač Republika Hrvatska.«.
+
+Iza stavka 2. dodaju se stavci 3., 4., 5. i 6. koji glase:
+
+»(3) Iznimno od stavaka 1. i 2. ovoga članka, pojedinim šumama i šumskim zemljištima u vlasništvu Republike Hrvatske namijenjenim znanstvenim istraživanjima i nastavi mogu gospodariti samo pravne osobe sa statusom javne ustanove čiji je osnivač Republika Hrvatska i njihove znanstveno-nastavne sastavnice (u daljnjem tekstu: Javna ustanova), koje svoju znanstveno-nastavnu djelatnost i znanstvenoistraživački rad obavljaju iz područja šumarstva.
+
+(4) Drvni sortimenti iz šuma kojima gospodari Javna ustanova prodaju se javnim nadmetanjem koje provodi Trgovačko društvo, na način i uz uvjete određene propisima koji uređuju prodaju drvnih sortimenata. Sredstva ostvarena prodajom prihod su Javne ustanove.
+
+(5) Šumama i šumskim zemljištima šumoposjednika gospodare šumoposjednici.
+
+(6) Gospodarenje šumama iz ovoga članka obavlja se na način i uz uvjete propisane ovim Zakonom i posebnim propisima.«.
+
+#### Članak 6.
+
+Naslov iznad članka 19. mijenja se i glasi: »1. Nacionalna strategija šumarstva i drvne industrije te Nacionalni program šumarstva i Nacionalni program drvne industrije”.
+
+Članak 19. mijenja se i glasi:
+
+»(1) Nacionalnom strategijom šumarstva i drvne industrije utvrđuje se i definira nacionalna politika šumarstva i drvne industrije te osigurava njezina usklađenost sa strateškim dokumentima Republike Hrvatske.
+
+(2) Nacionalnim programom šumarstva utvrđuju se uvjeti za provođenje elemenata šumarske politike te se definira okvir potrajnog gospodarenja šumama uvažavajući njihovu višenamjensku ulogu i uporabu. Njegov sastavni dio jesu provedbe politika, praćenja i procjena na nacionalnoj razini s ciljem daljnjeg unapređenja potrajnog gospodarenja šumama, kao i uspostavljanje i očuvanje prirodnih odnosa među vrstama i unapređivanje njihovih prirodnih staništa. Nacionalnim programom šumarstva uspostavlja se suradnja s drugim sektorima te osigurava njihovo usklađivanje aktivnosti pri provođenju šumarskih politika.
+
+(3) Nacionalnim programom drvne industrije određuje se okvir i utvrđuju se mjere za uravnoteženje potražnje i održivo gospodarenje drvom, odnosno za zadovoljavanje rastuće potražnje za drvnom sirovinom za proizvodnju postojećih i novih proizvoda te za proizvodnju energije. Nacionalni program drvne industrije sadrži i instrumente za podizanje konkurentnosti drvne industrije Republike Hrvatske, odnosno mjere za poticanje gospodarstvenika na visok stupanj finalizacije proizvoda od drva te njihov izvoz.
+
+(4) Za kvalitetno planiranje u šumarstvu provodit će se nacionalna inventura šumskih resursa kojom će se prikupljati informacije o stanju šuma za potrebe šumarske politike i šumarske operative, ekologije, lovstva, zaštite okoliša, zaštite prirode, drvoprerađivačke industrije te za potrebe državnih i međunarodnih organizacija.
+
+(5) Nacionalnu strategiju šumarstva i drvne industrije iz stavka 1. ovoga članka donosi Hrvatski sabor na prijedlog Vlade Republike Hrvatske, a izrađuje je Ministarstvo.
+
+(6) Nacionalni program šumarstva iz stavka 2. ovoga članka i Nacionalni program drvne industrije iz stavka 3. ovoga članka donosi Vlada Republike Hrvatske.
+
+(7) Postupak provođenja nacionalne inventure šumskih resursa iz stavka 4. ovoga članka ministar će utvrditi smjernicama.«.
+
+#### Članak 7.
+
+U članku 20. stavku 2. podstavak 6. briše se.
+
+#### Članak 8.
+
+U članku 22. stavak 1. mijenja se i glasi:
+
+»(1) Šumskogospodarske planove, njihovu obnovu ili reviziju Ministarstvo odobrava rješenjem, i to za šume i šumska zemljišta u vlasništvu Republike Hrvatske na prijedlog Trgovačkog društva ili osoba iz članka 17. stavka 3. ovoga Zakona, a za šume šumoposjednika na prijedlog Savjetodavne službe.«.
+
+Stavci 5., 6. i 7. mijenjaju se i glase:
+
+»(5) Trgovačko društvo, osobe iz članka 17. stavka 3. ovoga Zakona te Savjetodavna služba dužni su izrađivati šumskogospodarske planove i programe gospodarenja te ih redovito obnavljati ili revidirati.
+
+(6) Troškovi izrade, obnove ili revizije šumskogospodarskih planova za šume i šumska zemljišta u vlasništvu Republike Hrvatske i troškovi rada stručnog povjerenstva iz stavka 4. ovoga članka terete Trgovačko društvo i osobe iz članka 17. stavka 3. ovoga Zakona, a troškovi izrade, obnove ili revizije programa gospodarenja šumoposjednika i troškovi rada stručnog povjerenstva iz stavka 4. ovoga članka terete Savjetodavnu službu.
+
+(7) Trgovačko društvo, osobe iz članka 17. stavka 3. ovoga Zakona i Savjetodavna služba dužni su voditi propisane evidencije za osnove, odnosno programe gospodarenja.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Rješenje iz stavka 1. ovoga članka je upravni akt.«.
+
+#### Članak 9.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Ministarstvo rješenjem o odobrenju šumskogospodarskog plana pojedinu šumu proglašava zaštitnom šumom ili šumom posebne namjene.
+
+(2) Prije donošenja akta o proglašenju šume u vlasništvu Republike Hrvatske zaštitnom ili šumom posebne namjene, Ministarstvo je dužno pribaviti mišljenje Trgovačkog društva i osoba iz članka 17. stavka 3. ovoga Zakona, a kada se šuma šumoposjednika proglašava zaštitnom ili šumom posebne namjene, Ministarstvo je dužno pribaviti suglasnost šumoposjednika s mjerama koje ograničavaju njegova prava nad šumom.
+
+(3) Iznimno od stavka 1. ovoga članka, šumske sjemenske objekte proglašava Ministarstvo sukladno posebnom propisu.
+
+(4) Iznimno od stavka 1. ovoga članka, šumu s posebnom namjenom za potrebe obrane Republike Hrvatske proglašava Vlada Republike Hrvatske na prijedlog Ministarstva obrane.
+
+(5) Šume s posebnom namjenom, osim šuma iz stavaka 3. i 4. ovoga članka, proglašava Ministarstvo na prijedlog zainteresiranih tijela državne uprave i pravnih osoba, čiji je osnivač Republika Hrvatska.
+
+(6) Rješenje iz stavka 1. ovoga članka je upravni akt.«.
+
+#### Članak 10.
+
+U članku 28. točki 10. riječi: »panjača, makija, šikara i šibljaka« brišu se.
+
+Točka 14. briše se.
+
+Dosadašnje točke 15. i 16. postaju točke 14. i 15..
+
+#### Članak 11.
+
+U članku 29. stavku 1. iza riječi: »društvo« stavlja se zarez i dodaju riječi: »osobe iz članka 17. stavka 3. ovoga Zakona«.
+
+#### Članak 12.
+
+Članak 30. mijenja se i glasi:
+
+»(1) U šumi se mogu sjeći samo doznačena stabla.
+
+(2) Doznaku stabala u šumama u vlasništvu Republike Hrvatske obavlja Trgovačko društvo i osobe iz članka 17. stavka 3. ovoga Zakona.
+
+(3) U šumama šumoposjednika doznaku stabala obavlja osoba koja posjeduje odgovarajuću licenciju Komore.
+
+(4) Doznaku stabala obavlja osoba sa završenim šumarskim fakultetom šumarskog smjera.
+
+(5) Doznaka stabala u šumama šumoposjednika, osim nužne doznake stabala za uzgojne, odnosno sanitarne sječe ne može se obavljati ako nije odobren program gospodarenja šumama šumoposjednika.
+
+(6) Opseg nužne doznake stabala u šumama šumoposjednika za koje nije odobren program gospodarenja šumoposjednika odobrava Ministarstvo na prijedlog Savjetodavne službe.
+
+(7) Zahtjev za nužnu doznaku šumoposjednik podnosi Savjetodavnoj službi. O zahtjevu se odlučuje rješenjem.
+
+(8) Uvjete i mjerila za opseg nužne doznake ministar će propisati pravilnikom.«.
+
+#### Članak 13.
+
+U članku 31. stavak 3. mijenja se i glasi:
+
+»(3) Obilježbu drveta posječenog u šumi ili ostalom zemljištu u vlasništvu Republike Hrvatske i ostalih šumskih proizvoda podrijetlom iz šume u vlasništvu Republike Hrvatske, te izdavanje popratnica obavlja Trgovačko društvo, osim šuma kojima gospodare osobe iz članka 17. stavka 3. ovoga Zakona i šumoposjednika, za koje obilježbu i izdavanje popratnica obavljaju fizičke ili pravne osobe koje posjeduju odgovarajuću licenciju Komore.«.
+
+Stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 14.
+
+Članak 37. mijenja se i glasi:
+
+»(1) U šumi i na šumskom zemljištu može se graditi samo šumska infrastruktura, građevine koje su planirane prostornim planovima, građevine za potrebe obrane te spomenici kojima se obilježavaju mjesta masovnih grobnica žrtava rata.
+
+(2) U izradi prostornih planova koje donosi jedinica lokalne i područne (regionalne) samouprave sudjeluje mjesno nadležni ured državne uprave.
+
+(3) Prostorni plan županije, Prostorni plana Grada Zagreba, Prostorni plan područja posebnih obilježja iz nadležnosti županijske, odnosno Gradske skupštine te Prostorni plan uređenja grada, odnosno općine (u daljnjem tekstu: Prostorni plan), koji se odnosi na šume i/ili šumska zemljišta donosi se uz prethodno mišljenje Ministarstva.
+
+(4) Šuma i šumsko zemljište u vlasništvu Republike Hrvatske koje obuhvaća građevna čestica za ozakonjene građevine, danom pravomoćnosti rješenja kojim se utvrdi ista građevna čestica izdvojeno je iz šumskogospodarskog područja Republike Hrvatske i u nadležnosti je središnjeg tijela državne uprave za upravljanje i raspolaganje državnom imovinom i koordinaciju upravljanja i raspolaganja imovinom u vlasništvu Republike Hrvatske (u daljnjem tekstu: Tijelo).
+
+(5) U postupku izdavanja lokacijske dozvole posebne uvjete za izgradnju građevina iz stavka 1. ovoga članka i izgradnju objekata u pojasu do 50 m od ruba šume za šume i šumska zemljišta u vlasništvu Republike Hrvatske utvrđuje Trgovačko društvo, odnosno osobe iz članka 17. stavka 3. ovoga Zakona, a za šume šumoposjednika Savjetodavna služba.
+
+(6) Iznimno od stavka 5. ovoga članka, u postupku izdavanja lokacijske dozvole za građevine za koje građevinsku dozvolu izdaje središnje tijelo državne uprave nadležno za prostorno uređenje i graditeljstvo, posebne uvjete o utjecaju planiranog zahvata na šumu utvrđuje Ministarstvo na temelju prethodnog mišljenja Trgovačkog društva i osoba iz članka 17. stavka 3. ovoga Zakona za šume i šumska zemljišta u vlasništvu Republike Hrvatske, odnosno Savjetodavne službe za šume šumoposjednika.«.
+
+#### Članak 15.
+
+U članku 38. stavak 2. mijenja se i glasi:
+
+»(2) Trgovačko društvo i osobe iz članka 17. stavka 3. ovoga Zakona, koje koriste šume u vlasništvu Republike Hrvatske, moraju nadzirati stanje šuma i pratiti njihovo zdravstveno stanje te poduzimati mjere za suzbijanje štetnih organizama, u skladu s propisima o biljnoj zaštiti.«.
+
+U stavku 3. riječi: »Trgovačko društvo« zamjenjuju se riječima: »Savjetodavna služba«, a riječi: »Šumarski institut Jastrebarsko (u daljnjem tekstu: Institut)« zamjenjuju se riječima: »Hrvatski šumarski institut (u daljnjem tekstu: Institut).«.
+
+#### Članak 16.
+
+U članku 40. stavku 2. iza riječi: »društvo« stavlja se zarez, a riječi: »dužno je« zamjenjuju se riječima: »osobe iz članka 17. stavka 3. ovoga Zakona i Savjetodavna služba dužni su«.
+
+#### Članak 17.
+
+U članku 41. stavku 1. riječi: »dužno je« zamjenjuju se riječima: »i osobe iz članka 17. stavka 3. ovoga Zakona dužni su«.
+
+#### Članak 18.
+
+U članku 42. stavku 1. riječi: »dužno je« zamjenjuju se riječima: »i osobe iz članka 17. stavka 3. ovoga Zakona dužni su«.
+
+#### Članak 19.
+
+U članku 43. stavku 1. iza riječi: »društvo« dodaju se riječi: »i osobe iz članka 17. stavka 3. ovoga Zakona«.
+
+#### Članak 20.
+
+U članku 44. stavku 3. iza riječi: »društvo,« dodaju se riječi: »osobe iz članka 17. stavka 3. ovoga Zakona i«.
+
+#### Članak 21.
+
+U članku 46. stavku 1. iza riječi: »društvo,« dodaju se riječi: »osobe iz članka 17. stavka 3. ovoga Zakona«.
+
+U stavku 2. iza riječi: »društvu,« dodaju se riječi: »osobama iz članka 17. stavka 3. ovoga Zakona«.
+
+Iza stavka 4. dodaje se novi stavak 5. i stavak 6. koji glase:
+
+»(5) Investitor šumske infrastrukture u šumama i šumskom zemljištu u vlasništvu Republike Hrvatske iznimno može biti i pravna ili fizička osoba čijem zemljištu ili građevini služi infrastruktura, ako za to ima suglasnost Trgovačkog društva ili osoba iz članka 17. stavka 3. ovoga Zakona.
+
+(6) Suglasnost iz stavka 5. ovoga članka može se dati samo osobi, odnosno osobama koje se ugovorom obvežu šumsku infrastrukturu izgraditi vlastitim sredstvima u određenom roku i istu predati na gospodarenje Trgovačkom društvu ili osobama iz članka 17. stavka 3. ovoga Zakona.«.
+
+Dosadašnji stavak 5., koji postaje stavak 7., mijenja i glasi:
+
+»(7) Promet u šumama izvan šumskih prometnica dopušten je samo uz odobrenje Trgovačkog društva, osoba iz članka 17. stavka 3. ovoga Zakona i šumoposjednika.«.
+
+#### Članak 22.
+
+U članku 47. stavku 3. iza riječi: »društvo« stavlja se zarez i dodaju riječi: »osobe iz članka 17. stavka 3. ovoga Zakona, pravne i fizičke osobe«.
+
+Stavak 5. briše se.
+
+#### Članak 23.
+
+U članku 50. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Poslove licenciranja osoba za izvođenje šumarskih radova, provođenja stručnih ispita za ovlaštene inženjere, priznavanja inozemnih stručnih kvalifikacija te vođenja imenika ovlaštenih inženjera šumarstva obavlja Komora.
+
+(3) Iznimno od stavka 1. ovoga članka, manje rizične šumarske radove mogu izvoditi šumoposjednici samostalno. U šumama u vlasništvu Republike Hrvatske, fizičke osobe koje su osposobljene za radove pridobivanja drva iz šume mogu izvoditi navedene radove za vlastite potrebe ogrjeva, u količini do 20 m³ godišnje (samoizrada), uz dozvolu i nadzor pravne osobe koja gospodari tim šumama.«.
+
+#### Članak 24.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Šume i šumska zemljišta u vlasništvu Republike Hrvatske koja se Prostornim planom proglase građevinskim područjem, izdvajaju se iz šumskogospodarskoga područja Republike Hrvatske danom stupanja na snagu Prostornog plana kojim su uključene u građevinsko područje.
+
+(2) Šume i šumska zemljišta koja su sukladno stavku 1. ovoga članka izdvojena iz šumskogospodarskog područja Republike Hrvatske, od trenutka izdvajanja su u nadležnosti Tijela.
+
+(3) Iznimno od stavaka 1. i 2. ovoga članka, šume i šumska zemljišta na kojima je Prostornim planom planirana gradnja golf igrališta ili kampa ne uključuju se u građevinsko područje i ostaju u šumskogospodarskom području Republike Hrvatske.
+
+(4) Vlada Republike Hrvatske odnosno tijelo koje ona ovlasti može pojedine šume i šumska zemljišta u vlasništvu Republike Hrvatske izdvojiti iz šumskogospodarskog područja ako za to postoji interes obrane Republike Hrvatske te za nadzor državne granice odnosno osiguranja vidljivosti granične crte.
+
+(5) Vlada Republike Hrvatske može pojedine šume i šumska zemljišta u vlasništvu Republike Hrvatske izdvojiti iz šumskogospodarskog područja za potrebe provedbe strateškog projekta od interesa za Republiku Hrvatsku, sukladno posebnom propisu kojim se uređuje strateške investicijske projekte Republike Hrvatske.
+
+(6) Na šumi i šumskom zemljištu u vlasništvu Republike Hrvatske koje je izdvojeno sukladno stavcima 1. i 2. ovoga članka pravo gospodarenja zadržava osoba koja je imala ista prava prije izdvajanja. Pravo gospodarenja iz ovoga stavka se provodi sukladno odredbama ovoga Zakona sve dok Tijelo ne odredi treću osobu kojoj će se ista šuma i šumsko zemljište predati u svrhu određenu Prostornim planom.«.
+
+#### Članak 25.
+
+Članak 51.a mijenja se i glasi.
+
+»(1) Šume i šumska zemljišta u vlasništvu Republike Hrvatske na kojima je za infrastrukturni zahvat u prostoru (komunalna infrastruktura, javne ceste, energetski objekti, vodne građevine i sl.) izdana lokacijska dozvola kojom je određena građevna čestica ili smještaj građevine na građevnoj čestici, izdvajaju se iz šumskogospodarskoga područja Republike Hrvatske danom pravomoćnosti lokacijske dozvole.
+
+(2) Šume i šumska zemljišta u vlasništvu Republike Hrvatske koja su sukladno stavku 1. ovoga članka izdvojena iz šumskogospodarskog područja Republike Hrvatske, od trenutka izdvajanja su u nadležnosti Tijela.
+
+(3) Tijelo je nadležno za uređenje imovinskopravnih odnosa na šumskom zemljištu u vlasništvu države na kojem su nezakonito izgrađene zgrade ozakonjene temeljem Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, br. 86/12. i 143/13.).«.
+
+#### Članak 26.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Za izdvojene šume i šumska zemljišta sukladno članku 51. stavku 1. ovoga Zakona, prenesena ili ograničena prava nad šumom i šumskim zemljištem te privremeno zauzimanje šumskoga zemljišta, plaća se naknada koja se sastoji od naknade za šume, naknade za šumsko zemljište i naknade za smanjenje općekorisnih funkcija šuma (u daljnjem tekstu: Naknada).
+
+(2) Naknada pripada Trgovačkom društvu, osobama iz članka 17. stavka 3. ovoga Zakona i šumoposjednicima, koji imaju pravo na naknadu za neostvareni dio prihoda.
+
+(3) Naknadu iz stavka 1. ovoga članka za šume i šumska zemljišta u vlasništvu Republike Hrvatske plaća treća osoba iz članka 51. stavka 6. ovoga Zakona, a pripada Trgovačkom društvu i osobama iz članka 17. stavka 3. ovoga Zakona koji su ta sredstva dužni uložiti u kupnju druge šume i/ili šumskog zemljišta u ime i za račun Republike Hrvatske ili za podizanje novih šuma.
+
+(4) Obvezu plaćanja i rok za uplatu Naknade iz stavka 3. ovoga članka propisuje Tijelo svojim aktom kojim određuje treću osobu iz članka 51. stavka 6. ovoga Zakona, u okviru kupoprodajne cijene odnosno ugovorene naknade prema posebnom propisu. Najmanja visina Naknade iz stavka 3. ovoga članka određuje se obračunom koji izrađuje Trgovačko društvo na poziv Tijela u čijoj se nadležnosti nalazi šuma i šumsko zemljište u vlasništvu Republike Hrvatske koje je izdvojeno sukladno članku 51. stavku 1. ovoga Zakona.
+
+(5) Ukoliko se izdvajanje šume i šumskog zemljišta iz članaka 51. i 51.a ovoga Zakona vrši bez naknade, po pravomoćnosti akta o izdvajanju drvna masa zatečena na šumi i šumskom zemljištu pripada Trgovačkom društvu.
+
+(6) Način izračuna Naknade iz stavka 1. ovoga članka ministar će propisati pravilnikom.«.
+
+#### Članak 27.
+
+U članku 57. stavku 1. riječ: »sl.« zamjenjuje se riječju: »slično«, a riječi: »te podizanja višegodišnjih nasada na neobraslomu šumskomu zemljištu i zemljištu obraslom početnim ili degradacijskim razvojnim stadijima šumskih sastojina« brišu se.
+
+#### Članak 28.
+
+Iza članka 57. dodaje se članak 57.a koji glasi:
+
+»Članak 57.a
+
+(1) U šumama i na šumskom zemljištu u vlasništvu Republike Hrvatske može se osnovati pravo građenja u svrhu izgradnje golf igrališta, kampa i objekata čija je gradnja prema prostornom planu predviđena izvan građevinskog područja.
+
+(2) Ugovor o pravu građenja na šumama i šumskom zemljištu iz stavka 1. ovoga članka u ime Republike Hrvatske sklapa čelnik Ministarstva.
+
+(3) Ugovor iz stavka 2. ovoga članka sklapa se za određenu šumu i šumsko zemljište, koju je Ministarstvo proglasilo šumom s posebnom namjenom u svrhu izgradnje golf igrališta i kampa, na temelju odobrenog programa za gospodarenje šumama s posebnom namjenom.
+
+(4) Za osnivanje prava građenja iz stavka 1. ovoga članka uz Naknadu iz članka 55. ovoga Zakona plaća se i posebna naknada za osnivanje prava građenja.
+
+(5) Postupak i mjerila za osnivanje prava građenja Vlada će propisati uredbom.«.
+
+#### Članak 29.
+
+U članku 59. stavak 1. mijenja se i glasi:
+
+»(1) Osoba koja ošteti šumu dužna je nadoknaditi štetu prema šumsko-odštetnom cjeniku.«.
+
+#### Članak 30.
+
+U članku 61. stavku 1. točki 1. iza riječi: »kontinentalnim šumama« dodaju se riječi: »u vlasništvu Republike Hrvatske«.
+
+U stavku 2. točki 2. iza riječi: »visini« dodaje se riječ: »najmanje«, a broj: »16.« zamjenjuje se brojem: »15.«
+
+#### Članak 31.
+
+U članku 62. stavku 2. iza riječi: »ukupnog prihoda« dodaju se riječi: »ili ukupnih primitaka«, a riječi: »Trgovačkog društva« brišu se.
+
+Stavak 3. briše se.
+
+#### Članak 32.
+
+U članku 63. stavku 1. riječi: »Trgovačko društvo pokrenut će« zamjenjuju se riječima: »pokrenut će se«.
+
+U stavku 2. iza riječi: »obrazac« stavlja se zarez i dodaju riječi: »poseban račun«.
+
+#### Članak 33.
+
+U članku 64. stavku 1. točka 2. briše se.
+
+Dosadašnje točke 3., 4., 5. i 6. postaju točke 2., 3., 4. i 5.
+
+Točka 7. briše se.
+
+U stavku 2. iza riječi: »društvu« dodaju se riječi: »i osobama iz članka 17. stavka 3. ovoga Zakona«.
+
+U stavku 3. riječi: »za izvršene radove u šumama šumoposjednika« brišu se.
+
+#### Članak 34.
+
+U članku 65. stavku 1. iza riječi: »Pravne« dodaju se riječi: »i fizičke«.
+
+#### Članak 35.
+
+Iznad članka 68. dodaje se naslov koji glasi: »SAVJETODAVNA SLUŽBA«.
+
+Članak 68. mijenja se i glasi:
+
+»(1) Savjetodavna služba je nadležna za obavljanje poslova dijela javnih ovlasti te unapređenja gospodarenja šumama i šumskim zemljištima šumoposjednika u Republici Hrvatskoj.
+
+(2) Savjetodavna služba je specijalizirana javna ustanova za obavljanje poslova savjetodavne djelatnosti u poljoprivredi, ruralnom razvoju, ribarstvu te unapređenja gospodarenja šumama i šumskim zemljištima šumoposjednika.
+
+(3) Djelatnosti Savjetodavne službe u šumama i šumskim zemljištima šumoposjednika su:
+
+1. davanje stručnih savjeta, instrukcija i praktičnih predočenja te promicanje znanja iz područja šumarstva za šumoposjednike radi prikaza novih tehnologija i tehnika te načina gospodarenja i prijenosa znanja i vještina; organiziranje i izvođenje obrazovanja i osposobljavanja šumoposjednika te organiziranje i osposobljavanje šumoposjednika za izvođenje jednostavnijih šumarskih radova,
+
+2. organiziranje stručnih edukacija, radionica, seminara, manifestacija, konferencija i izložbi iz područja šumarstva za šumoposjednike,
+
+3. provođenje edukacije, pružanje stručnih savjeta i tehničke pomoći korisnicima u provedbi mjera ruralnog razvitka; organiziranje i pripremanje šumoposjednika za korištenje sredstava iz međunarodnih fondova namijenjenih razvoju šumarstva i ruralnom razvitku,
+
+4. sudjelovanje u oblikovanju i provođenju mjera šumarske politike za šume šumoposjednika u skladu s propisima i aktima Vlade Republike Hrvatske,
+
+5. sudjelovanje u izradi akata zaštite od požara šuma i šumskog zemljišta šumoposjednika; prikupljanje podataka o šumskim požarima u šumama šumoposjednika i dostavljanje Ministarstvu; uspostava sustava motrenja te izvješćivanje mjerodavnih institucija o pojavi štetnih organizama u šumama šumoposjednika,
+
+6. davanje preporuka u vezi s nabavom šumskih sadnica i sjemena za obnovu šuma i pošumljavanje; pripremanje stručnih podloga za izgradnju šumske infrastrukture i protupožarnih prosjeka te planiranje i praćenje održavanja šumskih prometnica u šumama šumoposjednika,
+
+7. provođenje postupaka javne nabave za obavljanje radova biološke obnova šuma putem licenciranih izvođača, osim onih radova koje korisnik (šumoposjednik) može sam izvoditi ili onih na koje ga Zakon i podzakonski akti obvezuju; provođenje kolaudacije radova koji se obavljaju u šumama šumoposjednika; objavljivanje i provođenje javnih poziva za radove biološke obnove šuma u šumama šumoposjednika,
+
+8. predlaganje Ministarstvu odobrenja programa gospodarenja šumoposjednika; predlaganje smjernica gospodarenja i praćenje programa provedbe gospodarenja šumoposjednika; izrada i predlaganje na odobrenje operativnog godišnjeg plana za šume šumoposjednika te postupanje po zahtjevima za nužnu doznaku stabala u šumama šumoposjednika za koje nisu izrađeni programi gospodarenja,
+
+9. poticanje i stručna pomoć u osnivanju i radu različitih oblika udruživanja šumoposjednika,
+
+10. informiranje i izdavačka djelatnost za potrebe razvoja šuma šumoposjednika,
+
+11. planiranje korištenja i vođenje postupka ostvarivanja prava na sredstva iz naknade za korištenje općekorisnih funkcija šuma za izvršene radove u šumama šumoposjednika,
+
+12. putem licenciranih osoba (izvođača) izvođenje doznake i nužne doznake stabala u šumama šumoposjednika, obilježbe drveta i ostalih šumskih proizvoda; praćenje izdavanja popratnice; utvrđivanje posebnih uvjeta za izgradnju šumske infrastrukture i/ili građevina planiranih prostornim planovima u postupku izdavanja lokacijske dozvole; stručna potpora šumoposjednicima kod trženja šumskih proizvoda,
+
+13. vođenje evidencije o šumama šumoposjednika,
+
+14. obavljanje i drugih poslova u okviru savjetodavne djelatnosti u skladu s posebnim zakonima, Statutom i općim aktima Savjetodavne službe te obavljanje i drugih poslova po ovlaštenju institucija nadležnih za obavljanje djelatnosti u šumarstvu.
+
+(4) Poslove i zadatke iz stavka 3. točaka 8. i 12. ovoga članka Savjetodavna služba obavlja kao javnu ovlast.«.
+
+#### Članak 36.
+
+U članku 70. stavku 3. riječi: »Državni inspektorat« zamjenjuju se riječima: »se prema posebnim propisima«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju njegau području obrane obavlja šumarska inspekcija Ministarstva i inspektori Inspektorata obrane u skladu sa sporazumom koji će sklopiti nadležni ministri.«.
+
+#### Članak 37.
+
+U članku 70.a stavku 2. iza riječi: »uprave« dodaju se riječi: »i Savjetodavne službe«.
+
+#### Članak 38.
+
+U članku 72. stavku 1. broj: »5« zamjenjuje se brojem: »4«.
+
+U stavku 2. broj: »10« zamjenjuje se brojem: »5«.
+
+#### Članak 39.
+
+U članku 79. stavku 1. točki 5. riječi: »počini ili« brišu se.
+
+U točki 7. iza riječi: »Zakona« dodaju se riječi: »(članak 37. stavak 1.)«.
+
+#### Članak 40.
+
+U članku 80. stavku 1. točki 1. riječi: »stavku 1. i 3.,« zamjenjuju se riječima: »stavcima 1., 3., 5. i 6.«.
+
+#### Članak 41.
+
+U članku 81. stavku 1. točki 3. riječi: »stavak 5.« zamjenjuju se riječima: »stavak 7.«.
+
+#### Članak 42.
+
+Članak 85. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 10.000,00 do 100.000,00 kuna kaznit će se fizička osoba ako:
+
+1. šumama i šumskim zemljištima na šumskogospodarskom području gospodari protivno šumskogospodarskim planovima (članak 21. stavak 1.),
+
+2. ne izradi, obnovi ili revidira šumskogospodarske planove (članak 22. stavak 5.),
+
+3. ne provodi biološku obnovu šuma, odnosno ne osigurava ili ne izdvaja sredstva za biološku obnovu šuma (članak 29. stavak 1. i članak 61.),
+
+4. dopusti sječu ili oštećivanje stabala te krčenje ili čistu sječu šume (članak 32. podstavci 1., 2. i 3.),
+
+5. zemljište na kojem je izvršeno krčenje, odnosno čista sječa ne privede namjeni radi koje je obavljeno krčenje odnosno čista sječa (članak 35. stavak 4.),
+
+6. u šumi ili na šumskom zemljištu gradi ili dopusti gradnju objekata protivno odredbama članka 37. stavka 1. ovoga Zakona,
+
+7. ne poduzima mjere radi zaštite šuma od požara te drugih elementarnih nepogoda i štetnih organizama (članak 38. stavak 1.),
+
+8. otuđi šumu i šumsko zemljište u vlasništvu Republike Hrvatske (članak 52.),
+
+9. počini ili dopusti neovlašteno zauzimanje šuma ili šumskoga zemljišta u vlasništvu Republike Hrvatske (članak 54.),
+
+10. šumarskom inspektoru ne omogući provođenje nadzora ili mu ne pruži potrebne podatke ili obavijesti (članak 74.),
+
+11. ne izvrši rješenje šumarskog inspektora (članak 77. stavak 1.).
+
+(2) Novčanom kaznom od 7.000,00 do 70.000,00 kuna kaznit će se fizička osoba ako:
+
+1. izvrši ili dopusti izvršenje doznake stabala u šumi protivno članku 30. stavcima 1., 3., 5. i 6.,
+
+2. počini ili dopusti odsijecanje grana, dijelova grana ili kresanje lisnika protivno šumskogospodarskim planovima (članak 32. podstavak 4.),
+
+3. ne nadzire stanje šuma, ne prati njihovo zdravstveno stanje ili ne poduzima mjere za suzbijanje štetnih organizama (članak 38. stavak 2.).
+
+(3) Novčanom kaznom od 5.000,00 do 50.000,00 kuna kaznit će se fizička osoba ako:
+
+1. u šumi ili na šumskom zemljištu te na zemljištu u neposrednoj blizini šume loži otvorenu vatru ili pali drveni ugljen protiv¬no odredbama članka 43. stavka 1. ovoga Zakona,
+
+2. podigne vapnaru, poljsku ciglanu ili drugu građevinu s otvorenim ognjištem te odlaže otpad protivno odredbama članka 44. stavaka 1. i 2. ovoga Zakona,
+
+3. obavlja promet u šumama izvan šumskih prometnica bez dopuštenja Trgovačkog društva i/ili šumoposjednika (članak 46. stavak 7.),
+
+4. gradi, održava ili koristi šumsku prometnicu protivno odredbama članka 47. stavka 4. ovoga Zakona,
+
+5. ne označi šumsku prometnicu ili zapriječenost šumske prometnice (članak 48. stavak 1. i članak 49. stavak 2.),
+
+6. obavlja šumarske radove bez registracije i/ili bez licencije (članak 50. stavak 1.).
+
+(4) Novčanom kaznom od 3.000,00 do 30.000,00 kuna kaznit će se fizička osoba ako:
+
+1. doznaku stabala ne obavlja radnik s propisanom stručnom spremom (članak 30. stavak 4.),
+
+2. drvo ili grane posječene u šumi ili izvan šume prevozi, otprema ili pohrani te prodaje, odnosno kupuje neobilježeno ili bez popratnice (članak 31.),
+
+3. počini ili dopusti u šumi pašu, brst, žirenje, skupljanje i odnošenje šušnja, mahovine, šumskih plodova ili drugih šumskih proizvoda, odnošenje humusa, treseta, listinca, ili smolarenje (članak 32. podstavci 5., 6., 7. i 8.),
+
+4. ne osigura zaštitu šuma od nezakonitoga prisvajanja, korištenja ili drugih protupravnih radnji ili ne poduzima potrebne mjere i radnje radi zaštite šuma od požara ili ne provodi šumski red (članak 41. stavak 1.),
+
+5. ne osigura izravno čuvanje šuma (članak 42. stavak 1.).
+
+(5) Novčanom kaznom od 2.000,00 do 20.000,00 kuna kaznit će se fizička osoba ako ne vodi propisane evidencije (članak 22. stavak 7.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 43.
+
+(1) Vlada Republike Hrvatske će donijeti uredbu iz članka 28. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar će donijeti pravilnike iz članaka 12. i 26. ovoga Zakona te smjernice iz članka 6. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 44.
+
+Do donošenja pravilnika iz ovoga Zakona ostaju na snazi, osim ako nisu u suprotnosti s odredbama ovoga Zakona, sljedeći pravilnici:
+
+1. Pravilnik o uređivanju šuma (»Narodne novine«, br. 111/06. i 141/08.)
+
+2. Pravilnik o čuvanju šuma (»Narodne novine«, br. 121/06. i 25/11.)
+
+3. Pravilnik o sadržaju i načinu provođenja nacionalne inventure šumskih resursa (»Narodne novine«, br. 53/06. i 137/08.)
+
+4. Pravilnik o doznaci stabala, obilježavanju drvnih sortimenata, popratnici i šumskom redu (»Narodne novine«, br. 116/06., 74/07., 55/09. i 25/11.)
+
+5. Pravilnik o Upisniku šumoposjednika (»Narodne novine«, br. 69/06. i 84/08.)
+
+6. Pravilnik o vrsti šumarskih radova, minimalnim uvjetima za njihovo izvođenje te radovima koje šumoposjednici mogu izvoditi samostalno (»Narodne novine«, br. 66/07., 29/08. i 4/11.)
+
+7. Pravilnik o uvjetima i mjerilima za odobrenje opsega nužne doznake stabala u šumama šumoposjednika (»Narodne novine«, br. 61/06., 6/08., 101/08. i 25/11.)
+
+8. Pravilnik o postupku za ostvarivanje prava na sredstva iz naknade za korištenje općekorisnih funkcija šuma za izvršene radove u šumama šumoposjednika (»Narodne novine«, br. 66/06. i 25/11.)
+
+9. Pravilnik o načinu obračuna, obrascima i rokovima uplate naknade za korištenje općekorisnih funkcija šuma (»Narodne novine«, br. 84/10. i 39/12.)
+
+10. Pravilnik o utvrđivanju naknade za prenesena i ograničena prava na šumi i šumskom zemljištu (»Narodne novine«, br. 105/09. i 98/11.)
+
+11. Pravilnik o službenoj iskaznici i znački šumarskog inspektora (»Narodne novine«, br.142/12.)
+
+12. Pravilnik o sadržaju i načinu polaganja stručnih ispita za ovlaštene inženjere šumarstva i drvne tehnologije (»Narodne novine«, br. 74/07.).
+
+#### Članak 45.
+
+(1) Svi upravni postupci započeti do stupanja na snagu ovoga Zakona dovršit će se po odredbama Zakona o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08., 80/10., 124/10., 25/12., 68/12. i 148/13.) i provedbenih propisa donesenih na temelju njega.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, postupci uplate i povrata naknade za korištenje općekorisnih funkcija šuma za razdoblje do uključivo 2013. godinu, te za 2014. godinu do stupanja na snagu ovoga Zakona, u korist ili na teret posebnog računa Trgovačkog društva te dostava konačnog obračuna naknade za 2013. godinu izvršit će se sukladno odredbama Zakona o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08., 80/10., 124/10., 25/12., 68/12. i 148/13.) i Pravilnika o načinu obračuna, obrascima i rokovima uplate naknade za korištenje općekorisnih funkcija šuma (»Narodne novine«, br. 84/10. i 39/12.).
+
+(3) Šume i šumska zemljišta u vlasništvu Republike Hrvatske koja su prostornim planom do stupanja na snagu ovoga Zakona proglašena građevinskim područjem, a za koji je prostorni plan Ministarstvo dalo prethodno mišljenje sukladno odredbama Zakona o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08., 80/10., 124/10., 25/12., 68/12. i 148/13.) izdvajaju su iz šumskogospodarskoga područja Republike Hrvatske i njima se raspolaže sukladno odredbi članka 24. ovoga Zakona.
+
+(4) Iznimno od članka 37. stavka 3. izmijenjenog u članku 14. ovoga Zakona, Prostorni plan koji se donosi na temelju zakona koji je uređivao prostorno planiranje do stupanja na snagu Zakona o prostornom uređenju(»Narodne novine«, br.153/13.) ili izmjene i/ili dopune tog plana, može se donijeti samo uz izričito pozitivno mišljenje Ministarstva. Rok za dostavu navedenog mišljenja je 30 dana, a u slučaju da ga Ministarstvo ne dostavi u propisanom roku, smatra se da je pozitivno.
+
+(5) Postupci osnivanja prava služnosti u šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske započeti sukladno odredbi članka 57. Zakona o šumama (»Narodne novine«, br. 140/05., 82/06., 129/08., 80/10., 124/10., 25/12., 68/12. i 148/13.) dovršit će se prema odredbama toga Zakona.
+
+#### Članak 46.
+
+(1) Šume i šumska zemljišta u vlasništvu Republike Hrvatske koja su odlukama Vlade Republike Hrvatske određena kao zemljišta na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, i to:
+
+1. Odlukom, klase: 946-01/04-01/01, urbroja: 5030105-04-5, od 4. kolovoza 2004.
+
+2. Odlukom, klase: 946-01/05-01/02, urbroja: 5030116-05-1, od 5. svibnja 2005.
+
+3. Odlukom, klase: 946-01/05-01/02, urbroja: 5030116-05-3, od 14. srpnja 2005.
+
+4. Odlukom, klase: 946-01/06-01/01, urbroja: 5030116-06-4, od 23. studenoga 2006.
+
+5. Odlukom, klase: 946-01/07-02/02, urbroja: 5030116-07-1, od 19. srpnja 2007.
+
+6. Odlukom, klase: 946-01/08-01/01, urbroja: 5030105-08-1, od 18. travnja 2008.
+
+7. Odlukom, klase: 946-01/09-01/01, urbroja: 5030120-09-1, od 10. ožujka 2009.
+
+8. Odlukom, klase: 946-01/10-01/01, urbroja: 5030125-10-1, od 28. svibnja 2010.
+
+9. Odlukom, klase: 946-01/11-01/01, urbroja: 5030112-11-1, od 14. travnja 2011.
+
+10. Odlukom, klase: 022-03/13-04/88, urbroja: 50301-05/25-13-3, od 19. rujna 2013. danom stupanja na snagu ovoga Zakona izdvajaju se iz šumskogospodarskoga područja Republike Hrvatske i u nadležnosti su Agencije za poljoprivredno zemljište (u daljnjem tekstu: Agencija). Ministarstvo je dužno predati spise predmeta osnivanja služnosti Agenciji koja ih je dužna preuzeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona i o tome sastaviti zapisnik.
+
+(2) Šumom i šumskim zemljištem u vlasništvu Republike Hrvatske koje prema stavku 1. ovoga članka prijeđe u nadležnost Agencije nastavlja se raspolagati prema posebnom propisu kojim se uređuje raspolaganje poljoprivrednim zemljištem u vlasništvu Republike Hrvatske.
+
+(3) Stjecanje, promjena, pravni učinci i prestanak stvarnih prava na šumi i šumskom zemljištu u vlasništvu Republike Hrvatske do stupanja na snagu ovoga Zakona prosuđuju se prema pravilima koja su se primjenjivala u trenutku stjecanja, promjene i prestanka prava i njihovih pravnih učinaka.
+
+#### Članak 47.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o postupku i mjerilima za osnivanje služnosti u šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske radi podizanja višegodišnjih nasada (»Narodne novine«, br. 121/08.).
+
+#### Članak 48.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 7. koji stupa na snagu 1. siječnja 2015.
+
+Klasa: 022-03/14-01/28  
+Zagreb, 15. srpnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

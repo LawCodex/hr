@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-17
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/06"
-amendments: []
+last_amended: 2015-10-13
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/06, 110/15"
+amendments:
+  - "NN 110/2015 (2123) Zakon o izmjenama i dopunama Zakona o Hrvatskoj gorskoj službi spašavanja"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1915"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Hrvatskoj gorskoj službi spašavanja
 
 > Izvor: Narodne novine, NN 79/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1915).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -336,3 +340,234 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Hrvatskoj gorskoj službi spašavanja (NN 110/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2123*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOJ GORSKOJ SLUŽBI SPAŠAVANJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Hrvatskoj gorskoj službi spašavanja, koji je Hrvatski sabor donio na sjednici 25. rujna 2015. godine.
+
+Klasa: 011-01/15-01/109  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 1. listopada 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOJ GORSKOJ SLUŽBI SPAŠAVANJA**
+
+#### Članak 1.
+
+U Zakonu o Hrvatskoj gorskoj službi spašavanja (»Narodne novine«, br. 79/06.) članak 5. mijenja se i glasi:
+
+»(1) Hrvatska gorska služba spašavanja organizira, unapređuje i obavlja djelatnost spašavanja i zaštite ljudskih života u planinama i na nepristupačnim područjima i u drugim izvanrednim okolnostima.
+
+(2) Temeljne zadaće Hrvatske gorske službe spašavanja u obavljanju djelatnosti iz stavka 1. ovoga članka su:
+
+– sprječavanje nesreća i spašavanje u planini, na drugim nepristupačnim područjima i u izvanrednim okolnostima uz primjenu posebnih stručnih znanja i uporabu tehničke opreme za spašavanje u planinama u svrhu očuvanja spašavanja ljudskih života i zaštite zdravlja ljudi, imovine i prirode
+
+– organiziranje i pripremanje aktivnosti i mjera kojima je svrha održavanje pripravnosti za spašavanje te trajno organiziranje, osposobljavanje i uvježbavanje za održavanje i unapređivanje spremnosti i sposobnosti za otklanjanje posljedica nesreća u planinama i drugim nepristupačnim područjima
+
+– otklanjanje neposredne opasnosti u planinama i drugim nepristupačnim područjima
+
+– provođenje preventivnih mjera za unapređivanje sigurnosti i zaštite i spašavanja u planinama i drugim nepristupačnim područjima kod specifičnih aktivnosti na tim prostorima
+
+– provođenje dežurstava u cilju sprječavanja nesreća
+
+– potraga za izgubljenim osobama u planinama i drugim nepristupačnim područjima
+
+– spašavanje iz speleoloških objekata, litica i kanjona
+
+– spašavanje na uređenim i neuređenim skijalištima, penjalištima i drugim objektima i prostorima u prirodi, za vrijeme specifičnih sportskih, turističkih, rekreativnih, kulturoloških i drugih aktivnosti u prirodi i planinskom području, te speleološkom objektu
+
+– potraga i spašavanje iz lavina i provođenje preventivnih mjera u svezi s opasnostima od snježnih lavina u planinskim područjima
+
+– sudjelovanje u sustavu traganja i spašavanja za nestalim zrakoplovima i drugim prometnim sredstvima u planinama, strmim dijelovima obale i drugim nepristupačnim područjima
+
+– spašavanje i prijevoz stradalih osoba s planina i drugih nepristupačnih područja
+
+– provođenje helikopterskog spašavanja, prijevoza i obuke pripadnika Hrvatske gorske službe spašavanja za helikoptersko spašavanje
+
+– davanje sigurnosnih preporuka osobama i organizatorima turističkih i sportskih i drugih aktivnosti u prirodi i planinskom području radi sprječavanja aktivnosti koje ugrožavaju sigurnost, život i zdravlje sudionika aktivnosti
+
+– provođenje kontinuiranog informiranja i educiranja fizičkih i pravnih osoba o opasnostima i mjerama sigurnosti u planinama i na drugim nepristupačnim područjima
+
+– spašavanje na visinama i visokim objektima u slučaju potresa, vremenskih nepogoda i drugih nesreća na nepristupačnim prostorima
+
+– spašavanje u nesrećama u slučaju loših vremenskih uvjeta uz primjenu posebnih stručnih znanja i tehničke opreme za spašavanje u planinama
+
+– promicanje zaštite prirode
+
+– izdavanje preventivnih i edukacijskih materijala u svezi sigurnosti osoba i imovine u planinama i drugim nepristupačnim područjima
+
+– izrada zapisnika koji ima svojstvo javne isprave u svrhu ostvarivanja prava iz osiguranja, utvrđivanja štete, pokretanja prekršajnog postupka i druge svrhe
+
+– izrada izvješća o nesrećama i uočenim opasnostima
+
+– izricanje usmenog rješenja i izrada zapisnika o aktivnostima koje je Hrvatska gorska služba spašavanja privremeno zaustavila temeljem ovlasti iz članka 6. stavka 1. podstavka 10. ovoga Zakona radi otklanjanja neposredne opasnosti za život i zdravlje ljudi ili imovinu i prirodu.
+
+(3) U slučaju iz stavka 2. podstavka 21. ovoga članka, ako to stranka zahtijeva ili radi zaštite javnog interesa, pročelnik Hrvatske gorske službe spašavanja ili ovlašteni pripadnik Hrvatske gorske službe spašavanja donosi rješenje u pisanom obliku najkasnije u roku od osam dana od dana izricanja usmenog rješenja, koje dostavlja stranci i središnjem tijelu državne uprave za civilnu zaštitu.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka nije dozvoljena žalba ali se može pokrenuti upravni spor.
+
+(5) Hrvatska gorska služba spašavanja akcije traganja i spašavanja izvršava na poziv Centra 112 i na poziv nadležnih središnjih tijela državne uprave i jedinica lokalne i područne (regionalne) samouprave i fizičkih osoba.
+
+(6) Hrvatska gorska služba spašavanja dužna je Centar 112 izvijestiti o akcijama koje je poduzela na zahtjev drugih tijela ili fizičkih osoba te o aktivnostima koje je privremeno zaustavila temeljem ovlasti iz članka 6. stavka 1. podstavka 10. ovoga Zakona.
+
+(7) Hrvatska gorska služba spašavanja posredstvom Centra 112 podnosi zahtjev nadležnim službama središnjih tijela državne uprave za osiguranje helikopterskog prijevoza, osim u slučaju kada organizator aktivnosti osigura helikopter i osigurava nazočnost pripadnika Hrvatske gorske službe spašavanja.«.
+
+#### Članak 2.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Hrvatska gorska služba spašavanja u obavljanju svoje djelatnosti ima sljedeće javne ovlasti:
+
+– provoditi obuku (održavanjem vježbi, seminara, tečajeva) za specijalnosti gorskog spašavanja prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu
+
+– provoditi obuku pripadnika Hrvatske gorske službe spašavanja za helikoptersko spašavanje prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu
+
+– provoditi obuku pripadnika Hrvatske gorske službe spašavanja za rukovatelja bespilotnog sustava prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji s nadležnim središnjim tijelom državne uprave ili pravnom osobom za zračni promet
+
+– provoditi obuku pripadnika Hrvatske gorske službe spašavanja za pružanje prve pomoći u planinama i nepristupačnim područjima prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji sa središnjim tijelom državne uprave nadležnom za zdravstvo
+
+– provoditi obuku za organizatore turističkih aktivnosti na nepristupačnim područjima u cilju poboljšanja sigurnosti sudionika prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom ministar čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji s ministarstvom nadležnim za turizam
+
+– provoditi obuku nadzornika prirode u cilju poboljšanja sigurnosti, uklanjanja opasnosti i djelovanja u slučaju nesreća na nepristupačnim područjima prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom ministar zaštite okoliša i prirode u suradnji sa središnjim tijelom državne uprave nadležnim za civilnu zaštitu
+
+– voditi evidenciju i izdavati potvrde o završenoj obuci iz podstavaka 1. – 6. ovoga stavka
+
+– zabraniti pristup neovlaštenim osobama u blizini mjesta intervencije, pozvati policiju glede osiguranja mjesta događaja te poduzimati druge potrebne mjere radi sprječavanja nastanka štetnih posljedica
+
+– iznimno može uključiti punoljetnu osobu da dragovoljno obavlja pojedine pomoćne poslove i manje složene poslove tijekom akcije spašavanja, ako je to prijeko potrebno radi uspješnosti spašavanja
+
+– zaustaviti izvođenje radnje u planinama i nepristupačnim područjima ako se ona izvodi ili planira na način da predstavlja opasnost za život i zdravlje ljudi te može prouzročiti štetu na imovini i prirodi.
+
+(2) Čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu propisuje pravilnikom način vođenja evidencije o izdanim potvrdama iz stavka 1. podstavka 7. ovoga članka.
+
+(3) Za provođenje zadaća sukladno odredbama članka 6. stavka 1. podstavka 10. ovoga članka, pripadnici Hrvatske gorske službe spašavanja dužni su svoj identitet i ovlasti iz ovog Zakona dokazati službenom iskaznicom i značkom.
+
+(4) Oblik i sadržaj službene iskaznice i značke te način njihova izdavanja, uporabe i vođenja evidencija utvrđuje se Statutom Hrvatske gorske službe spašavanja.«.
+
+#### Članak 3.
+
+U članku 9. stavku 1. podstavak 1. mijenja se i glasi:
+
+»– obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti u skladu s propisima iz obveznog zdravstvenog osiguranja,«.
+
+U stavku 2. riječi »središnjeg tijela državne uprave nadležnog za zaštitu i spašavanje« zamjenjuju se riječima: »središnjeg tijela državne uprave nadležnog za civilnu zaštitu«.
+
+#### Članak 4.
+
+U članku 13. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu na prijedlog Hrvatske gorske službe spašavanja donosi Sigurnosna pravila o mjerama i pravilima ponašanja osoba koje sudjeluju u aktivnostima na planinama i drugim nepristupačnim područjima.«.
+
+#### Članak 5.
+
+U članku 16. stavku 1. podstavak 6. mijenja se i glasi:
+
+»– od izvršenja programa i projekata za unapređenje sigurnosti u planinskim i drugim nepristupačnim područjima gdje se odvijaju turističke aktivnosti te od izvršenja programa i projekata za potrebe turističke zajednice,«.
+
+Iza podstavka 6. dodaje se podstavak 7. koji glasi:
+
+»– iz prihoda od igara na sreću, u skladu s posebnim propisima.«.
+
+#### Članak 6.
+
+U članku 17. stavak 2. mijenja se i glasi:
+
+»(2) Sredstva iz stavka 1. ovoga članka osiguravaju se u Državnom proračunu Republike Hrvatske u financijskom planu središnjih tijela državne uprave za financiranje programa i projekata od interesa za opće dobro u Republici Hrvatskoj koje provodi Hrvatska gorska služba spašavanja.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Hrvatska gorska služba spašavanja dužna je središnjem tijelu državne uprave nadležnom za civilnu zaštitu podnijeti godišnje izvješće o izvršenju programa i projekata i utrošku sredstava iz stavka 2. ovoga članka u roku od 60 dana od isteka poslovne godine.«.
+
+#### Članak 7.
+
+U članku 18. stavak 2. mijenja se i glasi:
+
+»(2) Predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave donosi program javnih potreba za obavljanje djelatnosti stanica Hrvatske gorske službe spašavanja iz stavka 1. ovoga članka.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Stanica Hrvatske gorske službe spašavanja dužna je jedinici lokalne i područne (regionalne) samouprave podnijeti godišnje izvješće o izvršenju programa i projekata te utrošku sredstava iz stavka 1. ovoga člankau roku od 60 dana od isteka poslovne godine.«.
+
+#### Članak 8.
+
+U članku 20. stavak 2. mijenja se i glasi:
+
+»(2) Upravni nadzor nad obavljanjem temeljnih zadaća i javnih ovlasti iz ovoga Zakona provode nadležna središnja tijela državne uprave iz članka 6. stavka 1. ovoga Zakona.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Inspekcijski nadzor nad provedbom ovoga Zakona provode inspektori središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji s inspektorima središnjih tijela državne uprave nadležnih prema posebnim propisima«.
+
+#### Članak 9.
+
+Naziv glave VIII. iznad članka 21. mijenja se i glasi: »PREKRŠAJNE ODREDBE«.
+
+#### Članak 10.
+
+Članak 21. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 1.000,00 do 10.000,00 kuna kaznit će se za prekršaj fizička osoba koja sudjeluje u sportskim, turističkim i drugim aktivnostima u planinskim i drugim nepristupačnim područjima ako se ne pridržava sigurnosnih upozorenja i uputa Hrvatske gorske službe spašavanja, kao i pravila ponašanja u športsko-turističkim objektima i prostorima, na skijaškim stazama, planinskim i drugim nepristupačnim područjima te na taj način ugrožava vlastiti život te život, zdravlje i materijalna sredstva drugih osoba (članak 13.).«.
+
+#### Članak 11.
+
+Članak 22. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba:
+
+– organizator športskih, turističkih aktivnosti u planinskim i drugim nepristupačnim područjima ako Hrvatskoj gorskoj službi spašavanja ne najavi mjesto održavanja aktivnosti najmanje osam dana prije početka, ako se ne savjetuje u svezi sigurnosnih mjera te sukladno zajedničkoj procjeni opasnosti ne osigura nazočnost pripadnika Hrvatske gorske službe spašavanja (članak 12. stavak 1.)
+
+– davatelj usluga smještaja koji na zahtjev Hrvatske gorske službe spašavanja na vidljivim mjestima u svojim objektima ne dopusti postavljanje upozorenja i drugih informacija u svezi sigurnosti osoba tijekom njihovih aktivnosti u planinskim i drugim nepristupačnim područjima (članak 12. stavak 2.)
+
+– koncesionar ili vlasnik žičare ili drugog objekta i sredstva za prijevoz osoba ako bez naknade i uz pravo prednosti ne omogući prijevoz pripadnika Hrvatske gorske službe spašavanja i osoba koje se spašavaju (članak 15.).«.
+
+(2) Za prekršaje iz stavka 1. ovog članka kaznit će se novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna i odgovorna osoba u pravnoj osobi.«.
+
+#### Članak 12.
+
+Članak 23. mijenja se i glasi:
+
+»Ovlašteni tužitelj u prekršajnom postupku je Hrvatska gorska služba spašavanja za prekršaje u području njezinih javnih ovlasti koji su propisani ovim Zakonom.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 13.
+
+Odluke iz članka 2. ovoga Zakona, kojim je izmijenjen članak 6. stavak 1. podstavci 1. do 6. Zakona o Hrvatskoj gorskoj službi spašavanja (»Narodne novine«, br. 79/06.), donijet će čelnici nadležnih središnjih tijela državne uprave u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Sigurnosna pravila o mjerama i pravilima ponašanja osoba koje sudjeluju u aktivnostima na planinama i drugim nepristupačnim područjima iz članka 4. ovoga Zakona, kojim je u članku 13. Zakona o Hrvatskoj gorskoj službi spašavanja (»Narodne novine«, br. 79/06.) dodan stavak 2., donijet će čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 14.
+
+Hrvatska gorska služba spašavanja dužna je uskladiti Statut Hrvatske gorske službe spašavanja s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 15.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/153  
+Zagreb, 25. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

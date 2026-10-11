@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-07-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "87/02"
-amendments: []
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "87/02, 14/14"
+amendments:
+  - "NN 14/2014 (292) Zakon o izmjeni Zakona o strateškim robnim zalihama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/87/1446"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o strateškim robnim zalihama
 
 > Izvor: Narodne novine, NN 87/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/87/1446).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -364,3 +368,53 @@ Hrvatskoga sabora
 Zlatko Tomčić, v. r.
 
 POPIS ROBE KOJA MOŽE ČINITI STRATEŠKE ROBNE ZALIHE Red. Vrsta robe Način osiguranja br. u robi u novcu 1 2 3 4 I. ŽITARICE I PRERAĐEVINE 1. Pšenica x 2. Kukuruz x 3. Riža x 4. Tjestenina x II. MESO I MESNE KONZERVE 5. Goveđe meso x 6. Svinjsko meso x 7. Mesne konzerve x 8. Riblje konzerve x III. MLIJEKO I MLIJEČNE PRERAĐEVINE 9. Mlijeko u prahu 50% 50% 10. Sir topljeni x 11. Sir polutvrdi x 12. Mlijeko trajno x IV. MASNOĆE 13. Biljna mast x 14. Mat životinjskog porijekla x V. ZASLAĐIVAČI 15. Šećer x 16. Med x VI. SOL I ZAČINI 17. Kuhinjska sol x 18. Vegeta x 19. Papar x 20. Mljevena paprika x 21. VII. KONZERVIRANO POVRĆE x 22. VIII. VOĆNA MARMELADA x 23. IX. KAVA x 24. X. JUHE KONCENTRAT x 25. XI. JAJA x XII. OSTALO 26. Cjelodnevni suhi obrok x 27. Dječja hrana voćna x 28. Dječja hrana mliječna x I. NAFTNI DERIVATI 1. Eurodizel-Diesel gorivo x 2. Diesel gorivo DS-brod. x 3. Motorni benzin BMB 95 x 4. Motorni benzin MB i BMB 98 x 5. Mlazno gorivo GM-1 x 6. Mazut x 7. II. ANTIFRIZ x III. GRAĐEVINSKI MATERIJALI 8. Betonsko željezo - rebrasto i glatko x 9. Cement x 10. Opekarski proizvodi x 11. IV. BIJELI LIM ili steromal x V. PROIZVODI OD PLASTIČNIH MASA 12. Plastične folije x 13. Plastične cijevi za vodovod, kanalizaciju i plinovod x VI. PAPIR I KARTON 14. Roto-papir x 15. Kartonska ljepenka x VII. DUHANSKI PROIZVODI 16. Cigarete x VIII. AKUMULATORI I ELEKTROLIT 17. Akumulatori x 18. Elektrolit x IX. VOZILA, AGREGATI I PUMPE 19. Antiakcident x 20. Reanimobil x 21. Plovila x 22. Višenamjenske cisterne x 23. Agregati x 24. Pumpe za vodu x 25. Metlenice x 26. Naprtnjače x 28. Potopne pumpe x X. OPREMA I ROBA ZA OPSKRBU, SMJEŠTAJ I ZDRAVSTVENO ZBRI- NJAVANJE STANOVNIŠTVA a) Oprema 28. Mobilna bolnica modulskog tipa x 29. Kontejneri za stanovanje x 30. Auto kamp prikolice x 31. Šatori x 32. Vreće za mrtvace x 33. Vreće za spavanje x 34. Poljski ležajevi x 35. Jastuci 50% 50% 36. Jastučnice 50% 50% 37. Deke 50% 50% 38. Plahte 50% 50% 39. Spremnici za vodu x 40. Sanitarna oprema x 41. Oprema za zbrinjavanje otpada x 42. Pokretne kuhinje x 43. Komplet za jelo i piće 50% 50% 44. Plinska svjetiljka s bocom x 45. Svjetiljka akulampa x 46. Svijeće x 47. Šibice x b) Higijensko-kozmetički proizvodi 48. Deterdžent za rublje x 49. Deterdžent za suđe x 50. Pasta za zube x 51. Četkica za zube x 52. Sapun x Papirnata konfekcija 53. Toalet papir x 54. Papirnati ručnici x 55. Higijenski ulošci x 56. Pelene - dječje x 57. Pelene za inkontinenciju x XI. SREDSTVA ZA ASANACIJU 58. Sredstva za dezinfekciju vode i prostora 50% 50% 59. Sredstva za dezinsekciju 50% 50% 60. Sredstva za deratizaciju 50% 50%
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o strateškim robnim zalihama (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/292*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O STRATEŠKIM ROBNIM ZALIHAMA
+
+Proglašavam Zakon o izmjeni Zakona o strateškim robnim zalihama, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/26
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O STRATEŠKIM ROBNIM ZALIHAMA**
+
+### Članak 1.
+
+U Zakonu o strateškim robnim zalihama (»Narodne novine«, br. 87/02.) u članku 25. stavku 5. riječi: »gospodarski inspektori Državnog inspektorata« zamjenjuju se riječima: »nadležni inspektori«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/340
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

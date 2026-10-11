@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-16
+last_amended: 2009-03-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1993; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "76/93"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "76/93, 38/09"
+amendments:
+  - "NN 38/2009 (848) Zakon o izmjenama Zakona o tehničkoj kulturi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1549"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o tehničkoj kulturi
 
 > Izvor: Narodne novine, NN 76/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1549).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 38/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -440,3 +444,67 @@ Predsjednik
 Zastupničkog doma Sabora
 
 Stjepan Mesić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o tehničkoj kulturi (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/848*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O TEHNIČKOJ KULTURI
+
+Proglašavam Zakon o izmjenama Zakona o tehničkoj kulturi, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/53
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O TEHNIČKOJ KULTURI**
+
+### Članak 1.
+
+U Zakonu o tehničkoj kulturi (»Narodne novine«, br. 76/93. i 11/94.) u članku 20. stavku 1. točki 3. riječi: »darovitu i hendikepiranu djecu« zamjenjuju se riječima: »djecu s posebnim potrebama«.
+
+U stavku 2. riječi: »njihovih poglavarstva« zamjenjuju se riječima: »općinskog načelnika, gradonačelnika, gradonačelnika Grada Zagreba, odnosno župana«.
+
+### Članak 2.
+
+U članku 22. stavku 2. riječ: »Poglavarstvo« zamjenjuje se riječima: »Predstavničko tijelo«, a riječi: »nadležno za poslove tehničke kulture« brišu se.
+
+### Članak 3.
+
+U članku 24. riječ: »poglavarstva« zamjenjuje se riječima: »predstavnička tijela«.
+
+### Članak 4.
+
+U svim odredbama Zakona o tehničkoj kulturi (»Narodne novine«, br. 76/93. i 11/94.) riječi: »ministar kulture i prosvjete« zamjenjuju se riječima: »ministar nadležan za znanost, obrazovanje i šport« u odgovarajućem padežu, riječi: »ministarstvo kulture i prosvjete« zamjenjuju se riječima: »ministarstvo nadležno za znanost, obrazovanje i šport«, riječi: »Sabor Republike Hrvatske« riječima: »Hrvatski sabor«, a riječi: »Odbora za naobrazbu, znanost, kulturu i šport Zastupničkog doma« zamjenjuju se riječima: »Odbora za znanost, obrazovanje i kulturu« u odgovarajućem padežu.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba.
+
+Klasa: 630-01/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

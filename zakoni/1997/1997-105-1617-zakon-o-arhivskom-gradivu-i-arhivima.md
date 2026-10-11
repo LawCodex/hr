@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-09
-last_amended: 2000-07-05
+last_amended: 2009-06-05
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "105/97, 64/00"
+narodne_novine: "105/97, 64/00, 65/09"
 amendments:
   - "NN 64/2000 (1411) Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima"
+  - "NN 65/2009 (1459) Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1617"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 105/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1617).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 64/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 64/2000, NN 65/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -843,3 +844,99 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskog državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima (NN 65/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/65/1459*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ARHIVSKOM GRADIVU I ARHIVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima, kojega je Hrvatski sabor donio na sjednici 22. svibnja 2009. godine.
+
+Klasa: 011-01/09-01/78
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 28. svibnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ARHIVSKOM GRADIVU I ARHIVIMA**
+
+### Članak 1.
+
+U Zakonu o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97. i 64/00.) u članku 31. stavku 2. podstavak 1. mijenja se i glasi:
+
+»– tvrtka i sjedište, odnosno ime, prezime i prebivalište vlasnika, te ime, prezime i prebivalište odgovorne osobe,«.
+
+### Članak 2.
+
+U članku 49. stavak 5. mijenja se i glasi:
+
+»Specijalizirane i privatne arhive mogu osnivati domaće i strane pravne i fizičke osobe, sukladno odredbama ovoga Zakona i drugih propisa.«
+
+### Članak 3.
+
+U članku 54. stavak 2. mijenja se i glasi:
+
+»Za ravnatelja arhiva može se imenovati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, kao i osoba koja je stekla visoku stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 198/03., 105/04., 174/04. i 46/07.), te položen stručni ispit iz arhivske struke, objavljene vrijedne stručne ili znanstvene radove i odlikuje se stručnim, radnim i organizacijskim sposobnostima.«
+
+### Članak 4.
+
+U članku 58. podstavak 10. mijenja se i glasi:
+
+»– predlaže ministru kulture dodjeljivanje odgovarajućih stručnih arhivskih zvanja prema pravilniku iz članka 61. ovoga Zakona,«.
+
+### Članak 5.
+
+Članak 61. mijenja se i glasi:
+
+»Stručne poslove u arhivima obavlja stručno osoblje u zvanjima: arhivski tehničar, viši arhivski tehničar, arhivist, viši arhivist i arhivski savjetnik, kao i njima odgovarajuće osoblje u konzervatorskoj i restauratorskoj struci, reprografiji i mikrografiji, te zaštiti audiovizualnog i filmskog arhivskog gradiva.
+
+Uvjete i način stjecanja stručnih zvanja iz stavka 1. ovoga članka propisat će pravilnikom ministar kulture na prijedlog Hrvatskog arhivskog vijeća.«
+
+### Članak 6.
+
+Članci 62. do 64. brišu se.
+
+*Prijelazne i završne odredbe*
+
+### Članak 7.
+
+Osobe koje na dan stupanja na snagu ovoga Zakona obavljaju stručne poslove u arhivima nastavljaju s radom u svojim stručnim zvanjima stečenima prema odredbama zakona i drugih propisa koji su bili na snazi do donošenja ovoga Zakona.
+
+### Članak 8.
+
+Osobe koje se zapošljavaju na stručnim poslovima u arhivima, do donošenja pravilnika iz članka 5. ovoga Zakona trebaju ispunjavati uvjete propisane člancima 61. do 64. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97. i 64/00.).
+
+### Članak 9.
+
+Ravnatelji i osobe koje se zapošljavaju u arhivima, a koje su stekle visoku, odnosno višu stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju, imaju sva prava iz Zakona o arhivskom gradivu i arhivima kao i osobe koje su završile odgovarajuću razinu obrazovanja prema Zakonu o znanstvenoj djelatnosti i visokom obrazovanju.
+
+### Članak 10.
+
+Hrvatsko arhivsko vijeće će u roku od godine dana od dana stupanja na snagu ovoga Zakona predložiti ministru kulture donošenje pravilnika iz članka 5. ovoga Zakona.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama« osim članka 2. ovoga Zakona koji stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 612-06/09-01/01
+
+Zagreb, 22. svibnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

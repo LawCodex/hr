@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-10-25
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1993; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "96/93"
-amendments: []
+last_amended: 2013-06-21
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "96/93, 76/13"
+amendments:
+  - "NN 76/2013 (1525) Zakon o izmjenama i dopunama Zakona o državnim maticama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o državnim maticama
 
 > Izvor: Narodne novine, NN 96/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -526,3 +530,331 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 Predsjednik Zastupničkog doma Sabora
 
 Stjepan Mesić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o državnim maticama (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1525*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNIM MATICAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o državnim maticama, koji je Hrvatski sabor donio na sjednici 14. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/139  
+Urbroj: 71 -05-03/1-13-2  
+Zagreb, 18. lipnja 20172
+
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNIM MATICAMA**
+
+#### Članak 1.
+
+U Zakonu o državnim maticama (»Narodne novine«, br. 96/93.) članak 4. mijenja se i glasi:
+
+»Poslove osobnih stanja građana obavlja ured državne uprave u županiji, odnosno Gradski ured Grada Zagreba nadležan za poslove opće uprave (u daljnjem tekstu: nadležni ured) koji je voditelj zbirki osobnih podataka sukladno s propisima o zaštiti osobnih podataka. Državne matice neposredno vode državni službenici-matičari.«.
+
+#### Članak 2.
+
+Članak 5. mijenja se i glasi:
+
+»O osobnim stanjima građana vode se državne matice: matica rođenih, matica vjenčanih i matica umrlih.
+
+Državne matice vode se u elektroničkom obliku. Na obradu podataka primjenjuju se propisi kojima se uređuje zaštita osobnih podataka i informacijska sigurnost.
+
+Sastavni dio državnih matica su temeljni spisi na osnovi kojih se upisuju podaci u državne matice.
+
+Iznimno od stavka 2. ovoga članka, matica vjenčanih se osim u elektroničkom obliku vodi i na propisanom obrascu i ispisuje trajnom tintom. Obrazac će biti propisan posebnim pravilnikom.
+
+Način rada u vođenju državnih matica propisat će se posebnim propisom.«.
+
+#### Članak 3.
+
+Članak 6. briše se.
+
+#### Članak 4.
+
+U članku 7. stavci 1. i 2. brišu se.
+
+Dosadašnji stavak 3. postaje stavak 1.
+
+#### Članak 5.
+
+Članak 8. briše se.
+
+#### Članak 6.
+
+Članak 9. mijenja se i glasi:
+
+»U maticu rođenih upisuju se:
+
+a) kod temeljnog upisa:
+
+1. podaci o rođenju: osobno ime i spol djeteta; dan, mjesec, godina, sat i mjesto rođenja; nacionalnost i državljanstvo;
+
+2. podaci o roditeljima djeteta: osobni identifikacijski broj, osobno ime (i rođeno prezime), datum i mjesto rođenja, nacionalnost, državljanstvo, zanimanje, prebivalište i adresa stanovanja;
+
+b) kao naknadni upisi i bilješke:
+
+1. matični broj građana i osobni identifikacijski broj,
+
+2. priznanje i utvrđivanje očinstva i majčinstva,
+
+3. osporavanje očinstva i majčinstva,
+
+4. skrbništvo nad maloljetnom osobom i osobom kojoj je oduzeta poslovna sposobnost, prestanak skrbništva, vraćanje poslovne sposobnosti,
+
+5. posvojenje i zabrana izdavanja isprava iz tog upisa,
+
+6. lišenje i vraćanje roditeljske skrbi, roditeljska skrb nakon punoljetnosti i prestanak roditeljske skrbi nakon punoljetnosti,
+
+7. sklapanje i prestanak braka,
+
+8. promjena osobnog imena, imena ili prezimena,
+
+9. promjena osobnog imena, imena ili prezimena roditelja i skrbnika
+
+10. promjena spola,
+
+11. promjena državljanstva,
+
+12. smrt i proglašenje umrlim,
+
+13. naknadni ispravci grešaka i druge promjene podataka koje se upisuju u državnu maticu rođenih.«.
+
+#### Članak 7.
+
+Iza članka 9. dodaje se članak 9.a koji glasi:
+
+»Članak 9.a
+
+Promjena spola kao izmjena podataka u temeljnom upisu upisuje se u maticu rođenih na temelju rješenja nadležnog ureda. Rješenje o upisu promjene spola u maticu rođenih donosi se na temelju mišljenja nadležnog tijela o promjeni spola ili o životu u drugom rodnom identitetu, sukladno medicinskoj dokumentaciji nadležnog liječnika ili zdravstvene ustanove.
+
+Način prikupljanja medicinske dokumentacije iz stavka 1. ovoga članka te utvrđivanje uvjeta i pretpostavki za promjenu spola i života u drugom rodnom identitetu, propisat će se posebnim propisom.«.
+
+#### Članak 8.
+
+U članku 11. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Osobe iz stavka 2. koje prijavljuju rođenje djeteta izvan zdravstvene ustanove prilikom prijave matičaru predočuju medicinsku dokumentaciju o porodu ili dokaz o majčinstvu.«.
+
+#### Članak 9.
+
+U članku 12. stavak 3. briše se.
+
+#### Članak 10.
+
+U članku 13. stavku 1. riječi: »dva mjeseca« zamjenjuju se riječima: »30 dana«.
+
+Stavak 2. briše se.
+
+U stavku 3. koji postaje stavak 2. riječi: »dužne su« zamjenjuju se riječju: »mogu«.
+
+#### Članak 11.
+
+U članku 14. stavku 2. riječi: »tijela državne uprave nadležnog za poslove skrbništva« zamjenjuju se riječima: »nadležnog centra za socijalnu skrb«.
+
+U stavku 3. riječi: »Tijelo državne uprave nadležno za poslove skrbništva« zamjenjuju se riječima: »Nadležni centar za socijalnu skrb«.
+
+#### Članak 12.
+
+Članak 15. mijenja se i glasi:
+
+»Kad matičar primi odluku nadležnog centra za socijalnu skrb da je dijete posvojeno, u maticu rođenih djeteta upisat će bilješku o zasnovanom posvojenju, uz napomenu da se na temelju tog upisa više ne izdaju isprave.
+
+Nakon što je upisana bilješka iz stavka 1. ovoga članka u maticu rođenih djeteta, matičar će izvršiti novi temeljni upis činjenice rođenja.
+
+Ako je zasnivanjem posvojenja došlo do promjene osobnih podataka posvojenika, u temeljni upis upisuju se novi podaci o djetetu i roditeljima djeteta, sukladno izreci rješenja o posvojenju.«.
+
+#### Članak 13.
+
+U članku 16. točki a) podtočki 1. iza riječi: »nevjesti:« dodaju se riječi: »osobni identifikacijski broj,«.
+
+U podtočki 2. riječi: »ime i prezime službene osobe pred kojom je brak zaključen« brišu se.
+
+Podtočka 3. briše se.
+
+Dosadašnja podtočka 4. postaje podtočka 3.
+
+#### Članak 14.
+
+U članku 17. riječi: »u roku od 15 dana od nastupa pravnih posljedica pravomoćne presude« brišu se.
+
+#### Članak 15.
+
+U članku 18. točki a) potočkama 1. i 2. ispred riječi: »ime i prezime« dodaju se riječi: »osobni identifikacijski broj,«.
+
+U podtočki 3. riječ: »vanparničnom« zamjenjuje se riječju: »izvanparničnom«.
+
+#### Članak 16.
+
+U članku 21. stavku 2. riječi: »ili organizaciji« i riječi: »ili organizacija« brišu se.
+
+#### Članak 17.
+
+Članak 23. briše se.
+
+#### Članak 18.
+
+U članku 25. stavku 3. iza riječi: »točni« dodaju se riječi: »ili na netočnost ukazuju podaci iz drugih službenih evidencija«.
+
+#### Članak 19.
+
+Članak 26. briše se.
+
+#### Članak 20.
+
+U članku 28. stavku 1. riječi: »u roku od tri dana od dana izvršenja upisa dostaviti izvadak iz državne matice o izvršenom upisu« zamjenjuju se riječima: »odmah o tome dostaviti obavijest«.
+
+U stavku 2. riječi: »Ministarstvu vanjskih poslova« zamjenjuju se riječima: »ministarstvu nadležnom za vanjske poslove«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. koji postaje stavak 3. mijenja se i glasi:
+
+»O upisu rođenja, sklapanja braka ili smrti te o promjeni podataka koji se sukladno propisima upisuju u druge službene evidencije koje se vode o građanima, matičar je dužan odmah od dana izvršenog upisa izvijestiti nadležna državna tijela koja vode te evidencije.«.
+
+#### Članak 21.
+
+U članku 29. stavku 1. riječ: »smije« zamjenjuje se riječju: »će«.
+
+Stavak 2. briše se.
+
+#### Članak 22.
+
+U članku 30. stavak 2. mijenja se i glasi:
+
+»Ako je ispravke potrebno izvršiti i u drugim državnim maticama ili u drugim službenim evidencijama koje se vode o građanima, matičar će o tome odmah izvijestiti nadležna državna tijela koja vode te evidencije.«.
+
+#### Članak 23.
+
+U članku 34. stavku 3. riječ: »negativnosti« zamjenjuje se riječima: »nezakonitosti ili nepravilnosti«, a iza riječi: »radu« dodaju se riječi: »ili postupanju«.
+
+#### Članak 24.
+
+U članku 36. riječi: »županijskog, odnosno gradskog« brišu se.
+
+#### Članak 25.
+
+U članku 39. stavku 2. riječ: »tijela« zamjenjuje se riječju: »ureda«.
+
+#### Članak 26.
+
+U članku 40. stavku 2. riječi: »županijskog, odnosno gradskog« i riječi: »županijski, odnosno gradski« brišu se.
+
+#### Članak 27.
+
+U članku 42. stavku 1. dodaje se rečenica koja glasi: »U pravnom prometu nije dozvoljeno koristiti ispravu koja ne sadrži posljednje važeće podatke upisane u državnim maticama.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. koji postaje stavak 3. mijenja se i glasi:
+
+»Potvrde koje se izdaju na temelju državnih matica sadrže posljednje važeće podatke upisane u maticama do dana izdavanja potvrda, koji se iskazuju u pripadajućim rubrikama potvrde.«.
+
+Iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+
+»Za osobe za koje je u državnim maticama upisana promjena spola, na izvatku se ne iskazuju podaci o promjeni spola i promjeni osobnog imena, odnosno za osobe koje su promijenile osobno ime prije promjene spola ne iskazuje se podatak o promjeni osobnog imena.
+
+Izvatke i potvrde iz državnih matica izdaje matičar koji je zaprimio zahtjev stranke neovisno o mjestu upisa u državne matice.«.
+
+#### Članak 28.
+
+Članak 44. mijenja se i glasi:
+
+»Pravo uvida u državne matice, u nazočnosti matičara dopustit će se osobi na koju se ti podaci odnose ili članovima uže obitelji ili posvojitelju odnosno skrbniku, a drugoj osobi samo kad ima za to na zakonu zasnovan pravni interes.
+
+Uvid u spise i rješenja na temelju kojih je izvršen upis u državne matice dopustit će se samo onim osobama koje imaju za to neposredan i na zakonu zasnovan pravni interes.
+
+Pravo uvida u maticu rođenih posvojenog djeteta dopustit će se punoljetnom posvojeniku, posvojitelju i roditelju koji je dao pristanak da dijete posvoji njegov bračni drug.
+
+Pravo uvida u maticu rođenih posvojenog djeteta dopustit će se maloljetnom posvojeniku, nakon što matičar pribavi suglasnost centra za socijalnu skrb koji treba utvrditi da je uvid u maticu rođenih u njegovu interesu.«.
+
+#### Članak 29.
+
+U članku 45. stavku 1. riječi: »toga Zakona« zamjenjuju se riječju: »ovog«.
+
+Stavak 2. briše se.
+
+#### Članak 30.
+
+Naslov iznad članka 46. mijenja se i glasi: »IV. PREKRŠAJNE ODREDBE«.
+
+Članak 46. mijenja se i glasi:
+
+»Tko u propisanom roku ne prijavi rođenje djeteta ili ne prijavi ime i prezime djeteta ili ne prijavi smrt kaznit će se za prekršaj novčanom kaznom u iznosu od 1.000,00 kuna.
+
+Za prekršaj iz stavka 1. ovoga članka kaznit će se pravna osoba novčanom kaznom u iznosu od 3.000,00 do 5.000,00 kuna a odgovorna osoba u pravnoj osobi kaznom u iznosu od 2.000,00 do 3.000,00 kuna.
+
+Protiv počinitelja prekršaja iz stavka 1. ovog članka neće se voditi postupak ako je prijavljivanje pravodobno izvršila druga osoba.
+
+Novčanom kaznom u iznosu od 1.000,00 do 4.000,00 kuna kaznit će se osoba koja u pravnom prometu koristi ispravu koja ne sadrži posljednje podatke upisane u državne matice.«.
+
+#### Članak 31.
+
+Članak 47. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 2.000,00 do 3.000,00 kuna kaznit će se matičar i drugi državni službenik na upravnim poslovima osobnih stanja građana koji:
+
+– u propisanim rokovima na izvršava upravne radnje utvrđene ovim Zakonom,
+
+– državne matice ne vodi ispravno i uredno,
+
+– povrijedi zaštitu podataka upisanih u državne matice dozvolom uvida ili izdavanjem isprava iz državnih matica neovlaštenim osobama.«.
+
+#### Članak 32.
+
+Članak 48. briše se.
+
+#### Članak 33.
+
+U svim odredbama Zakona o državnim maticama (»Narodne novine«, br. 96/93.) riječi: »ime i prezime« u određenom broju i padežu zamjenjuju se riječima: »osobno ime«, u određenom broju i padežu, riječi: »zaključenje braka« u određenom broju i padežu zamjenjuju se riječima: »sklapanja braka« u određenom broju i padežu, riječi: »županijski, odnosno gradski ured« u određenom broju i padežu zamjenjuju se riječima: »nadležni ured« u određenom broju i padežu, a riječ: »narodnost« u određenom broju i padežu zamjenjuje se riječju: »nacionalnost« u određenom broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 34.
+
+Matice vjenčanih u koje su upisani brakovi sklopljeni u diplomatskim misijama ili konzularnim uredima Republike Hrvatske do dana stupanja na snagu ovog Zakona, a iz kojih diplomatske misije ili konzularni uredi ne izdaju isprave, predaju se nadležnom uredu Grada Zagreba.
+
+Uz matice vjenčanih predaju se i temeljni spisi koji se odnose na izvršene upise u te državne matice.
+
+Nadležni ured iz stavka 1. ovoga članka ovlašten je izdavati izvatke i potvrde iz matica vjenčanih koje su preuzete od diplomatskih misija ili konzularnih ureda Republike Hrvatske.
+
+#### Članak 35.
+
+Ministar nadležan za vanjske poslove u roku od šest mjeseci od dana stupanja na snagu ovog Zakona predat će prikupljene matice vjenčanih i temeljne spise koje su vodile diplomatske misije i konzularni uredi Republike Hrvatske u inozemstvu nadležnom uredu Grada Zagreba.
+
+#### Članak 36.
+
+Ministar nadležan za poslove uprave donijet će u roku od šest mjeseci od dana stupanja na snagu ovog Zakona propis o načinu rada u vođenju i čuvanju državnih matica, o pravu uvida u državne matice i načinu izdavanja isprava na temelju državnih matica te će propisati obrazac matice vjenčanih i obrasce isprava i potvrda koji se izdaju na temelju državnih matica.
+
+Ministar nadležan za poslove zdravlja donijet će u roku od šest mjeseci od dana stupanja na snagu ovog Zakona poseban propis o načinu prikupljanja medicinske dokumentacije te utvrđivanju uvjeta i pretpostavki za promjenu spola i života u drugom rodnom identitetu.
+
+#### Članak 37.
+
+Do donošenja propisa iz članka 36. ovog Zakona ostaje na snazi Naputak za provedbu Zakona o državnim maticama i upisu posvojenja u maticu rođenih (»Narodne novine«, br. 26/08.) i Pravilnik o obrascima državnih matica, registru, izvacima i potvrdama koje se izdaju na temelju državnih matica (»Narodne novine«, br. 202/03. i 138/08.).
+
+#### Članak 38.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 223-01/12-01/01  
+Zagreb, 14. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

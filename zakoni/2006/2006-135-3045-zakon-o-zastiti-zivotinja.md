@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-12-13
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "135/06"
-amendments: []
+last_amended: 2013-03-28
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "135/06, 37/13"
+amendments:
+  - "NN 37/2013 (669) Zakon o izmjenama i dopunama Zakona o zaštiti životinja"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3045"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti životinja
 
 > Izvor: Narodne novine, NN 135/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3045).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 37/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -862,3 +866,567 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti životinja (NN 37/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/669*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI ŽIVOTINJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti životinja, koji je Hrvatski sabor donio na sjednici 15. ožujka 2013. godine.
+
+Klasa: 011-01/13-01/43
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 20. ožujka 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI ŽIVOTINJA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti životinja (»Narodne novine«, br. 135/06.) iza članka 1. dodaje se naslov i članak 1.a koji glase:
+
+### »Prijenos propisa Europske unije
+
+#### Članak 1.a
+
+Ovaj Zakon sadrži odredbe za preuzimanje i provedbu sljedećih akata Europske unije:
+
+– Direktive Vijeća 83/129/EEZ od 28. ožujka 1983. o uvozu koža mladunaca određenih vrsta tuljana i proizvoda od njih u države članice (SL L 91, 9. 4. 1983.),
+
+– Uredbe Vijeća (EEZ) br. 3254/91 od 4. studenoga 1991. o zabrani uporabe stupica na području Zajednice i uvođenju na područje Zajednice krzna i proizvoda dobivenih od određenih divljih životinjskih vrsta koje potječu iz zemalja gdje ih love stupicama ili metodama zamki koje ne odgovaraju međunarodnim humanim standardima hvatanja stupicom (SL L 308, 9. 11. 1991.),
+
+– Uredbe Vijeća (EZ) br. 1255/97 od 25. lipnja 1997. o kriterijima Zajednice za odmorišta za životinje i izmjeni plana puta iz Dodatka Direktive 91/628/EEC (SL L 174, 2. 7. 1997.),
+
+– Direktive Vijeća 98/58/EZ od 20. srpnja 1998. o zaštiti životinja koje se uzgajaju u svrhu proizvodnje (SL L 221, 8. 8. 1998.),
+
+– Direktive Vijeća 1999/22 od 29. ožujka 1999. o držanju divljih životinja u zoološkim vrtovima (SL L 94, 9. 4. 1999.),
+
+– Direktive Vijeća 1999/74/EZ od 17. srpnja 1999. kojom se određuju minimalni standardi za zaštitu kokoši nesilica (SL L 203, 3. 8. 1999.),
+
+– Direktive Komisije 2002/4/EZ od 30. siječnja 2002. o registraciji gospodarstava koje drže kokoši nesilice obuhvaćenih Direktivom Vijeća 1999/74/EZ (SL L 30, 31. 1. 2002.),
+
+– Uredbe Vijeća (EZ) br. 1/2005 od 22. prosinca 2004. o zaštiti životinja tijekom prijevoza i s prijevozom povezanih postupaka kojom se mijenjaju Direktive 64/432/EEZ i 93/119/EZ i Uredba (EZ) br. 1255/97 (SL L 3, 5. 1. 2005.),
+
+– Direktive Vijeća 2007/43/EZ od 28. lipnja 2007. o određivanju minimalnih pravila za zaštitu pilića koji se uzgajaju za proizvodnju mesa (SL L 182, 12. 7. 2007.),
+
+– Uredbe (EZ) br. 1523/2007 Europskog parlamenta i Vijeća od 11. prosinca 2007. kojom se zabranjuje stavljanje na tržište, uvoz u Europsku zajednicu ili izvoz iz Europske zajednice krzna mačaka i pasa i proizvoda koji sadrže takvo krzno (SL L 343, 27. 12. 2007.),
+
+– Direktive Vijeća 2008/119/EZ od 18. prosinca 2008. o minimalnim uvjetima za zaštitu teladi (SL L 10, 15. 1. 2009.),
+
+– Direktive Vijeća 2008/120/EZ od 18. prosinca 2008. o minimalnim uvjetima za zaštitu svinja (SL L 47, 18. 2. 2009.),
+
+– Uredbe (EZ) br. 1007/2009 Europskog parlamenta i Vijeća od 16. rujna 2009. o trgovini proizvodima od tuljana (SL L 286, 31. 10. 2009.),
+
+– Uredbe Vijeća (EZ) br. 1099/2009 od 24. rujna 2009. o zaštiti životinja u vrijeme usmrćivanja (SL L 303, 18. 11. 2009.),
+
+– Direktive 2010/63/EU Europskog parlamenta i Vijeća od 22. rujna 2010. o zaštiti životinja koje se koriste za znanstvene svrhe (SL L 276, 20. 10. 2010.) i
+
+– Uredbe Komisije (EU) br. 737/2010 od 10. kolovoza 2010. o utvrđivanju detaljnih pravila za provedbu Uredbe (EZ) br. 1007/2009 Europskoga parlamenta i Vijeća o trgovini proizvodima od tuljana (SL L 216, 17. 8. 2010.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. iza riječi: »kralježnjake« briše se točka i dodaju riječi: »i glavonošce koji se koriste u svrhu znanstvenih istraživanja.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+#### Članak 3.
+
+U članku 3. točki 5. iza riječi: »pripitomio« dodaju riječi: »i udomaćio«.
+
+U točki 7. riječ: »napustila« zamjenjuje se riječima: »odlutala od«, a riječi: »bez njegove volje« brišu se.
+
+U točki 12. iza riječi: »napustio« briše se zarez i dodaju riječi: »kao i ona koju je napustio zbog više sile kao što su bolest, smrt ili gubitak slobode,«.
+
+U točki 13. riječi: »bez prethodnog omamljivanja« zamjenjuju se riječima: »u skladu s pravilima vjerskih obreda«.
+
+Točke 14. i 15. mijenjaju se i glase:
+
+»14. Omamljivanje: svaki namjerno izazvani proces koji dovodi do gubitka svijesti i osjetljivosti bez boli, uključujući svaki proces koji dovodi do trenutačne smrti životinje,
+
+15. Pokusi: postupak upotrebe životinja u pokusne ili druge znanstvene ili obrazovne svrhe koji životinji može prouzročiti bol, patnju, tjeskobu ili trajno oštećenje u jednakoj ili većoj mjeri od uboda igle izvedenog u skladu s dobrom veterinarskom praksom,«.
+
+Iza točke 26. dodaju se točke 27. do 37. koje glase:
+
+»27. Dobavljač: svaka fizička ili pravna osoba, osim uzgajivača, koja nabavlja životinje radi njihova korištenja u pokusima ili u znanstvene ili obrazovne svrhe te za rad na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja,
+
+28. Korisnik: svaka fizička ili pravna osoba koja koristi životinje u pokusima,
+
+29. Načelo 3R: skup načela zamjene korištenja pokusnih životinja metodama koje ne zahtijevaju njihovu upotrebu, upotrebe što manjeg broja pokusnih životinja i poboljšanje uvjeta uzgoja i nabave pokusnih životinja te provođenja pokusa,
+
+30. Laboratorijske životinje: pokusne životinje koje se uzgajaju u svrhu korištenja u pokusima ili u znanstvene ili obrazovne svrhe te za rad na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja,
+
+31. Objekt: svaka instalacija, zgrada, skupina zgrada ili drugi prostori i može uključivati prostor koji nije u potpunosti ograđen ili pokriven te mobilne objekte,
+
+32. Pokusne životinje: životinje koje se upotrebljavaju ili su namijenjene upotrebi u pokusu, zajedno s larvalnim oblicima koji se hrane samostalno i fetalnim oblicima sisavaca od zadnje trećine njihova uobičajenog razvoja te životinje koje su na ranijem stupnju razvoja, ako je životinja ostavljena na životu nakon tog razvojnog stupnja, a vjerojatno je da će uslijed provedenih pokusa osjećati bol, patnju, stres ili trajno oštećenje nakon što je dostigla taj razvojni stupanj. Pokusne životinje su i glavonošci koji se koriste ili su namijenjeni korištenju u pokusima.
+
+33. Projekt: program rada koji ima definirani znanstveni cilj i uključuje jedan ili više pokusa,
+
+34. Sputavanje: primjena bilo koje procedure koja je osmišljena za sputavanje pokreta životinja da bi se poštedjele svake boli koja se može izbjeći, straha ili uznemiravanja kako bi se olakšalo učinkovito omamljivanje ili usmrćivanje,
+
+35. Uzgajivač laboratorijskih životinja (u daljnjem tekstu: uzgajivač): svaka fizička ili pravna osoba koja uzgaja, odnosno drži životinje radi njihova korištenja u pokusima ili za upotrebu njihovih tkiva ili organa u znanstvene ili obrazovne svrhe, ili prvenstveno u tu svrhu uzgaja druge životinje,
+
+36. Vjerski obred: niz postupaka koji se odnose na klanje životinja, a određeni su vjerom,
+
+37. Primati koji ne uključuju čovjeka: vrsta životinja koja uključuje čovjekolike majmune, majmune Starog svijeta i majmune Novog svijeta.«.
+
+#### Članak 4.
+
+U članku 4. stavku 2. točki 8. riječi: »na tvrdim podlogama« brišu se.
+
+U točki 18. iza riječi: »zamke« dodaju se riječi: »i nedopuštene stupice«.
+
+Iza točke 23. dodaju se točke 24. do 27. koje glase:
+
+»24. stavljati na tržište, uvoziti i izvoziti krzno pasa ili mačaka te proizvode koji sadrže krzno pasa ili mačaka,
+
+25. uvoziti kože i proizvode od kože mladunaca određenih vrsta tuljana u komercijalne svrhe,
+
+26. stavljati u promet proizvode od tuljana suprotno utvrđenim pravilima,
+
+27. uvoditi krzna i proizvode dobivene od određenih divljih životinjskih vrsta koje potječu iz divljine ulovljenih stupicama.«.
+
+Iza stavka 4. dodaju se stavci 5. do 8. koji glase:
+
+»(5) Detaljnija pravila o zabrani stavljanja na tržište, uvoza i izvoza krzna pasa ili mačaka te proizvoda koji sadrže krzno pasa ili mačaka propisuje ministar pravilnikom.
+
+(6) Detaljnija pravila o zabrani uvoza koža i proizvoda od koža mladunaca određenih vrsta tuljana u komercijalne svrhe propisuje ministar pravilnikom.
+
+(7) Detaljnija pravila o zabrani stavljanja na tržište proizvoda od tuljana propisuje ministar pravilnikom.
+
+(8) Detaljnija pravila o zabrani korištenja stupica i uvođenja krzna i proizvoda dobivenih od određenih divljih životinjskih vrsta koje potječu iz divljine ulovljenih stupicama propisuje ministar pravilnikom.«.
+
+#### Članak 5.
+
+U članku 9. stavku 3. iza točke 9. dodaju se točke 10. do 14. koje glase:
+
+»10. je potrebno u svrhu provođenja pokusa ili obrazovanja na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja,
+
+11. se provodi u svrhu odstranjivanja suviška jednodnevnih pilića i embrija u jajima,
+
+12. se takav postupak provodi u svrhu dobivanja proizvoda od životinja koje se uzgajaju i drže u svrhu proizvodnje,
+
+13. životinja trpi jaku i neotklonjivu bol,
+
+14. je razlog dobrobit životinje.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) U slučajevima iz stavka 3. točaka 1. i 2. ovoga članka o usmrćivanju odlučuje posjednik životinje na temelju mišljenja veterinara, a u slučajevima iz točaka 3. do 14. stavka 3. ovog članka veterinar, osim u slučajevima iz točaka 8., 11., 12. i 13. istoga stavka kada odlučuje posjednik životinje.«.
+
+U stavku 5. točki 2. iza riječi: »svrhu« dodaje se riječ: »provođenja«, a iza riječi: »pokusa« dodaju se riječi: »i obrazovanja«.
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. usmrćivanja životinja za korištenje njihovih organa, tkiva i trupova u svrhu provođenja pokusa ili obrazovanja,«.
+
+Dosadašnje točke 3. i 4. postaju točke 4. i 5.
+
+#### Članak 6.
+
+U članku 19. stavku 5. riječ: »posebno« briše se.
+
+#### Članak 7.
+
+Naslov iznad članka 20. mijenja se i glasi: »3. Zaštita životinja koje se koriste u znanstvene svrhe«
+
+Članak 20. mijenja se i glasi:
+
+»(1) Uzgajivači, dobavljači i korisnici moraju prije započinjanja obavljanja djelatnosti uzgoja, nabave i korištenja pokusnih životinja nadležnom tijelu podnijeti zahtjev za izdavanje rješenja o odobrenju uzgajivača, dobavljača ili korisnika.
+
+(2) Nadležno tijelo donosi rješenje o odobrenju ako uzgajivač, dobavljač ili korisnik udovoljava propisanim uvjetima za prostore, objekte, opremu, naprave, osposobljenost osoblja, osiguranje veterinarsko-zdravstvene zaštite i njege životinja, uklanjanje nusproizvoda životinjskog podrijetla koji nisu za prehranu ljudi te ako osigura stručnu osobu za dobrobit pokusnih životinja.
+
+(3) Uzgajivači, dobavljači i korisnici moraju osigurati odgovarajući smještaj i njegu pokusnih životinja, propisano označavanje i identifikaciju pokusnih životinja, vođenje propisanih evidencija i izvješćivanje nadležnog tijela.
+
+(4) Uzgajivači, dobavljači i korisnici moraju osnovati povjerenstvo za dobrobit životinja čija zadaća je savjetovati osoblje u vezi s dobrobiti životinja, nabavom i korištenjem životinja te provođenjem načela 3R. Savjeti, mišljenja i odluke moraju se voditi u pisanom obliku i čuvati najmanje tri godine.
+
+(5) Uzgajivači, dobavljači i korisnici moraju u povjerenstvo za dobrobit životinja imenovati veterinara ili osobu odgovornu za dobrobit životinja, a korisnici moraju imenovati i znanstvenog člana.
+
+(6) Za svaku značajniju promjenu strukture ili funkcije objekta koja može negativno utjecati na dobrobit životinja, uzgajivač, dobavljač ili korisnik mora podnijeti zahtjev nadležnom tijelu za donošenje rješenja kojim se odobrava takva promjena.
+
+(7) Ako se tijekom provođenja inspekcijskog nadzora i službene kontrole (u daljnjem tekstu: inspekcijski nadzor) utvrdi da uzgajivač, dobavljač ili korisnik više ne udovoljava propisanim uvjetima, veterinarski inspektor će odrediti mjere i rok za uklanjanje nepravilnosti u skladu s člankom 64. ovoga Zakona. Ako utvrđene nepravilnosti ugrožavaju dobrobit životinja veterinarski inspektor će uzgajivaču, dobavljaču ili korisniku zabraniti rad do uklanjanja nepravilnosti.
+
+(8) Ako uzgajivač, dobavljač ili korisnik u određenom roku ne ukloni utvrđene nepravilnosti iz stavka 7. ovoga članka, nadležno tijelo će ukinuti rješenje iz stavka 2. ovoga članka.
+
+(9) Za vrijeme trajanja zabrane obavljanja djelatnosti i nakon ukidanja rješenja iz stavka 8. ovoga članka, uzgajivač, dobavljač ili korisnik mora na vlastiti trošak osigurati dobrobit životinja.
+
+(10) Oblik i sadržaj zahtjeva te detaljnije odredbe o postupku izdavanja i ukidanja rješenja iz stavaka 2. i 6. ovoga članka, učestalost i opseg inspekcijskih nadzora te čuvanje rezultata inspekcijskih nadzora, propisuje ministar pravilnikom.«.
+
+#### Članak 8.
+
+Naslov iznad članka 21. briše se.
+
+Članak 21. mijenja se i glasi:
+
+»(1) Pokus može provoditi samo korisnik koji je odobren sukladno članku 20. ovoga Zakona i čiji je projekt odobren od nadležnog tijela.
+
+(2) Prije provođenja pokusa korisnik mora nadležnom tijelu dostaviti zahtjev za odobrenje projekta.
+
+(3) Uz zahtjev iz stavka 2. ovoga članka korisnik mora priložiti mišljenje povjerenstva za dobrobit životinja iz članka 20. stavka 4. ovoga Zakona.
+
+(4) Rješenje o odobrenju projekta donosi nadležno tijelo na temelju prethodne procjene projekta i mišljenja Etičkog povjerenstva iz članka 34. ovoga Zakona.
+
+(5) Nadležno tijelo izdaje rješenje o odobrenju projekta u roku od 40 radnih dana od dana zaprimanja urednog zahtjeva. Kad je to opravdano zbog složenosti i višedisciplinarne naravi projekta, rok se može produžiti za dodatnih 15 radnih dana, o čemu nadležno tijelo prethodno obavještava podnositelja zahtjeva.
+
+(6) Rješenjem o odobrenju projekta moraju se utvrditi sljedeći podaci: ime i prezime, odnosno naziv i sjedište korisnika, ime i prezime osobe odgovorne za provođenje projekta i njegovu usklađenost s odobrenjem projekta, ime i prezime voditelja pokusa, mjesto provođenja projekta, posebni uvjeti pod kojima je dopušteno provoditi pokus te da li je potrebno provesti retroaktivnu procjenu projekta, i ako jest, kada.
+
+(7) Odobrenje projekta se izdaje na ograničeno razdoblje s obzirom na svrhu projekta, i to najdulje za pet godina.
+
+(8) Za višestruke generičke projekte koje provodi isti korisnik i koji se provode za ispunjavanje zahtjeva određenih posebnim propisima, proizvodnju bioloških pripravaka ili u dijagnostičke svrhe prema utvrđenim metodama izdaje se jedno odobrenje projekta.
+
+(9) Retroaktivnu procjenu projekta provodi nadležno tijelo na temelju dokumentacije korisnika i mišljenja Etičkog povjerenstva.
+
+(10) Oblik i sadržaj zahtjeva iz stavka 2. ovoga članka, osnovne odrednice koje mora sadržavati mišljenje povjerenstva za dobrobit životinja iz stavka 3. ovoga članka, postupak procjene i retroaktivne procjene projekta te detaljnije odredbe o postupku izdavanja rješenja iz stavka 4. ovoga članka, sadržaj dokumentacije iz stavka 9. ovoga članka, propisuje ministar pravilnikom.«.
+
+#### Članak 9.
+
+Naslov iznad članka 22. briše se.
+
+Članak 22. mijenja se i glasi:
+
+»(1) Korisnik mora:
+
+1. pokuse provoditi u skladu s rješenjem o odobrenju projekta,
+
+2. osigurati da se pokusne životinje nakon završetka pokusa liječe ili usmrte ako je to potrebno zbog dobrobiti životinja,
+
+3. spriječiti uginuće pokusne životinje kao konačni rezultat pokusa ako je moguće i zamijeniti ga prijevremenim usmrćivanjem pokusne životinje,
+
+4. osigurati da se pokusna životinja koja je već bila korištena u jednom ili u više pokusa koristi u novom pokusu samo uz poštivanje propisanih uvjeta, a osobito vezano za težinu prethodnih pokusa i novoga pokusa te zdravstveno stanje pokusne životinje,
+
+5. dostaviti nadležnom tijelu godišnje izvješće o provedenim pokusima,
+
+6. čuvati dokumentaciju o pokusima najmanje pet godina.
+
+(2) Korisnik mora podnijeti nadležnom tijelu zahtjev za odobrenje svake promjene projekta koja može negativno djelovati na dobrobit životinja o kojem nadležno tijelo donosi rješenje.
+
+(3) Nadležno tijelo rješenjem ukida rješenje o odobrenju projekta ako korisnik provodi projekt u suprotnosti s odobrenjem i time ugrožava dobrobit životinja ili ako postupa u suprotnosti s člankom 24. ovoga Zakona. Ako utvrđene nepravilnosti ne ugrožavaju dobrobit životinja, veterinarski inspektor će korisniku odrediti mjere i rok za njihovo uklanjanje u skladu s člankom 64. ovoga Zakona. Ako korisnik u određenom roku ne otkloni utvrđene nepravilnosti, nadležno tijelo ukinut će mu rješenje o odobrenju za projekt.
+
+(4) Korisnik može ponovo podnijeti zahtjev za odobrenje projekta tek po isteku tri mjeseca od izvršnosti rješenja o ukidanju odobrenja projekta.«.
+
+#### Članak 10.
+
+Naslov iznad članka 23. briše se.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Pokusi se mogu provoditi u svrhu:
+
+1. temeljnih istraživanja,
+
+2. translacijskih ili primijenjenih istraživanja s bilo kojom od sljedećih namjena:
+
+– zaštita, prevencija, dijagnosticiranje ili liječenje bolesti, lošeg zdravstvenog stanja ili drugih nepravilnosti ili njihovih učinaka kod ljudi, životinja ili biljaka,
+
+– ocjena, otkrivanje, reguliranje ili promjena fizioloških stanja kod ljudi, životinja ili biljaka ili
+
+– dobrobit životinja i poboljšanje proizvodnih uvjeta za životinje koje se uzgajaju i drže za poljoprivredne potrebe,
+
+3. bilo koje namjene iz točke 2. ovoga stavka pri razvoju, proizvodnji ili ispitivanju kvalitete, učinkovitosti i sigurnosti lijekova, prehrambenih proizvoda i hrane za životinje te drugih tvari ili proizvoda,
+
+4. zaštite prirodnog okoliša radi zaštite zdravlja ili dobrobiti ljudi ili životinja,
+
+5. istraživanja usmjerenih na zaštitu vrsta,
+
+6. visokoškolskog obrazovanja ili izobrazbe za stjecanje, održavanje ili unapređivanje strukovnih vještina,
+
+7. forenzičkih ispitivanja.
+
+(2) Nadležno tijelo potiče razvoj alternativnih pristupa u svrhu osiguranja podataka metodama koje ne uključuju korištenje životinja u pokusima ili koriste manji broj životinja ili koji uključuju manje bolne postupke.
+
+(3) Korisnik mora pri planiranju projekata u obzir uzeti podatke država članica Europske unije prikupljene u pokusima koji su provedeni u skladu s propisima Europske unije. Iznimno, nadležno tijelo može odobriti udvostručavanje pokusa samo ako je to potrebno za zaštitu javnog zdravlja, sigurnosti ili okoliša.
+
+(4) Pokusima se ne smatraju: neeksperimentalna poljoprivredna praksa, neeksperimentalna klinička veterinarska praksa, veterinarska klinička ispitivanja nužna za izdavanje odobrenja za stavljanje veterinarsko-medicinskih proizvoda u promet, praksa koja se provodi u svrhu priznatog uzgoja životinja i praksa koja se provodi prvenstveno za potrebe identifikacije životinja.«.
+
+#### Članak 11.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Pokus se mora provoditi pod sljedećim uvjetima:
+
+1. u okviru odobrenog projekta,
+
+2. u prostorima korisnika, osim ako nadležno tijelo iznimno dozvoli odstupanje na temelju znanstvenih dokaza i spoznaja,
+
+3. na životinjama u općoj ili lokalnoj anesteziji, osim ako je to neprihvatljivo s obzirom na svrhu pokusa te uz korištenje analgezije ili druge primjerene metode kojom će se patnja i tjeskoba životinja svesti na najmanju moguću mjeru,
+
+4. na laboratorijskim životinjama koje su uzgojene za korištenje u pokusima, osim ako nadležno tijelo iznimno dozvoli odstupanje na temelju znanstvenih dokaza i spoznaja,
+
+5. u skladu s načelom 3R,
+
+6. za skrb o pokusnim životinjama i usmrćivanje pokusnih životinja na mjestu provođenja pokusa mora biti osigurano odgovarajuće obrazovano i osposobljeno osoblje,
+
+7. za učinkovito i nesmetano provođenje pokusa moraju biti osigurane odgovarajuće naprave i oprema.
+
+(2) Pokus nije dopušten:
+
+1. ako su životinje tijekom pokusa izložene dugotrajnoj patnji i tjeskobi koju nije moguće olakšati,
+
+2. ako se u Europskoj uniji priznaje druga metoda ili pokusna strategija za postizanje željenog rezultata koja ne uključuje korištenje živih životinja,
+
+3. za isprobavanja oružja, streljiva ili pripadajućeg pribora, ratne opreme kao i općih učinaka radijacije,
+
+4. za istraživanja ili razvoj duhanskih proizvoda i kemijskih sredstava za pranje i dezinfekciju predmeta opće uporabe,
+
+5. za istraživanja ili razvoj sastojaka, kombinacija sastojaka i gotovih kozmetičkih proizvoda,
+
+6. za istraživanja učinka alkohola i droga, osim u slučaju kad ne postoje druge znanstvene metode kojima se zamjenjuje korištenje životinja,
+
+7. bez anestezije ako se koriste sredstva za paralizu mišića.
+
+(3) Zabranjeno je provođenje pokusa na ugroženim životinjskim vrstama, na primatima koji ne uključuju čovjeka, na životinjama koje su uzete iz prirodnog okoliša i na napuštenim životinjama, osim ako nadležno tijelo iznimno dozvoli provođenje pokusa na temelju znanstvenih dokaza i spoznaja, u skladu s uvjetima propisanim ovim Zakonom.«.
+
+#### Članak 12.
+
+Naslov iznad članka 25. briše se.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Pravna ili fizička osoba ne može u znanstvene ili obrazovne svrhe koristiti izolirane organe, tkiva i trupove životinja koji su u tu svrhu usmrćeni bez rješenja nadležnog tijela kojim se odobrava njihov rad na izoliranim organima, tkivima i trupovima životinja u znanstvene ili obrazovne svrhe.
+
+(2) Nadležno tijelo donosi rješenje o odobrenju ako pravna ili fizička osoba iz stavka 1. ovoga članka udovoljava propisanim uvjetima za prostore, opremu i tehnička pomoćna sredstva, izobrazbu i osposobljenost osoblja te uklanjanje nusproizvoda životinjskog podrijetla koji nisu za prehranu ljudi.
+
+(3) Korisnik iz članka 20. stavka 1. ovoga Zakona smatra se odobrenim i za rad na izoliranim organima, tkivima i trupovima životinja u znanstvene ili obrazovne svrhe.
+
+(4) Pravna ili fizička osoba iz stavka 1. ovoga članka mora osigurati odgovarajući smještaj i njegu pokusnih životinja, propisano označavanje i identifikaciju pokusnih životinja te vođenje propisanih evidencija.
+
+(5) Za potrebe postupaka iz ovoga članka mogu se koristiti samo laboratorijske životinje. Iznimno, nadležno tijelo može na zahtjev pravne ili fizičke osobe iz stavka 1. ovoga članka, a na temelju znanstvenih podataka i mišljenja Etičkog povjerenstva iz članka 34. ovoga Zakona, odobriti korištenje i drugih vrsta životinja.
+
+(6) Ne dovodeći u pitanje odredbu stavka 5. ovoga članka, upotreba životinja strogo zaštićenih i ugroženih vrsta uzetih iz prirode za rad na izoliranim tkivima, organima i trupovima u tu svrhu usmrćenih životinja nije dopuštena.
+
+(7) Ako se tijekom provođenja inspekcijskog nadzora utvrdi da pravna ili fizička osoba iz stavka 1. ovoga članka više ne ispunjava uvjete iz stavka 2. ovoga članka, ili ako životinje ne usmrćuje na propisan način, veterinarski inspektor će odrediti mjere i rok za uklanjanje nepravilnosti u skladu s člankom 64. ovoga Zakona. Ako utvrđene nepravilnosti ugrožavaju dobrobit životinja, veterinarski inspektor će pravnoj ili fizičkoj osobi iz stavka 1. ovoga članka zabraniti rad na izoliranim organima, tkivima i trupovima životinja do uklanjanja utvrđenih nepravilnosti.
+
+(8) Ako pravna ili fizička osoba iz stavka 1. ovoga članka u određenom roku ne otkloni utvrđene nepravilnosti iz stavka 7. ovoga članka ili ako postupa suprotno odredbi stavaka 5. ili 6. ovoga članka, nadležno tijelo će rješenjem ukinuti odobrenje iz stavka 1. ovoga članka.«.
+
+#### Članak 13.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Na pravnu ili fizičku osobu koja uzgaja, nabavlja ili koristi životinje za proizvodnju bioloških pripravaka na odgovarajući način se primjenjuju odredbe članaka 20. do 24. ovoga Zakona.
+
+(2) Prije početka korištenja životinja za proizvodnju bioloških pripravaka pravna ili fizička osoba mora podnijeti zahtjev nadležnom tijelu za izdavanje rješenja o odobrenju korištenja životinja za proizvodnju bioloških pripravaka.
+
+(3) Nadležno tijelo donosi rješenje o odobrenju korištenja životinja za proizvodnju bioloških pripravaka na temelju prethodne procjene projekta i mišljenja Etičkog povjerenstva iz članka 34. ovoga Zakona.
+
+(4) Nadležno tijelo može ukinuti rješenje iz stavka 3. ovoga članka pod uvjetima propisanim člankom 22. stavkom 3. ovoga Zakona.«.
+
+#### Članak 14.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Nadležno tijelo vodi upisnik odobrenih uzgajivača, dobavljača i korisnika, pravnih ili fizičkih osoba odobrenih za rad na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja te pravnih ili fizičkih osoba odobrenih za korištenje životinja za proizvodnju bioloških pripravaka.
+
+(2) Pravna ili fizička osoba briše se iz upisnika iz stavka 1. ovoga članka rješenjem nadležnog tijela u sljedećim slučajevima:
+
+1. podnošenja zahtjeva za brisanjem iz upisnika,
+
+2. ukidanja rješenja o odobrenju uzgajivača, dobavljača ili korisnika,
+
+3. ukidanja rješenja o odobrenju za rad na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja,
+
+4. ukidanja rješenja o odobrenju korištenja životinja za proizvodnju bioloških pripravaka.
+
+(3) Sadržaj, oblik i način vođenja upisnika iz stavka 1. ovoga članka propisuje ministar pravilnikom.«.
+
+#### Članak 15.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Nadležno tijelo na temelju zaprimljenih zahtjeva za odobrenje projekata i godišnjih izvješća korisnika vodi statističku evidenciju.
+
+(2) Skupni statistički podaci o broju i vrstama upotrijebljenih životinja te vrsti pokusa su javni.
+
+(3) Nadležno tijelo na mrežnim stranicama objavljuje netehničke sažetke provedenih projekata uzimajući u obzir zaštitu intelektualnog vlasništva i tajnost podataka.«.
+
+#### Članak 16.
+
+U članku 31. stavak 2. mijenja se i glasi:
+
+»(2) Zapisnike iz stavka 1. ovoga članka moraju potpisati osobe iz članaka 28. i 32. stavaka 1. do 4. ovoga Zakona.«.
+
+#### Članak 17.
+
+Članak 32. mijenja se i glasi:
+
+»(1) Pokuse i postupke pri proizvodnji bioloških pripravaka mogu provoditi veterinari, liječnici, farmaceuti, medicinski biokemičari, stomatolozi, agronomi stočari, biotehnolozi ili biolozi, ako imaju položen ispit za rad sa životinjama.
+
+(2) Kirurške zahvate na životinjama tijekom pokusa i pri proizvodnji bioloških pripravaka mogu provoditi veterinari, ako imaju položen ispit iz stavka 1. ovoga članka.
+
+(3) Iznimno od stavka 2. ovoga članka, kirurške zahvate tijekom pokusa mogu provoditi i liječnici, farmaceuti, medicinski biokemičari, stomatolozi, agronomi stočari, biotehnolozi ili biolozi i to na laboratorijskim životinjama: mišu, štakoru, zamorcu, zlatnom hrčku, kineskom hrčku, mongolskom skakaču, žabi i zebrici, ako imaju položen ispit iz stavka 1. ovoga članka.
+
+(4) U slučaju kada kirurški zahvat iz stavka 3. ovoga članka ne provodi veterinar, odgovorna osoba za zaštitu životinja mora biti veterinar.
+
+(5) Program ispita iz stavka 1. ovoga članka propisuje ministar pravilnikom.«.
+
+#### Članak 18.
+
+Iza članka 32. dodaje se članak 32.a koji glasi:
+
+»Članak 32.a
+
+Uvjete za prostore, objekte, opremu, naprave, osposobljenost osoblja, osiguranje veterinarsko-zdravstvene zaštite i njegu životinja, uklanjanje nusproizvoda životinjskog podrijetla koji nisu za prehranu ljudi, dobrobit pokusnih životinja, način uzgoja, držanja, nabave i korištenja pokusnih životinja, popis laboratorijskih životinja, način postupanja sa životinjama prilikom primjene anestezije, obvezu i kriterije razvrstavanja pokusa s obzirom na njihovu težinu, način usmrćivanja životinja, oblik, sadržaj i način vođenja propisanih evidencija, sadržaj i vrijeme čuvanja dokumentacije o pokusima, način izvješćivanja nadležnog tijela, propisuje ministar pravilnikom.«.
+
+#### Članak 19.
+
+Naslov iznad članka 33. briše se.
+
+Članak 33. mijenja se i glasi:
+
+»(1) Osoblje pravnih ili fizičkih osoba iz članka 20. stavka 1., članka 25. stavka 1. i članka 26. stavka 1. ovoga Zakona mora biti, u skladu s poslovima koje obavlja, osposobljeno za provođenje pokusa na životinjama, oblikovanje pokusa i projekata, skrb o životinjama i usmrćivanje životinja.
+
+(2) Osposobljavanje iz stavka 1. ovoga članka provodi se po programu kojega propisuje ministar pravilnikom.«.
+
+#### Članak 20.
+
+U članku 34. stavak 3. mijenja se i glasi:
+
+»(3) Etičko povjerenstvo:
+
+1. daje mišljenje iz članka 21. stavka 4. i članka 26. stavka 3. ovoga Zakona s obzirom na opravdanost i opseg predloženog projekta,
+
+2. daje mišljenje o retroaktivnoj procjeni projekta iz članka 21. stavka 9. ovoga Zakona,
+
+3. daje mišljenje iz članka 25. stavka 5. ovoga Zakona s obzirom na znanstvenu opravdanost odstupanja od korištenja laboratorijskih životinja za rad na izoliranim organima, tkivima i trupovima životinjama,
+
+4. daje mišljenje o pitanjima nabave, uzgoja, držanja, skrbi i korištenja životinja u pokusima za koje je izdano rješenje o odobrenju projekta te osiguranje razmjene najboljih praksi,
+
+5. razmjenjuje podatke o radu povjerenstava za dobrobit životinja iz članka 20. stavka 4. ovoga Zakona i procjenama projekta te dobrih praksi u vezi s pokusima unutar Europske unije,
+
+6. izrađuje godišnje izvješće o svome radu koje dostavlja ministru do kraja ožujka tekuće godine za proteklu godinu.«.
+
+Iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+
+»(4) Troškove izrade mišljenja iz stavka 3. točaka 1., 2. i 3. ovoga članka snosi podnositelj zahtjeva.
+
+(5) Članovi Etičkog povjerenstva imaju pravo na naknadu za rad u povjerenstvu čiju visinu utvrđuje ministar u skladu s odlukom Vlade Republike Hrvatske.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+#### Članak 21.
+
+U članku 35. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Povjerenstvo za zaštitu životinja sastoji se od dva odbora:
+
+– Odbor za zaštitu farmskih životinja
+
+– Odbor za zaštitu kućnih ljubimaca i drugih životinja, osim pokusnih i farmskih životinja.«.
+
+Dosadašnji stavci 2. do 4. postaju stavci 3. do 5.
+
+#### Članak 22.
+
+U članku 58. stavku 4. riječ: »nadležna« zamjenjuje se riječju: »predstavnička«, a iza riječi: »gradova« dodaju se riječi: »u skladu s općim aktima«.
+
+#### Članak 23.
+
+U članku 60. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Nadzor nad provedbom općih akata iz članka 58. stavka 4. ovoga Zakona provodi komunalno redarstvo, odnosno upravno tijelo jedinice lokalne samouprave nadležno za komunalno gospodarstvo, osim ako je zakonom ili posebnim propisima određeno postupanje veterinarskog odnosno stočarskog inspektora.«.
+
+#### Članak 24.
+
+Iza članka 65. dodaje se članak 65.a koji glasi:
+
+»Članak 65.a
+
+Protiv rješenja nadležnog tijela donesenog na temelju ovoga Zakona nije dopuštena žalba, već se može pokrenuti upravni spor.«.
+
+#### Članak 25.
+
+U članku 66. stavku 1. točke 24., 25., 26., 27., 28. i 31. mijenjaju se i glase:
+
+»24. postupa protivno odredbi članka 20. stavka 1. ovoga Zakona,
+
+25. postupa protivno odredbi članka 20. stavka 3. ovoga Zakona,
+
+26. postupa protivno odredbi članka 20. stavaka 4. i 5. ovoga Zakona,
+
+27. postupa protivno odredbi članka 20. stavka 9. ovoga Zakona,
+
+28. provodi pokuse bez rješenja o odobrenju projekta iz članka 21. stavka 1. ovoga Zakona,
+
+31. postupa protivno odredbi članka 22. stavaka 1. i 2. ovoga Zakona,«.
+
+Iza točke 31. dodaju se točke 32. do 41. koje glase:
+
+»32. postupa protivno odredbi članka 4. stavka 2. točke 24. ovoga Zakona,
+
+33. postupa protivno odredbi članka 4. stavka 2. točke 25. ovoga Zakona,
+
+34. postupa protivno odredbi članka 4. stavka 2. točke 26. ovoga Zakona,
+
+35. postupa protivno odredbi članka 4. stavka 2. točke 27. ovoga Zakona,
+
+36. pokuse provodi protivno odredbi članka 24. ovoga Zakona,
+
+37. radi na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja bez odobrenja nadležnog tijela iz članka 25. stavka 1. ovoga Zakona,
+
+38. za rad na izoliranim organima, tkivima i trupovima u tu svrhu usmrćenih životinja upotrijebi druge životinjske vrste bez odobrenja nadležnog tijela iz članka 25. stavka 5. ovoga Zakona,
+
+39. postupa protivno odredbi članka 25. stavka 6. ovoga Zakona,
+
+40. postupa protivno odredbi članka 26. stavka 2. ovoga Zakona,
+
+41. osoblje iz članka 20. stavka 1., članka 25. stavka 1. i članka 26. stavka 1. ovoga Zakona nije osposobljeno u skladu s člankom 33. ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 67. stavku 1. točke 26. do 31. mijenjaju se i glase:
+
+»26. obavlja djelatnost protivno uvjetima propisanim odredbom članka 4. stavka 5. ovoga Zakona,
+
+27. obavlja djelatnost protivno uvjetima propisanim odredbom članka 4. stavka 6. ovoga Zakona,
+
+28. obavlja djelatnost protivno uvjetima propisanim odredbom članka 4. stavka 7. ovoga Zakona,
+
+29. koristi stupice i obavlja djelatnost protivno uvjetima propisanim odredbom članka 4. stavka 8. ovoga Zakona,
+
+30. postupa protivno odredbi članka 20. stavka 6. ovoga Zakona,
+
+31. postupa protivno odredbama propisa iz članka 32.a ovoga Zakona,«.
+
+U točki 59. riječi: »te ne udovoljava uvjetima propisanim člankom 58. stavkom 4.« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 27.
+
+U cijelom tekstu Zakona o zaštiti životinja (»Narodne novine«, br. 135/06.) riječi: »Ministarstvo poljoprivrede, šumarstva i vodnoga gospodarstva« zamjenjuju se riječima: »ministarstvo nadležno za poslove poljoprivrede« u odgovarajućem padežu, riječi: »ministar poljoprivrede, šumarstva i vodnoga gospodarstva« zamjenjuju se riječima: »ministar nadležan za poslove poljoprivrede« u odgovarajućem padežu, a riječi: »Uprava za veterinarstvo« zamjenjuju se riječima: »uprava nadležna za poslove veterinarstva« u odgovarajućem padežu.
+
+#### Članak 28.
+
+Postupci započeti prije stupanja na snagu ovoga Zakona dovršit će se u skladu s odredbama Zakona o zaštiti životinja (»Narodne novine«, br. 135/06.).
+
+#### Članak 29.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/27
+
+Zagreb, 15. ožujka 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

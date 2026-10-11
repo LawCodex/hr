@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-10-19
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "107/07"
-amendments: []
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "107/07, 144/12, 14/14"
+amendments:
+  - "NN 144/2012 (3084) Zakon o izmjenama i dopunama Zakona o posredovanju u prometu nekretnina"
+  - "NN 14/2014 (289) Zakon o izmjenama Zakona o posredovanju u prometu nekretnina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3128"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o posredovanju u prometu nekretnina
 
 > Izvor: Narodne novine, NN 107/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3128).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 144/2012, NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -367,3 +372,241 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o posredovanju u prometu nekretnina (NN 144/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3084*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POSREDOVANJU U PROMETU NEKRETNINA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o posredovanju u prometu nekretnina, koji je Hrvatski sabor donio na sjednici 14. prosinca 2012. godine.
+
+Klasa: 011-01/12-01/191
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 19. prosinca 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POSREDOVANJU U PROMETU NEKRETNINA**
+
+### Članak 1.
+
+U Zakonu o posredovanju u prometu nekretnina (»Narodne novine«, br. 107/07.) u članku 2. točka 1. mijenja se i glasi:
+
+»1. Posrednik u prometu nekretnina je trgovačko društvo, trgovac pojedinac ili obrtnik, registriran za obavljanje djelatnosti posredovanja u prometu nekretnina koji ima sjedište na teritoriju Republike Hrvatske. Posrednik u prometu nekretnina je i trgovačko društvo, trgovac pojedinac ili obrtnik, registriran za obavljanje djelatnosti posredovanja u prometu nekretnina koji ima sjedište na teritoriju države ugovornice Ugovora o Europskom gospodarskom prostoru.«.
+
+### Članak 2.
+
+Iza članka 2. dodaje se članak 2.a koji glasi:
+
+»Članak 2.a
+
+Odredbe ovoga Zakona u skladu su s Direktivom 2006/123/EZ o uslugama na unutarnjem tržištu.«.
+
+### Članak 3.
+
+Članak 3. briše se.
+
+### Članak 4.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Posredovanjem u prometu nekretnina (u daljnjem tekstu: posredovanje) mogu se uz naknadu baviti samo posrednici iz članka 2. točke 1. ovoga Zakona koji ispunjavaju uvjete sukladno odredbama ovoga Zakona, ako imaju sjedište na teritoriju Republike Hrvatske.
+
+(2) Posredovanjem se mogu baviti i posrednici iz članka 2. točke 1. ovoga Zakona koji ispunjavaju uvjete sukladno propisima države u kojoj imaju poslovni nastan.
+
+(3) Posrednik iz stavka 2. ovoga članka nije dužan ispunjavati uvjete za obavljanje posredovanja u prometu nekretnina sukladno odredbama ovoga Zakona.
+
+(4) Posrednik iz stavka 2. ovoga članka će dostaviti prethodnu pisanu izjavu o namjeri obavljanja djelatnosti posredovanja u prometu nekretnina Hrvatskoj gospodarskoj komori pri kojoj se vodi Registar posrednika u prometu nekretnina.
+
+(5) Izjava iz stavka 4. ovoga članka sadrži sve bitne informacije o pružatelju djelatnosti posredovanja u prometu nekretnina te služi u svrhu informiranja i jednake dostupnosti svih subjekata koji obavljaju djelatnost posredovanja u prometu nekretnina na teritoriju Republike Hrvatske.
+
+(6) Izjava iz stavka 4. ovoga članka može se dostaviti i elektroničkim putem jedinstvenoj kontaktnoj točki za usluge koja je uspostavljena pri Hrvatskoj gospodarskoj komori.«.
+
+### Članak 5.
+
+U članku 5. stavku 3. riječ: »ekonomskog« zamjenjuje se riječju: »gospodarskog«.
+
+### Članak 6.
+
+U članku 6. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Posrednik koji je ispunio uvjete iz stavka 1. ovoga članka za obavljanje posredovanja u prometu nekretnina, dužan je jednom godišnje Hrvatskoj gospodarskoj komori dostaviti dokumentaciju iz koje proizlazi da nisu prestali postojati zakonski uvjeti za obavljanje djelatnosti posredovanja u prometu nekretnina (temeljni akt društva, društveni ugovor ili statut, odnosno obrtnica, ugovor o radu s ovlaštenim agentom te ugovor o osiguranju s ovlaštenim osiguravajućim društvom za slučaj odgovornosti za štetu nastalu obavljanjem djelatnosti posrednika).«.
+
+### Članak 7.
+
+U članku 8. stavak 4. mijenja se i glasi:
+
+»(4) Protiv rješenja iz stavka 1. ovoga članka žalba je isključena.«.
+
+### Članak 8.
+
+U članku 12. stavak 6. mijenja se i glasi:
+
+»(6) Protiv rješenja iz stavka 2. ovoga članka žalba je isključena.«.
+
+### Članak 9.
+
+U članku 13. stavak 2. mijenja se i glasi:
+
+»(2) Protiv rješenja iz stavka 1. ovoga članka žalba je isključena.«.
+
+### Članak 10.
+
+U članku 16. stavak 2. mijenja se i glasi:
+
+»(2) Ako je za vrijeme trajanja ugovora o isključivome posredovanju nalogodavac sklopio mimo posrednika pravni posao preko drugog posrednika, a za koji je isključivom posredniku bio dan nalog za posredovanje, dužan je isključivom posredniku platiti ugovorenu posredničku naknadu kao i moguće dodatne stvarne troškove učinjene tijekom posredovanja za navedeni posredovani posao.«.
+
+### Članak 11.
+
+U članku 17. stavak 3. mijenja se i glasi:
+
+»(3) Ako u roku do 12 mjeseci nakon prestanka ugovora o posredovanju nalogodavac sklopi pravni posao koji je posljedica posrednikova djelovanja prije prestanka ugovora o posredovanju, dužan je posredniku platiti posredničku naknadu u cijelosti, osim ako ugovorom nije drukčije ugovoreno.«.
+
+### Članak 12.
+
+U članku 18. stavak 4. mijenja se i glasi:
+
+»(4) Posrednik mora poslovati u prostoru primjerenom za uredsko poslovanje koji je u cijelosti odvojen od prostora drugih namjena (stambeni, proizvodni, skladišni i sl.) s izdvojenim prostorom za povjerljive razgovore.«.
+
+### Članak 13.
+
+Članak 21. mijenja se i glasi:
+
+»Ugovorom o posredovanju u prometu nekretninama posrednik se obvezuje obavljati osobito sljedeće:
+
+1. nastojati naći i dovesti u vezu s nalogodavcem osobu radi sklapanja posredovanoga posla,
+
+2. upoznati nalogodavca s prosječnom tržišnom cijenom slične nekretnine,
+
+3. pribaviti i izvršiti uvid u isprave kojima se dokazuje vlasništvo ili drugo stvarno pravo na predmetnoj nekretnini,
+
+4. obaviti potrebne radnje radi predstavljanja (prezentacije) nekretnine na tržištu, oglasiti nekretninu na odgovarajući način te izvršiti sve druge radnje dogovorene ugovorom o posredovanju u prometu nekretninama koje prelaze uobičajenu prezentaciju, a za što ima pravo na posebne, unaprijed iskazane troškove,
+
+5. omogućiti pregled nekretnina,
+
+6. posredovati u pregovorima i nastojati da dođe do sklapanja ugovora, ako se na to posebno obvezao,
+
+7. čuvati osobne podatke nalogodavca te po pisanome nalogu nalogodavca čuvati kao poslovnu tajnu podatke o nekretnini za koju posreduje ili u vezi s tom nekretninom ili s poslom za koji posreduje,
+
+8. ako je predmet sklapanja ugovora zemljište, provjeriti namjenu predmetnog zemljišta u skladu s propisima o prostornome uređenju koji se odnose na to zemljište,
+
+9. obavijestiti nalogodavca o svim okolnostima važnim za namjeravani posao koje su mu poznate ili mu moraju biti poznate.«.
+
+### Članak 14.
+
+Članak 22. briše se.
+
+### Članak 15.
+
+U članku 23. stavak 2. mijenja se i glasi:
+
+»(2) Nalogodavac nije dužan pristupiti pregovorima za sklapanje posredovanog posla s trećom osobom koju je posrednik našao, niti sklopiti pravni posao, a odredba ugovora kojom je ugovoreno drukčije, ništetna je. Nalogodavac će posredniku odgovarati za štetu, ako pri tom nije postupio u dobroj vjeri te je dužan nadoknaditi sve troškove učinjene tijekom posredovanja, koji ne mogu biti manji od 1/3 niti veći od ugovorene posredničke naknade za posredovani posao.«.
+
+### Članak 16.
+
+Članak 27. mijenja se i glasi:
+
+»Visina posredničke naknade slobodno se određuje ugovorom o posredovanju u prometu nekretnina.«.
+
+### Članak 17.
+
+U članku 28. stavak 3. mijenja se i glasi:
+
+»(3) Nakon prestanka ugovora posrednik ima pravo na naknadu u roku do 12 mjeseci ako ugovorom nije drukčije ugovoreno i u slučajevima kad nalogodavac sklopi s trećom osobom pravni posao koji je posljedica posrednikova djelovanja prije prestanka ugovora o posredovanju.«.
+
+### Članak 18.
+
+U članku 30. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Listu ispitivača koja se sastoji od četrdeset članova rješenjem imenuje ministar nadležan za gospodarstvo na mandat od četiri godine, na prijedlog Hrvatske gospodarske komore i Ministarstva i to iz reda stručnjaka za područja ispitnih predmeta: trgovačka društva i ugovori, stvarna prava na nekretninama i zemljišne knjige, porezi, financijsko poslovanje i marketing, prostorno uređenje i gradnja.
+
+(3) Stručni ispit sastoji se od pisanog i usmenog dijela, a polaže se pred ispitnom komisijom koju za svaki ispitni rok s Liste ispitivača odlukom imenuje predsjednik Hrvatske gospodarske komore.«.
+
+### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 1. i članka 4. ovoga Zakona koje stupaju na snagu danom pristupanja Republike Hrvatske u Europsku uniju.
+
+Klasa: 940-01/12-01/01
+
+Zagreb, 14. prosinca 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o posredovanju u prometu nekretnina (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/289*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POSREDOVANJU U PROMETU NEKRETNINA
+
+Proglašavam Zakon o izmjenama Zakona o posredovanju u prometu nekretnina, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/23
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POSREDOVANJU U PROMETU NEKRETNINA**
+
+### Članak 1.
+
+U Zakonu o posredovanju u prometu nekretnina (»Narodne novine«, br. 107/07. i 144/12.) u članku 6. stavku 4. riječi: »Državnom inspektoratu« zamjenjuju se riječima: »nadležnim inspektorima sukladno posebnim propisima«.
+
+### Članak 2.
+
+U članku 8. stavku 2. riječi: »Državnomu inspektoratu« zamjenjuju se riječima: »nadležnim inspektorima sukladno posebnim propisima«.
+
+### Članak 3.
+
+U članku 31. stavku 2. riječi: »Državni inspektorat te druge inspekcije sukladno ovlaštenjima utvrđenim posebnim zakonima« zamjenjuju se riječima: »nadležni inspektori sukladno posebnim propisima«.
+
+### Članak 4.
+
+U članku 32. riječi: »Inspektor Državnog inspektorata« zamjenjuju se riječima: »Nadležni inspektori sukladno posebnim propisima«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/332
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

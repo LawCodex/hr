@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-06-01
-last_amended: 2004-12-16
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
+last_amended: 2014-12-12
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 26/2003 (379) https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/379"
-narodne_novine: "36/95, 109/95, 70/97, 128/99, 57/00, 129/00, 59/01, 26/03, 82/04, 110/04, 178/04"
+narodne_novine: "36/95, 109/95, 70/97, 128/99, 57/00, 129/00, 59/01, 26/03, 82/04, 110/04, 178/04, 38/09, 79/09, 49/11, 144/12, 147/14"
 amendments:
   - "NN 109/1995 (1795) Uredba o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
   - "NN 70/1997 (1213) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
@@ -22,6 +22,11 @@ amendments:
   - "NN 82/2004 (1618) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
   - "NN 110/2004 (2099) Uredba o dopuni Zakona o komunalnom gospodarstvu"
   - "NN 178/2004 (3084) Zakon o dopunama Zakona o komunalnom gospodarstvu"
+  - "NN 38/2009 (833) Zakon o izmjenama Zakona o komunalnom gospodarstvu"
+  - "NN 79/2009 (1880) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
+  - "NN 49/2011 (1107) Zakon o izmjenama Zakona o komunalnom gospodarstvu"
+  - "NN 144/2012 (3083) Zakon o izmjeni i dopunama Zakona o komunalnom gospodarstvu"
+  - "NN 147/2014 (2755) Zakon o izmjenama i dopuni Zakona o komunalnom gospodarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/379"
 retrieved: 2026-10-12
 ---
@@ -32,7 +37,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 26/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/379).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 82/2004, NN 110/2004, NN 178/2004.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 82/2004, NN 110/2004, NN 178/2004, NN 38/2009, NN 79/2009, NN 49/2011, NN 144/2012, NN 147/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1335,3 +1340,485 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama Zakona o komunalnom gospodarstvu (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/833*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
+
+Proglašavam Zakon o izmjenama Zakona o komunalnom gospodarstvu, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/38
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 109/95. – Uredba, 70/97., 128/99., 57/00., 129/00., 59/01., 26/03. – pročišćeni tekst, 82/04., 110/04. – Uredba i 178/04.) u članku 8. stavku 4. riječ: »poglavarstva« zamjenjuje se riječima: »izvršna tijela«.
+
+### Članak 2.
+
+U članku 10. stavku 2. riječ: »poglavarstvo« zamjenjuje se riječima: »općinski načelnik, gradonačelnik i gradonačelnik Grada Zagreba«.
+
+U stavku 3. riječ: »poglavarstvu« zamjenjuje se riječima: »općinskom načelniku, gradonačelniku i gradonačelniku Grada Zagreba«.
+
+U stavku 4. riječ: »poglavarstva« zamjenjuje se riječima: »općinskog načelnika, gradonačelnika i gradonačelnika Grada Zagreba«.
+
+### Članak 3.
+
+U članku 11. stavku 3. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+### Članak 4.
+
+U članku 13. stavku 1. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+### Članak 5.
+
+U članku 15. stavku 3. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+U stavku 5. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+### Članak 6.
+
+U članku 21. stavku 1. riječ: »poglavarstva« zamjenjuje se riječima: »općinskog načelnika, gradonačelnika i gradonačelnika Grada Zagreba«.
+
+U stavku 2. riječ: »poglavarstvo« zamjenjuje se riječima: »općinski načelnik, gradonačelnik i gradonačelnik Grada Zagreba«.
+
+U stavku 3. riječ: »poglavarstvo« zamjenjuje se riječima: »općinski načelnik, gradonačelnik i gradonačelnik Grada Zagreba«.
+
+U stavku 4. riječ: »poglavarstva« zamjenjuje se riječima: »općinskog načelnika, gradonačelnika i gradonačelnika Grada Zagreba«.
+
+### Članak 7.
+
+U članku 28. stavku 4. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+### Članak 8.
+
+U članku 30. stavku 5. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+### Članak 9.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
+
+Klasa: 363-02/09-01/01
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu (NN 79/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1880*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu, kojega je Hrvatski sabor donio na sjednici 24. lipnja 2009. godine.
+
+Klasa: 011-01/09-01/118
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 30. lipnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 26/03 – pročišćeni tekst, 82/04, 178/04 i 38/09) u članku 11. stavku 2. iza riječi: »Zakona« dodaje se tekst koji glasi: »koje će djelatnosti obavljati dodjeljivanjem koncesije te utvrđuje pripremne radnje i postupak davanja koncesije sukladno odredbama Zakona o koncesijama«. Ostali tekst briše se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Obavijest o namjeri davanja koncesije objavljuje izvršno tijelo jedinice lokalne samouprave u »Narodnim novinama«.«
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Objavom obavijesti o namjeri davanja koncesije započinje postupak davanja koncesije.«
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječ: »dodjeljuje« zamjenjuje se riječju: »daje«.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »do 30 godina« zamjenjuju se riječima: »na rok ne dulji od 30 godina«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Na sva druga pitanja u svezi s koncesijama koja nisu uređena ovim Zakonom primjenjuje se Zakon o koncesijama.«
+
+### Članak 2.
+
+Podnaslov ispred članka 12. mijenja se i glasi: »Odluka o odabiru najpovoljnijeg ponuditelja«
+
+Članak 12. mijenja se i glasi:
+
+»(1) Odluku o odabiru najpovoljnijeg ponuditelja donosi predstavničko tijelo jedinice lokalne samouprave«.
+
+»(2) Kriteriji na kojima davatelj koncesije temelji odabir najpovoljnije ponude:
+
+1. U slučaju ekonomski najpovoljnije ponude:
+
+– kvaliteta usluge (ugled ponuditelja, jamstva),
+
+– sposobnosti ponuditelja za dugoročnu održivost razvoja za vrijeme trajanja koncesije i za kvalitetno ostvarivanje koncesije i drugih kriterija propisanih Zakonom o koncesijama ili
+
+2. najviša ponuđena naknada za koncesiju.
+
+(3) Ovisno o ciljevima koji se žele postići, davatelj koncesije odlučuje koje će kriterije primijeniti, a može i odlukom iz članka 11. stavka 2. ovoga Zakona utvrditi i dodatne uvjete i mjerila kao kriterij za odabir najpovoljnijeg ponuditelja.«
+
+### Članak 3.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Odluka o odabiru najpovoljnijeg ponuditelja sadrži naročito:
+
+određenje djelatnosti za koju se daje koncesija, način, uvjete i rok trajanja koncesije, ovlaštenja davatelja koncesije, prava i obveze koncesionara uključujući i pravo gradnje i korištenja objekata i uređaja komunalne infrastrukture te obvezu održavanja objekata i uređaja komunalne infrastrukture, visinu naknade za koncesiju te druga pitanja od značaja za obavljanje djelatnosti kako ih uređuje Zakon o koncesijama.
+
+(2) Na temelju odluke iz stavka 1. ovoga članka sklapa se ugovor o koncesiji.«
+
+### Članak 4.
+
+Podnaslov ispred članka 14. briše se.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Ugovor o koncesiji na temelju odluke o koncesiji s odabranim najpovoljnijim ponuditeljem sklapa izvršno tijelo jedinice lokalne samouprave.
+
+(2) Osim obveznog sadržaja, prema Zakonu o koncesijama, ugovor o koncesiji obvezno sadrži:
+
+1. djelatnost za koju se koncesija daje,
+
+2. rok na koji se koncesija daje,
+
+3. visinu i način plaćanja naknade za koncesiju,
+
+4. cijenu i način naplate za pruženu uslugu,
+
+5. prava i obveze davatelja koncesije,
+
+6. prava i obveze koncesionara,
+
+7. jamstva i/ili odgovarajuće instrumente osiguranja koncesionara,
+
+8. način prestanka koncesije,
+
+9. ugovorne kazne.«
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
+
+Klasa: 363-02/09-01/02
+
+Zagreb, 24. lipnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r
+
+## Zakon o izmjenama Zakona o komunalnom gospodarstvu (NN 49/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1107*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
+
+Proglašavam Zakon o izmjenama Zakona o komunalnom gospodarstvu, koji je Hrvatski sabor donio na sjednici 15. travnja 2011. godine.
+
+Klasa: 011-01/11-01/73
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 20. travnja 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 26/03. – pročišćeni tekst, 82/04., 110/04. – Uredba, 178/04., 38/09., 79/09. i 153/09.) u članku 6. stavak 2. briše se.
+
+### Članak 2.
+
+U članku 15. stavku 7. riječi: »već se može pokrenuti upravni spor« brišu se.
+
+### Članak 3.
+
+U članku 18. stavak 2. briše se.
+
+### Članak 4.
+
+U članku 23. stavak 6. briše se.
+
+### Članak 5.
+
+U članku 32. stavak 6. briše se.
+
+### Članak 6.
+
+U članku 40. stavku 4. riječi: »Zahtjev za pokretanje prekršajnog postupka« zamjenjuju se riječima: »Optužni prijedlog«.
+
+U stavku 6. riječi: »Zahtjev za pokretanje prekršajnog postupka« zamjenjuju se riječima: »Optužni prijedlog«.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 363-02/11-01/01
+
+Zagreb, 15. travnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o komunalnom gospodarstvu (NN 144/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3083*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o komunalnom gospodarstvu, koji je Hrvatski sabor donio na sjednici 14. prosinca 2012. godine.
+
+Klasa: 011-01/12-01/192
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 19. prosinca 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+#### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 26/03. – pročišćeni tekst, 82/04., 178/04., 38/09., 79/09., 153/09. i 49/11.) u članku 6. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Protiv upravnih akata pravnih osoba iz stavka 1. ovoga članka može se izjaviti žalba upravnom tijelu županije, odnosno Grada Zagreba nadležnom za poslove komunalnog gospodarstva.«.
+
+#### Članak 2.
+
+U članku 18. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Protiv rješenja komunalnog redara iz stavka 1. točke 1. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješenja komunalnog redara Grada Zagreba središnjem tijelu državne uprave nadležnom za komunalno gospodarstvo.«.
+
+#### Članak 3.
+
+U članku 23. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Protiv rješenja upravnog tijela jedinice lokalne samouprave iz stavaka 2., 4. i 5. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješenja koja donosi upravno tijelo Grada Zagreba žalba se izjavljuje središnjem tijelu državne uprave nadležnom za komunalno gospodarstvo.«.
+
+#### Članak 4.
+
+U članku 32. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Protiv rješenja upravnog tijela jedinice lokalne samouprave iz stavka 2. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješenja koja donosi upravno tijelo Grada Zagreba žalba se izjavljuje središnjem tijelu državne uprave nadležnom za komunalno gospodarstvo.«.
+
+#### Članak 5.
+
+Naslov glave iza članka 39. koji glasi: »VII. KAZNENE ODREDBE« mijenja se i glasi: »VII. PREKRŠAJNE ODREDBE«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 6.
+
+(1) Središnje tijelo državne uprave nadležno za komunalno gospodarstvo dužno je upravnim tijelima županija nadležnim za poslove komunalnog gospodarstva u drugom stupnju u roku od 15 dana od dana stupanja na snagu ovoga Zakona predati spise i arhivu predmeta u kojim se odlučuje o žalbama protiv rješenja iz članaka 1., 2., 3. i 4. ovoga Zakona.
+
+(2) Do isteka roka iz stavka 1. ovoga članka poslove donošenja rješenja iz članaka 1., 2., 3. i 4. ovoga Zakona nastavlja obavljati središnje tijelo državne uprave nadležno za komunalno gospodarstvo.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 363-02/12-01/01
+
+Zagreb, 14. prosinca 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o komunalnom gospodarstvu (NN 147/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/147/2755*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O KOMUNALNOM GOSPODARSTVU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o komunalnom gospodarstvu, koji je Hrvatski sabor donio na sjednici 2. prosinca 2014. godine.
+
+Klasa: 011-01/14-01/163
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 4. prosinca 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 82/04., 178/04., 38/09., 79/09., 153/09., 49/11., 84/11., 90/11., 144/12., 94/13. i 153/13.) u članku 22. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Sredstva komunalne naknade namijenjena su također i financiranju građenja objekata i uređaja komunalne infrastrukture.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3. koji postaje stavak 4. riječi: »stavka 2.« zamjenjuju se riječima: »stavka 3.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5. koji postaje stavak 6. riječi: »stavka 4.« zamjenjuju se riječima: »stavka 5.«.
+
+U dosadašnjem stavku 6. koji postaje stavak 7. riječi: »stavka 2.« zamjenjuju se riječima: »stavka 3.«.
+
+### Članak 2.
+
+U članku 28. stavak 2. mijenja se i glasi:
+
+»(2) Sredstva prikupljena komunalnom naknadom mogu se odlukom predstavničkog tijela jedinice lokalne samouprave upotrijebiti i u svrhu građenja i održavanja objekata predškolskog, školskoga, zdravstvenog i socijalnog sadržaja, financiranja građenja i održavanja javnih građevina sportske i kulturne namjene i poboljšanja energetske učinkovitosti zgrada u vlasništvu jedinice lokalne samouprave.«.
+
+### Članak 3.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Građenje objekta i uređaja komunalne infrastrukture za:
+
+1. javne površine,
+
+2. nerazvrstane ceste,
+
+3. groblja i krematorije,
+
+4. javnu rasvjetu
+
+financira se iz:
+
+5. komunalnog doprinosa,
+
+6. proračuna jedinice lokalne samouprave,
+
+7. naknade za koncesiju,
+
+8. komunalne naknade
+
+9. drugih izvora utvrđenih posebnim zakonom.
+
+(2) Građenje objekata i uređaja komunalne infrastrukture i nabava opreme za:
+
+1. prijevoz putnika,
+
+2. održavanje čistoće,
+
+3. tržnice na malo
+
+financira se iz:
+
+4. cijene komunalne usluge,
+
+5. proračuna jedinice lokalne samouprave,
+
+6. naknade za koncesije,
+
+7. drugih izvora utvrđenih posebnim zakonom.
+
+(3) Predstavničko tijelo jedinice lokalne samouprave na temelju Programa mjera za unaprjeđenje stanja u prostoru i potrebe uređenja zemljišta u skladu s postavkama dokumenata prostornog uređenja, kao i u skladu s Planom razvojnih programa koji se donose na temelju posebnih propisa, donosi Program gradnje objekta i uređaja komunalne infrastrukture za svaku kalendarsku godinu, a koji obvezatno sadrži:
+
+– opis poslova s procjenom troškova za gradnju objekata i uređaja te za nabavu opreme,
+
+– iskaz financijskih sredstava potrebnih za ostvarivanje Programa s naznakom izvora financiranja djelatnosti.
+
+(4) Izvršno tijelo jedinice lokalne samouprave dužno je do kraja ožujka svake godine podnijeti predstavničkom tijelu jedinice lokalne samouprave izvješće o izvršenju Programa iz stavka 3. ovoga članka za prethodnu kalendarsku godinu.«.
+
+### Članak 4.
+
+Podnaslov iznad članka 39. briše se.
+
+U članku 39. stavak 2. mijenja se i glasi:
+
+»(2) Inspekcijski nadzor nad provedbom ovoga Zakona obavlja Ministarstvo financija.«.
+
+### Članak 5.
+
+U članku 40. stavku 5. riječi: »Državni inspektorat« zamjenjuju se riječima: »Ministarstvo financija«.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/151
+
+Zagreb, 2. prosinca 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-06-19
-last_amended: 2005-11-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2013-03-29
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "86/98, 140/05"
+narodne_novine: "86/98, 140/05, 38/13"
 amendments:
   - "NN 140/2005 (2648) Zakon o izmjenama i dopunama Zakona o plaćama ovlaštenih državnih revizora"
+  - "NN 38/2013 (679) Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/86/1163"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 86/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/86/1163).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 140/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 140/2005, NN 38/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -180,3 +181,58 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora (NN 38/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/38/679*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PLAĆAMA OVLAŠTENIH DRŽAVNIH REVIZORA
+
+Proglašavam Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora, koji je Hrvatski sabor donio na sjednici 22. ožujka 2013. godine.
+
+Klasa: 011-01/13-01/56
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 27. ožujka 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PLAĆAMA OVLAŠTENIH DRŽAVNIH REVIZORA**
+
+### Članak 1.
+
+U Zakonu o plaćama ovlaštenih državnih revizora (»Narodne novine«, br. 86/98., 16/01., 27/01. i 140/05.) članak 3. mijenja se i glasi:
+
+»Za pojedina radna mjesta i položaje ovlaštenih državnih revizora utvrđuje se sljedeća vrijednost koeficijenata:
+
+| Redni broj | Položaj i radna mjesta | Koeficijent |  |
+|---|---|---|---|
+| 1. | Pomoćnik glavnog državnog revizora | 3,686 |  |
+| 2. | Načelnik odjela | 2,619 |  |
+| 3. | Pročelnik područnog odjela | 2,619 |  |
+| 4. | Viši državni revizor | 2,231 |  |
+| 5. | Državni revizor | 1,794 | «. |
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2013.
+
+Klasa: 022-03/13-01/60  
+Zagreb, 22. ožujka 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

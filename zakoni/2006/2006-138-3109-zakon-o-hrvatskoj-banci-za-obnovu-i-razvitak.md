@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-12-20
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "138/06"
-amendments: []
+last_amended: 2013-02-28
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "138/06, 25/13"
+amendments:
+  - "NN 25/2013 (408) Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3109"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Hrvatskoj banci za obnovu i razvitak
 
 > Izvor: Narodne novine, NN 138/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3109).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -266,3 +270,57 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak (NN 25/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/408*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O HRVATSKOJ BANCI ZA OBNOVU I RAZVITAK
+
+Proglašavam Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak, koji je Hrvatski sabor donio na sjednici 15. veljače 2013. godine.
+
+Klasa: 011-01/13-01/32
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 21. veljače 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O HRVATSKOJ BANCI ZA OBNOVU I RAZVITAK**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj banci za obnovu i razvitak (»Narodne novine«, br. 138/06.) u članku 17. stavku 1. riječ: »devet« zamjenjuje se riječju: »deset«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Nadzorni odbor čini šest ministara Vlade Republike Hrvatske od kojih su ministar nadležan za financije, ministar nadležan za gospodarstvo i ministar nadležan za regionalni razvoj i fondove Europske unije obvezni članovi Nadzornog odbora, a preostala tri ministra u Nadzorni odbor imenuje Vlada Republike Hrvatske između ministara nadležnih za turizam, poljoprivredu, zaštitu okoliša, graditeljstvo ili poduzetništvo i obrt.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/18
+
+Zagreb, 15. veljače 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

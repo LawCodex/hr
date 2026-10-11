@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-10-19
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "107/07"
-amendments: []
+last_amended: 2012-10-26
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "107/07, 118/12"
+amendments:
+  - "NN 118/2012 (2551) Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademskom stupnju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3126"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o akademskim i stručnim nazivima i akademskom stupnju
 
 > Izvor: Narodne novine, NN 107/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3126).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 118/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -168,3 +172,97 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademskom stupnju (NN 118/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2551*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O AKADEMSKIM I STRUČNIM NAZIVIMA I AKADEMSKOM STUPNJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademskom stupnju, koji je Hrvatski sabor donio na sjednici 12. listopada 2012. godine.
+
+Klasa: 011-01/12-01/125
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 17. listopada 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O AKADEMSKIM I STRUČNIM NAZIVIMA I AKADEMSKOM STUPNJU**
+
+### Članak 1.
+
+U Zakonu o akademskim i stručnim nazivima i akademskom stupnju (»Narodne novine«, br. 107/07.) u članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Završetkom poslijediplomskoga sveučilišnog studija koji traje najmanje tri godine osoba stječe akademski stupanj doktor znanosti, odnosno doktorica znanosti ili doktor umjetnosti, odnosno doktorica umjetnosti uz naznaku znanstvenog ili umjetničkog područja. Iznimno, ako je to predviđeno općim aktom sveučilišta, uz znanstveno ili umjetničko područje može biti naznačeno i polje.«.
+
+### Članak 2.
+
+U članku 14. stavku 3. podstavak 4. mijenja se i glasi:
+
+»– stručnoga dodiplomskog studija, u trajanju od najmanje četiri godine čijim završetkom se stječe visoka stručna sprema (VSS), izjednačen je sa stručnim nazivom stručni specijalist, odnosno stručna specijalistica uz naznaku struke, sukladno članku 10. ovoga Zakona, a osobe koje su stekle takve stručne nazive zadržavaju prava koja proizlaze iz stečene visoke stručne spreme«.
+
+Podstavak 6. briše se.
+
+Iza stavka 3. dodaje se novi stavak 4. i stavci 5., 6., 7., 8. i 9. koji glase:
+
+»(4) U slučaju kada se studijski program akreditiran u Republici Hrvatskoj više ne izvodi ili nije iste vrste, izjednačavanje se provodi u posebnom postupku.
+
+(5) U slučaju iz stavka 4. ovoga članka, visoko učilište ili pravni sljednik visokog učilišta koje je izvodilo studijski program svojim će općim aktom po prethodno pribavljenom pozitivnom mišljenju nacionalnog vijeća nadležnog za područje visokog obrazovanja (u daljnjem tekstu: Nacionalno vijeće), utvrditi akademski ili stručni naziv s kojim će se izjednačiti stručni naziv stečen završetkom sveučilišnog ili stručnog studija ustrojenog prema programima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.).
+
+(6) Ako visoko učilište iz stavka 5. ovoga članka nema pravnog sljednika, Nacionalno vijeće odredit će visoko učilište koje će donijeti opći akt iz stavka 5. ovoga članka.
+
+(7) Nacionalno vijeće traženo stručno mišljenje daje u roku od 45 dana od dana zaprimanja zahtjeva visokog učilišta, a na temelju usporedbe stečenih kompetencija na studijima koji se izjednačavaju.
+
+(8) Mišljenje Nacionalnog vijeća obvezujuće je za visoko učilište u postupku izjednačavanja te se, jednom dano, može upotrijebiti u svim postupcima priznavanja zasnovanima na istom činjeničnom temelju.
+
+(9) U slučajevima iz stavka 4. ovoga članka obavezno se izdaje potvrda.«.
+
+Dosadašnji stavak 4. postaje stavak 10.
+
+### Članak 3.
+
+U članku 15. dodaje se stavak 2. koji glasi:
+
+»(2) Osobe koje su završile poslijediplomski stručni ili umjetnički studij na veleučilištu ili visokoj školi prema propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03.) zadržavaju stečeni stručni naziv magistar, odnosno magistra (mr.).«.
+
+*Prijelazne i završne odredbe*
+
+### Članak 4.
+
+(1) Visoka učilišta su dužna, osobama koje to zatraže, potvrde o izjednačavanju stručnih i akademskih naziva izdane sukladno odredbi članka 120. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.) do stupanja na snagu ovoga Zakona, zamijeniti novim potvrdama koje sadrže stručni, odnosno akademski naziv usklađen s odredbama ovoga Zakona.
+
+(2) Visoko učilište će opći akt iz članka 2. ovoga Zakona donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Potvrde iz stavka 1. ovog članka izdaju se bez naknade.
+
+(4) Potvrde o izjednačavanju stručnih naziva prema članku 14. stavku 3. podstavku 6. Zakona o akademskim i stručnim nazivima i akademskom stupnju (»Narodne novine«, br. 107/07.) prestaju važiti danom stupanja na snagu ovoga Zakona.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 135-02/12-01/01
+
+Zagreb, 12. listopada 2012.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,15 +6,18 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2004-02-23
-last_amended: 2008-06-02
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2012-07-23
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "23/04, 101/04, 39/06, 63/08"
+narodne_novine: "23/04, 101/04, 39/06, 63/08, 125/10, 102/11, 83/12"
 amendments:
   - "NN 101/2004 (1948) Uredba o izmjenama Uredbe o postupku davanja koncesije na pomorskom dobru"
   - "NN 39/2006 (950) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
   - "NN 63/2008 (2131) Uredba o izmjenama Uredbe o postupku davanja koncesije na pomorskom dobru"
+  - "NN 125/2010 (3244) Uredba o izmjeni Uredbe o postupku davanja koncesije na pomorskom dobru"
+  - "NN 102/2011 (2085) Uredba o dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
+  - "NN 83/2012 (1925) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/23/665"
 retrieved: 2026-10-12
 ---
@@ -23,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 23/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/23/665).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 101/2004, NN 39/2006, NN 63/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 101/2004, NN 39/2006, NN 63/2008, NN 125/2010, NN 102/2011, NN 83/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1662,3 +1665,241 @@ Potpredsjednica Vlade
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
 Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjeni Uredbe o postupku davanja koncesije na pomorskom dobru (NN 125/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/125/3244*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 119. točaka 1.b) i 2.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 5. studenoga 2010. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O POSTUPKU DAVANJA KONCESIJE NA POMORSKOM DOBRU**
+
+### Članak 1.
+
+U Uredbi o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/2004, 101/2004, 39/2006 i 63/2008), u članku 18. stavku 1. točki 3. podstavku 8. riječi: »15%« zamjenjuju se riječima: »7%«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 934-01/10-01/14
+
+Urbroj: 5030116-10-1
+
+Zagreb, 5. studenoga 2010.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o dopunama Uredbe o postupku davanja koncesije na pomorskom dobru (NN 102/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/102/2085*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 119. točaka 1.b) i 2.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 8. rujna 2011. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA UREDBE O POSTUPKU DAVANJA KONCESIJE NA POMORSKOM DOBRU**
+
+### Članak 1.
+
+U Uredbi o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/2004, 101/2004, 39/2006, 63/2008 i 125/2010), u članku 2. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Iznimno, u postupku dodjele koncesije na pomorskom dobru za koje je davatelj koncesije Vlada Republike Hrvatske, granicom određeno pomorsko dobro mora se upisati u zemljišne knjige najkasnije do donošenja odluke o koncesiji.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+### Članak 2.
+
+Iza članka 21. dodaje se članak 21.a koji glasi:
+
+»Članak 21.a
+
+Kad je koncesija na pomorskom dobru dio cjelovitog razvojnog projekta od posebnog interesa za Republiku Hrvatsku, koji obuhvaća pomorsko dobro i nekretnine u vlasništvu Republike Hrvatske koje graniče s pomorskim dobrom, Vlada Republike Hrvatske, kao davatelj koncesije, primijenit će dodatni kriterij za ocjenu ponude.
+
+Dodatni kriterij iz stavka 1. ovoga članka je visina naknade koja se nudi za prava koja se stječu na nekretninama u vlasništvu Republike Hrvatske koje graniče s pomorskim dobrom.
+
+Dodatni kriterij iz stavka 2. ovoga članka iznosit će dodatnih 20% u ocjeni ponude sukladno članku 21. ove Uredbe.
+
+Vlada Republike Hrvatske donijet će odluku kojom utvrđuje da se radi o projektu iz stavka 1. ovoga članka.«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 934-01/11-01/05
+
+Urbroj: 5030116-11-1
+
+Zagreb, 8. rujna 2011.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru (NN 83/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/83/1925*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 119. točaka 1.b) i 2.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 19. srpnja 2012. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O POSTUPKU DAVANJA KONCESIJE NA POMORSKOM DOBRU**
+
+#### Članak 1.
+
+U Uredbi o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/2004, 101/2004, 39/2006, 63/2008, 125/2010 i 102/2011), u članku 1. iza riječi: »posebne upotrebe« briše se zarez i dodaju se riječi: »pomorskog dobra, luka posebne namjene,«.
+
+#### Članak 2.
+
+Članak 7. mijenja se i glasi:
+
+»Članak 7.
+
+Davatelj koncesije dužan je osnovati povjerenstvo od tri člana u svrhu praćenja izvršavanja odluka i ugovora o koncesiji.
+
+Povjerenstvo čine predstavnik nadležne lučke kapetanije, stručnjak za prostorno planiranje koji se imenuje iz upravnog tijela nadležnog za izdavanje dokumenata na osnovu kojih je obavljen zahvat u prostoru i stručnjak za financije iz Ministarstva financija-nadležne Porezne uprave.«.
+
+#### Članak 3.
+
+U članku 14. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Kada je davatelj koncesije županijska skupština ili od nje ovlaštena jedinica lokalne samouprave, i kada se koncesija daje samo radi gospodarskog korištenja pomorskog dobra bez prava na izgradnju, u odluci o javnom prikupljanju ponuda određuje se da ponuda ne mora sadržavati dokaze iz članka 18. stavka 2. točaka 5., 6. i 7. ove Uredbe.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 4.
+
+U članku 16. dodaje se stavak 2. koji glasi:
+
+»Prihodi u smislu ovoga članka su ukupni prihodi s naslova obavljanja djelatnosti i pružanja usluga na pomorskom dobru obuhvaćenom koncesijom.«
+
+#### Članak 5.
+
+Članak 18. mijenja se i glasi:
+
+### »Sadržaj ponude
+
+#### Članak 18.
+
+Ponuda na javno prikupljanje ponuda dostavlja se, osim u pisanoj formi, i u elektronskom obliku, a u slučaju dvojbe mjerodavna je ponuda dostavljena u pisanoj formi.
+
+Ponuda obavezno sadrži dokumente u izvornom obliku, i to:
+
+1. dokaze o sposobnosti ponuditelja:
+
+– izvadak iz sudskog registra trgovačkog suda ili izvadak iz obrtnog registra s upisanom djelatnošću za koju se traži koncesija, ne stariji od 30 dana;
+
+– račun dobiti i gubitka i bilancu za prošlu godinu, odnosno prijavu poreza na dohodak s uključenim pregledom primitaka i izdataka i popisom dugotrajne imovine za protekle dvije godine (osim za novoosnovana društva i obrte) sve ovjereno od nadležne Porezne uprave;
+
+– ovjerenu izjavu ponuditelja ili odgovarajuću potvrdu kojom dokazuje da nije pokrenut stečajni postupak, da se ne nalazi u postupku likvidacije, odnosno da nije u postupku obustavljanja poslovnih djelatnosti;
+
+– podatke o bonitetu (BON 1) osim za obrte obveznike poreza na dohodak i novoosnovana društva i obrte;
+
+– podatke o solventnosti (BON 2 – za glavni račun ponuditelja) i potvrdu nadležne porezne uprave o plaćenim dospjelim obvezama temeljem javnih davanja, sve ne starije od 30 dana;
+
+– RS-m obrazac za mjesec koji prethodi davanju ponude;
+
+– izjavu da li je ponuditelj ispunio sve obveze iz drugih koncesija ako ih ima ili ih je imao;
+
+– izjavu da li je ponuditelju do sada oduzeta koncesija sukladno članku 30. Zakona;
+
+– izjavu da ponuditelju ili osobi ovlaštenoj za zastupanje nije izrečena pravomoćna osuđujuća presuda za jedno ili više kaznenih djela iz područja gospodarskog kriminaliteta;
+
+2. Ponuđeni iznos stalnog i postotak promjenjivog dijela koncesijske naknade;
+
+3. Studiju gospodarske opravdanosti koja se izrađuje prema sadržaju i u formi iz dokumentacije za javno prikupljanje ponuda. Ukupna vrijednost investicije koja se planira studijom gospodarske opravdanosti smatra se ulaganjem u osnovna sredstva.
+
+4. Garanciju poslovne banke za ozbiljnost ponude u visini 1% od ponuđene vrijednosti investicije s rokom važenja do planiranog roka zaključenja ugovora o koncesiji, a najduže dvije godine;
+
+5. Pismo namjere poslovne banke da će izdati garanciju za dobro ispunjenje obveza iz ugovora o koncesiji koji će se sklopiti s odabranim ponuditeljem u visini 5,0% ponuđene vrijednosti investicije s rokom važenja 6 mjeseci dužim od planiranog roka završetka investicijskog ciklusa.
+
+6. Uvjerenje nadležnog tijela za izdavanje lokacijske dozvole da je zahvat prikazan u idejnom projektu planiran dokumentima prostornog uređenja;
+
+7. Idejni projekt zahvata u prostoru na pomorskom dobru izrađen od ovlaštenog projektanta sukladno dokumentima prostornog uređenja i prema studiji gospodarske opravdanosti.
+
+Osim obaveznog sadržaja ponude iz stavka 2. ovoga članka, ponuditelj je dužan ponudi priložiti i druge podatke sukladno objavljenim uvjetima iz javnog prikupljanja ponuda.«.
+
+#### Članak 6.
+
+Iza članka 18. dodaje se članak 18 a. koji glasi:
+
+»Članak 18 a.
+
+Po izvršnosti lokacijske dozvole, a prije potpisivanja ugovora o koncesiji, odabrani ponuditelj dužan je ishoditi bankarsku garanciju za dobro ispunjenje obveza iz ugovora o koncesiji u visini 5,0% od ponuđene vrijednosti investicije s rokom važenja 6 mjeseci dužim od planiranog roka završetka investicije, koja garancija mora biti bezuvjetna, »bez prigovora« i naplativa na prvi poziv i prihvatljive instrumente osiguranja plaćanja koncesijske naknade.
+
+Ukoliko je investicija podijeljena u više faza, odnosno ciklusa, garancija iz stavka 1. ovoga članka, po proteku 6 mjeseci od završetka pojedinog investicijskog ciklusa, može se zamijeniti istovrsnom novom garancijom na preostali iznos investicije i tako za svaki daljnji investicijski ciklus.
+
+Ukoliko odabrani ponuditelj u propisanom roku od dvije godine od odluke o odabiru ponuditelja ne ishodi garanciju iz stavka 1. ovoga članka, neće se sklopiti ugovor o koncesiji, a davatelj koncesije će naplatiti garanciju za ozbiljnost ponude.
+
+Ugovor o koncesiji može se sklopiti po izvršnosti lokacijske dozvole izdane za zahvat u prostoru obuhvaćen koncesijom.«.
+
+#### Članak 7.
+
+U članku 19. iza stavka 1. dodaju se stavci 2., 3. i 4. koji glase:
+
+»Tijelo za provođenje postupka prilikom otvaranja pristiglih ponuda utvrđuje broj dostavljenih ponuda, a potom uspoređuje zaprimljene ponude s obveznom dokumentacijom iz članka 18. ove Uredbe i utvrđuje sposobnost ponuditelja.
+
+Ponuditelj se smatra nesposobnim, iako je dostavio svu potrebnu dokumentaciju, ukoliko ima nepodmirenih dospjelih obveza temeljem javnih davanja i ukoliko na BON 2 obrascu ima evidentirano više od 15 dana blokade glavnog računa u posljednjih šest mjeseci.
+
+Ponuda iz stavka 3. ovoga članka isključuje se iz daljnjeg postupka ocjenjivanja.«.
+
+#### Članak 8.
+
+U članku 21. točka A mijenja se i glasi:
+
+»A. Koncesije na pomorskom dobru:
+
+Ocjenjivanje ponuda za sve koncesije na pomorskom dobru, obavlja se prema sljedećim kriterijima:
+
+| – | ponuđeni iznos stalnog dijela koncesijske naknade | 20% |
+|---|---|---|
+| – | ponuđeni iznos promjenjivog dijela koncesijske naknade | 10% |
+| – | ponuđeni iznos ukupnoga investicijskog ulaganja prema studiji gospodarske opravdanosti | 25% |
+| – | prihod od redovne djelatnosti u prethodnoj godini | 15% |
+| – | ostvarena dobit odnosno dohodak prije oporezivanja uvećano za amortizaciju u prethodnoj godini | 15% |
+| – | broj planiranih novootvorenih radnih mjesta | 5% |
+| – | iskustvo ponuditelja u obavljanju djelatnosti za koju traži koncesiju | 10%. |
+
+Svaki element ponude se vrednuje zasebno, a zbroj ukupne ocjene po kriterijima ne može iznositi više od 1,000.
+
+Promjenjivi dio koncesijske naknade izračunava se u apsolutnom iznosu prema prikazanim ukupnim prihodima iz studije gospodarske opravdanosti, a za vrijeme trajanja koncesije.
+
+Formule i način izračuna:
+
+a) Koef. stal. konc. = 20% × ponuđeni iznos stalnog dijela koncesijske naknade  
+najviši ponuđeni iznos stalnog dijela koncesijske naknade
+
+b) Koef. promjenj. konc. = 10% × ponuđeni apsolutni iznos promjenjivog dijela koncesijske naknade  
+najviši ponuđeni apsolutni iznos promjenjivog dijela koncesijske naknade  
+c) Koef. ukupne investicije = 25% × ponuđeni iznos ukupne investicije  
+najviši ponuđeni iznos ukupne investicije  
+d) Koef. prihoda od redovne djelatnosti = 15% × prihoda od redovne djelatnosti u prethodnoj godini  
+najviši prihod od redovne djelatnosti u prethodnoj godini  
+e) Koef. ostvarene dobiti = 15% × ostvarene dobiti, odnosno dohotka uvećano za amortizaciju u prethodnoj godini  
+najviši iznos ostvarene dobiti, odnosno dohotka uvećano za amortizaciju u prethodnoj godini  
+f) Koef. broja planiranih novootvorenih radnih mjesta = 5% × ponuđeni broj planiranih novootvorenih radnih mjesta  
+najveći ponuđeni broj planiranih novootvorenih radnih mjesta  
+g) Koef. iskustvo ponuditelja u obavljanju djelatnosti = 10% × broj godina obavljanja djelatnosti  
+najveći broj godina
+
+#### Članak 9.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 934-01/12-01/02
+
+Urbroj: 5030120-12-1
+
+Zagreb, 19. srpnja 2012.
+
+Predsjednik  
+Zoran Milanović, v. r.

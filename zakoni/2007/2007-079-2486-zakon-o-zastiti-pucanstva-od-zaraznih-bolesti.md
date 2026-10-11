@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
+last_amended: 2009-04-08
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/07"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "79/07, 43/09"
+amendments:
+  - "NN 43/2009 (985) Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2486"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti pučanstva od zaraznih bolesti
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2486).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 43/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -722,3 +726,139 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti (NN 43/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/43/985*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti, kojega je Hrvatski sabor donio na sjednici 27. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/61
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 1. travnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI**
+
+### Članak 1.
+
+U Zakonu o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07. i 113/08.) u članku 5. stavku 2. riječi: »nadležno tijelo općine, poglavarstvo grada, županije, odnosno Grada Zagreba« zamjenjuju se riječima: »općinski načelnik, gradonačelnik, župan, odnosno gradonačelnik Grada Zagreba«.
+
+### Članak 2.
+
+Iza članka 18. dodaje se članak 18.a koji glasi:
+
+»Članak 18.a
+
+Obavijest o pojavi zarazne bolesti, epidemije ili druge opasnosti po zdravlje od međunarodnog značenja, koju prema Međunarodnim zdravstvenim propisima (International Health Regulations) Hrvatski zavod za javno zdravstvo upućuje u IHR sustav ranog uzbunjivanja Svjetske zdravstvene organizacije, istodobno će uputiti i u mrežu za rano obavješćivanje Europske unije.
+
+Hrvatski zavod za javno zdravstvo šalje podatke o zaraznim bolestima koje su uređene ovim Zakonom u sustave nadzora nad zaraznim bolestima Europske unije, a na način određen u dokumentima Europske komisije ili posebnim službenim zahtjevima.«
+
+### Članak 3.
+
+Iza članka 39. dodaje se naslov i članak 39.a koji glase:
+
+*»7.a Kontrola mikrobiološke čistoće objekta*
+
+### Članak 39.a
+
+U objektima pod sanitarnim nadzorom iz članka 10. ovoga Zakona provodi se kontrola mikrobiološke čistoće površine postrojenja, opreme, uređaja, pribora, prijevoznih sredstava i ruku osoba.
+
+Kontrola mikrobiološke čistoće može se provoditi i u drugim objektima ako postoji epidemiološka indikacija.
+
+Nadzor nad provođenjem mjera iz stavka 1. ovoga članka provodi sanitarna inspekcija u suradnji sa županijskim zavodima za javno zdravstvo i Hrvatskim zavodom za javno zdravstvo.
+
+Pravilnik kojim će se pobliže odrediti objekti, učestalost kontrole i normativi mikrobiološke čistoće donosi ministar.«
+
+### Članak 4.
+
+U članku 59. stavak 2. mijenja se i glasi:
+
+»Prijenos i prijevoz umrlih osoba iz stavka 1. ovoga članka obavlja se na području Republike Hrvatske ili iz Republike Hrvatske u inozemstvo, na temelju rješenja i sprovodnice, koju izdaje sanitarni inspektor nadležan prema mjestu smrti tih osoba.«
+
+### Članak 5.
+
+Članak 60. mijenja se i glasi:
+
+»Prijenos umrlih osoba koje nisu bile pokopane i koje nisu umrle od zarazne bolesti iz članka 59. stavka 1. ovoga Zakona, obavlja se na području Republike Hrvatske ili iz Republike Hrvatske u inozemstvo na temelju sprovodnice koju izdaje sanitarni inspektor nadležan prema mjestu smrti tih osoba.
+
+Sprovodnica za prijenos osoba iz stavka 1. ovoga članka u inozemstvo izdaje se uz prethodnu suglasnost nadležnog tijela za unutarnje poslove.«
+
+### Članak 6.
+
+Članak 61. mijenja se i glasi:
+
+»Umrla osoba može se prenositi iz inozemstva u Republiku Hrvatsku na temelju sprovodnice koju izdaje diplomatska misija, odnosno konzularni ured Republike Hrvatske.
+
+Diplomatska misija, odnosno konzularni ured obvezan je prije izdavanja sprovodnice zatražiti suglasnost ministarstva ako je:
+
+– osoba umrla od zarazne bolesti,
+
+– osoba ekshumirana ili
+
+– je državljanstvo umrle osobe nepoznato ili se ne može utvrditi.
+
+Suglasnost iz stavka 2. ovoga članka izdaje se uz prethodno odobrenje ministarstva nadležnog za unutarnje poslove.«
+
+### Članak 7.
+
+Iza članka 61. dodaje se članak 61.a koji glasi:
+
+»Članak 61.a
+
+Provoz umrle osobe kroz Republiku Hrvatsku obavlja se bez sprovodnice.«
+
+### Članak 8.
+
+U članku 62. stavak 1. mijenja se i glasi:
+
+»Iskopavanje i prijenos umrle osobe iz jednoga grobnog mjesta radi pogreba u drugo grobno mjesto, na istom groblju ili u istom naselju ili iz jednog mjesta radi pogreba u drugom mjestu na području Republike Hrvatske ili iz Republike Hrvatske u inozemstvo, obavlja se na temelju sprovodnice, koje izdaje sanitarni inspektor nadležan prema mjestu ukopa.«
+
+Stavak 3. mijenja se i glasi:
+
+»Prijenos ostataka ljudskog leša, koji se iskopavaju nakon proteka deset godina od dana pogreba obavlja se na temelju sprovodnice koju izdaje sanitarni inspektor nadležan prema mjestu ukopa.«
+
+### Članak 9.
+
+U članku 81. iza točke 12. dodaju se točke 13. i 14. koje glase:
+
+»13. Pravilnik o načinu stjecanja osnovnog znanja o zdravstvenoj ispravnosti namirnica i higijeni osoba koje rade u proizvodnji i prometu živežnih namirnica (»Narodne novine«, br. 23/94.),
+
+14. Pravilnik o normativima mikrobiološke čistoće i metode njenog određivanja (»Narodne novine«, br. 46/94.).«
+
+### Članak 10.
+
+Pravilnik iz članka 3. stavka 4. ovoga Zakona ministar će donijeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 11.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba.
+
+Klasa: 501-05/09-01/01
+
+Zagreb, 27. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

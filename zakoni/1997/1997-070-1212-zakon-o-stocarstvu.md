@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-07-07
-last_amended: 2006-12-06
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "70/97, 36/98, 151/03, 132/06"
+narodne_novine: "70/97, 36/98, 151/03, 132/06, 14/14"
 amendments:
   - "NN 36/1998 (453) Zakon o izmjeni i dopuni Zakona o stočarstvu"
   - "NN 151/2003 (2183) Zakon o izmjenama i dopunama Zakona o stočarstvu"
   - "NN 132/2006 (2956) Zakon o izmjenama i dopunama Zakona o stočarstvu"
+  - "NN 14/2014 (282) Zakon o izmjeni Zakona o stočarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1212"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 70/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1212).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 36/1998, NN 151/2003, NN 132/2006.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 36/1998, NN 151/2003, NN 132/2006, NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1717,3 +1718,49 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjeni Zakona o stočarstvu (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/282*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O STOČARSTVU
+
+Proglašavam Zakon o izmjeni Zakona o stočarstvu, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/16
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O STOČARSTVU**
+
+### Članak 1.
+
+U Zakonu o stočarstvu (»Narodne novine«, br. 70/97., 36/98., 151/03. i 132/06.) u članku 49. stavak 3. briše se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/316
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-06-08
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "70/05"
-amendments: []
+last_amended: 2014-04-16
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "70/05, 137/09, 28/13, 47/14"
+amendments:
+  - "NN 137/2009 (3318) Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima"
+  - "NN 28/2013 (476) Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima"
+  - "NN 47/2014 (877) Zakon o izmjeni Zakona o genetski modificiranim organizmima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/70/1372"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o genetski modificiranim organizmima
 
 > Izvor: Narodne novine, NN 70/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/70/1372).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 137/2009, NN 28/2013, NN 47/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -990,3 +996,658 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima (NN 137/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/137/3318*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GENETSKI MODFICIRANIM ORGANIZMIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima, koji je Hrvatski sabor donio na sjednici 30. listopada 2009.
+
+Klasa: 011-01/09-01/194
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 6. studenoga 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O GENETSKI MODIFICIRANIM ORGANIZMIMA**
+
+### Članak 1.
+
+U Zakonu o genetski modificiranim organizmima (»Narodne novine«, br. 70/05.) članak 2. mijenja se i glasi:
+
+»Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+
+– biološka raznolikost je sveukupnost svih živih organizama koji su sastavni dijelovi ekoloških sustava, a uključuje raznolikost unutar vrsta, između vrsta, životnih zajednica, te raznolikost između ekoloških sustava,
+
+– genetski materijal je dio biljke, životinje, gljive, mikroorganizma ili virusa koji sadrži nasljednu informaciju,
+
+– genetska modifikacija označava namjernu izmjenu nasljednoga genetskog materijala organizma na način drukčiji od prirodne rekombinacije i indukcije mutacija, odnosno uvođenje stranoga genetskog materijala u genetski materijal organizma ili uklanjanje dijela genetskog materijala organizma; genetska modifikacija nastaje korištenjem sljedećih metoda:
+
+a) tehnike rekombinantne nukleinske kiseline koje uključuju stvaranje novih kombinacija genetskog materijala unošenjem molekula nukleinske kiseline bilo kojim načinima izvan organizma u virus, bakterijski plazmid ili drugi vektorski sustav i njihovo uključivanje u organizam domaćina u kojem se ne pojavljuju prirodno, ali u kojem su sposobni za kontinuirano razmnožavanje,
+
+b) tehnike koje uključuju izravno unošenje u organizam nasljednog materijala pripremljenog izvan tog organizma uključujući mikroinjekciju, makroinjekciju i mikroenkapsulaciju,
+
+c) fuzija stanica (uključujući i fuziju protoplasta) ili tehnike hibridizacije kod kojih se žive stanice s novim kombinacijama nasljednoga genetskog materijala stvaraju fuzijom dviju ili više stanica pomoću metoda koje se ne pojavljuju prirodno, dok se za in vitro oplođivanje, prirodne procese poput konjugacije, transdukcije, transformacije, indukciju poliploidije smatra da ne dovode do genetske modifikacije, pod uvjetom da ne obuhvaćaju korištenje rekombinantnih molekula nukleinske kiseline ili genetski modificiranih organizama dobivenih tehnikama/metodama različitima od onih koje se ne primjenjuje na ovaj Zakon,
+
+– genetska raznolikost je sveukupnost gena svih živih organizama te njihova raznolikost između jedinki, populacija, vrsta i viših taksonomskih kategorija,
+
+– genetski modificirani organizam (GMO) je organizam, uz iznimku ljudskih bića, u kojem je genetski materijal izmijenjen na način koji se ne pojavljuje prirodnim putem parenjem i/ili prirodnom rekombinacijom,
+
+– korisnik je svaka pravna ili fizička osoba koja u skladu s odredbama ovoga Zakona provodi ograničenu uporabu GMO-a, namjerno uvodi GMO u okoliš, proizvodi i/ili stavlja GMO i proizvode od GMO-a na tržište ili rabi GMO,
+
+– modificirani živi organizam označava svaki GMO sposoban za razmnožavanje ili prijenos genetskog materijala, uključujući sterilne organizme sposobne za rast,
+
+– nadležno tijelo je tijelo državne uprave utvrđeno odredbama ovoga Zakona,
+
+– namjerno uvođenje GMO-a u okoliš je namjerno uvođenje u okoliš GMO-a ili kombinacije GMO-a za koje se ne koriste nikakve posebne mjere sputavanja radi ograničenja njihova kontakta s općom populacijom i okolišem i za osiguranje veće razine sigurnosti za opću populaciju i okoliš, npr. u svrhu znanstvenih istraživanja, pokusnih polja i druge nekomercijalne namjene,
+
+– nenamjerno uvođenje GMO-a u okoliš je slučajno ispuštanje živih modificiranih organizama u okoliš zbog nepredviđenih događaja, nesreća, nepravilnog rukovanja ili skladištenja živih modificiranih organizama i drugih radnji,
+
+– ograničena uporaba GMO-a označava svaku uporabu gdje se GMO uzgaja, razmnožava, pohranjuje, prevozi, uništava, uklanja ili na bilo koji drugi način rabi u zatvorenom sustavu, odnosno u prostoru odvojenom fizičkim preprekama ili kombinacijom fizičkih, kemijskih ili bioloških prepreka koje onemogućuju dodir GMO-a s vanjskim okolišem ili njihov utjecaj na njega,
+
+– podnositelj prijave za uporabu, uvođenje i stavljanje na tržište GMO-a je fizička ili pravna osoba koja namjerava ili obavlja ograničenu uporabu GMO-a, namjerava ili namjerno uvodi GMO u okoliš, odnosno namjerava ili stavlja te proizvode na tržište,
+
+– praćenje stanja (monitoring) je osmišljeno i sustavno praćenje i nadziranje GMO-a i prijamnog okoliša, ograničene uporabe GMO-a, postupaka namjernog uvođenja GMO-a u okoliš i stavljanja GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a na tržište, te mogućih štetnih posljedica sukladno propisima,
+
+– prekogranični prijenos GMO-a podrazumijeva:
+
+a) namjerni prekogranični prijenos GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a (uvoz, izvoz i provoz) ili
+
+b) nenamjerni prekogranični prijenos GMO-a posredstvom nekog prijenosnika (npr. čovjeka, životinje, vjetra, vode itd.),
+
+– prijava je zahtjev koji sadrži propisane podatke, koju podnositelj prijave podnosi nadležnom tijelu radi pribavljanja dopuštenja ili potvrde,
+
+– procjena rizika od GMO-a je utvrđivanje i vrednovanje opasnosti za biološku raznolikost, odnosno zdravlje ljudi koja bi mogla nastati radi ograničene uporabe GMO-a, namjernog uvođenja u okoliš ili stavljanja na tržište, i to za svaki pojedini slučaj,
+
+– proizvod od GMO-a označava pripravak koji se sastoji i/ili sadrži jedan ili više GMO-a, bez obzira na stupanj njegove obrade, koji je namijenjen za stavljanje na tržište,
+
+– provoz (tranzit) modificiranih živih organizama označava svaki promet GMO-a namijenjenih korisniku u drugoj državi preko područja Republike Hrvatske,
+
+– stavljanje GMO-a i proizvoda na tržište znači učiniti GMO i proizvode dostupnim trećim stranama, uz naknadu ili besplatno, izuzev ustupanja GMO-a ili proizvoda ovlaštenim osobama isključivo u svrhu ograničene uporabe ili u svrhu namjernog uvođenja u okoliš,
+
+– zatvoreni sustav je laboratorij ili proizvodni odjel, ili drugi od okoliša izolirani prostor u kojem se radi s GMO-om,
+
+– Mehanizam za razmjenu obavijesti o biološkoj sigurnosti (engl. Biosafety Clearing – House – BCH) je mehanizam za razmjenu obavijesti o biološkoj sigurnosti ustanovljen na temelju članka 20. Kartagenskog protokola biološkoj sigurnosti uz Konvenciju o biološkoj raznolikosti. Kartagenski protokol o biološkoj sigurnosti ratificiran je Zakonom o potvrđivanju Protokola o biološkoj sigurnosti uz Konvenciju o biološkoj raznolikosti »Narodne novine« – dodatak Međunarodni ugovori, br. 7/02.) – u daljnjem tekstu: Protokol,
+
+– mikroorganizam podrazumijeva svaki mikrobiološki entitet, stanični ili nestanični, koji je sposoban za reprodukciju ili za prenošenje genetskog materijala, uključujući viruse, viroide, životinjske i biljne stanice u kulturi,
+
+– koegzistencija genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda podrazumijeva suživot u proizvodnji poljoprivrednih kultura u danom području, pod uvjetima i na način koji omogućuje izbor između konvencionalnog, ekološkog i genetski modificiranog uzgoja usjeva,
+
+– genetski modificirani mikroorganizam (GMM) podrazumijeva mikroorganizam u kojem je genetski materijal izmijenjen na način koji se ne pojavljuje prirodnim putem parenjem i/ili prirodnom rekombinacijom.«
+
+### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»Za obavljanje stručnih i upravnih poslova kada se GMO i/ili proizvodi koji sadrže i/ili se sastoje ili potječu od GMO-a:
+
+– ograničeno uporabljuju u zatvorenom sustavu, nadležno je središnje tijelo državne uprave za poslove znanosti,
+
+– namjerno uvode u okoliš, nadležno je središnje tijelo državne uprave za poslove zaštite prirode,
+
+– stavljaju na tržište:
+
+a) kao hrana i hrana za životinje, nadležno je središnje tijelo državne uprave za poslove zdravstva,
+
+b) kao reprodukcijski materijal u poljoprivredi i veterini, nadležno je središnje tijelo državne uprave za poslove poljoprivrede i veterinarstva,
+
+c) kao sjemenski materijal, biljni dijelovi i sadni materijal šumskih svojti i križanaca za upotrebu u šumarstvu, nadležno je središnje tijelo državne uprave za poslove šumarstva,
+
+d) kao lijekovi u veterinarstvu i sredstva za zaštitu bilja, nadležno je središnje tijelo državne uprave za poslove poljoprivrede i veterinarstva.
+
+Pri upotrebi GMO-a i/ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a u kozmetici, farmaciji i zdravstvenoj zaštiti ljudi nadležno je središnje tijelo državne uprave za poslova zdravstva.
+
+O provedenim upravnim postupcima iz svoga djelokruga rada, tijela iz stavka 1. podstavka 1., 2. i 3. točke b), c), d) ovoga članka najkasnije do 31. ožujka za prethodnu godinu podnose godišnje izvješće središnjem tijelu državne uprave za poslove zdravstva.
+
+Dopuštenje za stavljanje GM hrane ili GM hrane za životinje izdaje ministar nadležan za poslove zdravstva uz suglasnost ministra nadležnog za poslove poljoprivrede i veterinarstva.«
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Odredbe ovoga Zakona ne primjenjuju se na uporabu genetski modificiranih mikro-organizama u zatvorenom sustavu u slučajevima kad se genetska modifikacija postiže primjenom sljedećih tehnika/metoda:
+
+1. mutageneza,
+
+2. fuzija stanica (uključujući fuziju protoplasta) prokariotskih vrsta koje razmjenjuju genetski materijal poznatim fiziološkim procesima,
+
+3. fuzija stanica (uključujući fuziju protoplasta) stanica eukariotskih vrsta,
+
+uključujući proizvodnju hibridoma i fuziju biljnih stanica,
+
+4. samokloniranje koje se sastoji od izoliranja sekvencija nukleinske kiseline iz stanica organizma, iza čega može i ne mora slijediti ponovno umetanje cijele te nukleinske kiseline, ili njezinoga dijela (ili sintetičkoga ekvivalenta), koji je ili nije enzimski ili mehanički promijenjen u stanice iste vrste ili u stanice filogenetski blisko srodnih vrsta koje mogu izmjenjivati genetski materijal prirodnim fiziološkim procesima, gdje ne postoji vjerojatnost da će dobiveni mikroorganizam izazvati bolest kod ljudi, životinja ili biljaka. Samokloniranje može uključivati upotrebu prijenosnika rekombinantnog vektora čija je sigurna uporaba u određenom mikroorganizmu već dugo poznata.
+
+Odredbe ovoga Zakona ne primjenjuje se na namjerno uvođenje GMO-a u okoliš i stavljanje na tržište GMO-a kad se genetska modifikacija postiže primjenom sljedećih tehnika/metoda:
+
+1. mutageneza,
+
+2. fuzija stanica (uključujući fuziju protoplasta) biljnih stanica organizama koji mogu razmjenjivati genetički materijal tradicionalnim uzgojnim metodama, pod uvjetom da ove tehnike/metode genetske modifikacije ne obuhvaćaju korištenje rekombinantnih molekula nukleinske kiseline ili GMO-a različitih od onih proizvedenih jednom ili više tehnika/metoda.
+
+Odredbe ovoga Zakona ne primjenjuju se na prijevoz GMO-a željeznicom, cestom, unutrašnjim vodenim putovima, morem ili zrakom, osim odredbi ovoga Zakona koje se odnose na procjenu rizika i na prijedlog mjera te poduzimanje mjera u slučaju nesreće pri uporabi GMO-a u zatvorenom sustavu.
+
+Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju hrane i hrane za životinje koja sadrži i/ili se sastoji i/ili potječe od GMO-a primjenjuju se odredbe Zakona o hrani i posebnih propisa.
+
+Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju lijekova koji sadrže i/ili se sastoje ili potječu od GMO-a, primjenjuju se odredbe ovoga Zakona samo kada je to izričito propisano.«
+
+### Članak 4.
+
+U članku 12. dodaju se novi stavci 1. i 2. koji glase:
+
+»Prekogranični prijenos GMO-a obavlja se u skladu s odredbama međunarodnih ugovora kojih je Republika Hrvatska stranka, odredbama ovoga Zakona i podzakonskih akata donesenih na temelju ovoga Zakona.
+
+Postupanje vezano uz prekogranični prijenos GMO-a uredbom će propisati Vlada Republike Hrvatske, na prijedlog čelnika središnjeg tijela državne uprave nadležnog za zaštitu prirode te uz suglasnost čelnika središnjih tijela državne uprave nadležnih za poslove zdravstva, zaštitu okoliša, poljoprivredu, šumarstvo i znanost.«
+
+Dosadašnji stavci 1. i 2. postaju stavci 3. i 4.
+
+### Članak 5.
+
+U članku 19. stavak 3. mijenja se i glasi:
+
+»Rok u kojem nadležno tijelo daje na uvid i omogućava davanje mišljenja i primjedbi na akte iz stavka 1. ovoga članka ne može biti kraći od petnaest dana niti dulji od trideset dana od dana objave tih akata. Taj rok se ne računa u rok za izdavanje dopuštenja utvrđen člankom 22. ovoga Zakona.«
+
+### Članak 6.
+
+U članku 35. stavak 3. mijenja se i glasi:
+
+»Rok u kojem nadležno tijelo omogućava uvid te davanje mišljenja i primjedbi ne može biti kraći od petnaest dana niti dulji od trideset dana od dana objave tih akata, i ne računa se u rok za izdavanje dopuštenja.«
+
+### Članak 7.
+
+U članku 38. stavku 1. iza riječi: »i obavijestiti nadležno tijelo« dodaju se riječi: »za poslove zaštite prirode«, a riječi: »i Državni zavod za zaštitu prirode« brišu se.
+
+### Članak 8.
+
+U članku 46. stavak 2. mijenja se i glasi:
+
+»Dopuštenje za stavljanje na tržište izdaje se na 10 godina, uz mogućnost produljenja sukladno odredbama ovoga Zakona i posebnih propisa.«
+
+### Članak 9.
+
+U članku 49. stavak 3. mijenja se i glasi:
+
+»Važenje dopuštenja može se produljiti najviše na deset godina.«
+
+### Članak 10.
+
+U članku 51. stavak 2. mijenja se i glasi:
+
+"Oznaka mora jasno navoditi »genetski modificiran organizam« ili sadržavati rečenicu »ovaj proizvod sadrži genetski modificirane organizme«, odnosno »ovaj proizvod potječe od genetski modificiranih organizama« sukladno odredbama posebnih propisa za označavanje GMO-a.«
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»GMO koji se stavlja na tržište, odnosno koji se namjerno uvodi u okoliš ne smije sadržavati gene koji izražavaju otpornost na antibiotike, koji se koriste u medicini i veterinarskoj medicini.«
+
+### Članak 11.
+
+Iza članka 52. dodaju se članci 52.a i 52.b koji glase:
+
+»Članak 52.a
+
+Uvođenje u okoliš genetski modificiranih biljaka i životinja za koje je izdano dopuštenje za stavljanje na tržište u svrhu uzgoja nije dopušteno u zaštićenim područjima i u područjima ekološke mreže, sukladno posebnim propisima kojima je uređena zaštita prirode, područjima namijenjenim ekološkoj proizvodnji poljoprivrednih proizvoda i ekološkim oblicima turizma, te područjima koja predstavljaju zaštitne zone utjecaja kao i na područjima koja su odlukom nadležnog tijela jedinice lokalne, odnosno područne (regionalne) samouprave proglašena područjima slobodnima od GMO.
+
+Uredbom Vlade Republike Hrvatske iz članka 27. stavka 1. ovoga Zakona nije dopušteno uvoditi u okoliš genetski modificiran reprodukcijski biljni materijal na područjima i stavka 1. ovoga članka.
+
+### Članak 52.b
+
+Krajnji korisnik GMO-a odobrenog za stavljanje na tržište u svrhu uzgoja dužan je pribaviti dopuštenje središnjeg tijela državne uprave za poslove zaštite prirode iz članka 3. ovoga Zakona nadležnog za namjerno uvođenje GMO-a u okoliš.
+
+U svrhu izdavanja dopuštenja iz stavka 1. ovoga članka, krajnji korisnik podnosi zahtjev koji sadrži sljedeće podatke:
+
+– ime, prezime i sjedište krajnjeg korisnika u Republici Hrvatskoj,
+
+– uobičajeni i komercijalni naziv GMO-a koji namjerava uzgajati te planiranu namjenu,
+
+– točnu lokaciju uzgoja (broj katastarske čestice) s izvatkom iz katastarskog plana,
+
+– predviđeno vrijeme početka uzgoja i način uzgoja,
+
+– pisanu suglasnost vlasnika parcela s kojima graniči/e parcela/e na koju/koje se unosi GMO i vlasnika parcela u zaštitnoj zoni utjecaja koja sprječava širenje GMO-a na okolna područja.
+
+Nadležno tijelo izdaje dopuštenje za uzgoj, ako su ispunjeni svi propisani uvjeti, uz pribavljanje prethodne suglasnosti središnjih tijela državne uprave nadležnih za poslove zdravstva, poljoprivrede, ribarstva i ruralnog razvoja te šumarstva. Dopuštenjem se utvrđuju uvjeti pod kojima se uzgoj može provesti te zaštitna zona utjecaja koja sprječava širenje GMO-a na okolna područja, osobito ako su to područja na kojima nije dopušteno namjerno uvođenje GMO-a u okoliš.«
+
+### Članak 12.
+
+Iza Glave III. ODGOVORNOST ZA ŠTETU NASTALU UPORABOM GMO-a i članka 55. dodaje se Glava III.a i članak 55.a koji glase:
+
+»Glava III.a KOEGZISTENCIJA GENETSKI MODIFICIRANIH USJEVA I KONVENCIONALNOG I ORGANSKOG UZGOJA
+
+### Članak 55.a
+
+Pitanje koegzistencije genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda u Republici Hrvatskoj uredit će se sukladno Nacionalnoj strategiji koegzistencije genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda.«
+
+### Članak 13.
+
+U članku 62. stavak 5. mijenja se i glasi:
+
+»Svatko ima pravo uvida u podatke iz upisnika GMO osim u podatke koji su označeni kao poslovna tajna. U upisnik se moraju upisivati i podaci koji su označeni kao poslovna tajna ili koji uživaju zaštitu na temelju posebnog propisa.«
+
+### Članak 14.
+
+Članak 64. mijenja se i glasi:
+
+»Za obavljanje inspekcijskih poslova kada se GMO i/ili proizvodi koji sadrže i/ili se sastoje ili potječu od GMO-a:
+
+– ograničeno uporabljuju, namjerno prekogranično prenose, stavljaju na tržište kao GM hrana sukladno posebnim propisima, kozmetika i lijekovima nadležno je središnje tijelo za poslove zdravstva,
+
+– stavljaju na tržište kao hranu, na razini proizvodnje i prerade, kao GM hranu životinjskog podrijetla, GM hranu koja sadrži sastojke životinjskog podrijetla, GM hranu za životinje bez obzira na podrijetlo nadležno je središnje tijelo državne uprave za poslove veterinarstva sukladno posebnim propisima;
+
+– stavljaju na tržište kao hranu, na razini maloprodaje, GM hranu za životinje bez obzira na podrijetlo nadležno je središnje tijelo državne uprave za poslove veterinarstva sukladno posebnim propisima;
+
+– stavljaju na tržite kao hranu, pri uvozu, GM hranu za životinje bez obzira na podrijetlo, GM hranu životinjskog podrijetla nadležno je središnje tijelo državne uprave za poslove veterinarstva sukladno posebnom propisu, a za GM hranu koja sadrži sastojke životinjskog i neživotinjskog podrijetla nadležno je središnje tijelo državne uprave za poslove veterinarstva i središnje tijelo državne uprave nadležno za poslove zdravstva sukladno posebnom propisu,
+
+– stavljaju na tržište kao reprodukcijski sjemenski i biljni materijal u poljoprivredi, kao reprodukcijski materijal u veterini, te kao lijekovi u veterinarstvu i kao sredstva za zaštitu bilja nadležno je središnje tijelo državne uprave za poslove poljoprivrede i veterinarstva sukladno posebnim propisima,
+
+– stavljaju na tržište kao sjemenski materijal, biljni dijelovi i sadni materijal šumskih svojti i križanaca za upotrebu nadležno je središnje tijelo državne uprave za poslove šumarstva,
+
+– nad označavanjem GMO–a nadležan je Državni inspektorat,
+
+– uslijed ne/namjernog uvođenja GMO-a u okoliš nadležno je središnje tijelo državne uprave za poslove zaštite prirode.
+
+O provedenim inspekcijskim nadzorima iz svoga djelokruga rada, tijela iz stavka 1. ovoga članka najkasnije do 31. ožujka za prethodnu godinu podnose godišnje izvješće središnjem tijelu državne uprave za poslove zdravstva.
+
+U slučaju neposredne opasnosti za zdravlje ljudi i u cilju zaštite okoliša od učinaka GMO-a čelnik središnjeg tijela državne uprave za poslove zdravstva obvezan je koordinirati inspekcijske nadzore tijela iz stavka 1. ovoga članka.«
+
+### Članak 15.
+
+Iza članka 64. dodaje se članak 64.a koji glasi:
+
+»Članak 64.a
+
+Nadležna inspekcijska tijela iz članka 64. ovoga Zakona u provedbi službene kontrole na prisutnost GMO-a obvezna su koristiti sljedeće prikladne kontrolne metode i tehnike:
+
+1. uzimanje uzoraka sirovina, poluproizvoda i gotovih proizvoda,
+
+2. analiziranje i ispitivanje uzetih uzoraka sukladno posebnim analitičkim ispitivanjima i metodama,
+
+3. pregledavanje dokumentacije i ostalih evidencija koje bi mogle biti od važnosti pri procjeni usklađenosti s odredbama ovoga Zakona i posebnih propisa,
+
+4. kontrola planova praćenja (monitoringa) korisnika i podnositelja prijave za GMO,
+
+5. priopćavanje rezultata analiza.
+
+Inspekcijski nadzor u provedbi službene kontrole iz stavka 1. ovoga članka obuhvaća:
+
+– nadzor objekata za ograničenu uporabu,
+
+– nadzor proizvođača primarnih proizvoda i subjekata u poslovanju s GM hranom i hranom za životinje, uključujući njihovo okruženje, objekte, opremu, postrojenje i strojeve, prijevozna sredstva kao i samu hranu i hranu za životinje,
+
+– inspekciju označavanja, prezentiranja i reklamiranja GMO-a,
+
+– procjenu postupaka dobre proizvodne, agronomske prakse, sukladno posebnim propisima,
+
+– razgovor sa subjektima u poslovanju s GMO-ima.«
+
+### Članak 16.
+
+Članak 65. mijenja se i glasi:
+
+»U provedbi inspekcijskog nadzora nadležni inspektor ima pravo i obvezu nadziranim osobama, koje nemaju dopuštenje nadležnog tijela ili druge suglasnosti, rješenjem zabraniti prekogranični promet, provoz, ograničenu uporabu, namjerno uvođenje u okoliš i stavljanje na tržište GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a.
+
+Inspektor može narediti hitne mjere radi zaštite života ljudi i životinja te smanjivanja štete nastale zbog obavljanja nedopuštenih djelatnosti, radnji ili zahvata.
+
+U provedbi inspekcijskog nadzora inspektor je ovlašten uzimati uzorke proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a.
+
+S uzorcima proizvoda iz stavka 3. ovoga članka mora se pažljivo postupati i označavati ih na propisani način, tako da je osigurana njihova cjelovitost i podobnost za predviđene analize.
+
+Pri uzimanju uzoraka iz stavka 3. ovoga članka potrebno je uzeti u obzir odgovarajuće preporuke Europske unije.
+
+Uzorci iz stavka 3. ovoga članka dostavljaju se u službene laboratorije za obavljanje analiza uzetih uzoraka, koji moraju biti akreditirani u skladu s odgovarajućim normama.«
+
+### Članak 17.
+
+U članku 67. iza stavka 2. dodaju se stavci 3., 4., 5. i 6. koji glase:
+
+»Za pokušaj prekršaja iz stavka 1. i 2. ovoga članka počinitelj će se kazniti.
+
+Novčanom kaznom u iznosu od 1.000,00 kuna inspektor će kazniti za prekršaj na mjestu počinjenja prekršaja odgovornu osobu u pravnoj osobi i fizičku osobu koja obavlja djelatnost vezanu za GMO, ako ne poštuje odredbe ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona.
+
+Ako osoba kažnjena za prekršaj iz stavka 4. ovoga članka ponovno počini istovjetni prekršaj, kaznit će se na mjestu počinjenja prekršaja novčanom kaznom u iznosu od 3.000,00 kuna.
+
+Uz kaznu za prekršaj iz stavka 1. i 2. ovoga članka pravnoj ili fizičkoj osobi može se izreći i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od tri mjeseca do jedne godine.«
+
+### Članak 18.
+
+U članku 68. stavku 1. podstavak 2. mijenja se i glasi:
+
+»– ako obavlja prekogranični prijenos GMO-a protivno odredbama ovoga Zakona,«
+
+Podstavak 20. mijenja se i glasi:
+
+»– stavlja na tržište proizvod od GMO-a bez potrebne dokumentacije, ili koji nije označen na propisani način (članak 51. i 52.), odnosno postupa protivno članku 52.a i 52.b ovoga Zakona,«
+
+Iza stavka 2. dodaju se stavci 3., 4., 5. i 6. koji glase:
+
+»Za pokušaj prekršaja iz stavka 1. i 2. ovoga članka počinitelj će se kazniti.
+
+Novčanom kaznom u iznosu od 1.000,00 kuna inspektor će kazniti za prekršaj na mjestu počinjenja prekršaja odgovornu osobu u pravnoj osobi i fizičku osobu koja obavlja djelatnost vezanu za GMO, ako ne poštuje odredbe ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona.
+
+Ako osoba kažnjena za prekršaj iz stavka 4. ovoga članka ponovno počini istovjetni prekršaj, kaznit će se na mjestu počinjenja prekršaja novčanom kaznom u iznosu od 3.000,00 kuna.
+
+Uz kaznu za prekršaj iz stavka 1. i 2. ovoga članka pravnoj ili fizičkoj osobi može se izreći i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od tri mjeseca do jedne godine.«
+
+### Članak 19.
+
+Iza članka 68. dodaju se članci 68.a i 68.b koji glase:
+
+»Članak 68.a
+
+Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj osoba član Vijeća i Odbora odnosno vanjski suradnik koji sudjeluje u radu Vijeća i Odbora ili koji sudjeluje u postupku izdavanja dopuštenja prema odredbama ovoga Zakona ako tijekom svojega mandata i po isteku mandata ne čuva podatke koji su označeni kao tajni u skladu s odredbama ovoga Zakona (članak 6. stavak 1. i 2.).
+
+### Članak 68.b
+
+Novčanom kaznom u iznosu od 350.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj pravna osoba koja postupa protivno odredbama članka 55.a ovoga Zakona.
+
+Novčanom kaznom od 10.000,00 do 15.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+
+Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna.
+
+Za pokušaj prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti.
+
+Uz kaznu za prekršaj iz stavka 1. ovoga članka pravnoj ili fizičkoj osobi može se izreći i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od tri mjeseca do jedne godine.«
+
+### Članak 20.
+
+Opći i posebni uvjeti koegzistencije genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda utvrdit će se Nacionalnom strategijom koegzistencije genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda koju na temelju stručnog mišljenja Odbora za uvođenje u okoliš, uz prethodno održanu javnu raspravu sukladno posebnim propisima koji uređuju informiranje i sudjelovanje zainteresirane javnosti u pitanjima zaštite okoliša, na prijedlog Vlade Republike Hrvatske donosi Hrvatski sabor.
+
+### Članak 21.
+
+Vlada Republike Hrvatske će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti propise za koje je ovlaštena ovim Zakonom.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
+
+Klasa: 310-26/09-01/02
+
+Zagreb, 30. listopada 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v.r.
+
+## Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima (NN 28/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/28/476*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GENETSKI MODIFICIRANIM ORGANIZMIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima, koji je Hrvatski sabor donio na sjednici 22. veljače 2013. godine.
+
+Klasa: 011-01/13-01/41
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 28. veljače 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O GENETSKI MODIFICIRANIM ORGANIZMIMA**
+
+### Članak 1.
+
+U Zakonu o genetski modificiranim organizmima (»Narodne novine«, br. 70/05. i 137/09.), iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim direktivama Europske unije:
+
+– Direktiva 2001/18/EZ Europskoga parlamenta i Vijeća od 12. ožujka 2001. o namjernom uvođenju genetski modificiranih organizama u okoliš, kojom se ukida Direktiva Vijeća 90/220/EEZ (SL L 106, 17.4.20101.),
+
+– Direktiva 2009/41/EZ Europskoga parlamenta i Vijeća od 6. svibnja 2009. o ograničenoj uporabi genetski modificiranih mikroorganizama (SL L 125, 21. 5. 2009.).
+
+Ovim se Zakonom utvrđuje okvir za provedbu pojedinih odredaba sljedećih uredbi Europske unije:
+
+– Uredba (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje (SL L 268, 18. 10. 2003.) – u daljnjem tekstu: Uredba (EZ) br. 1829/2003.,
+
+– Uredba (EZ) br. 641/2004 od 6. travnja 2004. o detaljnim pravilima za provedbu Uredbe (EZ-a) br. 1829/2003 Europskoga parlamenta i Vijeća glede prijave za odobrenje nove genetski modificirane hrane i hrane za životinje, notifikacije o postojećim proizvodima i slučajne, ali tehnološki neizbježne prisutnosti genetski modificiranog materijala koji je pri procjeni rizika povoljno ocijenjen, (SL L 102, 7. 4. 2004.) – u daljnjem tekstu: Uredba (EZ) br. 641/2004.,
+
+– Uredba (EZ) br. 1981/2006 od 22. prosinca 2006. godine o detaljnim pravilima za provedbu članka 32. Uredbe (EZ-a) br. 1829/2003 Europskoga parlamenta i Vijeća vezano za Referalni laboratorij zajednice za genetski modificirane organizme, (SL L 368, 23. 12. 2006., SL L 314M, 1. 12. 2007.) – u daljnjem tekstu: Uredba (EZ) br. 1981/2006.,
+
+– Uredba (EZ) br. 1830/2003. Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti prehrambenih proizvoda i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ, (SL L 268, 18. 10. 2003.) – u daljnjem tekstu: Uredba (EZ) br. 1830/2003.,
+
+– Uredba (EZ) br. 65/2004 od 14. siječnja 2004. o uspostavi sustava za razvoj i dodjeljivanje jedinstvenih identifikacijskih oznaka za genetski modificirane organizme (SL L 10, 16.1.2004.) – u daljnjem tekstu: Uredba (EZ) br. 65/2004.«.
+
+### Članak 2.
+
+U članku 2. podstavak 1. mijenja se i glasi:
+
+»– bioraznolikost je sveukupnost živih organizama koji su sastavni dijelovi ekosustava, a uključuje raznolikost unutar vrsta, između vrsta, životnih zajednica te raznolikost ekosustava,«.
+
+Na kraju podstavka 24. točka se zamjenjuje zarezom te se dodaju podstavci 25., 26. i 27. koji glase:
+
+»– genetski modificirana hrana je genetski modificirana hrana definirana Uredbom (EZ) br. 1829/2003,
+
+– genetski modificirana hrana za životinje je genetski modificirana hrana za životinje definirana Uredbom (EZ) br. 1829/2003,
+
+– genetski modificirani otpad je otpad nastao uporabom GMO-a ili otpad koji sadrži i/ili se sastoji ili potječe od GMO-a, a kojemu je u potpunosti ili djelomično uništena mogućnost prijenosa genetskog materijala čime je osiguran visoki stupanj sigurnosti za ljude, životinje i okoliš.«.
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»Za obavljanje stručnih i upravnih poslova kada se GMO i/ili proizvodi koji sadrže i/ili se sastoje ili potječu od GMO-a:
+
+– ograničeno uporabljuju u zatvorenom sustavu, nadležno je središnje tijelo državne uprave za poslove znanosti,
+
+– namjerno uvode u okoliš, nadležno je središnje tijelo državne uprave za poslove zaštite prirode,
+
+– stavljaju na tržište:
+
+a) kao hrana i hrana za životinje, nadležno je središnje tijelo državne uprave za poslove zdravlja,
+
+b) kao reprodukcijski materijal u poljoprivredi i veterini, nadležno je središnje tijelo državne uprave za poslove poljoprivrede,
+
+c) kao sjemenski materijal, biljni dijelovi i sadni materijal šumskih svojti i križanaca za upotrebu u šumarstvu, nadležno je središnje tijelo državne uprave za poslove poljoprivrede,
+
+d) kao lijekovi u veterinarstvu i sredstva za zaštitu bilja, nadležno je središnje tijelo državne uprave za poslove poljoprivrede.
+
+Pri upotrebi GMO-a i/ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a u kozmetici, farmaciji i zdravstvenoj zaštiti ljudi, nadležno je središnje tijelo državne uprave za poslove zdravlja.
+
+O provedenim upravnim postupcima iz svoga djelokruga, tijela iz stavka 1. podstavaka 1. i 2. i podstavka 3. točaka b), c) i d) ovoga članka najkasnije do 31. ožujka tekuće godine za prethodnu godinu podnose godišnje izvješće središnjem tijelu državne uprave za poslove zdravlja.
+
+Odobrenje za stavljanje na tržište GM hrane i GM hrane za životinje izdaje ministar nadležan za zdravlje.«.
+
+### Članak 4.
+
+Članak 9. mijenja se i glasi:
+
+»Uporaba GMO-a obavlja se na način kojim se sprječava ili na najmanju mjeru smanjuje opasnost za bioraznolikost, vodeći računa o opasnostima za zdravlje ljudi, životinja i okoliš.
+
+Radi sprječavanja negativnog utjecaja na očuvanje i održivo korištenje bioraznolikosti, vodeći računa o opasnostima za zdravlje ljudi, životinja i okoliš, osiguravaju se i provode odgovarajuće mjere zaštite radi sigurne uporabe GMO-a.«.
+
+### Članak 5.
+
+U članku 10. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»Nacionalni referentni laboratorij za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a ovlašćuje središnje tijelo državne uprave nadležno za poslove zdravlja.
+
+Nacionalni referentni laboratorij iz stavka 3. ovoga članka, uz uvjete propisane stavkom 2. ovoga članka, mora ispunjavati i uvjete propisane Uredbom (EZ) br. 1981/2006.«.
+
+### Članak 6.
+
+U članku 15. stavku 4. riječ: »šezdeset« zamjenjuje se riječju: »devedeset«.
+
+U stavku 5. riječ: »trideset« zamjenjuje se riječju: »šezdeset«.
+
+### Članak 7.
+
+U članku 18. stavku 3. podstavku 6. riječi: »okoliš i zdravlje ljudi« zamjenjuju se riječima: »zdravlje ljudi, životinja i okoliš«.
+
+### Članak 8.
+
+U članku 21. stavku 8. riječi: »od dvadeset i jedan dan« zamjenjuju se riječima: »od trideset dana«.
+
+### Članak 9.
+
+U članku 22. stavak 5. mijenja se i glasi:
+
+»Odbor za ograničenu uporabu GMO-a obvezan je svoje pisano mišljenje dati u roku od trideset dana, odnosno u roku od šezdeset dana za slučajeve iz stavka 4. ovoga članka računajući od dana kada mu je dostavljena preslika prijave.«.
+
+### Članak 10.
+
+U članku 23. stavku 1. riječi: »i/ili zdravlja ljudi,« zamjenjuju se riječima: »i/ili zdravlja ljudi i životinja,«.
+
+### Članak 11.
+
+U članku 51. stavci 2. i 3. brišu se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 2. i 3.
+
+### Članak 12.
+
+U članku 52. stavku 1. podstavak 2. mijenja se i glasi:
+
+»– odgovarajući jedinstveni kod (brojčani i abecedni) dodijeljen tom GMO-u u skladu s Uredbom (EZ) br. 65/2004.«.
+
+### Članak 13.
+
+Podnaslov iznad članka 64. mijenja se i glasi:
+
+»Službene kontrole«
+
+Članak 64. mijenja se i glasi:
+
+»Za obavljanje službenih kontrola kada se GMO i/ili proizvodi koji sadrže i/ili se sastoje ili potječu od GMO-a:
+
+– ograničeno uporabljuju, stavljaju na tržište kao: kozmetika, GM hrana neživotinjskog podrijetla na razini proizvodnje i prerade, GM hrana bez obzira na podrijetlo na razini maloprodaje GM hrane neživotinjskog podrijetla pri uvozu, GM hrana koja sadrži sastojke životinjskog i neživotinjskoga podrijetla pri uvozu, GM biljne kulture kao tehnološke sirovine u proizvodnji, preradi, maloprodaji i pri uvozu, nadležno je središnje tijelo državne uprave za poslove zdravlja,
+
+– GM hranu neživotinjskog podrijetla na razini primarne proizvodnje i pripadajućih djelatnosti proizvodnje, GM hranu životinjskog podrijetla na razini primarne proizvodnje i pripadajućih djelatnosti proizvodnje, GM hranu životinjskog podrijetla na razini proizvodnje i prerade, GM hranu koja sadrži sastojke životinjskog i neživotinjskog podrijetla na razini proizvodnje i prerade, GM hranu životinjskog podrijetla pri uvozu, GM hrane za životinje bez obzira na podrijetlo na razini proizvodnje i prerade, na razini maloprodaje i pri uvozu, GM poljoprivredni reprodukcijski materijal, odnosno sjemenski materijal, biljni dijelovi i sadni materijal šumskih svojti i križanaca za upotrebu na razini maloprodaje, kao lijekovi u veterinarstvu, pri uvozu, nadležno je središnje tijelo državne uprave za poslove poljoprivrede, veterinarstva i šumarstva,
+
+– za uvođenje GMO-a u okoliš, odnosno u prirodu u eksperimentalne svrhe, nadležno je središnje tijelo državne uprave za zaštitu prirode,
+
+– za zbrinjavanje, odnosno gospodarenje otpadom nastalog od GMO-a kada više nije sposoban za reprodukciju ili prijenos genetskog materijala na druge organizme, nadležna je inspekcija središnjeg tijela državne uprave za poslove zaštite okoliša,
+
+– nad označavanjem GMO-a i/ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a na razini maloprodaje, nadležan je Državni inspektorat.
+
+O provedenim službenim kontrolama iz svoga djelokruga, tijela iz stavka 1. ovoga članka najkasnije do 31. ožujka tekuće godine za prethodnu godinu podnose godišnje izvješće središnjem tijelu državne uprave za poslove zdravlja. Na osnovi dostavljenih izvješća o provedenim službenim kontrolama izrađuje se zajednički godišnji plan službenih kontrola u svrhu ispitivanja GMO-a na području Republike Hrvatske u suradnji s ovlaštenim laboratorijima za službene kontrole ispitivanja GMO-a.
+
+U slučaju neposredne opasnosti za zdravlje ljudi i radi zaštite okoliša od učinaka GMO-a, čelnik središnjeg tijela državne uprave za poslove zdravlja obvezan je koordinirati inspekcijske nadzore tijela iz stavka 1. ovoga članka.«.
+
+### Članak 14.
+
+U članku 64.a stavak 1. mijenja se i glasi:
+
+»Nadležna tijela iz članka 64. ovoga Zakona u provedbi službene kontrole na prisutnost GMO-a obvezna su koristiti prikladne kontrolne metode i tehnike sukladno odredbama Uredbe (EZ) br. 882/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o službenom nadzoru koji se provodi radi verifikacije postupanja u skladu s odredbama propisa o hrani i hrani za životinje te pravila o zdravlju i dobrobiti životinja (u daljnjem tekstu: Uredba (EZ) br. 882/2004.).«.
+
+U stavku 2. podstavak 4. mijenja se i glasi:
+
+»– procjenu postupaka dobre proizvodne, agronomske prakse, analize opasnosti i kritičnih kontrolnih točaka sukladno posebnim propisima,«.
+
+### Članak 15.
+
+U članku 65. stavak 5. mijenja se i glasi:
+
+»Pri uzimanju uzoraka iz stavka 3. ovoga članka potrebno je uzeti u obzir preporuke Europske unije, i to: Preporuku (EZ) 787/2004 i preporuke iz Uredbe (EZ) br. 619/2011 od 24. lipnja 2011. o utvrđivanju metoda uzorkovanja i analize za službenu kontrolu hrane za životinje s obzirom na prisutnost genetski modificiranog materijala za koji je postupak odobravanja u tijeku ili je odobrenje isteklo.«.
+
+### Članak 16.
+
+U članku 66. stavku 3. iza riječi: »odlaganje u okoliš,« dodaju se riječi: »ili narediti povrat pošiljke u državu članicu podrijetla pošiljke,«.
+
+Stavak 4. mijenja se i glasi:
+
+»Troškove analize i uništavanja, povrata pošiljke, kao i privremene pohrane i čuvanja, ako se analizom utvrdi da se radi o nedopuštenom uvozu, ograničenoj uporabi, uvođenju u okoliš, stavljanju na tržište ili odlaganju u okoliš, snosi uvoznik, odnosno korisnik GMO-a ili proizvoda koji sadrži i/ili se sastoji ili potječe od GMO-a.«.
+
+### Članak 17.
+
+Čelnik središnjeg tijela državne uprave za poslove zdravlja do 30. lipnja 2013. obvezan je ovlastiti nacionalni referentni laboratorij iz članka 5. ovoga Zakona.
+
+### Članak 18.
+
+U cijelom tekstu Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/05. i 137/09.) riječi: »biološka raznolikost« zamjenjuju se riječju: »bioraznolikost«, riječ: »dužan« zamjenjuje se riječju: »obvezan«, riječ: »zdravstvo« zamjenjuje se riječju: »zdravlje« i riječi: »poslovi zdravstva« zamjenjuju se riječima: »poslovi zdravlja«, u odgovarajućem rodu, broju i padežu.
+
+### Članak 19.
+
+Danom stupanja na snagu ovoga Zakona prestaju važiti:
+
+1. Uredba o prekograničnom prijenosu genetski modificiranih organizama (»Narodne novine«, br. 89/10.),
+
+2. Uredba o razini genetski modificiranih organizama u proizvodima ispod koje proizvodi koji se stavljaju na tržište ne moraju biti označeni kao proizvodi koji sadrže genetski modificirane organizme (»Narodne novine«, br. 92/08., 36/09., 33/10., 88/11. i 39/12.).
+
+### Članak 20.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/22
+
+Zagreb, 22. veljače 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o genetski modificiranim organizmima (NN 47/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/47/877*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O GENETSKI MODIFICIRANIM ORGANIZMIMA
+
+Proglašavam Zakon o izmjeni Zakona o genetski modificiranim organizmima, koji je Hrvatski sabor donio na sjednici 4. travnja 2014. godine.
+
+Klasa: 011-01/14-01/77  
+Urbroj: 71-05-03/1-14-2  
+Zagreb, 10. travnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O GENETSKI MODIFICIRANIM ORGANIZMIMA**
+
+### Članak 1.
+
+U Zakonu o genetski modificiranim organizmima (»Narodne novine« br. 70/05., 137/09. i 28/13.) u članku 64. stavku 1. podstavak 5. mijenja se i glasi:
+
+»– nad označavanjem GMO-a i/ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a na razini maloprodaje, nadležna je inspekcija za kakvoću hrane središnjeg tijela državne uprave za poslove poljoprivrede.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/51  
+Zagreb, 4. travnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

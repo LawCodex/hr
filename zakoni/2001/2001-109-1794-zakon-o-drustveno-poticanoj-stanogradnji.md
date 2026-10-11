@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-12-11
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "109/01"
-amendments: []
+last_amended: 2015-03-09
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "109/01, 38/09, 86/12, 26/15"
+amendments:
+  - "NN 38/2009 (834) Zakon o izmjeni Zakona o društveno poticanoj stanogradnji"
+  - "NN 86/2012 (1966) Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji"
+  - "NN 26/2015 (543) Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1794"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o društveno poticanoj stanogradnji
 
 > Izvor: Narodne novine, NN 109/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1794).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 38/2009, NN 86/2012, NN 26/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -348,3 +354,454 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o društveno poticanoj stanogradnji (NN 38/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/834*
+
+HRVATSKI SABOR
+
+Na teme ju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DRUŠTVENO POTICANOJ STANOGRADNJI
+
+Proglašavam Zakon o izmjeni Zakona o društveno poticanoj stanogradnji, kojega je Hrvatski sabor donio na sjednici 20. ožujka 2009. godine.
+
+Klasa: 011-01/09-01/39
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 24. ožujka 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DRUŠTVENO POTICANOJ STANOGRADNJI**
+
+### Članak 1.
+
+U Zakonu o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04. i 76/07.) u članku 23. stavku 3. riječ: »poglavarstvo« zamjenjuje se riječima: »izvršno tijelo«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.
+
+Klasa: 370-01/09-01/02
+
+Zagreb, 20. ožujka 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji (NN 86/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1966*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRUŠTVENO POTICANOJ STANOGRADNJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji, koji je Hrvatski sabor donio na sjednici 13. srpnja 2012. godine.
+
+Klasa: 011-01/12-01/96
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 18. srpnja 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRUŠTVENO POTICANOJ STANOGRADNJI**
+
+#### Članak 1.
+
+U Zakonu o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04., 76/07. i 38/09.) u članku 5. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) U slučajevima iz članka 13. i 18. ovoga Zakona financijska sredstva Republike Hrvatske mogu se koristiti i do 45% etalonske cijene građenja po m2 korisne površine stana, radi pribavljanja građevinskog zemljišta za izgradnju stanova i financiranja uređenja komunalne infrastrukture i priključaka na infrastrukturu.
+
+(3) Etalonsku cijenu građenja utvrđuje ministar nadležan za graditeljstvo na temelju cijena građenja m2 stambene površine u Republici Hrvatskoj, iskazanu po m2 stana, a koji podatak se objavljuje u »Narodnim novinama«.«.
+
+U stavku 4. iza riječi: »uključivo« dodaju se riječi: »vodni doprinos«.
+
+#### Članak 2.
+
+U članku 7. stavku 4. druga rečenica briše se.
+
+#### Članak 3.
+
+Dosadašnja odredba članka 9. postaje stavak 1. toga članka te se ispred riječi: »Nositelji« dodaje oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Osobe iz stavka 1. ovoga članka u obavljanju investitorskih poslova dužne su poslovati pridržavajući se načela dobrog gospodara, donositi poslovne i druge odluke u skladu s ovim Zakonom i drugim propisima te pravilima poslovanja i struke, radi učinkovite realizacije projekata izgradnje i ostvarivanja ciljeva utvrđenih ovim Zakonom.«.
+
+#### Članak 4.
+
+U članku 11. stavku 1. iza riječi: »vrijednosti« stavlja se točka, a riječi: »koja čini osnovicu za obračun poreza na promet nekretnina, o čemu mišljenje daje nadležna Porezna uprava« i točka na kraju brišu se.
+
+#### Članak 5.
+
+U članku 12. na kraju rečenice briše se točka te se dodaju riječi: »ili trećih osoba, a koja prava i obveze se uređuju ugovorom između sudionika u tom pravnom poslu.«.
+
+#### Članak 6.
+
+U članku 13. iza riječi: »dostatno građevinsko zemljište« dodaju se riječi: »i/ili uređenje komunalne infrastrukture i priključke na infrastrukturu,«.
+
+#### Članak 7.
+
+U članku 16.a stavci 2. i 3. mijenjaju se i glase:
+
+"(2) Financijskim sredstvima Republike Hrvatske osigurava se pokriće dijela troškova izgradnje po m2 neto površine garaže u visini 60%, odnosno po m2 neto površine garažno-parkirnog mjesta u visini 50% iznosa iz članka 5. ovoga Zakona koji se odnosi na stambeni prostor.
+
+(3) U slučaju iz stavka 1. ovoga članka, radi zatvaranja financijske konstrukcije, odnosno pokrića svih troškova izgradnje, Agencija u postupku prodaje stana može odrediti obvezu i kupnje garaže ili garažno-parkirnog mjesta.«.
+
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+
+»(4) Prodaja garaže i/ili garažno-parkirnih mjesta moguća je uz obročni način plaćanja cijene s vlastitim učešćem u visini 20% cijene, uz iste uvjete otplate i instrumente osiguranja povrata sredstava koja se odnose na prodaju stana uz obročnu otplatu.
+
+(5) Ako Agencija nije utvrdila obvezu kupnje garaže ili garažno--parkirnog mjesta zajedno sa stanom, a kupci stanova ili poslovnih prostora nemaju interesa za kupnju garaže ili garažno-parkirnog mjesta, Agencija je ovlaštena postupiti sukladno članku 16. stavku 2. ovoga Zakona.
+
+(6) Ukoliko je prostornim planom na određenoj lokaciji uz gradnju stanova planirana i gradnja poslovnih prostora javne namjene (škole, vrtići, knjižnice, ambulante i sl.), financijska sredstva za tu gradnju osigurava jedinica lokalne samouprave ili se podmirenje tih troškova osigurava na drugi odgovarajući način.«.
+
+#### Članak 8.
+
+Iza članka 17. dodaje se članak 17.a koji glasi:
+
+»Članak 17.a
+
+(1) Pravna ili fizička osoba ovlaštena za poslove građenja može Agenciji ponuditi građevinsko zemljište u svom vlasništvu i određenu projektnu dokumentaciju za tu lokaciju te gradnju stanova, odnosno zgrade na tom zemljištu, u kojem slučaju Agencija s tom osobom može sklopiti ugovor o građenju neposredno bez javnog nadmetanja pod uvjetom da:
+
+– Agencija ocijeni da postoji interes za kupnju, odnosno prodaja stanova u zgradi je izvjesna ili na određeni način osigurana,
+
+– cijena zemljišta nije viša od 20% etalonske cijene građenja ukupne korisne površine stanova u građevini koja će se graditi na tom zemljištu,
+
+– ponuđena cijena građenja po m2 korisne površine nije više od etalonske cijene građenja,
+
+– predvidiva prodajna cijena stana nije viša od 92% najviše prodajne cijene stana prema ovome Zakonu,
+
+– izvođač ponudi odgovarajuća jamstva za kvalitetno i pravodobno izvršenje radova te otklanjanje nedostataka, odnosno na temelju ugovora osigura za te namjene instrumente osiguranja koja su neopoziva i koja su na prvi poziv,
+
+– jedinica lokalne samouprave preuzme obvezu podmirenja troškova uređenja komunalne infrastrukture i priključaka na infrastrukturu ili je podmirenje tih troškova osigurano na drugi odgovarajući način.«
+
+(2) Ako Agencija ocijeni da je ponuđena projektna dokumentacija iz stavka 1. ovoga članka odgovarajuća, može je otkupiti od ponuditelja po tržišnoj cijeni, vodeći pri tome računa i o pitanju autorskih prava. U slučaju da ponuđena dokumentacija nije odgovarajuća ili dostatna za gradnju, poslovi projektiranja potrebne projektne dokumentacije mogu se obuhvatiti ugovorom o građenju iz stavka 1. ovog članka s odredbom »ključ u ruke« prema posebnom zakonu ili se za tu uslugu projektiranja provodi odgovarajući postupak javne nabave.«
+
+#### Članak 9.
+
+U članku 19. stavak 2. mijenja se i glasi:
+
+»(2) Prodajna cijena stana po m2 korisne, odnosno prodajne površine ne može biti viša od etalonske cijene građenja m2 stana uvećane za 40%.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) U jednom stambenom, odnosno stambeno-poslovnom objektu Agencija kao investitor može odrediti različite cijene stanova i drugih posebnih dijelova nekretnine, ovisno o njihovoj opremi i položaju u objektu, odnosno od investitora procijenjene korisne vrijednosti tih posebnih dijelova nekretnine.«
+
+#### Članak 10.
+
+U članku 20. stavku 1. riječ: »konačnosti« zamjenjuje se riječju: »izvršnosti«.
+
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) U postupku utvrđivanja podobnosti određene lokacije za izgradnju, odnosno interesa za kupnju stanova na toj lokaciji, a radi osiguranja pravodobne prodaje, Agencija može i prije izvršnosti akta na temelju kojeg se može graditi građevina sa zainteresiranim osobama sklopiti predugovor o kupoprodaji, kojim se utvrđuje da će kupac platiti kaparu u visini do 5% predvidive prodajne cijene stana kao jamstvo da će stan biti prodan. Taj predugovor ne isključuje sklapanje predugovora iz stavka 1. ovoga članka.
+
+(3) U slučaju ako u roku utvrđenom predugovorom iz stavka 2. ovoga članka Agencija ocijeni lokaciju podobnom i pristupi izgradnji, plaćena kapara smatra se dijelom vlastitog učešća, u suprotnom kapara se vraća s kamatom po kamatnoj stopi poslovne banke Agencije za oročene štedne uloge na tri mjeseca, računajući od dana uplate kapare do dana njenog povrata.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 4., 5. i 6.
+
+#### Članak 11.
+
+U članku 23. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ako osoba koja je podnijela zahtjev za kupnju stana ostvaruje pravo, odnosno ispunjava uvjet iz članka 21. stavka 1. ovoga Zakona, u skladu s uvjetima i mjerilima za određivanje reda prvenstva uvrštava se na odgovarajuće mjesto na toj listi.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) U postupcima utvrđivanja liste reda prvenstva od podnositelja zahtjeva za kupnju stana mogu se, kao dokaz za ispunjavanje određenih uvjeta i mjerila, tražiti samo dokumenti ili potvrde čije ishođenje ne zahtijeva značajnija financijska sredstva. Istinitost podataka u pogledu ispunjavanja određenih uvjeta i mjerila za kupnju stana prema utvrđenoj listi reda prvenstva podnositelj zahtjeva prema potrebi dokazuje odgovarajućim dokumentima ili potvrdama neposredno prije sklapanja predugovora, odnosno ugovora o kupoprodaji.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+#### Članak 12.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Ako u roku od 6 mjeseci od početka gradnje određene građevine nisu sklopljeni predugovori o kupoprodaji svih stanova, garaža i garažno-parkirnih mjesta u toj zgradi u skladu s uvjetima i mjerilima iz članka 23. ovoga Zakona, Agencija može preostale nekretnine prodati neovisno o tim uvjetima. U tom slučaju prodajnu cijenu nekretnina utvrđuje Agencija imajući u vidu troškove izgradnje i financiranja te tržišnu vrijednost tih nekretnina i mogućnosti prodaje u odnosu na stanje na tržištu nekretnina.
+
+(2) U slučaju iz stavka 1. ovoga članka stan, odnosno nekretnine mogu kupiti sve osobe koje prema važećim propisima mogu stjecati pravo vlasništva nekretnina u Republici Hrvatskoj.
+
+(3) Prodaja nekretnina u slučaju iz stavka 1. ovoga članka provodi se prema uvjetima i u postupku koji utvrdi Agencija, u pravilu bez posebnih ograničenja i prema vremenskom redoslijedu podnošenja zahtjeva za kupnju određenog stana.
+
+(4) Ukoliko se poslovni prostori, stanovi, garaže i garažno-parkirna mjesta ne prodaju pod uvjetima iz ovoga Zakona u primjerenom roku, do njihove prodaje Agencija u okviru svog poslovanja može uz suglasnost Upravnog vijeća Agencije te nekretnine dati u zakup, odnosno najam, prema uvjetima koje odobri Upravno vijeće Agencije.«.
+
+#### Članak 13.
+
+U članku 25. stavku 2. brojka: »20« zamjenjuje se brojkom: »29«.
+
+#### Članak 14.
+
+Članak 28.a briše se.
+
+#### Članak 15.
+
+U članku 30. stavci 2., 3. i 4. brišu se.
+
+Dosadašnji stavci 5. i 6. postaju stavci 2. i 3.
+
+#### Članak 16.
+
+Iza članka 30. dodaje se podnaslov i članak 30.a koji glase:
+
+### »POSEBNI PROGRAMI
+
+#### Članak 30.a
+
+(1) Javnim sredstvima se uz primjenu načela iz članka 2. ovog Zakona može poticati izgradnja i prodaja novoizgrađenih stanova na tržištu, posebice u slučaju poremećaja na tržištu nekretnina i u području stanogradnje.
+
+(2) Poticanje iz stavka 1. ovoga članka provodi se prema posebnim programima koje utvrđuje Agencija uz prethodnu suglasnost ministra nadležnog za graditeljstvo, u skladu s kojim Agencija osigurava sredstva potrebna za njihovu provedbu.
+
+(3) Javna sredstva koja se koriste za provedbu programa su povratna, a vraćaju se u roku do 31 godine od sklapanja ugovora, uz valutnu klauzulu vezanu uz EUR-o i s kamatom obračunatom uz kamatne stope koje mogu biti do jedan postotni poen manje od kamatnih stopa iz članka 26. stavka 1. ovoga Zakona.
+
+(4) Radi osiguranja povoljnijih uvjeta financiranja i stvaranja preduvjeta za učinkovitu provedbu posebnih programa, Agencija može kupcima stanova, bankama i drugim sudionicima omogućiti određena jamstva, te u tu svrhu osigurati jamstveni fond koji se financira na način utvrđen programom.
+
+(5) Za poticanje prema programima iz stavka 2. ovoga članka, uz financijska sredstva koja osigurava Republika Hrvatska, jedinica lokalne samouprave može na temelju odluke izvršnog tijela te jedinice osigurati i svoja sredstva ovisno o njenim mogućnostima i potrebama, u skladu s ugovorom sklopljenim s Agencijom.«.
+
+#### Članak 17.
+
+U članku 31. stavku 1. riječi: »javne radove i« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 18.
+
+Zabranu otuđenja, odnosno stvarnopravnog raspolaganja stanom upisanu u zemljišnim knjigama na temelju članka 28.a Zakona o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04., 76/07. i 38/09.) stupanjem na snagu ovoga Zakona nadležni sud brisat će iz zemljišne knjige na zahtjev vlasnika te nekretnine, bez suglasnosti prodavatelja stana.
+
+#### Članak 19.
+
+Postupci pokrenuti po odredbama Zakona o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04., 76/07. i 38/09.) dovršit će se prema odredbama ovoga Zakona.
+
+#### Članak 20.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o društveno poticanoj stanogradnji.
+
+#### Članak 21.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 370-01/12-01/01
+
+Zagreb, 13. srpnja 2012.
+
+HRVATSKI SABOR
+
+Potpredsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji (NN 26/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/26/543*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJA ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRUŠTVENO POTICANOJ STANOGRADNJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji, koji je Hrvatski sabor donio na sjednici 27. veljače 2015. godine.
+
+Klasa: 011-01/15-01/16  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 4. ožujka 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRUŠTVENO POTICANOJ STANOGRADNJI**
+
+#### Članak 1.
+
+U Zakonu o društveno poticanoj stanogradnji (»Narodne novine« br. 109/01., 82/04., 76/07., 38/09., 86/12. i 7/13.) u članku 2. iza riječi: »tih sredstava« riječ: »te« briše se, a iza riječi: »rokova otplate« dodaju se riječi: », te omogućuje davanje u najam izgrađenih stanova uz mogućnost otkupa istih«.
+
+#### Članak 2.
+
+U članku 3. stavak 1. mijenja se i glasi:
+
+»(1) Javnim sredstvima se u skladu s odredbama ovoga Zakona potiče organizirana izgradnja stanova, u pravilu u višestambenim zgradama i zgradama u nizu, namijenjenih za prodaju uz mogućnost obročnog načina plaćanja ili za davanje u najam s mogućnošću otkupa građanima državljanima Republike Hrvatske radi rješavanja njihovih stambenih potreba.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Stanovi iz stavka 1. ovoga članka namijenjeni su i za prodaju jedinicama lokalne samouprave radi davanja istih u najam, te radi osiguranja stanova zaštićenim najmoprimcima koji koriste stan u vlasništvu fizičkih osoba.«.
+
+#### Članak 3.
+
+U članku 4. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Dio sredstava za namjenu iz stavka 1. ovoga članka osigurava se i povratima ranije danih kredita i prihodima od najma. Ova sredstva Agencija za pravni promet i posredovanje nekretninama – APN (u daljnjem tekstu: Agencija) i neprofitne pravne osobe uplaćuju tromjesečno na račun za posebne namjene u državnoj riznici.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 4.
+
+U članku 6. stavku 1. iza riječi: »kupnju« dodaju se riječi: »ili najam«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) U slučajevima iz stavka 2. ovoga članka kada jedinica lokalne samouprave osigurava građevinsko zemljište:
+
+– Agencija od svake kupoprodaje stana, poslovnog prostora, garaže ili garažnog parkirnog mjesta isplaćuje jedinici lokalne samouprave 35% cijene građevinskog zemljišta, koja je utvrđena u ugovoru iz članka 17. stavka 4. ovoga Zakona koji je sklopljen između Agencije i jedinice lokalne samouprave. Isplata jedinici lokalne samouprave obavlja se u roku od tri mjeseca po naplati Agencije od kupaca na temelju zaključenog predugovora o kupoprodaji.
+
+– Agencija od svake naplaćene najamnine isplaćuje jedinici lokalne samouprave 35% cijene građevinskog zemljišta, koja je utvrđena u ugovoru iz članka 17. stavka 4. ovoga Zakona koji je sklopljen između Agencije i jedinice lokalne samouprave. Isplata jedinici lokalne samouprave obavlja se u roku od tri mjeseca po naplati Agencije od najmoprimaca na temelju zaključenog ugovora o najmu.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) U slučajevima kada jedinica lokalne samouprave podmiruje troškove koji se odnose na osiguranje uređenja komunalne infrastrukture i priključaka na infrastrukturu:
+
+– Agencija od svake kupoprodaje stana, poslovnog prostora, garaže ili garažnog parkirnog mjesta na stambenom objektu isplaćuje jedinici lokalne samouprave 35% cijene komunalne infrastrukture i priključaka na infrastrukturu koja je utvrđena u ugovoru iz članka 17. stavka 4. ovoga Zakona sklopljenog između Agencije i jedinice lokalne samouprave. Isplata jedinici lokalne samouprave obavlja se u roku od tri mjeseca po naplati Agencije od kupca na temelju sklopljenog predugovora o kupoprodaji.
+
+– Agencija od svake naplaćene najamnine isplaćuje jedinici lokalne samouprave 35% cijene komunalne infrastrukture i priključaka na infrastrukturu, koja je utvrđena u ugovoru iz članka 17. stavka 4. ovoga Zakona koji je sklopljen između Agencije i jedinice lokalne samouprave. Isplata jedinici lokalne samouprave obavlja se u roku od tri mjeseca po naplati Agencije od najmoprimaca na temelju sklopljenog ugovora o najmu.«.
+
+#### Članak 5.
+
+U članku 9. stavku 1. iza riječi: »izgradnjom« dodaje se riječ: », najmom«.
+
+#### Članak 6.
+
+U članku 9.a stavku 1. zagrada i riječi u zagradi: »(u daljnjem tekstu: Agencija)« brišu se.
+
+#### Članak 7.
+
+U članku 10. stavku 2. riječi: »na posebnom podračunu« brišu se.
+
+#### Članak 8.
+
+U članku 15. stavku 4. iza riječi: »rata« dodaju se riječi: », kupac s invaliditetom«.
+
+#### Članak 9.
+
+U članku 16.a stavku 4. brojka: »20%« zamjenjuje se brojkom: »15%«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) U slučaju izgradnje stanova za najam, te pripadnih parkirnih mjesta, garažnih parkirnih mjesta i garaža, financijskim sredstvima Republike Hrvatske osigurava se pokriće svih troškova u vezi s izgradnjom istih, umanjenim za sudjelovanje jedinice lokalne samouprave i za prostore navedene u stavku 6. ovoga članka.«.
+
+#### Članak 10.
+
+U članku 17. stavku 2. podstavku 6. iza riječi: »prodaje« dodaju se riječi: »ili najma«.
+
+U stavku 3. iza riječi: »prodaje« dodaju se riječi: »ili najma«.
+
+#### Članak 11.
+
+U članku 17.a stavku 1. podstavak 1. mijenja se i glasi:
+
+»– Agencija ocijeni da postoji interes za kupnju ili najam stanova, odnosno da je prodaja ili najam stanova u zgradi izvjestan,«.
+
+U podstavku 4. brojka: »92%« zamjenjuje se brojkom: »93%«.
+
+#### Članak 12.
+
+U članku 19. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) U slučaju građenja stanova za najam na određenoj lokaciji, Agencija je dužna primijeniti odredbe iz stavaka 1., 2. i 3. ovoga članka, te izraditi kalkulaciju povratnog priljeva sredstava od najma, imajući u vidu troškove izgradnje i primjereni rok povrata uloženih javnih sredstava.«.
+
+#### Članak 13.
+
+U članku 23. stavak 3. mijenja se i glasi:
+
+»(3) Uvjete, mjerila i postupak za određivanje reda prvenstva za kupnju stana, u skladu s uvjetima iz članka 21. i 22. ovoga Zakona, propisuje predstavničko tijelo jedinice lokalne samouprave ovisno o lokalnim potrebama i prilikama. Izvršno tijelo jedinice lokalne samouprave posebnom odlukom propisuje red prvenstva za kupnju stana u skladu s kojim redoslijedom Agencija prodaje stanove.«.
+
+#### Članak 14.
+
+U članku 25. stavku 2. brojka: »29« zamjenjuje se brojkom: »21«.
+
+#### Članak 15.
+
+U članku 26. stavku 1. brojka: »2%« zamjenjuje se brojkom: »1%«, a brojka: »5%« zamjenjuje se brojkom: »3%«.
+
+#### Članak 16.
+
+Iza članka 28. dodaju se naslovi iznad članaka i članci 28.a, 28.b i 28.c koji glase:
+
+### »UVJETI NAJMA STANOVA
+
+#### Članak 28.a
+
+(1) Ako jedinica lokalne samouprave sudjeluje u izgradnji stanova za najam, uvjete, mjerila i postupak za određivanje reda prvenstva za najam stana propisuje predstavničko tijelo jedinice lokalne samouprave uz suglasnost Agencije.
+
+(2) Izvršno tijelo jedinice lokalne samouprave iz stavka 1. ovoga članka posebnom odlukom propisuje red prvenstva za najam stana u skladu s kojim redoslijedom Agencija iznajmljuje stanove.
+
+#### Članak 28.b
+
+(1) Ako jedinica lokalne samouprave ne sudjeluje u izgradnji stanova za najam, Agencija planira izgradnju stanova u određenom opsegu radi davanja istih u najam sukladno pravilniku kojim se propisuju podrobniji uvjeti, mjerila i postupak za određivanje reda prvenstva za najam stana.
+
+(2) Pravilnik iz stavka 1. ovoga članka donosi ministar nadležan za poslove graditeljstva.
+
+### VISINA NAJAMNINE
+
+#### Članak 28.c
+
+Visinu najamnine određuje Upravno vijeće Agencije, na temelju kalkulacije troškova izgradnje i primjerenog roka povrata uloženih javnih sredstava, za svaku lokaciju posebno.«.
+
+#### Članak 17.
+
+Naslov iznad članka 29. mijenja se i glasi: »SREDSTVA OD PRODAJE I NAJMA«.
+
+Članak 29. mijenja se i glasi:
+
+»(1) Sredstva od prodaje i najma nekretnina uplaćuju se na poseban račun Agencije.
+
+(2) Sredstva od prodaje i najma stanova, odnosno prodaje poslovnih prostora, garaža i garažnih parkirnih mjesta koja na temelju ovoga Zakona pripadaju Republici Hrvatskoj, kao i preostala sredstva nakon podmirenja ukupnih troškova izgradnje, Agencija koristi za daljnje poticanje stanogradnje.
+
+(3) Sredstva od prodaje i najma stanova odnosno prodaje poslovnih prostora, garaža i garažnih parkirnih mjesta koja pripadaju jedinici lokalne samouprave, Agencija doznačuje toj jedinici u njezin proračun prema izvršenim uplatama kupaca, u pravilu tromjesečno ili u slučaju najma na način određen člankom 6. ovoga Zakona.
+
+(4) Agencija je dužna voditi cjelovitu evidenciju prodanih stanova i drugih nekretnina, te stanova danih u najam, pratiti obročnu otplatu i naplatu najamnine, kao i povrat javnih sredstava, voditi evidenciju o naplati, uplaćenim sredstvima te prispjelim financijskim i drugim obvezama u vezi s poticanjem stanogradnje prema ovome Zakonu.«.
+
+#### Članak 18.
+
+U članku 30.a stavku 3. riječi: »koje mogu biti do jedan postotni poen manje od kamatnih stopa« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 19.
+
+(1) Odredba članka 15. ovoga Zakona ne primjenjuje se na ugovore o kupoprodaji sklopljene prije stupanja na snagu ovoga Zakona.
+
+(2) Pravilnik iz članka 16. ovoga Zakona donosi ministar nadležan za poslove graditeljstva u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Iznimno od članka 19. stavka 2. i članka 20. stavka 4. Zakona o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04., 76/07., 38/09., 86/12. i 7/13.), prodajna cijena stana može biti uvećana i za iznos poreza na dodanu vrijednost obračunatog na vrijednost pripadnog zemljišta, ako su radovi za izgradnju istog započeli prije 3. prosinca 2014.
+
+#### Članak 20.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/12  
+Zagreb, 27. veljače 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

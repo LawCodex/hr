@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-01-30
-last_amended: 2007-10-19
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2013-07-22
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "10/97, 107/07"
+narodne_novine: "10/97, 107/07, 94/13"
 amendments:
   - "NN 107/2007 (3135) Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i naobrazbi"
+  - "NN 94/2013 (2130) Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/10/152"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 10/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/10/152).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 107/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 107/2007, NN 94/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -769,3 +770,340 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi (NN 94/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2130*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PREDŠKOLSKOM ODGOJU I NAOBRAZBI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi, koji je Hrvatski sabor donio na sjednici 15. srpnja 2013. godine.
+
+Klasa: 011-01/13-01/201
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 18. srpnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PREDŠKOLSKOM ODGOJU I NAOBRAZBI**
+
+#### Članak 1.
+
+U Zakonu o predškolskom odgoju i naobrazbi (»Narodne novine«, br. 10/97. i 107/07.) naziv Zakona mijenja se i glasi: »Zakon o predškolskom odgoju i obrazovanju«.
+
+U cijelom tekstu Zakona riječ: »naobrazba« zamjenjuje se riječju: »obrazovanje« u odgovarajućem padežu i broju.
+
+U cijelom tekstu Zakona ispred riječi: »predškolske dobi« dodaju se riječi: »rane i« u odgovarajućem padežu i broju.
+
+U cijelom tekstu Zakona riječi: »županijski ured, odnosno ured Grada Zagreba nadležan za poslove odgoja i naobrazbe« zamjenjuju se riječima: »ured državne uprave u županiji, odnosno gradski ured Grada Zagreba« u odgovarajućem padežu i broju.
+
+#### Članak 2.
+
+U članku 1. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Izrazi koji se u ovom Zakonu koriste za osobe u muškom rodu su neutralni i odnose se na muške i na ženske osobe.«.
+
+#### Članak 3.
+
+Iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+(1) Kao javne ovlasti dječji vrtić obavlja sljedeće poslove:
+
+– upise djece u dječji vrtić i ispise djece iz dječjeg vrtića s vođenjem odgovarajuće dokumentacije,
+
+– izdavanje potvrda i mišljenja,
+
+– upisivanje podataka o dječjem vrtiću u zajednički elektronički upisnik.
+
+(2) Kada dječji vrtić u vezi s poslovima iz stavka 1. ovoga članka ili drugim poslovima koje obavlja kao javne ovlasti, odlučuje o pravu, obvezi ili pravnom interesu djeteta, roditelja ili skrbnika ili druge fizičke ili pravne osobe, dužan je postupati prema odredbama zakona kojim se uređuje opći upravni postupak.«.
+
+#### Članak 4.
+
+U članku 9. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako se tijekom obavljanja djelatnosti promijeni naziv ili sjedište dječjeg vrtića ili ako se mijenja odnosno dopunjuje djelatnost vrtića u novim prostorima, odnosno ako se mijenjaju drugi podaci koje osnivački akt sadrži temeljem posebnog zakona, osnivač dječjeg vrtića dužan je izvršiti izmjene osnivačkog akta te podnijeti zahtjev iz stavka 1. ovoga članka.«.
+
+#### Članak 5.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Dječji vrtić može započeti s radom nakon što je pribavio rješenje o početku rada.
+
+(2) Rješenje iz stavka 1. ovoga članka donijet će ured državne uprave u županiji, odnosno gradski ured Grada Zagreba, ako dječji vrtić ispunjava uvjete za početak obavljanja djelatnosti dječjeg vrtića.
+
+(3) Postupak utvrđivanja ispunjenosti uvjeta za početak rada dječjeg vrtića provodi se prema odredbama zakona kojim se uređuje opći upravni postupak, a provodi ga stručno povjerenstvo koje imenuje ured državne uprave u županiji, odnosno gradski ured Grada Zagreba.
+
+(4) Ako se tijekom obavljanja djelatnosti promijeni sjedište dječjeg vrtića, odnosno prostor u kojem dječji vrtić obavlja djelatnost ili dio djelatnosti ili se promijeni drugi uvjet propisan zakonom i na temelju zakona donesenim propisom za obavljanje djelatnosti dječjeg vrtića, dječji vrtić je dužan prije početka rada u promijenjenim uvjetima podnijeti zahtjev za izdavanjem rješenja o početku rada u promijenjenim uvjetima.
+
+(5) Nakon izvršnosti rješenja za početak rada odnosno rješenja o početku rada dječjeg vrtića u promijenjenim uvjetima dječji vrtić se upisuje u zajednički elektronički upisnik ustanova predškolskog odgoja koje vodi ministarstvo nadležno za obrazovanje te može započeti s radom, odnosno započeti s radom u promijenjenim uvjetima.«.
+
+#### Članak 6.
+
+U članku 14. stavku 1. riječi: »Grad Zagreb« zamjenjuju se riječima: »Grada Zagreba«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Mrežom dječjih vrtića utvrđuju se dječji vrtići i druge pravne osobe koje obavljaju djelatnost predškolskog odgoja na području za koji se mreža utvrđuje, sa svim njihovim objektima u kojima se provode programi.
+
+(4) Mreža dječjih vrtića mora udovoljiti zahtjevima dostupnosti i racionalnog ustroja dječjih vrtića i programa za djecu predškolske dobi u skladu s njihovim potrebama i sposobnostima.«.
+
+#### Članak 7.
+
+Naziv poglavlja III. mijenja se i glasi: »III. NACIONALNI KURIKULUM ZA PREDŠKOLSKI ODGOJ I OBRAZOVANJE I PROGRAMI DJEČJEG VRTIĆA«.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Odgoj i obrazovanje djece rane i predškolske dobi ostvaruje se na temelju nacionalnog kurikuluma za predškolski odgoj i obrazovanje (u daljnjem tekstu: nacionalni kurikulum) i kurikuluma dječjeg vrtića.
+
+(2) Nacionalni kurikulum utvrđuje vrijednosti, načela, općeobrazovne ciljeve i sadržaje svih aktivnosti i programa, pristupe i načine rada s djecom rane i predškolske dobi, odgojno-obrazovne ciljeve po područjima razvoja djece i njihovim kompetencijama te vrednovanje.
+
+(3) Nacionalni kurikulum donosi ministar nadležan za obrazovanje.
+
+(4) Kurikulum dječjeg vrtića donosi upravno vijeće dječjeg vrtića do 30. rujna tekuće pedagoške godine, a njime se utvrđuje: program, namjena programa, nositelji programa, način ostvarivanja programa, vremenik aktivnosti programa i način vrednovanja.
+
+(5) Sadržaj i trajanje programa predškole propisuje ministar nadležan za obrazovanje pravilnikom.«.
+
+#### Članak 8.
+
+Iza članka 15. dodaje se članak 15.a koji glasi:
+
+»Članak 15.a
+
+(1) U dječjem vrtiću ostvaruju se:
+
+– redoviti programi njege, odgoja, obrazovanja, zdravstvene zaštite, prehrane i socijalne skrbi djece rane i predškolske dobi koji su prilagođeni razvojnim potrebama djece te njihovim mogućnostima i sposobnostima,
+
+– programi za djecu rane i predškolske dobi s teškoćama u razvoju,
+
+– programi za darovitu djecu rane i predškolske dobi,
+
+– programi na jeziku i pismu nacionalnih manjina,
+
+– programi predškole,
+
+– programi ranog učenja stranih jezika i drugi programi umjetničkog, kulturnog, vjerskog i sportskog sadržaja.
+
+(2) Ovisno o potrebama djece i zahtjevima roditelja, dječji vrtić može izvoditi programe sukladne odredbama Državnog pedagoškog standarda predškolskog odgoja i naobrazbe.
+
+(3) Na programe iz stavaka 1. i 2. ovoga članka suglasnost daje ministarstvo nadležno za obrazovanje.
+
+(4) Ako se tijekom obavljanja djelatnosti za koju je dječji vrtić osnovan proširuje djelatnost izvođenjem novih programa ili dječji vrtić mijenja program, dječji vrtić obvezan je prije početka izvođenja programa podnijeti zahtjev radi davanja suglasnosti iz stavka 3. ovoga članka.
+
+(5) Ako se zbog proširenja djelatnosti izvođenjem novih programa ili izmjene programa iz stavka 4. ovoga članka mijenja odobreni program rada kao jedan od uvjeta za početak obavljanja djelatnosti, dječji vrtić je dužan prije početka provedbe programa podnijeti zahtjev za izdavanjem rješenja o početku rada u promijenjenim uvjetima.
+
+(6) Nakon pribavljene suglasnosti iz stavka 3. ovoga članka te nakon izvršnosti rješenja iz stavka 5. ovoga članka, dječji vrtić može započeti s izvođenjem novih programa odnosno izmijenjenog programa.«.
+
+#### Članak 9.
+
+U članku 23. stavku 2. podstavak 2. mijenja se i glasi:
+
+»– kao kraći programi odgojno-obrazovnog rada s djecom rane i predškolske dobi (igraonice) pri knjižnicama, zdravstvenim, socijalnim, kulturnim i sportskim ustanovama, udrugama, drugim pravnim osobama i fizičkim osobama-obrtnicima.«.
+
+#### Članak 10.
+
+Iza članka 23. dodaje se članak 23.a koji glasi:
+
+»Članak 23.a
+
+(1) Program predškole obvezan je za svu djecu u godini dana prije polaska u osnovnu školu.
+
+(2) Program predškole za djecu koja pohađaju vrtić integriran je u redoviti program predškolskog odgoja dječjeg vrtića.
+
+(3) Obveznik predškole koji ne pohađa dječji vrtić upisuje program predškole u dječjem vrtiću ili osnovnoj školi najbližima njegovom mjestu stanovanja koji provode program predškole za djecu koja ne pohađaju vrtić.
+
+(4) U slučaju da na određenom području nema dječjeg vrtića, odnosno osnovne škole koja provodi program predškole, jedinica lokalne odnosno područne (regionalne) samouprave dužna je osigurati provođenje programa predškole za djecu iz stavka 3. ovoga članka, na način da osigura prijevoz djece do najbližeg dječjeg vrtića ili osnovne škole koja izvodi program predškole, ako se ne radi o udaljenosti većoj od 20 kilometara u odnosu na mjesto stanovanja djeteta.
+
+(5) Ako su najbliži dječji vrtić ili osnovna škola koja izvodi program predškole iz stavka 4. ovog članka udaljeni više od 20 kilometara od mjesta stanovanja djeteta, jedinica lokalne odnosno područne (regionalne) samouprave dužna je osnovati dječji vrtić/njegovu podružnicu ili organizirati program predškole pri osnovnoj školi na području unutar 20 kilometara od mjesta stanovanja djeteta.«.
+
+#### Članak 11.
+
+Naziv poglavlja IV. i naslov iznad članka 24. mijenjaju se i glase:
+
+### »IV. RADNICI DJEČJEG VRTIĆA
+
+1. Odgojno-obrazovni radnici i ostali radnici«.
+
+Članak 24. mijenja se i glasi:
+
+»(1) U dječjem vrtiću na poslovima njege, odgoja i obrazovanja, socijalne i zdravstvene zaštite te skrbi o djeci rade sljedeći odgojno-  
+-obrazovni radnici: odgojitelj i stručni suradnik (pedagog, psiholog, logoped i rehabilitator) te medicinska sestra kao zdravstvena voditeljica.
+
+(2) Osim odgojno-obrazovnih radnika iz stavka 1. ovoga članka, u dječjim vrtićima rade i druge osobe koje obavljaju administrativno-tehničke i pomoćne poslove (u daljnjem tekstu: ostali radnici).
+
+(3) Odgojno-obrazovni radnici u dječjem vrtiću moraju imati odgovarajuću vrstu i razinu obrazovanja, položen ispit te utvrđenu zdravstvenu sposobnost za obavljanje poslova iz stavka 1. ovoga članka.
+
+(4) Poslove odgojitelja djece od navršenih šest mjeseci života do polaska u osnovnu školu može obavljati osoba koja je završila preddiplomski sveučilišni studij ili stručni studij odgovarajuće vrste, odnosno studij odgovarajuće vrste kojim je stečena viša stručna sprema u skladu s ranijim propisima, kao i osoba koja je završila sveučilišni diplomski studij ili specijalistički studij odgovarajuće vrste.
+
+(5) Poslove odgojitelja koji ostvaruju program predškole pri osnovnim školama, uz osobe iz stavka 4. ovoga članka, mogu obavljati i osobe koje ispunjavaju uvjete za obavljanje poslova učitelja razredne nastave u osnovnoj školi u skladu s posebnim propisom.
+
+(6) Poslove stručnog suradnika može obavljati osoba koja je završila diplomski sveučilišni studij ili diplomski specijalistički studij odgovarajuće vrste.
+
+(7) Poslove medicinske sestre može obavljati osoba koja je završila preddiplomski sveučilišni studij ili stručni studij sestrinstva, odnosno studij kojim je stečena viša stručna sprema u djelatnosti sestrinstva u skladu s ranijim propisima, kao i osoba koja je završila sveučilišni diplomski studij ili specijalistički studij sestrinstva.
+
+(8) Odgovarajuću vrstu obrazovanja odgojno-obrazovnih radnika te razinu i vrstu obrazovanja ostalih radnika u dječjem vrtiću pravilnikom propisuje ministar nadležan za obrazovanje.«.
+
+#### Članak 12.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Radni odnos u dječjem vrtiću ne može zasnovati osoba koja je pravomoćno osuđena na kaznu zatvora (neovisno o tome je li izrečena uvjetna ili bezuvjetna kazna) za neko od kaznenih djela počinjenih s namjerom protiv života i tijela, protiv Republike Hrvatske, protiv pravosuđa, protiv javnog reda, protiv imovine, protiv službene dužnosti, protiv čovječnosti i ljudskog dostojanstva, protiv osobne slobode, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv braka, obitelji i djece, protiv zdravlja ljudi, protiv opće sigurnosti, krivotvorenja, te bilo koje drugo kazneno djelo počinjeno na štetu djeteta ili korištenjem djeteta ili maloljetne osobe, osim ako je nastupila rehabilitacija prema posebnom zakonu.
+
+(2) Radni odnos u dječjem vrtiću ne može zasnovati ni osoba protiv koje se vodi kazneni postupak za neko od kaznenih djela navedenih u stavku 1. ovoga članka.
+
+(3) Radni odnos u dječjem vrtiću ne može zasnovati osoba koja je pravomoćno osuđena za neko od prekršajnih djela za nasilničko ponašanje, osim ako je nastupila rehabilitacija prema posebnom zakonu.
+
+(4) Radni odnos u dječjem vrtiću ne može zasnovati ni osoba protiv koje se vodi prekršajni postupak za neko od prekršajnih djela navedenih u stavku 3. ovoga članka.
+
+(5) Ako osoba u radnom odnosu u dječjem vrtiću bude pravomoćno osuđena za neko od kaznenih djela iz stavka 1. ovoga članka ili neko od prekršajnih djela iz stavka 3. ovoga članka, dječji vrtić kao poslodavac otkazat će ugovor o radu bez obveze poštivanja propisanog ili ugovorenog otkaznog roka izvanrednim otkazom ugovora o radu, u roku od 15 dana od dana saznanja za pravomoćnu osudu, a nakon isteka tog roka redovitim otkazom ugovora o radu uvjetovanim skrivljenim ponašanjem radnika, u kojem će slučaju poslodavac, istodobno uz otkazivanje ugovora o radu, od radnika zahtijevati da odmah prestane raditi tijekom otkaznog roka.
+
+(6) Ako dječji vrtić kao poslodavac sazna da je protiv osobe u radnom odnosu u dječjem vrtiću pokrenut i vodi se kazneni postupak za neko od kaznenih djela iz stavka 1. ovoga članka ili prekršajni postupak za neko od prekršajnih djela iz stavka 3. ovoga članka, udaljit će osobu od obavljanja poslova do obustave kaznenog, odnosno prekršajnog postupka, odnosno najduže do pravomoćnosti sudske presude, uz pravo na naknadu plaće u visini dvije trećine prosječne mjesečne plaće koju je osoba ostvarila u tri mjeseca prije udaljenja od obavljanja poslova.
+
+(7) Ako je pravomoćnim rješenjem obustavljen kazneni, odnosno prekršajni postupak pokrenut protiv radnika ili je pravomoćnom presudom radnik oslobođen odgovornosti, radniku će se vratiti obustavljeni dio plaće od prvog dana udaljenja.
+
+(8) Osoba koja je pravomoćno osuđena, odnosno protiv koje je pokrenut kazneni postupak za neko od kaznenih djela iz stavka 1. ovoga članka ili prekršajni postupak za neko od prekršajnih djela iz stavka 3. ovoga članka, ne može obavljati poslove u dječjem vrtiću niti kao vanjski suradnik dječjeg vrtića.
+
+(9) U dječjem vrtiću ne mogu raditi ni osobe kojima je izrečena zabrana rada ili im je prestao radni odnos zbog nezakonitog i/ili neprofesionalnog postupanja na štetu prava i interesa djece.
+
+(10) Radni odnos u dječjem vrtiću ne može zasnovati osoba koja ima izrečenu mjeru za zaštitu dobrobiti djeteta sukladno posebnom propisu.«.
+
+#### Članak 13.
+
+Naslov iznad članka 26. mijenja se i glasi: »2. Zasnivanje radnog odnosa u dječjem vrtiću«.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Radni odnos u dječjem vrtiću zasniva se ugovorom o radu na temelju natječaja.
+
+(2) Odluku o objavi natječaja donosi upravno vijeće.
+
+(3) Natječaj se objavljuje na mrežnim stranicama i oglasnim pločama Hrvatskog zavoda za zapošljavanje, te mrežnim stranicama i oglasnim pločama dječjeg vrtića, a rok za primanje prijava kandidata ne može biti kraći od osam dana.
+
+(4) Iznimno od stavka 1. ovoga članka, radni odnos može se zasnovati ugovorom o radu i bez natječaja:
+
+– kad obavljanje poslova ne trpi odgodu, do zasnivanja radnoga odnosa na temelju natječaja, ali ne dulje od 60 dana,
+
+– kad potreba za obavljanjem poslova ne traje dulje od 60 dana.
+
+(5) Ako se na natječaj ne javi osoba koja ispunjava uvjete iz članka 24. ovoga Zakona, natječaj će se ponoviti u roku od pet mjeseci, a do zasnivanja radnog odnosa na osnovi ponovljenog natječaja radni se odnos može zasnovati s osobom koja ne ispunjava propisane uvjete.
+
+(6) S osobom iz stavka 5. ovoga članka sklapa se ugovor o radu na određeno vrijeme, do popune radnog mjesta na temelju ponovljenog natječaja s osobom koja ispunjava propisane uvjete, ali ne dulje od pet mjeseci.
+
+(7) Odluku o zasnivanju i prestanku radnog odnosa donosi upravno vijeće na prijedlog ravnatelja.
+
+(8) Iznimno od stavka 7. ovoga članka, u slučaju kada je zbog obavljanja poslova koji ne trpe odgodu potrebno zaposliti osobu, o zasnivanju radnog odnosa odlučuje ravnatelj.
+
+(9) Način donošenja odluke o zasnivanju radnog odnosa u dječjem vrtiću kojem je osnivač vjerska zajednica odnosno druga fizička i pravna osoba iz članka 7. stavka 1. točke 4. ovoga Zakona uređuje se općim aktom dječjeg vrtića.«.
+
+#### Članak 14.
+
+U članku 35. stavku 1. podstavku 5. riječi: »s odgojiteljima i stručnim suradnicima« brišu se.
+
+#### Članak 15.
+
+U članku 37. iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Za vršitelja dužnosti ravnatelja može biti imenovana osoba koja ispunjava uvjete za ravnatelja dječjeg vrtića.«.
+
+Dosadašnji stavci 7. i 8. postaju stavci 8. i 9.
+
+#### Članak 16.
+
+Iza članka 37. dodaje se članak 37.a koji glasi:
+
+»Članak 37.a
+
+(1) Ravnatelja dječjeg vrtića, u slučaju privremene spriječenosti u obavljanju ravnateljskih poslova, zamjenjuje osoba iz reda članova odgojiteljskog vijeća.
+
+(2) Osobu iz stavka 1. ovoga članka određuje upravno vijeće na način uređen statutom dječjeg vrtića.
+
+(3) Osoba koja zamjenjuje ravnatelja ima prava i dužnost obavljati one poslove ravnatelja čije se izvršenje ne može odgađati do ravnateljeva povratka.«.
+
+#### Članak 17.
+
+U članku 48. stavku 4. na kraju rečenice briše se točka i dodaju riječi: »osim programa predškole koji je za roditelje besplatan.«.
+
+#### Članak 18.
+
+U članku 50. stavku 1. riječi: »Sredstva za programe« zamjenjuju se riječima: »Dio sredstava za programe«, a riječ: »osiguravaju« zamjenjuje se riječju: »osigurava«.
+
+#### Članak 19.
+
+Iza članka 52. dodaje se novo poglavlje i članak 52.a koji glase:
+
+»XI. ZABRANA PROMIDŽBE I PRODAJE U DJEČJIM VRTIĆIMA
+
+#### Članak 52.a
+
+U dječjim vrtićima nije dopuštena promidžba i prodaja roba i/ili usluga koje ne služe ciljevima odgoja i obrazovanja ili su štetne za zdravlje, rast i razvoj djece rane i predškolske dobi.«.
+
+#### Članak 20.
+
+Iza članka 52.a dodaje se poglavlje i članak 52.b koji glase:
+
+### »XII. PREKRŠAJNE ODREDBE
+
+#### Članak 52.b
+
+(1) Novčanom kaznom u iznosu od 10.000 do 15.000 kuna kaznit će se za prekršaj dječji vrtić:
+
+– ako nije donio kurikulum dječjeg vrtića u skladu s odredbama ovoga Zakona,
+
+– ako nije donio godišnji plan i program u skladu s odredbama ovoga Zakona,
+
+– ako ne poštuje odredbe Državnog pedagoškog standarda predškolskog odgoja i naobrazbe,
+
+– ako izvodi odgojno-obrazovni rad bez rješenja o početku rada odnosno rješenja o početku rada u promijenjenim uvjetima,
+
+– ako ne objavljuje natječaj sukladno odredbama ovoga Zakona,
+
+– ako ne vodi dokumentaciju i evidenciju propisanu ovim Zakonom,
+
+– ako u svojim prostorijama organizira promidžbu i prodaju roba i/ili usluga koje ne služe ciljevima i sadržajima odgoja i obrazovanja ili su štetne za zdravlje, rast i razvoj djece rane i predškolske dobi,
+
+– ako postupa protivno odredbama članka 25. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u dječjem vrtiću novčanom kaznom u iznosu od 5.000 do 8.000 kuna.«.
+
+#### Članak 21.
+
+Poglavlje XI. PRIJELAZNE I ZAKLJUČNE ODREDBE postaje poglavlje XIII. istoga naziva.
+
+#### Članak 22.
+
+(1) Nacionalni kurikulum i Pravilnik iz članka 7. ovoga Zakona donijet će ministar nadležan za obrazovanje u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Pravilnik iz članka 11. ovoga Zakona donijet će ministar nadležan za obrazovanje u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Odredbe Pravilnika o vrsti stručne spreme stručnih djelatnika te vrsti i stupnju stručne spreme ostalih djelatnika u dječjem vrtiću (»Narodne novine«, br. 133/97.) ostaju na snazi do stupanja na snagu Pravilnika iz stavka 2. ovoga članka, osim ako su u suprotnosti s odredbama ovoga Zakona.
+
+#### Članak 23.
+
+Dječji vrtići i druge pravne osobe koje provode programe predškolskog odgoja dužni su uskladiti odredbe statuta i drugih općih akata s odredbama ovoga Zakona u roku od 90 dana od dana njegovog stupanja na snagu.
+
+#### Članak 24.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 10. ovoga Zakona koji stupa na snagu 31. kolovoza 2014.
+
+Klasa: 600-01/12-01/02
+
+Zagreb, 15. srpnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

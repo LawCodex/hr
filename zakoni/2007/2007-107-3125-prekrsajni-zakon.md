@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-10-19
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "107/07"
-amendments: []
+last_amended: 2015-10-13
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "107/07, 39/13, 157/13, 110/15"
+amendments:
+  - "NN 39/2013 (728) Zakon o izmjenama i dopunama Prekršajnog zakona"
+  - "NN 157/2013 (3294) Zakon o izmjenama i dopunama Prekršajnog zakona"
+  - "NN 110/2015 (2131) Zakon o izmjenama i dopunama Prekršajnog zakona"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3125"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Prekršajni zakon
 
 > Izvor: Narodne novine, NN 107/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3125).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/2013, NN 157/2013, NN 110/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2408,3 +2414,1496 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Prekršajnog zakona (NN 39/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/728*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 22. ožujka 2013. godine.
+
+Klasa: 011-01/13-01/59
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 27. ožujka 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA**
+
+#### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine«, br. 107/07.) članak 1. mijenja se i glasi:
+
+»Prekršaji i prekršajnopravne sankcije propisuju se samo za ona ponašanja kojima se tako povređuje ili ugrožava javni poredak, društvena disciplina i društvene vrijednosti zajamčene i zaštićene Ustavom Republike Hrvatske, međunarodnim pravom i zakonima čija zaštita nije moguća bez prekršajnopravnog sankcioniranja, a njihova se zaštita ne ostvaruje kaznenopravnom prisilom.«.
+
+#### Članak 2.
+
+Iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe usklađene sa sljedećim aktima Europske unije:
+
+– Direktivom 2010/64 od 20. listopada 2010. o pravu na tumačenje i prijevod u kaznenom postupku,
+
+– Direktivom 2012/13/EU od 22. svibnja 2012. o pravu na informaciju u kaznenom postupku.«.
+
+#### Članak 3.
+
+Naslov iznad članka 3. mijenja se i glasi: »Načelo primjene blažeg propisa i vremensko važenje prekršajnog zakonodavstva«.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Prema počinitelju se primjenjuje propis koji je bio na snazi u vrijeme kad je prekršaj počinjen.
+
+(2) Ako se propis nakon počinjenja prekršaja, a prije donošenja pravomoćne odluke o prekršaju, izmijeni jedanput ili više puta, primijenit će se propis koji je najblaži za počinitelja.
+
+(3) Ako se u slučajevima iz stavka 2. ovog članka izmijeni naziv ili opis prekršaja ili izmijeni naziv propisa, sud će ispitati postoji li pravni kontinuitet tako da činjenično stanje podvede pod biće odgovarajućeg prekršaja iz novog propisa pa ako utvrdi da postoji, primijenit će propis koji je blaži za počinitelja. Nema prekršaja ako pravni kontinuitet ne postoji.
+
+(4) Izmijeni li se propis za vrijeme trajanja počinjenja prekršaja, primijenit će se propis koji je bio na snazi u vrijeme dovršenja radnje.
+
+(5) Propis koji je na snazi samo za unaprijed određeno vrijeme ili unaprijed odredivo vrijeme, primijenit će se na prekršaj počinjen u tom vremenu i nakon njegova prestanka važenja ako tim propisom nije drukčije propisano.«.
+
+#### Članak 4.
+
+Naslov iznad članka 10. mijenja se i glasi: »Isključenje primjene prekršajnog zakonodavstva u posebnim slučajevima«.
+
+Članak 10. mijenja se i glasi:
+
+»Ako je protiv počinitelja prekršaja započeo kazneni postupak zbog kaznenog djela kojim je obuhvaćen i prekršaj, ne može se za taj prekršaj pokrenuti prekršajni postupak, a ako je postupak pokrenut ne može se dalje voditi.«.
+
+#### Članak 5.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Prekršajno zakonodavstvo Republike Hrvatske primjenjuje se na svakoga tko počini prekršaj na njezinu području.
+
+(2) Posebnim zakonom može se propisati primjena prekršajnog zakonodavstva Republike Hrvatske i u prostoru mora u kojem Republika Hrvatska ima određena suverena prava i pravo jurisdikcije.
+
+(3) Za prekršaj propisan odlukom jedinice lokalne i područne (regionalne) samouprave prekršajni će se postupak voditi ako je prekršaj počinjen na području te jedinice lokalne i područne (regionalne) samouprave.«.
+
+#### Članak 6.
+
+Naslov iznad članka 13. mijenja se i glasi: »Zastara prekršajnog progona«.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Prekršajni progon zastarijeva nakon četiri godine.
+
+(2) Prekršajni progon zastarijeva nakon tri godine za prekršaje za koje je ovlašteni tužitelj obvezan izdati prekršajni nalog.
+
+(3) Propisi o zastari odnose se i na stegovno kažnjavanje tijekom prekršajnog postupka.«.
+
+#### Članak 7.
+
+Iza članka 13. dodaje se naslov i članak 13.a koji glase:
+
+*»Tijek zastare prekršajnog progona*
+
+#### Članak 13.a
+
+Zastara prekršajnog progona počinje teći danom kad je prekršaj počinjen.«.
+
+#### Članak 8.
+
+Naslov iznad članka 14. mijenja se i glasi: »Zastara izvršenja prekršajnopravnih sankcija«.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Izrečena prekršajnopravna sankcija ne može se izvršiti kad od pravomoćnosti odluke kojom je izrečena, protekne tri godine.
+
+(2) Zaštitna mjera obvezno liječenje od ovisnosti iz članka 53. ovoga Zakona ne može se izvršiti kad nastupi zastara izvršenja kazne uz koju je izrečena, odnosno kad protekne vrijeme provjeravanja iz uvjetne osude.
+
+(3) Odredbe o zastari izvršenja prekršajnopravnih sankcija primjenjuju se i na zastaru izvršenja stegovnih kazni koje sud izrekne tijekom postupka.«.
+
+#### Članak 9.
+
+Iza članka 14. dodaju se naslovi iznad članaka i članci 14.a, 14.b i 14.c koji glase:
+
+*»Tijek zastare izvršenja prekršajnopravnih sankcija*
+
+#### Članak 14.a
+
+(1) Zastara izvršenja prekršajnopravne sankcije počinje teći danom kada je odluka kojom je prekršajnopravna sankcija izrečena postala pravomoćna. Ako se radi o kazni zatvora iz opozvane uvjetne osude, zastara počinje teći danom pravomoćnosti presude o opozivu.
+
+(2) Zastara izvršenja kazne zatvora, rada za opće dobro na slobodi odnosno zatvora kojima je zamijenjena neplaćena novčana kazna i zastara izvršenja zaštitnih mjera ne teče za vrijeme njihova izvršavanja.
+
+*Zastara izvršenja oduzimanja imovinske koristi, oduzimanja predmeta i troškova prekršajnog postupka*
+
+#### Članak 14.b
+
+Izvršenje odluke o oduzimanju imovinske koristi, oduzimanju predmeta i troškovima prekršajnog postupka zastarijeva po proteku pet godina od pravomoćnosti odluke kojom je isto izrečeno.
+
+*Primjena rokova zastare*
+
+#### Članak 14.c
+
+Na zastaru prekršajnog progona i zastaru izvršenja prekršajnopravne sankcije primjenjuje se rok zastare propisan u vrijeme počinjenja prekršaja.«.
+
+#### Članak 10.
+
+Iza članka 24. dodaje se naslov i članak 24.a koji glase:
+
+*»Beznačajan prekršaj*
+
+#### Članak 24.a
+
+Nema prekršaja, iako su ostvarena njegova bitna obilježja, ako je stupanj ugrožavanja ili povrede javnog poretka, društvene discipline i društvenih vrijednosti neznatan i ne postoji potreba da počinitelj bude kažnjen.«.
+
+#### Članak 11.
+
+Članak 34. mijenja se i glasi:
+
+»(1) Ako novčana kazna, troškovi prekršajnog postupka i oduzeta imovinska korist nisu u cijelosti ili djelomično plaćeni u roku koji je određen u odluci o prekršaju, naplatit će se prisilno, ako ovim Zakonom nije drukčije određeno.
+
+(2) Novčana kazna iznad 2.000,00 kuna koja nije u cijelosti ili djelomično naplaćena ni prisilno u roku od dvije godine od podnesenog zahtjeva za prisilnu naplatu zamijenit će se radom za opće dobro osuđenoj fizičkoj osobi.
+
+(3) Ako osuđenik ne pristane na rad za opće dobro ili ga ne izvrši svojom krivnjom u roku koji je za to određen, novčana kazna zamijenit će se kaznom zatvora.
+
+(4) Iznimno, ako težina prekršaja i osobine ličnosti osuđenika ukazuju da zamjena radom za opće dobro na slobodi neće ostvariti svrhu kažnjavanja, u slučaju iz stavka 1. ovog članka, osuđeniku fizičkoj osobi neplaćena novčana kazna iznad 2.000,00 kuna odmah će se zamijeniti kaznom zatvora.
+
+(5) Kada okrivljenik koji nema prebivalište ili stalni boravak u Republici Hrvatskoj nije uplatio novčanu kaznu u roku određenom odlukom o prekršaju, novčana kazna odmah će se zamijeniti kaznom zatvora.
+
+(6) Neplaćena novčana kazna zamijenit će se na način da se svakih započetih tristo kuna novčane kazne zamijeni s dva sata rada za opće dobro odnosno jednim danom zatvora, pri čemu rad za opće dobro ne smije biti kraći od šest sati niti dulji od 240 sati, a zatvor ne smije biti kraći od tri dana ni dulji od 60 dana.
+
+(7) Plati li osuđenik novčanu kaznu nakon pravomoćnosti odluke o zamjeni, izvršenje rada za opće dobro ili kazna zatvora će se obustaviti. U slučaju djelomičnog plaćanja, izvršit će se samo preostali dio rada za opće dobro odnosno kazne zatvora.
+
+(8) Rad za opće dobro izvršava se bez naknade.
+
+(9) Ako odluku o prekršaju nije donio sud, odluku o zamjeni novčane kazne donijet će nadležni sud, na prijedlog tijela koje je donijelo odluku o prekršaju.«.
+
+#### Članak 12.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Sud može izreći kaznu blažu od propisane za određeni prekršaj kad to ovaj Zakon izričito propisuje.
+
+(2) Blažu kaznu od propisane za određeni prekršaj sud može izreći i kad postoje naročite olakotne okolnosti, osobito ako se počinitelj pomirio s oštećenikom, ako mu je u potpunosti ili većim dijelom naknadio štetu prouzročenu prekršajem, a svrha kažnjavanja može se postići i takvom blažom kaznom.
+
+(3) Sud može ublažiti kaznu sukladno stavcima 1. i 2. ovoga članka u sljedećim granicama:
+
+1. ako je za prekršaj propisana novčana kazna do 40.000,00 kuna ili u točno određenom iznosu do 40.000,00 kuna ili u minimumu do 10.000,00 kuna, kazna se može ublažiti do općeg zakonskog minimuma kazne propisanog ovim Zakonom, za odgovarajuću vrstu okrivljenika (članak 33. ovoga Zakona),
+
+2. ako je za prekršaj propisan minimum iznad 10.000,00 kuna ili u točno određenom iznosu novčane kazne iznad 40.000,00 kuna, kazna se može ublažiti do četverostrukog iznosa općeg zakonskog minimuma kazne propisanog ovim Zakonom, za odgovarajuću vrstu okrivljenika (članak 33. ovoga Zakona),
+
+3. ako je za prekršaj propisana kazna zatvora, kazna se može ublažiti do općeg zakonskog minimuma kazne zatvora propisanog ovim Zakonom.«.
+
+#### Članak 13.
+
+Članak 38. mijenja se i glasi:
+
+»(1) Sud će osloboditi od kazne počinitelja kad to zakon izričito propisuje.
+
+(2) Sud može osloboditi od kazne počinitelja:
+
+1. kad ga posljedice prekršaja tako pogađaju da je njegovo kažnjavanje nepotrebno radi ostvarenja svrhe kažnjavanja,
+
+2. kad je otklonio ili umanjio posljedice prekršaja ili naknadio štetu koju je njime prouzročio, ili je platio ili je ispunio propisanu obvezu zbog čijeg neplaćanja odnosno neispunjenja je pokrenut prekršajni postupak,
+
+3. kad se pomirio s oštećenikom i naknadio štetu.«.
+
+#### Članak 14.
+
+Naslov iznad članka 40. mijenja se i glasi: »Uračunavanje oduzimanja slobode u kaznu«.
+
+Članak 40. mijenja se i glasi:
+
+»(1) Vrijeme provedeno u uhićenju, zadržavanju i svako oduzimanje slobode u vezi s prekršajem uračunava se u izrečenu kaznu zatvora, kaznu maloljetničkog zatvora i novčanu kaznu.
+
+(2) Prilikom uračunavanja izjednačuje se svaki započeti dan uhićenja, zadržavanja i svakog drugog oduzimanja slobode te započetih tristo kuna novčane kazne s jednim danom zatvora.«.
+
+#### Članak 15.
+
+Naslov iznad članka 45. mijenja se i glasi: »Posebne obveze uz uvjetnu osudu«.
+
+Članak 45. mijenja se i glasi:
+
+»(1) Sud može uz uvjetnu osudu počinitelju narediti da u određenom roku:
+
+1. popravi štetu počinjenu prekršajem,
+
+2. liječenje ili nastavak liječenja koje je nužno radi otklanjanja zdravstvenih smetnji koje mogu poticajno djelovati za počinjenje novog prekršaja,
+
+3. liječenje ili nastavak liječenja ovisnosti o alkoholu, drogama ili druge vrste ovisnosti u zdravstvenoj ili drugoj specijaliziranoj ustanovi ili odvikavanje u terapijskoj zajednici,
+
+4. sudjelovanje ili nastavak sudjelovanja u postupku psihosocijalnog tretmana u zdravstvenim ustanovama ili u pravnim ili kod fizičkih osoba ovlaštenih za provedbu psihosocijalnog tretmana,
+
+5. zabranu posjećivanja određenih mjesta, objekata i događaja, koji mogu biti prilika ili poticaj za počinjenje novog prekršaja,
+
+6. zabranu približavanja oštećeniku ili nekim drugim osobama,
+
+7. napuštanje doma na određeno vrijeme ako se radi o djelima obiteljskog nasilja,
+
+8. redovito javljanje policijskoj upravi ili drugom nadležnom tijelu,
+
+9. druge obveze koje su primjerene s obzirom na počinjeni prekršaj.
+
+(2) Počinitelju se ne smiju postavljati nerazumne i nemoguće obveze te obveze koje vrijeđaju njegovo dostojanstvo.«.
+
+#### Članak 16.
+
+Iza članka 45. dodaje se naslov i članak 45.a koji glase:
+
+*»Izricanje posebnih obveza*
+
+#### Članak 45.a
+
+(1) Sud može izreći posebne obveze iz članka 45. ovoga Zakona kad ocijeni da je njihova primjena nužna za zaštitu zdravlja i sigurnosti osobe na čiju štetu je prekršaj počinjen ili kad je to nužno za otklanjanje okolnosti koje pogoduju ili poticajno djeluju na počinjenje novog prekršaja.
+
+(2) Obveze iz članka 45. stavak 1. točke 2. i 3. ovoga Zakona mogu se izreći samo uz pristanak počinitelja.
+
+(3) Rok iz članka 45. stavak 1. ovoga Zakona odnosno trajanje posebnih obveza ne smije biti dulje od vremena provjeravanja, a obveze iz članka 45. stavka 1. točke 3. i 4. ovoga Zakona mogu se izreći u trajanju do jedne godine.«.
+
+#### Članak 17.
+
+Članak 47. briše se.
+
+#### Članak 18.
+
+Članak 48. briše se.
+
+#### Članak 19.
+
+Članak 49. briše se.
+
+#### Članak 20.
+
+Članak 50. mijenja se i glasi:
+
+»(1) Zaštitne mjere su:
+
+1. obvezno liječenje od ovisnosti,
+
+2. zabrana obavljanja određenih dužnosti ili djelatnosti,
+
+3. zabrana obavljanja određenih djelatnosti ili poslova pravnoj osobi,
+
+4. zabrana stjecanja dozvola, ovlasti, koncesija ili subvencija,
+
+5. zabrana poslovanja s korisnicima državnog i lokalnih proračuna,
+
+6. zabrana upravljanja motornim vozilom.
+
+(2) Osim zaštitnih mjera iz stavka 1. ovoga članka, zakonom kojim se propisuje prekršaj mogu se propisati i druge vrste zaštitnih mjera.
+
+(3) Zaštitne mjere iz stavka 1. ovoga članka mogu se propisati u trajanju od jednog mjeseca do dvije godine, a zaštitne mjere iz stavka 2. ovoga članka u trajanju od jednog mjeseca do jedne godine.
+
+(4) Zaštitne mjere za okrivljenika fizičku osobu primjenjive su i na odgovornu osobu u pravnoj osobi, obrtnika ili osobu koja obavlja drugu samostalnu djelatnost.«.
+
+#### Članak 21.
+
+Iza članka 51. dodaje se naslov i članak 51.a koji glase:
+
+*»Načelo razmjernosti*
+
+#### Članak 51.a
+
+Zaštitna mjera ne smije se izreći ako nije u razmjeru s težinom počinjenog prekršaja i prekršaja koji se mogu očekivati, kao i sa stupnjem počiniteljeve opasnosti.«.
+
+#### Članak 22.
+
+Članak 52. briše se.
+
+#### Članak 23.
+
+Članak 53. mijenja se i glasi:
+
+»(1) Zaštitnu mjeru obveznog liječenja od ovisnosti u trajanju od jednog mjeseca do jedne godine sud može izreći okrivljeniku koji je prekršaj počinio pod odlučujućim djelovanjem ovisnosti o alkoholu, drogi ili druge vrste ovisnosti ako postoji opasnost da će zbog te ovisnosti u budućnosti počiniti prekršaj.
+
+(2) Zaštitna mjera iz stavka 1. ovoga članka može se izreći uz novčanu kaznu, kaznu zatvora, maloljetničkog zatvora i uvjetnu osudu.
+
+(3) Zaštitna mjera iz stavka 1. ovoga članka izrečena uz kaznu zatvora ili maloljetničkog zatvora, ili kada je novčana kazna zamijenjena zatvorom, izvršava se u okviru zatvorskog sustava ili u zdravstvenoj ili drugoj specijaliziranoj ustanovi za liječenje ovisnosti izvan zatvorskog sustava pod uvjetima određenim posebnim propisom. Mjera izrečena uz novčanu kaznu i uvjetnu osudu, ili kada je novčana kazna zamijenjena radom za opće dobro izvršava se u zdravstvenoj ili drugoj specijaliziranoj ustanovi za otklanjanje ovisnosti izvan zatvorskog sustava, a može se, pod uvjetima određenim posebnim propisom, izvršavati i u terapijskoj zajednici ako je takvo odvikavanje dostatno za otklanjanje opasnosti.
+
+(4) Ako je zaštitna mjera iz stavka 1. ovoga članka izrečena u vremenu koje je dulje od izrečene kazne zatvora, maloljetničkog zatvora, odnosno rada za opće dobro ili zatvora kojima je zamijenjena novčana kazna, njezino izvršavanje će se dovršiti u zdravstvenoj ili drugoj specijaliziranoj ustanovi za liječenje ovisnosti izvan zatvorskog sustava pod uvjetima određenim posebnim propisom.
+
+(5) Sud može i prije isteka vremena na koje je izrečena zaštitna mjera iz stavka 1. ovoga članka, obustaviti njezino daljnje izvršavanje ako utvrdi da su prestali razlozi zbog kojih je izrečena ili ako je njezino dosadašnje i daljnje provođenje bezizgledno. Ovo sud može utvrditi na zahtjev ustanove kod koje se zaštitna mjera izvršava ili na zahtjev okrivljenika.«.
+
+#### Članak 24.
+
+Naslov iznad članka 54. mijenja se i glasi: "Zabrana obavljanja određenih dužnosti ili djelatnosti«.
+
+Članak 54. mijenja se i glasi:
+
+»(1) Zaštitnu mjeru zabrane potpunog ili djelomičnog obavljanja određene dužnosti ili djelatnosti u trajanju od jednog mjeseca do jedne godine sud može izreći okrivljeniku koji je prekršaj počinio u obavljanju dužnosti ili djelatnosti ako postoji opasnost da će zlouporabom te dužnosti ili djelatnosti ponovno počiniti prekršaj.
+
+(2) Vrijeme provedeno u izvršavanju kazne zatvora, rada za opće dobro ili zatvora određenog u zamjenu za neplaćenu novčanu kaznu ne uračunava se u vrijeme trajanja ove mjere.
+
+(3) Za vrijeme zabrane iz stavka 1. ovoga članka osuđenik se ne smije baviti određenom dužnosti ili djelatnosti samostalno, za drugu osobu, u pravnoj osobi, ni u ime druge osobe, niti smije ovlastiti drugu osobu da se bavi tom dužnošću ili djelatnošću u njegovo ime i po njegovim uputama.
+
+(4) Ako počinitelj ne postupi prema zabrani obavljanja određene dužnosti ili djelatnosti kad je izrečena uz uvjetnu osudu može se postupiti prema članku 46. stavku 4. ovoga Zakona.
+
+(5) Sud će o pravomoćno izrečenoj mjeri obavijestiti tijelo nadležno za vođenje upisnika osoba koje obavljaju određene dužnosti ili djelatnosti.
+
+(6) Zaštitna mjera iz stavka 1. ovog članka ne može se izreći maloljetniku.«.
+
+#### Članak 25.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Zaštitnu mjeru zabrane potpunog ili djelomičnog obavljanja određene djelatnosti ili poslova u trajanju od tri mjeseca do jedne godine sud može izreći okrivljenoj pravnoj osobi koja je prekršaj počinila u obavljanju djelatnosti ili poslova ako postoji opasnost da će obavljanjem tih djelatnosti ili poslova ponovno počiniti prekršaj.
+
+(2) Sud će o pravomoćno izrečenoj mjeri obavijestiti nadležni sud kod kojeg je pravna osoba upisana u sudski registar.
+
+(3) Zabrana obavljanja određenih djelatnosti ili poslova ne može se izreći jedinicama lokalne i područne (regionalne) samouprave i političkim strankama.
+
+(4) Na mjeru zabrane obavljanja određenih djelatnosti ili poslova na odgovarajući se način primjenjuje članak 54. stavak 3. ovoga Zakona.«.
+
+#### Članak 26.
+
+Iza članka 55. dodaju se naslovi iznad članaka i članci 55.a i 55.b koji glase:
+
+*»Zabrana stjecanja dozvola, ovlasti, koncesija ili subvencija*
+
+#### Članak 55.a
+
+(1) Zaštitnu mjeru zabrane potpunog ili djelomičnog stjecanja dozvola, ovlasti, koncesija ili subvencija u trajanju od tri mjeseca do jedne godine sud može izreći okrivljenoj pravnoj osobi koja je prekršaj počinila u postupku stjecanja dozvola, ovlasti, koncesija ili subvencija ili njihovog korištenja, ako postoji opasnost da će stjecanjem dozvola, ovlasti, koncesija ili subvencija ponovno počiniti prekršaj.
+
+(2) Sud će o pravomoćno izrečenoj mjeri obavijestiti nadležna tijela za izdavanje dozvola, ovlasti, koncesija i subvencija.
+
+*Zabrana poslovanja s korisnicima državnog i lokalnih proračuna*
+
+#### Članak 55.b
+
+(1) Zaštitnu mjeru zabrane potpunog ili djelomičnog poslovanja s korisnicima državnog ili lokalnog proračuna u trajanju od tri mjeseca do jedne godine sud može izreći okrivljenoj pravnoj osobi koja je prekršaj počinila u poslovanju s korisnicima državnog ili lokalnog proračuna ako postoji opasnost da će poslovanjem s korisnicima državnog ili lokalnog proračuna ponovno počiniti prekršaj.
+
+(2) Sud će o pravomoćno izrečenoj mjeri obavijestiti nadležni sud kod kojeg je pravna osoba upisana u sudski registar.«.
+
+#### Članak 27.
+
+Članak 56. briše se.
+
+#### Članak 28.
+
+Članak 57. briše se.
+
+#### Članak 29.
+
+Članak 58. mijenja se i glasi:
+
+»(1) Zaštitnu mjeru zabrane upravljanja motornim vozilom u trajanju od jednog mjeseca do dvije godine sud može izreći počinitelju prekršaja protiv sigurnosti prometa kad postoji opasnost da će upravljajući motornim vozilom ugroziti sigurnost prometa. Zabrana se izriče u odnosu na sve vrste ili kategorije ili u odnosu na samo određene vrste ili kategorije motornih vozila.
+
+(2) Mjera iz stavka 1. ovoga članka počinje teći sljedećim danom kada je okrivljeniku nadležno tijelo uredno dostavilo obavijest o upisu izrečene mjere u evidenciju izdanih vozačkih dozvola, a vrijeme provedeno na izdržavanju zatvora ne uračunava se u vrijeme trajanja mjere.
+
+(3) Ako okrivljenik ne postupi prema zabrani iz stavka 1. ovoga članka kad je izrečena uz uvjetnu osudu, sud može postupiti prema članku 46. stavku 4. ovoga Zakona.
+
+(4) Vrijeme privremenog oduzimanja vozačke dozvole uračunat će se u vrijeme zabrane upravljanja motornim vozilom.
+
+(5) Zabrana upravljanja motornim vozilom izrečena osuđeniku koji ima stranu dozvolu za upravljanje motornim vozilom sastoji se u zabrani njezina korištenja na području Republike Hrvatske kao i u zabrani izdavanja mu vozačke dozvole Republike Hrvatske. Ako protiv presude kojom je izrečena mjera nije podnesena žalba, mjera počinje teći od dana pravomoćnosti presude. Ako je protiv presude podnesena žalba o kojoj je odlučivao žalbeni sud, mjera počinje teći od uredne dostave drugostupanjske odluke osuđeniku.«.
+
+#### Članak 30.
+
+U članku 72. stavku 2. riječ: »deset« zamjenjuje se riječju: »petnaest«.
+
+U stavku 3. riječ: »može« zamjenjuje se riječju: »mora«.
+
+#### Članak 31.
+
+Naziv glave X. mijenja se i glasi:
+
+### »Glava deseta (X.) — ODUZIMANJE IMOVINSKE KORISTI, ODUZIMANJE PREDMETA, REHABILITACIJA, PODACI IZ PREKRŠAJNE EVIDENCIJE I PRAVNA POSLJEDICA OSUDE«
+
+Naslov iznad članka 76. mijenja se i glasi: »Uvjeti i način oduzimanja imovinske koristi«.
+
+Članak 76. mijenja se i glasi:
+
+"(1) Imovinska korist oduzet će se sudskom odlukom kojom je utvrđeno da je počinjen prekršaj. Imovinska korist oduzet će se i od osobe na koju je prenijeta ako nije stečena u dobroj vjeri.
+
+(2) Ako je oštećeniku dosuđen imovinskopravni zahtjev koji po prirodi i sadržaju odgovara pribavljenoj imovinskoj koristi, oduzet će se dio imovinske koristi koji prelazi dosuđeni imovinskopravni zahtjev.
+
+(3) Sud će oduzeti imovinsku korist i ako oštećenika uputi da imovinskopravni zahtjev može ostvariti u parnici.
+
+(4) Kada se utvrdi nemogućnost oduzimanja stvari ili prava ostvarenih kao imovinska korist u cijelosti ili djelomično, sud će obvezati okrivljenika na isplatu odgovarajuće protuvrijednosti u novčanom iznosu. Plaćanje se može odrediti obročno.
+
+(5) Oduzeta imovinska korist neće se umanjiti za iznos sredstava uloženih u kriminalnu djelatnost.
+
+(6) Posebnim se zakonom može propisati način izračuna ostvarene imovinske koristi počinjenim prekršajem.«.
+
+#### Članak 32.
+
+Iza članka 76. dodaje se naslov i članak 76.a koji glase:
+
+*»Oduzimanje predmeta*
+
+#### Članak 76.a
+
+(1) Predmeti i sredstva koji su bili namijenjeni ili uporabljeni za počinjenje prekršaja ili su nastali njegovim počinjenjem oduzet će se ako postoji opasnost da će se ponovno uporabiti za počinjenje prekršaja. Sud može oduzeti predmete i sredstva i kada je njihovo oduzimanje potrebno radi zaštite opće sigurnosti, javnog poretka, zaštite zdravlja ljudi ili iz moralnih razloga.
+
+(2) Ako su ispunjene pretpostavke iz stavka 1. ovoga članka, sud će oduzeti predmete i sredstva i kada postupak nije završen osuđujućom presudom.
+
+(3) Predmeti koje prema zakonu okrivljenik ili druga osoba ne može posjedovati ili predmeti čije je posjedovanje ili promet zabranjen ili ograničen ili predmeti namijenjeni prometu, ali se u promet mogu pustiti samo pod posebnim uvjetima (s nadzornim markicama i slično), oduzet će se i kad postupak nije završen osuđujućom presudom. Sud može na prijedlog ovlaštenog tužitelja narediti njihovo uništenje i prije završetka postupka.
+
+(4) Oduzeti predmeti i sredstva postaju vlasništvo Republike Hrvatske. To ne utječe na pravo trećih osoba za naknadu štete prema počinitelju zbog oduzetog predmeta ili sredstva. Vlasnik oduzetog predmeta ili sredstva koji nije počinitelj djela ima pravo na povrat predmeta i sredstva ili naknadu njihove tržišne vrijednosti iz državnog proračuna, osim ako je najmanje krajnjom nepažnjom pridonio da predmet ili sredstvo bude namijenjeno ili uporabljeno za počinjenje prekršaja ili da nastane njegovim počinjenjem ili ako je pribavio predmet ili sredstvo znajući za okolnosti koje omogućuju njegovo oduzimanje.
+
+(5) Zakonom se može propisati obvezno oduzimanje predmeta ili sredstva, u kojem slučaju vlasnik nema pravo na naknadu iz državnog proračuna, ako posebnim zakonom nije drukčije određeno.
+
+(6) Sud može na prijedlog ovlaštenog tužitelja narediti uništenje predmeta ili sredstava i prije završetka postupka ako utvrdi da predstavljaju izravnu opasnost za život i zdravlje.«.
+
+#### Članak 33.
+
+U članku 87. stavak 5. mijenja se i glasi:
+
+"(5) Stranac koji je zadržan zbog sumnje da je počinio prekršaj, ili se nalazi u pritvoru, istražnom zatvoru ili u zatvoru zbog kaznenog djela ili je iz drugih razloga lišen slobode, može od započinjanja postupka do njegova dovršetka dostavljati sudu podneske na svom jeziku.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) O pravu na prevođenje poučit će se prije prvog ispitivanja osoba iz stavka 5. ovoga članka, koja se može odreći toga prava ako zna jezik na kojem se vodi postupak. U zapisniku će se zabilježiti da je dana pouka i izjava sudionika.«.
+
+#### Članak 34.
+
+Članak 94. mijenja se i glasi:
+
+»(1) Prekršajni sudovi su nadležni:
+
+1. suditi u prvom stupnju za sve prekršaje, osim za one za koje je zakonom propisana nadležnost tijela državne uprave,
+
+2. odlučivati o prigovorima protiv prekršajnih naloga svih ovlaštenih izdavatelja kada je prigovor podnesen zbog odluke o prekršajnopravnoj sankciji, troškovima postupka, oduzimanja imovinske koristi ili oduzimanja predmeta,
+
+3. odlučivati o žalbi podnesenoj samo zbog odluke o prekršajnopravnim sankcijama, troškovima postupka, oduzimanju imovinske koristi ili oduzimanju predmeta protiv odluke o prekršaju koju je donio sud ili drugo tijelo postupka samo za prekršaj ili stjecaj prekršaja za koje je kao kazna propisana samo novčana kazna do 15.000,00 kuna,
+
+4. odlučivati o zahtjevu za obnovu prekršajnog postupka:
+
+a) u predmetima u kojima su sudili,
+
+b) protiv pravomoćnih prekršajnih naloga ovlaštenih tužitelja ako je riječ o prekršajima iz stvarne nadležnosti suda, te
+
+c) protiv svih pravomoćnih obaveznih prekršajnih naloga.
+
+5. pružati pravnu pomoć prema odredbama međunarodnih ugovora i ovoga Zakona,
+
+6. obavljati i druge poslove propisane zakonom.
+
+(2) Stvarno i mjesno nadležni za odlučivanje u predmetima iz stavka 1. točke 2. i 3. ovog članka su prekršajni sudovi u Osijeku, Rijeci, Splitu i Zagrebu:
+
+1. Prekršajni sud u Osijeku nadležan je i za područja prekršajnih sudova u Osječko-baranjskoj županiji, Brodsko-posavskoj županiji, Vukovarsko-srijemskoj županiji i Požeško-slavonskoj županiji,
+
+2. Prekršajni sud u Rijeci nadležan je i za područja prekršajnih sudova u Primorsko-goranskoj županiji, Ličko-senjskoj županiji i Istarskoj županiji,
+
+3. Prekršajni sud u Splitu nadležan je i za područja prekršajnih sudova u Splitsko-dalmatinskoj županiji, Zadarskoj županiji, Šibensko-kninskoj županiji i Dubrovačko-neretvanskoj županiji,
+
+4. Prekršajni sud u Zagrebu nadležan je i za područja prekršajnih sudova u Gradu Zagrebu, Zagrebačkoj županiji, Krapinsko-zagorskoj županiji, Sisačko-moslavačkoj županiji, Karlovačkoj županiji, Varaždinskoj županiji, Koprivničko-križevačkoj županiji, Bjelovarsko-bilogorskoj županiji, Virovitičko-podravskoj županiji i Međimurskoj županiji.
+
+(3) Kod prekršaja pravne osobe i u njoj odgovorne osobe iz stavka 1. točke 3. ovoga članka, prekršajni je sud nadležan odlučivati o žalbi samo ako su uvjeti iz te odredbe ostvareni u odnosu na prekršaj pravne osobe.
+
+(4) Sud koji prema stavku 1. točki 2. i 3. ovoga članka odlučuje o prigovoru odnosno žalbi, nadležan je za odlučivanje i o žalbi protiv rješenja kojim je izdavatelj prekršajnog naloga prigovor odbacio nepravodobnim, nedopuštenim ili nepotpunim i o žalbi protiv rješenja kojim je donositelj odluke o prekršaju žalbu odbacio nepravodobnom, nedopuštenom ili nepotpunom.«.
+
+#### Članak 35.
+
+U članku 95. točka 1. mijenja se i glasi:
+
+»1. odlučivati u drugom stupnju o žalbama protiv presuda i rješenja prekršajnih sudova, tijela državne uprave koja vode prekršajni postupak, ovlaštenih tužitelja i drugih odluka kada je to propisano zakonom, osim ako nije propisano drukčije ovim Zakonom.«.
+
+#### Članak 36.
+
+Članak 97. mijenja se i glasi:
+
+»(1) U prekršajnom sudu odluke donosi sudac pojedinac, ako drukčije nije propisano ovim Zakonom.
+
+(2) Odluku iz članka 94. stavka 1. točke 2. i 3. donosi vijeće od tri suca, u kojem ne može sudjelovati sudac koji je donio prekršajni nalog odnosno presudu.
+
+(3) Visoki prekršajni sud Republike Hrvatske odluke donosi u vijeću od tri suca, ako nije drukčije propisano zakonom.«.
+
+#### Članak 37.
+
+Iza članka 109. dodaju se članci 109.a, 109.b, 109.c, 109.d i 109.e koji glase:
+
+»Članak 109.a
+
+(1) Prije podnošenja optužnog prijedloga nadležnom sudu ili drugom tijelu postupka protiv počinitelja prekršaja, osim u slučaju iz članka 134. stavaka 1. do 3. i članka 136. ovoga Zakona, ovlašteni tužitelj iz članka 109. stavka 1. točke 1. do 3. ovoga Zakona dužan je utvrditi točnu adresu prebivališta i boravišta počinitelja odnosno sjedišta počinitelja i uručiti mu pisanu obavijest na jeziku koji razumije:
+
+1. o prekršaju za koji namjerava protiv njega podnijeti optužni prijedlog, s činjeničnim i pravnim opisom prekršaja,
+
+2. da u tijeku postupka može slobodno iznijeti obranu ili dostaviti pisanu obranu, uskratiti iznošenje obrane ili odgovor na pojedino pitanje,
+
+3. da kod tijela postupka ima pravo razgledati spis i upoznati se s dokazima protiv njega,
+
+4. da se u postupku može braniti sam ili uz pomoć branitelja po vlastitom izboru, ali da zbog nedolaska branitelja na raspravu odnosno ročište ili uzimanja branitelja tek na raspravi odnosno ročištu, rasprava odnosno ročište se neće odgoditi,
+
+5. da tijekom postupka može podnositi prijedloge za provođenje dokaza u svoju obranu,
+
+6. da se rasprava pred tijelom postupka može održati i u njegovoj odsutnosti i donijeti odluka o prekršaju,
+
+7. da je do pravomoćnog završetka postupka i završetka postupka izvršenja dužan obavijestiti tijelo postupka o svakoj promjeni adrese prebivališta i boravišta odnosno sjedišta, jer će mu se, ako tako ne postupi, ili ako izbjegava dostavu, sva pismena dostaviti putem oglasne ploče tijela postupka,
+
+8. da u postupku ima pravo upotrebljavati svoj jezik, odnosno pravo da mu se osigura tumač ako se postupak ili pojedina radnja u postupku ne vodi na njegovom jeziku te da se tog prava može odreći ako zna jezik na kojem se vodi postupak ili provodi pojedina radnja,
+
+9. da ima pravo na sporazumijevanje u smislu članka 109.e ovog Zakona.
+
+(2) Pisana obavijest iz stavka 1. ovog članka sastavlja se u dva primjerka koju će vlastoručno potpisati počinitelj, čime potvrđuje njezin primitak, i ovlaštena službena osoba ovlaštenog tužitelja. Jedan primjerak obavijesti prilaže se uz optužni prijedlog, a drugi se uručuje počinitelju.
+
+(3) Ako počinitelj prilikom uručenja pisane obavijesti iz stavka 1. ovog članka odbije njezin primitak ili svojim potpisom potvrditi njezin primitak, ovlašteni tužitelj će postupiti na način propisan u zadnjoj rečenici članka 148. stavka 4. ovog Zakona čime se dostava smatra uredno obavljenom.
+
+#### Članak 109.b
+
+(1) Osim kad mu je to dopušteno prema posebnom propisu, ovlašteni tužitelj iz članka 109. stavka 1. točaka 1. do 3. ovoga Zakona može ne pokrenuti prekršajni postupak iako postoji sumnja da je počinjen prekršaj ako je:
+
+1. s obzirom na okolnosti vjerojatno da će se u prekršajnom postupku protiv počinitelja primijeniti članak 24.a i članak 38. ovoga Zakona,
+
+2. protiv počinitelja u tijeku izvršenje ili treba izvršiti kaznu ili zaštitnu mjeru i stoga pokretanje ili vođenje prekršajnog postupka za drugi prekršaj nema svrhe s obzirom na težinu, narav prekršaja i pobude iz kojih je on počinjen, te s obzirom na očekivani rezultat koji se očekuje izvršenjem već izrečene kazne ili zaštitne mjere na počinitelja da ubuduće ne čini prekršaje,
+
+3. počinitelj počinio više prekršaja, ali je svrhovito da se počinitelj osudi samo za jedan, jer pokretanje ili vođenje prekršajnog postupka za druge prekršaje ne bi imalo bitnog utjecaja na izricanje kazne ili drugih sankcija počinitelju.
+
+(2) Osim kad mu je to dopušteno prema posebnom propisu, ovlašteni tužitelj iz članka 109. stavka 1. točaka 1. do 3. ovoga Zakona može ne pokrenuti prekršajni postupak, iako postoji sumnja da je počinjen prekršaj, a počinitelj nije ranije bio počinitelj istog prekršaja i preuzme jednu od obveza da u određenom roku:
+
+1. otkloni posljedicu prekršaja,
+
+2. naknadi štetu prouzročenu prekršajem,
+
+3. plati propisane obveze neplaćanjem kojih se ostvaruje obilježje prekršaja.
+
+(3) Ako je prekršajem s elementima nasilja oštećena fizička osoba, za postupanje prema stavcima 1. i 2. ovoga članka, potrebno je pribaviti pisanu izjavu o pristanku oštećenika.
+
+(4) Radi ispunjenja preuzete obveze prema stavku 2. ovoga članka, ovlašteni tužitelj dostavit će počinitelju pisanu naredbu kojom točno određuje preuzetu obvezu i određuje rok za njezino ispunjenje, pri čemu rok za ispunjenje obveze iz točke 1. je do 15 dana, a iz točke 2. i 3. do tri mjeseca od primitka pisane naredbe.
+
+(5) Ako počinitelj ne ispuni u propisanom roku preuzetu obvezu iz stavka 2. ovoga članka, ovlašteni tužitelj će pokrenuti prekršajni postupak.
+
+(6) Ako počinitelj, na prijedlog ovlaštenog tužitelja iz članka 109. stavka 1. točke 1. do 3. ovoga Zakona, u tijeku trajanja prekršajnog postupka preuzme jednu od obveza iz stavka 2. ovoga članka, prekršajni postupak će se rješenjem prekinuti do obavijesti ovlaštenog tužitelja o ispunjenju ili neispunjenju preuzete obveze. Protiv rješenja o prekidu postupka žalba nije dopuštena.
+
+(7) Kada ovlašteni tužitelj obavijesti sud da počinitelj nije ispunio preuzetu obvezu iz stavka 2. ovoga članka, sud će nastaviti postupak. Kada ovlašteni tužitelj obavijesti sud da je počinitelj ispunio preuzetu obvezu iz stavka 2. ovoga članka, sud će rješenjem obustaviti postupak. Protiv rješenja o obustavi postupka žalba nije dopuštena.
+
+#### Članak 109.c
+
+(1) Osim kad mu je to dopušteno prema posebnom propisu, ovlašteni tužitelj iz članka 109. stavka 1. točaka 1. i 2. ovoga Zakona može ne pokrenuti prekršajni postupak iako postoji sumnja da je počinjen prekršaj ako je počinitelj preuzeo obvezu u određenom roku:
+
+1. podvrgavanja odvikavanju od droge ili drugih ovisnosti,
+
+2. podvrgavanja psihosocijalnom tretmanu radi otklanjanja nasilničkog ponašanja uz pristanak počinitelja i žrtve na napuštanje obiteljske zajednice za vrijeme trajanja tretmana.
+
+(2) Ako je prekršajem s elementima nasilja oštećena fizička osoba, za postupanje prema stavku 1. ovoga članka, potrebno je pribaviti pisanu izjavu o pristanku oštećenika.
+
+(3) Radi ispunjenja preuzete obveze prema stavku 1. ovoga članka, ovlašteni tužitelj dostavit će počinitelju pisanu naredbu kojom određuje vrijeme trajanja podvrgavanja koje može trajati do devet mjeseci i rok za ispunjenje preuzete obveze, koji ne može biti dulji od jedne godine od primitka pisane naredbe.
+
+(4) Ako počinitelj svojom krivnjom ne ispuni ili u većem dijelu ne ispuni preuzetu obvezu iz stavka 1. ovoga članka, ovlašteni tužitelj će pokrenuti prekršajni postupak.
+
+(5) Ako počinitelj, na prijedlog ovlaštenog tužitelja iz članka 109. stavka 1. točke 1. i 2. ovoga Zakona, u tijeku trajanja prekršajnog postupka preuzme jednu od obveza iz stavka 1. ovoga članka, prekršajni postupak će se rješenjem prekinuti do obavijesti ovlaštenog tužitelja o ispunjenju ili neispunjenju preuzete obveze. Protiv rješenja o prekidu postupka žalba nije dopuštena.
+
+(6) Kada ovlašteni tužitelj obavijesti sud da počinitelj svojom krivnjom nije ispunio ili u većem dijelu nije ispunio preuzetu obvezu iz stavka 1. ovoga članka, sud će nastaviti postupak. Kada ovlašteni tužitelj obavijesti sud da je počinitelj ispunio preuzetu obvezu iz stavka 1. ovoga članka ili do neispunjenja obveze nije došlo krivnjom počinitelja, sud će rješenjem obustaviti postupak. Protiv rješenja o obustavi postupka žalba nije dopuštena.
+
+#### Članak 109.d
+
+»(1) Ako su se ostvarile okolnosti iz članka 109.b stavaka 1. i 2. te članka 109.c stavka 1. ovoga Zakona, sud može postupiti na način predviđen člancima 109.b i 109.c ovoga Zakona.
+
+(2) Kada postupi na način predviđen člankom 109.b stavkom 1. ovoga Zakona, sud će rješenjem obustaviti prekršajni postupak.
+
+(3) Kada postupi na način predviđen člankom 109.b stavkom 2. i člankom 109.c ovoga Zakona, sud će naredbom odrediti preuzetu obvezu i rok za njezino ispunjenje, prema članku 109.b stavku 2. i 109.c stavku 1. ovoga Zakona.
+
+(4) Nakon donošenja naredbe sud će rješenjem prekinuti prekršajni postupak, protiv kojeg rješenja žalba nije dopuštena.
+
+(5) Ako počinitelj u danom roku ispuni preuzetu obvezu prema stavku 3. ovoga članka, sud će rješenjem obustaviti prekršajni postupak, protiv kojeg rješenja žalba nije dopuštena. Ako počinitelj u danom roku ne ispuni preuzetu obvezu prema stavku 3. ovoga članka, sud će nastaviti s vođenjem postupka.
+
+(6) Kada se postupak vodi na temelju optužnog prijedloga oštećenika tužitelja, sud može, osim u slučaju iz članka 109.b stavka 1. ovog Zakona, uz pristanak oštećenika tužitelja postupiti na način propisan ovim člankom. Oštećenik tužitelj svoj pristanak daje pisanom izjavom na zapisniku kod suda, koju potpisuje.
+
+(7) Ako oštećenik tužitelj u roku od osam dana od isteka roka počinitelju za ispunjenje preuzete obveze ne obavijesti sud u smislu članka 109.b stavka 6. i 109.c stavka 5. ovog Zakona, smatrat će se da je počinitelj ispunio preuzetu obvezu. O ovoj obvezi i posljedici ne postupanja, oštećenika tužitelja upozorit će se prilikom davanja pisane izjave iz stavka 6. ovog članka.
+
+#### Članak 109.e
+
+(1) Nakon uručenja počinitelju obavijesti iz članka 109.a stavka 1. ovoga Zakona, ovlašteni tužitelj iz članka 109. stavka 1. točaka 1. do 3. ovog Zakona i počinitelj mogu pregovarati o uvjetima priznavanja krivnje i sporazumijevanju o sankciji i mjerama.
+
+(2) Ovlašteni tužitelj i okrivljenik mogu i tijekom postupka, prije donošenja odluke o prekršaju, na prijedlog okrivljenika ili tijela postupka pregovarati o uvjetima priznavanja krivnje i sporazumijevanju o sankciji i mjerama.
+
+(3) Ako ovlašteni tužitelj i počinitelj postignu sporazum iz stavka 1. ili stavka 2. ovog članka, sastavljaju o tome pisanu izjavu za donošenje odluke o prekršaju na temelju sporazuma stranaka koja sadrži:
+
+1) opis prekršaja,
+
+2) izjavu okrivljenika o priznavanju krivnje za taj prekršaj,
+
+3) sporazum o vrsti i mjeri kazne ili druge sankcije odnosno mjere,
+
+4) sporazum o troškovima ovlaštenog tužitelja u vezi s utvrđenjem prekršaja,
+
+5) potpis stranaka.
+
+(4) Sastavljena izjava iz stavka 3. ovog članka, a ako se radi o sporazumu iz stavka 1. ovog članka i pisana obavijest iz članka 109.a stavka 1. ovog Zakona, predaju se tijelu postupka koje će odlučiti o njezinu prihvaćanju.
+
+(5) Tijelo postupka neće prihvatiti sporazum stranaka koji je s obzirom na pravila o izboru vrste i visine sankcije na štetu okrivljenika ili se neće postići svrha kažnjavanja ili koji nije zakonit.
+
+(6) Ako ne prihvati sporazum stranaka iz stavka 1. ovog članka, postignuti sporazum će se smatrati optužnim prijedlogom i tijelo postupka će provesti postupak u kojem će raspraviti okolnosti zbog kojih nije prihvatio sporazum i donijeti odgovarajuću odluku o prekršaju.
+
+(7) Ako ne prihvati sporazum stranaka iz stavka 2. ovog članka, tijelo postupka će rješenjem odbaciti sporazum i nastaviti s postupkom. Protiv ovog rješenja nije dopuštena žalba.
+
+(8) Ako prihvati sporazum stranaka, tijelo postupka će donijeti odluku o prekršaju koja mora u cijelosti odgovarati postignutom sporazumu stranaka.
+
+(9) Protiv odluke o prekršaju iz stavka 8. ovog članka žalba nije dopuštena.«.
+
+#### Članak 38.
+
+Iza članka 117. dodaje se naslov i članak 117.a koji glase:
+
+*»Elektronička isprava*
+
+#### Članak 117.a
+
+(1) Podnesci koji se prema ovom Zakonu pisano sastavljaju i potpisuju, mogu se podnijeti u obliku elektroničke isprave ako su izrađeni, otpremljeni, primljeni i pohranjeni primjenom dostupne informacijske tehnologije, i osiguravaju utvrđivanje jednoznačnog obilježja kojim se utvrđuje sastavljač elektroničke isprave.
+
+(2) Podnesak u obliku elektroničke isprave smatra se zaprimljenim u informacijskom sustavu ili uređaju suda, tijela državne uprave koja vode prekršajni postupak, ovlaštenog tužitelja, ili odvjetničkog ureda, trenutkom registracije njihovog prijema u tom sustavu ili uređaju. Primatelj osigurava uredno djelovanje automatiziranog sustava potvrde prijema. Ako pošiljatelj ne zaprimi potvrdu prijema, obavijestit će o tome primatelja, pa ako u roku kojeg je odredio ne primi tu potvrdu, smatra se da podnesak u obliku elektroničke isprave nije poslan.
+
+(3) O podnesku u obliku elektroničke isprave iz stavka 2. ovog članka, sud, tijelo državne uprave koje vodi prekršajni postupak i ovlašteni tužitelj sastavljaju službenu zabilješku. U slučaju nerazumljivog ili nepotpunog podneska u obliku elektroničke isprave pozvat će se podnositelja da podnesak ispravi, odnosno dopuni, ako on to ne učini u određenom roku, podnesak će se odbaciti.
+
+(4) U ocjeni pitanja pravne valjanosti, uporabe, prometa, čuvanja i tajnosti podnesaka u obliku elektroničke isprave odgovarajuće se primjenjuju odredbe posebnih propisa.«.
+
+#### Članak 39.
+
+Naslov iznad članka 125. mijenja se i glasi: »Podnošenje molbe i odlučivanje o molbi«.
+
+Članak 125. mijenja se i glasi:
+
+»(1) Molba za povrat u prijašnje stanje, zajedno sa žalbom, podnosi se tijelu postupka koje je donijelo odluku o prekršaju u vezi s kojom se podnosi molba.
+
+(2) O molbi za povrat u prijašnje stanje odlučuje onaj sud koji je nadležan za odlučivanje o žalbi protiv odluke o prekršaju u vezi s kojom je podnesena molba.
+
+(3) Odlučujući o molbi za povrat u prijašnje stanje, nadležni će sud rješenjem molbu odbaciti kao nedopuštenu ako je:
+
+1. molbu podnijela osoba koja nije za to ovlaštena,
+
+2. molba podnesena, a uz nju nije podnesena i žalba,
+
+3. molba podnesena nakon proteka rokova iz članka 124. stavaka 1. i 2. ovoga Zakona,
+
+4. molba podnesena nakon odbacivanja žalbe.
+
+(4) Nakon donošenja rješenja iz stavka 3. ovoga članka, nadležni će sud, osim u slučaju iz točke 4. stavka 3. ovog članka, rješenjem odlučiti o pravodobnosti žalbe.
+
+(5) Protiv rješenja iz stavka 3. i 4. ovoga članka žalba nije dopuštena.
+
+(6) Ako ne donese rješenje prema stavku 3. ovoga članka, nadležni će sud rješenjem:
+
+1. odbiti kao neosnovanu molbu i žalbu odbaciti kao nepravodobnu,
+
+2. prihvatiti osnovanom molbu i uzeti u razmatranje žalbu kao pravodobno podnesenom.
+
+(7) Protiv rješenja iz stavka 6. ovoga članka žalba nije dopuštena.«.
+
+#### Članak 40.
+
+Članak 126. mijenja se i glasi:
+
+»Molba za povrat u prijašnje stanje ne zadržava izvršenje odluke iz članka 124. stavka 1. ovoga Zakona, osim ako sud nadležan za odlučivanje o molbi na prijedlog podnositelja molbe u posebno opravdanim slučajevima odluči da se s izvršenjem zastane do donošenja odluke o molbi.«.
+
+#### Članak 41.
+
+U članku 138. stavku 2. točka 3. mijenja se i glasi:
+
+"3. paušalni iznos troškova prekršajnog postupka:
+
+a) tijela postupka kada vode postupak,
+
+b) prekršajnog suda kada odlučuje o prigovoru (članak 238. stavak 11. i članak 244. stavak 2.) i kada odlučuje o žalbi tužitelja i okrivljenika ili samo o žalbi okrivljenika (članak 94. stavak 1. točka 3.), kada je donio odluku kojom je pravomoćno utvrđena prekršajna odgovornost okrivljenika,
+
+c) Visokog prekršajnog suda Republike Hrvatske kada je donio odluku kojom je pravomoćno utvrđena prekršajna odgovornost okrivljenika, ako je odlučivao o žalbi tužitelja i okrivljenika ili samo o žalbi okrivljenika.«.
+
+#### Članak 42.
+
+Članak 143. mijenja se i glasi:
+
+»(1) Odluke u prekršajnom postupku su:
+
+1. presuda,
+
+2. rješenje o prekršaju,
+
+3. prekršajni nalog,
+
+4. obavezni prekršajni nalog,
+
+5. rješenje,
+
+6. naredba.
+
+(2) Presudu donosi samo sud.
+
+(3) Rješenje o prekršaju donosi sud i tijelo državne uprave koje vodi prekršajni postupak.
+
+(4) Prekršajni nalog, rješenje i naredbu donosi sud i druga tijela koja sudjeluju u prekršajnom postupku.
+
+(5) Obavezni prekršajni nalog donose ovlašteni tužitelji iz članka 109. stavka 1. točke 1. i 2. ovog Zakona i jedinice lokalne i područne (regionalne) samouprave
+
+(6) Odluke o prekršaju iz stavka 1. točke 1. do 5. ovog članka su ovršne isprave.«.
+
+#### Članak 43.
+
+Članak 152. mijenja se i glasi:
+
+»(1) Sud mjesta prebivališta osuđenika, kojem je pravomoćnom presudom izrečena kazna zatvora, rješenjem ga upućuje u ustanovu za izdržavanje kazne zatvora nadležnoj prema posebnom zakonu.
+
+(2) Kada je pravomoćnu presudu iz stavka 1. ovoga članka donio drugi sud, taj sud će presudu s klauzulom pravomoćnosti dostaviti sudu iz stavka 1. ovoga članka.
+
+(3) Novčana kazna smatrat će se u cjelini plaćenom ako osuđena osoba plati dvije trećine izrečene novčane kazne u roku određenom odlukom kojom je ta kazna izrečena.
+
+(4) Ako osuđena fizička osoba nije postupila prema stavku 3. ovoga članka ili nije u roku iz odluke o prekršaju u cijelosti ili djelomično uplatila troškove prekršajnog postupka ili oduzetu imovinsku korist ili osuđena pravna osoba nije u roku određenom odlukom o prekršaju uplatila novčanu kaznu ili troškove prekršajnog postupka ili oduzetu imovinsku korist, sud ili drugo tijelo koji su u prvom stupnju donijeli o tome pravomoćnu odluku podnijet će tijelu nadležnom za ovrhu nalog za naplatu na novčanim sredstvima osuđenika sukladno posebnom zakonu. Uz nalog dostavit će se ovjereni prijepis odluke o prekršaju s klauzulom pravomoćnosti.
+
+(5) Ako tijelo nadležno za ovrhu nije punoljetnom osuđeniku fizičkoj osobi u cjelini ili djelomično naplatilo novčanu kaznu iznad 2.000,00 kuna u roku od dvije godine od primitka naloga iz stavka 4. ovoga članka, odmah će o tome na odgovarajući način obavijestiti podnositelja naloga.
+
+(6) U slučaju iz stavka 5. ovoga članka, sud iz stavka 1. ovoga članka će rješenjem zamijeniti novčanu kaznu radom za opće dobro prema članku 34. stavku 6. ovoga Zakona i uputiti osuđenika na izvršenje rada za opće dobro. Rješenjem će se odrediti i zamjena neplaćene novčane kazne zatvorom za slučaj da osuđenik ne prihvati rad za opće dobro (članak 152.c ovog Zakona).
+
+(7) Sud koji nije nadležan za postupanje prema stavku 6. ovoga članka i tijelo državne uprave koje je donijelo odluku o prekršaju dostavit će sudu iz stavka 1. ovoga članka ovjereni prijepis odluke o prekršaju s klauzulom pravomoćnosti i obavijest tijela nadležnog za ovrhu radi postupanja toga suda prema stavku 6. ovoga članka.
+
+(8) Sud koji je donio rješenje o zamjeni novčane kazne radom za opće dobro ili zatvorom nadležan je za njegovo izvršenje i u slučaju kada je osuđenik nakon donošenja rješenja promijenio prebivalište.
+
+(9) Nakon smrti osuđenika ne pokreće se postupak prema ovome članku a ako je osuđenik umro u tijeku postupka rješenjem će sud obustaviti postupak. Ako je postupak pokrenut na prijedlog tijela državne uprave rješenjem će se odbaciti zahtjev.
+
+(10) Ako tijelo nadležno za ovrhu nije od osuđenika fizičke osobe novčanu kaznu do 2.000,00 kuna, pravne osobe, fizičke osobe obrtnika i fizičke osobe koja obavlja drugu samostalnu djelatnost u cjelini ili djelomično naplatilo novčanu kaznu, troškove postupka ili oduzetu imovinsku korist u roku od dvije godine od primitka naloga iz stavka 4. ovoga članka, odmah će o tome na odgovarajući način obavijestiti podnositelja naloga.
+
+(11) Kada primi obavijest iz stavka 10. ovog članka, tijelo postupka će od Porezne uprave zatražiti da provede ovrhu na drugoj imovini osuđenika.
+
+(12) Ako osuđenik koji nema prebivalište ili stalni boravak u Republici Hrvatskoj ne uplati novčanu kaznu u ostavljenom roku iz odluke o prekršaju, sud koji je donio presudu rješenjem će je odmah zamijeniti zatvorom, prema odredbama ovoga Zakona. Kada je odluku o prekršaju donijelo tijelo državne uprave, na prijedlog toga tijela rješenje donosi nadležni prekršajni sud. Žalba protiv rješenja o zamijeni ne odgađa izvršenje rješenja.«.
+
+#### Članak 44.
+
+Iza članka 152. dodaje se poglavlje 1.a te naslovi iznad članaka i članci 152.a, 152.b, 152.c, 152.d., 152.e, 152.f, 152.g, 152.h, 152.i, 152.j, 152.k koji glase:
+
+»1.a POSTUPAK IZVRŠAVANJA RADA ZA OPĆE DOBRO U PREKRŠAJNOM POSTUPKU
+
+*Nadležnost za izvršavanje rada za opće dobro*
+
+#### Članak 152.a
+
+(1) Izvršavanje rada za opće dobro u nadležnosti je prekršajnog suda prema mjestu prebivališta osuđenika (u daljnjem tekstu: sud izvršenja).
+
+(2) Ministarstvo nadležno za poslove pravosuđa sklapa ugovore s ustanovama i drugim pravnim osobama (u daljnjem tekstu: pravne osobe) o postoja¬nju zajedničkog interesa za izvršava¬nje rada za opće dobro u prekršajnom postupku i o tome vodi evidenciju.
+
+(3) Na temelju ugovora iz stavka 2. ovog članka sud izvršenja naredbom će uputiti osuđenika na rad za opće dobro.
+
+(4) Pravilnik o izvršavanju rada za opće dobro u prekršajnom postupku donosi ministar nadležan za poslove pravosuđa.
+
+*Mjesto i troškovi izvršavanja rada za opće dobro*
+
+#### Članak 152.b
+
+(1) Rad za opće dobro izvršava se na području suda izvršenja.
+
+(2) Osuđeniku ne pripada pravo na naknadu za rad za opće dobro.
+
+(3) Osuđenik do upućivanja na izvršavanje rada za opće dobro ne snosi troškove izvršavanja rada za opće dobro niti plaća pristojbe na podneske, službene radnje i odluke u svezi s primjenom ovoga Zakona. Troškove svakog dolaska u mjesto izvršavanja rada za opće dobro i svakog povratka u mjesto stanovanja snosi osuđenik.
+
+*Upućivanje na rad za opće dobro*
+
+#### Članak 152.c
+
+(1) Sud izvršenja, nakon pravomoćnosti i izvršnosti rješenja o zamjeni novčane kazne radom za opće dobro, poziva osuđenika radi uručivanja naredbe o upućivanju na izvršavanje rada.
+
+(2) Prije uručenja naredbe iz stavka 1. ovog članka, od osuđenika će se uzeti pisana izjava uz njegov potpis da prihvaća rad za opće dobro koja se prilaže uz naredbu.
+
+(3) Sud izvršenja upućuje osuđenika na izvršavanje rada za opće dobro u jednu od pravnih osoba iz evidencije iz članka 152.a stavka 2. ovog Zakona, s područja svoje nadležnosti.
+
+(4) Naredba o upućivanju na izvršavanje rada za opće dobro dostavlja se i pravnoj osobi u kojoj će se taj rad izvršavati.
+
+(5) Sadržaj naredbe iz stavka 1. ovoga članka propisuje se Pravilnikom o izvršavanju rada za opće dobro u prekršajnom postupku.
+
+(6) Ako osuđenik izjavi da ne prihvaća rad za opće dobro ili se na uredan poziv suda izvršenja ne odazove radi primitka naredbe iz stavka 1. ovog članka, sud izvršenja će odmah izdati naredbu o upućivanju osuđenika na izdržavanje zatvora u nadležnu ustanovu za izvršavanje zatvora prema rješenju iz članka 152. stavka 6. ovog Zakona.
+
+*Raspoređivanje i uvjeti rada za opće dobro*
+
+#### Članak 152.d
+
+(1) Pravna osoba raspoređuje osuđenika na rad u skladu s njegovim psihofizičkim sposobnostima i osobnim prilikama.
+
+(2) Rad za opće dobro izvršava se na način koji osuđeniku jamči poštivanje ljudskog dostojanstva, temeljnih prava i sloboda te privatnosti.
+
+(3) Za vrijeme izvršavanja rada za opće dobro ministarstvo nadležno za poslove pravosuđa osigurat će osuđenika od trajnog invaliditeta i slučaja smrti zbog nezgode na radu.
+
+*Odgoda i prekid izvršavanja rada za opće dobro*
+
+#### Članak 152.e
+
+(1) Izvršavanje rada za opće dobro može biti odgođeno ili prekinuto na molbu osuđenika sudu izvršenja.
+
+(2) Molba za odgodu izvršavanja rada za opće dobro podnosi se u roku od tri dana od uručenja naredbe o upućivanju na izvršavanje rada, a ako su razlozi za odgodu nastali nakon proteka toga roka, a izvršavanje rada još nije započeto, u roku ne duljem od četrdeset osam sati po saznanju za njihovo postojanje. Molba za odgodu izvršavanja rada zadržava izvršavanje naredbe o čemu se obavještava pravna osoba ako joj je već dostavljena naredba.
+
+(3) Molba za prekid izvršavanja rada za opće dobro podnosi se u roku od dvadeset četiri sata od nastupa okolnosti koja je razlog za prekid.
+
+(4) Rješenje o odgodi i prekidu izvršavanja rada za opće dobro donosi sud izvršenja u roku od tri dana od primitka molbe.
+
+(5) Protiv rješenja kojim se odbija molba za odgodu ili prekid izvršavanja rada za opće dobro osuđenik može u roku od tri dana od primitka rješenja podnijeti žalbu vijeću prekršajnog suda (članak 94. stavak 2. i članak 97. stavak 2.).
+
+(6) Rješenje o odgodi ili prekidu izvršavanja rada za opće dobro dostavlja se pravnoj osobi u kojoj se izvršava rad.
+
+*Razlozi i trajanje odgode i prekida izvršavanja rada za opće dobro*
+
+#### Članak 152.f
+
+(1) Razlozi za odgodu i prekid izvršavanja rada za opće dobro jesu:
+
+1) akutno oboljenje, nastanak teškog invaliditeta ili znatno pogoršanje postojeće kronične bolesti osuđenika,
+
+2) smrt člana uže obitelji, teška bolest, teški invaliditet ili obveza izbivanja člana uže obitelji osuđenika čime osuđenik postaje jedini obvezni skrbnik malodobne djece, bračnog ili izvanbračnog druga, roditelja ili posvojitelja ili posvojenika te druge osobe o kojoj se po nekoj drugoj pravnoj osnovi isključivo skrbi,
+
+3) potreba obavljanja ili dovršenja radova izazvanih elementarnom nepogodom ili drugom nesrećom zbog čijeg bi neobavljanja nastala znatna materijalna šteta, a u užoj obitelji osuđenika nema druge radno sposobne osobe.
+
+(2) Iznimno, sud izvršenja može i u drugim opravdanim slučajevima izvan razloga iz stavka 1. ovoga članka odgoditi ili prekinuti izvršavanje rada za opće dobro.
+
+(3) Uz molbu za odgodu, odnosno prekid izvršavanja rada za opće dobro osuđenik će priložiti ispravu ili drugi dokaz o razlozima za odgodu ili prekid izvršavanja rada.
+
+(4) Izvršavanje rada za opće dobro iz razloga iz stavka 1. točke 1. ovoga članka može se odgoditi ili prekinuti dok bolest traje; zbog razloga iz točke 2. najdulje do dvadeset dana; zbog razloga iz točke 3. do dovršetka posla, a najdulje do 20 dana; a iz razloga iz stavka 2. ovoga članka najdulje do tri dana.
+
+(5) Odgoda izvršavanja rada za opće dobro ne može trajati ukupno dulje od tri mjeseca.
+
+(6) Prekid izvršavanja rada za opće dobro ne može trajati ukupno dulje od 30 dana.
+
+*Obavještavanje o izvršavanju rada za opće dobro*
+
+#### Članak 152.g
+
+(1) Pravna osoba obavijestit će sud izvršenja o izvršenom radu za opće dobro ili o zanemarivanju izvršavanja rada.
+
+(2) Zanemarivanje izvršavanja rada je: kašnjenje ili neopravdano izbivanje s rada, dovođenje u stanje smanjene radne sposobnosti, namjerno oštećenje sredstava za rad, nepoštivanje organizacije i načina rada ili bilo koje drugo neprimjereno ponašanje za vrijeme rada.
+
+*Preispitivanje izvršavanja rada za opće dobro*
+
+#### Članak 152.h
+
+Sud izvršenja povodom obavijesti pravne osobe o zanemarivanju rada za opće dobro, preispitat će izvršavanje rada te će naredbom odlučiti o nastavku rada kod iste ili druge pravne osobe ili će prekinuti izvršavanje rada i uputiti ga na izdržavanje kazne zatvora, na temelju rješenja iz članka 152. stavka 6. ovog Zakona.
+
+*Evidencija izvršavanja rada za opće dobro*
+
+#### Članak 152.i
+
+Pravna osoba vodi evidenciju izvršavanja rada za opće dobro za pojedinog osuđenika prema Pravilniku o izvršavanju rada za opće dobro u prekršajnom postupku.
+
+*Uskrata dokumenata*
+
+#### Članak 152.j
+
+(1) Osuđeniku koji u roku iz odluke o prekršaju ne uplati pravomoćno izrečenu novčanu kaznu uskratit će se:
+
+1. izdavanje vozačke dozvole ili produljenje njezine valjanosti,
+
+2. registracija motornog vozila ili produljenje registracije motornog vozila,
+
+3. sudjelovanje na javnom natječaju u postupcima provođenja javne nabave,
+
+4. osnivanje pravnog subjekta i svaka njegova statusna promjena,
+
+5. osnivanje i registriranje obrta i druge samostalne djelatnosti,
+
+6. dodjeljivanje koncesija i dobivanje subvencija.
+
+(2) Posebnim se zakonom može propisati uskrata i drugih dokumenata i dozvola uz one iz stavka 1. ovoga članka, pri čemu se ne smiju uskratiti potvrde iz evidencija koje se tiču osobnih (statusnih) prava, ili onih koje služe slobodi kretanja, ostvarivanju prava iz rada, mirovinskog i socijalnog osiguranja ili čijim bi se neizdavanjem ugrozilo zdravlje ili sigurnost osoba.
+
+*Registar pravomoćno izrečenih a neuplaćenih novčanih kazni*
+
+#### Članak 152.k
+
+(1) Radi mogućeg postupanja tijela državne uprave prema članku 152.j ovoga Zakona, ministarstvo nadležno za pravosuđe ustrojit će Registar izrečenih, a u ostavljenom roku neuplaćenih novčanih kazni (u nastavku: Registar).
+
+(2) Kada odluka o prekršaju postane pravomoćna, a osuđena osoba kojoj je kazna izrečena ne uplati istu u roku određenom odlukom o prekršaju, sud i drugo tijelo koje je donijelo odluku obavijestit će o tome Registar.
+
+(3) Uz obavijest iz stavka 2. ovoga članka dostavit će se pravomoćna odluka o prekršaju, uz naznaku kada nastupa zastara prava na izvršenje novčane kazne.
+
+(4) Kada primi obavijesti iz stavaka 2. i 3. ovoga članka, Registar unosi te podatke u jedinstvenu elektroničku bazu izrečenih, a neuplaćenih novčanih kazni.
+
+(5) Ako osuđena osoba u međuvremenu uplati novčanu kaznu ili je tijelo nadležno za ovrhu naplati, bez odgode će se o tome obavijestiti Registar.
+
+(6) Ministar nadležan za poslove pravosuđa donijet će provedbeni propis o načinu dostave podataka u Registar, unosa podataka u Registar brisanja podataka iz Registra te pravu pristupa u Registar i uvjete i način korištenja podataka iz Registra.
+
+(7) Uskrata može trajati do plaćanja novčane kazne, njezine prisilne naplate, a najdulje do nastupanja zastare izvršenja.«.
+
+#### Članak 45.
+
+U članku 160. stavku 2. iza točke 8. dodaju se točke 9. i 10. koje glase:
+
+»9. pisanu obavijest iz članka 109.a stavka 1. i 2. ovoga Zakona,
+
+10. podatak ovlaštenog tužitelja je li protiv počinitelja podnesena i kaznena prijava u vezi s istim događajem.«.
+
+#### Članak 46.
+
+U članku 161. stavku 4. iza druge rečenice dodaju se rečenice koje glase:
+
+»Ako uz optužni prijedlog nije priložena pisana obavijest iz članka 109.a ovoga Zakona, pozvat će se tužitelj da je u određenom roku pribavi, i sastavljenu prema članku 109. a stavku 1. i 2. ovoga Zakona, dostavi. Ako tako ne postupi u ostavljenom roku, odbacit će se rješenjem optužni prijedlog.«.
+
+#### Članak 47.
+
+Iza članka 171. dodaje se članak 171.a koji glasi:
+
+»Članak 171.a
+
+(1) Kada se okrivljenik prvi puta ispituje, prije uzimanja njegove obrane, tražit će se od njega da se očituje o optužnom prijedlogu i krivnji za prekršaj za koji se tereti.
+
+(2) Ako se okrivljenik očitovao krivim u odnosu na sve točke optužnog prijedloga, okolnosno će se ispitati na sve točke optužnog prijedloga.
+
+(3) Ako sud okrivljenikovo priznanje ocijeni sukladnim dokazima u spisu, u nastavku dokaznog postupka izvest će samo dokaze koji se odnose na odluku o prekršajnopravnim sankcijama i drugim mjerama.«.
+
+#### Članak 48.
+
+U članku 183. stavku 2., na kraju dodaje se rečenica koja glasi:
+
+»Okrivljenika će se također upozoriti da ako u roku koji mu je određen za plaćanje novčane kazne uplati dvije trećine izrečene novčane kazne smatrat će se da je novčana kazna u cjelini uplaćena (članak 152. stavak 3.).«.
+
+#### Članak 49.
+
+U članku 191. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Protiv odluka vijeća prekršajnih sudova iz članka 94. stavka 1. točke 2. i 3. ovoga Zakona donesenih povodom odlučivanja o prigovoru odnosno žalbi nije dopuštena žalba.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 50.
+
+U članku 194. točki 4. iza riječi: »oduzimanju imovinske koristi,« dodaju se riječi: »oduzimanju predmeta,«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Protiv odluke o prekršaju donesene prema članku 171.a ovoga Zakona žalba se može podnijeti samo zbog odluke o prekršajnopravnoj sankciji i drugim mjerama.«.
+
+#### Članak 51.
+
+U članku 223. stavak 2. mijenja se i glasi:
+
+»(2) Ako je počinitelj u vrijeme počinjenja prekršaja bio maloljetan, prije donošenja odluke o prekršaju mora biti ispitan. Ispitivanju maloljetnika obvezno prisustvuju roditelj ili skrbnik ili stručni radnik centra za socijalnu skrb.«.
+
+Stavak 12. briše se.
+
+#### Članak 52.
+
+U članku 228. stavku 3. iza riječi: »oduzimanje imovinske koristi,« dodaju se riječi: »oduzimanje predmeta,«.
+
+U stavku 4. riječi: »oduzimanje predmeta i« brišu se.
+
+#### Članak 53.
+
+U članku 234. stavku 3., na kraju dodaje se rečenica koja glasi:
+
+»Ovlašteni tužitelj će izdanim prekršajnim nalogom, odnosno obaveznim prekršajnim nalogom upozoriti okrivljenika u smislu članka 109.a stavka 1. točaka 2. do 8. ovoga Zakona.«.
+
+#### Članak 54.
+
+U članku 237. stavku 1. točki 2. iza riječi: »koristi« stavlja se zarez i dodaju riječi: »oduzimanja predmeta prekršaja«.
+
+#### Članak 55.
+
+U članku 238. stavku 8. riječi: »Visoki prekršajni sud Republike Hrvatske« zamjenjuju se riječima: »nadležni prekršajni sud iz članka 94. stavka 2. ovog Zakona«, a riječi: »Visoki će prekršajni sud Republike Hrvatske« zamjenjuju se riječima: »nadležni prekršajni sud iz članka 94. stavka 2. ovog Zakona će«.
+
+Stavak 11. mijenja se i glasi:
+
+»(11) Kada je podnesen prigovor iz članka 237. stavka 1. točke 2. ovoga Zakona a izdavatelj prekršajnog naloga ne donese rješenje sukladno stavcima 1., 4. i 5. ovoga članka, dostavit će prekršajni nalog zajedno s prigovorom nadležnom prekršajnom sudu iz članka 94. stavka 2. ovoga Zakona, koji će o prigovoru odlučiti odgovarajućom primjenom odredbi ovoga Zakona o žalbenom postupku.«.
+
+#### Članak 56.
+
+Članak 239. mijenja se i glasi:
+
+»(1) Ovlašteni tužitelji iz članka 109. stavka 1. točke 1. i 2. ovoga Zakona prije pokretanja prekršajnog postupka protiv počinitelja prekršaja obvezno će izdati prekršajni nalog (obavezni prekršajni nalog) za:
+
+1. prekršaj propisan odlukom jedinice lokalne i područne (regionalne) samouprave,
+
+2. prekršaj propisan zakonom za koji je kao kazna propisana samo novčana kazna do 5.000,00 kuna za fizičku osobu, do 10.000,00 kuna za počinitelja prekršaja fizičku osobu obrtnika i osobu koja obavlja drugu samostalnu djelatnost, do 15.000,00 kuna za pravnu osobu i do 5.000,00 kuna za odgovornu osobu u pravnoj osobi. Kod prekršaja pravne osobe i u njoj odgovorne osobe, obavezni prekršajni nalog izdat će se kada je uvjet iz ove točke ostvaren u odnosu na počinitelja pravnu osobu.
+
+(2) Ovlašteni tužitelji iz članka 109. stavaka 1. i 2. ovoga Zakona mogu izdati obavezni prekršajni nalog i ako je za prekršaj propisana novčana kazna veća od iznosa iz stavka 1. točke 2. ovoga članka, ali u tom slučaju za pojedinačni prekršaj ne može se utvrditi novčana kazna veća od iznosa iz stavka 1. točke 2. ovoga članka.
+
+(3) Za prekršaje u stjecaju ovlašteni tužitelj je obvezan izdati prekršajni nalog samo kada su za to ostvareni uvjeti iz stavka 1. ovoga članka za sve prekršaje u stjecaju.
+
+(4) Obaveznim prekršajnim nalogom osim novčane kazne može se izreći i oduzimanje predmeta prekršaja, imovinske koristi, paušalna svota troška izdavanja prekršajnog naloga do 200,00 kuna i stvarni troškovi nastali utvrđivanjem prekršaja upotrebom tehničkih sredstava ili provođenjem potrebnih analiza i vještačenja. Kada je za prekršaj propisana novčana kazna iznad 2.000,00 do 5.000,00 kuna, može se počinitelju izreći i zaštitna mjera zabrane upravljanja motornim vozilom odnosno korištenje strane dozvole za upravljanje motornim vozilom na području Republike Hrvatske.
+
+(5) U postupku izdavanja obaveznog prekršajnog naloga iz stavka 1. i 2. ovoga članka na odgovarajući se način primjenjuju i odredbe ovoga Zakona o izdavanju prekršajnog naloga, osim ako odredbama ovoga Zakona o izdavanju obaveznog prekršajnog naloga nije nešto drukčije određeno.
+
+(6) Ako je ovlašteni tužitelj umjesto prekršajnog naloga iz stavka 1. ovoga članka podnio optužni prijedlog, sud taj će optužni prijedlog odbaciti.
+
+(7) Obavezni prekršajni nalog ne može se izdati protiv počinitelja prekršaja koji je u vrijeme počinjenja prekršaja bio maloljetnik.«.
+
+#### Članak 57.
+
+U članku 245. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Ako zakonom nije određeno drukčije, novčana se kazna može naplatiti na mjestu počinjenja prekršaja u visini polovice propisanog minimuma ili polovice točno određenog iznosa novčane kazne propisane propisom o prekršaju za prekršaj za koji je kao kazna propisana samo novčana kazna do 2.000,00 kuna za fizičku i odgovornu osobu u pravnoj osobi, do 5.000,00 kuna za okrivljenika fizičku osobu obrtnika i fizičku osobu koja se bavi drugom samostalnom djelatnošću i do 15.000,00 kuna za pravnu osobu i s njom izjednačene subjekte, ako je službena osoba ovlaštenog tužitelja, osim oštećenika, prekršaj utvrdila:
+
+1. obavljanjem nadzora u okviru svoje nadležnosti,
+
+2. neposrednim opažanjem,
+
+3. uporabom tehničkih uređaja,
+
+4. pregledom vjerodostojne dokumentacije.
+
+(2) Kada se radi o prekršaju pravne osobe i u njoj odgovorne osobe, novčana se kazna može naplatiti, prema pravilima iz stavka 1. ovoga članka, pravnoj osobi i odgovornoj osobi i kada su za to ostvareni uvjeti iz stavka 1. ovoga članka samo u odnosu na pravnu osobu.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 58.
+
+Predmete za koje su, na temelju ovoga Zakona, stvarno nadležni rješavati prekršajni sudovi, Visoki prekršajni sud Republike Hrvatske dostavit će tim sudovima s danom stupanja na snagu ovoga Zakona.
+
+Odredbe ovog Zakona o zastari izvršenja oduzete imovinske koristi, oduzetih predmeta prekršaja i naplate troškova prekršajnog postupka, primjenjuju se i na postupke njihova izvršavanja koji su u tijeku na dan stupanja na snagu ovog Zakona.
+
+Izvršenje prekršajnopravnih sankcija pravomoćno izrečenih sukladno odredbama Prekršajnog zakona (»Narodne novine«, br. 107/07.), čije izvršenje nije započelo ili je u tijeku, provodit će se sukladno odredbama ovoga Zakona od dana njegova stupanja na snagu.
+
+Odredbe ovoga Zakona o obaveznom prekršajnom nalogu primjenjuju se i na prekršaje počinjene prije stupanja na snagu ovoga Zakona, ako za iste ovlašteni tužitelj nije već pokrenuo prekršajni postupak podnošenjem optužnog prijedloga nadležnom tijelu postupka odnosno izdao prekršajni nalog.
+
+Odredbe ovoga Zakona o primjeni oportuniteta od strane ovlaštenog tužitelja i pregovaranja i sporazumijevanja ovlaštenog tužitelja i počinitelja prekršaja prije pokretanja prekršajnog progona primjenjuju se i na prekršaje počinjene prije stupanja na snagu ovoga Zakona, ako ovlašteni tužitelj nije već pokrenuo prekršajni postupak za te prekršaje podnošenjem optužnog prijedloga nadležnom tijelu postupka odnosno ako nije već izdao prekršajni nalog.
+
+Odredbe ovoga Zakona o primjeni oportuniteta od strane ovlaštenog tužitelja i suda tijekom postupka i odredbe o pregovaranju i sporazumijevanju ovlaštenog tužitelja i počinitelja prekršaja tijekom postupka primjenjuju se i na prekršaje počinjene prije stupanja na snagu ovoga Zakona, u postupcima koji su u tijeku.
+
+Odredba članka 41. ovoga Zakona primjenjuje se i u postupcima koji su u tijeku na dan stupanja na snagu ovoga Zakona, ako su prigovor ili žalba okrivljenika podneseni nakon stupanja na snagu ovoga Zakona.
+
+#### Članak 59.
+
+Ministar nadležan za poslove pravosuđa dužan je:
+
+1. u roku od mjesec dana od dana stupanja na snagu ovoga Zakona donijeti Pravilnik o izvršavanju rada za opće dobro u prekršajnom postupku,
+
+2. u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti Pravilnik o registru pravomoćno izrečenih, a neuplaćenih novčanih kazni.
+
+#### Članak 60.
+
+Stupanjem na snagu ovog Zakona prestaje važiti Zakon o izvršavanju rada za opće dobro na slobodi i uvjetne osude sa zaštitnim nadzorom u prekršajnom postupku (»Narodne novine«, br. 75/09.).
+
+#### Članak 61.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i objavi pročišćeni tekst Prekršajnog zakona.
+
+#### Članak 62.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. lipnja 2013., osim članka 152.j i članka 152.k iz članka 44. ovog Zakona koji stupaju na snagu 1. siječnja 2014.
+
+Klasa: 740-04/12-01/01
+
+Zagreb, 22. ožujka 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Prekršajnog zakona (NN 157/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3294*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 13. prosinca 2013. godine.
+
+Klasa: 011-01/13-01/304
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 18. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA**
+
+#### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine«, br. 107/07. i 39/13.) u članku 1.a iza podstavka 2. umjesto točke stavlja se zarez i dodaje podstavak 3. koji glasi:
+
+»– Okvirnom odlukom Vijeća 2002/946/PUP od 28. studenoga 2002. o jačanju kaznenog okvira s ciljem sprječavanja olakšavanja neovlaštenog ulaska, tranzita i boravka.«.
+
+#### Članak 2.
+
+U članku 50. stavku 3. iza riječi: »stavka 1.« dodaju se riječi: »i stavka 2.«, iza riječi: »dvije godine« stavlja se točka, a drugi dio rečenice briše se.
+
+#### Članak 3.
+
+U članku 76.a iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Ministar nadležan za pravosuđe u suradnji s ministrom nadležnim za financije pravilnikom će urediti način postupanja s oduzetim predmetima u prekršajnim postupcima koji su postali vlasništvo Republike Hrvatske.«.
+
+#### Članak 4.
+
+U članku 135. stavku 1. iza riječi: »nasilje u obitelji« stavlja se zarez i dodaju riječi: »prekršaju vezanom za sprječavanje nereda na sportskim natjecanjima«.
+
+#### Članak 5.
+
+U članku 152. stavku 4. zadnja rečenica briše se.
+
+#### Članak 6.
+
+U članku 152.j stavku 1. točke 3., 4., 5. i 6. brišu se.
+
+#### Članak 7.
+
+Naslov iznad članka 152.k mijenja se i glasi: »Registar neplaćenih kazni«.
+
+U članku 152.k stavku 2. riječi: »sud i drugo tijelo koje je donijelo odluku obavijestit će o tome Registar« zamjenjuju se riječima: »bez odgode će se o tome obavijestiti Registar«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavci 4., 5., 6. i 7. postaju stavci 3., 4., 5. i 6.
+
+#### Članak 8.
+
+U članku 160. stavku 2. točki 4. riječi: »matični broj« zamjenjuju se riječima: »osobni identifikacijski broj«.
+
+#### Članak 9.
+
+U članku 171. stavku 1. riječi: »matični broj građana Republike Hrvatske« zamjenjuju se riječima: »osobni identifikacijski broj«, a riječi: »čime se zanima« zamjenjuju se s riječju: »zanimanje«.
+
+#### Članak 10.
+
+U članku 207. iza riječi: »žalbu« dodaju se riječi: »ili po službenoj dužnosti«.
+
+#### Članak 11.
+
+U članku 238. stavku 8. uvodna rečenica se mijenja i glasi:
+
+»Rješavajući o žalbi protiv rješenja o odbačaju prigovora nadležni sud rješenjem može:«.
+
+#### Članak 12.
+
+U članku 239. stavku 2. riječi: »članka 109. stavaka 1. i 2.« zamjenjuju se riječima: »članka 109. stavka 1. točaka 1. i 2.«.
+
+#### Članak 13.
+
+U članku 244. stavku 2. riječi: »kazne ili troškova postupka« zamjenjuju se riječima: »sankcije iz članka 239. stavka 4. ovog Zakona«, a riječi: »kazni ili troškovima postupka« zamjenjuju se riječima: »sankciji iz članka 239. stavka 4. ovog Zakona«.
+
+#### Članak 14.
+
+U članku 245. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Smatrat će se da je novčana kazna iz stavka 1. ovog članka naplaćena na mjestu počinjenja prekršaja ako počinitelj prekršaja nije u trenutku kada je zatečen na mjestu počinjenja prekršaja u mogućnosti platiti novčanu kaznu, a istu plati u roku od tri dana te dokaz o izvršenoj uplati dostavi tijelu koje je utvrdilo prekršaj. Na isti se način može naplatiti i trošak utvrđenja prekršaja putem tehničkih uređaja.
+
+(3) Smatrat će se da je novčana kazna iz stavka 1. ovog članka naplaćena na mjestu počinjenja prekršaja ako počinitelj prekršaja nije utvrđen u trenutku počinjenja prekršaja ili nije zatečen na mjestu počinjenja prekršaja, a novčanu kaznu plati u roku od tri dana od primitka obavijesti o prekršaju te dokaz o izvršenoj uplati dostavi tijelu koje je utvrdilo prekršaj. Na isti se način može naplatiti i trošak utvrđenja prekršaja putem tehničkih uređaja.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 4. i 5.
+
+U dosadašnjem stavku 4. koji postaje stavak 6. riječi: »stavku 1. i 2.« zamjenjuju se riječima: »stavku 1., 2., 3 i 4.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+U dosadašnjem stavku 6. koji postaje stavak 8. riječi: »stavku 1. i 2.« zamjenjuju se riječima: »stavku 1., 2., 3. i 4.«.
+
+U dosadašnjem stavku 7. koji postaje stavak 9. riječi: »stavku 6.« zamjenjuju se riječima »stavku 8.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 15.
+
+Nadležni ministri su dužni donijeti pravilnik iz članka 3. ovoga Zakona u roku od mjesec dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 16.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/309
+
+Zagreb, 13. prosinca 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Prekršajnog zakona (NN 110/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2131*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 25. rujna 2015. godine.
+
+Klasa: 011-01/15-01/117  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 1. listopada 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA**
+
+#### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine«, br. 107/07., 39/13. i 157/13.) članak 14.b mijenja se i glasi:
+
+»(1) Izvršenje odluke o oduzimanju predmeta i troškovima prekršajnog postupka zastarijeva po proteku pet godina od pravomoćnosti odluke kojom je isto izrečeno.
+
+(2) Izvršenje odluke o oduzimanju imovinske koristi ne zastarijeva.«.
+
+#### Članak 2.
+
+U članku 16. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Sastoji li se počiniteljeva djelatnost iz više vremenski odvojenih radnji, prekršaj je počinjen danom posljednje radnje, a kod prekršaja kod kojih radnja traje, danom prestanka radnje.«.
+
+#### Članak 3.
+
+U članku 33. stavak 9. mijenja se i glasi:
+
+»(9) Posebnim zakonom može se poduzetniku za najteže prekršaje iz stavka 7. ovoga članka propisati i izreći novčana kazna u postotku od 1% do 10% njegovog ukupnog prihoda, ostvarenog u godini počinjenja prekršaja, a koji je utvrđen službenim financijskim izvješćima za tu godinu. Ako izvješća za tu godinu nema, za osnovicu izricanja kazne uzet će se posljednja dostupna službena godišnja financijska izvješća. Posebnim zakonom može se propisati što čini ukupan prihod poduzetnika.«.
+
+#### Članak 4.
+
+Iza članka 33. dodaje se članak 33.a koji glasi:
+
+»Članak 33.a
+
+(1) Kada je utvrđeno u postupku da je poduzetnik prekršajem iz članka 33. stavka 7. ovoga Zakona ostvario korist ili spriječio gubitak, može mu se izreći novčana kazna u visini dvostruko utvrđenog iznosa ostvarene koristi odnosno spriječenog iznosa gubitka, ako je taj iznos veći od propisanog maksimuma kazne u postotku, prema članku 33. stavku 9. ovoga Zakona. Kod utvrđivanja pojedinačne kazne i kod izricanja ukupne kazne prema ovom stavku, ne vrijede ograničenja o tome iz članka 33. stavaka 1. do 6. ovoga Zakona.
+
+(2) Iznimno, za prekršaj iz članka 33. stavka 7. ovoga Zakona za koji je ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora, za odgovornu osobu u pravnoj osobi i/ili za drugu fizičku osobu može se propisati i izreći novčana kazna do 40.000.000,00 kuna. Kada je u postupku utvrđeno da je okrivljena odgovorna osoba u pravnoj osobi i/ili druga fizička osoba počinjenim prekršajem za sebe ostvarila korist ili spriječila gubitak, može joj se izreći novčana kazna u visini dvostruko utvrđenog iznosa ostvarene koristi odnosno spriječenog iznosa gubitka, ako je taj iznos veći od maksimuma propisane kazne. Kod utvrđivanja pojedinačne kazne i kod izricanja ukupne kazne prema ovom članku, ne vrijede ograničenja o tome iz članka 33. stavaka 1. do 6. ovoga Zakona.
+
+(3) U smislu ovoga Zakona poduzetnik je svaka pravna ili fizička osoba koja se bavi gospodarskom djelatnošću, bez obzira na pravni status i način na koji se financira.«.
+
+#### Članak 5.
+
+U članku 37. stavku 3. iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. kada je novčana kazna propisana u skladu s člankom 33. stavkom 9. i člankom 33.a ovoga Zakona, ista se može ublažiti do polovice utvrđenog iznosa novčane kazne prema propisanom posebnom minimumu novčane kazne,«.
+
+Dosadašnja točka 3. postaje točka 4.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Blažu kaznu od propisane za određeni prekršaj sud može izreći i kada su se ovlašteni tužitelj i okrivljenik o tome sporazumjeli, ako je takva kazna u granicama odredbi ovoga Zakona o ublažavanju kazne.«.
+
+#### Članak 6.
+
+U članku 50. stavku 1. iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. zabrana posjećivanja određenog mjesta ili područja.«.
+
+U stavku 3. na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »ako ovim Zakonom nije propisano drukčije.«.
+
+#### Članak 7.
+
+U članku 54. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Iznimno, okrivljeniku odgovornoj osobi u pravnoj osobi za prekršaj iz članka 33. stavka 7. ovoga Zakona, za koji je ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora, sud može izreći trajno zaštitnu mjeru iz stavka 1. ovoga članka.«.
+
+#### Članak 8.
+
+U članku 55. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Iznimno, okrivljenoj pravnoj osobi za prekršaj iz članka 33. stavka 7. ovoga Zakona, za koji je ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora, sud može izreći trajno zaštitnu mjeru iz stavka 1. ovoga članka.«.
+
+#### Članak 9.
+
+Iza članka 58. dodaju se naslov iznad članka i članak 58.a koji glase:
+
+*»Zabrana posjećivanja određenog mjesta ili područja*
+
+#### Članak 58.a
+
+(1) Zaštitna mjera zabrane posjećivanja određenog mjesta ili područja može se izreći počinitelju prekršaja kada postoji opasnost da će u određenom razdoblju posjećivanjem tog mjesta ili područja ponovno počiniti isti prekršaj.
+
+(2) Zaštitna mjera iz stavka 1. ovoga članka ne može se izreći u trajanju kraćem od jednog mjeseca ni duljem od dvije godine.
+
+(3) Ako okrivljenik postupi protivno zabrani iz stavka 1. ovoga članka, a zabrana je izrečena uz uvjetnu osudu, sud će postupiti prema članku 46. stavku 4. ovoga Zakona.«.
+
+#### Članak 10.
+
+U članku 60. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Kada je propisom o prekršaju propisana prekršajna odgovornost pravne osobe i u njoj odgovorne osobe, a ovlašteni tužitelj pokrene postupak samo protiv pravne ili odgovorne osobe, ili sud u postupku utvrdi da optužena odgovorna osoba nije odgovorna osoba za taj prekršaj, sud može utvrditi prekršajnu odgovornost samo pravne osobe odnosno samo odgovorne osobe.«.
+
+#### Članak 11.
+
+U članku 80. stavak 3. briše se.
+
+#### Članak 12.
+
+U članku 87. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Trošak prevođenja i tumača nastao primjenom odredbi ovoga članka pada na teret proračunskih sredstava suda.«.
+
+#### Članak 13.
+
+U članku 94. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Prekršajni sud u Zagrebu je isključivo mjesno nadležan za suđenje u postupcima koje kod suda pokreće ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora.«.
+
+#### Članak 14.
+
+U članku 109.e stavku 3. točki 4. iza riječi: »prekršaja«, dodaju se riječi: »kao i o troškovima tijela postupka kada je sporazum postignut tijekom vođenja postupka«.
+
+#### Članak 15.
+
+U članku 117.a iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Pismena koja se sastavljaju u vezi s prekršajnim postupkom mogu se sastavljati, popunjavati, voditi, ispisivati i arhivirati u elektroničkom obliku. Ako se takvo pismeno potpisuje, može se potpisivati na elektroničkom uređaju, u skladu s tehničkim mogućnostima uređaja.«.
+
+#### Članak 16.
+
+U članku 119. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Kada ovlaštena službena osoba ovlaštenog tužitelja na mjestu počinjenja prekršaja sačinjava zapisnik o poduzetim radnjama u vezi s počinjenim prekršajem, može zapisnik sastaviti u elektroničkom obliku, na način da se nakon potpisa počinitelja prekršaja zapisnik elektronski zaključava i onemogućava naknadna izmjena. Zapisnik se može potpisati na elektroničkom uređaju u skladu s tehničkim mogućnostima uređaja.«.
+
+#### Članak 17.
+
+U članku 128. stavak 3. mijenja se i glasi:
+
+»(3) Kada se okrivljenik prvi puta poziva, obvezni sadržaj poziva je stavak 2. ovoga članka i članak 109.a stavak 1. ovoga Zakona, osim ako ovim Zakonom nije drukčije određeno.«.
+
+Iza stavka 3. dodaju se novi stavci 4. i 5. i stavak 6. koji glase:
+
+»(4) Kada je tužitelj pokrenuo postupak podnošenjem optužnog prijedloga uz koji je, sukladno obvezi na temelju ovoga Zakona, priložio od okrivljenika potpisanu pisanu obavijest iz članka 109.a stavka 1. ovoga Zakona, obavezan sadržaj prvog poziva okrivljeniku je samo stavak 2. ovoga članka.
+
+(5) Kada je tužitelj pokrenuo postupak izdavanjem prekršajnog naloga ili obaveznog prekršajnog naloga kojima je upozorio okrivljenika, sukladno obvezi iz članka 234. stavka 3. ovoga Zakona, na njegova prava i obveze iz članka 109.a stavka 1. točke 2. do 8. ovoga Zakona, obavezan sadržaj prvog poziva okrivljeniku je samo stavak 2. ovoga članka.
+
+(6) Uz prvi poziv okrivljeniku će se uvijek dostaviti i optužni prijedlog.«.
+
+Dosadašnji stavak 4. postaje stavak 7.
+
+Dosadašnji stavak 5., koji postaje stavak 8., mijenja se i glasi:
+
+»(8) Stavci 1. do 7. ovoga članka se odgovarajuće primjenjuju i u odnosu na okrivljenika pravnu osobu i njegovog predstavnika u prekršajnom postupku.«.
+
+#### Članak 18.
+
+U članku 137. stavku 1. iza riječi: »opojnih sredstava« dodaju se riječi: »ili osobi koja pokazuje znakove utjecaja opojnih sredstava, a odbija se podvrgnuti utvrđivanju prisutnosti opojnih sredstava u organizmu«.
+
+#### Članak 19.
+
+U članku 138. stavku 1. na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »te izdaci za uništenje oduzetih predmeta prekršaja.«.
+
+#### Članak 20.
+
+U članku 139. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+
+»(7) Kada sud okrivljenika proglasi krivim, odlukom o prekršaju kojom su oduzeti predmeti prekršaja, može odrediti da podmiri troškove uništenja predmeta prekršaja koji se sukladno članku 76.a ovoga Zakona moraju uništiti tijekom postupka ili nakon pravomoćnog dovršetka postupka.
+
+(8) Ako nedostaju podaci o visini troškova iz stavka 7. ovoga članka, sud će posebnim rješenjem odlučiti u smislu stavka 7. ovoga članka, ako se podaci o visini tih troškova dostave sudu u roku godine dana od pravomoćnosti odluke o prekršaju.«.
+
+#### Članak 21.
+
+U članku 140. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) U oslobađajućoj presudi i presudi kojom se optužba odbija odlučit će se i o troškovima postupka.
+
+(2) U slučaju iz stavka 1. ovoga članka, izreći će se u presudi da troškovi prekršajnog postupka iz članka 138. stavka 2. točaka 2. do 4. ovoga Zakona padaju na teret proračunskih sredstava suda, osim ako ovim Zakonom nije drukčije određeno, a troškovi iz članka 138. stavka 2. točaka 5. i 7. ovoga Zakona samo ako se presudom okrivljenik oslobađa od optužbe jer djelo nije prekršaj odnosno nema dokaza da je počinio prekršaj.«.
+
+#### Članak 22.
+
+U članku 172. stavku 2. prva rečenica mijenja se i glasi:
+
+»Kada se okrivljenik prvi put ispituje zbog prekršaja za koji je alternativno propisana kazna zatvora ili kada je u smislu članka 134. ovoga Zakona uhićen i doveden pred sud, sudac ga je dužan upozoriti o pravu na branitelja.«.
+
+#### Članak 23.
+
+U članku 184. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Posebnim se zakonom može propisati da ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora, kada primi nepravomoćnu odluku o prekršaju može je objaviti na svojoj mrežnoj stranici, uz naznaku da je odluka nepravomoćna. U tom slučaju dužan je objaviti i podnesene redovite pravne lijekove protiv odluke i ishod postupka po pravnim lijekovima. Posebnim se zakonom može propisati kada se iznimno identitet počinitelja prekršaja neće objaviti.
+
+(6) Kada u postupku dostave nepravomoćne odluke o prekršaju ili u roku za podnošenje pravnog lijeka protiv odluke o prekršaju istekne zakonom propisani rok za zastaru prekršajnog progona, rješenjem će se utvrditi da je nastupila zastara prekršajnog progona i prekršajni postupak obustaviti.«.
+
+#### Članak 24.
+
+Članak 186. mijenja se i glasi:
+
+»(1) Pogreške u imenima i brojevima te druge očite pogreške ili propusti u pisanju i računanju, nedostatke u obliku i nesuglasnosti napisane odluke o prekršaju i druge odluke s izvornikom ispravit će, posebnim rješenjem, sudac odnosno predsjednik vijeća na zahtjev stranaka ili po službenoj dužnosti.
+
+(2) Nakon pravomoćnosti rješenja iz stavka 1. ovoga članka sudac odnosno predsjednik vijeća će izraditi novi prijepis odluke o prekršaju odnosno druge odluke s ispravcima, koji će osobama iz članka 184. ovoga Zakona dostaviti zajedno s rješenjem o ispravku. Ispod naziva odluke s ispravcima naznačit će se: (ispravak).
+
+(3) Protiv rješenja o ispravku nepravomoćne odluke o prekršaju ili druge odluke nije dopuštena posebna žalba, dok je protiv rješenja o ispravku pravomoćne odluke o prekršaju ili druge odluke žalba dopuštena, osim u slučaju iz članka 211. stavka 4. ovoga Zakona.
+
+(4) U slučajevima iz prethodnih stavaka, rok za žalbu protiv nepravomoćne odluke o prekršaju i druge odluke teče od dana dostave novog prijepisa odluke o prekršaju ili druge odluke s ispravcima.«.
+
+#### Članak 25.
+
+U članku 211. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Rješavajući o žalbi, drugostupanjski sud može rješenjem:
+
+1. odbaciti žalbu kao nepravovremenu, nedopuštenu ili kao nepotpunu,
+
+2. odbiti žalbu kao neosnovanu ili
+
+3. prihvatiti žalbu ili povodom žalbe po službenoj dužnosti rješenje preinačiti ili ukinuti i prema potrebi predmet dostaviti na ponovno odlučivanje.
+
+(3) Na postupak o žalbi protiv rješenja odgovarajuće se primjenjuju odredbe o žalbi protiv odluke o prekršaju, a žalbeni sud po službenoj dužnosti uvijek ispituje jesu li postojale zakonske osnove za donošenje rješenja i je li rješenje donijelo ovlašteno tijelo.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Protiv rješenja Visokog prekršajnog suda Republike Hrvatske žalba nije dopuštena.«.
+
+#### Članak 26.
+
+U članku 234. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ovlašteni izdavatelj prekršajnog naloga može na mjestu počinjenja prekršaja izdati počinitelju prekršaja obavijest iz članka 234.a ovoga Zakona kad se prekršajni nalog i pripadajući zapisnici, potvrde i druga pripadajuća pismena sačinjavaju na elektroničkom uređaju u elektroničkom obliku.«.
+
+#### Članak 27.
+
+Iza članka 234. dodaju se naslov iznad članka i članak 234.a koji glase:
+
+*»Obavijest počinitelju prekršaja na mjestu počinjenja prekršaja*
+
+#### Članak 234.a
+
+(1) Ovlašteni izdavatelj prekršajnog naloga može na mjestu počinjenja prekršaja sastaviti obavijest na elektroničkom uređaju u elektronskom obliku i takvu obavijest ispisati i uručiti počinitelju prekršaja na mjestu počinjenja prekršaja.
+
+(2) Obavijest iz stavka 1. ovoga članka sadrži: osobne podatke o počinitelju prekršaja, pravnu oznaku prekršaja, iznos novčane kazne, vrstu mjere koja se izriče, iznos troškova postupka, oznaku prekršajnog naloga i popis svih pripadajućih pismena sastavljenih u elektronskom obliku na elektroničkom uređaju tijekom utvrđivanja prekršaja u čiji sadržaj je počinitelju prekršaja omogućen uvid ili mu je sadržaj pročitan, uputu o mogućnosti uručenja prekršajnog naloga i svih pripadajućih pismena u pisanom obliku kod tijela koje je odluku donijelo, mjesto za unos primjedbi koje počinitelj prekršaja izjavljuje, prostor za potpis primatelja odnosno naznaku o dostavi i naznaku počinitelju prekršaja o tome što može poduzeti nakon primitka obavijesti.
+
+(3) Obavijest se sastavlja pod elektronski generiranim brojem (kodom) koji sadržavaju i prekršajni nalog i sva pismena sačinjena prilikom utvrđivanja prekršaja koji se ispisom obavijesti elektronski zaključavaju i onemogućava se naknadna izmjena.
+
+(4) Potpisom obavijesti iz stavka 1. ovoga članka počinitelj prekršaja potvrđuje da je upoznat sa sadržajem prekršajnog naloga i pismena koja su tijekom utvrđivanja prekršaja u njegovoj prisutnosti sačinjena na elektroničkom uređaju.«.
+
+#### Članak 28.
+
+U članku 235. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Plaćanje novčane kazne prije podnošenja prigovora ili nakon što je prigovor podnesen, smatra se okrivljenikovim odricanjem od prava na podnošenje prigovora odnosno odustajanjem od već podnesenog prigovora protiv prekršajnog naloga, pod uvjetom da je u uputi o pravu na prigovor na to upozoren.
+
+(6) Stavak 5. ovoga članka ne odnosi se na okrivljenika iz članka 136. ovoga Zakona.«.
+
+#### Članak 29.
+
+U članku 239. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Ovlašteni tužitelj može na mjestu počinjenja prekršaja izdati počinitelju prekršaja obavijest iz članka 234.a ovoga Zakona kad se obavezni prekršajni nalog i pripadajući zapisnici, potvrde i druga pripadajuća pismena sačinjavaju na elektroničkom uređaju u elektroničkom obliku.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 7. i 8.
+
+#### Članak 30.
+
+U članku 241. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Plaćanje novčane kazne prije podnošenja prigovora ili nakon što je prigovor podnesen, smatra se okrivljenikovim odricanjem od prava na podnošenje prigovora odnosno odustajanjem od već podnesenog prigovora protiv obaveznog prekršajnog naloga, pod uvjetom da je u uputi o pravu na prigovor na to upozoren.
+
+(5) Stavak 4. ovoga članka ne odnosi se na okrivljenika iz članka 136. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 31.
+
+(1) Prekršajni postupak koji je pokrenut prije stupanja na snagu ovoga Zakona nastavit će se i pravomoćno dovršiti po postupovnim odredbama Prekršajnog zakona (»Narodne novine«, br. 107/07., 39/13. i 157/13.).
+
+(2) Iznimno od stavka 1. ovoga članka odredbe članka 9., članka 11., članka 12., članka 15. stavka 2. i članka 16. ovoga Zakona primijenit će se u prekršajnim postupcima koji su pokrenuti prije stupanja na snagu ovoga Zakona.
+
+(3) Iznimno od stavka 1. ovoga članka, članak 1. ovoga Zakona primjenjuje se i u postupcima izvršenja odluke o oduzimanju imovinske koristi koji su u tijeku na dan stupanja na snagu ovoga Zakona.
+
+#### Članak 32.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-01/37  
+Zagreb, 25. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

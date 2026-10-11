@@ -214,11 +214,11 @@ Ivan Mihalić, v. r.
 
 *Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/580*
 
-### OBJAVE
+OBJAVE
 
 Nakon izvršenog uspoređivanja s izvornim tekstom utvrđene su pogreške u Zakonu o Spomen-podrućju Jasenovac, koji je objavljen u "Narodnim novinama", broj 15 od 17. travnja 1990, te se daje
 
-### ISPRAVAK
+ISPRAVAK
 
 ### Zakona o Spomen-području Jasenovac
 

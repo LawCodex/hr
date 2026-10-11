@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-03-17
-last_amended: 2008-04-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2015-07-17
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "35/05, 41/08"
+narodne_novine: "35/05, 41/08, 78/15"
 amendments:
   - "NN 41/2008 (1382) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
+  - "NN 78/2015 (1495) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/35/707"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 35/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/35/707).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 41/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 41/2008, NN 78/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -11011,3 +11012,115 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim odnosima (NN 78/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1495*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim odnosima, koji je Hrvatski sabor donio na sjednici 3. srpnja 2015. godine.
+
+Klasa: 011-01/15-01/64
+
+Urbroj: 71-05-03/1-15-2
+
+Zagreb, 8. srpnja 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA**
+
+### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08. i 125/11.) iza članka 1. dodaju se naslov i članak 1.a koji glase:
+
+*»Pravo Europske unije*
+
+### Članak 1.a
+
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+
+– Direktiva Vijeća od 25. srpnja 1985. o približavanju zakona i drugih propisa država članica u vezi s odgovornošću za neispravne proizvode (85/374/EEZ) (SL L 210, 7. 8. 1985.),
+
+– Direktiva Vijeća od 18. prosinca 1986. o usklađivanju prava država članica u vezi samozaposlenih trgovačkih zastupnika (86/653/EEZ) (SL L 382, 31. 12. 1986.),
+
+– Direktiva Vijeća od 13. lipnja 1990. o putovanjima, odmorima i kružnim putovanjima u paket aranžmanima (90/314/EEZ) (SL L 158, 23. 6. 1990.),
+
+– Direktiva 1999/34/EZ Europskog parlamenta i Vijeća od 10. svibnja 1999. o izmjeni Direktive Vijeća 85/374/EEZ o usklađivanju zakona i drugih propisa država članica u vezi s odgovornošću za neispravne proizvode (SL L 141, 4. 6. 1999.),
+
+– Direktiva 1999/44/EZ Europskog parlamenta i Vijeća od 25. svibnja 1999. o određenim aspektima prodaje robe široke potrošnje i o jamstvima za takvu robu (SL L 171, 7. 7. 1999.),
+
+– Direktiva 2009/138/EZ Europskog parlamenta i Vijeća od 25. studenoga 2009. o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II) (preinačeno) (Tekst značajan za EGP) (SL L 335, 17. 12. 2009.).«.
+
+### Članak 2.
+
+U članku 26. stavku 1. iza riječi: »koja je« dodaju se riječi: »za te odnose«, a iza riječi: »kamatna stopa« dodaje se zarez i riječi: »uvećane za polovinu te stope«.
+
+U stavku 2. riječi: »određene sukladno stavku 1. ovoga članka, uvećane za polovinu te stope« zamjenjuju se riječima: »koja je za te odnose vrijedila na dan sklapanja ugovora, odnosno na dan promjene ugovorne kamatne stope, ako je ugovorena promjenjiva kamatna stopa, uvećane za tri četvrtine te stope«.
+
+### Članak 3.
+
+U članku 29. stavak 2. mijenja se i glasi:
+
+»(2) Stopa zateznih kamata na odnose iz trgovačkih ugovora i ugovora između trgovca i osobe javnog prava određuje se, za svako polugodište, uvećanjem prosječne kamatne stope na stanja kredita odobrenih na razdoblje dulje od godine dana nefinancijskim trgovačkim društvima izračunate za referentno razdoblje koje prethodi tekućem polugodištu za pet postotnih poena, a u ostalim odnosima za tri postotna poena.«.
+
+U stavku 6. riječi: »,u slučaju iz stavka 2. članka 26. ovoga Zakona, « brišu se, a riječi: »one teku i poslije dužnikova zakašnjenja« zamjenjuju se riječima: »one ne mogu teći poslije dužnikova zakašnjenja«.
+
+Stavak 8. mijenja se i glasi:
+
+»(8) Prosječnu kamatnu stopu iz stavka 2. ovoga članka za referentno razdoblje utvrđuje Hrvatska narodna banka i dužna ju je svakog 1. siječnja i 1. srpnja objaviti u »Narodnim novinama«.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Referentno razdoblje iz stavka 2. ovoga članka za objavu na dan 1. siječnja obuhvaća razdoblje od 1. svibnja do 31. listopada, a referentno razdoblje za objavu na dan 1. srpnja obuhvaća razdoblje od 1. studenoga do 30. travnja.«.
+
+### Članak 4.
+
+U Zakonu o financijskom poslovanju i predstečajnoj nagodbi (»Narodne novine«, br. 108/12., 144/12., 81/13. i 112/13.) u članku 3. točki 20. riječi: »1 postotni poen« zamjenjuju se riječima: »3 postotna poena«.
+
+U članku 12.a stavak 5. mijenja se i glasi:
+
+»(5) Referentno razdoblje iz stavka 4. ovoga članka za objavu na dan 1. siječnja obuhvaća razdoblje od 1. svibnja do 31. listopada, a referentno razdoblje za objavu na dan 1. srpnja obuhvaća razdoblje od 1. studenoga do 30. travnja.«.
+
+### Članak 5.
+
+U Zakonu o potrošačkom kreditiranju (»Narodne novine«, br. 75/09., 112/12., 143/13., 147/13. i 9/15.) u članku 11.b stavku 3. i članku 11.c stavku 3. riječi: »zadnji dan predzadnjeg mjeseca polugodišta koje prethodi tekućem polugodištu određuje Hrvatska narodna banka i dužna ih je objaviti svakog 1. siječnja i 1. srpnja u 'Narodnim novinama'« zamjenjuju se riječima: »dan 31. listopada Hrvatska narodna banka dužna je objaviti u »Narodnim novinama« 1. siječnja, a podatke dostupne na dan 30. travnja dužna je objaviti 1. srpnja.«.
+
+Članak 20.a mijenja se i glasi:
+
+»(1) Maksimalna EKS za potrošačke kredite sukladno ovome Zakonu jednaka je stopi zakonskih zateznih kamata uvećanoj za dva postotna boda.
+
+(2) Maksimalna EKS za stambene kredite sukladno ovome Zakonu jednaka je stopi zakonskih zateznih kamata.«.
+
+### Članak 6.
+
+Hrvatska narodna banka objavit će 1. kolovoza 2015. prosječnu kamatnu stopu na stanja kredita odobrenih na razdoblje dulje od godine dana nefinancijskim trgovačkim društvima izračunatu za referentno razdoblje od 1. studenoga 2014. do 30. travnja 2015.
+
+Hrvatska narodna banka objavit će 1. kolovoza 2015. prosječne ponderirane kamatne stope na stanja kredita iz članka 11.b i članka 11.c Zakona o potrošačkom kreditiranju (»Narodne novine«, br. 75/09., 112/12., 143/13., 147/13. i 9/15.) prema podacima dostupnim na dan 30. travnja 2015.
+
+Prosječna kamatna stopa iz stavka 1. ovoga članka i prosječne ponderirane kamatne stope iz stavka 2. ovoga članka primjenjuju se za razdoblje od 1. kolovoza 2015. do 31. prosinca 2015.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. kolovoza 2015.
+
+Klasa: 022-03/15-01/75
+
+Zagreb, 3. srpnja 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

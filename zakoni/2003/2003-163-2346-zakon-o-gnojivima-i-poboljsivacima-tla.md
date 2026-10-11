@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-16
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "163/03"
-amendments: []
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "163/03, 14/14"
+amendments:
+  - "NN 14/2014 (286) Zakon o izmjeni Zakona o gnojivima i poboljšivačima tla"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2346"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o gnojivima i poboljšivačima tla
 
 > Izvor: Narodne novine, NN 163/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2346).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -410,3 +414,53 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o gnojivima i poboljšivačima tla (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/286*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O GNOJIVIMA I POBOLJŠIVAČIMA TLA
+
+Proglašavam Zakon o izmjeni Zakona o gnojivima i poboljšivačima tla, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/20
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O GNOJIVIMA I POBOLJŠIVAČIMA TLA**
+
+### Članak 1.
+
+U Zakonu o gnojivima i poboljšivačima tla (»Narodne novine«, br. 163/03. i 40/07.) u članku 15. stavak 4. briše se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/301
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

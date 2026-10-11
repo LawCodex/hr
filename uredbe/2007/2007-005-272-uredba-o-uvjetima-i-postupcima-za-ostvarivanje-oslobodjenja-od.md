@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-01-12
+last_amended: 2009-12-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "5/07"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "5/07, 153/09"
+amendments:
+  - "NN 153/2009 (3761) Uredba o izmjenama i dopunama Uredbe o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/5/272"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine
 
 > Izvor: Narodne novine, NN 5/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/5/272).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -498,3 +502,54 @@ Zagreb, 5. siječnja 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine (NN 153/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3761*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 22. stavka 1. i članka 187. stavka 5. Carinskog zakona (»Narodne novine«, br. 78/99, 117/99, 73/2000, 92/2001, 47/2003, 140/2005, 138/2006, 60/2008 i 45/2009), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O UVJETIMA I POSTUPCIMA ZA OSTVARIVANJE OSLOBOĐENJA OD PLAĆANJA CARINE**
+
+### Članak 1.
+
+U Uredbi o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine (»Narodne novine«, broj 5/2007) u članku 6. stavku 1. brojka: »300« zamjenjuje se brojkom: »1.000,00«.
+
+### Članak 2.
+
+Iza članka 8. dodaje se članak 8.a i naslov iznad njega koji glase:
+
+»4.a OSLOBOĐENJE OD PLAĆANJA CARINE NA POŠILJKE ZANEMARIVE VRIJEDNOSTI
+
+### Članak 8.a
+
+Oslobođena je od plaćanja carine roba zanemarive vrijednosti sadržana u pošiljkama koje se iz inozemstva izravno šalju primateljima u Republici Hrvatskoj.
+
+Robom zanemarive vrijednosti smatra se roba čija vrijednost po pošiljci ne prelazi 160,00 kuna.
+
+Oslobođenje iz stavka 1. ovoga članka se ne odnosi na alkohol i alkoholna pića, duhan i duhanske proizvode, parfeme i toaletne vode.«.
+
+### Članak 3.
+
+U članku 41. stavku 5. iza brojke »8.,« dodaje se brojka »8.a,«.
+
+### Članak 4.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2010. godine.
+
+Klasa: 413-04/09-01/01
+
+Urbroj: 5030120-09-1
+
+Zagreb, 17. prosinca 2009.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.

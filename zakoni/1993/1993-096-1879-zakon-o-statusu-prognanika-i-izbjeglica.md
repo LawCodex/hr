@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-10-25
-last_amended: 1999-11-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+last_amended: 2013-04-30
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "96/93, 39/95, 128/99"
+narodne_novine: "96/93, 39/95, 128/99, 51/13"
 amendments:
   - "NN 39/1995 (760) Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica"
   - "NN 128/1999 (2025) Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica"
+  - "NN 51/2013 (1049) Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A)"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1879"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 96/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1879).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/1995, NN 128/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/1995, NN 128/1999, NN 51/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -405,3 +406,183 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A) (NN 51/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1049*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O STATUSU PROGNANIKA I IZBJEGLICA
+
+Proglašavam Zakon o izmjenama Zakona o statusu prognanika i izbjeglica, koji je Hrvatski sabor donio na sjednici 19. travnja 2013. godine.
+
+Klasa: 011-01/13-01/82
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 25. travnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O STATUSU PROGNANIKA I IZBJEGLICA**
+
+### Članak 1.
+
+U Zakonu o statusu prognanika i izbjeglica (»Narodne novine«, br. 96/93., 39/95., 29/99. i 128/99.) naziv poglavlja iznad članka 1. briše se.
+
+Članak 1. mijenja se i glasi:
+
+»Republika Hrvatska osigurava ovisno o mogućnostima odgovarajuću skrb osobama kojima je u skladu s odredbama ovoga Zakona priznat status prognanika, izbjeglice ili povratnika.«.
+
+### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»Prognanici, izbjeglice i povratnici su osobe registrirane u bazama podataka nadležnih tijela za statusna prava izbjeglica, prognanika i povratnika, kojima nije utvrđen prestanak statusa do 1. svibnja 2013.
+
+Povratnički status može se utvrditi osobama koje su prebivale na području Republike Hrvatske do 8. listopada 1991. te napustile svoj dom odnosno mjesto prebivališta tijekom Domovinskog rata kao izbjeglice ili prognanici, kao i članovima njihovih obitelji u skladu s odredbama posebnog propisa o obiteljskim odnosima, a koje su se vratile na navedeno područje s namjerom da na navedenom području trajno žive, u trajanju od šest mjeseci od dana povratka.
+
+Osobe iz stavaka 1. i 2. ovoga članka utvrđena prava dokazuju važećom ispravom – kartonom izdanim od nadležnog tijela, ovjerenim jednom mjesečno od ureda državne uprave u županiji, odnosno nadležnog upravnog tijela Grada Zagreba.«.
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»Prava iz ovoga Zakona ne mogu ostvarivati osobe:
+
+1. koje su pravomoćno osuđene za kaznena djela protiv čovječnosti i ljudskog dostojanstva,
+
+2. koje su pravomoćno osuđene za kaznena djela protiv Republike Hrvatske,
+
+3. protiv kojih je pokrenut postupak za kaznena djela protiv Republike Hrvatske do pravomoćnosti sudske odluke.
+
+Prava iz ovoga Zakona ne može ostvarivati osoba koja je pravomoćno osuđena za kazneno djelo opisano člankom 3. stavkom 1. Zakona o općem oprostu.
+
+Za osobu protiv koje je podignuta pravomoćna optužnica za kazneno djelo opisano člankom 3. stavkom 1. Zakona o općem oprostu ostvarivanja prava iz ovoga Zakona odgađaju se do pravomoćnosti sudske odluke.
+
+Pravo na isplatu financijske potpore iz članka 8. stavka 2. ovoga Zakona ne mogu ostvarivati osobe koje primaju pomoć za uzdržavanje u skladu s posebnim propisom o socijalnoj skrbi.«.
+
+### Članak 4.
+
+Članak 4. mijenja se i glasi:
+
+»Prestanak statusnih prava izbjeglica, prognanika i povratnika utvrđenih na temelju ovoga Zakona utvrđuje se:
+
+a) za izbjeglice:
+
+– stjecanjem državljanstva Republike Hrvatske,
+
+– odobrenjem privremenog, odnosno stalnog boravka na području Republike Hrvatske,
+
+– na prijedlog drugih javnopravnih tijela u Republici Hrvatskoj, u provođenju postupaka iz njihove nadležnosti;
+
+b) za prognanike:
+
+– dobrovoljno, davanjem izjave o odricanju od statusa,
+
+– u organiziranom smještaju, ako odbiju ponuđeni smještaj na temelju utvrđenog prava na stambeno zbrinjavanje u skladu s odredbama posebnog propisa o stambenom zbrinjavanju,
+
+– ako su stambeno zbrinuti na drugi način ili su u mogućnosti osigurati vlastito stambeno zbrinjavanje,
+
+– ako u propisanom roku u skladu s odredbama posebnog propisa o obnovi nisu podnijeli zahtjev za obnovu, utvrđeno je da ne ostvaruju pravo na obnovu ili je obnova završena;
+
+c) za povratnike:
+
+– protekom roka za koji su prava utvrđena,
+
+– ako odbiju ponuđeni smještaj na temelju utvrđenog prava na stambeno zbrinjavanje, u skladu s odredbama posebnog propisa o stambenom zbrinjavanju,
+
+– ako su stambeno zbrinuti na drugi način ili su u mogućnosti osigurati vlastito stambeno zbrinjavanje.«.
+
+### Članak 5.
+
+Članak 5. mijenja se i glasi:
+
+»U postupcima po podnesenim zahtjevima za utvrđivanje statusnih prava izbjeglica, prognanika i povratnika u skladu s odredbama ovoga Zakona rješavaju u prvom stupnju uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba.
+
+U postupcima po podnesenim žalbama na rješenja iz stavka 1. ovoga članka rješava u drugom stupnju Državni ured za obnovu i stambeno zbrinjavanje.
+
+Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+Tijela nadležna za rješavanje u postupcima propisanim ovim Zakonom ovlaštena su po službenoj dužnosti zatražiti podatke iz službenih evidencija drugih nadležnih tijela.«.
+
+### Članak 6.
+
+Članak 6. mijenja se i glasi:
+
+»Po podnošenju zahtjeva za stambeno zbrinjavanje bivših nositelja stanarskih prava po posebnom propisu o stambenom zbrinjavanju, uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba po službenoj dužnosti pokreću postupak za utvrđivanje prava na status povratnika podnositelja zahtjeva i članova njihovih obitelji po posebnom propisu o obiteljskim odnosima.
+
+U slučaju prognanika i članova njihovih obitelji koji imaju utvrđeno pravo na status prognanika, nakon obavljenog tehničkog pregleda u postupku ostvarivanja prava po posebnom propisu o obnovi, po obavijesti Državnog ureda za obnovu i stambeno zbrinjavanje, uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba po službenoj dužnosti pokreću postupak za utvrđivanje prava na status povratnika u trajanju od šest mjeseci od navedenog tehničkog pregleda.
+
+Po podnesenim zahtjevima osoba koje nisu podnijele zahtjev za stambeno zbrinjavanje po posebnom propisu, a radi se o spontanom povratku osoba koje su prebivale na području Republike Hrvatske do 8. listopada 1991., Državni ured za obnovu i stambeno zbrinjavanje izdaje potvrdu o evidentiranom povratku, na temelju uvida u bazu podataka iz članka 7. stavka 1. ovoga Zakona, a ako navedene osobe zahtijevaju priznanje statusa povratnika, po podnesenom zahtjevu uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba rješavaju u upravnom postupku.«.
+
+### Članak 7.
+
+Članak 7. mijenja se i glasi:
+
+»Državni ured za obnovu i stambeno zbrinjavanje ustrojava i upravlja elektroničkom bazom podataka o statusnim pravima izbjeglica, prognanika i povratnika.
+
+Državni ured za obnovu i stambeno zbrinjavanje osigurava zaštitu podataka iz stavka 1. ovoga članka, u skladu s posebnim propisima o zaštiti podataka, te njihovu dostupnost samo uz obrazloženi zahtjev.«.
+
+### Članak 8.
+
+Članak 8. mijenja se i glasi:
+
+»Vlada Republike Hrvatske uredbom propisuje uvjete za utvrđivanje statusa i gubitak statusa te sadržaj, opseg i način ostvarivanja prava osoba kojima je utvrđen status izbjeglice, prognanika odnosno povratnika, kao i postupak provedbe revizije iz članka 11. stavka 1. ovoga Zakona.
+
+Vlada Republike Hrvatske odlukom utvrđuje vrstu i visinu financijske potpore osobama s utvrđenim statusima u skladu s odredbama ovoga Zakona.«.
+
+### Članak 9.
+
+Članak 9. mijenja se i glasi:
+
+»Državni ured za obnovu i stambeno zbrinjavanje nadležan je za upravljanje organiziranim smještajima za osobe iz članka 2. ovoga Zakona, koje se prioritetno stambeno zbrinjavaju provedbom planova stambenog zbrinjavanja, u skladu s posebnim propisom o stambenom zbrinjavanju.
+
+Državni ured za obnovu i stambeno zbrinjavanje u suradnji s Ministarstvom socijalne politike i mladih osigurava smještaj za stare i nemoćne osobe iz stavka 1. ovoga članka, u skladu s posebnim propisima iz sustava socijalne skrbi.
+
+Osobe iz članka 2. ovoga Zakona ostvaruju pravo na zdravstvenu zaštitu i osiguranje, u skladu s posebnim propisima o zdravstvenoj zaštiti i osiguranju.«.
+
+### Članak 10.
+
+Nazivi poglavlja iznad članaka i članci 10. do 24.a brišu se.
+
+### Članak 11.
+
+Osobe koje su stekle određena prava u skladu s odredbama Zakona o statusu prognanika i izbjeglica (»Narodne novine«, br. 96/93., 39/95., 29/99. i 128/99.) zadržavaju stečena prava do revizije statusa koju će provesti uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba u roku od 60 dana od dana stupanja na snagu pravilnika iz članka 8. stavka 1. ovoga Zakona.
+
+Po podnesenim zahtjevima za utvrđivanje prava povratnika neriješenim do dana stupanja na snagu ovoga Zakona, uredi državne uprave u županijama odnosno nadležno upravno tijelo Grada Zagreba rješavat će u skladu s odredbama ovoga Zakona.
+
+### Članak 12.
+
+Uredbu iz članka 8. stavka 1. ovoga Zakona Vlada Republike Hrvatske donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+Odluku iz članka 8. stavka 2. ovoga Zakona Vlada Republike Hrvatske donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 13.
+
+Danom stupanja na snagu ovoga Zakona uredi državne uprave u županijama i nadležno upravno tijelo Grada Zagreba preuzimaju od Ministarstva regionalnoga razvoja i fondova Europske unije dio poslova koji se odnose na rješavanje u prvom stupnju o statusnim pravima izbjeglica, prognanika i povratnika u skladu s odredbama ovoga Zakona te opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+
+Čelnici tijela iz stavka 1. ovoga članka dužni su uskladiti pravilnike o unutarnjem redu prema odredbama ovoga Zakona, u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 14.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. svibnja 2013.
+
+Klasa: 022-03/13-01/66
+
+Zagreb, 19. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,14 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2007-07-23
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+last_amended: 2013-06-21
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 87/05, 76/07"
+narodne_novine: "173/03, 87/05, 76/07, 30/09, 128/10, 76/13"
 amendments:
   - "NN 87/2005 (1710) Zakon o izmjenama i dopunama Zakona o patentu"
   - "NN 76/2007 (2409) Zakon o izmjenama i dopunama Zakona o patentu"
+  - "NN 30/2009 (654) Zakon o izmjenama i dopunama Zakona o patentu"
+  - "NN 128/2010 (3321) Zakon o izmjenama i dopunama Zakona o patentu"
+  - "NN 76/2013 (1530) Zakon o izmjenama i dopunama Zakona o patentu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2494"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2494).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 87/2005, NN 76/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 87/2005, NN 76/2007, NN 30/2009, NN 128/2010, NN 76/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2814,3 +2817,572 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o patentu (NN 30/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/654*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PATENTU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o patentu, kojega je Hrvatski sabor donio na sjednici 20. veljače 2009. godine.
+
+Klasa: 011-01/09-01/18
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 27. veljače 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PATENTU**
+
+#### Članak 1.
+
+U Zakonu o patentu (»Narodne novine«, br. 173/03., 87/05. i 76/07.) u članku 4. stavak 1. mijenja se i glasi:
+
+(1) Pravnu ili fizičku osobu koja nema sjedište, odnosno prebivalište ili uobičajeno boravište na području Republike Hrvatske u postupcima pred Državnim zavodom za intelektualno vlasništvo (u daljnjem tekstu: Zavod) mora zastupati ovlašteni patentni zastupnik, sukladno odredbama ovoga Zakona i posebnim propisima.«
+
+#### Članak 2.
+
+U članku 29. stavku 1. točki 5. riječi: »patentni zastupnik upisan u Registar zastupnika pri Zavodu« zamjenjuju se riječima: »ovlašteni patentni zastupnik«.
+
+#### Članak 3.
+
+U članku 57. stavku 5. iza točke 8. dodaje se točka 9. koja glasi:
+
+»9. podnošenje žalbe iz članka 88. ovoga Zakona i poduzimanje ostalih radnji u postupku pred Žalbenim vijećem.«
+
+#### Članak 4.
+
+U članku 57.a stavku 4. dodaje se nova točka 4. koja glasi:
+
+»4. za podnošenje žalbe iz članka 88. ovoga Zakona i poduzimanje ostalih radnji u postupku pred Žalbenim vijećem,«.
+
+Dosadašnja točka 4. postaje točka 5.
+
+#### Članak 5.
+
+U članku 65. stavku 1. iza riječi: »Republike Hrvatske« stavlja se zarez i dodaju se riječi: »odnosno nakon pristupanja Republike Hrvatske Europskoj uniji na tržište neke od država Europske unije, odnosno države stranke ugovornice Ugovora o Europskom ekonomskom prostoru,«.
+
+#### Članak 6.
+
+U članku 69.a stavku 2. riječi: » izazivanjem farmakoloških, imunoloških ili metaboličkih djelovanja« brišu se.
+
+#### Članak 7.
+
+U članku 69.b stavku 6. riječi: »su te zemlje izdale« zamjenjuju se riječima: »je ta zemlja izdala«.
+
+#### Članak 8.
+
+U članku 69.f stavku 1. riječi: »ponovnog uvoza« zamjenjuju se riječima: »ponovnog izvoza«.
+
+#### Članak 9.
+
+U članku 87.a stavku 1. točki d) iza riječi: »je prvo odobrenje za stavljanje u promet« dodaju se riječi »proizvoda kao«.
+
+U stavku 2. točki i) riječ: »dobivenje« zamjenjuje se riječju: » dobivanje«.
+
+U točki j) riječi: »sredstava za zaštitu bilja« zamjenjuju se riječima: »proizvoda kao sredstva za zaštitu bilja«.
+
+#### Članak 10.
+
+U članku 87.b stavak 1. mijenja se i glasi:
+
+»(1) Svjedodžba se u skladu s odredbama ovoga Zakona može izdati u slučaju kada je temeljni patent priznat za proizvod koji je sastavni dio lijeka namijenjenoga ljudima ili životinjama ili sredstva za zaštitu bilja, za čije stavljanje u promet je potrebno prethodno odobrenje nadležnoga državnog tijela.«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Prava stečena Svjedodžbom mogu trajati onoliko vremena koliko je proteklo od datuma podnošenja prijave temeljnog patenta do datuma izdavanja prvog odobrenja za stavljanje u promet proizvoda zaštićenog tim patentom, umanjeno za razdoblje od pet godina.«
+
+#### Članak 11.
+
+Članak 87.c mijenja se i glasi:
+
+»Svjedodžba se izdaje na zahtjev nositelja temeljnog patenta ako su na dan podnošenja zahtjeva za izdavanje Svjedodžbe ispunjene sljedeće pretpostavke,
+
+1. da je proizvod zaštićen temeljnim patentom koji je na snazi,
+
+2. da je sukladno posebnim propisima izdano odobrenje za stavljanje u promet proizvoda kao lijeka namijenjenog ljudima ili životinjama, odnosno proizvoda kao sredstva za zaštitu bilja, koje je na snazi,
+
+3. da proizvod nije bio predmetom Svjedodžbe,
+
+4. da je odobrenje iz točke 2. ovoga članka prvo odobrenje za stavljanje u promet proizvoda kao lijeka namijenjenog ljudima ili životinjama, odnosno sredstva za zaštitu bilja.«
+
+#### Članak 12.
+
+Članak 87.d mijenja se i glasi:
+
+»Zahtjev za izdavanje Svjedodžbe podnosi se Zavodu u roku od 6 mjeseci od datuma izdavanja odobrenja iz članka 87.c točke 2. ovoga Zakona, a ako je odobrenje izdano prije priznanja temeljnog patenta, u roku od šest mjeseci od datuma objave podatka o priznanju patenta iz članka 51. ovoga Zakona.«
+
+#### Članak 13.
+
+U članku 87.f stavku 4 riječ »rješenje« zamjenjuje se riječju: »zaključak«.
+
+#### Članak 14.
+
+U članku 87.j stavak 1. mijenja se i glasi:
+
+"(1) Unutar zaštite priznate temeljnim patentom, zaštita dobivena Svjedodžbom odnosit će se samo na proizvod obuhvaćen odobrenjem za stavljanje u promet lijeka namijenjenog ljudima ili životinjama, odnosno sredstva za zaštitu bilja, kao i za bilo koju primjenu tog proizvoda kao lijeka namijenjenog ljudima ili životinjama, odnosno kao sredstva za zaštitu bilja, koja je bila odobrena prije prestanka važenja Svjedodžbe.«
+
+#### Članak 15.
+
+U članku 108.o stavku 1. riječi: »i 4.« zamjenjuju se riječima: »do 5.«
+
+U stavku 2. točki 1. drugi puta ponovljene riječi: «,na hrvatski jezik, u roku i uz obvezu plaćanja propisane upravne pristojbe i troškova za objavu propisanih člankom 108.e stavkom 2. ovoga Zakona« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+### POSEBNA PRAVA U PRIJELAZNOM RAZDOBLJU
+
+#### Članak 16.
+
+U roku od 6 mjeseci od dana pristupanja Republike Hrvatske Europskoj uniji nositelj temeljnog patenta u Republici Hrvatskoj priznatog za proizvod kao lijek namijenjen ljudima ili životinjama odnosno za proizvod kao sredstvo za zaštitu bilja, za koji je na dan pristupanja Republike Hrvatske Europskoj uniji u nekoj od država članica Europske unije ili u Republici Hrvatskoj nakon 1. siječnja 2003. stečeno odobrenje nadležnog tijela za stavljanje u promet, može zahtijevati izdavanje Svjedodžbe o dodatnoj zaštiti u Republici Hrvatskoj.
+
+#### Članak 17.
+
+Na sve europske patente, kao i na proširene europske patente koji su priznati nakon 1. svibnja 2008., bez obzira jesu li priznati nakon provedbe prvostupanjskog postupka ili postupka po prigovoru ili po žalbi te o čijem je priznanju ili izmjeni objavljen podatak od strane EPO-a, primjenjuje se Sporazum o primjeni članka 65. EPC-a (Londonski sporazum).
+
+#### Članak 18.
+
+Na dan stupanja na snagu ovoga Zakona u Zakonu o izmjenama i dopunama Zakona o patentu (»Narodne novine«, br. 76/07.) članak 50. i naslov iznad njega prestaju važiti.
+
+#### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 381-03/09-01/01
+
+Zagreb, 20. veljače 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o patentu (NN 128/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3321*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PATENTU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o patentu, koji je Hrvatski sabor donio na sjednici 5. studenoga 2010. godine.
+
+Klasa: 011-01/10-01/122
+
+Urbroj: 71-05-03/1-10-2
+
+Zagreb, 10. studenoga 2010.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PATENTU**
+
+### Članak 1.
+
+U Zakonu o patentu (»Narodne novine«, br. 173/03., 87/05. 76/07. i 30/09.) u članku 87.a stavku 1. dodaje se točka e) koja glasi:
+
+e) »zahtjev za produljenje trajanja« znači zahtjev za produljenje trajanja Svjedodžbe priznate za zaštitu lijekova za pedijatrijsku upotrebu.«.
+
+### Članak 2.
+
+U članku 87.b dodaje se novi stavak 5. koji glasi:
+
+»(5) Trajanje Svjedodžbe u skladu sa stavcima 3. i 4. ovoga članka produljuje se za šest mjeseci u slučaju kad je patent priznat za lijek za pedijatrijsku upotrebu, ako je za lijek izdano odobrenje za stavljanje proizvoda u promet u svim državama članica Europske unije. U tom slučaju trajanje razdoblja iz stavka 3. ovoga članka može se produljiti samo jedanput. Produljenje trajanja Svjedodžbe nije moguće za lijek za koji se primjenjuje jednogodišnje produljenje desetogodišnjeg razdoblja zaštite, sukladno članku 15.a stavku 3. Zakona o lijekovima te za lijekove namijenjene liječenju teških i rijetkih bolesti u smislu Zakona o lijekovima.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+### Članak 3.
+
+U članku 87.d dodaju se stavci 2. i 3. koji glase:
+
+»(2) Zahtjev za produljenje trajanja Svjedodžbe iz članka 87.a stavka 1. točke e) ovoga Zakona može se podnijeti prilikom podnošenja zahtjeva za izdavanje Svjedodžbe ili kad je zahtjev za izdavanje Svjedodžbe u postupku rješavanja i kad je udovoljeno odgovarajućim zahtjevima iz članka 87.e stavka 4. i 5. ovoga Zakona.
+
+(3) Zahtjev za produljenje trajanja već izdane Svjedodžbe podnosi se najkasnije dvije godine prije isteka Svjedodžbe.«.
+
+### Članak 4.
+
+U članku 87.e stavku 1. točki 1.a) iza riječi: »Svjedodžbe« dodaju se riječi: »odnosno, produljenje trajanja Svjedodžbe.«.
+
+U točki 5. iza riječi: »Svjedodžbe« točka se zamjenjuje zarezom i dodaju se riječi: »i produljenje trajanja Svjedodžbe.«.
+
+Iza stavka 3. dodaje se novi stavak 4. i stavci 5. i 6. koji glase:
+
+»(4) Kad se uz zahtjev za izdavanje Svjedodžbe podnosi i zahtjev za produljenje trajanja Svjedodžbe, njemu se prilaže:
+
+1. primjerak izjave u kojoj se navodi da je to u skladu sa završenim usuglašenim planom pedijatrijskog ispitivanja, kako je propisano posebnim propisom,
+
+2. kad je potrebno, uz primjerak odobrenja za stavljanje proizvoda u promet iz članka 87.c stavka 1. točke 1. ovoga Zakona, prilaže se dokaz o posjedovanju odobrenja za stavljanje proizvoda u promet svih drugih država članica, kako je propisano posebnim propisom.
+
+(5) Kad je zahtjev za izdavanje Svjedodžbe u postupku rješavanja, zahtjev za produljenje trajanja u skladu s člankom 87. d stavkom 2. ovoga Zakona mora sadržavati pojedinosti iz stavka 4. ovoga članka i upućivanje na već podneseni zahtjev za izdavanje Svjedodžbe.
+
+(6) Zahtjev za produljenje trajanja već izdane Svjedodžbe mora sadržavati pojedinosti iz stavka 4. ovoga članka i primjerak već izdane Svjedodžbe.«.
+
+Dosadašnji stavak 4. postaje stavak 7.
+
+### Članak 5.
+
+U članku 87. f dodaje se stavak 6. koji glasi:
+
+»(6) Odredbe ovoga članka na odgovarajući se način primjenjuju na zahtjev za produljenje trajanja Svjedodžbe.«.
+
+### Članak 6.
+
+U članku 87.g dodaje se stavak 4. koji glasi:
+
+»(4) Odredbe ovoga članka na odgovarajući se način primjenjuju na zahtjev za produljenje trajanja Svjedodžbe.«.
+
+### Članak 7.
+
+U članku 87.k stavku 1. iza riječi: »važenja Svjedodžbe« točka se zamjenjuje zarezom i dodaju se riječi: »kao i podatke o činjenici da je produljenje trajanja Svjedodžbe odobreno ili da je zahtjev za produljenje odbijen.«.
+
+### Članak 8.
+
+U članku 87. m stavak 2. mijenja se i glasi:
+
+»(2) Produljenje trajanja Svjedodžbe može biti proglašeno ništavim ako je odobreno protivno odredbi članka 87. b stavka 5.«
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Na postupak za proglašenje Svjedodžbe, odnosno produljenja njezinog trajanja ništavim primjenjuju se na odgovarajući način odredbe ovoga Zakona koje se odnose na postupak povodom prijedloga za proglašenje ništavim patenta.«.
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 381-03/10-01/02
+
+Zagreb, 5. studenoga 2010.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o patentu (NN 76/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1530*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PATENTU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o patentu, koji je Hrvatski sabor donio no sjednici 14. lipnja 2013. godine.
+
+Klasa: 011-01/13-01/144  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 18. lipnja 2013.
+
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PATENTU**
+
+#### Članak 1.
+
+U Zakonu o patentu (»Narodne novine«, br. 173/03., 87/05., 76/07., 30/09., 128/10. i 49/11.) iza članka 1. dodaju se članci 1.a i 1.b koji glase:
+
+»Članak 1.a
+
+Ovim se Zakonom utvrđuje nadležno tijelo i zadaće nadležnog tijela za provedbu Uredbe (EZ) br. 469/09 Europskog parlamenta i Vijeća od 6. svibnja 2009. koja se odnosi na uvođenje svjedodžbe o dodatnoj zaštiti za lijekove namijenjene ljudima ili životinjama, kako je dopunjavana (SL L 152, 16. 6. 2009. sa svim izmjenama i dopunama – u daljnjem tekstu: Uredba (EZ) br. 469/2009), Uredbe (EZ) br. 1610/96 Europskog parlamenta i Vijeća od 23. srpnja 1996. koja se odnosi na uvođenje svjedodžbe o dodatnoj zaštiti za proizvode za zaštitu bilja, kako je dopunjavana (SL L 198, 8. 8. 1996. sa svim izmjenama i dopunama – u daljnjem tekstu: Uredba (EZ) br. 1610/1996) te Uredbe (EZ) br. 816/2006 Europskog parlamenta i Vijeća od 17. svibnja 2006. o prisilnom licenciranju patenata koji se odnose na proizvodnju farmaceutskih proizvoda za izvoz u zemlje s problemima javnog zdravlja kako je dopunjavana (SL L 157, 9. 6. 2006. sa svim izmjenama i dopunama – u daljnjem tekstu: Uredba (EZ) br. 816/2006).
+
+#### Članak 1.b
+
+Izrazi koji se koriste u ovome Zakonu, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, obuhvaćaju na jednak način muški i ženski rod.«.
+
+#### Članak 2.
+
+U članku 8. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Odredbe stavaka od 1. do 3. ovoga članka ne isključuju mogućnost zaštite patentom neke tvari ili smjese iz stavka 4. ovoga članka, za posebnu primjenu u postupcima iz članka 6. stavka 3. ovoga Zakona, pod pretpostavkom da takva njihova primjena nije sadržana u stanju tehnike.«.
+
+#### Članak 3.
+
+Članak 69.a mijenja se i glasi:
+
+»Članak 69.a
+
+(1) Sud iz članka 67.a stavka 1. ovoga Zakona može bilo kojoj osobi koja podnese tužbu kojom zahtijeva izdavanje prisilne licencije u skladu s odredbama Uredbe (EZ) br. 816/2006 izdati prisilnu licenciju za patent ili svjedodžbu o dodatnoj zaštiti, potrebnu za proizvodnju i prodaju farmaceutskog proizvoda, kada je takav proizvod namijenjen izvozu u zemlje uvoznice s problemima javnog zdravlja.
+
+(2) U odnosu na prisilne licencije koje se odnose na proizvodnju farmaceutskih proizvoda za izvoz u zemlje s problemima javnog zdravlja, pojmovi u smislu ovoga Zakona imaju jednako značenje kao i pojmovi uporabljeni u Uredbi (EZ) br. 816/2006.
+
+(3) Uz zahtjev za izdavanje prisilne licencije iz stavka 1. ovoga članka podnositelj je dužan dostaviti broj priznatog patenta ili svjedodžbe o dodatnoj zaštiti za izum koji je predmetom prisilne licencije te podatak o adresi mrežne stranice iz članka 10.6 Uredbe (EZ) br. 816/2006.
+
+(4) Za pojedina pitanja iz postupka o izdavanju prisilne licencije, a koja nisu uređena Uredbom (EZ) br. 816/2006, na odgovarajući će se način primjenjivati odredbe ovoga Zakona koje se odnose na prisilne licencije i odredbe Zakona o parničnom postupku.«.
+
+#### Članak 4.
+
+Naslov iznad članka 69.b mijenja se i glasi: »Usvajanje zahtjeva za izdavanje prisilne licencije«.
+
+Članak 69.b mijenja se i glasi:
+
+»(1) Ako je u postupku ispitivanja zahtjeva za izdavanje prisilne licencije utvrđeno da zahtjev udovoljava svim uvjetima propisanima Uredbom (EZ) br. 816/2006 te uvjetima propisanima ovim Zakonom i Zakonom o parničnom postupku, sud donosi presudu kojom usvaja zahtjev.
+
+(2) Sud u presudi detaljno navodi posebne uvjete propisane člankom 10. stavcima 2. do 9. Uredbe (EZ) br. 816/2006 koje stjecatelj licencije mora ispunjavati.
+
+(3) Podatak o izdavanju prisilne licencije upisuje se u registar patenata ili registar svjedodžbi o dodatnoj zaštiti i objavljuje u službenom glasilu Zavoda.
+
+(4) Sud će putem Zavoda obavijestiti Vijeće za TRIPS o svojim pravomoćnim presudama o izdavanju prisilne licencije, uvjetima pod kojima je izdana, kao i o njezinom prestanku i izmjeni, navodeći podatke propisane člankom 12. Uredbe (EZ) br. 816/2006. Primjerak te obavijesti Zavod će dostaviti carinskim tijelima te nadležnom tijelu za lijekove i medicinske proizvode u Republici Hrvatskoj.«.
+
+#### Članak 5.
+
+Članak 69.c mijenja se i glasi:
+
+»Sud iz članka 67.a stavka 1. ovoga Zakona će presudom odbiti zahtjev za izdavanje prisilne licencije ako on ne udovoljava svim uvjetima propisanima Uredbom (EZ) br. 816/2006 te uvjetima propisanima ovim Zakonom.«.
+
+#### Članak 6.
+
+Naslovi iznad članaka 69.e do 69.g i članci 69.e do 69.h brišu se.
+
+#### Članak 7.
+
+Naslov iznad članka 87.a mijenja se i glasi: »Zajedničke odredbe o postupku izdavanja Svjedodžbe o dodatnoj zaštiti«.
+
+Članak 87.a mijenja se i glasi:
+
+»(1) Ako je temeljni patent priznat za proizvod koji je sastavni dio lijeka namijenjenoga ljudima ili životinjama, Zavod može izdati svjedodžbu o dodatnoj zaštiti u skladu s Uredbom (EZ) br. 469/2009.
+
+(2) Ako je temeljni patent priznat za proizvod koji je sastavni dio sredstva za zaštitu bilja, Zavod može izdati svjedodžbu o dodatnoj zaštiti u skladu s Uredbom (EZ) br. 1610/1996.
+
+(3) U odnosu na svjedodžbe o dodatnoj zaštiti pojmovi u smislu ovoga Zakona imaju jednako značenje kao pojmovi uporabljeni u uredbama (EZ) br. 469/2009 i 1610/1996.
+
+(4) Za pojedina pitanja iz postupaka koji se odnose na svjedodžbe o dodatnoj zaštiti, a koja nisu uređena uredbama (EZ) br. 469/2009 i 1610/1996, na odgovarajući će se način primjenjivati odredbe ovoga Zakona, uz izuzeće članaka 57. i 57.a u slučaju propuštanja rokova predviđenih člankom 7. Uredbe (EZ) br. 469/2009 i člankom 7. Uredbe (EZ) br. 1610/1996.«.
+
+#### Članak 8.
+
+Naslov iznad članka 87.b mijenja se i glasi: »Registar«.
+
+Članak 87.b mijenja se i glasi:
+
+»(1) Zavod vodi registar zahtjeva za izdavanje svjedodžbi o dodatnoj zaštiti, koji uključuje i zahtjeve za produljenje trajanja svjedodžbi i registar svjedodžbi o dodatnoj zaštiti.
+
+(2) Sadržaj i način vođenja registara iz stavka 1. ovoga članka pobliže se utvrđuju Pravilnikom.
+
+(3) Odredbe ovoga Zakona koje se odnose na registar prijava i registar patenata primjenjuju se na odgovarajući način na registre iz stavka 1. ovoga članka.«.
+
+#### Članak 9.
+
+Naslov iznad članka 87.c mijenja se i glasi: »Zahtjev za izdavanje svjedodžbe o dodatnoj zaštiti«.
+
+Članak 87.c mijenja se i glasi:
+
+»(1) Zahtjev za izdavanje svjedodžbe o dodatnoj zaštiti podnosi se Zavodu u skladu s odredbama članka 7. stavaka 1. i 2. Uredbe (EZ) br. 469/2009 i članka 7. Uredbe (EZ) br. 1610/96.
+
+(2) Osim sadržaja propisanog člankom 8. stavkom 1. Uredbe (EZ) br. 469/2009 i člankom 8. stavkom 1. Uredbe (EZ) br. 1610/96, zahtjev za izdavanje svjedodžbe o dodatnoj zaštiti mora sadržavati i naziv proizvoda za koji se zahtijeva izdavanje svjedodžbe.
+
+(3) Uz zahtjev za izdavanje svjedodžbe o dodatnoj zaštiti podnositelj je dužan dostaviti dokaz o izvršenoj uplati upravne pristojbe i naknade troškova upravnog postupka za izdavanje svjedodžbe.
+
+(4) Zahtjev iz stavka 1. ovoga članka podnosi se putem obrasca čiji se sadržaj pobliže utvrđuje Pravilnikom.«.
+
+#### Članak 10.
+
+Naslov iznad članka 87.d mijenja se i glasi: »Sadržaj zahtjeva za izdavanje svjedodžbe o dodatnoj zaštiti potreban za priznanje datuma podnošenja«.
+
+Članak 87.d mijenja se i glasi:
+
+»(1) Za priznanje datuma podnošenja zahtjeva za izdavanje svjedodžbe o dodatnoj zaštiti potrebno je da on na taj datum sadržava barem:
+
+1. izričitu naznaku da se zahtijeva izdavanje svjedodžbe,
+
+2. podatke o identitetu podnositelja zahtjeva,
+
+3. broj temeljnog patenta i naziv izuma,
+
+4. broj i datum prvog odobrenja za stavljanje proizvoda u promet u skladu s člankom 3. točkom b) Uredbe (EZ) br. 469/2009 i člankom 3. točkom 1(b) Uredbe (EZ) br.1610/96, i naznaku broja i datuma prvog odobrenja, ako podneseno odobrenje nije i prvo odobrenje za stavljanje proizvoda u promet.
+
+(2) Zahtjev kojem je utvrđen datum podnošenja upisuje se u Registar zahtjeva za izdavanje svjedodžbi o dodatnoj zaštiti i dostupan je javnosti.«.
+
+#### Članak 11.
+
+Naslov iznad članka 87.e mjenja se i glasi: »Ispitivanje zahtjeva za izdavanje svjedodžbe o dodatnoj zaštiti nakon primitka«.
+
+Članak 87.e mijenja se i glasi:
+
+»(1) U postupku ispitivanja zahtjeva za izdavanje svjedodžbe Zavod utvrđuje:
+
+1. udovoljava li zahtjev uvjetima za priznanje datuma podnošenja iz članka 87.d ovoga Zakona;
+
+2. je li plaćena upravna pristojba i naknada troškova upravnog postupka za podnošenje zahtjeva.
+
+(2) Ako zahtjev ne udovoljava uvjetima iz članka 87.d ovoga Zakona, Zavod zaključkom nalaže podnositelju da u roku od dva mjeseca od dana njegova primitka ukloni navedene nedostatke.
+
+(3) Ako podnositelj ne postupi u skladu sa zaključkom Zavoda u roku iz stavka 2. ovoga članka zahtjev se odbacuje rješenjem.
+
+(4) Ako podnositelj ukloni nedostatke u roku iz stavka 2. ovoga članka, Zavod obavještava podnositelja da se datum primitka zahtijevanih ispravaka utvrđuje kao datum podnošenja urednog zahtjeva za izdavanje svjedodžbe.
+
+(5) Zavod pisanim zaključkom nalaže podnositelju zahtjeva koji nije platio upravnu pristojbu i naknadu troška upravnog postupka da to učini u roku od dva mjeseca od dana primitka zaključka. Ako u propisanom roku podnositelj ne plati pristojbe i naknade troškova upravnog postupka, zahtjev se odbacuje rješenjem.
+
+(6) Na obrazloženi zahtjev podnositelja Zavod može produljiti rokove propisane ovim člankom za razdoblje koje smatra opravdanim, ali ne više od tri mjeseca.
+
+(7) Zahtjev za izdavanje svjedodžbe koji ispunjava uvjete iz stavka 1. ovoga članka objavljuje se u službenom glasilu Zavoda u skladu s odredbama članka 9. stavka 2. Uredbe (EZ) br. 469/2009 i članka 9. stavka 2. Uredbe (EZ) br.1610/96.«.
+
+#### Članak 12.
+
+Naslov iznad članka 87.f mijenja se i glasi: »Rješenje o zahtjevu za izdavanje svjedodžbe o dodatnoj zaštiti«.
+
+Članak 87.f mijenja se i glasi:
+
+»(1) Ako je u daljnjem postupku ispitivanja zahtjeva za izdavanje svjedodžbe utvrđeno da zahtjev udovoljava svim uvjetima propisanima uredbama (EZ) br. 469/2009 i br. 1610/96 te uvjetima propisanima ovim Zakonom, Zavod donosi rješenje o izdavanju svjedodžbe kojim se određuje i trajanje svjedodžbe.
+
+(2) Zavod donosi rješenje iz stavka 2. ovoga članka pod uvjetom da su plaćene upravne pristojbe i naknade troškova upravnog postupka za: održavanje svjedodžbe, tiskanje i objavu svjedodžbe.
+
+(3) Ako je u postupku ispitivanja utvrđeno da zahtjev ne udovoljava uvjetima iz stavka 1. ovoga članka, Zavod donosi rješenje o odbijanju zahtjeva za izdavanje svjedodžbe.
+
+(4) Prije donošenja rješenja o odbijanju zahtjeva za izdavanje svjedodžbe Zavod obavještava podnositelja zahtjeva o razlozima zbog kojih svjedodžbu ne može priznati te ga poziva da se u pisanom obliku izjasni o navedenim razlozima u roku od dva mjeseca od dana primitka obavijesti.
+
+(5) Rok iz stavka 2. ovoga članka Zavod može produljiti na obrazloženi zahtjev podnositelja prijave za razdoblje koje smatra opravdanim, ali ne više od tri mjeseca.
+
+(6) Podaci iz rješenja o izdavanju svjedodžbe upisuju se u Registar svjedodžbi o dodatnoj zaštiti i objavljuju se u službenom glasilu Zavoda u skladu s odredbama članka 9. Uredbe (EZ) br. 469/2009 i članka 9. Uredbe (EZ) br. 1610/96.
+
+(7) Podaci o izdavanju svjedodžbe o dodatnoj zaštiti, kao i podaci o njezinom odbijanju objavljuju se u službenom glasilu Zavoda u skladu s odredbama članka 11. Uredbe (EZ) br. 469/2009 i članka 11. Uredbe (EZ) br. 1610/96.«.
+
+#### Članak 13.
+
+Naslov iznad članka 87.g mijenja se i glasi: »Sadržaj svjedodžbe«.
+
+Članak 87.g mijenja se i glasi:
+
+»Svjedodžba sadrži sljedeće podatke:
+
+1. broj svjedodžbe,
+
+2. naziv i adresu nositelja svjedodžbe,
+
+3. naziv proizvoda za koji se izdaje svjedodžba,
+
+4. broj temeljnog patenta,
+
+5. naziv izuma,
+
+6. broj i datum prvog odobrenja za stavljanje proizvoda u promet u skladu s člankom 3. točkom b) Uredbe (EZ) br. 469/2009 i člankom 3. točkom 1(b) Uredbe (EZ) br. 1610/96,
+
+7. broj i datum prvog odobrenja, ako podneseno odobrenje nije i prvo odobrenje za stavljanje proizvoda u promet,
+
+8. vrijeme trajanja svjedodžbe.«.
+
+#### Članak 14.
+
+Naslov iznad članka 87.h mijenja se i glasi: »Zahtjev za produljenje trajanja svjedodžbe o dodatnoj zaštiti«.
+
+Članak 87.h mijenja se i glasi:
+
+»(1) Zahtjev za produljenje trajanja svjedodžbe o dodatnoj zaštiti podnosi se Zavodu u skladu s odredbama članka 7. stavaka 3. do 5. Uredbe (EZ) br. 469/2009.
+
+(2) Uz zahtjev iz stavka 1. ovoga članka podnositelj je dužan dostaviti dokaz o izvršenoj uplati upravne pristojbe i naknade troškova upravnog postupka za produljenje trajanja svjedodžbe. Ako u propisanom roku podnositelj ne plati pristojbe i naknade troškova upravnog postupka, zahtjev se odbacuje rješenjem.
+
+(3) Zahtjev iz stavka 1. ovoga članka podnosi se putem obrasca čiji se sadržaj pobliže utvrđuje Pravilnikom.«.
+
+#### Članak 15.
+
+Naslov iznad članka 87.i mijenja se i glasi: »Ispitivanje zahtjeva za produljenje trajanja svjedodžbe«.
+
+Članak 87.i mijenja se i glasi:
+
+»(1) Ako je u postupku ispitivanja zahtjeva za produljenje trajanja svjedodžbe utvrđeno da zahtjev udovoljava svim uvjetima propisanima Uredbom (EZ) br. 469/2009 te uvjetima propisanima ovim Zakonom, Zavod donosi rješenje o produljenju svjedodžbe u skladu s odredbom članka 13. stavka 3. Uredbe (EZ) br. 469/2009.
+
+(2) Ako zahtjev ne udovoljava uvjetima iz stavka 1. ovoga članka, Zavod zaključkom nalaže podnositelju da u roku od dva mjeseca od dana njegova primitka ukloni navedene nedostatke.
+
+(3) Ako podnositelj ne postupi u skladu sa zaključkom, zahtjev se odbacuje rješenjem.
+
+(4) Na obrazloženi zahtjev podnositelja Zavod može produljiti rok iz stavka 2. ovoga članka za razdoblje koje smatra opravdanim, ali ne više od tri mjeseca.
+
+(5) Ako je zahtjev za produljenje svjedodžbe podnesen istodobno sa zahtjevom za izdavanje svjedodžbe o dodatnoj zaštiti ili u tijeku postupka za izdavanje svjedodžbe o dodatnoj zaštiti, Zavod će o zahtjevu za produljenje odlučiti rješenjem o zahtjevu za izdavanje svjedodžbe o dodatnoj zaštiti.
+
+(6) Ako je podnesen zahtjev za produljenje već izdane svjedodžbe, a pokrenuti su postupci za proglašavanje svjedodžbe ništavom ili za njezinim prestankom, Zavod će prekinuti postupak do pravomoćnosti rješenja o prijedlogu za proglašavanje ništavom svjedodžbe o dodatnoj zaštiti, odnosno do pravomoćnosti rješenja o prestanku. U slučaju pravomoćnosti navedenih rješenja zahtjev za produljenje svjedodžbe smatrat će se povučenim.
+
+(7) Podaci o produljenju svjedodžbe upisuju se u Registar svjedodžbi o dodatnoj zaštiti.
+
+(8) Podaci o produljenju svjedodžbe o dodatnoj zaštiti, kao i podaci o njezinom odbijanju objavljuju se u službenom glasilu Zavoda u skladu s odredbama članka 11. Uredbe (EZ) br. 469/2009 i članka 11. Uredbe (EZ) br.1610/96.«.
+
+#### Članak 16.
+
+Naslov iznad članka 87.j mijenja se i glasi: »Objava«.
+
+Članak 87.j mijenja se i glasi:
+
+»Sadržaj objave podataka vezanih uz postupak izdavanja i trajanje svjedodžbe o dodatnoj zaštiti, kako je propisano uredbama (EZ) br. 469/2009 i br. 1610/96, pobliže se utvrđuje Pravilnikom.«.
+
+#### Članak 17.
+
+Naslov iznad članka 87.k mijenja se i glasi: »Održavanje svjedodžbe o dodatnoj zaštiti«.
+
+Članak 87.k mijenja se i glasi:
+
+»(1) Godišnja naknada troškova za održavanje u vrijednosti svjedodžbe plaća se Zavodu za svaku godinu njezina trajanja.
+
+(2) Godišnja naknada iz stavka 1. ovoga članka odnosi se na 12-mjesečno razdoblje koje počinje teći od datuma prestanka važenja temeljnog patenta i naplaćuje se posebno za svaku godinu.
+
+(3) Ako je posljednje razdoblje trajanja svjedodžbe kraće od dvanaest mjeseci, godišnja naknada troškova plaća se u iznosu koji je razmjeran trajanju svjedodžbe, unaprijed prilikom plaćanja ukupnog iznosa godišnje naknade troškova za posljednju punu godinu dana.
+
+(4) Ako nositelj svjedodžbe ne plati godišnju naknadu u skladu sa stavcima 2. i 3. ovoga članka, može je platiti u dodatnom roku od šest mjeseci pod uvjetom plaćanja i dodatne upravne pristojbe i dodatne naknade troškova upravnog postupka.
+
+(5) Zavod će obavijestiti nositelja o propuštanju plaćanja godišnje naknade za održavanje svjedodžbe i na posljedice neplaćanja istih, te na mogućnost plaćanja iz stavka 4. ovoga članka.«.
+
+#### Članak 18.
+
+Naslov iznad članka 87.l mijenja se i glasi: »Odnos prema konsenzualnom patentu«.
+
+Članak 87.l mijenja se i glasi:
+
+»Odredbe članaka 87.a do 87.k ne primjenjuju se na konsenzualni patent.«.
+
+#### Članak 19.
+
+Naslovi iznad članaka 87.m i 87.n i članci 87.m i 87.n brišu se.
+
+#### Članak 20.
+
+U članku 91. stavak 5. mijenja se i glasi:
+
+»(5) Uredske i druge administrativne poslove za Žalbena vijeća obavlja Zavod.«.
+
+#### Članak 21.
+
+U članku 92. stavku 1. riječ: »Vlada« zamjenjuje se riječima: »ministar nadležan za rad Zavoda.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 22.
+
+Ministar nadležan za rad Zavoda, na prijedlog ravnatelja Zavoda, uskladit će Pravilnik iz članka 115. Zakona o patentu (»Narodne novine«, br. 173/03., 87/05., 76/07., 30/09., 128/10. i 49/11.) s odredbama ovoga Zakona u roku od osam dana od dana njegova stupanja na snagu.
+
+#### Članak 23.
+
+Ovaj Zakon stupa na snagu osmog dana od dana objave u »Narodnim novinama«, osim odredbi članaka 1., 4., 5. do 20. i članka 23. koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
+
+Klasa: 022-03/13-01/108
+
+Zagreb, 14. lipnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -11,10 +11,11 @@ status: in_force
 status_basis: "Constitution of the Republic of Croatia"
 text_version: official_consolidated
 consolidated_text: "NN 85/2010 (2422) https://narodne-novine.nn.hr/eli/sluzbeni/2010/85/2422"
-narodne_novine: "56/90, 135/97, 8/98, 124/00, 28/01, 41/01, 85/10, 5/14"
+narodne_novine: "56/90, 135/97, 8/98, 124/00, 28/01, 41/01, 76/10, 85/10, 5/14"
 amendments:
   - "NN 135/1997 (1944) Ustavni zakon o izmjenama i dopunama Ustava Republike Hrvatske"
   - "NN 28/2001 (487) Promjena Ustava Republike Hrvatske"
+  - "NN 76/2010 (2214) Promjena Ustava Republike Hrvatske"
   - "NN 5/2014 (93) Odluka u povodu okončanja postupka nadzora nad ustavnošću i zakonitošću provođenja držanog referenduma održanog 1. prosinca 2013., na kojem je članak 62. Ustava Republike Hrvatske dopunjen novim stavkom 2., broj: SuP-O-1/2014. od 14. siječnja 2014."
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/85/2422"
 retrieved: 2026-10-12

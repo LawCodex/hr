@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2004-04-14
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "48/04"
-amendments: []
+last_amended: 2013-06-07
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "48/04, 44/09, 68/13"
+amendments:
+  - "NN 44/2009 (1030) Zakon o izmjenama Zakona o kulturnim vijećima"
+  - "NN 68/2013 (1351) Zakon o izmjenama i dopuni Zakona o kulturnim vijećima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/48/1100"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o kulturnim vijećima
 
 > Izvor: Narodne novine, NN 48/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/48/1100).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2009, NN 68/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -196,3 +201,171 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o kulturnim vijećima (NN 44/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/44/1030*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatska, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O KULTURNIM VIJEĆIMA
+
+Proglašavam Zakon o izmjenama Zakona o kulturnim vijećima, kojega je Hvarski sabor donio na sjednici 3. travnja 2009. godine.
+
+Klasa: 011-01/09-01/68
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 6. travnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O KULTURNIM VIJEĆIMA**
+
+### Članak 1.
+
+U Zakonu o kulturnim vijećima (»Narodne novine«, br. 48/04.) u članku 2. podstavak 3. briše se.
+
+### Članak 2.
+
+U članku 8. stavak 2. mijenja se i glasi:
+
+»(2) Općinski načelnik, gradonačelnik, gradonačelnik Grada Zagreba i župan osiguravaju obavljanje stručnih, administrativnih, tehničkih i drugih poslova za potrebe Vijeća iz članka 6. ovoga Zakona, kao i sredstva potrebna za njihov rad.«
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva te poglavarstvo Grada Zagreba nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana te gradonačelnika Grada Zagreba izabranih na neposrednim izborima.
+
+Klasa: 612-01/09-01/01
+
+Zagreb, 3. travnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o kulturnim vijećima (NN 68/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/68/1351*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O KULTURNIM VIJEĆIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o kulturnim vijećima, koji je Hrvatski sabor donio na sjednici 24. svibnja 2013. godine.
+
+Klasa: 011-01/13-01/118
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 28. svibnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O KULTURNIM VIJEĆIMA**
+
+### Članak 1.
+
+U Zakonu o kulturnim vijećima (»Narodne novine«, br. 48/04. i 44/09.) članak 2. mijenja se i glasi:
+
+»(1) Pri Ministarstvu kulture osnivaju se Vijeća za sljedeća područja:
+
+– glazbu i glazbeno-scenske umjetnosti,
+
+– dramsku i plesnu umjetnost te izvedbene umjetnosti,
+
+– knjižnu, nakladničku i knjižarsku djelatnost,
+
+– vizualne umjetnosti,
+
+– kulturno-umjetnički amaterizam,
+
+– inovativne umjetničke i kulturne prakse,
+
+– međunarodnu kulturnu suradnju,
+
+– financiranje međunarodnih projekata.
+
+(2) Slijedeći razvoj suvremene umjetnosti, kulture i kreativnih industrija, osnivaju se prema potrebi i druga Vijeća odlukom ministra kulture.«.
+
+### Članak 2.
+
+U članku 3. stavak 1. mijenja se i glasi:
+
+»(1) Vijeća imaju pet ili sedam članova, o čemu odluku donosi ministar kulture. Za članove Vijeća imenuju se kulturni djelatnici i umjetnici te drugi stručnjaci koji svojim dosadašnjim dostignućima i poznavanjem problema vezanih uz utvrđivanje i provedbu kulturne politike mogu pridonijeti ostvarenju ciljeva radi kojih je Vijeće osnovano.«.
+
+### Članak 3.
+
+U članku 4. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+### Članak 4.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»(1) Kulturna vijeća osnivaju se za područje županije, Grada Zagreba te grada koji ima više od 20.000 stanovnika, a mogu ih osnovati i druge općine i gradovi ako to ocijene svrhovitim.«.
+
+### Članak 5.
+
+Članak 10. mijenja se i glasi:
+
+»Član Vijeća ne može sudjelovati u raspravi i izuzet je od odlučivanja Vijeća o pitanju koje se odnosi na umjetnički ili kulturni projekt u kojemu sudjeluje on ili s njim povezane osobe (srodnik po krvi u ravnoj liniji do bilo kojeg stupnja, bračni ili izvanbračni drug) ili se odnosi na kulturni ili umjetnički projekt koji je predložila pravna osoba u kojoj član Vijeća ili s njim povezane osobe imaju vlasnički ili osnivački udio ili sudjeluju u njezinom upravljanju.«.
+
+### Članak 6.
+
+Naslov iznad članka 11. i članak 11. brišu se.
+
+### Članak 7.
+
+Iznad članka 12. dodaje se naslov koji glasi: »PROMICANJE POTREBA U KULTURI I UMJETNOSTI NACIONALNIH MANJINA«.
+
+### Članak 8.
+
+U članku 13. stavku 1. riječi: »europske integracije« zamjenjuju se riječima: »Vijeću za financiranje međunarodnih projekata«.
+
+### Članak 9.
+
+Danom stupanja na snagu ovoga Zakona Vijeće za dramske umjetnosti nastavlja svoj rad kao Vijeće za dramsku i plesnu umjetnost te izvedbene umjetnosti, Vijeće za knjigu i nakladništvo kao Vijeće za knjižnu, nakladničku i knjižarsku djelatnost, Vijeće za likovne umjetnosti kao Vijeće za vizualne umjetnosti, Vijeće za nove medijske kulture kao Vijeće za inovativne umjetničke i kulturne prakse te Vijeće za međunarodnu kulturnu suradnju i europske integracije kao Vijeće za međunarodnu kulturnu suradnju.
+
+U roku od mjesec dana od dana stupanja na snagu ovoga Zakona ministar kulture pokrenut će postupak imenovanja članova Vijeća za kulturno-umjetnički amaterizam i Vijeća za financiranje međunarodnih projekata te, prema potrebi, i imenovanje dvaju novih članova Vijeća propisanih ovim Zakonom.
+
+### Članak 10.
+
+Predstavnička tijela gradova koji imaju više od 20.000 stanovnika, a nemaju osnovana kulturna vijeća, dužna su donijeti akt o osnivanju i akt o imenovanju članova kulturnih vijeća najkasnije do 1. siječnja 2014.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 612-01/12-01/04
+
+Zagreb, 24. svibnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

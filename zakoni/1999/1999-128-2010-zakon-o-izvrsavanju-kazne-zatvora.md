@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-11-30
-last_amended: 2008-03-05
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2013-12-13
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 190/2003 (2986) https://narodne-novine.nn.hr/eli/sluzbeni/2003/190/2986"
-narodne_novine: "128/99, 59/00, 129/00, 59/01, 11/02, 190/03, 76/07, 27/08"
+narodne_novine: "128/99, 59/00, 129/00, 59/01, 11/02, 190/03, 76/07, 27/08, 83/09, 18/11, 56/13, 150/13"
 amendments:
   - "NN 59/2000 (1326) Ispravak Zakona o izmjenama i dopunama Zakona o izvršavanju kazne zatvora"
   - "NN 129/2000 (2387) Zakon o izmjeni Zakona o izvršavanju kazne zatvora"
@@ -19,6 +19,10 @@ amendments:
   - "NN 11/2002 (286) Ispravak Zakona o izmjenama i dopunama Zakona o izvršavanju kazne zatvora"
   - "NN 76/2007 (2405) Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora"
   - "NN 27/2008 (902) Zakon o izmjenama Zakona o izvršavanju kazne zatvora"
+  - "NN 83/2009 (2024) Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora"
+  - "NN 18/2011 (314) Zakon o izmjeni Zakona o izvršavanju kazne zatvora"
+  - "NN 56/2013 (1143) Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora"
+  - "NN 150/2013 (3172) Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/190/2986"
 retrieved: 2026-10-12
 ---
@@ -29,7 +33,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 190/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/190/2986).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 27/2008.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 27/2008, NN 83/2009, NN 18/2011, NN 56/2013, NN 150/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3361,3 +3365,967 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora (NN 83/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/83/2024*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU  
+KAZNE ZATVORA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora, koji je Hrvatski sabor donio na sjednici 3. srpnja 2009. godine.
+
+Klasa: 011-01/09-01/130
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 9. srpnja 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU KAZNE ZATVORA**
+
+### Članak 1.
+
+U Zakonu o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03. – pročišćeni tekst, 76/07. i 27/08.) u članku 4. stavku 2. i u cijelom tekstu Zakona riječ: »pritvorenik« zamjenjuje se riječima: »zatvorenik kojemu je određen istražni zatvor« u odgovarajućem rodu, broju i padežu.
+
+### Članak 2.
+
+U članku 8. točka 1. mijenja se i glasi:
+
+1) »Zatvorenik (zatvorenica) kojemu je određen istraži zatvor je osoba kojoj je odlukom suda određen istražni zatvor.«.
+
+Točka 4. briše se.
+
+U dosadašnjoj točki 5. koja je postala točka 4. riječi: »četvrtog stupnja« zamjenjuju se riječima: »trećeg stupnja«.
+
+### Članak 3.
+
+U članku 11. stavku 6. i u cijelom tekstu Zakona riječ: »pritvor« zamjenjuje se riječima: »istražni zatvor« u odgovarajućem broju i padežu.
+
+### Članak 4.
+
+U članku 14. stavku 1. točki 6. iza riječi: »svojih prava« dodaju se riječi: »propisanih ovim Zakonom,«.
+
+### Članak 5.
+
+U članku 15. stavku 2. u prvoj rečenici riječi: »sucu izvršenja« brišu se, u drugoj rečenici riječi: »sucu izvršenja ili« brišu se.
+
+U stavku 4. riječi: »ili sudac izvršenja« brišu se.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ukoliko zatvorenik podnese pritužbu sucu izvršenja, pritužba će se smatrati zahtjevom za sudsku zaštitu iz članka 17. ovoga Zakona.«.
+
+### Članak 6.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Zatvorenik može podnijeti zahtjev za sudsku zaštitu sucu izvršenja protiv postupka ili odluke kojom se zatvorenika nezakonito prikraćuje ili ograničava u nekom pravu iz ovoga Zakona.
+
+(2) Sudac izvršenja će rješenjem odbiti zahtjev za sudsku zaštitu ako utvrdi da nije osnovan. Ako utvrdi zahtjev osnovanim, sudac izvršenja će rješenjem narediti otklanjanje nezakonitog prikraćivanja ili ograničavanja zatvorenika u pravu. Ako otklanjanje nezakonitosti nije moguće, sudac izvršenja rješenjem će nezakonitost utvrditi i zabraniti njezino ponavljanje.
+
+(3) Protiv odluke suca izvršenja iz stavka 1. ovoga članka žalbu mogu podnijeti zatvorenik i kaznionica, odnosno zatvor.«.
+
+### Članak 7.
+
+U članku 30. stavci 3., 4., 5. i 6. mijenjaju se i glase:
+
+»(3) Ovlaštenoj službenoj osobi koja je odlukom nadležne zdravstvene komisije iz članka 31. stavka 11. ovoga Zakona proglašena nesposobnom za obavljanje poslova ovlaštene službene osobe rješenjem će se:
+
+1) utvrditi prestanak ovlaštenja ovlaštene službene osobe,
+
+2) utvrditi da zadržava plaću i druga prava koja je ostvarivala kao ovlaštena službena osoba,
+
+3) u roku od 30 dana uputiti na ocjenu preostale radne sposobnosti.
+
+(4) Ako je službeniku iz stavka 3. ovoga članka utvrđena preostala radna sposobnost, rasporedit će se na radno mjesto u skladu sa stručnom spremom i strukom koju ima, ako je takav raspored moguć. Prava iz stavka 3. točke 2. ovoga članka službenik zadržava do konačnosti rješenja o rasporedu na radno mjesto.
+
+(5) Ako je utvrđeno da službenik nema preostale radne sposobnosti ili raspored službenika prema stavku 4. ovoga članka nije moguć, a službenik je do konačnosti rješenja o utvrđivanju preostale radne sposobnosti stekao uvjete za mirovinu, prestaje mu državna služba s danom stjecanja uvjeta za mirovinu, a službenik zadržava prava iz stavka 3. točke 2. ovoga članka do konačnosti rješenja o prestanku državne službe zbog ostvarivanja prava na mirovinu.
+
+(6) Ako službenik ima preostalu radnu sposobnost ali ga nije moguće rasporediti na radno mjesto u skladu sa stručnom spremom i strukom koju ima, ili ako službenik nema preostalu radnu sposobnost a nije stekao uvjete za mirovinu, prava iz stavka 3. točke 2. ovoga članka službenik zadržava do konačnosti odluke o preostaloj radnoj sposobnosti, s kojim danom mu prestaje državna služba.«.
+
+### Članak 8.
+
+U članku 31. stavku 9. dodaju se rečenice koje glase: »Privremeni premještaj na rad u drugu kaznionicu ili zatvor ne smatra se privremenim premještajem na radno mjesto. Žalba protiv rješenja o privremenom premještaju na rad ne zadržava izvršenje rješenja.«.
+
+### Članak 9.
+
+U članku 44. stavku 2. u drugoj rečenici riječi: »koje se odnose na odlučivanje o žalbi na sjednici vijeća« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) U postupku prvog stupnja stranka je osuđenik, odnosno zatvorenik, u postupku prekida izdržavanja kazne zatvora stranke su zatvorenik i državni odvjetnik, dok su u postupku drugog stupnja stranke zatvorenik i kaznionica, odnosno zatvor.«.
+
+### Članak 10.
+
+U članku 46. stavak 1. mijenja se i glasi:
+
+»(1) Protiv rješenja suca izvršenja u prvom stupnju žalbu mogu podnijeti stranke iz članka 44. stavka 3. ovoga Zakona, opunomoćenik osuđenika, odnosno zatvorenika i član obitelji osuđenika, odnosno zatvorenika iz članka 8. točke 5. ovoga Zakona uz suglasnost osuđenika, odnosno zatvorenika u roku od tri dana od dostave rješenja. Žalba ne zadržava izvršenje rješenja, osim ako ovim Zakonom nije drukčije propisano.«.
+
+### Članak 11.
+
+U članku 49. stavku 2. točka na kraju druge rečenice zamjenjuje se zarezom i dodaju se riječi: »u skladu s okvirnim mjerilima za upućivanje i razvrstavanje zatvorenika na izdržavanju kazne zatvora koje donosi ministar nadležan za poslove pravosuđa.«.
+
+### Članak 12.
+
+U članku 50. stavak 5. mijenja se i glasi:
+
+»(5) Rješenje o upućivanju sadrži: osobne podatke o osuđeniku kojeg se upućuje, podatke o pravomoćnoj i izvršnoj presudi na temelju koje se upućuje, kaznionicu ili zatvor u koji se upućuje i uputu o pravnom lijeku. Žalba protiv rješenja o upućivanju zadržava izvršenje rješenja.«.
+
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Rješenje kojim se osuđenika upućuje na izdržavanje kazne zatvora sa slobode, treba sadržavati i dan, mjesec i godinu kada se mora javiti na izdržavanje kazne.
+
+(7) Rješenje o upućivanju iz stavka 5. i 6. ovoga članka dostavit će se nakon pravomoćnosti kaznionici, odnosno zatvoru.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 8. i 9.
+
+### Članak 13.
+
+U članku 51. stavku 1. iza riječi: »izvatka iz kaznene evidencije« dodaju se riječi: »podataka o tome je li u kaznenom postupku izuzet biološki materijal radi obavljanja molekularno-genetičke analize«.
+
+### Članak 14.
+
+Članak 53. mijenja se i glasi:
+
+»(1) Zatvorenik kojemu je određen istražni zatvor može podnijeti zahtjev za upućivanje na izdržavanje kazne prije pravomoćnosti presude izjavom na zapisnik. Odluku o zahtjevu donijet će sudac pojedinac ili predsjednik vijeća koji je donio presudu u prvom stupnju. Prilikom davanja izjave na zapisnik zatvorenika kojemu je određen istražni zatvor upozorit će se da će u kaznionici, odnosno zatvoru u pravima i obvezama biti izjednačen sa zatvorenicima koji izdržavaju kaznu zatvora.
+
+(2) Predsjednik vijeća koje je donijelo odluku u prvom stupnju prilikom odlučivanja o zahtjevu uzet će u obzir razmjer između vremena provedenog u istražnom zatvoru i duljini izrečene kazne zatvora te procjenu potrebe nazočnosti zatvorenika kojemu je određen istražni zatvor na sudu.
+
+(3) Pravomoćno rješenje o upućivanju na izdržavanje kazne prije pravomoćnosti presude zajedno s pismenima iz članka 48. stavka 1. ovoga Zakona predsjednik vijeća koji je donio presudu u prvom stupnju dostavit će sucu izvršenja prema sjedištu zatvora u kojem se zatvorenik kojemu je određen istražni zatvor nalazi.
+
+(4) Izdržavanje kazne zatvora na temelju rješenja iz stavka 3. ovoga članka može trajati najdulje do isteka roka za istražni zatvor propisanog Zakonom o kaznenom postupku.«.
+
+### Članak 15.
+
+U članku 54. stavku 1. prva rečenica mijenja se i glasi: »Sudac izvršenja na molbu osuđenika, opunomoćenika osuđenika ili uz njegovu suglasnost i članova njegove obitelji iz članka 8. točke 5. ovoga Zakona, može donijeti rješenje o odgodi izvršavanja kazne zatvora.«.
+
+U stavku 5. iza riječi: »dvadeset mjeseci« umjesto točke stavlja se zarez i dodaju riječi: »osim iz razloga iz stavka 3. točke 1. ovoga članka.«.
+
+### Članak 16.
+
+U članku 59. dodaju se stavci 2., 3. i 4. koji glase:
+
+»(2) Ako je zatvorenik osuđen za kazneno djelo za koje je propisana kazna zatvora od najmanje 6 mjeseci te ako mu tijekom kaznenog postupka u skladu s odredbama Zakona o kaznenom postupku nije izuzet biološki materijal radi obavljanja molekularno-genetičke analize, zatvoreniku će se uz uzimanje posebnih osobnih podataka iz stavka 1. ovoga članka izuzeti i biološki materijal radi obavljanja molekularno-genetičke analize.
+
+(3) Izuzimanje uzoraka iz stavka 2. ovoga članka dopušteno je bez privole zatvorenika.
+
+(4) Način uzimanja uzoraka biološkog materijala iz stavka 2. ovoga članka, pohrana, obrada, čuvanje te nadzor nad pohranom, obradom i čuvanjem, vrijeme čuvanja podataka dobivenih obavljanjem molekularno-genetičke analize kao i uvjete brisanja podataka obavlja se u skladu s pravilnikom iz članka 327. stavka 7. Zakona o kaznenom postupku.«.
+
+### Članak 17.
+
+U članku 69. stavku 5. točka na kraju rečenice briše se i dodaju riječi: »za zatvorenika koji izdržava kaznu zatvora do pet godina, a svakih šest mjeseci za zatvorenika koji izdržava kaznu zatvora dulju od pet godina.«.
+
+### Članak 18.
+
+Naziv iznad članka 75. mijenja se i glasi: »SMJEŠTAJ ZATVORENIKA – OSOBA S INVALIDITETOM«.
+
+U članku 75. riječi: »Zatvorenicima tjelesnim invalidima« zamjenjuju se riječima: »Zatvorenicima – osobama s invaliditetom«.
+
+### Članak 19.
+
+U članku 87. stavak 3. mijenja se i glasi:
+
+»(3) Poslodavac kod kojeg je zatvoreniku odobren nastavak rada obavijestit će kaznionicu, odnosno zatvor o povredi obveza iz rada, izmjeni ugovora o radu i otkazu ugovora o radu.«.
+
+### Članak 20.
+
+U članku 107. stavak 2. mijenja se i glasi:
+
+»(2) Ako se nalazom liječnika specijalista utvrdi da nema bolesti ili nema novih spoznaja o bolesti, troškove snosi zatvorenik.«.
+
+### Članak 21.
+
+U članku 111. stavku 5. u prvoj rečenici riječi: »centra za socijalnu skrb« zamjenjuju se riječima: »nadležnog tijela«.
+
+### Članak 22.
+
+U članku 121. stavku 2. točka na kraju rečenice briše se, stavlja se zarez i dodaju riječi: »sprječavanje počinjenja kaznenog djela i otkrivanje počinitelja kaznenog djela.«.
+
+Iza prve rečenice dodaju se rečenice koje glase: »Na zahtjev suda ili drugog tijela državne vlasti, za potrebe vođenja postupka pred tim tijelom, Središnji ured Uprave za zatvorski sustav dostavit će podatke o zatvoreniku koji su potrebni za vođenje tog postupka. Pravnim ili fizičkim osobama dostavit će se podatak o kaznionici ili zatvoru u kojem se zatvorenik nalazi ako dokažu pravni interes za tim podacima.«.
+
+Stavak 7. briše se.
+
+Dosadašnji stavci 8., 9. i 10. postaju stavci 7., 8. i 9.
+
+### Članak 23.
+
+U članku 126. stavku 1. riječ: »najmanje« briše se, točka na kraju rečenice briše se i dodaju riječi: »od članova obitelji, a po odobrenju upravitelja i druge osobe.«.
+
+U stavku 4. iza riječi: »stavkom« dodaju se riječi: »2. i«.
+
+### Članak 24.
+
+U članku 130. u stavku 1. iza točke 9. dodaje se nova točka 10. koja glasi:
+
+»10) korištenje godišnjeg odmora ili dijela godišnjeg odmora u poluotvorenom ili otvorenom odjelu kaznionice, odnosno zatvora,«.
+
+Dosadašnja točka 10. postaje točka 11.
+
+U stavku 2. točka 4. mijenja se i glasi:
+
+»4) izlazak radi izvršavanja posebnog programa koji se provodi u zajednici,«.
+
+U točki 5. iza riječi: »zatvor« dodaju se riječi: »ili drugo mjesto u skladu s kućnim redom«.
+
+U točki 6. iza riječi: »zatvor« dodaju se riječi: »ili drugo mjesto u skladu s kućnim redom«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Na zahtjev kaznionice, odnosno zatvora prije odobravanja pogodnosti iz stavka 1. točke 10. i 11. i stavka 2. točke 4., 5., 6., 7. i 8. ovoga članka, nadležni ured za probaciju dostavit će izvješće u skladu sa zakonom koji propisuje poslove probacije.«.
+
+### Članak 25.
+
+Članak 131. mijenja se i glasi:
+
+»(1) Pogodnost izlaska iz zatvorene kaznionice, odnosno zatvora može se odobriti zatvoreniku koji izdržava:
+
+1) kaznu zatvora do jedne godine u skladu sa stručnom procjenom službenika kaznionice, odnosno zatvora i uspješnosti u provedbi pojedinačnog programa izvršavanja, neovisno o izdržanom dijelu pravomoćno izrečene kazne zatvora,
+
+2) kaznu zatvora u trajanju duljem od jedne godine do deset godina, nakon izdržane jedne trećine pravomoćno izrečene kazne zatvora,
+
+3) kaznu zatvora u trajanju duljem od deset do dvadeset godina nakon izdržane jedne polovice pravomoćno izrečene kazne,
+
+4) kaznu dugotrajnog zatvora nakon izdržane dvije trećine pravomoćno izrečene kazne.
+
+(2) Pogodnost izlaska iz poluotvorene i otvorene kaznionice može se odobriti neovisno o izdržanom dijelu pravomoćno izrečene kazne u skladu sa stručnom procjenom službenika kaznionice i uspješnosti u provedbi pojedinačnog programa izvršavanja.
+
+(3) Prilikom odobravanja pogodnosti izlaska mogu se zatražiti podaci od centra za socijalnu skrb, drugih tijela i institucija te policijske uprave, čiji podaci mogu biti od utjecaja kod odlučivanja o odobravanju pogodnosti izlaska.
+
+(4) Prilikom odlučivanja o odobravanju pogodnosti izlaska zatvoreniku koji izdržava kaznu zatvora zbog kaznenog djela iz nadležnosti tijela za suzbijanje korupcije i organiziranog kriminaliteta ili je ranije osuđivan radi tih djela ili protiv kojega je u tijeku kazneni postupak zbog kaznenog djela iz nadležnosti tijela za suzbijanje korupcije i organiziranog kriminaliteta, zatražit će se mišljenje od nadležnog centra za socijalnu skrb, a
+
+od nadležnog policijskog ureda za suzbijanje korupcije i organiziranog kriminaliteta mišljenje i sigurnosna procjena.
+
+(5) Za zatvorenika koji izdržava kaznu zatvora zbog kaznenog djela za koje se u kaznenom postupku mogu odrediti mjere kojima se privremeno ograničavaju ustavna prava građana ili koji je osuđivan ili protiv kojega je u tijeku kazneni postupak zbog takvog kaznenog djela, a koja nisu u nadležnosti tijela za suzbijanje korupcije i organiziranog kriminaliteta, zatražit će se mišljenje od nadležnog centra za socijalu skrb i policijske uprave, a koja mišljenja mogu biti relevantna za donošenje odluke o odobravanju pogodnosti izlaska.
+
+(6) Pogodnosti izlaska nije dopušteno odobriti zatvoreniku kojemu je u drugom kaznenom postupku određen istražni zatvor.
+
+(7) Pogodnosti izlaska ne mogu se koristiti izvan područja Republike Hrvatske.«.
+
+### Članak 26.
+
+U članku 132. stavku 1. riječi: »rješenjem odlučuje upravitelj« zamjenjuju se riječima: »upravitelj donosi odluku«.
+
+U stavku 3. iza riječi: »nadzora«, dodaju se riječi: »službenika probacije«. Iza prve rečenice dodaje se rečenica koja glasi: »Upravitelj će odluku o odobrenoj pogodnosti, potrebi nadzora i obvezi ispunjavanja obveza utvrđenih pojedinačnim programom izvršavanja dostaviti nadležnom uredu za probaciju.«.
+
+U stavku 4. iza riječi: »stavka 4.« dodaju se riječi: »i 5.«.
+
+### Članak 27.
+
+U članku 134. stavku 4. iza riječi: »Pregled« dodaju se riječi: »usne šupljine može obaviti ovlaštena službena osoba kaznionice, odnosno zatvora, a pregled«.
+
+### Članak 28.
+
+U članku 135. stavku 1. iza riječi: »ugrožava red i sigurnost« dodaju se riječi: »ili prijeti ugrožavanju reda i sigurnosti«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Posebne mjere održavanja reda i sigurnosti iz stavka 2. točke 1., 2., 3., 4. i 6. mogu se provoditi i prema zatvoreniku kojemu je određen istražni zatvor pod uvjetima iz stavka 1. ovoga članka. O provođenju mjere upravitelj će izvijestiti sud koji je odredio istražni zatvor.«.
+
+### Članak 29.
+
+U članku 136. stavku 3. zarez iza brojke: »6.« briše se i dodaje riječi: »i«, a riječi: »i 8.« brišu se.
+
+### Članak 30.
+
+U članku 141. stavku 2. riječi: »Prisila se može« zamjenjuju se riječima: »Sredstva prisile mogu se«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Sredstva prisile mogu se primijeniti i prema zatvoreniku kojemu je određen istražni zatvor pod uvjetima iz ovoga članka. O primjeni sredstava prisile upravitelj će izvijestiti sud koji je odredio istražni zatvor.«.
+
+### Članak 31.
+
+U članku 142. stavku 1. iza točke 2. dodaju se nove točke 3. i 4. koje glase:
+
+»3) raspršivač s dopuštenim neškodljivim tvarima,
+
+4) električni paralizator,«.
+
+Dosadašnje točke 3., 4. i 5. postaju točke 5., 6. i 7.
+
+U stavku 5. riječi: »točke 1., 2., 3., 4. i 5.«, brišu se.
+
+U stavku 6. riječi: »točke 3. i 4.« zamjenjuju se riječima: »5. i 6.«.
+
+U stavku 7. riječi: »točke 5.« zamjenjuju se riječima: »točke 7.«.
+
+U stavku 9. iza brojke »4.« riječ: »i« briše se, stavlja se zarez, a iza brojke »5.« stavlja se zarez i dodaju riječi: »6. i 7.«.
+
+### Članak 32.
+
+U članku 145. stavku 3. točki 6. zarez iza riječi: »opasne stvari« briše se i dodaju riječi: »ili prijenosnog uređaja za snimanje i komuniciranje,«.
+
+Iza točke 27. točka na kraju rečenice zamjenjuje se zarezom i dodaje točka 28. koja glasi:
+
+»28) nepoštivanje uvjeta ili neizvršavanje obveza tijekom izlaska.«.
+
+### Članak 33.
+
+Članak 153. mijenja se i glasi:
+
+»(1) Zatvorenika se premješta u blaže uvjete izdržavanja kazne zatvora u skladu s mjerilima iz članka 49. stavka 2. ovoga Zakona.
+
+(2) Prije podnošenja prijedloga za premještaj zatvorenika u blaže uvjete, upravitelj može zatražiti mišljenje službenika probacije.
+
+(3) Upravitelj obvezno razmatra mogućnost premještaja zatvorenika u blaže uvjete nakon izdržane pola izrečene kazne, a nakon toga svakih šest mjeseci.«.
+
+### Članak 34.
+
+U članku 155. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Neovisno o razlozima za prekid izdržavanja kazne iz stavka 2. točke 2., 3. i 4. ovoga članka, zatvoreniku se neće odobriti prekid u slučaju postojanja rizika zloporabe boravka na slobodi.«.
+
+### Članak 35.
+
+U članku 156. stavku 3. prva rečenica mijenja se i glasi: »Prije donošenja rješenja o prekidu, sudac izvršenja pribavit će od kaznionice, odnosno zatvora izvješće o tijeku izvršavanja kazne, te izvješće ureda za probaciju u skladu sa zakonom koji propisuje probacijske poslove.«.
+
+U stavku 4. iza riječi: »policijskoj postaji« dodaju se riječi: »i uredu za probaciju«.
+
+U stavku 5. u prvoj rečenici iza riječi: »policijskoj postaji« dodaju se riječi: »ili uredu za probaciju«, u drugoj rečenici iza riječi: »policijska postaja« dodaju se riječi: »te ured za probaciju«, a riječi: »obvezna je« zamjenjuju se riječima: »obvezni su«.
+
+U stavku 8. iza riječi: »odnosno postaja« dodaju se riječi: »te ured za probaciju«.
+
+### Članak 36.
+
+U članku 158. stavku 1. iza riječi: »opunomoćenik« stavlja se zarez i dodaju riječi: »a uz suglasnost zatvorenika«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako je molba odbijena, nova molba može se podnijeti nakon godine dana od podnošenja prethodne.«.
+
+### Članak 37.
+
+U članku 159. stavak 1. mijenja se i glasi:
+
+»(1) O molbi, odnosno prijedlogu za uvjetni otpust odlučuje Povjerenstvo koje se sastoji od predsjednika i četiri člana. Povjerenstvo imenuje ministar nadležan za poslove pravosuđa i to dva člana iz reda sudaca koje predlaže predsjednik Vrhovnog suda Republike Hrvatske od kojih je jedan predsjednik Povjerenstva, jednog člana iz Državnog odvjetništva Republike Hrvatske kojeg predlaže Glavni državni odvjetnik, suca izvršenja prema mjestu izvršavanja kazne zatvora, te jednog člana iz Središnjeg ureda Uprave za zatvorski sustav. Predsjednik i članovi Povjerenstva imaju zamjenike koje imenuje ministar nadležan za poslove pravosuđa na način određen za imenovanje članova Povjerenstva.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Prije donošenja odluke o uvjetnom otpustu Povjerenstvo će pregledati osobnik, mišljenje kaznionice, odnosno zatvora, mišljenje centra za socijalnu skrb i izvješće ureda za probaciju ako su pribavljeni te preslušati zatvorenika.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Osuđenika se za vrijeme uvjetnog otpusta može elektronski nadzirati. Prije donošenja odluke o uvjetnom otpustu Povjerenstvo može uvjetovati uvjetno otpuštanje pisanim pristankom zatvorenika na elektronski nadzor.«.
+
+U dosadašnjem stavku 5. koji postaje stavak 6. iza riječi: »isteka kazne« dodaju se riječi: »zbog urednog tijeka izdržavanja kazne«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Ministar nadležan za poslove pravosuđa propisat će pravilnikom vrstu, tehničke standarde i način provođenja elektronskog nadzora.«.
+
+### Članak 38.
+
+U članku 160. stavku 1. iza točke 1. dodaju se nove točke 2., 3. i 4. koje glase:
+
+»2) nastavak tretmana liječenja ovisnosti u zdravstvenoj ustanovi ili drugog organiziranog oblika provođenja tretmana odvikavanja u terapijskoj zajednici, ustanovi ili drugoj pravnoj osobi koja provodi terapijski program,
+
+3) nastavak obrazovanja,
+
+4) javljanje uredu za probaciju,«.
+
+Dosadašnje točke 2., 3., 4., 5., 6., 7. i 8. postaju točke 5., 6., 7., 8., 9., 10. i 11.
+
+U stavku 2. iza riječi: »sucu izvršenja prema mjestu u koje se otpušta«, riječ: »i« briše se, stavlja se zarez i dodaju riječi: »uredu za probaciju prema mjestu u koje se otpušta, tijelu koje provodi elektronski nadzor ako je takav nadzor rješenjem o uvjetnom otpustu određen te sucu izvršenja«.
+
+### Članak 39.
+
+U članku 161. stavak 1. mijenja se i glasi:
+
+»(1) Sudac izvršenja nadležan prema mjestu u koje je osuđenik uvjetno otpušten pribavlja obavijesti od ureda za probaciju i centra za socijalnu skrb te samog osuđenika o izvršavanju obveza određenih rješenjem o uvjetnom otpustu i njegovoj integraciji u zajednicu.«.
+
+U stavku 2. druga rečenica briše se.
+
+### Članak 40.
+
+U članku 162. stavku 1. točka na kraju rečenice briše se i dodaju se riječi: »ili krši obvezu provođenja elektronskog nadzora.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ministar nadležan za poslove pravosuđa pravilnikom će pobliže urediti način rada Povjerenstva za uvjetni otpust, propisati okvirna mjerila za odobravanje uvjetnog otpusta, opoziva rješenja o uvjetnom otpustu i načina provođenja nadzora nad uvjetno otpuštenim osuđenikom.«.
+
+### Članak 41.
+
+U članku 164. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Na zahtjev kaznionice, odnosno zatvora ured za probaciju obavit će poslove pripreme prihvata zatvorenika poslije otpusta u skladu sa zakonom koji propisuje poslove probacije.
+
+(4) Kaznionica, odnosno zatvor će prije otpusta zatvorenika koji izdržava kaznu zatvora zbog kaznenog djela protiv spolne slobode i spolnog ćudoređa, protiv života i tijela ili kaznenog djela s elementima nasilja, obavijestiti ured za probaciju radi obavješćivanja žrtve ili oštećenika ili njihove obitelji.«.
+
+Stavak 5. briše se.
+
+### Članak 42.
+
+U članku 165. stavak 3. briše se.
+
+### Članak 43.
+
+Iza članka 174. dodaje se članak 174.a koji glasi:
+
+»Članak 174.a
+
+Zatvorenicima osuđenima za kazneno djelo za koje je propisana kazna zatvora u trajanju od najmanje 6 mjeseci, a koji se na dan stupanja na snagu ovoga Zakona nalaze na izdržavanju kazne zatvora, u roku od 180 dana od dana stupanja na snagu ovoga Zakona izuzet će se biološki materijal radi obavljanja molekularno-genetičke analize.«.
+
+### Članak 44.
+
+(1) Pravilnik iz članka 37. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+
+(2) Pravilnik iz članka 40. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+
+### Članak 45.
+
+Do stupanja na snagu zakona koji propisuje poslove probacije, o otpustu zatvorenika koji izdržava kaznu zatvora zbog kaznenog djela protiv spolne slobode i spolnog ćudoređa, protiv života i tijela ili kaznenog djela s elementima nasilja, kaznionice i zatvori obavještavat će žrtve ili oštećenika ili njihove obitelji.
+
+### Članak 46.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama« osim članaka 24., 26., 33., 35., 37., 38., 39., 41. i 46. koji stupaju na snagu 1. siječnja 2010.
+
+Klasa: 730-04/09-01/04
+
+Zagreb, 3. srpnja 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o izvršavanju kazne zatvora (NN 18/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/314*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O IZVRŠAVANJU KAZNE ZATVORA
+
+Proglašavam Zakon o izmjeni Zakona o izvršavanju kazne zatvora, koji je Hrvatski sabor donio na sjednici 28. siječnja 2011. godine.
+
+Klasa: 011-01/11-01/08
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 2. veljače 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O IZVRŠAVANJU KAZNE ZATVORA**
+
+### Članak 1.
+
+U Zakonu o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03. – pročišćeni tekst, 76/07., 27/08. i 83/09.) u članku 174. stavak 2. mijenja se i glasi:
+
+»(2) Članove nadzornog odbora trgovačkog društva iz stavka 1. ovoga članka svojom odlukom bira Vlada Republike Hrvatske na temelju provedenog javnog natječaja i prijedloga ministra nadležnog za poslove gospodarstva. Jednog člana nadzornog odbora imenuju radnici trgovačkog društva iz stavka 1. ovoga članka.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 730-04/11-01/01
+
+Zagreb, 28. siječnja 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora (NN 56/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1143*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU KAZNE ZATVORA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora, koji je Hrvatski sabor donio na sjednici 26. travnja 2013. godine.
+
+Klasa: 011-01/13-01/102
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 2. svibnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU KAZNE ZATVORA**
+
+#### Članak 1.
+
+U Zakonu o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03. – pročišćeni tekst, 76/07., 27/08., 83/09., 18/11., 48/11. – Odluka USRH i 125/11.) u članku 15. stavku 2. iza druge rečenice dodaje se rečenica koja glasi: »Pisanu pritužbu u zatvorenom omotu zatvorenik ima pravo podnijeti i sucu izvršenja.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ako zatvorenik podnese pisanu pritužbu sucu izvršenja, sudac izvršenja na pritužbu će odgovorit pisanim putem u roku od 30 dana od dana zaprimanja pritužbe.«.
+
+#### Članak 2.
+
+U članku 19. stavak 5. mijenja se i glasi:
+
+»(5) U Središnjem uredu Uprave za zatvorski sustav ustrojavaju se odgovarajuće ustrojstvene jedinice za organizaciju i nadzor izvršavanja poslova u kaznionicama, zatvorima i drugim ustrojstvenim jedinicama Uprave za zatvorski sustav.«.
+
+#### Članak 3.
+
+U članku 42. stavak 2. mijenja se i glasi:
+
+»(2) Sudac izvršenja poduzima radnje i odlučuje o:
+
+1) upućivanju na izdržavanje kazne zatvora,
+
+2) sudskoj zaštiti prava odlučivanjem o žalbi protiv odluke upravitelja u slučajevima predviđenim ovim Zakonom,
+
+3) odobravanju i opozivu prekida izdržavanja kazne zatvora,
+
+4) odobravanju uvjetnog otpusta i opozivu odluke o uvjetnom otpustu prije otpuštanja na uvjetni otpust,
+
+5) saziva i rukovodi sjednicom vijeća za uvjetne otpuste, čiji je predsjednik,
+
+6) opozivu uvjetnog otpusta,
+
+7) računanju kazne, ako odgovarajuću odluku nije donio nadležni sud,
+
+8) obustavi izvršavanja kazne zatvora zbog zastare, smrti osuđenika ili zatvorenika i izdržane kazne zatvora boravkom u pritvoru ili istražnom zatvoru, ako odgovarajuću odluku nije donio nadležni sud,
+
+9) ostalim slučajevima propisanim zakonom.«.
+
+#### Članak 4.
+
+U članku 43. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Odluke iz članka 42. stavka 2. točaka 6. do 9. ovoga Zakona donosi sudac izvršenja iz stavka 1. ovoga članka, a odluke iz članka 42. stavka 2. točaka 2. do 5. donosi sudac izvršenja nadležan prema mjestu izdržavanja kazne zatvora. Odluke iz članka 42. stavka 2. točke 7. do 9. ovoga Zakona može donijeti i sudac izvršenja nadležan prema mjestu izdržavanja kazne zatvora.
+
+(3) U slučaju promjene mjesta izdržavanja kazne zatvora sudac izvršenja ustupit će spis drugom nadležnom sucu izvršenja, odnosno sucu izvršenja nadležnom za nadzor uvjetno otpuštenog.«.
+
+#### Članak 5.
+
+U članku 44. stavku 2. druga rečenica mijenja se i glasi:
+
+»Postupak pred sucem izvršenja i vijećem koje odlučuje o uvjetnom otpustu provodi se na temelju odredbi Zakona o kaznenom postupku koje vrijede za skraćeni postupak, ako ovim Zakonom nije drukčije propisano.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Stranke u postupku su osuđenik, odnosno zatvorenik, kaznionica odnosno zatvor te državni odvjetnik kad je to propisano ovim Zakonom.«.
+
+U stavku 7. na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »osim kada samostalno ili u vijeću odlučuje o uvjetnom otpustu.«.
+
+#### Članak 6.
+
+U članku 46. stavku 1. prva rečenica mijenja se i glasi:
+
+»Protiv rješenja suca izvršenja u prvom stupnju žalbu mogu podnijeti stranke iz članka 44. stavka 3. ovoga Zakona, opunomoćenik osuđenika, odnosno zatvorenika i član obitelji osuđenika, odnosno zatvorenika iz članka 8. točke 4. ovoga Zakona uz suglasnost osuđenika odnosno zatvorenika, kada su pokrenuli postupak u kojem je donesena odluka koja se pobija žalbom, u roku od tri dana od dostave rješenja.«.
+
+#### Članak 7.
+
+Naslov iznad članka 157. mijenja se i glasi: »NADLEŽNOST ZA ODLUČIVANJE O UVJETNOM OTPUSTU«.
+
+Članak 157. mijenja se i glasi:
+
+»(1) Za odlučivanje o uvjetnom otpustu nadležan je županijski sud na čijem području se nalazi zatvor ili kaznionica. Sud o uvjetnom otpustu odlučuje rješenjem nakon održane sjednice vijeća sastavljenog od tri suca toga suda. Predsjednik vijeća je sudac izvršenja tog suda te rukovodi sjednicom vijeća.
+
+(2) Sudac izvršenja županijskog suda mjesno nadležnog prema stavku 1. ovog članka može zatvorenika uvjetno otpustiti, na njegov prijedlog, ako je preostali dio neizdržane kazne do tri mjeseca.«.
+
+#### Članak 8.
+
+Naslov iznad članka 158. mijenja se i glasi: »POKRETANJE POSTUPKA PRIJEDLOGOM«.
+
+Članak 158. mijenja se i glasi:
+
+»(1) Postupak uvjetnog otpusta pokreće se prijedlogom za uvjetni otpust. Prijedlog mogu podnijeti zatvorenik, njegov opunomoćenik, osobe iz članka 8. točke 4. ovog Zakona uz pristanak zatvorenika i državni odvjetnik.
+
+(2) Prijedlog se podnosi sucu izvršenja županijskog suda nadležnog u smislu članka 157. stavka 1. ovoga Zakona. Ako sudac izvršenja ne odbaci prijedlog kao nedopušten u smislu članka 158.b ovoga Zakona, zakazat će sjednicu vijeća za uvjetni otpust najkasnije u roku od mjesec dana od dana zaprimanja prijedloga.
+
+(3) Ako je prijedlog iz stavka 1. ovog članka odbijen, novi prijedlog može biti podnesen protekom jedne godine od pravomoćnosti odluke vijeća, neovisno o neizdržanom dijelu kazne, osim ako su se pojavile nove okolnosti koje opravdavaju podnošenje novog prijedloga. Odbijeni prijedlog nije zapreka za odlučivanje o uvjetnom otpustu po članku 158.a ovoga Zakona.«.
+
+#### Članak 9.
+
+Iza članka 158. dodaju se naslov i članci 158.a i 158.b koji glase:
+
+### »POKRETANJE POSTUPKA PO SLUŽBENOJ DUŽNOSTI
+
+#### Članak 158.a
+
+(1) Prijedlog za uvjetni otpust s izvješćem o tijeku izdržavanja kazne s mišljenjem, upravitelj zatvora ili kaznionice u kojoj zatvorenik izdržava kaznu dostavit će sucu izvršenja iz članka 157. stavka 2. ovoga Zakona, mjesec dana prije izdržane tri četvrtine kazne na koju je zatvorenik osuđen. Ako je, po prijemu u zatvor ili kaznionicu radi izdržavanja kazne, preostali dio kazne kraći od jedne četvrtine, prijedlog za uvjetni otpust bit će podnesen odmah.
+
+(2) U slučaju da je izrečena sigurnosna mjera obveznog psihijatrijskog liječenja i obveznog liječenja od ovisnosti postigla svrhu (članak 68. stavak 7. i članak 69. stavka 7. Kaznenog zakona) ili se više ne može provoditi, sudac izvršenja će uputiti osuđenika na izdržavanje ostatka kazne ili će zakazati sjednicu vijeća za odlučivanje o uvjetnom otpustu, ako je preostali dio kazne kraći od polovine izrečene kazne.
+
+#### Članak 158.b
+
+Sudac izvršenja odbacit će prijedlog za uvjetni otpust ako:
+
+1) je prijedlog podnijela neovlaštena osoba,
+
+2) je prijedlog podnesen prije roka iz članka 158. stavka 3. ovog Zakona,
+
+3) je predlagatelj odustao od podnesenog prijedloga,
+
+4) je zatvorenik povukao pristanak,
+
+5) osuđenik ima više kazni koje nisu objedinjene.«.
+
+#### Članak 10.
+
+Članak 159. mijenja se i glasi:
+
+»(1) Nakon što zaprimi prijedlog, sudac izvršenja će, prije održavanja sjednice vijeća za uvjetne otpuste, pribaviti izvješće s mišljenjem zatvora ili kaznionice u kojem zatvorenik izdržava kaznu, izvješće probacijskog ureda, a po potrebi mišljenje centra za socijalnu skrb.
+
+(2) O sjednici vijeća za uvjetne otpuste obavještava se državni odvjetnik koji je podnio prijedlog, a ako je prijedlog podnio zatvorenik, državni odvjetnik mjesno nadležan postupati pred sudom koji odlučuje o uvjetnom otpustu te opunomoćenik zatvorenika ako ga je izabrao. Uz obavijest državnom odvjetniku dostavit će se i prijedlog zatvorenika. Na sjednicu se poziva zatvorenik. Prisutnost zatvorenika na sjednici vijeća može biti osigurana i putem zatvorenog tehničkog uređaja za vezu na daljinu (audio – video konferencija). Kada vijeće ocijeni da je to potrebno, na sjednicu će pozvati nadležnog službenika zatvora ili kaznionice u kojoj zatvorenik izdržava kaznu, nadležnog službenika probacijskog ureda, a po potrebi i druge osobe.
+
+(3) Na sjednici vijeća za uvjetne otpuste predsjednik vijeća će izvijestiti vijeće o sadržaju pribavljene dokumentacije, saslušati zatvorenika, nakon čega će vijeće donijeti odluku o prijedlogu za uvjetni otpust. Rješenjem o uvjetnom otpustu sud može, uz pisani pristanak zatvorenika, odrediti provođenje elektronskog nadzora za vrijeme trajanja uvjetnog otpusta. Ministar nadležan za poslove pravosuđa propisat će pravilnikom vrstu, tehničke standarde i način provođenja elektronskog nadzora.
+
+(4) Kada sudac izvršenja odlučuje o uvjetnom otpustu (članak 157. stavak 2.), postupit će u smislu stavka 1. ovog članka.«.
+
+#### Članak 11.
+
+Iza članka 159. dodaju se naslovi iznad članaka i članci 159.a, 159.b, 159.c i 159.d koji glase:
+
+### »RAZLOZI ZA ODBIJANJE PRIJEDLOGA
+
+#### Članak 159.a
+
+Sud će rješenjem odbiti prijedlog za uvjetni otpust podnesen po službenoj dužnosti u smislu članka 158.a ovog Zakona, ako:
+
+1) zatvorenik ne pristane na uvjetni otpust,
+
+2) s obzirom na pribavljena mišljenja sud ocjeni da bi za postizanje svrhe kažnjavanja bilo nužno nastaviti s izdržavanjem kazne,
+
+3) je zatvorenik stegovno kažnjavan za teži stegovni prijestup u posljednjih godinu dana,
+
+4) je protiv zatvorenika u tijeku kazneni postupak,
+
+5) izrečena sigurnosna mjera nije postigla svrhu zbog koje je izrečena,
+
+6) zatvorenik treba izdržati više kazni zatvora,
+
+7) postoje drugi razlozi koje sud ocijeni opravdanim u smislu članka 59. stavka 2. Kaznenog zakona.
+
+### ŽALBA
+
+#### Članak 159.b
+
+(1) Protiv rješenja vijeća, kojim je odlučeno da zatvorenik bude uvjetno otpušten, žalbu može podnijeti državni odvjetnik koji je mjesno nadležan postupati pred sudom koji je donio odluku.
+
+(2) Protiv rješenja kojim je prijedlog za uvjetni otpust odbijen, žalbu mogu podnijeti zatvorenik i državni odvjetnik koji je podnio prijedlog za uvjetni otpust.
+
+(3) Žalba se podnosi sudu koji je donio rješenje u roku od tri dana od dana dostave rješenja, a o njoj odlučuje viši sud.
+
+### DOSTAVA PRAVOMOĆNOG RJEŠENJA O UVJETNOM OTPUSTU
+
+#### Članak 159.c
+
+(1) Pravomoćno rješenje o uvjetnom otpustu dostavlja se zatvoreniku, zatvoru ili kaznionici, sudu upućivanja, sudu koji je donio presudu prvog stupnja, centru za socijalnu skrb prema mjestu u koje se otpušta, policijskoj upravi nadležnoj prema mjestu u koje se otpušta, državnom odvjetniku koji je podnio prijedlog, državnom odvjetniku koji je bio obaviješten o sjednici vijeća kada je prijedlog podnio zatvorenik, sucu izvršenja te, ako je izrečena posebna obveza ili zaštitni nadzor, i probacijskom uredu nadležnima prema mjestu u koje se otpušta, tijelu koje provodi elektronski nadzor ako je takav nadzor određen rješenjem o uvjetnom otpustu te tijelu nadležnom za vođenje kaznene evidencije. Pravomoćno rješenje kojim je uvjetni otpust odbijen dostavlja se zatvoreniku, osobama koje su ponijele prijedlog, kaznionici odnosno zatvoru i državnom odvjetniku koji je bio obaviješten o sjednici vijeća kada je prijedlog podnio zatvorenik.
+
+(2) Pravomoćno rješenje o uvjetnom otpustu zatvorenika stranog državljanina koji nema prebivalište ili boravište u Republici Hrvatskoj dostavlja se osobama navedenim u stavku 1. ovoga članka te policijskoj upravi prema sjedištu zatvora ili kaznionice i diplomatskom, odnosno konzularnom predstavništvu države čiji je državljanin.
+
+### PROVEDBA UVJETNOG OTPUSTA
+
+#### Članak 159.d
+
+(1) Sudac izvršenja će nalogom odrediti datum otpuštanja zatvorenika na uvjetni otpust u roku od tri dana od pravomoćnosti rješenja protiv kojeg nije podnesena žalba odnosno od zaprimanja drugostupanjskog rješenja. Zatvorenik mora biti otpušten najkasnije u roku od tri dana od donošenja naloga suca izvršenja.
+
+(2) Ako zatvorenik kojem je odobren uvjetni otpust, prije uvjetnog otpuštanja počini teži stegovni prijestup, sudac izvršenja može opozvati odluku o uvjetnom otpustu. Žalba protiv ovog rješenja ne odgađa njegovo izvršenje.«.
+
+#### Članak 12.
+
+Članak 160. briše se.
+
+#### Članak 13.
+
+Naslov iznad članka 161. mijenja se i glasi: »PROVJERAVANJE UVJETNO OTPUŠTENOG OSUĐENIKA«.
+
+Članak 161. mijenja se i glasi:
+
+»(1) Sudac izvršenja nadležan prema mjestu u koje je osuđenik uvjetno otpušten pribavlja obavijesti od probacijskog ureda i centra za socijalnu skrb te samog osuđenika o izvršavanju posebnih obveza odnosno zaštitnog nadzora određenih rješenjem o uvjetnom otpustu i osuđenikovoj integraciji u zajednicu.
+
+(2) Uvjetno otpušteni osuđenik može promijeniti mjesto prebivališta, odnosno boravišta određeno u rješenju o uvjetnom otpustu samo uz suglasnost suca izvršenja.«.
+
+#### Članak 14.
+
+Naslov iznad članka 162. mijenja se i glasi: »OPOZIV UVJETNOG OTPUSTA«.
+
+Članak 162. mijenja se i glasi:
+
+»(1) Uvjetni otpust rješenjem može opozvati sudac izvršenja nadležan prema mjestu prebivališta, odnosno boravišta osuđenika ako osuđenik bude pravomoćno proglašen krivim za počinjeni prekršaj za koji mu je izrečena kazna zatvora te iz razloga propisanih u članku 61. stavku 3. Kaznenog zakona.
+
+(2) Rješenje o opozivu uvjetnog otpusta iz razloga navedenih u stavku 1. ovoga članka sudac izvršenja dostavit će zatvoreniku i tijelima iz članka 159.c stavaka 1. i 2. ovoga Zakona radi njegova izvršavanja.
+
+(3) O žalbi na rješenje o opozivu uvjetnog otpusta odlučuje izvanraspravno vijeće suda nadležnog prema mjestu prebivališta, odnosno boravišta osuđenika. Žalba ne odgađa izvršenje rješenja. Pravomoćno rješenje o opozivu dostavlja se zatvoreniku i tijelima iz članka 159.c stavaka 1. i 2. ovoga Zakona.
+
+(4) Osuđenik kome je uvjetni otpust opozvan upućuje se na izdržavanje cijelog uvjetovanog dijela kazne u zatvor prema mjestu njegova prebivališta, odnosno boravišta.«.
+
+#### Članak 15.
+
+Članak 163. mijenja se i glasi:
+
+»Izvršavanje i nadzor posebnih obveza i zaštitnog nadzora određenih rješenjem o uvjetnom otpustu, pripremu za prihvat poslije uvjetnog otpusta te sam nadzor uvjetno otpuštenog osuđenika provodi se u skladu s posebnim zakonom.«.
+
+#### Članak 16.
+
+U članku 164. stavku 4. riječi: »ured za probaciju« zamjenjuju se riječima: »ustrojstvenu jedinicu Ministarstva pravosuđa nadležnu za podršku žrtvama i svjedocima«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+Na kazne koje su izrečene ili se izvršavaju sukladno odredbama Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00. Odluka – USRH, 129/00., 51/01., 111/03., 190/03. – Odluka USRH, 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 77/11.-Odluka USRH) primjenjuju se odredbe o uvjetnom otpustu iz Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03. – pročišćeni tekst, 76/07., 27/08., 83/09., 18/11., 48/11. i 125/11.).
+
+#### Članak 18.
+
+Pravilnik iz članka 10. ovoga Zakona nadležni ministar donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/23
+
+Zagreb, 26. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora (NN 150/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/150/3172*
+
+HRVATSKI SABOR
+
+3172
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU KAZNE ZATVORA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora, koji je Hrvatski sabor donio na sjednici 6. prosinca 2013. godine.  
+Klasa: 011-01/13-01/288  
+Urbroj: 71-05-03/1-13-2  
+Zagreb, 9. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU KAZNE ZATVORA**
+
+### Članak 1.
+
+U Zakonu o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03. – pročišćeni tekst, 76/07., 27/08., 83/09., 18/11., 48/11., 125/11. i 56/13.) u članku 6. stavku 1. riječi: »Uprave za zatvorski sustav« zamjenjuju se riječima: »ministarstva nadležnog za poslove pravosuđa«.
+
+U stavcima 2., 3. i 4. riječi: »Uprava za zatvorski sustav« zamjenjuju se riječima: »Ministarstvo nadležno za poslove pravosuđa«.
+
+### Članak 2.
+
+U naslovu iznad članka 18. riječi: »NAD RADOM KAZNIONICA I ZATVORA« brišu se.
+
+### Članak 3.
+
+U članku 18. stavak 1. mijenja se i glasi:
+
+»(1) Upravni i inspekcijski nadzor nad radom kaznionica, zatvora, Centra za dijagnostiku u Zagrebu i Centra za izobrazbu te nad provedbom ovoga Zakona obavljaju ovlaštene službene osobe ministarstva nadležnog za poslove pravosuđa.«.
+
+U stavku 2. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+U stavku 3. riječi: »Središnji ured Uprave za zatvorski sustav« zamjenjuju se riječima: »Ministarstvo nadležno za poslove pravosuđa«.
+
+U stavku 4. u prvoj rečenici iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«, a riječi: »Središnjeg ureda Uprave za zatvorski sustav« zamjenjuju se riječima: »ministarstva nadležnog za poslove pravosuđa.«. U drugoj rečenici iza riječi: »zatvorima« stavlja se zarez i dodaju riječi: »Centru za dijagnostiku u Zagrebu«.
+
+U stavku 5. riječi: »Središnji ured Uprave za zatvorski sustav« zamjenjuju se riječima: »Ministarstvo nadležno za poslove pravosuđa«.
+
+U stavku 6. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+### Članak 4.
+
+Naslov iznad članka 19. mijenja se i glasi: »KAZNIONICE, ZATVORI I CENTRI«.
+
+### Članak 5.
+
+U članku 19. stavci 1., 2. i 3. mijenjaju se i glase:
+
+»(1) Kazna zatvora izvršava se u kaznionicama i zatvorima, koji su posebne ustrojstvene jedinice ministarstva nadležnog za poslove pravosuđa – Uprave za zatvorski sustav. Uprava za zatvorski sustav je jedinstvena upravna organizacija u sastavu ministarstva nadležnog za poslove pravosuđa.
+
+(2) Centar za dijagnostiku u Zagrebu kao posebna ustrojstvena jedinica u Upravi za zatvorski sustav obavlja poslove medicinske, socijalne, psihološke, pedagoške i kriminološke obrade zatvorenika u svrhu njihove klasifikacije, predlaganja donošenja orijentacijskog programa izvršavanja kazne zatvora te predlaganja kaznenog tijela u kome će zatvorenik izdržavati kaznu zatvora.
+
+(3) Centar za izobrazbu kao posebna ustrojstvena jedinica u Upravi za zatvorski sustav obavlja stalnu stručnu izobrazbu zaposlenika u kaznionicama i zatvorima.«.
+
+Stavci 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 4.
+
+### Članak 6.
+
+U članku 20. stavku 5. riječi: »ravnatelja Uprave za zatvorski sustav« zamjenjuju se riječima: »ministra nadležnog za poslove pravosuđa«.
+
+U stavku 6. riječi: »ravnatelj Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnik ministra nadležan za zatvorski sustav«.
+
+### Članak 7.
+
+U članku 21. stavku 2. riječi: »ravnatelja Uprave za zatvorski sustav« zamjenjuju se riječima: »ministra nadležnog za poslove pravosuđa«.
+
+U stavku 3. riječi: »ravnatelj Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnik ministra nadležan za zatvorski sustav«.
+
+### Članak 8.
+
+U članku 24. stavku 1. riječi: »odnosno Centrom za izobrazbu iz članka 32. stavka 2. ovoga Zakona« zamjenjuju se riječima: »Centrom za dijagnostiku u Zagrebu i Centrom za izobrazbu«.
+
+### Članak 9.
+
+U članku 26. stavku 1. iza riječi: »zatvorima« stavlja se zarez i dodaju riječi: »Centru za dijagnostiku u Zagrebu«, a riječi: »na prijedlog ravnatelja Uprave za zatvorski sustav« brišu se.
+
+Stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ministar nadležan za poslove pravosuđa prima u državnu službu, imenuje na položaj i raspoređuje na radno mjesto, razrješava i premješta u slučaju razrješenja s položaja upravitelja i pomoćnika upravitelja i odlučuje o prestanku njihove državne službe. O ostalim pravima i obvezama iz državne službe upravitelja i pomoćnika upravitelja odlučuje pomoćnik ministra nadležan za poslove zatvorskog sustava.
+
+(3) Ministar nadležan za poslove pravosuđa prima u državnu službu i raspoređuje ostale rukovodeće državne službenike u kaznionicama, zatvorima, Centru za dijagnostiku u Zagrebu i Centru za izobrazbu te odlučuje o prestanku državne službe, a o njihovim pravima i obvezama iz državne službe odlučuje upravitelj kaznionice, zatvora ili Centra za dijagnostiku u Zagrebu odnosno Centra za izobrazbu.«.
+
+U stavku 4. riječi: »Ravnatelj Uprave za zatvorski sustav« zamjenjuju se riječima: »Ministar nadležan za poslove pravosuđa«, a riječi: »trajno ga premjestiti« zamjenjuju se riječima: »odrediti trajni premještaj državnog službenika«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Pomoćnik ministra nadležan za poslove zatvorskog sustava, po prethodnom mišljenju upravitelja kaznionice, zatvora ili centra, prima u službu, postavlja u zvanja i razrješuje statusa ovlaštene službene osobe odjela osiguranja te odlučuje o prestanku državne službe. Državne službenike odjela osiguranja na radna mjesta raspoređuje upravitelj kaznionice, zatvora ili centra te donosi odluku o njihovim pravima ili obvezama iz državne službe.«.
+
+U stavku 6. riječi: »ravnatelja Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnika ministra nadležnog za poslove zatvorskog sustava«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Ministar nadležan za poslove pravosuđa može razriješiti s položaja i rasporediti na drugo radno mjesto niže složenosti poslova upravitelja i pomoćnika upravitelja te može premjestiti na drugo radno mjesto niže složenosti poslova ostale rukovodeće službenike kaznionica, zatvora ili centra, osobito u slučajevima kada je:
+
+– kažnjen u postupku zbog teže povrede službene dužnosti te mu je izrečena novčana kazna ili
+
+– ocijenjen ocjenom »ne zadovoljava« do trenutka nastupanja izvršnosti ili
+
+– odbio izvršenje naloga nadređenog ili
+
+– izvršio propust u obavljanju službe koji je utvrđen u upravnom ili inspekcijskom nadzoru u obavljanju službe iz njegove nadležnosti koji je doveo do štetnih posljedica.«.
+
+### Članak 10.
+
+U članku 27. stavku 3. riječi: »ravnatelja Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnika ministra nadležnog za zatvorski sustav«.
+
+### Članak 11.
+
+U članku 28. stavak 1. mijenja se i glasi:
+
+»(1) Ovlaštene službene osobe su državni službenici koji prema Pravilniku o unutarnjem redu Ministarstva nadležnog za poslove pravosuđa obavljaju neposredni upravni i inspekcijski nadzor nad zakonitošću rada kaznionica, zatvora i centara i postupanja sa zatvorenicima, te državni službenici kaznionica, zatvora i centara koji prema Pravilniku o unutarnjem ustroju kaznionica, zatvora i centara rade u posebnim uvjetima ili oni koji imaju posebne dužnosti ili ovlasti.«.
+
+U stavku 3. riječi: »Pobliže propise« zamjenjuju se riječju: »Propise«.
+
+### Članak 12.
+
+U članku 30. stavku 8. riječi: »zadnjih pet plaća obračunatih« zamjenjuju se riječima: »tri proračunske osnovice«.
+
+### Članak 13.
+
+U članku 31. stavku 1. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+U stavku 5. riječi: »Ravnatelj Uprave za zatvorski sustav« zamjenjuju se riječima: »Pomoćnik ministra nadležan za zatvorski sustav«.
+
+U stavku 9. riječi: »ravnatelj Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnik ministra nadležan za zatvorski sustav«.
+
+### Članak 14.
+
+U članku 36. stavku 1. riječi: »ravnatelj Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnik ministra nadležan za zatvorski sustav«.
+
+### Članak 15.
+
+Naslov iznad članka 38. mijenja se i glasi: »FINANCIRANJE KAZNIONICA, ZATVORA, CENTRA ZA DIJAGNOSTIKU U ZAGREBU I CENTRA ZA IZOBRAZBU«.
+
+### Članak 16.
+
+U članku 38. stavku 1. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+U stavku 3. iza riječi: »zatvoru« stavlja se zarez i dodaju riječi: »Centru za dijagnostiku u Zagrebu«.
+
+U stavku 4. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+### Članak 17.
+
+U članku 39. stavku 2. točki 1. iza riječi: »zatvorima« stavlja se zarez i dodaju riječi: »Centru za dijagnostiku u Zagrebu«.
+
+### Članak 18.
+
+U članku 40. točki 2. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+U podtočki 3. iza riječi: »zatvora« stavlja se zarez i dodaju riječi: »Centra za dijagnostiku u Zagrebu«.
+
+U podtočki 4. iza riječi: »zatvor« stavlja se zarez i dodaju riječi: »Centar za dijagnostiku u Zagrebu«.
+
+### Članak 19.
+
+U članku 44. stavku 2. u drugoj rečenici riječi: »koje vrijede za skraćeni postupak« brišu se.
+
+### Članak 20.
+
+U članku 59. stavku 1. dodaje se druga rečenica koja glasi: »Navedene radnje poduzimaju se i bez privole zatvorenika.«.
+
+Stavci 2., 3. i 4. brišu se.
+
+### Članak 21.
+
+U članku 133. stavku 2. riječi: »ravnatelja Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnika ministra nadležnog za zatvorski sustav«.
+
+### Članak 22.
+
+U članku 148. stavku 1. u trećoj rečenici riječi: »kojima se uređuje skraćeni postupak« zamjenjuju se riječima: »koje se odnose na postupak za kaznena djela za koja je propisana novčana kazna ili kazna zatvora do pet godina«.
+
+### Članak 23.
+
+U članku 154. stavku 2. riječi: »ravnatelju Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćniku ministra nadležnom za zatvorski sustav«.
+
+### Članak 24.
+
+U članku 156. stavku 1. riječi: »ravnatelja Uprave za zatvorski sustav« zamjenjuju se riječima: »pomoćnika ministra nadležnog za zatvorski sustav«.
+
+### Članak 25.
+
+U članku 175. stavku 2. iza riječi: »upravitelje,« riječi: »a ravnatelj Uprave za zatvorski sustav« brišu se, a iza riječi: »zatvorima« stavlja se zarez i dodaju riječi: »Centru za dijagnostiku u Zagrebu«.
+
+### Članak 26.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 15. prosinca 2013.
+
+Klasa: 022-03/13-01/294
+
+Zagreb, 6.prosinca 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

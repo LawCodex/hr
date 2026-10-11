@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-02-13
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "19/98"
-amendments: []
+last_amended: 2013-04-30
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "19/98, 51/13"
+amendments:
+  - "NN 51/2013 (1052) Zakon o izmjenama i dopunama Zakona o osnutku Hrvatske kontrole zračne plovidbe (NN br. 51A)"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/19/2270"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o osnutku Hrvatske kontrole zračne plovidbe
 
 > Izvor: Narodne novine, NN 19/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/19/2270).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 51/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -438,3 +442,91 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o osnutku Hrvatske kontrole zračne plovidbe (NN br. 51A) (NN 51/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1052*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OSNUTKU HRVATSKE KONTROLE ZRAČNE PLOVIDBE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o osnutku Hrvatske kontrole zračne plovidbe, koji je Hrvatski sabor donio na sjednici 19. travnja 2013. godine.
+
+Klasa: 011-01/13-01/71
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 25. travnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OSNUTKU HRVATSKE KONTROLE ZRAČNE PLOVIDBE**
+
+### Članak 1.
+
+U Zakonu o osnutku Hrvatske kontrole zračne plovidbe (»Narodne novine«, br. 19/98. i 20/00.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe kojima se osigurava provedba sljedećih propisa Europske unije:
+
+a) Uredba Komisije (EZ) br. 1794/2006 od 6. prosinca 2006. kojom se utvrđuje zajednički način obračuna naknada za usluge u zračnoj plovidbi (SL, L 341, 7. 12. 2006.), članak 9.;
+
+b) Uredba Komisije (EU) br. 1191/2010 od 16. prosinca 2010. o izmjenama i dopunama Uredbe (EZ) br. 1794/2006 kojom se utvrđuje zajednički način obračuna naknada za usluge u zračnoj plovidbi (SL, L 333, 17. 12. 2010.) članak 1., stavak (9).«.
+
+### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»Odluku o sjedištu Društva donosi Skupština.«.
+
+### Članak 3.
+
+U članku 8. stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Od obveze plaćanja naknada iz stavka 1. točke 1. ovoga članka izuzimaju se letovi u skladu s propisima Europske unije kojima se utvrđuje zajednički način obračuna naknada za usluge u zračnoj plovidbi, a kojima su propisani letovi koji moraju i koji mogu biti izuzeti od plaćanja naknada u zračnoj plovidbi.
+
+(3) Troškovi letova iz stavka 2. ovoga članka nadoknađivat će se Društvu iz sredstava koja se osiguravaju u državnom proračunu Republike Hrvatske.
+
+(4) Društvo ima pravo na nadoknadu troškova za letove iz stavka 2. ovoga članka nastalih od 1. srpnja 2013., a troškovi letova će se nadoknađivati u tekućoj godini za troškove koji nastanu u prethodnoj godini.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Letove koji moraju i koji mogu biti izuzeti od plaćanja naknada utvrđuje Vlada Republike Hrvatske u skladu s propisima Europske unije iz stavka 2. ovoga članka.«.
+
+### Članak 4.
+
+U članku 14. stavak 3. briše se.
+
+### Članak 5.
+
+Vlada Republike Hrvatske će u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijeti propis iz članka 3. stavka 5. ovoga Zakona.
+
+Danom pristupanja Republike Hrvatske Europskoj uniji prestaje važiti propis Vlade Republike Hrvatske iz stavka 1. ovoga članka, u dijelu koji se odnosi na letove koji moraju biti izuzeti.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
+
+Klasa: 022-03/13-01/59
+
+Zagreb, 19. travnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-10-09
-last_amended: 2008-06-02
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2013-07-22
+status: in_force
+status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "132/98, 63/08"
+narodne_novine: "132/98, 63/08, 134/09, 94/13"
 amendments:
   - "NN 63/2008 (2127) Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu"
+  - "NN 134/2009 (3255) Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu"
+  - "NN 94/2013 (2128) Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/132/1597"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 132/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/132/1597).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 63/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 63/2008, NN 134/2009, NN 94/2013.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2557,3 +2559,409 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu (NN 134/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/134/3255*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM I STVARNOPRAVNIM ODNOSIMA U ZRAČNOM PROMETU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu, koji je Hrvatski sabor donio na sjednici 23. listopada 2009. godine.
+
+Klasa: 011-01/09-01/187
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 28. listopada 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM I STVARNOPRAVNIM ODNOSIMA U ZRAČNOM PROMETU**
+
+### Članak 1.
+
+U Zakonu o obveznim i stvarnopravnim odnosima u zračnom prometu (»Narodne novine«, br. 132/98. i 63/08.) u članku 3. točka 23. mijenja se i glasi:
+
+»23) prtljaga, osim ako nije drugačije određeno, podrazumijeva registriranu i neregistriranu prtljagu u smislu članka 17. stavka 4. Montrealske konvencije,«.
+
+### Članak 2.
+
+Naslov iznad članka 6. mijenja se i glasi: »Minimalna prava putnika«.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»(1) Ovaj Zakon određuje pod uvjetima specificiranima u ovome pododjeljku, koja minimalna prava putnici ostvaruju u svezi događaja izravno povezanih s putnikom, koji događaji za sobom povlače naknadu i/ili pomoć, u sljedećim slučajevima:
+
+a) kada je putnicima uskraćen ukrcaj protiv njihove volje,
+
+b) kada je putnicima let otkazan,
+
+c) kada putnicima let kasni.«
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Sankcije za kršenje minimalnih prava putnika moraju biti efektivne, proporcionalne i preventivne, te se putnici čija su minimalna prava prekršena, imaju pravo pozivati na ovu odredbu pred nadležnim tijelom za provedbu propisa o zaštiti potrošača i drugim nadležnim tijelima prilikom postupka ostvarenja svojih prava koja proizlaze iz ovoga pododjeljka.«
+
+### Članak 3.
+
+U članku 9.j dodaje se stavak 4. koji glasi:
+
+»(4) Ministarstvo je dužno svake godine podnijeti Europskoj komisiji izviješće propisano člankom 17. Uredbe (EZ-a) br. 261/2004 Europskoga parlamenta i Vijeća.«
+
+### Članak 4.
+
+Naslov iznad članka 15. mijenja se i glasi: »Primjena odgovarajućih odredaba Montrealske konvencije«.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Ovaj Zakon implementira relevantne odredbe Montrealske konvencije u pogledu zračnog prijevoza putnika i njihove prtljage te se utvrđuju određene dodatne odredbe. Područje primjene tih odredaba proteže se na zračni prijevoz unutar Republike Hrvatske.
+
+(2) Pojmovi koji nisu definirani u članku 3. ovoga Zakona odgovaraju pojmovima koji se koriste u Montrealskoj konvenciji.
+
+(3) Odgovornost hrvatskoga zračnog prijevoznika u pogledu putnika i njihove prtljage uređuju sve odredbe Montrealske konvencije koje se odnose na takvu odgovornost.«
+
+### Članak 5.
+
+Naslov iznad članka 16. mijenja se i glasi: »Obveza osiguranja zračnoga prijevoznika do primjerene visine«.
+
+Članak 16. mijenja se i glasi:
+
+»Obveza osiguranja utvrđena člankom 4. podstavkom h) Dodatka I. Pravilnika o operativnoj licenciji i zajedničkim pravilima za obavljanje zračnog prijevoza, u onoj mjeri u kojoj se ona odnosi na odgovornost za putnike, podrazumijeva obvezu zračnoga prijevoznika da se osigura do primjerene visine koja svim osobama s pravom na naknadu štete osigurava isplatu cjelokupnog iznosa naknade štete na koji imaju pravo u skladu s ovim Zakonom.«
+
+### Članak 6.
+
+Naslov iznad članka 17. mijenja se i glasi: »Dodatni iznos za dostavu prtljage do odredišta«.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Dodatni iznos koji, u skladu sa člankom 22. stavkom 2. Montrealske konvencije, mogu zahtijevati zračni prijevoznici, ako putnik u posebnoj izjavi izrazi želju za dostavom svoje prtljage do odredišta, temelji se na tarifi koja ovisi o dodatnim troškovima prijevoza i osiguranja dotične prtljage, koji se plaćaju povrh troškova prtljage, čiji se iznos procjenjuje najviše do granice odgovornosti.
+
+(2) Tarifa je dostupna putnicima na zahtjev.«
+
+### Članak 7.
+
+Članak 17.a i naslov iznad njega brišu se.
+
+### Članak 8.
+
+Naslov iznad članka 18. mijenja se i glasi: »Predujam naknade štete«.
+
+Članak 18. mijenja se i glasi:
+
+»(1) Zračni prijevoznik mora bez odgađanja, a u svakom slučaju najkasnije petnaest dana od dana utvrđivanja identiteta fizičke osobe s pravom na naknadu štete, isplatiti predujam razmjeran materijalnoj šteti koju je ta osoba pretrpjela i koji joj omogućuje da zadovolji neposredne materijalne potrebe.
+
+(2) Ne dovodeći u pitanje stavak 1. ovoga članka, predujam u slučaju smrti ne smije biti manji od 16 000 posebnih prava vučenja po putniku.
+
+(3) Predujam ne predstavlja priznanje odgovornosti te se može kompenzirati kasnijim iznosima isplaćenima na temelju odgovornosti zračnoga prijevoznika iz stavka 1. ovoga članka, no on je nepovratan osim u slučajevima propisanima u članku 20. Montrealske konvencije ili u slučaju kada je predujam bio isplaćen osobi koja nije imala pravo na naknadu štete.«
+
+### Članak 9.
+
+Naslov iznad članka 19. mijenja se i glasi: »Dostupnost sažetaka o odgovornosti zračnoga prijevoznika«.
+
+Članak 19. mijenja se i glasi:
+
+»(1) Svi zračni prijevoznici moraju prilikom prodaje prijevoza osigurati da su sažeci glavnih odredaba koje uređuju odgovornost prema putnicima i njihovoj prtljazi, uključujući rokove za podnošenje tužbe za naknadu štete i mogućnost davanja posebne izjave o prtljazi, dostupni putnicima na svim prodajnim mjestima, uključujući telefonsku prodaju ili internetsku prodaju.
+
+(2) Kako bi udovoljili ovome zahtjevu za pružanjem informacija, zračni prijevoznici će koristiti obavijest iz članka 22. ovoga Zakona.
+
+(3) Takav sažetak ili obavijest ne može poslužiti kao osnova za zahtjev za naknadu štete niti se može koristiti za tumačenje odredaba ovoga Zakona ili Montrealske konvencije.«
+
+### Članak 10.
+
+Naslov iznad članka 20. mijenja se i glasi: »Obavijest putnicima o odgovornosti zračnoga prijevoznika«.
+
+Članak 20. mijenja se i glasi:
+
+»Pored zahtjeva za pružanje informacija iz članka 19. ovoga Zakona, svi zračni prijevoznici moraju u pogledu prijevoza koji se obavlja ili prodaje, svakome putniku izdati pisanu obavijest o:
+
+– granici odgovornosti zračnoga prijevoznika koja vrijedi za dotični let, u slučaju smrti ili ozljede, ukoliko takva granica postoji,
+
+– granici odgovornosti zračnoga prijevoznika koja vrijedi za dotični let, u slučaju uništenja, gubitka ili oštećenja prtljage, kao i upozorenje na to da putnik mora prilikom registracije prtljage upozoriti zračnoga prijevoznika na svu prtljagu čija vrijednost premašuje taj iznos, ili mora prtljagu u cijelosti osigurati,
+
+– granici odgovornosti zračnoga prijevoznika koja vrijedi za dotični let u slučaju štete uslijed kašnjenja.«
+
+### Članak 11.
+
+Naslov iznad članka 21. mijenja se i glasi: »Granice odgovornosti zračnoga prijevoznika«.
+
+Članak 21. mijenja se i glasi:
+
+»(1) Kada prijevoz u cijelosti obavljaju zračni prijevoznici neke od država iz članka 6. stavka 2. točke a) ovoga Zakona, granice koje su navedene u skladu sa zahtjevima za pružanje informacija iz članka 19. i 20. ovoga Zakona jesu granice utvrđene ovim Zakonom, osim u slučaju kada zračni prijevoznik dobrovoljno odredi više granice.
+
+(2) Na sav prijevoz koji obavljaju zračni prijevoznici koji nisu prijevoznici neke od država iz članka 6. stavka 2. točke a) ovoga Zakona, primjenjuju se članci 19. i 20. samo u pogledu prijevoza u, iz ili unutar tih država.«
+
+### Članak 12.
+
+Naslov iznad članka 22. mijenja se i glasi: »Sažetak pravila o odgovornosti zračnih prijevoznika prema putnicima i njihovoj prtljazi«.
+
+Članak 22. mijenja se i glasi:
+
+»Informativna obavijest koja predstavlja sažetak pravila o odgovornosti koju primjenjuju zračni prijevoznici sukladno ovom Zakonu i Montrealskoj konvenciji glasi:
+
+Naknada štete u slučaju smrti ili ozljede
+
+Financijska ograničenja za odgovornost u slučaju ozljede ili smrti putnika nisu određena. Zračni prijevoznik ne može osporavati zahtjeve za naknadu štete u slučaju kada se radi o šteti do iznosa od 100 000 posebnih prava vučenja. U slučaju iznosa većih od navedenog, zračni prijevoznik može osporavati zahtjev dokazujući da nije postupao s nepažnjom ili da nije na neki drugi način kriv.
+
+Predujmovi
+
+U slučaju smrti ili ozljede putnika, zračni prijevoznik mora u roku od 15 dana od identifikacije osobe s pravom na naknadu štete isplatiti predujam koji je potreban za pokrivanje njezinih neposrednih ekonomskih potreba. U slučaju smrti putnika ovaj predujam ne smije biti niži od 16 000 posebnih prava vučenja.
+
+Kašnjenja putnika
+
+U slučaju kašnjenja putnika, zračni prijevoznik je odgovoran za štetu osim ako je poduzeo sve razumne mjere kako bi izbjegao štetu ili ako nije bilo moguće poduzeti takve mjere. Odgovornost za kašnjenje putnika ograničena je na 4 150 posebnih prava vučenja.
+
+Kašnjenje prtljage
+
+U slučaju kašnjenja prtljage, zračni prijevoznik je odgovoran za štetu osim ako je poduzeo sve razumne mjere kako bi izbjegao štetu ili ako nije bilo moguće poduzeti takve mjere. Odgovornost za kašnjenje prtljage ograničena je na 1 000 posebnih prava vučenja.
+
+Uništenje, gubitak ili oštećenje prtljage
+
+Zračni prijevoznik je odgovoran za uništenje, gubitak ili oštećenje prtljage do iznosa od 1 000 posebnih prava vučenja. U slučaju registrirane prtljage, zračni je prijevoznik odgovoran čak i ako nije kriv, osim ako je prtljaga bila neispravna. U slučaju neregistrirane prtljage, zračni prijevoznik je odgovoran jedino ako je kriv.
+
+Više granice odgovornosti za prtljagu
+
+Putnik ima pravo na višu granicu odgovornosti ako najkasnije u trenutku registracije za let da posebnu izjavu i plati dodatnu pristojbu.
+
+Pritužbe na prtljagu
+
+Ako je prtljaga oštećena, izgubljena ili uništena, ili ako kasni, putnik mora što je prije moguće zračnome prijevozniku poslati pisanu pritužbu. Ukoliko je oštećena registrirana prtljaga, putnik mora podnijeti pisanu pritužbu u roku od sedam dana, a u slučaju kašnjenja prtljage u roku od dvadeset i jedan dan, te u oba slučaja rok počinje teći od dana kada je prtljaga putniku bila dostavljena.
+
+Odgovornost ugovornih zračnih prijevoznika i stvarnih zračnih prijevoznika
+
+Ukoliko zračni prijevoznik koji stvarno obavlja prijevoz istodobno nije i ugovorni zračni prijevoznik, putnik ima pravo podnijeti pritužbu na jednoga od njih ili podnijeti zahtjev za naknadu štete protiv jednoga od njih. Ukoliko je na karti naznačeno ime ili kod zračnoga prijevoznika, taj je zračni prijevoznik ugovorni prijevoznik.
+
+Rok za podnošenje tužbe
+
+Tužba za naknadu štete podnosi se u roku od dvije godine od dana dolaska zrakoplova ili od dana kada je zrakoplov trebao sletjeti.
+
+Podloga za informacije
+
+Gore navedena pravila temelje se na Montrealskoj konvenciji od 28. svibnja 1999. koja se u Republici Hrvatskoj provodi na temelju Zakona o potvrđivanju Konvencije o ujednačavanju određenih pravila za međunarodni zračni prijevoz i na odredbama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu.«
+
+### Članak 13.
+
+Članak 22.a, članak 24. i članci od 26. do 31.b, i naslovi iznad njih brišu se.
+
+### Članak 14.
+
+Članci od 61. do 69., naslovi iznad njih i naslov pododjeljka brišu se.
+
+### Članak 15.
+
+Članci od 118. do 125. i naslovi iznad njih brišu se.
+
+### Članak 16.
+
+U članku 176. dodaje se stavak 2. koji glasi:
+
+»(2) Ugovori iz stavka 1. ovoga članka ne smiju biti u suprotnosti s odredbama uredaba i Montrealske konvencije iz članka 184.d ovoga Zakona.«
+
+### Članak 17.
+
+Članci 177. i 178. i naslovi iznad njih brišu se.
+
+### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
+
+Klasa: 343-01/09-01/02
+
+Zagreb, 23. listopada 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu (NN 94/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2128*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM I STVARNOPRAVNIM ODNOSIMA U ZRAČNOM PROMETU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu, koji je Hrvatski sabor donio na sjednici 15. srpnja 2013. godine.
+
+Klasa: 011-01/13-01/199
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 18. srpnja 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM I STVARNOPRAVNIM ODNOSIMA U ZRAČNOMU PROMETU**
+
+### Članak 1.
+
+U Zakonu o obveznim i stvarnopravnim odnosima u zračnom prometu (»Narodne novine«, br. 132/98., 63/08. i 134/09.) iza članka 1. dodaju se naslov i članak 1.a koji glase:
+
+*»Usklađenost s pravnim aktima Europske unije*
+
+### Članak 1.a
+
+Ovim Zakonom utvrđuje se provedba sljedećih uredbi Europske unije:
+
+1. Uredbe (EZ) 261/2004 Europskog parlamenta i Vijeća od 11. veljače 2004. o utvrđivanju zajedničkih pravila u vezi s nadoknadom i pomoći putnicima u slučaju uskraćivanja ukrcaja i otkazivanja ili dugih kašnjenja letova (SL L 46, 17. 2. 2004.),
+
+2. Uredbe Vijeća 2027/97/EZ od 9. listopada 1997. o odgovornosti zračnih prijevoznika u slučaju nesreće, koja je izmijenjena Uredbom 889/2002/EZ Europskog parlamenta i Vijeća (SL L 140, 30. 5. 2002.),
+
+3. Uredbe (EZ) 1107/2006 Europskog parlamenta i Vijeća od 5. srpnja 2006. o pravima osoba s invaliditetom i osoba sa smanjenom pokretljivošću (SL L 204, 26. 7. 2006).«.
+
+### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»Pojedini izrazi upotrijebljeni u ovom Zakonu imaju sljedeće značenje:
+
+1) domaći prijevoz je prijevoz zrakoplovom kod kojega se, prema ugovoru o prijevozu, mjesto polaska i mjesto odredišta nalaze na teritoriju Republike Hrvatske,
+
+2) međunarodni prijevoz je prijevoz zrakoplovom kod kojega se, prema ugovoru o prijevozu, mjesto polaska i mjesto odredišta nalaze na teritorijima dviju država ili na teritoriju samo jedne države ako je predviđeno međuslijetanje na teritorij druge države,
+
+3) Montrealska konvencija je Konvencija o ujednačavanju određenih pravila u međunarodnom zračnom prijevozu potpisana u Montrealu 28. svibnja 1999.,
+
+4) nositelj prava je osoba koja na temelju ugovora ima zahtjev prema prijevozniku,
+
+5) naručitelj prijevoza je osoba koja s ugovornim prijevoznikom sklapa ugovor o prijevozu,
+
+6) operator aerodroma je pravna osoba koja je vlasnik ili koja upravlja aerodromom,
+
+7) osoba s invaliditetom ili osoba smanjene pokretljivosti je bilo koja osoba čija je pokretljivost pri korištenju prijevoza smanjena zbog bilo koje tjelesne invalidnosti (osjetna ili lokomotorna, trajna ili privremena), mentalne invalidnosti ili oštećenja ili bilo kojeg drugog uzroka invalidnosti, ili starosti, te čije stanje zahtijeva primjerenu pažnju i prilagodbu usluga koje su na raspolaganju svim putnicima njezinim posebnim potrebama,
+
+8) osoba s pravom na naknadu štete je putnik ili svaka osoba koja ima pravo zahtijevati naknadu štete u ime toga putnika u skladu s mjerodavnim pravom,
+
+9) otkazivanje leta je otkazivanje leta koji je prethodno bio predviđen i na kojem je najmanje jedno mjesto bilo rezervirano,
+
+10) posebno pravo vučenja jest obračunska jedinica kako ju je definirao Međunarodni monetarni fond,
+
+11) pošiljatelj je osoba u čije se ime na temelju ugovora predaje stvar na prijevoz,
+
+12) prijevoznik je osoba koja na temelju ugovora prevozi osobe i stvari,
+
+13) primatelj je osoba koja je ovlaštena da u mjestu odredišta prima stvar predanu na prijevoz,
+
+14) prtljaga, osim ako nije drugačije određeno, podrazumijeva registriranu i neregistriranu prtljagu u smislu članka 17. stavka 4. Montrealske konvencije,
+
+15) putna karta je važeći dokument koja daje pravo na prijevoz ili neki ekvivalent tome koji nije u papirnatom obliku, a može uključivati i elektronički oblik, izdan ili ovjeren od strane prijevoznika ili njegova ovlaštenog agenta,
+
+16) putnik je osoba koja na temelju ugovora ima pravo na prijevoz zrakoplovom,
+
+17) stvarni prijevoznik je prijevoznik koji izvodi ili namjerava izvesti let ugovoren s putnikom ili u ime neke druge osobe, pravne ili fizičke, koja ima ugovor s tim putnikom,
+
+18) ugovorni prijevoznik je prijevoznik koji je sklopio ugovor o prijevozu s putnikom, naručiteljem prijevoza ili pošiljateljem,
+
+19) uskraćivanje ukrcaja je uskraćivanje ukrcaja na let putnicima unatoč njihovoj prijavi na ukrcaj, osim u slučajevima kada postoje opravdani razlozi da im se ukrcaj uskrati, bilo iz zdravstvenih razloga, razloga sigurnosti ili zaštite ili neodgovarajuće putne dokumentacije,
+
+20) uzastopni prijevoznik je prijevoznik koji na temelju ugovora o prijevozu, koji sklopi prvi prijevoznik, obavlja dio tog prijevoza uz pristanak putnika, odnosno naručitelja prijevoza.«.
+
+### Članak 3.
+
+Naslovi iznad članaka i članci 6., 7., 8., 9., 9.a, 9.b, 9.c, 9.d, 9.e, 9.f, 9.g, 9.h i 9.i brišu se.
+
+### Članak 4.
+
+Naslov iznad članka 9.j mijenja se i glasi: »Izvješće Europskoj komisiji«.
+
+Članak 9.j mijenja se i glasi:
+
+»Ministarstvo je dužno svake godine podnijeti Europskoj komisiji izvješće propisano člankom 17. Uredbe (EZ-a) br. 261/2004 Europskoga parlamenta i Vijeća.«.
+
+### Članak 5.
+
+Naslov iznad članka 14. mijenja se i glasi: »Odgovornost za prijevoz poštanskih pošiljaka«.
+
+U članku 14. prva rečenica briše se.
+
+### Članak 6.
+
+U članku 15. stavku 1. riječi: »te se utvrđuju određene dodatne odredbe« brišu se.
+
+### Članak 7.
+
+Naslovi iznad članaka i članci 16., 17., 18., 19., 20., 21. i 22. brišu se.
+
+### Članak 8.
+
+Naslovi iznad članaka i članci 31.c, 31.d, 31.e, 31.f, 31.g, 31.h, 31.i, 31.j, 31.k, 31.l, 31.m i 31.n brišu se.
+
+### Članak 9.
+
+U članku 31.o stavak 1. mijenja se i glasi:
+
+»(1) Nadzor nad poštovanjem prava osoba s invaliditetom i osoba smanjene pokretljivosti, obavlja Hrvatska agencija za civilno zrakoplovstvo.«.
+
+U stavku 2. riječi: »zajamčenih ovim pododjeljkom« brišu se.
+
+### Članak 10.
+
+Naslovi iznad članaka i članci 31.p, 31.r i 31.s brišu se.
+
+### Članak 11.
+
+U članku 87. stavku 3. riječi: »ministarstvu nadležnom za poslove civilnoga zračnog prometa ili« brišu se, a riječi: »Agenciji za civilno zrakoplovstvo« zamjenjuju se riječima: »Hrvatskoj agenciji za civilno zrakoplovstvo«.
+
+### Članak 12.
+
+U članku 176. stavku 2. riječi: »iz članka 184.d ovoga Zakona« brišu se.
+
+### Članak 13.
+
+Članak 184.a mijenja se i glasi:
+
+»(1) Novčanom kaznom od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj prijevoznik ili druga pravna osoba:
+
+1) ako uskrati propisana prava i pomoć putnicima u slučaju kašnjenja leta, uskraćivanja ukrcaja ili otkazivanja leta (članak 4. stavak 3., članak 5. stavak 1. točke a, b i c, članak 6. stavak 1., članak 7. stavak 1., članak 8. stavci 1. i 2., članak 9. stavci 1., 2. i 3., članak 10. stavak 2., članak 11. stavci 1. i 2., članak 14. stavci 1., 2. i 3. Uredbe (EZ) 261/2004 Europskoga parlamenta i Vijeća od 11. veljače 2004. o utvrđivanju zajedničkih pravila u vezi s nadoknadom i pomoći putnicima u slučaju uskraćivanja ukrcaja i otkazivanja ili dugih kašnjenja letova),
+
+2) ako najkasnije 15 dana od dana utvrđivanja identiteta fizičke osobe s pravom na naknadu štete ne isplati predujam naknade štete (članak 5. stavci 1. i 2. Uredbe Vijeća 2027/97/EZ od 9. listopada 1997. o odgovornosti zračnih prijevoznika u slučaju nesreće, koja je izmijenjena Uredbom 889/2002/EZ Europskoga parlamenta i Vijeća),
+
+3) ako prilikom prodaje usluga zračnog prijevoza ne osigura da su sažeci glavnih odredaba koje uređuju njegovu odgovornost prema putnicima i njihovoj prtljazi, uključujući rokove za podnošenje tužbe za naknadu štete i mogućnost davanja posebne izjave o prtljazi, dostupni putnicima (članak 6. Uredbe Vijeća 2027/97/EZ od 9. listopada 1997. o odgovornosti zračnih prijevoznika u slučaju nesreće, koja je izmijenjena Uredbom 889/2002/EZ Europskoga parlamenta i Vijeća),
+
+4) ako uskrati propisana prava i pomoć osobama s invaliditetom ili osobama smanjene pokretljivosti (članak 3., članak 4. stavci 3. i 4., članak 6. stavci 1., 2., 3. i 4. i članak 10. Uredbe (EZ) 1107/2006 Europskoga parlamenta i Vijeća od 5. srpnja 2006. o pravima osoba s invaliditetom i osoba sa smanjenom pokretljivošću).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba prijevoznika ili druge pravne osobe, novčanom kaznom od 5.000,00 do 15.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i druga fizička osoba novčanom kaznom od 3. 000,00 do 15.000,00 kuna.«.
+
+### Članak 14.
+
+U članku 184.b stavku 1. riječi: »članak 31.f stavak 1., članak 31.r« zamjenjuju se riječima: »članak 5. stavci 1. i 2., članak 7. stavci 1., 2., 3., 5. i 6., članak 8. stavak 1. Uredbe (EZ) 1107/2006 Europskoga parlamenta i Vijeća od 5. srpnja 2006. o pravima osoba s invaliditetom i osoba sa smanjenom pokretljivošću«.
+
+### Članak 15.
+
+Članak 184.d mijenja se i glasi:
+
+»Ovaj Zakon usklađen je s Konvencijom o ujednačavanju određenih pravila za međunarodni zračni prijevoz (Montrealska konvencija) (»Narodne novine – Međunarodni ugovori«, br. 1/08.).«.
+
+### Članak 16.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/170
+
+Zagreb, 15. srpnja 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

@@ -6,13 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2002-06-21
-last_amended: 2008-05-21
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2015-06-12
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "74/02, 58/08"
+narodne_novine: "74/02, 58/08, 119/11, 33/13, 65/15"
 amendments:
   - "NN 58/2008 (1953) Uredba o dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
+  - "NN 119/2011 (2316) Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
+  - "NN 33/2013 (595) Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
+  - "NN 65/2015 (1241) Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1211"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 74/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1211).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 58/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 58/2008, NN 119/2011, NN 33/2013, NN 65/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -530,3 +533,205 @@ Potpredsjednica Vlade
 i ministrica obitelji, branitelja i  
 međugeneracijske solidarnosti  
 Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi (NN 119/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2316*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 112. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/2001), a u vezi s člankom 144. stavkom 2. točkom b) Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008 i 49/2011), Vlada Republike Hrvatske je na sjednici održanoj 13. listopada 2011. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O POSLOVIMA I POSEBNIM UVJETIMA RADA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o poslovima i posebnim uvjetima rada u državnoj službi (»Narodne novine«, br. 74/2002 i 58/2008), u članku 6. podstavku a) Položaji I. vrste, točka 4. briše se.
+
+Dosadašnje točka 5. postaje točka 4.
+
+U podstavku b) Položaji II. vrste, iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. predstojnik carinske ispostave III«.
+
+Dosadašnja točka 2. koja postaje točka 3. mijenja se i glasi:
+
+»3. voditelj carinskog odjeljka – svi carinski odjeljci«.
+
+Dosadašnja točka 3. postaje točka 4.
+
+U podstavku d) Radna mjesta I. vrste, točka 2. briše se.
+
+U nastavku dosadašnje točke 3. koja postaje točka 2. broj: »10%« briše se.
+
+Dosadašnje točke 4. – 6. postaju točke 3. – 5.
+
+U podstavku e) Radna mjesta II. vrste, u točki 2. zagrada i riječi: »suzbijanje krijumčarenja – nošenje i uporaba vatrenog oružja« brišu se.
+
+U nastavku točke 3. dodaje se broj: »10%«.
+
+Točke 4. – 7. brišu se.
+
+U podstavku f) Radna mjesta III. vrste, u točki 2. u zagradi iza riječi: »prijelazu« dodaju se riječi: »i provozni postupak«.
+
+U nastavku točke 4. broj: »10« zamjenjuje se brojem: »15«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 110-1/11-01/03
+
+Urbroj: 5030106-11-1
+
+Zagreb, 13. listopada 2011.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi (NN 33/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/33/595*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 112. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/2001), a u vezi sa člankom 144. stavkom 2. točkom b) Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008, 34/2011, 49/2011, 150/2011, 34/2012 i 49/2012 – pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 13. ožujka 2013. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O POSLOVIMA I POSEBNIM UVJETIMA RADA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o poslovima i posebnim uvjetima rada u državnoj službi (»Narodne novine«, br. 74/2002, 58/2008 i 119/2011), u članku 10. podstavku c) Radna mjesta III. vrste, točka 2. mijenja se i glasi: »2. pomorski strojar«.
+
+### Članak 2.
+
+Članak 11. mijenja se i glasi:
+
+»Članak 11.
+
+Utvrđuju se poslovi radnih mjesta s posebnim uvjetima rada u Državnoj upravi za zaštitu i spašavanje i visina dodataka, i to:
+
+*a) Položaji I. vrste*
+
+1. zapovjednik državne intervencijske postrojbe 5%
+
+*b) Radna mjesta II. vrste*
+
+1. viši vatrogasni instruktor 5%
+
+*c) Radna mjesta III. vrste*
+
+1. vatrogasni instruktor 10%".
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-03/31
+
+Urbroj: 50301-09/06-13-3
+
+Zagreb, 13. ožujka 2013.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi (NN 65/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/65/1241*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 112. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/2001), a u vezi s člankom 144. stavkom 2. točkom b) Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008, 34/2011, 49/2011, 150/2011, 34/2012, 49/2012 – pročišćeni tekst, 37/2013, 38/2013 i 1/2015), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 2015. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O POSLOVIMA I POSEBNIM UVJETIMA RADA U DRŽAVNOJ SLUŽBI**
+
+#### Članak 1.
+
+U Uredbi o poslovima i posebnim uvjetima rada u državnoj službi (»Narodne novine«, br. 74/2002, 58/2008, 119/2011 i 33/2013), u članku 4. stavku 1. točki 3. iza riječi: »pravosuđa,« brišu se riječi: »uprave i lokalne samouprave, u Upravi za zatvorski sustav,«.
+
+Iza točke 9. dodaje se točka 10. koja glasi:
+
+»10. poslovi radnih mjesta s posebnim uvjetima rada u Ministarstvu obrane i Oružanim snagama Republike Hrvatske.«.
+
+#### Članak 2.
+
+Članak 8. mijenja se i glasi:
+
+»Utvrđuju se poslovi s posebnim uvjetima rada ovlaštenih službenih osoba u Ministarstvu pravosuđa, Upravi za zatvorski sustav, Upravi za organizaciju pravosuđa te državnih službenika koji rade u probacijskim uredima Uprave za kazneno pravo i probaciju, za obavljanje kojih službenicima raspoređenim na odgovarajuća radna mjesta pripada visina dodataka, i to:
+
+| 1. za poslove osiguranja kaznionica, zatvora i odgojnih zavoda | 30% |
+|---|---|
+| 2. za poslove dijagnostičke obrade zatvorenika (poslovi medicinske, socijalne, psihološke i kriminološke obrade zatvorenika) | 25% |
+| 3. za poslove promatranja i provedbe pojedinačnih programa izvršavanja kazne zatvora, maloljetničkog zatvora i odgojne mjere, nadziranja i praćenja njihove provedbe | 25% |
+| 4. za poslove zdravstvene zaštite zatvorenika i maloljetnika u kaznionicama, zatvorima i odgojnim zavodima | 25% |
+| 5. poslove strukovnog osposobljavanja, organiziranja i praćenja rada zatvorenika i maloljetnika | 25% |
+| 6. poslovi neposredne izobrazbe zatvorenika | 25% |
+| 7. za poslove zaštite ljudi i imovine u otvorenoj kaznionici te održavanja unutarnjeg reda i stege zatvorenika | 10% |
+| 8. za poslove osiguranja pravosudnih tijela | 10% |
+| 9. za poslove upravljanja kaznionicom, zatvorom, odgojnim zavodom i Centrom za dijagnostiku Zagreb | 10% |
+| 10. za probacijske poslove koji se obavljaju u neposrednom kontaktu s osuđenicima u probacijskim uredima | 5% |
+| 11. za poslove neposrednog pružanja pravne pomoći zatvorenicima i maloljetnicima | 5% |
+| 12. za poslove matice zatvorenika i maloljetnika u kaznionicama, zatvorima, odgojnim zavodima i<br>Centru za dijagnostiku u Zagrebu | 5% |
+| 13. za poslove pologa stvari, novca, dragocjenosti, obvezne ušteđevine zatvorenika i maloljetnika i naknade za rad zatvorenika i maloljetnika | 5% |
+| 14. za poslove prodaje u prodavaonicama za zatvorenike | 5% |
+| 15. za poslove neposrednog upravnog i inspekcijskog nadzora nad zakonitošću rada kaznionica, zatvora, odgojnih zavoda i centara i zakonitosti postupanja sa zatvorenicima i maloljetnicima te neposrednog rješavanja incidentnih situacija i pritužbi i predstavki zatvorenika i maloljetnika | 5%«. |
+
+#### Članak 3.
+
+Iza članka 12.a dodaje se članak 12.b koji glasi:
+
+»Članak 12.b
+
+Utvrđuju se poslovi radnih mjesta s posebnim uvjetima rada u Ministarstvu obrane i Oružanim snagama Republike Hrvatske, i to:
+
+### a) Radna mjesta II. vrste
+
+1. zrakoplovno-tehnički specijalist 15%
+
+### b) Radna mjesta III. vrste
+
+1. zrakoplovno-tehnički specijalist 15%
+
+2. namještenik u pododsjeku za eshumaciju
+
+tehničar specijalizirani
+
+radnici na radarskim i podzemnim postajama 10%
+
+3. mehaničar specijalizirani 8%
+
+4. rukovatelj skladišta opasnih tvari
+
+rukovatelj energetskog sustava
+
+rukovatelj pogonskih goriva i maziva
+
+rukovatelj avionskih goriva i maziva
+
+rukovatelj specijalnih vozila
+
+vozač opasnih tvari 5%
+
+### c) Radna mjesta IV. vrste
+
+1. namještenik u pododsjeku za eshumaciju 10%«.
+
+#### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/15-03/53
+
+Urbroj: 50301-09/06-15-2
+
+Zagreb, 11. lipnja 2015.
+
+Predsjednik  
+Zoran Milanović, v. r.

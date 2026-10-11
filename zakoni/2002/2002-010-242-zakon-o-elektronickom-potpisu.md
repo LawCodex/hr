@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-01-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "10/02"
-amendments: []
+last_amended: 2014-03-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "10/02, 80/08, 30/14"
+amendments:
+  - "NN 80/2008 (2604) Zakon o izmjenama i dopunama Zakona o elektroničkom potpisu"
+  - "NN 30/2014 (510) Zakon o izmjeni Zakona o elektroničkom potpisu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/10/242"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o elektroničkom potpisu
 
 > Izvor: Narodne novine, NN 10/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/10/242).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 80/2008, NN 30/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -524,3 +529,309 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o elektroničkom potpisu (NN 80/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/80/2604*
+
+HRVATSKI SABOR
+
+2604
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKOM POTPISU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o elektroničkom potpisu, kojega je Hrvatski sabor donio na sjednici 2. srpnja 2008. godine.  
+Klasa: 011-01/08-01/73  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 4. srpnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRONIČKOM POTPISU**
+
+#### Članak 1.
+
+U Zakonu o elektroničkom potpisu (»Narodne novine«, br. 10/02.) u članku 2. stavku 1. iza točke 2. dodaje se nova točka 3. koja glasi:  
+»3. Vremenski žig – je elektronički potpisana potvrda izdavatelja koja potvrđuje sadržaj podataka na koje se odnosi u navedenom vremenu, a napredan vremenski žig je elektronički potpisana potvrda ovjerovitelja koja ispunjava uvjete za napredan elektronički potpis.«  
+Dosadašnje točke 3. – 10. postaju točke 4. – 11.  
+U dosadašnjoj točki 11., koja je postala točka 12., riječi: »iz članka 17. ovoga Zakona« zamjenjuju se riječima: »propisane ovim Zakonom.«  
+Dosadašnje točke 12. i 13. postaju točke 13. i 14.
+
+#### Članak 2.
+
+Članak 5. mijenja se i glasi:  
+»Napredan elektronički potpis ima istu pravnu snagu i zamjenjuje vlastoručni potpis, odnosno vlastoručni potpis i otisak pečata na elektroničkom dokumentu ako je izrađen u skladu s odredbama ovoga Zakona te ako su ispunjeni ostali uvjeti propisani ovim Zakonom i propisima koji su doneseni na temelju ovoga Zakona.«
+
+#### Članak 3.
+
+Članak 6. mijenja se i glasi:  
+»Elektronički potpis smatra se pravno valjanim i dopušteno ga je koristi u sudskim postupcima ako udovoljava uvjetima propisanim ovim Zakonom.  
+Nije dopušteno osporavanje elektroničkog potpisa kao dokaza u sudskim postupcima isključivo na osnovu toga što:  
+– je u elektroničkom obliku, ili  
+– nije zasnovan na kvalificiranom certifikatu, ili  
+– nije zasnovan na kvalificiranom certifikatu koji izdaje akreditirani davatelj usluga certificiranja, ili  
+– nije izrađen uporabom sredstva za izradu naprednoga elektroničkog potpisa.«
+
+#### Članak 4.
+
+U članku 7. stavak 1. briše se.  
+U stavku 2. riječi: »stavku 1. ovoga članka« zamjenjuju se riječima: »članku 6. ovoga Zakona«.
+
+#### Članak 5.
+
+U članku 9. iza stavka 2. dodaje se stavak 3. koji glasi:  
+»Uvjeti iz stavka 1. i 2. ovoga članka primjenjuju se na odgovarajući način na sredstvo za izradu elektroničkog potpisa.«
+
+#### Članak 6.
+
+Iza članka 9. dodaje se članak 9.a koji glasi:  
+»Članak 9.a  
+Davatelji usluga certificiranja moraju primatelju elektroničke poruke potpisane elektroničkim potpisom ili drugoj ovlaštenoj osobi omogućiti provjeru elektroničkog potpisa tako:  
+1. da podaci koji se koriste za provjeru potpisa odgovaraju podacima prikazanima osobi koja obavlja provjeru,  
+2. da je potpis pouzdano provjeren, a rezultat te provjere na ispravan je način prikazan osobi koja obavlja provjeru,  
+3. da osoba koja obavlja provjeru može, ukoliko je to potrebno, pouzdano utvrditi sadržaj potpisanih podataka,  
+4. da se izvornost i valjanost certifikata koja se zahtijeva u vrijeme provjere potpisa može pouzdano provjeriti,  
+5. da su rezultat provjere i identitet potpisnika prikazani na ispravan način,  
+6. da je uporaba pseudonima jasno naznačena,  
+7. da postoji mogućnost otkrivanja svih promjena koje na bilo koji način utječu na sigurnost elektroničkog potpisa.«
+
+#### Članak 7.
+
+U članku 10. riječ: »svaka« briše se.
+
+#### Članak 8.
+
+U članku 11. stavku 1. riječ: »svaka« briše se.  
+U točki 9. riječi: »na vrijednost poslovnih događaja« zamjenjuju se riječima: »u odnosu na važnost pravnih radnji«.  
+Stavak 3. i stavak 4. brišu se.
+
+#### Članak 9.
+
+Članak 12. mijenja se i glasi:  
+»Na vremenski žig i s njim povezane usluge na odgovarajući način primjenjuju se odredbe ovoga Zakona koje reguliraju certifikat, a za napredan vremenski žig i s njim povezane usluge odredbe ovoga Zakona koje se odnose na kvalificirani certifikat.«
+
+#### Članak 10.
+
+Članak 14. briše se.
+
+#### Članak 11.
+
+U članku 15. stavku 1. iza riječi: »Ministarstvu« dodaju se riječi: »gospodarstva, rada i poduzetništva (u daljnjem tekstu: Ministarstvo)«.  
+Stavak 2. mijenja se i glasi:  
+»Uz prijavu iz stavka 1. ovoga članka ili u slučajevima promjena u obavljanju usluge, davatelj usluge certificiranja prilaže svoje interne akte o načinu i postupcima pružanja usluga certificiranja te o tehničkoj infrastrukturi.«  
+Iza stavka 2. dodaje se stavak 3. koji glasi:  
+»Davatelji usluga certificiranja koji obavljaju usluge izdavanja kvalificiranih certifikata moraju u svojim internim pravilima uzeti u obzir sigurnosne zahtjeve određene ovim Zakonom.«
+
+#### Članak 12.
+
+U članku 16. dodaju se novi stavci 1. i 2. koji glase:  
+»Ministarstvo je nadležno za vođenje evidencije o davateljima usluga certificiranja.  
+Evidencija davatelja usluga certificiranja je javna i vodi se u elektroničkom obliku.«  
+Dosadašnji stavci 1. i 2. postaju stavci 3. i 4.  
+U dosadašnjem stavku 3., koji postaje stavak 5., riječi: »Ministar gospodarstva« zamjenjuju se riječima: »Ministar gospodarstva, rada i poduzetništva (u daljnjem tekstu: ministar)«, a iza riječi: »evidencije« stavlja se točka, a riječi: »kao i obrasce prijave za upis u evidenciju te prijave za upis promjena.« brišu se.
+
+#### Članak 13.
+
+U članku 17. stavku 1. riječi: »uz uvjete sadržane u članku 12. ovoga Zakona i« brišu se.  
+Točka 1. mijenja se i glasi:  
+»1. dokazanu sposobnost i pouzdanost za sigurnu provedbu usluge certificiranja,«.  
+U točki 5. riječi: »administrativnih i upravljačkih« zamjenjuju se riječju: »upravnih«, a riječi: »koji odgovaraju priznatim standardima« brišu se.  
+Točka 8. mijenja se i glasi:  
+»8. osiguranu zadovoljavajuću razinu financijskih resursa kako bi mogli djelovati u skladu sa zahtjevima utvrđenima ovim Zakonom,«.  
+Točka 9. mijenja se i glasi:  
+»9. osiguranu pohranu svih relevantnih informacija koje se odnose na kvalificirani certifikat tijekom odgovarajućega vremenskog razdoblja, posebice u svrhu pružanja dokaza o certifikatu za potrebe sudskih postupaka,«.  
+U točki 10. riječi: »pohranjivanje i« brišu se, a riječi: »u ime kojih« zamjenjuju se riječima: »za koje«.  
+Točka 11. mijenja se i glasi:  
+»11. prije sklapanja ugovornog odnosa s osobom koja traži uslugu certificiranja za svoj elektronički potpis, obavijestiti tu osobu u pisanom obliku o preciznim uvjetima koji se odnose na uporabu certifikata, uključujući ograničenja uporabe certifikata, o postojanju dragovoljnih programa ovlašćivanja i postupaka u slučaju prigovora i žalbi te kod rješavanja međusobnih sporova. Na zahtjev trećih osoba koje vrše uvid u odnosni certifikat odgovarajući dijelovi ovih podataka moraju se staviti na uvid,«.  
+U točki 12. podtočke b. i c. mijenjaju se i glase:  
+»b. izvornost podataka bila podobna za provjeru,  
+c. certifikat bio javno dostupan na uvid u slučajevima kad je potpisnik odobrio«.  
+U podtočki d. riječ: »poznata« zamjenjuje se riječju: »vidljiva«.
+
+#### Članak 14.
+
+Članak 18. mijenja se i glasi:  
+»Davatelj usluga izdavanja kvalificiranih certifikata dužan je osigurati rizik od odgovornosti za štete koje nastanu obavljanjem usluga certificiranja (obvezno osiguranje), a posebno:  
+1. u svezi s točnošću svih podataka sadržanih u kvalificiranom certifikatu u vrijeme izdavanja tog certifikat te u svezi s činjenicom da certifikat sadrži sve detalje propisane za kvalificiran certifikat,  
+2. kao osiguranje da je, u vrijeme izdavanja certifikata, potpisnik identificiran u kvalificiranom certifikatu posjedovao podatke za izradu potpisa koji odgovaraju podacima za provjeru potpisa koji su navedeni ili identificirani u certifikatu,  
+3. kao osiguranje da se podaci za izradu potpisa i podaci za provjeru potpisa mogu rabiti na sličan način u slučajevima u kojima davatelj usluga certificiranja pohranjuje i izdaje oboje, osim ako davatelj usluga certificiranja dokaže kako je djelovao s dužnom pažnjom.  
+Davatelj usluga izdavanja kvalificiranih certifikata odgovara za štetu nastalu uporabom certifikata bilo kojem tijelu, odnosno pravnoj ili fizičkoj osobi zbog toga što je propustio opozvati taj certifikat, osim ukoliko davatelj usluga certificiranja dokaže kako je djelovao s dužnom pažnjom.  
+Davatelj usluga certificiranja može u kvalificiranom certifikatu naznačiti ograničenja uporabe certifikata pod uvjetom da su ograničenja vidljiva i trećim stranama.  
+Davatelj usluga certificiranja ne odgovara za štetu prouzrokovanu uporabom kvalificiranog certifikata koji prekoračuje ograničenja certifikata iz stavka 3. ovoga članka.  
+Davatelj usluga certificiranja može u kvalificiranom certifikatu naznačiti granicu vrijednosti transakcija za koje se certifikat može koristiti pod uvjetom da je to ograničenje vidljivo i trećim stranama. Davatelj usluga certificiranja ne odgovora za štetu prouzrokovanu prekoračenjem ovoga maksimalnog ograničenja.  
+Najniži iznos osiguranja iz stavka 1. ovoga članka pravilnikom utvrđuje ministar.«
+
+#### Članak 15.
+
+Članak 19. briše se.
+
+#### Članak 16.
+
+Članak 21. briše se.
+
+#### Članak 17.
+
+Članak 22. briše se.
+
+#### Članak 18.
+
+U članku 23. stavku 1. iza riječi: »certificiranja« dodaju se riječi: »na temelju ugovora s odabranim davateljima usluga certificiranja«.  
+Stavak 5. briše se.
+
+#### Članak 19.
+
+U članku 24. stavak 2. briše se.
+
+#### Članak 20.
+
+U članku 30. stavak 4. briše se.
+
+#### Članak 21.
+
+U članku 33. stavak 1. mijenja se i glasi:  
+»Davatelj usluga certificiranja dužan je o mogućem prestanku obavljanja usluga certificiranja obavijestiti svakog korisnika usluge i Ministarstvo najmanje tri mjeseca prije isteka ugovorom povjerenih mu usluga certificiranja.«
+
+#### Članak 22.
+
+U članku 34. stavci 2. i 3. brišu se.
+
+#### Članak 23.
+
+Iza članka 34. dodaju se članci 34.a, 34.b, 34.c, 34.d i naslovi iznad njih, koji glase:  
+»Dobrovoljna akreditacija  
+Članak 34.a  
+Davatelji usluga certificiranja koji dokažu da ispunjavaju sve uvjete propisane ovim Zakonom mogu zahtijevati da ih akreditacijsko tijelo upiše u Registar akreditiranih davatelja usluga certificiranja (u daljnjem tekstu: Registar).  
+U Registar se na njihov zahtjev upisuju i strani davatelji usluga certificiranja ako ispunjavaju uvjete propisane ovim Zakonom za valjanost stranih certifikata u Republici Hrvatskoj.  
+Davatelji usluga certificiranja koji su upisani u Registar (u daljnjem tekstu: akreditirani davatelji) mogu poslovati s naznakom svoje akreditiranosti.  
+Davatelji usluga certificiranja koji su upisani u Registar mogu tu činjenicu naznačiti u izdanim certifikatima.  
+Članak 34.b  
+Akreditacijsko tijelo vodi javni elektronički registar dobrovoljno akreditiranih davatelja.  
+Registar ili izvod iz Registra potpisuje akreditacijsko tijelo svojim naprednim elektroničkim potpisom. Podaci za provjeru kvalificiranog certifikata akreditacijskog tijela objavljuju se na web-stranicama zajedno s Registrom.  
+Članak 34.c  
+Akreditacijsko tijelo provodi nadzor i mjere s obzirom na akreditirane davatelje.  
+Akreditacijsko tijelo:  
+1. izdaje opće preporuke za rad davatelja usluga certificiranja te preporuke i standarde za rad akreditiranih davatelja u skladu sa Zakonom i na temelju njega donesenim podzakonskim propisima,  
+2. nadzire provođenje zakonskih i podzakonskih propisa u internim pravilima akreditiranih ovjerovitelja,  
+3. provjerava ispunjava li davatelj usluga certificiranja cijelo vrijeme obavljanja djelatnosti uvjete propisane ovim Zakonom i na temelju njega donesenih podzakonskih propisa te svojih internih pravila,  
+4. nadzire uporabu odgovarajućih postupaka i infrastrukture pri akreditiranju davatelja usluga certificiranja,  
+5. nadzire zakonitost izdavanja, pohranjivanja i opoziva certifikata akreditiranih davatelja,  
+6. nadzire zakonitost obavljanja drugih usluga akreditiranih davatelja.  
+Akreditacijski tijelo može preporučiti:  
+1. promjenu internih pravila akreditiranog davatelja,  
+2. akreditiranom davatelju da prestane s daljnjom uporabom neprimjerenih postupaka i infrastrukture.  
+Ako davatelj usluga certificiranja postupa protivno preporukama iz rješenja akreditacijskog tijela, akreditacijsko tijelo briše ga iz Registra.  
+Protiv rješenja iz stavka 4. ovoga članka nezadovoljna strana može podnijeti žalbu Ministarstvu u roku od 15 dana od dana primitka rješenja.  
+Rješenje o žalbi ministar je dužan donijeti u roku od trideset dana nakon primitka žalbe.  
+Protiv rješenja iz stavka 6. ovoga članka nezadovoljna stranka može pokrenuti upravni spor.  
+Članak 34.d  
+Za obavljanje zadaća akreditacijskog tijela Vlada Republike Hrvatske, na prijedlog ministra, određuje nacionalno nadležno tijelo za obavljanje funkcija akreditacijskog tijela.  
+Tijelo iz stavka 1. ovoga članka ne smije biti davatelj usluga certificiranja.«
+
+#### Članak 24.
+
+Naslov iznad članka 35. mijenja se i glasi: »Valjanost stranih certifikata«.  
+Članak 35. mijenja se i glasi:  
+»Kvalificirani certifikati davatelja usluga certificiranja sa sjedištem u Europskoj uniji jednako su valjani kao i kvalificirani certifikati izdani u Republici Hrvatskoj.  
+Kvalificirani certifikati davatelja usluga certificiranja sa sjedištem u zemljama izvan Europske unije jednako su valjani kao i kvalificirani certifikati izdani u Republici Hrvatskoj:  
+1. ako davatelj usluga certificiranja ispunjava uvjete za izdavanje kvalificiranih certifikata iz ovoga Zakona te je dobrovoljno akreditiran u Republici Hrvatskoj ili jednoj od zemalja članica Europske unije,  
+2. ako neki domaći davatelj usluga certificiranja koji ispunjava uvjete za izdavanje kvalificiranih certifikata iz ovoga Zakona jamči za takve certifikate jednako kao da su njegovi,  
+3. ako tako odredi bilateralni ili multilateralni sporazum između Republike Hrvatske i drugih zemalja ili međunarodnih organizacija,  
+4. ako tako odredi bilateralni ili multilateralni sporazum između Europske unije i trećih zemalja ili međunarodnih organizacija.  
+Certifikati davatelja usluga certificiranja sa sjedištem u Europskoj uniji, koje prema ovom Zakonu nije moguće odrediti kao kvalificirane, imaju istu pravnu snagu kao i certifikati izdani u Republici Hrvatskoj u skladu s odredbama ovoga Zakona.«
+
+#### Članak 25.
+
+U članku 36. stavku 1. iza riječi: »Ministarstvo« dodaju se riječi: »i Državni inspektorat prema odredbama posebnog zakona«.
+
+#### Članak 26.
+
+U članku 37. stavku 1. iza riječi: »nadzora« dodaju se riječi: »ovlašteno tijelo koje vrši nadzor davatelja usluga certificiranja«, a riječi: »Ministarstvo nadzire rad registriranih, odnosno evidentiranih davatelja usluga certificiranja, te« brišu se.  
+Stavak 2. mijenja se i glasi:  
+»Ako davatelj usluga certificiranja ne ispunjava uvjete propisane ovim Zakonom i provedbenim propisima donesenim na temelju ovoga Zakona, ovlašteno tijelo će donijeti rješenje kojim se privremeno zabranjuje davanje usluga certificiranja.«
+
+#### Članak 27.
+
+U članku 38. riječi: »državnim službenicima Ministarstva ovlaštenim« zamjenjuju se riječima: »ovlaštenom tijelu«.
+
+#### Članak 28.
+
+U članku 41. stavku 1. točki 2. riječi: »pohranjivanje i« brišu se.  
+Točka 8. briše se.  
+Dosadašnja točka 9., koja postaje točka 8., mijenja se i glasi:  
+»8. pravodobno ne obavijesti korisnike usluga kojima je izdao certifikate i Ministarstvo o mogućem prestanku obavljanja usluga certificiranja (članak 33. stavak 1.).«
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE — Članak 29.
+
+Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti propise za donošenje kojih je ovlašten ovim Zakonom.  
+Podzakonski propisi doneseni na temelju Zakona o elektroničkom potpisu (»Narodne novine«, br. 10/02.), ostaju na snazi do donošenja podzakonskih propisa na temelju ovoga Zakona.
+
+#### Članak 30.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 650-05/08-01/01  
+Zagreb, 2. srpnja 2008.  
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o elektroničkom potpisu (NN 30/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/30/510*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ELEKTRONIČKOM POTPISU
+
+Proglašavam Zakon o izmjeni Zakona o elektroničkom potpisu, koji je Hrvatski sabor donio na sjednici 21. veljače 2014. godine.
+
+Klasa: 011-01/14-01/54
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 24. veljače 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ELEKTRONIČKOM POTPISU**
+
+#### Članak 1.
+
+U Zakonu o elektroničkom potpisu (»Narodne novine«, br. 10/02. i 80/08.) u članku 36. stavku 1. riječi: »provodi Ministarstvo i Državni inspektorat prema odredbama posebnog zakona« zamjenjuju se riječima: »provode nadležni inspektori Ministarstva gospodarstva i Ministarstva financija«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/14-01/16
+
+Zagreb, 21. veljače 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

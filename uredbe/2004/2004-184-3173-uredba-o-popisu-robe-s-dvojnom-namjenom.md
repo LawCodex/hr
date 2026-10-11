@@ -6,14 +6,17 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2004-12-24
-last_amended: 2008-05-20
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2012-12-14
+status: in_force
+status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "184/04, 62/07, 57/08"
+narodne_novine: "184/04, 62/07, 57/08, 63/09, 3/10, 138/12"
 amendments:
   - "NN 62/2007 (1957) Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom"
   - "NN 57/2008 (1950) Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom"
+  - "NN 63/2009 (1430) Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom"
+  - "NN 3/2010 (79) Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom"
+  - "NN 138/2012 (2933) Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/184/3173"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 184/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/184/3173).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 62/2007, NN 57/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 62/2007, NN 57/2008, NN 63/2009, NN 3/2010, NN 138/2012.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -13142,3 +13145,9990 @@ Akronim ili kratica, kad se koristi kao definirani izraz, nalazi se u ‘Definic
 ### KATEGORIJA 8 — POMORSTVO
 
 ### KATEGORIJA 9 — ZRAČNI I SVEMIRSKI PROSTOR I POGONSKI SUSTAVI
+
+## Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom (NN 63/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/63/1430*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 3. Zakona o izvozu robe s dvojnom namjenom (»Narodne novine«, br. 100/2004 i 84/2008), Vlada Republike Hrvatske je na sjednici održanoj 21. svibnja 2009. godine donijela
+
+UREDBU
+
+O IZMJENI UREDBE O POPISU ROBE S DVOJNOM NAMJENOM
+
+## Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom (NN 3/2010)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2010/3/79*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 3. Zakona o izvozu robe s dvojnom namjenom (»Narodne novine«, br. 100/2004 i 84/2008), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2009. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O POPISU ROBE S DVOJNOM NAMJENOM**
+
+###### Članak 1.
+
+U Uredbi o Popisu robe s dvojnom namjenom (»Narodne novine«, br. 184/2004, 62/2007, 57/2008 i 63/2009) Prilog – Popis robe s dvojnom namjenom zamjenjuje se s Prilogom – Popis robe s dvojnom namjenom, koji je sastavni dio ove Uredbe.
+
+###### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 331-02/09-01/01
+
+Urbroj: 5030116-09-3
+
+Zagreb, 23. prosinca 2009.
+
+Predsjednica  
+Jadranka Kosor, dipl. iur., v. r.
+
+##### PRILOG
+
+### POPIS ROBE S DVOJNOM NAMJENOM
+
+### OPĆENITE NAPOMENE UZ PRILOG
+
+1. Za kontrolu robe koja je namijenjena ili modificirana za vojnu uporabu, vidjeti odgovarajući Popis kontrolirane robe vojne namjene. Napomene u ovome Prilogu »VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE« odnose se na navedeni popis.
+
+2. Predmet kontrola sadržanih u ovome Prilogu ne treba biti ukinut izvozom bilo kojih roba koje nisu kontrolirane (uključujući i tvorničko postrojenje) koje sadrže jednu ili više kontroliranih komponenti, kad su kontrolirana komponenta ili komponente glavni element tih roba i lako ih se može ukloniti ili koristiti u druge svrhe.
+
+NAPOMENA: Pri procjeni treba li kontroliranu komponentu ili komponente smatrati glavnim elementom, potrebno je odvagnuti faktore količine, vrijednosti i upotrijebljenog tehnološkog znanja te ostale posebne okolnosti zbog kojih bi kontrolirana komponenta ili komponente mogle postati glavnim elementom nabavljene robe.
+
+3. Roba navedena u ovome Prilogu obuhvaća novu i korištenu robu.
+
+### NAPOMENA O NUKLEARNOJ TEHNOLOGIJI (NNT) — (Tumačiti zajedno s odjeljkom E Kategorije 0)
+
+»Tehnologija« izravno povezana s bilo kojom robom kontroliranom u Kategoriji 0 nadzire se u skladu s odredbama Kategorije 0.
+
+»Tehnologija« za »razvoj«, »proizvodnju« ili »uporabu« kontrolirane robe ostaje pod kontrolom čak i kad se odnosi na robu koja nije kontrolirana.
+
+Odobravanjem robe za izvoz također se odobrava i izvoz istom krajnjem korisniku minimalne »tehnologije« potrebne za postavljanje, rad, održavanje i popravak robe.
+
+Kontrola prijenosa »tehnologije« ne odnosi se na informacije »u javnom vlasništvu« ili na »temeljna znanstvena istraživanja«.
+
+### NAPOMENA O TEHNOLOGIJI OPĆENITO (NTO) — (Tumačiti zajedno s odjeljkom E Kategorija 1. do 9.)
+
+Izvoz »tehnologije« koja je »potrebna« za »razvoj«, »proizvodnju« ili »uporabu« robe pod nadzorom u Kategorijama 1 do 9, nadzire se u skladu s odredbama Kategorija 1 do 9.
+
+»Tehnologija« »potrebna« za »razvoj«, »proizvodnju« ili »uporabu« kontrolirane robe ostaje pod kontrolom čak i kad se primjenjuje na robu koja nije kontrolirana.
+
+Kontrola se ne odnosi na onu »tehnologiju« koja je minimalno potrebna za postavljanje, rad, održavanje (provjeru) i popravak one robe koja nije kontrolirana ili čiji je izvoz odobren.
+
+NAPOMENA: Ovo se ne odnosi na »tehnologiju« navedenu u 1E002.e., 1E002.f., 8E002.a. i 8E002.b.
+
+Nadzor prijenosa »tehnologije« ne odnosi se na informacije »u javnom vlasništvu«, na »temeljna znanstvena istraživanja« niti na minimum informacija potrebnih za primjenu patenata.
+
+NAPOMENA O SOFTVERU OPĆENITO (NSO)
+
+(Ova napomena odbacuje svaku kontrolu unutar odjeljka D Kategorija 0 do 9.)
+
+Kategorije 0 do 9 iz ovog popisa ne kontroliraju »softver« koji je:
+
+a. Općenito dostupan javnosti zato što:
+
+1. se prodaje iz zaliha u maloprodaji, bez ograničenja, na sljedeće načine:
+
+a. transakcijama preko prodajnog pulta;
+
+b. transakcijama putem poštanske narudžbe;
+
+c. elektroničkim transakcijama; ili
+
+d. transakcijama putem telefonske narudžbe; i
+
+2. namijenjena za ugradnju od strane korisnika bez dodatne značajnije podrške dobavljača; ili
+
+NAPOMENA: Stavka a. Napomene o softveru općenito ne odnose se na »softver« naveden u Kategoriji 5 – Dio 2 (»Informacijska sigurnost«).
+
+b. »u javnom vlasništvu«.
+
+### DEFINICIJE IZRAZA KOJI SE KORISTE U OVOM PRILOGU
+
+Definicije izraza u ‘jednostrukim navodnicima’ navedene su u Tehničkoj napomeni uz taj izraz.
+
+Definicije izraza u »dvostrukim« navodnicima su, kako slijedi:
+
+NAPOMENA: U zagradama iza definiranog izraza navedene su odgovarajuće kategorije.
+
+»Točnost« (2 6), obično mjerena kao netočnost, označava najveće odstupanje, pozitivno ili negativno, od navedene prihvaćene standardne ili stvarne vrijednosti.
+
+»Aktivni sustavi za kontrolu leta« (7) su sustavi čija je funkcija sprječavanje nedozvoljenih kretnji letjelice ili rakete ili strukturnih opterećenja, putem samostalne obrade izlaznih signala od više senzora koji potom daju preventivne komande radi automatske kontrole.
+
+»Aktivni piksel« (6 8) je najmanji (pojedinačni) element poluvodičkog niza koji ima funkciju fotoelektričnog prijenosa kad je izložen svjetlosnom (elektromagnetskom) zračenju.
+
+»Prilagođenih za ratnu uporabu« (1) označava svaku promjenu ili odabir (kao što su promjena čistoće, roka trajanja, virulentnosti, karakteristika širenja ili otpornosti na UV zračenje) kojima je cilj povećati učinkovitost u uzrokovanju ljudskih ili životinjskih žrtava, slabljenja opreme ili uništavanja usjeva ili okoliša.
+
+»Letjelica« (1 7 9) označava zračno vozilo s fiksnim krilima, krilima promjenjive geometrije, rotirajućim krilima (helikopter), zakretnim rotorom (tilt rotor) ili zakretnim krilom (tilt wing).
+
+NAPOMENA: Vidi također »civilna letjelica«.
+
+»Svim raspoloživim kompenzacijama« (2) označava da su razmotrene sve provedive mjere koje proizvođaču stoje na raspolaganju kako bi sveo na najmanju moguću mjeru sve sistematske pogreške pozicioniranja za određeni alatni stroj.
+
+»Dodijeljen od ITU« (3 5) označava dodijeljene frekvencijske pojaseve u skladu s važećim izdanjem Međunarodne unije za telekomunikacije (ITU) o radijskim propisima za primarne, dozvoljene i sekundarne usluge.
+
+NAPOMENA: Dodatna i alternativna dodjela nije uključena
+
+»Odstupanje od kutnog položaja« (2) označava najveću razliku između kutnog položaja i stvarnog, s velikom točnošću izmjerenog kutnog položaja nakon što je radni dio ploče zakrenut iz svojeg početnog položaja (poziv na: VDI/VDE 2617, Nacrt: ‘Rotirajuće ploče na uređajima za mjerenje koordinata’).
+
+»Asimetrični algoritam« (5) označava kriptografski algoritam koji koristi različite, matematičke ključeve za šifriranje i dešifriranje.
+
+NAPOMENA: Uobičajena uporaba »asimetričnih algoritama« je upravljanje ključem.
+
+»Automatsko praćenje cilja« (6) označava tehniku obrade kojom se automatski određuje i daje kao izlazni podatak ekstrapolirana vrijednost najvjerojatnijeg položaja cilja u stvarnom vremenu.
+
+»Vrijeme zadrške širenja osnovnog zapornog sklopa« (3) označava vrijednost zadrške širenja koja odgovara osnovnom zapornom sklopu koji se koristi u »monolitnom integriranom sklopu«. Za ‘porodicu’ »monolitni integrirani sklop«, ovo može biti navedeno ili kao zadrška širenja za tipični zaporni sklop unutar određene ‘porodice’ ili kao tipična zadrška širenja za zaporni sklop unutar određene ‘porodice’.
+
+NAPOMENA 1: »Vrijeme zadrške širenja osnovnog zapornog sklopa« ne smije se zamijeniti sa zadrškom ulaska/izlaza složenog »monolitnog integriranog sklopa«.
+
+NAPOMENA 2: ‘Porodica’ se sastoji od svih integriranih sklopova na koje se odnosi sve u nastavku navedeno a što je vezano na metodologiju izrade i specifikacije osim njihovih funkcija:
+
+a. zajednička arhitektura hardvera i softvera;
+
+b. zajednička projektna i procesna tehnologija; i
+
+c. zajedničke osnovne karakteristike.
+
+»Temeljna znanstvena istraživanja« (GTN NTN) znače eksperimentalni ili teoretski rad kojem je cilj prvenstveno prikupljati nova znanja o temeljnim načelima pojava ili činjenica koje se mogu promatrati a koji nije prvenstveno usmjeren prema određenoj praktičnoj primjeni ili cilju.
+
+»Bias« (akcelerometar) (7) označava prosječni izlazni podatak mjerača ubrzanja (akcelerometra) u određenom vremenu, mjeren pod određenim uvjetima rada, a koji nije povezan s izlaznim ubrzanjem ili rotacijom. »Bias« (pomak) je izražen u g ili metrima u sekundi na kvadrat (g ili m/s2). (standard IEEE 528-2001) (mikro g je jednak 1x10-6 g).
+
+»Bias« (giroskop) (7) označava prosječni izlazni podatak giroskopa u određenom vremenu, mjeren pod određenim uvjetima rada, a koji nije povezan s izlaznim ubrzanjem ili rotacijom. »Bias« (pomak) je izražen u stupnjevima po satu (stup/h) (standard IEEE 528-2001)
+
+»Aksijalno zanošenje« (2) označava aksijalni pomak pri jednom okretu radnog vretena mjereno u ravnini okomitoj na čelnu stranu vretena, u blizini oboda čelne strane vretena (poziv na: ISO 230/1 1986, stavak 5.63).
+
+»Predoblici ugljičnih vlakana« (1) znače uređen raspored neprevučenih ili prevučenih vlakana s namjerom da se uspostavi struktura udjela (jedinke) prije uvođenja »matrice« kako bi se oblikovao »kompozit«.
+
+»CE« označava isto što i »računalni element«.
+
+»CEP« (krug jednake vjerojatnosti) (7) je mjera točnosti; polumjer kruga centriran na metu, pri određenom dometu, u koji pada 50% tereta.
+
+»Kemijski laser« (6) označava »laser« u kojem se oslobođenom energijom kemijske reakcije proizvodi pobuđena vrsta.
+
+»Kemijske smjese« (1) su kruti, tekući ili plinovit proizvodi dobiveni od dvije ili više komponenti koje ne djeluju jedna na drugu pod uvjetima u kojima je smjesa uskladištena.
+
+»Kontrolni sustavi s kontroliranim kruženjem protiv zaokretnog momenta ili s kružno kontroliranim smjerom« (7) su sustavi koji koriste zrak koji struji preko aerodinamičnih površina kako bi povećali ili obuzdali sile koje stvaraju površine.
+
+»Civilnih letjelica« (1 7 9) označava one »letjelice« navedene po oznakama u objavljenim popisima potvrda o sposobnosti za let koje su objavile civilne zrakoplovne vlasti da mogu letjeti na komercijalnim civilnim domaćim i inozemnim rutama ili za zakonite civilne, privatne ili poslovne potrebe.
+
+NAPOMENA: Vidi također »letjelica«.
+
+»Izmješano« (1) označava miješanje filamenata termoplastičnih vlakana i vlakana za ojačavanje kako bi se dobila vlaknasto ojačana »matrična« mješavina u potpuno vlaknastom obliku.
+
+»Pretvaranje u prah« (1) označava postupak smanjivanja obujma materijala do čestica drobljenjem ili mljevenjem.
+
+»Signalizacija po zajedničkom kanalu« (5) je metoda signaliziranja kojom se jednim kanalom prenosi, putem označenih poruka, signalizacijska informacija koja se odnosi na više sklopova ili poziva i druge informacije koje se koriste za upravljanje mrežom.
+
+»Upravljački sklop komunikacijskog kanala« (4) označava fizičko sučelje koje nadzire protok sinkronih ili asinkronih digitalnih informacija. To je skup koji se može integrirati u računalo ili telekomunikacijsku opremu kako bi se osigurao komunikacijski pristup.
+
+»Kompozit« (1 2 6 8 9) označava »matricu« i dodatnu fazu ili dodatne faze koje se sastoje od čestica, niti, vlakana ili bilo koje njihove kombinacije, koji imaju određenu svrhu ili svrhe.
+
+»Složena teoretska performansa« (»CTP«) (3 4) mjera je računalnog rada dana u milijunima teoretskih operacija u sekundi (Mtops), računano pomoću skupa »računalni elemenat« (»CE«).
+
+NAPOMENA: Vidi Kategoriju 4, Tehnička napomena.
+
+»Složeni rotirajući stol« (2) označava ploču koja omogućava da predmet koji se obrađuje rotira i zakreće oko dviju neparalelnih osi, koje se mogu istovremeno usklađivati za »konturnu kontrolu«.
+
+»Računalni elemenat« (»CE«) (4) označava najmanju računalnu jedinicu koja daje aritmetički ili logički rezultat.
+
+»III/V spojevi« (3 6) su polikristalni ili binarni odnosno kompleksni monokristalni proizvodi, koji sadrže elemente iz skupina IIIA i VA Mendeljejevoga periodnog sustava kemijskih elemenata (galijev arsenid, galij-aluminijev arsenid, indijev fosfid).
+
+»Upravljanje po konturi« (2) označava dva ili više »numerički kontrolirana« gibanja koji djeluju u skladu s naredbama koje određuju sljedeći zahtijevan položaj i potrebne brzine dobave da se postigne navedeni položaj. Brzine dobave se razlikuju u odnosu jedna na drugu kako bi se dobila željena kontura (poziv na: ISO/DIS 2806-1980).
+
+»Kritične temperature« (1 3 6) (ponekad se odnosi na temperaturu prijenosa) određenog »supervodljivog« materijala označava temperaturu pri kojoj materijal gubi sav otpor na tok izravne električne struje.
+
+»Kriptografija« (5) označava disciplinu koja utjelovljuje načela, sredstva i metode pretvaranja podataka kako bi se sakrio njihov informacijski sadržaj, spriječilo njihovo neotkriveno mijenjanje ili spriječilo njihovo neovlašteno korištenje. »Kriptografija« je ograničena na pretvaranje informacija pomoću jednog ili više ‘tajnih parametara’ (npr., kripto varijabli) ili pridruženog upravljanja ključem.
+
+NAPOMENA: ‘Tajni parametar’: konstanta ili ključ koji se taji od drugih ili se koristi samo unutar skupine.
+
+»CTP« označava isto što i »složena teoretska performansa«.
+
+»Navigacije s referentnom bazom podataka« (»DBRN«) (7) znače sustave koji koriste različite izvore prethodno izmjerenih kartografskih podataka integriranih radi dobivanja točnog navigacijskog podatka u dinamičnim uvjetima. Izvori podataka uključuju batimetričke karte, zvjezdane karte, gravitacijske karte, magnetne karte ili trodimenzionalne digitalne terenske karte.
+
+»CW laser« (5) označava »laser« koji proizvodi nominalnu konstantnu izlaznu energiju u periodu dužem od 0,25 s.
+
+»Deformirajuća zrcala« (6) (također poznata kao adaptivna optička zrcala) označavaju zrcala koja imaju:
+
+a. Jednu kontinuiranu optičku reflektirajuću površinu koja se dinamično deformira primjenom pojedinog zakretnog momenta ili sile čime se kompenzira distorzija oblika optičkog vala koji pada na zralo; ili
+
+b. Višestruke optičke refleksirajuće elemente koje je moguće pojedinačno i dinamično prerazmjestiti primjenom zakretnih momenata ili sila čime se kompenzira distorzija oblika optičkog vala koji pada na zrcalo.
+
+»Osiromašeni uranij« (0) označava uranij koji je osiromašen izotopom 235 ispod razine u kojoj se pojavljuje u prirodi.
+
+»Razvoj« (NTO NNT All) se odnosi na sve faze prije serijske proizvodnje kao što su: projektiranje, projektno istraživanje, analize projekta, projektni koncepti, sastavljanje i ispitivanje prototipova, pokusni proizvodni planovi, podaci o projektu, postupak pretvaranja projektnih podataka u proizvod, projekt konfiguracije, projekt spajanja, nacrti.
+
+»Vezanje difuzijom« (1 2 9) označava molekularno spajanje u čvrstom stanju najmanje dva odvojena metala u jedan zajedničke čvrstoće koja je jednaka čvrstoći slabijeg materijala.
+
+»Digitalna računala« (4 5) označava opremu koja može, u obliku jedne ili više odvojenih varijabli, izvoditi sve od navedenog u nastavku:
+
+a. Prihvaćati podatke;
+
+b. Pohranjivati podatke ili naredbe u stalne ili promjenjive (ispisne) uređaje za pamćenje;
+
+c. Obrađivati podatke pomoću pohranjenog slijeda naredbi koje je moguće modificirati; i
+
+d. Osigurati izlazne podatke.
+
+NAPOMENA: Promjene pohranjenog slijeda naredbi uključuju zamjenu fiksnih uređaja za pamćenje ali ne i fizičku promjenu ožičenja ili međuspojeva.
+
+»Brzina digitalnog prijenosa« (5) označava ukupnu brzinu prijenosa bita informacije koja se izravno prenosi bilo kojom vrstom medija.
+
+NAPOMENA: Vidi također »ukupna brzina digitalnog prijenosa«.
+
+»Hidrauličko prešanje s izravnim djelovanjem« (2) označava proces deformiranja koji koristi fleksibilni spremnik ispunjen fluidom u izravnom kontaktu s radnim predmetom.
+
+»Veličina otklona« (giroskop) (7) označava komponentu giroskopskog izlaza koja je funkcionalno neovisna od ulazne rotacije. Izražava se kao kutni pomak. (IEEE STD 528-2001).
+
+»Dinamički prilagođeno usmjeravanje« (5) označava automatsko preusmjeravanje prometa koje se temelji na očitanju i analizi trenutnog stanja/uvjeta mreže.
+
+NAPOMENA: Ovo ne uključuje slučajeve odluka o usmjeravanju donešenih na temelju prethodno utvrđenih podataka.
+
+»Dinamički analizatori signala« (3) označava »analizatore signala« koji koriste tehnike digitalnog uzimanja uzoraka i transformacije kako bi oblikovali Fourierov prikaz spektra danog oblika vala uključujući amplitudne i fazne informacije.
+
+NAPOMENA: Vidi također »analizatore signala«.
+
+»Efektivna grama« (0 1) za »posebni fisibilni materijal« označava:
+
+a. Za izotope plutonija i uranija-233, težinu izotopa u gramima;
+
+b. Za uranij obogaćen za 1 posto ili više u izotopu uranija-235, težinu elementa u gramima pomnoženu s kvadratom obogaćenja izražen kao decimalni razlomak težine;
+
+c. Za uranij obogaćen manje od 1 posto u izotopu uranija-235, težinu elementa u gramima pomnoženu s 0,0001.
+
+»Elektronički sklop«, »Elektronički sklopovi« (2 3 4 5) označava skup elektronskih komponenti (npr., ‘elemenata kruga’, ‘odvojenih komponenti’, integriranih krugova, itd.) koje su zajedno povezane kako bi obavljale (a) posebnu(e) funkciju(e), koje se kao cjelinu može zamijeniti i koje se normalno može rastaviti.
+
+NAPOMENA 1: ‘Element sklopa’: jedini aktivni ili pasivni funkcionalni dio elektronskog sklopa, kao što je jedna dioda, jedan tranzistor, jedan otpornik, jedan kondenzator itd.
+
+NAPOMENA 2: ‘Zasebna komponenta’: posebno pakiran ‘element sklopa’ sa svojim vlastitim vanjskim vezama.
+
+»Elektronički upravljane fazne rešetkaste antene« (5 6) označavaju antene koje tvore zraku pomoću faznog sprega, odnosno smjer zrake se kontrolira pomoću kompleksnih koeficijenata pobude elemenata koji zrače i smjer te zrake može se mijenjati po azimutu ili elevaciji, ili oboje, primjenom električnog signala i prilikom prijenosa i prilikom prijema.
+
+»Krajnje jedinice« (2) označava hvataljke, ‘aktivne alatne jedinice’ i svaki drugi alat koji je pričvršćen na osnovnu ploču na kraju radne ruke »robota« manipulatora.
+
+NAPOMENA: ‘Aktivna alatna jedinica’ označava uređaj kojim se na predmetu koji se obrađuje primjenjuju pobudna energija, procesna energija ili očitavanje.
+
+»Ekvivalentna gustoća« (6) označava masu optike po jedinici optičke površine projicirane na optičku plohu.
+
+»Ekspertni sustavi« (7) označavaju sustave koji daju rezultate primjenom pravila na podatke koji su pohranjeni neovisno od »programa« i koji mogu bilo koje od navedenog u nastavku:
+
+a. Automatski modificirati »izvorni kod« koju uvodi korisnik;
+
+b. Osigurati znanje povezano s vrstom problema u kvazi-prirodnom jeziku; ili
+
+c. Steći znanje potrebno za njihov razvoj (simbolična obuka).
+
+»Eksplozivi« (1) označavaju čvrste, tekuće ili plinovite supstance ili mješavine supstanci koje moraju eksplodirati kada se koriste kao temeljna punjenja, pojačnici ili glavnih punjenja u bojevim glavama, prilikom rušenja i drugim aplikacijama.
+
+»FADEC« je isto što i »Full Authority Digital Engine Control – digitalno upravljanje motorom s punim ovlastima«.
+
+»Otpornost na pogrešku« je (4) sposobnost računalnog sustava da, nakon otkaza bilo koje od svojih komponenti hardvera ili »softvera«, nastavi raditi bez intervencije čovjeka na danoj razini usluge koja pruža: neprekinutost rada, cjelovitost podataka i obnovu rada u određenom vremenu.
+
+»Vlaknasti ili filamentni materijali« (0 1 2 8) uključuju:
+
+a. Neprekinute »monofilamente«;
+
+b. Neprekinute »pređe« i »prediva«;
+
+c. »Vrpce«, tkanine, nasumične rogožine i gajtane;
+
+d. Sjeckana vlakna, vlaknasta vlakna i koherentni vlaknasti prekrivači;
+
+e. Niti, monokristalne ili polikristalne, bilo koje dužine;
+
+f. Aromatsku poliamidnu kašu.
+
+»Integrirani sklop presvučen filmom« (3) označava polje ‘elemenata sklopa’ i metalnih međuspojeva koji je nastao taloženjem debelog ili tankog filma na izolacijsku »podlogu«.
+
+NAPOMENA: ‘Element sklopa’ je jedini aktivni ili pasivni funkcionalni dio elektronskog sklopa, kao što je jedna dioda, jedan tranzistor, jedan otpornik, jedan kondenzator, itd.
+
+»Nepromjenjivi« (5) označava da algoritam za šifriranje ili kompresiju ne može prihvatiti parametre koji dolaze izvana (npr. kriptografske ili varijable ključa) niti ga može promijeniti korisnik.
+
+»Optičko senzorsko polje za kontrolu leta« (7) je mreža distribuiranih optičkih senzora koji upotrebljavaju »laserske« zrake kako bi dali podatke za kontrolu leta u stvarnom vremenu za potrebe obrade na samoj platformi (ON BOARD).
+
+»Optimizacija putanje leta« (7) je postupak koji umanjuje odstupanja od četvero-dimenzionalne (prostor i vrijeme) željene putanje s ciljem maksimiziranja performansi ili učinkovitosti borbenog leta.
+
+»Žarišnoravninski detektorski nizovi« (6) označava linearni ili dvodimenzionalni ravninski niz, ili kombinaciju ravninskih nizova, individualnih detektorskih elemenata, sa ili bez elektronike za očitanje, koji rade u žarišnoj ravnini.
+
+NAPOMENA: Ovo ne treba uključivati gomilu pojedinačnih detektorskih elemenata ili bilo koja dva, tri ili četiri detektorska elementa pod uvjetom da se vremenska zadrška i integracija ne obavljaju unutar elementa.
+
+»Razlomačka širina pojasa« (3) je »trenutačna širina pojasa« podijeljenu sa središnjom frekvencijom, izraženu kao postotak.
+
+»Preskakanje frekvencije« (5) označava »širenje spektra« u kojem se frekvencija prijenosa u jednom komunikacijskom kanalu mijenja nasumičnim ili pseudo-nasumičnim slijedom diskretnih koraka.
+
+»Vrijeme promjene frekvencije« (3 5) označava maksimalno vrijeme (tj. kašnjenje), koje je potrebno signalu, prilikom prebacivanja s jedne odabrane izlazne frekvenciju na drugu odabranu izlaznu frekvenciju, da dosegne:
+
+a. Frekvenciju unutar 100 Hz od konačne frekvencije; ili
+
+b. Izlaznu razinu unutar 1 dB od konačne izlazne razine.
+
+»Sintetizator frekvencije« (3) označava bilo kakvu vrstu izvora frekvencije ili generatora signala, bez obzira na stvarno korištenu tehniku, koji daju velik broj simultanih ili alternativnih izlaznih frekvencija, iz jednog ili više izlaza, koji su upravljani, proizašli iz ili su obuzdani manjim brojem standardnih (ili glavnih) frekvencija.
+
+»Digitalno upravljanje motorom s punim ovlastima« (»FADEC«) (7 9) označava elektronski upravljački sustav za plinske turbine ili motore kombiniranog ciklusa koji koriste digitalno računalo za upravljanje varijablama potrebnim za regulaciju potiska motora ili izlazne snage na vratilu kroz cjelokupno radno područje motora od početka mjerenja dobave goriva do prekida dovoda goriva.
+
+»Taljivi« (1) znači da ih je moguće unakrsno vezati ili dalje polimerizirati (vulkanizirati) uporabom topline, zračenja, katalizatora itd. ili ga je moguće istopiti bez pirolize (pougljenja).
+
+»Plinska atomizacija« (1) označava postupak kojim se rastaljen mlaz metalne slitine razbija u kapljice promjera 500 mikrometra ili manje mlazom plina pod visokim pritiskom.
+
+»Geografska raspršenost« (6) kad je svako mjesto udaljeno od bilo kojeg drugog mjesta više od 1500 m u bilo kojem smjeru. Mobilne se senzore uvijek smatra »geografski raspršenima«.
+
+»Setovi za navođenje« (7) označava sustave koji integriraju postupak mjerenja i izračunavanja položaja i brzine vozila (tj. navigaciju) s postupkom izračunavanja i odašiljanja zapovjedi sustavima za kontrolu leta kako bi se ispravila putanja leta.
+
+»Vruća izostatska densifikacija« (2) označava postupak izlaganja odljevka povišenom tlaku pri temperaturama višim od 375 K (102 °C) u zatvorenoj komori korištenjem različitih medija (plin, tekućina, čvrste čestice itd.) radi stvaranja jednake sile u svim smjerovima i smanjivanja ili uklanjanja šupljina u odljevku.
+
+»Hibridna računala« (4) označava opremu koja može izvršiti sve od navedenog:
+
+a. Primiti podatke;
+
+b. Obrađivati podatke, u analognom i digitalnom obliku; i
+
+c. Davati izlazne podatke.
+
+»Hibridni integrirani sklop« (3) označava bilo koju kombinaciju integriranog sklopa(ova), ili integriranih sklopova sa elementima sklopa ili ‘zasebnim komponentama’ koje su zajedno povezane kako bi obavljale određenu(e) funkciju(e), i koje imaju sve od navedenih karakteristika:
+
+a. Sadrže barem jedan neučahureni uređaj;
+
+b. Povezani zajedno tipičnim IC proizvodnim metodama;
+
+c. Moguće ih je zamijeniti kao cjelinu; i
+
+d. Obično ih se ne može rastaviti.
+
+NAPOMENA 1: ‘Element sklopa’ je jedini aktivni ili pasivni funkcionalni dio elektronskog sklopa, kao što je jedna dioda, jedan tranzistor, jedan otpornik, jedan kondenzator, itd.
+
+NAPOMENA 2:‘ Zasebna komponenta’: odvojeno pakiran ‘element sklopa’ sa svojim vlastitim vanjskim vezama.
+
+»Poboljšanje slike« (4) označava obradu slika koje nose informacije dobivenih izvana, algoritmima kao što su kompresija, filtriranje, ekstrakcija, odabir, korelacija, konvolucija ili transformacija između domena (npr., brza Fourierova transformacija ili Walshova transformacija). To ne uključuje algoritme koji koriste samo linearnu ili rotacijsku transformaciju jedne slike, kao što je translacija, ekstrakcija značajki, bilježenje ili lažno bojenje.
+
+»Imunotoksin« (1) je spoj jedne stanice određenog monoklonskog antitijela i »toksina« ili »podjedinice toksina«, koji selektivno djeluje na oboljele stanice.
+
+»U javnom vlasništvu« (NTO NNT NSO), kako se ovdje primjenjuje, označava »tehnologiju« ili »softver« koja je širenjem dostupna bez ograničenja (ograničenja zbog autorskih prava ne znače da »tehnologija« ili »softver« nisu »u javnom vlasništvu«).
+
+»Informacijska sigurnost« (4 5) su sva sredstva i funkcije koje osiguravaju dostupnost, povjerljivost ili cjelovitost informacija ili komunikacija, isključujući sredstva i funkcije koji čuvaju od kvarova. To uključuje »kriptografiju«, ‘kriptoanalizu’, zaštitu od kompromitirajućeg odljeva informacija i računalnu sigurnost.
+
+NAPOMENA: ‘Kriptoanaliza’: analiza kriptosustava ili njegovih ulaznih i izlaznih podataka kako bi se dobile povjerljive varijable ili osjetljivi podaci, uključujući i otvoreni tekst.
+
+»Trenutačna širina pojasa« (3 5 7) označava širinu područja kroz koje izlazna snaga ostaje konstanta unutar 3 dB bez podešavanja ostalih radnih parametara.
+
+»Instrumentalni doseg« (6) označava specificirani nedvosmisleni prikaz dometa radara.
+
+»Izolacijski« (9) se primjenjuje na dijelove i komponente raketnih motora, tj. kućište, mlaznicu, uvodnike, obloge kućišta, i uključuje vulkanizirane ili poluvulkanizirane složene gumene ploče koje sadrže izolaciju ili vatrostalni materijal. Također se može ugraditi kao navlaka ili zaklopac za smanjenje naprezanja.
+
+»Međusobna povezanost radarskih senzora« (6) označava dva ili više radarskih senzora koji su međusobno povezani kad obostrano razmjenjuju podatke u stvarnom vremenu.
+
+»Unutarnje prevlačenje« (9) pogodno je za povezivanje između čvrstog goriva i kućišta ili izolacijske prevlake. Obično se po unutrašnjosti kućišta nanosi vatrostalni ili izolacijski materijal na bazi tekućih polimera, npr. hidroksilom terminiran polibutadiene (HTPB) punjen ugljikom ili drugi polimer uz dodatak vulkanizacijskih agenasa.
+
+»Unutarnji magnetni gradiometar« (6) je jednostruki element za gradiranje magnetnog polja i povezane elektronike čiji je izlaz mjera gradijenta magnetnog polja.
+
+NAPOMENA: Vidi također »magnetni gradiometri«.
+
+»Izolirane žive kulture« (1) uključuje žive kulture u umrtvljenom obliku i u suhim pripravcima.
+
+»Izostatske preše« (2) znače opremu koja može narinuti tlak unutar zatvorene komore uporabom različitih medija (plin, tekućina, čvrste čestice, itd.) kako bi se stvorio jednoličan tlak u svim smjerovima na predmet koji se obrađuje ili materijal.
+
+»Laser« (0, 2, 3, 5, 6, 7, 8, 9) je skup komponenti koje proizvode prostorno i vremenski koherentno svjetlo koje je pojačano stimuliranom emisijom zračenja.
+
+NAPOMENA: Vidi također:
+
+»Kemijski laser«;
+
+»Laser sa Q-sklopkom«;
+
+»Laser sa izuzetno velikom snagom«;
+
+»Prijenosni laser«.
+
+»Vozila lakša od zraka« (9) označavaju balone i zrakoplove koji za polijetanje koriste topao zrak ili neke druge plinove lakše od zraka kao što su npr. helij ili vodik.
+
+»Linearnost« (2) (obično mjerena kao nelinearnost) označava najveće odstupanje od stvarnih karakteristika (prosječna očitavanja skale gore i dolje), pozitivno ili negativno, od ravne crte tako postavljene da izjednačava i minimalizira najveća odstupanja.
+
+»Lokalna mreža« (4) je sustav za komunikaciju podataka koji ima sve od navedenih karakteristika:
+
+a. Dozvoljava proizvoljnom broju neovisnih ‘podatkovnih uređaja’ da komuniciraju izravno jedan s drugim; i
+
+b. Ograničen je na geografsko područje umjerene veličine (npr., poslovna zgrada, tvornica, kompleks zgrada, skladište).
+
+NAPOMENA: ‘Podatkovni uređaj’ označava opremu koja može prenositi ili primati nizove digitalnih informacija.
+
+»Magnetni gradiometri« (6) su instrumenti namijenjeni otkrivanju prostornih varijacija magnetnog polja izvora izvan instrumenta. Sastoje se od višestrukih »magnetometara« i povezane elektronike čiji je izlaz mjera gradijenta magnetnog polja.
+
+NAPOMENA: Vidi također »unutarnji magnetni gradiometar«.
+
+»Magnetometri« (6) su instrumenti namijenjeni otkrivanju magnetnih polja izvora izvan instrumenta. Sastoje se od jednostrukog osjetnog elementa magnetnog polja i povezane elektronike čiji je izlaz mjera magnetnog polja.
+
+»Centralna memorija« (4) označava primarnu memoriju za podatke ili instrukcije za brzi pristup središnjoj procesnoj jedinici. Sastoji se od unutarnje memorije »digitalnog računala« i svakog njegovog hijerarhijskog produžetka, kao što su dodatna memorija ili proširena memorija s neslijednim pristupom.
+
+»Materijali otporni na koroziju UF6« (0) mogu biti bakar, nehrđajući čelik, aluminij, aluminijev oksid, slitine aluminija, nikal ili slitina koja sadrži 60 težinskih postotaka ili više nikla i na UF6 otpornih fluoriniranih ugljikovodičnih polimera, što je podesno za vrstu postupka odvajanja.
+
+»Matrica« (1 2 8 9) označava temeljnu kontinuiranu fazu koja ispunjava prostor između čestica, čuperaka ili vlakana.
+
+»Mjerna nesigurnost« (2) je karakterističan parametar koji određuje u kojem rasponu oko izlazne vrijednosti se nalazi ispravna vrijednost mjerljive varijable s razinom pouzdanosti od 95%. Uključuje neispravljena sistemska odstupanja, neispravljen mrtvi hod i nasumična odstupanja (poziv na: ISO 10360-2, ili VDI/VDE 2617).
+
+»Mehaničko stvaranje slitina« (1) označava postupak stvaranja slitina koji proizlazi iz vezanja, lomljenja i ponovnog vezanja elementarnih i glavnih prahova slitine mehaničkim djelovanjem. Nemetalne čestice mogu biti uključene u slitinu dodavanjem odgovarajućih prahova.
+
+»Ekstrakcija taline« (1) označava postupak ‘brzog skrućivanja’ i izvlačenja proizvoda slitine u obliku vrpce ulaganjem kratkog segmenta rotirajućeg ohlađenog bloka u kupku rastaljene metalne slitine.
+
+NAPOMENA: ‘Brzo skrućivanje’: skrućivanje rastaljenog materijala pri brzinama hlađenja višim od 1000 K/s.
+
+»Zavrtanje taline« (1) označava postupak ‘brzog skrućivanja’ rastaljenog metalnog curka koji pada na rotirajući rashladni blok, čime se stvara lisnat, vrpčast ili štapićast proizvod.
+
+NAPOMENA: ‘Brzo skrućivanje’: skrućivanje rastaljenog materijala pri brzinama hlađenja višim od 1000 K/s.
+
+»Mikrosklopovi mikroračunala« (3) označava »monolitni integrirani sklop« ili »integrirani sklop s više čipova« koji sadrže aritmetičku logičku jedinicu (ALU) koja može izvršavati seriju općih instrukcija iz unutarnje memorije, na temelju podataka koji se nalaze u unutarnjoj memoriji.
+
+NAPOMENA: Unutarnja se memorija može povećati vanjskom memorijom.
+
+»Mikrosklopovi mikroprocesora« (3) označava »monolitni integrirani sklop« ili »integrirani sklop s više čipova« koji sadrže aritmetičku logičku jedinicu (ALU) koja može izvršavati seriju općih instrukcija iz vanjske memorije.
+
+NAPOMENA 1: »Mikrosklop mikroprocesora« obično ne sadrži integralnu memoriju dostupnu korisniku, iako memorija koja se nalazi na čipu može biti korištena za izvršavanje njezinih logičkih funkcija.
+
+NAPOMENA 2: Ovo uključuje skupove čipova koji su namijenjeni da rade zajedno kako bi osigurali funkciju »mikrosklopa mikroprocesora«.
+
+»Mikroorganizmi« (1 2) označavaju bakterije, viruse, mikoplazme, rikecije, klamidije ili gljivice, bilo prirodne, poboljšane ili modificirane, bilo u obliku izoliranih živih kultura ili kao materijal koji uključuje živi materijal koji je bio namjerno inficiran ili kontaminiran takvim kulturama.
+
+»Raketni projektili« (1 3 6 7 9) označavaju kompletne raketne sustave i sustave bespilotnih letjelica, koji mogu isporučiti najmanje 500 kg tereta u dosegu od najmanje 300 km.
+
+»Monofilament« (1) ili filament je najmanji dio vlakna, obično promjera nekoliko mikrometara.
+
+»Monolitni integrirani sklop« (3) označava kombinaciju pasivnih ili aktivnih ‘elemenata sklopa’ ili oboje koji:
+
+a. Su oblikovani postupkom difuzije, usađivanja ili taloženja u ili na jednostruki poluvodički komad materijala, takozvani ‘čip’;
+
+b. Se mogu smatrati nedjeljivo spojenima; i
+
+c. Obavljaju funkciju(e) sklopa.
+
+NAPOMENA: ‘Element sklopa’ je jedini aktivni ili pasivni funkcionalni dio elektronskog sklopa, kao što je jedna dioda, jedan tranzistor, jedan otpornik, jedan kondenzator, itd.
+
+»Monospektralni slikovni senzori« (6) mogu primati slikovne podatke u točno određenom spektralnom području.
+
+»Integrirani sklop s više čipova« (3) označava dva ili više »monolitna integrirana kruga« povezana na zajedničku »podlogu«.
+
+»Multispektralni slikovni senzori« (6) mogu istovremeno ili serijski prihvaćati podatke o slikama iz dva ili više odvojena spektralna područja. Senzori koji imaju više od dvadeset odvojenih spektralnih područja ponekad se nazivaju hiperspektralni slikovni senzori.
+
+»Prirodni uranij« (0) označava uranij koji sadrži smjese izotopa kako se pojavljuju u prirodi.
+
+»Kontrola pristupa mreži« (4) označava fizičko sučelje distribuiranoj mreži s mogućnošću uključivanja/isključivanja. Koristi zajednički medij koji radi kada je ista »brzina digitalnog prijenosa«, koristeći proizvoljnost (npr., token ili noseća frekvencija) za prijenos. Neovisno o bilo kome, on odabire pakete podataka ili skupine podataka (npr., IEEE 802) koje su mu upućene. To je sklop koji može biti integriran u računalo ili telekomunikacijsku opremu kako bi osigurao komunikacijski pristup.
+
+»Neuronsko računalo« (4) označava računalni uređaj namijenjen ili modificiran da oponaša ponašanje neurona ili skupa neurona, tj., računalni uređaj koji se razlikuje po sposobnosti svoga hardvera da modulira težine i brojeve međuspojnih veza multipliciteta računalnih komponenti koji se temelje na prethodnim podacima.
+
+»Nuklearni reaktor«, (»nuklearni reaktori«) (0) znači kompletan reaktor koji može držati pod nadzorom samoodrživu lančanu fisionu nuklearnu reakciju. »Nuklearni reaktor« uključuje sve predmete u sklopu ili izravno pričvršćene na posudu reaktora, opremu koja upravlja razinom snage u jezgri, i komponente koje obično sadrže primarno sredstvo za hlađenje jezgre reaktora, dolaze u izravan dodir s njim ili ga kontroliraju.
+
+»Numeričko upravljanje« (2) označava automatsko upravljanje procesom kojeg izvršava uređaj koji koristi numeričke podatke koji se obično uvode dok traje proces (poziv na: ISO 2382).
+
+»Objektni kod« (9) označava izvršni oblik spreme prikladnog izraza jednog ili više procesa (»izvorni kod« (jezik izvora)) kojeg je programski sustav pretvorio.
+
+»Optičko pojačanje« (5), kod optičkih komunikacija, označava tehniku pojačavanja koja uvodi pojačanje optičkih signala koje je stvorio odvojeni optički izvor, bez konverzije u električne signale, tj., koristeći poluvodička optička pojačala, luminescentna pojačala s optičkom vlaknima.
+
+»Optičko računalo« (4) označava računalo namijenjeno ili modificirano za korištenje svjetla za prikazivanje podataka i čiji se računalni logički elementi temelje na izravno spojenim optičkim uređajima.
+
+»Optički integrirani sklopovi« (3) označava »monolitni integrirani sklop« ili »hibridni integrirani sklop«, koji sadrži jedan ili više dijelova namijenjenih da funkcioniraju kao fotosenzor ili fotoemitor ili da obavljaju (jednu) optičku ili (jednu) elektro-optičku funkciju(e).
+
+»Optičko prespajanje« (5) označava usmjeravanje ili prespajanje signala u optičkom obliku bez pretvaranja u električne signale.
+
+»Ukupna gustoća struje« (3) označava ukupni broj amper-okreta zavojnice (tj., zbroj broja okreta pomnožen najjačom strujom koju prenosi svaki zavoj) podijeljen ukupnim presjekom zavojnice (koja sadrži supravodljive filamente, metalnu matricu u koju su uloženi supravodljivi filamenti, materijal koji ju obavija, sve kanale za hlađenje, itd.).
+
+»Države sudionice« (7 9) su države koje sudjeluju u Wassenaar aranžmanu
+
+»Vršna snaga« (6), označava energiju po impulsu u džulima podijeljenu s trajanjem impulsa u sekundama.
+
+»Lokalne mreže« (5) označava komunikacijski sustav podataka koji ima sve sljedeće osobine:
+
+a. Omogućava neposredno međusobno komuniciranje određenog broja neovisnih ili međusobno povezanih ‘podatkovnih uređaja’ i
+
+b. Da je ograničeno na komunikaciju u neposrednoj blizini pojedinca ili onoga koji kontrolira uređaj (npr. određeni prostor, kancelarija ili automobil).
+
+Tehnička napomena:
+
+‘Podatkovni uređaj’ je oprema koja je sposobna davati ili primati sekvence digitalnih informacija.
+
+»Personalizirana pametna kartica« (5) označava pametnu karticu ili elektronički čitljiv osobni dokument (npr. elektronska putovnica) koja sadrži mikročip programiran za određenu aplikaciju i ne može ga se reprogramirati od strane korisnika za bilo koju drugu primjenu.
+
+»Upravljanje snagom« (7) označava promjenu prenesene snage signala visinomjera tako da je primljena snaga na visini leta »letjelice« uvijek na minimumu potrebnom da se može utvrditi visina.
+
+»Pretvarači tlaka« (2) su uređaji koji pretvaraju mjerenja tlaka u električni signal.
+
+»Prethodno izdvojen« (0 1) označava primjenu bilo kojeg postupka kojem je namjera povećati koncentraciju nadziranog izotopa.
+
+»Primarna kontrola leta« (7) označava kontrolu stabilnosti ili upravljanja »letjelice« pomoću generatora sile/momenta, tj., aerodinamičnih kontrolnih površina ili vektoriranjem (usmjeravanjem) sile potiska.
+
+»Glavni element« (4), kako je primijenjeno u Kategoriji 4, je »glavni element« kad je njegova zamjenska vrijednost viša od 35% ukupne vrijednosti sustava čiji je on element. Vrijednost elementa je cijena koju je proizvođač sustava, ili integrator sustava, platio za element. Ukupna vrijednost je uobičajena međunarodna prodajna cijena neovisnim stranama u trenutku izrade ili slaganja pošiljke.
+
+»Proizvodnja« (NTO NNT All) označava sve proizvodne faze, kao što su: konstrukcija, proizvodni inženjering, izrada, integracija, sklapanje (montaža), inspekcije, ispitivanje, kontrola/osiguranje kvalitete.
+
+»Oprema za proizvodnju« (1 7 9) označava alate, predloške, naprave, šablone, matrice, kalupe, strojni pribor, naprave za učvršćivanje i poravnavanje, opremu za ispitivanje, ostale strojeve i njihove komponente, ograničeno na one koji su posebno namijenjeni ili modificirani za »razvoj« ili za jednu ili više faza »proizvodnje«.
+
+»Proizvodna postrojenja« (7 9) označavaju opremu i posebno izrađen softver integriran u instalacije za »razvoj« ili za jednu ili više faza »proizvodnje«.
+
+»Program« (2 6) označava slijed instrukcija za izvršenje procesa u obliku, ili kojeg se može pretvoriti u oblik, koji može izvršiti elektronsko računalo.
+
+»Kompresija impulsa« (6) označava kodiranje i obradu signalnog impulsa radara dugog trajanja u impuls kratkog trajanja, zadržavajući korisne značajke visoko impulsne energije.
+
+»Trajanje impulsa« (6) je trajanje impulsa »lasera« mjereno na razinama pune širine i pola intenziteta (FWHI).
+
+»Kvantna kriptografija« (5) označava skup tehnika za uspostavljanje zajedničkog ključa za »kriptografiju« mjerenjem kvantno-mehaničkih osobina nekog fizičkog sustava (uključivo s onim fizičkim osobinama koje isključivo određuje kvantna optika, kvantna teorija polja ili kvantna elektrodinamika).
+
+»Laser sa Q-sklopkom« (6) označava »laser« kod kojeg se energija pohranjuje u populacijsku inverziju ili u optički rezonator nakon čega se emitira u impulsu.
+
+»Otpornost radara na aktivno ometanje promjenom radne frekvencije« (6) označava bilo koju tehniku koja mijenja, u pseudo-proizvoljnom slijedu, frekvenciju nosivog vala impulsnog radarskog odašiljača između impulsa ili između skupina impulsa količinom koja je jednaka ili veća od širine područja impulsa.
+
+»Širenje spektra radara« (6) označava bilo koju tehniku modulacije za širenje energije koja potiče od signala s relativno uskim frekvencijskim područjem, kroz puno šire frekvencijsko područje, korištenjem nasumičnog ili pseudo-nasumičnog kodiranja.
+
+»Pojasna širina u realnom vremenu« (3) za »dinamički analizatori signala« je najšire frekvencijsko područje koje analizator može poslati na prikaz ili memoriju velikog kapaciteta bez uzrokovanja bilo kakvog prekida u analizi ulaznog podatka. Za analizatore s više od jednog kanala, za izradu izračuna će se koristiti konfiguracija kanala koji daju najširu »širinu područja u stvarnom vremenu«.
+
+»Obrada u stvarnom vremenu« (6 7) označava obradu podataka u računalnom sustavu osiguranjem potrebne razine usluge, kao funkcija raspoloživih izvora, unutar zajamčenog vremena odgovora, bez obzira na opterećenje sustava, kad je stimuliran vanjskom pobudom.
+
+»Potrebna« (NTO 1-9), kad se primjenjuje na »tehnologiju« ili »softver«, odnosi se na onaj dio »tehnologije« ili »softvera« koji je izričito odgovoran za postizanje ili širenje razina upravljanog izvođenja, karakteristika ili funkcija. Takvu »zahtijevanu« »tehnologiju« ili »softver« mogu dijeliti različite robe.
+
+»Rezolucija« (2) označava najmanji prirast mjerne veličine na mjernom uređaju; kod digitalnih instrumenata, najmanji značajan bit (poziv na: ANSI B-89.1.12).
+
+»Agensi za suzbijanje nereda« (1) su tvari koje, u očekivanim uvjetima uporabe u svrhu suzbijanja nereda, kod ljudi uzrokuju sonzorične smetnje ili nesposobnost u vrlo kratkom vremenskom periodu, a što prestaje ubrzo nakon prekida njihovom izlaganju.
+
+»Robot«, »Roboti« (2 8) označava mehanizam za manipulaciju, koji može biti s kontinuiranom putanjom ili putanjom od-točke-do-točke, može koristiti senzore, i ima sve sljedeće karakteristike:
+
+a. Multifunkcionalan je;
+
+b. Može postavljati ili orijentirati materijal, dijelove, alate ili posebne uređaje kroz promjenjive pokrete u trodimenzionalnom prostoru;
+
+c. Uključuje tri ili više servo-uređaja sa zatvorenom ili otvorenom petljom koji mogu uključivati i koračne motore; i
+
+d. Ima »programibilnost dostupnu korisniku« pomoću metode nauči/ponovi ili pomoću elektronskog računala koji može biti programibilan logički kontrolor, tj., bez mehaničke intervencije.
+
+NAPOMENA: Gornja definicija ne uključuje sljedeće uređaje:
+
+1. Mehanizme za manipulaciju kojima se može upravljati ručno ili daljinski;
+
+2. Mehanizme za manipulaciju s fiksnim sljedovima koji su automatizirani pokretni uređaji, koji rade prema mehanički utvrđenim programiranim pokretima. Program je mehanički ograničen sa zaustavnicima, kao što su klinovi ili zupci. Niz pokreta i izbor putanja nisu varijabilni ili promjenjivi mehaničkim, elektronskim ili električnim putem;
+
+3. Mehanizmi za manipulaciju u slijedu mehanički upravljani koji su automatizirani pokretni uređaji, koji rade prema mehanički utvrđenim programiranim pokretima. Program je mehanički limitiran pomoću fiksnih, ali podesivim zaustavnicima, kao što su klinovi ili zupci. Niz pokreta i izbor putanja ili kutova su varijabilni unutar utvrđenog uzorka programa. Varijacije ili modifikacije uzorka programa (npr. promjene klinova ili zamjena zubaca) u jednoj ili više osi kretanja postižu se samo mehaničkim operacijama;
+
+4. Mehanizmi za manipulaciju u slijedu koji nisu upravljani servo uređajima koji su automatizirani pokretni uređaji, koji rade prema mehanički utvrđenim programiranim pokretima. Program je varijabilan ali slijed se nastavlja samo binarnim signalom iz mehanički fiksiranog električnog binarnog uređaja ili podesivih zaustavnika;
+
+5. Dizalice za slaganje u uspravnim redovima definirane kao Kartezijanski sustav za koordinatnu manipulaciju izrađen kao sastavni dio vertikalnog skladištenja posuda i namijenjen za pristup sadržajima koji se nalaze u posudama kako bi ih se skladištilo ili uzimalo.
+
+»Rotaciona atomizacija« (1) označava postupak kojim se centrifugalnom silom usitnjava tok ili količina rastaljenog metala na kapljice promjera 500 mikrometara ili manje.
+
+»Snop« (1) je skup (obično 12-120) približno paralelnih ‘niti’.
+
+NAPOMENA: ‘Nit’ je skup »monofilamenata« (obično preko 200) raspoređenih približno paralelno.
+
+»Radijalno zanošenje« (2) (out-of-true running) označava radijalni pomak pri jednom okretu ranog vretena mjereno u ravnini okomito na os vretena u točki izvan ili unutar površine koja se okreće i koju se ispituje (poziv na: ISO 230/1 1986, točka 5.61).
+
+»Skalirajući faktor« (giroskop ili akcelerometar) (7) označava odnos promjene izlaza prema promjeni ulaza koji treba mjeriti. Faktor skale se općenito procjenjuje kao nagib ravne linije koju se može postaviti metodom najmanjih kvadrata za ulaz-izlaz podataka dobivenih cikličkim variranjem kroz cijelo područje ulaza.
+
+»Vrijeme smirivanja« (3) označava vrijeme potrebno da izlazna vrijednost dođe u područje unutar jedne polovice bita konačne vrijednosti prilikom prespajanja između bilo koje dvije razine pretvarača.
+
+»SHPL« je akronim za »laser izuzetno velike snage«. (super high power laser)
+
+»Analizatori signala« (3) označava uređaje koji mogu mjeriti i iskazivati temeljna svojstva jednofrekventnih komponenti višefrekventnih signala.
+
+»Obrada signala« (3 4 5 6) označava obradu izvana dobivenih signala koji nose informacije algoritmima kao što su kompresija, filtriranje, ekstrakcija, selekcija, korelacija, konvolucija ili transformacija između dviju domena (npr. brza Fourierova transformacija ili Walshova transformacija).
+
+»Softver« (NSO All) označava skup jednog ili više »programa« ili ‘mikroprograma’ fiksiranih u bilo kojem stvarnom mediju izražavanja.
+
+NAPOMENA: ‘Mikroprogram’ označava slijed elementarnih instrukcija, održavanih u posebnoj memoriji, čije se izvršenje započinje uvođenjem referentnih instrukcija u registar instrukcija.
+
+»Izvorni kod« (ili izvorni jezik) (4 6 7 9) je prikladan izraz za jedan ili više procesa koji se pomoću sustava programiranja mogu pretvoriti u izvršni oblik opreme (»objektni kod« (ili objektni jezik)).
+
+»Svemirska letjelica« (7 9) označava aktivne i pasivne satelite i svemirske sonde.
+
+»Prikladni za uporabu u svemiru« (3 6) odnosi se na proizvode namijenjene, izrađene i ispitane na način da udovoljavaju posebnim električnim, mehaničkim i zahtjevima okoline za korištenje pri lansiranju i postavljanju satelita u orbitu ili sustava za let na velikim visinama (100 km ili većim).
+
+»Posebni fisibilni materijal« (0) označava plutonij-239, uranij-233, »uranij obogaćen izotopima 235 ili 233«, i bilo koji drugi materijal koji sadrži navedeno.
+
+»Specifični modul« (0 1 9) je Youngov modul u paskalima, jednak N/m² podijeljeno specifičnom težinom u N/m³, mjereno pri temperaturi od (296 ± 2) K ((23 ± 2) °C) i relativnoj vlažnosti od (50 ± 5)%.
+
+»Specifična vlačna čvrstoća« (0 1 9) je granična vlačna čvrstoća u paskalima, jednaka N/m² podijeljeno specifičnom težinom u N/m³, mjereno pri temperaturi od (296 ± 2) K ((23 ± 2) °C) i relativnoj vlažnosti od (50 ± 5)%.
+
+»Kaljenje pljuskanjem« (1) označava postupak za ‘brzo stvrdnjavanje’ toka rastaljenog metala koji udara o rashlađeni blok, tvoreći plosnat proizvod.
+
+NAPOMENA: ‘Brzo stvrdnjavanje’ stvrdnjavanje rastaljenog materijala hlađenjem brzinom većom od 1000 K/s.
+
+»Širenje spektra« (5) označava tehniku kojom se energija u relativno uskom pojasu komunikacijskog kanala širi kroz puno širi spektar energije.
+
+»Širenje spektra« radar (6) – vidi »širenje spektra radara«.
+
+»Stabilnost« (7) označava standardnu devijaciju (1 sigma) varijacije određenog parametra od njegove kalibrirane vrijednosti u stabilnim temperaturnim uvjetima. To se može izraziti i kao funkcija vremena.
+
+»Države koje jesu potpisnice Konvencije o kemijskom oružju« (1) su države kod kojih je (nije) Konvencija o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja stupila na snagu (vidi www.opcw.org).
+
+»Podloge« (3) ploče temeljnog materijala sa ili bez uzorka za međusobno spajanje i na koje ili unutar kojih se mogu smjestiti ‘zasebne komponente’ ili integrirani krugovi ili oboje.
+
+NAPOMENA 1: ‘Zasebna komponenta’: je zasebno pakiran ‘element kruga’ sa svojim vlastitim vanjskim vezama.
+
+NAPOMENA 2: ‘Element kruga’ je jedini aktivni ili pasivni funkcionalni dio elektronskog kruga, kao što je jedna dioda, jedan tranzistor, jedan otpornik, jedan kondenzator, itd.
+
+»Supstratne praznine« (6) označavaju monolitne smjese dimenzija pogodnih za proizvodnju optičkih elemenata kao što su zrcala ili optički prozori.
+
+»Podjedinice toksina« (1) su strukturno i funkcionalno zasebne komponente cijelog »toksina«.
+
+»Superslitine« (2 9) označava slitine na bazi nikla, kobalta ili željeza čija je čvrstoća bolja od čvrstoće bilo koje slitine u AISI seriji 300 pri temperaturama iznad 922 K (649 °C) u teškim okolišnim i radnim uvjetima.
+
+»Supravodljiv« (1 3 6 8) označava materijale, odnosno, metale, slitine ili spojeve koji mogu izgubiti sav električni otpor, odnosno, koji mogu poprimiti beskonačnu električnu provodljivost i prenositi vrlo jake električne struje bez Joule-ovog zagrijavanja.
+
+NAPOMENA: Stanje »supravodljiv« materijal individualno je karakterizirano »kritičnom temperaturom«, kritičnim magnetnim poljem, koje ima funkciju temperature, i kritičnom gustoćom struje koja je, ipak, funkcija i magnetnog polja i temperature.
+
+»Laser izuzetno velike snage« (»SHPL«) (6) označava »laser« koji može isporučiti (ukupno ili bilo koji dio) izlazne energije više od 1 kJ unutar 50 ms ili imati prosječnu ili CW snagu veću od 20 kW.
+
+»Superplastično oblikovanje« (1 2) označava postupak deformiranja metala upotrebom topline koje obično karakteriziraju niske vrijednosti produljenja (manje od 20%) u točki kidanja kako je utvrđeno na sobnoj temperaturi konvencionalnim ispitivanjem vlačne čvrstoće, kako bi se tijekom postupka postiglo produljenje za najmanje dva puta.
+
+»Simetrični algoritam« (5) označava kriptografski algoritam koji koristi identičan ključ i za šifriranje i za dešifriranje.
+
+NAPOMENA: Uobičajena uporaba »simetričnih algoritama« je povjerljivost podataka.
+
+»Sustavne trake« (6) označava obrađen, uspoređen (fuzija ciljanih podataka radara na planirani položaj leta) i ažuriran izvještaj o poziciji letjelice dostupan kontrolorima leta u Kontroli zračnog prometa.
+
+»Sistolično matrično računalo« (4) označava računalo gdje tok i modifikacija podataka može biti dinamički kontrolirana na razini logičkih vrata od strane korisnika.
+
+»Vrpce« (1) su materijali izrađeni od isprepletenih ili jednosmjernih »monofilamenata«, niti, »prediva«, »pređa«, ili »tkanja«, itd., obično predimpregniran smolom.
+
+NAPOMENA: ‘Nit’ je skup »monofilamenata« (obično preko 200) raspoređenih približno paralelno.
+
+»Tehnologija« (NTO NNT All) označava specifične informacije potrebne za »razvoj«, »proizvodnju« ili »uporabu« robe. Ovaj podatak je dat u obliku ‘tehničkih podataka’ ili ‘tehničke pomoći’.
+
+NAPOMENA 1: ‘Tehnička pomoć’ može biti u oblicima kao što su upute, vještine, obuka, radno znanje i savjetodavne usluge i može uključivati i prijenos ‘ tehničkih podataka’.
+
+NAPOMENA 2: ‘Tehnički podaci’ mogu biti u oblicima kao što su nacrti, planovi, dijagrami, modeli, formule, tablice, inženjerski nacrti i specifikacije, priručnici i upute napisani ili snimljeni na drugim medijima ili uređajima kao što su disk, vrpca, memorije samo za čitanje.
+
+»Njihajuće vratilo« (ili osovina) (2) označava vratilo (ili osovinu) za držanje alata koje mijenja, tijekom postupka strojne obrade, kutni položaj svoje središnje linije u odnosu na bilo koju drugu os.
+
+»Vremenska konstanta« (6) je vrijeme uzeto od trenutka primjene svjetlosnog stimulansa za povećanje struje kako bi dosegla vrijednost od 1 – 1/e puta konačna vrijednost (tj., 63% od konačne vrijednosti).
+
+»Potpuna kontrola leta« (7) označava automatsku kontrolu varijabli stanja »letjelice« i putanji leta kako bi se ispunilo ciljeve misije odgovaranjem na promjene podataka u stvarnom vremenu koje se odnose na ciljeve, opasnosti i druge »letjelice«.
+
+»Ukupna brzina digitalnog prijenosa« (5) označava broj bitova, uključujući linijsko kodiranje, preopterećenje i slično u jedinici vremena koja je protekla između opreme koja međusobno komunicira u sustavu digitalnog prijenosa.
+
+NAPOMENA: Vidi također » brzina digitalnog prijenosa«.
+
+»Predivo« (1) je snop »monofilamenata«, koji su obično približno paralelni.
+
+»Toksini« (1 2) označavaju toksine u obliku namjerno izoliranih pripravaka ili mješavina, bez obzira kako su proizvedeni, osim toksina koji su prisutni kao kontaminati drugih materijala kao što su patološki uzorci, usjevi, hrana ili sjeme »mikroorganizmi«.
+
+»Prijenosni laser« (6) označava »laser« u kojem se laserska vrsta pobuđuje prijenosom energije kolizijom nelaserskog atoma ili molekule s lasernim atomom ili molekulom vrste.
+
+»Podesiv« (6) označava sposobnost »lasera« da proizvede neprekinuti izlaz na svim valnim duljinama kroz raspon od nekoliko »laserskih« prijelaza. Linijski selektirajući »laser« proizvodi odvojene valne duljine unutar jednog prijelaza »lasera« i ne smatra ga se »podesivim«.
+
+»Bespilotne letjelice« (»UAVs«) (9) označava bilo kakvu letjelicu koja može poletjeti i održati kontrolu leta i navigacije bez bilo kakve ljudske prisutnosti u njoj.
+
+»Uranij obogaćen izotopima 235 ili 233« (0) označava uranij koji sadrži izotope 235 ili 233, ili oba, u količini takvoj da je omjer viška zbroja tih izotopa prema izotopu 238 veći od omjera izotopa 235 prema izotopu 238 koji se pojavljuje u prirodi (izotopski odnos 0,71 posto).
+
+»Uporabu« (NTO NNT All) označava uporabu, ugradnju (uključujući montažu na gradilištu), održavanje (provjeru), popravak, remont i obnavljanje.
+
+»Mogućnost korisničkog programiranja« (4 5 6) označava mogućnost da korisnik umeće, modificira ili zamjenjuje »program« na način koji nije:
+
+a. Fizička promjena ožičenja ili međusobnih spojeva; ili
+
+b. Podešavanje upravljačkih funkcija uključujući unošenje parametara.
+
+»Cjepivo« (1) je imunološki lijek koji je namijenjen stimuliranju zaštitnog imunološkog odgovora kod ljudi i životinja kako bi se spriječila bolest kod onih na koje se primjenjuje. Cjepivo mora imati valjanu dozvolu za stavljanje u promet ili dozvolu za provođenje kliničkog ispitivanja od regulatornih tijela zemlje koja ga je proizvela i/ili one koja ga koristi.
+
+»Vakuumska atomizacija« (1) označava postupak raspršivanja toka rastaljenog metala u kapljice promjera 500 mikrometara ili manje brzom evolucijom rastopljenog plina po izlaganju vakuumu.
+
+»Aeroprofili promjenljive geometrije« (7) označavaju uporabu zakrilaca ili timera na izlaznom rubu krila ili slotove na napadnom rubu krila ili oborivi prednji rub krila, čijim se položajem može upravljati tijekom leta.
+
+»Pređa« (1) je snop zasukanih ‘pramena’.
+
+NAPOMENA: ‘Pramen’ je snop »monofilamenata« (obično više od 200) uređenih približno paralelno.
+
+### AKRONIMI I KRATICE UPORABLJENI U OVOME PRILOGU
+
+### Akronim ili kratica, kad se koristi kao definirani izraz, nalazi se u ‘Definicijama izraza koji se koriste u ovome Prilogu’.
+
+| Akronim ili kratica | U izvorniku | Značenje |
+|---|---|---|
+| ABEC | Annular Bearing Engineers Committee | Odbor inženjera prstenastih ležajeva |
+| AGMA | American Gear Manufacturers’ Association | Američko udruženje proizvođača prijenosnih mehanizama |
+| AHRS | attitude and heading reference systems | Referentni sustav za pozicioniranje i smjer |
+| AISI | American Iron and Steel Institute | Američki institut za željezo i čelik |
+| ALU | arithmetic logic unit | aritmetička logička jedinica |
+| ANSI | American National Standards Institute | Američki institut za nacionalne standarde |
+| ASTM | the American Society for Testing and Materials | Američko društvo za ispitivanje i materijale |
+| ATC | air traffic control | kontrola zračnog prometa |
+| AVLIS | atomic vapour laser isotope separation | odvajanje izotopa laserom iz atomskih para |
+| CAD | computer-aided-design | projektiranje pomoću računala |
+| CAS | Chemical Abstracts Service | Referentna arhiva za kemiju i primijenjenu kemiju |
+| CCITT | International Telegraph and Telephone Consultative Committee | Međunarodni savjetodavni odbor za telegrafiju i telefoniju |
+| CDU | control and display unit | jedinica za upravljanje i prikaz |
+| CEP | circular error probable | vjerojatnost kružne pogreške |
+| CNTD | controlled nucleation thermal deposition | termalno nanošenje kontroliranom nukleacijom |
+| CRISLA | chemical reaction by isotope selective laser activation | kemijska reakcija selektivnim odvajanjem izotopa laserom |
+| CVD | chemical vapour deposition | taloženje para kemikalija |
+| CW | chemical warfare | kemijsko ratovanje |
+| CW (za lasere) | continuous wave | kontinuirani val |
+| DME | distance measuring equipment | oprema za mjerenje udaljenosti |
+| DS | directionally solidified | usmjereno ukrućen |
+| EB-PVD | electron beam physical vapour deposition | taloženje fizičkih para elektronskog snopa |
+| EBU | European Broadcasting Union | Europska unija za radiodifuziju |
+| ECM | electro-chemical machinig | elektro-kemijska strojna obrada |
+| ECR | electron cyclotron resonance | ciklotronska rezonanca elektrona |
+| EDM | electrical discharge machines | strojevi na električno pražnjenje |
+| EEPROMS | electrically arasable programmable read only memory | elektro programirljiva stalna memorija koju se može izbrisati |
+| EIA | Electronic Industries Association | Udruženje elektroničkih industrija |
+| EMC | electromagnetic compatibility | elektromagnetska kompatibilnost |
+| ETSI | European Telecommunications Standards Institute | Europski institut za telekomunikacijske standarde |
+| FFT | Fast Fourier Transform | brza Fourierova transformacija |
+| GLONASS | global navigation satellite system | globalni satelitski sustav za navigaciju |
+| GPS | global positioning system | globalni sustav za pozicioniranje |
+| HBT | hetero-bipolar transistors | hetero-bipolarni tranzistori |
+| HDDR | high density digital recording | digitalno snimanje visoke gustoće |
+| HEMT | high electron mobility transistors | tranzistori s visokom pokretljivošću elektrona |
+| ICAO | International Civil Aviation Organisation | Međunarodna organizacija za civilno zrakoplovstvo |
+| IEC | International Electro-technical Commission | Međunarodni odbor za elektro-tehnička pitanja |
+| IEEE | Institute of Electrical and Electronic Engineers | Institut elektro i elektroničkih inženjera |
+| IFOV | instantaneous-field-of-view | trenutačno pregledno polje |
+| ILS | instrument landing system | sustav za spuštanje s instrumentima |
+| IRIG | inter-range instrumentation group | instrumentacijska skupina za signale različita dometa |
+| ISA | international standard atmosphere | Međunarodna standardna atmosfera |
+| ISAR | inverse syntetic aperture radar | radar inverznog sintetičkog otvora |
+| ISO | International Organization for Standardization | Međunarodna organizacija za standardizaciju |
+| ITU | International Telecommunication Union | Međunarodna unija za telekomunikacije |
+| JIS | Japanese Industrial Standard | Japanski industrijski standardi |
+| JT | Joule-Thomson | Joule-Thomson |
+| LIDAR | light detection and ranging | detekcija svjetlosti i patroliranje |
+| LRU | line replaceable unit | neispravna zamjenjiva jedinica |
+| MAC | message authentication code | šifra za utvrđivanje vjerodostojnosti poruke |
+| Mach | ratio of speed of an object to speed of sound (after Ernst Mach) | odnos brzine objekta prema brzini zvuka (prema Ernstu Machu) |
+| MLIS | molecular laser isotopic separation | odvajanje izotopa molekularnim laserom |
+| MLS | microwave landing systems | mikrovalni sustavi za slijetanje |
+| MOCVD | metal organic chemical vapour deposition | taloženje para metalo-organskih kemikalija |
+| MRI | magnetic resonance imaging | slike magnetske rezonance |
+| MTBF | mean-time-between-failures | srednje vrijeme između kvarova |
+| Mtops | milliontheoretical operations per second | milijun teoretskih operacija u sekundi |
+| MTTF | mean-time-to-failure | srednje vrijeme do kvara |
+| NBC | Nuclear, Biological and Chemical | nuklearni, biološki i kemijski |
+| NDT | non-destructive test | nedestruktivno ispitivanje |
+| PAR | precision approach radar | radar za precizno približavanje |
+| PIN | personal identification number | osobni identifikacioni broj |
+| ppm | parts per million | dijelova na milijun |
+| PSD | power spectral density | snaga gustoće spektra |
+| QAM | quadrature-amplitude-modulation | kvadraturno-amplitudna modulacija |
+| RF | radio frequency | radijska frekvencija |
+| SACMA | Suppliers of Advanced Composite Materials Association | Udruženje dobavljača složenih kompozitnih materijala |
+| SAR | syntetic aperture radar | radar sintetičkog otvora |
+| SC | single crystal | jednostruki kristal |
+| SLAR | sidelooking airborne radar | radar nošen na boku letjelice |
+| SMPTE | Society of Motion Picture and Television Engineers | Udruženje filmskih i televizijskih inženjera |
+| SRA | shop replaceable assembly | sklop zamjenjiv u radionici |
+| SRAM | static random access memory | statička memorija s izravnim pristupom |
+| SRM | SACMA Recommended Methods | metode po preporuci SACMA-e |
+| SSB | single sideband | jednobočni pojas |
+| SSR | secondary surveillance radar | sekundarni nadzorni radar |
+| TCSEC | trusted computer systemavaluation criteria | kriterij za ocjenjivanje pouzdanog računalnog sustava |
+| TIR | total indicated reading | ukupno navedeno očitanje |
+| UV | ultraviolet | ultraljubičasto |
+| UTS | ultimate tensile strenght | krajnja čvrstoća na vlak |
+| VOR | very high frequency omni-directional range | domet visoke frekvencije u svim smjerovima |
+| YAG | yttrium/aluminium garnet | itrijev-aluminijev granat |
+
+#### KATEGORIJA 0 — NUKLEARNI MATERIJALI, POSTROJENJA I OPREMA
+
+| 0A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+0A001 »Nuklearni reaktori« i posebno projektirana ili pripremljena oprema i komponente za njih, kako slijedi:
+
+a. »Nuklearni reaktori«;
+
+b. Metalne posude ili njezini radionički izrađeni glavni dijelovi, uključujući glavu reaktorske tlačne posude, posebno projektirani ili pripremljeni za smještanje jezgre »nuklearnog reaktora«;
+
+c. Manipulativna oprema posebno projektirana ili pripremljena za umetanje ili uklanjanje goriva u »nuklearnom reaktoru«;
+
+d. Kontrolne šipke posebno projektirane ili pripremljene za nadziranje procesa fisije u »nuklearnom reaktoru«, konstrukcije za njihovu potporu ili ovjes, pogonski mehanizmi šipki ili cijevi za vođenje šipki;
+
+e. Tlačne cijevi posebno projektirane ili pripremljene da sadrže gorive elemente i primarno rashladno sredstvo u »nuklearnom reaktoru« pri radnom pritisku višem od 5,1 MPa;
+
+f. Cirkonij metal i slitine u obliku cijevi ili sklopa cijevi u kojima je odnos hafnija prema cirkoniju manji od 1:500 težinskog udjela, posebno projektirani ili pripremljenih za uporabu u »nuklearnom reaktoru«;
+
+g. Pumpe za rashladno sredstvo posebno namijenjene ili pripremljene za protok primarnog sredstva za hlađenje »nuklearnih reaktora«;
+
+h. ‘Unutrašnji dijelovi nuklearnog reaktora’ posebno projektirani ili pripremljeni za uporabu u »nuklearnom reaktoru«, uključujući potporne stupove za jezgru, kanale za gorivo, toplinske štitove, skretne ploče, rešetkaste podupirače jezgre i ploče difuzora;
+
+Napomena: U 0A001.h. ‘unutrašnji dijelovi nuklearnog reaktora’ označava svaku veću konstrukciju u posudi reaktora koja ima jednu ili više funkcija kao što je potpora za jezgru, održavanje centriranosti goriva, usmjeravanje protoka primarnog sredstva za hlađenje, osiguravanje zaštite od radioaktivnog zračenja i upravljanje instrumentacije u jezgri.
+
+i. Izmjenjivači topline (generatori pare) posebno projektirani ili pripremljeni za kruženje primarnog sredstva za hlađenje »nuklearnog reaktora«;
+
+j. Instrumenti za otkrivanje i mjerenje neutrona posebno projektirani ili pripremljeni za utvrđivanje razine neutronskog toka unutar jezgre »nuklearnog reaktora«.
+
+| 0B | Oprema za ispitivanje, pregled i proizvodnju |  |
+|---|---|---|
+
+0B001 Postrojenje za odvajanje izotopa »prirodnog uranija«, »osiromašenog uranija« i »posebnih fisibilnih materijala«, i za njega posebno namijenjena ili pripremljena oprema i komponente, kako slijedi:
+
+a. Postrojenje posebno namijenjeno za odvajanje izotopa »prirodnog uranija«, »osiromašenog uranija« i »posebnog fisibilnog materijala«, kako slijedi:
+
+1. Postrojenje za odvajanje plinskim centrifugama.
+
+2. Postrojenje za odvajanje plinskom difuzijom;
+
+3. Postrojenje za aerodinamično odvajanje;
+
+4. Postrojenje za odvajanje kemijske izmjene;
+
+5. Postrojenje za odvajanje ionske izmjene;
+
+6. Postrojenje za odvajanje izotopa »laserom« iz atomskih para (AVLIS);
+
+7. Postrojenje za odvajanje izotopa molekularnim »laserom« (MLIS);
+
+8. Postrojenje za odvajanje plazmom;
+
+9. Postrojenje za elektromagnetsko odvajanje;
+
+b. Plinske centrifuge, sklopovi i komponente, posebno projektirani ili pripremljeni za postupak odvajanja plinskim centrifugama, kako slijedi: postupak za centrifugalno odvajanje plina:
+
+Napomena: U 0B001.b. ‘materijal visokog omjera čvrstoće i gustoće’ označava bilo koje od navedenog u nastavku:
+
+a. Legirani čelik koji ima maksimalnu vlačnu čvrstoću od 2050 MPa ili više;
+
+b. Slitine aluminija maksimalne vlačne čvrstoće od 460 MPa ili više; ili
+
+c. »Vlaknasti ili filamentni materijali« sa »specifičnim modulom« od više od 3,18 × 106 m i »određene vlačne čvrstoće« veće od 76,2 × 103 m;
+
+1. Plinske centrifuge;
+
+2. Cjelokupni sklopovi rotora;
+
+3. Cilindri cijevi rotora debljine stjenke od 12 mm ili manje, promjera od 75 mm do 400 mm, izrađeni od ‘materijala visokog omjera čvrstoće i gustoće’,
+
+4. Prsteni ili opruge u obliku mijeha debljine stjenke od 3 mm ili manje i promjera od 75 mm do 400 mm i koji su projektirani kao potpora cijevi rotora ili za njihovo spajanje, izrađeni od ‘materijala visokog omjera čvrstoće i gustoće’;
+
+5. Skretne pregrade promjera od 75 mm do 400 mm koje se postavljaju unutar cijevi rotora, izrađene od ‘materijala visokog omjera čvrstoće i gustoće’.
+
+6. Poklopci na vrhu ili dnu promjera od 75 mm do 400 mm koji se postavljaju na krajeve cijevi rotora, izrađeni od ‘materijala visokog omjera čvrstoće i gustoće’;
+
+7. Ležajevi s ovješenim magnetom koji se sastoje od prstenastog magneta ovješenog unutar kućišta i izrađenog od ili kojeg štite »materijali otporni na koroziju UF6« koji sadrže medij za prigušivanje i imaju magnetnu spojnicu s motkom ili drugim magnetom pričvršćenim na poklopac na vrhu rotora;
+
+8. Posebno pripremljeni ležajevi koji se sastoje od manžete okretnog sklopa postavljene na prigušivač;
+
+9. Molekularne pumpe koje se sastoje od cilindara kojima su iznutra strojno obrađeni ili izdubljeni spiralni utori i iznutra strojno obrađeni provrti;
+
+10. Prstenasti statori motora za motore višefazne histereze (ili otpora) izmjenične struje za sinkronizirani rad u vakuumu u rasponu frekvencije od 600 do 2000 Hz i područja snage od 50 do 1000 Volt-Ampera;
+
+11. Kućište centrifuge/prihvatna posuda u kojem se nalazi cijevni sklop rotora plinske centrifuge, a sastoji se od krutog cilindra debljine stijenki do 30 mm i precizno strojno obrađenim krajevima koji je izrađen od ili kojeg štite »materijali otporni na koroziju UF6«;
+
+12. Lopatice koje se sastoje od cijevi unutarnjeg promjera do 12 mm za izvlačenje plina UF6 iz cijevi rotora centrifuge pomoću Pitotove cijevi, izrađen od ili kojeg štite »materijali otporni na koroziju UF6«;
+
+13. Pretvarači frekvencije (konverter ili inverter) posebno projektirani ili pripremljeni za snabdijevanje statora motora za obogaćivanje u plinskoj centrifugi, koji imaju sve od navedenih karakteristika, i za to posebno projektirane komponente:
+
+a. Višefazni izlaz od 600 do 2000 Hz;
+
+b. Regulacija frekvencije bolja od 0,1%;
+
+c. Nelinearno izobličenje od manje od 2%; i
+
+d. Učinkovitost veća od 80%;
+
+14. Posebni regulacijski ventili, čii su sastavni dio »materijali otporni na koroziju po UF6« ili s njima zaštičeni, promjera od 10 do 160 mm;
+
+c. Oprema i komponente, posebno projektirani ili pripremljeni za postupak odvajanjan plinskom difuzijom, kako slijedi:
+
+1. Barijere kod plinske difuzije čiji su sastavni dio porozni metalni, polimerni ili keramički »materijali otporni na koroziju UF6« veličine pora od 10 do 100 nm, debljine od 5 mm ili manje, i, za cijevne oblike, promjera od 25 mm ili manje;
+
+2. Kućište plinskog difuzora izrađeno je od ili ga štite »materijali otporni na koroziju UF6«;
+
+3. Kompresori (pozitivan pomak, centrifugalnog ili aksijalnog protočnog tipa) ili puhala plina s kapacitetom usisnog volumena od 1 m³/min ili više UF6, i ispusnim tlakom do 666,7 kPa, izrađeni od ili koje štite »materijali otporni na koroziju UF6«;
+
+4. Brtve rotacijske osovine za kompresore ili puhala navedene u 0B001.c.3. i projektirane za brzinu prigušenog curenja plina od manje od 1000 cm³/min.;
+
+5. Izmjenjivači topline izrađeni od aluminija, bakra, nikla ili slitina koje sadrže više od 60 posto nikla, ili kombinacije tih metala kao obložene cijevi, projektirane za rad pri pod-atmosferskim tlakom s brzinom protoka koja ograničava porast tlaka na manje od 10 Pa na sat pod razlikom tlaka od 100 kPa;
+
+6. Ventili s mijehom izrađeni od ili koje štite »materijali otporni na koroziju UF6«, promjera od 40 mm do 1500 mm;
+
+d. Oprema i komponente posebno projektirani ili pripremljeni za postupak aerodinamičnog odvajanja, kako slijedi:
+
+1. Mlaznice odvajanja koje se sastoje od razrezanih zakrivljenih kanala čiji je polumjer zakrivljenosti manji od 1 mm, otporne na koroziju UF6, i koje u mlaznici imaju oštricu koja razdvaja plin koji teče kroz mlaznicu u dvije struje;
+
+2. Cilindrične ili konične cijevi s protokom pokretanim tangencijalnim ulazom, izrađene od ili koje štite »materijali otporni na koroziju UF6« promjera između 0,5 cm i 4 cm i odnosa dužine i promjera od 20:1 ili manjeg i sa jednim ili više tangencijalnim ulazom;
+
+3. Kompresori (pozitivan pomak, centrifugalnog ili aksijalnog protočnog tipa) ili puhala plina s kapacitetom usisnog volumena od 2 m³/min ili više, izrađeni od ili koje štite »materijali otporni na koroziju UF6«, i njihove brtve rotacijske osovine;
+
+4. Izmjenjivači topline izrađeni od ili koje štite »materijali otporni na koroziju UF6«;
+
+5. Kućište elementa za aerodinamičko odvajanje, izrađeno od ili koje štite »materijali otporni na koroziju UF6« koje sadrži vrtložne cijevi ili mlaznice razdvajanja;
+
+6. Ventili s mijehom izrađeni od ili koje štite »materijali otporni na koroziju UF6«, promjera od 40 do 1500 mm;
+
+7. Procesni sustavi za odvajanje UF6 od nosećeg plina (vodik ili helij) na količinu UF6 od 1 ppm ili manje, uključujući:
+
+a. Kriogenske izmjenjivače topline i kriogenske separatore koji mogu postići temperature od 153 K (- 120 °C) ili manje;
+
+b. Kriogenske jedinice za hlađenje koje mogu postići temperature od 153 K (- 120 °C) ili manje;
+
+c. Mlaznice razdvajanja ili jedinice vrtložnih cijevi za odvajanje UF6 od nosećeg plina;
+
+d. UF6 hladni odvajači koji mogu postići temperature od 253 K (- 20 °C) ili manje;
+
+e. Oprema i komponente posebno projektirani ili pripremljeni za postupak odvajanja kemijskom izmjenom, kako slijedi:
+
+1. Pulsirajuće kolone za brzu izmjenu tekućine tekućinom sa kaskadnim vremenom zadržavanja od 30 sekundi ili manje i otporne na koncentriranu solnu kiselinu (npr. izrađene ili zaštićene odgovarajućim plastičnim materijalima kao što su flurougljični polimeri ili staklo);
+
+2. Centrifugalni sklopnici za brzu izmjenu tekućine sa kaskadnim vremenom stajanja od 30 sekundi ili manje i otporne na koncentriranu solnu kiselinu (npr. izrađene ili zaštićene odgovarajućim plastičnim materijalima kao što su flurougljični polimeri ili staklom);
+
+3. Ćelije za elektrokemijsku redukciju otporne na otopine koncentrirane solne kiseline, za redukciju uranija iz jednog stanja valentnosti u drugo;
+
+4. Oprema za napajanje ćelija za elektrokemijsku redukciju izdvajanja U+4 iz organskog strujanja i koja je, za one dijelove koji su u kontaktu s procesnom strujom, izrađena od ili zaštićena odgovarajućim materijalima (npr. staklom, fluorougljičnim polimerima, polifenil sulfatom, polietersulfonom i grafitom impregniranim smolom);
+
+5. Sustavi za pripremu napajanja kod proizvodnje otopine uranij klorida visoke čistoće koji se sastoje od opreme za otapanje, ekstrakciju otapala i/ili izmjenu iona za čišćenje i elektrolitskih ćelija za smanjenje uranija U+6 ili U+4 u U+3;
+
+6. Sustavi za oksidaciju uranija za oksidaciju U+3 u U+4;
+
+f. Oprema i komponente, posebno projektirani ili pripremljeni za postupak odvajanja iona, kako slijedi:
+
+1. Brzoreagirajuće smole ionskih izmjenjivača, opnaste ili porozne makro-umrežne smole kod kojih su ograničene aktivne kemijske skupine za razmjenu na premazanoj površini neaktivnog nosača porozne strukture, i ostalih kompozitnih struktura u bilo kojem odgovarajućem obliku, uključujući čestice ili vlakna, promjera od 0,2 mm ili manje, otporne na koncentriranu solnu kiselinu i pripremljene da imaju brzinu poluvremena izmjene manju od 10 sekundi i koje mogu djelovati na temperaturama u rasponu od 373 K (100 °C) do 473 K (200 °C);
+
+2. Kolone za izmjenu iona (cilindrične) promjera većeg od 1000 mm, izrađene od ili zaštićene materijalima otpornim na koncentriranu solnu kiselinu (npr. titan ili fluorougljične plastike) i koje mogu djelovati na temperaturama u rasponu od 373 K (100 °C) do 473 K (200 °C) i tlaku iznad 0,7 MPa;
+
+3. Sustavi za izmjenu iona protutokom (sustavi za kemijsku ili elektrokemijsku oksidaciju ili redukciju) za regeneraciju kemijski reduciranih ili oksidiranih agensa upotrijebljenih za obogaćivanje kaskada ionskih izmjenjivača;
+
+g. Oprema i komponente posebno projektirani ili pripremljeni za postupak odvajanja izotopa »laserom« iz atomskih para (AVLIS), kako slijedi:
+
+1. Pištolji za proizvodnju trake ili elektronskog snopa za razlaganje visoke snage isporučene snage više od 2,5 kW/cm koji se koriste u sustavima za stvaranje para uranija;
+
+2. Metalni uređaji za rukovanje tekućim uranijom za rastaljeni uranij ili slitine uranija, koji se sastoje od lončića za taljenje, koji su izrađeni od ili zaštićeni odgovarajućim materijalima otpornim na koroziju i toplinu (npr. tantal, grafit prevučen itrijem, grafit prevučen drugim rijetkim zemljanim oksidima ili njihovim smjesama), i opreme za hlađenje lončića za taljenje;
+
+NAPOMENA: VIDI TAKOĐER 2A225.
+
+3. Sustavi za sakupljanje proizvoda i ostataka izrađeni od ili prevučeni materijalima otpornim na toplinu i koroziju od uranijevih metalnih para ili tekućine, kao što su grafit premazan itrijem ili tantalom;
+
+4. Kućište modula separatora (cilindrične ili pravokutne posude) za držanje izvora metalnih para uranija, pištolja za elektronski snop i kolektore za proizvod i ostatke;
+
+5. Sustavi »lasera« (jednog ili više) za odvajanje izotopa uranija pomoću stabilizatora spektra frekvencije za rad koji traje produženo vremensko razdoblje;
+
+NAPOMENA: VIDI TAKOĐER 6A005 I 6A205.
+
+h. Oprema i komponente posebno projektirani ili pripremljeni za postupak odvajanja izotopa molekularnim »laserom« (MLIS) ili kemijskom reakcijom (CRISLA), kako slijedi:
+
+1. Nadzvučne ekspanzijske mlaznice za smjese za hlađenje UF6 i nosećeg plina na 150 K (- 123 °C) ili manje i čiji su sastavni dio »materijali otporni na koroziju UF6«;
+
+2. Sabirnici za proizvod uranovog pentafluorida (UF5) koji se sastoje od filtarskih, udarnih ili ciklonskih sabirnika ili njihovih kombinacija, i čiji su sastavni dio »materijali otporni na koroziju UF5/UF6«;
+
+3. Kompresori izrađeni od ili koje štite »materijali otporni na koroziju UF6«, i brtve njihove rotacijske osovine;
+
+4. Oprema za fluoriranje UF5 (krutina) u UF6 (plin);
+
+5. Procesni sustavi za odvajanje UF6 od plina nosača (npr. dušika ili argona) uključujući:
+
+a. Kriogenske izmjenjivače topline i krioseparatore koji mogu postići temperature od 153 K (- 120 °C) ili manje;
+
+b. Kriogenske jedinice za hlađenje koje mogu postići temperature od 153 K (- 120 °C) ili manje;
+
+c. Hladne odvajače za UF6 koji mogu postići temperature od 253 K (- 20 °C) ili manje;
+
+6. Sustave »lasera« (jednog ili više) za odvajanje izotopa uranija pomoću stabilizatora spektra frekvencije za rad koji traje produženo vremensko razdoblje;
+
+NAPOMENA: VIDI TAKOĐER 6A005 I 6A205.
+
+i. Oprema i komponente posebno projektirani ili pripremljeni za postupak odvajanja plazme, kako slijedi:
+
+1. Mikrovalne izvore snage i antene za proizvodnju ili ubrzavanje iona, izlazne frekvencije veće od 30 GHz i srednjom izlaznom snagom većom od 50 kW;
+
+2. Električne zavojnice za uzbuđivanje iona radio frekvencijom za frekvencije više od 100 kHz i koje se mogu koristiti pri srednjoj snazi većoj od 40 kW;
+
+3. Sustave za stvaranje plazme uranija;
+
+4. Metalni uređaji za rukovanje tekućim uranijem, za rastaljeni uranij ili slitine uranija, koji se sastoje od lončića za taljenje koji su izrađeni od ili zaštićeni odgovarajućim materijalima otpornim na koroziju i toplinu (npr. tantal, grafit premazan itrijem, grafit premazan drugim oksidima rijetkih zemalja ili njihovim mješavinama), i opreme za hlađenje lončića za taljenje;
+
+NAPOMENA: VIDI TAKOĐER 2A225.
+
+5. Sabirnici proizvoda i ostataka izrađeni od ili zaštićeni materijalima otpornim na toplinu i koroziju para uranija kao što su grafit premazan itrijem ili tantal;
+
+6. Kućište modula separatora (cilindrično) za držanje izvora plazme uranija, električna zavojnica za pobudu radio frekvencije i sabirnici proizvoda i ostataka i izrađeni od odgovarajućih nemagnetnih materijala (npr. nehrđajući čelik);
+
+j. Oprema i komponente posebno projektirani ili pripremljeni za postupak elektromagnetskog odvajanja, kako slijedi:
+
+1. Izvori iona, jednostruki ili višestruki, koji se sastoje od izvora para, ionizatora i akceleratora snopa koji su izrađeni od odgovarajućih nemagnetskih materijala (npr. grafit, nehrđajući čelik ili bakar) i koji mogu proizvesti struju ionskog snopa od 50 mA ili veću;
+
+2. Ionske sabirne ploče za sabiranje obogaćenih ili osiromašenih snopova iona uranija, koje se sastoje od dvije ili više pukotina i džepova i izrađene su od odgovarajućih nemagnetnih materijala (npr. grafit ili nehrđajući čelik);
+
+3. Vakumsko kućište za elektromagnetsko odvajanje uranija izrađeno od nemagnetnih materijala (npr. nehrđajući čelik) i projektirano za rad pri tlaku od 0,1 Pa ili nižem;
+
+4. Magnetni polni dijelovi promjera većeg od 2 m;
+
+5. Jedinice za visokonaponsko napajanje za izvore iona, koji imaju sve od navedenih karakteristika:
+
+a. Sposobne za kontinuirani rad;
+
+b. Izlazni napon od 20000 V ili veći;
+
+c. Izlazna struja od 1 A ili veća, i
+
+d. Regulacija napona bolja od 0,01% u razdoblju od 8 sati;
+
+NAPOMENA: VIDI TAKOĐER 3A227.
+
+6. Jedinice za energetsko napajanje magneta snagom (visoka snaga, istosmjerna struja) koje imaju sve od navedenih karakteristika:
+
+a. Sposobne za kontinuirani rad s izlaznom strujom od 500 A ili većom pri naponu od 100 V ili većem; i
+
+b. Regulacija struje ili napona bolja od 0,01% u razdoblju od 8 sati.
+
+NAPOMENA: VIDI TAKOĐER 3A226.
+
+0B002 Posebno projektirani ili pripremljeni pomoćni sustavi, oprema i komponente, kako slijedi, za postrojenje za odvajanje izotopa navedeno u 0B001, izrađeni od ili koje štite »materijali otporni na koroziju UF6«:
+
+a. Napojni autoklavi, peći ili sustavi koji se koriste za dovođenje UF6 u postupak obogaćivanja;
+
+b. Desublimatori ili hladni odvajači, koji se koriste za uklanjanje UF6 iz postupka obogaćivanja prijenosom nakon grijanja;
+
+c. Stanice za proizvode i ostatke za prijenos UF6 u spremnike;
+
+d. Stanice za pretvaranje u tekuće ili kruto stanje koje se koriste za uklanjanje UF6 iz postupka obogaćivanja tlačenjem, hlađenjem i pretvaranjem UF6 u tekuće ili kruto stanje;
+
+e. Cjevovodni sustavi i sustavi cijevnih komora posebno projektiranih za rukovanje UF6 unutar kaskada za plinsku difuziju, centrifugalnih ili aerodinamičnih kaskada;
+
+f. 1. Vakuumske razvodne cijevi ili vakuumske cijevne komore usisnog kapaciteta od 5 m³/minutu ili više; ili
+
+2. Vakuumske pumpe posebno projektirane za uporabu u atmosferama koje sadrže UF6;
+
+g. Spektrometri mase UF6 /izvori iona posebno projektirani ili pripremljeni za izravno uzimanje uzoraka kod napajanja, proizvoda ili ostataka iz struja plina UF6 i koje imaju sve od navedenih karakteristika:
+
+1. Jediničnu rezoluciju za masu veću od 320 amu;
+
+2. Izvore iona izrađene od ili presvučene nikromom ili monelom, ili obložene niklom;
+
+3. Izvore za ionizaciju elektronskim bombardiranjem; i
+
+4. Sustav sabirnika pogodan za izotopsku analizu.
+
+0B003 Postrojenje za pretvaranje uranija i oprema za to posebno projektirana ili pripremljena, kako slijedi:
+
+a. Sustavi za pretvaranje koncentrata rude uranija u UO3;
+
+b. Sustavi za pretvaranje UO3 u UF6;
+
+c. Sustavi za pretvaranje UO3 u UO2;
+
+d. Sustavi za pretvaranje UO2 u UF4;
+
+e. Sustavi za pretvaranje UF4 u UF6;
+
+f. Sustavi za pretvaranje UF4 u metal uranija;
+
+g. Sustavi za pretvaranje UF6 u UO2;
+
+h. Sustavi za pretvaranje UF6 u UF4;
+
+i. Sustavi za pretvaranje UO2 u UCl4.
+
+0B004 Postrojenje za proizvodnju ili koncentraciju teške vode, deuterija i spojeva deuterija i za to posebno projektirana ili pripremljena oprema i komponente, kako slijedi:
+
+a. Postrojenje za proizvodnju teške vode, deuterija ili spojeva deuterija, kako slijedi:
+
+1. Postrojenja za izmjenu vode-vodikovog sulfida;
+
+2. Postrojenja za izmjenu amonijaka-vodika;
+
+b. Oprema i komponente, kako slijedi:
+
+1. Tornjevi za izmjenu vode-vodikovog sulfida izrađeni od finog ugljikovog čelika (npr. ASTM A516) promjera od 6 m do 9 m, koji mogu raditi pri tlakovima većim od ili jednakim 2 MPa i s dozvoljenom korozijom od 6 mm ili većom;
+
+2. Jednofazna niskotlačna centrifugalna puhala s niskom glavom (tj. 0,2 MPa) ili kompresori za cirkulaciju vodikovog sulfida (tj. plina koji sadrži više od 70% H2S) s prolaznim kapacitetom većim od ili jednakim 56 m³/sekundu pri radu pod usisnim tlakovima većim od ili jednakim 1,8 MPa i koji imaju brtve namijenjene za rad u vlažnoj atmosferi H2S;
+
+3. Tornjevi za izmjenu amonijaka i vodika visine jednake ili veće od 35 m promjera od 1,5 m do 2,5 m koji mogu raditi pod tlakovima višim od 15 MPa;
+
+4. Unutarnji dijelovi tornjeva, uključujući kaskadne sklopnike i kaskadne pumpe, uključujući i one uronjive, za proizvodnju teške vode korištenjem postupka izmjene amonijaka i vodika;
+
+5. Uređaji za cijepanje amonijaka s pogonskim tlakovima višim od ili jednakim 3 MPa za proizvodnju teške vode korištenjem postupka izmjene amonijaka i vodika;
+
+6. Infracrveni apsorpcijski analizatori koji izravno mogu vršiti analizu odnosa vodika i deuterija kad su koncentracije deuterija jednake ili veće od 90%;
+
+7. Katalitički plamenici za pretvaranje obogaćenog plina deuterija u tešku vodu korištenjem postupka izmjene amonijaka i vodika;
+
+8. Kompletni sustavi za oplemenjivanje teške vode, ili njihove kolone, za oplemenjivanje teške vode do koncentracije deuterija za uporabu u reaktoru.
+
+0B005 Postrojenje posebno projektirano za izradu gorivih elemenata za »nuklearni reaktor« i za to posebno projektirana i pripremljena oprema.
+
+Napomena: Postrojenje za izradu gorivih elemenata za »nuklearni reaktor« uključuje opremu koja:
+
+a. Obično dolazi u izravan dodir sa ili izravno obavlja ili nadzire tok proizvodnje nuklearnih materijala;
+
+b. Brtvi nuklearne materijale unutar košuljice;
+
+c. Provjerava neoštećenost košuljice ili brtve; ili
+
+d. Provjerava završnu obradu zabrtvljenog goriva.
+
+0B006 Postrojenje za preradu ozračenih gorivih elemenata, gorivih elemenata za »nuklearni reaktor«, i za to posebno projektirana ili pripremljena oprema i komponente.
+
+Napomena: 0B006 uključuje:
+
+a. Postrojenje za preradu ozračenih gorivih elemenata, gorivih elemenata za »nuklearni reaktor« uključujući opremu i komponente koji obično dolaze u izravan dodir sa ili izravno nadziru tokove obrade ozračenog goriva i glavnog nuklearnog materijala i fisibilnih produkata;
+
+b. Strojeve za cijepanje ili sječenje gorivog elementa, tj. oprema na daljinsko upravljanje za sjeckanje, cijepanje, sječenje ili razbijanje ozračenih sklopova, snopova ili šipki goriva za »nuklearni reaktor«;
+
+c. Posude za otapanje, spremnici sigurni od kritičnosti (npr. malog promjera, prstenasti ili pločasti spremnici) posebno projektirani ili pripremljeni za otapanje ozračenog goriva za »nuklearni reaktor«, koji mogu podnijeti vruće, korozivne tekućine, i koje se može daljinski puniti i održavati;
+
+d. Izdvajači s protustrujnim otapalom i oprema za postupak izmjene iona posebno projektirani ili pripremljeni za korištenje u postrojenju za preradu ozračenog »prirodnog uranija«, »osiromašenog uranija« ili »posebnih fisibilnih materijala«;
+
+e. Posude za držanje ili skladištenje posebno projektirane da budu sigurne od kritičnosti i otporne na korozivne učinke dušične kiseline;
+
+Opaska: Posude za držanje ili skladištenje mogu imati sljedeće karakteristike:
+
+1. stjenke ili unutarnje strukture s bor-ekvivalentom (računato za sve sastavne elemente kako je definirano u opasci za 0C004) od najmanje dva posto;
+
+2. Najvećeg promjera od 175 mm za cilindrične posude; ili
+
+3. Najveće širine od 75 mm i za prstenaste i za pločaste posude.
+
+f. Instrumenti za upravljanje postupkom posebno projektirani ili pripremljeni za praćenje ili upravljanje preradom ozračenog »prirodnog uranija«, »osiromašenog uranija« ili »posebnih fisibilnih materijala«.
+
+0B007 Postrojenje za pretvaranje plutonija i oprema posebno za to projektirana i pripremljena, kako slijedi:
+
+a. Sustavi za pretvaranje plutonijevog nitrata u okside;
+
+b. Sustavi za proizvodnju plutonijeva metala.
+
+| 0C | Materijali |  |
+|---|---|---|
+
+0C001 »Prirodni uranij« ili »osiromašeni uranij« ili torij u obliku metala, slitine, kemijskog spoja ili koncentrata i svaki drugi materijal koji sadrži jedan ili više od gore navedenih sastojaka;
+
+Napomena: 0C001 ne odnosi se na sljedeće:
+
+a. Četiri grama ili manje »prirodnog uranija« ili »osiromašenog uranija« kad se nalaze u senzornoj komponenti u instrumentima;
+
+b. »Osiromašeni uranij« posebno proizveden za sljedeću civilnu ne-nuklearnu primjenu:
+
+1. Zaštitu od ionizirajućih zračenja;
+
+2. Pakiranje;
+
+3. Balaste čija masa nije veća od 100 kg;
+
+4. Protuutege čija masa nije veća od 100 kg;
+
+c. Slitine koje sadrže manje od 5% torija;
+
+d. Keramičke proizvode koji sadrže torij koji je bio proizveden za ne-nuklearnu uporabu.
+
+0C002 »Posebni fisibilni materijali«
+
+Napomena: 0C002 ne odnosi se na četiri »efektivna grama« ili manje kad se oni nalaze u senzornoj komponenti u instrumentima.
+
+0C003 Deuterij, teška voda (oksid deuterija) i ostali spojevi deuterija, i smjese i otopine koje sadrže deuterij, u kojima odnos izotopa deuterija i vodika premašuje 1:5000.
+
+0C004 Grafit, nuklearne vrste, čija je razina čistoće manje od 5 dijelova na milijun ‘bor-ekvovalenta’ i gustoće veće od 1,5 g/cm³.
+
+NAPOMENA: VIDI TAKOĐER 1C107
+
+Napomena 1: 0C004 ne odnosi se na sljedeće:
+
+a. Proizvodi od grafita čija je masa manja od 1 kg, osim ako nisu posebno projektirani ili pripremljeni za uporabu u nuklearnom reaktoru;
+
+b. Grafitni prah.
+
+Napomena 2: U 0C004, ‘bor-ekvivalent’(BE) je definiran kao zbroj BEz za nečistoće (isključujući BEugljik budući da se ugljik ne smatra nečistoćom) uključujući bor, gdje je:
+
+BEz (ppm) = CF × koncentracija elementa Z u ppm;
+
+gdje je CF faktor konverzije =
+
+a σB i σZ su termalni udarni presjeci neutronskog uhvata (u barnima) za bor kakav se prirodno pojavljuje, odnosno element Z; i AB i AZ su atomske mase bora kakav se prirodno pojavljuje, odnosno elementa Z.
+
+0C005 Posebno pripremljeni spojevi ili prašci za proizvodnju barijera za plinsku difuziju, otporni na koroziju UF6 (npr. nikal ili slitina koja sadrži 60 težinskih postotaka ili više nikla, aluminijskog oksida i u potpunosti fluoriranih ugljikovodičnih polimera), čistoće 99,9 težinskih postotaka ili više, sa srednjom veličinom čestice od manje od 10 mikrometra izmjerenih prema standardu Američkog društva za ispitivanje materijala (ASTM) B330 i s visokim stupnjem ujednačenosti veličine čestica.
+
+| 0D | Softver |  |
+|---|---|---|
+
+0D001 »Softver« posebno projektiran ili prilagođen za »razvoj«, »proizvodnju« ili »uporabu« robe navedene u ovoj Kategoriji.
+
+| 0E | Tehnologija |  |
+|---|---|---|
+
+0E001 »Tehnologija« prema Napomeni o nuklearnoj tehnologiji za »razvoj«, »proizvodnju« ili »uporabu« robe naveden u ovoj Kategoriji.
+
+#### KATEGORIJA 1 — POSEBNI MATERIJALI I SRODNA OPREMA
+
+| 1A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+1A001 Komponente napravljene od floriranih spojeva, kako slijedi:
+
+a. Zaklopci, brtve, izolacijski slojevi ili mjehovi za gorivo posebno projektirani za uporabu u »letjelici« ili aviokozmičku uporabu izrađeni od više od 50% po težini bilo kojeg od materijala navedenih u 1C009.b. ili 1C009.c.;
+
+b. Piezoelektrični polimeri i kopolimeri napravljeni od vinilden fluoridnih materijala navedenih u 1C009.a.:
+
+1. U obliku ploča ili filma;
+
+2. Debljine koja premašuje 200 µm;
+
+c. Zaklopci, brtve, sjedišta ventila, mjehovi ili membrane:
+
+1. Izrađeni od fluoroelastomera koji sadrže najmanje jednu skupinu viniletera i
+
+2. Posebno projektirani za uporabu kod »letjelica«, aviokozmičku uporabu ili uporabu kod ‘projektila’.
+
+Napomena: U 1A001.c., ‘projektili’ označavaju kompletne raketne sustave i sustave bespilotnih letjelica.
+
+1A002 »Kompozitne« strukture ili laminati, koji imaju bilo koje od navedenog:
+
+NAPOMENA: VIDI TAKOĐER 1A202, 9A010 I 9A110.
+
+a. Organsku »matricu« i izrađeni su od materijala navedenih u 1C010.c., 1C010.d. ili 1C010.e.; ili
+
+b. Metalnu ili ugljikovu »matricu« i izrađeni su od:
+
+1. Ugljičnih »vlaknastih ili filamentnih materijala« sa:
+
+a. »Specifičnim modulom« koji premašuje 10,15 × 106 m; i
+
+b. »Specifična vlačna čvrstoća« koja premašuje 17,7 × 104 m; ili
+
+2. Materijalima navedenim u 1C010.c.
+
+Napomena 1: 1A002 se ne odnosi na kompozitne strukture ili laminate izrađene od ugljikovih »vlaknastih ili filamentnih materijala« impregniranih epoksi smolom za popravak konstrukcija letjelica ili laminata, pod uvjetom da veličina ne prelazi 100 cm x 100 cm.
+
+Napomena 2: 1A002 se ne odnosi na dovršene ili poludovršene predmete posebno projektirane za čisto civilnu primjenu kako slijedi:
+
+a. Sportske artikle;
+
+b. Industriju proizvodnje automobila;
+
+c. Industriju strojnih alata;
+
+d. Primjenu u medicini.
+
+Napomena 3: 1A002(b)1. nisu krajnji proizvodi ili poluproizvodi, koji imaju najviše dvije dimenzije prepletenih filamenata i koji su posebno izrađeni za sljedeće namjene:
+
+a. Peći za tempranje kovina
+
+b. Oprema za izradu silikonskih dijelova
+
+1A003 Proizvođači netaljivih aromatskih poliamida u obliku filma, ploča, trake ili vrpce koji imaju bilo koju od navedenih karakteristika:
+
+a. Debljinu veću od 0,254 mm; ili
+
+b. Prevučeni ili laminirani ugljikom, grafitom, metalnim ili magnetskim tvarima.
+
+Napomena: 1A003 ne odnosi se na proizvode kad su prevučeni ili laminirani bakrom i koji su predviđeni za proizvodnju elektronskih tiskanih pločica.
+
+NAPOMENA: Za sve oblike »taljivi« aromatskih poliamida vidi 1C008(a)3.
+
+1A004 Oprema i komponente za zaštitu i otkrivanje, osim one koja je navedena kod nadzora vojne robe, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 2B351 I 2B352.
+
+a. Plinske maske, kanistri filtara i oprema za dekontaminaciju namijenjeni ili prilagođeni za zaštitu od svega niže navedenog, i za njih posebno izrađene komponente:
+
+1. Bioloških agensa ili radioaktivnih materijala »prilagođenih za ratnu uporabu«;
+
+2. Radioaktivnog materijala »prilagođenih za ratnu uporabu«;
+
+3. Agensa kemijskog oružja (CW); ili
+
+4 »Agensi za suzbijanje nereda« uključujući:
+
+a. -bromobenzeneacetonitrilom, (bromobenzil cianid) (CA) (CAS 5798-79-8);
+
+b. (2.klorofenil) metilen propanwdinitrilom, (o.klorobenzilidenemalononitril (CS) (CAS 2698-41-1);
+
+c. 2-kloro-1-feniletanon, fenilacil kloridom (-kloroacetofenon) (CN) (CAS 532-27-4);
+
+d. dibenz-(b,f)-1,4-oksazefinom, (CR) (CAS 257-07-8);
+
+e. 10-kloro-5,10-dihidrofenarsazinom, (fenarsazin klorid), (adamsit), (DM) (CAS 578-94-9);
+
+f. N-nonanoilmorfolinom, (MPA) (CSA 5299-64-9).
+
+b. Zaštitna odijela, rukavice i obuća posebno predviđene ili prilagođene za obranu od sljedećeg:
+
+1. Bioloških agensa »prilagođenih za ratnu uporabu«
+
+2. Radioaktivnih materijala »prilagođenih za ratnu uporabu«; ili
+
+3. Kemijskih bojnih sredstava (CW).
+
+c. Nuklearne, biološke i kemijske (NBK) detektirajuće sustave posebno predviđene ili prilagođene za otkrivanje ili identifikaciju, i za njih posebno izrađene komponente:
+
+1. Bioloških agensa »prilagođenih za ratnu uporabu«;
+
+2. Radioaktivnih materijala »prilagođenih za ratnu uporabu«; ili
+
+3. Kemijskih bojnih sredstava (CW).
+
+d. Elektronska oprema za automatsko otkrivanje ili identifikaciju prisutnosti ostataka »eksplozivi« i uporabu tehnike ‘otkrivanja tragova’ (npr. površinske akustične naprave, spektrometrija mobilnosti iona, diferencijska spektrometrija mobilnosti, masena spektrometrija).
+
+Tehnička napomena: ‘Otkrivanje tragova’ je definirano kao sposobnost otkrivanja manje od 1ppm pare ili 1mg čvrste tvari ili tekućine.
+
+Napomena 1: 1A004(d) nije oprema posebno izrađena za laboratorijsku uporabu
+
+Napomena 2: 1A004(d) nije prolaz kroz sigurnosne kontrolne točke bez kontakta
+
+Napomena: Predmet nadzora u 1A004 nisu:
+
+(a) Osobni dozimetri za mjerenje zračenja;
+
+(b) Oprema čija je funkcija ili konstrukcija ograničena na zaštitu od opasnosti karakterističnih za sigurnost u stambenim naseljima i za civilnu industriju, kao što su rudarstvo, kamenolomstvo, poljoprivreda, ljekarništvo, medicina, veterinarstvo, zaštita okoliša, upravljanje otpadom ili prehrambena industrija.
+
+Tehničke napomene:
+
+1. 1A004 uključuje opremu i komponente (na kojima su uspješno provedena testiranja prema nacionalnim standardima, ili su se na neki drugi način pokazale učinkovitim) namijenjene otkrivanju radioaktivnih materijala »prilagođenih za ratnu uporabu«, kemijskih bojnih otrova, »simulanta«, agensa za suzbijanje nemira ili za zaštitu pred tim sredstvima, usprkos tome da se takova oprema i komponente koriste u civilnim industrijskim granama kao što su rudarstvo, kamenolomi, poljoprivreda, farmaceutska industrija, medicina, veterinarstvo, upravljanje otpadom, ili prehrambenoj industriji.
+
+2. »Simulant« je supstanca ili materijal koji se koristi pri obuci, istraživanju, testiraju ili evaluaciji umjesto (kemijskog ili biološkog) toksičnog agensa.
+
+1A005 Zaštitni prsluci, i za njih posebno predviđene komponente, osim onih proizvedenih prema vojnim standardima ili specifikacijama ili njima jednakim po svojstvima.
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE
+
+NAPOMENA: Za ‘vlaknaste ili filamentne’ materijale upotrijebljene u proizvodnji zaštitnih prsluka, vidi 1C010.
+
+Napomena 1: 1A005 ne odnosi se na zaštitne prsluke i zaštitna odijela, kada ih korisnici rabe za svoju osobnu zaštitu.
+
+Napomena 2: 1A005 ne odnosi se na zaštitne prsluke koji su namijenjeni za pružanje frontalne zaštite od krhotina i tlaka uslijed eksplozije nevojnih eksplozivnih naprava.
+
+1A006 Oprema, posebno izrađena ili modificirana za uništavanje improviziranih eksplozivnih naprava, navedenih u nastavku, kao i komponenete izrađene posebno za njih:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE
+
+a. vozila na daljinsko upravljanje;
+
+b. Ometači.
+
+Tehnička napomena:
+
+Ometači su naprave, posebno izrađene za onesposobljavanje eksplozivnih naprava ispaljivanjem tekućeg, čvrstog ili rasprskavajućeg projektila.
+
+Napomena: 1A006 ne kontrolira opremu kada je ona uz operatora te opreme.
+
+1A007 Oprema i uređaji posebno izrađeni za električno aktiviranje punjenja i uređaja koji sadrže energetske materijale, i to:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE, 3A229 I 3A232
+
+a. Oprema za aktiviranje detonatora navedenih u 1A007.b.:
+
+b. Električno aktivirani detonatori:
+
+¸ 1. Eksplozivni most (EB);
+
+2. Žica eksplozivnog mosta (EBW);
+
+3. Trenutni upaljač (slapper);
+
+4. Eksplozivni folijski inicijatori (EFI).
+
+Tehničke napomene:
+
+1. Umjesto izraza »detonator« ponekad se koristi izraz »inicijator«
+
+2. Detonatori navedeni u 1A007.b. koriste mali električni vodič (mostić, žicu za premoštenje ili foliju), koji u eksploziji ispare kada kroz njih prođe visokonaponski električni impuls. U detonatorima koji nisu »slapper« tipa, kemijsku detonaciju uzrokuje eksplozivni vodič kada dođe u kontakt s jakim eksplozivnim materijalom kao što je npr. PETN (pentaeritritol-tetranitrat). Kod »slapper« detonatora, eksplozivno isparavanje električnog vodiča uzrokuje poseban udarač koji udara u eksploziv i time uzrokuje kemijsku detonaciju. U nekim slučajevima spomenuti udarač pokreće magnetna sila. Izraz »eksplozivni folijski inicijator« se može odnositi ili na mostični upaljač ili na »slapper« tip detonatora.
+
+1A008 Punjenja, naprave i komponente:
+
+a. ‘Oblikovana punjenja’ koja imaju sve niže navedene značajke:
+
+1. Neto količinu eksploziva veću od 90g i
+
+2. Vanjski promjer kućišta je jednak ili veći od 75mm;
+
+b. Linearno oblikovana punjenja, koja imaju sve niže navedene značajke, te posebno izrađeni sastavni dijelovi za njih:
+
+1. Eksplozivno punjenje veće od 40 g/m i
+
+2. Širinu jednaku ili veću od 10 mm;
+
+c. Detonirajući štapin sa eksplozivnim jezgrom većom od 64g/m;
+
+d. Sjekači, osim onih navedenih u 1A008.b., i alati za razdvajanje, sa neto količinom eksploziva većom od 3,5 kg.
+
+Tehnička napomena:
+
+‘Oblikovana punjena’ su eksplozivna punjenja oblikovana na način da usmjeravaju učinak eksplozije.
+
+1A102 Pirolizom ponovo zasićene komponente ugljik-ugljik namijenjene za letjelice za lansiranje u svemir navedene u 9A004 ili sondažne rakete navedene u 9A104.
+
+1A202 Kompozitne strukture, osim onih koje su navedene u 1A002, u obliku cijevi i koje imaju obje od navedenih karakteristika:
+
+NAPOMENA: VIDI TAKOĐER 9A010 I 9A110.
+
+a. Unutarnji promjer između 75 mm i 400 mm; i
+
+b. Izrađene od bilo kojih »vlaknastih ili filamentnih materijala« navedenih u 1C010.a. ili b. ili 1C210.a. ili s ugljikovim predimpregniranim materijalima navedenim u 1C210.c.
+
+1A225 Platinirani katalizatori posebno projektirani ili pripremljeni za pospješivanje reakcije izmjene vodikovog izotopa između vodika i vode za obnovu tricija iz teške vode ili za proizvodnju teške vode.
+
+1A226 Posebna brtvila koja se mogu koristiti za odvajanje teške vode od obične vode, koja imaju obje od navedenih karakteristika:
+
+a. Izrađena od fosforne brončane mreže kemijski obrađene kako bi se poboljšalo svojstvo vlažnosti; i
+
+b. Predviđena za korištenje u vakuum destilacijskim tornjevima.
+
+1A227 Prozore sa zaštitom od radioaktivnog zračenja visoke gustoće (olovno staklo ili drugo), koji imaju sve od navedenih karakteristika, i za njih posebno izrađeni okviri:
+
+a. ‘Hladna površina’ veća od 0,09 m²;
+
+b. Gustoća veća od 3 g/cm³; i
+
+c. Debljina od 100 mm ili veća.
+
+Tehnička napomena:
+
+U 1A227 izraz ‘hladna površina’ označava površinu prozora kroz koju se gleda koja je prema projektu izložena najnižoj razini radioaktivnog zračenja.
+
+| 1B | Oprema za ispitivanje, pregled i proizvodnju |  |
+|---|---|---|
+
+1B001 Oprema za proizvodnju vlakana, predimpregniranih materijala, predoblika ili »kompozita« navedenih u 1A002 ili 1C010, kako slijedi, i za njih posebno izrađene komponente i pribor:
+
+NAPOMENA: VIDI TAKOĐER 1B101 I 1B201.
+
+a. Strojevi za namatanje filamenata čije je kretanje za postavljanje, zamatanje i namatanje vlakana usklađeno i programirano u tri ili više osi, posebno projektirani za proizvodnju »kompozitnih« struktura ili laminata od »vlaknastih ili filamentnih materijala«;
+
+b. Strojevi za polaganje traka ili postavljanje pređe čije je kretanje za postavljanje i polaganje trake, pređe ili ploča usklađeno i programirano u dvije ili više osi, posebno projektirani za proizvodnju »kompozita« letačkih okvira ili konstrukcije ‘projektila’;
+
+Napomena: U 1B001.b., ‘projektil’ označava kompletne raketne sustave i sustave bespilotnih zračnih letjelica.
+
+c. Strojeve za tkanje u više smjerova i više dimenzija ili strojeve za preplitanje, uključujući i adaptere i opremu za prilagodbu, za tkanje, preplitanje ili opletanje vlakana kako bi se proizvele »kompozitne« strukture;
+
+Tehnička napomena: Za potrebe 1B001.c. je pletenje uključeno u tehniku preplitanja
+
+Napomena: 1B001.c. ne kontrolira tekstilne strojeve koji nisu prilagođeni za gore navedenu krajnju uporabu.
+
+d. Oprema koja je posebno izrađena i prilagođena za proizvodnju ojačanih vlakana, kako slijedi:
+
+1. Oprema za pretvaranje polimernih vlakana (kao što su poliakrilonitril, umjetna svila, nasmoljena vlakna ili polikarbosilan) u ugljikova vlakna ili vlakna od silicijevog karbida, uključujući posebnu opremu za napinjanje vlakana tijekom grijanja;
+
+2. Oprema za taloženje kemijskih para elemenata ili spojeva na zagrijane filamentne podloge kako bi se proizvela silicijeva karbidna vlakna;
+
+3. Oprema za mokro rotacijsko oblikovanje vatrostalne keramike (kao što je aluminijev oksid);
+
+4. Oprema za pretvaranje prekursora/preteča vlakana koja sadrže aluminij u alumijska vlakna zagrijavanjem;
+
+e. Oprema za proizvodnju predimpregniranih materijala navedenih u 1C010.e. metodom taljenja;
+
+f. Oprema za nedestruktivan nadzor kojom se nedostaci mogu nadzirati trodimenzionalno, pomoću ultrazvučne ili rendgenske tomografije i posebno izrađena za »kompozitne« materijale:
+
+1. Rendgenski tomografski sustavi za trodimenzionalni nadzor oštećenja;
+
+2. Numerički upravljani strojevi za ultrazvučno testiranje čija su pokreti za pozicioniranje predajnika i prijamnika istovremeno koordinirani i programirani u četiri ili više osi kako bi slijedili trodimenzionalne oblike komponente koja se kontrolira.
+
+1B002 Oprema za proizvodnju metalnih slitina, praha metalnih slitina ili legiranih materijala, posebno izrađenih kako bi se izbjegla kontaminacija i posebno izrađenih za uporabu u jednom od postupaka navedenim u 1C002.c.2.
+
+NAPOMENA: VIDI TAKOĐER 1B102.
+
+1B003 Alati, boje, kalupi ili ugrađeni uređaji za »superplastično oblikovanje« ili »difuzijsko spajanje« titana ili aluminija ili njihovih slitina, posebno projektirani za proizvodnju:
+
+a. Zrakoplovnih okvira ili aviokozmičkih konstrukcija;
+
+b. »Zrakoplovnih« ili aviokozmičkih motora; ili
+
+c. Posebno oblikovanih komponenti za konstrukcije iz točke 1B003.a. ili motore navedene u 1B003.b..
+
+1B101 Oprema, osim one navedene u 1B001, za »proizvodnju« strukturnih kompozita kako slijedi; i za njih posebno izrađenih komponenata i pribora:
+
+NAPOMENA: VIDI TAKOĐER 1B201.
+
+Napomena: Komponente i pribor navedeni u 1B101 uključuju kalupe, osovine, okove, instalacije i alat za predprešanje, vulkaniziranje, lijevanje, pečenje ili povezivanje kompozitnih struktura, laminata i njihovu proizvodnju.
+
+a. Strojevi za namatanje filamenata ili strojevi za namještanje vlakana čije je kretanje za postavljanje, zamatanje i namatanje vlakana usklađeno i programirano u tri ili više osi, posebno izrađeni za proizvodnju kompozitnih struktura ili laminata od vlaknastih ili filamentnih materijala, i instrumenti za usklađivanje i programiranje;
+
+b. Strojevi za polaganje traka čije se kretanje za postavljanje i polaganje trake i ploča može uskladiti i programirati u dvije ili više osi, projektirani za proizvodnju kompozita okvira letjelica ili konstrukcije »projektila«;
+
+c. Oprema projektirana ili prilagođena za »proizvodnju« »vlaknastih ili filamentnih materijala« kako slijedi:
+
+1. Oprema za pretvaranje polimernih vlakana (kao što su poliakrilonitril, umjetna svila ili polikarbosilan) uključujući posebnu opremu za napinjanje vlakana tijekom grijanja;
+
+2. Oprema za taloženje para elemenata ili spojeva na zagrijane filamentne podloge;
+
+3. Oprema za mokro rotacijsko oblikovanje vatrostalne keramike (kao što je aluminijev oksid);
+
+d. Oprema predviđena ili prilagođena za posebnu obradu površine vlakana ili za proizvodnju predimpregniranih materijala i predoblika navedena u 9C110.
+
+Napomena: 1B101.d. uključuje valjke, opremu za razvlačenje, opremu za prevlačenje, opremu za rezanje i šablone za izrezivanje oblika.
+
+1B102 »Opremu za proizvodnju« metalnog praha, osim navedene u 1B002, i komponente kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 1B115.b.
+
+a. »Oprema za proizvodnju« metalnog praha upotrebljiva za »proizvodnju«, u kontroliranom mediju, kuglastih ili atomiziranih materijala navedena u 1C011.a., 1C011.b., 1C111.a.1., 1C111.a.2. ili u Popisu robe vojne namjene;
+
+b. Komponente posebno predviđene za »opremu za proizvodnju« navedene u 1B002 ili 1B102.a.
+
+Napomena: 1B102 uključuje:
+
+a. Generatore plazme (visokofrekventne lučne mlaznice) upotrebljive za dobivanje raspršenih ili kuglastih metalnih prahova čiji se postupak odvija u mediju argona i vode;
+
+b. Oprema za električno raspršivanje upotrebljiva za dobivanje raspršenih ili kuglastih metalnih prahova čiji se postupak odvija u mediju argona i vode;
+
+c. Oprema koja se može koristiti za »proizvodnju« kuglastih aluminijskih prahova raspršivanjem taline u inertnom mediju (npr. dušikovom).
+
+1B115 Oprema, osim one navedene u 1B002 ili 1B102, za proizvodnju pogonskog goriva i njegovih sastojaka, kako slijedi, i za njih posebno predviđene komponente:
+
+a. »Oprema za proizvodnju« za »proizvodnju«, rukovanje ili ispitivanje prihvaćanja tekućih pogonskih goriva ili njihovih sastojaka navedena u 1C011.a., 1C011.b., 1C111 ili u Popisu robe vojne namjene;
+
+b. »Oprema za proizvodnju« za »proizvodnju«, rukovanje, miješanje, vulkaniziranje, lijevanje, prešanje, ekstrudiranje ili ispitivanje prihvaćanja čvrstih pogonskih goriva ili njihovih sastojaka navedena u 1C011.a., 1C011.b., 1C111 ili u Popisu robe vojne namjene.
+
+Napomena: B115.b. ne odnosi se na serijske miješalice, kontinuirane miješalice ili mlinove na tekuću energiju. Za nadzor serijskih miješalica, kontinuiranih miješalica i mlinova na tekuću energiju vidi 1B117, 1B118 i 1B119.
+
+Napomena 1: Za opremu posebno projektiranu za proizvodnju sredstava vojne namjene, vidi Popis robe vojne namjene.
+
+Napomena 2: 1B115 ne odnosi se na opremu za »proizvodnju«, rukovanje i ispitivanje prihvata borovog karbida.
+
+1B116 Posebno projektirane mlaznice za proizvodnju materijala dobivenih pirolitičkim načinom koji su oblikovani na kalupu, škripcu ili nekoj drugoj podlozi od prethodnih plinova koji se raspadaju na rasponu temperatura od 1573 K (1300 °C) do 3173 K (2900 °C) pri tlaku od 130 Pa do 20 kPa.
+
+1B117 Serijske miješalice s opremom za miješanje u vakuumu u rasponu od nula do 13,326 kPa i mogućnošću upravljanja temperaturom u komori za miješanje i koje imaju sve od navedenog:
+
+a. Ukupni prostorni kapacitet od 110 litara ili više; i
+
+b. Najmanje jednu osovinu za miješanje/gnječenje izvan središta.
+
+1B118 Kontinuirane miješalice s opremom za miješanje u vakuumu u rasponu od nula do 13,326 kPa i s mogućnošću upravljanja temperaturom u komori za miješanje i koje imaju sve od navedenog, i za njih posebno predviđene komponente:
+
+a. Dvije ili više osovina za miješanje/gnječenje; i
+
+b. Jedna rotirajuća osovina koja oscilira, s nazubljenjima za miješanje/gnječenje na samoj osovini, kao i unutar kućišta komore za miješanje
+
+1B119 Mlinovi na tekuću energiju koji se koriste za mrvljenje ili mljevenje tvari navedenih u 1C011.a., 1C011.b., 1C111 ili u Popisu robe vojne namjene, i za njih posebno predviđene komponente.
+
+1B201 Strojevi za namatanje filamenata, osim onih navedenih u 1B001 ili 1B101, i njihova oprema, kako slijedi:
+
+a. Strojevi za namatanje filamenata koji imaju sve od navedenih karakteristika:
+
+1. Čije je kretanje za postavljanje, zamatanje i namatanje vlakana usklađeno i programirano na dvije ili više osovina;
+
+2. Posebno projektirani za izradu kompozitnih struktura ili laminata iz »vlaknastih ili filamentnih materijala«; i
+
+3. Koji mogu namatati cilindrične rotore promjera od 75 i 400 mm i dužine od 600 mm ili veće;
+
+b. Usklađivati i programirati upravljanje strojevima za namatanje filamenata navedenim u 1B201.a.;
+
+c. Precizne škripce za strojeve za namatanje filamenata navedene u 1B201.a.
+
+1B225 Elektrolitičke ćelije za proizvodnju fluora izlaznog kapaciteta većeg od 250 g fluora na sat.
+
+1B226 Elektromagnetski odvajači izotopa namijenjeni za, ili opremljene sa, jednostrukim ili višestrukim izvorima iona koji mogu proizvesti ukupne struje ionskog snopa od 50 mA ili više.
+
+Napomena: 1B226 uključuje odvajače:
+
+a. Koji mogu obogatiti stabilne izotope;
+
+b. Čiji se izvori iona i kolektori nalaze u magnetnom polju a oni su takvih konfiguracija da se nalaze izvan polja.
+
+1B227 Pretvarače za sintezu amonijaka ili jedinice za sintezu amonijaka, u kojima se plin za sintezu (dušik ili vodik) povlači iz visokotlačne kolone izmjenjivača amonijaka/vodika a sintetizirani amonijak se vraća u navedenu kolonu.
+
+1B228 Kolone za kriogenu destilaciju vodika koje imaju sve od navedenih karakteristika:
+
+a. Namijenjene za rad na vanjskoj temperaturi od 35 K (- 238 °C) ili manje;
+
+b. Namijenjene za rad pri unutarnjem tlaku od 0,5 do 5 MPa;
+
+c. Izrađene bilo od:
+
+1. Nehrđajućeg čelika serije 300 s niskim sadržajem sumpora i austenitskim ASTM (ili jednakim standardom) brojem veličine zrna od 5 ili više; ili
+
+2. Jednakih materijala koji su i kriogenski i kompatibilni s H2; i
+
+b. Unutarnjih promjera od 1 m ili više i stvarnih dužina od 5 m ili više.
+
+1B229 Kolone za izmjenu vode i vodikovog sulfida i ‘unutarnji razdjelnici’, kako slijedi:
+
+Napomena: Za kolone koje su posebno projektirane ili pripremljene za proizvodnju teške vode vidi 0B004.
+
+a. Kolone za izmjenu vode i vodikovog sulfida, koje imaju sve od navedenih karakteristika:
+
+1. Da mogu raditi pri tlaku od 2 MPa ili većem;
+
+2. Da su izrađene od ugljikovog čelika i austenitskim ASTM (ili jednakim standardom) brojem veličine zrna od 5 ili više; i
+
+3. Promjera od 1,8 m ili više;
+
+b. ‘Unutarnji razdjelnici’ za kolone za izmjenu vode i vodikovog sulfida navedene u 1B229.a.
+
+Tehnička napomena:
+
+‘Unutarnji razdjelnici’ kolona su segmentirana korita čiji je stvarni promjer nakon montiranja 1,8 m ili veći, koji su predviđeni da olakšavaju protustrujno dodirivanje i izrađeni su od nehrđajućeg čelika sa sadržajem ugljika od 0,03% ili manje. To mogu biti sitasta korita, korita sa zaklopcem, korita s mjehurastim poklopcem ili korita s turbomrežom.
+
+1B230 Pumpe koje mogu cirkulirati otopine koncentriranog ili razrijeđenog katalizatora kalijevog amida u tekućem amonijaku (KNH2/NH3), koje imaju sve od navedenih karakteristika:
+
+a. Zračnonepropusne (tj. hermetički zabrtvljene);
+
+b. Kapaciteta većeg od 8,5 m³/h; i
+
+c. Bilo koje od sljedećih karakteristika:
+
+1. Za otopine koncentriranog kalijevog amida (1% ili više), pogonski tlak od 1,5 do 60 MPa; ili
+
+2. Za otopine razrijeđenog kalijevog amida (manje od 1%), pogonski tlak od 20 do 60 MPa.
+
+1B231 Postrojenja ili oprema za tricij, i njihova oprema, kako slijedi:
+
+a. Uređaji ili postrojenja za proizvodnju, obnovu, ekstrakciju, koncentraciju ili rukovanje tricijem;
+
+b. Oprema za uređaje ili postrojenja za tricij, kako slijedi:
+
+1. Rashladne jedinice vodikom ili helijem koje mogu hladiti do 23 K (- 250 °C) ili manje, kapaciteta za uklanjanje topline većeg od 150 W;
+
+2. Skladište izotopa vodika ili sustav pročišćavanja uporabom metalnih hidrida kao medija za skladištenje ili pročišćavanje.
+
+1B232 Turboekspanderi ili turboekspander – kompresorska postrojenja koji imaju obje od sljedećih karakteristika:
+
+a. Predviđeni za rad s izlaznom temperaturom od 35 K (- 238 °C) ili manje; i
+
+b. Predviđeni za propusnu moć plinovitog vodika od 1000 kg/h ili veću.
+
+1B233 Postrojenja ili uređaji za odvajanje izotopa litija, i oprema za njih, kako slijedi:
+
+a. Uređaji ili postrojenja za odvajanje izotopa litija;
+
+b. Oprema za odvajanje izotopa litija, kako slijedi:
+
+1. Zabrtvljene kolone za izmjenu tekućina – tekućina, posebno projektirane za amalgame litija;
+
+2. Pumpe za amalgame žive ili litija;
+
+3. Ćelije za elektrolizu amalgama litija;
+
+4. Isparivači za otopinu koncentriranog litijevog hidroksida.
+
+| 1C | Materijali |  |
+|---|---|---|
+
+Tehnička napomena:
+
+Metali i slitine:
+
+Ukoliko nije drukčije određeno, riječi ‘metali’ i ‘slitine’ u 1C001 do 1C012 odnose se na neobrađene i poludorađene oblike, kako slijedi:
+
+Neobrađeni oblici:
+
+Anode, kugle, šipke (uključujući nazubljene i žičane šipke), poluge, blokove, brikete, pogače, katode, kristale, kocke, kockice, zrna, granule, grede, grude, kuglice, gredice, prah, rondele, sačma, pločice, zrna, spužva, štapići;
+
+Poluproizvedeni oblici (bilo da su presvučeni, obloženi, izbušeni ili perforirani):
+
+a. Kovani ili obrađeni materijali dobiveni valjanjem, vučenjem, ekstrudiranjem, kovanjem, ekstrudiranjem pobudom, prešanjem, mrvljenjem, atomiziranjem i mljevenjem, odnosno: kutovi, kanali, krugovi, diskovi, prašina, komadići, folije i list, kovani predmeti, ploča, prah, otisnuti i utisnuti predmeti, trake, prsteni, šipke (uključujući šipke za varenje, žičane šipke i valjanu žicu), dijelove, oblike, listove, trake, cjevovod i cijevi (uključujući krugove, četverokute i udubine cijevi), vučenu ili ekstrudiranu žicu;
+
+b. Lijevani materijal proizveden lijevanjem u pijesku, ulošku za prešanje, metalnim, gipsanim ili drugim vrstama kalupa, uključujući lijevanje pod visokim pritiskom, pečene oblike i oblike dobivene metalurgijom praha.
+
+Predmetom nadzora trebaju ostati oblici koji nisu navedeni a za koje se tvrdi da su dovršeni proizvodi ali oni stvarno predstavljaju neobrađene oblike ili poluproizvedene oblike.
+
+1C001 Materijali posebno projektirani za uporabu kao apsorberi elektromagnetnih valova, ili u suštini vodljivi polimeri, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 1C101.
+
+a. Materijali za apsorpciju frekvencija koje premašuju 2 × 108 Hz ali su manje od 3 × 1012 Hz;
+
+<table>
+<tbody>
+
+<tr>
+<td></td>
+<td colspan="4">Napomena 1: 1C001.a. ne odnosi se na:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="3">Apsorbere tipa kose, izrađene od prirodnih ili sintetičkih vlakana, s nemagnetnim opterećenjem koje služi za apsorpciju;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="3">Apsorberi koji ne gube magnetno svojstvo i za čiju se površinu podrazumijeva da je po obliku neplošna, uključujući piramide, stošce, klinove i zmijolike površine;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td colspan="3">Plošni apsorberi koji imaju sve od navedenih karakteristika:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="2">Da su izrađeni od bilo kojeg od navedenog:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td>Plastičnih pjenastih materijala (fleksibilnih ili krutih) s ugljičnim punjenjem, ili organskih materijala, uključujući veziva, koji daju više od 5% odjeka u usporedbi s metalom na pojasu čija širina premašuje za ± 15% središnju frekvenciju incidentne energije, i koji ne mogu podnijeti temperature više od 450 K (177 °C); ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td>Keramičkih materijala koji daju više od 20% odjeka u usporedbi s metalom na pojasu čija širina premašuje za ± 15% središnju frekvenciju incidentne energije i koji ne mogu podnijeti temperature više od 800 K (527 °C);</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Tehnička napomena:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Uzorci ispitivanja apsorpcije za 1C001.a. NAPOMENA:1.c.1. treba biti kvadrat čiju stranicu čini najmanje 5 valnih dužina središnje frekvencije i postavljen na udaljenom polju elementa koji zrači.</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="2">Čvrstoća na vlak manja od 7 × 106 N/m²; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td colspan="2">Granica čvrstoće pri stlačivanju manja od 14 × 106 N/m²;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>d.</td>
+<td colspan="3">Plošni apsorberi izrađeni od sinteriranog ferita, koji imaju:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="2">Specifične težine veće od 4.4; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="2">Najviše radne temperature od 548 K (275 °C).</td>
+</tr>
+</tbody>
+
+</table>
+
+Napomena 2: Ništa od navedenog u Napomeni 1 do 1C001.a. ne sprečava magnetne materijale da vrše apsorpciju kad su prevučeni bojom.
+
+b. Materijali za apsorpciju frekvencija koje premašuju 1,5 × 1014 Hz ali su manje od 3,7 × 1014 Hz i nisu prozirni na vidljivoj svjetlosti;
+
+c. U suštini vodljivi polimerni materijali s ‘velikom električnom provodljivošću’ koja premašuje 10000 S/m (Siemens na metar) ili ‘pločastim (površinskim) specifičnim otporom’ od manje od 100 ohms/kvadrat, koji se temelje na bilo kojem od navedenim polimera:
+
+1. Polianilin;
+
+2. Polipirol;
+
+3. Politiofen;
+
+4. Polifenilen-vinilen; ili
+
+5. Politienilen-vinilen.
+
+Tehnička napomena:
+
+‘Velikom električnom provodljivošću’ i ‘pločasti (površinski) specifični otpor’ treba odrediti pomoću ASTM D-257 ili nacionalnih ekvivalenata.
+
+1C002 Metalne slitine, prah metalne slitine i materijali od slitina, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 1C202.
+
+Napomena: 1C002 se ne odnosi na metalne slitine, prah metalne slitine i materijale od slitina za presvlačenje podloga.
+
+Tehničke napomene:
+
+1. Metalne slitine u 1C002 su one koje sadrže viši postotak po težini navedenog metala nego bilo kojeg drugog elementa.
+
+2. Izdržljivost od loma na naprezanje treba mjeriti u skladu s ASTM standardom E-139 ili nacionalnim ekvivalentima.
+
+3. Izdržljivost od niskocikličkog naprezanja treba mjeriti u skladu s ASTM standardom E-606 ‘Preporučena praksa za ispitivanje niskocikličkog naprezanja s konstantnom amplitudom’ ili nacionalnim ekvivalentima. Ispitivanja treba provesti osno s prosječnim odnosom naprezanja koji je jednak 1 i faktorom koncentracije naprezanja (Kt) koji je jednak 1. Prosječno naprezanje se definira kao najveće naprezanje minus najmanje naprezanje podijeljeno s najvećim naprezanjem.
+
+a. Aluminidi, kako slijedi:
+
+1. Aluminidi nikla koji sadrže najmanje 15 težinskih postotaka težine aluminija, najviše 38 težinskih postotaka aluminija i najmanje jedan dodatni slitinski element;
+
+2. Aluminidi titana koji sadrže 10 težinskih postotaka ili više aluminija i najmanje jedan dodatni slitinski element;
+
+b. Metalne slitine, kako slijedi, od materijala navedenog u 1C002.c.:
+
+1. Slitine nikla sa:
+
+a. Izdržljivošću od loma na naprezanje od 10000 sati i duže pri 923 K (650 °C) i naprezanju od 676 MPa; ili
+
+b. Izdržljivošću od niskocikličkog naprezanja od 10000 ciklusa ili više pri 823 K (550 °C) i najvećem naprezanju od 1095 MPa;
+
+2. Slitine niobija sa:
+
+a. Izdržljivošću od loma na naprezanje od 10000 sati i duže pri 1073 K (800 °C) i naprezanju od 400 MPa; ili
+
+b. Izdržljivošću od niskocikličkog naprezanja od 10000 ciklusa ili više pri 973 K (700 °C) i najvećem naprezanju od 700 Pa;
+
+3. Slitine titana sa:
+
+a. Izdržljivošću od loma na naprezanje od 10000 sati ili duže pri 723 K (450 °C) i naprezanju od 200 MPa; ili
+
+b. Izdržljivošću od niskocikličkog naprezanja od 10000 ciklusa ili više pri 723 K (450 °C) i najvećem naprezanju od 400 MPa;
+
+4. Slitine aluminija s čvrstoćom na vlak od:
+
+a. 240 MPa ili više pri 473 K (200 °C); ili
+
+b. 415 MPa ili više pri 298 K (25 °C);
+
+5. Slitine magnezija sa:
+
+a. Čvrstoćom na vlak od 345 MPa ili više; i
+
+b. Brzinom korozije manjom od 1 mm/godinu u 3-postotnoj vodenoj otopini natrijev klorida mjerenom u skladu sa ASTM standardom G-31 ili nacionalnim ekvivalentima;
+
+c. Praškasta metalna slitina ili smljeven materijal koji ima sve od navedenih karakteristika:
+
+1. Izrađen od bilo kojeg od navedenih složenih sustava:
+
+Tehnička napomena:
+
+U nastavku, X je jednak jednom ili više slitinskih elemenata.
+
+a. Slitine nikla (Ni-Al-X, Ni-X-Al) koje odgovaraju za dijelove motora turbina ili komponente, odnosno sa manje od 3 nemetalne čestice (koje se uvode tijekom proizvodnog postupka) veće od 100 µm u 109 čestica slitine;
+
+b. Slitine niobija (Nb-Al-X ili Nb-X-Al, Nb-Si-X ili Nb-X-Si, Nb-Ti-X ili Nb-X-Ti);
+
+c. Slitine titana (Ti-Al-X ili Ti-X-Al);
+
+d. Slitine aluminija (Al-Mg-X ili Al-X-Mg, Al-Zn-X ili Al-X-Zn, Al-Fe-X ili Al-X-Fe); ili
+
+e. Slitine magnezija (Mg-Al-X ili Mg-X-Al); i
+
+2. Izrađene u kontroliranoj okolini bilo kojim od navedenih postupaka:
+
+a. »Vakuumska atomizacija«;
+
+b. »Plinska atomizacija«;
+
+c. »Rotaciona atomizacija«;
+
+d. »Kaljenje pljuskanjem«;
+
+e. »Zavrtanje taline« i »pretvaranje u prah«;
+
+f. »Ekstrakcija taline« i »pretvaranje u prah«; ili
+
+g. »Mehaničko stvaranje slitina«;
+
+3. Koji mogu tvoriti materijale navedene u 1C002.a. ili 1C002.b.
+
+d. Slitinske materijale, koji imaju sve od navedenih karakteristika:
+
+1. Da su izrađeni od bilo kojeg od složenih sustava navedenih u 1C002.c.1.;
+
+2. Da su u obliku uprašenih listića, traka ili tankih štapova;
+
+3. Da su proizvedeni u kontroliranoj okolini na bilo koji od sljedećih načina:
+
+a. »Kaljenje pljuskanjem«;
+
+b. »Spajanje taljenjem«; ili
+
+c. »Ekstrakcija taljenjem«.
+
+1C003 Magnetni metali, svih vrsta i bilo kojeg oblika, koji imaju bilo koju od navedenih karakteristika:
+
+a. Početnu relativnu propusnost od 120000 ili više i debljinu od 0,05 mm ili manje;
+
+Tehnička napomena:
+
+Mjerenje početne propusnosti mora se izvesti na materijalima koji su u potpunosti kaljeni.
+
+b. Magnetski opredijeljene slitine koje imaju bilo koju od navedenih karakteristika:
+
+1. Magnetski opredijeljenu zasićenost od više od 5 × 10-4; ili
+
+2. Magneto-mehanički faktor spajanja (k) od više od 0,8; ili
+
+c. Amorfne ili ‘nanokristalinske’ trake slitine koje imaju sve od navedenih karakteristika:
+
+1. Spoj sa najmanje 75 težinskih postotaka željeza, kobalta ili nikla;
+
+2. Magnetsku indukciju zasićenosti (Bs) od 1,6 T ili više; i
+
+3. Bilo koje od sljedećeg:
+
+a. Debljinu trake od 0,02 mm ili manje; ili
+
+b. Električnu otpornost od 2 × 10-4 ohm cm ili više.
+
+Tehnička napomena:
+
+‘Nanokristalinski’ materijali u 1C003.c. su oni materijali čije je zrno kristala veličine od 50 nm ili manje, kako se utvrdi difrakcijom X-zraka.
+
+1C004 Slitine uranija i titana ili slitine volframa s »matricom« koja se temelji na željezu, niklu ili bakru, koje imaju sve od navedenog:
+
+a. Gustoću veću od 17,5 g/cm³;
+
+b. Granicu elastičnosti veću od 880 MPa;
+
+c. Graničnu čvrstoću na vlak veću od 1270 MPa; i
+
+d. Istezljivost veću od 8%.
+
+1C005 »Supervodljivi« »kompozitni« vodiči dužine veće od 100 m ili mase veće od 100 g, kako slijedi:
+
+a. »Supervodljive« »kompozitne« vodiče koji se sastoje od jednog ili više filamenata od niobija i titana, koji imaju sve od navedenog:
+
+1. Utisnute u »matricu« koja nije bakrena ili miješana »matrica« na bazi bakra;
+
+2. Koji imaju površinu presjeka manju od 0,28 × 10-4 mm² (6 µm u promjeru za kružne filamente);
+
+b. »Supervodljivi« »kompozitni« vodiči koji se sastoje od jednog ili više »supervodljivih« filamenata koji nisu niobij i titan, koji imaju sve od navedenog:
+
+1. »Kritičnu temperaturu« koja je pri nula magnetne indukcije veća od 9,85 K (– 263,31 °C); i
+
+2. Koja ostaje u »supervodljivom« stanju pri temperaturi od 4,2 K (- 268,96 °C) kad je izložena magnetnom polju orijentiranom na bilo koju osi okomitu na longitudinalne osi vodiča, i koja odgovara magnetnoj indukciji od 12 T s kritičnom gustoćom većom od 1 750 A/mm² po cijeloj površini vodiča.
+
+c. »Supervodljivi« »kompozitni« vodiči koji se sastoje od jednog ili više »supervodljivih« filamenata koji ostaju »supervodljivi« iznad 115 K (- 158,16 °C).
+
+Tehnička napomena
+
+Za potrebe 1C005, filamenti mogu biti u obliku niti, cilindra, filma, trake ili vrpce.
+
+1C006 Tekućine i materijali za podmazivanje, kako slijedi:
+
+a. Hidraulične tekućine koje sadrže, kao glavni sastojak, bilo koji od navedenih spojeva ili materijala:
+
+1. Sintetička ulja od silicij ugljikovodika, koja imaju sve od navedenog:
+
+Tehnička napomena:
+
+Za potrebe 1C006.a.1., ulja silicij ugljikovodika sadrže isključivo silikon, vodik i ugljik.
+
+a. Plamište veće od 477 K (204 °C);
+
+b. Kapljište pri 239 K (- 34 °C) ili manje;
+
+c. Indeks viskoznosti od 75 ili više; i
+
+d. Toplinsku stabilnost pri 616 K (343 °C); ili
+
+2. Klorofluorougljike koji imaju sve od navedenog:
+
+Tehnička napomena:
+
+Za potrebe 1C006.a.2., klorofluorougljici sadrže isključivo ugljik, fluor i klor.
+
+a. Nema plamišta;
+
+b. Temperatura autogenog zapaljenja veća od 977 K (704 °C);
+
+c. Kapljište pri 219 K (- 54 °C) ili manje;
+
+d. Indeks viskoznosti od 80 ili više; i
+
+e. Vrelište pri 473 K (200 °C) ili više;
+
+b. Materijali za podmazivanje sadrže, kao glavni sastojak, bilo koji od navedenih spojeva ili materijala:
+
+1. Fenilen ili alkilfenilen etere ili tio-etere, ili njihove smjese, koji sadrže više od dvije funkcionalne skupine etera ili tio-etera ili njihove smjese; ili
+
+2. Fluorirane silikonske tekućine kinematične viskoznosti manje od 5000 mm²/s (5000 centistoka) mjerene pri 298 K (25 °C);
+
+c. Tekućine za prigušivanje ili plutanje čistoće veće od 99,8%, koje sadrže manje od 25 čestica od 200 µm ili veće po veličini na 100 ml i koje su proizvedene od najmanje 85% od bilo kojeg od navedenih spojeva i materijala:
+
+1. Dibromotetrafluoroetan;
+
+2. Poliklorotrifluoroetilen (samo modifikacije ulja i voska); ili
+
+3. Polibromotrifluoroetilen;
+
+d. Fluorugljikove elektronske rashladne tekućine, koje imaju sve od navedenih karakteristika:
+
+1. Sadrže 85% težine ili više bilo kojeg od navedenog, ili njihovih mješavina:
+
+a. Monomerski oblici perfluoropolialkileter-triazini ili perfluoroalifatski eteri;
+
+b. Perfluoroalkilamini;
+
+c. Perfluorocikloalkani; ili
+
+d. Perfluoroalkani;
+
+2. Gustoće pri 298 K (25 °C) od 1,5 g/ml ili više;
+
+3. U tekućem stanju pri 273 K (0 °C); i
+
+4. Sadrže 60% ili više težine fluora.
+
+Tehnička napomena:
+
+Za potrebe 1C006:
+
+1. Plamište se određuje prema Klivlendskoj metodi otvorene šalice (Cleveland Open Cup Method) opisane u ASTM D-92 ili nacionalnim ekvivalentima;
+
+2. Kapljište se određuje pomoću metode opisane u ASTM D-97 ili nacionalnim ekvivalentima;
+
+3. Indeks viskoznosti se utvrđuje prema metodi opisanoj u ASTM D-2270 ili nacionalnim ekvivalentima;
+
+4. Termalna stabilnost se utvrđuje sljedećim ispitnim postupkom ili nacionalnim ekvivalentima:
+
+Dvadeset ml tekućine koja se ispituje stavi se u komoru od nehrđajućeg čelika tipa 317 od 46 ml koja sadrži po jednu kuglicu (nominalnog) promjera od 12,5 mm M-10 čelika za alate, 52100 čelika i brodske bronce (60% Cu, 39% Zn, 0,75% Sn);
+
+Komora je očišćena dušikom, zabrtvljena pri atmosferskom tlaku i temperaturi podignutoj i održavanoj na 644 ± 6 K (371 ± 6 °C) šest sati;
+
+Smatrat će se da je uzorak termalno stabilan ako, po dovršenju navedenog postupka, bude udovoljeno svim od navedenih uvjeta:
+
+a. Gubitak u težini svake od kuglica je manji od 10 mg/mm² površine kuglice;
+
+b. Promjena u odnosu na početni viskozitet utvrđen pri 311 K (38 °C) je manja od 25%; i
+
+c. Ukupni kiseli ili temeljni broj je manji od 0,40;
+
+5. Temperatura autogenog paljenja je utvrđena prema metodama opisanim u ASTM E-659 ili nacionalnim ekvivalentima.
+
+1C007 Keramički temeljni materijali, ne-«kompozitni« keramički materijali, keramički »matrični« »kompozitni« materijali i prekursori / materijali – preteče, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 1C107.
+
+a. Temeljni materijali od jednostrukih ili kompleksnih borida titana koji imaju ukupne metalne nečistoće, isključujući namjerne dodatke, manje od 5000 ppm, prosječnu veličinu čestica jednaku ili manju od 5 µm a ne više od 10% čestica većih od 10 µm;
+
+b. Ne-«kompozitni« keramički materijali u neobrađenom ili poluobrađenom obliku, koji se sastoje od borida titana gustoće od 98% ili više od teoretske gustoće;
+
+Napomena:1C007.b. se ne odnosi na abrazive.
+
+c. Keramički-keramički »kompozitni« materijali s »matricom« od stakla ili oksida i ojačani vlaknima koja imaju sve od navedenog:
+
+1. Izrađena od bilo kojeg od navedenih materijala:
+
+a. Si-N;
+
+b. Si-C;
+
+c. Si-Al-O-N; ili
+
+d. Si-O-N; i
+
+2. Specifične čvrstoće na vlak veće od 12,7 × 103m;
+
+d. Keramički-keramički »kompozitni« materijali, sa ili bez kontinuiranom metalnom fazom, koji se sastoje od čestica, čuperaka ili vlakana, kod kojih »matricu« tvore karbidi ili nitridi silicija, cirkonija ili bora;
+
+e. Prekursori / materijali preteče (odnosno polimerni ili metalo-organski materijali za posebne namjene) za proizvodnju bilo koje faze ili faza materijala navedenih u 1C007.c., kako slijedi:
+
+1. Polidiorganosilani (za proizvodnju silicijevog karbida);
+
+2. Polisilazani (za proizvodnju silicijevog nitrida);
+
+3. Polikarbosilazani (za proizvodnju keramike sa silicijevim, ugljikovim i dušikovim komponentama);
+
+f. Keramički-keramički »kompozitni« materijali s »matricom« od oksida ili stakla ojačani kontinuiranim vlaknima iz bilo kojeg od navedenih sustava:
+
+1. Al2O3; ili
+
+2. Si-C-N.
+
+Napomena: 1C007.f. se ne odnosi na »kompozite« koji sadrže vlakna iz sustava u kojima vlakna imaju čvrstoću na vlak manju od 700 MPa pri 1273 K (1000 °C) ili otpor protiv plastičnog preoblikovanja vlačnom silom od više od 1% naprezanja zbog klizanja pri 100 MPa opterećenja i 1273 K (1000 °C) za 100 sati.
+
+1C008 Nefluorirane polimerske tvari, kako slijedi:
+
+a. 1. Bismaleimidi;
+
+2. Aromatski poliamid-imidi;
+
+3. Aromatski poliimidi;
+
+4. Aromatski polieterimidi s temperaturom prelaska u staklo (Tg) višom od 513 K (240 °C);
+
+Napomena: 1C008.a. kontrolira tvari u tekućem ili krutom stanju, uključujući smole, praškove, filmove, vrpce i trake.
+
+NAPOMENA: Za »netaljive« aromatske poliamide u obliku filma, listova, traka ili vrpca vidi 1A003.
+
+b. Termoplastični tekući kristalni kopolimeri čija temperatura promjene zbog topline premašuje 523 K (250 °C) mjereno prema normi ISO 75-2 (2004) metoda A, ili ekvivalentnoj nacionalnoj normi, s opterećenjem od 1,80 N/mm², i koji se sastoje od:
+
+1. Bilo čega od navedenog:
+
+a. Fenilena, bifenilena ili naftalena; ili
+
+b. Metilom, tercijarnim-butilom ili fenilom supstituiranog fenilena, bifenilena ili naftalena; i
+
+2. Bilo koje od navedenih kiselina:
+
+a. Tereftalna kiselina;
+
+b. 6-hidroksi-2 naftalne kiseline; ili
+
+c. 4-hidroksibenzojeve kiseline;
+
+c. izbrisano;
+
+d. Poliaril ketoni;
+
+e. Poliaril sulfidi, gdje je arilna skupina bifenilna, trifenilna ili njihova kombinacija;
+
+f. Polibifenilenetersulfon s temperaturom prelaska u staklo (Tg) višom od 513 K(240°C).
+
+Tehnička napomena:
+
+Temperatura pri kojoj prelaze u staklo (Tg) za materijale u 1C008 utvrđena je metodom opisanom u normi ISO 11357-2 (1999) ili ekvivalentnoj nacionalnoj normi.
+
+1C009 Neobrađeni spojevi s fluorom, kako slijedi:
+
+a. Kopolimeri viniliden fluorida koji imaju 75% ili više beta kristalinične strukture bez rastezanja;
+
+b. Fluorirani polimidi koji sadrže 10% težinskog udjela ili više vezanog fluora;
+
+c. Fluorinirani fosfazen elastomeri koji sadrže 30% ili više težinskog udjela vezanog fluora.
+
+1C010 »Vlaknasti ili filamentni materijali« koji se mogu koristiti u organskoj »matrici«, metalnoj »matrici« ili ugljikovoj »matrici« »kompozitnih« struktura ili laminata, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 1C210.
+
+a. Organski »vlaknasti ili filamentni materijali«, koji imaju sve od navedenog:
+
+1. »Specifični modul« veći od 12,7 × 106 m; i
+
+2. »Specifična vlačna čvrstoća« veća od 23,5 × 104 m;
+
+Napomena:1C010.a. ne odnosi se na polietilen.
+
+b. Ugljikovi »vlaknasti ili filamentni materijali«, koji imaju sve od navedenog:
+
+1. »Specifični modul« veći od 12,7 × 106 m; i
+
+2. »Specifična vlačna čvrstoća« veća od 23,5 × 104 m;
+
+Napomena: 1C010.b. ne odnosi se na tkanine napravljene od »vlaknastih ili filamentnih materijala« za popravak konstrukcija »civilnih letjelica« ili laminata, kod kojih veličina svakog lista ne premašuje 100 cm × 100 cm.
+
+Tehnička napomena:
+
+Svojstva materijala opisanih u 1C010.b. treba utvrditi pomoću preporučenih metoda SRM 12 do 17 SACMA-a, ISO 10618(2004) 10.2.1 metoda A ili nacionalnih ekvivalentnih testova, a temeljem lota prosječne veličine.
+
+c. Anorganski »vlaknasti ili filamentni materijali«, koji imaju sve od navedenog:
+
+1. »Specifični modul« koji je veći od 2,54 × 106 m; i
+
+2. Točke taljenja, omekšavanja, raspadanja ili sublimacije koje su više od 1922 K (1649 °C) u inertnoj okolini;
+
+Napomena: 1C010.c. ne odnosi se na:
+
+a. Diskontinuirana, višefazna, polikristalinična aluminijska vlakna u obliku rezanih vlakana ili nasumično čupava oblika, koja sadrže 3 težinska postotka ili više silicija, sa specifičnim modulom manjim od 10 × 106 m;
+
+b. Molibden i vlakna slitine molibdena
+
+c. Vlakna od bora
+
+d. Diskontinuirana keramička vlakna s točkama taljenja, omekšavanja, raspadanja ili sublimacije nižim od 2043 K (1770 °C) u inertnoj okolini.
+
+d. »Vlaknasti ili filamentni materijali«:
+
+1. Sastavljeni od bilo kojeg od navedenog:
+
+a. Polieterimida navedenih u 1C008.a.; ili
+
+b. Materijala navedenih u 1C008.b. do 1C008.f.; ili
+
+2. Sastavljeno od materijala navedenih u 1C010.d.1.a. ili 1C010.d.1.b. i »izmješano« s ostalim vlaknima navedenim u 1C010.a., 1C010.b. ili 1C010.c.;
+
+e. Vlakna impregnirana s umjetnim ili prirodnim smolama (preprezi), vlakna presvučena metalom ili ugljikom (predoblici) ili »predoblici ugljičnih vlakana«, kako slijedi:
+
+1. Izrađeni od »vlaknastih ili filamentnih materijala« navedenih u 1C010.a., 1C010.b. ili 1C010.c.;
+
+2. Izrađeni od organskih ili ugljičnih »vlaknastih ili filamentnih materijala«:
+
+a. »Specifična vlačna čvrstoća« veća od 17,7 × 104 m;
+
+b. »Specifični modul« viši od 10,15 × 106 m;
+
+c. Nije obuhvaćeno 1C010.a. ili 1C010.b.; i
+
+d. Kad ih se impregnira s materijalima navedenim u 1C008 ili 1C009.b., uz temperaturu prijelaza u staklo (Tg) koja je viša od 383 K (110 °C) ili sa fenolnim ili epoksi smolama, čija je temperatura prijelaza u staklo (Tg) jednaka ili viša od 418 K (145 °C).
+
+Napomena: 1C010.e. se ne odnosi na:
+
+a. »Matricu« od epoksi smole impregniranu ugljičnim »vlaknastim ili filamentnim materijalima« (preprezi) za popravak konstrukcija »civilnih letjelica« ili laminata, i čija veličina pojedinog lista predimpregniranog materijala nije veća od 100 cm × 100 cm;
+
+b. Preprezi impregnirani s fenolnim ili epoksi smolama i temperaturom prelaska u staklo (Tg) nižom od 433 K (160 °C) i temperaturom vulkaniziranja nižom od temperature prijelaza u staklo.
+
+Tehnička napomena:
+
+Temperatura prijelaza u staklo (Tg) za materijale iz 1C010.e. utvrđena je pomoću metode opisane u ASTM D 3418 suhom metodom. Temperatura prijelaza u staklo za fenolne i epoksi smole utvrđena je metodom opisanom u ASTM D 4065 pri frekvenciji od 1 Hz i brzine zagrijavanja od 2 K (°C) po minuti suhom metodom.
+
+1C011 Metali i spojevi, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE I 1C111.
+
+a. Metali u česticama veličine manje od 60 µm bilo da su kuglaste, atomizirane, zaobljene, ljuskaste ili mljevene, proizvedenima od materijala koji sadrži 99% ili više cirkonija, magnezija ili njihovih slitina;
+
+Tehnička napomena:
+
+Prirodni sadržaj hafnija u cirkoniju (tipično 2% do 7%) uračunava se kao cirkonij.
+
+Napomena: Metali ili slitine navedeni u 1C011.a. nalaze se pod nadzorom bez obzira jesu li metali ili slitine sadržani u aluminiju, magneziju, cirkoniju ili beriliju.
+
+b. Bor ili borov karbid od 85% čistoće ili više i veličine čestica od 60 µm ili manje;
+
+Napomena: Metali ili slitine navedeni u 1C011.b. nalaze se pod nadzorom bez obzira jesu li metali ili slitine učahureni u aluminiju, magneziju, cirkoniju ili beriliju.
+
+c. Guanidin nitrat;
+
+d. Nitroguanidin (NQ) (CAS 556-88-7).
+
+1C012 Materijali kako slijedi:
+
+Tehnička napomena:
+
+Ovi se materijali obično upotrebljavaju za izvore nuklearne topline.
+
+a. Plutonij u bilo kojem obliku s analizom izotopa plutonija plutonij-238 od više od 50% po težini;
+
+Napomena: 1C012.a. ne odnosi se na:
+
+a. Pošiljke sa sadržajem plutonija od 1 g ili manje;
+
+b. Pošiljke od 3 »efektivna grama« ili manje kad se nalaze u senzornoj komponenti instrumenata.
+
+b. »Prethodno izdvojen« neptunij-237 u bilo kojem obliku.
+
+Napomena: 1C012.b. ne odnosi se na pošiljke sa sadržajem neptunija-237od 1 g ili manje.
+
+1C101 Materijali i uređaji za smanjenje uočljivosti, kao što su radarska odbojnost, ultraljubičaste/infracrvene oznake i akustične oznake, osim onih navedenih u 1C001, koji se koriste za »projektile« i podsustave »projektila« ili bespilotne letjelice navedene u 9A012.
+
+Napomena 1: 1C101 uključuje:
+
+a. Strukturalne materijale i prevlake posebno predviđene za smanjenje radarske odbojnosti;
+
+b. Prevlake, uključujući boje, posebno predviđene za smanjenu ili podešenu odbojnost ili sposobnost zračenja u mikrovalnim, infracrvenim ili ultraljubičastim područjima elektromagnetskog spektra.
+
+Napomena 2: 1C101 ne uključuje prevlake kad se posebno koriste za toplinsku kontrolu satelita.
+
+Tehnička napomena:
+
+U 1C101 izraz »projektil« predstavlja kompletan raketni sustav i sustave bespilotnih letjelica čiji domet prelazi 300 km.
+
+1C102 Materijali ugljik-ugljik ponovno zasićeni pirolizom namijenjeni za svemirske letjelice navedene u 9A004 ili istražne rakete navedene u 9A104.
+
+1C107 Grafitni i keramički materijali, osim onih navedenih u 1C007, kako slijedi:
+
+a. Sitnozrnati grafiti gustoće 1,72 g/cm³ ili veće, mjereno pri 288 K (15 °C), i čije su čestice veličine 100 mikrometara ili manje, koji se koriste za mlaznice »projektila« i vrhove letjelica koje imaju mogućnost vraćanja iz svemira, kako slijedi:
+
+1. Cilindri promjera od 120 mm ili većeg i dužine od 50 mm ili veće;
+
+2. Cijevi čiji je unutarnji promjer 65 mm ili veći i debljina stijenki 25 mm ili veća i dužine 50 mm ili veće; ili
+
+3. Blokovi čija je veličina 120 mm × 120 mm × 50 mm ili veća;
+
+NAPOMENA: VIDI TAKOĐER 0C004.
+
+b. Pirolitsko ili s vlaknima ojačani grafiti, koji se koriste za mlaznice »projektila« i vrhove nosova letjelica koje se vraćaju iz svemira i koji se koriste kod »projektila«, svemirska plovila iz 9A004 ili sondirne rakete iz 9A104;
+
+NAPOMENA: VIDI TAKOĐER 0C004
+
+c. Keramički kompozitni materijali (dielektrične konstante manje od 6 pri frekvenciji od 100 MHz do 100 GHz) koji se koriste u glavama »projektila«, nosačima raketa iz 9A004 ili sondirnim raketama iz 9A104;
+
+d. Keramika, koja je ojačana sa silicij-ugljičnim vlaknima, koja se koristi u glavama »projektila«, nosačima raketa iz 9A004 ili sondirnim raketama iz 9A104;.
+
+e. Keramički kompozitni materijali ojačani sa silicij-ugljičnim vlaknima, koja se koristi u glavama »projektila«, nosačima raketa iz 9A004 ili sondirnim raketama iz 9A104.
+
+1C111 Goriva i sastavne kemikalije goriva, osim onih navedenih u 1C011, kako slijedi:
+
+a. Propulzivne tvari:
+
+1. Kuglasti aluminijski prah, osim onog navedenog u Popisu robe vojne namjene, s česticama jednolikog promjera manjeg od 200 µm i sadržajem aluminija od 97% težinskog udjela ili više, ukoliko najmanje 10% ukupne težine čine čestice manje od 63 µm, prema ISO 2591:1988 ili nacionalnim ekvivalentima;
+
+Tehnička napomena:
+
+Veličina čestice od 63 µm (ISO R-565) odgovara otvoru mreže 250 (Tyler) ili otvoru mreže 230 (ASTM standard E-11).
+
+2. Metalna goriva, osim onih navedenih u Popisu robe vojne namjene, veličine čestica manje od 60 µm, bilo da se radi o kugličnim, atomiziranim, zaobljene, ljuskaste ili mljevene, koja imaju 97% težinskog udjela ili više bilo kojeg od navedenog:
+
+a. Cirkonija;
+
+b. Berilija;
+
+c. Magnezija; ili
+
+d. Slitina metala navedenih naprijed u a. do c.;
+
+Tehnička napomena:
+
+Prirodni sadržaj hafnija u cirkoniju (obično 2% do 7%) računa se zajedno s cirkonijem.
+
+3. Oksidansi, upotrebljivi kod raketnih motora na tekuće gorivo:
+
+a. Didušikov trioksid (CAS 10544-73-7);
+
+b. Nitrogen dioksid (CAS 10102-44-0)/dinitrogen tetroksid (CAS 10544-72-6);
+
+c. Didušikov pentoksid (CAS 10102-03-1);
+
+d. Miješani oksidi dušika (MON);
+
+Tehnička napomena:
+
+Miješani oksidi dušika (MON) su otopine dušikovog oksida (NO) u dinitrogen tetroksid/nitrogen dioksid (N2O4/NO2) koje se mogu koristiti za sustave projektila. Više je spojeva koji se mogu označavati kao MONi ili MONij, gdje su i i j cijeli brojevi koji predstavljaju postotak dušičnog oksida u mješavini (npr., MON3 sadrži 3% dušičnog oksida, MON25 25% dušičnog oksida. Gornja granica je MON40, 40% težinskog udjela).
+
+e. Vidi Popis robe vojne namjene za inhibiranu crveno pušeću dušičnu kiselinu (IRFNA);
+
+f. Vidi Popis robe vojne namjene i 1c238 za spojeve koji se sastoje od fluora i jednog ili više halogena, kisika ili dušika.
+
+4. Hidrazinski derivati:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE
+
+a. Trimetrilhidrazin (CAS 1741-01-1);
+
+b. Tetrametilhidrazin (CAS 6415-12-9);
+
+c. N, N dialilhidrazin;
+
+d. Alilhidrazin (CAS 7422-78-8);
+
+e. Etilen dihidrazin;
+
+f. Monometilhidrazin dinitrat;
+
+g. Nesimetrični dimetilhidrazin nitrat;
+
+h. Hidrazinijev azid (CAS 14546-44-2);
+
+i. dimetilhidrazinijev dinitrat;
+
+j. hidrazinijev nitrat;
+
+k. Diimido dihrazin oksalne kiseline;
+
+l. 2-hidroskietilhidrazin nitrat (HEHN);
+
+m. Vidi Popis robe vojne namjene za hidrazinijev perklorat;
+
+n. Hidrazinijev diperklorat;
+
+o. metilhidrazin nitrat (MHN)
+
+p. dietilhidrazin nitrat (DEHN);
+
+q. 3,6-dihidrazino tetrazin nitrat (1,4-dihidrazin nitrat) (DHTN);
+
+b. Polimerne tvari:
+
+1. Karboksi-terminirani polibutadien (uključno s karboksil-terminiranim polibutadienom) (CTPB);
+
+2. Hidroksi-terminirani polibutadien (uključno s hidroksil-terminiranim polibutadienom) (HTPB), osim navedenog u Popisu robe vojne namjene;
+
+3. Polibutadien-akrilna kiselina (PBAA);
+
+4. Polibutadien-akrilna kiselina – akrilonitril (PBAN);
+
+5. Politetrahidrofuran polietilen glikol (TPEG);
+
+Tehnička napomena:
+
+Politetrahidrofuran polietilen glikol (TPEG) je blok kopolimer poli 1,4-butandiola i polietilen glikola (PEG).
+
+c. Ostale dodatke i agense za goriva:
+
+1. Vidi Popis robe vojne namjene za karbaborane, dekaborane, pentaborane i njihove derivate
+
+2. Trietilen-glikol dinitrat (TEGDN) (CAS 111-22-8);
+
+3. 2-nitrodifenilamin (CAS 119-75-5);
+
+4. Trimetiloletan trinitrat (TMETN) (CAS 3032-55-1);
+
+5. Dietilen glikol dinitrat (DEGDN) (CAS 693-21-0);
+
+6. Derivati ferocena kako slijedi:
+
+a. Vidi Popis robe vojne namjene za katocen;
+
+b. Etil ferocen (CAS 1273-89-8);
+
+c. Propil ferocen;
+
+d. Vidi popis robe vojne namjene za n-butil ferocen
+
+e. Pentil ferocen (CAS 1274-00-6);
+
+f. Diciklopentil ferocen;
+
+g. Dicikloheksil ferocen;
+
+h. Dietil ferocen;
+
+i. Dipropil ferocen;
+
+j. Dibutil ferocen;
+
+k. Diheksil ferocen;
+
+l. Acetil ferocen;
+
+m. Vidi popis robe vojne namjene za ferocen ugljikovodične kiseline;
+
+n. Vidi popis robe vojne namjene za butacen;
+
+o. Drugi derivati ferocena koji se mogu koristiti kao modifikatori brzine izgaranja raketnih goriva, osim onih navedenih u Popisu robe vojne namjene.
+
+7. 4,5 diazidometil-2-metil-1,2,3-triazol (iso DAMTR), osim onih navedenih u Popisu robe vojne namjene
+
+Napomena: Za pogonska goriva i za kemikalije u njima sadržan, a koji nisu navedeni u 1C111, vidi Popis robe vojne namjene.
+
+1C116 Legirani čelici (čelici koje obično karakterizira visoki udio nikla, vrlo mali sadržaj ugljika i upotreba nadomjesnih elemenata ili precipitatora kako bi se proizvelo očvrsnuće starenjem) koji imaju graničnu čvrstoću na vlak od 1500 MPa ili veću, mjerenu pri 293 K (20 °C), u obliku lista, ploče ili cijevi s debljinom stjenke zida ili ploče jednakom ili manjom od 5 mm.
+
+NAPOMENA: VIDI TAKOĐER 1C216.
+
+Tehnička napomena:
+
+Martenzitni čelici su slitine željeza, koje generalno karakterizira visoki postotak nikla, vrlo mali udio ugljika i uporaba zamjenskih elemenata ili usedlina koje omogućavaju očvršćivanje starenjem.
+
+1C117 Volfram, molibden i slitine tih metala u obliku jednakih sferičnih ili atomiziranih čestica promjera od 500 mikrometra ili manje, čistoće 97% ili veće za izradu sastavnih dijelova raketnih motora »projektila«, svemirskih plovila iz stavke 9A004 ili sondirnih raketa iz stavke 9A104 (tj. za toplotne štitove, podloge mlaznica, grla mlaznica i površina, koje se koriste za upravljanje potiskom).
+
+1C118 Dvostruko nehrđajući čelik stabiliziran titanom (Ti-DSS) koji ima sve od navedenog:
+
+a. Koji ima sve od navedenih karakteristika:
+
+1. Koji sadrži 17,0-23,0 težinskog postotka kroma i 4,5-7,0 težinskog postotka nikla;
+
+2. Koji ima sadržaj titana veći od 0,10 težinskog postotka; i
+
+3. Feritno-austenitska mikrostruktura (koja se također naziva dvofazna mikrostruktura) koju čini najmanje 10 posto austenita po volumenu (prema ASTM E-1181-87 ili nacionalnim ekvivalentima); i
+
+b. Koji ima bilo koji od navedenih oblika:
+
+1. Grede ili šipke veličine 100 mm ili više u svakoj od dimenzija;
+
+2. Listovi širine od 600 mm ili više i debljine od 3 mm ili manje; ili
+
+3. Cijevi čiji je vanjski promjer od 600 mm ili više i debljina stijenke od 3 mm ili manje.
+
+1C202 Slitine, osim onih navedenih u 1C002.b.3. ili b.4., kako slijedi:
+
+a. Slitine aluminija koje imaju obje od navedenih karakteristika:
+
+1. ‘Mogu podnijeti’ graničnu čvrstoću na vlak od 460 MPa ili više pri 293 K (20 °C); i
+
+2. Nalaze se u cjevastim ili cilindričnim čvrstim oblicima (uključujući i kovane oblike) vanjskog promjera od više od 75 mm;
+
+b. Slitine titana koje imaju obje od navedenih karakteristika:
+
+1. ‘Mogu podnijeti’ graničnu čvrstoću na vlak od 900 MPa ili više pri 293 K (20 °C); i
+
+2. Nalaze se u cjevastim ili cilindričnim čvrstim oblicima (uključujući i kovane oblike) vanjskog promjera od više od 75 mm.
+
+Tehnička napomena:
+
+Izraz slitine koje ‘mogu podnijeti’ obuhvaća slitine prije i nakon toplinske obrade.
+
+1C210 ‘Vlaknasti ili filamentni materijali’ ili predimpregnirani materijali, osim onih navedenih u 1C010.a., b. ili e., kako slijedi:
+
+a. Ugljikovi ili aramidni ‘vlaknasti ili filamentni materijali’ koji imaju bilo koju od navedenih karakteristika:
+
+1. »Specifični modul« od 12,7 × 106 m ili veći; ili
+
+2. »Specifična vlačna čvrstoća« od 235 × 103 m ili veća;
+
+Napomena: 1C210.a. ne odnosi se na aramidne ‘vlaknaste ili filamentne materijale’ koji imaju 0,25 posto težinskog udjela ili više modifikatora površine vlakna na bazi estera;
+
+b. Stakleni ‘vlaknasti ili filamentni materijali’ koji imaju obje od navedenih karakteristika:
+
+1. »Specifični modul« od 3,18 × 106 m ili veći; i
+
+2. »Specifična vlačna čvrstoća« od 76,2 × 103 m ili veća;
+
+c. Neprekinute »niti«, »predivo«, »pređa« ili »trake« impregnirane termoaktivnom smolom širine od 15 mm ili manje (predimpregnirani materijali), izrađeni od ugljičnih ili staklenih ‘vlaknastih ili filamentnih materijala’ navedeni u 1C210.a. ili b.
+
+Tehnička napomena:
+
+Smole tvore matricu smjese.
+
+Napomena: U 1C210, ‘vlaknasti ili filamentni materijali’ su ograničeni na neprekinute »monofilamente«, »niti«, »predivo«, »pređu« ili »trake«.
+
+1C216 Legirani čelik, osim onog navedenog u 1C116, koji ‘može podnijeti’ graničnu čvrstoću na vlak od 2050 MPa ili više, pri 293 K  
+(20 °C).
+
+Napomena: 1C216 ne odnosi se na oblike čije su sve linerane dimenzije 75 mm ili manje.
+
+Tehnička napomena:
+
+Izraz legirani čelik koji ‘može podnijeti’ obuhvaća legirani čelik prije ili nakon toplinske obrade.
+
+1C225 Bor obogaćen izotopom bor-10 (10B) više od prirodne vrijednosti, kako slijedi: elementarni bor, spojevi, smjese koje sadrže bor, njihovi proizvodi, njihove otpadne tvari ili otpaci.
+
+Napomena: U 1C225 smjese koje sadrže bor treba uključiti materijale koji sadrže bor.
+
+Tehnička napomena:
+
+Prirodne vrijednosti izotopa bor-10 su približno 18,5 postotaka težinskog udjela (20 postotaka atomskog udjela).
+
+1C226 Volfram, volfram karbid i slitine koje sadrže više od 90% težinskog udjela volframa, koji imaju obje od navedenih karakteristika:
+
+a. U oblicima sa šupljom cilindričnom simetrijom (uključujući segmente cilindra) unutarnjeg promjera između 100 mm i 300 mm; i
+
+b. Mase veće od 20 kg.
+
+Napomena: 1C226 ne odnosi se na proizvode posebno izrađene za utege ili usmjerivače gama zraka.
+
+1C227 Kalcij koji ima obje od navedenih karakteristika:
+
+a. Sadrži manje od 1000 dijelova na milijun po težini metalne nečistoće koja nije magnezij; i
+
+b. Sadrži manje od 10 dijelova na milijun po težini bora.
+
+1C228 Magnezij koji ima obje od navedenih karakteristika:
+
+a. Sadrži manje od 200 dijelova na milijun po težini metalne nečistoće koja nije kalcij; i
+
+b. Sadrži manje od 10 dijelova na milijun po težini bora.
+
+1C229 Bizmut koji ima obje od navedenih karakteristika:
+
+a. Čistoću 99,99% ili veću po težini; i
+
+b. Sadrži manje od 10 dijelova na milijun po težini srebra.
+
+1C230 Metalni berilij, slitine koje sadrže više od 50% berilija po težini, spojevi berilija, njihovi proizvodi, i njihove otpadne tvari i otpaci.
+
+Napomena: 1C230 ne odnosi se na sljedeće:
+
+a. Metalni prozori za strojeve s X-zrakama, ili za uređaje za bušenje;
+
+b. Oksidni proizvedeni ili poluproizvedeni oblici posebno projektirani za dijelove elektronskih komponenti ili kao podloga za elektroničke krugove;
+
+c. Beril (silikat berilija i aluminija) u obliku smaragda ili akvamarina.
+
+1C231 Metalni hafnij, slitine koje sadrže više od 60% hafnija po težini, spojevi hafnija koji sadrže više od 60% hafnija po težini, njihovi proizvodi, i njihove otpadne tvari i otpaci.
+
+1C232 Helij-3 (3He), smjese koje sadrže helij-3, i proizvodi ili uređaji koji sadrže bilo koje od navedenog.
+
+Napomena: 1C232 ne odnosi se na proizvode ili uređaje koji sadrže manje od 1g helij-3.
+
+1C233 Izotop litij-6 (6Li) obogaćen litijem na vrijednost veću od prirodne, i proizvodi ili uređaji koji sadrže obogaćen litij, kako slijedi: elementarni litij, slitine, spojevi, smjese koje sadrže litij, njihovi proizvodi, njihove otpadne tvari i otpaci.
+
+Napomena: 1C233 ne odnosi se na termoluminescentne dozimetre.
+
+Tehnička napomena:
+
+Prirodne vrijednosti izotopa litij-6 su približno 6,5 postotaka težinskog udjela (7,5 postotaka atomskog udjela).
+
+1C234 Cirkonij sa sadržajem hafnija manjim od 1 dijela hafnija na 500 dijelova cirkonija po težini, kako slijedi: metal, slitine koje sadrže više od 50% cirkonija po težini, spojevi, njihovi proizvodi, njihove otpadne tvari i otpaci.
+
+Napomena: 1C234 ne odnosi se na cirkonij u obliku folije debljine od 0,10 mm ili manje.
+
+1C235 Tricij, spojevi tricija, smjese koje sadrže tricij u kojima je odnos atoma tricija prema atomima vodika veći od 1 dijela na 1000, i proizvodi i uređaji koji sadrže bilo koje od navedenog.
+
+Napomena: 1C235 ne odnosi se na proizvod ili uređaj koji sadrži manje od 1,48 × 103 GBq (40 Ci) tricija.
+
+1C236 Radionuklidi koji emitiraju alfa čestice čiji je alfa poluživot 10 dana ili više ali manji od 200 godina, u sljedećim oblicima:
+
+a. Elementarnom;
+
+b. Spojevima koji imaju ukupnu alfa aktivnost od 37 GBq/kg (1 Ci/kg) ili veću;
+
+c. Mješavinama koje imaju ukupnu alfa aktivnost od 37 GBq/kg (1 Ci/kg) ili veću;
+
+d. Proizvodima ili uređajima koji sadrže bilo koje od navedenog.
+
+Napomena: 1C236 ne odnosi se na nadzor proizvoda ili uređaja koji sadrže manje od 3,7 GBq (100 milikirija) alfa aktivnosti.
+
+1C237 Radij-226 (226Ra), slitine radij-226, spojevi radij-226, smjese koje sadrže radij-226, njihovi proizvodi, i proizvodi i uređaji koji sadrže bilo koje od navedenog.
+
+Napomena: 1C237 ne odnosi se na sljedeće:
+
+a. Medicinske aplikatore;
+
+b. Proizvod ili uređaj koji sadrži manje od 0,37 GBq (10 milikirija) radij-226.
+
+1C238 Klorov trifluorid (ClF3).
+
+1C239 Jaki eksplozivi, osim onih navedenih u Popisu robe vojne namjene, ili tvari ili smjese koje sadrže više od 2% njihove težine, s gustoćom kristala većom od 1,8 g/cm³ i brzinom detonacije većom od 8000 m/s.
+
+1C240 Prah nikla ili porozni metal nikla, osim onih navedenih u 0C005, kako slijedi:
+
+a. Prah nikla koji ima obje od navedenih karakteristika:
+
+1. Sadržaj čistoće nikla od 99,0% ili veće po težini; i
+
+2. Srednja veličina čestice manja od 10 mikrometra mjereno prema standardu B330 Američkog društva za ispitivanje materijala (ASTM);
+
+b. Porozni metal nikla proizveden od materijala navedenih u 1C240.a.
+
+Napomena: 1C240 ne odnosi se na sljedeće:
+
+a. Filamentarne praškove nikla;
+
+b. Jednostruke porozne listove nikla površine od 1000 cm² po listu ili manje.
+
+Tehnička napomena: 1C240.b. odnosi se na porozni metal oblikovan tiješnjenjem i sinteriranjem materijala u 1C240.a. kako bi se oblikovao materijal sa svojstvima metala koji ima po cijeloj svojoj strukturi fine međusobno povezane pore.
+
+1C350 Kemikalije, koje se mogu koristiti kao prekursori za otrovne kemijske agense, kako slijedi, i »kemijska smjesa« koja sadrži jedno ili više od navedenog:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE I 1C450.
+
+1. Tiodiglikol (111-48-8);
+
+2. Fosforov oksiklorid (10025-87-3);
+
+3. Dimetil metilfosfonat (756-79-6);
+
+4. VIDI POPIS ROBE VOJNE NAMJENE ZA
+
+Metil fosfonil difluorid (676-99-3);
+
+5. Metil fosfonil diklorid (676-97-1);
+
+6. Dimetil fosfit (DMP) (868-85-9);
+
+7. Fosforov triklorid (7719-12-2);
+
+8. Trimetil fosfit (TMP) (121-45-9);
+
+9. Tionil klorid (7719-09-7);
+
+10. 3-Hidroksi-1-metilpiperidin (3554-74-3);
+
+11. N,N-Diisopropil-(beta)-aminoetil klorid (96-79-7);
+
+12. N,N-Diisopropil-(beta)-aminoetan tiol (5842-07-9);
+
+13. 3-kvinuklidinol (1619-34-7);
+
+14. Kalijev fluorid (7789-23-3);
+
+15. 2-Kloroetanol (107-07-3);
+
+16. Dimetilamin (124-40-3);
+
+17. Dietil etilfosfonat (78-38-6);
+
+18. Dietil-N,N-dimetilfosforamidat (2404-03-7);
+
+19. Dietil fosfit (762-04-9);
+
+20. Dimetilamin hidroklorid (506-59-2);
+
+21. Etil fosfinil diklorid (1498-40-4);
+
+22. Etil fosfonil diklorid (1066-50-8);
+
+23. VIDI POPIS ROBE VOJNE NAMJENE ZA
+
+Etil fosfonil difluorid (753-98-0);
+
+24. Vodikov fluorid (7664-39-3);
+
+25. Metil benzilat (76-89-1);
+
+26. Metil fosfinil diklorid (676-83-5);
+
+27. N,N-Diisopropil-(beta)-amino etanol (96-80-0);
+
+28. Pinakolil alkohol (464-07-3);
+
+29. VIDI POPIS ROBE VOJNE NAMJENE ZA
+
+O-Etil-2-diisopropilaminoetil metil fosfonit (QL) (57856-11-8);
+
+30. Trietil fosfit (122-52-1);
+
+31. Arsenov triklorid (7784-34-1);
+
+32. Benzojeva kiselina (76-93-7);
+
+33. Dietil metilfosfonit (15715-41-0);
+
+34. Dimetil etilfosfonat (6163-75-3);
+
+35. Etil fosfinil difluorid (430-78-4);
+
+36. Metil fosfinil difluorid (753-59-3);
+
+37. 3-kvinuklidon (3731-38-2);
+
+38. Fosforni pentaklorid (10026-13-8);
+
+39. Pinakolon (75-97-8);
+
+40. Kalijev cijanid (151-50-8);
+
+41. Kalijev bifluorid (7789-29-9);
+
+42. Amonijev vodikov fluorid ili amonijev bifluorid (1341-49-7);
+
+43. Natrijev fluorid (7681-49-4);
+
+44. Natrijev bifluorid (1333-83-1);
+
+45. Natrijev cijanid (143-33-9);
+
+46. Trietanolamin (102-71-6);
+
+47. Fosforni pentasulfid (1314-80-3);
+
+48. Di-isopropilamin (108-18-9);
+
+49. Dietilaminoetanol (100-37-8);
+
+50. Natrijev sulfid (1313-82-2);
+
+51. Sumporni monoklorid (10025-67-9);
+
+52. Sumporni diklorid (10545-99-0);
+
+53. Trietanolamin hidroklorid (637-39-8);
+
+54. N,N-Diisopropil-(beta)-aminoetil klorid hidroklorid (4261-68-1);
+
+55. metilfosfonska kselina (993-13-5);
+
+56. dietil metilfosfonat (683-08-9);
+
+57. N,N-dimetilaminofosforil diklorid (677-43-0);
+
+58. Triisopropil fosfit (116-17-6);
+
+59. Etildietanolamin (139-87-7);
+
+60. O,O-dietil fosforotioat (2465-65-8);
+
+61. O,O-dietil fosforotitoat (298-06-6);
+
+62. natrijev hesafluorosilikat (16893-85-9);
+
+63. metilfosfonotiojski diklorid (676-98-2).
+
+Napomena 1: Za izvoz u »Države koje nisu potpisnice Konvencije o kemijskom oružju«, 1C350 se ne odnosi na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C350.1,.3,.5,.11,.12,.13,.17,.18,.21,.22,.26,.27,.28,.31,.32,.33,.34,.35,.36,.54,.55,.56,.57 i 63 u kojima nijedna pojedinačno navedena kemikalija ne čini više od 10% težinski smjese.
+
+Napomena 2: Za izvoz u »Države koje jesu potpisnice Konvencije o kemijskom oružju«, 1C350 se ne odnosi na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C350.1,.3,.5,.11,.12,.13,.17,.18,.21,.22,.26,.27,.28,.31,.32,.33,.34,.35,.36,.54,.55,.56,.57, i 63 i u kojima nijedna pojedinačno navedena kemikalija ne čini više od 30% težinski smjese.
+
+Napomena 3: 1C350 se ne odnosi na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C350.2,.6,.7,.8,.9, 10,.14,.15,.16,.19,.20,.24,.25,.30,.37,.38,.39,.40,.41,.42,.43,.44,.45,.46,.47,.48,.49,.50,.51,.52,.53,.58,.59,.60,.61 i 62 u kojima nijedna pojedinačno navedena kemikalija ne čini više od 30% težinski smjese.
+
+Napomena 4: 1C350 se ne odnosi na proizvode za koje je utvrđeno da su potrošačka roba pakirana za maloprodaju za osobnu uporabu ili pakirani za pojedinačnu uporabu.
+
+1C351 Ljudski patogeni, zoonoze i »toksini«, kako slijedi:
+
+a. Virusi, bilo prirodni, pojačani ili modificirani, bilo u obliku »izolirane žive kulture« ili kao materijali koji uključuju živi materijal koji je bio namjerno zaražen ili kontaminiran s takvim kulturama, kako slijedi:
+
+1. Virus Chikungunya;
+
+2. Virus krimsko-kongoanske hemoragijske groznice;
+
+3. Virus dengue;
+
+4. Virus istočnog encefalitisa konja;
+
+5. Virus Ebola;
+
+6. Virus Hantaan;
+
+7. Virus Junin;
+
+8. Virus Lassa;
+
+9. Virus limfocitnog koriomeningitisa;
+
+10. Virus Machupo;
+
+11. Virus Marburg;
+
+12. Virus majmunskih boginja;
+
+13. Virus groznice Rift Valley;
+
+14. Virus krpeljnog encefalitisa (virus ruskog proljetno-ljetnog krpeljnog encefalitisa);
+
+15. Virus variole ili virus velikih boginja;
+
+16. Virus venezuelskog encefalitisa konja;
+
+17. Virus zapadnog encefalitisa konja;
+
+18. bijele boginje;
+
+19. Virus žute groznice;
+
+20. Virus japanskog encefalitisa;
+
+21. Virus Kyasanur Forest;
+
+22. Virus bolesti poskakivanja (Louping ill);
+
+23. Virus Murray Valley encefalitisa;
+
+24. Virus hemoragijske groznice Omsk;
+
+25. Virus Oropouche;
+
+26. Virus Powassan;
+
+27. Virus Rocio;
+
+28. Virus St Louis encefalitisa;
+
+29. Virus Hendra (Equine morbillivirus);
+
+30. Južnoamerička hemoragijska groznica (Sabia, Flexal, Guanarito);
+
+31. Virusi hemoragijske groznice s pulmonarnim i renalnim sindromom (Seoul, Dobrava, Puumala, Sin Nombre);
+
+32. Virus Nipah.
+
+b. Rikecije, bilo prirodne, pojačane ili modificirane, bilo u obliku »izolirane žive kulture« ili kao materijal koji uključuje živi materijal koji je bio namjerno zaražen ili kontaminiran takvim kulturama, kako slijedi:
+
+1. Coxiella burnetii;
+
+2. Bartonella quintana (Rochalimaea quintana, Rickettsia quintana);
+
+3. Rickettsia prowasecki;
+
+4. Rickettsia rickettsii;
+
+c. Bakterije, bilo prirodne, pojačane ili modificirane, bilo u obliku »izolirane žive kulture« ili kao materijal koji uključuje živi materijal koji je bio namjerno zaražen ili kontaminiran takvim kulturama, kako slijedi:
+
+1. Bacillus anthracis;
+
+2. Brucella abortus;
+
+3. Brucella melitensis;
+
+4. Brucella suis;
+
+5. Chlamydia psittaci;
+
+6. Clostridium botulinum;
+
+7. Francisella tularensis;
+
+8. Burkholderia mallei (Pseudomonas mallei);
+
+9. Burkholderia pseudomallei (Pseudomonas pseudomallei);
+
+10. Salmonella typhi;
+
+11. Shigella dysenteriae;
+
+12. Vibrio cholerae;
+
+13. Yersinia pestis;
+
+14. Clostridium perfringens epsilon tipovi koji stvaraju toksin;
+
+15. Enterohemoragijska Escherichia coli, serotip O157 i drugi serotipovi koji stvaraju verotoksin.
+
+d. »Toksini«, kako slijedi, i njihove »podjedinice toksina«:
+
+1. Botulinum toksini;
+
+2. Clostridium perfringens toksini;
+
+3. Conotoksin;
+
+4. Ricin;
+
+5. Saxitoksin;
+
+6. Shiga toksin;
+
+7. Staphylococcus aureus toksini;
+
+8. Tetrodotoksin;
+
+9. Verotoksin i shigi slične bjelančevine koje onesposobljavaju ribosome;
+
+10. Microcystin (Cyanginosin);
+
+11. Alfatoksini;
+
+12. Abrin;
+
+13. Cholera toksin;
+
+14. Diacetoxyscirpenol toksin;
+
+15. T-2 toksin;
+
+16. HT-2 toksin;
+
+17. Modeccin;
+
+18. Volkensin;
+
+19. Viscum album Lectin 1 (Viscumin).
+
+Napomena: 1C351.d. ne odnosi se na botulinum toksine ili konotoksine kad su u obliku proizvoda koji udovoljava svim od navedenih kriterija:
+
+1. da su farmaceutske formule namijenjene za uporabu ljudi u liječenju zdravstvenih stanja;
+
+2. da su prethodno pakirani za distribuciju kao medicinski proizvodi;
+
+3. da ih je državna institucija odobrila za prodaju kao medicinske proizvode.
+
+e. Gljive, prirodne, uzgojene ili modificirane, bilo da su u obliku »izoliranih živih kultura« ili u obliku materijala koji sadrži, namjerno cijepljen ili zaražen s takvim kulturama:
+
+1. Coccidioides immitis;
+
+2. Coccidioides posadasii.
+
+Napomena: 1C351 ne odnosi se na »cjepivo« ili »imunotoksin«.
+
+1C352 Životinjski patogeni, kako slijedi:
+
+a. Virusi, bilo da su nativni, ojačani ili modificirani, bilo da su u obliku »izolirane žive kulture« ili materijala koji uključuje živi materijal koji je namjerno nacijepljen ili kontaminiran takvim kulturama, kako slijedi:
+
+1. Virus afričke svinjske kuge;
+
+2. Virus influence ptica, koji je:
+
+a. Neokarakteriziran; ili
+
+b. Definiran u Pravilniku o mjerama za suzbijanje i kontrolu influence ptica (»Narodne novine« br. 131/06) kao visokopatogeni virus influence:
+
+1. Tipa A sa intravenskim indeksom patogenosti (IVIP) većim od 1.2 u šest tjedana starih pilića; ili
+
+2. Tipa A, podtipovima H5 ili H7 sa slijedom u genomu koji kodira višestruko zastupljene bazične aminokiseline na mjestu cijepanja hemaglutinina;
+
+3. Virus bolesti plavoga jezika;
+
+4. Virus slinavke i šapa;
+
+5. Virus kozjih boginja;
+
+6. Virus bolesti Aujeszkoga;
+
+7. Virus klasične svinjske kuge;
+
+8. Virus bjesnoće;
+
+9. Virus newcastleske bolesti;
+
+10. Virus kuge malih preživača;
+
+11. Virus vezikularne enterovirusne bolesti svinja (enterovirus tip 9);
+
+12. Virus goveđe kuge;
+
+13. Virus ovčjih boginja;
+
+14. Virus zarazne uzetosti svinja;
+
+15. Virus vezikularnog stomatitisa;
+
+16. Virus bolesti kvrgave kože;
+
+17. Virus konjske kuge.
+
+b. Mikroplazma miocidov, bilo da je prirodna, ojačana ili modificirana, bilo da je u obliku »izolirane žive kulture« ili materijala koji je namjerno nacijepljen ili kontaminiran s takovim kulturama kao što su:
+
+1. Mikroplazma miocidov, podvrsta miocidi SC (mala kolonija – small colony);
+
+2. Mikroplazma capricolum, podvrsta capripneumoniae.
+
+Napomena: 1C352 ne odnosi se na »cjepivo«.
+
+1C353 Genetski elementi i genetički modificirani organizmi, kako slijedi:
+
+a. Genetski modificirani organizmi ili genetski elementi koji sadrže nizove nukleinske kiseline koji su povezani s patogenošću organizama navedenih u 1C351.a. 1C351.b., 1C351.c., 1C351.e., 1C352 ili 1C354;
+
+b. Genetički modificirani organizmi ili genetski elementi koji sadrže nizove nukleinske kiseline koji su šifrirani za bilo koji od »toksina« naveden u 1C351.d. ili njihovih »podjedinica toksina«.
+
+Tehničke napomene:
+
+1. Genetski elementi uključuju, između ostalog, kromosome, genome, plazmide, transpozone i vektore, bili oni genetski modificirani ili nemodificirani.
+
+2. Niz nukleinske kiselin povezan sa patogenošću bilo kojeg mikroorganizma navedenog u točki 1C351.a. 1C351.b., 1C351.c., 1C351.e., 1C352 ili 1C354 označava niz karakterističan za određeni mikroorganizam koji:
+
+a. U sebi ili pomoću svojih kopiranih ili prenesenih produkata predstavlja značajnu opasnost za zdravlje ljudi, životinja ili biljaka, ili
+
+b. Je poznat da povećava sposobnost određenog mikroorganizma ili bilo kojeg drugog organizma, u kojeg može biti ugrađen ili drugačije integriran, te predstavlja značajnu opasnost za zdravlje ljudi, životinja ili biljaka.
+
+Napomena: 1C353 se ne odnosi na nizove nukleinske kiseline koji su povezani s patogenošću enterohemoragične bakterije Escherichia coli, serotip O157, i drugih sojeva koji proizvode verotoksin, osim onih koji su kodirani za verotoksin, ili za njegove podjedinice.
+
+1C354 Biljni patogeni, kako slijedi:
+
+a. Virusi, bilo prirodni, uzgojeni ili modificirani, bilo u obliku »izolirane žive kulture« ili kao materijali koji uključuju živi materijal koji je bio namjerno zaražen ili kontaminiran s takvim kulturama, kako slijedi:
+
+1. Krumpirov andski latentni timovirus;
+
+2. Krumpirov viroid vretenastoga gomolja;
+
+b. Bakterije, bilo prirodne, uzgojene ili modificirane, bilo u obliku »izolirane žive kulture« ili kao materijal koji uključuje živi materijal koji je bio namjerno zaražen ili kontaminiran takvim kulturama, kako slijedi:
+
+1. Xanthomonas albilineans;
+
+2. Xanthomonas campestris pv. citri uključujući vrste nazvane Xanthomonas campestris pv. citri tipovi A, B, C, D, E ili drukčije klasificirane kao Xanthomonas citri, Xanthomonas campestris pv. auranijtifolia ili Xanthomonas campestris pv. citrumelo;
+
+3. Xanthomonas oryzae pv. Oryzae (Pseudomonas campestris pv. Oryzae);
+
+4. Clavibacter michiganensis subsp. Sepedonicus (Corynebacterium michiganensis subsp. Sepedonicum or Corynebacterium Sepedonicum);
+
+5. Ralstonia solanacearum vrste 2 i 3 (Pseudomonas solanacearum vrste 2 i 3 ili Burkholderia solanacearum vrste 2 i 3);
+
+c. Gljivice, bilo prirodne, uzgojene ili modificirane, bilo u obliku »izolirane žive kulture« ili kao materijal koji uključuje živi materijal koji je bio namjerno zaražen ili kontaminiran takvim kulturama, kako slijedi:
+
+1. Colletotrichum coffeanum var. virulans (Colletotrichum kahawae);
+
+2. Cochliobolus miyabeanus (Helminthosporium oryzae);
+
+3. Microcyclus ulei (syn. Dothidella ulei);
+
+4. Puccinia graminis (syn. Puccinia graminis f. sp. tritici);
+
+5. Puccinia striiformis (syn. Puccinia glumarum);
+
+6. Magnaporthe grisea (pyricularia grisea/pyricularia oryzae).
+
+1C450 Toksične kemikalije i toksične kemijske prekursore, kako slijedi, i »kemijske smjese« koji sadrže jedno ili više od navedenog:
+
+NAPOMENA: VIDI TAKOĐER STAVKE 1C350, 1C351.d. I POPIS ROBE VOJNE NAMJENE.
+
+a. Otrovne kemikalije, kako slijedi:
+
+1. Amiton: O,O-Dietil S-[2-(dietilamino)etil] fosforotiolat (78-53-5) i odgovarajuće alkilirane ili protonirane soli;
+
+2. PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluorometil)-1-propen (382-21-8);
+
+3. VIDI POPIS ROBE VOJNE NAMJENE ZA BZ:
+
+3-kvinuklidinil benzilat (6581-06-2);
+
+4. Fozgen: Karbonil diklorid (75-44-5);
+
+5. Cijanogen klorid (506-77-4);
+
+6. Vodikov cijanid (74-90-8);
+
+7. Kloropikrin: Trikloronitrometan (76-06-2);
+
+Napomena 1: Za izvoz u »zemlje koje nisu potpisnice Konvencije o kemijskom oružju«, 1C450 se ne odnosi na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C450.a.1 i a.2. u kojima nijedna pojedinačno navedena kemikalija ne čini više od 1% težinskih smjese.
+
+Napomena 2: Za izvoz u »zemlje koje jesu potpisnice Konvencije o kemijskom oružju«, 1C450 se ne odnosi na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C450.a.1. i a.2. u kojima nijedna pojedinačno navedena kemikalija ne čini više od 30% težinskih smjese.
+
+Napomena 3: 1C450 se ne odnosi na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C450.a.4.,.a.5.,.a.6. i a.7. u kojima nijedna pojedinačno navedena kemikalija ne čini više od 30% težinskih smjese.
+
+Napomena 4: 1C450 se ne odnosi na proizvode koji spadaju u robu široke potrošnje za osobnu uporabu zapakirane za prodaju na malo ili zapakirane za individualnu uporabu.
+
+b. Otrovne kemijske prekursore, kako slijedi:
+
+1. Kemikalije, osim onih navedenih u Popisu robe vojne namjene ili u 1C350, koje sadrže atom fosfora na koji je vezana jedna metil, etil ili propil (normalna ili izo) skupina ali ne više atoma ugljika;
+
+Napomena: 1C450.b.1 se ne odnosi na fonofos: O-Etil S-fenil etilfosfonotiolotionat (944-22-9);
+
+2. N,N-dialkil [metil, etil ili propil (normalne ili izo)] fosforamidni dihalidi, osim N,N-dimetilaminofosforil diklorida;
+
+N.B.: Za N,N-dimetilaminofosforil diklorida vidi 1C350.57
+
+3. Dialkil [metil, etil ili propil (normalan ili izo)] N,N-dialkil [metil, etil ili propil (normalan ili izo)]-fosforoamidat, osim Dietil-N,N-dimetilfosforoamidat koji je naveden u 1C350;
+
+4. N,N-Dialkil [metil, etil ili propil (normalne ili izo)] aminoetil-2-kloride i odgovarajuće protonirane soli, osim N,N-Diisopropil-(beta)-aminoetil klorid ili N,N-Diisopropil-(beta)-aminoetil klorid hidroklorid koji su navedeni u 1C350;
+
+5. N,N-Dialkil [metil, etil ili propil (normalan ili izo)] aminoetan-2-oli i odgovarajuće protonirane soli, osim N,N-Diisopropil-(beta)-aminoetanol (96-80-0) i N,N-Dietilaminoetanol (100-37-8) koji su navedeni u 1C350;
+
+Napomena: 1C450.b.5. ne odnosi se na sljedeće:
+
+a. N,N-Dietilaminoetanol (108-01-0) i odgovarajuće protonirane soli;
+
+b. Protonirane soli N,N-Dietilaminoetanola (100-37-8);
+
+6. N,N-Dialkil [metil, etil ili propil (normalni ili izo)] aminoetan-2-tioli i odgovarajuće protonirane soli, osim N,N-Diisopropil-(beta)-aminoetan tiol koji je naveden u 1C350;
+
+7. Vidi 1C350 za etildietanolamin (139-87-7);
+
+8. Metildietanolamin (105-59-9).
+
+Napomena 1: Za izvoz u »zemlje koje nisu potpisnice Konvencije o kemijskom oružju«, 1C450 ne odnosi se na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C450.b.1.,.b.2.,.b.3.,.b.4.,.b.5. i b.6. u kojima nijedna pojedinačno navedena kemikalija ne čini više od 10% težinskih smjese.
+
+Napomena 2: Za izvoz u »zemlje koje jesu potpisnice Konvencije o kemijskom oružju«, 1C450 ne odnosi se na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C450.b.1.,.b.2.,.b.3.,.b.4.,.b.5. i b.6. u kojima nijedna pojedinačno navedena kemikalija ne čini više od 30% težinskih smjese.
+
+Napomena 3: 1C450 ne odnosi se na »kemijske smjese« koje sadrže jednu ili više kemikalija navedenih u stavkama 1C450.b.8 u kojima nijedna pojedinačno navedena kemikalija ne čini više od 30% težinskih smjese.
+
+Napomena 4: 1C450 se ne odnosi na proizvode koji spadaju u robu široke potrošnje za osobnu uporabu zapakirane za prodaju na malo ili zapakirane za individualnu uporabu.
+
+| 1D | Softver |  |
+|---|---|---|
+
+1D001 »Softver« posebno izrađen ili modificiran za »razvoj«, »proizvodnju« ili uporabu« opreme navedene u 1B001 do 1B003.
+
+1D002 »Softver« za »razvoj« organskih »matrica«, metalnih »matrica« ili ugljičnih matrica« laminata ili »kompozita«.
+
+1D003 »Softver« posebno izrađen ili modificiran da omogući opremi obavljene funkcije kontrolirane u 1A004.c. ili 1A004.d.
+
+1D101 »Softver« posebno izrađen ili modificiran za »uporabu« robe navedene u 1B101, 1B102, 1B115, 1B117, 1B118 ili 1B119.
+
+1D103 »Softver« posebno izrađen za analizu smanjene vidljivosti kao što su radarska odbojnost, ultraljubičaste/infracrvene oznake i akustične oznake.
+
+1D201 »Softver« posebno izrađen za »uporabu« robe navedene u 1B201.
+
+| 1E | Tehnologija |  |
+|---|---|---|
+
+1E001 »Tehnologija« prema općoj napomeni o tehnologiji za »razvoj« ili »proizvodnju« opreme ili materijala navedenih u 1A001.b., 1A001.c., 1A002 do 1A005, 1A006.b., 1A007, 1B ili 1C.
+
+1E002 Ostala »tehnologija«, kako slijedi:
+
+a. »Tehnologija« za »razvoj« ili »proizvodnju« polibenzotiazola ili polibenzooksazola;
+
+b. »Tehnologija« za »razvoj« ili »proizvodnju« spojeva fluoroelastomera koji sadrže najmanje jedan vinileter monomer;
+
+c. »Tehnologija« za izradu ili »proizvodnju« sljedećih baznih materijala ili ne-»kompozitnih« keramičkih materijala:
+
+1. Bazne materijale koji imaju sve od navedenih karakteristika:
+
+a. Bilo koji od navedenih spojeva:
+
+1. Jednostruke ili složene okside cirkonija i složene okside silicija ili aluminija;
+
+2. Jednostruke nitrid bora (kubičnih kristalnih oblika);
+
+3. Jednostruke ili složene karbide silicija ili bora; ili
+
+4. Jednostruke ili složene nitride silikona;
+
+b. Potpuno metalne nečistoće, izuzev namjerno dodanih, koje su manje od:
+
+1. 1000 ppm za jednostruke okside ili karbide; ili
+
+2. 5000 ppm za složene spojeve ili jednostruke nitride; i
+
+c. Su bilo koje od navedenog:
+
+1. Cirkonij s prosječnom veličinom čestice jednakom ili manjom od 1 µm i ne više od 10% čestica većim od 5 µm;
+
+2. Ostali bazni materijali s prosječnom veličinom čestice jednakom ili manjom od 5 µm i ne više od 10% čestica većim od 10 µm; ili
+
+3. Koji imaju sve od navedenog:
+
+a. Pločice čiji odnos dužine i debljine premašuje 5;
+
+b. Čuperke čiji odnos dužine i promjera premašuje 10 za promjere manje od 2 µm; i
+
+c. Neprekinuta ili sjeckana vlakna promjera manjeg od 10 µm;
+
+2. Ne-»kompozitne« keramičke materijale koji se sastoje od materijala opisanih u 1E002.c.1;
+
+Napomena: 1E002.c.2. ne odnosi se na »tehnologiju« za izradu ili proizvodnju abraziva.
+
+d. »Tehnologija« za »proizvodnju« vlakana od aromatskih poliamida;
+
+e. »Tehnologija« za postavljanje, održavanje i popravak materijala navedenih u 1C001;
+
+f. »Tehnologija« za popravak »kompozitnih« konstrukcija, laminata ili materijala navedenih u 1A002, 1C007.c. ili 1C007.d.;
+
+Napomena: 1E002.f. ne odnosi se na »tehnologiju« za popravak konstrukcija »civilnih letjelica« korištenjem ugljikovih »vlaknastih ili filamentnih materijala« i epoksi smola, sadržanih u priručniku za proizvođače letjelica.
+
+g. Biblioteke (parametarske tehničke baze podataka) posebno projektirane ili modificirane kako bi opremi omogućile obavljanje funkcija kontroliranih u 1A004.c. ili 1A004.d.
+
+Tehnička napomena:
+
+Za potrebe 1E002.g., pojam ‘biblioteka’ (parametarska tehnička baza podataka) označava kolekciju tehničkih informacija, koje proširuju mogućnosti odgovarajuće opreme ili sustava.
+
+1E101 »Tehnologija« prema Napomeni o tehnologiji općenito za »uporabu« roba navedenih u 1A102, 1B001, 1B101, 1B102, 1B115 do 1B119, 1C001, 1C101, 1C107, 1C111 do 1C117, 1D101 ili 1D103.
+
+1E102 »Tehnologija« prema Napomeni o tehnologiji općenito za »razvoj« »softvera« navedene u 1D001, 1D101 ili 1D103.
+
+1E103 »Tehnologija« za upravljanje temperaturom, tlakom ili atmosferom u autoklavima ili hidroklavima, kad se koristi za »proizvodnju« »kompozita« ili djelomično obrađenih »kompozita«.
+
+1E104 »Tehnologija« koja se odnosi na »proizvodnju« pirolizom dobivenih materijala koji se oblikuju u kalupu, na škripcu ili drugoj podlozi od prekurzivnih plinova koji se raspadaju na temperaturi u rasponu od 1573 K (1300 °C) do 3173 K (2900 °C) pri tlakovima od 130 Pa do 20 kPa.
+
+Napomena: 1E104 uključuje »tehnologiju« za miješanje preteča/prekursora plinova, programe i parametre za upravljanje protokom i procesom.
+
+1E201 »Tehnologija« koja je u skladu s općom Napomenom o tehnologiji namijenjena za »uporabu« roba navedenih u 1A002, 1A007, 1A202, 1A225 do 1A227, 1B201, 1B225 do 1B233, 1C002.b.3. ili b.4, 1C010.b., 1C202, 1C210, 1C216, 1C225 do 1C240 ili 1D201.
+
+1E202 »Tehnologija« prema Napomeni o tehnologiji općenito za »razvoj« ili »proizvodnju« robe navedene u 1A007, 1A202 ili 1A225 do 1A227.
+
+1E203 »Tehnologija« prema Napomeni o tehnologiji općenito za »razvoj« »softvera« navedene u 1D201.
+
+#### KATEGORIJA 2 — OBRADA MATERIJALA
+
+| 2A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+NAPOMENA: Za bešumne ležajeve, vidi Popis robe vojne namjene
+
+2A001 Ležajevi bez trenja i ležajni sustavi, te njihove komponente:
+
+Napomena: Predmet nadzora u stavki 2A001 nisu tolerancijske kuglice, koje su prema specifikacijama proizvođača u skladu s normom ISO 3290 stupanj 5 ili slabiji.
+
+a. Kuglični ležajevi i valjkasti ležajevi čija je sva dopuštena odstupanja proizvođač naveo prema ISO 492 razredu dopuštenog odstupanja 4 (ili ANSI/ABMA standard 20 razredu dopuštenog odstupanja ABEC 7 ili RBEC-7 ili drugim ekvivalentnim nacionalnim normama), ili bolje, i čiji su prsteni, kuglični ili valjkasti elementi (ISO 5593) izrađeni od monela ili berilija;
+
+Napomena: 2A001.a. ne odnosi se na stožaste valjkaste ležajeve.
+
+b. Ostali kuglični ležajevi i valjkasti ležajevi čija je sva dopuštena odstupanja proizvođač naveo prema ISO 492 razredu dopuštenog odstupanja 2 (ili ANSI/ABMA standard 20 razredu dopuštenog odstupanja ABEC-9 ili RBEC-9, ili drugim ekvivalentnim nacionalnim normama) ili bolje;
+
+Napomena: 2A001.b. ne odnosi se na stožaste valjkaste ležajeve.
+
+c. Aktivni magnetski ležajni sustavi koji koriste bilo koje od navedenog:
+
+1. Materijale s gustoćom magnetskog toka od 2,0 T ili većom i čvrstoćom materijala kod granice popuštanja materijala većom od 414 MPa;
+
+2. Elektromagnetne 3D homopolarne materijale za aktivatore; ili
+
+3. Visoke temperature (450 K (177 °C) i više) pozicijske senzore.
+
+2A225 Lonci za taljenje izrađeni od materijala otpornih na tekuće aktinidne metale, kako slijedi:
+
+a. Lonci za taljenje koji imaju obje od navedenih karakteristika:
+
+1. Volumen između 150 cm³ i 8000 cm³; i
+
+2. Izrađeni od ili presvučeni bilo kojim od navedenih materijala, čistoće od 98% ili veće po težini:
+
+a. Kalcijev fluorid (CaF2);
+
+b. Kalcijev cirkonat (metacirkonat) (CaZrO3);
+
+c. Cerijev sulfid (Ce2S3);
+
+d. Erbijev oksid (erbij) (Er2O3);
+
+e. Hafnijev oksid (hafnij) (HfO2);
+
+f. Magnezijev oksid (MgO);
+
+g. Slitina nitrid niobij-titan-volfram (približno 50% Nb, 30% Ti, 20% W);
+
+h. Itrijev oksid (itrij) (Y2O3); ili
+
+i. Cirkonijev oksid (cirkonij) (ZrO2);
+
+b. Lonci za taljenje koji imaju obje od navedenih karakteristika:
+
+1. Volumen između 50 cm³ i 2000 cm³; i
+
+2. Izrađen od ili obloženi tantalom, 99,9%-tne čistoće ili veće po težini;
+
+b. Lonci za taljenje koji imaju sve od navedenih karakteristika:
+
+1. Volumen između 50 cm³ i 2000 cm³;
+
+2. Izrađeni od ili obloženi tantalom, čistoće od 98% ili veće po težini; i
+
+3. Prevučeni tantalovim karbidom, nitridom, boridom, ili bilo kojom njihovom kombinacijom.
+
+2A226 Ventili koji imaju sve od navedenih karakteristika:
+
+a. ‘Nazivnu veličinu’ 5 mm ili veću;
+
+b. Brtvljenje mijehom; i
+
+c. U potpunosti su izrađeni od ili obloženi aluminijem, slitinom aluminija, nikla ili slitinom nikla koje sadrže više od 60% nikla po težini.
+
+Tehnička napomena:
+
+Za ventile s različitim ulaznim i izlaznim promjerima, ‘Nazivne veličine’ u 2A226 odnose se na najmanji promjer.
+
+| 2B | Oprema za ispitivanje, pregled i proizvodnju |  |
+|---|---|---|
+
+Tehničke napomene:
+
+1. Sekundarne paralelne konturne osi, (npr., w-os na vodoravnoj bušilici ili sekundarna rotacijska os čija je središnja linija paralelna s primarnom rotacijskom osi) ne računaju se u ukupni broj konturnih osi. Nije potrebno da rotacijske osi mogu rotirati više od 360°. Rotacijsku os može pokretati linearni uređaj (npr. vijak ili prijenos s vretenom).
+
+2. Za potrebe 2B, broj osi koje se mogu simultano uskladiti za »vođenje po konturi« je broj osi koje utječu na relativni pomak između bilo kojeg predmeta koji se obrađuje i alata, glave za rezanje ili brusnog kola koji režu ili uklanjaju materijal s predmeta koji se obrađuje. Ovo ne uključuje bilo koje dodatne osi koje utječu na druge relativne pomake stroja. Takve osi uključuju:
+
+a. Sustave za oblikovanje kotačem ili strojeve za brušenje;
+
+b. Paralelne rotacijske osi namijenjene za postavljanje odvojenih predmeta za obradu;
+
+c. Kolinearne rotacijske osi namijenjene rukovanju istih predmeta za obradu koji ih učvršćuju u određenom položaju od različitih krajeva.
+
+3. Označavanje osi bit će u skladu s Međunarodnim normama ISO 841, ‘Strojevi za numeričko upravljanje – označavanje osi i kretanja’
+
+4. Za potrebe 2B001 do 2B009 »njihajuće vratilo« računa se kao rotaciona os.
+
+5. »Deklarirana razina točnosti pozicioniranja« prema ISO 230/2 (1988)([1]) ili nacionalnim ekvivalentima može se koristiti za svaki model alatnog stroja umjesto provođenja individualnog ispitivanja stroja. Navedena točnost pozicioniranja označava vrijednosti točnosti koju je izvoznik dostavio nadležnim tijelima države sudionice u kojoj je izvoznik prijavljen, a koja je reprezentativna za taj model stroja.
+
+Utvrđivanje »Deklarirane razine točnosti pozicioniranjai«
+
+a. Odabrati pet strojeva modela koji se procjenjuje;
+
+b. Mjeriti točnosti linearnih osi prema ISO 230/2 (1988) (1);
+
+c. Utvrditi A-vrijednosti za svaku os svakog stroja. Metoda izračunavanja A-vrijednosti opisana je u ISO normi;
+
+d. Utvrditi srednju vrijednost A-vrijednosti za svaku os. To znači da vrijednost Â postaje navedena vrijednost za svaku os za model (Âx Ây...);
+
+e. Budući da se popis Kategorije 2 odnosi na svaku linearnu os, bit će onoliko navedenih vrijednosti koliko ima linearnih osi;
+
+f. Ako bilo koja os modela stroja koji nije provjeren s 2B001.a. do 2B001.c. ili 2B201 ima navedenu točnost Â od 6 mikrona za strojeve za brušenje i 8 mikrona za strojeve za glodanje i struganje ili bolje, proizvođač će morati ponovno potvrditi razinu točnosti svakih osamnaest mjeseci.
+
+2B001 Strojni alati, kako slijedi, i bilo koja njihova kombinacija, za uklanjanje (ili rezanje) metala, keramike ili »kompozita«, koji, prema tehničkim specifikacijama proizvođača, mogu biti opremljeni elektronskim uređajima za »numeričku kontrolu«, i za njih posebno predviđene komponente kako slijedi:
+
+NAPOMENA:VIDI TAKOĐER 2B201.
+
+Napomena 1: 2B001 ne odnosi se na alatne strojeve posebne namjene koji su ograničeni na izradu zupčanika. Za takve strojeve vidi 2B003.
+
+Napomena 2: 2B001 ne odnosi se na alatne strojeve posebne namjene koji su ograničeni na izradu bilo kojeg od navedenih dijelova:
+
+a. Koljenastih vratila ili bregastih osovina;
+
+b. Alata ili reznih alata;
+
+c. Puževa za ekstrudiranje;
+
+d. Graviranih ili brušenih dijelova nakita.
+
+Napomena 3: Alatni strojevi koji posjeduju barem dvije od tri mogućnost struganja, glodanja ili brušenja (npr. stroj za struganje s mogućnošću za glodanja), moraju biti razmatrani po svakoj od primjenjivih stavki, 2B001.a., b. ili c.
+
+NAPOMENA: Za strojeve sa optičkom završnom obradom vidi 2B002.
+
+a. Alatni strojevi za struganje, koji imaju sve od niže navedenih karakteristika:
+
+1. Točnost pozicioniranja sa »svim raspoloživim kompenzacijama« jednaku ili manju (bolju) od 6 µm prema normi ISO 230/2 (1988)([2]) ili ekvivalentoj nacionalnoj normi, duž bilo koje linearne osi; i
+
+2. Dvije ili više osi koje se mogu istovremeno usklađivati za »kopirno upravljanje«;
+
+Napomena: 2B001.a. ne odnosi se na strojeve za struganje posebno projektirane za proizvodnju kontaktnih leća koji imaju sve od niže navedenih karakteristika:
+
+a. Upravljač stroja ograničen na uporabu softvera za unošenje djelomično programiranih podataka; i
+
+b. Bez vakumskog isisavanja.
+
+b. Alatni strojevi za glodanje, koji imaju bilo koju od navedenih karakteristika:
+
+1. Koji imaju sve od navedenog:
+
+a. Točnost pozicioniranja sa »svim raspoloživim kompenzacijama« jednaku ili manju (bolju) od 6 µm prema ISO 230/2 (1988)(2) ili nacionalnim ekvivalentima duž bilo koje linearne osi; i
+
+b. Tri linearne osi i jedna rotaciona os koje se mogu istovremeno usklađivati za »kopirno upravljanje«;
+
+2. Pet ili više osi koje se mogu istovremeno usklađivati za »konturno upravljanje«; ili
+
+3. Točnost postavljanja za strojeve za bušenje, sa »svim raspoloživim kompenzacijama« jednakim ili lošijim (boljim) od 4 µm prema ISO 230/2 (1988)(2) ili nacionalnim ekvivalentima duž bilo koje linearne osi;
+
+4. Strojevi za rezanje sa zamašnjakom, koji imaju sve od navedenih karakteristika:
+
+a. Zanošenje (»radijalno zanošenje« i »aksijalno zanošenje«) vretena manje (bolje) od 0,0004 mm TIR; i
+
+b. Kutno odstupanje pri kliznom kretanju (zaošijanje, posrtanje i valjanje) manje (bolje) od 2 sekunde po luku, TIR preko 300 mm radnog hoda;
+
+c. Alatni strojevi za brušenje, koji imaju bilo koju od niže navedenih karakteristika:
+
+1. Koji imaju sve od niže navedenog:
+
+a. Točnost pozicioniranja sa »svim raspoloživim kompenzacijama« jednaku ili manju (bolju) od 4 µm prema ISO 230/2 (1988)(2) ili nacionalnim ekvivalentima duž bilo koje linearne osi; i
+
+b. Tri ili više osi koje se mogu istovremeno usklađivati za »kopirno upravljanje«; ili
+
+2. Pet ili više osi koje se mogu istovremeno usklađivati za »kopirno upravljanje«;
+
+Napomena: 2B001.c. ne odnosi se na strojeve za brušenje, kako slijedi:
+
+a. Cilindrične vanjske, unutarnje i vanjsko-unutarnje strojeve za brušenje koji imaju sve od navedenih karakteristika:
+
+1. Da su ograničeni na cilindrično brušenje; i
+
+2. Da su ograničeni na najveći kapacitet predmeta koji se obrađuje od 150 mm izvan promjera ili dužine.
+
+b. Strojevi posebno namijenjeni za koordinatno brušenje koji nemaju z-osi niti w-osi, s točnosti pozicioniranja, sa »svim raspoloživim kompenzacijama«, manjom (boljom) od 4 µm po ISO normi 230/2 (1988) ili odgovarajućoj nacionalnoj normi, duž bilo koje linearne osi.
+
+c. Alati za oblikovno brušenje.
+
+d. Strojevi na principu pražnjena električnog naboja (EDM) bežičnog tipa sa dvije ili više rotacionih osi koje se mogu istovremeno koristiti za »kopirno upravljanje«;
+
+e. Alatni strojevi za uklanjanje metala, keramike ili »kompozita«:
+
+1. Uklanjanje materijala pomoću bilo kojeg od navedenog:
+
+a. Mlazova vode ili bilo koje druge tekućine, uključujući i one koji koriste abrazivne aditive;
+
+b. Elektronskog snopa; ili
+
+c. »Laserskog« snopa; i
+
+2. Koji imaju dvije ili više rotacionih osi koje:
+
+a. Se istovremeno mogu usklađivati za »kopirno upravljanje«; i
+
+b. Čija je točnost postavljanja lošije (bolje) od 0,003°;
+
+f. Strojevi za duboko bušenje i strojevi na okretanje koji su podešeni za duboko bušenje, koji mogu bušiti do najveće dubine više od 5000 mm i za njih posebno predviđene komponente.
+
+2B002 Numerički upravljani alatni strojevi za optičku završnu obradu, opremljeni za selektivno uklanjanje materijala pri proizvodnji nesferičnih površina i koji imaju sve sljedeće karakteristike:
+
+a. Završnu obradu površine manju (bolju) od 1.0 mikrometara;
+
+b. Završnu obradu s hrapavošću manjom (boljom) od 100 nm rms;
+
+c. Četiri ili više osi koje mogu biti istovremeno koordinirane za »upravljanje po konturi«; i
+
+d. Koriste bilo koji od sljedećih procesa:
+
+1. Magnetoreološku završnu obradu (MRF);
+
+2. Elektroreološku završnu obradu (ERF);
+
+3. Završnu obradu mlazom energetskih čestica;
+
+4. ‘Završna obrada alatom s membranom na napuhavanje’; ili
+
+5. ‘Završna obrada fluidom’.
+
+Tehnička napomena:
+
+Za potrebe 2B002
+
+1. ’MRF’ je proces obrade odstranjivanjem materijala pomoću abrazivnog magnetnog fluida čija se viskoznost kontrolira pomoću magnetnog polja.
+
+2. ’ERF’ je proces odstranjivanja materijala pomoću abrazivnog fluida čija je viskoznost upravljana električnim poljem.
+
+3. ‘Završna obrada mlazom energetskih čestica’ koristi RAP (Reactive Atom Plasmas) ili mlazove iona radi selektivnog odstranivanja materijala.
+
+4. ‘Završna obrada alatom s membranom na napuhavanje’ je postupak, pri kojem se za odstranjivanje materijala koristi stisnjena membrana, koja se deformira na takav način da je u kontaktu samo manji dio membrane.
+
+5. ‘Završna obrada fluidom’ je postupak pri kojem se za odstranjivanje materijala koristi mlaz fluida.
+
+2B003 »Numerički kontrolirani« ili ručni strojni alati, i posebno predviđene komponente, njihovi upravljački mehanizmi i pribor, posebno projektirani za blanjanje, dotjerivanje, brušenje ili oštrenje zakaljenih (Rc = 40 ili više) grebena, spiralnih i dvostruko spiralnih prijenosnih mehanizama čiji je promjer razdjelnog kruga veći od 1250 mm a lice širine od 15% promjera razdjelnog kruga ili veće dotjerano do kvalitete AGMA 14 ili bolje (jednako ISO 1328 razred 3).
+
+2B004 Vruće »izostatske preše«, koje imaju sve od navedenog, i posebno za njih predviđene komponente i pribor:
+
+NAPOMENA: VIDI TAKOĐER 2B104 i 2B204.
+
+a. Kontrolirana termička okolina unutar zatvorene šupljine i šupljine komore unutarnjeg promjera od 406 mm ili više; i
+
+b. Bilo koje od navedenog:
+
+1. Najveći radni tlak viši od 207 MPa;
+
+2. Kontrolirana termička okolina više od 1773 K (1500 °C); ili
+
+3. Uređaj za impregnaciju ugljikovodikom i uklanjanje proizvoda nastalih degradacijom plina.
+
+Tehnička napomena:
+
+Unutarnje dimenzije komore odnose se na komoru u kojoj se postižu i radna temperatura i radni tlak te ne uključuje ugrađene uređaje. Ta će dimenzija biti manja i od unutarnjeg promjera tlačne komore i od unutarnjeg promjera izolirane komore peći, ovisno o tome koja se od spomenutih komora nalazi unutar druge.
+
+Napomena: Za posebno projektirane uloške za prešanje, kalupe i alat vidi 1B003, 9B009 i popis robe vojne namjene.
+
+2B005 Oprema posebno projektirana za taloženje, obradu i kontrolu tijekom postupka nadzora anorganskih prevlaka, premaza i površinskih nanosa, za ionizirane medije, po postupcima prikazanim u Tablici i napomenama koje se na njih odnose nakon stavke 2E003.f., i za njih posebno projektirane komponente za automatsko rukovanje, postavljanje, i upravljanje:
+
+a. Proizvodna oprema za kemijske postupke nanašanja (Chemical Vapour Deposition/CVD), koja ima sve od navedenog:
+
+NAPOMENA: VIDI TAKOĐER 2B105.
+
+1. Postupak modificiran jednim od navedenog:
+
+a. Pulsirajući CVD;
+
+b. Kontrolirano termičko nanašanje djelića (KNTT); ili
+
+c. CVD ojačano ili potpomognuto plazmom; i
+
+1. Bilo koje od navedenog:
+
+a. Ugrađene rotirajuće brtve u visokog vakuuma (jednake ili manje od 0,01 Pa); ili
+
+b. Ima ugrađen nadzor nad debljinom prevlaka na proizvodima;
+
+b. Proizvodna oprema za ionsko nanošenje koja daje struju snopa od 5 mA ili više;
+
+c. Proizvodnja oprema s fizikalnim nanašanjem pomoću elektronskog snopa (EB-PVD), koja ima sustave napajanja sa snagom većom od 80 kW, i koja ima bilo koje od navedenog:
+
+1. Sustav s »laserski« upravljanom razinom napajanja; ili
+
+2. Ugrađen monitor za računalom upravljani nadzor stupnja nanašanja prelake iz dva ili više elementa, pri čemu se odvija postupak po principu foto – luminiscence ioniziranih atomov u obliku pare;
+
+d. Proizvodna oprema za raspršavanje plazme koja ima bilo koju od navedenih karakteristika:
+
+1. Radi u kontroliranoj atmosferi sa smanjenim tlakom (jednakim ili manjim od 10 kPa mjereno iznad i unutar 300 mm izlaza mlaznice taložnika) u vakuumskoj komori koja ima mogućnost podtlaka do 0,01 Pa prije postupka nanašanja; ili
+
+2. Ima ugrađen nadzor nad debljinom prevlake;
+
+e. Proizvodna oprema za nanošenje raspršenih kapljica koja može postići gustoću struje od 0,1 mA/mm² ili više pri brzini nanašanja od 15 µm/h ili više;
+
+f. Proizvodna oprema za nanašenje katodnog luka elektrona, opremljena mrežom elektromagneta za kontrolu točke nanašanja na katodi;
+
+g. Proizvodna oprema na osnovi ionske ploče, koja omogućuje mjerenje sljedećih parametara u samoj napravi:
+
+1. Debljine prevlake na podlozi i brzini nanašanja; ili
+
+2. Optičkih karakteristika.
+
+Napomena: 2B005 se ne odnosi na opremu za taloženje kemijskih par s katodnim lukom, taloženjem kapljica, ionskim oblaganjem ili ionskim nanašanjem, posebno projektiranu za alat za rezanje ili alatne strojeve.
+
+2B006 Mjerni sustavi, oprema i »elektronski sklopovi« za kontrolu dimenzija kako slijedi:
+
+a. Koordinatni mjerni strojevi (CMM) upravljani računalom, ili »numerički upravljani«, s trodimenzionalnom (volumenskom) najvećom dozvoljenom greškom MPPE (Maximum permissible error of indication) u bilo kojoj točki dosega stroja (tj. po dužini osi) jednaku ili manju (bolju) od (1,7 + L/1000) µm (L je izmjerena dužina u mm), ispitano sukladno normi ISO 10360-2 (2001);
+
+NAPOMENA: VIDI TAKOĐER 2B206.
+
+b. Instrumenti za mjerenje linearnog i kutnog pomaka, kako slijedi:
+
+1. »Instrumenti za mjerenje linearne greške« koji imaju bilo što od navedenog:
+
+Tehnička napomena:
+
+Za potrebe 2B006.b.1. ‘linearni pomak’ označava promjenu u udaljenosti između mjerne sonde i objekta mjerenja.
+
+a. Sustavi za mjerenje bez dodira kod kojih je »rezolucija« jednaka ili manja (viša) od 0,2 µm unutar područja mjerenja do 0,2 mm;
+
+b. Sustavi za diferencijalno pretvaranje linearnog napona koji imaju sve od navedenih karakteristika:
+
+1. »Linearnost« jednaku ili manju (bolju) od 0,1% unutar područja mjerenja do 5 mm; i
+
+2. Pomak jednak ili manji (bolji) od 0,1% na dan pri standardnom ispitivanju temperature okolnog zraka ± 1 K; ili
+
+c. Mjerni sustavi koji imaju sve od navedenog:
+
+1. Koji sadrže »laser«; i
+
+2. Koji održavaju, najmanje 12 sati, pri rasponu temperature od ± 20°C oko standardne temperature i pri standardnom pritisku, sve od navedenog:
+
+a. »Rezolucija« kroz njihovu punu skalu od 0,1 µm ili manje (bolje); i
+
+b. »Mjernu kolebljivost« jednaku ili manju (bolju) od (0,2 + L/2000) µm (L je mjerena dužina u mm); ili
+
+d. »Elektronički sklopovi« specijalno izrađeni s predviđenom povratnom povezanošću u sustavima navedenim u 2B006.b.1.c.;
+
+Napomena: 2B006.b.1. ne kontrolira mjerne interferometrične sustave s automatskom kontrolom sustav, koji su izrađeni bez uporabe tehnike povratne spreg, koji sadrže »laser« za mjerenje pogrešaka u kretanju zbog klizanja strojnih alata, strojeve za pregled dimenzija ili sličnu opremu.
+
+2. Instrumente za mjerenje kutnog pomaka koji imaju odstupanje od kutnog položaja jednako ili manje (bolje) od 0,00025°;
+
+Napomena: 2B006.b.2. ne odnosi se na optičke instrumente kao što su autokolimatori koji koriste kolimirano svjetlo za otkrivanje pomaka ogledala.
+
+c. Opremu za mjerenje nepravilnosti površine, mjerenjem optičkog rasipanja kao funkcije kuta, s osjetljivošću od 0,5 nm ili manje (bolje).
+
+Napomena: Alatni strojevi koji se mogu koristiti kao strojevi za mjerenje su pod nadzorom ako udovoljavaju ili premašuju kriterije navedene za funkcije strojnih alata ili funkcije strojeva za mjerenje.
+
+2B007 »Roboti« koji imaju bilo koju od navedenih karakteristika i za njih posebno predviđeni kontrolori i »krajnje jedinice«
+
+NAPOMENA: VIDI TAKOĐER 2B207.
+
+a. Koji su sposobni u stvarnom vremenu obraditi punu trodimenzionalnu sliku ili punu trodimenzionalnu ‘analizu scene’ kako bi izradili ili modificirali »program« ili izradili ili modificirali brojčane podatke o programu;
+
+Tehnička napomena:
+
+Ograničenje u smislu ‘analize scene’ ne uključuje približavanje treće dimenzije promatranjem pod određenim kutom, ili ograničenu interpretaciju sive skale za uočavanje dubine ili sastava odobrenih zadataka (21/2 D).
+
+b. Posebno projektirani da udovoljavaju nacionalnim sigurnosnim standardima koji se primjenjuju na potencijalno eksplozivnu okolinu;
+
+Napomena: 2B007.b. ne kontrolira »robote«koji su posebno namijenjeni za uporabu u lakirnicama.
+
+c. Posebno projektirani ili ocijenjeni kao otporni na radijaciju kako bi mogli podnijeti ukupne količine radioaktivnog zračenja veće od 5 × 103 Gy (silicij) bez smanjenja radnih karakteristika; ili
+
+Tehnička napomena:
+
+Izraz Gy (silicij) odnosi se na energiju u džulima po kilogramu koju apsorbira nezaštićeni uzorak silicija kad je izložen ionizirajućem zračenju.
+
+d. Posebno projektirani da rade na visinama višim od 30000 m.
+
+2B008 Sklopovi, jedinice ili umetci, posebno projektirani za alatne strojeve, ili pregled dimenzija ili sustave i opremu za mjerenje, kako slijedi:
+
+a. Jedinice za linearno postavljanje s povratnom vezom (npr., uređaji induktivnog tipa, skale sa stupnjevima, infracrveni ili »laserski« sustavi) čija je ukupna »točnost« lošija (bolja) od (800 + (600 × L × 10-3)) nm (L je jednako stvarnoj dužini u mm);
+
+NAPOMENA: Za »laserske« sustave vidi također Napomenu za 2B006.b.1.c. i d.
+
+b. Jedinice za rotaciono postavljanje s povratnom vezom (npr., uređaji induktivnog tipa, skale sa stupnjevima, infracrveni ili »laserski« sustavi) čija je »točnost« lošija (bolja) od 0,00025°;
+
+NAPOMENA: Za »laserske« sustave vidi također Napomenu za 2B006.b.2.
+
+c. »Složeni rotirajući stol« i »njihajuća vretena«, koji se mogu poboljšati, prema specifikacijama proizvođača, alatni strojevi za ili više od navedenog u 2B.
+
+2B009 Strojevi za oblikovanje vrtnjom i strujanjem koji, prema tehničkim specifikacijama proizvođača, mogu biti opremljeni jedinicama za »numeričko upravljanje« ili upravljanje računalom i koji imaju sve od navedenog:
+
+NAPOMENA: VIDI TAKOĐER 2B109 I 2B209.
+
+a. Dvije ili više osi kojima se upravlja od kojih se najmanje dvjema može istovremeno upravljati za »konturno upravljanje«; i
+
+b. Snagu valjka više od 60 kN.
+
+Tehnička napomena:
+
+Strojevi koji objedinjavaju funkciju oblikovanja vrtnjom i strujanjem se za potrebe 2B009 smatraju strojevima za oblikovanje strujanjem.
+
+2B104 »Izostatske preše«, osim onih navedenih u 2B004, koje imaju sve od navedenog:
+
+NAPOMENA: VIDI TAKOĐER 2B204.
+
+a. Najveći radni pritisak od 69 MPa ili veći;
+
+b. Koje su namijenjene za postizanje i održavanje kontrolirane termičke okoline od 873 K (600 °C) ili više; i
+
+c. Koje imaju šupljinu komore unutarnjeg promjera od 254 mm ili više.
+
+2B105 Peći za kemijske postupke nanašanja (CVD – Chemical vapour deposition), osim onih navedenih u 2B005.a., namijenjene ili modificirane za učvršćivanje ugljik-ugljik kompozita.
+
+2B109 Strojevi za oblikovanje strujanjem, osim onih navedenih u 2B009, i posebno predviđene komponente kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 2B209.
+
+a. Strojevi za oblikovanje strujanjem koji imaju sve od navedenog:
+
+1. Koji, prema tehničkim specifikacijama proizvođača, mogu biti opremljeni jedinicama za »brojčano upravljanje« ili upravljanje računalom, čak i kad nisu opremljeni takvim jedinicama; i
+
+2. Koji imaju više od dvije osi koje se mogu istovremeno usklađivati za »konturno upravljanje«.
+
+b. Posebno izrađene komponente za strojeve za oblikovanje strujanjem navedene u 2B009 ili 2B109.a.
+
+Napomena: 2B109 ne odnosi se na strojeve koji se ne mogu koristiti u proizvodnji pogonskih komponenti i opreme (npr. plaštevi motora) za sustave navedene u 9A005, 9A007.a. ili 9A105.a.
+
+Tehnička napomena:
+
+Strojevi koji objedinjavaju funkciju oblikovanja vrtnjom i strujanjem za potrebe 2B109 smatraju se strojevima za oblikovanje strujanjem.
+
+2B116 Sustavi za ispitivanje vibracija, njihova oprema i komponente, kako slijedi:
+
+a. Sustavi za ispitivanje vibracija koji koriste tehnike povratne veze ili zatvorene petlje i koji uključuju digitalni upravljački sklop, koji mogu vibrirati sustav pri 10 g rms ili više u cijelom rasponu od 20 Hz do 2 kHz i prenosivim silama većim od 50 kN, mjereno na ‘mjernom stolu’, ili više;
+
+b. Digitalni upravljački sklopovi, kombinirani s posebno predviđenim softverom za ispitivanje vibracija, sa ‘kontrolnom pojasnom širinom u realnom vremenu’ većom od 5 kHz namijenjeni za korištenje zajedno sa sustavima za ispitivanje vibracija navedenim u 2B116.a.;
+
+Tehnička napomena:
+
+U 2B116.b., ‘kontrolna pojasna širina u realnom vremenu’ predstavlja najveću mogućnost upravljačkog sklopa za izvršenje kompletnih ciklusa uzimanja uzorka, obradu podataka i prijenos kontrolnih signala.
+
+c. Odbijači vibracija (jedinice za miješanje), sa ili bez pridruženih pojačala, koji mogu prenositi silu od 50 kN, mjereno na ‘mjernom stolu’, ili više i koji se koriste u sustavima za ispitivanje vibracija navedenim u 2B116.a.;
+
+d. Potporna konstrukcija za ispitivanje i elektronske jedinice namijenjene uklapanju više kombiniranih višestrukih jedinica za miješanje u sustav koji može pružiti učinkovitu složenu silu od 50 kN, mjereno na ‘mjernom stolu’, ili veću, i koji se koriste u vibracionim sustavima navedenim u 2B116.a.
+
+Tehnička napomena:
+
+U 2B116, ‘mjerni stol’ označava ravan stol, ili površinu, bez ugrađenih uređaja ili armature.
+
+2B117 Oprema i mehanizmi za upravljanje postupkom, osim onih navedenih u 2B004, 2B005.a., 2B104 ili 2B105, namijenjeni ili modificirani za zgušnjavanje i pirolizu strukturnih kompozitnih raketnih mlaznica i vrhova noseva letjelica koje ponovo ulaze.
+
+2B119 Strojevi za uravnoteženje i povezana oprema, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 2B219.
+
+a. Strojevi za uravnoteženje koji imaju navedene karakteristike:
+
+1. Da ne mogu uravnotežavati rotore/sklopove mase veće od 3 kg;
+
+2. Da mogu uravnotežavati rotore/sklopove pri brzinama većim od 12500 rpm;
+
+3. Da mogu ispravljati neuravnoteženost na dvije ravnine; i
+
+4. Da mogu uravnotežavati do rezidualne specifične neuravnoteženosti od 0,2 g mm po kg mase rotora;
+
+Napomena: 2B119.a. ne odnosi se na strojeve za uravnoteženje namijenjene ili modificirane za zubarsku ili drugu medicinsku opremu.
+
+b. Glave pokazivača namijenjene ili modificirane za korištenje sa strojevima navedenim u 2B119.a.
+
+Tehnička napomena:
+
+Glave pokazivača se ponekad nazivaju instrumentima za uravnoteženje.
+
+2B120 Simulatori kretanja ili tablice brzina koji imaju sve od navedenih karakteristika:
+
+a. Dvije ili više osi;
+
+b. Izrađeni ili prilagođeni tako da imaju klizne prstene koji mogu prenositi električnu energiju i/ili podatak o signalu, ili oboje; i
+
+c. Koji imaju bilo koju od navedenih karakteristika:
+
+1. Koji imaju sve od navedenog za bilo koju pojedinačnu os:
+
+a. Mogu postizati brzine od 400 stupnjeva/s ili više, ili 30 stupnjeva/s ili manje; i
+
+b. Brzinu rezolucije jednaku ili manju od 6 stupnjeva/s i točnost jednaku ili manju od 0,6 stupnjeva/s;
+
+2. Čija je najlošija brzina stabilnosti jednaka ili bolja (manja) od plus ili minus 0,05% prosječno kroz 10 stupnjeva ili više; ili
+
+3. Čija je točnost postavljanja jednaka ili manja (bolja) od 5 kutnih stupnjeva..
+
+Napomena 1: 2B120 ne odnosi se na okretne stolove namijenjene ili modificirane alatne strojeve ili medicinsku opremu. Za nadzor nad okretnim stolovima za alatne strojeve vidi 2B008.
+
+Napomena 2: Simulatori kretanja ili tablice brzina navedeni u 2B120 kontroliraju se bez obzira da li su, u trenutku izvoza, na njih postavljeni klizni prsteni ili integrirani nekontaktni uređaji.
+
+2B121 Ploče za postavljanje (oprema koja omogućava točno rotaciono postavljanje u bilo kojoj osi), osim oni navedeni u 2B120, koji imaju sve od navedenih karakteristika:
+
+a. Dvije osi ili više; i
+
+b. Čija je »preciznost« pozicioniranja jednaka ili manja (bolja) od 5 kutnih stupnjeva.
+
+Napomena: 2B121 ne odnosi se na rotacijske stolove namijenjene ili modificirane za alatne strojeve ili za medicinsku opremu. Za nadzor nad rotacijskim stolovima za alatne strojeve vidi 2B008.
+
+2B122 Centrifuge koje mogu prenositi ubrzanja iznad 100 g i koje imaju klizne prstene ili integrirane nekontaktne uređaje koji mogu prenositi električnu energiju, podatke o signalu ili oboje.
+
+Napomena: Centrifuge navedene u 2B122 kontroliraju se bez obzira da li su, u trenutku izvoza, na njih postavljeni klizni prsteni ili integrirani nekontaktni uređaji.
+
+2B201 Alatni strojevi ili njihove kombinacije, osim onih navedenih u 2B001, kako slijedi, za uklanjanje ili rezanje metala, keramike ili »kompozita«, koji, prema tehničkim specifikacijama proizvođača, mogu biti opremljeni elektroničkim uređajima za istovremeno »konturno upravljanje« u dvije ili više osi:
+
+a. Alatni strojevi za glodanje, koji imaju bilo koju od navedenih karakteristika:
+
+1. Točnost postavljanja sa »svim raspoloživim kompenzacijama« jednaku ili manju (bolju) od 6 µm prema ISO 230/2 (1988([3]) ili nacionalnim ekvivalentima duž bilo koje linearne osi; ili
+
+2. Dvije ili više kopirnih rotacionih osi;
+
+Napomena: 2B201.a. ne odnosi se na strojeve za glodanje koji imaju navedene karakteristike:
+
+a. Putanju X-osi veću od 2 m; i
+
+b. Ukupnu točnost postavljanja na x-os više (lošije) od 30 µm.
+
+b. Alatni strojevi za brušenje, koji imaju bilo koju od navedenih karakteristika:
+
+1. Točnost postavljanja sa »svim raspoloživim kompenzacijama« jednaku ili manju (bolju) od 4 µm prema ISO 230/2 (1988)(3) ili nacionalnim ekvivalentima duž bilo koje linearne osi; ili
+
+2. Dvije ili više kopirnih rotacionih osi.
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena:</td>
+<td colspan="3">2B201.b. ne odnosi se na sljedeće strojeve za brušenje:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="2">Strojeve za cilindrično vanjsko, unutarnje i vanjsko-unutarnje brušenje koji imaju sve od navedenih karakteristika:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td>Ograničeni na najveći radni komad vanjskog promjera ili dužine od 150 mm; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td>Ograničenje na osi x, z i c;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="2">Oblikovna brusna oruđa koja nemaju z ili w osi s točnošću pozicioniranja manjom (boljom) od 4 m po ISO normi 230/2 (1988)1 ili nacionalnom ekvivalentnoj normi.</td>
+</tr>
+</tbody>
+
+</table>
+
+Napomena 1: 2B201.b ne uključuje strojeve i oruđa, posebno izrađene za izradu sljedećih dijelova:
+
+a. Mjenjača
+
+b. Pogonskih i odmičnih greda
+
+c. Oruđa i rezala
+
+d. Ekstruzijskih puževa;
+
+Napomena 2: Alatni stroj koji ima barem dvije od sljedeće tri mogućnosti: struganje, glodanje ili brušenje (npr. stroj za struganje s brusnim mogućnostima), treba razmatrati po odredbama točaka 2B001.a. ili 2B201.a. ili b.
+
+2B204 »Izostatske preše«, osim onih navedenih u 2B004 ili 2B104, i njihove opreme, kako slijedi:
+
+a. »Izostatske preše« koje imaju obje od navedenih karakteristika:
+
+1. Koje mogu postizati najveći radni pritisak od 69 MPa ili veći; i
+
+2. Čija je šupljina komore promjera većeg od 152 mm;
+
+b. Ulošci za prešanje, kalupi i upravljački mehanizmi, posebno projektirani za »izostatske preše« navedene u 2B204.a.
+
+Tehnička napomena:
+
+U 2B204 navedene dimenzije unutarnje komore odnose se na komoru u kojoj su postignuti i radna temperatura i radni tlak te ne uključuje ugrađene uređaje. Ta će dimenzija biti manja i od unutarnjeg promjera tlačne komore i od unutarnjeg promjera izolirane komore peći, ovisno o tome koja se od dviju komora nalazi u drugoj.
+
+2B206 Strojevi, instrumenti ili sustavi za pregled dimenzija, osim onih navedenih u 2B006, kako slijedi:
+
+a. Strojevi za pregled dimenzija upravljani računalom ili numerički upravljani koji imaju obje od navedenih karakteristika:
+
+1. Dvije ili više osi; i
+
+2. Jednodimenzionalnu dužinsku »mjernu kolebljivost« jednaku ili manju (bolju) od (1,25 + L/1000) µm ispitano sa sondom za »točnost« od lošije (bolje) od 0,2 µm (L je mjerena dužina u milimetrima) (Ref.:VDI/VDE 2617 Dijelovi 1 i 2);
+
+b. Sustavi za istovremeno linearno-kutno pregledavanje polovično zatvorenih površina, koje imaju obje od navedenih karakteristika:
+
+1. »Mjerna nesigurnost« duž bilo koje linearne osi jednaku ili manju (bolju) od 3,5 µm na 5 mm; i
+
+2. »Odstupanje od kutnog položaja« jednako ili manje od 0,02°.
+
+Napomena 1: Pod nadzorom su alatni strojevi koji se mogu koristiti kao mjerni strojevi ako udovoljavaju ili premašuju kriterije navedene za alatnu ili mjernu funkciju stroja.
+
+Napomena 2: Stroj naveden u 2B206 nalazi se pod nadzorom ako premašuje kontrolirani prag bilo gdje unutar svojeg radnog raspona.
+
+Tehničke napomene:
+
+1. Za utvrđivanje mjerne kolebljivosti sustava za pregled dimenzija koristi se sonda koja će biti opisana u VDI/VDE 2617 dijelovi 2, 3 i 4.
+
+2. Svi parametri mjernih vrijednosti u 2B206 predstavljaju plus/minus, odnosno, ne cijeli pojas.
+
+2B207 »Roboti«, »krajnje jedinice« i regulacijske jedinice, osim onih navedenih u 2B007, kako slijedi:
+
+a. »Roboti« ili »krajnje jedinice« posebno predviđeni da udovoljavaju nacionalnim sigurnosnim standardima koji se primjenjuju na rukovanje snažnim eksplozivima (na primjer, udovoljavanje brzinama električnog koda za snažne eksplozive);
+
+b. Regulacijske jedinice posebno projektirane za bilo koji od »robota« ili »krajnje jedinice« navedene u 2B207.a.
+
+2B209 Strojevi za oblikovanje strujanjem, strojevi za oblikovanje vrtnjom koji imaju i funkcije za oblikovanje strujanjem, osim onih navedenih u 2B009 ili 2B109, i škripci, kako slijedi:
+
+a. Strojevi koji imaju obje od navedenih karakteristika:
+
+1. Tri ili više valjaka (aktivnih ili za vođenje); i
+
+2. Koji, prema tehničkim specifikacijama proizvođača, mogu biti opremljeni jedinicama za »brojčano upravljanje« ili upravljanje računalom;
+
+b. Škripci za oblikovanje rotora namijenjeni za oblikovanje cilindričnih rotora unutarnjeg promjera između 75 mm i 400 mm.
+
+Napomena: 2B209.a. uključuje strojeve koji imaju samo jedan valjak namijenjen za deformiranje metala i dva pomoćna valjka koji podupiru škripac, ali izravno ne sudjeluju u postupku deformiranja.
+
+2B219 Centrifugalne strojeve za uravnoteženje na više ravnina, fiksnih ili prijenosnih, vodoravnih ili okomitih, kako slijedi:
+
+a. Centrifugalni strojevi za uravnoteženje namijenjeni za uravnoteženje pokretnih rotora dužine od 600 mm ili više i koji imaju sve od navedenih karakteristika:
+
+1. Pokretni ili osovinski promjer veći od 75 mm;
+
+2. Sposobnost mase od 0,9 do 23 kg; i
+
+3. Koji mogu uravnotežavati brzinu okretaja veću od 5000 r.p.m.;
+
+b. Centrifugalni strojevi za uravnoteženje namijenjeni za uravnoteživanje šupljih cilindričnih komponenti rotora i koji imaju sve od navedenih karakteristika:
+
+1. Osovinski promjer veći od 75 mm;
+
+2. Sposobnost mase od 0,9 do 23 kg;
+
+3. Koji mogu uravnotežavati do preostale neuravnoteženosti jednake ili manje od 0,01 kg × mm/kg po ravnini; i
+
+4. Koji rade na remenski pogon.
+
+2B225 Uređaji na daljinsko rukovanje koji se mogu koristiti za aktivnosti na daljinu kad se radi o radiokemijskom odvajanju ili vrućim ćelijama, koji imaju bilo koju od navedenih karakteristika:
+
+a. Sposobnost prodiranja 0,6 m ili više u vruću stjenku ćelije (rad kroz stjenku); ili
+
+b. Sposobnost premošćivanja preko vrha vruće ćelije debljine stjenke 0,6 m ili više (rad preko stjenke).
+
+Tehnička napomena:
+
+Uređaji na daljinsko rukovanje omogućavaju prevođenje ljudske aktivnosti na aktivnosti ruke i krajnjeg uređaja kojima se daljinski upravlja. Oni mogu biti ‘nadređenog/podređenog’ tipa ili upravljani upravljačkom palicom ili tastaturom.
+
+2B226 Kontrolirana atmosfera (vakuum ili inertni plin) indukcijske peći, i za njih napojna energija, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 3B.
+
+a. Peći koje imaju sve od navedenih karakteristika:
+
+1. Koje mogu raditi na više od 1123 K (850 °C);
+
+2. Induktivne svitke promjera 600 mm ili manje; i
+
+3. Predviđene za uzlaznu snagu od 5 kW ili više;
+
+b. Dovod energije, određene izlazne snage od 5 kW ili više, posebno projektiran za peći navedene u 2B226.a.
+
+Napomena: 2B226.a. ne odnosi se na peći predviđene za preradu poluvodičkih pločica.
+
+2B227 Metalurške peći za taljenje i lijevanje na vakuum ili drugu kontroliranu atmosferu i s njima povezana oprema kako slijedi:
+
+a. Peći za lučno pretaljivanje i lijevanje koje imaju obje od navedenih karakteristika:
+
+1. Kapacitet potrošnih elektroda između 1000 cm3 i 20000 cm3, i
+
+2. Sposobnost da rade pri temperaturama taljenja iznad 1973 K (1700 °C);
+
+b. Peći za taljenje sa elektronskim snopom i peći za atomizaciju plazme i taljenje, koje imaju obje od navedenih karakteristika:
+
+1. Snagu od 50 kW ili veću; i
+
+2. Da mogu raditi pri temperaturama taljenja iznad 1473 K (1200 °C).
+
+c. Sustave za upravljanje računalom i praćenje posebno podešene za bilo koju od peći navedenih u 2B227.a. ili b.
+
+2B228 Opremu za izradu rotora ili sklopa, opremu za ispravljanje rotora, škripce i uloške za prešanje koji tvore mijeh, kako slijedi:
+
+a. Opremu za sklop rotora za sastavljanje dijelova cijevi rotora plinske centrifuge, prigušivača, i krajnjih poklopaca;
+
+Napomena: 2B228.a.uključuje precizne škripce, pritezne uređaje i strojeve za stezno nasađivanje.
+
+b. Opremu za ispravljanje rotora za poravnavanje dijelova cijevi rotora plinske centrifuge sa zajedničkom osi;
+
+Tehnička napomena:
+
+U 2B228.b. takva se oprema normalno sastoji od sondi za mjerenje točnosti koje su povezane s računalom koje naknadno provjerava rad, na primjer, pneumatskih klipova koji se koriste za poravnavanje dijelova cijevi rotora.
+
+c. Škripci i ulošci za prešanje za oblikovanje mjehova za proizvodnju mjehova s jednostrukom konvolucijom.
+
+Tehnička napomena:
+
+U 2B228.c. mjehovi imaju sve od navedenih karakteristika:
+
+1. Unutarnji promjer između 75 mm i 400 mm;
+
+2. Dužina jednaka ili veća od 12,7 mm;
+
+3. Dubina jedne konvolucije veća od 2 mm; i
+
+4. Izrađeni od slitina aluminija visoke čvrstoće, legirani čelik ili »vlaknastih ili filamentnih materijala« visoke čvrstoće.
+
+2B230 »Pretvarači tlaka« koji mogu mjeriti apsolutni tlak u svakoj točki u rasponu od 0 do 13 kPa i koji imaju obje od navedenih karakteristika:
+
+a. Elemente osjetljive na promjene tlaka izrađene od ili zaštićene aluminijem, slitinom aluminija, niklom ili slitinom nikla s više od 60% nikla po težini; i
+
+b. Imaju bilo koju od sljedećih karakteristika:
+
+1. Punu skalu od manje od 13 kPa i ‘točnost’ od bolje od ± 1% pune skale; ili
+
+2. Punu skalu od 13 kPa ili više i ‘točnost’ od bolje od ± 130 Pa.
+
+Tehnička napomena:
+
+Za potrebe 2B230, ‘točnost’ uključuje nelinearnost, histerezu i ponovljivost okolne temperature.
+
+2B231 Vakuum pumpe koje imaju sve od navedenih karakteristika:
+
+a. Ulaznu veličinu grla jednaku ili veću od 380 mm;
+
+b. Brzinu pumpanja jednaku ili veću od 15 m3/s; i
+
+c. Da mogu proizvoditi granični vakuum bolje od 13 mPa.
+
+Tehničke napomene:
+
+1. Brzina pumpanja utvrđuje se na točki mjerenja plinom dušika ili zrakom.
+
+2. Granični vakuum se utvrđuje na izlazu pumpe sa zatvorenim izlazom pumpe.
+
+2B232 Višefazni topovi na svjetlosni plin ili drugi sustavi topova s velikom brzinom (na zavojnicu, elektromagnetske i elektrotermalne vrste, i ostali napredni sustavi) koji mogu ubrzavati projektile do 2 km/s ili više.
+
+2B350 Uređaji za proizvodnju kemikalija, oprema i komponente, kako slijedi:
+
+a. Posude za reakciju ili reaktori, sa ili bez miješalica, ukupnog unutarnjeg (geometrijskog) volumena većeg od 0,1 m3 (100 litara) i manjeg od 20 m3 (20000 litara), kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se obrađuju ili skladište izrađene od bilo kojeg od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući postakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Nikla ili slitine s više od 40% nikla po težini;
+
+5. Tantala ili slitine tantala;
+
+6. Titana ili slitine titana;
+
+7. Cirkonija ili cirkonijeve slitine; ili
+
+8. Niobija (kolumbija) ili niobijeve slitine;
+
+b. Miješalice koje se koriste u reaktivnim posudama ili reaktorima navedene u 2B350.a.; i krilca, lopatice ili osobine namijenjene za takve miješalice, kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se obrađuju ili skladište izrađene od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući postakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Nikla ili slitine s više od 40% nikla po težini;
+
+5. Tantala ili slitine tantala;
+
+6. Titana ili slitine titana;
+
+7. Cirkonija ili cirkonijeve slitine; ili
+
+8. Niobija (kolumbija) ili niobijeve slitine;
+
+c. Rezervoari za skladištenje, spremnici ili prijamni spremnici ukupnog unutarnjeg (geometrijskog) volumena većeg od 0,1 m3 (100 litara) kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuje ili skladišti izrađeni od bilo kojeg od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući ostakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Nikla ili slitine s više od 40% nikla po težini;
+
+5. Tantala ili slitine tantala;
+
+6. Titana ili slitine titana; ili
+
+7. Cirkonija ili slitine cirkonija; ili
+
+8. Niobija (kolumbija) ili niobijeve slitine;
+
+d. Izmjenjivači topline ili hladionici s površinom za prijenos topline većom od 0,15 m2, i manjom od 20 m2, kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuju izrađene od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući ostakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Grafita ili ‘ugljičnog grafita’;
+
+5. Nikla ili slitine s više od 40% nikla po težini;
+
+6. Tantala ili slitine tantala;
+
+7. Titana ili slitine titana;
+
+8. Cirkonija ili slitine cirkonija;
+
+9. Silikona karbid;
+
+10. Titanium karbida; ili
+
+11. Niobija (kolumbija) ili niobijeve slitine;
+
+e. Destilacijski ili absorpcijski stupovi unutarnjeg promjera većeg od 0,1 m; i tekućinski distributeri, parni distributeri ili tekućinski skupljači izrađeni za takve destilacijske ili absrorpcijske stupove, kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuju izrađene od bilo kojeg od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući ostakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Grafita ili ‘ugljičnog grafita’;
+
+5. Nikla ili slitine s više od 40% nikla po težini;
+
+6. Tantala ili slitine tantala;
+
+7. Titana ili slitine titana;
+
+8. Cirkonija ili slitine cirkonija; ili
+
+9. Niobija (kolumbija) ili niobijeve slitine;
+
+f. Oprema za punjenje na daljinsko upravljanje kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuju izrađene od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini; ili
+
+2. Nikla ili slitine s više od 40% nikla po težini;
+
+g. Ventili nazivnih veličina većih od 10 mm, obavijači (tijela ventila), predoblikovane košuljice obavijača za takve ventile, kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuju ili koje su sadržane izrađene od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući ostakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Nikla ili slitine s više od 40% nikla po težini;
+
+5. Tantala ili slitine tantala;
+
+6. Titana ili slitine titana;
+
+7. Cirkonija ili slitine cirkonija; ili
+
+8. Niobija (kolumbija) ili niobijeve slitine;
+
+9. Keramičkih materijala:
+
+a. Silicijevog karbida čistoće najmanje 80% težinskih postotaka;
+
+b. Aluminijevog oksida (aluminija) čistoće najmanje 99,9 težinskih postotaka;
+
+c. cirkonijevog oksida (cirkonija);
+
+h. Cjevovod s više stijenki zajedno s uređajem za otkrivanje mjesta procurivanja, kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuju ili skladište izrađene od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Fluoropolimera;
+
+3. Stakla (uključujući ostakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+4. Grafita ili ‘ugljičnog grafita’;
+
+5. Nikla ili slitine s više od 40% nikla po težini;
+
+6. Tantala ili slitine tantala;
+
+7. Titana ili slitine titana;
+
+8. Cirkonija ili slitine cirkonija; ili
+
+9. Niobija (kolumbija) ili niobijeve slitine;
+
+i. Pumpe s višestrukim brtvama i bez brtvi, kod kojih je maksimalni protok po specifikaciji proizvođača veći od 0,6 m3/sat, ili vakuumske pumpe sa specificiranom najvećim protokom po specifikaciji proizvođača većim od 5 m3/sat (u uvjetima standardne temperature (273 K (0 °C)) i tlaka (101,3 kPa)), kod kojih su sve površine koje dolaze u izravan dodir s kemikalijom(ama) koje se prerađuju izrađene od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Keramike;
+
+3. Ferosilikona;
+
+4. Fluoropolimera;
+
+5. Stakla (uključujući ostakljenu ili ocakljenu presvlaku ili oblogu stakla);
+
+6. Grafita ili ‘ugljikovog grafita’;
+
+7. Nikla ili slitine s više od 40% nikla po težini;
+
+8. Tantala ili slitine tantala;
+
+9. Titana ili slitine titana;
+
+10. Cirkonija ili slitine cirkonija; ili
+
+11. Niobija (kolumbija) ili niobijeve slitine;
+
+j. Peći za spaljivanje namijenjene uništavanju kemikalija navedenih u stavci 1C350, koje imaju posebno projektiran sustav snabdijevanja otpadom, posebne uređaje za rukovanje i prosječnu temperaturu komore za izgaranje veću od 1273 K (1000 °C), kod kojih su sve površine sustava za dovod otpada koje dolaze u izravan dodir s otpadnim proizvodima izrađene ili obložene bilo kojim od navedenih materijala:
+
+1. Slitine s više od 25% nikla i 20% kroma po težini;
+
+2. Keramike; ili
+
+3. Nikla ili slitine s više od 40% nikla po težini.
+
+Tehnička napomena:
+
+‘Ugljični grafit’ je spoj amorfnog ugljika i grafita, čiji sadržaj grafita čini 8% ili više po težini.
+
+2B351 Sustavi za praćenje toksičnih plinova, osim onih navedenih u 1A004; i za njih namijenjeni detektori:
+
+a. Namijenjeni za neprekidan rad i koriste se za otkrivanje agensa za kemijsko ratovanje ili kemikalija navedenih u 1C350, u koncentracijama manjim od 0,3 mg/m3; ili
+
+b. Namijenjeni za otkrivanje aktivnosti inhibicije kolinosteraze.
+
+2B352 Oprema koja se može koristiti za rukovanje biološkim materijalima, kako slijedi:
+
+a. Uređaji za potpuno biološko blokiranje pri razinama blokiranja P3, P4;
+
+Tehnička napomena:
+
+Razine blokiranja P3 ili P4 (BL3, BL4, L3, L4) jednake onima navedenim u Priručniku za biološku sigurnost u laboratorijima WHO-a (Laboratory Biosafety manual) (3. izdanje, Ženeva 2004. god.).
+
+b. Fermentatori koji mogu uzgajati patogene »mikroorganizmi«, viruse ili mogu proizvoditi toksine, bez širenja aerosola, i koji imaju ukupni kapacitet od 100 litara ili više;
+
+Tehnička napomena:
+
+Fermentatori uključuju bioreaktore, kemostate i sustave za neprekidni protok.
+
+c. Centrifugalni odvajači, koji mogu neprekidno odvajati bez širenja aerosola, koji imaju sve od navedenih karakteristika:
+
+1. Brzinu protoka višu od 100 litara na sat;
+
+2. Komponente izrađene od poliranog nehrđajućeg čelika ili titana;
+
+3. Jednu ili više brtvenih spojnica unutar jednog prostora za zadržavanje pare; i
+
+4. Da mogu vršiti in situ sterilizaciju pare u zatvorenom stanju;
+
+Tehnička napomena:
+
+Centrifugalni odvajači uključuju i taložnike.
+
+d. Oprema za poprečnu (tangencijalnu) filtraciju protoka i komponente, kako slijedi:
+
+1. Oprema za poprečnu (tangencijalnu) filtraciju protoka, koja može neprekinuto odvajati patogene mikroorganizme, viruse, toksine ili stanične kulture, bez širenja aerosola, koja ima sve od navedenih karakteristika:
+
+a. Da je ukupna površina filtracije jednaka ili veća od 1 m2; i
+
+b. Da ima bilo koju od sljedećih značajki:
+
+1. Da može biti sterilizirana ili dezinficirana in situ; ili
+
+2. Koristi komponenete za filtraciju za kratku ili jednokratnu uporabu;
+
+Tehnička napomena:
+
+U 2B352.d.1.b. označava uklanjanje svih održivih mikroba iz opreme korištenjem bilo fizičkih (npr. para) bilo kemijskih agensa. Dezinfekcija označava uništavanje potencijalne mikrobske infektivnosti u opremi korištenjem kemijskih agensa sa germicidnim učinkom. Dezinfekcija i sterilizacija razlikuju se od sanitacije, pri čemu potonja označava postupke čišćenja predviđene za umanjivanje sadržaja mikroba u opremi bez nužnog odstranjivanja sve mikrobske infektivnosti i održivosti mikroba.
+
+2. Komponente za poprečnu (tangencijalnu) filtraciju protoka (npr. modula, elemenata, kaseta, patrona, jedinica i ploča) sa površinom filtracije jednakom ili većom od 0.2 m2 za svaku komponentu, koje predviđene za opremu za poprečnu (tangencijalnu) filtraciju protoka navedenu u 2B352.d.;
+
+Napomena: 2B352.d ne kontrolira opremu za povratnu osmozu, kako naznačuje proizvođač.
+
+e. Oprema za sušenje smrzavanjem sterilizirane pare s kondenzatorom čiji je kapacitet veći od 10 kg leda u 24 sata i manji od 1000 kg leda u 24 sata;
+
+f. Oprema za zaštitu i blokiranje, kako slijedi:
+
+1. Zaštitna odijela cijela ili poluodijela, ili kapuljače što ovisi o dosegu dotoka vanjskog zraka i radu pod pozitivnim tlakom
+
+Napomena: 2B352.f.1. ne odnosi se na odijela namijenjena da se nose zajedno sa samostojnim aparatom za disanje.
+
+2. Kabineti za biološku sigurnost III razreda ili izolatori sličnih standarda performansi;
+
+Napomena: U 2B352.f.2., izolatori uključuju pomične izolatore, suhe kutije, anaerobne komore, kutije s rukavicama i kapuljače s laminarnim kretanjem (zatvorene s okomitim kretanjem).
+
+g. Komore namijenjene za ispitivanje aerosola s »mikroorganizmima«, virusima ili »toksinima« i koji imaju kapacitet od 1 m3 ili veći.
+
+| 2C | Materijali |  |
+|---|---|---|
+
+Nema.
+
+| 2D | Softver |  |
+|---|---|---|
+
+2D001 »Softver«, osim onog navedenog u 2D002, posebno namijenjenog ili modificiranog za »razvoj«, »proizvodnju« ili »uporabu« opreme navedene u 2A001 ili 2B001 do 2B009.
+
+2D002 »Softver« za elektroničke uređaje, čak i kad se nalazi u elektronskom uređaju ili sustavu i omogućava takvim uređajima ili sustavima da funkcioniraju kao jedinica za »brojčano upravljanje«, koja istovremeno može usklađivati više od jedne osi za »kopirno upravljanje«.
+
+Napomena 1: 2D002 ne kontrolira »softver« posebno namijenjen ili modificiran za rad alatnih strojeva koji nije naveden u Kategoriji 2.
+
+Napomena 2: 2D002 ne kontrolira »softver« za predmete navedene u 2B002. Vidi 2D001 za kontrolu »softvera« za predmete navedene u 2B002.
+
+2D101 »Softver« posebno namijenjen ili modificiran za »uporabu« opreme navedene u 2B104, 2B105, 2B109, 2B116, 2B117 ili 2B119 do 2B122.
+
+NAPOMENA: VIDI TAKOĐER 9D004.
+
+2D201 »Softver« posebno namijenjen za »uporabu« opreme navedene u 2B204, 2B206, 2B207, 2B209, 2B219 ili 2B227.
+
+2D202 »Softver« posebno namijenjen ili modificiran za »razvoj«, »proizvodnju« ili »uporabu« opreme navedene u 2B201.
+
+2D351 »Softver«, osim onog navedenog u 1D003, posebno namijenjen za »uporabu« opreme navedene u 2B351.
+
+| 2E | Tehnologija |  |
+|---|---|---|
+
+2E001 »Tehnologija« prema Napomeni o tehnologiji općenito za »razvoj« opreme ili »softvera« navedene u 2A, 2B ili 2D.
+
+2E002 »Tehnologija« prema Napomeni o tehnologiji općenito za »proizvodnju« opreme navedene u 2A ili 2B.
+
+2E003 Ostala »tehnologija«, kako slijedi:
+
+a. »Tehnologija« za »razvoj« interaktivne grafike kao sastavnog dijela jedinica za »brojčano upravljanje« za pripremu ili modifikaciju djelomičnih programa;
+
+b. »Tehnologija« za postupke izrade metalnih predmeta, kako slijedi:
+
+1. »Tehnologija« za projektiranje alata, uložaka za prešanje ili ugrađenih uređaja posebno projektiranih za bilo koji od navedenih postupaka:
+
+a. »Superplastično oblikovanje«;
+
+b. »Vezanje difuzijom«; ili
+
+c. »Hidrauličko prešanje s izravnim djelovanjem«;
+
+2. Tehnički podaci koji se sastoje od procesnih metoda ili parametara navedeni u nastavku nadzirali su:
+
+a. »Superplastično oblikovanje« slitinama aluminija, slitinama titana ili »superslitinama«:
+
+1. Priprema površine;
+
+2. Brzina izobličenja;
+
+3. Temperatura;
+
+4. Pritisak;
+
+b. »Vezanje difuzijom« »superslitine« ili slitine titana:
+
+1. Priprema površine;
+
+2. Temperatura;
+
+3. Pritisak;
+
+c. »Hidrauličko prešanje s izravnim djelovanjem« slitine aluminija ili slitine titana:
+
+1. Pritisak;
+
+2. Vrijeme ciklusa;
+
+d. »Vruća izostatska densifikacija« slitine titana, slitine aluminija ili »superslitine«:
+
+1. Temperatura;
+
+2. Pritisak;
+
+3. Vrijeme ciklusa;
+
+c. »Tehnologija« za »razvoj« ili »proizvodnju« hidrauličkih strojeva za oblikovanje rastezanjem i ulošci za njih, za proizvodnju konstrukcija letačkih okvira;
+
+d. »Tehnologija« za »razvoj« generatora iz uputa za strojne alate (npr., djelomični programi) iz projektnih podataka koji se nalaze u jedinicama za »brojčano upravljanje«;
+
+e. »Tehnologija« za »razvoj« i integraciju »softvera« za uključivanje stručnih sustava za napredno odlučivanje kao podrška radioničkim operacijama na jedinicama za »brojčano upravljanje«;
+
+f. »Tehnologija« za primjenu anorganskih završnog premaza ili anorganskih premaza za promjenu (navedeno u stupcu 3 Tablice koja slijedi) na neelektroničke podloge (navedeno u stupcu 2 Tablice koja slijedi), postupcima navedenim u stupcu 1 Tablice koja slijedi i definiranim u Tehničkoj napomeni.
+
+Napomena: Tablica i Tehnička Napomena nalaze se nakon stavke 2E301.
+
+2E101 »Tehnologija« prema Napomeni o tehnologiji općenito za »uporabu« opreme ili »softvera« navedene u 2B004, 2B009, 2B104, 2B109, 2B116, 2B119 do 2B122 ili 2D101.
+
+2E201 »Tehnologija« prema Napomeni o tehnologiji općenito za »uporabu« opreme ili »softvera« navedene u 2A225, 2A226, 2B001, 2B006, 2B007.b., 2B007.c., 2B008, 2B009, 2B201, 2B204, 2B206, 2B207, 2B209, 2B225 do 2B232, 2D201 ili 2D202.
+
+2E301 »Tehnologija« prema Napomeni o tehnologiji općenito za »uporabu« robe navedene u 2B350 do 2B352.
+
+#### Tablica — TEHNIKE TALOŽENJA
+
+<table>
+<tbody>
+
+<tr>
+<td>1. Postupak premazivanja</td>
+<td>2. Podloga</td>
+<td>3. Rezultirajući premaz</td>
+</tr>
+
+<tr>
+<td rowspan="9">A. Taloženje kemijskim parama (CVD)</td>
+<td>»Superslitine«</td>
+<td>Aluminidi za unutarnje prijelaze</td>
+</tr>
+
+<tr>
+<td>Keramika (19) i slabošireća stakla (14)</td>
+<td>Silicidi<br> Karbidi<br> Dielektrički slojevi (15)<br> Dijamant<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Aluminidi<br> Slitine aluminida (2)<br> Nitrid bora</td>
+</tr>
+
+<tr>
+<td>Cementirani volfram karbid (16), karbid silicija (18)</td>
+<td>Karbidi<br> Volfram<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Molibden i slitine molibdena</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Berilij i slitine berilija</td>
+<td>Dielektički slojevi (15)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Dijamant<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td>Materijali za senzorska okna (9)</td>
+<td>Dielektrički slojevi (15)<br> Dijamant<br> Dijamantni ugljik</td>
+</tr>
+
+<tr>
+<td rowspan="9">B. Termalna evaporacija – fizičko taloženje pare (TE-PVD)<br> B.1. Fizičko taloženje pare (PVD):<br> Taloženje fizičkih para elektronskog snopa (EB-PVD)</td>
+<td>»Superslitine«</td>
+<td>Slitine silicida<br> Slitine aluminida (2)<br> MCrAlX (5)<br> Modificirani cirkonij (12)<br> Silicidi<br> Aluminidi<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td>Keramike (19) i slabošireća stakla (14)</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Čelik otporan na koroziju (7)</td>
+<td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
+</tr>
+
+<tr>
+<td>Cementirani volfram karbid (16), karbid silicija (18)</td>
+<td>Karbidi<br> Volfram<br> Njihove smjese (4)<br> Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Molibden i slitine molibdena</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Berilij i slitine berilija</td>
+<td>Dielektrički slojevi (15)<br> Boridi<br> Berilij</td>
+</tr>
+
+<tr>
+<td>Materijali za senzorska okna (9)</td>
+<td>Dielektrički slojevi (9)</td>
+</tr>
+
+<tr>
+<td>Slitine titana (13)</td>
+<td>Boridi<br> Nitridi</td>
+</tr>
+
+<tr>
+<td rowspan="5">B.2. Fizičko taloženje pare rezistivnim zagrijavanjem pomoću iona (PVD) (ionsko oblaganje)</td>
+<td>Keramika (19) i slabošireća stakla (14)</td>
+<td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Cementirani volfram karbid (16), karbid silicija (18)<br> Molibden i slitine molibdena</td>
+<td>Dielektrički slojevi (15)<br> Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Berilij i slitine berilija</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Materijali za senzorska okna (9)</td>
+<td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td rowspan="6">B.3. Fizičko taloženje pare (PVD): Isparavanje »laserom«</td>
+<td>Keramika (19) i slabošireća stakla (14)</td>
+<td>Silicidi<br> Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Cementirani volfram karbid (16), karbid silicija (18)</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Molibden i slitine molibdena</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Berilij i slitine berilija</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Materijali za senzorska okna (9)</td>
+<td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td rowspan="2">B.4. Fizičko taloženje pare<br> (PVD): Taloženje<br> katodnim lukom</td>
+<td>»Superslitine«</td>
+<td>Slitine silicida<br> Slitine aluminida (2)<br> MCrAlX (5)</td>
+</tr>
+
+<tr>
+<td>Polimeri (11) i organska »matrica« »kompozita«</td>
+<td>Boridi<br> Karbidi<br> Nitridi<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td rowspan="3">C. Cementiranje uranjanjem u<br> smjesu (vidi A naprijed za<br> cementiranje iznad smjese)<br> (10)</td>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Silicidi<br> Karbidi<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td>Slitine titana (13)</td>
+<td>Silicidi<br> Aluminidi<br> Slitine aluminida (2)</td>
+</tr>
+
+<tr>
+<td>Vatrostalni metali i slitine (8)</td>
+<td>Silicidi<br> Oksidi</td>
+</tr>
+
+<tr>
+<td rowspan="4">D. Raspršivanje plazme</td>
+<td>»Superslitine«</td>
+<td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)<br> Abrazivni nikl-grafit<br> Abrazivni materijali koji sadrže Ni-Cr-Al<br> Abrazivni Al-Si-poliester<br> Slitine aluminida (2)</td>
+</tr>
+
+<tr>
+<td>Slitine aluminija (6)</td>
+<td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Silicidi<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td>Vatrostalni metali i slitine (8)</td>
+<td>Aluminidi<br> Silicidi<br> Karbidi</td>
+</tr>
+
+<tr>
+<td>Čelik otporan na koroziju (7)</td>
+<td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Slitine titana (13)</td>
+<td>Karbidi<br> Aluminidi<br> Silicidi<br> Slitine aluminida (2)<br> Abrazivni nikl-grafit<br> Abrazivni materijali koji sadrže Ni-Cr-Al<br> Abrazivni Al-Si-poliester</td>
+</tr>
+
+<tr>
+<td rowspan="2">E. Taloženje kapljive kaše</td>
+<td>Vatrostalni metali i slitine (8)</td>
+<td>Taljeni silicidi<br> Taljeni aluminidi osim elemenata otpornih na zagrijavanje</td>
+</tr>
+
+<tr>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Silicidi<br> Karbidi<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td rowspan="9">F. Taloženje raspršenih čestica</td>
+<td>»Superslitine«</td>
+<td>Slitine silicida<br> Slitine aluminida (2)<br> Aluminidi modificirani plemenitim metalom (3)<br> MCrAlX (5)<br> Modificirani cirkonij (12)<br> Platina<br> Njihove smjese (4)</td>
+</tr>
+
+<tr>
+<td>Keramika i slabošireća stakla (14)</td>
+<td>Silicidi<br> Platina<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
+</tr>
+
+<tr>
+<td>Slitine titana (13)</td>
+<td>Boridi<br> Nitridi<br> Oksidi<br> Silicidi<br> Aluminidi<br> Slitine aluminida (2)<br> Karbidi</td>
+</tr>
+
+<tr>
+<td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
+<td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
+</tr>
+
+<tr>
+<td>Cementirani volfram karbid (16), karbid silicija (18)</td>
+<td>Karbidi<br> Volfram<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
+</tr>
+
+<tr>
+<td>Molibden i slitine molibdena</td>
+<td>Dielektrički slojevi (15)</td>
+</tr>
+
+<tr>
+<td>Berilij i slitine berilija</td>
+<td>Boridi<br> Dielektrički slojevi (15)<br> Berilij</td>
+</tr>
+
+<tr>
+<td>Materijali za senzorska okna (9)</td>
+<td>Dielektrički slojevi (15)<br> Dijamantni ugljik</td>
+</tr>
+
+<tr>
+<td>Vatrostalni metali i slitine (8)</td>
+<td>Aluminidi<br> Silicidi<br> Oksidi<br> Karbidi</td>
+</tr>
+
+<tr>
+<td rowspan="4">G. Ugradnja iona</td>
+<td>Čelici koji podnose visoke temperature</td>
+<td>Dodaci kroma, tantala ili niobija (kolumbija)</td>
+</tr>
+
+<tr>
+<td>Slitine titana (13)</td>
+<td>Boridi<br> Nitridi</td>
+</tr>
+
+<tr>
+<td>Berilij i slitine berilija</td>
+<td>Boridi</td>
+</tr>
+
+<tr>
+<td>Cementirani volfram karbid (16)</td>
+<td>Karbidi<br> Nitridi</td>
+</tr>
+</tbody>
+
+</table>
+
+Napomene
+
+1. Izraz ‘postupak premazivanja’ uključuje popravke premaza i njegovo obnavljanje kao i samo premazivanje.
+
+2. Izraz ‘premazivanje slitinom aluminida’ uključuje jednostruke ili višestruke premaze u kojima se element ili elementi talože prije ili tijekom primjene aluminidskog premaza, čak i kad su ti elementi nataloženi nekim drugim postupkom premazivanja. Međutim, to ne uključuje višestruku uporabu jednofaznog postupka cementnog začepljivanja da se postignu slitine aluminida.
+
+3. Izraz premazivanje ‘aluminidom modificiranim plemenitim metalom’ uključuje višefazno premazivanje tijekom kojeg se plemeniti metal ili plemeniti metali postavljanju nekim drugim postupkom premazivanja prije primjene premaza aluminidom.
+
+4. Izraz ‘njihove smjese’ uključuje infiltrirani materijal, razvrstane spojeve, su-taloge i višeslojne taloge i dobivaju se jednim ili više postupaka premazivanja navedenih u Tablici.
+
+5. ‘MCrAlX’ se odnosi na slitinu premaza u kojoj je M jednako kobaltu, željezu, niklu ili njihovim kombinacijama a X je jednako hafniju, itriju, siliciju, tantalu bilo koje količine ili drugih namjernih dodataka koji čine više od 0,01 postotaka težine u raznim omjerima i kombinacijama, osim:
+
+a. CoCrAlY premazi koji sadrže manje od 22 postotaka težine kroma, manje od 7 postotaka težine aluminija i manje od 2 postotaka težine irija;
+
+b. CoCrAlY premazi koji sadrže 22 do 24 postotaka težine kroma, 10 do 12 postotaka težine aluminija i 0,5 do 0,7 postotaka težine itrija; ili
+
+c. NiCrAlY premazi koji sadrže 21 do 23 postotaka težine kroma, 10 do 12 postotaka težine aluminija i 0,9 do1,1 postotaka težine itrija.
+
+6. Izraz ‘slitine aluminija’ odnosi se na slitine čija je granična čvrstoća na vlak 190 MPa ili više mjerena pri 293 K (20 °C).
+
+7. Izraz ‘čelik otporan na koroziju’ odnosi se na seriju 300 AISI-a (American Iron and Steel Institute) ili ekvivalentne nacionalne standardne čelike.
+
+8. ‘Vatrostalni metali i slitine’ uključuju sljedeće metale i njihove slitine: niobij (kolumbij), molibden, volfram i tantal.
+
+9. ‘Materijali za senzorska okna’, kako slijedi: aluminij, silicij, germanij, cinkov sulfid, cinkov selenid, galijev arsenid, dijamant, galijev fosfid, safir i sljedeći metalni halidi: materijali za senzorska okna promjera više od 40 mm za cirkonijev fluorid i hafnijev fluorid.
+
+10. ‘Tehnologija’ za jednofazni postupak cementnog začepljivanja čvrstih zračnih folija nije pod nadzorom Kategorije 2.
+
+11. ‘Polimeri’, kako slijedi: poliimid, poliester, polisulfid, polikarbonati i poliuretani.
+
+12. ‘Modificirani cirkonij’ odnosi se na dodatke ostalih metalnih oksida (npr., kalcija, magnezija, itrij, hafnija, rijetkih zemljanih oksida) cirkoniju čime se stabiliziraju određene kristalografske faze i faze spajanja. Premazi za zaštitu od topline napravljeni od cirkonija, modificirani kalcijem ili magnezijem miješanjem ili fuzijom, nisu pod kontrolom.
+
+13. ‘Slitine titana’ odnosi se samo na slitine za aviokozmičku uporabu čija je granična čvrstoća na vlak 900 MPa ili više mjereno pri 293 K (20 °C).
+
+14. ‘Slabošireće staklo’ odnosi se na stakla čiji je koeficijent toplinske ekspanzije 1 × 10-7 K-1 ili manje mjereno pri 293 K (20 °C).
+
+15. ‘Dielektrički slojevi’ su premazi izrađeni od više slojeva izolacionih materijala čija se svojstva interferencije kod izrade koja se sastoji od materijala različitih koeficijenata loma koriste da odraze, prenose ili apsorbiraju razne pojaseve valnih dužina. Dielektrički slojevi se odnosi na više od četiri dielektrička sloja ili dielektrično/metalna »kompozitna« sloja.
+
+16. ‘Cementirani volfram karbid’ ne uključuje materijale za alat za rezanje i oblikovanje koji se sastoje od volfram karbid/(kobalt, nikl), titan karbid/(kobalt, nikl), krom karbid/nikl-krom i krom karbid/nikl.
+
+17. ‘Tehnologija’ posebno namijenjena taloženju dijamantnog ugljika na bilo koje od navedenog nije pod kontrolom: pogone i glave za magnetne diskove, opremu za proizvodnju predmeta za jednokratnu uporabu, ventile za pipe, akustične dijafragme za zvučnike, dijelove strojeva za automobile, rezne alate, uloške za bušenje, opremu za uredsku automatizaciju, mikrofone ili medicinske uređaje ili kalupe, za lijevanje plastike proizvedene od slitina koje sadrže manje od 5% berilija.
+
+18. ‘Silicijev karbid’ ne uključuje materijale za alate za rezanje i oblikovanje.
+
+19. Keramičke podloge, kako se koriste u ovom stavku, ne uključuju keramičke materijale koji sadrže 5% težine, ili više, gline ili cementa, bilo kao odvojenih sastojaka ili u kombinaciji.
+
+#### Postupci navedeni u Stupcu 1 Tablice definirani su kako slijedi:
+
+a. Taloženje kemijskim parama (CVD) je postupak izvođenja završnog premaza ili modificiranja površine premazom u kojem se metal, slitina, »kompozit«, dielektrički ili keramički taloži na zagrijanu podlogu. Plinoviti reagensi se raspadaju ili spajaju u blizini podloge stvarajući taloženje željenog materijala u elementarnom obliku, kao slitina ili spoj na podlogu. Za ovaj postupak raspadanja ili kemijske reakcije energija se može osigurati toplinom podloge, tinjavim izbijanjem plazme ili zračenjem »lasera«.
+
+Napomena 1: CVD uključuje sljedeće postupke: taloženje usmjerenim protokom plina svežnja, impulsno CVD, kontrolirano nukleatsko termalno taloženje (CNTD), CVD postupci ojačani ili potpomognuti plazmom.
+
+Napomena 2: Smjesa označava podlogu uronjenu u mješavinu praha.
+
+Napomena 3: Plinoviti reagensi koji se koriste kod postupka iz svežnja proizvode se pomoći istih osnovnih reakcija i parametara kao i postupak cementiranja smjesom, osim što podloga koja se premazuje nije u dodiru s mješavinom praha.
+
+b. Termalna evaporacija-fizičko taloženje pare (TE-PVD) postupak završnog premazivanja koji se provodi u vakuumu uz tlak manji od 0,1 Pa gdje se izvor toplinske energije koristi za isparavanje materijala za premazivanje. Rezultat tog postupka je kondenzacija, ili taloženje, isparavanih vrsta na odgovarajuće postavljene podloge.
+
+Dodavanje plinova u vakuumsku komoru tijekom postupka premazivanja kako bi se sintetizirali spojevi premaza je uobičajena modifikacija postupka.
+
+Upotreba ionskog ili elektronskog snopa, ili plazme, za aktiviranje ili pomaganje taloženju premaza je također uobičajena modifikacija ove tehnike. Upotreba monitora za mjerenje optičkih karakteristika i debljine premaza tijekom samog postupka može biti jedna od značajki ovog postupka.
+
+Specifični TE-PVD postupci su kako slijedi:
+
+1. PVD elektronskim snopom koristi elektronski snop za zagrijavanje i isparavanje materijala čiji stvara premaz;
+
+2. PVD rezistivno zagrijavanje pomoću iona koristi elektronski otporne izvore topline u kombinaciji s ionskim snopom(ima) koji se sudaraju kako bi proizveli kontroliran i ujednačen protok isparenih vrsta premaza;
+
+3. Isparavanje »laserom« koristi se ili impulsnim ili neprekinutim valnim »laserskim« snopom za isparavanje materijala koji tvore premaz;
+
+4. Taloženje katodnim lukom koristi se potrošnom katodom materijala koji tvori premaz a trenutačnim dodirom na površinski mehanizam za otpuštanje na površini dolazi do lučnog izbijanja. Upravljanjem kretanja luka troši se površina katode stvarajući visokoioniziranu plazmu. Anoda može biti ili tuljac pričvršćen na periferiju katode, kroz izolator, ili komora.
+
+Nakošenje podloge korišteno je za spremanje koje nije vidljivo.
+
+Napomena: Ova definicija ne uključuje nasumično taloženje katodnim lukom na nepolarizirane podloge.
+
+5. Ionsko oblaganje je posebna modifikacija općeg TE-PVD postupka u kojem se koristi plazma ili izvor iona za ionizaciju vrsta koje treba taložiti, i na podlogu se primjenjuje negativna polarizacija kako bi se olakšalo izvlačenje vrsta iz plazme. Uvođenje reaktivnih vrsta, isparavanje krutih tvari unutar procesne komore i korištenje monitora za mjerenje optičkih karakteristika i debljine premaza tijekom samog procesa su uobičajene modifikacije postupka.
+
+c. Cementiranje smjesom je postupak promjene površine premazivanjem ili završnog premazivanja u kojem se podloga uranija u mješavinu praha (smjesu) koja se sastoji od:
+
+1. Praha metala koji će se taložiti (obično aluminij, krom, silicij ili njihove kombinacije);
+
+2. Aktivatora (obično sol halida); i
+
+3. Inertnog praha, najčešće aluminijevog oksida.
+
+Podloga i mješavina praha nalaze se u retorti koja se grije do između 1030 K (757 °C) i 1375 K (1102 °C) dovoljno dugo da se premaz nataloži.
+
+d. Raspršivanje plazme je postupak nanošenja završnog premaza u kojem top (baklja za Raspršivanje) koji proizvodi i upravlja plazmom prihvaća materijale za premazivanje u obliku praha ili žice, tali ih i raspršuje prema podlozi na kojoj se stvara integralno povezan premaz. Raspršivanje plazme sastoji se ili od raspršivanja plazme niskom pritiskom ili velikom brzinom.
+
+Napomena 1: Nizak pritisak označava manje od ambijentalnog atmosferskog pritiska.
+
+Napomena 2: Velika brzina odnosi se na brzinu plina na izlazu mlaznice koja je veća od 750 m/s mjereno pri 293 K (20 °C) na 0,1 MPa.
+
+e. Taloženje kapljive kaše je postupak modificiranja površine premazivanjem ili završnim premazivanjem u kojem se od metalnog ili keramičkog praha i organskog veziva u tekućini stvara suspenzija koja se nanosi bilo raspršivanjem, uranjanjem ili premazivanjem, sušenjem na zraku i poslije u peći i toplinskom obradom kako bi se dobio željeni premaz.
+
+f. Taloženje raspršenih čestica je postupak završnog premazivanja koji se temelji na pojavi prijenosa momentuma, kad se pozitivni ioni ubrzavaju pomoću električnog polja prema površini cilja (materijala za premazivanje). Kinetička energija iona pri udaranju dovoljna je da se oslobode atomi na ciljanoj površini i talože na odgovarajuće postavljenu podlogu.
+
+Napomena 1: Tablica se odnosi samo na taloženje triode, magnetrona ili reaktivnog isprštanog materijala koji se koriste za povećanje adhezivnosti premaza i brzine taloženja i na radio frekvenciju (RF) povećano taloženje isprštanog materijala koristi se za omogućavanje isparavanja nemetalnih materijala za premazivanje.
+
+Napomena 2: Snopovi iona niske energije (manje od 5 keV) mogu se koristiti za aktiviranje taloženja.
+
+g. Ugradnja iona je postupak premazivanja modificiranjem površine u kojem se element kojeg treba spojiti u slitinu ionizira, ubrzava kroz potencijalni gradijent i usađuje u područje površine podloge. Ovo uključuje postupke kod kojih se usađivanje obavlja istovremeno s taloženjem fizičkih para elektronskim snopom ili taloženjem raspršenih čestica.
+
+#### KATEGORIJA 3 — ELEKTRONIKA
+
+| 3A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+Napomena 1: Upravljački status opreme i komponenata opisanih u 3A001 ili 3A002, osim onih opisanih u 3A001.a.3. do 3A001.a.10. ili 3A001.a.12., koji su posebno projektirani za ili koji imaju iste funkcionalne karakteristike kao i druga oprema utvrđen je upravljačkim statusom druge opreme.
+
+Napomena 2: Upravljački status integriranih sklopova opisanih u 3A001.a.3. do 3A001.a.9. ili 3A001.a.12. koji su nepromjenjivo programirani ili namijenjeni za određenu funkciju za drugu opremu utvrđen je upravljačkim statusom druge opreme.
+
+NAPOMENA: Kad proizvođač ili korisnik ne može utvrditi upravljački status druge opreme, upravljački status integriranih sklopova određen je u 3A001.a.3. do 3A001.a.9. i 3A001.a.12.
+
+3A001 Elektroničke komponente, kako slijedi:
+
+a. Opća namjena integriranih sklopova, kako slijedi:
+
+Napomena 1: Upravljački status poluvodičkih pločica (dovršenih ili nedovršenih), čija je funkcija utvrđena, treba procijeniti prema parametrima u 3A001.a.
+
+Napomena 2: Integrirani sklopovi uključuju sljedeće vrste:
+
+– »Monolitski integrirani sklop«;
+
+– »Hibridni integrirani sklop«;
+
+– »Integrirani sklop s više čipova«;
+
+– »Integrirani sklop presvučen filmom«, uključujući integrirane sklopove silicij-na-safiru;
+
+– »Optički integrirani sklopov«.
+
+1. Integrirani sklopovi, namijenjeni ili svrstani kao ojačani zračenjem da mogu podnijeti bilo što od navedenog:
+
+a. Ukupnu količinu od 5 × 103 Gy (silicij) ili više;
+
+b. Podizanje intenziteta ionizirajućeg zračenja od 5 × 106 Gy (silicij)/s ili više;
+
+c. Gustoća protoka (integrirani fluks) neutrona (1 MeV ekvivalent) od 5 × 1013 n/cm2 ili više na silicij, ili njegov ekvivalent za druge materijale;
+
+Napomena: 3A001.a.1.c nije primjenjiva na Metalne Izolatorske Poluprovodnike (Metal Insulator Semiconductors – MIS)
+
+2. »Mikrosklopovi mikroprocesora«, »mikrosklopovi mikroračunala«, mikrosklopovi mikroupravljača, integrirani sklopovi za skladištenje izrađeni od složenih poluvodiča, pretvarači analognog u digitalno, pretvarači digitalnog u analogno, elektrooptički ili »optički integrirani sklopovi« namijenjeni za »obrada signala«, logički uređaji koje se mogu programirati u polju, integrirani sklopovi po narudžbi za koje su nepoznati i funkcija i upravljački status opreme u kojoj će se integrirani sklop koristiti, Brzi Fourierovi procesori za pretvaranje (FFT), električne memorije s mogućnošću programiranja i brisanja (EEPROMs), impulsne memorije ili statičke memorije s izravnim pristupom (SRAMs), koje imaju bilo koje od navedenog:
+
+a. Svrstane za rad pri temperaturi okoliša iznad 398 K (125 °C);
+
+b. Svrstane za rad pri temperaturi okoliša ispod 218 K (- 55 °C); ili
+
+c. Svrstane za rad u cijelom rasponu temperature okoliša od 218 K (- 55°C) do 398 K (125°C);
+
+Napomena: 3A001.a.2. ne odnosi se na integrirane sklopove za primjenu kod civilnih automobila ili željeznice.
+
+3. »Mikrosklopovi mikroprocesora«, »mikrosklopovi mikroračunala« i mikrosklopovi mikroupravljača, proizvedeni od sastavljenog poluvodiča i koji djeluju na satnoj frekvenciji većoj od 40 MHz;
+
+Napomena: 3A001.a.3. uključuje digitalne procesore signala, digitalne procesore niza i digitalne koprocesore.
+
+4. Integrirani sklopovi za pamćenje izrađeni od složenih poluvodiča;
+
+5. Pretvarači integriranih sklopova analogno u digitalno i digitalno u analogno, kako slijedi:
+
+a. Pretvarači analogno u digitalno koji imaju bilo koje od navedenog:
+
+NAPOMENA: VIDI TAKOĐER 3A101.
+
+1. Razlučivost 8 bita ili veća, ali manja od 10 bita, s izlaznom brzinom većom od 500 milijuna riječi u sekundi;
+
+2. Razlučivost od 10 bita ili veća, ali manja od 12 bita, s izlaznom brzinom većom od 200 milijuna riječi u sekundi;
+
+3. Razlučivost od 12 bita s izlaznom brzinom većom od 105 milijuna riječi u sekundi;
+
+4. Razlučivost veća od 12 bita, ali manja ili jednaka od 14 bita, s izlaznom brzinom većom od 10 milijuna riječi u sekundi; ili
+
+5. Razlučivost veća od 14 bita s izlaznom brzinom većom od 2,5 milijuna riječi u sekundi;
+
+b. Pretvarači digitalno u analogno s razlučivosti od 12 bita ili većom, kod koji je »vrijeme smirivanja« manje od 10 ns;
+
+Tehničke napomene:
+
+1. Razlučivost od n bita odgovara kvantizaciji od 2n razina.
+
+2. Broj bitova izlazne riječi je jednak razlučivosti analogno-digitalnih pretvarača.
+
+3. Izlazna brzina je maksimalna izlazna brzina pretvarača, bez obzira na arhitekturu ili pretjerano uzorkovanje. Trgovci mogu kao izlaznu brzinu koriste također frekvenciju uzorkovanja, brzina pretvorbe ili brzinu propusnosti. Često je to izraženo u megahercima (MHz) ili mega uzorcima u sekundi (MSPS).
+
+4. Za mjerenje izlazne brzine, podrazumijeva se da je jedna izlazna riječ u sekundi jednaka jednom Hz ili jednom uzorku u sekundi.
+
+6. Elektrooptički i »optički integrirani sklopovi« namijenjeni za »obradu signala« koji imaju sve od navedenog:
+
+a. Jednu ili više od jedne unutarnje »laserske« diode;
+
+b. Jednog ili više od jednog unutarnjeg elementa za otkrivanje svjetla; i
+
+c. Optičke valovode;
+
+7. »Logički uređaji sa programabilnim poljem« koji imaju bilo koje od navedenog:
+
+a. Jednak iskoristiv protok upravljačke elektrode od više od 30000 (2 ulazne upravljačke elektrode);
+
+b. Tipično »vrijeme zadrške širenja osnovnog zapornog sklopa« od manje od 0,1 ns; ili
+
+c. Frekvenciju preklapanja veću od 133 MHz;
+
+Napomena: 3A001.a.7. uključuje:
+
+– Jednostavne logičke uređaje koji se mogu programirati (SPLD-e)
+
+– CPLD-e (Složene logičke uređaje koji se mogu programirati),
+
+– FPGA-e (Nizove upravljačkih elektroda koji se mogu programirati u polju),
+
+– FPLA-e (Logičke nizove koji se mogu programirati u polju),
+
+– FPIC-e (Međuspojeve koji se mogu programirati u polju).
+
+Tehničke napomene:
+
+1. »Logički uređaji sa programabilnim poljem« također su poznati kao programabilna vrata ili programabilne logičke mreže.
+
+2. Maksimalni broj digitalnih ulazno/izlaznih podataka iz 3A001.a.7.a. je također poznat i kao maksimalni broj podataka koje korisnik unese ili primi, ili najveći broj raspoloživih ulazno/izlaznih podataka, neovisno od toga da li je integrirani sklop u kućištu ili bez njega.
+
+8. Ne koristi se;
+
+9. Integrirani sklopovi neuralne mreže;
+
+10. Integrirani sklopovi po narudžbi čija je funkcija nepoznata, i čiji je upravljački status opreme u kojoj će se koristiti integrirani sklopovi nepoznat proizvođaču, koji imaju bilo koje od navedenog:
+
+a. Više od 1500 terminala;
+
+b. Tipično »vrijeme zadrške širenja osnovnog zapornog sklopa« od manje od 0,02 ns; ili
+
+c. Radnu frekvenciju veću od 3 GHz;
+
+11. Digitalni integrirani sklopovi, osim onih opisanih u 3A001.a.3 do 3A001.a.10. i 3A001.a.12., koji se temelje na bilo kojem složenom poluvodiču i imaju bilo koje od navedenog:
+
+a. Jednak broj upravljačke elektrode više od 3000 (2 ulazne upravljačke elektrode); ili
+
+b. Frekvenciju preklapanja veću od 1,2 GHz;
+
+12. Brzi Fourierovi procesori za pretvaranje (FFT) koji imaju nazivno vrijeme izvršavanja za N-točku kompleks FFT od manje od (N log2 N)/20480 ms, gdje N označava broj točaka;
+
+Tehnička napomena:
+
+Kad je N jednak 1024 točke, formula u 3A001.a.12. daje vrijeme izvršavanja od 500 µs
+
+b. Komponente mikrovalova ili milimetar valova, kako slijedi:
+
+1. Elektronske vakuum cijevi i katode, kako slijedi:
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena 1:</td>
+<td colspan="3">3A001.b.1. ne odnosi se na cijevi predviđene ili svrstane za rad u bilo kojem frekventnom pojasu koji udovoljava svim od navedenih karakteristika:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="2">Ne premašuje 31,8 GHz; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="2">»Dodijeljen od ITU« za usluge radio komunikacija, ali ne za radio utvrđivanje.</td>
+</tr>
+
+<tr>
+<td>Napomena 2:</td>
+<td colspan="3">3A001.b.1. ne odnosi se na cijevi koje nisu »prikladne za uporabu u svemiru« i koje udovoljavaju svim od navedenih karakteristika:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="2">Prosječna izlazna snaga jednaka ili manja od 50 W; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="2">Predviđeni ili svrstani za rad u bilo kojem frekventnom pojasu koji udovoljava svim od navedenih karakteristika:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td>Veći je od 31,8 GHz ali nije veći od 43,5 GHz; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td>»Dodijeljen od ITU« za usluge radio komunikacije, ali ne za radio utvrđivanje.</td>
+</tr>
+</tbody>
+
+</table>
+
+a. Cijevi za putujući val, pulsni ili kontinuirani val, kako slijedi:
+
+1. Da radi pri frekvencijama većim od 31 GHz;
+
+2. Da ima element za grijanje katode s vremenom uključivanja na nazivnu RF snagu od manje od 3 sekunde;
+
+3. Spojene cijevi s rezonantnom šupljinom, ili njihovi derivati, pri čemu je »razlomačka širina pojasa« veća od 7% ili vršna snaga veća od 2,5 kW;
+
+4. Spiralne cijevi, ili njihovi derivati, koji imaju bilo koju od navedenih karakteristika:
+
+a. »Razlomačka širina pojasa« veća od jedne oktave, i prosječnu snagu (izraženu u kW) puta frekvencija (izraženu u GHz) od više od 0,5;
+
+b. »Razlomačka širina pojasa« od jedne oktave ili manje, i prosječnu snagu (izraženu u kW) puta frekvencija (izražena u GHz) od više od 1; ili
+
+c. Da »udovoljavaju uvjetima rada u svemiru«;
+
+b. Cijevi pojačala unakrsnog polja s pojačanjem od više od 17 dB;
+
+c. Impregnirane katode namijenjene za elektronske cijevi koje proizvode kontinuiranu gustoću emisijske struje u nazivnim radnim uvjetima veću od 5 A/cm2;
+
+2. Mikrovalna pojačala snage monolitskih integriranih sklopova (MMIC) koja imaju sve od navedenog:
+
+a. Da su svrstana za rad pri frekvencijama višim od 3,2 GHz sve do, i uključujući, 6 GHz i s prosječnom izlaznom snagom većom od 4W (36 dBm) pri čemu je »razlomačka širina pojasa« veća od 15%;
+
+b. Da su svrstana za rad pri frekvencijama višim od 6 GHz sve do, i uključujući, 16 GHz i s prosječnom izlaznom snagom većom od 1W (30 dBm) pri čemu je »razlomačka širina pojasa« veća od 10%;
+
+c. Da su svrstana za rad pri frekvencijama višim od 16 GHz sve do, i uključujući, 31,8 GHz i s prosječnom izlaznom snagom većom od 0,8W (29 dBm) pri čemu je »razlomačka širina pojasa« veća od 10%;
+
+d. Da su svrstana za rad pri frekvencijama višim od 31,8 GHz sve do, i uključujući, 37,5 GHz;
+
+e. Da su svrstana za rad pri frekvencijama višim od 37,5 GHz sve do, i uključujući, 43,5 GHz i s prosječnom izlaznom snagom većom od 0,25W (36 dBm) pri čemu je »razlomačka širina pojasa« veća od 10%;
+
+f. Da su svrstana za rad pri frekvencijama višim od 43,5 GHz.
+
+Napomena 1: 3A001.b.2. ne kontrolira satelitsku opremu za emitiranje koja je određena ili svrstana za rad u rasponu frekvencije od 40,5 GHz do 42,5 GHz
+
+Napomena 2: Kontrolni status MMIC-a čija radna frekvencija prelazi jedan frekventni raspon, kao što je navedeno u 3A001.b.2.a.do 3A001.b.2.f.,, određuje se najnižim kontroliranim pragom prosječne izlazne snage.
+
+Napomena 3: Napomene 1 i 2 u uvodu Kategorije 3 znače da 3A001.b.2. ne kontrolira MMIC-e ako su posebno određeni za korištenje u druge svrhe, npr. telekomunikacije, radare, automobile
+
+3. Mikrovalne tranzistore koji imaju bilo koju od navedenih karakteristika:
+
+a. Da su namijenjeni radu pri frekvencijama višim od 3,2 GHz sve do, i uključujući, 6 GHz i s prosječnom izlaznom snagom većom od 60W (47,8 dBm);
+
+b. Da su namijenjeni radu pri frekvencijama višim od 6 GHz sve do, i uključujući, 31,8 GHz i s prosječnom izlaznom snagom većom od 20W (43 dBm);
+
+c. Da namijenjeni d pri frekvencijama višim od 31,8 GHz sve do, i uključujući, 37,5 GHz i s prosječnom izlaznom snagom većom od 0,5W (27 dBm);
+
+d. Da su namijenjeni radu pri frekvencijama višim od 37,5 GHz sve do, i uključujući, 43,5 GHz i s prosječnom izlaznom snagom većom od 1W (30 dBm);
+
+e. Da su namijenjeni radu pri frekvencijama višim od 43,5 GHz.
+
+Napomena: Kontrolni status predmeta radna frekvencija prelazi jedan frekventni raspon, kao što je navedeno u 3A001.b.3 do 3A001b.3.e., određuje se najnižim kontroliranim pragom prosječne izlazne snage.
+
+4. Mikrovalna pojačala s elementima u čvrstom stanju, i mikrovalni sklopovi/moduli koji sadrže mikrovalna pojačala, i posjeduju bilo koju od sljedećih karakteristika:
+
+a. Da su namijenjeni radu pri frekvencijama višim od 3,2 GHz sve do, i uključujući, 6 GHz i s prosječnom izlaznom snagom većom od 60W (47,8 dBm) s »razlomačkom širinom pojasa« većom od 15%;
+
+b. Da su namijenjeni radu pri frekvencijama višim od 6 GHz sve do, i uključujući, 31,8 GHz i s prosječnom izlaznom snagom većom od 15W (42 dBm) s »razlomačkom širinom pojasa« većom od 10%;
+
+c. Da su namijenjeni radu pri frekvencijama višim od 31,8 GHz sve do, i uključujući, 37,5 GHz;
+
+d. Da su namijenjeni radu pri frekvencijama višim od 37,5 GHz sve do, i uključujući, 43,5 GHz i s prosječnom izlaznom snagom većom od 1W (30 dBm) s »razlomačkom širinom pojasa« većom od 10%;
+
+e. Da su namijenjeni radu pri frekvencijama višim od 43,5 GHz; ili
+
+f. Da su namijenjeni radu pri frekvencijama višim od 3.2 GHz i posjeduju sve sljedeće karakteristike:
+
+1. Prosječnu izlaznu snagu (u wattima) P, veću od 150 podijeljenu s maksimalnom radnom frekvencijom (u GHz) na kvadrat [˙P>150 W*GHz2/fGHz2];
+
+2. Razlomačku širinu pojasa od 5% ili veća; i
+
+3. Bilo koje dvije stranice okomite jedna na drugu s dužinom d (u cm) jednakom ili manjom od 15 dijeljenom s najnižom radnom frekvencijom u GHz [d=15cm*GHz/fGHz].
+
+Tehnička nepomena:
+
+3.2 GHz se koristi kao najniža radna frekvencija (fGHz) u formuli u 3A001.b.4.f.3., za pojačala koja imaju nominalno radno područje naniže do 3.2 GHz i niže [d=15cm*GHz/ 3.2 GHz].
+
+NAPOMENA: MMIC pojačala snage treba ocijeniti prema kriterijima iz 3A001.b.2.
+
+Napomena 1: 3A001.b.4. ne kontrolira satelitsku opremu za emitiranje koja je određena ili svrstana za rad u rasponu frekvencije od 40,5 GHz do 42,5 GHz.
+
+Napomena 2: Kontrolni status predmeta čija radna frekvencija prelazi jedan frekventni raspon, kao što je navedeno u 3A001.b.4.a. do 3A001.b.4.e., određuje se najnižim kontroliranim pragom prosječne izlazne snage.
+
+5. Elektronski ili magnetni pojasni propust ili pojasne filtre za ugađanje koji imaju više od 5 rezonatora za ugađanje koji mogu ugađati kroz frekventni pojas od 1,5:1 (fmax/fmin) u manje od 10 µs i koji imaju bilo koje od navedenog:
+
+a. Širinu pojasnog propusta od više od 0,5% središnje frekvencije; ili
+
+b. Širinu pojasnog propusta od manje od 0,5;% središnje frekvencije;
+
+6. Ne koristi se;
+
+7. Miksere i pretvarače koji su namijenjeni za širenje frekventnog raspona opreme opisane u 3A002.c., 3A002.d., 3A002.e. ili 3A002.f. preko tamo navedenih ograničenja;
+
+8. Mikrovalna pojačala snage koja sadrže cijevi navedene u 3A001.b.1. i koja imaju sve od navedenog:
+
+a. Radne frekvencije iznad 3 GHz;
+
+b. Prosječnu gustoću izlazne snage u odnosu na masu veću od 80 W/kg; i
+
+c. Volumen manji od 400 cm3;
+
+Napomena: 3A001.b.8. ne odnosi se na opremu namijenjenu ili svrstanu za rad na bilo kojem frekvencijskom pojasu kojeg je »dodijeljen od ITU« za radiokomunikacijske usluge, ali ne za radio utvrđivanje.
+
+9. Mikrovalni moduli snage MPM (Microwave power modules), koji se sastoje minimalno od valne cijevi, mikrovalnog monolitnog integriranog kola i integriranog regulatora snage, i koji ima sve od niže navedenih značajki:
+
+a. Vrijeme dostizanja pune funkcionalnosti iz isključenog položaja manje od 10 sekundi;
+
+b. Volumen manji od maksimalne snage u W pomnožena s 10 cm/W; i
+
+c. »Trenutačna širina pojasa« veća od jedne oktave (fmyx > 2 fmin) i bilo što od sljedećeg:
+
+1. Za frekvencije manje ili jednake 18 GHz, RF izlazna snaga veća od 100 W; ili
+
+2. Ima frekvenciju veću od 18 GHz.
+
+Tehnička napomena
+
+1. Za računanje kontrolnog volumena u 3A001.b.9.b daje se sljedeći primjer: za maksimalnu snagu od 20 W, volumen bi bio: 20 Wx10 cm3/W =200 cm3.
+
+2. Vrijeme uključivanja kod 3A001.b.9.a odnosi se na vrijeme od potpuno isključenog do potpuno u funkciji; tj. uključuje i vrijeme zagrijavanja MPM.
+
+10. Oscilatori ili oscilatorski sklopovi, izrađeni za rad sa svim niže navedenim:
+
+a. Šum pojedine faze bočnog pojasa (SSB) izražen u dBc/Hz, je bolji od
+
+- (114+20log10 F-20log10 f) za 10 Hz< F <10kHz; i
+
+b. Šum pojedine faze bočnog pojasa (SSB) izražen u dBc/Hz, je bolji od
+
+- (114+20log10 F-20log10 f) za 10 kHz< F <500kHz;
+
+Tehnička napomena:
+
+U 3A001.b.10., F je regulacijjsko odstupanje od radne frekvencije u Hz a F je radna frekvencija u MHz.
+
+c. Zvučnovalni uređaji, kako slijedi, i za njih posebno predviđene komponente:
+
+1. Površinski zvučnovalni uređaji i zvučnovalni uređaji za površinsko snimanje (shallow bulk) (tj., uređaji za »obradu signala« koji koriste elastične valove u materijalima), koji imaju bilo koje od navedenog:
+
+a. Noseću frekvenciju veću od 6 GHz;
+
+b. Noseću frekvenciju veću od 1 GHz, ali ne veću od 6 GHz, i koja ima bilo koje od navedenog:
+
+1. Prigušenje bočne frekvencije veće od 65 dB;
+
+2. Umnožak najvećeg vremenskog kašnjenja i širine pojasa (vrijeme u µs i širina pojasa u MHz) veći od 100;
+
+3. Širina pojasa veća od 250 MHz; ili
+
+4. Disperzijsko kašnjenje veće od 10 µs; ili
+
+c. Noseću frekvenciju od 1 GHz ili manje, koja ima bilo koje od navedenog:
+
+1. Umnožak najvećeg vremenskog kašnjenja i širine pojasa (vrijeme u µs i širina pojasa u MHz) veći od 100;
+
+2. Disperzijsko kašnjenje od više od 10 µs; ili
+
+3. ‘Prigušenje bočne frekvencije’ veće od 65 dB i širinu pojasa veću od 100 MHz;
+
+Tehnička napomena: ‘Prigušenje bočne frekvencije’ je maksimalna vrijednsot prigušenja navedena u tehničkim podacima.
+
+2. Velike (volumenske) zvučnovalne uređaje koji dozvoljavaju izravnu obradu signala pri frekvencijama većim od 6 GHz;
+
+3. Uređaje za akustično-optičku »obradu signala« koji koriste interakciju između zvučnih valova (velikih valova ili površinskih valova) i svjetlosnih valova koji dozvoljavaju izravnu obradu signala ili slika, uključujući analizu spektra, korelaciju ili konvoluciju;
+
+Napomena: 3A001.c. ne kontrolira zvučnovalne uređaje koji su ograničeni na jednopojasno, nisko propusno, visokopropusno filtriranje, ili filtriranje frekvencija ili rezonantnu funkciju.
+
+d. Elektronske uređaje i sklopove koji sadrže komponente, izrađene od »supervodljivih« materijala posebno projektiranih za rad pri temperaturama ispod »kritične temperature« od najmanje jednog od »supervodljivih« sastavnih dijelova, s bilo kojim od navedenog:
+
+1. Strujne sklopke za digitalne sklopove koji koriste »supervodljive« upravljačke elektrode s umnoškom vremena zadrške po upravljačkoj elektrodi (u sekundama) i rasipanjem snage po upravljačkoj elektrodi (u vatima) od manje od 10-14 J; ili
+
+2. Izbor frekvencije pri svim frekvencijama pomoću titrajnih krugova sa Q- vrijednostima koje su veće od 10000;
+
+e. Uređaje velike energije, kako slijedi:
+
+1. Ćelije kako slijedi:
+
+a. Primarne ćelije koje imaju ‘energijsku gustoću’ veću od 550 Wh/kg na 20 °C;
+
+b. Sekundarne ćelije koje imaju ‘energijsku gustoću’ veću od 250 Wh/kg na 20 °C;
+
+Tehnička napomene:
+
+1. Za potrebe 3A001.e.1 energijska gustoća (Wh/kg) se računa množenjem prosječne snage u vatima s nominalnim kapacitetom u Ah i dijeljenjem s ukupnom masom u kg. Ako nominalni kapacitet nije naveden, energetska gustoća se računa iz korjena nominalnog napona pomnoženog s trajanjem pražnjenja u satima i zatim podijeljenog s otporom pražnjenja u ohmima i masom u kilogramima.
+
+2. Za potrebe 3A001.e.1., »ćelija« je definirana kao elektrokemijski uređaj, koji ima pozitivnu i negativnu elektrodu, elektrolit, i izvor je električne energije. Ona je temeljni sastavni element neke baterije.
+
+3. Za potrebe 3A001.e.1.a, »primarna ćelija« je »ćelija« koja nije izrađena da bude punjena bilo kakvim izvorom.
+
+4. Za potrebe 3A001.e.1.b, ‘sekundarna ćelija’ je ‘ćelija’ koja je izrađena da bude punjena vanjskim izvorom energije.
+
+Napomena 3A001.e ne kontrolira baterije, uključujući i jednoćelijske baterije.
+
+2. Kondenzatori memorije velike energije, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 3A201.a.
+
+a. Kondenzatori s frekvencijom ponavljanja od manje od 10 Hz (monostabilni kondenzatori) koji imaju sve od navedenog:
+
+1. Nazivni napon jednak ili više od 5 kV;
+
+2. Energijsku gustoću jednaku ili više od 250 J/kg; i
+
+3. Ukupna energija jednaka ili više od 25 kJ;
+
+b. Kondenzatori s frekvencijom ponavljanja od 10 Hz ili više (kondenzatori s frekvencijom ponavljanja) koji imaju sve od navedenog:
+
+1. Nazivni napon jednak ili više od 5 kV;
+
+2. Energijsku gustoću jednaku ili više od 50 J/kg;
+
+3. Ukupna energija jednaka ili više od 100 J; i
+
+4. Trajanje ciklusa punjenje/pražnjenje jednak ili više od 10000;
+
+3. »Supervodljivi« elektromagneti i solenoidi posebno namijenjeni da se mogu u potpunosti napuniti ili isprazniti u manje od sekunde, koji imaju sve od navedenog:
+
+NAPOMENA: VIDI TAKOĐER 3A201.b.
+
+Napomena: 3A001.e.3. ne odnosi se na »supervodljive« elektromagnete ili solenoide posebno projektirane za stvaranje slika magnetnom rezonancom (MRI) medicinske opreme.
+
+a. Energija isporučena tijekom pražnjenja viša od 10 kJ u prvoj sekundi;
+
+b. Unutarnji promjer namota koji prenose struju od više od 250 mm; i
+
+c. Nazivne magnetske indukcije od više od 8 T ili »ukupne gustoće struje« u namotima od više od 300 A/mm2;
+
+4. Solarne ćelije, CIC (cell-interconnect-coerglass) sklopovi, solarni paneli, i solarni nizovi, koji su »namijenjeni uporabi u svemiru«, čija je minimalna prosječna učinkovitost veća od 20% na radnoj temperaturi od 301 K (28°C) pod simuliranim AM0 osvjetjenjem s radijacijom od 1367 W/m2.
+
+Tehnička napomena
+
+‘AM0’ ili ‘Air Mass Zero’, odnosi se na specijalnu radijaciju sunčeve svjetlosti u zemljinoj vanjskoj atmosferi pri čemu udaljenost između zemlje i sunca iznosi jednu astronomsku jedinicu (AU).
+
+f. Rotacijski davači apsolutnog položaja koji imaju točnost jednaku ili bolju od ± 2,5 sekundi luka.
+
+g. Čvrsti tiristorski uređaji pulsirajuće snage i tiristorski moduli koji koriste bilo električne, optičke ili elektronske metode kontrolirane radijacije, i imaju bilo što od sljedećeg:
+
+1. Maksimalni brzinu uključivanja (di/dt) veću od 30 000 A/s i napajanje veće od 1 100 V; ili
+
+2. Maksimalnu brzinu uključivanja (di/dt) veću od 2 000 A/s i sve od niže navedenog:
+
+a. vršni napon veći ili jednak od 3 00 V; i
+
+b. Vršnu struju veću ili jednaku od 3 00 A.
+
+Napomena 1: 3A001.g uključuje:
+
+– silikonsko kontrolirane rektifikatore (SCR)
+
+– tiristore s električnim okidanjem (ETT)
+
+– tiristore sa svjetlosnim okidanjem (LTT)
+
+– tiristore s integriranim vratima (IGCT)
+
+– tiristore sa zakretnim vratima (GTO)
+
+– MOS kontrolirane tiristore (MCT)
+
+– solidtrone
+
+Napomena 2: 3A001.g ne kontrolira tiristorske uređaje i tiristorske module ugrađene u opremu namijenjenu civilnim željeznicama ili »civilnim zrakoplovima«.
+
+Tehnička napomena
+
+Za potrebe 3A001.g, »tiristorski modul« sadrži jedan ili više tiristorskih uređaja.
+
+h. Čvrsti poluvodički prekidači, diode ili ‘moduli’ koji imaju bilo što od slijedećeg:
+
+1. Postavljeni za maksimalnu radnu temperaturu spajanja veću od 488 K (215 C);
+
+2. Maksimalni periodični napon u isključenom stanju (blokirajući napon) je iznad 300V i
+
+3. Struja iznad 1A.
+
+Napomena 1: Maksimalna periodični blokirajući napon u isključenom stanju iz 3A001.h uključuje napon između odvoda i uvoda, napon između kolektora i emitorom, maksimlana periodični reverzibilni napon i maksimalni periodični blokirajući napon u isključenom stanju.
+
+Napomena 2: 3A001.h obuhvaća:
+
+– spojne tranzistore s efektom polja (JFET)
+
+– vertikalne spojne tranzistore s efektom polja (JFET)
+
+– metalno oksidne tranzistore s efektom polja (MOSFET)
+
+– difuzne metalne oksidne tranzistore s efektom polja (DMOSFET)
+
+– bipolarne tranzistore s izoliranim vratima (IGBT)
+
+– tranzistore s visoko mobilnim elektronima (HEMT)
+
+– bipolarne spojne tranzistore (BJT)
+
+– tiristore i silicijeve usmjerivače (SCR)
+
+– tiristore s mehanizmom za isključivanje (GTO)
+
+– emiotore s mehanizmom za isključivanje (ETO)
+
+– diode PIN
+
+– schottky diode
+
+Napomena 3: 3A001.h ne kontrolira prekidače, diode, ili ‘module’ ugrađene u samu konstrukciju opreme za civilne automobile, civilnu željeznicu ili »civilne zrakoplove«.
+
+Tehnička napomena:
+
+Za potrebe 3A001.h ‘moduli’ sadrže jedan ili više čvrsti poluvodički prekidač ili diodu.
+
+3A002 Elektronska oprema opće namjene, kako slijedi:
+
+a. Oprema za snimanje, kako slijedi, i za nju posebno namijenjena ispitna vrpca:
+
+1. Snimači magnetskih vrpci s analognom instrumentacijom, uključujući one kojima se mogu snimati digitalni signali (npr. korištenjem modula za digitalno snimanje visoke gustoće (HDDR)), koji imaju bilo koje od navedenog:
+
+a. Pojasnu širinu veću od 4 MHz po elektronskom kanalu ili vrpci;
+
+b. Pojasnu širinu veću od 2 MHz po elektronskom kanalu ili vrpci i koji ima više od 42 vrpce; ili
+
+c. Pogreška vremenskog pomaka (baze), mjerena u skladu s dokumentima IRIG-a ili EIA-a koji su na snazi, od manje od ± 0,1 µs;
+
+Napomena: Analogni snimači magnetskih vrpci posebno projektirani za civilne video potrebe ne smatraju se instrumentacijom snimača vrpci.
+
+2. Digitalni snimači video magnetskih vrpci koji imaju najveću brzinu prijenosa digitalnog sučelja veću od 360 Mbit/s;
+
+Napomena: 3A002.a.2. ne odnosi se na digitalne snimače video magnetnih vrpci posebno projektirane za televizijsko snimanje pomoću jedinstvenog formata, koji mogu uključivati i formate sažetih signala, koje su ITU, IEC, SMPTE, EBU, ETSI ili IEEE standardizirali ili preporučili da se primjenjuju za civilnu televiziju.
+
+3. Snimači podataka na magnetne vrpce s digitalnom instrumentacijom koji koriste tehnike spiralnog pretraživanja ili tehnike nepomične glave, koji imaju bilo koje od navedenog:
+
+a. Najveću brzinu prijenosa digitalnog sučelja veću od 175 Mbit/s; ili
+
+b. Da su »prikladni za uporabu u svemiru«;
+
+Napomena: 3A002.a.3. ne odnosi se na analogne snimače magnetnih vrpci koji su opremljeni s HDDR elektronikom za pretvaranje i namješteni su za snimanje samo digitalnih podataka.
+
+4. Oprema, s najvećom brzinom prijenosa digitalnog sučelja većom od 175 Mbit/s, namijenjena za pretvaranje digitalnih snimača video magnetnih vrpci za uporabu kao snimača podataka s digitalnom instrumentacijom;
+
+5. Digitalizatori valnog oblika i prijelazni snimači koji imaju sve od navedenog:
+
+a. Brzinu digitalizacije jednaku ili višu od 200 milijun uzoraka na sekundu i razlučivost od 10 bita ili više; i
+
+b. Kontinuiranu propusnost od 2 Gbit/s ili više;
+
+Tehnička napomena:
+
+1. Za instrumente s arhitekturom paralelnih sabirnica, brzina kontinuirane propusnosti predstavlja najveću brzinu riječi pomnoženu brojem bitova u riječi.
+
+2. Kontinuirana propusnost je najveća brzina podataka koju instrument može propustiti do memorije velikog kapaciteta bez gubitka bilo koje informacije uz održavanje brzine uzorkovanja i pretvaranja analogno u digitalno.
+
+6. Snimači podataka s digitalnom instrumentacijom, koji koriste tehniku memorije na magnetskom disku, koji imaju sve od navedenog:
+
+a. Brzinu digitalizacije jednaku ili višu od 100 milijun uzoraka na sekundu i razlučivost od 8 bita ili više; i
+
+b. Kontinuiranu propusnost od 1 Gbit/s ili više;
+
+b. »Sintetizator frekvencije« »elektronskih skupova« koji ima »vrijeme promjene frekvencije« od jedne odabrane frekvencije na drugu od manje od 1 ms;
+
+Napomena: Kontrolni status analizatora signala, generatora signala, analizatora mreže, i mikrovalnih testnih prijamnika i samostalnih instrumenata je određena u 3A002.c, 3A002.d, 3A002.e i 3A002.f.
+
+c. »Analizatori signala« radijskih frekvencija, kako slijedi:
+
+1. »Analizatori signala« koji mogu analizirati frekvencije veće od 31,8 GHz ali manje od 37,5 GHz, i s pojasnom širinom (RBW – resolution bandwith) od 3 dB iznad 10 MHz;
+
+2. »Analizatori signala« koji mogu analizirati frekvencije veće od 43,5 GHz
+
+3. »Dinamički analizatori signala« kod kojih je »pojasna širina u realnom vremenu« veća od 500 kHz;
+
+Napomena: 3A002.c.2. ne odnosi se na »dinamički analizatori signala« koji koriste samo filtre pojasne širine sa stalnim postotkom (poznate i kao oktavne ili razlomljene oktavne filtre).
+
+d. Signalni generatori sintetizirane frekvencije koji proizvode izlazne frekvencije, čija su točnost i kratkoročna i dugoročna stabilnost kontrolirane, koje potiču ili su podvrgnute glavnom internom referentnom oscilatoru, i koji imaju bilo koje od navedenog:
+
+1. Najveću sintetiziranu frekvenciju veću od 31,8 GHz, ali koja ne prelazi 43,5 GHz za koju se procjenjuje da generira trajanje impulsa manje od 100 ns;
+
+2. Najveću sintetiziranu frekvenciju veću od 43,5 GHz;
+
+3. »Vrijeme promjene frekvencije« od jedne odabrane frekvencije na drugu kako je navedeno u bilo kojem od sljedećeg:
+
+a. manje od 312 ps;
+
+b. manje od 100 µs za bilo koju promjenu frekvencije iznad 1,6 GHz unutar frekvencijskog opsega koji prelazi 3,2 GHz ali koji na prelazi 10,6 GHz;
+
+c. manje od 250 µs za bilo koju promjenu frekvencije iznad 550 MHz unutar frekvencijskog opsega koji prelazi 10,6 GHz ali koji na prelazi 31,8 GHz;
+
+d. manje od 500 s za bilo koju promjenu frekvencije iznad 550 MHz unutar frekvencijskog opsega koji prelazi 31,8 GHz ali koji na prelazi 43,5 GHz;
+
+e. manje od 1 ms unutar frekvencijskog opsega koji prelazi 43,5 GHz; ili
+
+4. Maksimalna sintetizirana frekvencija prelazi 3,2 GHz i ima sve slijedeće značajke:
+
+a. Jednostruku fazu šuma bočnog pojasa (SSB) bolju od – (126 + 20 log10F – 20 log10f) u dBc/Hz, za 10 Hz < F < 10 kHz; i
+
+b. Jednostruku fazu šuma bočnog pojasa (SSB) bolju od – (126 + 20 log10F – 20 log10f) u dBc/Hz, za 10 kHz < F < 500 kHz;
+
+Tehnička napomena:
+
+u 3A002.d.4., F je regulacijsko odstupanje od radne frekvencije u Hz, a f je radna frekvencija u MHz;
+
+Napomena 1: Za potrebe 3A002.d., pojam frekvencijski sintetizirani generatori signala uključuju presudnu valnu formu i funkcijske generatore.
+
+Napomena 2: Za potrebe 3A002.d.1., »trajanje impulsa je utvrđeno kao vremenski interval između vodećeg dijela impulsa koji doseže 90% od maksimuma i stražnjeg dijela impulsa koji doseže 10% od maksimuma.
+
+Tehničke napomene
+
+1. Presudna valna forma i funkcisjki generatori su obično specificirani brzinom uzorkovanja (npr. Guzoraka/s), koja je pretvorena u RF područje sa Nyquistovim faktorom 2. Na taj način 1 Guzorak/s presudne forme vala ima izravni izlazni kapacitet od 500 MHz. Ili, ako se radi o prekobrojnom uzimanju uzoraka, maksimalni izravni izlazni kapacitet je proporcionalno niži.
+
+2. Za potrebe 3A002.d.1. »trajanje impulsa« je definirano kao vremenski interval između vodećeg ruba impulsa koji doseže 90% vrha i pratećeg ruba impulsa koji doseže 10% vrha.
+
+e. Analizatore mreže s najvećom radnom frekvencijom većom od 43,5 GHz;
+
+f. Mikrovalne ispitne prijamnike koji imaju sve od navedenog:
+
+1. Najveću radnu frekvenciju veću od 43,5 GHz; i
+
+2. Da mogu istovremeno mjeriti amplitudu i fazu;
+
+g. Da standardi atomske frekvencije imaju bilo koje od navedenog:
+
+1. Da su »prikladni za uporabu u svemiru«.
+
+2. Da imaju dugotrajnu stabilnost lošiju (bolju) od 1 × 10-11/mjesec; ili
+
+3. Nisu »prikladni za uporabu u svemiru« i imaju sve sljedeće značajke:
+
+a. Rubidijevi frekvencijski standardi;
+
+b. Dugotrajnu stabilnost lošiju (bolju) od 1 × 10-11/mjesec; i
+
+c. Ukupnu apsorbcijsku snagu manju od 1 W.
+
+3A003 Sustavi termalnog upravljanja hlađenjem pomoću raspršivača, uporabom opreme za rukovanje i ponovno osposobljavanje tekućine po principu zatvorene petlje, u zatvorenim uvjetima, pri čemu se dielektrička tekućina raspršuje na elektronske komponente pomoću posebno izrađenih mlaznica za raspršivanje koje su izrađene za održavanje elektronskih komponenti unutar njihova radnog temperaturnog raspona, i posebno za to izrađene komponente.
+
+3A101 Elektronska oprema, uređaji i komponente, osim onih navedenih u 3A001, kako slijedi:
+
+a. Pretvarači analogno u digitalno, koji se mogu koristiti u »raketnim projektilima«, namijenjeni da udovoljavaju vojnim specifikacijama za grubu opremu;
+
+b. Akceleratore koji mogu isporučiti elektromagnetsko zračenje proizvedeno zračenjem kočenja iz ubrzanih elektrona od 2 MeV ili više, i sustava koji koriste te akceleratore.
+
+NAPOMENA: 3A101.b. gore ne navodi opremu posebno projektiranu za uporabu u medicini.
+
+3A102 ‘Termalne baterije’ izrađene ili prilagođene za ‘projektile’.
+
+Tehničke napomene
+
+1. Termalne baterije’ iz stavke 3A102 su baterije za jednokratnu uporabu, koje kao elektrolit koriste neprovodnu neorgansku sol u krutom stanju. Te baterije sadrže pirolitski materijal
+
+2. U stavku 3A102 ‘projektili’ znače cjelokupne raketne sustave
+
+3A201 Elektroničke komponente, osim onih navedenih u 3A001, kako slijedi;
+
+a. Kondenzatore koji imaju bilo koju skupinu od navedenih karakteristika:
+
+1. a. Nazivni napon veći od 1,4 kV;
+
+b. Skladištenje energije veće od 10 J;
+
+c. Kapacitivnost veću od 0,5 µF; i
+
+d. Induktivnost serije manju od 50 nH; ili
+
+2. a. Nazivni napon veći od 750 V;
+
+b. Kapacitivnost veću od 0,25 µF; i
+
+c. Induktivnost serije manju od 10 nH;
+
+b. Supervodljive solenoidne elektromagnete koje imaju sve od navedenih karakteristika:
+
+1. Koji mogu stvarati magnetno polje veće od 2 T;
+
+2. Odnos dužine i unutarnjeg promjera veći od 2;
+
+3. Unutarnji promjer veći od 300 mm; i
+
+4. Jednolikost magnetnog polja bolju od 1% kroz središnjih 50% unutarnjeg volumena;
+
+Napomena: 3A201.b. ne odnosi se na magnete posebno projektirane za i izvožene ‘kao dio’ medicinskih sustava za nuklearnu magnetnu rezonancu (NMR). Izraz ‘kao dio’ ne označava nužno fizički dio iste pošiljke; dozvoljene su odvojene pošiljke iz različitih izvora, pod uvjetom da njihove izvozne dozvole jasno navode da se pošiljke šalju ‘kao dio’ sustava za slikanje.
+
+c. Generatori treptavih X-zraka ili impulsni akceleratori elektrona koji imaju bilo koju od navedenih skupina karakteristika:
+
+1. a. Vršnu energiju elektrona akceleratora od 500 KeV ili više ali manje od 25 MeV; i
+
+b. ‘Faktor kakvoće’ (K) od 0,25 ili veći; ili
+
+2. a. Vršnu energiju elektrona akceleratora od 25 MeV ili veću; i
+
+b. ‘Vršnu snagu’ veću od 50 MW.
+
+Napomena: 3A201.c. ne odnosi se na akceleratore koji su sastavni dijelovi uređaja namijenjenih za svrhe koje nisu zračenje elektronskog snopa ili X-zraka (elektronska mikroskopija, na primjer) niti one namijenjene medicinskim potrebama:
+
+Tehničke napomene:
+
+1. »Faktor kakvoće« K je definiran kao: K = 1,7 × 103V2,65Q V je vršna energija elektrona u milijunima elektron volti.
+
+Ako je trajanje impulsa snopa akceleratora manje od ili jednako 1 µs, tad je Q ukupni ubrzani naboj u kulonima. Ako je trajanje impulsa snopa akceleratora veće od 1 µs, tad je Q najveći ubrzani naboj u 1 µs.
+
+Q je jednak integralu od i u odnosu na t, kroz manje od 1 µs ili vrijeme trajanja impulsa snopa (Q = [int ] idt), gdje je i struja snopa u amperima a t je vrijeme u sekundama.
+
+2. »Vršna snaga« = (vršni potencijal u voltima) × (vršna struja snopa u amperima).
+
+3. Kod strojeva koji se temelje na šupljinama s ubrzanim mikrovalovima, vrijeme trajanja impulsa snopa je manje od 1 µs ili trajanja paketa usnopljenih zraka koji proizlazi iz jednog impulsa mikrovalnog modulatora.
+
+4. Kod strojeva koji se temelje na šupljinama s ubrzanim mikrovalovima, vršna struja snopa je prosječna struja u vremenu trajanja paketa usnopljenih zraka.
+
+3A225 Pretvarači ili generatori frekvencija, osim onih navedenih u 0B001.b.13., koji imaju sve od navedenih karakteristika:
+
+a. Višefazni izlaz koji može osigurati snagu od 40 W ili veću;
+
+b. Da mogu raditi u rasponu frekvencija između 600 i 2000 Hz;
+
+c. Ukupne harmoničkog izobličenja boljeg (manjeg) od 10%; i
+
+d. Upravljanjem frekvencijom boljom (manjem) od 0,1%.
+
+Tehnička napomena:
+
+Pretvarači frekvencija u 3A225 također su poznati kao pretvarači ili invertori.
+
+3A226 Izvori istosmjerne struje velike snage, osim onih navedenih u 0B001.j.6., koji imaju obje od navedenih karakteristika:
+
+a. Da mogu stalno proizvoditi, kroz razdoblje od 8 sati, 100 V ili više s izlaznom strujom od 500 A ili većom; i
+
+b. Stabilnošću struje ili napona boljom od 0,1% kroz razdoblje od 8 sati.
+
+3A227 Izvori istosmjerne struje velike snage, osim onih navedenih u 0B001.j.5., koji imaju obje od navedenih karakteristika:
+
+a. Da mogu stalno proizvoditi, kroz razdoblje od 8 sati, 20 kV ili više s izlazom struje od 1 A ili većim; i
+
+b. Stabilnošću struje ili napona boljom od 0,1% kroz razdoblje od 8 sati.
+
+3A228 Sklopni uređaji, kako slijedi:
+
+a. Cijevi s hladnom katodom, bilo da su ispunjene plinom ili ne, koje rade slično kao međuprostor između iskri, koje imaju sve od navedenih karakteristika:
+
+1. Sadrže tri ili više elektroda;
+
+2. Vršni nazivni napon anode od 2,5 kV ili više;
+
+3. Vršna nazivna struja anode 100 A ili više; i
+
+4. Vrijeme zadrške anode od 10 µs ili manje;
+
+Napomena: 3A228 uključuje cijevi na kritron i vakuum cijevi na spritron.
+
+b. Međuprostori između iskri na okidanje koji imaju obje od navedenih karakteristika:
+
+1. Vrijeme zadrške anode od 15 µs ili manje; i
+
+2. Svrstana za vršnu struju od 500 A ili više;
+
+c. Moduli ili sklopovi s funkcijom brzog preklapanja koji imaju sve od navedenih karakteristika:
+
+1. Vršni nazivni napon anode veći od 2 kV;
+
+2. Vršna nazivna struja anode od 500 A ili više; i
+
+3. Vrijeme uključivanja od 1 µs ili manje.
+
+3A229 Skupovi za paljenje i njima jednaki impulsni generatori jake struje kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE.
+
+NAPOMENA: Vidi 1A007.a. za upaljače eksplozivnih detonatora
+
+a. Ne koriste se;
+
+b. Modularni generatori električnog impulsa (impulsni generatori) koji imaju sve od navedenih karakteristika:
+
+1. Namijenjeni za uporabu kao prijenosni, mobilni ili u nepovoljnim uvjetima;
+
+2. Zatvoreni u oklopu nepropusnom na prašinu;
+
+3. Koji mogu isporučiti energiju za manje od 15 µs;
+
+4. Koji imaju izlaz veći od 100 A;
+
+5. Čije je ‘vrijeme porasta’ od manje od 10 µs u punjenjima od manjim od 40 oma;
+
+6. Nijedna dimenzija nije veća od 254 mm;
+
+7. Težina manja od 25 kg; i
+
+8. Navedeni za uporabu u širem rasponu temperatura od 223 K (- 50 °C) do 373 K (100 °C) ili navedeni kao pogodni za primjenu u aviokozmičke svrhe.
+
+Napomena: 3A229.b. uključuje pogone za bljeskalice na ksenon.
+
+Tehnička napomena:
+
+U 3A229.b.5. ‘vrijeme porasta’ je definirano kao vremenski interval od 10% do 90% amplitude struje kad pogoni otporno punjenje.
+
+3A230 Impulsni generatori visoke brzine koji imaju obje od navedenih karakteristika:
+
+a. Izlazni napon veći od 6 V u otporno punjenje manje od 55 oma, i
+
+b. ‘Vrijeme prijelaza impulsa’ manje od 500 ps.
+
+Tehnička napomena:
+
+U 3A230, ‘vrijeme prijelaza impulsa’ je definirano kao vremenski interval između 10% i 90% amplitude napona.
+
+3A231 Sustavi za generiranje neutrona, uključujući cijevi, koji imaju obje od navedenih karakteristika:
+
+a. Namijenjeni za rad bez vanjskog sustava vakuuma; i
+
+b. Da koriste elektrostatsku akceleraciju kako bi potaknuli nuklearnu reakciju tricija-deuterija.
+
+3A232 Sustavi za višestruko iniciranje, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER POPIS ROBE VOJNE NAMJENE.
+
+NAPOMENA: Vidi 1A007.b. za detonatore
+
+a. Ne koristi se;
+
+b. Aranžmani koji koriste jedan ili više detonatora i koji su dizajnirani za gotovo istovremeno iniciranje eksplozivne površine veće od 5000 mm2 jednim signalom za paljenje, pri čemu je vremensko odstupanje iniciranja na cijeloj površini manje od 2,5 µs.
+
+Napomena: 3A232 ne odnosi se na detonatore koji koriste samo primarne eksplozive, kao što je olovni azid.
+
+3A233 Maseni spektrometri, osim onih navedenih u 0B002.g., koji mogu mjeriti ione od 230 jedinica atomske mase ili više i koji imaju razlučivost bolju od 2 dijela u 230, kako slijedi, i njihove izvore iona:
+
+a. Induktivno vezani maseni spektrometri plazme (ICP/MS);
+
+b. Maseni spektrometri s tinjavim izbojem (GDMS);
+
+c. Maseni spektrometri s termičkom ionizacijom (TIMS);
+
+d. Maseni spektrometri s bombardiranjem elektrona s komorom izvora izrađenom od, presvučenom sa ili obloženom s materijalima otpornim na UF6;
+
+e. Maseni spektrometri s molekularnim snopom koji imaju bilo koju od navedenih karakteristika:
+
+1. Komoru izvora izrađenu od, presvučenu ili obloženu s nehrđajućim čelikom ili molibdenom i opremljenu hladnim odvajačem koji može hladiti do 193 K (- 80 °C) ili manje; ili
+
+2. Komoru izvora izrađenu od, presvučenu ili obloženu materijalima otpornim na UF6;
+
+f. Masene spektrometre opremljene izvorom za mikrofluorinaciju iona namijenjene za aktinide ili fluoride aktinida.
+
+| 3B | Oprema za ispitivanje, pregled i proizvodnju |  |
+|---|---|---|
+
+3B001 Oprema za proizvodnju poluvodičkih uređaja ili materijala, kako slijedi, i za njih posebno namijenjene komponente i pribor:
+
+a. Oprema namijenjena za epitaksijalni rast, kako slijedi:
+
+1. Oprema koja može proizvoditi sloj bilo kojeg materijala osim silikona jednolične debljine do manje od ± 2,5% na udaljenosti od 75 mm ili više;
+
+Napomena: 3B001.a.1. uključuje opremu za epitaksiju atomskog sloja (ALE)
+
+2. Reaktori za organsko taloženje metala kemijskim parama (MOCVD) posebno projektirani za rast kristala složenog poluvodiča kemijskom reakcijom između materijala navedenih u 3C003 ili 3C004;
+
+3. Oprema za epitaksijalni rast s molekularnim snopom koja koristi plinovite ili krute izvore;
+
+b. Oprema namijenjena za usađivanje iona, koja ima bilo koje od navedenog:
+
+1. Energija snopa (ubrzavajući napon) veću od 1MeV;
+
+2. Da je posebno namijenjena i optimizirana za rad pri energiji snopa (ubrzavajućeg napona) manjoj od 2 keV;
+
+3. Sposobnost izravnog upisivanja; ili
+
+4. Sposobnost usađivanja visokoenergetskog kisika u grijani poluvodički materijal »podloge«; energijom snopa od 65 keV ili većom i strujom većom ili jednakom 45mA
+
+c. Oprema za suho nagrizanje anizotropske plazme, kako slijedi:
+
+1. Oprema s uređajem za zahvaćanje cilja i slijeđenje od kasete do kasete, i koja ima bilo koje od navedenog:
+
+a. Da je posebno izrađena ili optimizirana za proizvodnju kritičnih dimenzija od 180 nm ili manjih s točnošću ± 5% za raspršenost 3 sigma; ili
+
+b. Da je posebno izrađena za stvaranje manje od 0,04 čestica/cm2 s mjerljivom veličinom čestica promjera većeg od 0,1 µm,
+
+2. Oprema posebno projektirana za opremu navedenu u 3B001.e. i koja ima bilo koje od navedenog:
+
+a. Da je posebno izrađena ili optimizirana za proizvodnju kritičnih dimenzija od 180 nm ili manjih s točnošću ± 5% za raspršenost 3 sigma; ili
+
+b. Da je posebno izrađena za stvaranje manje od 0,04 čestica/cm2 s mjerljivom veličinom čestica promjera većeg od 0,12 µm
+
+d. CVD oprema obogaćena plazmom, kako slijedi:
+
+1. Oprema s uređajem za zahvaćanje cilja i slijeđenje od kasete do kasete, i projektirana u skladu sa specifikacijama proizvođača ili optimizirana za rad na proizvodnji poluvodičkih uređaja s kritičkim dimenzijama od 180 nm ili manje;
+
+2. Oprema posebno projektirana za opremu navedenu u 3B001.e. i projektirana u skladu sa specifikacijama proizvođača ili optimizirana za rad na proizvodnji poluvodičkih uređaja s kritičkim dimenzijama od 180 nm ili manje
+
+e. Sustavi za rukovanje automatskim utovarom s više komora, koji imaju sve od navedenog:
+
+1. Sučelja za ulaz/izlaz poluvodičke pločice, na koju se spajaju više od dva dijela poluvodičke procesne opreme; i
+
+2. Predviđena da tvori integrirani sustav u vakuumskoj okolini za sekvencijsku obradu višestruke poluvodičke pločice;
+
+Napomena: 3B001.e. ne odnosi se na sustave za rukovanje automatskim robotskim poluvodičkim pločicama koji nisu predviđeni za rad u vakuumskoj okolini.
+
+f. Litografska oprema, kako slijedi:
+
+1. Oprema za poravnavanje, izlaganje i ponavljanje (izravan korak na poluvodičkoj pločici) ili oprema za skakanje i pretraživanje (pretraživač) za obradu poluvodičke pločice pomoću fotooptičke ili metode X-zraka, koja ima bilo koje od navedenog:
+
+a. Valna dužina svjetlosnog izvora manja od 245 nm; ili
+
+b. Sposobnost proizvodnje oblika s ‘minimalno razlučivom značajkom’ veličine od 180 nm ili manje;
+
+Tehnička napomena:
+
+Vrijednost »minimalna razlučiva značajka« računa se pomoću sljedeće formule:
+
+MRF = (valna dužina svjetlosnog izvora u nm) x (K faktor)
+
+numerički otvor
+
+gdje je K faktor = 0,45
+
+MRF = minimalna razlučiva značajka (minimum resolvable feature size)
+
+2. Litografska oprema za tiskanje sposobna za izradu detalja od 180 nm ili manjih.
+
+Napomena 3B001.f.2 uključuje:
+
+– mikrokontaktne alate za tiskanje
+
+– vruće alate
+
+– litografske alate nano preciznosti
+
+– »step and flash« tiskarske litografske alate (S-FIL)
+
+3. Oprema posebno projektirana za izradu maski ili obradu poluvodičkih uređaja pomoću odstupanja fokusiranog elektronskog snopa, ionskog ili »laserskog« snopa, koja ima bilo koje od navedenog:
+
+a. Koristi odstupanje fokusiranog elektronskog snopa, ionskog ili »laserskog« snopa
+
+b. Imaju bilo što od sljedećeg:
+
+1. Veličinu točke manju od 0,2 µm;
+
+2. Sposobnost proizvodnje uzorka s veličinom značajke od manje od 1 µm; ili
+
+3. Završnom točnošću boljom od ± 0,20 µm (3 sigma);
+
+g. Maske i mreže namijenjene za integrirane sklopove navedene u 3A001;
+
+h. Višeslojne maske s faznim pomačnim slojem.
+
+Napomena: 3B001.h. ne kontrolira višeslojne maske s faznim pomačnim slojem namijenjenih za izradu memorijskih uređaja koje ne kontrolira 3A001.
+
+i. Litografske tiskarske šablone izrađene za kontrolu integriranim sklopovima kontroliranim u 3A001.
+
+3B002 Oprema za ispitivanje, posebno projektirana za ispitivanje dovršenih ili nedovršenih poluvodičkih uređaja, kako slijedi, i za njih posebno namijenjene komponente i pribor:
+
+a. Za ispitivanje S-parametara tranzistorskih uređaja pri frekvencijama većim od 31,8 GHz;
+
+b. ne koristi se
+
+c. Za ispitivanje mikrovalnih integriranih sklopova navedenih u 3A001.b.2.
+
+| 3C | Materijali |  |
+|---|---|---|
+
+3C001 Hetero-epitaksijalni materijali sastavljeni iz »podloge« koja ima složene epitaksijalno uzgojene višestruke slojeve iz sljedećih materijala:
+
+a. Silicija (Si);
+
+b. Germanija (Ge);
+
+c. Silicijev karbida (SiC); ili
+
+d. »III/V spojevi« galija ili indija.
+
+3C002 Materijali za zaštitni premaz, kako slijedi, i »podloge« premazane kontroliranim zaštitnim premazom:
+
+a. Pozitivni zaštitni premazi namijenjeni za poluvodičku litografiju posebno podešenu (optimiziranu) za korištenje pri valnim dužinama ispod 245 nm;
+
+b. Svi zaštitni premazi namijenjeni za korištenje s elektronskim snopovima ili ionskim snopovima, osjetljivosti od 0,01 µcoulomb/mm2 ili bolje;
+
+c. Svi zaštitni premazi namijenjeni za korištenje s X-zrakama, osjetljivosti od 2,5 mJ/mm2 ili bolje;
+
+d. Svi zaštitni premazi optimizirani za tehnologije snimanja površine, uključujući ‘sililirane’ zaštitne premaze.
+
+Tehnička napomena:
+
+Tehnike ‘sililacije’ su definirane kao postupci spajanja oksidacije površine zaštitnog premaza kako bi se pojačao rad za mokro i suho razvijanje.
+
+e. Svi zaštitni premazi izrađeni ili optimizirani za uporabu sa tiskarskom litografskom opremom navedenoj u 3B001.f.2. koja koristi termički postupak ili postupak stvrđivanja pomoću svjetlosti.
+
+3C003 Organsko-anorganski spojevi, kako slijedi:
+
+a. Organsko-metalni spojevi aluminija, galija ili indija čistoće (metalne baze) bolje od 99,999%;
+
+b. Organsko-arsenski, organsko-antimonski i organsko-fosforni spojevi čistoće (baze anorganskog elementa) bolje od 99,999%.
+
+Napomena: 3C003 odnosi se samo na spojeve čiji su metalni, djelomično metalni ili ne-metalni elementi izravno povezani s ugljikom u organskom dijelu molekule.
+
+3C004 Hidridi fosfora, arsena ili antimona, čistoće bolje od 99,999%, čak i kad su otopljeni u inertnim plinovima ili vodiku.
+
+Napomena: 3C004 ne odnosi se na hidride koji sadrže 20% molarnih ili više inertnih plinova ili vodika.
+
+3C005 »Substrati« silicijeva karbida (SiC), galijeva nitrida (GaN), aluminijeva nitrida (AlN) ili aluminij galijeva nitrida (AlGaN) ili ingoti, dijelovi ili drugi poluproizvodi tih materijala s otpornošću većom od 10 000 ohma-cm pri 20 °C.
+
+3C006 »Substrati« navedeni u 3C005 s najmanje jednim epitaksijalnom slojem iz silicijeva karbida, galijeva nitrida, aluminijeva nitrida ili aluminij galijeva nitrida.
+
+| 3D | Softver |  |
+|---|---|---|
+
+3D001 »Softver« posebno projektiran za »razvoj« ili »proizvodnju« opreme navedene u 3A001.b. do 3A002.g. ili 3B.
+
+3D002 »Softver« posebno projektiran za »uporabu« opreme navedene u 3B001.a. do f. ili 3B002.
+
+3D003 »Softver« za simulaciju na osnovi fizičkih zakona, posebno projektiran za »razvoj« faza litografiranja, nagrizanja i taloženja za prevođenje maskirnih uzoraka u određene topografske uzorke u vodičima, dielektričkom ili poluvodičkom materijalu.
+
+Tehnička napomena:
+
+‘Na osnovi fizičkih zakona’ u 3.D.3. označava uporabu izračuna za određivanje slijeda fizičkih uzroka i posljedica određenih fizičkim svojstvima (npr. svojstvima temperature, tlaka, konstanta difuzije i poluvodičkih materijala).
+
+Napomena: Knjižnice, projektni atributi ili s njima povezani podaci za projektiranje poluvodičkih uređaja ili integriranih sklopova smatraju se »tehnologijom«.
+
+3D004 »Softver« posebno projektiran za »razvoj« opreme navedene u 3A003
+
+3D101 »Softver« posebno projektiran ili modificiran za »uporabu« opreme navedene u 3A101.b.
+
+| 3E | Tehnologija |  |
+|---|---|---|
+
+3E001 »Tehnologija« prema Napomeni o tehnologiji općenito za »razvoj« ili »proizvodnju« opreme ili materijala navedenih u 3A, 3B ili 3C;
+
+Napomena 1: 3E001 ne kontrolira »tehnologiju« za »proizvodnju« opreme ili komponenata koje kontrolira 3A003.
+
+Napomena 2: 3E001 ne kontrolira »tehnologiju« za »razvoj« ili »proizvodnju« integriranih sklopova navedenih u 3A001.a.3. do 3A001.a.12., koji imaju sve od navedenog:
+
+1. Koriste »tehnologije« od 0,5 µm ili više, i
+
+2. Ne uključuju ‘višeslojne konstrukcije’.
+
+Tehnička napomena:
+
+Izraz ‘višeslojne konstrukcije’ u Napomeni 2 ne uključuje uređaje koji spajaju najviše tri metalna sloja i tri polisilicijska sloja.
+
+3E002 »Tehnologija« prema Napomeni o tehnologiji općenito drukčije nego što je navedeno u 3E001 za »razvoj« ili »proizvodnju« »mikrosklopova mikroprocesora«, »mikrosklopova mikroračunala« i mikrosklopova mikrokontrolera koji imaju aritmetičku logičku jedinicu sa širinom pristupa od 32 bita ili više i bilo koju od sljedećih značajki ili karakteristika:
+
+a. Vektorska procesorska jedinica dizajnirana za istovremeno obavljanje više od dvije kalkulacije nad vektorima s pomičnim zarezom (jednodimenzionalnim 32-bitnim nizovima ili većim brojevima);
+
+Tehnička napomena
+
+Vektorska procesorska jedinica je procesorski element s ugrađenim instrukcijama koje istovremeno obavljaju višestruke kalkulacije nad vektorima sa pomičnim zarezom (jednodimenzionalnim 32-bitnim nizovima ili većim brojevima), imajući najmanje jednu vektorsku aritmetičku logičku jedinicu.
+
+b. Izrađeni za obavljanje više od dvije 64-bitne ili veće operacije s pomičnim zarezom po ciklusu; ili
+
+c. Izrađeni za obavljanje više od četiri 16-bitne ili veće operacije po ciklusu (npr. digitalna manipulacija analogne informacije koja je prethodno bila konvertirana u digitalni oblik, poznata i pod nazivom digitalno procesiranje signala).
+
+Napomena 3E002.c ne kontrolira tehnologiju za multimedijalne ekstenzije.
+
+Napomena 1 3E002 ne kontrolira »tehnologiju« za »razvoj« ili »proizvodnju« integriranih sklopova koji imaju sve od navedenog:
+
+a. Koriste »tehnologije« od 0,130 µm ili više, i
+
+b. Uključuju višeslojne konstrukcije s pet ili manje metalnih slojeva.
+
+Napomena 2 3E002 uključuje »tehnologiju« za procesore digitalnog signala i procesore digitalnog niza.
+
+3E003 Druge »tehnologije« za »razvoj« ili »proizvodnju«:
+
+a. Vakuumskih mikroelektroničkih uređaja;
+
+b. Hetero-strukturalnih poluvodičkih uređaja kao što su tranzistori s visokom pokretljivošću elektrona (HEMT), hetero-bipolarni tranzistori (HBT), kvantni bunar i super rešetkasti uređaji;
+
+Napomena: 3E003.b. ne kontrolira tehnologiju tranzistora s visokom pokretljivošću elektrona (HEMT) koji rade pri frekvencijama manjim od 31,8 GHz i hetero-bipolarnih tranzistora (HBT) koji rade pri frekvencijama manjim od 31,8 GHz.
+
+c. »Supervodljive« elektroničke uređaje;
+
+d. Podloge od filmova dijamanata za elektroničke komponente;
+
+e. Podloge od silicij-na-izolaciju (SOI) za integrirane sklopove kod kojih je izolacija silicijev dioksid;
+
+f. Podloge silicijevog karbida za elektroničke komponente;
+
+g. Cijevi s elektronskim vakuumom koje rade na frekvencijama od 31 GHz ili više.
+
+3E101 »Tehnologija« prema Napomeni o tehnologiji općenito za »uporabu« opreme ili »softvera« navedene u 3A001.a.1. ili 2., 3A101, 3A102 ili 3D101.
+
+3E102 »Tehnologija« prema Napomeni o tehnologiji općenito za »razvoj« »softvera« navedene u 3D101.
+
+3E201 »Tehnologija« u skladu s općom Napomenom o tehnologiji za »uporabu« opreme navedene u 3A001.e.2., 3A001.e.3., 3A201, 3A225 do 3A233.
+
+#### KATEGORIJA 4 — RAČUNALA
+
+Napomena 1: Računala, njihova oprema i »Softver« koja izvodi telekomunikacijske funkcije ili funkcije »mreže lokalnog područja« mora biti procijenjena u odnosu na radne karakteristike Kategorije 5, Dio 1 (Telekomunikacije).
+
+Napomena 2: Upravljačke jedinice koje su izravno povezane sa sabirnicama ili kanalima za središnje jedinice za obradu, »središnje memorije« ili upravljački sklopovi diska ne smatraju se telekomunikacijskom opremom opisanom u Kategoriji 5, Dio 1 (Telekomunikacije).
+
+NAPOMENA: Za upravljački status »softvera« posebno projektirane za prespajanje paketa, vidi 5D001.
+
+Napomena 3: Računala, pripadajuća oprema i »softver« kojima se provode kriptografske, kriptoanalitičke funkcije, funkcije sigurnosti na više razina ili funkcije izolacije korisnika koje treba potvrditi, ili koji ograničuju elektromagnetsku kompatibilnost (EMC), moraju se također ocjenjivati prema radnim svojstvima u Kategoriji 5, 2. Dio (»Sigurnost informacija«).
+
+| 4A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+4A001 Elektronička računala i pripadajuća oprema, kako slijedi, te »elektronički sklopovi« i za to posebno oblikovane komponente:
+
+NAPOMENA: VIDI TAKOĐER 4A101.
+
+a. Posebno oblikovani kako bi imali neko od sljedećih svojstava:
+
+1. Procijenjeni za rad pri okolnoj temperaturi ispod 228 K (- 45 °C) ili iznad 358 K (85 °C);
+
+Napomena: 4A001.a.1. ne odnosi se na računala posebno izrađena za primjenu u civilnim automobilima i vlakovima.
+
+2. Ojačani zračenjem kako bi imali veće od navedenih specifikacija:
+
+a. Ukupna količina 5 x 103 Gy (silicij);
+
+b. količina ionizirajućeg zračenja za uzbunu 5 x 106 Gy (silicij)/s; ili
+
+c. jednokratna uzbuna 1 x 10-7 pogreške/bit/dan;
+
+b. Koji imaju svojstva ili obavljaju funkcije koje prelaze granice iz kategorije 5, 2. dio (»Sigurnost informacija«).
+
+Napomena: 4A001.b. ne kontrolira elektronička računala i pripadajuću opremu kada oni prate korisnika radi korisnikove osobne uporabe.
+
+4A003 »Digitalna računala«, »elektronički sklopovi«, i za njih pripadajuća oprema, kako slijedi, i za to posebno izrađene komponente:
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena 1:</td>
+<td colspan="4">4A003 uključuje sljedeće:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>–</td>
+<td colspan="3">Vektorske procesore;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>–</td>
+<td colspan="3">Matrične procesore;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>–</td>
+<td colspan="3">Digitalne signalne procesore;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>–</td>
+<td colspan="3">Logičke procesore;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>–</td>
+<td colspan="3">Opremu izrađenu za »poboljšanje slike«</td>
+</tr>
+
+<tr>
+<td></td>
+<td>–</td>
+<td colspan="3">Opremu izrađenu za »obradu signala«.</td>
+</tr>
+
+<tr>
+<td>Napomena 2:</td>
+<td colspan="4">Kontrolni status »digitalnih računala« i pripadajuće opreme opisane u 4A003 određuje se prema kontrolnom statusu druge opreme ili sustava pod uvjetom da:</td>
+</tr>
+
+<tr>
+<td></td>
+<td colspan="2">a.</td>
+<td colspan="2">»Digitalna računala« ili pripadajuća oprema su ključni za rad druge opreme ili sustava;</td>
+</tr>
+
+<tr>
+<td></td>
+<td colspan="2">b.</td>
+<td colspan="2">»Digitalna računala« ili pripadajuća oprema nisu »glavni element« druge opreme ili sustava; te</td>
+</tr>
+
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>NAPOMENA 1:</td>
+<td>Kontrolni status opreme za »obradu signala« ili »poboljšanje slike« posebno izrađene za drugu opremu s funkcijama ograničenim na funkcije potrebne za drugu opremu određuje se prema kontrolnom statusu te druge opreme, čak i ako ona prelazi kriterij »glavnog elementa«.</td>
+</tr>
+
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>NAPOMENA 2:</td>
+<td>Za kontrolni status »digitalnih računala« ili pripadajuće opreme za telekomunikacijsku opremu, vidi Kategoriju 5, 1. dio (Telekomunikacije).</td>
+</tr>
+
+<tr>
+<td></td>
+<td colspan="2">c.</td>
+<td colspan="2">»Tehnologija« za »digitalna računala« i pripadajuću opremu određuje se prema 4E.</td>
+</tr>
+</tbody>
+
+</table>
+
+a. Izrađena ili modificirana za »otpornost na pogrešku«;
+
+Napomena: Za svrhe 4A003.a., »digitalna računala« i pripadajuća oprema ne smatraju se izrađenima ili modificiranima za »otpornost na pogrešku« ukoliko koriste nešto od sljedećega:
+
+1. Algoritme za otkrivanje pogreške ili ispravljanje u »centralna memorija«;
+
+2. Vezu između dvaju »digitalnih računala« tako da, ako dođe do kvara aktivne središnje procesne jedinice, središnja procesna jedinica, koja miruje ali zrcali podatke, može nastaviti funkcioniranje sustava;
+
+3. Vezu između dviju središnjih procesnih jedinica putem kanala podataka ili korištenjem zajedničke memorije kako bi se omogućilo jednoj središnjoj procesnoj jedinici da obavlja rad dok je druga središnja procesna jedinica u prekidu, kada prva središnja procesna jedinica preuzima rad kako bi nastavila funkcioniranje sustava; ili
+
+4. »Sinkronizacija« dviju središnjih procesnih jedinica putem »softvera« tako da središnja procesna jedinica prepoznaje kada dođe do kvara druge središnje procesne jedinice i obnavlja funkcije jedinice u kvaru.
+
+b. »Digitalna računala« s »korigiranom vršnom sposobnošću« (»APP – Adjusted Peak Performance«) koja prelazi 0,75 tera-FLOPS (WT – Weighted TeraFLOPS);
+
+c. »Elektroničke sklopove« posebno izrađene ili modificirane za jačanje rada sastavljanjem procesora tako da »APP« sastavljanja prelaze granicu iz 4A003.b.;
+
+Napomena 1: 4A003.c. odnosi se samo na one »elektroničke sklopove« i programabilna međupovezivanja koja ne prelaze granicu iz 4A003.b. kada se otpremaju kao neintegrirani »elektronički sklopovi«. Ne odnosi se na »elektroničke sklopove« bitno ograničene po prirodi njihove konstrukcije za korištenje kao pripadajuća oprema navedena u 4A003.e.
+
+Napomena 2: 4A003.c. ne kontrolira »elektroničke sklopove« posebno izrađene za proizvod ili skupinu proizvoda čija maksimalna konfiguracija ne prelazi granicu iz 4A003.b.
+
+d. Ne koristi se;
+
+e. Opremu koja obavlja analogno-digitalne konverzije koje prelaze granice iz 3A001.a.5.;
+
+f. Ne koristi se;
+
+g. Opremu posebno izrađenu za omogućavanje vanjske veze između »digitalnih računala« ili prateću opremu koja omogućuje komunikacije po brzinama prijenosa podataka većim od 1.25 Gbyte/s.
+
+Napomena: 4A003.g. ne kontrolira opremu za unutarnje veze (npr. stražnje ploče, sabirnice), opremu pasivne međuveze, sklopove »kontrola pristupa mreži« ili »upravljački sklop komunikacijskog kanala«.
+
+4A004 Računala, kako slijedi, te posebno izrađena pripadajuća oprema, »elektronički sklopovi« i za to izrađene komponente:
+
+a. »Sistolično matrično računalo«;
+
+b. »Neuronsko računalo«;
+
+c. »Optičko računalo«.
+
+4A101 Analogna računala, »digitalna računala« ili digitalni diferencijalni analizatori, osim onih koji su navedeni u 4A001.a.1., koji su pojačani i izrađeni ili modificirani za korištenje na vozilima za lansiranje svemirskih letjelica navedenim u 9A004 ili u sondažnim raketama navedenim u 9A104.
+
+4A102 »Hibridna računala« posebno izrađena za modeliranje, simulacije ili integraciju dizajna vozila za lansiranje svemirskih letjelica navedena u 9A004 ili za sondne rakete navedene u 9A104.
+
+Napomena: Ova kontrola odnosi se samo na slučaj kada se oprema isporučuje sa »softverom« navedenim u 7D103 ili 9D103.
+
+| 4B | Oprema za testiranje, inspekciju i proizvodnju |  |
+|---|---|---|
+
+Nema.
+
+| 4C | Materijali |  |
+|---|---|---|
+
+Nema.
+
+| 4D | Softver |  |
+|---|---|---|
+
+Napomena: O kontrolnom statusu »softvera« za »razvoj«, »proizvodnju«, ili »uporabu« opreme opisane u drugim Kategorijama riječ je u odgovarajućoj Kategoriji. O kontrolnom statusu »softvera« za opremu opisanu u ovoj Kategoriji govori se na ovom mjestu.
+
+4D001 »Softver« kako slijedi:
+
+a. »Softver« posebno izrađen ili modificiran za »razvoj«, »proizvodnju« ili »uporabu« opreme ili »softvera« naveden u 4A001 do 4A004, ili 4D.
+
+b. »Softver«, osim onoga navedenoga u 4D001.a., posebno izrađen ili modificiran za »razvoj« ili »proizvodnju«:
+
+1. »Digitalnih računala« s »korigiranom vršnom sposobnošću« (»APP – Adjusted Peak Performance«) koja prelazi 0,1 tera-FLOPS (WT – Weighted TeraFLOPS); ili
+
+2. »Elektroničkih sklopova« posebno izrađenih ili modificiranih za jačanje rada sastavljanjem procesora tako da »APP« prelazi granicu iz 4D001.b.1.;
+
+4D002 »Softvera« posebno izrađenog ili modificiranog za podršku »tehnologiji« navedenoj u 4E.
+
+4D003 »Softver« koji ima svojstva ili koji obavlja funkcije koje prelaze granice iz Kategorije 5, 2. Dio (»Sigurnost informacija«)
+
+Napomena: 4D003.c. ne kontrolira »softver« koji prati svoga korisnika radi korisnikove osobne uporabe.
+
+| 4E | Tehnologija |  |
+|---|---|---|
+
+4E001 a. »Tehnologija« u skladu s Općom tehnološkom napomenom, za »razvoj«, »proizvodnju« ili »uporabu« opreme ili »softvera« navedenog u 4A ili 4D.
+
+b. »Tehnologija«, osim one navedene u 4E001.a., posebno izrađena ili modificirana za »razvoj« ili »proizvodnju«:
+
+1. »Digitalnih računala« s »korigiranom vršnom sposobnošću« (»APP – Adjusted Peak Performance«) koja prelazi 0,1 tera-FLOPS (WT – Weighted TeraFLOPS); ili
+
+2. »Elektroničkih sklopova« posebno izrađenih ili modificiranih za poboljšanje rada sastavljanjem procesora »APP« prelaze granicu iz 4E001.b.1.;
+
+TEHNIČKA NAPOMENA O »KORIGIRANOJ NAJVEĆOJ SPOSOBNOSTI« (»APP«)
+
+»APP« je korigirana najveća sposobnost, s kojom »digitalna računala« obavljaju 64-bitna ili veća zbrajanja ili množenja s pomičnim zarezom.
+
+Kratice korištene u ovoj tehničkoj napomeni:
+
+n broj procesora u »digitalnom računalu«
+
+i broj procesora (i,…n)
+
+ti procesorsko vrijeme (ti=1/Fi)
+
+Fi frekvencija procesora
+
+Ri najveća brzina računanja s pomičnim zarezom
+
+Wi korekcijski faktor arhitekture računala
+
+»APP« je izraženu teraflopsima (WT) u jedinicama 1012 korigiranih operacija s pomičnim zarezom u sekundi.
+
+Prikaz metode izračuna »APP«
+
+1. Za svaki procesor i, odredite najveći broj 64-bitnih ili većih operacija s pomičnim zarezom, FPOi, koji se izvode u ciklusu svakog procesora u »digitalnom računalu«.
+
+Napomena Pri određivanu FPO uključite samo 64-bitna ili veća zbrajanja ili množenja s pomičnim zarezom. Sve operacije s pomičnim zarezom treba izraziti u operacijama na procesorskom ciklusu; operacije koje zahtijevaju veći broj ciklusa, mogu se izraziti s decimalnim brojevima po ciklusu. Za procesore, koji ne mogu računati u operandima s pomičnim zarezom veličine 64-bita ili većim, je stvarna brzina računanja R jednaka nuli.
+
+2. Izračunajte brzinu R za računanje s pomičnim zarezom za svaki procesor Ri = FPOi/ti
+
+3. Izračunajte »APP« kao »APP« = W1 x R1 + W2 x R2 + … + Wn x Rn
+
+4. Za vektorske procesore, Wi = 0,9. Za ne »vektorske procesore«, Wi = 0,3.
+
+Napomena 1 Za procesore, koji obavljaju sastavljene operacije, npr. zbrajanje i množenje s pomičnim zarezom, svaka se operacija se računa zasebno.
+
+Napomena 2 Za cjevovodni procesor je stvarna računska brzina R veća od cjevovodne brzine, kada je cjevovod pun, i veća je od ne cjevovodne brzine.
+
+Napomena 3 Računska brzina R svakog procesora treba izračunati pri najvećoj teorijskoj vrijednosti, još prije no što izvedu operacije »APP«. Pretpostavlja se, da postoje istovremene operacije, kada proizvođač u priručniku ili uputama za računalo odjednom, paralelno ili pojedinačno djelovanje.
+
+Napomena 4 Pri računanju »APP« ne uključujte procesore, koji su ograničeni na ulazno-izlazne ili periferne funkcije (npr. za disketni pogon, komunikacije ili zaslon).
+
+Napomena 5 Vrijednosti »APP« ne računajte za kombinacije procesora, povezanih u »lokalne mreže«, širokopojasne mreže, ulazno/izlazne zajedničke uređaje, ulazno/izlazne kontrolore, i za bilo kakvo komunikacijsko povezivanje kojom upravlja »softver«.
+
+Napomena 6 Vrijednosti »APP« treba izračunati za:
+
+1. Kombinacije procesora, koji sadrži procesore, posebno temeljene za povećanu sposobnost združivanjem, koje djeluju simultano ali s uporabom memorije; ili
+
+2. Kombinacije više memorija/procesora, koje djeluju istovremeno i koriste posebno izrađen hardver.
+
+Napomena 7 »Vektorski procesor« je definiran kao procesor s ugrađenim instrukcijama, koje istovremeno izvode višekratne izračune vektora s pomičnim zarezom (jednodimenzionalni nizovi 64-bitnih ili većih brojeva), imaju barem dvije vektorske funkcijske jedinice i barem osam vektorskih registara s barem 64 elementa.
+
+#### KATEGORIJA 5 — TELEKOMUNIKACIJE I »SIGURNOST INFORMACIJA«
+
+#### 1. DIO — TELEKOMUNIKACIJE
+
+Napomena 1: Kontrolni status komponenata, »lasera«, opreme za testiranje i »proizvodnju« te »softvera« namijenjenog za njih, koji su posebno izrađeni za telekomunikacijsku opremu ili sustave određuje se u Kategoriji 5, 1. Dio.
+
+Napomena 2: »Digitalna računala«, pripadajuća oprema ili »softver«, kada su ključni za rad i podršku telekomunikacijskoj opremi opisanoj u ovoj Kategoriji, smatraju se posebno izrađenim komponentama, pod uvjetom da su oni standardni modeli, uobičajeno isporučivani od strane proizvođača. To uključuje rad, rukovanje, održavanje, inženjerstvo ili računalske sustave za izdavanje računa.
+
+| 5A1 | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+5A001 a. Svaki tip telekomunikacijske opreme koja ima neko od sljedećih svojstava, funkcija ili obilježja:
+
+1. Posebno izrađena da se odupre kratkotrajnim elektroničkim učincima ili učincima elektromagnetskog impulsa, koji proističu iz nuklearne eksplozije;
+
+2. Posebno ojačana da se odupre gama, neutronskom ili ionskom zračenju; ili
+
+3. Posebno izrađena za rad izvan raspona temperatura od 218 K (- 55 °C) do 397 K (124 °C),
+
+Napomena: 5A001.a.3. odnosi se samo na elektroničku opremu.
+
+Napomena: 5A001.a.2. i 5A001.a.3. ne kontroliraju opremu izrađenu ili modificiranu za korištenje na board satelitima.
+
+b. Telekomunikacijski sustavi i oprema, te posebno izrađene komponente i dodatna oprema za to, koji imaju neku od sljedećih svojstava, funkcija ili obilježja:
+
+1. Da su podvodni bezkabelni komunikacijski sustavi koji imaju jedno od sljedećih svojstava:
+
+a. Akustičnu noseću frekvenciju izvan raspona od 20 kHz do 60 kHz;
+
+b. Da koriste elektromagnetsku noseću frekvenciju manju od 30 kHz; ili
+
+c. Da koriste tehnike upravljanja pomoću elektronskog snopa;
+
+d. Koriste »lasere« ili svjetleće diode (LED) s izlaznom valnom duljinom većom od 400 nm i manjom od 700 nm u »lokalnoj mreži«.
+
+2. Da je radio oprema koja radi u frekvencijskom pojasu od 1,5 MHz do 87,5 MHz i koja ima sva sljedeća svojstva:
+
+a. Automatsko predviđanje i izbor frekvencija te »ukupna brzina digitalnog prijenosa« na kanal za optimizaciju prijenosa; i
+
+b. Da sadrži linearnu konfiguraciju pojačala, koja može podržavati više signala istovremeno pri izlaznoj snazi od 1 kW ili više u rasponu frekvencija od 1,5 MHz ili više, ali manje od 30 MHz, ili 250 W ili više u rasponu frekvencija od 30 MHz ili više, ali ne preko 87,5 MHz, na »trenutačna širina pojasa« od jedne oktave ili više, te uz izlaz harmoničnog ili iskrivljenog sadržaja veći od – 80 dB;
+
+3. Da je radio oprema koja koristi tehnike »širenje spektra«, uključujući tehnike «preskakanja frekvencije«, osim onih navedenih u 5A001.b.5, i koje imaju neko od sljedećih svojstava:
+
+a. Kodovi širenja koje programiraju korisnici; ili
+
+b. Ukupna prenošena pojasna širina koja je 100 ili više puta veća od pojasne širine bilo kojeg pojedinačnog informacijskog kanala i više od 50 kHz;
+
+Napomena: 5A001.b.3.b. ne kontrolira radio opremu posebno izrađenu za korištenje u sustavima civilnih staničnih radio komunikacija.
+
+Napomena: 5A001.b.3 ne kontrolira nadzornu opremu, izrađenu za rad pri izlaznoj snazi od 1 W ili manjoj.
+
+4. Da je radio oprema koja koristi modulacijske tehnike ultraširokog pojasa, koja ima kodove za kanaliziranje, kodove za skrambliranje, ili identifikacijske kodove mreže koje programira korisnik i koja ima bilo koje od sljedećih svojstava:
+
+a. Širina pojasa veća od 500 MHz; ili
+
+b. »Razlomačka širina pojasa« jednaka ili veća od 20%
+
+5. Da su digitalno kontrolirani radio prijamnici koji imaju sve od sljedećega:
+
+a. Više od 1,000 kanala;
+
+b. »Vrijeme promjene frekvencije« kraće od 1 ms;
+
+c. Automatsko pretraživanje ili očitavanje dijela elektromagnetskog spektra; i
+
+d. Identifikaciju primljenih signala ili tipa odašiljača; ili
+
+Napomena: 5A001.b.5. ne kontrolira radio opremu posebno izrađenu za korištenje u sustavima civilnih radiostaničnih komunikacija.
+
+6. Da koriste funkcije digitalne »obrade signala« radi omogućavanja ‘kodiranje govora’ brzinama manjim od 2400 bit/s.
+
+Tehnička napomena:
+
+1. Za kodiranje govora promjenjivom brzinom, 5A001.b.6. se odnosi na kodiranje glasa kod neprekidnog govora.
+
+2. Za potrebe 5A001.b.6., ‘kodiranje govora’ je definirano kao tehnika kojom se uzimaju uzorci ljudskog govora, a zatim se ti uzorci konvertiraju u digitalni signal, uzimajući u obzir specifične karakteristike ljudskog govora.
+
+c. Komunikacijski svjetlovodne kablove, optička vlakna i dodatna oprema, kako slijedi:
+
+1. Optička vlakna dulja od 500 m, za koje proizvođač navodi da mogu izdržati dokazni test rastezanja od 2 × 109 N/m2 ili više;
+
+Tehnička napomena:
+
+Dokazni test: on-line ili off-line ispitivanje proizvodnje koje dinamički vrši propisano rastezanje na vlaknu duljine 0,5 do 3 m  
+pri radnoj brzini od 2 do 5 m/s dok prolazi između vitala promjera oko 150 mm. Okolna temperatura je nominalna 293 K (20 °C), a relativna vlažnost 40%. U izvođenju dokaznog testa mogu se koristiti ekvivalentni nacionalni standardi.
+
+2. Kablovi od optičkih vlakana i dodatna oprema izrađeni za korištenje pod vodom.
+
+Napomena: 5A001.c.2. ne kontrolira standardne civilne telekomunikacijske kablove i dodatnu opremu.
+
+NAPOMENA 1: Za podvodne vezne kablove, i konektore za njih, vidi 8A002.a.3.
+
+NAPOMENA 2: Za svjetlovodne penetratore trupa ili konektore, vidi 8A002.c.
+
+d. »Elektroničko vodljivi fazni antenski nizovi« koje rade iznad 31.8 GHz.
+
+Napomena: 5A001.d. ne kontrolira »elektronički vodljive fazne antenske nizove« za instrumentalne sustave za slijetanje koji ispunjavaju ICAO standarde glede mikrovalnih sustava za slijetanje (MLS).
+
+e. Radijska oprema za traženje smjera, koja radi na frekvencijama iznad 30 MHz i koja ima sve sljedeće značajke i posebno za nju izrađene komponente:
+
+1. »Trenutačna širina pojasa« od 10 MHz ili veća; i
+
+2. Sposobnost traženja smjera povezanosti (Line od Bearing – LOB) za nekooperirajuće radijske predajnike s dužinom signala manjom od 1 ms.
+
+f. Oprema za ometanje posebno izrađena ili modificirana za namjerno i selektivno ometanje, odbijanje, zabranu, slabljenje ili odvračanje mobilnih telekomunikacijskih usluga, koja ima bilo koju od sljedećih značajki i posebno za tu svrhu izrađene sastavne dijelove:
+
+1. Simulaciju funkcija opreme radijske mreže (Radio Access Network – RAN);
+
+2. Detekciju i iskorištavanje specifičnih značajki korištenog protokola mobilnih telekomunikacija (npr. GSM) ili
+
+3. Iskorištavanje specifičnih značajki korištenog protokola mobilnih telekomunikacija (npr. GSM)
+
+NAPOMENA: Za GNSS opremu za ometanje vidi Popis robe vojne namjene
+
+g. Pasivni koherentni lokacijski sustavi ili oprema posebno izrađeni za detekciju i praćenje pokretnih objekata temeljem mjerenja refleksija radio frekvencijskog emitiranja okoline, opremljeni neradarskim prijenosnicima.
+
+Tehnička napomena
+
+Neradarski prijenosnici mogu uključivati komercijalni radio, televiziju ili telekomunikacijske bazne stanice.
+
+Napomena: 5A001.g. ne kontrolira:
+
+a. Radio-astronomsku opremu;
+
+b. Sustave ili opremu koja zahtjeva bilo kakav radio prijenos sa cilja.
+
+h. Elektronska oprema izrađena ili prilagođena za prijevremeno aktiviranje ili sprečavanje aktiviranja radijski upravljanih improviziranih ubojnih sredstava (RCIED).
+
+NAPOMENA: Vidi također kontrole robe vojne namjene
+
+5A101 Oprema za daljinsko mjerenje i daljinsko upravljanje, uključujući zemaljsku opremu, izrađena ili modificirana za uporabu kod »projektila«.
+
+Tehnička napomena:
+
+U 5A101 ‘projektili’ znače cijeli raketni sustavi ili bespilotne letjelice, s mogućnošću dometa većeg od 300 km.
+
+Napomena: 5A101 ne kontrolira:
+
+a. Opremu predviđenu ili prilagođenu za letjelice s ljudskom posadom ili satelite;
+
+b. Opremu za operacije sa zemlje predviđenu ili prilagođenu za uporabu na zemlji ili u moru
+
+c. Opremu predviđenu za komercijalne, civilne ili ‘Safety of Life’ (»Sigurnost života«) (npr. nepovredivost podataka, sigurnost leta) GNSS službe;
+
+| 5B1 | Oprema za testiranje, inspekciju i proizvodnju |  |
+|---|---|---|
+
+5B001 a. Oprema i posebno izrađene komponente ili dodatna oprema za njih, posebno izrađena za »razvoj«, »proizvodnju« ili »uporabu« opreme, funkcija ili svojstava navedenih u 5A001.
+
+Napomena: 5B001.a. ne kontrolira opremu za karakterizaciju optičkih vlakana.
+
+b. Oprema i posebno izrađene komponente ili dodatna oprema za njih, posebno izrađena za »razvoj« neke od niže navedene opreme za telekomunikacijski prijenos ili prespajanje »upravljanjem pohranjenim programom«:
+
+1. Oprema koja koristi digitalne tehnike, uključujući »Mod asinkronog prijenosa« (»ATM«), osmišljen da radi kada je »ukupna brzina digitalnog prijenosa« veća od 15 Gbit/s;
+
+Tehnička napomena:
+
+Za opremu za prespajanje »ukupna brzina digitalnog prijenosa« mjeri se na najbržem ulazu ili liniji.
+
+2. Oprema koja koristi »laser« i koja ima nešto od sljedećega:
+
+a. Valnu duljinu prijenosa iznad 1750 nm;
+
+b. Izvodi »optičko pojačanje« uporabom prazeodimijom ojačanih fluoridnih optičkih pojačivača (PDFFA);
+
+c. Koristi tehnike koherentnog optičkog prijenosa i koherentne optičke detekcije (također nazvane optičkim heterodinskim ili homodinskim tehnikama); ili
+
+d. Koristi analogne tehnike i ima pojasnu širinu preko 2,5 GHz;
+
+Napomena: 5B001.b.2.d. ne kontrolira opremu posebno izrađenu za »razvoj« komercijalnih TV sustava.
+
+3. Oprema koja koristi optičko prespajanje;
+
+4. Oprema koja koristi tehnike kvadraturno-amplitudne modulacije (QAM) iznad razine 256; ili
+
+5. Oprema kod koje se koristi »signalizacija po zajedničkom kanalu« i koja funkcionira u nepridruženom načinu rada.
+
+| 5C1 | Materijali |  |
+|---|---|---|
+
+Nema.
+
+| 5D1 | Softver |  |
+|---|---|---|
+
+5D001 »Softver« kako slijedi:
+
+a. »Softver« posebno izrađen ili modificiran za »razvoj«, »proizvodnju« ili »uporabu« opreme, funkcija ili svojstava navedenih u 5A001;
+
+b. »Softver« posebno izrađen ili modificiran da podržava »tehnologiju« navedenu u 5E001.
+
+c. Poseban »softver« izrađen ili modificiran da daje osobine, funkcije ili svojstva opreme navedene u 5A001 ili 5B001;
+
+d. »Softver« posebno izrađen ili modificiran za »razvoj« bilo koje od sljedeće opreme za telekomunikacijski prijenos ili za prespajanje »upravljanjem pohranjenim programom«:
+
+1. Oprema koja koristi digitalne tehnike, uključujući »Mod asinkronog prijenosa« (»ATM«), izrađena za rad kada je »ukupna brzina digitalnog prijenosa« iznad 15 Gbit/s;
+
+Tehnička napomena:
+
+Za opremu za prespajanje »ukupna brzina digitalnog prijenosa« mjeri se na najbržem ulazu ili liniji.
+
+2. Oprema koja koristi »laser« i ima nešto od sljedećega:
+
+a. Valnu duljinu prijenosa iznad 1750 nm; ili
+
+b. Koristi analogne tehnike i ima pojasnu širinu preko 2,5 GHz;
+
+Napomena: 5D001.d.2.b. ne kontrolira »softver« posebno izrađen ili modificiran za »razvoj« komercijalnih TV sustava.
+
+3. Oprema koja koristi »optičko prespajanje«; ili
+
+4. Radio oprema koja koristi tehnike kvadraturno-amplitudne modulacije (QAM) iznad razine 256.
+
+5D101 »Softver« posebno izrađen ili modificiran za »uporabu« opreme navedene u 5A101.
+
+| 5E1 | Tehnologija |  |
+|---|---|---|
+
+5E001 »Tehnologija«, kako slijedi:
+
+a. »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj«, »proizvodnju« ili »uporabu« (isključujući rad) opreme, funkcija ili svojstava navedena u 5A001 ili »softver« naveden u 5D001.a;
+
+b. Posebne »tehnologije«, kako slijedi:
+
+1. »Potrebna« »tehnologija« za »razvoj« ili »proizvodnju« telekomunikacijske opreme posebno izrađene za korištenje na board satelitima;
+
+2. »Tehnologija« za »razvoj« ili »uporabu« tehnika »laserske« komunikacije sa sposobnošću automatskog lociranja i praćenja signala i održavanja komunikacija kroz medije izvan atmosfere ili ispod površine (vode);
+
+3. »Tehnologija« za »razvoj« prijamne opreme digitalne stanične bazne radio postaje čije su sposobnosti prijama takve da dopuštaju višepojasni, višekanalni, višemodni, višekodni algoritam ili višeprotokolni rad mogu modificirati promjenama »softvera«;
+
+4. »Tehnologija« za »razvoj« tehnika »širenje spektra«, uključujući tehnike »preskakanje frekvencije«.
+
+c. »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« ili »proizvodnju« bilo čega od navedenog:
+
+1. Oprema koja koristi digitalne tehnike, osmišljen za rad kada ke »ukupna brzina digitalnog prijenosa« preko 1,5 Gbit/s;
+
+Tehnička napomena:
+
+Za opremu za prespajanje »ukupna brzina digitalnog prijenosa« mjeri se na najbržem ulazu ili liniji.
+
+2. Oprema koja koristi »laser« i ima nešto od sljedećega:
+
+a. Prijenosnu valnu duljinu veću od 1750 nm;
+
+b. Izvodi »optičko pojačanje« koristeći pojačala (PDFFA) od fluoridnih vlakana s prazeodimijem;
+
+c. Koristi tehnike koherentnog optičkog prijenosa ili koherentne optičke detekcije (također nazvane optičkim heterodinskim ili homodinskim tehnikama);
+
+d. Koristi tehnike multpleksnog dijeljenja valnih dužina optičkih nosača s razmakom manjim od 100 GHz, ili
+
+e. Koristi analogne tehnike i ima pojasnu širinu veću od 2,5 GHz;
+
+NAPOMENA: 5E001.c.2.e. ne kontrolira »tehnologiju« za »razvoj« ili »proizvodnju« komercijalnih TV sustava.
+
+NAPOMENA: Za »tehnologiju« za »razvoj« ili »proizvodnju« ne-telekomunikacijske opreme koja koristi laser vidi 6E.
+
+3. Oprema koja koristi »optičko prespajanje«;
+
+4. Radio oprema koja ima nešto od sljedećega:
+
+a. Tehnike kvadraturno-amplitudne modulacije (QAM) iznad razine od 256; ili
+
+b. Radi na ulaznim ili izlaznim frekvencijama većim od 31,8 GHz; ili
+
+Napomena: 5E001.c.4.b. ne kontrolira »tehnologiju« za »razvoj« ili »proizvodnju« opreme izrađene ili modificirane za rad na bilo kojem frekvencijskom pojasu kojeg je odredila ITU.
+
+c. Radi na frekvencijama od 1,5 MHz do 87,5 MHz i koja uključuje tehnilke prilagođavanja omogućujući tako prigušenje ometajućeg signala veće od 15 dB.
+
+5. Oprema kod koje se koristi »signalizacija po zajedničkom kanalu« i koja funkcionira u nepridruženim načinu rada.
+
+6. Mobilna oprema koja ima sve slijedeće značajke:
+
+a. Radi na optičkoj valnoj duljini većoj ili jednakoj od 200 nm i manjoj ili jednakoj 400 nm;
+
+b. Radi kao »lokalna mreža« ;
+
+d. »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« ili »proizvodnju« pojačala monolitnih mikrovalnih integriranih sklopova (MMIC) posebno izrađenih za telekomunikacije i koja imaju bilo koju od sljedećih značajki:
+
+1. Namijenjeni za rad na frekvencijama koje prelaze 3,2 GHz do uključivo 6 GHz i sa prosječnom izlaznom snagom većom od 4W (36 dBm) s »djelomičnom širinom pojasa« većom od 15%;
+
+2. Namijenjeni za rad na frekvencijama koje prelaze 6 GHz do uključivo 16 GHz i sa prosječnom izlaznom snagom većom od 1W (30 dBm) s »djelomičnom širinom pojasa« većom od 10%;
+
+3. Namijenjeni za rad na frekvencijama koje prelaze 16 GHz do uključivo 31,8 GHz i sa prosječnom izlaznom snagom većom od 0,8W (29 dBm) s »djelomičnom širinom pojasa« većom od 10%;
+
+4. Namijenjeni za rad na frekvencijama koje prelaze 31,8 GHz do uključivo 37,5 6 GHz;
+
+5. Namijenjeni za rad na frekvencijama koje prelaze 37,5 GHz do uključivo 43,5 GHz i sa prosječnom izlaznom snagom većom od 0,25W (24 dBm) s »djelomičnom širinom pojasa« većom od 10%; ili
+
+6. Namijenjeni za rad na frekvencijama koje prelaze 43,5 GHz;
+
+e. »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« ili »proizvodnju« elektroničkih uređaja i sklopova, posebno izrađenih za telekomunikacije koje sadrže komponente proizvedene od »supravodljivih« materijala, posebno izrađeni za rad na temperaturama ispod »kritične temperature« barem jedne od »supravodljive« komponente, te koje imaju barem jedno od sljedećeg:
+
+1. Preklapanje toka za digitalne sklopove sa »supravodljivim« vratima sa kojima je umnožak kašnjenja na vratima ( u sekundama) i gubitak snage na vratima ( u W) manji od 10-14 J; ili
+
+2. Frekvencijska selektivnost na svim frekvencijama uz uporabu rezonancijskih sklopova s kvalitetom Q većom od 10 000.
+
+5E101 »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj«, »proizvodnju« ili »uporabu« opreme navedene u 5A101.
+
+#### 2. DIO — SIGURNOST INFORMACIJA
+
+Napomena 1: Kontrolni status opreme za »sigurnost informacija«, »softvera«, sustava, »elektroničkih sklopova« za određene aplikacije, modula, integriranih sklopova, komponenata ili funkcija određen je u Kategoriji 5, 2. Dio, čak i ako su to komponente ili »elektronički sklopovi« druge opreme.
+
+Napomena 2: Kategorija 5 – 2. Dio ne kontrolira proizvode kada oni prate korisnika radi korisnikove osobne uporabe.
+
+Napomena 3: Napomena o kriptografiji
+
+5A002 i 5D002 ne kontroliraju robu koja ispunjava sve niže navedeno:
+
+a. Opće dostupna javnosti putem prodaje, bez ograničenja, sa zaliha na maloprodajnim mjestima na jedan od sljedećih načina:
+
+1. Transakcijama preko šaltera;
+
+2. Kataloškom prodajom;
+
+3. Elektroničkim transakcijama; ili
+
+4. Transakcijama putem telefonskog poziva;
+
+b. Kriptografsku funkcionalnost korisnik ne može lako promijeniti;
+
+c. Osmišljena za instaliranje od strane korisnika bez daljnje bitne pomoći dobavljača; te
+
+d. Kada je potrebno, pojedinosti o robi dostupne su i dat će se, po zahtjevu, ministarstvu nadležnom za gospodarstvo kako bi se utvrdilo poštivanje uvjeta navedenih u stavcima a. do c. više.
+
+Tehnička napomena:
+
+U Kategoriji 5 – 2. Dio, biti parnosti nisu uključeni u duljinu ključa.
+
+| 5A2 | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+5A002 a. Sustavi, oprema, »elektronički sklopovi« za određene aplikacije, moduli i integrirani sklopovi za »sigurnost informacija«, kako slijedi, te druge za to posebno izrađene komponente:
+
+NAPOMENA: Za kontrolu prijamne opreme globalnih navigacijskih satelitskih sustava koji sadrže ili koriste dešifriranje (tj. GPS ili GLONASS), vidi 7A005.
+
+1. Izrađeni ili modificirani za korištenje »kriptografije« koja koristi digitalne tehnike koje izvode bilo koju kriptografsku funkciju osim dokazivanja vjerodostojnosti ili digitalnog potpisa koji imaju nešto od sljedećega:
+
+Tehničke napomene:
+
+1. Funkcije dokazivanja vjerodostojnosti ili digitalnog potpisa uključuju njihovu pridruženu funkciju upravljanja ključem.
+
+2. Dokazivanje vjerodostojnosti uključuje sve aspekte kontrole pristupa gdje nema šifriranja datoteka ili teksta osim kada je to direktno povezano sa zaštitom lozinki, osobnih identifikacijskih brojeva (PIN) ili sličnih podataka kako bi se spriječio neovlašteni pristup.
+
+3. »Kriptografija« ne uključuje tehnike komprimiranja podataka koji su »nepromjenjivi« ili kodiranja.
+
+Napomena: 5A002.a.1. uključuje opremu izrađenu ili modificiranu za korištenje »kriptografije« koja koristi analogna načela kada se primjenjuje s digitalnim tehnikama.
+
+a. »Simetrični algoritam« koji koristi duljinu ključa veću od 56 bits; ili
+
+b. »Asimetrični algoritam« gdje se sigurnost algoritma temelji na nečemu od sljedećega:
+
+1. Faktorizacija cijelih brojeva iznad 512 bits (npr. RSA);
+
+2. Izračun odvojenih algoritama u multiplikativnoj skupini konačnog polja većeg od 512 bits (npr. Diffie-Hellman preko Z/pZ); ili
+
+3. Odvojeni logaritmi u skupni koja nije skupina spomenuta u 5A002.a.1.b.2. iznad 112 bits (npr, Diffie-Hellman preko elipse);
+
+2. Izrađen ili modificiran da obavlja kriptanalitičke funkcije;
+
+3. Ne koristi se;
+
+4. Posebno izrađen ili modificiran za smanjivanje kompromitirajućih izbijanja signala – nositelja informacija iznad razine potrebne za zdravstvene, sigurnosne i standarde elektromagnetske interferencije;
+
+5. Izrađen ili modificiran za korištenje kriptografskih tehnika za stvaranje koda raspršivanja za sustave »širenje spektra«, osim onih navedenih u 5A002.a.6., uključujući kodove preskakivanja za sustave s »frekvencijskim preskakivanjem«;
+
+6. Izrađen ili modificiran za korištenje kriptografskih tehnika za stvaranje kanalizirajućih kodova, kodova ometanja, ili identifikacijskih kodova mreže, za sustave koji koriste tehnike širokopojasne modulacije, i koji imaju bilo koju od sljedećih značajki:
+
+a. širinu pojasa veću od 500 MHz; ili
+
+b. »radnu širinu pojasa« 20% ili veću;
+
+7. Ne-kriptografski sigurnosni sustavi i uređaji za informacijsko komunikacijsku tehnologiju (ICT) koji imaju potvrdu Common Criteria (CC) ili ekvivalentnu, razine više od EAL-6 (Evaluation Assurance Level).
+
+8. Komunikacijski kabelski sustavi izrađeni ili modificirani za uporabu mehaničkih, električnih ili elektroničkih sredstava za otkrivanje nedopuštenih prodora u sustav.
+
+9. Izrađeni ili modificirani za uporabu »kvantne kriptografije«
+
+Tehnička napomena:
+
+»Kvantna kriptografija« je poznata i po nazivu distribucija kvantnih ključeva (QKD – Quantum key Distribution)
+
+<table>
+<tbody>
+
+<tr>
+<td></td>
+<td colspan="5">Napomena: 5A002 ne kontrolira:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="4">»Personalizirane inteligentne kartice«:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="3">Gdje je mogućnost kriptografije ograničena na korištenje u opremi ili sustavima izuzetima iz kontrole pod natuknicama b. do f. ove Napomene; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="3">Za opće korištene aplikacije gdje korisnik nema pristupa mogućnosti kriptografije i gdje je ona posebno izrađena i ograničena da omogući zaštitu pohranjenih osobnih podataka.</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Napomena:</td>
+<td>Ako »personalizirana pametna kartica« ima više funkcija, kontrolni status svake funkcije ocjenjuje se pojedinačno;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="4">Prijamna oprema za radio emitiranje, kodiranu televiziju ili slična emitiranja za ograničenu publiku potrošačkog tipa, bez digitalnog šifriranja osim onoga što se samo koristi za slanje informacija o računu ili programu, natrag prema davateljima usluge emitiranja;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td colspan="4">Oprema gdje korisnik nema pristupa mogućnosti kriptografije i koja je posebno izrađena i ograničena da omogući nešto od sljedećega:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="3">Rad »softvera« zaštićenog od kopiranja;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="3">Pristup nečemu od sljedećega:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td colspan="2">Sadržaji zaštićeni od kopiranja koji su pohranjeni na medijima koji se mogu samo očitavati; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td colspan="2">Informacije pohranjene na medije u kodiranom obliku (npr. u vezi sa zaštitom prava intelektualnog vlasništva) kada su mediji ponuđeni javnosti na prodaju u identičnim kompletima; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td colspan="3">Jednokratno kopiranje audio/video podataka zaštićenim autorskim pravima; ili.</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>4.</td>
+<td colspan="3">Kodiranje i/ili dekodiranje podataka radi zaštite knjižnica, atributa oblika i srodnih podataka za projektiranje poluvodičkih naprava ili integriranih kola</td>
+</tr>
+
+<tr>
+<td></td>
+<td>d.</td>
+<td colspan="4">Kriptografska oprema posebno izrađena i ograničena za korištenje u bankarstvu ili »novčanim transakcijama«;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Tehnička napomena:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">‘Novčane transakcije’ u 5A002 Napomeni d. uključuje naplatu i namirivanje vozarina ili kreditnih funkcija.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>e.</td>
+<td colspan="4">Prijenosni ili mobilni radiotelefoni za civilno korištenje (npr. za korištenje s komercijalnim civilnim staničnim radiokomunikacijskim sustavima) koji nemaju mogućnost transportnog kodiranja;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>f.</td>
+<td colspan="4">Bežična telefonska oprema koja nema mogućnost transportnog kodiranja gdje je maksimalni efektivni raspon nepojačanih bežičnih operacija (tj. jedan, nerelejni skok između terminala i baze) manji od 400 metara, prema specifikacijama proizvođača.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>g.</td>
+<td colspan="4">Prijenosni ili mobilni telefoni te slični bežični uređaji (client wireless devices) za civilno korištenje, koje koriste isključivo objavljene ili komercijalne kriptografske standardne postupke (izuzetak su protupiratske funkcije koje mogu biti neobjavljene) i koji ispunjavaju uvjete iz podstavaka (b) i (d) napomene o kriptografiji (napomena 3 u drugom dijelu kategorije 5), prilagođeni za specifičnu uporabu u civilnoj industriji na takav način da nihove značajke ne utječu na kriptografsku funkcionalnost tih prvotnih neprilagođenih uređaja.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>h.</td>
+<td colspan="4">Oprema posebno izrađena za servisiranje prijenosne ili mobilne radiotelefonije i siličnih bežičnih uređaja koja zadovoljava sve odredbe Napomene za kriptografiju (napomena 3 iz kategorije 5, dio 2), pri čemu oprema za servisiranje zadovoljava sve od sljedećg:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="3">Kriptografska funkcionalnost opreme za servisiranje ne može biti lako promijenjena od strane korisnika opreme;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="3">Oprema za servisiranje je izrađena tako da ju je namjestiti bez opsežne pomoći dobavljača, i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td colspan="3">Oprema za servisiranje ne može promijeniti kriptografsku funkcionalnost uređaja koji se servisira;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>i.</td>
+<td colspan="4">Oprema bežične »lokalne mreže« koja rabi isključivo publicirane ili komercijalne kriptografske standarde i kod koje je kriptografska sposobnost ograničena na nominalno područje djelovanja koje ne prelazi 30 m.</td>
+</tr>
+</tbody>
+
+</table>
+
+| 5B2 | Oprema za testiranje, inspekciju i proizvodnju |  |
+|---|---|---|
+
+5B002 Oprema za testiranje, pregledavanje i »proizvodnju« u svezi »informacijske sigurnosti«:
+
+a. Oprema posebno izrađena za »razvoj« i »proizvodnju« opreme navedene u 5A002 ili 5B002.b.;
+
+b. Mjerna oprema posebno izrađena za ocjenjivanje i potvrđivanje funkcija »sigurnosti informacija« navedenih u 5A002 ili »softvera« navedenih u 5D002.a. ili 5D002.c.
+
+| 5C2 | Materijali |  |
+|---|---|---|
+
+Nema.
+
+| 5D2 | Softver |  |
+|---|---|---|
+
+5D002 »Softver«:
+
+a. »Softver« posebno izrađen ili modificiran za »razvoj«, »proizvodnju« ili »uporabu« opreme navedene u 5A002 ili »softvera« navedenog u 5D002.c.;
+
+b. »Softver« posebno izrađen ili modificiran za podržavanje »tehnologije« navedene u 5E002;
+
+c. Poseban »softver«, kako slijedi:
+
+1. »Softver« koji ima osobine, ili obavlja ili simulira funkcije opreme navedene u 5A002;
+
+2. »Softver« za potvrđivanje »softvera« navedenog u 5D002.c.1.
+
+Napomena: 5D002 ne kontrolira:
+
+a. »Softver« potreban za »uporabu« opreme izuzete iz kontrole u ovoj Napomeni do 5A002;
+
+b. »Softver« koji daje neku od funkcija opreme izuzete iz kontrole u ovoj Napomeni do 5A002.
+
+| 5E2 | Tehnologija |  |
+|---|---|---|
+
+5E002 »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj«, »proizvodnju« ili »uporabu« opreme navedene u 5A002, 5B002 ili »softvera« navedenog u 5D002.a. ili 5D002.c.
+
+#### KATEGORIJA 6 — SENZORI I LASERI
+
+| 6A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+6A001 Akustika:
+
+a. Pomorski akustički sustavi, oprema i za njih posebno izrađene komponente, kako slijedi:
+
+1. Aktivni (prijenosni i prijenosno-prijamni) sustavi, oprema i za njih posebno izrađene komponente, kako slijedi:
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena:</td>
+<td colspan="3">6A001.a.1. ne kontrolira:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="2">Dubinski ispitivači sondom koji rade vertikalno ispod uređaja, ne uključujući funkciju skeniranja koja prelazi ± 20°, i ograničeno na mjerenje dubine vode, udaljenost potopljenih ili zakopanih predmeta ili traženje ribe;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="2">Akustične signale, kako slijedi:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td>Akustične signale za opasnost;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td>Odašiljače zvučnog signala posebno izrađene za premještanje ili vraćanje na poziciju pod vodom.</td>
+</tr>
+</tbody>
+
+</table>
+
+a. Sustavi širokog otkosa za mjerenje dubine mora izrađeni za izradu topografskih karata morskog dna, koji imaju sve navedeno:
+
+1. Da su izrađeni za uzimanje mjera pod kutom većim od 20° od vertikale;
+
+2. Da su izrađeni za mjerenje dubina većih od 600 m ispod površine vode; i
+
+3. Da su izrađeni za davanje nečega od navedenoga:
+
+a. Skup od više zraka od kojih je neka manja od 1,9°; ili
+
+b. Točnost podataka bolja od 0,3% dubine vode u otkosu čiji se prosjek računa prema pojedinačnim mjerenjima unutar otkosa;
+
+b. Sustavi otkrivanja predmeta i lociranja koji imaju nešto od sljedećega:
+
+1. Frekvencija prijenosa ispod 10 kHz;
+
+2. Razina pritiska zvuka preko 224 dB (referentna vrijednost 1 µPa na 1 m) za opremu s radnom frekvencijom u pojasu od 10 kHz do uključivo 24 kHz;
+
+3. Razina pritiska zvuka viša od 235 dB (referentna vrijednost 1 µPa na 1 m) za opremu s radnom frekvencijom u pojasu između 24 kHz i 30 kHz;
+
+4. Formirajuće zrake manje od 1° na bilo kojoj osi s radnom frekvencijom manjom od 100 kHz;
+
+5. Izrađeni za rad s dosegom jasnog prikaza većim od 5120 m; ili
+
+6. Izrađeni da izdrže pritisak tijekom redovnog rada na dubinama većim od 1000 m s pretvaračima s nečim od sljedećega:
+
+a. Dinamička kompenzacija za pritisak; ili
+
+b. Sadrži nešto što nije olovo cirkonat titanat kao pretvarački element;
+
+c. Akustički projektori, uključujući pretvarače, s ugrađenim piezoelektričnim, magnetostriktivnim, elektrostriktivnim, elektrodinamičkim ili hidrauličkim elementima koji rade pojedinačno ili u izrađenoj kombinaciji, koji imaju nešto od sljedećega:
+
+Napomena 1: Kontrolni status akustičkih projektora, uključujući pretvarače, posebno izrađenih za drugu opremu utvrđuje se prema kontrolnom statusu druge opreme.
+
+Napomena 2: 6A001.a.1.c. ne kontrolira elektroničke izvore koji usmjeravaju zvuk samo vertikalno, ili mehaničke (npr. zračni pištolj ili pištolj na udarnu paru) ili kemijske (npr. eksplozivne) izvore.
+
+1. Trenutačna odašiljana ‘gustoća akustičke snage’ veća od 0,01 mW/mm2/Hz za uređaje koji rade na frekvencijama ispod 10 kHz;
+
+2. Stalno odašiljana ‘gustoća akustičke snage’ veća od 0,001 mW/mm2/Hz za uređaje koji rade na frekvencijama ispod 10 kHz; ili
+
+Tehnička napomena:
+
+‘Gustoća akustičke snage’ dobiva se dijeljenjem izlazne akustičke snage umnoškom površine odašiljanja i frekvencije rada.
+
+3. Potiskivanje vanjskog režnja preko 22 dB;
+
+d. Akustički sustavi, oprema, i posebno izrađene komponente za određivanje pozicije plovila na površini i podvodnih vozila izrađeni za rad u području preko 1000 m s točnošću određivanja pozicije ispod 10m rms (kvadratna srednja vrijednost) kada se mjeri u području od 1000m;
+
+Napomena: 6A001.a.1.d. uključuje:
+
+a. Oprema koja koristi koherentnu »obradu signala« između dva ili više svjetlosnih signala i hidrofonsku jedinicu koju nosi plovilo na površini ili podvodno vozilo;
+
+b. Oprema s mogućnošću automatskog ispravljanja pogrešaka prostiranja vezanih za brzinu zvuka za izračun točke.
+
+2. Pasivni sustavi (prijamni, bilo da su u normalnoj primjeni vezani za posebnu aktivnu opremu ili ne), oprema i za to posebno izrađene komponente, kako slijedi:
+
+a. Hidrofoni koji imaju neku od sljedećih osobina:
+
+Napomena: Kontrolni status hidrofona posebno izrađenih za drugu opremu određuje se prema kontrolnom statusu te druge opreme.
+
+1. Imaju ugrađene kontinuirano gipke senzorne elemente
+
+2. Imaju ugrađene fleksibilne sklopove odvojenih senzornih elemenata čiji je promjer ili duljina manja od 20 mm i s razmakom između elemenata manjim od 20 mm;
+
+3. Imaju neki od sljedećih senzornih elemenata:
+
+a. Optička vlakna;
+
+b. ‘piezolektrične polimerne slojeve’ osim poliviniliden-fluorida (PVDF) i njegovog kopolimera (P(VDF-TrFE) i P(VDF-TFE)); ili
+
+c. Fleksibilne piezoelektrične kompozitne materijale;
+
+4. ‘Osjetljivost hidrofona’ bolju od – 180 dB na bilo kojoj dubini bez kompenzacije ubrzanja;
+
+5. Ako su izrađeni za rad na dubinama većim od 35 m s kompenzacijom ubrzanja; ili
+
+6. Ako su izrađeni za rad na dubinama većim od 1000 m;
+
+Tehničke napomene:
+
+1. Senzorni elementi iz ‘Piezoelektričnog polimernog filma’ sastoje se iz polariziranoga polimernog filma koji je razvučen preko elemenata i pričvršćen za potporni okvir ili trn.
+
+2. Senzorni elementi iz ‘gipkih piezoelektričnih kompozita’ sastoje se iz piezoelektričnih kermičkih dijelića ili vlakana, kombiniranih s električno vodljivom i akustičnom prozirnom gumom, polimerom ili epoksi smjesom, pri čemu je smjesa sastavni dio senzornog elementa.
+
+3. ‘Osjetljivost hidrofona’ definira se kao dvadeset puta logaritam baze 10 omjera rms izlaznog napona i 1 V rms reference, gdje je senzor hidrofona, bez predpojačala, smješten u akustičko polje ravnog vala s rms pritiskom od 1 µPa. Na primjer, hidrofon od – 160 dB (referentna vrijednost 1 V po µPa) dao bi izlazni napon od 10-8 V u takvom polju, dok bi hidrofon od – 180 dB osjetljivosti dao samo 10-9 V izlaza. To znači da je, – 160 dB bolje od – 180 dB.
+
+b. Tegljena akustička hidrofonska polja koja imaju nešto od sljedećega:
+
+1. Razmak hidrofonske grupe manji od 12,5 m;
+
+2. Izrađen ili ‘se može modificirati’ za rad na dubinama većim od 35 m;
+
+Tehnička napomena:
+
+‘Može se modificirati’ u 6A001.a.2.b.2. označava da ima preduvjete koja dopuštaju da promjena žica ili međuveza izmijeni razmak hidrofonske grupe ili radne dubinske granice. Ti preduvjeti su: rezervne žice više od 10% broja žica, blokade za namještanje razmaka hidrofonske grupe ili unutarnji uređaji za limitiranje dubine koji su prilagodljivi ili koji kontroliraju više od jedne hidrofonske grupe.
+
+3. Senzori smjera navedeni u 6A001.a.2.d.;
+
+4. Longitudinalno pojačane cijevi polja;
+
+5. Složeno polje manje od 40 mm u promjeru; ili
+
+6. Ne koristi se;
+
+7. Hidrofonske osobine navedene u 6A001.a.2.a.;
+
+c. Oprema za obradu, posebno izrađena za tegljena akustička hidrofonska polja, koja ima »mogućnost korisničkog programiranja« te obradu i korelaciju vremena ili područja frekvencije, uključujući spektralnu analizu, digitalno filtriranje i formiranje zrake pomoću brze Fourierove ili drugih transformacija ili procesa;
+
+d. Senzori smjera koji imaju sve od navedenoga:
+
+1. Točnost bolja od ± 0.5°; i
+
+2. Izrađeni za rad na dubinama većim od 35 m ili imaju senzorski uređaj za dubinu, koji se može prilagoditi ili ukloniti, za rad na dubinama većim od 35 m;
+
+e. Kablovski sustav za dno ili zaljev koji imaju nešto od sljedećega:
+
+1. Ugrađeni hidrofoni navedeni u 6A001.a.2.a.; ili
+
+2. Ugrađeni višestruki signalni moduli hidrofonske grupe sa svim sljedećim osobinama:
+
+a. Izrađeni za rad na dubinama većim od 35 m ili imaju senzorski uređaj za dubinu, koji se može prilagoditi ili ukloniti, za rad na dubinama većim od 35 m; i
+
+b. Može se za rad zamijeniti modulima tegljenih akustičkog hidrofonskog polja;
+
+f. Oprema za obradu, posebno izrađena za kablovske sustave za dno ili zaljev, koja ima »mogućnost korisničkog programiranja« te obradu i korelaciju vremena ili područja frekvencije, uključujući spektralnu analizu, digitalno filtriranje i formiranje zrake pomoću brze Fourierove ili drugih transformacija ili procesa;
+
+b. Oprema za zapise sonara temeljem korelacijskih brzina ili Dopplerovih brzina, izrađena za mjerenje horizontalne brzine nosača opreme ovisno o morskom dnu:
+
+1. Oprema za zapise sonara temeljem korelacijskih brzina, koji ima bilo koju od sljedećih značajki:
+
+a. Izrađena za djelovanje na daljinama većim od 500 m između nosačem opreme i morskim dnom;
+
+b. točnost izmjerene brzine je veća od 1%;
+
+2. Oprema za zapise sonara temeljem Dopplerovih brzina s točnošću izmjerene brzine većom od 1%
+
+Napomena 1: Predmet kontrole u 6A001.b nisu dubinske sonde, ograničene na:
+
+a. Mjerenje dubine vode;
+
+b. Mjerenje udaljenosti potopljenih ili zakopanih predmeta;
+
+c. Traženje ribljih jata.
+
+Napomena 2: Predmet kontrole u 6A001.b nije oprema, koja je posebno izrađena za ugradnju u površinska plovila.
+
+c. Zvučni sustavi za odvraćanje ronilaca posebno izrađeni ili modificirani za motrenje ronilaca, čija je razina zvučnog tlaka veća ili jednaka 190 dB (referenca 1 µPa na 1m) na frekvencijama od 200 Hz i manjim.
+
+Napomena 1: 6A001.c. ne kontrolira sustave za odvraćanje ronilaca namještenim na podvodnim eksplozivnim uređajima, zračnom oružju ili gorivim izvorima.
+
+Napomena 2: 6A001.c. uključuje sustave ta odvraćanje ronilaca koji koriste stvaratelje iskri, poznate i pod nazivom ‘plazma izvori zvuka’ (eng. plasma sound sources).
+
+6A002 Optički senzori ili oprema i komponente, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 6A102.
+
+a. Optički detektori, kako slijedi:
+
+1. Detektori u čvrstom stanju »prikladni za uporabu u svemiru«, kako slijedi:
+
+Napomena: Za potrebe 6A002.a.1., detektori u čvrstom stanju uključuju »žarišne ravninske plohe«.
+
+a. Detektori u čvrstom stanju »prikladni za uporabu u svemiru«, koji imaju sve navedeno:
+
+1. Maksimalni odgovor u rasponu valnih duljina preko 10 nm ali ne preko 300 nm; i
+
+2. Odgovor od manje od 0,1% u odnosu na maksimalni odgovor na valnoj duljini preko 400 nm;
+
+b. Detektori u čvrstom stanju »prikladni za uporabu u svemiru«, koji imaju sve navedeno:
+
+1. Maksimalni odgovor u rasponu valnih duljina preko 900 nm ali ne preko 1200 nm; i
+
+2. »Vremenska konstanta« odgovora od 95 ns ili manje;
+
+c. Detektori u čvrstom stanju »prikladni za uporabu u svemiru«, koji imaju maksimalni odgovor u rasponu valnih duljina preko 1200 nm ali ne preko 30000 nm;
+
+d. »Pogodni za korištenje u svemiru« »žarišne ravninske plohe« koje imaju više od 2048 elemenata po plohi i maksimalni odziv pri valnim daljinama većim od 300 nm ali ne većim od 900 nm.
+
+2. Cijevni pojačivači slike i za to posebno izrađene komponente, kako slijedi:
+
+Napomena: 6A002.a.2 ne kontrolira neslikovne cijevne fotopojačivače s uređajem za registraciju elektrona u vakuumu, ograničeno na bilo što od sljedećeg:
+
+a. Jednometalnu anodu; ili
+
+b. Metalne anode s razmakom između središta većim od 500 µm.
+
+Tehnička napomena:
+
+»Umnožavanje naboja« (charge multiplication) je oblik elektronskog umnažanja slike i definirano je kao generiranje nosioca naboja temeljem ionizirajućeg procesa (impact ionization goin process). Senzori koji imaju takav učinak mogu biti elektronski pojačivači slike, poluvodički detektori ili »žarišnoravninski detektorski nizovi«
+
+a. Cijevni pojačivači slike koje imaju sve navedeno:
+
+1. Maksimalni odgovor u rasponu valnih duljina preko 400 nm ali ne preko 1050 nm;
+
+2. Elektronsko pojačavanje slike uz uporabu:
+
+a. Mikrokanalnu ploču za pojačavanje elektronske slike s visinom šupljine (razmak centar-centar) od 12 µm ili manje; ili
+
+b. Uređaj za registarciju elektrona s razmakom nebinianih slikovnih točaka (non binned pixel pitch) jednakim ili manjim od 500 µm, koji je posebno izrađen ili prepravljen za »ojačanje naboja«, što se ne može postići s mikrokanalnom pločom.; i
+
+3. Bilo koja od fotokatoda, kako slijedi:
+
+a. Multialkalne fotokatode (npr.S-20, S-25) s osjetljivošću na svjetlost većom od 350 µA/lm;
+
+b. Fotokatode GaAs ili GaInAs; ili
+
+c. Drugi »III/V spojevi« poluvodičke fotokatode s maksimalnom osjetljivosti na zračenje većom od 10 mA/W;
+
+b. Cijevni pojačivači slike koji imaju sve navedeno:
+
+1. Maksimalni odgovor u rasponu valnih duljina preko 1050 nm ali ne preko 1800 nm;
+
+2. Elektronsko pojačavanje slike uz uporabu:
+
+a. Mikrokanalnu ploču za pojačavanje elektronske slike s visinom šupljine (razmak centar-centar) od 12 µm ili manje; ili
+
+b. Uređaj za registarciju elektrona s razmakom nebinianih slikovnih točaka (non binned pixel pitch) jednakim ili manjim od 500 µm, koji je posebno izrađen ili prepravljen za »ojačanje naboja«, što se ne može postići s mikrokanalnom pločom; i
+
+3. »III/V spojevi« poluvodičkih (npr. GaAs ili GaInAs) fotokatode s prenesenim elektronima (transferred electron photocathodes) s maksimalnom osjetljivosti na zračenje većom od 15mA/W;
+
+c. Posebno izrađene komponente, kako slijedi:
+
+1. Mikrokanalne ploče s visinom šupljine (razmak centar-centar) od 12 µm ili manje;
+
+2. Uređaj za registarciju elektrona s razmakom nebinianih slikovnih točaka (non binned pixel pitch) jednakim ili manjim od 500 µm, koji je posebno izrađen ili prepravljen za »ojačanje naboja«, što se ne može postići s mikrokanalnom pločom;
+
+3. »III/V spojevi« poluvodičkih (npr. GaAs ili GaInAs) katoda i fotokatoda s prenesenim elektronima (transferred electron photocathodes);
+
+Napomena: 6A002.a.2.c.3. ne kontrolira složene poluvodičke fotokatode a maksimalnom osjetljivošću na zračenje bilo koje od sljedećeg:
+
+a. 10 mA/W ili manje maksimalnog odziva pri valnim dužinama većim od 400 nm, ali ne većim od 1050 nm; ili
+
+b. 15mA/W ili manje maksimalnog odziva pri valnim dužinama većim od 1050 nm ali ne većim od 1800 nm.
+
+3. Ne-»prikladni za uporabu u svemiru« »žarišnoravninski detektorski nizovi«, kako slijedi:
+
+NAPOMENA: Mikrobolometri izrađeni iz silicija ili drugih materijala, koji služe kao »žarišnoravninski detektorski nizovi«, a koji nisu »prikladni za uporabu u svemiru«, navedeni su samo u 6A002.a.3.f.
+
+Tehničke napomene:
+
+Linearni ili dvodimenzionalni višeelementni detektorski nizovi se razmatraju kao »žarišnoravninski detektorski nizovi«;
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena 1:</td>
+<td colspan="3">6A002.a.3. uključuje fotovodičke i fotonaponske detektorske nizove.</td>
+</tr>
+
+<tr>
+<td>Napomena 2:</td>
+<td colspan="3">6A002.a.3. ne kontrolira:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="2">Složene (ne više od 16 elemenata) ovijene fotovodičke stanice koje koriste ili olovni sulfid ili olovni selenid olovo sulfid ili olovo selenid;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="2">Piroelektrični detektori koji koriste nešto od sljedećega:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td>Triglicin sulfat i inačice;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td>Olovo-lantanij-cirkonij titanat i inačice;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td>Litij tantalat;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>4.</td>
+<td>Polyvinylidene fluorid i inačice; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>5.</td>
+<td>Stroncij barij niobat i inačice.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td></td>
+<td>»žarišnoravninski detektorski nizovi« specijalno izrađeni ili preuređeni za ojačanje naboja i, zbog svoje konstrukcije ograničeni na najveću osjetljivost 10mA/W ili manje pri valnim dužinama većim od 760 nm. koji imaju sve sljedeće značajke:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td>Imaju uređaj za ograničavanje odziva (response limiting mechanism), napravljen tako da ga nije moguće odstraniti ili preurediti;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td>Imaju bilo koju od sljedećih značajki:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a. Uređaj za ograničavanje odziva je integralni dio ili povezan sa detektorskim elementima;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b. »žarišnoravninski detektorski nizovi« su operabilni samo ako se koristi uređaj za ograničavanje odziva.</td>
+</tr>
+</tbody>
+
+</table>
+
+Tehnička napomena:
+
+Uređaj za ograničavanje odziva koji je integriran u detektorske elemente je izrađen tako da ne može biti uklonjen i ili prepravljen a da to ne učini detektore neoperabilnim.
+
+Tehnička napomena:
+
+»Pojačavanje naboja« (charge multiplication) je oblik elektronskog pojačavanja slikei definirano je kao generiranje nosioca naboja na temelju udarnog ionizirajućeg procesa. Senzori, koji imaju takav učinak, mogu biti elektronske cijevi za pojačavanje slike, poluvodički detektori ili »žarišnoravninski detektorski nizovi«.
+
+a. »Žarišnoravninski detektorski nizovi«, ne-»prikladni za uporabu u svemiru«, koji imaju sve navedeno:
+
+1. Pojedinačne elemente s maksimalnim odgovorom u rasponu valnih duljina preko 900 nm ali ne preko 1050 nm; i
+
+2. Bilo što od sljedećeg:
+
+a. »Vremensku konstantu« odgovora manju od 0,5 ns; ili
+
+b. Specijalno izrađeni ili modificirani za »pojačavanje naboja« s maksimalnom radijacijskom osjetljivosti većom od 10 mA/W;
+
+b. »Žarišnoravninski detektorski nizovi«, ne-»prikladni za uporabu u svemiru«, koji imaju sve navedeno:
+
+1. Pojedinačne elemente s maksimalnim odgovorom u rasponu valnih duljina preko 1 050 nm ali ne preko 1 200 nm; i
+
+2. Bilo što od sljedećeg:
+
+a. »Vremensku konstantu« odgovora manju od 95 ns; ili
+
+b. Specijalno izrađeni ili modificirani za »pojačavanje naboja« s maksimalnom radijacijskom osjetljivosti većom od 10 mA/W;
+
+c. Ne-»prikladni za uporabu u svemiru« nelinearni (2-dimenzionalni) »žarišnoravninski detektorski nizovi«, koja imaju pojedinačne elemente s maksimalnim odgovorom u rasponu valnih duljina preko 1200 nm ali ne preko 30000 nm;
+
+NAPOMENA: Mikrobolometri izrađeni iz silicija ili drugih materijala, koji služe kao »žarišnoravninski detektorski nizovi«, a koji nisu »prikladni za uporabu u svemiru«, navedeni su samo u 6A002.a.3.f.
+
+d. Ne-»prikladni za uporabu u svemiru« linearni (1-dimenzionalni) »žarišnoravninski detektorski nizovi«, koja imaju sve navedeno:
+
+1. Pojedinačne elemente s maksimalnim odgovorom u rasponu valnih duljina preko 1 200 nm ali ne preko 3 000 nm; i
+
+2. Nešto od sljedećega:
+
+a. Omjer dimenzije smjera skeniranja elementa detektora i dimenzije smjera križnog skeniranja elementa detektora manji od 3.8; ili
+
+b. Obrada signala u elementu (SPRITE);
+
+Napomena: 6A002.a.3.d. ne kontrolira »žarišnoravninski detektorski nizove« s detektorskim elementima (najviše 32 elementa), koji su izrađeni samo iz germanija.
+
+Tehnička napomena:
+
+Za potrebe 6A002.a.3.d., »poprečni smjer skeniranja« je definiran kao os koja je paralelna s linearnim nizom detektorskih elemenata, dok je »smjer skeniranja« definiran kao os okomita na linerani niz detektorskih elemenata.
+
+e. Linearni (1-dimenzionalni) »žarišnoravninski detektorski nizovi«, koji nisu »prikladni za uporabu u svemiru« i koji imaju pojedinačne elemente s maksimalnim odzivom na valnim duljina iznad 3 000 nm, ali ne iznad 30 000 nm;
+
+f. Nelinearni (2-dimenzionalni) infracrveni »žarišnoravninski detektorski nizovi«, koji nisu »prikladni za uporabu u svemiru« i koji se temelje na ‘mikro-bolometarskim’ materijalima s pojedinačnim elementima s nefiltriranim odzivom na valnim duljina od 8 000 nm ili većim, ali ne većim od 14 000 nm;
+
+Tehnička napomena:
+
+Za potrebe 6A002.a.3.f. ‘mikro-balometar’ je definiran kao termički slikovni detektor, koji generira uporabljiv signal kao rezultat temperaturne promjene u strukturi detektora zbog apsorpcije infracrvene svjetlosti.
+
+g. »Žarišnoravninski detektorski nizovi« ne-»prikladni za uporabu u svemiru«, koja imaju sve navedeno:
+
+1. Individualne detektorske elemente s maksimalnim odzivom pri valnim dužinama iznad 400 nm, ali ne većim od 900 nm;
+
+2. Specijalno izrađeni ili modificirani za »pojačavanje naboja« s najvećom osjetljivošću većom od 10 mA/W pri valnim duljinama većim od 760 nm; i
+
+3. Imaju više od 32 elementa.
+
+b. »Monospektralni slikovni senzori« i »multispektralni slikovni senzori« izrađeni za daljinska pretraživanja, koji imaju nešto od sljedećega:
+
+1. Trenutačno pregledno polje (IFOV), manje od 200 µrad (mikroradijana); ili
+
+2. Da su specificirani za rad u rasponu valnih duljina preko 400 nm ali ne preko 30 000 nm i da imaju sve navedeno:
+
+a. Daju izlazne slikovne podatke u digitalnom formatu; i
+
+b. Da su nešto od sljedećega:
+
+1. »Prikladni za uporabu u svemiru«; ili
+
+2. Izrađeni za rad u zraku, koristeći detektore koji nisu silikonski, i koji imaju IFOV manji od 2,5 mrad (miliradijana).
+
+Napomena: 6A002.b.1. ne kontrolira »monospektralne slikovne senzore« s maksimalnim odzivom pri valnim duljinama većim od 300 nm ali ne većim od 900 nm, u koje je uključen bilo koji od detektora koji nisu »pogodni za korišenje u svemiru« ili žarišne ravninske plohe koje također nisu »pogodne za korištenje u svemiru«:
+
+1. CCD senzori (Charge Coupled Devices) koji nisu izrađeni ili modificirani za ‘ojačanje naboja’; ili
+
+2. CMOS senzori (Complementary Metal Oxid Semiconductor) koji nisu izrađeni ili modificirani za ‘ojačanje naboja’.
+
+c. Oprema za pretraživanje s ‘izravnim pogledom’ u vidljivom ili infracrvenom spektru, koja ima ugrađeno nešto od sljedećega:
+
+1. Cijevi za pojačavanje slike iz 6A002.a.2.a.ili 6A002.a.2.b.;
+
+2. »Žarišnoravninski detektorski nizovi« iz 6A002.a.3. ili 6A002.e.; ili
+
+3. Detektori navedeni u 6A002.a.1.;
+
+Tehnička napomena:
+
+‘Izravni pogled’ odnosi se na opremu za pretraživanje, koja radi u vidljivom ili infracrvenom spektru, koji predstavlja vidljivu sliku čovjeku promatraču bez pretvaranja slike u elektronički signal za televizijski prikaz, i koji ne može bilježiti ili memorirati sliku fotografski, elektronički ili na neki drugi način.
+
+Napomena: 6A002.c. ne kontrolira sljedeću opremu koja ima ugrađeno nešto osim GaAs ili GaInAs fotokatode:
+
+a. Industrijski ili civilni alarm za nedozvoljeni ulazak, sustavi kontrole i brojanja kretanja u prometu ili industriji;
+
+b. Medicinska oprema;
+
+c. Industrijska oprema za inspekciju, sortiranje ili analizu svojstava materijala;
+
+d. Detektori plamena za industrijske peći;
+
+e. Oprema posebno izrađena za korištenje u laboratoriju.
+
+d. Posebne pomoćne komponente za optičke senzore, kako slijedi:
+
+1. »Prikladni za uporabu u svemiru« kriorashlađivači;
+
+2. Ne-»prikladni za uporabu u svemiru« kriorashlađivači, koji imaju temperaturu izvora hlađenja ispod 218 K (- 55 °C), kako slijedi:
+
+a. Tip zatvorenog kruga sa specificiranim srednjim vremenom do kvara (MTTF), ili srednjim vremenom između kvarova (MTBF), preko 2500 sati;
+
+b. Joule-Thomson (JT) samoregulacijski mini-rashlađivači koji imaju (vanjske) promjere cijevi manje od 8 mm;
+
+3. Optička senzorska vlakna posebno izrađena, po sastavu ili strukturi, ili modificirana oblaganjem da budu akustički, toplinski, inercijski, elektromagnetski osjetljiva ili osjetljiva na nuklearnu radijaciju.
+
+e. Ne koristi se.
+
+6A003 Kamere, sustavi ili oprema, te njihove komponenete kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 6A203.
+
+NAPOMENA: Za kamere izrađene ili modificirane za korištenje pod vodom, vidi 8A002.d. i 8A002.e.
+
+a. Instrumentacijske kamere, i za njih posebno izrađene komponente, kako slijedi:
+
+Napomena: Instrumentacijske kamere, navedene u 6A003.a.3. do 6A003.a.5., s modularnim strukturama trebaju biti ocjenjivane prema njihovim maksimalnim mogućnostima, koristeći utikače dostupne prema specifikacijama proizvođača kamera.
+
+1. Filmske kamere velike brzine koje koriste bilo koji format filma od 8 mm do uključivo 16 mm, u kojoj film neprekidno prolazi za čitavo vrijeme snimanja, i koje mogu snimati preko 13150 slika/s;
+
+Napomena: 6A003.a.1. ne kontrolira filmske kamere namijenjene za civilne svrhe.
+
+2. Mehaničke kamere velike brzine, u kojima se film ne pomiče, koje mogu snimati brzinom preko 1000000 slika/s pri punoj visini slike 35 milimetarskog filma, ili na proporcionalno većim brzinama pri manjoj visini slike, ili na proporcionalno manjim brzinama pri većoj visini slike;
+
+3. Mehaničke ili elektroničke kamere koje daju prugastu sliku koje imaju brzine zapisa preko 10 mm/µs;
+
+4. Elektroničke filmske kamere koje imaju brzinu preko 1000000 slika/s;
+
+5. Elektroničke kamere, koje imaju sve navedeno:
+
+a. Brzina elektroničkog zaklopca (aktivacijska sposobnost) manja od 1 µs za punu sliku; i
+
+b. Vrijeme čitanja koje omogućuje frekvenciju okvira veću od 125 punih slika u sekundi.
+
+6. Utikači, koji imaju sve navedene osobine:
+
+a. Posebno izrađene za instrumentacijske kamere koje imaju modularne strukture i koje su navedene u 6A003.a.; i
+
+b. Koje omogućuju ovim kamerama ispunjavanje osobina navedenih u 6A003.a.3., 6A003.a.4., ili 6A003.a.5., u skladu s proizvođačevim specifikacijama.
+
+b. Slikovne kamere, kako slijedi:
+
+Napomena: 6A003.b. ne kontrolira televizijske ili video kamere posebno izrađene za televizijsko emitiranje.
+
+1. Videokamere s ugrađenim poluvodičkim senzorima, koje imaju maksimalni odgovor u rasponu valnih duljina preko 10 nm, ali ne preko 30,000 nm i nešto od sljedećega:
+
+a. Imaju sve od sljedećeg:
+
+1. Više od 4 × 106 »aktivni piksel« po poluvodičkom polju za monokromne (crno-bijele) kamere;
+
+2. Više od 4 × 106 »aktivni piksel« po poluvodičkom polju za kamere u boji s tri poluvodička polja; ili
+
+3. Više od 12 × 106 »aktivni piksel« kamere u boji s poluvodičkim poljima s ugrađenim jednim poluvodičkim poljem; i
+
+b. Imaju sve od sljedećeg:
+
+1. Optička zrcala koja kontrolira 6A004.a.;
+
+2. Optičku kontrolnu opremu koju kontrolira 6A004.d.; ili
+
+3. Sposobnost bilježenja unutarnjih podataka o praćenjima kamere.
+
+Tehnička napomena:
+
+1. Za svrhu ove natuknice, digitalne video kamere trebaju se ocjenjivati prema minimalnom broju »aktivnih piksela« korištenih za snimanje pokretnih slika.
+
+2. Za svrhu ove natuknice, podaci o praćenjima kamere podaci su neophodni za određenje orijentacije gledanja kamere u odnosu na zemlju. Ovo uključuje: 1) horizontalni kut gledanja kamere u odnosu na smjer zemljinog magnetskog polja i; 2) vertikalni kut između smjera gledanja kamere i horizonta.
+
+2. Kamere za skeniranje i sustavi kamera za skeniranje, koji imaju sve navedeno:
+
+a. Maksimalni odgovor u rasponu valnih duljina preko 10 nm, ali ne preko 30000 nm;
+
+b. Linearna detektorska polja s više od 8192 elemenata po polju; i
+
+c. Mehaničko skeniranje u jednom smjeru;
+
+3. Slikovne kamere s ugrađenim cijevima za pojačavanje slike navedenim u 6A002.a.2.a. ili 6A002.a.2.b.;
+
+4. Slikovne kamere s ugrađenim »žarišnoravninskim detektorskim nizovima« koje imaju bilo što od sljedećeg:
+
+a. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.a do 6A002.a.3.e.; ili
+
+b. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.f.; ili
+
+c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena 1:</td>
+<td colspan="6">‘slikovne kamere’ opisane u 6A003.b.4 uključuju »žarišnoravninske detektorske nizove« koji su sa integriranim sklopovima za čitanje podataka povezani zadovoljavajućom signalno-procesnom elektronikom, koja omogućava da se, nakon dovedenog napajanja, na izlazu minimalno dobije analogni ili digitalni signal.</td>
+</tr>
+
+<tr>
+<td>Napomena 2:</td>
+<td colspan="6">6A003.b.4. ne kontrolira slikovne kamere s ugrađenim linearnim »žarišnoravninskim detektorskim nizovima« s dvanaest elemenata ili manje, koje ne koriste vremensko kašnjenje i integraciju unutar elementa, izrađene za nešto od sljedećega:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="5">Industrijski ili civilni alarm za nedozvoljeni ulazak, sustavi kontrole i brojanja kretanja u prometu ili industriji;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="5">Industrijska oprema korištena za inspekciju ili nadzor protoka topline u zgradama, opremi i industrijskim procesima;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td colspan="5">Industrijska oprema korištena za inspekciju, sortiranje ili analizu svojstava materijala;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>d.</td>
+<td colspan="5">Oprema posebno izrađena za korištenje u laboratorijima; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td>e.</td>
+<td colspan="5">Medicinska oprema.</td>
+</tr>
+
+<tr>
+<td>Napomena 3:</td>
+<td colspan="6">6A003.b.4.a. ne kontrolira slikovne kamere koje imaju bilo koju od sljedećih značajki:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="5">Maksimalnu brzinu uzrokovanja slike jednaku ili manju od 9 Hz;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="5">Sve sljedeće značajke:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="4">Imaju minimalnih horizontalni ili vertikalni IFOV (Instantaneous-Field-of-View)os najmanje 10 miliradija/pikselu</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="4">Imaju leće s nepromjenjivom fokusnom daljinom, koje su montirane tako da ih je moguće ukloniti</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td colspan="4">Ne uključuje neposredni prikaz (»direct view«)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>4.</td>
+<td colspan="4">Imaju bilo što od sljedećeg:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td colspan="3">Nemaju mogućnost dobivanja slike detektiranoga vidnog polja, ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td colspan="3">Kamera je izrađena za posebne aplikacije i ne omogućava izmjene od strane korisnika; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c.</td>
+<td colspan="3">Ako je kamera namjenski napravljena za ugradnju u civilno putničko vozilo mase manje od 3 tone (bruto masa vozila) i ima sve sljedeće značajke:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="2">Radi samo u slučajevima kada je ugrađena u bilo što od sljedećeg:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td>Civilno putničko vozilo za koje je namijenjeno, ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td>U posebno dizajnirano i autoriziran testni prostor za održavanje; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="2">Uključuje aktivni mehanizam, koji sprečava djelovanje kamere u slučajevima njenog odstranjivanja iz vozila za koje je bila namijenjena.</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Tehničke napomene:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">1. Vidno polje IFOV (Instantaneous Field of View) navedeno u 6A003.b.4. Napomena 3.b. je manja vrijednost od horizontalnog IFOV ili vertikalnog IFOV.<br> Horizontalni IFOV = horizontalno vidno polje (FOV) / broj horizontalnih detektorskih elemenata<br> Vertikalno IFOV = vertikalno vidno polje (FOV) / broj vertikalnih detektorskih elemenata</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">2.Izravni pogled (eng. ‘direct view’) naveden u 6A003.b.4. Napomeni 3.b. odnosi se na slikovnu kameru koja radi u infracrvenom spektru i prikazuje vizualne slike ljudskom promatraču uporabom malih ekrana u blizini oka, što uključuje bilo kakav svjetlosno sigurnosni mehanizam.</td>
+</tr>
+
+<tr>
+<td>Napomena 4:</td>
+<td colspan="6">6A003.b.4.c. ne kontrolira »slikovne kamere« koje imaju bilo koju od sljedećih značajki:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="5">Imaju sve sljedeće značajke:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td colspan="4">Kamera je posebno izrađena za ugradnju kao sastavni dio mrežnih sustava ili opreme, za uporabu u zgradama, koja je zbog svoje konstrukcije ograničena na:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td colspan="3">Praćenje industrijskih procesa, kontrolu kvalitete ili analizu svojstava materijala;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td colspan="3">Laboratorijsku opremu, posebno izrađenu za znanstvena istraživanja;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c.</td>
+<td colspan="3">Medicinsku opremu</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>d.</td>
+<td colspan="3">Oprema za otkrivanje financijskih prijevara; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td colspan="4">Djeluje samo u slučajevima ako je namještena na nešto od sljedećeg:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td colspan="3">U sustav (e) ili opremu za koju je bila namjenjena; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td colspan="3">Naprave za održavanje, posebno napravljeno i odobreno za tu namjenu; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td colspan="4">Uključuje aktivni mehanizam, koji sprečava djelovanje kamere u slučajevima odstranjivanja iz sustava ili opreme, za koje je kamera bila namijenjena:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td></td>
+<td></td>
+<td colspan="3">Ako je kamera namijenjena za ugradnju u civilno kopneno vozilo mase manje od 3 tone(bruto masa vozila) ili trajekte za putnike i vozila (LOA) ukupne dužine 65 m ili veće, i ima sve niže navedene značajke:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td></td>
+<td colspan="3">Djeluje samo u slučajevima</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a.</td>
+<td colspan="3">Civilno kopneno vozilo ili trajekt za putnike ili vozila, za koje je bila namijenjena;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b.</td>
+<td colspan="3">Naprava za testiranje i održavanje, posebno izrađena i odobrena za tu namjenu;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td></td>
+<td colspan="3">Uključuje aktivni mehanizam koji sprečava djelovanje kamere u slučaju odstranjivanja iz vozila za koje je kamera bila namijenjena</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td></td>
+<td></td>
+<td colspan="3">Radi svoje konstrukcije su ograničene na najveću osjetljivost 10 mA/W ili manjoj pri valnim duljinama većim od 769 nm, koje imaju sve niže navedene značajke:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td></td>
+<td colspan="3">Imaju napravu za ograničavanje odziva (response limiting mechanism), izrađen tako da se ne može odstraniti ili prepraviti; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td></td>
+<td colspan="3">Uključuje aktivni mehanizam, koji sprječava djelovanje kamere u slučaju odstranjivanja naprave za ograničavanje odziva; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td>d.</td>
+<td></td>
+<td></td>
+<td colspan="3">Imaju sve od sljedećih značajki:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td></td>
+<td colspan="3">Ne uključuje »neposredni prikaz« (direct view) ili elektronski prikaz slike;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td></td>
+<td colspan="3">Nema mogućnosti za dobivanje vidljive slike određenog vidnog polja</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3.</td>
+<td></td>
+<td colspan="3">»Žarišnoravninski detektorski nizovi« su operabilni samo ako su ugrađeni u kameru za koju su bili namjenjeni; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>4.</td>
+<td></td>
+<td colspan="3">»Žarišnoravninski detektorski nizovi« uključuju aktivni mehanizam, zbog kojeg su trajno neupotrebljivi, u slučaju njihova odstranjivanja iz kamere za koju su bili namijenjeni.</td>
+</tr>
+</tbody>
+
+</table>
+
+5. Slikovne kamere s poluvodičkim detektorima iz 6A002.a.1.
+
+6A004 Optička oprema i komponente:
+
+a. Optička zrcala (reflektori), kako slijedi:
+
+NAPOMENA: Za optička zrcala , posebno izrađena za litografsku opremu, vidi 3B001.
+
+1. »Deformirajuća zrcala« koja imaju ili jednolične površine ili površine sastavljene od više elemenata, i za to posebno izrađene komponente, koja imaju mogućnost dinamičkog repozicioniranja dijelova površine zrcala u brzinama preko 100 Hz;
+
+2. Laka monolitna zrcala čija je prosječna »ekvivalentna gustoća« manja od 30 kg/m2 i ukupna masa veća od 10 kg;
+
+3. Strukture lakih »složenih« ili pjenastih zrcala čija je prosječna »ekvivalentna gustoća« manja od 30 kg/m2 i ukupna masa veća od 2 kg;
+
+4. Zrcala s upravljanjem snopa promjera ili duljine glavne osi veće od 100 mm, koja održavaju plosnatost od lambda/2 ili bolju (lambda je jednako 633 nm) uz pojasnu širinu kontrole preko 100 Hz.
+
+b. Optičke komponente napravljene od cink selenida (ZnSe) ili cink sulfida (ZnS) s prijenosom u rasponu valnih duljina preko 3000 nm ali ne preko 25000 nm i koje imaju nešto od sljedećega:
+
+1. Volumen preko 100 cm3; ili
+
+2. Promjer ili duljinu glavne osi preko 80 mm i debljinu (dubinu) 20 mm.
+
+c. »Prikladne za uporabu u svemiru« komponente za optičke sustave, kako slijedi:
+
+1. Olakšane na manje od 20% »ekvivalentne gustoće« u odnosu na čvrsti izradak istog otvora i debljine;
+
+2. Sirovi supstrati, obrađeni supstrati s oblogom površine (jedan sloj ili više slojeva, metalna ili dielektrična, vodička, poluvodička ili izolirna) ili sa zaštitnim filmom;
+
+3. Segmenti ili sklopovi zrcala izrađenih za slaganje u prostoru u optički sustav s ekvivalentom sabirnog otvora do ili većim od jednog optičkog 1 m u promjeru;
+
+4. Proizvedene od »složenih« materijala s koeficijentom linearne toplotnog širenja jednakim ili manjim od 5 × 10-6 u bilo kojem koordinatnom smjeru.
+
+d. Oprema za optičku kontrolu, kako slijedi:
+
+1. Posebno izrađena za održavanje površinskog izgleda ili orijentacije komponenti »prikladnih za uporabu u svemiru« navedenih u 6A004.c.1. ili 6A004.c.3.;
+
+2. Ima pojasne širine upravljanja, praćenja, stabilizacije ili rezonatorskog podešavanja jednake ili veće od 100 Hz i točnost od 10 µrad (mikroradijana) ili manje;
+
+3. Kardani koji imaju sve navedeno:
+
+a. Maksimalno okretanje preko 5°;
+
+b. Pojasnu širinu od 100 Hz ili više;
+
+c. Greške u kutnom usmjeravanju od 200 µrad (mikroradijana) ili manje; i
+
+d. Imaju nešto od sljedećega:
+
+1. Promjer ili duljina glavne osi preko 0,15 m ali ne preko 1 m i mogućnost kutnih akceleracija preko 2 rad (radijana)/s2; ili
+
+2. Promjer ili duljina glavne osi preko 1 m i mogućnost kutnih akceleracija preko 0,5 rad (radijana)/s2;
+
+4. Posebno izrađena za održavanje poravnanja sustava zrcala s faznim poljima ili faznim segmentima, koji se sastoje od zrcala sa segmentnim promjerom ili duljinom glavne osi od 1 m ili više.
+
+e. ‘Asferični optički elementi’ koji imaju sve navedene osobine:
+
+1. Najveća veličina optičkog otvora je veća od 400 mm;
+
+2. Hrapavost površine je manja od 1 nm (rms) za duljine uzoraka jednake ili veće od 1 mm; i
+
+3. Koeficijent apsolutne veličine linearne termalne ekspanzije je manji od 3 × 10-6/K na 25 °C.
+
+Tehničke napomene:
+
+1. ‘Asferični optički element’ je bilo koji element korišten u optičkom sustavu čija slikovna površina ili površine su izrađene na način da imaju odmak od oblika savršene kugle.
+
+2. Proizvođači ne moraju mjeriti hrapavost površine iz 6A004.e.2. osim ako je optički element izrađen ili proizveden s namjerom da ispuni ili nadmaši kontrolni parametar.
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena:</td>
+<td colspan="2">6A004.e. ne kontrolira asferične optičke elemente koji imaju nešto od sljedećega:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td>Najveća dimenzija optičkog otvora manja od 1 m i omjer žarišne duljine i otvora preko 4,5:1;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td>Najveća dimenzija optičkog otvora jednaka ili veća od 1 i omjer žarišne duljine i otvora jednak ili preko 7:1;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td>Izrađeni kao optički elementi Fresnel, »muhino oko«, prugasti, prizma ili lom svjetla;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>d.</td>
+<td>Izrađeni od borosilikatnog stakla s koeficijentom linearne termalne ekspanzije većom od 2,5 × 10-6 /K na 25 °C; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td>e.</td>
+<td>Da su rendgenski elementi s unutarnjim zrcalnim mogućnostima (npr. zrcala cjevastog tipa).</td>
+</tr>
+
+<tr>
+<td>Napomena:</td>
+<td colspan="2">Za asferične optičke elemente posebno izrađene za litografsku opremu, vidi 3B001.</td>
+</tr>
+</tbody>
+
+</table>
+
+6A005 »Laseri«, komponente i optička oprema, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 6A205.
+
+Napomena 1: Pulsni »laseri« uključuju lasere koji rade u neprekidnom valnom (CW) modu s superponiranim pulsevima.
+
+Napomena 2: Ekscimerski, poluvodički, kemijski, CO, CO2, i neponavljajući pulsirajući Nd: »laseri« su navedeni samo u 6A005.d.
+
+Napomena 3: 6A005 uključuje vlaknaste »lasere«
+
+Napomena 4: Kontrolno stanje »lasera« koji uključuje konverziju frekvencije (npr. promjenom valne duljine) ne računujući one kod kojih »laser« pobuđuje drugi »laser«, je određena primjenom kontrolnih parametara i za izlaz izvornog »lasera« i za frekvencijski promijenjen optički izlaz.
+
+Napomena 3: 6A005 ne kontrolira sljedeće »lasere«:
+
+a. Rubinski s izlaznom energijom manjom od 20 J;
+
+b. Nitrogenske;
+
+c. Kriptonske.
+
+Tehnička napomena
+
+‘Wall-plug učinkovitost’ je definirana kao odnos »laserske« izlazne snage (ili »srednje izlazne snage«) prema ukupnoj izlaznoj električnoj snazi potrebnoj za rad »lasera«, uključujući izmjenjivač snage i termalni izmjenjivač.
+
+a. Ne – »ugođeni« »CW laser« , (continuous Wave) laseri koji imaju bilo što od navedenog:
+
+1. Izlaznu valnu duljinu manju od 150 nm s izlaznom snagom većom od 1 W;
+
+2. Izlaznu valnu duljinu veću ili jednaku 150 nm ali koja ne prelazi 520 nm, i koji imaju izlaznu snagu veću od 30 W;
+
+Napomena 6.A.005.a.2. ne kontrolira argonske »lasere« s izlaznom snagom manjom ili jednakom 50 W.
+
+3. Izlaznu valnu duljinu veću od 520 nm ali koja ne prelazi 540 nm, i koji imaju bilo što od navedenog:
+
+a. Jednostruki izlazni mod s izlaznom snagom većom od 50 W; ili
+
+b. Višekratni izlazni mod s izlaznom snagom većom od 150 W;
+
+4. Izlaznu valnu duljinu veću ili jednaku 540 nm ali koja ne prelazi 800 nm, i koji imaju izlaznu snagu veću od 30 W;
+
+5. Izlaznu valnu duljinu veću od 800 nm ali koja ne prelazi 975 nm, i koji imaju bilo što od navedenog;
+
+a. Jednostruki izlazni mod s izlaznom snagom većom od 50 W; ili
+
+b. Višekratni izlazni mod s izlaznom snagom većom od 80 W;
+
+6. Izlaznu valnu duljinu veću od 975 nm ali koja ne prelazi 1150 nm, i koji imaju bilo što od navedenog;
+
+a. Jednostruki izlazni mod koji ima bilo što od navedenog:
+
+1. Učinkovitost veću od 12% i izlaznu snagu veću od 100 W; ili
+
+2. Izlaznu snagu veću od 150 W; ili
+
+b. Višekratni izlazni mod koji imaju bilo što od navedenog:
+
+1. Učinkovitost veću od 18% i izlaznu snagu veću od 500 W; ili
+
+2. Izlaznu snagu veću od 2 kW; i
+
+Napomena 6A005.a.6.b. ne kontrolira višekratni mod, industrijske »lasere« s izlaznom snagom većom od 2 kW, a koja ne prelazi 6 kW i ukupnom masom većom od 1 200 kg. Za potrebe ove napomene, ukupna masa uključuje sve komponente potrebne za rad » lasera«, npr. »laser«, izvor napajanja, izmjenjivač topline, ali ne uključuje vanjsku optiku za održavanje snopa i/ili isporuku.
+
+7. Izlaznu valnu duljinu veću od 1150 nm ali koja ne prelazi 1555 nm, i koji imaju bilo što od navedenog;
+
+a. Jednostruki izlazni mod s izlaznom snagom većom od 50 W; ili
+
+b. Višekratni izlazni mod s izlaznom snagom većom od 80 W; ili
+
+8. Izlaznu valnu duljinu veću od 1555 nm i s izlaznom snagom većom od 1 W.
+
+b. Ne – »podesiv« »pulsni laseri«, koji imaju bilo što od navedenog:
+
+1. Izlaznu valnu duljinu manju od 150 nm i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 50 mJ po impulsu i »vršnu snagu« veću od 1 W; ili
+
+b. »Prosječnu izlaznu snagu« veću od 1W;
+
+2. Izlaznu valnu duljinu veću ili jednaku 150 nm ali koja ne prelazi 520 nm, i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 1,5 J po impulsu i »vršnu snagu« veću od 30 W; ili
+
+b. »Prosječnu izlaznu snagu« veću od 30 W;
+
+Napomena 6.A.005.a.2. ne kontrolira argonske »lasere« s izlaznom snagom manjom ili jednakom 50 W.
+
+3. Izlaznu valnu duljinu veću od 520 nm ali koja ne prelazi 540 nm, i koji imaju bilo što od navedenog:
+
+a. Jednostruki izlazni mod koji ima bilo što od navedenog:
+
+1. Izlaznu energiju veću od 1,5 J po impulsu i »vršnu snagu« veću od 50 W; ili
+
+2. »Prosječnu izlaznu snagu« veću od 50W;
+
+b. Višestruki izlazni mod koji ima bilo što od navedenog:
+
+1. Izlaznu energiju veću od 1,5 J po impulsu i »vršnu snagu« veću od 150 W; ili
+
+2. »Prosječnu izlaznu snagu« veću od 150W;
+
+4. Izlaznu valnu duljinu veću ili jednaku 540 nm ali koja ne prelazi 800 nm, i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 1,5 J po impulsu i »vršnu snagu« veću od 30 W; ili
+
+b. »Prosječnu izlaznu snagu« veću od 30 W;
+
+5. Izlaznu valnu duljinu veću ili jednaku 800 nm ali koja ne prelazi 975 nm, i koji imaju bilo što od navedenog:
+
+a. »Trajanje impulsa« nije veće od 1 µs i koje ima bilo što od navedenog:
+
+1. Izlaznu energiju veću od 0,5 J po impulsu i »vršnu snagu« veću od 50 W;
+
+2. Jednostruki izlazni mod čija je »prosječna izlazna snaga« veća od 20 W; ili
+
+3. Višestruki izlazni mod čija je »prosječna izlazna snaga« veća od 50 W; ili
+
+b. »Trajanje impulsa« veće od 1 µs i koje ima bilo što od navedenog:
+
+1. Izlaznu energiju veću od 2 J po impulsu i »vršnu snagu« veću od 50 W;
+
+2. Jednostruki izlazni mod čija je »prosječna izlazna snaga« veća od 50 W; ili
+
+3. Višestruki izlazni mod čija je »prosječna izlazna snaga« veća od 80 W;
+
+6. Izlaznu valnu duljinu veću od 975 nm ali koja ne prelazi 1150 nm, i koji imaju bilo što od navedenog:
+
+a. »Trajanje impulsa« manje od 1 ns i koje ima bilo što od navedenog:
+
+1. Izlaznu »vršnu snagu« veću od 5 GW po impulsu; ili
+
+2. »Prosječnu izlaznu snagu« veću od 10W; ili
+
+3. Izlaznu energiju veću od 0,1 J po impulsu;
+
+b. »Trajanje impulsa« veće od 1 ns ali ne veće od 1 µs i koje ima bilo što od navedenog:
+
+1. Jednostruki izlazni mod koji ima bilo što od navedenog:
+
+a. »Vršnu snagu« veću od 100 MW;
+
+b. »Prosječnu izlaznu snagu« veću od 20 W konstrukcijski ograničenu na maksimalnu pulsnu ponavljajuću frekvenciju veću od 1 kHz;
+
+c. Učinkovitost veću od 12% i »prosječnu izlaznu snagu« veću od 100 W i koja može raditi na pulsnoj ponavljajućoj frekvenciji većoj od 1 kHz;
+
+d. »Prosječna izlazna snaga« veću od 150 W i koja može raditi na pulsnoj ponavljajućoj frekvenciji većoj od 1 kHz; ili
+
+e. Izlazna energija veća od 2 J po impulsu; ili
+
+2. Višestruki izlazni mod koji ima bilo što od navedenog:
+
+a. »Vršnu snagu« veću od 400 MW;
+
+b. Učinkovitost veću od 18% i »prosječnu izlaznu snagu« veću od 500 W
+
+c. »Prosječna izlazna snagu« veću od 2 kW; ili
+
+d. Izlazna energija veća od 4 J po impulsu; ili
+
+c. »Trajanje impulsa« veće od 1 µs i bilo što od navedenog:
+
+1. Jednostruki izlazni mod koji ima bilo što od navedenog:
+
+a. »Vršnu snagu« veću od 500 kW;
+
+b. Učinkovitost veću od 12% i »prosječnu izlaznu snagu« veću od 100 W; ili
+
+c. »Prosječnu izlaznu snagu« veću od 150 W; ili
+
+2. Višestruki izlazni mod koji ima bilo što od navedenog:
+
+a. »Vršnu snagu« veću od 1 MW;
+
+b. Učinkovitost veću od 18% i »prosječnu izlaznu snagu« veću od 500 W; ili
+
+c. »Prosječnu izlaznu snagu« veću od 2 kW;
+
+7. Izlaznu valnu duljinu veću od 1150 nm ali koja ne prelazi 1555 nm, i koji imaju bilo što od navedenog:
+
+a. »Trajanje impulsa« manje od 1 µs i koje ima bilo što od navedenog:
+
+1. Izlaznu energiju veću od 0,5 J po impulsu i »vršnu snagu« veću od 50 W;
+
+2. Jednostruki izlazni modul s »prosječnom izlaznom snagom« većom od 20 W; ili
+
+3. Višestruki izlazni modul s »prosječnom izlaznom snagom« većom od 50 W; ili
+
+b. »Trajanje impulsa« veće od 1 µs i koje ima bilo što od navedenog:
+
+1. Izlaznu energiju veću od 2 J po impulsu i »vršnu snagu« veću od 50 W;
+
+2. Jednostruki izlazni modul s »prosječnom izlaznom snagom« većom od 50 W; ili
+
+3. Višestruki izlazni modul s »prosječnom izlaznom snagom« većom od 80 W; ili
+
+8. Izlaznu valnu duljinu veću od 1555 nm po impulsu i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 100 mJ po impulsu i »vršnu snagu« veću od 1 W; ili
+
+b. »Prosječnu izlaznu snagu« veću od 1 W;
+
+c. »Ugođeni« »laseri«, koji imaju bilo što od navedenog:
+
+Napomena 6A005.c. uključuje titan-safirske (Ti: Al2O3), tulij-YAGove (Tm: YAG), tulij-YSGG (Tm:YSGG), aleksandritske (Cr:BeAl2O4), centralno obojene »lasere«, obojene »lasere«,i tekuće »lasere«.
+
+1. Izlazna valna duljina manja od 600 nm i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 50 mJ po impulsu i »vršnu snagu« veću od 1 W; ili
+
+b. Prosječnu ili CW izlaznu snagu veću od 1 W;
+
+2. Izlazna valna duljina veća ili jednaka 600 nm, ali koja nije veća od 1400 nm, i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 1 J po impulsu i »vršnu snagu« veću od 20 W; ili
+
+b. Prosječnu ili CW izlaznu snagu veću od 20 W;
+
+3. Izlazna valna duljina veća od 1400 nm i koji imaju bilo što od navedenog:
+
+a. Izlaznu energiju veću od 50 mJ po impulsu i »vršnu snagu« veću od 1 W; ili
+
+b. Prosječnu ili CW izlaznu snagu veću od 1 W;
+
+d. Ostali »laseri«, koji nisu kontrolirani u 6A005.a, 6A005.b ili 6A005.c kako slijedi:
+
+1. Poluvodički »laseri«, kako slijedi:
+
+Napomena 1 6A005.d.1. uključuje poluvodičke »lasere« koji imaju optičke izlazne konektore (npr. jezičci optičkih vlakana).
+
+Napomena 2 Kontrolni status poluvodičkih »lasera« posebno izrađenih za drugo opremu je određen kontrolnim statusom te druge opreme.
+
+a. Pojedinačni jedno-transferzalni poluvodički »laseri« koji imaju bilo što od sljedećeg:
+
+1. Valnu duljinu manju ili jednaku 1510 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 1,5 W; ili
+
+2. Valnu duljinu veću od 1510 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 500 mW;
+
+b. Pojedinačni više-transferzalni poluvodički »laseri« koji imaju bilo što od sljedećeg:
+
+1. Valnu duljinu manju od 1400 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 10 W;
+
+2. Valnu duljinu veću ili jednaku 1400 nm, i veću od 1900 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 2,5 W; ili
+
+3. Valnu duljinu veću ili jednaku od 1900 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 1 W.
+
+c. Individualni poluvodički »laserski« nizovi, koji imaju bili što od sljedećeg:
+
+1. Valnu duljinu manju od 1400 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 80 W;
+
+2. Valnu duljinu veću ili jednaku 1400 nm, i manju od 1900 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 25 W; ili
+
+3. Valnu duljinu veću ili jednaku od 1900 nm, i koji imaju prosječnu ili CW izlaznu snagu veću od 10 W.
+
+d. Nizovi poluvodičkih lasera koji sadrže najmanje jedan niz koji je kontroliran po 6.A.5.d.1.c.
+
+Tehničke napomene
+
+1. Poluvodički »laseri« se obično nazivaju diodni »laseri«.
+
+2. ‘Niz’ se sastoji od više poluvodičkih »laserskih« davača proizvedenih kao jedinstveni čip tako da su sredine emitiranih svjetlosnih zraka paralelne.
+
+3. ‘Skupina nizova’ je izrađena sastavljanjem ili združivanjem nizova na neki drugi način, tako da su sredine emitiranih svjetlosnih zraka paralelne.
+
+2. »Laseri« ugljikovog monoksida (CO) koji imaju nešto od sljedećega:
+
+a. Izlazna energija veća od 2 J po impulsu i impulsna »maksimalna jakost« preko 5 kW; ili
+
+b. Prosječna ili CW izlazna snaga veća od 5 kW;
+
+3. »Laseri« ugljikovog dioksida (CO2) koji imaju nešto od sljedećega:
+
+a. CW izlazna snaga veća od 15 kW;
+
+b. Impulsni izlaz koji ima »trajanje impulsa« preko 10 µs i koji ima nešto od sljedećega:
+
+1. Prosječna izlazna snaga preko 10 kW; ili
+
+2. Impulsna »maksimalna snaga« preko 100 kW; ili
+
+c. Impulsni izlaz s »trajanjem impulsa« jednakim ili manjim od 10 µs i koji ima nešto od sljedećega:
+
+1. Energija impulsa preko 5 J po impulsu; ili
+
+2. Prosječna izlazna snaga preko 2,5 kW;
+
+4. Ekscimerski »laseri« koji imaju nešto od sljedećega:
+
+a. Izlazna valna duljina manja od 150 nm i koji imaju bilo što od navedenog:
+
+1. Izlaznu energiju veću od 50 mJ po impulsu; ili
+
+2. »Prosječnu izlaznu snagu« veću od 1 W;
+
+b. Izlazna valna duljina veća od 150 nm, ali koja nije veća od 190 nm, i koji imaju bilo što od navedenog:
+
+1. Izlaznu energiju veću od 1,5 J po impulsu; ili
+
+2. »Prosječnu izlaznu snagu« veću od 120 W;
+
+c. Izlazna valna duljina veća od 190 nm, ali koja nije veća od 360 nm, i koji imaju bilo što od navedenog:
+
+1. Izlaznu energiju veću od 10 J po impulsu; ili
+
+2. »Prosječnu izlaznu snagu« veću od 500 W; ili
+
+d. Izlazna valna duljina manja od 360 nm i koji imaju bilo što od navedenog:
+
+1. Izlaznu energiju veću od 1,5 J po impulsu; ili
+
+2. »Prosječnu izlaznu snagu« veću od 30 W;
+
+NAPOMENA Za ekscimerske »lasere« posebno dizajnirani za litografsku opremu, vidi 3.B.1.
+
+5. »Kemijski laseri«, kako slijedi:
+
+a. »Laseri« vodikovog flourida (HF);
+
+b. »Laseri« deuterij fluorida (DF);
+
+c. »Prijenosni laseri«, kako slijedi:
+
+1. Kisik jodni (O2-I) »laseri«;
+
+2. Deuterij fluorid-ugljični dioksid (DF-CO2) »laseri«;
+
+6. Ne – ponavljajući »laseri« s neodijevim staklom koji imaju nešto od sljedećega:
+
+a. »Trajanje impulsa« manje od 1 µs i izlaznu energiju veću od 50 J po impulsu
+
+b. »Trajanje impulsa« manje od 1 µs i izlaznu energiju veću od 100 J po impulsu
+
+Napomena Ne-ponavljajući pulsni »laseri« odnosi se na »lasere« koji stvaraju bilo jednostavan izlazni puls ili koji ima vremenski interval između pulseva duži od jedne minute.
+
+e. Komponente, kako slijedi:
+
+1. Zrcala hlađena ili ‘aktivnim hlađenjem’ ili hlađenjem toplinskih cijevi;
+
+Tehnička napomena:
+
+‘ ‘Aktivno hlađenje’ je tehnika hlađenja za optičke komponente koje koriste tekuće fluide u pod površinskom dijelu (nominalno manje od 1 mm ispod optičke površine) optičke komponente, da bi se uklonila toplina s optike.
+
+2. Optička zrcala ili prijenosne ili djelomično prijenosne optičke ili elektro-optičke komponente posebno izrađene za korištenje s kontroliranim »laserima«;
+
+f. Optička oprema, kako slijedi:
+
+NAPOMENA: Za optičke elemente sa zajedničkim otvorom, koji mogu raditi u »laser izuzetno velike snage« (»SHPL«) aplikacijama, vidi Popise vojne robe.
+
+1. Mjerna oprema s dinamičnom valnom frontom (fazom) koja ima sposobnost ucrtavanja u karte najmanje 50 pozicija na valnoj fronti zrake, koja ima nešto od sljedećega:
+
+a. Frekvencije okvira jednake ili veće od 100 Hz i fazno razlikovanje najmanje 5% valne duljine zrake; ili
+
+b. Frekvencije okvira jednake ili veće od 1000 Hz i fazno razlikovanje najmanje 20% valne duljine zrake;
+
+2. »Laserska« dijagnostička oprema sa sposobnošću mjerenja pogreške kutnog usmjeravanja zrakom »SHPL« sustava jednake ili manje od 10 µrad;
+
+3. Optička oprema i komponente posebno izrađene za »SHPL« sustav s faznim poljima za koherentnu zrakastu kombinaciju do točnosti od lambda/10 pri predviđenoj valnoj duljini, ili 0,1 µm, ovisno o tome koja je manja;
+
+4. Projekcijski teleskopi posebno izrađeni za korištenje sa »SHPL« sustavima.
+
+6A006 »Magnetometri«, »magnetski gradiometri«, »intrinzični magnetski gradiometri«, podvodni senzori električnog polja i »kompenzacijski sustavi«, te za to posebno izrađene komponente, kako slijedi:
+
+Napomena: 6A006 ne kontrolira instrumente posebno izrađene za uporabu u ribarstvu ili biomagnetskim mjerenjima u medicinskoj dijagnostici.
+
+a. »Magnetometri« i podsustavi:
+
+1. »Magnetometri« koji koriste »supravodičku« (SQUID) »tehnologiju« i imaju bilo koju od sljedećih značajki:
+
+a. SQUID sustavi izrađeni za stacionarne operacije, bez specijalno izrađenih podsustava za smanjivanje buke u pokretu, i koji imaju »razinu šuma« (osjetljivost) magnetometra u radu nižu (bolju) od 50 fT (rms) po drugom korijenu Hz na frekvenciji od 1 Hz; ili
+
+b. SQUID sustavi koji imaju »razinu šuma« (osjetljivost) magnetometra u radu nižu (bolju) od 20 pT (rms) po drugom korijenu Hz na frekvenciji od 1 Hz, i koji su posebno izrađeni za smanjivanje zvuka tijekom djelovanja;
+
+2. »Magnetometri« koji koriste optičko isisavanje ili prednuklearnu (proton/Overhauser) »tehnologiju« koja ima »razinu šuma« (osjetljivost) nižu (bolju) od 0,05 pT (rms) po drugom korijenu Hz na frekvenciji od 1 Hz;
+
+3. »Magnetometri« koji koriste troosnu protočnu »tehnologiju« koja ima »razinu šuma« (osjetljivost) nižu (bolju) od 10 pT (rms) po drugom korijenu Hz na frekvenciji od 1 Hz;
+
+4. »Magnetometri« s indukcijskom zavojnicom koji imaju »razinu šuma« (osjetljivost) nižu (bolju) od:
+
+a. 0,05 nT (rms) na drugi korijen Hz pri frekvencijama manjim od 1 Hz;
+
+b. 1 × 10-3 nT (rms) na drugi korijen Hz pri frekvencijama od 1 Hz ili višim ali ne preko 10 Hz; ili
+
+c. 1 × 10-4 nT (rms) na drugi korijen Hz pri frekvencijama preko 10 Hz;
+
+5. Svjetlovodni »magnetometri« koji imaju »razinu šuma« (osjetljivost) nižu (bolju) od 1 nT (rms) po drugom korijenu Hz;
+
+b. Podvodni senzori električnog polja koji imaju »razinu šuma« (osjetljivost) nižu (bolju) od 8 nanovolti po metru po drugom korijenu Hz pri mjerenju na 1 Hz;
+
+c. »Magnetski goniometri«:
+
+1. »Magnetski gradiometri« koji koriste više »magnetometara« navedenih u 6A006.a.;
+
+2. »Pravi magnetski gradiometri« s optičkim vlaknima, koji imaju ‘osjetljivost’ magnetskog gradijentnog polja nižu (bolju) od 0,3 nT/m rms po drugom korijenu Hz;
+
+3. »Pravi magnetski gradiometri«, koji koriste »tehnologiju«, koja nije »tehnologija« s optičkim vlaknima, koji imaju ‘osjetljivost’ magnetskog gradijentnog polja nižu (bolju) od 0,015 nT/m rms po drugom korijenu Hz;
+
+d. »Kompenzacijski sustavi« za magnetske senzore ili podvodne senzore magnetskog polja, čije su mogućnosti jednake ili bolje od kontrolnih parametara navedenih u 6A006.a., 6A006.b., 6A006.c.;
+
+Tehnička napomena;
+
+Za potrebe 6A006., ‘osjetljivost’ (razina šuma) je efektivna vrijednost zvučne ravni, koju određuju naprava i koja je najniži signal kojeg je moguće izmjeriti.
+
+6A007 Gravimetri i gradiometri za težinu, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 6A107.
+
+a. Gravimetri izrađeni ili modificirani za korištenje na zemlji koji imaju statičku točnost od manje (bolje) od 10 µgal;
+
+Napomena: 6A007.a. ne kontrolira zemaljske gravimetre tipa s kvarcnim elementom (Worden).
+
+b. Gravimetri izrađeni za pokretne platforme, koji imaju sve navedeno:
+
+1. Statičku točnost od manje (bolje) od 0,7 mgal; i
+
+2. Radnu (operativnu) točnost od manje (bolje) od 0,7 mgal, koji imaju registraciju vremena do stabilnog stanja kraćeg od 2 minute u bilo kojom kombinacijom korektivnih kompenzacija poslužitelja i utjecaja pokreta;
+
+c. Gradiometri za težinu.
+
+6A008 Radarski sustavi, oprema i sklopovi koji imaju neku od sljedećih osobina, te za to posebno izrađene komponente:
+
+NAPOMENA: VIDI TAKOĐER 6A108.
+
+Napomena: 6A008 ne kontrolira:
+
+– Sekundarni motrilački radar (SSR);
+
+– Civilni automobilski radar za sprečavanje sudara;
+
+– Zasloni ili monitori korišteni u kontroli zračnog prometa (ATC) s najviše 12 razlučivih elemenata na mm;
+
+– Meteorološki radar.
+
+a. Radi na frekvencijama od 40 GHz do 230 GHz i ima bilo što od sljedećeg:
+
+1. Srednju izlaznu snagu preko 100 mW; ili
+
+2. Preciznost lociranja od 1 metra ili bolju po daljini, i 0,2 stupnja ili bolje po pravcu.
+
+b. Ima frekvencijsko područje rada preko ± 6,25% od ‘središnje radne frekvencije’;
+
+Tehnička napomena:
+
+‘Središnja radna frekvencija’ jednaka je polovici zbroja najviše i najniže specificirane radne frekvencije.
+
+c. Može raditi istovremeno na više od dvije radne frekvencije;
+
+d. Može raditi u radarskom modu sintetičkog otvora (SAR), inverznog sintetičkog otvora (ISAR), ili nošen na boku letjelice (SLAR);
+
+e. Ima ugrađene »elektronički upravljane fazne rešetkaste antene«;
+
+f. Sposobnost otkrivanja po visini nekooperativnih ciljeva;
+
+Napomena: 6A008.f. ne kontrolira opremu radara za precizno približavanje (PAR) koja je u skladu s ICAO standardima.
+
+g. Posebno izrađeni za zračne operacije (balon ili u trupu letjelice) i ima Doppler »obradu signala« za otkrivanje pokretnih ciljeva;
+
+h. Koristi obradu radarskih signala koristeći bilo što od sljedećega:
+
+1. Tehnike »radarsko širenje spektra«; ili
+
+2. Tehnike »otpornost radara na aktivno ometanje promjenom radne frekvencije«;
+
+i. Osigurava za operacije sa zemlje minimalni »instrumentalni doseg« preko 185 km;
+
+Napomena: 6A008.i. ne kontrolira:
+
+a. Radar za kontrolu ribarenja sa zemlje;
+
+b. Radarsku opremu na zemlji posebno izrađenu za kontrolu zračnog prometa na ruti, pod uvjetom da su ispunjeni svi sljedeći uvjeti:
+
+1. Ima maksimalni »instrumentalni doseg« od 500 km ili manje;
+
+2. Konfiguracija je takva da radarski podaci o cilju mogu biti slani samo u jednom smjeru, od lokacije radara do jednog ili više civilnih centara za kontrolu zračnog prometa (ATC);
+
+3. Nema mogućnost za daljinsko upravljanje radarskim stupnjem pretraživanja iz ATC centra na ruti; i
+
+4. Mora biti trajno instalirana;
+
+c. Radari za praćenje meteoroloških balona.
+
+j. Da je »laserski« radar ili oprema za detekciju svjetlosti i patroliranje (LIDAR), koji imaju nešto od sljedećega:
+
+1. »Prikladni za uporabu u svemiru«; ili
+
+2. Koriste koherentne heterodinske ili homodinske tehnike i imaju kutnu rezoluciju bolju od 20 µrad (mikroradijana);
+
+3. Izrađeni su za obavljanje batimetričnih pregleda obalnog područja iz zraka sukladno standardima Međunarodne hidrografske organizacije (IHO) za hidrografske preglede reda 1a ili bolje (peto izdanje Standarda IHO, veljača 2008.), i koriste jedan ili više lasera s valnom duljinom većom od 400 nm, ali manjom od 600 nm.
+
+Napomena 1: LIDAR oprema posebno izrađena za nadzor je navedena samo u 6A008.j.3.
+
+Napomena 2: 6A008.j. ne kontrolira LIDAR opremu posebno izrađenu za nadzor ili meteorološka praćenja.
+
+Napomena 3: Parametri petog izdanja Standarda IHO iz veljače 2008., reda 1a su:
+
+– horizontalna preciznost (95% razina povjerenja) = 5 m+5% dubine.
+
+– točnost dubine za slučaj smanjenja vrijednsoti (95% razina povjerenja)
+
+=±√(a2+(b*d)2), gdje je:
+
+a=0,5 m = konstantna greška dubine
+
+tj. zbroj svih grešaka pri mjerenju dubine u slučaju nepromjenjenih vrijednosti,
+
+b=0,013=faktor zavistan o dubini
+
+b*d= greška zbog dubine,
+
+tj. zbroj svih grešaka zbog dubine
+
+d=dubina
+
+– otkrivanje oblika= kubični oblici>2 m na dubini do 40 m;
+
+10% na dubini većoj od 40 m.
+
+k. Ima podsustave za »obradu signala« pri čemu se koristi »kompresija impulsa«, s nečim od sljedećega:
+
+1. Stopa »kompresija impulsa« preko 150; ili
+
+2. Širina impulsa manja od 200 ns; ili
+
+l. Ima podsustave za obradu podataka s nečim od sljedećega:
+
+1. »Automatsko praćenje cilja«, pri rotaciji antene, predviđena je pozicija cilja iza vremena prolaza sljedeće zrake antene;
+
+Napomena: 6A008.l.1. ne kontrolira mogućnost dojavljivanja konflikta u ATC sustavima, ili pomorski ili lučki radar.
+
+2. Izračun brzine cilja iz primarnog radara koji ima neperiodičke (varijabilne) brzine pretraživanja;
+
+3. Obrada za automatsko prepoznavanje uzorka (izdvajanje oblika) i usporedbu s bazama podataka o osobinama cilja (oblici vala ili slike) za identifikaciju ili klasifikaciju ciljeva; ili
+
+4. Slaganje i korelacija, ili spajanje, podataka o cilju iz dva ili više senzora kod kojih postoji »geografska raspršenost« i »međusobna povezanost radarskih senzora« za izdvajanje i razlikovanje ciljeva.
+
+Napomena: 6A008.l.4. ne kontrolira sustave, opremu i sklopove korištene u kontroli prometa na moru.
+
+6A102 Radijacijski ojačani ‘detektori’, osim onih koji su navedeni u 6A002, posebno izrađeni ili modificirani za zaštitu od nuklearnih efekata (npr. elektromagnetskog impulsa (EMP), X-zraka, složene eksplozije i toplinskih efekata), i koji se mogu koristiti za »projektile«, izrađeni ili izmjereni za izdržavanje razina zračenja koja su jednaka ili premašuju ukupnu dozu zračenja od 5 × 105 rada (silicij).
+
+Tehnička napomena:
+
+U 6A102, ‘detektor’ je definiran kao mehanički, električni, optički ili kemijski uređaj koji automatski prepoznaje i bilježi, ili registrira podražaj, kao što je promjena tlaka ili temperature u okolini, električni ili elektromagnetski signal ili zračenje iz radioaktivnog materijala.
+
+6A107 Gravimetri i komponente za gravimetre i gradiometre za težinu, kako slijedi:
+
+a. Gravimetri, osim onih koji su navedeni u 6A007.b., izrađeni i modificirani za korištenje u zraku ili na moru, i koji imaju statičku ili operativnu točnost od 7 × 10-6 m/s2 (0,7 miligala) ili manje (bolje), i koji imaju registraciju vremena do stabilnog stanja 2 minute ili manje;
+
+b. Posebno izrađene komponente za gravimetre navedene u 6A007.b. ili 6A107.a. i gradiometre za težinu navedene u 6A007.c.
+
+6A108 Radarski sustavi i sustavi praćenja, osim onih koji su navedeni u natuknici 6A008, kako slijedi:
+
+a. Radarski i laserski radarski sustavi izrađeni ili modificirani za korištenje u vozilima za lansiranje svemirskih letjelica navedeni u 9A004 ili u sondažnim raketama navedenim u 9A104;
+
+Napomena: 6A108.a. uključuje sljedeće:
+
+a. Oprema za ucrtavanje kontura terena u zemljovide;
+
+b. Senzorna oprema za stvaranje slike;
+
+c. Oprema za ucrtavanje mjesta u zemljovide i korelaciju (digitalnu i analognu);
+
+d. Doppler navigacijska radarska oprema;
+
+b. Precizni sustavi za praćenje, koji se mogu koristiti za »projektile«, kako slijedi:
+
+1. Sustavi za praćenje koji koriste program za prevođenje kodova zajedno s referencama s površine ili iz zraka ili navigacijskim satelitskim sustavima, radi mjerenja pozicije u letu ili brzine u realnom vremenu;
+
+2. Instrumentacijski radari za porivanje područja uključujući pridružene optičke/infracrvene uređaje za praćenje sa svim sljedećim mogućnostima:
+
+a. Kutna rezolucija bolja od 1,5 miliradijana;
+
+b. Područje od 30 km ili veće s rezolucijom područja boljom od 10 m rms;
+
+c. Rezolucija brzine bolja od 3 m/s.
+
+Tehnička napomena:
+
+U 6A108.b. ‘projektil’ označava potpune raketne sustave i bespilotne letjelice sposobne za domet od 300 km.
+
+6A202 Fotomultiplikacijske cijevi koje imaju obje sljedeće osobine:
+
+a. Područje fotokatode veće od 20 cm2; i
+
+b. Trajanje uspona impulsa anode kraće od 1 ns.
+
+6A203 Kamere i komponente, osim onih koje su navedene u 6A003, kako slijedi:
+
+a. Kamere s mehaničkom rotacijom zrcala, kako slijedi, i za to posebno izrađene komponente:
+
+1. Kamere koje snimaju u okvirima s brzinama snimanja većim od 225000 okvira u sekundi;
+
+2. Kamere koje daju prugastu sliku s brzinama zapisa većim od 0,5 mm u mikrosekundi;
+
+Napomena: U 6A203.a. komponente takvih kamera uključuju njihove sinkronizacijske elektroničke jedinice i rotorske sklopove koji se sastoje od turbina, zrcala i ležaja.
+
+b. Elektroničke kamere koje daju prugastu sliku, elektroničke kamere koje snimaju u okvirima, cijevi i uređaji, kako slijedi:
+
+1. Elektroničke kamere koje daju prugastu sliku s mogućnošću vremena rezolucije od 50 ns ili manje;
+
+2. Prugaste cijevi za kamere navedene u 6A203.b.1.;
+
+3. Elektroničke (ili elektronički zatvarane) kamere koje snimaju u okvirima s mogućnošću vremena ekspozicije od 50 ns ili manje;
+
+4. Okvirne cijevi i poluvodički uređaji za stvaranje slika za korištenje s kamerama navedenim u 6A203.b.3., kako slijedi:
+
+a. Cijevi za pojačavanje slike fokusirane na blizinu s fotokatodom deponiranom na transparentnom vodičkom ovoju radi smanjenja otpora fotokatodne ploče;
+
+b. Ulaz videcon cijevi sa silicijem dopiranom metom(SIT) cijevi, gdje brzi sustav omogućuje zaprečivanje dolaska fotoelektrona iz fotokatode prije nego se sudare sa SIT pločom;
+
+c. Kerr ili Pockels elektro-optičko zatvaranje ćelije;
+
+d. Druge okvirne cijevi i poluvodički uređaji za stvaranje slika koji imaju vrijeme zatvaranje brzih slika kraće od 50 ns, posebno izrađeni za kamere navedene u 6A203.b.3.;
+
+c. TV kamere ojačane za zračenje, ili leće za njih, posebno izrađene ili izmjerene kao ojačane za zračenje da izdrže ukupnu dozu zračenja veću od 50 × 103 Gy (silicij) (5 × 106 rad (silicij)) bez slabljenja rada.
+
+Tehnička napomena:
+
+Termin Gy (silicij) odnosi se na energiju u džulima po kilogramu, koju apsorbira nezaštićeni uzorak silicija pri izloženosti ionizirajućem zračenju.
+
+6A205 »Laseri«, »laserska« pojačala i oscilatori, osim onih koji su navedeni u 0B001.g.5., 0B001.h.6. i 6A005; kako slijedi:
+
+NAPOMENA: U svezi bakrenih parnih lasera vidi 6A005.b.
+
+a. Argon ionski »laseri« koji imaju obje sljedeće osobine:
+
+1. Rad na valnim duljinama između 400 nm i 515 nm; i
+
+2. Prosječna izlazna snaga veća od 40 W;
+
+b. Podesni impulsni oscilatori lasera u boji, jednog moda, koji imaju sve navedene osobine:
+
+1. Rad na valnim duljinama između 300 nm i 800 nm;
+
+2. Prosječna izlazna snaga veća od 1 W;
+
+3. Omjer ponavljanja veća od 1 kHz; i
+
+4. Širina impulsa manja od 100 ns;
+
+c. Podesna impulsna pojačala i oscilatori lasera u boji, koji imaju sve navedene osobine:
+
+1. Rad na valnim duljinama između 300 nm i 800 nm;
+
+2. Prosječna izlazna snaga veća od 30 W;
+
+3. Omjer ponavljanja veća od 1 kHz; i
+
+4. Širina impulsa manja od 100 ns;
+
+Napomena: 6A205.c. ne kontrolira oscilatore jednog načina rada (moda);
+
+d. Impulsni »laseri« s uključnim dioksidom koji imaju sve navedene osobine:
+
+1. Rad na valnim duljinama između 9000 nm i 11000 nm;
+
+2. Brzina ponavljanja veća od 250 Hz;
+
+3. Prosječna izlazna snaga veća od 500 W; i
+
+4. Širina impulsa manja od 200 ns;
+
+e. Para-vodik Raman uređaji za premještanje izrađeni za rad pri izlaznoj valnoj duljini od 16 mikrometara i pri omjeru ponavljanja većem od 250 Hz;
+
+f. Neodijevi (osim stakla) laseri s izlaznom valnom duljinom između 1000 i 1100 nm, koji imaju obje navedene osobine:
+
+1. Impulsnu pobudu i preklop Q, te trajanjem impulsa većim od 1 ns, i koji imaju jednu od navedenih značajki:
+
+(a) jednokanalni transverzalni izlaz s prosječnom izlaznom snagom većom od 40 W ili
+
+(b) višekanalni transverzalni izlaz s prosječnom izlaznom snagom većom od 50 W ili
+
+2. Uključuje podvostručenje frekvencije za izlaznu valnu duljinu između 500 i 550 nm s prosječnom izlaznom snagom većom od 40 W.
+
+6A225 Interferometri brzine za mjerenje brzina preko 1 km/s u vremenskim intervalima kraćim od 10 mikrosekundi.
+
+Napomena: 6A225 Uključuje interferometre brzine kao što su VISAR (sustavi interferometara brzine za bilo koji reflektor) i DLI (Doppler laserski interferometri).
+
+6A226 Senzori tlaka, kako slijedi:
+
+a. Manganinski mjerači za tlakove veće od 10 GPa;
+
+b. Kvarcni tlačni pretvarači za tlakove veće od 10 GPa.
+
+#### 6B Oprema za testiranje, inspekciju i proizvodnju
+
+6B004 Optička oprema, kako slijedi:
+
+a. Oprema za mjerenje apsolutna reflektancija do točnosti od ± 0,1% vrijednosti reflektancije;
+
+b. Oprema koja nije oprema za mjerenje raspršenosti na optičkoj površini, a koja ima nezamračeni otvor od više od 10 cm, posebno izrađena za nekontaktno optičko mjerenje neplanarnog optičkog površinskog oblika (profil) do »točnosti« od 2 nm ili manje (bolje) u odnosu na potreban profil.
+
+Napomena: 6B004 ne kontrolira mikroskope.
+
+6B007 Oprema za izradu, podešavanje i baždarenje zemaljskih gravimetara sa statičkom točnošću boljom od 0,1 mgal.
+
+6B008 Sustavi za mjerenje presjeka impulsnog radara koji imaju širine odašiljanih impulsa od 100 ns ili manje i za to posebno izrađene komponente.
+
+NAPOMENA: VIDI TAKOĐER 6B108.
+
+6B108 Sustavi, osim onih koji su navedeni u 6B008, posebno izrađeni za radarsko mjerenje presjeka koji se mogu koristiti za »projektile« i njihove podsustave.
+
+Tehnička napomena:
+
+U stavci 6B108 ‘projektil’ označava cjelokupni raketni sustav i zrakoplovni sustav bez posade koji imaju maksimalni domet veći od 300 km.
+
+#### 6C Materijali
+
+6C002 Optički senzorski materijali, kako slijedi:
+
+a. Elementarni telurij (Te) razina čistoće od 99,9995% ili više;
+
+b. Monokristali (uključujući epitaksijalne filmove) nečega od navedenoga:
+
+1. Kadmij cink telurid (CdZnTe) s udjelom cinka manjim od 6% po ‘dijelu s mrljama’;
+
+2. Kadmij telurid (CdTe) bilo koje razine čistoće; ili
+
+3. Živa kadmij telurid (HgCdTe) bilo koje razine čistoće.
+
+Tehnička napomena:
+
+‘Dio s mrljama’ je definiran kao omjer mrlja ZnTe i zbroja mrlja CdTe i ZnTe prisutnih u kristalu.
+
+6C004 Optički materijali, kako slijedi:
+
+a. Cink selenid (ZnSe) i cink sulfid (ZnS) »supstratne praznine« proizvedene u procesu slijeganja kemijskih para, koje imaju nešto od sljedećega:
+
+1. Volumen veći od 100 cm3; ili
+
+2. Promjer veći od 80 mm s debljinom od 20 mm ili više;
+
+b. Kuglice od sljedećih elektro-optičkih materijala:
+
+1. Kalij titanil arsenat (KTA);
+
+2. Srebro galij selenid (AgGaSe2);
+
+3. Talij arsen selenid (Tl3AsSe3, poznat također kao TAS);
+
+c. Nelinearni optički materijali, koji imaju sve navedeno:
+
+1. Osjetljivost trećeg reda (chi 3) od 10-6 m2/V2 ili više; i
+
+2. Vrijeme reakcije kraće od 1 ms;
+
+d. »Supstratne praznine« slegnutog materijala silikon karbida ili berilij berilija (Be/Be) promjera ili duljine glavne osi preko 300 mm;
+
+e. Staklo, uključujući fuzionirane silikone, fosfatno staklo, fluorofosfatno staklo, cirkoniju fluorid (ZrF4) i hafnij fluorid (HfF4), koji imaju sve navedeno:
+
+1. Koncentracija hidroksi ion (OH-) manja od 5 ppm;
+
+2. Razine čistoće integriranog metala manje od 1 ppm; i
+
+3. Visoka homogenost (promjena indeksa loma) manje od 5 × 10-6;
+
+f. Sintetički proizveden dijamantni materijal s apsorpcijom manjom od 10-5 cm-1 za valne duljine preko 200 nm ali ne preko 14 000 nm.
+
+6C005 Osnovni materijal sintetičko kristalnog »lasera« u nedovršenom obliku, kako slijedi:
+
+a. Safir s titanijem;
+
+b. Aleksandrit.
+
+#### 6D Softver
+
+6D001 »Softver« posebno osmišljen za »razvoj« ili »proizvodnju« opreme navedene u 6A004, 6A005, 6A008 ili 6B008.
+
+6D002 »Softver« posebno osmišljen za »uporabu« opreme navedene u 6A002.b., 6A008 ili 6B008.
+
+6D003 Drugi »softver«, kako slijedi:
+
+a. »Softver« kako slijedi:
+
+1. »softver« posebno osmišljen za oblikovanje akustičke zrake kod kojeg postoji »obrada u stvarnom vremenu« akustičkih podataka za pasivni prijam koristeći tegljena hidrofonska polja;
+
+2. »Izvorni kod« kod kojeg postoji »obrada u stvarnom vremenu« akustičkih podataka za pasivni prijam koristeći tegljena hidrofonska polja;
+
+3. »softver« posebno osmišljen za oblikovanje akustičke zrake kod kojeg postoji »obrada u stvarnom vremenu« akustičkih podataka za pasivni prijam koristeći kablovske sustave za dno ili zaljev;
+
+4. »Izvorni kod« kod kojeg postoji »obrada u stvarnom vremenu« akustičkih podataka za pasivni prijam koristeći kablovske sustave za dno ili zaljev;
+
+b. Ne koristi se
+
+c. »Softver« izrađen ili modificiran za kamere koji sadrži »žarišnoravninske detektorske nizove« navedene u 6A002.a.3.f. koji su izrađeni ili modificirani za uklanjanje ograničenja vremenskog uzrokovanja, tako da je vrijeme uzorkovanja kamere veće nego što je to navedeno u 6A003.b.4 Napomeni 3.a.
+
+d. Ne koristi se
+
+e. Ne koristi se
+
+f. »Softver« kako slijedi:
+
+1. »softver« posebno osmišljen za sustave magnetske i električne kompenzacije kod magnetskih senzora, izrađen za rad na pokretnim platformama;
+
+2. »softver« posebno osmišljen za detekciju anomalija kod magnetskih i električnih polja na pokretnim platformama;
+
+g. »Softver« posebno osmišljen za ispravljanje pokretačkog utjecaja gravimetara i gradiometara;
+
+h. »Softver«:
+
+1. »Softverski« aplikacijski »programi« u kontroli zračnog prometa instalirani na računalima za opću namjenu u centrima za kontrolu zračnog prometa koji imaju neku od sljedećih mogućnosti:
+
+a. Obrada i istovremeni prikaz više od 150 »sustavne trake«; ili
+
+b. Prihvat radarskih podataka o cilju od više od četiri primarna radara;
+
+2. »Softver« za konstrukciju ili »proizvodnju« radoma koji:
+
+a. su posebno izrađeni da štite »elektronički upravljane fazne rešetkaste antene« navedene u 6A008.e.;
+
+b. imaju za rezultat da antenski uzorak ima ‘prosječnu razinu režnja sa strane’ višu od 40 dB ispod maksimalne razine glavne zrake.
+
+Tehnička napomena:
+
+‘Prosječna razina režnja sa strane’ u 6D003.d.2.b. mjeri se za čitavo polje osim kutnog dosega glavne zrake i prva dva režnja sa svake strane glavne zrake.
+
+6D102 »Softver« posebno izrađen ili modificiran za »uporabu« roba navedenih u 6A108.
+
+6D103 »Softver« koji obrađuje zabilježene podatke, nakon leta, što omogućuje određivanje položaja vozila na čitavoj ruti leta, posebno izrađen ili modificiran za »raketne projektile«.
+
+Tehnička napomena:
+
+U 6D103 »raketni projektili« označavaju kompletne raketne sustave ili bespilotne letjelice, s mogućnošću dosega većim od 300 km
+
+| 6E | Tehnologija |  |
+|---|---|---|
+
+6E001 »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« opreme, materijala ili »softvera« navedenih u 6A, 6B, 6C ili 6D.
+
+6E002 »Tehnologija« u skladu s Općom tehnološkom napomenom za »proizvodnju« opreme ili materijala navedenih u 6A, 6B ili 6C.
+
+6E003 Druga »tehnologija«, kako slijedi:
+
+a. »Tehnologija« kako slijedi:
+
+1. »Tehnologija« oblaganja i tretiranja optičkih površina »potrebna« za postizanje ujednačenosti od 99,5% ili bolje za optičke obloge od 500 mm ili više u promjeru ili duljini glavne osi i s ukupnim gubitkom (apsorpcija i raspršivanje) manjim od 5 × 10-3;
+
+NAPOMENA: VIDI TAKOĐER 2E003.f.
+
+2. »Tehnologija« optičke izrade i korištenja tehnika okretanja dijamanta po jednoj točki za dobivanje točnosti završne obrade površine bolje od 10 nm rms na neplanarnim površinama preko 0,5 m2;
+
+b. »Tehnologija« »potrebna« za »razvoj«, »proizvodnju« ili »uporabu« posebno izrađenih dijagnostičkih instrumenata ili ciljeva u objektima za testiranje za »SHPL« testiranje ili testiranje ili ocjenjivanje materijala ozračenih »SHPL« zrakama;
+
+6E101 »Tehnologija« u skladu s Općom tehnološkom napomenom za »uporabu« opreme ili »softvera« navedenih u 6A002, 6A007.b. i c., 6A008, 6A102, 6A107, 6A108, 6B108, 6D102 ili 6D103.
+
+Napomena: 6E101 samo navodi »tehnologiju« za opremu navedenu u 6A008 kada je ona izrađena za zračne aplikacije i koristi se u »raketnim projektilima«.
+
+6E201 »Tehnologija« u skladu s Općom tehnološkom napomenom za »uporabu« opreme navedene u 6A003, 6A005.a.2., 6A005.b.2., 6A005.b.3., 6A005.b.4., 6A005.b.6., 6A005.c.2., 6A005.d.3.c., 6A005.d.4.c., 6A202, 6A203, 6A205, 6A225 ili 6A226.
+
+#### KATEGORIJA 7 — NAVIGACIJA I AVIONIKA
+
+| 7A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+Napomena: Za automatske pilote podvodnih vozila, vidi Kategoriju 8.
+
+Za radare, vidi Kategoriju 6.
+
+7A001 Akcelerometri, kako slijedi, i za to posebno izrađene komponente:
+
+NAPOMENA: VIDI TAKOĐER 7A101.
+
+NAPOMENA: Za kutne ili rotacijske akcelerometre, vidi 7A001.b.
+
+a. Linearni akcelerometri koji imaju bilo što od sljedećeg:
+
+1. Specificirani za rad pri linearnim akceleracijskim razinama manjim ili jednakim 15g, i koji imaju bilo što od sljedećeg:
+
+a. »bias« »stabilnost« manju (bolju) od 130 mikro g tijekom perioda od jedne godine; ili
+
+b. »skalirajući faktor« »ponovljivosti« manji (bolji) od 130 ppm u odnosu na fiksiranu kalibracijsku vrijednost tijekom perioda of jedne godine;
+
+2. Specificiran za rad pri linearnim akceleracijskim razinama većim od 15g, i koji imaju bilo što od sljedećeg:
+
+a. »bias« »ponovljivost« manju (bolju) od 5 000 micro g tijekom perioda od jedne godine; ili
+
+b. »skalirajući faktor« »ponovljivosti« manji (bolji) od 2 500 ppm tijekom perioda od jedne godine;
+
+3. Izrađeni za uporabu u inercijskim navigacijskim sustavima ili sustavima navođenja i specificirani za rad pri linearnim ubrzanjima većimod 100 g;
+
+b. Kutni ili rotacijski akcelerometri namijenjeni radu pri linearnim ubrzanjima većim od 100g.
+
+7A002 Giroskopi, ili kutni senzori, koji imaju jednu od sljedećih osobina, i za to posebno izrađene komponente:
+
+NAPOMENA: VIDI TAKOĐER 7A102.
+
+NAPOMENA: Za kutne ili rotacijske akcelerometre, vidi 7A001.b.
+
+a. »Bias« »stabilnost«, prilikom mjerenja u 1 g okolini u periodu od jednog mjeseca i u odnosu na fiksnu kalibracijsku vrijednost, od manje (bolje) od 0,5° na sat kada je specificirano da funkcionira pri linearnim akceleracijskim razinama ispod 12 g do uključivo 100 g;
+
+b. ‘Nasumičan hod kuta’ manji (bolji) ili jednak 0.0035° po kvadratnom korijenu iz sata, ili
+
+Napomena: 7A002.b. ne kontrolira giroskope s rotirajućom masom (giroskopi s rotirajućom masom su giroskopi koji za mjerenje kutne brzine koriste stalnorotirajuću masu za registraciju kutnog pomaka).
+
+c. Brzina dostizanja jednaka ili veća od 500 stupnjeva u sekundi i koja ima bilo što od sljedećeg:
+
+1. »Stabilnost« »veličina otklona«, prilikom mjerenja u 1 g okolini u periodu od tri minute i u odnosu na fiksnu kalibracijsku vrijednost, od manje (bolje) od 40 ° na sat; ili
+
+2. ‘Nasumičan hod kuta’ manji (bolji) ili jednak 0,2° po kvadratnom korijenu iz sata; ili
+
+d. Specificiran za rad pri linearnim akceleracijskim razinama preko 100 g.
+
+7A003 Inercijski sustavi i za njih posebno izrađene komponente, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 7A103.
+
+a. Inercijski navigacijski sustavi (INS) (u giroskopskom (kardanskom) okviru ili vezani za tijelo) i inercijska oprema izrađena za »letjelice«, plovila na površini ili pod vodom), ili »svemirska letjelica« za pozicioniranje, navođenje ili kontrolu, koji imaju neku od sljedećih osobina, i za to posebno izrađene komponente:
+
+1. Navigacijska pogreška (slobodna inercijska) nakon uobičajenog poravnanja od 0,8 nautičkih milja na sat ‘Circular Error Probable’ (CEP) ili manje (bolje); ili
+
+2. Specificiran za rad pri linearnim akceleracijskim razinama preko 10 g;
+
+b. Hibridni inercijski navigacijski sustavi s ugrađenim Globalnim navigacijskim satelitskim sustavom/ima (GNSS) ili sa sustavom/ima »Navigacije s referentnom bazom podataka« (»DBRN«) za pozicioniranje, navođenje ili kontrolu, nakon uobičajenog poravnanja, s INS točnošću navigacijskog pozicioniranja, nakon gubitka GNSS ili »DBRN« za razdoblje do četiri minute, manje (bolje) od 10 metara vjerojatne greške (‘Circular Error Probable’ (CEP)).
+
+c. Inercijska oprema za određivanje smjera ili geografskog sjevera koja ima bilo koje od niže navedenih karakteristika, i posebno za to izrađene komponente:
+
+1. Izrađena za određivanje smjera ili geografskog sjevera s preciznošću jednakom, ili manjom (boljom) od 0,07 deg sec (Lat) (ekvivalentnih 6 lučnih minuta rms na 45 stupnjeva geografske širine); ili
+
+2. Izrađena da ima neoperativanu razinu šoka pri 900 g ili veću u trajanju od 1 msec, ili više.
+
+d. Inercijska oprema za mjerenje uključujući inercijske mjerne jedinice IMU (Inertial Measurement Units) i inercijske referentne sustave IRS (Inertial Reference Systems), koja sadrži akcelerometre i giroskope kontrolirane po 7A001 ili 7A002, i za to posebno izrađene komponente.
+
+<table>
+<tbody>
+
+<tr>
+<td>Napomena 1:</td>
+<td colspan="3">Parametri iz 7A003.a. i 7A003.b. vrijede uz neki od sljedećih okolnih uvjeta:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td colspan="2">Ulazna slučajno generirana vibracija ukupne veličine 7,7 g rms u prvih pola sata i ukupnom trajanju testa od sat i pol po osi na svakoj od tri okomite osi, kada slučajna vibracija ispunjava sljedeće:</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>1.</td>
+<td>Konstantna vrijednost spektralne gustoće struje (PSD) 0,04 g2/Hz u frekvencijskom intervalu od 15 do 1000 Hz; i</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2.</td>
+<td>PSD slabi s frekvencijom od 0,04 g2/Hz do 0,01 g2/Hz u frekvencijskom intervalu od 1000 do 2000 Hz;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td colspan="2">Brzina valjanja i krivudanja jednaka ili veća od + 2,62 radijan/s (150 deg/s); ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td colspan="2">U skladu s nacionalnim standardima ekvivalentnim 1. ili 2. više.</td>
+</tr>
+
+<tr>
+<td>Napomena 2:</td>
+<td colspan="3">7A003 ne kontrolira inercijske navigacijske sustave koji su atestirani za korištenje na »civilnim letjelicama« od strane civilnih vlasti »države sudionice«.</td>
+</tr>
+
+<tr>
+<td>Napomena 3:</td>
+<td colspan="3">7A003.c.1. ne kontrolira teodolitske sustave koji sadrže inercijsku opremu posebno izrađenu u svrhe civilnih istraživanja.</td>
+</tr>
+</tbody>
+
+</table>
+
+Tehničke napomene:
+
+1. 7A003.b. odnosi se na sustave u kojima su INS i druga neovisna navigacijska pomagala ugrađena u jednu jedinicu kako bi se postigao bolji rad.
+
+2. ‘Circular Error Probable’ (CEP) – Pri normalnoj kružnoj distribuciji, radijus kruga koji sadrži 50 posto provedenih individualnih mjerenja, ili radijus kruga u kojemu je 50 posto vjerojatnosti lociranja .
+
+7A004 Giro-astro kompasi, i drugi uređaji kojima se dobiva položaj ili orijentacija uz pomoć automatskog praćenja nebeskih tijela ili satelita, s točnošću azimuta jednakom ili manjom (bolje) od 5 sekundi luka.
+
+NAPOMENA: VIDI TAKOĐER 7A104.
+
+7A005 Prijamna oprema globalnih navigacijskih satelitskog sustava (tj. GPS ili GLONASS) koja ima neku od sljedećih osobina, i za to posebno izrađene komponente:
+
+NAPOMENA: VIDI TAKOĐER 7A105.
+
+a. Koristi dekodiranje; ili
+
+b. Antena bez upravljanja.
+
+7A006 Zračni visinomjeri koji rade na frekvencijama koje nisu 4,2 do uključivo 4,4 GHz, koji imaju neku od sljedećih osobina:
+
+NAPOMENA: VIDI TAKOĐER 7A106.
+
+a. »Upravljanje snagom«; ili
+
+b. Koristi modulaciju ključa fazne izmjene.
+
+7A008 Podvodni sonarni navigacijski sustavi, koji koriste Dopplerovu ili koleracijsku brzinu integrirani s vodećim izvorom, koji imaju preciznost pozicioniranja manju (bolju) ili jednaku od 3% moguće kružne greške CEP (Circular Error Probable), i za to posebne komponente.
+
+Napomena: 7A008 ne kontrolira sustave posebno izrađene za instalaciju površinska plovila ili sustave koji zahtijevaju akustične oslonce radi dobivanja podataka o poziciji.
+
+NAPOMENA: Vidi kategoriju 6A001.a za akustične sustave, i 6.A001.b za opremu za zapise sonara temeljem korelacijske i Dopplerove brzine. Vidi kategoriju 8A002 za ostale pomorske sustave.
+
+7A101 Linearni akcelerometri, osim onih navedenih u 7A001, izrađeni za uporabu u inercionim navigacijskim sustavima ili u sustavima vođenja bilo koje vrste, iskoristivi kod »projektila«, i specijalno izrađene komponente za njih, koji imaju sve sljedeće značajke:
+
+a. »slobodni hod« s ‘ponovljivosti’ manjom (boljom) od 1250 μg; i
+
+b. »faktor odnosa« s ‘ponovljivosti’ manjom (boljom) od 1250 ppm
+
+Napomena: 7A101. ne specificira akcelerometre koji su posebno izrađeni i razvijeni kao MWD senzori (Measurement While Drilling – mjerenje tijekom vrtnje) za uporabu u oknima rudnika.
+
+Tehnička napomena:
+
+1. U 7A101 ‘projektili’ označavaju kompletni raketni sustavi i bespilotne letjelice s doletom većim od 300 km;
+
+2. U 7A101 mjerenje »slobodnog hoda« i »faktora odnosa« se odnosi na sigma standardno odstupanje u odnosu na fiksnu kalibraciju tijekom perioda od jedne godine;
+
+7A102 Sve vrste giroskopa, osim onih koji su navedeni u 7A002, koji se mogu koristiti u ‘projektilima’, s izmjerenom »stabilnošću« »veličine otklona« manjom od 0,5° (1 sigma ili rms) na sat u okolini 1 g i za to posebno izrađene komponente.
+
+Tehnička napomena:
+
+1. U 7A102 ‘projektil’ označava kompletan raketni sutav ili bespilotna letjelica sa doletom većim od 300 km.
+
+2. U 7A102 ‘stabilnost’ je definirana kao sposobnost specifičnog mehanizma ili koeficijenta izvršenja da ostane nepromijenjen tijekom kontinuiranog izlaganja operativnim uvjetima (IEEE STD 528-2001 članak 2.247).
+
+7A103 Instrumenti, navigacijska oprema i sustavi, osim onih koji su navedeni u 7A003, kako slijedi; i za to posebno izrađene komponente:
+
+a. Inercijska ili druga oprema koja koristi akcelerometre ili giroskope, te sustavi koji sadže takvu opremu:
+
+1. akcelerometri navedeni u 7A001.a.3., 7A001.b. ili 7A101 ili giroskope navedene u 7A002 ili 7A102;
+
+ili
+
+2. akcelerometri navedeni u 7A001.a.1. ili 7A001.a.2. i koji imaju sve sljedeće značajke:
+
+a. izrađeni za uporabu u inercijskim navigacijskim sustavima ili sustavima za vođenje svih vrsta, te se mogu koristiti u »raketnim projektilima«;
+
+b. »prednapetost« s »ponovljivosti« manjom (boljom) od 1250 μg; i
+
+c. »ponovljivost« »faktora odnosa« manja (bolja) od 1250 μg;
+
+Napomena: 7A103.a. ne specificira opremu koja sadrži akcelerometre navedene u 7A001 gdje su takvi akcelerometri posebno izrađeni i razvijeni kao MWD (Measurement While Drilling) senzori za korištenje u izradi dubinskih bušotina.
+
+b. Integrirani sustavi instrumenata za letenje, koji uključuju girostabilizatore ili automatske pilote, izrađeni ili modificirani za korištenje u ‘projektilima’;
+
+c. ‘Integrirani navigacijski sustavi’, izrađeni ili modificirani ‘projektili’ koji mogu davati navigacijsku točnost od 200 m kruga jednake vjerojatnosti (Circle of Equal Probability (CEP)) ili manje.
+
+Tehnička napomena:
+
+‘Integrirani navigacijski sustav’ obično je sastavljen od sljedećih komponenti:
+
+1. Inercijski uređaj za mjerenje (npr., referentni sustav za pozicioniranje i smjer, inercijska referentna jedinica, ili inercijski navigacijski sustav);
+
+2. Jedan ili više vanjskih senzora korištenih za ažuriranje pozicije i/ili brzine, periodično ili stalno za vrijeme čitavog leta (npr., satelitski navigacijski prijamnik, radarski visinomjer, i/ili Doppler radar); i
+
+3. Integrirani hardver i softver.
+
+d. Troosni magnetski čelni senzori, napravljeni ili modificirani da budu integrirani u sustave za kontrolu leta i navigacisjke sustave, te njihove specijalno napravljene komponente, a koji imaju sve od sljedećih karakteristika:
+
+1. Unutarnju kompenzaciju nagiba u uzdužnoj (±90 stupnjeva) i nagibnoj (±180 stupnjeva) osi
+
+2. Omogućuju prikaz preciznosti po azimutu bolju od 0,5 stupnjeva rms pri širini ±80 stupnjeva, u odnosu na lokalno magnetsko polje.
+
+Napomena: Sustavi za kontrolu leta i navigaciju u 7A103.d. uključuju girostabilizatore, automatske pilote i inercione navigacijske sustave.
+
+Tehnička napomena:
+
+U 7A103.c. ‘projektil’ označava kompletni raketni sustavi ili bespilotne letjelice doleta većeg od 300 km.
+
+7A104 Giro-astro kompasi i drugi uređaji, osim onih koji su navedeni u 7A004, kojima se dobiva položaj ili orijentacija uz pomoć automatskog praćenja nebeskih tijela ili satelita, i za to posebno izrađene komponente.
+
+7A105 Prijamna oprema za Globalne navigacijske satelitske sustave (GNSS; npr. GPS GLONASS, ili Galileo), koja ima neku od sljedećih osobina, i za to posebno izrađene komponente:
+
+a. Izrađena ili modificirana za korištenje u vozilima za lansiranje u svemir navedenim u 9A004, bespilotnim letjelicama navedenim u 9A012 ili sondažnim raketama navedenim u 9A104; ili
+
+b. Izrađena ili modificirana za aplikacije u zraku i koja ima nešto od sljedećega:
+
+1. Mogućnost davanja navigacijskih informacija pri brzinama većim od 600 m/s;
+
+2. Koristi dekodiranje, izrađena ili modificirana za vojne ili državne službe, radi dobivanja pristupa GNSS zaštićenom signalu/podacima; ili
+
+3. Da je posebno izrađena za korištenje opcija protiv ometanja (npr. antena bez upravljanja ili elektronički upravljana antena) za rad u okruženju aktivnih ili pasivnih protumjera.
+
+Napomena: 7A105.b.2. i 7A105.b.3. ne kontroliraju opremu izrađenu za komercijalne, civilne ili ‘Safety of Life’ (»Sigurnost života«) (npr., nepovredivost podataka, sigurnost leta) GNSS službe.
+
+7A106 Visinomjeri, osim onih koji su navedeni u 7A006, radarskog ili laser radarskog tipa, izrađeni ili modificirani za korištenje u vozilima za lansiranje u svemir navedenim u 9A004 ili sondažnim raketama navedenim u 9A104.
+
+7A115 Pasivni senzori za određivanje vođenja do određenog elektromagnetskog izvora (oprema za pronalaženje smjera) ili osobina terena, izrađeni ili modificirani za korištenje u vozilima za lansiranje u svemir navedenim u 9A004 ili sondažnim raketama navedenim u 9A104.
+
+Napomena: 7A115 uključuje senzore za sljedeću opremu:
+
+a. Oprema za ucrtavanje kontura terena u zemljovide;
+
+b. Senzorna oprema za stvaranje slika (aktivna i pasivna);
+
+c. Oprema pasivnog interferometra.
+
+7A116 Sustavi kontrole leta i servo ventila, kako slijedi; izrađeni ili modificirani za korištenje u vozilima za lansiranje u svemir navedenim u 9A004 ili sondažnim raketama navedenim u 9A104.
+
+a. Hidraulički, mehanički, elektro-optički, ili elektro-mehanički sustavi kontrole leta (uključujući tipove fly-by-wire);
+
+b. Oprema za kontrolu visine;
+
+c. Servo ventili kontrole leta izrađeni ili modificirani za sustave navedene u 7A116.a. ili 7A116.b., te izrađeni ili modificirani za rad u vibracijskom okruženju većem od 10 g rms u području između 20 Hz i 2 kHz.
+
+7A117 »Setovi za navođenje«, koji se mogu koristiti u »raketnim projektilima« koji mogu postići točnost sustava od 3,33% ili manje doleta (npr. »CEP« od 10 km ili manje na daljini od 300 km).
+
+| 7B | Oprema za testiranje, inspekciju i proizvodnju |  |
+|---|---|---|
+
+7B001 Oprema za testiranje, baždarenje i podešavanje posebno izrađena za opremu navedenu u 7A.
+
+Napomena: 7B001 ne kontrolira opremu za testiranje, baždarenje i podešavanje za Razinu održavanja I ili Razinu održavanja II.
+
+Tehničke napomene:
+
+1. Razina održavanja I
+
+Kvar inercijske navigacijske jedinice otkriva se u zrakoplovu prema indikacijama jedinice za kontrolu i prikaz (CDU) ili prema statusnoj poruci odgovarajućeg podsustava. Slijedeći proizvođačev priručnik, uzrok kvara može se lokalizirati na razini neispravne zamjenjive jedinice (LRU). Operater tada uklanja LRU i zamjenjuje ga rezervnim dijelom.
+
+2. Razina održavanja II
+
+Neispravni LRU šalje se u radionicu za održavanje (proizvođačevu ili koja pripada operateru odgovornom za održavanje Razine II). U radionici za održavanje, neispravni LRU se testira na razne odgovarajuće načine kako bi se potvrdio i lokalizirao dio neispravnog sklopa koji se može zamijeniti u radionici (SRA), koji je odgovoran za kvar.
+
+Ovaj SRA se uklanja i zamjenjuje ispravnim rezervnim dijelom. Neispravni SRA (ili čitav LRU) tada se otprema proizvođaču.
+
+Napomena: Razina održavanja II ne uključuje uklanjanje kontroliranih akcelerometara ili giro senzora iz SRA.
+
+7B002 Oprema, kako slijedi, posebno izrađena za karakterizaciju zrcala za prstenaste »laserske« girometre:
+
+NAPOMENA: VIDI TAKOĐER 7B102.
+
+a. Uređaji za mjerenje raspršenosti koji imaju točnost mjerenja od 10 ppm ili manje (bolje);
+
+b. Uređaji za mjerenje profila koji imaju točnost mjerenja od 0,5 nm (5 angstrom) ili manje (bolje).
+
+7B003 Oprema posebno izrađena za »proizvodnju« opreme navedene u 7A.
+
+Napomena: 7B003 uključuje:
+
+– Testne stanice za podešavanje giroskopa;
+
+– Stanice za uravnoteženje dinamičkih giroskopa;
+
+– Stanice za testiranje zagona i motora giroskopa;
+
+– Stanice za evakuaciju i punjenje giroskopa;
+
+– Centrifugalne instalacije za ležajeve giroskopa;
+
+– Stanice za poravnanje osi akcelerometra;
+
+– Strojevi za namatanje optičkih vlakana na kalem giroskopa.
+
+7B102 Reflektometri posebno izrađeni za karakterizaciju zrcala, za »laserske« girometre s točnošću mjerenja od 50 ppm ili manje (bolje).
+
+7B103 »Proizvodna postrojenja« i »oprema za proizvodnju« kako slijedi:
+
+a. »Proizvodna postrojenja« posebno izrađena za opremu navedenu u 7A117;
+
+b. Oprema za proizvodnju, i druga oprema za testiranje, baždarenje i podešavanje, osim one navedene u 7B001 do 7B003, izrađena ili modificirana za korištenje s opremom navedenom u 7A.
+
+| 7C | Materijali |  |
+|---|---|---|
+
+Nema.
+
+| 7D | Softver |  |
+|---|---|---|
+
+7D001 »Softver« posebno izrađen ili modificiran za »razvoj« ili »proizvodnju« opreme navedene u 7A. ili 7B.
+
+7D002 »Izvorni kod« za »uporabu« bilo koje inercijske navigacijske opreme uključujući inercijsku opremu koju ne kontroliraju 7A003 ili 7A004, ili Referentnog sustava za pozicioniranje i smjer (AHRS).
+
+Napomena: 7D002 ne kontrolira »izvorni kod« za »uporabu« kardanskih (okvirnih) AHRS.
+
+Tehnička napomena:
+
+AHRS općenito se razlikuje od inercijskih navigacijskih sustava (INS) po tome što AHRS daje informacije o poziciji i smjeru i obično ne daje informacije o ubrzanju, brzini i lokaciji koje se pripisuju INS.
+
+7D003 Drugi »softver«, kako slijedi:
+
+a. »Softver« posebno izrađen ili modificiran za poboljšanje rada ili smanjenje navigacijske pogreške sustava do razina navedenih u 7A003, 7A004 ili 7A008.
+
+b. »Izvorni kod« za hibridne integrirane sustave koji poboljšava rad ili smanjuje navigacijsku pogrešku sustava do razine navedene u 7A003 ili 7A008, stalnim kombiniranjem vodećih podataka s nečim od sljedećeg:
+
+1. Podaci o brzini Doppler ili sonarnog radara;
+
+2. Referentni podaci globalnih navigacijskih satelitskih sustava (tj., GPS ili GLONASS); ili
+
+3. Podaci od sustava »Navigacije s referentnom bazom podataka« (»DBRN«);
+
+c. »Izvorni kod« za sustave integralne avionike ili misijskih sustava koji kombiniraju senzorske podatke i koriste »ekspertni sustavi«;
+
+d. »Izvorni kod« za »razvoj« nečega od sljedećeg:
+
+1. Digitalni sustavi za upravljanje letom kod kojih postoji »potpuna kontrola leta«;
+
+2. Sustavi integrirane propulzije i kontrole leta;
+
+3. Fly-by-wire ili fly-by-light sustavi kontrole;
+
+4. »Aktivni sustavi za kontrolu leta« koji su otporni na grešku ili se sami rekonfiguriraju;
+
+5. Zračna oprema za automatsko pronalaženje smjera;
+
+6. Sustavi za podatke o zraku temeljeni na statičkim podacima s površine; ili
+
+7. Uspravni zasloni raster tipa ili trodimenzionalni zasloni;
+
+e. »Softver« za izrađenje uz pomoć kompjutera (CAD) posebno osmišljen za »razvoj« »sustava za aktivnu kontrolu leta«, helikopterskih višeosnih fly-by-wire ili fly-by-light kontrolnih uređaja ili helikopterskih »kontrolnih sustava s kontroliranim kruženjem protiv zaokretnog momenta ili s kružno kontroliranim smjerom« čija je »tehnologija« navedena u 7E004.b., 7E004.c.1. ili 7E004.c.2.
+
+7D101 »Softver« posebno izrađen ili modificiran za »uporabu« opreme navedene u 7A001 do 7A006, 7A101 do 7A106, 7A115, 7A116.a., 7A116.b., 7B001, 7B002, 7B003, 7B102 ili 7B103.
+
+7D102 Integracijski »softver« kako slijedi:
+
+a. Integracijski »softver« za opremu navedenu u 7A103.b.;
+
+b. Integracijski »softver« posebno osmišljen za opremu navedenu u 7A003 ili 7A103.a.
+
+c. Integracijski »softver« osmišljen ili modificiran za opremu navedenu u 7A103.c.
+
+Napomena: Uobičajeni oblik integracijskog »softvera« koristi Kalman filtriranje.
+
+7D103 »Softver« posebno osmišljen za modeliranje ili simulaciju »setova za navođenje« navedenih u 7A117 ili za integraciju njihove konstrukcije s vozilima za lansiranje u svemir navedenim u 9A004 ili sondažnim raketama navedenim u 9A104.
+
+Napomena: »Softver« naveden u 7D103 kontrolira se i kad je kombiniran s posebno izrađenim hardverom navedenim u 4A102.
+
+| 7E | Tehnologija |  |
+|---|---|---|
+
+7E001 »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« opreme ili »softvera« navedenih u 7A, 7B ili 7D.
+
+7E002 »Tehnologija« u skladu s Općom tehnološkom napomenom za »proizvodnju« opreme navedene u 7A ili 7B.
+
+7E003 »Tehnologija« u skladu s Općom tehnološkom napomenom popravak, obnovu ili ispitivanje opreme navedene u 7A001 do 7A004.
+
+Napomena: 7E003 ne kontrolira održavanje »tehnologije« izravno povezane s baždarenjem, uklanjanjem ili zamjenom oštećenih ili nepopravljivih LRU i SRA »civilnog zrakoplova« kako je opisano u Razini održavanja I i Razini održavanja II.
+
+NAPOMENA: Vidi Tehničke napomene za 7B001.
+
+7E004 Druga »tehnologija«, kako slijedi:
+
+a. »Tehnologija« za »razvoj« ili »proizvodnju«:
+
+1. Zračna oprema za automatsko pronalaženje smjera koja radi na frekvencijama preko 5 MHz;
+
+2. Sustavi za podatke o zraku temeljeni samo na statičkim podacima s površine, tj., koji imaju konvencionalne sonde za podatke o zraku;
+
+3. Raster uspravni zasloni ili trodimenzionalni zasloni za »zrakoplove«;
+
+4. Inercijski navigacijski sustavi ili žiro-astro kompasi koji sadrže akcelerometre ili girometre navedene u 7A001 ili 7A002;
+
+5. Električni aktuatori (tj., elektromehanički, elektrohidrostatički i integrirani aktuatorski paket) posebno izrađeni za »primarna kontrola leta«;
+
+6. »Optičko senzorsko polje za kontrolu leta« posebno izrađeno za »sustave za aktivnu kontrolu leta«;
+
+7. »DBRN« sustavi izrađeni za navigaciju pod vodom korištenjem sonara ili gravitacijskom bazom podataka koja omogućuje preciznost pozicioniranja manju (bolju) ili jednaku od 0,4 nautičke milje.
+
+b. »Razvoj« »tehnologije«, kako slijedi, za »aktivne sustave za kontrolu leta« (uključujući fly-by-wire ili fly-by-light):
+
+1. Konfiguracijski dizajn međusobno povezanih višestrukih mikroelektroničkih elemenata obrade (računala u letjelici) za postizanje »obrade u realnom vremenu« radi primjene kontrolnog zakona;
+
+2. Kompenzacija kontrolnog zakona za lociranje senzora ili dinamičkih tereta u trupu letjelice, tj., kompenzacija za senzorsko vibracijsko okruženje ili za variranje lokacije senzora od težišta;
+
+3. Elektroničko upravljanje redundancijom podataka ili redundancijom sustava radi otkrivanja greške, otpornosti na grešku, izoliranje greške ili rekonfiguriranje;
+
+Napomena: 7E004.b.3. ne kontrolira »tehnologiju« za izrađenje fizičke redundancije.
+
+4. Kontrole leta koje dopuštaju kontrole iz letjelice rekonfiguracije sile i momenta za autonomnu kontrolu zračnog vozila u realnom vremenu;
+
+5. Integracija podataka digitalne kontrole leta, navigacije i kontrole propulzije u digitalni sustav upravljanja letom za »potpunu kontrolu leta«;
+
+Napomena: 7E004.b.5. ne kontrolira:
+
+a. »Razvoj« »tehnologije« za integraciju podataka digitalne kontrole leta, navigacije i kontrole propulzije u digitalni sustav upravljanja letom kako bi se postigla »optimizacija putanje leta«;
+
+b. »Razvoj« »tehnologije« za sustave instrumenata za let u »zrakoplovu« integrirane samo za VOR, DME, ILS ili MLS navigaciju ili pristupe.
+
+6. Digitalni sustavi kontrole leta s punim ovlastima ili multisenzorski sustavi za upravljanje misijom koji koriste »ekspertni sustavi«;
+
+Napomena: Za »tehnologiju« za Digitalna kontrola motora s punim ovlastima (Full Authority Digital Engine Control (»FADEC«)), vidi 9E003.a.9.
+
+c. »Tehnologija« za »razvoj« helikopterskih sustava, kako slijedi:
+
+1. Višeosni fly-by-wire ili fly-by-light kontrolni uređaji koji kombiniraju barem dvije funkcije od niže navedenih u jedan kontrolni element:
+
+a. Kontrola promjene temeljnog koraka rotora;
+
+b. Ciklička kontrola kraka rotora;
+
+c. Kontrola njihanja;
+
+2. »Kontrolni sustavi s kontroliranim kruženjem protiv zaokretnog momenta ili s kružno kontroliranim smjerom«;
+
+3. Krila rotora koja sadrže »Aeroprofili promjenljive geometrije« za korištenje u sustavima koji koriste kontrolu pojedinih krila propelera.
+
+7E101 »Tehnologija« u skladu s Općom tehnološkom napomenom za »uporabu« opreme navedene u 7A001 do 7A006, 7A101 do 7A106, 7A115 do 7A117, 7B001, 7B002, 7B003, 7B102, 7B103, 7D101 do 7D103.
+
+7E102 »Tehnologija« za zaštitu avionike i električnih podsustava od elektromagnetskog impulsa (EMP) i opasnosti elektromagnetske interferencije (EMI), iz vanjskih izvora, kako slijedi:
+
+a. »Tehnologija« za izrađenje zaštitnih sustava;
+
+b. Konstrukcijska »tehnologija« za konfiguraciju otvrdnjivanja električnih krugova i podsustava;
+
+c. Konstrukcijska »tehnologija« za utvrđivanje kriterija otvrdnjivanja iz 7E102.a. i 7E102.b.
+
+7E104 »Tehnologija« za integraciju kontrole leta, navođenja i podataka propulzije u sustav upravljanja letom radi optimizacije putanje raketnog sustava.
+
+#### KATEGORIJA 8 — POMORSTVO
+
+| 8A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+8A001 Ronilice i površinska plovila, kako slijedi:
+
+Napomena: Za kontrolni status opreme za ronilice, vidi:
+
+Kategorija 5, 2. Dio »Sigurnost informacija« za opremu za šifriranu komunikaciju;
+
+Kategorija 6 za senzore;
+
+Kategorije 7 i 8 za navigacijsku opremu;
+
+Kategorija 8A za podvodnu opremu.
+
+a. Ronilice s veznim kablom s posadom izrađene za rad na dubinama preko 1000 m;
+
+b. Autonomne ronilice (bez veznog kabla) s posadom, koja imaju nešto od sljedećega:
+
+1. Izrađene za ‘autonoman rad’ i imaju kapacitet podizanja za sve navedeno:
+
+a. 10% ili više od njihove težine u zraku; i
+
+b. 15 kN ili više;
+
+2. Izrađene za rad na dubinama preko 1000 m; ili
+
+3. Koje imaju sve navedeno:
+
+a. Izrađene za ‘autonoman rad’ za 10 sati ili više; i
+
+b. Imaju ‘doseg’ od 25 nautičkih milja ili više; i
+
+Tehničke napomene:
+
+1. Za svrhe 8A001.b., ‘autonoman rad’ označava potpuno potopljenu, bez cijevi za zrak (šnorkla), svi sustavi rade na i kreće se minimalnom brzinom pri kojoj ronilica može sigurno kontrolirati svoju dubinu, dinamično, koristeći samo svoje dubinska kormila, bez potrebe za pomoćnim plovilom ili bez potpore s površine, dna ili obale, i sadrži sustav propulzije za uporabu ispod površine i na površini.
+
+2. Za potrebe 8A001.b., ‘doseg’ označava polovicu maksimalne udaljenosti do koje ronilica ‘djeluje samostalno’.
+
+c. Bespilotne, ronilice izrađene za rad pri dubinama preko 1000 m, koje imaju nešto od sljedećega:
+
+1. Korištene za manevriranje s vlastitim pogonom koristeći porivne motore ili vijke u sapnici navedene u 8A002.a.2.; ili
+
+2. Imaju svjetlovodnu vezu;
+
+d. Autonomna podvodna vozila bez veznog kabla, koja imaju nešto od sljedećega:
+
+1. Izrađena za određivanje kursa prema bilo kakvim geografskim referencama bez pomoći čovjeka u realnom vremenu;
+
+2. Imaju akustičku vezu ili zapovjednu vezu; ili
+
+3. Imaju svjetlovodnu ili zapovjednu vezu preko 1000 m;
+
+e. Sustavi spašavanja na moru s kapacitetom podizanja preko 5 MN za izvlačenje objekata s dubina preko 250 m i koji imaju nešto od navedenoga:
+
+1. Dinamični sustav za pozicioniranje s mogućnošću zadržavanja pozicije unutar 20 m od dane točke koju daje navigacijski sustav; ili
+
+2. Navigacija prema morskom dnu i navigacijski integracijski sustavi za dubine preko 1000 m s točnošću pozicioniranja unutar 10 m od prethodno određene točke;
+
+f. Lebdjelice (potpuno oivičene zavjesom) koji imaju sve navedene osobine:
+
+1. Maksimalna projektirana brzina, pri punom opterećenju, preko 30 čvorova pri značajnoj visini vala od 1,25 m (stanje mora 3) ili više;
+
+2. Tlak u zračnom jastuku preko 3830 Pa; i
+
+3. Omjer lake i pune istisnine manji od 0,70;
+
+g. Lebdjelice (čvrste vanjske stjenke) s maksimalnom projketiranom brzinom, pri punom opterećenju, preko 40 čvorova pri značajnoj visini vala od 3,25 m (stanje mora 5) ili više;
+
+h. Hidrokrilci s aktivnim sustavima za automatsko upravljanje sustava podvodnih krila, s maksimalnom projektiranom brzinom, pri punom opterećenju, preko 40 čvorova pri značajnoj visini vala od 3,25 m (stanje mora 5) ili više;
+
+i. ‘Plovila s malom uronjenom površinom koja imaju nešto od sljedećega:
+
+1. Puna istisnina preko 500 tona s maksimalnom projekiranom brzinom, pri punom opterećenju, preko 35 čvorova pri značajnoj visini vala od 3,25 m (stanje mora 5) ili više; ili
+
+2. Puna istisnina preko 1500 tona s maksimalnom projektiranom brzinom, pri punom opterećenju, preko 25 čvorova pri značajnoj visini vala od 4 m (stanje mora 6) ili više.
+
+Tehnička napomena:
+
+‘Plovilo s malom uronjenom površinom’ definirano je po sljedećoj formuli: površina na vodi pri projektiranom radnom gazu manjem od 2 × (istisnuti volumen na projektiranom radnom gazu)2/3.
+
+8A002 Sustavi, oprema i komponente, kako slijedi:
+
+Napomena: Za podvodne komunikacijske sustave, vidi Kategoriju 5, 1. dio – Telekomunikacije.
+
+a. Sustavi, oprema i komponente, posebno izrađeni ili modificirani za ronilice, izrađene za rad na dubinama preko 1000 m, kako slijedi:
+
+1. Tlačna kućišta ili tlačni trupovi s maksimalnim promjerom unutarnje komore preko 1,5 m;
+
+2. Porivni motori istosmjerne struje ili motori s vijkom u sapnici napajani istosmjernom strujom;
+
+3. Vezni kablovi, i konektori za njih koji koriste svjetlovode ojačane sintetičkim materijalima;
+
+4. Komponente proizvedene iz materijala navedenog u 8C001;
+
+Tehnička napomena:
+
+Predmet kontrole u 8A002.a.4. ne odnosi se na izvoz sintaktičke pjene kontrolirane po 8C001 u slučaju kada se radi o međufazi u proizvodnji i kada komponenta nije u završnom obliku.
+
+b. Sustavi posebno izrađeni ili modificirani za automatizirano upravljanje ronilica navedenih u 8A001 koji koriste navigacijske podatke i imaju servo upravljanje sa zatvorenom petljom:
+
+1. Omogućuju vozilu da se kreće unutar 10 m od prethodno određene točke u vodenom stupu;
+
+2. Održavanje pozicije vozila unutar 10 m od prethodno određene točke u vodenom stupu; ili
+
+3. Održavanje pozicije vozila unutar 10 m dok slijedi kabel na morskom dnu ili ispod njega;
+
+c. Uvodnici u trup ili konektori svjetlovodnih kablova;
+
+d. Podvodni vizualni sustavi, kako slijedi:
+
+1. Televizijski sustavi i televizijske kamere, kako slijedi:
+
+a. Televizijski sustavi (koji se sastoje od kamere, monitorske opreme i opreme za prijenos signala) koji imaju maksimalnu rezoluciju kada se mjeri u zraku ili više od 800 linija i posebno izrađeni ili modificirani za rad na daljinu s ronilicom;
+
+b. Podvodne televizijske kamere koje imaju maksimalnu rezoluciju kada se mjeri u zraku ili više od 1100 linija;
+
+c. Televizijske kamere niske razine osvijetljenosti posebno izrađene ili modificirane za korištenje pod vodom koje sadrže sve nabrojano:
+
+1. Cijevi za pojačavanje slike navedene u 6A002.a.2.a.; i
+
+2. Više od 150000 »aktivnih piksela« fotoosjetljive antene/senzora;
+
+Tehnička napomena:
+
+Maksimalna rezolucija kod televizije mjera je horizontalne rezolucije obično izražene maksimalnim brojem linija prema slici visoke rezolucije na ispitnom grafikonu, koristeći IEEE standard 208/1960 ili neki ekvivalentni standard.
+
+2. Sustavi, posebno izrađeni ili modificirani za rad na daljinu s podvodnim vozilom, koji koriste postupak minimiziranja učinka povratnog raspršenja, uključujući iluminatore zatvorenog područja ili »laserske« sustave;
+
+e. Fotografske kamere posebno izrađene ili modificirane za korištenje pod vodom na dubinama većim od 150 m s filmskim formatom 35 mm ili većim, i koje imaju nešto od sljedećega:
+
+1. Bilježenje na film podataka koje daje izvor koji se nalazi izvan kamere;
+
+2. Automatsko ispravljanje žarišne daljine; ili
+
+3. Kontrola automatske kompenzacije posebno izrađena da omogući korištenje kućišta podvodne kamere na dubinama većim od 1 000 m;
+
+f. Sustavi za elektronsko slikanje, posebno izrađeni ili modificirani za korištenje pod vodom, koji imaju sve od navedenog:
+
+1. Pojačivače slike navedene u 6A002.a.3.a. ili 6A002.a.2.b. koji ne koriste elektronsko pojačavanje slike kao kod mikrokanalne ploče; ili
+
+2. »Žarišne ravninske plohe« koje nisu »pogodne za svemir« navedene u 6A002.a.3.g.;
+
+g. Sustavi osvjetljavanja, kako slijedi, posebno izrađeni ili modificirani za korištenje pod vodom:
+
+1. Stroboskopski sustavi osvjetljavanja koji imaju mogućnost izlazne energije svjetlosti od više od 300 J po bljesku i brzinu bljeskanja više od 5 bljesaka u sekundi;
+
+2. Sustavi osvjetljavanja s argonskim lukom posebno izrađeni za korištenje ispod 1000 m;
+
+h. »Roboti« posebno izrađeni za korištenje pod vodom, kontrolirani korištenjem za to namijenjenog računala, koji imaju nešto od sljedećega:
+
+1. Sustavi koji kontroliraju »robot« koristeći informacije iz senzora koji mjere silu ili moment primijenjenu na vanjski predmet, udaljenost od vanjskog predmeta, ili taktilni osjet između »robota« i vanjskog predmeta; ili
+
+2. Mogućnost primjene sile od 250 N ili više ili moment od 250 Nm ili više i koji koriste slitine na bazi titanija ili »vlaknastih ili filamentnih« kompozitnih materijala;
+
+i. Daljinski upravljani manipulatori posebno izrađeni ili modificirani za korištenje s ronilicama, koji imaju nešto od sljedećega:
+
+1. Sustavi koji kontroliraju manipulator koji koriste koji koriste informacije iz senzora koji mjere moment ili silu primijenjenu na vanjski predmet, ili taktilni osjet između manipulatora i vanjskog predmeta; ili
+
+2. Kontrolirani proporcionalnim tehnikama gospodar-sluga ili korištenjem za to namijenjenog računala, i koji imaju 5 ili više stupnjeva slobode kretanja;
+
+Napomena: Kod utvrđivanja broja stupnjeva slobode kretanja uzimaju se u obzir samo one funkcije koje imaju proporcionalno upravljanje koristeći povratnu vezu ili koje koriste za to posebno programirano računalo
+
+j. Pogonski sustavi koji rade bez prisustva zraka, posebno izrađeni za korištenje pod vodom, kako slijedi:
+
+1. Brayton ili Rankine pogonski sustavi koji rade bez prisustva zraka s motorima u radu s kružnim procesom koji imaju nešto od sljedećega:
+
+a. Sustavi za kemijsko čišćenje ili upijanje plina i apsorpciju posebno izrađeni za uklanjanje ugljikovog dioksida, ugljikovog monoksida i čestica iz recirkuliranog motornog ispuha;
+
+b. Sustavi posebno izrađeni za korištenje jednoatomskog plina;
+
+c. Uređaji ili omotači posebno izrađeni za smanjenje buke pod vodom na frekvencijama ispod 10 kHz, ili specijalno ugrađeni uređaji za ublaživanje udara; ili
+
+d. Sustavi posebno izrađeni:
+
+1. Za stavljanje pod tlak produkata izgaranja ili za obnovu goriva;
+
+2. Za spremanje produkata izgaranja; i
+
+3. Za izbacivanje produkata izgaranja pri protutlaku od 100 kPa ili više;
+
+2. Diesel motor u radu sa zatvorenim ciklusom, koji imaju sve navedeno:
+
+a. Sustavi za kemijsko čišćenje ili upijanje posebno izrađeni za uklanjanje ugljikovog dioksida, ugljikovog monoksida i čestica iz recirkuliranog motornog ispuha;
+
+b. Sustavi posebno izrađeni za korištenje jednoatomskog plina;
+
+c. Uređaji ili omotači posebno izrađeni za smanjenje buke pod vodom na frekvencijama ispod 10 kHz, ili specijalno ugrađeni uređaji za ublažavanje udara; i
+
+d. Posebno izrađeni ispušni sustavi koji ne ispuštaju produkte izgaranja;
+
+3. Sustavi s gorivim ćelijama s izlazom preko 2 kW koji imaju nešto od sljedećega:
+
+a. Uređaji ili omotači posebno izrađeni za smanjenje buke pod vodom na frekvencijama ispod 10 kHz, ili specijalno ugrađeni uređaji za ublažavanje udara; ili
+
+b. Sustavi posebno izrađeni:
+
+1. Za stavljanje pod tlak produkata izgaranja ili za obnovu goriva;
+
+2. Za spremanje produkata izgaranja; i
+
+3. Za izbacivanje produkata izgaranja pri protutlaku od 100 kPa ili više;
+
+4. Stilingov kružni strojevi (bez prisustva zraka), koji imaju sve navedeno:
+
+a. Uređaji ili omotači posebno izrađeni za smanjenje buke pod vodom na frekvencijama ispod 10 kHz, ili specijalno ugrađeni uređaji za ublažavanje udara; i
+
+b. Specijalno projektirani sustavi ispuha koji izbacuju produkte izgaranja na protutlaku od 100 kPa ili više;
+
+k. Zavjese, brtve i poklopci, koji imaju nešto od sljedećega:
+
+1. Izrađeni za tlak u jastuku od 3,830 Pa ili više, predviđeni za plovidbu na valovima od 1,25 m (stanje mora 3) ili više i posebno izrađeni za lebdjelice (potpuno oivičene) navedene u 8A001.f.; ili
+
+2. Izrađeni za tlak u jastuku od 6,224 Pa ili više, predviđeni za plovidbu na valovima od 3,25 m (stanje mora 5) ili više i posebno izrađeni za lebdjelice (čvrste vanjske stjenke) navedene u 8A001.g.;
+
+l. Ventilatori za napuhavanje sa snagom većom od 400 kW posebno projektirani za lebdjelice navedene u 8A001.f. ili 8A001.g.;
+
+m. Potpuno uronjena subkavitirajuća ili superkavitirajuća podvodna krila posebno izrađena za plovila navedena u 8A001.h.;
+
+n. Aktivni sustavi posebno izrađeni ili modificirani za automatsko upravljanje kretanjem vozila ili plovila potaknutih djelovanjem mora navedenih u 8A001.f., 8A001.g., 8A001.h. ili 8A001.i.;
+
+o. Brodski vijci, sustavi prijenosa snage, sustavi za proizvodnju energije i sustavi za smanjenje buke, kako slijedi:
+
+1. Brodski vijak uronjen u vodu ili sustavi prijenosa energije, kako slijedi, posebno izrađeni za lebdjelice (potpuno oivičene ili s čvrstim vanjskim stjenkama), hidrokrilce ili plovila s malom uronjenom površinom navedena u 8A001.f., 8A001.g., 8A001.h. ili 8A001.i.:
+
+a. Superkavitirajući, super-ventilirani, djelomično uronjeni ili površinski piercing vijci predviđeni za snage veće od 7,5 MW;
+
+b. Kontrarotacijski vijci predviđeni za snage veće od 15 MW;
+
+c. Sustavi koji se koriste za smanjenje vrtloženja u cilju smirivanja dotoka vode na vijak;
+
+d. Laki reduktori velikog kapaciteta (K faktor preko 300);
+
+e. Osovinski sustavi za prijenos snage koji sadrže kompozitne materijake sposobne za prijenos snage veće od 1 MW;
+
+2. Brodski vijak uronjen u vodu, sustavi za proizvodnju i prijenos snage projektirani za korištenje na plovilima, kako slijedi:
+
+a. Vijci promjenjivog uspona i pripadne glavčine predviđeni za snage veće od 30 MW;
+
+b. Motori na električni pogon s unutarnjim tekućim hlađenjem s izlaznom snagom preko 2,5 MW;
+
+c. »Supravodljivi« pogonski strojevi, ili električni pogonski strojevi sa stalnim magnetima sa snagom većom od 0,1 MW;
+
+d. Osovinski sustavi za prijenos snage koji sadrže kompozitne materijale sposobne za prijenos snage veće od 2 MW;
+
+e. Sustavi sa ventiliranim ili u korijenu ventiliranim vijcima predviđenim za snage veće od 2,5 MW;
+
+3. Sustavi za smanjenje buke izrađeni za korištenje na plovilima istisnine 1000 tona ili više, kako slijedi:
+
+a. Sustavi koji smanjuju podvodnu buku na frekvencijama ispod 500 Hz i sastoje se od akustičkih elemenata za zvučnu izolaciju dizelskih strojeva, dizelskih generatora, plinskih turbina, generatora pogonjenih plinskim turbinama, pogonskih strojeva ili pogonskih reduktora, posebno izrađenih za zvučnu ili vibracijsku izolaciju, koji imaju srednju masu preko 30% mase opreme koju nose;
+
+b. Sustavi aktivnog smanjenja buke ili poništenja, ili sustavi na magnetskim ležajevima, posebno izrađeni za sustave prijenosa snage, i koji imaju u sebi elektroničke sustave kontrole s mogućnošću aktivnog smanjivanja vibracije opreme generiranjem protuzvučnih i protuvibracijskih signala izravno u izvor;
+
+p. Mlazni pogonski sustavi s izlaznom snagom preko 2,5 MW koristeći tehnike različitih mlaznica i lopatica za regulaciju toka kako bi se popravio pogonski radni učinak i smanjio pogonom generirani podvodni šum koji se širi kroz vodu;
+
+q. Samonosiva, ronilačka oprema sa zatvorenim ili poluzatvorenim krugom disanja i oprema za plivanje pod vodom.
+
+Napomena: 8A002.q. ne kontrolira pojedine uređaje za osobnu uporabu kada su oni uz korisnika.
+
+| 8B | Oprema za testiranje, inspekciju i proizvodnju |  |
+|---|---|---|
+
+8B001 Vodeni tuneli, koji imaju šum pozadine manji od 100 dB (referentna vrijednost 1 µPa, 1 Hz), u frekvencijskom području od 0 do 500 Hz, izrađeni za mjerenje akustičnih polja generiranih vodenim tokom oko modela propulzijskih sustava.
+
+| 8C | Materijali |  |
+|---|---|---|
+
+8C001 ‘Sintaktička pjena’ predviđena za korištenje pod vodom, koja ima sve navedeno:
+
+a. Predviđena za dubine mora preko 1000 m; i
+
+b. Gustoća manja od 561 kg/m3.
+
+Tehnička napomena:
+
+‘Sintaktička pjena’ je smjesa sintetičkog materijala i šupljih plastičnih ili staklenih kuglica umiješanih u smolu.
+
+NAPOMENA: Vidi također 8A002.a.4
+
+| 8D | Softver |  |
+|---|---|---|
+
+8D001 »Softver« posebno projektiran ili modificiran za »razvoj«, »proizvodnju« ili »uporabu« opreme ili materijala navedenih u 8A, 8B ili 8C.
+
+8D002 Poseban »softver« specijalno projektiran ili modificiran za »razvoj«, »proizvodnju«, popravljanje, generalni remont ili dotjerivanje vijaka posebno projektiranih za smanjenje podvodnog šuma.
+
+| 8E | Tehnologija |  |
+|---|---|---|
+
+8E001 »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« ili »proizvodnju« opreme ili materijala navedenih u 8A, 8B ili 8C.
+
+8E002 Druga »tehnologija«, kako slijedi:
+
+a. »Tehnologija« za »razvoj«, »proizvodnju«, popravljanje, generalni remont ili dotjerivanje vijaka posebno projektiranih za smanjenje podvodnog šuma;
+
+b. »Tehnologija« za generalni remont i dotjerivanje opreme navedene u 8A001, 8A002.b., 8A002.j., 8A002.o. ili 8A002.p.
+
+#### KATEGORIJA 9 — ZRAČNI I SVEMIRSKI PROSTOR I POGONSKI SUSTAVI
+
+| 9A | Sustavi, oprema i komponente |  |
+|---|---|---|
+
+NAPOMENA: Za pogonske sustave izrađene ili ocijenjene prema neutronskom ili prolaznom ionizirajućem zračenju, vidi kontrolu vojne robe.
+
+9A001 zrakoplovni plinskoturbinski motori koji u sebi imaju neke od »tehnologija« navedenih u 9E003.a., kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 9A101.
+
+a. Uključuje bilo koju od »tehnologija« navedenih u 9E003.a.; ili
+
+Napomena: 9A001.a. ne kontrolira zrakoplovno-plinskoturbinske motore, koje zadovoljavaju sljedeće:
+
+a. Odobreni od strane organa civilnog zrakoplovstva iz »zemlje sudionice«; i
+
+b. Namijenjeni pogonu nevojnog zrakoplova s posadom kojima je od strane »zemlje učesnice« izdano nešto od sljedećeg:
+
+1. civilna potvrda; ili
+
+2. Odgovarajući dokument priznat od strane Međunarodne organizacije za civilno zrakoplovstvo (ICAO).
+
+b. Izrađeni za pogon zrakoplova koji lete brzinom od 1,2 Macha ili većom, i čiji let traje duže od trideset minuta.
+
+9A002 ‘Pomorski plinski turbinski strojevi’ s ISO standardnim stalnim vrijednostima snage od 24245 kW ili više i specifičnom potrošnjom goriva ne preko 0,219 kg/kWh u području snage od 35 do 100%, i za njih posebno izrađeni sklopovi i komponente.
+
+Napomena: Termin ‘pomorski plinski turbinski strojevi’ uključuje one industrijske, ili aero-derivacijske, plinske turbinske strojeve prilagođene za brodsko generiranje električne struje ili pogon.
+
+9A003 Posebno izrađeni sklopovi i komponente, koje u sebi imaju neku od »tehnologija« navedenih u 9E003.a., za sljedeće pogonske sustave plinskog turbinskog stroja:
+
+a. Navedeni u 9A001;
+
+b. Čija konstrukcija ili proizvodnja potječe ili od »države ne-sudionice« ili je porijeklo nepoznato proizvođaču.
+
+9A004 Vozila za lansiranje u svemir i »svemirske letjelice«.
+
+NAPOMENA: VIDI TAKOĐER 9A104.
+
+Napomena: 9A004 ne kontrolira terete.
+
+NAPOMENA: Za kontrolni status proizvoda sadržanih u teretu »svemirskih letjelica«, vidi odgovarajuće kategorije.
+
+9A005 Tekući raketni pogonski sustavi koji sadrže neke od sustava ili komponenata navedenih u 9A006.
+
+NAPOMENA: VIDI TAKOĐER 9A105 i 9A119.
+
+9A006 Sustavi i komponente posebno izrađeni za tekuće raketne pogonske sustave, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 9A106 i 9A108.
+
+a. Kriogenski hladnjaci, Dewarove teretne posude, kriogenske toplinske cijevi ili kriogenski sustavi posebno izrađeni za korištenje u svemirskim vozilima i Pogodni za ograničavanje gubitaka kriogenske tekućine na manje od 30% godišnje;
+
+b. Kriogenski kontejneri ili sustavi hladnjaka sa zatvorenim krugom sposobni za dostizanje temperatura od 100 K (- 173 °C) ili niže za »zrakoplove« sposobne za neprekidni let pri brzinama iznad 3 Macha, lansirna vozila ili »svemirske letjelice«;
+
+c. Sustavi za pohranjivanje ili prebacivanje žitkog vodika;
+
+d. Visokotlačne (preko 17,5 MPa) turbo pumpe, pumpne komponente ili njihovi pridruženi pogonski sustavi plinskog generatora ili ekspander kružne turbine;
+
+e. Visokotlačne (preko 10,6 MPa) udarne komore i njihove mlaznice;
+
+f. Sustavi za spremanje goriva koji koriste načelo kapilarnog zadržavanja ili pozitivnog brizganja (tj. s fleksibilnim mjehurima);
+
+g. Injektori s tekućim pogonom, pojedinačnim otvorom promjera 0,381 mm ili manjim (površina od 1,14 × 10-3 cm2 ili manja za ne-kružne otvore) posebno izrađeni za raketne motore na tekuće gorivo;
+
+h. Monolitne ugljik-ugljik komore potiska ili monolitni ugljik-ugljik izlazni stošci s gustoćama preko 1,4 g/cm3 i vlačnim čvrstoćama preko 48 MPa.
+
+9A007 Čvrsti raketni pogonski sustavi s nečim od sljedećega:
+
+NAPOMENA: VIDI TAKOĐER 9A119.
+
+a. Ukupni impulsni kapacitet preko 1,1 MNs;
+
+b. Specifični impuls od 2,4 kNs/kg ili više kada je protok kroz mlaznicu proširen na okolne uvjete na razini mora za prilagođeni tlak u komori od 7 MPa;
+
+c. Etapni odlomci mase preko 88% i propulzijski čvrsti tereti preko 86%;
+
+d. Neka od komponenti navedenih u 9A008; ili
+
+e. Sustavi izolacije i pogonskog povezivanja koji koriste izravno povezane motore za ‘jaku mehaničku vezu’ ili za prepreku kemijskoj migraciji između krutog pogona i izolacijskog materijala kućišta.
+
+Tehnička napomena:
+
+Za svrhe 9A007.e., a ‘jaka mehanička veza’ označava snagu veze jednaku ili veću od pogonske snage.
+
+9A008 Komponente, kako slijedi, posebno izrađene za čvrste raketne pogonske sustave:
+
+NAPOMENA: VIDI TAKOĐER 9A108.
+
+a. Sustavi izolacije i pogonskog povezivanja koji koriste obloge za ‘jaku mehaničku vezu’ ili za prepreku kemijskoj migraciji između krutog pogona i izolacijskog materijala kućišta.
+
+Tehnička napomena:
+
+Za svrhe 9A008.a., ‘jaka mehanička veza’ označava snagu veze jednaku ili veću od snage pogona.
+
+b. »Složene« motorne kutije s namotanim vlaknima promjera preko 0,61 m koje imaju ‘stupanj korisnog djelovanja konstrukcije (PV/W)’ preko 25 km;
+
+Tehnička napomena:
+
+‘Stupanj korisnog djelovanja konstrukcije (PV/W)’ je nalet pritiska (P) pomnožen s volumenom broda (V) podijeljen ukupnom težinom pritiska broda (W).
+
+c. Mlaznice s razinom poriva preko 45 kN ili stupnjem erozije grla mlaznice manjim od 0,075 mm/s;
+
+d. Sustavi kontrole pomične mlaznice i sekundarnog vektora ubrizgavanja fluida koji su sposobni za nešto od sljedećega:
+
+1. Kretanje po svim osima preko ± 5°;
+
+2. Kutne vektorske rotacije od 20°/s ili više; ili
+
+3. Kutna vektorska ubrzanja od 40°/s2 ili više.
+
+9A009 Hibridni raketni pogonski sustavi s:
+
+NAPOMENA: VIDI TAKOĐER 9A109 i 9A119.
+
+a. Ukupni impulsni kapacitet preko 1,1 MNs; ili
+
+b. Razine poriva preko 220 kN u vakuumskim uvjetima izlaza.
+
+9A010 Posebno izrađene komponente, sustavi i strukture za lansirna vozila, pogonske sustave lansirnih vozila ili »svemirske letjelice«, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 1A002 I 9A110.
+
+a. Komponente i strukture, svaka preko 10 kg, posebno izrađene za lansirna vozila proizvedena korištenjem metalne »matrice«, »složene«, organičke »složene«, keramičke »matrice« ili intermetalnih pojačanih materijala navedenih u 1C007 ili 1C010;
+
+Napomena: Smanjenje mase nije relevantno za stošce prednjeg brida.
+
+b. Komponente i strukture posebno izrađene za pogonske sustave lansirnih vozila navedenih u 9A005 do 9A009 proizvedene korištenjem metalne matrice, složene, organske složene, keramičke matrice ili intermetalnih pojačanih materijala navedenih u 1C007 ili 1C010;
+
+c. Strukturne komponente i izolacijski sustavi posebno izrađeni za aktivnu kontrolu struktura dinamičnog odgovora ili iskrivljenja »svemirske letjelice«;
+
+d. Impulsni raketni motori na tekuće gorivo s omjerima poriv-masa jednakim ili većim od 1 kN/kg i vremenom odgovora (vrijeme potrebno za postizanje 90% ukupnog ocijenjenog poriva od aktivacije) kraćim od 30 ms.
+
+9A011 Ramjet, scramjet ili kombinirani ciklički motori i za to posebno izrađene komponente.
+
+NAPOMENA: VIDI TAKOĐER 9A111 i 9A118.
+
+9A012 »Bespilotne letjelice« (»UAVs«), odgovarajući sustavi, oprema i komponente, kako slijedi:
+
+a. »UAVs« koje imaju bilo što od sljedećeg:
+
+1. Autonomna kontrola leta i sposobnost navigacije (npr. autopilot a inercijskim navigacijskim sustavom); ili
+
+2. Sposobnost kontroliranja leta i direktnog vidnog polja uključujući čovjeka operatera (npr. televizualno daljinsko upravljanje).
+
+b. Odgovarajući sustavi, oprema ili komponente kako slijedi:
+
+1. Oprema posebno izrađenih za daljinski upravljane »UAVs« navedene u 9A012.a.;
+
+2. Sustavi za navigaciju, održavanje položaja, vođenje ili nadzor, osim onih navedenih u 7A, posebno izrađeni da omoguće samostalnu kontrolu leta ili navigaciju »UAV« navedenih u 9A012.a.;
+
+3. Oprema i komponente posebno izrađene za pretvaranje »zrakoplova« u »UAVs« navedenih u 9A012.a.
+
+4. Klipni ili rotacijski motori s unutarnjim izgaranjem, koji usisavaju zrak, posebno izrađeni ili prerađeni za pokretanje »UAV« na visinama iznad 50.000 stopa (15.240 m).
+
+9A101 Turbomlazni i turboventilatorski motori (uključujući turbosložene motore), osim onih koji su navedeni u 9A001, kako slijedi;
+
+a. Motori koji imaju obje navedene osobine:
+
+1. Maksimalna vrijednost poriva veća od 400 N (kada nije instaliran) osim civilnih certificiranih motora s maksimalnom vrijednosti poriva većom od 8890 N (kada nije instaliran), i
+
+2. Specifična potrošnja goriva od 0,15 kg/N/hr ili manje (pri maksimalnoj stalnoj snazi u statičnim uvjetima na razini mora i standardnim uvjetima);
+
+b. Motori izrađeni ili modificirani za korištenje u »raketnim projektilima« ili bespilotnim letjelicama navedenim u 9A012;
+
+9A102 »Sustavi turbopropelerskih motora« posebno izrađeni za zračne letjelice bez posade navedeni u 9A012, i posebno izrađene komponente za njih, s maksimalnom snagom većom od 10 kW.
+
+Napomena: 9A102 ne kontrolira motore s dozvolom za civilnu uporabu.
+
+Tehnička napomena:
+
+1. Za potrebe 9A102 »Sustavi turbopropelerskih motora« uključuju sve sljedeće značajke:
+
+a. Motore s turbopunjačem;
+
+b. Sustave za prijenos snage na propeler.
+
+2. Za potrebe 9A102 »maksimalna snaga« motora je dostignuta u standardnim uvjetima nadmorske visine (na razini mora)..
+
+9A104 Sondažne rakete, sposobne za dolet od najmanje 300 km.
+
+NAPOMENA: VIDI TAKOĐER 9A004.
+
+9A105 Raketni motori na tekuće gorivo, kako slijedi:
+
+NAPOMENA: VIDI TAKOĐER 9A119.
+
+a. Raketni motori na tekuće gorivo koji se mogu koristiti u »raketnim projektilima«, osim onih koji su navedeni u 9A005, a koji imaju ukupni impulsni kapacitet 1,1 MNs ili veći;
+
+b. Raketni motori na tekuće gorivo, koji se koriste u potpunim raketnim sustavima ili bespilotnim letjelicama, s mogućnošću dosega od 300 km, osim onih koji su navedeni u 9A005 ili 9A105.a., koji imaju ukupni impulsni kapacitet od 0,841 MNs ili više.
+
+9A106 Sustavi i komponente koji nisu navedeni u 9A006, posebno izrađeni za raketne pogonske sustave na tekuće gorivo, kako slijedi:
+
+a. Ablativne zaštitne obloge za komore za potisak i izgaranje, koje se koriste kod »projektila«, raketa nosača iz 9A004 ili sondažnih raketa iz 9A104;
+
+b. Raketne mlaznice koje se koriste kod »projektila«, raketa nosača iz 9A004 ili sondažnih raketa iz 9A104;
+
+c. Podsustavi kontrole vektora potiska koji se koriste kod »projektila«;
+
+Tehnička napomena:
+
+Primjeri metoda postizanja kontrole vektora potiska navedenih u 9A106.c. su:
+
+1. Fleksibilna mlaznica;
+
+2. Ubrizgavanje fluidnog ili sekundarnog plina;
+
+3. Pokretni motor ili mlaznica;
+
+4. Skretanje struje ispušnog plina (mlazne lopatice ili sonde); ili
+
+5. Jezičci za poriv.
+
+d. Kontrolni sustavi za tekuće i gusto gorivo (uključujući oksidante), i za to posebno izrađene komponente, izrađeni ili modificirani za rad u vibracijskim okruženjima od više od 10 g rms između 20 Hz i 2 kHz.
+
+Napomena: Jedini servo ventili i pumpe navedene u 9A106.d., su sljedeće:
+
+a. Servo ventili izrađeni za protok od 24 litre u minuti ili veći, pri apsolutnom pritisku od 7 MPa ili većem, koji imaju vrijeme izvršnog odgovora kraće od 100 ms;
+
+b. Pumpe, za tekuća goriva, s brzinama osovine jednakim ili većim od 8000 okr/min. ili s tlakovima poriva jednakim ili većim od 7 MPa.
+
+9A107 Raketni motori na kruto gorivo, koji se koriste u potpunim raketnim sustavima ili bespilotnim letjelicama, sa sposobnošću dosega od 300 km, osim onih koji su navedeni u 9A007, s ukupnim impulsnim kapacitetom od 0,841 MNs ili većim.
+
+NAPOMENA: VIDI TAKOĐER 9A119.
+
+9A108 Komponente, osim onih koje su navedene u 9A008, koje se mogu koristiti u »raketnim projektilima«, kako slijedi, posebno izrađeni raketni pogonski sustavi na kruto gorivo:
+
+a. Kućišta raketnih motora, i njihovi »izolacijski« dijelovi i komponente, koja se mogu koristiti kod »projektila«, nosača raketa iz 9A004 ili sondažnim raketama iz 9A104;
+
+b. Raketne mlaznice koje se mogu koristiti kod »projektila«, nosača raketa iz 9A004 ili sondažnim raketama iz 9A104;
+
+c. Podsustavi kontrole vektora potiska koji se mogu koristiti kod »projektila«.
+
+Tehnička napomena:
+
+Primjeri metoda postizanja kontrole vektora potiska navedenih u 9A108.c. su:
+
+1. Fleksibilna mlaznica;
+
+2. Ubrizgavanje fluidnog ili sekundarnog plina;
+
+3. Pokretni motor ili mlaznica;
+
+4. Skretanje struje ispušnog plina (mlazne lopatice ili sonde); ili
+
+5. Jezičci za potisak.
+
+9A109 Hibridni raketni motori, koji se mogu koristiti u »raketnim projektilima«, osim navedenih u 9A009, i za to posebno izrađene komponente.
+
+NAPOMENA: VIDI TAKOĐER 9A119.
+
+Tehnička napomena:
+
+U 9A109 »projektil« označava kompletan raketni sustav i sustav zračnih bespilotnih letjelica s doletom većim od 300 km.
+
+9A110 Kompozitni materijali, laminati i njihovi produkti, osim navedenih u 9A010, posebno izrađenim za uporabu kod ‘projektila’ ili podsustavima navedenim u 9A005, 9A007, 9A105, 9A106.c., 9A107, 9A108.c., 9A116 ili 9A119.
+
+NAPOMENA: VIDI TAKOĐER 1A002.
+
+Tehnička napomena:
+
+U 9A110 ‘projektil’ znači kompletni raketni sustavi i sustavi letjelica bez posade čiji doseg prelazi 300 km.
+
+9A111 Impulsni mlazni motori, koji se mogu koristiti u »raketnim projektilima« ili bespilotnim letjelicama navedenim u 9A012, i za to posebno izrađene komponente.
+
+NAPOMENA: VIDI TAKOĐER 9A011 i 9A118.
+
+9A115 Pomoćna oprema za lansiranje, izrađena ili modificirana za lansirna vozila navedena u 9A004 ili sondne rakete navedene u 9A104, kako slijedi:
+
+a. Naprave i uređaji za rukovanje, upravljanje, aktiviranje ili lansiranje, izrađena ili modificirana za vozila za lansiranje u svemir navedena u 9A004, bespilotne letjelice navedene u 9A012 ili sondne rakete navedene u 9A104;
+
+b. Vozila za transport, rukovanje, upravljanje, aktiviranje ili lansiranje izrađena ili modificirana za vozila za lansiranje u svemir navedena u 9A004 ili sondne rakete navedene u 9A104.
+
+9A116 Povratne letjelice, koje se koriste sa »raketnim projektilima«, i za to izrađena ili modificirana oprema, kako slijedi:
+
+a. Povratne letjelice;
+
+b. Toplinski štitovi i njihove komponente izrađeni od keramičkih ili ablativnih materijala;
+
+c. Toplinski odvodnici i njihove komponente izrađene od lakih materijala visokog toplinskog kapaciteta;
+
+d. Elektronička oprema posebno izrađena za Povratne letjelice.
+
+9A117 Mehanizmi etapiranja, mehanizmi razdvajanja, i međufaze, koji se mogu koristiti u »raketnim projektilima«.
+
+9A118 Uređaji za reguliranje izgaranja, uporabljivi u motorima, koji se mogu koristiti u »raketnim projektilima« ili bespilotnim letjelicama navedenim u 9A012, navedeni u 9A011 ili 9A111.
+
+9A119 Pojedinačne raketni stupnjevi, koji se mogu koristiti u potpunim raketnim sustavima ili zračnim bespilotnim letjelicama, s dosegom od 300 km, osim onih navedenih u 9A005, 9A007, 9A009, 9A105, 9A107 i 9A109.
+
+9A120 Rezervoari za tekuće gorivo, osim onih navedenih u 9A006, posebno namijenjeni za gorivo navedeno u 1C111 ili ‘ostala tekuća goriva’, koja se koriste u raketnim sustavima sposobnim za predaju najmanje 500 kg tereta na daljini ne manjoj od 300 km.
+
+Napomena: U 9A120 ‘ostala tekuća goriva’ uključuju, ali nije ograničeno samo na njih, i goriva navedena u kontrolama robe vojne namjene.
+
+9A350 Sustavi za raspršivanje ili zamagljivanje, posebno izrađeni ili modificirani radi montaže na zrakoplov, »vozila lakša od zraka« ili bespilotne letjelice, i posebno izrađene komponente za njih, kako slijedi:
+
+a. Kompletni sustavi za raspršivanje ili zamagljivanje sposobni za dostavljanja, iz tekućih suspenzija, početnog kapljičnog volumena »VMD« manjeg od 50µm s protokom većim od dvije litre u minuti;
+
+b. Jedinice za generiranje i dostavljanje aerosola u obliku oblaka ili mlaza, stvorenog od tekuće suspenzije, početnog kapljičnog volumena »VMD« manjeg od 50µm s protokom većim od dvije litre u minuti;
+
+c. Sklopovi za generiranje aerosola, posebno izrađeni za montažu na sustave navedene u 9A350.a. i b.
+
+Napomena: Jedinice za generiranje aerosola su uređaji, posebno izrađeni ili modificirani, radi postavljanja na zrakoplov kao što su mlaznice, rotirajući bubnjevi i slični uređaji.
+
+Napomena: 9A350 ne kontrolira sustave za raspršivanje ili zamagljivanje i njihove komponente za koje je poznato da ne mogu izbacivati biološke agense u obliku infektivnih aerosola.
+
+Tehničke napomene:
+
+1. Veličina kapljica opreme za raspršivanje ili veličina mlaznica posebno izrađenih za uporabu na zrakoplovima, ili bespilotnim letjelicama trebaju se mjeriti korištenjem nečeg od sljedećeg:
+
+a. Doplerova laserska metoda
+
+b. Napredna laserska difrakcijska metoda.
+
+2. U 9A350 pojam »VMD« označava Volume Median Diameter, i za sustave temeljene na uporabi vode, odgovora promjeru MMD (Mass Median Diameter).
+
+| 9B | Oprema za testiranje, inspekciju i proizvodnju |  |
+|---|---|---|
+
+9B001 Posebno izrađena oprema, alati i instalacije, kako slijedi, za proizvodnju krila plinskih turbina, lopatica ili odljevaka ovoja na vrhu:
+
+a. Oprema učvršćivanja smjera ili izlijevanja monokristala;
+
+b. Keramičke jezgre ili oplate;
+
+9B002 On-line kontrolni sustavi (u realnom vremenu), instrumenti (uključujući senzore) ili opremu automatiziranog dobivanja i obrade podataka, posebno izrađeni za »razvoj« motora plinskih turbina, sklopova ili komponenti koje sadrže »tehnologije« navedene u 9E003.a.
+
+9B003 Oprema posebno izrađena za »proizvodnju« ili testiranje četkastih brtvi plinskih turbina izrađena za rad pri najvišim brzinama preko 335 m/s, i temperaturama preko 773 K (500 °C), i posebno izrađene komponente ili dopunska oprema za nju.
+
+9B004 Alati, boje i instalacije za poluvodičko spajanje »superlegure«, titanij ili intermetalne kombinacije zračnih lopatica do diska opisane u 9E003.a.3. ili 9E003.a.6. za plinske turbine.
+
+9B005 On-line kontrolni sustavi (u realnom vremenu), instrumenti (uključujući senzore) ili opremu automatiziranog dobivanja i obrade podataka, posebno izrađeni za korištenje s nečim od sljedećega s tunelima ili uređajima:
+
+NAPOMENA: VIDI TAKOĐER 9B105.
+
+a. Zračni tuneli izrađeni za brzine od 1,2 Mach ili više,
+
+Napomena: 9B005.a. ne kontrolira zračne tunele posebno izrađene za edukaciju koji imaju ‘veličinu dijela za testiranje’ (mjereno bočno) manju od 250 mm;
+
+Tehnička napomena:
+
+‘Veličina dijela za testiranje’ označava promjer kruga, ili stranica kvadrata, ili najdulja stranica pravokutnika, na mjestu najvećeg dijela za testiranje.
+
+b. Uređaji za simuliranje protočnog okoliša pri brzinama preko 5 Mach, uključujući hot-shot tunele, tunele plazmičkog luka, udarne cijevi, udarne tunele, plinske tunele i lake plinske topove; ili
+
+c. Aerodinamički tuneli ili uređaji, osim dvodimenzionalnih dijelova, koji mogu simulirati protok s vrijednosti Reynoldsova broja preko 25 × 106.
+
+9B006 Ispitna oprema za zvučne vibracije sposobna proizvoditi zvučni tlak od 160 dB ili više (prema 20 µPa) s ocijenjenim izlazom od 4 kW ili više pri temperaturi ispitne ćelije preko 1273 K (1000 °C), i posebno izrađeni kvarcni grijači za to.
+
+NAPOMENA: VIDI TAKOĐER 9B106.
+
+9B007 Oprema posebno izrađena za pregled ispravnosti raketnih motora koristeći tehnike nerazornog testiranja (NDT) osim planarne rendgenske ili osnovne fizičke ili kemijske analize.
+
+9B008 Pretvarači posebno izrađeni za izravno mjerenje trenja na stjenkama kod ispitnog toka, pri stalnoj temperaturi preko 833 K  
+(560 °C).
+
+9B009 Alati posebno izrađeni za izradu komponenti rotora turbinskog motora od metalurgijske prašine sposobnih za rad pri stupnjevima naprezanja od 60% maksimalne vlačne čvrstoće (UTS) ili više i temperaturama metala od 873 K (600 °C) ili više.
+
+9B010 Oprema posebno izrađena za proizvodnju »UAVs« i odgovarajućih sustava, opreme i komponenata navedenih u 9A012.
+
+9B105 Aerodinamički tuneli za brzine od 0,9 Mach ili više, koji se mogu koristiti za »projektile« i njihove podsustave.
+
+NAPOMENA: VIDI TAKOĐER 9B005.
+
+Tehnička napomena:
+
+U 9B105 ‘projektil’ označava kompletan raketni sustav ili bespilotna letjelica s dometom većim od 300 km.
+
+9B106 Komore za simuliranje okoline, komore bez jeke (gluhe komore), kako slijedi:
+
+a. Komore sposobne za simuliranje sljedećih uvjeta leta:
+
+1. Imaju bilo koju od sljedećih značajki:
+
+a. Visine od 15 km ili veće; ili
+
+b. Raspona temperatura od barem 223 K (- 50 °C) do 398 K (+ 125 °C);
+
+2. Sadrže , ili su »izrađene ili prerađene« tako da sadre vibracijsku jedinicu ili drugu vibracijsku opremu za testiranje, za vibracije, jednake ili veće od 10 g rms, mjerene na »probnom stolu«, između 20 Hz ili 2 kHz i sile veće ili jednake 5kN;
+
+Tehničke napomene:
+
+1. 9B106.a. opisuje sustave koji su sposobni generirati vibracije u okolini s jednim signalom (tj. sinusni signal), i sustave, koji mogu generirati slučajne širokopojasne vibracije (tj. spektar snage).
+
+2. U 9B106.a.1. ‘probni stol’ označava ravni stol ili površina bez utvrđivača ili drugih pomagala.
+
+3. U 9B106.a.2 »probni stol« označava ravni stol ili površina bez učvršćivača ili drugih pomagala.
+
+b. Komore sposobne za simuliranje sljedećih uvjeta leta:
+
+1. Akustički uvjeti pri razini ukupnog zvučnog pritiska od 140 dB ili više (prema 20 µPa) ili s ocijenjenom izlaznom snagom od 4 kW ili većom; i
+
+2. Visine od 15 km ili veće; ili
+
+3. Raspon temperatura od 223 K (- 50 °C) do 398 K (+ 125 °C).
+
+9B115 Posebno izrađena »oprema za proizvodnju« sustava, podsustava i komponenti navedenih u 9A005 do 9A009, 9A011, 9A101, 9A102, 9A104 do 9A109, 9A111, ili 9A116 do 9A120.
+
+9B116 Posebno izrađena »proizvodna postrojenja« vozila za lansiranje navedenih u 9A004, ili sustava, podsustava i komponenti navedenih u 9A005 do 9A009, 9A011, 9A101, 9A102, 9A104 do 9A109, 9A111, ili 9A116 do 9A120.
+
+9B117 Ispitni stolovi i ispitna postolja za rakete i raketne motore na kruto ili tekuće gorivo, koji imaju jednu od sljedećih osobina:
+
+a. Mogućnost ovladavanja s više od 68 kN potiska; ili
+
+b. Sposobnost za simultano mjerenje tri aksijalne potisne komponente.
+
+| 9C | Materijali |  |
+|---|---|---|
+
+9C108 »Izolacijski« materijal u rasutom stanju i »unutarnje prevlačenje« , osim onog navedenog u 9A008, za kućišta raketnih motora koji se mogu koristiti kod »projektila« ili su posebno izrađeni za ‘projektile’.
+
+Tehnička napomena:
+
+U 9C108 ‘projektil’ označava kompletan raketni sustav i sustav zrakoplovne bespilotne letjelice čiji dolet prelazi 300 km.
+
+9C110 Smolom impregnirani vlaknasti predimpregnirani materijali i metalom obloženi vlaknasti predoblici za to, za kompozitne strukture, laminati i proizvodi navedeni u 9A110, načinjeni ili s organičkom matricom ili metalnom matricom koristeći vlaknasta ili filamentna pojačanja sa »specifičnom vlačnom čvrstoćom« većom od 7,62 × 104 m i »specifičnim modulom« većim od 3,18 × 106 m.
+
+NAPOMENA: VIDI TAKOĐER 1C010 i 1C210.
+
+Napomena: Jedini smolom impregnirani vlaknasti predimpregnirani materijali navedeni u natuknici 9C110 jesu oni koji koriste smole s temperaturom prijelaza u staklo (Tg), nakon tretmana, preko 418 K (145 °C) kako je određeno ASTM D4065 ekvivalentu.
+
+| 9D | Softver |  |
+|---|---|---|
+
+9D001 »Softver« posebno izrađen ili modificiran za »razvoj« opreme ili »tehnologije« navedene u 9A001 do 9A119, 9B ili 9E003.
+
+9D002 »Softver« posebno izrađen ili modificiran za »proizvodnju« opreme navedene u 9A001 do 9A119 ili 9B.
+
+9D003 »Softver« posebno izrađen ili modificiran za »uporabu« »digitalno upravljanje motorom s punim ovlastima« (»FADEC«) za pogonske sustave navedene u 9A ili opreme navedene u 9B, kako slijedi:
+
+a. »Softver« u digitalnoj kontroli za pogonske sustave, uređaje za svemirska testiranja ili aero-motorne ispitne uređaje koji koriste zrak;
+
+b. »Softver« otporan na pogreške korišten u »FADEC« sustavima za pogonske sustave i ispitnim tehničkim uređajima.
+
+9D004 Drugi »softver«, kako slijedi:
+
+a. 2D ili 3D viskozni »softver« provjeren s podacima aerodinamičkog tunela ili probnog leta potreban za detaljno modeliranje strujanja motora;
+
+b. »Softver« za ispitivanje zračno plinskih turbinskih motora, sklopova ili komponenti, posebno izrađenih za sakupljanje i analizu podataka u realnom vremenu, i sposobnih za kontrolu povratne informacije, uključujući dinamično prilagođavanje ispitnih predmeta ili ispitnih uvjeta, za vrijeme trajanja ispitivanja;
+
+c. »Softver« posebno izrađen za kontrolu učvršćivanja smjera ili monokristalnog lijevanja;
+
+d. »Softver« i »izvornom kodu«, »kodu objekta« ili strojni kod potreban za »uporabu« aktivnih kompenzacijskih sustava za kontrolu zračnosti vrha lopatice rotora.
+
+Napomena: 9D004.d. ne kontrolira »softver« ugrađen u nekontroliranu opremu ili koji je potreban za održavanje aktivnosti povezanih za baždarenje ili popravak ili ažuriranje aktivnog kompenzacijskog sustava kontrole zračnosti.
+
+e. »Softver« posebno izrađen ili modificiran za »uporabu« »UAVs« i odgovarajućih sustava, opreme i komponenata navedenih u 9A012
+
+f. »Softver« posebno izrađen za dizajniranje unutarnjih prolaza za hlađenje kod lopatica motora plinskih turbina, krila i omotača.
+
+g. »Softver« koji ima sve od niže navedenih osobina:
+
+1. Posebno izrađen za predviđanje toplinskih i aeromehaničkih uvjeta, te uvjeta izgaranja u plinskim turbinama; i
+
+2. Predviđanje po teoretskom modelu, toplinskih i aeromehaničkih uvjeta, te uvjeta izgaranja koji se uspoređuju sa stvarnim podacima plinske turbine.
+
+9D101 »Softver« posebno izrađen ili modificiran za »uporabu« roba navedenih u 9B105, 9B106, 9B116 ili 9B117.
+
+9D103 »Softver« posebno osmišljen za modeliranje, simuliranje ili integraciju konstrukcije lansirnih vozila navedenih u 9A004 ili sondnih raketa navedenih u 9A104, ili podsustava navedenih u 9A005, 9A007, 9A105.a., 9A106, 9A108, 9A116 ili 9A119.
+
+Napomena: »Softver« naveden u 9D103 i dalje je pod kontrolom kada je kombiniran s posebno izrađenim hardverom navedenim u 4A102.
+
+9D104 »Softver« posebno izrađen ili modificiran za »uporabu« roba navedenih u 9A001, 9A005, 9A006.d., 9A006.g., 9A007.a., 9A008.d., 9A009.a., 9A010.d., 9A011, 9A101, 9A102, 9A105, 9A106.c., 9A106.d., 9A107, 9A108.c., 9A109, 9A111, 9A115.a., 9A116.d., 9A117 ili 9A118.
+
+9D105 »Softver« koji koordinira funkciju više od jednog podsustava, posebno izrađen ili modificiran za »uporabu« u lansirnim vozilima navedenim u 9A004, ili sondažnim raketama navedenim u 9A104.
+
+| 9E | Tehnologija |  |
+|---|---|---|
+
+Napomena: »Razvoj« ili »proizvodnja« »tehnologije« navedene u 9E001 do 9E003 za motore plinskih turbina ostaju pod kontrolom i kad se koriste kao »uporabu« »tehnologije« za popravljanje, ponovnu izgradnju i ispitivanje. Isključeni iz kontrole jesu: tehnički podaci, crteži ili dokumentacija za održavanje izravno povezani s baždarenjem, uklanjanjem ili zamjenom oštećenih ili nepopravljivih zamjenjivih dijelova, uključujući zamjenu čitavih motora ili motornih dijelova.
+
+9E001 »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« opreme ili »softvera« navedenih u 9A001.b., 9A004 do 9A012, 9A350, 9B ili 9D.
+
+9E002 »Tehnologija« u skladu s Općom tehnološkom napomenom za »proizvodnju« opreme navedene u 9A001.b., 9A004 do 9A011, 9A350 ili 9B.
+
+NAPOMENA: U vezi »Tehnologije« za popravak kontroliranih struktura, laminata ili materijala, vidi 1E002.f.
+
+9E003 Druga »tehnologija«, kako slijedi:
+
+a. »Tehnologija« »potrebna« za »razvoj« ili »proizvodnju« nekih od sljedećih komponenti ili sustava motora plinskih turbina:
+
+1. Lopatice, krila ili ovoji vrha plinske turbine napravljeni od usmjereno ojačanih (DS) ili monokristalnih (SC) legura koji imaju (u 001 Miller Index Direction) izdržljivost na napor-lom preko 400 sati 1273 K (1000 °C) pri naporu od 200 MPa, temeljeno na prosječnim karakterističnim vrijednostima;
+
+2. Komore izgaranja s više doma koje rade na prosječnim temperaturama izgaranja preko 1813 K (1540 °C) ili komore izgaranja koje imaju u sebi toplinski otpojene obloge komore izgaranja, nemetalne obloge ili ne-metalne oplate;
+
+3. Komponente izrađene od nečega od sljedećega:
+
+a. Organički »složeni« materijal osmišljeni za rad iznad 588 K (315 °C);
+
+b. Metalni »matrični« »složeni«, keramički »matrični«, intermetalni ili intermetalni pojačani materijali navedeni u 1C007; ili
+
+c. »Složeni« materijal naveden u 1C010 i izrađen sa smolama navedenim u 1C008.
+
+4. Neohlađene turbinske lopatice, krila, ovoji vrha ili druge komponente izrađene za rad pri temperaturama plinskog toka od 1323 K (1050 °C) ili većim, na razini mora - statički (Sea Level Static - SLS) - u uzletnim uvjetima i »stabilnom stanju« pri međunarodnoj standardnoj atmosferi (International Standard Atmosphere - ISA);
+
+5. Ohlađene turbinske lopatice, krila ili ovoji vrha, osim opisanih u 9E003.a.1., izložene temperaturama plinskog toka od 1643 K (1370 °C) ili većim na razini mora - statički (Sea Level Static - SLS) - u uzletnim uvjetima i »stabilnom stanju« pri međunarodnoj standardnoj atmosferi (International Standard Atmosphere - ISA);
+
+Tehnička napomena:
+
+Pojam »stabilno stanje« (steady state mode) definira uvjete djelovanja motora, ovisno o parametrima motora, kao što je potisak/snaga, broj okretaja u minuti i drugi, pri kojima se ne opažaju značajnija odstupanjaako su temperatura okoline i potiska na ulazu motora konstantni.
+
+6. Kombinacije zračnih lopatica do diska koje koriste poluvodičko spajanje;
+
+7. Komponente motora plinske turbine koje koriste »tehnologiju« »difuzijskog vezanja« navedenu u 2E003.b.;
+
+8. Rotirajuće komponente motora plinske turbine otporne na oštećenja koje koriste materijale od metalurgijske prašine navedene u 1C002.b.;
+
+9. »FADEC« za plinske turbine i kombinirane cikličke motore i njihove dijagnostičke komponente, senzore i posebno izrađene komponente;
+
+10. Prilagodljiva geometrija puta protoka i s tim povezani kontrolni sustavi za:
+
+a. Plinske generatorske turbine;
+
+b. Ventilatorske ili električne turbine;
+
+c. Propulzivne mlaznice;
+
+Napomena 1: Prilagodljiva geometrija puta protoka i s tim povezani kontrolni sustavi u 9E003.a.10. ne uključuju usmjerivačke lopatice, ventilatore promjenjive brzine, promjenjive statore ili ventile za uzimanje pare za kompresore.
+
+Napomena 2: 9E003.a.10. ne kontrolira »razvoj« ili »proizvodnju« »tehnologije« za prilagodljivu geometriju puta protoka za prekretni poriv.
+
+11. Šuplje lopatice ventilatora
+
+b. »Tehnologija« »potrebna« za »razvoj« ili »proizvodnju« nečega od navedenoga:
+
+1. Aeromodeli aerodinamičkih tunela opremljenih neintruzivnim senzorima sposobnim za prijenos podataka od senzora do sustava za dobivanje podataka; ili
+
+2. »Složene« propelerske lopatice ili propelerski ventilatori koji mogu apsorbirati više od 2000 kW pri brzinama leta 0,55 Mach;
+
+c. »Tehnologija« »potrebna« za »razvoj« ili »proizvodnju« komponenti motora plinske turbine koristeći »laserske«, vodenog mlaza, ECM ili EDM procese bušenja rupa za izradu rupa koje imaju bilo neke od navedenog:
+
+1. Sve sljedeće:
+
+a. Dubine više od četiri puta veće od promjera;
+
+b. Promjeri manji od 0,76 mm; i
+
+c. Napadni kutevi jednaki ili manji od 25°; ili
+
+2. Sve dolje navedeno:
+
+a. Dubine više od pet puta veće od promjera;
+
+b. Promjeri manji od 0,4 mm; i
+
+c. Napadni kutevi veći od 25°;
+
+Tehnička napomena:
+
+Za svrhe 9E003.c., napadni kut mjeri se od tangencijalne na ravninu do površine zračne lopatice u točki gdje os otvora dolazi na površinu zračne lopatice.
+
+d. »Tehnologija« »potrebna« za »razvoj« ili »proizvodnju« helikopterskih sustava prijenosa energije ili kosih rotorskih ili kosih krilnih sustava za prijenos energije »zrakoplova«;
+
+e. »Tehnologija« za »razvoj« ili »proizvodnju« pogonskih sustava stapnog dizel motora zemaljskog vozila koji imaju sve navedeno:
+
+1. ‘Volumen kutije’ 1,2 m3 ili manje;
+
+2. Ukupni izlaz snage veći od 750 kW na temelju 80/1269/EEC, ISO 2534 ili nacionalnih ekvivalenata; i
+
+3. Gustoća snage veća od 700 kW/m3 ‘volumen kutije’;
+
+<table>
+<tbody>
+
+<tr>
+<td colspan="3">Tehnička napomena:</td>
+</tr>
+
+<tr>
+<td colspan="3">»Volumen kutije« 9E003.e. je umnožak triju okomitih dimenzija izmjerenih na sljedeći način:</td>
+</tr>
+
+<tr>
+<td>Duljina:</td>
+<td colspan="2">Duljina koljenaste osovine od prednjeg izbojka do prednje strane zamašnjaka;</td>
+</tr>
+
+<tr>
+<td>Širina:</td>
+<td colspan="2">Najšira od sljedećih:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td>Vanjska dimenzija od poklopca ventila do poklopca ventila;</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td>Dimenzije vanjskih rubova glava cilindara; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td>Promjer kućišta zamašnjaka;</td>
+</tr>
+
+<tr>
+<td>Visina:</td>
+<td colspan="2">Najveća od sljedećih:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>a.</td>
+<td>Dimenzija središnje linije koljenaste osovine do najviše ravnine poklopca ventila (ili glave cilindra) plus dva puta hod; ili</td>
+</tr>
+
+<tr>
+<td></td>
+<td>b.</td>
+<td>Promjer kućišta zamašnjaka.</td>
+</tr>
+</tbody>
+
+</table>
+
+f. »Tehnologija« »potrebna« za »proizvodnju« posebno izrađenih komponenti, kako slijedi, za visokoizlazne dizel motore:
+
+1. »Tehnologija« »potrebna« za »proizvodnju« motornih sustava koji imaju sve navedene komponente koje koriste keramičke materijale navedene u 1C007:
+
+a. Obloge cilindra;
+
+b. Klipovi;
+
+c. Glave cilindra; i
+
+d. Jedna ili više drugih komponenti (uključujući ispušne raspore, turbopuhala, uređaje za usmjeravanje ventila, sklopove ventila, ili izolirane uređaje za ubrizgavanje goriva);
+
+2. »Tehnologija« »potrebna« za »proizvodnju« sustava turbopuhala, s jednostupanjskim kompresorima koji imaju sve navedeno:
+
+a. Rade pri omjerima tlaka 4:1 ili većim;
+
+b. Protok mase u rasponu od 30 do 130 kg u minuti; i
+
+c. Promjenjiva sposobnost površine toka u kompresorskom ili turbinskom dijelu;
+
+3. »Tehnologija« »potrebna« za »proizvodnju« sustava ubrizgavanja goriva s posebno osmišljenom mogućnošću korištenja više vrsta goriva (npr. dizel ili mlazno gorivo) koja pokriva raspon viskoznosti od dizel goriva (2,5 cSt pri 310,8 K (37,8 °C)) sve do benzinskog goriva (0,5 cSt pri 310,8 K (37,8 °C)), i koja ima oboje niže navedeno:
+
+a. Količina ubrizgavanja veća od 230 mm3 po ubrizgu po cilindru; i
+
+b. Posebno izrađena obilježja elektroničke kontrole za automatsko preklapanje regulatora ovisno o svojstvu goriva za davanje istih osobina zakretnog momenta korištenjem odgovarajućih senzora;
+
+g. »Tehnologija« »potrebna« za »razvoj« ili »proizvodnju« visokoizlaznih dizel motora za podmazivanje zidova cilindra krutim, plinsko faznim ili tekućim filmom (ili kombinacijama navedenih), koje omogućuje rad na temperaturama preko 723 K (450 °C), mjereno na zidu cilindra na najvišoj granici puta najvišeg prstena klipa.
+
+Tehnička napomena:
+
+Visokoizlaznih dizel motori: dizel motori sa specificiranim kočionim srednjim radnim pritiskom od 1,8 MPa ili više na brzini od 2300 r.p.m., pod uvjetom da je ocijenjena brzina 2300 r.p.m. ili više.
+
+9E101 a. »Tehnologija« u skladu s Općom tehnološkom napomenom za »razvoj« roba navedenih u 9A101, 9A102, 9A104 do 9A111 ili 9A115 do 9A119.
+
+b. »Tehnologija« u skladu s Općom tehnološkom napomenom za »proizvodnju« ‘UAV’ navedenih 9A012 ili roba navedenih u 9A101, 9A102, 9A104 do 9A111 ili 9A115 do 9A119.
+
+Tehnička napomena:
+
+U 9E102 ‘UAV’ znači letjelice bez posade (UAV- Unmanned Aerial Vehicle) čiji doseg prelazi 300 km.
+
+9E102 »Tehnologija« u skladu s Općom tehnološkom napomenom za »uporabu« nosača raketa navedenih u 9A004, ili roba navedenih u 9A005 do 9A011, ‘UAV’ navedenih u 9A012 ili roba navedenih u 9A101, 9A102, 9A104 do 9A111, 9A115 do 9A119, 9B105, 9B106, 9B115, 9B116, 9B117, 9D101 ili 9D103.
+
+Tehnička napomena:
+
+U 9E102 ‘UAV’ znači letjelice bez posade (UAV- Unmanned Aerial Vehicle) čiji doseg prelazi 300 km.
+
+[1]Proizvođači koji točnost postavljanja računaju u skladu s ISO 230/2 (1997) trebaju se obratiti nadležnim tijelima u državi sudionici u kojoj djeluju.
+
+[2]Proizvođači koji točnost pozicioniranja računaju u skladu s ISO 230/2 (1997) trebaju se obratiti nadležnim tijelima u državi sudionici u kojoj djeluju.
+
+[3]Proizvođači koji točnost postavljanja računaju u skladu s ISO 230/2 (1997) trebaju se obratiti nadležnim tijelima u državi sudionici u kojoj djeluju.
+
+## Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom (NN 138/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/138/2933*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 3. Zakona o izvozu robe s dvojnom namjenom (»Narodne novine«, br. 100/2004 i 84/2008), Vlada Republike Hrvatske je na sjednici održanoj 6. prosinca 2012. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O POPISU ROBE S DVOJNOM NAMJENOM**
+
+##### Članak 1.
+
+U Uredbi o Popisu robe s dvojnom namjenom (»Narodne novine«, br. 184/2004, 62/2007, 57/2008, 63/2009 i 3/2010), u članku 1. riječi: »Ministarstvo gospodarstva, rada i poduzetništva« zamjenjuju se riječima: »Državni ured za trgovinsku politiku«.
+
+##### Članak 2.
+
+Prilog – Popis robe s dvojnom namjenom zamjenjuje se s Prilogom – Popis robe s dvojnom namjenom, koji je sastavni dio ove Uredbe.
+
+##### Članak 3.
+
+Ova Uredba prestaje važiti danom pristupanja Republike Hrvatske Europskoj uniji.
+
+##### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 331-02/12-01/05
+
+Urbroj: 50301-05/05-12-2
+
+Zagreb, 6. prosinca 2012.
+
+Predsjednik  
+Zoran Milanović, v. r.
+
+#### PRILOG
+
+### POPIS ROBE S DVOJNOM NAMJENOM

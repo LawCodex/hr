@@ -6,16 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-02-06
-last_amended: 2005-07-25
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2014-12-12
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "12/02, 32/02, 117/03, 42/05, 90/05"
+narodne_novine: "12/02, 32/02, 117/03, 42/05, 90/05, 80/08, 148/13, 147/14"
 amendments:
   - "NN 32/2002 (701) Zakon o izmjenama i dopunama Zakona o brdsko-planinskim područjima"
   - "NN 117/2003 (1646) Zakon o izmjenama i dopunama Zakona o brdsko-planinskim područjima"
   - "NN 42/2005 (814) Zakon o izmjeni Zakona o brdsko-planinskim područjima"
   - "NN 90/2005 (1779) Zakon o izmjeni i dopuni Zakona o brdsko-planinskim područjima"
+  - "NN 80/2008 (2606) Zakon o izmjenama i dopunama Zakona o brdsko-planinskim područjima"
+  - "NN 148/2013 (3143) Zakon o izmjeni Zakona o brdsko-planinskim područjima"
+  - "NN 147/2014 (2752) Zakon o izmjenama Zakona o brdsko-planinskim područjima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/12/288"
 retrieved: 2026-10-12
 ---
@@ -24,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 12/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/12/288).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 32/2002, NN 117/2003, NN 42/2005, NN 90/2005.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 32/2002, NN 117/2003, NN 42/2005, NN 90/2005, NN 80/2008, NN 148/2013, NN 147/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -564,3 +567,177 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o brdsko-planinskim područjima (NN 80/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/80/2606*
+
+HRVATSKI SABOR
+
+2606
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O BRDSKO-PLANINSKIM PODRUČJIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o brdsko-planinskim područjima, kojega je Hrvatski sabor donio na sjednici 2. srpnja 2008. godine.  
+Klasa: 011-01/08-01/75  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 4. srpnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O BRDSKO-PLANINSKIM PODRUČJIMA**
+
+### Članak 1.
+
+U Zakonu o brdsko-planinskim područjima (»Narodne novine«, br. 12/02., 32/02., 117/03., 42/05. i 90/05.) u članku 4. stavku 2. riječi: »Ministarstvo za javne radove, obnovu i graditeljstvo« zamjenjuju se riječima: »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva«.  
+Stavak 3. mijenja se i glasi:  
+»Program održivog razvoja iz stavka 2. ovoga članka Ministarstvo izrađuje u suradnji s Ministarstvom zaštite okoliša, prostornog uređenja i graditeljstva, Ministarstvom poljoprivrede, ribarstva i ruralnog razvoja, Ministarstvom gospodarstva, rada i poduzetništva i jedinicama lokalne samouprave na brdsko-planinskim područjima.«
+
+### Članak 2.
+
+U članku 7.b stavci 2. i 3. mijenjaju se i glase:  
+»(2) Obveznici poreza na dobit koji obavljaju djelatnost poljoprivrede i ribarstva na brdsko-planinskom području i zapošljavaju više od pet zaposlenika na neodređeno vrijeme, pri čemu više od 50% zaposlenika ima prebivalište i boravište na brdsko-planinskom području ili području posebne državne skrbi, plaćaju porez na dobit u visini 75% od propisane porezne stope do dana prijama Republike Hrvatske u Europsku uniju.  
+(3) Smatra se da obveznik poreza iz stavka 2. ovoga članka zapošljava zaposlenika na neodređeno vrijeme ako je zaposlenik proveo u radnom odnosu kod poreznog obveznika i imao prebivalište i boravište na brdsko-planinskom području ili području posebne državne skrbi najmanje devet mjeseci u poreznom razdoblju.«
+
+### Članak 3.
+
+Iza članka 7.c dodaje se članak 7.d koji glasi:  
+»Članak 7.d  
+(1) Obveznici poreza na dobit koji obavljaju djelatnost na brdsko-planinskom području, osim djelatnosti poljoprivrede i ribarstva, i zapošljavaju više od pet zaposlenika na neodređeno vrijeme, pri čemu više od 50% zaposlenika ima prebivalište i boravište na brdsko-planinskom području ili području posebne državne skrbi, plaćaju porez na dobit u visini 75% od propisane porezne stope u razdoblju od 2008. do 2010. godine.  
+(2) Iznos oslobađanja od plaćanja poreza na dobit za navedena vremenska razdoblja iz stavka 1. ovoga članka, utvrđuje se sukladno uvjetima i kriterijima utvrđenim Odlukom o objavi pravila o potporama male vrijednosti.  
+(3) Od 2011. godine obveznici poreza iz stavka 1. ovoga članka plaćat će porez na dobit u visini propisane važeće porezne stope.  
+(4) Smatra se da obveznik poreza iz stavka 1. ovoga članka zapošljava zaposlenika na neodređeno vrijeme ako je zaposlenik proveo u radnom odnosu kod poreznog obveznika i imao prebivalište i boravište na brdsko-planinskom području ili području posebne državne skrbi najmanje devet mjeseci u poreznom razdoblju.  
+(5) Pravilnik o načinu ostvarivanja porezne olakšice iz stavka 1. ovoga članka donosi ministar nadležan za regionalni razvoj uz suglasnost ministra financija.«
+
+### Članak 4.
+
+U članku 24. stavak 3. briše se.
+
+### Članak 5.
+
+Pravilnik iz članka 3. ovoga Zakona donijet će ministar nadležan za regionalni razvoj, najkasnije u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 015-01/08-01/05  
+Zagreb, 2. srpnja 2008.  
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o brdsko-planinskim područjima (NN 148/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3143*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O BRDSKO-PLANINSKIM PODRUČJIMA
+
+Proglašavam Zakon o izmjeni Zakona o brdsko-planinskim područjima, koji je Hrvatski sabor donio na sjednici 29. studenoga 2013. godine.
+
+Klasa: 011-01/13-01/267
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 4. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O BRDSKO-PLANINSKIM PODRUČJIMA**
+
+### Članak 1.
+
+U Zakonu o brdsko-planinskim područjima (»Narodne novine«, br. 12/02., 32/02., 117/03., 42/05., 90/05. i 80/08.) članak 7.c mijenja se i glasi:
+
+»Porez na dobit koji se ostvari na području jedinica lokalne samouprave koje imaju status brdsko-planinskih područja, a prihod je države, isplaćivat će se jedinicama lokalne samouprave na brdsko-planinskim područjima na kojima se ostvari, kao pomoć iz državnog proračuna:
+
+– u cijelosti ako indeks razvijenosti jedinice lokalne samouprave ne prelazi 75% prosjeka Republike Hrvatske,
+
+– u iznosu od 75% poreznih prihoda ako se indeks razvijenosti jedinice lokalne samouprave nalazi između 75% i 100% prosjeka Republike Hrvatske,
+
+– u iznosu od 60% poreznih prihoda ako se indeks razvijenosti jedinice lokalne samouprave nalazi između 100% i 125% prosjeka Republike Hrvatske,
+
+– u iznosu od 40% poreznih prihoda ako indeks razvijenosti jedinice lokalne samouprave prelazi 125% prosjeka Republike Hrvatske.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/268
+
+Zagreb, 29. studenoga 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o brdsko-planinskim područjima (NN 147/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/147/2752*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O BRDSKO-PLANINSKIM PODRUČJIMA
+
+Proglašavam Zakon o izmjenama Zakona o brdsko-planinskim područjima, koji je Hrvatski sabor donio na sjednici 2. prosinca 2014. godine.
+
+Klasa: 011-01/14-01/160
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 4. prosinca 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O BRDSKO-PLANINSKIM PODRUČJIMA**
+
+### Članak 1.
+
+U Zakonu o brdsko-planinskim područjima (»Narodne novine«, br. 12/02., 32/02., 117/03., 42/05., 90/05., 80/08. i 148/13.) članak 7.a briše se.
+
+### Članak 2.
+
+Članak 7.c briše se.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2015.
+
+Klasa: 022-03/14-1/145
+
+Zagreb, 2. prosinca 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

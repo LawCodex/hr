@@ -6,16 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-12-05
-last_amended: 2007-04-18
+last_amended: 2009-12-15
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "107/01, 87/02, 163/03, 141/04, 40/07"
+narodne_novine: "107/01, 87/02, 163/03, 141/04, 40/07, 149/09"
 amendments:
   - "NN 87/2002 (1448) Zakon o izmjeni Zakona o suzbijanju zlouporabe opojnih droga"
   - "NN 163/2003 (2349) Zakon o izmjenama i dopunama Zakona o suzbijanju zlouporabe opojnih droga"
   - "NN 141/2004 (2471) Zakon o izmjenama i dopuni Zakona o suzbijanju zlouporabe opojnih droga"
   - "NN 40/2007 (1347) Zakon o izmjeni Zakona o suzbijanju zlouporabe opojnih droga"
+  - "NN 149/2009 (3640) Zakon o izmjenama i dopuni Zakona o suzbijanju zlouporabe opojnih droga"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1756"
 retrieved: 2026-10-12
 ---
@@ -24,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 107/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1756).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 87/2002, NN 163/2003, NN 141/2004, NN 40/2007.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 87/2002, NN 163/2003, NN 141/2004, NN 40/2007, NN 149/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1131,3 +1132,157 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o suzbijanju zlouporabe opojnih droga (NN 149/2009)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2009/149/3640*
+
+HRVATSKI SABOR
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O SUZBIJANJU ZLOUPORABE OPOJNIH DROGA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o suzbijanju zlouporabe opojnih droga, koji je Hrvatski sabor donio na sjednici 4. prosinca 2009. godine.
+
+Klasa: 011-01/09-01/207
+
+Urbroj: 71-05-03/1-09-2
+
+Zagreb, 9. prosinca 2009.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O SUZBIJANJU ZLOUPORABE OPOJNIH DROGA**
+
+### Članak 1.
+
+U Zakonu o suzbijanju zlouporabe opojnih droga (»Narodne novine«, br. 107/01., 87/02., 163/03., 141/04. i 40/07.) u članku 28. stavku 2. iza riječi: »obavijestiti« dodaju se riječi: »ministarstvo nadležno za zdravstvo i«.
+
+### Članak 2.
+
+U članku 29. stavak 2. mijenja se i glasi:
+
+»(2) Vrstu i sadržaj dokumenata iz stavka 1. ovoga članka pravilnikom određuje ministar nadležan za zdravstvo.«
+
+### Članak 3.
+
+U članku 30. stavak 2. mijenja se i glasi:
+
+»(2) Način označavanja i sadržaj oznaka iz stavka 1. ovoga članka pravilnikom određuje ministar nadležan za zdravstvo.«
+
+### Članak 4.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Proizvođač tvari iz članka 2. stavka 1. točke 2. ovoga Zakona dužan je svaka tri mjeseca podnositi ministarstvu nadležnom za zdravstvo izvješće o:
+
+a) vrsti i količini izrađene tvari,
+
+b) namjeni, prodaji i predaji kupcu, korisniku, smještaju te svim drugim raspolaganjima s tvarima,
+
+c) stanju na zalihama ranije izrađenih tvari,
+
+d) svim drugim okolnostima bitnim za nadzor nad tvarima.
+
+(2) Sadržaj izvješća iz stavka 1. ovoga članka pravilnikom propisuje ministar nadležan za zdravstvo.«
+
+### Članak 5.
+
+Članak 32. mijenja se i glasi:
+
+»(1) Tvari iz članka 2. stavka 1. točke 2. ovoga Zakona mogu uvoziti, izvoziti ili provoziti pravne i fizičke osobe koje su tehnički opremljene i registrirane za obavljanje te djelatnosti i koje imaju odobrenje ministarstva nadležnog za zdravstvo.
+
+(2) Uvjete u pogledu tehničke opremljenosti pravnih i fizičkih osoba iz stavka 1. ovoga članka pravilnikom utvrđuje ministar nadležan za zdravstvo.«
+
+### Članak 6.
+
+U članku 33. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ministar nadležan za zdravstvo u popisu tvari iz članka 2. stavka 1. točke 2. ovoga Zakona utvrđuje koja se tvar može stavljati u promet samo na temelju pojedinačne dozvole i koja se tvar i u kojim količinama može stavljati u promet bez dozvole.
+
+(3) Dozvolu iz stavka 1. ovoga članka ministarstvo nadležno za zdravstvo izdaje na temelju zahtjeva osobe iz članka 32. stavka 1. ovoga Zakona u roku od osam dana. Sadržaj i obrazac zahtjeva propisuje ministar nadležan za zdravstvo.«
+
+Stavak 4. briše se.
+
+### Članak 7.
+
+U članku 47. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Podaci iz stavka 1. ovoga članka dostavljaju se Hrvatskom zavodu za toksikologiju koji ih najmanje jedanput godišnje dostavlja ministarstvu nadležnom za zdravstvo, a podaci iz stavka 1. ovoga članka za tvari koje su lijekovi dostavljaju se ministarstvu nadležnom za zdravstvo u propisanim rokovima, ali najmanje jedanput godišnje.
+
+(3) Oblik i sadržaj evidencije iz stavka 1. ovoga članka, te rokove i način dostave podataka pravilnikom propisuje ministar nadležan za zdravstvo.«
+
+### Članak 8.
+
+U članku 49. stavak 5. briše se.
+
+### Članak 9.
+
+U članku 50. stavku 1. riječi: »ministarstvo nadležno za gospodarstvo« brišu se.
+
+### Članak 10.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Droga, dijelovi biljke ili tvari iz članka 2. stavka 2. ovoga Zakona, oduzeti na temelju odredbi ovoga Zakona ili drugog propisa, uništit će se po pravomoćnosti presude ili rješenja ili po proteku roka od tri godine od dana podnošenja kaznene prijave nadležnom državnom odvjetništvu.
+
+(2) Droga, dijelovi biljke ili tvari iz stavka 1. ovoga članka čije bi čuvanje bilo opasno ili povezano s nerazmjernim teškoćama mogu se uništiti nakon provođenja nužnih dokaznih radnji.
+
+(3) Uništavanje iz stavka 2. ovoga članka određuje se nalogom suda na prijedlog državnog odvjetnika.«
+
+### Članak 11.
+
+U članku 63. stavku 1. točka 5. mijenja se i glasi:
+
+»5. ako u proizvodnji tvari iz članka 2. stavka 1. točke 2. ovoga Zakona svaka tri mjeseca ministarstvu nadležnom za zdravstvo ne podnese izvješće (članak 31. stavak 1.),«.
+
+Točka 6. briše se.
+
+Dosadašnja točka 7. koja postaje točka 6. mijenja se i glasi:
+
+»6. ako tvari iz članka 2. stavka 1. točke 2. ovoga Zakona uvozi, izvozi ili provozi ili uvozi u slobodne carinske zone ili carinska skladišta, a da nije tehnički opremljena i registrirana za obavljanje te djelatnosti ili ako nema odobrenje ministarstva nadležnog za zdravstvo (članak 32. stavak 1. i članak 28. stavak 3.),«.
+
+Točka 8. briše se.
+
+Dosadašnja točka 9. postaje točka 7.
+
+Dosadašnja točka 10. koja postaje točka 8. mijenja se i glasi:
+
+»8. ako stavlja u promet tvari iz članka 2. stavka 1. točke 2. ovoga Zakona bez dozvole ministarstva nadležnog za zdravstvo (članak 33. stavak 3.),«.
+
+Dosadašnja točka 11. postaje točka 9.
+
+Dosadašnja točka 12. koja postaje točka 10. mijenja se i glasi:
+
+»10. ako ne vodi propisane evidencije ili ih vodi netočno, neuredno ili sa zakašnjenjem ili ako propisane podatke ne dostavlja ministarstvu nadležnom za zdravstvo i Hrvatskom zavodu za toksikologiju (članci 46. i 47.)«.
+
+Dosadašnja točka 13. postaje točka 11.
+
+### Članak 12.
+
+U nazivu Zakona o suzbijanju zlouporabe opojnih droga i cijelom tekstu Zakona riječi: »opojna droga« u odgovarajućem broju i padežu zamjenjuje se riječju: »droga« u odgovarajućem broju i padežu.
+
+### Članak 13.
+
+Propise za čije je donošenje ovlašten ovim Zakonom ministar nadležan za zdravstvo donijet će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 530-08/09-01/01
+
+Zagreb, 4. prosinca 2009.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

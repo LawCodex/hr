@@ -6,16 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-11-30
-last_amended: 2005-04-15
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+last_amended: 2014-02-05
+status: in_force
+status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 49/2005 (949) https://narodne-novine.nn.hr/eli/sluzbeni/2005/49/949"
-narodne_novine: "106/01, 7/03, 174/04, 10/05, 49/05"
+narodne_novine: "106/01, 7/03, 174/04, 10/05, 49/05, 14/14"
 amendments:
   - "NN 7/2003 (80) Uredba o izmjenama Zakona o slatkovodnom ribarstvu"
   - "NN 174/2004 (3014) Zakon o izmjenama i dopunama Zakona o slatkovodnom ribarstvu"
   - "NN 10/2005 (179) Ispravak Zakona o izmjenama i dopunama Zakona o slatkovodnom ribarstvu"
+  - "NN 14/2014 (281) Zakon o izmjeni Zakona o slatkovodnom ribarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/49/949"
 retrieved: 2026-10-12
 ---
@@ -25,6 +26,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 106/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/106/1740).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 49/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/49/949).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1461,3 +1464,53 @@ Danom stupanja na snagu Zakona o izmjenama i dopunama Zakona o slatkovodnom riba
 – u članku 88. stavku 1. riječ: »ribarska inspekcija« i stavak 5. brišu se.
 
 NAPOMENA: Odbor za zakonodavstvo Hrvatskoga sabora ukazuje da je odredba članka 95. ovoga pročišćenog teksta u suprotnosti sa Zakonom o prekršajima prema kojemu je odredbom članka 7. onemogućeno da u podzakonskim propisima koji su ovlašteni donositi utvrđuju prekršaje i određuju kazne za te prekršaje.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjeni Zakona o slatkovodnom ribarstvu (NN 14/2014)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/281*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O SLATKOVODNOM RIBARSTVU
+
+Proglašavam Zakon o izmjeni Zakona o slatkovodnom ribarstvu, koji je Hrvatski sabor donio na sjednici 24. siječnja 2014. godine.
+
+Klasa: 011-01/14-01/15
+
+Urbroj: 71-05-03/1-14-2
+
+Zagreb, 28. siječnja 2014.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O SLATKOVODNOM RIBARSTVU**
+
+### Članak 1.
+
+U Zakonu o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01., 7/03., 174/04. i 10/05.) u članku 68.a stavku 2. točki 4. riječi: »a u dijelu stavljanja u promet inspektori Državnog inspektorata sukladno posebnim propisima« brišu se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/13-01/300
+
+Zagreb, 24. siječnja 2014.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.

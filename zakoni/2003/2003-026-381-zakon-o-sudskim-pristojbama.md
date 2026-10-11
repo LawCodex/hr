@@ -6,13 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-02-20
-last_amended: 2003-02-20
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+last_amended: 2015-10-13
+status: in_force
+status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 26/2003 (381) https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/381"
-narodne_novine: "26/03"
-amendments: []
+narodne_novine: "26/03, 125/11, 112/12, 157/13, 110/15"
+amendments:
+  - "NN 125/2011 (2505) Zakon o izmjenama i dopunama Zakona o sudskim pristojbama"
+  - "NN 112/2012 (2425) Zakon o dopuni Zakona o sudskim pristojbama"
+  - "NN 157/2013 (3295) Zakon o izmjenama i dopunama Zakona o sudskim pristojbama"
+  - "NN 110/2015 (2133) Zakon o dopunama Zakona o sudskim pristojbama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/381"
 retrieved: 2026-10-12
 ---
@@ -22,6 +26,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 26/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/381).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 26/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/381).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2011, NN 112/2012, NN 157/2013, NN 110/2015.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1169,3 +1175,720 @@ iznad 1.500,00 kuna 40,00 kuna.
 1. Pristojba iz ovoga Tar. br., plaća se na proteste koji se podnose po propisima o mjenici i čeku, kao i na zamjene protesta. Pristojba za protest lijepi se na samoj molbi kojom je tražen protest, a u slučaju usmene molbe, pristojba se lijepi na prijepis protesta koji ostaje u sudu. Na isti način postupa se i glede lijepljenja pristojbe za samu molbu.
 
 2. Ako se jednom molbom traži više protesta ili zamjena protesta, plaća se jedna pristojba za molbu, ali se u tom slučaju plaća i posebna pristojba za svaki protest ili zamjenu protesta.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjenama i dopunama Zakona o sudskim pristojbama (NN 125/2011)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2505*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudskim pristojbama, koji je Hrvatski sabor donio na sjednici 21. listopada 2011. godine.
+
+Klasa: 011-01/11-01/201
+
+Urbroj: 71-05-03/1-11-2
+
+Zagreb, 26. listopada 2011.
+
+Predsjednik  
+Republike Hrvatske  
+prof. dr. sc. Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96. i 137/02.) članak 39. mijenja se i glasi:
+
+»Sud će upozoriti stranku koja je nazočna sudskoj radnji za koju treba platiti pristojbu, a pristojbu nije odmah platila, da u roku od tri dana plati pristojbu. U upozorenju skrenut će pozornost stranci na posljedice neplaćanja pristojbe u tom roku (članak 40.). Na sudskom spisu naznačit će se da je dano upozorenje. Ukoliko stranka ne postupi po upozorenju, sud će donijeti rješenje o pristojbi kojim će stranku pozvati na plaćanje pristojbe u roku od osam dana od dostave rješenja.
+
+Ako stranka nije bila nazočna sudskoj radnji za koju mora platiti pristojbu, sud će donijeti rješenje o pristojbi kojim će stranku pozvati da u roku od osam dana od dostave rješenja plati dužnu pristojbu i upozoriti je na posljedice iz stavka 1. ovoga članka.
+
+Sud će voditi popis neplaćenih sudskih pristojbi.
+
+Kada putem pošte primi podnesak za koji pristojba nije plaćena ili nije dostatno plaćena, sud će donijeti rješenje o pristojbi kojim će pozvati podnositelja podneska da u roku od osam dana od dana dostave rješenja plati pristojbu te će ga upozoriti na posljedice iz stavka 1. ovoga članka.
+
+Rješenje o pristojbi iz stavka 1., 2. i 4. ovoga članka sadrži nalog stranci da utvrđeni iznos pristojbe u propisanom roku uplati na račun prihoda državnog proračuna Republike Hrvatske, kao i nalog Financijskoj agenciji za provedbu ovrhe na novčanim sredstvima stranke sa svih njezinih računa i oročenih novčanih sredstava prema odredbama zakona koji uređuje provedbu ovrhe na novčanim sredstvima, u slučaju ako stranka ne plati dužnu pristojbu.
+
+Kada neplaćena pristojba u pojedinim predmetima iznosi manje od 100,00 kuna, neće se primjenjivati odredbe ovoga članka.
+
+Na rješenje o pristojbi iz stavka. 1. i 4. ovoga članka plaća se dodatna pristojba u iznosu od 100,00 kuna.«.
+
+### Članak 2.
+
+Članak 39.a mijenja se i glasi:
+
+»Protiv rješenja o pristojbi iz članka 39. stavka 1., 2. i 4. ovoga Zakona, stranka može, u roku od tri dana od dana kad joj je rješenje dostavljeno, podnijeti prigovor prvostupanjskom sudu.
+
+Prvostupanjski sud može u povodu pravodobno podnesenog prigovora rješenjem o prigovoru, koje se mora otpremiti stranci u roku od tri dana, ukinuti ili preinačiti pobijano rješenje, odnosno odbiti prigovor. Na rješenje o prigovoru se na odgovarajući način primjenjuju odredbe članka 39. stavka 5. ovoga Zakona.
+
+Protiv rješenja iz stavka 2. ovoga članka stranka može izjaviti žalbu u roku od tri dana od dana kad ga je primila, a o žalbi odlučuje drugostupanjski sud.
+
+Drugostupanjski sud mora u roku od osam dana od dana kad je primio žalbu dostaviti prvostupanjskom sudu rješenje o žalbi.
+
+Spis postupka u kojem je stranka izjavila žalbu protiv rješenja iz stavka 2. ovoga članka neće se dostavljati drugostupanjskom sudu. Postupak ne smije zastati zbog toga što je stranka podnijela prigovor, odnosno izjavila žalbu u skladu s odredbama ovoga članka.
+
+Ako je stranka pravodobno podnijela prigovor iz stavka 1. ovoga članka, rok za plaćanje pristojbe teče od dostave rješenja o prigovoru, a u slučaju da je stranka pravodobno podnijela i žalbu iz stavka 3. ovoga članka rok za plaćanje pristojbe teče od dostave rješenja drugostupanjskog suda o žalbi.«.
+
+### Članak 3.
+
+Članak 39.b mijenja se i glasi:
+
+»Odredbe članka 39.a stavka 3., 4. i 5. ovoga Zakona ne primjenjuju se u postupku pred Upravnim sudom Republike Hrvatske.«.
+
+### Članak 4.
+
+Članak 40. mijenja se i glasi:
+
+»Kada stranka ne plati pristojbu u propisanom roku ili o tome bez odgađanja ne obavijesti sud, sud će u daljnjem roku od osam dana na rješenje o pristojbi, odnosno na rješenje o prigovoru staviti potvrdu o ovršnosti te dostaviti Financijskoj agenciji radi provedbe ovrhe na novčanim sredstvima stranke u skladu s odredbama zakona koji uređuje provedbu ovrhe na novčanim sredstvima. Navedene isprave predstavljaju osnovu za plaćanje u smislu zakona koji ureduje provedbu ovrhe na novčanim sredstvima.
+
+Ako Financijska agencija u roku od godine dana ne provede ovrhu na novčanim sredstvima i oročenim novčanim sredstvima stranke u skladu s odredbama zakona koji uređuje provedbu ovrhe na novčanim sredstvima u cjelokupnom iznosu pristojbene obveze, dostavit će osnovu za plaćanje iz stavka 1. ovoga članka nadležnoj ispostavi Područnog ureda Porezne uprave prema prebivalištu, odnosno sjedištu stranke kao pristojbenog obveznika radi provedbe ovrhe na njezinoj cjelokupnoj imovini prema propisima o prisilnoj naplati poreza.
+
+Ako stranka nema prebivalište, odnosno sjedište na području Republike Hrvatske, Financijska agencija će dostaviti osnovu za plaćanje iz stavka 1. ovoga članka ispostavi Područnog ureda Porezne uprave prema sjedištu suda koji je donio predmetnu osnovu za plaćanje.
+
+Naplaćena pristojba uplaćuje se na račun prihoda državnog proračuna Republike Hrvatske, a o izvršenoj naplati obavijestit će se sud.«.
+
+### Članak 5.
+
+Članak 45. mijenja se i glasi:
+
+»O zahtjevu za vraćanje pristojbe sud će donijeti rješenje i dostaviti ga Ministarstvu financija.
+
+Ministarstvo financija na temelju rješenja iz stavka 1. ovoga članka obavlja vraćanje pristojbe na teret prihoda državnog proračuna Republike Hrvatske.«.
+
+### Članak 6.
+
+U Tarifi sudskih pristojbi, Tar. br. 2. stavak 2. mijenja se i glasi:
+
+» (2) Za presudu zbog izostanka, za presudu zbog ogluhe, za presudu na temelju odricanja i za presudu na temelju priznanja, donesenu najkasnije na pripremnom ročištu ili na prvom ročištu za glavnu raspravu, ako pripremno ročište nije održano, plaća se pristojba iz stavka 2. Tar. br. 1.«.
+
+### Članak 7.
+
+U Tar. br. 3. stavku 1. riječi: »za 25%« zamjenjuju se riječima: »za 100%«.
+
+### Članak 8.
+
+U Tar. br. 4. stavak 1. mijenja se i glasi:
+
+»(1) Za sudsku nagodbu tijekom prvostupanjskog postupka ne plaća se pristojba.«.
+
+Stavak 2. briše se.
+
+### Članak 9.
+
+U Tar. br. 15. iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Za e-podnesak kojim se traži upis u EOP zemljišnu knjigu uknjižbe ili predbilježbe ili upis njihovog brisanja iz EOP zemljišne knjige, plaća se pristojba u iznosu od 30,00 kuna.
+
+(3) Ministar pravosuđa propisat će način naplate pristojbe za e-podneske iz stavka 2. ovoga članka posebnim pravilnikom u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona.«.
+
+### Članak 10.
+
+U Napomeni uz Tar. br. 16. točka 9. podstavak 2) mijenja se i glasi:
+
+»2) za upis potpunog ili djelomičnog brisanja nekog upisanog prava,«.
+
+### Članak 11.
+
+U Tar. br. 18. iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+» (2) Za ispise iz Baze zemljišnoknjižnih podataka, ako se izdaju na zahtjev stranke, plaća se pristojba u iznosu od 30,00 kuna.
+
+(3) Za povijesne izvatke iz digitalne zemljišne knjige i za povijesne ispise iz Baze zemljišnoknjižnih podataka, plaća se pristojba u iznosu od 30,00 kuna.«.
+
+U Napomeni uz Tar. br. 18. u točki 2. iza riječi: »izvatka« briše se zarez i dodaju riječi: »i ispisa iz Baze zemljišnoknjižnih podataka«.
+
+U Napomeni uz Tar. br. 18. u točki 3. iza riječi: »knjiga« dodaju se riječi: »i za ispise iz Baze zemljišnoknjižnih podataka«.
+
+### Članak 12.
+
+Iza Tar. br. 18. dodaju se podnaslovi i Tar. br. 18.a i 18.b koji glase:
+
+*»5. Prijepis ili preslika zbirke isprava*
+
+Tar. br. 18.a
+
+Za ovjeru prijepisa ili preslike isprava koje se nalaze u zbirci isprava plaća se pristojba u iznosu od 20,00 kuna, bez obzira na broj poluaraka izvornika.
+
+Napomena:
+
+Pod poluarkom se podrazumijeva list papira od dvije strane normalne uredske veličine. Započeti poluarak se računa kao cijeli poluarak.
+
+*6. Prijepis ili preslika ručno vođene zemljišne knjige*
+
+Tar. br. 18.b
+
+(1) Za ovjeru prijepisa ručno vođene zemljišne knjige plaća se pristojba u iznosu od 30,00 kuna po poluarku.
+
+(2) Za ovjeru preslike ručno vođene zemljišne knjige plaća se pristojba u iznosu od 30,00 kuna po poluarku.«.
+
+### Članak 13.
+
+Iza Tar. br. 29. dodaje se Tar. br. 29.a koji glasi:
+
+»Tar. br. 29.a
+
+(1) Za tužbu u prvostupanjskom upravnom sporu, ako je vrijednost predmeta spora procjenjiva, plaća se pristojba iz Tar. br. 1., ali ne manje od 200,00 kuna.
+
+(2) Ako je vrijednost predmeta spora neprocjenjiva, plaća se pristojba od 500,00 kuna.
+
+(3) Za prijedlog za obnovu upravnog spora, plaća se pristojba od 500,00 kuna.
+
+(4) Za prijedlog o ocjeni zakonitosti općih akata plaća se pristojba od 2.000,00 kuna.
+
+(5) Za podneske kojima se pokreće postupak pred Visokim upravnim sudom Republike Hrvatske plaća se pristojba iz stavka 1. i 2. ovoga Tar. broja.«.
+
+### Članak 14.
+
+Iza Tar. br. 30. dodaju se Tar. br. 30.a i 30.b koji glase:
+
+»Tar. br. 30.a
+
+(1) Za prvostupanjsku presudu i rješenje u upravnom sporu, ako je vrijednost predmeta spora procjenjiva, plaća se pristojba iz Tar. br. 2, ali ne manje od 200,00 kuna.
+
+(2) Za prvostupanjsku presudu i rješenje u upravnom sporu, ako vrijednost spora nije procjenjiva, plaća se pristojba od 500,00 kuna.
+
+(3) Za odluku o prijedlogu za obnovu upravnog spora plaća se pristojba od 500,00 kuna.
+
+(4) Za prvostupanjsku odluku Visokog upravnog suda Republike Hrvatske plaća se pristojba iz stavka 1. i 2. ovoga Tar. broja.
+
+Tar. br. 30.b
+
+(1) Za žalbu protiv prvostupanjske presude u upravnom sporu i za žalbu protiv rješenja donesenog u upravnom sporu, ako je vrijednost spora procjenjiva, plaća se iznos pristojbe iz stavka 1. Tar. br. 1. povećan za 25%.
+
+(2) Za žalbu protiv prvostupanjske presude u upravnom sporu i za žalbu protiv rješenja donesenog u upravnom sporu, ako je vrijednost spora neprocjenjiva, plaća se iznos pristojbe od 500,00 kuna.«.
+
+### Članak 15.
+
+Podnaslov iznad Tar. br. 39. »7. Prijepis« i Tar. br. 39. brišu se.
+
+### Članak 16.
+
+Iza Tar. br. 40. dodaje se podnaslov i Tar. br. 40.a koji glase:
+
+*»8.a Imenovanje stalnih sudskih vještaka i stalnih sudskih tumača*
+
+Tar. br. 40.a.
+
+(1) Za zahtjev za imenovanje stalnim sudskim vještakom i zahtjev za imenovanje stalnim sudskim tumačem plaća se sudska pristojba u iznosu od 100,00 kuna.
+
+2) Za odluku o imenovanju stalnim sudskim vještakom i odluku o imenovanju stalnim sudskim tumačem plaća se sudska pristojba u iznosu od 200,00 kuna.«.
+
+### Članak 17.
+
+Iza Tar. br. 41. dodaje se podnaslov i Tar. br. 41.a koji glase:
+
+*»9.a Primanje i čuvanje općih punomoći*
+
+Tar. br. 41.a
+
+(1) Za zahtjev za pohranjivanje opće punomoći plaća se sudska pristojba u iznosu od 100,00 kuna.
+
+(2) Za odluku o utvrđivanju da je opća punomoć pohranjena plaća se sudska pristojba u iznosu od 200,00 kuna.«.
+
+### Članak 18.
+
+Sudska pristojba u predmetima Upravnog suda Republike Hrvatske u kojima nije donesena odluka do 31. prosinca 2011., a koje je predmete preuzeo Visoki upravni sud Republike Hrvatske, plaćat će se sukladno Tar. br. 29. i 30. Zakona o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96. i 137/02.).
+
+### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 13. i 14. ovoga Zakona koji stupaju na snagu 1. siječnja 2012.
+
+Klasa: 412-03/11-01/01
+
+Zagreb, 21. listopada 2011.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.
+
+## Zakon o dopuni Zakona o sudskim pristojbama (NN 112/2012)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2425*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA
+
+Proglašavam Zakon o dopunama Zakona o sudskim pristojbama, koji je Hrvatski sabor donio na sjednici 28. rujna 2012. godine.
+
+Klasa: 011-01/12-01/114
+
+Urbroj: 71-05-03/1-12-2
+
+Zagreb, 4. listopada 2012.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96., 137/02., 26/03. i 125/11.) u Tar. br. 25. dodaje se novi stavak 2. koji glasi:
+
+»(2) Za prijavu za upis jednostavnog društva s ograničenom odgovornošću u sudski registar, plaća se pristojba od 30,00 kuna.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 2.
+
+U Tar. br. 26. dodaje se novi stavak 2. koji glasi:
+
+»(2) Za upis osnivanja jednostavnog društva s ograničenom odgovornošću plaća se pristojba od 30,00 kuna.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 412-03/12-01/01
+
+Zagreb, 28. rujna 2012.
+
+HRVATSKI SABOR
+
+Potpredsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudskim pristojbama (NN 157/2013)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3295*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudskim pristojbama, koji je Hrvatski sabor donio na sjednici 13. prosinca 2013. godine.
+
+Klasa: 011-01/13-01/305
+
+Urbroj: 71-05-03/1-13-2
+
+Zagreb, 18. prosinca 2013.
+
+Predsjednik  
+Republike Hrvatske  
+Ivo Josipović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96., 137/02., 26/03., 125/11. i 112/12.) u članku 3. stavku 3. iza riječi: »predlagatelj« umjesto zareza stavlja se točka, a riječi: »a za sudsku nagodbu obje stranke, osim ako se drukčije ne dogovore.« brišu se.
+
+### Članak 2.
+
+U članku 4. točki 1. riječ: »izvršenje« zamjenjuje se riječju: »ovrhu«.
+
+Iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. za odgovor na tužbu po pravomoćnom završetku postupka za svaku stranku razmjerno uspjehu u parnici.«.
+
+Dosadašnje točke 2., 3., 5., 6. i 7. postaju točke 3., 5., 6., 7. i 8.
+
+### Članak 3.
+
+Članak 10. mijenja se i glasi:
+
+»Pravo na naplatu pristojbe zastarijeva za pet godina po isteku godine u kojoj je trebalo platiti pristojbu.«.
+
+### Članak 4.
+
+U članku 12. stavku 2. riječ: »izvršnom« zamjenjuje se riječju: »ovršnom«.
+
+### Članak 5.
+
+Članak 13. briše se.
+
+### Članak 6.
+
+Članak 14. briše se.
+
+### Članak 7.
+
+Članak 15. briše se.
+
+### Članak 8.
+
+U članku 16. stavku 1. točki 2. riječi: »u obavljanju javnih ovlasti« zamjenjuju se riječima: »koji obavljaju javne ovlasti u obavljanju tih ovlasti«.
+
+Iza točke 3. dodaje se nova točka 4. koja glasi: »radnici u upravnim sporovima koji proizlaze iz predstečajne nagodbe,«.
+
+Dosadašnje točke 4., 5., 6., 7., 8. i 9. postaju točke 5., 6., 7., 8., 9. i 10.
+
+U dosadašnjoj točki 10. koja postaje točka 11. riječi: »tužitelji u parnicama o pravu na zakonsko uzdržavanje ili« zamjenjuju se riječima: »djeca kao stranke u postupcima radi uzdržavanja ili u postupcima«.
+
+Dosadašnje točke 11. do 16. postaju točke 12. do 17.
+
+Iza dosadašnje točke 17. koja postaje točka 18. umjesto točke stavlja se zarez i dodaje točka 19. koja glasi:
+
+»19. sindikati i udruge sindikata više razine u parničnim postupcima za sudsku nadomjesnu suglasnost i u kolektivnim radnim sporovima te sindikalni povjerenici u parničnim postupcima u obavljanju ovlasti radničkog vijeća.«
+
+U stavku 4. brojka: »9.« zamjenjuje se brojkom: »10.«, a riječi: »ministar rada i socijalne skrbi« zamjenjuju se riječima: »ministar nadležan za poslove socijalne skrbi«.
+
+### Članak 9.
+
+U članku 17. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Obveza plaćanja pristojbe iz prethodnog stavka nastaje nakon pravomoćnog završetka postupka.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječ: »popis« zamjenjuje se riječju: »evidenciju«, a iza riječi: »nakon« dodaje se riječ: »pravomoćnog«.
+
+### Članak 10.
+
+U članku 19. stavak 2. mijenja se i glasi:
+
+»Obveza plaćanja pristojbe iz prethodnog stavka nastaje nakon pravomoćnog završetka postupka.«.
+
+### Članak 11.
+
+U članku 20. stavku 1. riječ: »popis« zamjenjuje se riječju: »videnciju«.
+
+U stavku 2. riječ: »Popis« zamjenjuje se riječju: »Evidencija«, iza riječi: »nakon« dodaje se riječ: »pravomoćnog«, a riječi: »izdati nalog« zamjenjuju se riječima: »donijeti rješenje«.
+
+### Članak 12.
+
+U članku 26. iza riječi: »nalazi« umjesto zareza stavlja se točka, a riječi: »ali ne smije biti manja:
+
+1. za zemljište, od peterostrukog iznosa katastarskog prihoda s tog zemljišta,
+
+2. za poslovne zgrade, gospodarske zgrade ili poslovne prostorije koje su u zakupu, od jednogodišnjeg iznosa zakupnine,
+
+3. za stambene zgrade ili stanove kao posebne dijelove zgrade od jednogodišnjeg iznosa stanarine.« brišu se.
+
+### Članak 13.
+
+U članku 39. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Rješenje o pristojbi donosi i sve radnje u postupku naplate pristojbe poduzima službenik suda koji je za to ovlašten godišnjim rasporedom poslova. Rješenje sadrži OIB stranke.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3. koji postaje stavak 4. riječ: »popis« zamjenjuje se riječju: »evidenciju.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5. koji postaje stavak 6. brojke: »2. i 4.« zamjenjuju se brojkama: »3. i 5.«.
+
+Dosadašnji stavak 6. briše se.
+
+U stavku 7. brojka: »4.« zamjenjuje se sa brojkom: »5.«.
+
+### Članak 14.
+
+U članku 39.a stavak 1. mijenja se i glasi:
+
+»Protiv rješenja o pristojbi iz članka 39. stavaka 1., 3. i 5. ovoga Zakona stranka može u roku od tri dana od dana kada joj je rješenje dostavljeno podnijeti prigovor prvostupanjskom sudu.«.
+
+Stavak 2. mijenja se i glasi:
+
+»Prvostupanjski sud može u povodu podnesenog prigovora rješenjem, koje se mora otpremiti stranci u roku od tri dana, odbaciti prigovor kao nepravodoban, nepotpun ili nedopušten; odbiti prigovor kao neosnovan i potvrditi pobijano rješenje; uvažiti prigovor i rješenje preinačiti ili ukinuti te prema potrebi predmet vratiti na ponovni postupak. Na rješenje o prigovoru se na odgovarajući način primjenjuju odredbe članka 39. stavka 6. ovoga Zakona.«.
+
+### Članak 15.
+
+Članak 39.b briše se.
+
+### Članak 16.
+
+U članku 40. stavku 1. iza riječi: »u propisanom roku« dodaju se riječi: »iz članka 39. ovog Zakona«, a riječ: »osam« zamjenjuje se s brojkom: »15«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Ako Financijska agencija ne može provesti ovrhu na novčanim sredstvima i oročenim novčanim sredstvima ovršenika jer ovršenik u jedinstvenom registru računa koji vodi Financijska agencija nema otvorenih računa niti oročenih novčanih sredstava u skladu s odredbama zakona koji uređuje ovrhe na novčanim sredstvima u cjelokupnom iznosu pristojbene obveze, dostavit će odmah osnovu za plaćanje iz stavka 1. ovoga članka nadležnoj ispostavi područnog ureda Porezne uprave prema prebivalištu odnosno sjedištu stranke kao pristojbenog obveznika radi provedbe ovrhe na njezinoj cjelokupnoj imovini prema propisima o prisilnoj naplati poreza.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+### Članak 17.
+
+Članak 41. briše se.
+
+### Članak 18.
+
+Tar. br. 2. mijenja se i glasi:
+
+»(1) Za prvostupanjsku presudu kao i za rješenje u sporovima zbog smetanja posjeda plaća se, prema vrijednosti predmeta spora, pristojba iz stavka 1. Tar. br. 1.
+
+(2) Za presudu zbog ogluhe, za presudu bez održavanja rasprave te za presudu zbog izostanka, za presudu na temelju odricanja i za presudu na temelju priznanja, donesenu najkasnije na pripremnom ročištu ili na prvom ročištu za glavnu raspravu ako pripremno ročište nije održano, plaća se pristojba iz stavka 2. Tar. br. 1.
+
+(3) Za rješenje o odbačaju nedopuštene revizije plaća se pristojba iz stavka 1. Tar. br. 1.
+
+(4) Za rješenje o izdavanju platnog naloga plaća se pristojba iz stavka 2. Tar. br. 1.
+
+(5) Za rješenje o ovrsi, protuovrsi, osiguranju dokaza ili osiguranju po odredbama Ovršnog zakona plaća se pristojba iz stavka 2. Tar. br.1, a ako se ovo rješenje donosi na temelju stranih ovršnih isprava, plaća se pristojba iz stavka 1. Tar. br. 1.
+
+(6) Za rješenje kojim se usvaja ili odbija prijedlog za povrat u prijašnje stanje plaća se pristojba iz stavka 1. Tar. br. 1.
+
+(7) Za rješenje o prijedlogu za priznanje odluke stranog suda, za rješenje o prijedlogu za odgodu ili obustavu ovrhe plaća se pristojba od 100,00 kuna.
+
+Napomena:
+
+1. Obveza plaćanja pristojbe za prvostupanjsku odluku ne ovisi o tome je li odluka postala pravomoćna.
+
+2. Za odluke koje nisu navedene u ovom Tar. br. ne plaća se pristojba.
+
+3. Ako viši sud ukine odluku nižeg suda i predmet vrati na ponovno raspravljanje nižem sudu, ne plaća se pristojba za novu odluku. Pristojba se ne plaća ni za novu odluku koja bude donesena pošto se dopusti povrat u prijašnje stanje ili ponavljanje postupka.
+
+4. Za dopunsku presudu ili rješenje neće se plaćati pristojba, ako je za odluku koja je dopunjena plaćena pristojba prema punoj vrijednosti predmeta spora.
+
+5. Ako je tijekom parnice donesena međupresuda, plaća se pristojba na puni iznos vrijednosti predmeta spora. U tom slučaju neće se plaćati pristojba za konačnu odluku koja bude donesena poslije međupresude.
+
+6. Ako je tijekom parnice donesena djelomična presuda, plaća se pristojba prema vrijednosti zahtjeva o kojem je odlučeno. Pristojba za konačnu odluku plaća se prema vrijednosti ostatka spornog zahtjeva koji nije obuhvaćen djelomičnom presudom.
+
+7. Pristojba za platni nalog uračunava se u pristojbu za odluku suda koja bude donesena povodom prigovora protiv platnog naloga. Pristojba za rješenje o ovrsi na temelju vjerodostojne isprave uračunava se u pristojbu za odluku.
+
+8. Pristojba za odluku o prijedlogu za ovrhu, protuovrhu, osiguranje dokaza ili osiguranje po Ovršnom zakonu, kao i pristojba za odluku povodom tužbe u kojoj je stavljen prijedlog za izdavanje platnog naloga, plaća se prilikom podnošenja prijedloga ili tužbe.
+
+9. Za rješenje o ovrsi, protuovrsi ili osiguranju plaća se jedna pristojba i onda kada je bilo odlučeno o više sredstava za ovrhu, protuovrhu ili osiguranje, bez obzira na to je li odlučeno istodobno ili naknadno.
+
+10. Za prvostupanjsku presudu koja je donesena u svezi s protutužbom plaća se pristojba kao da je posebice raspravljano o protutužbi.
+
+11. Ako je više parnica spojeno radi zajedničkog raspravljanja, pristojba za presudu plaća se posebice za svaku parnicu kao da ne postoji spajanje više parnica.«.
+
+### Članak 19.
+
+U Tar. br. 5. stavak 5. briše se.
+
+### Članak 20.
+
+U Tar. br. 6. stavak 3. briše se.
+
+### Članak 21.
+
+U Tar. br. 7. stavak 3. briše se.
+
+### Članak 22.
+
+U Tar. br. 8. stavak 3. briše se.
+
+### Članak 23.
+
+U Tar. br. 15. stavak 1. mijenja se i glasi:
+
+»(1) Za podnesak kojim se traži upis u zemljišnu knjigu ili brisanje iz zemljišne knjige, plaća se pristojba od 50,00 kuna.«.
+
+Stavak 2. briše se.
+
+Stavak 3. briše se.
+
+U Napomeni uz Tar. br. 15. u točki 2. riječ: »traži« zamjenjuje se sa riječju: »predlaže«, a iza riječi: »pristojba« dodaju se riječi: »za podnesak«.
+
+Točka 6. briše se.
+
+### Članak 24.
+
+U Tar. br. 16. stavak 1. mijenja se i glasi:
+
+»(1) Za uknjižbu ili predbilježbu prava vlasništva i drugih stvarnih prava, te pokretanje pojedinačnog zemljišnoknjižnog ispravnog postupka plaća se pristojba od 200,00 kuna.«.
+
+U Napomeni uz Tar. br. 16. točke 1. i 2. mijenjaju se i glase:
+
+»1. Pristojbu za upis dužna je platiti osoba koja podnosi prijedlog za upis.
+
+2. Ako se na temelju jednog prijedloga upisuje više prava u korist jedne osobe kod istog suda, pristojba se plaća za upis svakog prava posebno.«.
+
+Točka 4. mijenja se i glasi:
+
+»4. Pristojba za upis plaća se i kada se upis vrši tijekom parničnog, izvanparničnog ili ovršnog postupka, osim ako je ispravu temeljem koje je potrebno provesti upis zemljišnoknjižnom sudu dostavio drugi sud, odnosno drugo nadležno tijelo.«.
+
+Točka 6. briše se.
+
+Točka 8. mijenja se i glasi:
+
+»8. Za upis posebnih dijelova nekretnine (etažiranje), kao i u postupku povezivanja zemljišne knjige i knjige položenih ugovora plaća se pristojba prema broju posebnih dijelova:
+
+– upis do 10 posebnih dijelova u iznosu od 100,00 kn,
+
+– upis 11-100 posebnih dijelova u iznosu od 300,00 kn,
+
+– upis 101-500 posebnih dijelova u iznosu od 500,00 kn,
+
+– upis više od 500 posebnih dijelova u iznosu od 1000,00 kn.«.
+
+U točki 9. podtočke 3) i 4) mijenjaju se i glase:
+
+»3) za službene radnje u postupku osnivanja, obnove i dopune zemljišnih knjiga, osim ako je greška nastala krivnjom titulara prava, kao i u postupku komasacije. U ovim postupcima oslobođenje se odnosi na sve podneske, uloške i priloge.
+
+Ovo oslobođenje važi i za postupak obnavljanja uništenih zemljišnih knjiga ako se vjerodostojnom ispravom utvrdi da je upis bio prije proveden i da je, prema tome, bila plaćena pristojba za taj upis.
+
+4) za ponovni upis istog, makar djelomično i utrnulog prava uslijed parničnog ili ovršnog postupka, u korist iste osobe.«.
+
+U točki 9. podtočki 6) riječ: »prodouživanja« zamjenjuje se riječju: »plodouživanja«, a riječ: »dioničari« zamjenjuje se riječju: »diobničari«.
+
+### Članak 25.
+
+Podnaslov iznad Tar. br. 17. mijenja se i glasi: »3. Prigovor i žalba«.
+
+Tar. br. 17. mijenja se i glasi:
+
+»Za prigovor i žalbu protiv rješenja u zemljišnoknjižnom postupku plaća se pristojba u iznosu od 250,00 kuna.
+
+Napomena:
+
+Pristojba se plaća samo ako se prigovorom ili žalbom pobija rješenje koje podliježe plaćanju pristojbe po Tar. br. 16.«.
+
+### Članak 26.
+
+U Tar. br. 18. stavku 2. i stavku 3. riječi: »ispise iz Baze zemljišnoknjižnih podataka« zamjenjuju se riječima: »izvatke iz Baze zemljišnih podataka«.
+
+U Napomeni uz Tar. br. 18. u točki 2. riječ: »ispisa iz Baze zemljišnoknjižnih podataka« zamjenjuje se riječima: »izvatka iz Baze zemljišnih podataka«.
+
+U točki 3. riječi: »ispise iz Baze zemljišnoknjižnih podataka« zamjenjuju se riječima: »izvatke iz Baze zemljišnih podataka«.
+
+Iza točke 3. dodaje se točka 4. koja glasi:
+
+»4. Pristojba za izvadak iz zemljišne knjige i Baze zemljišnih podataka lijepi se na izdanom izvatku.«.
+
+### Članak 27.
+
+Podnaslov iznad Tar. br. 18.a mijenja se i glasi: »5. Preslika zbirke isprava«.
+
+Tar. br. 18.a mijenja se i glasi:
+
+»(1) Za ovjeru preslike isprava koje se nalaze u ručno vođenoj zbirci isprava plaća se pristojba u iznosu od 20,00 kuna po poluarku izvornika.
+
+(2) Za skenirane isprave koje se nalaze u zbirci isprava i izdavanje ovjerenog ispisa plaća se pristojba u iznosu od 30,00 kuna po poluarku izvornika.«.
+
+### Članak 28.
+
+Podnaslov iznad Tar. br. 18.b i mijenja se i glasi: »6. Prijepis ručno vođenih zemljišnih knjiga«.
+
+Tar. br. 18.b mijenja se i glasi:
+
+»Za ovjeru prijepisa ručno vođene zemljišne knjige plaća se pristojba u iznosu od 30,00 kuna po poluarku.«.
+
+### Članak 29.
+
+Iza Tar. br. 24. dodaje se podnaslov i Tar. br. 24.a koji glase:
+
+»3. Predstečajna nagodba
+
+Tar. br. 24.a
+
+(1) Za prijedlog rješenja o odobravanju sklapanja predstečajne nagodbe plaća se pristojba od 1000,00 kuna.
+
+(2) Za žalbu protiv rješenja o odobravanju sklapanja predstečajne nagodbe plaća se pristojba od 2000,00 kuna.
+
+(3) U skraćenom postupku za prijedlog rješenja o odobravanju sklapanja predstečajne nagodbe plaća se pristojba od 500,00 kuna.
+
+(4) U skraćenom postupku za žalbu protiv rješenja o odobravanju sklapanja predstečajne nagodbe plaća se pristojba od 1000,00 kuna.«.
+
+### Članak 30.
+
+U Tar. br. 35. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Za presliku podnesaka ili priloga koji nisu podneseni u dovoljnom broju primjeraka plaća se pristojba u iznosu od 5,00 kuna po poluarku.«.
+
+### Članak 31.
+
+Naslov iznad Tar. br. 36. mijenja se i glasi: »Ovjeravanje ugovora o doživotnom i dosmrtnom uzdržavanju«.
+
+U Tar. br. 36. iza riječi: »doživotnom uzdržavanju« dodaju se riječi: »i dosmrtnom uzdržavanju«, a riječ: »300,00 kuna« zamjenjuje se riječju: »500,00 kuna«.
+
+### Članak 32.
+
+U predmetima u kojima sudska pristojba nije naplaćena do dana stupanja na snagu ovoga Zakona pristojba će se obračunavati i naplaćivati u skladu s odredbama ovoga Zakona.
+
+### Članak 33.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2014.
+
+Klasa: 022-03/13-01/255
+
+Zagreb, 13. prosinca 2013.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
+
+## Zakon o dopunama Zakona o sudskim pristojbama (NN 110/2015)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2133*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA
+
+Proglašavam Zakon o dopunama Zakona o sudskim pristojbama, koji je Hrvatski sabor donio na sjednici 25. rujna 2015. godine.
+
+Klasa: 011-01/15-01/120  
+Urbroj: 71-05-03/1-15-2  
+Zagreb, 1. listopada 2015.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O SUDSKIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96., 137/02., 125/11., 112/12. i 157/13.) u članku 6. stavku 1. iza riječi: »kuna« dodaju se riječi: »i ako je propisano da se pristojba može uplatiti izravno na za to namijenjen račun bez obzira na iznos pristojbe«.
+
+### Članak 2.
+
+U Tar. br. 1. stavku 4. iza riječi: »ovrhe« dodaju se riječi: »ako je prijedlog za odgodu ovrhe odbijen«.
+
+### Članak 3.
+
+U Tar. br. 18. dodaje se stavak 4. koji glasi:
+
+»(4) Pristojbe za izvatke iz stavaka 1. do 3. ovoga Tar. br. mogu se platnom karticom uplatiti na daljinu izravno na određeni račun kada se njihovo izdavanje traži putem javnog bilježnika, odvjetnika, kao i putem pravne osobe koja ima javne ovlasti.«.
+
+### Članak 4.
+
+U Tar. br. 26. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Za upis promjene podataka jednostavnog društva s ograničenom odgovornošću plaća se pristojba od 30,00 kuna.
+
+(5) Za podnesak kojim se sudskom registru dostavljaju podaci i priopćenja radi objave na internetskoj stranici sudskog registra plaća se pristojba od 100,00 kuna.«
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. studenoga 2015.
+
+Klasa: 050-01/15-01/145  
+Zagreb, 25. rujna 2015.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Josip Leko, v. r.
