@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-30
-last_amended: 1999-09-13
+last_amended: 2002-07-05
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "92/96, 92/99"
+narodne_novine: "92/96, 92/99, 80/02"
 amendments:
   - "NN 92/1999 (1593) Ispravak Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine"
+  - "NN 80/2002 (1292) Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/92/1600"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 92/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/92/1600).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/1999, NN 80/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -778,3 +779,107 @@ Tajnik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Krešimir Alerić, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (NN 80/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/80/1292*
+
+HRVATSKI SABOR
+
+1292
+
+Na teme­lju članka 88. Ustava Republike Hrvatske donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O NAKNADI ZA IMOVINU ODUZETU ZA VRIJEME JUGOSLAVENSKE KOMUNISTIČKE VLADAVINE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine koji je donio Hrvatski sabor na sjednici 5. srp­nja 2002.
+
+Broj: 01-081-02-2611/2  
+Zagreb, 5. srp­nja 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O NAKNADI ZA IMOVINU ODUZETU ZA VRIJEME JUGOSLAVENSKE KOMUNISTIČKE VLADAVINE**
+
+### Članak 1.
+
+U Zakonu o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96., 39/99., 42/99., 92/99., 43/00, 131/00., 27/01., 65/01. i 118/01. – u da­lj­njem tekstu: Zakon o naknadi) u članku 9. stavku 1. riječi: »koji na dan donoše­nja ovoga Zakona imaju hrvatsko držav­lj­an­stvo« brišu se.
+
+### Članak 2.
+
+Članak 1. mije­nja se i glasi:
+
+»Prijaš­nji vlasnik nema pravo na naknadu za oduzetu imovinu u slučaju kada je pita­nje naknade riješeno međudržavnim sporazumima.
+
+Iznimno od odredbe stavka 1. ovoga članka, prava propisana ovim Zakonom mogu steći i strane fizičke i pravne osobe ako se to utvrdi međudržavnim sporazumima.«
+
+### Članak 3.
+
+Članak 1. briše se.
+
+### Članak 4.
+
+Članci 9., 30. i 31. brišu se.
+
+### Članak 5.
+
+Članak 37. mije­nja se i glasi:
+
+»U slučaju da­lj­nje prodaje stana najmoprimac ima pravo prvokupa koje ostvaruje sukladno odredbama posebnoga zakona.«
+
+### Članak 6.
+
+Članak 70. briše se.
+
+### Članak 7.
+
+Zahtjev za naknadu oduzete imovine mogu u roku od šest mjeseci od dana stupa­nja na snagu ovoga Zakona podnijeti prijaš­nji vlasnici, koji su pravo na povrat ili naknadu za oduzetu imovinu stekli po odredbama ovoga Zakona, a nisu do sada podnijeli zahtjev ili im je zahtjev pravomoćno odbijen, odnosno odbačen, i to:
+
+– prijaš­nji vlasnik držav­ljanin Republike Hrvatske koji na dan donoše­nja Zakona o naknadi nije imao hrvatsko držav­ljanstvo (članak 1. ovoga Zakona),
+
+– prijaš­nji vlasnici na koje se odnosi članak 2. ovoga Zakona,
+
+– prijaš­nji vlasnici koji su prema Popisu stanovništva iz 1991. godine imali prebivalište na okupiranim područjima Re­pub­like Hrvatske, odnosno na područjima pod upravom UNTAES-a.
+
+Zahtjevi podneseni po proteku roka iz stavka 1. ovoga članka odbacit će se.
+
+### Članak 8.
+
+U članku 18. stavku 2. riječi: »Županijski ured za imovinskopravne poslove« zamje­njuju se riječima: »služba nadležna za obav­lja­nje imovinskopravnih poslova u uredima državne uprave u županijama«, a u cijelom tekstu Zakona o naknadi riječi: »Županijski ured« u određenom padežu zamje­njuju se riječima: »nadležna služba ureda državne uprave« u odgovarajućem padežu.
+
+### Članak 9.
+
+U cijelom tekstu Zakona o naknadi riječi: »Državni pravo­branite­lj Republike Hrvatske« u određenom padežu zamje­njuju se riječima: »Državno odvjetništvo Republike Hrvatske« u odgo­vara­jućem padežu.
+
+### Članak 10.
+
+Predmeti dostav­ljeni ministarstvu nadležnom za poslove pravosuđa i državnom odvjetništvu radi postupa­nja po odredbi članka 70. Zakona o naknadi, a koji do stupa­nja na snagu ovoga Zakona nisu dovršeni vratit će se u roku 15 dana od dana stupa­nja na snagu ovoga Zakona nadležnim službama ureda državne uprave radi dostave prvostupa­njskih rješe­nja strankama.
+
+Iznimno od odredbe stavka 1. ovoga članka o prijedlozima za ponište­nje prvostupa­njskih rješe­nja koje je državno odvjet­ni­štvo podnijelo do stupa­nja na snagu ovoga Zakona, ministarstvo nadležno za poslove pravosuđa će riješiti u roku od 30 dana od dana stupa­nja na snagu ovoga Zakona.
+
+### Članak 11.
+
+Postupci započeti po odredbama Zakona o naknadi koji nisu pravomoćno dovršeni do stupa­nja na snagu ovoga Zakona, dovršit će se po odredbama ovoga Zakona.
+
+### Članak 12.
+
+Na zahtjeve za naknadu oduzete imovine podnesene do dana stupa­nja na snagu ovoga Zakona primijenit će se odredbe ovoga Zakona.
+
+### Članak 13.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 943-01/01-01/02  
+Zagreb, 5. srp­nja 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

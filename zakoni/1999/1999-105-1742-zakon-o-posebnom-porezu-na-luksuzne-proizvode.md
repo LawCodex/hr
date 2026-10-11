@@ -6,12 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-10-13
+last_amended: 2002-11-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "105/99"
-amendments: []
-source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/105/1742"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
+text_version: official_consolidated
+consolidated_text: "NN 136/2002 (2202) https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2202"
+narodne_novine: "105/99, 114/01, 136/02"
+amendments:
+  - "NN 114/2001 (1891) Zakon o izmjenama i dopuni Zakona o posebnom porezu na luksuzne proizvode"
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2202"
 retrieved: 2026-10-12
 ---
 
@@ -19,28 +22,30 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 105/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/105/1742).
 >
+> Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 136/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2202).
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
-ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA
+ODBOR ZA ZAKONODAVSTVO  
+HRVATSKOGA SABORA
 
-Na temelju članka 89. Ustava Republike Hrvatske, donosim
+2202
 
-ODLUKU
+Na temelju članka 59. Poslovnika Hrvatskoga sabora, Odbor za zakonodavstvo Hrvatskog sabora na 89. sjednici održanoj 14. studenoga 2002. godine, utvrdio je pročišćeni tekst Zakona o posebnom porezu na luksuzne proizvode.
 
-O PROGLAŠENJU ZAKONA O POSEBNOM POREZU NA LUKSUZNE PROIZVODE
+Pročišćeni tekst Zakona o posebnom porezu na luksuzne proizvode obuhvaća Zakon o posebnom porezu na luksuzne proizvode (»Narodne novine«, br. 105/99.) te njegove izmjene i dopune objavljene u »Narodnim novinama«, br. 127/00. i 114/01. u kojima je naznačeno vrijeme njihova stupanja na snagu.
 
-Proglašavam Zakon o posebnom porezu na luksuzne proizvode, koji je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 1. listopada 1999.
-
-Broj: 01-081-99-1649/2  
-Zagreb, 7. listopada 1999.
+Klasa: 410-19/01-01/13  
+Zagreb, 15. studenoga 2002.
 
 Predsjednik  
-Republike Hrvatske  
-dr. Franjo Tuđman, v. r.
+Odbora za zakonodavstvo  
+Hrvatskoga sabora  
+Josip Leko, dipl. iur., v. r.
 
 **ZAKON**
 
-**O POSEBNOM POREZU NA LUKSUZNE PROIZVODE**
+**O POSEBNOM POREZU NA LUKSUZNE PROIZVODE (pročišćeni tekst)**
 
 ## I. TEMELJNE ODREDBE
 
@@ -62,15 +67,15 @@ I. Nakit i srodni proizvodi:
 
 2. neindustrijski dijamanti obrađeni, neuokvireni i nemontirani,
 
-3. drago kamenje obrađeno, osim jednostavno piljeno i grubo oblikovano (osim dijamanata),
+3. drago kamenja obrađeno, osim jednostavno piljeno i grubo oblikovano (osim dijamanata),
 
 4. nakit i dijelovi nakita od plemenitih metala (uključujući i prevučene ili platinirane plemenitim metalima),
 
-5. zlatarski ili filigranski proizvodi i njihovi dijelovi od srebra (uključujući prevučene ili platinirane plemenitim metalima),
+5. zlatarski ili filigranski proizvodi i njihovi dijelovi od sreb­ra (uključujući prevučene ili platinirane plemenitim metalima),
 
 6. zlatarski i filigranski proizvodi od plemenitih metala,
 
-7. zlatarski i filigranski proizvodi i njihovi dijelovi od običnih metala prevučeni ili platinirani plemenitim metalima,
+7. zlatarski i filigranski proizvodi i njihovi dijelovi od obič­nih metala prevučeni ili platinirani plemenitim metalima,
 
 8. proizvodi od plemenitih metala, prevučeni ili platinirani plemenitim metalima,
 
@@ -92,11 +97,11 @@ V. Oružje:
 
 1. revolveri i pištolji,
 
-2. lovačke puške, sačmarice, uključujući i kombinacije sačmarica i karabina;
+2. lovačke puške, sačmarice, uključujući i kombinacije sač­marica i karabina;
 
 VI. Ostalo:
 
-1. bjelokost (slonovača), kornjačevina, koralji, sedef, obrađeni i proizvodi od tih materijala,
+1. bjelokost (slonovača), kornjačevina, koralji, sedef, obra­đeni i proizvodi od tih materijala,
 
 2. upaljači za cigarete (mehanički ili električni), džepni, stolni i ostali od plemenitih kovina.
 
@@ -146,17 +151,17 @@ Porezni obveznik dužan je osigurati evidenciju o vrijednosti prodanih proizvoda
 
 (1) Posebni porez na promet luksuznih proizvoda ne plaća se:
 
-1. na izvoz proizvoda iz članka 2. ovoga Zakona koje izvozi porezni obveznik (proizvođač) uz dokaz o izvozu (kopija izvozne carinske deklaracije s potvrdom nadležne carinarnice da je obavljeno izvozno carinjenje i da su proizvodi napustili carinsko područje Republike Hrvatske) i dokaz da je izvoz i naplata obavljena u skladu s propisima o vanjskotrgovinskom i deviznom poslovanju,
+1. na izvoz proizvoda iz članka 2. ovoga Zakona koje izvozi porezni obveznik (proizvođač) uz dokaz o izvozu (kopija izvozne carinske deklaracije s potvrdom nadležne carinarnice da je obav­ljeno izvozno carinjenje i da su proizvodi napustili carinsko područje Republike Hrvatske) i dokaz da je izvoz i naplata obav­ljena u skladu s propisima o vanjskotrgovinskom i deviznom poslovanju,
 
-2. na prodane proizvode iz članka 2. stavka 5. točke 1. ovoga Zakona tijelima državne vlasti, tijelima državne i lokalne uprave i samouprave,
+2. na prodane proizvode iz članka 2. stavka 5. točke 1. ovoga Zakona tijelima državne vlasti, tijelima državne i lokalne uprave i smouprave,
 
 3. na privremeni uvoz proizvoda iz članka 2. ovoga Zakona,
 
-4. na prodaju proizvoda diplomatskim i konzularnim predstavništvima i stranim međunarodnim organizacijama na osnovi uzajamnosti.
+4. na prodaju proizvoda diplomatskim i konzularnim pred­stavništvima i stranim međunarodnim organizacijama na osnovi uzajamnosti.
 
 (2) Odredba iz stavka 1. ovoga članka provodi se na način propisan za oporezivanje isporuka dobara porezom na dodanu vrijednost.
 
-## VIII. NASTANAK POREZNE OBVEZE I PLAĆANJE POREZA
+## VIII. NASTANAK POREZNE OBVEZE — I PLAĆANJE POREZA
 
 ### Članak 9.
 
@@ -164,9 +169,9 @@ Obveza obračunavanja posebnog poreza na promet luksuznih proizvoda nastaje:
 
 1. u trenutku isporuke proizvoda kupcu,
 
-2. za uvezene proizvode, uključujući i uvoz preko konsignacijskog skladišta u trenutku isporuke proizvoda kupcu,
+2. za uvezene proizvode, uključujući i uvoz preko carinskog skladišta u trenutku isporuke proizvoda kupcu,
 
-3. u trenutku uzimanja proizvoda za vlastitu krajnju potrošnju,
+3. u trenutku uzimanja proizvoda za vlastitu krajnju po­trošnju,
 
 4. u trenutku utvrđivanja manjka.
 
@@ -178,19 +183,21 @@ Porezni obveznik plaća posebni porez na promet luksuznih proizvoda u roku od 10
 
 ### Članak 11.
 
-Nadzor nad obračunom i naplatom posebnog poreza obavlja Porezna uprava i Financijska policija.
+Pravilnost primjene ovoga Zakona nadzire Carinska uprava.
 
 ## X. PRAVNA SREDSTVA
 
 ### Članak 12.
 
-Glede žalbenog postupka, obnove postupka, zastare, obračunavanja, naplate i povrata poreza te vođenja prekršajnog postupka, primjenjuju se odredbe Zakona o porezu na dohodak.
+(1) Glede žalbenog postupka, obnove postupka, zastare, ob­računavanja, naplate i povrata posebnog poreza na luksuzne proizvode te vođenja prekršajnog postupka, primjenjuju se odred­be Općega poreznog zakona.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, u postupku naknadnog obračuna posebnog poreza na luksuzne proizvode postupa se prema odredbama Carinskog zakona.
 
 ## XI. OVLAŠTENJA
 
 ### Članak 13.
 
-Ovlašćuje se ministar financija da po potrebi donese provedbene propise za primjenu ovoga Zakona.
+Ovlašćuje se ministar financija da po potrebi donese proved­bene propise za primjenu ovoga Zakona.
 
 ## XII. KAZNENE ODREDBE
 
@@ -210,19 +217,8 @@ Ovlašćuje se ministar financija da po potrebi donese provedbene propise za pri
 
 ### Članak 15.
 
-Pravne i fizičke osobe koje na dan stupanja na snagu ovoga Zakona imaju na zalihi proizvode koji se oporezuju po ovom Zakonu, dužni su popisati zalihe i dostaviti popis nadležnoj ispostavi Porezne uprave u roku od 15 dana.
+Pravne i fizičke osobe koje na dan stupanja na snagu Zakona o posebnom porezu na luksuzne proizvode (»Narodne novine«, br. 105/99.) imaju na zalihi proizvode koji se oporezuju po tom Zakonu, dužni su popisati zalihe i dostaviti popis nadležnoj ispostavi Porezne uprave u roku od 15 dana.
 
 ### Članak 16.
 
-Ovaj Zakon stupa na snagu danom objave u "Narodnim novinama", a primjenjuje se od 1. studenoga 1999.
-
-Klasa: 410-19/99-03/01  
-Zagreb, 1. listopada 1999.
-
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
-
-Predsjednik  
-Zastupničkog doma  
-Hrvatskoga državnog sabora  
-akademik Vlatko Pavletić, v. r.
+Iznimno mjesečno izvješće za prosinac 2001. godine i godišnje izvješće za 2001. godinu podnosi se nadležnoj ispostavi Porezne uprave.

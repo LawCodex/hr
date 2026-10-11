@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1999-11-29
+last_amended: 2005-12-05
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "127/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "127/99, 143/05"
+amendments:
+  - "NN 143/2005 (2698) Uredba o dopuni Uredbe o određivanju proizvoda za koje je potrebno uvjerenje o kakvoći"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/127/1993"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o određivanju proizvoda za koje je potrebno uvjerenje o kakvoći
 
 > Izvor: Narodne novine, NN 127/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/127/1993).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 143/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -157,3 +161,41 @@ Zagreb, 25. studenoga 1999.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopuni Uredbe o određivanju proizvoda za koje je potrebno uvjerenje o kakvoći (NN 143/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/143/2698*
+
+VLADA REPUBLIKE HRVATSKE
+
+2698
+
+Na temelju članka 15. stavka 1. Zakona o Državnom inspek­toratu (»Narodne novine«, br. 76/99, 96/2003, 151/2003, 160/2004, 174/2004, 33/2005, 48/2005 i 129/2005) i članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2001, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 24. studenoga 2005. godine donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O ODREĐIVANJU PROIZVODA ZA KOJE JE POTREBNO UVJERENJE O KAKVOĆI**
+
+### Članak 1.
+
+U Uredbi o određivanju proizvoda za koje je potrebno uvjerenje o kakvoći (»Narodne novine«, broj 127/99) u članku 1., u točkama 28. i 29. iza riječi »uporabu« dodaje se zarez i riječi »osim radijske opreme i telekomunikacijske terminalne opreme«, a iza točke 55. dodaje se točka 56. koja glasi:
+
+»56. biogorivo«.
+
+### Članak 2.
+
+Ova Uredba objavljuje se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2006. godine.
+
+Klasa: 336-01/05-01/01
+
+Urbroj: 5030122-05-1
+
+Zagreb, 24. studenoga 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.

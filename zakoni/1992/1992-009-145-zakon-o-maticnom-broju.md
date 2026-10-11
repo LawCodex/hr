@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1992-02-21
+last_amended: 2002-06-07
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1992; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "9/92"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "9/92, 66/02"
+amendments:
+  - "NN 66/2002 (1126) Zakon o izmjenama i dopunama Zakona o matičnom broju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/145"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o matičnom broju
 
 > Izvor: Narodne novine, NN 9/1992 (https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/145).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 66/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -134,3 +138,119 @@ Luka Bebić, dipl. ing., v. r.
 Predsjednik Društveno-političkog vijeća
 
 Vice Vukojević, dipl. iur. v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o matičnom broju (NN 66/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/66/1126*
+
+HRVATSKI SABOR
+
+1126
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O MATIČNOM BROJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o matičnom broju, koji je donio Hrvatski sabor na sjednici 28. svib­nja 2002.
+
+Broj: 01-081-02-2187/2  
+Zagreb, 3. lip­nja 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O MATIČNOM BROJU**
+
+### Članak 1.
+
+U Zakonu o matičnom broju (»Narodne novine«, br. 9/92.) u članku 1. stavku 1. riječi: »i matičnog broja stranaca (u da­lj­njem tekstu: matični broj)« brišu se.
+
+U stavku 2. riječi: »i stranaca« brišu se.
+
+U stavku 3. riječi: »i javne isprave koje se izdaju na teme­lju tih evidencija« brišu se.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»Matični broj se ne može upisivati u isprave građana.
+
+Iznimno od stavka 4. ovoga članka matični broj može se upisati u javne isprave koje se izdaju na teme­lju službenih evidencija, samo ako je zaštićen šifrom ili na drugi odgovarajući način, u skladu sa zakonom.«
+
+### Članak 2.
+
+U članku 3. stavku 1. riječi: »matične k­njige rođenih« zamje­njuju se riječima: »matice rođenih«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Matični broj građana za hrvatskog držav­ljanina koji nema prebivalište u Republici Hrvatskoj određuje se prema mjestu upisa u k­njige držav­ljana.«
+
+U dosadaš­njem stavku 3., koji postaje stavak 4., riječ: »stanica« zamje­njuje se riječju: »postaja«.
+
+### Članak 3.
+
+Članci 4., 5. i 6. brišu se.
+
+### Članak 4.
+
+U članku 8. stavku 1. riječi: »matičnoj k­njizi rođenih« zamje­njuju se riječima: »matici rođenih«.
+
+Stavak 2. briše se.
+
+U dosadaš­njem stavku 3., koji postaje stavak 2., riječi: »i 2.« brišu se.
+
+### Članak 5.
+
+U članku 9. riječi: »matičnih k­njiga« zamje­njuju se riječima: »državnih matica«.
+
+### Članak 6.
+
+Iza članka 9. dodaje se članak 9.a koji glasi:
+
+»Članak 9.a
+
+Ministarstvo unutar­njih poslova, odnosno nadležno tijelo, podatke o matičnom broju može dati kada je:
+
+– na teme­lju posebnog zakona, potrebno utvrditi identitet,
+
+– to u ci­lju zaštite interesa Republike Hrvatske,
+
+– dobilo dopušte­nje hrvatskoga držav­ljanina o čijem se matičnom broju radi.
+
+Posebnim zakonom kojim se re­gulira zaštita tajnosti podataka pobliže će se urediti uvjeti i način korište­nja matičnog broja.«
+
+### Članak 7.
+
+Članak 12. mije­nja se i glasi:
+
+»Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba koja koristi matični broj građanina suprotno odredbi članka 9.a ovoga Zakona.
+
+Za prekršaj iz prethodnog stavka ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 1.000,00 do 10.000,00 kuna.«
+
+### Članak 8.
+
+U svim odredbama Zakona o matičnom broju riječi: »jedinstveni matični broj« u određenom broju i padežu zamje­njuju se riječima: »matični broj« u određenom broju i padežu.
+
+### Članak 9.
+
+Pravilnik o matičnom broju (»Narodne novine«, br. 27/92.) uskladit će se s odredbama ovoga Zakona do početka primjene ovoga Zakona.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primje­njuje se od 1. siječ­nja 2003.
+
+Klasa: 223-05/02-01/01  
+Zagreb, 28. svib­nja 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

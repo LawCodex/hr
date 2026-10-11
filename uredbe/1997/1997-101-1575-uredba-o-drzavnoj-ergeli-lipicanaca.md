@@ -6,14 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1997-09-29
-last_amended: 2000-05-11
+last_amended: 2003-02-04
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "101/97, 132/99, 48/00"
+narodne_novine: "101/97, 132/99, 48/00, 17/03"
 amendments:
   - "NN 132/1999 (2058) Uredba o izmjeni Uredbe o Državnoj ergeli lipicanaca"
   - "NN 48/2000 (1090) Uredba o dopunama Uredbe o državnoj ergeli lipicanaca"
+  - "NN 17/2003 (223) Uredba o izmjeni Uredbe o Državnoj ergeli lipicanaca"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/101/1575"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 101/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/101/1575).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 132/1999, NN 48/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 132/1999, NN 48/2000, NN 17/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -201,3 +202,40 @@ Zagreb, 5. svibnja 2000.
 Potpredsjednik,  
 zamjenik predsjednika  
 dr. sc. Goran Granić, v. r.
+
+## Uredba o izmjeni Uredbe o Državnoj ergeli lipicanaca (NN 17/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/17/223*
+
+VLADA REPUBLIKE HRVATSKE
+
+223
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvat­ske je na sjednici održanoj 30. siječnja 2003. godine, donijela
+
+**UREDBU**
+
+**o izmjeni Uredbe o DrŽavnoj ergeli lipicanaca**
+
+### Članak 1.
+
+U Uredbi o Državnoj ergeli lipicanaca (»Narodne novine«, br. 101/97, 132/99 i 48/2000), članak 4. stavak 2. mijenja se i glasi:
+
+»Upravno Vijeće Ergele čine predsjednik i dva člana.«.
+
+### Članak 2.
+
+Danom imenovanja predsjednika i članova Upravnog vijeća Ergele, sukladno članku 1. ove Uredbe, prestaje mandat dosa­dašnjem predsjedniku i članovima Upravnog vijeća.
+
+Vlada Republike Hrvatske će, u roku od 30 dana od dana stupanja na snagu ove Uredbe, imenovati predsjednika i članove Upravnog vijeća Ergele, sukladno članku 1. ove Uredbe.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 620-01/96-01/02  
+Urbroj: 5030116-03-1  
+Zagreb, 30. siječnja 2003.
+
+Predsjednik  
+Ivica Račan, v. r.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-12-28
-last_amended: 1999-12-14
+last_amended: 2000-09-30
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "108/95, 137/99"
+narodne_novine: "108/95, 137/99, 97/00"
 amendments:
   - "NN 137/1999 (2115) Uredba o dopuni Zakona o morskim lukama"
+  - "NN 97/2000 (1913) Zakon o dopunama Zakona o morskim lukama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1777"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 108/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1777).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 137/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 137/1999, NN 97/2000.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -887,3 +888,76 @@ Zagreb, 9. prosinca 1999.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r .
+
+## Zakon o dopunama Zakona o morskim lukama (NN 97/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1913*
+
+ZASTUPNIČKI DOM  
+HRVATSKOGA DRŽAVNOG SABORA
+
+1913
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O MORSKIM LUKAMA
+
+Proglašavam Zakon o dopunama Zakona o morskim lukama, koji je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 28. rujna 2000.
+
+Broj: 01-081-00-3183/2  
+Zagreb, 30. rujna 2000.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON O DOPUNAMA ZAKONA O MORSKIM LUKAMA**
+
+### Članak 1.
+
+U Zakonu o morskim lukama (»Narodne novine« br. 108/95. i 137/99.) u članku 21. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»Lučka uprava, iznimno, na zahtjev ovlaštenika, uz suglasnost Vlade Republike Hrvatske, može produžiti razdob­lje koncesije na ukupno 32 godine, te sukladno tome izmijeniti i ostale uvjete iz odluke i ugovora o koncesiji ukoliko nove investicije to gospodarski opravdavaju ili ukoliko nastupi viša sila ili promije­njene okolnosti zbog kojih se u razdob­lju koncesije ne mogu ostvariti koncesijski ci­ljevi.«
+
+### Članak 2.
+
+U članku 28. dodaju se stavci 7. i 8. koji glase:
+
+»Vlada Republike Hrvatske, na zahtjev ovlaštenika, može produžiti razdob­lje koncesije iz članka 28. stavka 3. i članka 65. stavka 5. ovoga Zakona na ukupno 50 godina, te sukladno tome izmijeniti i ostale uvjete iz odluke i ugovora o koncesiji, ukoliko nove investicije to gospodarski opravdavaju ili ukoliko nastupi viša sila ili promije­njene okolnosti zbog kojih se u razdob­lju koncesije ne mogu ostvariti koncesijski ci­ljevi.
+
+Poglavarstvo županije, na zahtjev ovlaštenika, iznimno, uz suglasnost Vlade Republike Hrvatske, može produžiti razdob­lje koncesije iz članka 28. stavka 3. i članka 65. stavak 5. ovoga Zakona na ukupno 24 godine, te sukladno tome izmijeniti i ostale uvjete iz odluke i ugovora o koncesiji, ukoliko nove investicije to gospodarski opravdavaju ili ukoliko nastupi viša sila ili promije­njene okolnosti zbog koji se u razdob­lju koncesije ne mogu ostvariti koncesijski ci­ljevi.«
+
+### Članak 3.
+
+U članku 29. dodaje se novi stavak 3. koji glasi:
+
+»Ne smatra se prenoše­njem koncesije iz članka 28. stavka 2. ovoga Zakona kada ovlaštenik koncesije dozvoli obav­lja­nje sporedne djelatnosti trećim osobama na lučkom području, uz uvjet da se time ne uma­njuje niti otežava obav­lja­nje djelatnosti za koje je utvrđena posebna namjena luke.«
+
+Dosadaš­nji stavak 3. postaje stavak 4.
+
+### Članak 4.
+
+U članku 63. dodaje se stavak 2. koji glasi:
+
+»Trgovačko društvo, nastalo na teme­lju članka 60. ovoga Zakona može prenijeti dio koncesije iz članka 62. ovoga Zakona uz suglasnost lučke uprave i miš­lje­nja Vlade Republike Hrvatske, odnosno Ministarstva pomorstva, prometa i veza, trgovačkim društvima u svom većinskom vlasništvu uz uvjet da ta društva ispu­njavaju sve uvjete iz ovoga Zakona.«
+
+### Članak 5.
+
+Stupa­njem na snagu ovoga Zakona prestaje važiti Uredba o dopuni Zakona o morskim lukama (»Narodne novine«, br. 137/99.).
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 342-21/00-01/01  
+Zagreb, 28. rujna 2000.
+
+ZASTUPNIČKI DOM  
+HRVATSKOGA DRŽAVNOG SABORA
+
+Predsjednik  
+Zastupničkog doma  
+Hrvatskoga državnog sabora  
+Zlatko Tomčić, v. r.

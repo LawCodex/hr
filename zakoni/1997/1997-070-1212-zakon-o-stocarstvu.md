@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-07-07
-last_amended: 1998-03-17
+last_amended: 2006-12-06
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "70/97, 36/98"
+narodne_novine: "70/97, 36/98, 151/03, 132/06"
 amendments:
   - "NN 36/1998 (453) Zakon o izmjeni i dopuni Zakona o stočarstvu"
+  - "NN 151/2003 (2183) Zakon o izmjenama i dopunama Zakona o stočarstvu"
+  - "NN 132/2006 (2956) Zakon o izmjenama i dopunama Zakona o stočarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1212"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 70/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1212).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 36/1998.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 36/1998, NN 151/2003, NN 132/2006.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -831,3 +833,887 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o stočarstvu (NN 151/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2183*
+
+HRVATSKI SABOR
+
+2183
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STOČARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o stočarstvu, koji je donio Hrvatski sabor na sjednici 12. rujna 2003.
+
+Broj: 01-081-03-3119/2  
+Zagreb, 16. rujna 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STOČARSTVU**
+
+### Članak 1.
+
+U Zakonu o stočarstvu (»Narodne novine«, br. 70/97., 36/98. i 76/99.) u članku 1. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Uzgojem iz stavka 1. ovoga članka potiče se:
+
+1. povećanje učinkovitosti proizvodnje domaćih životinja uz očuvanje ili poboljšanje njihove vitalnosti,
+
+2. povećanje ekonomičnosti stočarske proizvodnje,
+
+3. poboljšanje kakvoće stočarskih proizvoda,
+
+4. očuvanje genetske raznolikosti domaćih životinja.«
+
+### Članak 2.
+
+U članku 2. točka 2. mijenja se i glasi:
+
+»2. Uzgojno valjana životinja matična je ili upisana domaća životinja te matično jato peradi i to:
+
+– matična životinja čiste pasmine upisana u matičnu knjigu, čiji su roditelji, djedovi i bake upisani u matičnu knjigu iste pasmine,
+
+– upisana životinja čiste pasmine ili križana poznatih roditelja, upisana u uzgojni upisnik,
+
+– matično jato čiste pasmine ili hibrid upisan u središnji popis matičnih jata.«
+
+Točka 4. mijenja se i glasi:
+
+»4. Pčelinja zajednica je roj pčela u košnici s pripadajućim saćem, koji se sastoji od jedne matice, radilica i trutova tijekom proizvodne sezone.«
+
+Točka 24. mijenja se i glasi:
+
+»24. Potvrda o podrijetlu je isprava o podrijetlu upisane životinje.«
+
+U točki 25. i 26. riječi: »selekcijska služba« zamjenjuju se riječima: »ovlaštena ustanova, središnji savez uzgajivača, savez uzgajivača, udruga uzgajivača.
+
+Točka 31. briše se.
+
+Točka 34. mijenja se i glasi:
+
+»34. Udruga uzgajivača interesna je skupina uzgajivača, čiji je osnovni cilj genetsko unapređivanje domaćih životinja provo­đenjem uzgojnog programa.«
+
+Dosadašnje točke 32., 33., 34., 35. i 36. postaju točke 31., 32., 33., 34. i 35.
+
+Iza točke 35. dodaju se točke 36. i 37. koje glase:
+
+»36. Savez uzgajivača interesna je skupina više udruga uzgajivača, a cilj mu je genetsko unapređivanje domaćih životinja provođenjem uzgojnog programa.
+
+37. Središnji savez uzgajivača interesna je skupina više saveza uzgajivača i/ili udruga uzgajivača, a cilj mu je genetsko una­pre­đivanje pojedine vrste ili pasmine domaćih životinja provo­đenjem uzgojnog programa u Republici Hrvatskoj.«
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Stvaranje uzgojno valjanih životinja u Republici Hrvat­skoj provodi se prema uzgojnim programima za pojedine vrste i pasmine domaćih životinja.
+
+(2) Uzgojni program određuje veličinu populacije, uzgojni cilj, uzgojne metode, načine njegova učinkovitog provođenja i načine objave rezultata njegove provedbe.
+
+(3) Uzgojne programe iz stavka 1. ovoga članka donosi Hrvatski stočarski centar (u daljnjem tekstu: ovlaštena ustanova) ili središnji savez uzgajivača, a potvrđuje ih ministar poljoprivrede i šumarstva (u daljnjem tekstu: ministar).
+
+(4) Ministar će potvrditi uzgojni program ako:
+
+– se može utvrditi da će se njime ostvariti genetski napredak popu­lacije na kojoj će se provoditi,
+
+– se može utvrditi da je dovoljno velika populacija uzgojno valjanih životinja na kojoj će se provoditi,
+
+– su osigurane stručne, tehničke i organizacijske pretpostav­ke za provedbu uzgojnog programa,
+
+– su u provedbi uzgojnog programa uključeni odgovarajući stručni djelatnici,
+
+– je osigurano valjano vođenje sve propisane uzgojne dokumentacije,
+
+– se osigurava održavanje genetske varijabilnosti,
+
+– su osigurani uvjeti za sprečavanje sparivanja u srodstvu osim u slučaju kada je to uzgojnim programom predviđeno.
+
+(5) Uzgojni programi iz stavka 1. ovoga članka obvezatni su za sve saveze uzgajivača (u daljnjem tekstu: savez), udruge uzgajivača (u daljnjem tekstu: udruga) uzgajivače i druge sudionike stvaranja uzgojno valjanih životinja.
+
+(6) Savez i udruga donosi uzgojni program koji mora biti u suglasju s uzgojnim programom iz stavka 1. ovoga članka.
+
+(7) Uzgojne programe iz stavka 6. ovoga članka potvrđuje ovlaštena ustanova ili središnji savez uzgajivača.
+
+(8) Uzgojno društvo donosi i provodi vlastiti uzgojni program u kojem koristi kombinacijske sposobnosti pasmina i linija domaćih životinja.«
+
+### Članak 4.
+
+Iza članka 3. dodaje se članak 3.a koji glasi:
+
+»Članak 3.a
+
+(1) Središnji savez uzgajivača, savezi, udruge (u daljnjem tekstu: uzgojne organizacije), ovlaštena ustanova te uzgajivači koji udovoljavaju uvjetima iz članka 40. stavka 5. ovoga Zakona (u daljnjem tekstu: ovlašteni uzgajivači) vode matične knjige i uzgojni upisnik za one vrste i pasmine domaćih životinja za koje provode uzgojni program.
+
+(2) Uzgojni upisnik vode i uzgojna društva.
+
+(3) Način vođenja matičnih knjiga i uzgojnih upisnika te uvjete koje treba udovoljiti da bi domaća životinja iz stavka 1. ovoga članka bila upisana u matičnu knjigu ili uzgojni upisnik propisuje ministar.«
+
+### Članak 5.
+
+U članku 5. stavak 2. mijenja se i glasi:
+
+»(2) Upisnik uzgajivača uzgojno valjanih životinja vodi ovlaštena ustanova ili središnji savez uzgajivača.«
+
+### Članak 6.
+
+U članku 8. stavku 3. riječi: »stočarska selekcijska služba« zamjenjuju se riječima: »ovlaštena ustanova«.
+
+### Članak 7.
+
+U članku 9. stavku 2. riječi: »selekcijska služba« zamjenjuju se riječima: »ovlaštena ustanova«.
+
+### Članak 8.
+
+U članku 13. stavku 3. iza riječi: »uzgajivači« dodaju se riječi: », uzgojne organizacije i uzgojna društva«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Za priznate pasmine, sojeve i hibride Ministarstvo izdaje rješenje o upisu u upisnik iz stavka 1. ovoga članka.«
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Naziv priznatih pasmina, sojeva ili hibrida iz stavka 6. ovoga članka objavljuje se u »Narodnim novinama«.«
+
+### Članak 9.
+
+U članku 15. stavku 2. riječ: »pristupu« zamjenjuje se riječju: »pripustu«.
+
+U stavku 3. riječi: »selekcijska služba« zamjenjuju se riječima: »ovlaštena ustanova i/ili uzgojna organizacija«.
+
+U stavku 4. riječ: »pristup« zamjenjuje se riječju: »pripust«.
+
+U stavku 5. riječi: »županijske selekcijske službe i« za­mjenjuju se riječima: »ovlaštene ustanove i/ili uzgojne organizacije.«, a riječi: »županijskog i ureda« zamjenjuju se riječima: »ureda državne uprave u Županiji, odnosno upravnog tijela«.
+
+### Članak 10.
+
+U članku 16. stavku 2. riječi: »koju vodi selekcijska služba« brišu se.
+
+### Članak 11.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Umjetno osjemenjivanje domaćih životinja mogu obav­ljati pravne i fizičke osobe registrirane za tu djelatnost.
+
+(2) Umjetno osjemenjivanje domaćih životinja mogu obav­ljati uzgajivači na vlastitom stadu ako su za to osposobljeni i raspolažu propisanom opremom i priborom.
+
+(3) Uvjete koje mora udovoljiti pravna ili fizička osoba iz stavka 1. ovoga članka za obavljanje djelatnosti umjetnog osjemenjivanja te način osposobljavanja osoba iz stavka 2. ovoga članka propisat će ministar.«
+
+### Članak 12.
+
+U članku 18. stavku 1. iza riječi: »stadu« dodaju se riječi: »osim u slučaju korištenja pastuha i nerastova«.
+
+### Članak 13.
+
+U članku 19. stavku 7. riječi: »selekcijske službe« zamje­njuju se riječima: »ovlaštene ustanove ili središnjeg saveza uzgajivača«.
+
+### Članak 14.
+
+U članku 21. stavku 2. riječi: »selekcijskoj službi« zamje­njuju se riječima: »ovlaštenoj ustanovi ili središnjem savezu uzgajivača«.
+
+### Članak 15.
+
+U članku 26. stavak 2. mijenja se i glasi:
+
+»(2) Uvoz uzgojno valjanih životinja i genetskog materijala ne smije se zbog uzgojnih razloga zabranjivati, sprječavati ili ometati ako su pri uvozu ispunjeni uvjeti:
+
+1. za uzgojno valjane životinje:
+
+– da su upisane u matičnu knjigu ili uzgojni upisnik za hi­brid­ne životinje kojeg vodi ovlaštena uzgojna organizacija ili uzgojno društvo zemlje podrijetla,
+
+– da su označene na propisani način,
+
+– da posjeduje propisanu uzgojnu dokumentaciju.
+
+2. za sjeme:
+
+– da potječe od rasplodnjaka koji je upisan u matičnu knjigu ili uzgojni upisnik za hibridne životinje kojeg vodi ovlaštena uzgojna organizacija ili uzgojno društvo zemlje podrijetla,
+
+– da potječe od rasplodnjaka koji ima pozitivan test na pro­izvodne osobine i pozitivnu uzgojnu vrijednost, osim u slu­čajevima ako se sjeme uvozi u ograničenim količinama bez rezultata testa zbog obavljanja test osjemenjivanja ili drugog opravdanog uzgojnog razloga što je u suglasju sa uzgojnim programom a potvrđeno je od strane ovlaštene ustanove ili središnjeg saveza uzgajivača,
+
+– da je dobiveno u centru za umjetno osjemenjivanje ovlaštenom od službenog tijela zemlje izvoznice,
+
+– da je označeno na propisan način,
+
+– da posjeduje propisanu uzgojnu dokumentaciju.
+
+3. za zametke i jajne stanice:
+
+– da potječu od uzgojno valjanih životinja koje su upisane u matičnu knjigu ili uzgojni upisnik za hibridne životinje koje vodi ovlaštena uzgojna organizacija ili uzgojno društvo zemlje pod­rijetla,
+
+– da su dobiveni u centru za umjetno osjemenjivanje ili stanici za prijenos zametaka i jajnih stanica ovlaštenih od službenog tijela zemlje izvoznice,
+
+– da su označeni na propisan način,
+
+– da posjeduju propisanu uzgojnu dokumentaciju.«
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Dokaze o ispunjavanju uvjeta iz stavka 2. ovoga članka uvoznik mora posjedovati pri uvozu uzgojno valjanih životinja ili genetskog materijala.«
+
+Dosadašnji stavak 3. i 4. postaje stavak 4. i 5.
+
+### Članak 16.
+
+Iza članka 29. dodaje se članak 29.a koji glasi:
+
+»Članak 29.a
+
+(1) Vlasnik domaćih životinja ima pravo ograditi svoj posjed zaštitnom ogradom kako bi osigurao nesmetan uzgoj životinja, ako pri tome ne ograničava zakonska prava drugih.
+
+(2) Vlasnik domaćih životinja ima pravo zabraniti neovlašten ulaz tuđih domaćih životinja na svoj posjed, odnosno vlastito ili zakupljeno poljoprivredno zemljište.
+
+(3) Vlasnik domaćih životinja ne smije sa svojim životinjama neovlašteno ulaziti niti koristiti tuđi posjed, odnosno tuđe poljoprivredno zemljište.
+
+(4) Vlasnik domaćih životinja koji je neovlaštenim ulazom ili korištenjem tuđeg posjeda, odnosno tuđeg poljoprivrednog zemljišta, prouzročio materijalnu štetu vlasniku istog, dužan je snositi sve proizašle troškove. U slučaju da je vlasnik domaćih životinja koje su prouzročile štetu nepoznat, životinje zatečene na tuđem posjedu, odnosno poljoprivrednom zemljištu, nadležna tijela državne uprave imaju pravo ukloniti, te trajno zbrinuti, odnosno prodati radi namirenja učinjene štete.«
+
+### Članak 17.
+
+U članku 30. stavak 1. mijenja se i glasi:
+
+»(1) Kod izgradnje novog i obnove staroga smještajnog prostora za domaće životinje vlasnik je dužan imati mišljenje o minimalnim tehničko-tehnološkim uvjetima proizvodnje i etološki prihvatljivim postupcima sa životinjama, pribavljeno od ovlaštene ustanove ili poljoprivredne savjetodavne službe.«
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. i 4. postaje stavak 2. i 3.
+
+### Članak 18.
+
+Iza članka 30. dodaje se članak 30.a koji glasi:
+
+»Članak 30.a
+
+(1) Uzgajivač mora biti osposobljen i imati osnovna znanja o uzgoju i postupanju s domaćim životinjama, njihovoj zdravstvenoj zaštiti, hranidbi kao i o osobinama proizvoda životinjskog podrijetla.
+
+(2) Vrstu i razinu znanja te način osposobljavanja uzgajivača propisuje ministar.«
+
+### Članak 19.
+
+U članku 35. stavku 1. iza riječi: »zdravom« dodaje se riječ: »stočnom«.
+
+U stavku 2. riječ: »Hrana« zamjenjuje se riječima: »Stočna hrana«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) U prodaju se može staviti stočna hrana i pojedini sastojci za stočnu hranu ako kakvoća odgovara propisu o kakvoći stočne hrane.
+
+(4) Propise iz stavka 1. ovoga članka donosi ministar.«
+
+### Članak 20.
+
+Članak 36. mijenja se i glasi:
+
+»(1) Kakvoću stočne hrane utvrđuju za to ovlaštene pravne osobe kojima Ministarstvo, na temelju propisanih uvjeta, izda odobrenje.
+
+(2) Uvjete iz stavka 1. ovoga članka propisuje ministar.«
+
+### Članak 21.
+
+U članku 38. stavku 1. iza riječi: »meso« dodaju se riječi: »u obliku trupova i polovica,«.
+
+U stavku 3. riječi: »uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo« brišu se.
+
+U stavku 4. riječi: »uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo« brišu se.
+
+### Članak 22.
+
+Članak 39. briše se.
+
+### Članak 23.
+
+Članak 40. mijenja se i glasi:
+
+»(1) Provedbu uzgoja uzgojno valjanih životinja obavljaju uzgajivači, uzgojne organizacije i ovlaštena ustanova.
+
+(2) Uzgajivači se mogu u cilju provedbe uzgoja uzgojno valjanih životinja udruživati u udruge, sukladno odredbama Zakona o udrugama i ovoga Zakona.
+
+(3) Udruge iz stavka 2. ovoga članka mogu se udruživati u saveze sukladno odredbama Zakona o udrugama i uvjetima koje propisuje ministar.
+
+(4) Udruge i savezi iz stavka 2. i 3. ovoga članka mogu se udružiti u jedan središnji savez uzgajivača za pojedinu pasminu ili vrstu domaćih životinja.«.
+
+(5) Uzgajivači mogu samostalno provoditi uzgoj uzgojno valjanih životinja ako ispunjavaju uvjete iz članka 41. stavka 1. točke 1., 2., 3. i 4. ovoga Zakona.«
+
+### Članak 24.
+
+Članak 41. mijenja se i glasi:
+
+»(1) Ministarstvo će izdati suglasnost uzgojnoj organizaciji za bavljenje uzgojem uzgojno valjanih životinja ako se može utvrditi da:
+
+1. postoji uzgojni program za onu pasminu ili vrstu uzgojno valjanih životinja čijim će se uzgojem uzgojna organizacija baviti,
+
+2. postoji dovoljno velika populacija uzgojno valjanih životinja za provedbu uzgojnog programa,
+
+3. postoje odgovarajući djelatnici za obavljanje poslova za provedbu uzgojnog programa,
+
+4. su osigurani tehnički i organizacijski uvjeti da:
+
+– se životinje mogu trajno označiti, a kod konja točno opisati, tako da im se uvijek može utvrditi identitet,
+
+– će se uredno voditi matične knjige,
+
+– se može imati uvid u sve dokumente od važnosti za uzgoj,
+
+5. postoji jasno određeno teritorijalno područje djelovanja uzgojne organizacije,
+
+6. će svaka životinja iz domaćeg uzgoja ili uvoza koja udovoljava uvjetima podrijetla, ispravno je označena te vanjštinom odgovara standardima pasmine biti na zahtjev člana uzgojne organizacije upisana u matičnu knjigu ili uzgojni upisnik, te da se za životinje iz drugih uzgoja neće postavljati viši uvjeti,
+
+7. je članstvo u uzgojnoj organizaciji dostupno svakom uzgajivaču koji se nalazi na području djelovanja uzgojne organizacije, odnosno udruzi koja se bavi uzgojem uzgojno valjanih životinja iste pasmine ili vrste i osigurava uvjete za učinkovitu provedbu uzgojnog programa.
+
+(2) Zadovoljavanje uvjeta iz stavka 1. ovoga članka koji se odnose na provođenje pojedinih stručnih poslova uzgojna organizacija može dokazati na način da ih ispunjava sama ili na temelju ugovora s drugim stručnim ili znanstvenim ustanovama.«
+
+### Članak 25.
+
+Iza članka 41. dodaje se članak 41.a koji glasi:
+
+»Članak 41.a
+
+(1) Zahtjev za dobivanje suglasnosti uzgojne organizacije mora sadržavati:
+
+1. naziv, adresu i dokaz o pravnom obliku,
+
+2. ime, prezime i adresu osoba koje imaju pravo potpisa,
+
+3. ime, prezime i adresu osobe odgovorne za provedbu uzgojnog programa,
+
+4. podatke o predviđenom broju uzgojno valjanih životinja koje će biti uključene u provedbu uzgojnog programa te popis uzgajivača, odnosno udruga pri osnivanju,
+
+5. uzgojni program iz kojeg je vidljiv uzgojni cilj, uzgojne metode, veličina populacije na kojoj se on provodi te način ispitivanja svojstava uzgojno valjanih životinja,
+
+6. dokaz o prostornom djelovanju uzgojne organizacije, te suglasnost postojeće uzgojne organizacije iz kojeg je razvidno da ne postoji isto teritorijalno područje djelovanja te da uspostava nove uzgojne organizacije neće ometati provedbu uzgojnog programa postojeće uzgojne organizacije.
+
+(2) U slučaju da na nekom području postoji uzgojna organizacija koja provodi uzgojni program iste pasmine i vrste uzgojno valjanih životinja može se pri davanju suglasnosti podnositelju zahtjeva suziti teritorijalno područje djelovanja ili se zahtjev može odbiti.
+
+(3) Zahtjev na temelju kojeg će ovlašteni uzgajivač dobiti suglasnost za samostalnu provedbu uzgoja uzgojno valjanih životinja mora sadržavati podatke iz stavka 1. točke 1., 3., 4. i 5. ovoga članka.«
+
+### Članak 26.
+
+U članku 42. riječi: »udruzi uzgajivača« zamjenjuju se riječima: »uzgojnoj organizaciji«.
+
+### Članak 27.
+
+U članku 43. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo vodi očevidnik uzgojnih organizacija u koji ih upisuje nakon registracije pri tijelu državne uprave.«
+
+### Članak 28.
+
+U članku 44. stavku 1. riječ: »udruzi« zamjenjuje se riječima: »uzgojnoj organizaciji«, a riječ: »udruga« briše se.
+
+### Članak 29.
+
+Članak 45. mijenja se i glasi:
+
+»(1) Uzgojna organizacija i ovlašteni uzgajivač mora najkasnije do kraja prvog tromjesečja tekuće godine poslati ovlaštenoj ustanovi izvješće o provedbi uzgojnog programa za proteklu godinu.
+
+(2) Ovlaštena ustanova može zatražiti sve podatke o rezultatima rada uzgojne organizacije i ovlaštenog uzgajivača te ima pravo uvida u dokumentaciju uzgojne organizacije.
+
+(3) Ovlaštena ustanova izvještava Ministarstvo o rezultatima rada uzgojnih organizacija i ovlaštenih uzgajivača.«
+
+### Članak 30.
+
+Članak 46. mijenja se i glasi:
+
+»(1) Udruga u provođenju uzgoja uzgojno valjanih životinja obavlja:
+
+1. provedbu uzgojnog programa,
+
+2. vodi matične knjige i uzgojni upisnik za uzgojno valjana grla, upisnik uzgajivača uzgojno valjanih životinja, članova udruge te podatke o tome dostavlja središnjem savezu uzgajivača ili ovlaštenoj ustanovi,
+
+3. organizira samostalno ili zajedno sa savezom, središnjim savezom uzgajivača odnosno ovlaštenom ustanovom prodaju uzgojno valjanih životinja za članove udruge,
+
+4. vodi i druge poslove od interesa za članove udruge.
+
+(2) Savez u provođenju uzgoja uzgojno valjanih životinja obavlja:
+
+1. provedbu uzgojnog programa,
+
+2. koordinaciju prodaje uzgojno valjanih životinja za članove udruga,
+
+3. zastupa interese udruga u provedbi uzgoja uzgojno valjanih životinja kao i druge poslove od zajedničkog interesa.
+
+(3) Središnji savez uzgajivača u provođenju uzgoja uzgojno valjanih životinja:
+
+1. izrađuje i provodi uzgojne programe za pojedine vrste i pasmine uzgojno valjanih životinja,
+
+2. vodi središnji popis uzgojno valjanih životinja za one vrste i pasmine za koje provodi uzgojni program,
+
+3. vodi upisnik uzgajivača onih vrsta i pasmina za koje se vodi uzgojni program,
+
+4. vodi ili organizira prodaju uzgojno valjanih životinja,
+
+5. izdaje isprave o podrijetlu i proizvodnim svojstvima za one vrste i pasmine uzgojno valjanih životinja za koje provodi uzgojni program,
+
+6. obavlja i druge poslove od interesa za uzgajivače, udruge i saveze koje se bave uzgojem istih pasmina ili vrsta domaćih životinja.«
+
+### Članak 31.
+
+Iza članka 46. dodaje se članak 46.a koji glasi:
+
+»Članak 46.a
+
+Ovlašteni uzgajivač u provođenju uzgoja uzgojno valjanih životinja na svojem stadu obavlja:
+
+1. provedbu uzgoja uzgojno valjanih životinja
+
+2. vodi matične knjige za uzgojno valjane životinje na svojem stadu te podatke o tome dostavlja središnjem savezu uzgajivača ili ovlaštenoj ustanovi.«
+
+### Članak 32.
+
+Članak 47. mijenja se i glasi:
+
+»Ovlaštena ustanova u provođenju uzgoja uzgojno valjanih životinja:
+
+1. obavlja poslove provedbe onih uzgojnih programa za koje je ovlaštena,
+
+2. obavlja nadzor nad radom uzgojnih organizacija i ovlaš­tenih uzgajivača,
+
+3. provodi i organizira ispitivanje proizvodnosti uzgojno va­ljanih životinja, pri čemu provedbu može povjeriti uzgojnim organizacijama i središnjem savezu uzgajivača,
+
+4. obrađuje rezultate ispitivanja proizvodnosti uzgojno valjanih životinja, izračune njihovih uzgojnih vrijednosti te ih javno objavljuje,
+
+5. vodi središnji popis za one pasmine ili vrste uzgojno valjanih životinja koje se ne vode pri središnjem savezu uzgajivača,
+
+6. vodi upisnik uzgajivača onih pasmina ili vrsta uzgojno valjanih životinja koje se ne vode pri središnjem savezu uz­ga­jivača,
+
+7. zajedno sa uzgojnim organizacijama uspostavlja informacijski sustav za praćenje uzgoja uzgojno valjanih životinja te učinkovito korištenje uzgojnih i proizvodnih podataka,
+
+8. izdaje isprave o podrijetlu i proizvodnim svojstvima za one pasmine i vrste uzgojno valjanih životinja za koje provodi dodjeljene joj uzgojne programe,
+
+9. sudjeluje u izradi i provedbi uzgojnih programa,
+
+10. obavlja i druge dodijeljene joj poslove iz područja sto­čarstva.«
+
+### Članak 33.
+
+Članak 48. mijenja se i glasi:
+
+»(1) Provedba poslova uzgoja uzgojno valjanih životinja financira se iz državnog proračuna Republike Hrvatske i prihodima koje sudionici ostvaruju obavljanjem svoje djelatnosti.
+
+(2) Način raspodjele sredstava državnog proračuna iz stavka 1. ovoga članka, pojedinim sudionicima za provedbu poslova uzgoja uzgojno valjanih životinja propisuje ministar.«
+
+### Članak 34.
+
+U članku 49. stavak 2. mijenja se i glasi:
+
+»(2) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donijetih na temelju njega obavlja Ministarstvo (u daljnjem tekstu: stočarska inspekcija).«
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Nadzor nad kakvoćom proizvoda životinjskog podrijetla u prometu obavljaju gospodarski inspektori Državnog inspektorata.«
+
+### Članak 35.
+
+Iza članka 49. dodaju se članci 49.a, 49.b, 49.c, 49.d i 49.e koji glase:
+
+»Članak 49.a
+
+(1) Poslove stočarskog inspektora može obavljati diplomirani inženjer agronomije općeg ili stočarskog usmjerenja s položenim državnim stručnim ispitom za stočarskog inspektora i sa 5 godina radnog iskustva u struci.
+
+(2) Program posebnog dijela državnoga stručnog ispita iz stavka 1. ovoga članka propisuje ministar.
+
+### Članak 49.b
+
+(1) Stočarski inspektor ima službenu iskaznicu kojom se utvrđuje njegovo službeno svojstvo, identitet i ovlasti.
+
+(2) Obrazac iskaznice te način i postupak izdavanja iskaznice iz stavka 1. ovoga članka propisuje ministar.
+
+### Članak 49.c
+
+Stočarska inspekcija:
+
+1. nadzire provedbu uzgojnih programa,
+
+2. nadzire proizvodnju, odabiranje i trgovinu uzgojno valjanim životinjama,
+
+3. pregledava matične knjige i uzgojne upisnike te drugu dokumentaciju koja se odnosi na proizvodnju i trgovinu uzgojno valjanih životinja,
+
+4. nadzire ispitivanje proizvodnih svojstava uzgojno valjanih životinja, testiranje na potomstvo te ispravnost popisa matičnih grla svih vrsta uzgojno valjanih životinja i izdavanje rodovnika i potvrda o podrijetlu,
+
+5. nadzire provedbu zaštite izvornih i zaštićenih pasmina i sojeva te vođenje njihova popisa,
+
+6. nadzire uvođenje u proizvodnju novih pasmina, sojeva i hibrida,
+
+7. nadzire proizvodnju i trgovinu sjemena, jajnih stanica i zametaka,
+
+8. kontrolira obavljanje umjetnog osjemenjivanja i prirodnog pripusta te vođenje popisa o osjemenjivanju i prirodnom pripustu,
+
+9. nadzire obilježavanje uzgojno valjanih životinja,
+
+10. nadzire držanje i iskorištavanje domaćih životinja,
+
+11. nadzire neovlašteno ulaženje domaćih životinja na tuđi posjed, odnosno tuđe poljoprivredno zemljište,
+
+12. nadzire rad ovlaštene ustanove i uzgojnih organizacija u provedbi uzgoja uzgojno valjanih životinja,
+
+13. nadzire korištenje sredstava koje ovlaštena ustanova i uzgojne organizacije dobivaju iz državnog proračuna i koriste za provedbu uzgoja uzgojno valjanih životinja,
+
+14. nadzire proizvodnju i trgovinu stočne hrane,
+
+15. nadzire proizvodnju proizvoda životinjskog podrijetla te postupak utvrđivanja njihove kakvoće,
+
+16. uzima uzorke proizvoda proizvedenih ili stavljenih u trgovinu prema odredbama ovoga Zakona,
+
+17. nadzire i ostale poslove propisane ovim Zakonom,
+
+18. donosi rješenja o izlučenju rasplodnjaka namijenjenog prirodnom pripustu ili umjetnom osjemenjivanju prema prijedlogu Povjerenstva za licenciranje odnosno ocjenu rasplodnjaka,
+
+19. podnosi zahtjeve za pokretanje prekršajnog postupka radi povrede ovoga Zakona i propisa donijetih na temelju njega.
+
+### Članak 49.d
+
+(1) Ako stočarski inspektor u postupku inspekcijskog nadzora utvrdi da je povrijeđen ovaj Zakon ili propis donesen na temelju njega, naredit će rješenjem da se utvrđene nepravilnosti, odnosno nedostaci uklone u određenom roku.
+
+(2) Stočarski inspektor u provedbi inspekcijskog nadzora, prema odredbama ovoga Zakona i propisa donijetih na temelju njega, vodi postupak i donosi rješenja određena ovim Zakonom i propisima donijetim na temelju njega.
+
+(3) Protiv rješenja stočarskog inspektora može se u roku od 15 dana od dana dostave rješenja izjaviti žalba Povjerenstvu koje imenuje ministar.
+
+### Članak 49.e
+
+Fizičke i pravne osobe čiji rad podliježe nadzoru stočarskog inspektora dužne su mu omogućiti obavljanje nadzora i pružiti potrebite podatke i obavijesti.«
+
+### Članak 36.
+
+Članak 60. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. proizvodi genetski materijal te prenosi zametke bez odobrenja Ministarstva (članak 6. stavak 1.),
+
+2. se bavi genetskim manipulacijama bez odobrenja Ministarstva (članak 7. stavak 1.),
+
+3. za umjetno osjemenjivanje koristi sjeme protivno odredbi članka 15. stavka 1. ovoga Zakona,
+
+4. koristi rasplodnjake koji su izlučeni iz uzgoja (članak 19. stavak 8.),
+
+5. postupi suprotno odredbi članka 27. ovoga Zakona,
+
+6. utvrđuje ispravnost proizvoda životinjskog podrijetla suprotno propisima o njihovoj kakvoći (članak 38. stavak 3.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 8.000,00 do 10.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 8.000,00 do 10.000,00 kuna.«
+
+### Članak 37.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. rasplodnjaci nisu upisani u matične knjige (članak 16.),
+
+2. obavlja umjetno osjemenjivanje protivno odredbi članka 17. stavka 1. i 2. ovoga Zakona,
+
+3. prodaje sjeme rasplodnjaka, zametke i jajne stanice protivno odredbi članka 23. stavka 1. ovoga Zakona,
+
+4. prodaje sjeme rasplodnjaka protivno odredbi članka 24. ovoga Zakona,
+
+5. prodaje zametke i jajne stanice protivno odredbi članka 25. stavka 1. ovoga Zakona,
+
+6. uvozi uzgojno valjane životinje i genetski materijal protiv­no odredbi članka 26. ovoga Zakona,
+
+7. izvozi uzgojno valjane životinje i genetski materijal pro­tiv­no odredbi članka 28. stavka 1. i 2. ovoga Zakona,
+
+8. postupa suprotno odredbi članka 29.a stavka 3. i 4. ovoga Zakona,
+
+9. daje domaćim životinjama hormonalne preparate protivno odredbi članka 32. ovoga Zakona,
+
+10. obavlja preseljenje pčela protivno odredbi članka 33. ovoga Zakona,
+
+11. u prodaju stavlja stočnu hranu i pojedine sastojke za stočnu hranu takve kakvoće koja ne odgovara propisu o kakvoći stočne hrane (članak 35. stavak 3.),
+
+12. obavlja djelatnost u trgovini stočnom hranom protivno odredbi članka 37. ovoga Zakona,
+
+13. proizvodi životinjskog podrijetla ne odgovaraju propisanim uvjetima kakvoće (članak 38. stavak 2.),
+
+14. provodi uzgoj uzgojno valjanih životinja protivno odredbi članka 40. stavka 5. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 4.000,00 do 8.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 4.000,00 do 8.000,00 kuna.«
+
+### Članak 38.
+
+Članak 62. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. proizvodi uzgojno valjane životinje protivno uzgojnom programu (članak 3. stavak 1.),
+
+2. ne postupa u skladu s odredbama članka 4. stavka 1. i 2. ovoga Zakona,
+
+3. se bavi uzgojem uzgojno valjane životinje, a nije upisana u upisnik uzgajavača uzgojno valjanih životinja (članak 5. stavak 1.),
+
+4. proizvodi uzgojno valjanu perad protivno odredbi članka 10. ovoga Zakona,
+
+5. stavlja u prodaju matice pčela protivno odredbi članka 11. ovoga Zakona,
+
+6. u prirodnom pripustu koristi rasplodnjake protivno odredbi članka 15. stavka 2. i članka 18. stavka 1. ovoga Zakona,
+
+7. ne postupa u skladu s odredbom članka 20. stavka 1. i članka 21. stavka 1. i 2. ovoga Zakona,
+
+8. prodaje uzgojno valjane životinje protivno odredbi članka 22. ovoga Zakona,
+
+9. ne ispunjuje propisane uvjete glede stručnih djelatnika, objekata i opreme (članak 23. stavak 2.),
+
+10. drži i iskorištava domaće životinje protivno propisima o zaštiti okoliša i dobrobiti životinja (članak 29.),
+
+11. kod izgradnje i obnove smještajnog prostora za domaće životinje postupi protivno odredbi članka 30. stavka 1. ovoga Zakona,
+
+12. na domaćim životinjama u vlastitom stadu obavlja nedo­puštene zahvate (članak 31.),
+
+13. na vrijeme ne dostavi ovlaštenoj organizaciji izvješće o provedbi uzgojnog programa za proteklu godinu (članak 45.),
+
+14. stočarskom inspektoru ne omogući obavljanje nadzora i ne pruži potrebite podatke i obavijesti (članak 49.e).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 3.000,00 do 6.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 3.000,00 do 6.000,00 kuna.«
+
+### Članak 39.
+
+Propise za donošenje kojih je ovlašten po ovome Zakonu, ministar će donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 40.
+
+Odredbe članka 34. i 35. ovoga Zakona počet će se primjenjivati od 1. siječnja 2004.
+
+### Članak 41.
+
+Danom početka primjene odredaba članka 34. i 35. ovoga Zakona u Zakonu o Državnom inspektoratu (»Narodne novine«, br. 76/99.) u članku 3. podstavku 25., 26., 27., 28., 29. i 30., u članku 12. stavku 1. riječi: »i stočarstva«, i u članku 58. stavku 9. riječ: »stočarstva« i podstavak 1. brišu se.
+
+### Članak 42.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 320-08/03-01/01  
+Zagreb, 12. rujna 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o stočarstvu (NN 132/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/132/2956*
+
+HRVATSKI SABOR
+
+2956
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STOČARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o stočar­stvu, kojega je Hrvatski sabor donio na sjednici 24. studenoga 2006. godine.  
+Klasa: 011-01/06-01/71  
+Urbroj: 71-05-03/1-06-2  
+Zagreb, 30. studenoga 2006.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STOČARSTVU**
+
+### Članak 1.
+
+U Zakonu o stočarstvu (»Narodne novine«, br. 70/97., 36/98. i 151/03.) u članku 2. točki 2. podstavku drugom iza riječi: »roditelja« dodaju se riječi: »odnosno kod izvornih i zaštićenih pasmina životinje koje zadovoljavaju kriterije za tu pasminu«.  
+Točka 17. mijenja se i glasi:  
+»17. Putovnica jest identifikacijski dokument koji se izdaje za kopitare.«
+
+### Članak 2.
+
+U članku 4. stavku 3. iza riječi: »životinja« dodaju se riječi: »te oblik i sadržaj putovnice za kopitare«.
+
+### Članak 3.
+
+Iza članka 9. dodaje se članak 9.a koji glasi:
+
+*»Članak 9.a*
+
+(1) Zbog postizanja više genetske vrijednosti kopitara koriste se i podaci dobiveni na natjecanjima koja se organiziraju prema propisanim pravilima.  
+(2) Pravila natjecanja koja se odnose na uvjete, suđenje i visinu osvojene nagrade na natjecanju donosi ovlaštena organizacija. Pravila ne smiju diskriminirati kopitare prijavljene za natjecanje po osnovi zemlje podrijetla ili uzgoja, osim u slučajevima kad se natjecanje organizira kao:  
+– natjecanje kopitara registriranih u posebnim matičnim knjigama kojima se pridonosi unapređivanju pasmine,  
+– regionalno natjecanje odabranih kopitara,  
+– način obilježavanja povijesnih i tradicionalnih događaja.  
+(3) Zbog doprinosa razvoju i unapređivanju uzgoja kopitara organizatori natjecanja su dužni za ove namjene izdvajati novčana sredstva iz ukupnog iznosa nagrada.  
+(4) Ovlaštena organizacija prati rezultate natjecanja te podatke dostavlja ovlaštenoj ustanovi.  
+(5) Udio izdvajanja sredstava iz stavka 3. ovoga članka i kriterije za njihovu raspodjelu te uvjete koje mora ispuniti ovlaštena organizacija propisuje ministar.«
+
+### Članak 4.
+
+Članak 11. mijenja se i glasi:  
+»(1) Zbog očuvanja izgrađenih genetskih i zdravstvenih osobina sive pčele, u Republici Hrvatskoj ne smiju se uzgajati i stavljati u prodaju druge pasmine pčela.  
+(2) Matice pčela koje se stavljaju u prodaju moraju biti proizvedene na oplodnim stanicama registriranih uzgajivača.«
+
+### Članak 5.
+
+U članku 15. stavci 4., 5., 6. i 7. brišu se.
+
+### Članak 6.
+
+U članku 19. stavci 5., 6., 7. i 8. mijenjaju se i glase:  
+»(5) Praćenje uzgojne i uporabne vrijednosti rasplodnjaka namijenjenih prirodnom pripustu obavlja ovlaštena ustanova.  
+(6) Kada rasplodnjak ne ispunjava postavljene uzgojne i reprodukcijske uvjete ovlaštena ustanova predlaže izlučenje iz daljnjeg uzgojnog korištenja te o tome obavještava držatelja rasplodnjaka, uzgojnu organizaciju te stočarsku inspekciju.  
+(7) Postupak izlučenja provodi stočarska inspekcija.  
+(8) Izlučeni rasplodnjaci ne smiju se koristiti u uzgoju, a vlasnik izlučenog rasplodnjaka nema pravo na naknadu štete.«
+
+### Članak 7.
+
+U članku 21. stavak 1. mijenja se i glasi:  
+»(1) Pravne i fizičke osobe koje obavljaju umjetno osjemenjivanje dužne su voditi evidenciju o izvršenim osjemenjivanjima koju dostavljaju ovlaštenoj ustanovi, a pravnim osobama od kojih su preuzele sjeme dostavljaju izvješća o osjemenjenim životinjama.«  
+Stavak 3. mijenja se i glasi:  
+»(3) Način vođenja evidencije te oblik i sadržaj izvješća iz stavka 1. i 2. ovoga članka propisuje ministar.«
+
+### Članak 8.
+
+U članku 22. stavku 1. riječ: »(konji)« zamjenjuje se riječju: »(kopitari)«.  
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:  
+»(2) Ovlaštena ustanova ili središnji savez uzgajivača izdaje rodovnik i potvrdu o podrijetlu. Potvrdu o podrijetlu izdaje i uzgojno društvo.  
+(3) Oblik i sadržaj rodovnika i potvrde o podrijetlu propisuje ministar.«
+
+### Članak 9.
+
+U članku 24. stavku 4. iza riječi: »potvrdu« dodaju se riječi: »a uvjete glede uzgojne vrijednosti potvrđuje ovlaštena ustanova ili središnji savez uzgajivača«.
+
+### Članak 10.
+
+U članku 26. stavku 4. iza riječi: »Zakona« briše se točka i dodaju se riječi: »te ako je uvoznik koji uvozi uzgojno valjana grla za tržište registriran za uvoz sukladno posebnim propisima.«
+
+### Članak 11.
+
+Članak 30. mijenja se i glasi:  
+»(1) Kod donošenja prostornih planova moraju se osigurati odgovarajući prostorni uvjeti za stočarsku proizvodnju, uvažavajući specifičnosti područja na kojem će se odvijati ta proizvodnja.  
+(2) U postupku donošenja prostornih planova iz stavka 1. ovoga članka Ministarstvo daje mišljenje u roku od 30 dana. U slučaju da se ne dostavi mišljenje u propisanom roku smatrat će se da je mišljenje dano.  
+(3) Uvjete koje treba ispuniti pri donošenju prostornih planova iz stavka 1. ovoga članka glede stočarske proizvodnje propisuje ministar uz suglasnost ministra nadležnog za zaštitu okoliša, prostornog uređenja i graditeljstva.«
+
+### Članak 12.
+
+Članak 30.a mijenja se i glasi:  
+»(1) Sa stajskim gnojem treba postupati tako da se ne ugrožava zdravlje ljudi i domaćih životinja, okoliš, te kakvoća hrane za životinje i životinjskih proizvoda.  
+(2) Objekti za sakupljanje stajskog gnoja (gnojišta, gnojne jame, jame za gnojovku, lagune) i uređaji za preradu i obradu stajskog gnoja moraju ispunjavati propisane tehničko-tehnološke uvjete.  
+(3) Tehničko-tehnološke uvjete iz stavka 2. ovoga članka propisuje ministar uz suglasnost ministra nadležnog za zaštitu okoliša, prostornog uređenja i graditeljstva.«
+
+### Članak 13.
+
+Članak 32. mijenja se i glasi:  
+»(1) Radi podizanja više razine znanja uzgajivača domaćih životinja provode se programi izobrazbe.  
+(2) Programi iz stavka 1. ovoga članka izvode se u obrazovnim ustanovama u kojima se provode programi stočarskog usmjerenja.  
+(3) Stupanj i vrsta programa ovise o zahtjevnosti poslova u uzgoju, odnosno iskorištavanju domaćih životinja.  
+(4) Izbor obrazovnih ustanova iz stavka 2. ovoga članka obavlja se na temelju javnog poziva Ministarstva. Suglasnost na izbor obrazovnih ustanova daje Ministarstvo znanosti, obrazovanja i športa.  
+(5) Izobrazba uzgajivača financira se iz državnog proračuna Republike Hrvatske i vlastitih prihoda uzgajivača.  
+(6) Način osposobljavanja, stupanj i vrstu programa iz stavka 3. ovoga članka te uvjete i način izbora obrazovnih ustanova iz stavka 4. ovoga članka propisuje ministar.«
+
+### Članak 14.
+
+Iza članka 34. dodaje se članak 34.a koji glasi:
+
+*»Članak 34.a*
+
+(1) Gospodarenje pčelinjim pašama te način iskorištavanja pčelinjih paša provodi se sukladno katastru pčelinjih paša.  
+(2) Katastar pčelinjih paša jest baza podataka o prostornom rasporedu i načinu gospodarenja pčelinjim pašama na području Republike Hrvatske.  
+(3) Način određivanja i vođenja katastra te njegov sadržaj propisuje ministar.«
+
+### Članak 15.
+
+Članak 35. mijenja se i glasi:  
+»(1) Domaće životinje smiju se hraniti samo hranom za životinje čija kakvoća odgovara propisima o kakvoći hrane za životinje.  
+(2) Pod kakvoćom hrane za životinje podrazumijevaju se njezina fizikalno-kemijska i hranidbena svojstva.  
+(3) U prodaju se može staviti hrana za životinje i pojedini sastojci hrane za životinje ako njezina kakvoća odgovara propisu o kakvoći hrane za životinje.  
+(4) Propis iz stavka 1. ovoga članka koji se odnosi na fizikalno – kemijska i hranidbena svojstva hrane za životinje donosi ministar.  
+(5) Domaćim životinjama koje se koriste u gospodarske svrhe nije dopušteno davanje hormonalnih preparata da bi se poticao rast, proizvodnja mlijeka, mesa, jaja ili zbog drugih proizvodnih razloga.«
+
+### Članak 16.
+
+U članku 38. iza stavka 4. dodaje se stavak 5. koji glasi:  
+»(5) Visinu troškova za utvrđivanje kakvoće pojedinih proizvoda životinjskog podrijetla propisuje ministar.«
+
+### Članak 17.
+
+U članku 40. stavku 1. iza riječi: »uzgojne organizacije« dodaju se riječi: »uzgojna društva«.  
+U stavku 3. iza riječi: »udrugama« stavlja se točka, a riječi: »i uvjetima koje propisuje ministar« se brišu.
+
+### Članak 18.
+
+U članku 41. stavak 2. mijenja se i glasi:  
+»(2) Zadovoljavanje uvjeta iz stavka 1. točaka 3. i 4. ovoga članka, koji se odnose na provođenje stručnih poslova, uzgojna organizacija dokazuje ugovorom s ovlaštenom ustanovom.«  
+Iza stavka 2. dodaje se stavak 3. koji glasi:  
+»(3) Uvjete koje moraju ispunjavati uzgojne organizacije za osnivanje i bavljenje uzgojem uzgojno valjanih životinja propisuje ministar.«
+
+### Članak 19.
+
+U članku 41.a stavku 1. točki 4. riječ: »predviđenom« briše se.  
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:  
+»(3) Podatke iz stavka 1. točke 4. ovoga članka ovjerava ovlaštena ustanova.«  
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 20.
+
+U članku 46. stavku 3. točki 5. riječi: »isprave o podrijetlu i proizvodnim svojstvima« zamjenjuju se riječima: »rodovnik i potvrde o podrijetlu«.  
+Iza točke 5. dodaje se nova točka 6. koja glasi:  
+»6. dostavlja ovlaštenoj ustanovi podatke o uzgojno valjanim grlima,«  
+Dosadašnja točka 6. postaje točka 7.
+
+### Članak 21.
+
+U članku 47. točki 8. riječi: »isprave o podrijetlu i proizvodnim svojstvima« zamjenjuju se riječima: »rodovnik i potvrde o podrijetlu«.  
+Točka 9. mijenja se i glasi:  
+»9. izrađuje i provodi uzgojne programe za pojedine vrste i pasmine uzgojno valjanih životinja.«  
+Iza točke 9. dodaju se nove točke 10. i 11. koje glase:  
+»10. vodi središnji popis svih uzgojno valjanih grla u Republici Hrvatskoj.  
+11. obavlja za uzgojne organizacije putem svojih djelatnika stručne poslove iz njihove djelatnosti.«  
+Dosadašnja točka 10. postaje točka 12.
+
+### Članak 22.
+
+U članku 48. stavak 2. se briše.
+
+### Članak 23.
+
+U članku 61. stavku 1. točka 9. mijenja se i glasi:  
+»9. organizira natjecanja suprotno članku 9.a ovoga Zakona.«
+
+### Članak 24.
+
+U članku 62. stavku 1. točka 11. mijenja se i glasi:  
+»11. postupa suprotno odredbama članka 30.a ovoga Zakona.«  
+Iza točke 11. dodaje se nova točka 12. koja glasi:  
+»12. postupa suprotno odredbama članka 34.a ovoga Zakona.«  
+Dosadašnje točke 12., 13. i 14. postaju točke 13., 14. i 15.
+
+### Članak 25.
+
+U cijelom tekstu Zakona o stočarstvu riječi: »stočna hrana« zamjenjuju se riječima: »hrana za životinje« u odgovarajućem padežu.
+
+### Članak 26.
+
+Propise za donošenje kojih je ovlašten po ovome Zakonu, ministar će donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 27.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o stočarstvu.
+
+### Članak 28.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 320-08/06-01/01  
+Zagreb, 24. studenoga 2006.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

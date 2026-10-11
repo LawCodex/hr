@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-23
-last_amended: 1999-11-29
+last_amended: 2002-03-28
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "78/99, 127/99"
+narodne_novine: "78/99, 127/99, 32/02"
 amendments:
   - "NN 127/1999 (2005) Ispravak Zakona o patentima"
+  - "NN 32/2002 (699) Zakon o izmjeni Zakona o patentima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1393"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 78/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1393).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 127/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 127/1999, NN 32/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1067,3 +1068,47 @@ Tajnik
 Zastupnièkog doma  
 Hrvatskoga državnog sabora  
 Krešimir Aleriæ, dipl. iur., v. r.
+
+## Zakon o izmjeni Zakona o patentima (NN 32/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/32/699*
+
+HRVATSKI SABOR
+
+699
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PATENTIMA
+
+Proglašavam Zakon o izmjeni Zakona o patentima, koji je donio Hrvatski sabor na sjednici 21. ožujka 2002.
+
+Broj: 01-081-02-1323/2  
+Zagreb, 26. ožujka 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PATENTIMA**
+
+### Članak 1.
+
+U Zakonu o patentima (»Narodne novine«, br. 78/99.) u članku 84. stavku 1. riječi: »u roku od 21 mjeseca« zamje­njuju se riječima: »najkasnije do isteka roka od 31 mjeseca«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«, a primje­njuje se od 1. trav­nja 2002.
+
+Klasa: 381-03/02-01/01  
+Zagreb, 21. ožujka 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

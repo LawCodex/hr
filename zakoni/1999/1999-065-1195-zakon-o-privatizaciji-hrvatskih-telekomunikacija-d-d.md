@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-06-25
+last_amended: 2001-07-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "65/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "65/99, 68/01"
+amendments:
+  - "NN 68/2001 (1126) Zakon o izmjenama i dopunama Zakona o privatizaciji Hrvatskih telekomunikacija d.d."
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/65/1195"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o privatizaciji Hrvatskih telekomunikacija d.d.
 
 > Izvor: Narodne novine, NN 65/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/65/1195).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 68/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -174,3 +178,110 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o privatizaciji Hrvatskih telekomunikacija d.d. (NN 68/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1126*
+
+HRVATSKI SABOR
+
+1126
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRIVATIZACIJI HRVATSKIH TELEKOMUNIKACIJA d.d.
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o privatizaciji Hrvatskih telekomunikacija d.d., koji je donio Hrvatski sabor na sjednici 19. srp­nja 2001.
+
+Broj: 01-081-01-2398/2  
+Zagreb, 24. srp­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRIVATIZACIJI HRVATSKIH TELEKOMUNIKACIJA d.d.**
+
+### Članak 1.
+
+U Zakonu o privatizaciji Hrvatskih telekomunikacija d.d. (»Narodne novine«, 65/99.) u članku 1. stavak 2. briše se.
+
+### Članak 2.
+
+U članku 2. stavku 1. točka 4. mijenja se i glasi:
+
+“4. u postupku javne ponude sukladno Zakonu o izdavanju i prometu vrijednosnim papirima (»Narodne novine«, br. 107/95. i 142/98.), Vlada Republike Hrvatske će ponuditi najmanje 20% dionica HT-a,
+
+- prodajom putem javne ponude hrvatskim državljanima prema Zakonu o izdavanju i prometu vrijednosnim papirima (»Na­rod­ne novine«, br. 107/95. i 142/98.), uz pravo prvenstva, pogodnosti i pod uvjetima koje će propisati Vlada Republike Hrvatske prigodom uvrštenja dionica HT-a na burzi,
+
+- prodajom putem javne ponude domaćim pravnim osobama i stranim ulagateljima sukladno Zakonu o izdavanju i prometu vrijednosnim papirima (»Narodne novine«, br. 107/95. i 142/98.), bez ikakvih pogodnosti.”
+
+Točka 5. mijenja se i glasi:
+
+“5. Prodajom preostalog dijela dionica sukladno tržišnim prilikama strateškom ulagatelju ili na tržištu kapitala sukladno odluci Vlade Republike Hrvatske.”
+
+Točka 6. briše se.
+
+Dodaje se stavak 4. koji glasi:
+
+“(4) Redoslijed i dinamiku privatizacije iz stavka 1. ovoga članka utvrđuje odlukom Vlada Republike Hrvatske.”
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+“(1) Dividenda ostvarena na temelju dionica u vlasništvu Republike Hrvatske prihod je državnog proračuna.
+
+(2) Nije prihod državnog proračuna dividenda ostvarena od dionica izdvojenih za prijenos bez naknade, u smislu odredbe članka 2. stavka 1. točke 1. ovoga Zakona.”
+
+### Članak 4.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+“(1) Vlada Republike Hrvatske će osnovati poseban fond, u koji će prenijeti dionice iz članka 2. stavka 1. točke 1. ovoga Zakona, sa svim pripadajućim pravima.”
+
+Stavak 2. mijenja se i glasi:
+
+“(2) Vlada Republike Hrvatske donijet će odluku o mjerilima, broju i uvjetima za stjecanje, postupku i vremenu prijenosa dionica fonda iz prethodnog stavka hrvatskim braniteljima i članovima njihovih obitelji.”
+
+### Članak 5.
+
+U članku 6. stavak 2. i 3. brišu se.
+
+### Članak 6.
+
+Članak 8. mijenja se i glasi:
+
+“(1) Za čitavo vrijeme dok je Republika Hrvatska vlasnik makar i jedne dionice HT-a s pravom glasa, Hrvatske telekomunikacije d.d., odnosno njegovi organi mogu samo uz suglasnost Vlade Republike Hrvatske donijeti sljedeće odluke, odnosno sklopiti pravne poslove ili poduzeti pravne radnje:
+
+- donijeti odluku o prestanku društva,
+
+- odreći se koncesije, dozvole ili ovlaštenja za obavljanje djelatnosti, ili raskinuti ugovor o koncesiji,
+
+- promijeniti, odnosno izmijeniti tvrtku,
+
+- donijeti odluku o premještanju stvarnog sjedišta HT-a u inozemstvo.
+
+(2) U slučaju otvaranja likvidacije nad Hrvatskim telekomunikacijama d.d., ili njenim pravnim sljednikom, a za čitavo vrijeme dok je Republika Hrvatska vlasnik makar i jedne dionice HT-a s pravom glasa, Republika Hrvatska ima pravo prvokupa cjelokupne, odnosno dijela imovine HT-a po procijenjenoj tržišnoj vrijednosti.”
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 344-01/01-02/02
+
+Zagreb, 19. srpnja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

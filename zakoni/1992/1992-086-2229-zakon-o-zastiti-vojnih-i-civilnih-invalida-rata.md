@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1992-12-12
-last_amended: 1995-12-28
+last_amended: 2003-06-26
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1995; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "86/92, 76/94, 108/95"
+narodne_novine: "86/92, 76/94, 108/95, 82/01, 103/03"
 amendments:
   - "NN 76/1994 (1302) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 108/1995 (1785) Zakon o izmjeni Zakona o zaštiti vojnih i civilnih invalida rata"
+  - "NN 82/2001 (1407) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
+  - "NN 103/2003 (1367) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2229"
 retrieved: 2026-10-12
 ---
@@ -22,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 86/1992 (https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2229).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1994, NN 108/1995.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1994, NN 108/1995, NN 82/2001, NN 103/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1091,3 +1093,579 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 Predsjednik Zastupničkog doma Sabora
 
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (NN 82/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1407*
+
+HRVATSKI SABOR
+
+1407
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA
+
+Proglašavam Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata, koji je donio Hrvatski sabor na sjednici 21. rujna 2001.
+
+Broj: 01-081-01-2942/2  
+Zagreb, 24. rujna 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA**
+
+### Članak 1.
+
+U Zakonu o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 77/92., 58/93., 2/94., 76/94., 108/95. i 108/96.) u članku 3. stavak 2. briše se.
+
+U dosadašnjem stavku 3. koji postaje stavak 2. riječi: »koji nisu obuhvaćeni u stavku 2. ovoga članka, a« brišu se.
+
+### Članak 2.
+
+U članku 5. stavku 1. dosadašnje točke 2., 3., 4. i 5. postaju točke 1., 2., 3. i 4.
+
+### Članak 3.
+
+U članku 12. stavku 1. točka 2. briše se.
+
+U dosadašnjoj točki 3. koja postaje točka 2. brojke: »2. i 3.« zamjenjuju se brojkama: »1. i 2.«.
+
+Dosadašnje točke 4., 5., 6. i 7. postaju točke 3., 4., 5. i 6.
+
+### Članak 4.
+
+U članku 13. stavku 1. riječ: »usvojena« zamjenjuje se riječju: »posvojena«, a riječ: »usvojitelji« zamjenjuje se riječju: »posvojitelji«.
+
+### Članak 5.
+
+U članku 14. točka 4. briše se.
+
+Dosadašnje točke 5. i 6. postaju točke 4. i 5.
+
+### Članak 6.
+
+U članku 16. stavku 2. riječi: »160% prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj iz prethodne godine« zamjenjuju se riječima: »100% proračunske osnovice«.
+
+### Članak 7.
+
+Iza članka 20. podnaslov: »4. Posebni dodatak« i članak 21. brišu se.
+
+### Članak 8.
+
+U članku 25. stavku 1. riječ: »sve« zamjenjuje se riječju: »uz«.
+
+U stavku 3. brojka: »3.« zamjenjuje se brojkom: »2.«.
+
+### Članak 9.
+
+U članku 27. stavku 2. riječ: »usvojitelji« zamjenjuju se riječju: »posvojitelji«.
+
+U stavku 3. riječ: »usvojitelj« zamjenjuje se riječju: »posvojitelj«.
+
+### Članak 10.
+
+U članku 28. stavku 3. brojka: »3.« zamjenjuje se brojkom: »2.«.
+
+### Članak 11.
+
+U članku 34. stavku 1. točka 5. briše se.
+
+U dosadašnjoj točki 6. koja postaje točka 5. riječi: »prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj iz prethodne godine »zamjenjuju se riječima: »proračunske osnovice«.
+
+### Članak 12.
+
+U članku 36. stavku 1. točki 3. iza riječi: »26 godina života« briše se zarez a riječi: »a ako je nesposobna za samostalan život i rad, prema propisima o invalidskom osiguranju« zamjenjuju se riječima: »kod kojega je nastupila opća nesposobnost za rad, prema propisima o mirovinskom osiguranju«.
+
+U točki 4. riječi: »dok su ta djeca nesposobna za samostalan život i rad« zamjenjuju se riječima: »dok kod te djece postoji opća nesposobnost za rad«.
+
+U stavku 2. iza riječi: »nesposobnim za« riječi: »samostalan život i« brišu se.
+
+### Članak 13.
+
+U članku 37. stavku 1. riječi: »55% prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj iz prethodne godine« zamjenjuju se riječima: »33% od proračunske osnovice«.
+
+### Članak 14.
+
+U članku 41. stavku 1. iza riječi: »poljoprivredne djelatnosti« dodaje se riječ: »i šumarstva«.
+
+### Članak 15.
+
+Članak 42. mijenja se i glasi:
+
+»Kao prihod od poljoprivredne djelatnosti i šumarstva smatra se dohodak od poljoprivrede i šumarstva ostvaren korištenjem prirodnih bogatstava zemlje i uporabe od tih djelatnosti dobivenih proizvoda, koji je služio kao osnovica za obračun poreza na dodanu vrijednost prema Zakonu o porezu na dodanu vrijednost u prethodnoj godini.
+
+Iznimno od odredbe stavka 1. ovoga članka dohodak od poljoprivrede i šumarstva uzima se umanjen za 50%, ako su u pitanju korisnici koji u kućanstvu nemaju članova sposobnih za privređivanje u smislu članka 36. i 40. stavka 3. ovoga Zakona, te korisnici dodatka za njegu i pomoć druge osobe i korisnici dodatka za pripomoć u kući.
+
+Ako je poljoprivredno zemljište dato u zakup, kao prihod od poljoprivredne djelatnosti i šumarstva smatra se mjesečna svota zakupnine, ako je to za korisnika povoljnije.
+
+Ako se radi o korištenju tuđeg zemljišta, prihod od poljoprivredne djelatnosti i šumarstva uzima se po odbitku ugovorene naknade za korištenje tuđeg zemljišta.
+
+Prihod od poljoprivredne djelatnosti i šumarstva uzima se u obzir i kada se radi o prihodu od korištenja prirodnih bogatstava zemlje i uporabe od tih djelatnosti dobivenih proizvoda sa zemljišta na kojemu korisnik ima pravo plodokorištenja.«
+
+### Članak 16.
+
+U članku 45. stavku 1. točki 1. iza riječi: »poljoprivredne djelatnosti« dodaju riječi: »i šumarstva«.
+
+Stavak 2. mijenja se i glasi:
+
+»Ako je bračni drug korisnika opskrbnine zaposlen u inozemstvu kod inozemnog poslodavca ili tamo samostalno obavlja privrednu ili profesionalnu djelatnost, smatra se da mjesečni prihod po članu kućanstva korisnika opskrbnine prelazi svotu iz članka 34. točke 5. ovoga Zakona.«
+
+### Članak 17.
+
+U članku 47. stavku 2. riječi: »45% od prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj iz prethodne godine« zamjenjuju se riječima: »23% od proračunske osnovice«.
+
+### Članak 18.
+
+Iza članka 47. podnaslov: »Doplatak za djecu« i članak 48. brišu se.
+
+### Članak 19.
+
+U članku 52. stavku 1. riječi: »prosječnom mjesečnom pla­ćom svih zaposlenih u Republici Hrvatskoj u prethodnoj godini« zamjenjuju se riječima: »proračunskom osnovicom«.
+
+U stavku 2. riječi: »kretanje prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj u prethodnom tromjesečju« zamjenjuju se riječima: »promjenu proračunske osnovice«.
+
+### Članak 20.
+
+U članku 53. brojka: »6« zamjenjuje se brojkom: »5«, a riječi: »kretanjem prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini« zamjenjuje se riječima: »proračunskom osnovicom«.
+
+### Članak 21.
+
+Članak 54. briše se.
+
+### Članak 22.
+
+U članku 55. stavku 1. riječi: »utvrđuju zajedno« zamjenjuju se riječju: »utvrđuje«, a riječi: »ministar obrane i ministar rada i socijalne skrbi,« zamjenjuju se riječima: »ministar rada i socijalne skrbi, «
+
+Stavak 2. briše se.
+
+### Članak 23.
+
+U članku 56. stavku 1. riječi: »Ministar obrane i ministar rada i socijalne skrbi donose zajedno« zamjenjuju se riječima: »Ministar rada i socijalne skrbi donosi«.
+
+U stavku 2. riječi: »Ministar obrane i ministar rada i socijalne skrbi zajedno mogu« zamjenjuju se riječima: »Ministar rada i socijalne skrbi može«.
+
+### Članak 24.
+
+U članku 59. stavku 1. riječi: »i invalidskom« brišu se.
+
+U stavku 2. riječi: »točke 4. do 7. « zamjenjuju se riječima: »točke 3. do 6. «.
+
+### Članak 25.
+
+U članku 61. iza riječi: »opskrbnina« briše se zarez i dodaje veznik: »i«, a riječi: »i doplatak za djecu« brišu se.
+
+### Članak 26.
+
+Članak 71. mijenja se i glasi:
+
+»O pravima po ovom Zakonu u prvom stupnju rješava nadležni ured državne uprave u županiji, odnosno nadležno up­rav­no tijelo Grada Zagreba, a u drugom stupnju Ministarstvo rada i socijalne skrbi.
+
+Iznimno od odredbe stavka 1. ovoga članka o pravima osoba iz članka 6. stavka 1., točke 1., 2., 5. i 6. i stavka 2., članka 6., te članka 7. ovoga Zakona čije je tjelesno oštećenje nastalo pod tim okolnostima nakon 17. kolovoza 1990., kao i o pravima članova obitelji osoba nastradalih pod tim okolnostima, u prvom stupnju rješava nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba, a u drugom stupnju Ministarstvo hrvatskih branitelja iz Domovinskog rata.
+
+O pravima po ovom Zakonu za osobe koje nemaju prebiva­lište na teritoriju Republike Hrvatske u prvom stupnju rješava nadležno upravno tijelo Grada Zagreba, a u drugom stupnju nadležno ministarstvo. «
+
+### Članak 27.
+
+U članku 77. stavku 4. riječi: »Ministar obrane, odnosno ministar rada i socijalne skrbi« zamjenjuju se riječima: »Ministar rada i socijalne skrbi«.
+
+### Članak 28.
+
+U članku 79. stavku 1. riječi: »i doplatak za djecu« brišu se.
+
+### Članak 29.
+
+U članku 81. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Kada je rješenje, koje je u postupku revizije donijeto u propisanom roku, poništeno u upravnom sporu, tijelo čije je rješenje poništeno, može donijeti novo rješenje u postupku revizije u roku od 30 dana od primitka presude. «
+
+### Članak 30.
+
+U članku 87. stavku 1. riječi: »nadležno tijelo državne uprave koje rješava u prvom stupnju, ako ministar obrane, odnosno ministar rada i socijalne skrbi drukčije ne odredi« zamjenjuju se riječima: »nadležno tijelo državne uprave koje rješava u prvom stupnju, ako ministar rada i socijalne skrbi drukčije ne odredi. «
+
+U stavku 2. riječi: »Ministarstva rada i socijalne skrbi, odnosno odgovarajuća služba Ministarstva obrane« zamjenjuju se riječima: »Ministarstva rada i socijalne skrbi«.
+
+### Članak 31.
+
+U članku 92. riječi: »Službe društvenog knjigovodstva Hr­vat­ske, organizacija poštansko telegrafskog i telefonskog saobra­ćaja i banaka« zamjenjuju se riječima: »platnog prometa«.
+
+### Članak 32.
+
+U članku 95. iza riječi: »klimatsko liječenje« stavlja se točka, a riječi: »i pravo na besplatnu i povlaštenu vožnju« brišu se.
+
+### Članak 33.
+
+U članku 96. riječi: »ministar rada, socijalne skrbi i obitelji« zamjenjuju se riječima: »ministar rada i socijalne skrbi«.
+
+### Članak 34.
+
+U članku 106. stavak 1. mijenja se i glasi:
+
+»Korisnike prava iz članka 99. do 102. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 77/92., 58/93., 2/94., 76/94. i 108/95.), za koje nije donijeto odgovarajuće rješenje po službenoj dužnosti do 31. prosinca 1996., prevest će se na odredbe toga Zakona, ako podnesu zahtjev do 30. lipnja 2002. Zahtjevi podnijeti poslije tog roka neće se uzimati u postupak.«
+
+Stavak 4. mijenja se i glasi:
+
+»Prava po rješenjima donijetim na temelju ovoga članka pripadaju od prvog dana idućeg mjeseca nakon podnošenja zahtje­va.«
+
+### Članak 35.
+
+1. U članku 6. stavku 1. točki 4. riječi: »uputio nadležni organ« zamjenjuju se riječima: »uputilo nadležno tijelo.«
+
+2. U članku 15. stavku 1., članku 16. stavku 1., 2. i 3., članku 17. stavku 1. točki 1. i 2., stavku 2. točki 1., članku 18. stavku 1., članku 20. stavku 1., članku 22. stavku 1., članku 25. stavku 2., članku 26. stavku 2., članku 28. stavku 1., članku 32. stavku 3., članku 34. stavku 2., članku 36. stavku 1. točki 1., članku 56. stavku 1. i članku 102. stavku 3. riječ: »grupa« u odgovarajućem padežu zamjenjuje se riječju: »skupina« u odgovarajućem padežu.
+
+3. U članku 72. stavku 2. članku 74. stavku 2. i članku 103. stavku 1. riječi: »organ uprave« u odgovarajućim padežima zamjenjuju se riječima: »tijelo državne uprave« u odgovarajućim padežima.
+
+4. U članku 76. stavku 1. i 2., članku 77. stavku 1., 2., 3. i 4., članku 78., članku 80. stavku 4., članku 81. stavku 2. i članku 82. stavku 2. riječi: »liječnička komisija« zamjenjuju se riječima: »liječničko povjerenstvo« u odgovarajućim padežima.
+
+5. U članku 77. stavku 1. riječi: »prvostepeni postupak« u odgovarajućem padežu, zamjenjuju se riječima: »prvostupanjski postupak« u odgovarajućem padežu, a u stavku 2. riječi: »drugostepeni postupak« u odgovarajućem padežu zamjenjuju se rije­čima: »drugostupanjski postupak« u odgovarajućem padežu.
+
+6. U članku 79. stavku 1. i članku 80. stavku 1. riječi: »prvi stepen« u odgovarajućim padežima zamjenjuju se riječima: »prvi stupanj« u odgovarajućim padežima.
+
+7. U članku 79. stavku 2., članku 80. stavku 1., 2. i 4., članku 81. stavku 1. i 2. riječi: »drugostepeni organ« u odgovarajućim padežima zamjenjuju se riječima: »drugostupanjsko tijelo« u odgovarajućim padežima.
+
+8. U članku 79. stavku 3., članku 80. stavku 3., članku 81. stavku 1. i članku 82. stavku 1. riječi: »prvostepeni organ« u odgo­varajućim padežima zamjenjuju se riječima: »prvostupanj­sko tijelo« u odgovarajućim padežima.
+
+9. U članku 79. stavku 4. riječi: »organ koji je donio« zamje­njuju se riječima: »tijelo koje je donijelo«.
+
+10. U članku 80. stavku 1. i 3. riječi: »prvostepeno rješenje« u odgovarajućim padežima zamjenjuju se riječima: »prvostupanjsko rješenje« u odgovarajućim padežima.
+
+11. U članku 88. riječi: »Isplatni organ« zamjenjuju se riječima: »Isplatno tijelo«.
+
+12. U članku 91. riječi: »organ koji« u odgovarajućem pade­žu zamjenjuju se riječima: »tijelo koje« u odgovarajućem padežu.
+
+13. U članku 94. stavku 3. riječi: »nadležni isplatni organ« zamjenjuju se riječima: »nadležno isplatno tijelo«.
+
+### Članak 36.
+
+U članku 3. Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 58/93.) riječi: »donose zajedno ministar obrane i ministar rada i socijalne skrbi« zamjenjuju se riječima: »donosi ministar rada i socijalne skrbi.«
+
+### Članak 37.
+
+Ministar rada i socijalne skrbi u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijet će provedbeni akt kojim će utvrditi mjesečne svote osobne invalidnine, dodatka za njegu i pomoć druge osobe, obiteljske invalidnine, uvećane obiteljske invalidnine, dodatka za pripomoć u kući i svotu osnovice za određivanje opskrbnine sukladno odredbi članka 6., 13. i 17. ovoga Zakona.
+
+### Članak 38.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«, a primjenjuje se od 1. listopada 2001.
+
+Klasa: 562-01/01-01/02  
+Zagreb, 21. rujna 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (NN 103/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/103/1367*
+
+HRVATSKI SABOR
+
+1367
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata, koji je donio Hrvatski sabor na sjednici 12. lip­nja 2003.
+
+Broj: 01-081-03-2255/2  
+Zagreb, 18. lip­nja 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA**
+
+### Članak 1.
+
+U Zakonu o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96. i 82/01.) u članku 5. točka 4. mijenja se i glasi:
+
+»pri obavljanju vojnih i redarstvenih dužnosti u stranoj zemlji u okviru mirovnih snaga i mirovnih misija ako ju je na tu dužnost uputilo nadležno tijelo u okviru međunarodnih obveza poslije 15. svibnja 1945. godine.«
+
+### Članak 2.
+
+U članku 14. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. profesionalnu rehabilitaciju,«.
+
+Dosadašnje točke 4. i 5. postaju točke 5. i 6.
+
+### Članak 3.
+
+Iza članka 20. dodaje se podnaslov i članak 20.a koji glasi:
+
+»4. Profesionalna rehabilitacija
+
+### Članak 20.a
+
+Mirnodopski vojni invalid i civilni invalid rata kod kojeg je uzrok invalidnosti djelomično ili u cijelosti posljedica rane, ozljede, bolesti, pogoršanja bolesti na osnovi kojih je stekao svojstvo mirnodopskog, odnosno civilnog invalida rata a kod kojeg postoji preostala radna sposobnost, ima pravo na profesionalnu rehabilitaciju, uključujući osposobljavanje za obavljanje posla za koje se traži stručna sprema viša od njegove, bez obzira je li mu nakon profesionalne rehabilitacije osigurano zaposlenje, ako nema navršene godine života i to: žena 40 godina, a muškarac 45 godina.
+
+O pravu na profesionalnu rehabilitaciju i roku trajanja rehabilitacije u prvom stupnju rješava područna služba Hrvatskog zavoda za zapošljavanje prema prebivalištu invalida, a u drugom stupnju Središnja služba Hrvatskog zavoda za zapošljavanje, sukladno odredbama Zakona o profesionalnoj rehabilitaciji i zapoš­lja­vanju osoba s invaliditetom.
+
+Za vrijeme profesionalne rehabilitacije invalid ima pravo na novčanu pomoć u visini osnovice za određivanje opskrbnine ako mu redovni mjesečni prihodi po članu kućanstva ne prelaze dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona.
+
+Ako invalid za vrijeme profesionalne rehabilitacije živi izvan mjesta svoga prebivališta novčana pomoć iz stavka 3. ovoga članka povećava se za 50%.
+
+Za vrijeme dok invalid prima novčanu pomoć iz stavka 3. ovoga članka ne može koristiti pravo na opskrbninu.«
+
+### Članak 4.
+
+Članak 24. briše se.
+
+### Članak 5.
+
+U članku 25. stavku 2. iza riječi: »bračni drug i djeca« stav­lja se zarez i dodaju riječi: »te roditelji«.
+
+### Članak 6.
+
+U članku 26. dodaje se novi stavak 4. koji glasi:
+
+»Pravo na obiteljsku invalidninu, pod uvjetima iz stavka 3. ovoga članka, imaju roditelji vojnog, odnosno civilnog invalida rata I. do IV. skupine koji je do smrti koristio dodatak za njegu i pomoć druge osobe po osnovi oštećenja organizma, ako niti jedan član uže obitelji ne koristi to pravo.«
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 7.
+
+U članku 27. stavku 1. iza riječi: »Roditelji« dodaju se riječi: »iza osobe poginule, nestale ili umrle pod okolnostima iz članka 5., 6., 7. i 8. ovoga Zakona«.
+
+### Članak 8.
+
+U članku 28. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Obiteljska invalidnina za jednog korisnika iza osobe iz članka 12. točke 3. do 6. ovoga Zakona iznosi 25% mjesečno od osnovice iz stavka 1. ovoga članka.«
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+### Članak 9.
+
+U članku 34. u uvodnoj rečenici iza riječi: »ovoga Zakona« stavlja se zarez i briše riječ: »i«, a iza riječi: »sudionici rata« briše se zarez i dodaju riječi: »i članovi obitelji sudionika rata od prije 9. rujna 1943. do 15. svibnja 1945. umrlih poslije 15. svibnja 1945.«, te iza riječi: »prebivalište« dodaju se riječi: »i žive«.
+
+### Članak 10.
+
+U članku 37. stavku 1. na kraju rečenice umjesto točke stav­lja se zarez i dodaju riječi: »a za članove obitelji sudionika rata od prije 9. rujna 1943. do 15. svibnja 1945. umrlih poslije 15. svib­nja 1945. iznosi 16,50% od proračunske osnovice.«
+
+### Članak 11.
+
+U članku 47. stavku 2. na kraju rečenice umjesto točke stav­lja se zarez i dodaju riječi: »a za članove obitelji sudionika rata od prije 9. rujna 1943. do 15. svibnja 1945. umrlih poslije 15. svib­nja 1945. iznosi 11,50% od proračunske osnovice.«
+
+### Članak 12.
+
+Iza članka 47. dodaje se podnaslov: »3. Besplatni udžbe­nici«, a članak 48.a mijenja se i glasi:
+
+»Članak 48.a
+
+Djeca osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona imaju pravo na besplatne obvezatne udžbenike za potrebe redovnog školovanja u osnovnim i sred­njim školama.
+
+Djeca mirnodopskih vojnih i civilnih invalida rata čije je oštećenje organizma nastalo pod okolnostima iz članka 6., 7. i 8. ovoga Zakona imaju pravo na besplatne obvezatne udžbenike za potrebe redovnog školovanja u osnovnim i srednjim školama.
+
+Pravo na besplatne obvezatne udžbenike za potrebe redovnog školovanja u osnovnim i srednjim školama imaju i mirnodopski vojni odnosno civilni invalidi rata čija je invalidnost nastupila pod okolnostima iz članka 6., 7. i 8. ovoga Zakona.
+
+Osobe iz stavka 1., 2. i 3. ovoga članka imaju pravo na besplatne obvezatne udžbenike, ako to pravo ne mogu ostvariti po drugim propisima i ako im redovni mjesečni prihodi po članu kućanstva ne prelaze dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona.«
+
+### Članak 13.
+
+Iza članka 48.a dodaju se podnaslovi i članci 48.b, 48.c, 48.d, 48.e, 48.f, 48.g, 48.h, 48.i i 48.j koji glase:
+
+*»4. Prednost pri upisu u obrazovne ustanove*
+
+### Članak 48.b
+
+Djeca osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona, djeca civilni invalidi rata čije je oštećenje organizma nastalo pod okolnostima iz članka 8. ovoga Zakona, djeca mirnodopskih vojnih i civilnih invalida rata I. skupine sa 100% oštećenja organizma čije je oštećenje organizma nastalo pod okolnostima iz članka 6., 7. i 8. ovoga Zakona, izrav­no se upisuju u srednje škole i visoka učilišta, pod uvjetom da prijeđu bodovni, odnosno razredbeni prag, odnosno da zadovolje na ispitu sposobnosti i darovitosti u srednjim školama u kojima se provodi prijemni ispit.
+
+Prednost pri upisu u obrazovne ustanove iz stavka 1. ovoga članka, ne ulazi u upisnu kvotu.
+
+5. Posebni dodatak
+
+### Članak 48.c
+
+Djeca osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona i djeca civilni invalidi rata, čije je oštećenje organizma nastalo pod okolnostima iz članka 8. ovoga Zakona, imaju pravo na posebni dodatak u visini od 10% od proračunske osnovice za vrijeme redovnog školovanja u osnovnim i srednjim školama ako nisu korisnici opskrbnine i ako im redovni mjesečni prihodi po članu kućanstva ne prelaze dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona.
+
+6. Stipendije
+
+### Članak 48.d
+
+Djeca osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona, djeca mirnodopskih vojnih i civilnih invalida rata čije je oštećenje organizma nastalo pod okolnostima iz članka 6., 7. i 8. ovoga Zakona i mirnodopski vojni i civilni invalidi rata čije je oštećenje organizma nastalo pod okolnostima iz članka 6., 7. i 8. ovoga Zakona, imaju pravo na stipendiju tijekom redovitog studiranja na visokim učilištima ako im redovni mjesečni prihodi po članu kućanstva ne prelaze dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona.
+
+Uvjete i mjerila za ostvarivanje prava iz stavka 1. ovoga članka propisuje ministar znanosti i tehnologije uz prethodnu suglasnost ministra rada i socijalne skrbi.
+
+7. Prednost pri smještaju u učeničke, odnosno studentske domove
+
+### Članak 48.e
+
+Djeca osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona, djeca civilni invalidi rata čije je oštećenje organizma nastalo pod okolnostima iz članka 8. ovoga Zakona i djeca mirnodopskih vojnih i civilnih invalida rata I. skupine sa 100% oštećenja organizma, imaju prednost pri smješ­taju u učeničke, odnosno studentske domove ako im redovni mjesečni prihodi po članu kućanstva ne prelaze dvostruku svotu redovnih novčanih prihoda iz članka 34. stavka 1. točke 5. ovoga Zakona.
+
+8. Prednost pri zapošljavanju
+
+### Članak 48.f
+
+Tijela državne uprave, tijela sudbene vlasti i druga državna tijela, tijela lokalne i područne (regionalne) samouprave, javne službe, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske obvezni su pri zapošljavanju pod jednakim uvjetima dati prednost pri zapošljavanju:
+
+1. djeci osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona,
+
+2. mirnodopskim vojnim i civilnim invalidima rata čije je oštećenje organizma nastalo pod okolnostima iz članka 6., 7. i 8. ovoga Zakona,
+
+3. bračnom drugu i roditeljima osoba poginulih, umrlih ili nestalih pod okolnostima iz članka 6., 7. i 8. ovoga Zakona.
+
+Prednost ostvarivanja prava na zapošljavanje ostvaruje se redoslijedom od točke 1. prema točki 3. ovoga članka pod uvjetom da nema kandidata iz članka 38. Zakona o pravima hr­vat­skih branitelja iz Domovinskog rata i članova njihovih obitelji koji imaju prednost.
+
+Prednost pri zapošljavanju iz stavka 1. ovoga članka može se ostvariti samo jednokratno, osim u slučajevima zasnivanja radnog odnosa na određeno vrijeme, a ne mogu ga ostvarivati osobe kojima je radni odnos prestao otkazom zbog skrivljenog ponašanja radnika, otkazom radnika ili sporazumom.
+
+Provedbu odredaba ovoga članka nadzire inspekcija rada, odnosno upravna inspekcija, u postupku i na način utvrđen odred­bama članka 38. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+
+9. Prednost pri smještaju u domove socijalne skrbi
+
+### Članak 48.g
+
+Vojni i civilni invalid rata I. do IV. skupine čije je oštećenje organizma nastalo pod okolnostima iz članka 5., 6., 7. i 8. ovoga Zakona, te roditelji i bračni drug osoba poginulih, umrlih ili nes­talih pod okolnostima iz članka 5., 6., 7. i 8. ovoga Zakona imaju prednost pri smještaju u domove socijalne skrbi.
+
+10. Oslobađanje plaćanja naknade za prenamjenu poljoprivrednog zemljišta
+
+### Članak 48.h
+
+Vojni i civilni invalidi rata oslobođeni su od plaćanja naknade za prenamjenu poljoprivrednog zemljišta za izgradnju stambenoga, gospodarskoga, poslovnog ili javnog objekta, pri dobivanju lokacijske dozvole sukladno Zakonu o poljoprivrednom zemljiš­tu.
+
+Pravo iz stavka 1. ovoga članka može se ostvariti samo jedanput.
+
+11. Posebni staž
+
+### Članak 48.i
+
+Osobe iz članka 8. stavka 1., točke 1. i stavka 2. članka 8. ovoga Zakona koje su kao zaposlene odvedene u zatočeništvo, vrijeme provedeno u zatočeništvu računa se kao staž osiguranja u dvostrukom trajanju, a ako nisu bile zaposlene vrijeme provedeno u zatočeništvu računa se kao poseban staž u jednostrukom trajanju.
+
+12. Pravo na troškove prijevoza i pogreba
+
+### Članak 48.j
+
+Ured Vlade Republike Hrvatske za zatočene i nestale snosi troškove prijevoza i pogreba posmrtnih ostataka civilnih žrtava iz Domovinskog rata na području Republike Hrvatske, nakon postupka ekshumacije i identifikacije.«
+
+### Članak 14.
+
+U članku 56. stavku 1. iza riječi: »na naknadu troškova prijevoza;« dodaju se riječi: »o načinu i postupku utvrđivanja posebnog staža;«.
+
+### Članak 15.
+
+U članku 58. stavku 4. umjesto riječi: »i« stavlja se zarez, a iza riječi: »dodatak za pripomoć u kući« stavlja se zarez i dodaju riječi: »posebni dodatak i novčana pomoć«.
+
+Stavci 7. i 8. brišu se.
+
+### Članak 16.
+
+Članak 62. mijenja se i glasi:
+
+»U slučaju smrti korisnika prava iz ovoga Zakona prestanak prava utvrđuje se zaključno zadnjim danom u mjesecu u kojem je korisnik umro.
+
+Dospjele, a neisplaćene svote novčanih primanja iz ovoga Zakona mogu se isplatiti članovima obitelji koji su s korisnikom do njegove smrti živjeli u zajedničkom kućanstvu, na njihov zahtjev.«
+
+### Članak 17.
+
+U članku 64. riječi: »i pravo na doplatak za djecu« brišu se.
+
+### Članak 18.
+
+Članak 73. mijenja se i glasi:
+
+»Činjenica da je bolest nastala, pogoršala se, odnosno pojavila pod okolnostima iz članka 7. stavka 1. ovoga Zakona utvrđuje se samo na osnovi medicinske dokumentacije koja potječe iz vremena službe u oružanim snagama Republike Hrvatske ili iz vremena od trideset dana nakon otpuštanja iz oružanih snaga.
+
+Činjenica da je bolest nastala, pogoršala se, odnosno pojavila pod okolnostima iz članka 8. stavka 2. ovoga Zakona utvrđuje se samo na osnovi medicinske dokumentacije koja potječe iz vremena zlostavljanja odnosno otpusta iz zatočeništva ili iz vremena od trideset dana nakon zlostavljanja, odnosno otpusta iz zatoče­ništva.
+
+Iznimno od odredbe stavka 2. ovoga članka činjenica da je bolest PTSP nastala, pogoršala se odnosno pojavila pod okolnostima iz članka 8. stavka 2. ovoga Zakona može se utvrditi na osnovi medicinske dokumentacije koja nije starija od dvije godine nakon zlostavljanja, odnosno otpusta iz zatočeništva.«
+
+### Članak 19.
+
+U članku 74. stavku 3. na kraju umjesto točke stavlja se zarez i dodaju riječi: »ako su iz te dokumentacije vidljive okolnosti stradavanja«.
+
+### Članak 20.
+
+Članak 75. mijenja se i glasi:
+
+»Zahtjev za priznavanje svojstva mirnodopskoga vojnog invalida po osnovi oštećenja organizma nastaloga zbog bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 7. stavka 1. ovoga Zakona može se podnijeti nakon otpuštanja iz oružanih snaga Republike Hrvatske, a najkasnije u roku od pet godina od dana otpuštanja iz oružanih snaga.
+
+Zahtjev za priznavanje prava na obiteljsku invalidninu po osnovi osobe koja je od bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 7. stavka 1. ovoga Zakona, umrla u roku od godinu dana od otpuštanja iz oružanih snaga Republike Hrvatske, može se podnijeti u roku od pet godina od dana smrti te osobe.
+
+Zahtjev za priznavanje prava na obiteljsku invalidninu po osnovi osobe koja je od bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 8. stavka 2. ovoga Zakona, umrla u roku od godinu dana od dana zlostavljanja, odnosno otpuštanja iz zatočeništva, može se podnijeti u roku od pet godina od dana smrti te osobe.
+
+Pod otpuštanjem iz oružanih snaga podrazumijeva se prekidanje obveze služenja vojnog roka, otpuštanje ročnika nakon odsluženja vojnog roka ili zbog nesposobnosti za vojnu službu i otpuštanje vojnog obveznika s vojne vježbe u vojnim postrojbama, odnosno vojnim ustanovama.«
+
+### Članak 21.
+
+U članku 79.stavku 1. iza riječi: »dodatak za pripomoć u kući« stavlja se zarez i dodaju riječi: »posebni dodatak i novčanu pomoć«.
+
+### Članak 22.
+
+Članak 92. mijenja se i glasi:
+
+»Troškovi u svezi s radom liječničkih povjerenstava, troš­kovi medicinskih ispitivanja obavljenih po uputi liječničkih povjerenstava iz članka 76. stavka 2. i članka 77. stavka 1. i 2. ovoga Zakona, troškovi platnog prometa, te troškovi tiskanja tiskanica za izvršavanje rješenja po ovom Zakonu, isplaćuju se iz sredstava osiguranih prema članku 4. ovoga Zakona.«
+
+### Članak 23.
+
+Iza članka 98. dodaje se naslov i članak 98.a koji glase:
+
+» IX.a KAZNENE ODREDBE
+
+### Članak 98.a
+
+Novčanom kaznom od 2.000,00 do 100.000,00 kuna kaznit će se pravna osoba, a novčanom kaznom od 300,00 do 10.000,00 kuna kaznit će se za prekršaj odgovorna osoba u pravnoj osobi ili čelnik tijela, ako:
+
+1. pri upisu u obrazovne ustanove postupi protivno odredbi članka 48.b ovoga Zakona,
+
+2. pri smještaju u učeničke odnosno studentske domove postupi protivno odredbi članka 48.e ovoga Zakona,
+
+3. pri zapošljavanju postupi protivno odredbi članka 48.f ovoga Zakona,
+
+4. pri smještaju u domove socijalne skrbi postupi protivno odredbi članka 48.g ovoga Zakona.«
+
+### Članak 24.
+
+Zahtjev za priznavanje svojstva civilnog invalida rata po osnovi oštećenja organizma nastalog zbog bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 8. stavka 2. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 77/92., 58/93., 2/94., 76/95. i 108/95.) može se podnijeti u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Zahtjev za priznavanje prava na obiteljsku invalidninu po osnovi osobe koja je od bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 8. stavka 2. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 77/92., 58/93., 2/94., 76/95. i 108/95.), umrla u roku od godinu dana od dana zlostavljanja odnosno otpuštanja iz zatočeništva, a protekao je rok iz članka 75. stavka 3. toga Zakona, može se podnijeti u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 25.
+
+Stupanjem na snagu ovoga Zakona nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba, po službenoj dužnosti provest će postupak i u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona donijet će novo rješenje o pravu na osobnu invalidninu, dodatak za njegu i pomoć druge osobe i ortopedski dodatak, za korisnike tih prava koja su ostvarili do stupanja na snagu ovoga Zakona, a kojima je postotak oštećenja organizma utvrđen za stalno zbog PTSP ako je PTSP djelomično ili u cijelosti utjecao na ukupni postotak oštećenja organizma.
+
+Rješenja donijeta na temelju stavka 1. ovoga članka podliježu reviziji. Reviziju obavlja nadležno ministarstvo. Ako je protiv prvostupanjskog rješenja podnijeta žalba, o reviziji i žalbi rješava se istim rješenjem.
+
+Ako vojni, odnosno civilni invalid rata u postupku iz stavka 1. i 2. ovoga članka ne pristupi pregledu ili na drugi način onemogući da nadležno liječničko povjerenstvo dade nalaz i mišljenje, donijet će se rješenje o prestanku prava. Pravo prestaje od prvog dana idućeg mjeseca od donošenja prvostupanjskog rješenja.
+
+Kada se pravo po rješenju donijetom po odredbama ovoga članka smanjuje ili gubi, pravo se smanjuje ili gubi od prvog dana idućeg mjeseca nakon konačnosti prvostupanjskog rješenja.
+
+### Članak 26.
+
+U članku 3. Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 58/93.) riječi: »odnosno nabavu udžbenika uz popust« brišu se.
+
+### Članak 27.
+
+U članku 5. stavku 1., članku 8. stavku 1., članku 12. stavku 1., točki 2., 4., 5. i 6., članku 15. stavku 2., članku 19. stavku 1., članku 70. stavku 1. i članku 72. stavku 1., 3. i 4. iza riječi: »rane« riječ: »povreda« u odgovarajućem padežu briše se, a u članku 6. stavku 1. iza riječi: »ranjena« riječ: »povrijeđena« briše se.
+
+U članku 72. stavku 3. riječi: »članka 5. stavka 1. točke 3.« zamjenjuju se riječima: »članka 5. stavka 1. točke 2.«, a iza riječi: »ranjavanja« riječ: »povređivanja« briše se.
+
+### Članak 28.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o zaštiti vojnih i civilnih invalida rata.
+
+### Članak 29.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a odredbe članka 8., 9., 10. i 11. ovoga Zakona primjenjuju se od 1. lipnja 2003.
+
+Klasa: 562-01/02-01/02  
+Zagreb, 12. lipnja 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

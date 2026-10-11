@@ -6,16 +6,30 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-07-28
-last_amended: 2000-07-21
+last_amended: 2008-05-28
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "101/98, 135/98, 105/99, 25/00, 73/00"
+narodne_novine: "101/98, 135/98, 105/99, 25/00, 73/00, 131/00, 30/01, 59/01, 114/01, 153/02, 16/04, 30/04, 187/04, 151/05, 141/06, 17/07, 82/07, 107/07, 60/08"
 amendments:
   - "NN 135/1998 (1626) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 105/1999 (1750) Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 25/2000 (436) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 73/2000 (1580) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 131/2000 (2413) Uredba o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 30/2001 (524) Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 59/2001 (966) Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 114/2001 (1888) Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 153/2002 (2496) Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 16/2004 (470) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 30/2004 (823) Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 187/2004 (3199) Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 151/2005 (2923) Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 141/2006 (3194) Zakon o izmjeni i dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 17/2007 (670) Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 82/2007 (2578) Uredba o dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 107/2007 (3143) Zakon o dopunama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 60/2008 (2040) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395"
 retrieved: 2026-10-12
 ---
@@ -24,7 +38,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 101/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 135/1998, NN 105/1999, NN 25/2000, NN 73/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 135/1998, NN 105/1999, NN 25/2000, NN 73/2000, NN 131/2000, NN 30/2001, NN 59/2001, NN 114/2001, NN 153/2002, NN 16/2004, NN 30/2004, NN 187/2004, NN 151/2005, NN 141/2006, NN 17/2007, NN 82/2007, NN 107/2007, NN 60/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -788,3 +802,1043 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Uredba o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 131/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2413*
+
+VLADA REPUBLIKE HRVATSKE
+
+2413
+
+Na teme­lju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pita­nja iz djelokruga Zastup­nič­koga doma Hrvatskoga sabora (»Narodne novine«, broj 97/2000.), Vlada Republike Hrvatske je na sjednici održanoj 22. prosinca 2000. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredba članka 12. stavka 2. Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/2000. i 73/2000.) u 2001. godini neće se primje­njivati.
+
+U članku 12. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Za obračun plaća dužnosnika u 2001. godini primje­njivat će se ista osnovica kao i u 2000. godini.«
+
+Dosadaš­nji stavci 3. i 4. postaju stavci 4. i 5.
+
+### Članak 2.
+
+Odredba članka 12. stavka 5. Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/2000. i 73/2000.) u 2001. godini neće se primje­njivati.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/00-01/06  
+Urbroj: 5030105-00-12  
+Zagreb, 22. prosinca 2000.
+
+Predsjednik  
+Ivica Račan, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 30/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/30/524*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+524
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 23. ožujka 2001.
+
+Broj: 01-081-01-1006/2  
+Zagreb, 29. ožujka 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00. i 73/00.) u članku 12. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Za obračun plaća dužnosnika u 2001. godini primje­njivat će se ista osnovica kao i u 2000. godini.«
+
+Dosadaš­nji stavci 3., 4. i 5. postaju stavci 4., 5. i 6.
+
+### Članak 2.
+
+Odredbe članka 12. stavka 2. i 5. ovoga Zakona u 2001. godini neće se primje­njivati.
+
+### Članak 3.
+
+U cijelom tekstu Zakona riječi: »Hrvatski državni sabor« u određenom padežu zamje­njuju se riječima: »Hrvatski sabor« u odgovarajućem padežu.
+
+### Članak 4.
+
+Stupa­njem na snagu ovoga Zakona prestaje važiti Uredba o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 131/00.).
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/00-01/05  
+Zagreb, 23. ožujka 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 59/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/966*
+
+HRVATSKI SABOR
+
+966
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika, koji je donio Hrvatski sabor na sjednici 29. lipnja 2001.
+
+Broj: 01-081-01-2102/2  
+Zagreb, 29. lip­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98, 135/98 i 105/99, 25/00, 73/00 i 30/01), osnovica za obračun plaće državnih dužnosnika određena u članku 12. stavku 3. uma­njuje se za 7% od dana stupa­nja na snagu ovoga Zakona.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/01-01/05  
+Zagreb, 29. lip­nja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika (NN 114/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1888*
+
+HRVATSKI SABOR
+
+1888
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
+
+Broj: 01-081-01-3886/2  
+Zagreb, 13. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01. i 59/01.) u članku 12. stavak 3. mije­nja se i glasi:
+
+»Za obračun plaće državnih dužnosnika u 2002. godini primje­njivat će se osnovica iz prosinca 2001. godine.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/01-01/06  
+Zagreb, 7. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika (NN 153/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2496*
+
+HRVATSKI SABOR
+
+2496
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika, koji je donio Hrvatski sabor na sjednici 13. prosinca 2002.
+
+Broj: 01-081-02-3912/2  
+Zagreb, 18. prosinca 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01. i 114/01.) u članku 1. stavak 2. mijenja se i glasi:
+
+»Dužnosnici u smislu ovoga Zakona jesu:
+
+– predsjednik Republike Hrvatske,
+
+– predsjednik i potpredsjednici Hrvatskoga sabora,
+
+– zastupnici u Hrvatskom saboru,
+
+– predsjednik i članovi Vlade Republike Hrvatske,
+
+– predsjednik i suci Ustavnog suda Republike Hrvatske,
+
+– guverner, zamjenik guvernera i viceguverner Hrvatske narodne banke,
+
+– glavni državni revizor i njegovi zamjenici,
+
+– pučki pravobranitelj i njegovi zamjenici,
+
+– tajnik Hrvatskoga sabora,
+
+– tajnik Vlade Republike Hrvatske,
+
+– zamjenik tajnika Hrvatskoga sabora,
+
+– zamjenik tajnika Vlade Republike Hrvatske,
+
+– zamjenici ministara,
+
+– pomoćnici ministara,
+
+– tajnici ministarstava,
+
+– ravnatelji, zamjenici i pomoćnici ravnatelja državnih upravnih organizacija,
+
+– predsjednik i zamjenik predsjednika Hrvatskog fonda za privatizaciju,
+
+– ravnatelj i pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje,
+
+– direktor, zamjenik direktora i pomoćnici direktora Hrvaskog zavoda za zdravstveno osiguranje,
+
+– rektori i prorektori sveučilišta,
+
+– glavni državni rizničar,
+
+– predstojnici ureda, ravnatelji agencija i direkcija Vlade Republike Hrvatske te ravnatelji zavoda koje imenuje Vlada Repub­like Hrvatske,
+
+– dužnosnici u Uredu predsjednika Republike koje imenuje Predsjednik Republike Hrvatske sukladno odredbama posebnog zakona.«
+
+### Članak 2.
+
+Članak 12. mijenja se i glasi:
+
+»Plaće dužnosnika utvrđuju se množenjem osnovice za obračun plaće s koeficijentom utvrđenim za određene dužnosnike.
+
+Osnovica za obračun plaće dužnosnika jednaka je osnovici za obračun plaće državnih službenika i namještenika.
+
+Koeficijenti za izračun plaće dužnosnika jesu:
+
+1. a) predsjednik Republike Hrvatske 9,30
+
+2. a) predsjednik Hrvatskoga sabora 7,86
+
+b) predsjednik Vlade Republike Hrvatske 7,86
+
+c) predsjednik Ustavnog suda Republike
+
+Hrvatske 7,86
+
+3. a) potpredsjednik, zamjenik predsjednika
+
+Vlade Republike Hrvatske 7,43
+
+4. a) potpredsjednik Hrvatskoga sabora 7,14
+
+b) potpredsjednik Vlade Republike Hrvatske 7,14
+
+c) guverner Hrvatske narodne banke 7,14
+
+5. a) predsjednici radnih tijela Hrvatskoga sabora 6,42
+
+b) suci Ustavnog suda Republike Hrvatske 6,42
+
+c) ministri 6,42
+
+d) glavni državni revizor 6,42
+
+e) pučki pravobranitelj 6,42
+
+6. a) potpredsjednici radnih tijela Hrvatskoga
+
+sabora 5,70
+
+b) zamjenik i viceguverner Hrvatske narodne
+
+banke 5,70
+
+7. a) zastupnici Hrvatskoga sabora 5,27
+
+b) tajnik Hrvatskoga sabora 5,27
+
+c) tajnik Vlade Republike Hrvatske 5,27
+
+d) zamjenici ministra 5,27
+
+e) zamjenici glavnog državnog revizora 5,27
+
+f) rektor sveučilišta 5,27
+
+8. a) zamjenik tajnika Hrvatskoga sabora 4,98
+
+b) zamjenik tajnika Vlade Republike Hrvatske 4,98
+
+c) glavni državni rizničar 4,98
+
+d) prorektor sveučilišta 4,98
+
+9. a) zamjenici pučkog pravobranitelja 4,69
+
+10. a) ravnatelji državnih upravnih organizacija 4,55
+
+b) ravnatelj Hrvatskog zavoda za mirovinsko
+
+osiguranje 4,55
+
+c) direktor Hrvatskog zavoda za zdravstveno  
+osiguranje 4,55
+
+d) predsjednik Hrvatskog fonda za privatizaciju 4,55
+
+11. a) pomoćnici ministara 4,26
+
+b) tajnici ministarstava 4,26
+
+c) zamjenik predsjednika Hrvatskog fonda za
+
+privatizaciju 4,26
+
+d) zamjenik direktora Hrvatskog zavoda za
+
+zdravstveno osiguranje 4,26
+
+12. a) zamjenici ravnatelja državnih upravnih
+
+organizacija 4,12
+
+13. a) pomoćnici ravnatelja Hrvatskog zavoda za
+
+mirovinsko osiguranje 3,97
+
+b) pomoćnici direktora Hrvatskog zavoda za
+
+zdravstveno osiguranje 3,97
+
+14. a) pomoćnici ravnatelja državnih upravnih
+
+organizacija 3,68
+
+Plaća dužnosnika uvećava se za 0,5% za svaku navršenu godinu radnog staža, a najviše za 20%.
+
+Dužnosnicima u Uredu predsjednika Republike koeficijent za izračun plaće utvrđuje Predsjednik Republike Hrvatske, u skla­du s odredbom stavka 3. ovoga članka.
+
+Dužnosnicima iz članka 1. ovoga Zakona kojima nije od­ređen koeficijent za izračun plaće sukladno odredbama pret­hod­nih stavaka ovoga članka, koeficijent će utvrditi Vlada Repub­like Hrvatske s time da utvrđeni koeficijent ne može biti viši od koeficijenta pomoćnika ministara.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2003.
+
+Klasa: 023-03/02-01/04
+
+Zagreb, 13. prosinca 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskog sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 16/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/16/470*
+
+HRVATSKI SABOR
+
+470
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ob­ve­zama i pravima državnih dužnosnika, koji je donio Hrvatski sabor na sjednici 30. siječnja 2004. godine.
+
+Broj: 01-081-04-336/2  
+Zagreb, 4. veljače 2004.
+
+Predsjednik  
+Republike Hrvatske,  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01. i 153/02.) u članku 1. stavak 2. mijenja se i glasi:
+
+»Dužnosnici u smislu ovoga Zakona jesu:
+
+– predsjednik Republike Hrvatske,
+
+– predsjednik i potpredsjednici Hrvatskoga sabora,
+
+– zastupnici u Hrvatskom saboru,
+
+– predsjednik i članovi Vlade Republike Hrvatske,
+
+– predsjednik, zamjenik predsjednika i suci Ustavnog suda Republike Hrvatske,
+
+– guverner, zamjenik guvernera i viceguverner Hrvatske narodne banke,
+
+– glavni državni revizor i njegovi zamjenici,
+
+– pučki pravobranitelj i njegovi zamjenici,
+
+– tajnik Hrvatskoga sabora,
+
+– tajnik Vlade Republike Hrvatske,
+
+– glavni tajnik Ustavnog suda Republike Hrvatske,
+
+– tajnik Vrhovnog suda Republike Hrvatske,
+
+– zamjenik tajnika Hrvatskoga sabora,
+
+– zamjenik tajnika Vlade Republike Hrvatske,
+
+– državni tajnici,
+
+– pravobranitelj za djecu i njegovi zamjenici,
+
+– pravobranitelj za ravnopravnost spolova i njegovi zamje­nici,
+
+– pomoćnici ministara,
+
+– tajnici ministarstava,
+
+– zamjenici državnih tajnika u središnjim državnim uredima,
+
+– ravnatelji, zamjenici i pomoćnici ravnatelja državnih up­rav­­nih organizacija,
+
+– predsjednik i zamjenik predsjednika Hrvatskog fonda za privatizaciju,
+
+– ravnatelj i pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje,
+
+– direktor, zamjenik direktora i pomoćnici direktora Hrvat­skog zavoda za zdravstveno osiguranje,
+
+– rektori i prorektori sveučilišta,
+
+– glavni državni rizničar,
+
+– predstojnici ureda, ravnatelji agencija i direkcija Vlade Republike Hrvatske te ravnatelji zavoda koje imenuje Vlada Republike Hrvatske,
+
+– dužnosnici u Uredu predsjednika Republike koje imenuje Predsjednik Republike Hrvatske sukladno odredbama posebnog zakona.«
+
+### Članak 2.
+
+U članku 12. stavak 3. mijenja se i glasi:
+
+»Koeficijenti za izračun plaće dužnosnika jesu:
+
+1. a) predsjednik Republike Hrvatske 9,30
+
+2. a) predsjednik Hrvatskoga sabora 7,86
+
+b) predsjednik Vlade Republike Hrvatske 7,86
+
+c) predsjednik Ustavnog suda Republike Hrvatske 7,86
+
+3. a) potpredsjednik Hrvatskoga sabora 7,14
+
+b) potpredsjednik Vlade Republike Hrvatske 7,14
+
+c) guverner Hrvatske narodne banke 7,14
+
+d) zamjenik predsjednika Ustavnog suda Republike Hrvatske 7,14
+
+4. a) predsjednici radnih tijela Hrvatskoga sabora 6,42
+
+b) suci Ustavnog suda Republike Hrvatske 6,42
+
+c) ministri 6,42
+
+d) glavni državni revizor 6,42
+
+e) pučki pravobranitelj 6,42
+
+5. a) potpredsjednici radnih tijela Hrvatskoga sabora 5,70
+
+b) zamjenik i viceguverner Hrvatske narodne banke 5,70
+
+6. a) zastupnici Hrvatskoga sabora 5,27
+
+b) tajnik Hrvatskoga sabora 5,27
+
+c) tajnik Vlade Republike Hrvatske 5,27
+
+d) glavni tajnik Ustavnog sada Republike Hrvatske 5,27
+
+e) tajnik Vrhovnog suda Republike Hrvatske 5,27
+
+f) državni tajnici 5,27
+
+g) zamjenici glavnoga državnog revizora 5,27
+
+h) rektor sveučilišta 5,27
+
+i) pravobranitelj za djecu 5,27
+
+j) pravobranitelj za ravnopravnost spolova 5,27
+
+7. a) zamjenik tajnika Hrvatskoga sabora 4,98
+
+b) zamjenik tajnika Vlade Republike Hrvatske 4,98
+
+c) glavni državni rizničar 4,98
+
+d) prorektor sveučilišta 4,98
+
+8. a) zamjenici pučkog pravobranitelja 4,69
+
+9. a) ravnatelji državnih upravnih organizacija 4,55
+
+b) ravnatelj Hrvatskog zavoda za mirovinsko osiguranje 4,55
+
+c) direktor Hrvatskog zavoda za zdravstveno osiguranje 4,55
+
+d) predsjednik Hrvatskog fonda za privatizaciju 4,55
+
+10. a) pomoćnici ministara 4,26
+
+b) tajnici ministarstava 4,26
+
+c) zamjenik predsjednika Hrvatskog fonda za privatizaciju 4,26
+
+d) zamjenik direktora Hrvatskog zavoda za zdravstveno osiguranje 4,26
+
+e) zamjenici pravobranitelja za djecu 4,26
+
+f) zamjenici pravobranitelja za ravnopravnost spolova 4,26
+
+g) zamjenici državnih tajnika u središnjim državnim uredima 4,26
+
+11. a) zamjenici ravnatelja državnih upravnih organizacija 4,12
+
+12. a) pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje 3,97
+
+b) pomoćnici direktora Hrvatskog zavoda za zdravstveno osiguranje 3,97
+
+13. a) pomoćnici ravnatelja državnih upravnih organizacija 3,68.«
+
+### Članak 3.
+
+Odredba članka 12. stavka 4. Zakona o obvezama i pravima državnih dužnosnika neće se primjenjivati u 2004. godini.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/04-01/01
+
+Zagreb, 30. siječnja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 30/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/30/823*
+
+HRVATSKI SABOR
+
+823
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika, koji je donio Hrvatski sabor na sjednici 3. ožujka 2004. godine.
+
+Broj: 01-081-04-756/2  
+Zagreb, 8. ožujka 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02. i 16/04), iza članka 15. dodaju se članci 15.a, 15.b i 15.c koji glase :
+
+»Članak 15.a
+
+»Pravo iz članka 15. ovoga Zakona ne može ostvariti državni dužnosnik razriješen dužnosti zbog ranijeg postojanja činjenica koje su mu bile poznate ili su mu morale biti poznate u vrijeme njegova imenovanja na dužnost, a nije ih predočio predlagatelju, no za koje je mogao pretpostaviti da bi bile objektivna zapreka njegovu imenovanju na dužnost.
+
+### Članak 15.b
+
+Pravo iz članka 15. ovoga Zakona ne može ostvariti dužnosnik koji je razriješen dužnosti zbog pravomoćne osude radi počinjenja kaznenog djela protiv slobode i prava čovjeka i građanina, Republike Hrvatske i vrijednosti zaštićenih među­narodnim pravom, odnosno ako je pravomoćno osuđen na bezuv­jetnu kaznu zatvora, neovisno o kojem se kaznenom djelu radi.
+
+### Članak 15.c
+
+Pravo iz članka 15. ovoga Zakona ne može ostvariti dužnosnik koji bude razriješen dužnosti na osobni zahtjev ako nije proveo na radu kao državni dužnosnik najmanje godinu dana.«
+
+### Članak 2.
+
+Odredbe članka 15.a i 15.c Zakona o obvezama i pravima državnih dužnosnika primjenjuju se od 1. siječnja 2004.
+
+### Članak 3.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o obvezama i pravima državnih dužnosnika.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/04-01/05  
+Zagreb, 3. ožujka 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 187/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3199*
+
+VLADA REPUBLIKE HRVATSKE
+
+3199
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvat­skoga sabora (»Narodne novine«, broj 136/2004), Vlada Repub­like Hrvatske je na sjednici održanoj 23. prosinca 2004. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredba članka 12. stavka 4. Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98, 135/98, 105/99, 25/2000, 73/2000, 30/2001, 59/2001, 114/2001, 153/2002, 16/2004 i 30/2004) neće se primjenjivati u 2005. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/04-01/01  
+Urbroj: 5030106-04-10  
+Zagreb, 23. prosinca 2004.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 151/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2923*
+
+VLADA REPUBLIKE HRVATSKE
+
+2923
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, br. 115/2005 i 121/2005 – ispravak), Vlada Republike Hrvatske je na sjednici održanoj 19. prosinca 2005. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredba članka 12. stavka 4. Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98, 135/98, 105/99, 25/2000, 73/2000, 30/2001, 59/2001, 114/2001, 153/2002, 16/2004, 30/2004 i 121/2005) neće se primjenjivati u 2006. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/05-01/27
+
+Urbroj: 5030109-05-3
+
+Zagreb, 19. prosinca 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 141/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3194*
+
+HRVATSKI SABOR
+
+3194
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o obvezama i pravima državnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2006. godine.  
+Klasa: 011-01/06-01/101  
+Urbroj: 71-05-03/1-06-2  
+Zagreb, 19. prosinca 2006.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 163/03., 16/04., 30/04., 121/05. i 151/05.) u članku 1. stavku 2. iza alineje 5. dodaju se nove alineje 6. i 7. koje glase:  
+»– predsjednik, potpredsjednici i članovi Državnoga izbornog povjerenstva Republike Hrvatske,  
+– glavni državni inspektor,«.  
+Dosadašnja alineja 6. briše se.  
+Dosadašnje alineje 7. do 26. postaju alineje 8. do 27.  
+U dosadašnjoj alineji 27., koja postaje alineja 28. ispred riječi: »predstojnici ureda« dodaju se riječi: »predstojnik ureda predsjednika Hrvatskoga sabora«.  
+Dosadašnja alineja 28. postaje alineja 29.
+
+### Članak 2.
+
+U članku 12. stavku 3. točki 3. podtočka »c) guverner Hrvatske narodne banke 7,14« briše se.  
+Dosadašnja podtočka d) postaje podtočka c).  
+U točki 4. iza podtočke e) dodaje se podtočka f) koja glasi:  
+»f) predsjednik Državnoga izbornog povjerenstva Republike Hrvatske 6,42«  
+U točki 5. iza podtočke a) dodaje se nova podtočka b) koja gla­si:  
+»b) potpredsjednici Državnoga izbornog povjerenstva Republike Hrvatske 5,70«  
+Dosadašnja podtočka »b) zamjenik i viceguverner Hrvatske narodne banke 5,70« briše se.  
+U točki 6. iza podtočke j) dodaju se podtočke k), l), m), n), o), p) i r) koje glase:  
+»k) članovi Državnoga izbornog povjerenstva  
+Republike Hrvatske 5,27  
+l) glavni državni inspektor 5,27  
+m) predstojnik Ureda za zakonodavstvo 5,27  
+n) predstojnik Ureda za opće poslove  
+Hrvatskoga sabora i Vlade Republike  
+Hrvatske 5,27  
+o) predstojnik Ureda za odnose s javnošću 5,27  
+p) ravnatelj policije 5,27  
+r) predstojnik ureda predsjednika  
+Hrvatskoga sabora 5,27.«
+
+### Članak 3.
+
+Na dan stupanja na dužnost Vlade Republike Hrvatske nakon prvih sljedećih parlamentarnih izbora položaji tajnika ministarstva, zamjenika tajnika Vlade, predstojnika ureda Vlade, zamjenika državnog tajnika središnjega državnog ureda te zamjenika i pomoćnika ravnatelja državne upravne organizacije, postaju radna mjesta državnih službenika, a dosadašnji položaji pomoćnika ministra ukidaju se.  
+Na osobe zatečene na položajima iz stavka 1. ovoga članka i raspisivanje javnog natječaja za imenovanje na te položaje primjenjuju se odredbe članka 151. Zakona o državnim službenicima (»Narodne novine«, br. 92/05.).
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 023-03/06-01/02  
+Zagreb, 15. prosinca 2006.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika (NN 17/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/17/670*
+
+HRVATSKI SABOR
+
+670
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 2. veljače 2007. godine.  
+Klasa: 011-01/07-01/08  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 7. veljače 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 163/03., 16/04., 30/04., 121/05., 151/05. i 141/06.) u članku 1. stavku 2. alineja 26. briše se.  
+Dosadašnje alineje 27. do 29. postaju alineje 26. do 28.
+
+### Članak 2.
+
+U članku 12. stavku 3. točki 6. podtočka: »h) rektor sveučilišta – 5,27«,  
+briše se.  
+Dosadašnje podtočke i), j), k), l), m), n), o), p) i r) postaju podtočke h), i), j), k), l), m), n), o), i p).  
+U točki 7. podtočka: »d) prorektor sveučilišta – 4,98«  
+briše se.
+
+### Članak 3.
+
+Odredba članka 12. stavka 4. Zakona o obvezama i pravima državnih dužnosnika neće se primjenjivati u 2007. godini.
+
+### Članak 4.
+
+Posebnom uredbom uredit će se plaće rektora i prorektora sveučilišta.  
+Do dana stupanja na snagu uredbe iz stavka 1. ovoga članka rektori i prorektori sveučilišta zadržavaju pravo na plaće prema dosadašnjim rješenjima.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 023-03/07-01/01  
+Zagreb, 2. veljače 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Uredba o dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 82/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/82/2578*
+
+VLADA REPUBLIKE HRVATSKE
+
+2578
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 108/2006), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2007. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narod­ne novine«, br. 101/98, 135/98, 105/99, 25/2000, 73/2000, 30/2001, 59/2001, 114/2001, 153/2002, 163/2003, 16/2004, 30/2004, 121/2005, 151/2005, 141/2006 i 17/2007), u članku 1. stavku 2. iza podstavka 25. dodaje se novi podstavak 26. koji glasi:  
+»– ravnatelj, zamjenik ravnatelja i pomoćnici ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu,«.  
+Dosadašnji podstavci 26. – 28. postaju podstavci 27. – 29.
+
+### Članak 2.
+
+U članku 12. stavku 3. točki 9. iza podtočke d) dodaje se podtočka e) koja glasi:  
+»e) ravnatelj Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 4,55«.  
+U točki 10. iza podtočke g) dodaje se podtočka h) koja glasi:  
+»h) zamjenik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 4,26«.  
+U točki 12. iza podtočke b) dodaje se podtočka c) koja glasi:  
+»c) pomoćnici ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 3,97«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 023-03/07-01/01  
+Urbroj: 5030109-07-3  
+Zagreb, 2. kolovoza 2007.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Zakon o dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 107/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3143*
+
+HRVATSKI SABOR
+
+3143
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopunama Zakona o obvezama i pravima državnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 3. listopada 2007. godine.  
+Klasa: 011-01/07-01/142  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 10. listopada 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 163/03., 16/04., 30/04., 121/05., 151/05., 141/06., 17/07. i 82/07.) u članku 1. stavku 2. iza podstavka 25. dodaje se novi podstavak 26. koji glasi:  
+»– ravnatelj, zamjenik ravnatelja i pomoćnici ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu,«.  
+Dosadašnji podstavci 26. – 28. postaju podstavci 27. – 29.
+
+### Članak 2.
+
+U članku 12. stavku 3. točki 9. iza podtočke d) dodaje se podtočka e) koja glasi:  
+»e) ravnatelj Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 4,55«.  
+U točki 10. iza podtočke g) dodaje se podtočka h) koja glasi:  
+»h) zamjenik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 4,26«.  
+U točki 12. iza podtočke b) dodaje se podtočka c) koja glasi:  
+»c) pomoćnici ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu 3,97«.
+
+### Članak 3.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o dopunama Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 82/07.).
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 023-03/07-01/07  
+Zagreb, 3. listopada 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 60/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/60/2040*
+
+HRVATSKI SABOR
+
+2040
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika, kojega je Hrvatski sabor donio na sjednici 9. svibnja 2008. godine  
+Klasa. 011-01/08-01/40  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 16. svibnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika, (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 131/00., 30/01., 59/01., 114/01., 153/02., 163/03., 16/04., 30/04., 187/04., 121/05., 151/05., 141/06., 17/07. i 107/07.) u članku 1. stavak 2. mijenja se i glasi:  
+»Dužnosnici u smislu ovoga Zakona jesu:  
+– Predsjednik Republike Hrvatske,  
+– predsjednik i potpredsjednici Hrvatskoga sabora,  
+– zastupnici u Hrvatskom saboru,  
+– predsjednik i članovi Vlade Republike Hrvatske,  
+– predsjednik, zamjenik predsjednika i suci Ustavnog suda Republike Hrvatske,  
+– predsjednik, potpredsjednici i članovi Državnog izbornog povjerenstva Republike Hrvatske,  
+– glavni inspektor Državnog inspektorata,  
+– glavni državni revizor i njegovi zamjenici,  
+– pučki pravobranitelj i njegovi zamjenici,  
+– tajnik Hrvatskoga sabora,  
+– tajnik Vlade Republike Hrvatske,  
+– glavni tajnik Ustavnog suda Republike Hrvatske,  
+– tajnik Vrhovnog suda Republike Hrvatske,  
+– zamjenik tajnika Hrvatskoga sabora,  
+– državni tajnici,  
+– pravobranitelj za djecu i njegovi zamjenici,  
+– pravobranitelj za ravnopravnost spolova i njegovi zamjenici,  
+– pravobranitelj za osobe s invaliditetom i njegovi zamjenici,  
+– ravnatelji državnih upravnih organizacija,  
+– predsjednik i zamjenik predsjednika Hrvatskog fonda za privatizaciju,  
+– ravnatelj i pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje,  
+– direktor, zamjenik direktora i pomoćnici direktora Hrvatskog zavoda za zdravstveno osiguranje,  
+– ravnatelj, zamjenik ravnatelja i pomoćnici ravnatelja Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu,  
+– glavni državni rizničar,  
+– predstojnik ureda predsjednika Hrvatskoga sabora, ravnatelji agencija i direkcija Vlade Republike Hrvatske te ravnatelji zavoda koje imenuje Vlada Republike Hrvatske,  
+– dužnosnici u Uredu predsjednika Republike koje imenuje Predsjednik Republike Hrvatske sukladno odredbama posebnog zakona.«
+
+### Članak 2.
+
+U članku 12. stavku 3. podstavku 6. točke l), m) i n) brišu se.  
+Dosadašnja točka o) postaje točka l).  
+Iza dosadašnje točke p), koja postaje točka m), dodaje se nova točka n) koja glasi:  
+»n) pravobranitelj za osobe s invaliditetom 5,27.«  
+U podstavku 7. točka b) briše se.  
+Dosadašnja točka c) postaje točka b).  
+U podstavku 10. točke a), b) i g) brišu se.  
+Dosadašnje točke c), d), e) i f) postaju točke a), b), c) i d).  
+Iza dosadašnje točke h), koja postaje točka e), dodaje se nova točka f) koja glasi:  
+»f) zamjenik pravobranitelja za osobe s invaliditetom 4,26.«  
+Podstavak 11. i podstavak 13. brišu se.  
+Dosadašnji podstavak 12. postaje podstavak 11.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 023-03/08-01/04  
+Zagreb, 9. svibnja 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

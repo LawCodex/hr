@@ -6,13 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1994-12-29
-last_amended: 1996-12-23
+last_amended: 2002-06-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "96/94, 108/96"
+narodne_novine: "96/94, 108/96, 119/01, 74/02"
 amendments:
   - "NN 108/1996 (2106) Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna"
+  - "NN 119/2001 (2002) Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna"
+  - "NN 74/2002 (1212) Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/96/1651"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 96/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/96/1651).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 108/1996.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 108/1996, NN 119/2001, NN 74/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -343,3 +345,291 @@ Zagreb, 12. prosinca 1996.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna (NN 119/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/119/2002*
+
+VLADA REPUBLIKE HRVATSKE
+
+2002
+
+Na teme­lju članka 39. stavka 1. Zakona o proračunu (»Narodne novine«, broj 92/94), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2001. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O RAČUNOVODSTVU PRORAČUNA**
+
+### Članak 1.
+
+U članku 1. Uredbe o računovodstvu proračuna (»Narodne novine«, br. 96/94 i 108/96) riječ »računovodstvene« zamje­njuje se riječju »poslovne«, a iza riječi »prihoda« dodaju se riječi »i primitaka, rashoda«.
+
+### Članak 2.
+
+Članak 2. mije­nja se i glasi:
+
+»Odredbe ove Uredbe se odnose na državni proračun, proračune jedinica lokalne i re­gionalne (područne) samouprave, izvanproračunske fondove, tijela državne uprave i državne vlasti, tijela jedinica lokalne i re­gionalne (područne) samouprave, ustanove u djelatnosti zdravstva, kao i druge pravne osobe koje se teme­ljem posebnih propisa financiraju iz proračuna (u da­lj­njem tekstu: proračun i proračunski korisnici).«.
+
+### Članak 3.
+
+U članku 4. stavku 1. iza riječi »primitaka« dodaje se riječ »rashoda« i stav­lja zarez, a iza riječi »izdataka« brišu se riječi »i drugih isplata«.
+
+### Članak 4.
+
+Ispred članka 6. podnaslov teksta mije­nja se i glasi: »2. Poslovne k­njige i k­njigovodstvene isprave«.
+
+U članku 6. stavku 1. riječ »Računovodstvene« zamje­njuje se riječju »Poslovne«, a tekst u zagradi »(k­njiga prihoda i izdataka i k­njiga imovine obveza i izvora vlasništva)« briše se.
+
+U članku 6. stavak 2. mije­nja se i glasi: »(2) Vrste, oblik i sadržaj obveznih pomoćnih k­njiga iz stavka 1. ovog članka ministar će odrediti Pravilnikom o proračunskom računovodstvu i računskom planu«.
+
+U članku 6. stavak 3. se briše.
+
+### Članak 5.
+
+U članku 7. u stavku 1. i 2. riječ »Računovodstvene« zamje­njuju se riječju »Poslovne«.
+
+### Članak 6.
+
+U članku 8. stavku 1. riječ »računovodstvene« zamje­njuje se riječju »poslovne«.
+
+U stavku 3. riječ »Računovodstvene« zamje­njuju se riječju »Poslovne«, a iza riječi »najma­nje« brišu se dvotočka i alineje 1. i 2. i dodaju riječi »6 godina«.
+
+### Članak 7.
+
+U članku 9. stavku 1. riječ »računovodstvenih« zamje­njuje se riječju »poslovnih«.
+
+### Članak 8.
+
+U članku 10. stavku 1. riječ »računovodstvene« zamje­njuje se riječju »poslovne«.
+
+U stavku 2. iza riječi »pisani« stav­ljaju se riječi »ili memorirani elektronički«.
+
+U stavku 3. riječ »računovodstvene« zamje­njuje se riječju »poslovne«.
+
+U stavku 5. riječ »računovodstvenu« zamje­njuje se riječju »poslovnu«.
+
+### Članak 9.
+
+U članku 11. stavku 3. iza riječi »obuhvaća« stav­ljaju se riječi »razrede i«.
+
+U stavku 5. tekst »Pravilnik o računskom planu proračuna« zamje­njuje se tekstom »Pravilnik o proračunskom računovodstvu i Računskom planu«.
+
+U stavku 6. iza riječi »organizaciji« dodaju se riječi »ili osobi«.
+
+### Članak 10.
+
+U članku 12. stavku 1. riječ »računovodstveni« zamje­njuje se riječju »poslovni«.
+
+### Članak 11.
+
+Ispred članka 13. u podnaslovu 3. umjesto riječi »izdataka« stav­lja se riječ »rashoda«.
+
+U članku 13. stavak 1. mije­nja se i glasi:
+
+»(1) Priznava­nje prihoda i primitaka, rashoda i izdataka te­me­lji se na modificiranom računovodstvenom načelu nastanka događaja«.
+
+Stavak 2. mije­nja se i glasi:
+
+»(2) Modificirano računovodstveno načelo nastanka događa­ja znači da se:
+
+– ne iskazuje rashod amortizacije nefinancijske dugotrajne imovine
+
+– ne iskazuju prihodi i rashodi uslijed promjena vrijednosti nefinancijske imovine
+
+– dugotrajna nefinancijska imovina čija pojedinačna nabavna vrijednost ne premašuje 1.000,00 kuna razvrstava se u sitni inventar i opisuje se jednokratno
+
+– rashodi za utrošak kratkotrajne nefinancijske imovine priznaju se u trenutku nabave i u visini ­njene nabavne vrijednosti,
+
+– prihodi priznaju prema kriteriju mjer­ljivosti i raspoloživosti. Prihodi su mjer­ljivi kada se mogu vrijednosno iskazati, a raspoloživi kada su naplaćeni u razdob­lju na koje se odnose,
+
+– rashodi se priznaju na teme­lju nastanka poslovnog događaja (obveza) u razdob­lju na koje se odnose,
+
+– donacije nefinancijske imovine izravno se evidentiraju kao promjene vlastitih izvora«.
+
+Stavci 3. i 4. brišu se.
+
+### Članak 12.
+
+U članku 14. stavak 1. mije­nja se i glasi:
+
+(1) »Procjena imovine, obveza i izvora vlasništva obav­lja se po modificiranom računovodstvenom načelu nastanka događaja uz primjenu metode povijesnog troška«.
+
+U stavku 2. riječi »Dugotrajna i kratkotrajna« zamje­njuju se riječju »Nefinancijska«.
+
+U stavku 3. riječi »porez na promet« zamje­njuju se riječima »porez na dodanu vrijednost«, a riječ »izdatke« zamje­njuje se riječju »troškove«.
+
+U stavku 4. riječi »porez na promet« zamje­njuju se riječima »porez na dodanu vrijednost«.
+
+U stavku 8. riječ »izdatak« zamje­njuje se riječju »rashod«.
+
+Stavak 9. briše se.
+
+### Članak 13.
+
+U članku 15. stavak 4. briše se.
+
+### Članak 14.
+
+U članku 24. ispred riječi »ovlašćuje« dodaje se broj »(1)«, a iza stavka 1. dodaju se stavci (2) i (3) koji glase:
+
+»(2) Ministar financija može odrediti da se obveze iz 2001. i ranijih godina plaćene početkom 2002. godine iz prihoda i primitaka ostvarenih do kraja 2001. godine priznaju kao izdaci za 2001. godinu.
+
+(3) Zbog promjene računovodstvenog koncepta nepodmirene obveze s karakterom rashoda iskazane u bilanci na dan 31. prosinca 2001. godine, priznavat će se kao rashodi u izvještajnom razdob­lju u kojem budu podmirene (plaćene)«.
+
+### Članak 15.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«, a primje­njuje se od 1. siječ­nja 2002. godine.
+
+Klasa: 401-01/94-01/02  
+Urbroj: 5030120-01-1  
+Zagreb, 20. prosinca 2001.
+
+Potpredsjednik,  
+zamjenik predsjednika  
+dr. sc. Goran Granić, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna (NN 74/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1212*
+
+VLADA REPUBLIKE HRVATSKE
+
+1212
+
+Na teme­lju članka 39. stavka 1. Zakona o proračunu (»Na­rod­ne novine«, broj 92/94), Vlada Republike Hrvatske je na sjednici održanoj 13. lip­nja 2002. godine, donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O RAČUNOVODSTVU PRORAČUNA**
+
+### Članak 1.
+
+U Uredbi o računovodstvu proračuna (»Narodne novine«, br. 96/94, 108/96 i 119/2001), u članku 4. stavku 1. riječi »izvora vlasništva« zamje­njuju se riječima »vlastitih izvora«.
+
+### Članak 2.
+
+U članku 8. stavak 2. mije­nja se i glasi:
+
+»(2) Ako se k­njigovodstveni podaci obrađuju elektroničkim računalom, glavnu k­njigu treba po zak­ljuče­nju tiskati i uvezati, a dnevnik čuvati na nekom od nosite­lja podataka.«
+
+### Članak 3.
+
+U članku 13. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovog članka, rashodi za kratkotrajnu nefinancijsku imovinu u djelatnosti zdravstva, te u obav­lja­nju vlastite trgovačke i proizvođačke djelatnosti ne iskazuju se u trenutku nabave, već u trenutku stvarnog utroška odnosno prodaje.«
+
+### Članak 4.
+
+Članak 16 mije­nja se i glasi:
+
+»(1) Financijski izvještaji proračuna i proračunskih korisnika jesu: Bilanca, Izvještaj o prihodima i rashodima, primicima i izdacima, Izvještaj o novčanim tijekovima, Izvještaj o promjenama u vrijednosti i obujmu imovine i obveza i Izvještaj o ostvarenim vlastitim prihodima i rashodima. Sastavni dio financijskih izvještaja su i Bi­lješke.
+
+(2) Bilanca je sustavni, vrijednosno iskazan pre­gled imovine, obveza i vlastitih izvora na određeni dan.
+
+(3) Izvještaj o prihodima i rashodima, primicima i izdacima je izvještaj u kojem se za izvještajno razdob­lje iskazuju podaci o:
+
+– prihodima,
+
+– rashodima,
+
+– promjenama na nefinancijskoj imovini i
+
+– promjenama na financijskoj imovini i obvezama.
+
+(4) U Izvještaju o novčanim tijekovima se iskazuju:
+
+1. pri­ljevi i od­ljevi novca u izvještajnom razdob­lju i to:
+
+– pri­ljevi i od­ljevi novca iz poslovnih aktivnosti,
+
+– pri­ljevi i od­ljevi novca iz transakcija na nefinancijskoj imovini i
+
+– pri­ljevi i od­ljevi novca iz transakcija na financijskoj imovini i obvezama i
+
+2. neto promjena novčanih tijekova.
+
+(5) U Izvještaju o promjenama u vrijednosti i obujmu imovine i obveza iskazuju se svi utjecaji na neto vrijednost koji nisu rezultat prihoda i rashoda, a klasificiraju se kao promjene u vrijednosti ili promjene u obujmu imovine i obveza.
+
+(6) Izvještaj o ostvarenim vlastitim prihodima i rashodima je izvještaj o prihodima i rashodima ostvarenim obav­lja­njem poslova osnovne i ostale djelatnosti na tržištu, te ostalim rashodima poslova­nja i nabave nefinancijske imovine pokrivenim iz prihoda ostvarenih obav­lja­njem poslova na tržištu.
+
+(7) Bi­lješke su dopuna podataka iz financijskih izvještaja.
+
+(8) Financijski izvještaji sastav­ljaju se za razdob­lja u toku godine i za proračunsku godinu.
+
+(9) Financijski izvještaji za razdob­lja u toku godine čuvaju se dvije godine po isteku godine u kojoj su sastav­ljeni, a za proračunsku godinu čuvaju se trajno i u izvorniku.
+
+(10) Oblik i sadržaj financijskih izvještaja, razdob­lja za koja se predočavaju, te obvezu i rokove ­njihova predočava­nja propisuje ministar financija.«
+
+### Članak 5.
+
+Članak 17. mije­nja se i glasi:
+
+»(1) Financijski izvještaji se sastav­ljaju za razdob­lje 1. siječ­nja do 31. ožujka, 1. siječ­nja do 30. lip­nja, 1. siječ­nja do 30. rujna i za proračunsku godinu.
+
+(2) Proračuni i proračunski korisnici financijske izvještaje za razdob­lja u toku godine dostav­ljaju u roku od 10 dana po isteku izvještajnog razdob­lja. Proračunski korisnici i proračuni financijske izvještaje za proračunsku godinu dostav­ljaju do 31. siječ­nja tekuće godine za prethodnu godinu.
+
+(3) Ministarstva/razdjeli, općine, gradovi i županije konsolidirane financijske izvještaje za razdob­lja u toku godine dostav­ljaju u roku od 20 dana po isteku izvještajnog razdob­lja. Ministarstva/razdjeli, općine, gradovi i županije konsolidirane financijske izvještaje za proračunsku godinu dostav­ljaju do 28. ve­ljače tekuće godine za prethodnu godinu.
+
+(4) Ministarstvo financija konsolidirani financijski izvještaj opće države za razdob­lja u toku godine sastav­lja u roku od 30 dana po isteku izvještajnog razdob­lja. Ministarstvo financija konsolidirani financijski izvještaj opće države za proračunsku godinu sastav­lja do 31. ožujka tekuće godine za prethodnu godinu.«
+
+### Članak 6.
+
+Članak 18. mije­nja se i glasi:
+
+»(1) Ministarstva/razdjeli konsolidiraju financijske izvještaje proračunskih korisnika koji su, prema organizacijskoj klasifikaciji proračuna, u ­njihovom sastavu i svoj financijski izvještaj, te ih iskazuju kroz konsolidirani financijski izvještaj koji dostav­ljaju Ministarstvu financija.
+
+(2) Jedinice lokalne i područne (re­gionalne) samouprave konsolidiraju financijske izvještaje proračunskih korisnika za koje su nadležne i financijski izvještaj proračuna te ih iskazuju kroz konsolidirani financijski izvještaj koji dostav­ljaju Ministarstvu financija.
+
+(3) Ministarstvo financija konsolidira:
+
+– konsolidirane financijske izvještaje ministarstava/razdjela, financijske izvještaje izvanproračunskih fondova i financijske izvje­štaje drugih pravnih osoba uk­ljučenih u središ­nju državu, te sastav­lja financijski izvještaj središ­nje države;
+
+– konsolidirane financijske izvještaje jedinica lokalne i područne (re­gionalne) samouprave, te sastav­lja financijski izvje­štaj lokalne države i
+
+– financijski izvještaj središ­nje države i financijski izvještaj lokalne države, te sastav­lja konsolidirani financijski izvještaj opće države.«
+
+### Članak 7.
+
+Članak 19. briše se.
+
+### Članak 8.
+
+Članak 20. mije­nja se i glasi:
+
+»(1) Proračunski korisnici državnog proračuna financijske izvještaje dostav­ljaju:
+
+– ministarstvu/razdjelu u čijem su sastavu prema organizacijskoj klasifikaciji proračuna,
+
+– proračunski korisnici koji su ujedno razdjel/glava financijske izvještaje dostav­ljaju Ministarstvu financija.
+
+(2) Proračunski korisnici jedinica lokalne i područne (re­gionalne) samouprave financijske izvještaje dostav­ljaju nadležnoj jedinici lokalne i područne (re­gionalne) samouprave.
+
+(3) Proračunski korisnici jedinica lokalne i područne (re­gionalne) samouprave, koji su procesom decentralizacije prešli iz središ­nje države u jedinice lokalne i područne (re­gionalne) samouprave, financijske izvještaje dostav­ljaju i ministarstvu koje je za ­njih bilo nadležno prije procesa decentralizacije.
+
+(4) Državni proračun i korisnici državnog proračuna, proračuni i proračunski korisnici jedinica lokalne i područne (re­gionalne) samouprave, financijske izvještaje za proračunsku godinu dostav­ljaju nadležnom područnom uredu Državnog ureda za reviziju.
+
+(5) Ministar financija može propisati, da se financijski izvještaji dostav­ljaju i drugim tijelima državne uprave.«
+
+### Članak 9.
+
+U članku 24. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Iznimno, u 2002. godini prvi financijski izvještaji koje je potrebno sastaviti i dostaviti u skladu s odredbama ove Uredbe, su financijski izvještaji za razdob­lje 1. siječ­nja do 30. lip­nja 2002. godine, i to u s­ljedećim rokovima:
+
+– proračuni i proračunski korisnici financijske izvještaje dostav­ljaju u roku od 25 dana po isteku izvještajnog razdob­lja;
+
+– ministarstva/razdjeli, općine, gradovi i županije konsolidirane financijske izvještaje dostav­ljaju u roku od 35 dana po isteku izvještajnog razdob­lja;
+
+– Ministarstvo financija konsolidirani financijski izvještaj opće države sastav­lja u roku od 45 dana po isteku izvještajnog razdob­lja.«
+
+### Članak 10.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 401-01/94-01/02  
+Urbroj: 5030120-02-1  
+Zagreb, 13. lip­nja 2002.
+
+Potpredsjednik,  
+zamjenik predsjednika  
+Dražen Budiša, v. r.

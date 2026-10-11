@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-22
-last_amended: 1999-11-30
+last_amended: 2002-07-03
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "111/97, 128/99"
+narodne_novine: "111/97, 128/99, 79/02"
 amendments:
   - "NN 128/1999 (2026) Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama"
+  - "NN 79/2002 (1271) Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1672"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 111/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1672).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 128/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 128/1999, NN 79/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -982,3 +983,239 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama (NN 79/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1271*
+
+HRVATSKI SABOR
+
+1271
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OSOBA S DUŠEVNIM SMETNJAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smet­njama, koji je donio Hrvatski sabor na sjednici 20. lip­nja 2002.
+
+Broj: 01-081-02-2510/2  
+Zagreb, 27. lip­nja 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OSOBA S DUŠEVNIM SMETNJAMA**
+
+### Članak 1.
+
+U Zakonu o zaštiti osoba s duševnim smet­njama (»Narodne novine«, br. 111/97. i 128/99.) naziv Glave VII. »Postupci prema osobama s duševnim smet­njama protiv kojih se vodi kazneni ili prekršajni postupak ili koje su osuđenici« mije­nja se i glasi: »POSTUPAK PRISILNOG SMJEŠTAJA PREMA NEUBROJIVIM OSOBAMA I OSUĐENICIMA«.
+
+### Članak 2.
+
+Ispred članka 44. dodaje se podnaslov koji glasi: »1. Postupak prisilnog smještaja prema neubrojivim osobama«, a članak 44. mije­nja se i glasi:
+
+»(1) Sud će donijeti odluku o prisilnom smještaju neubrojive osobe ako je na teme­lju miš­lje­nja vještaka psihijatra utvrdio da ima teže duševne smet­nje i da je opasna za okolinu.
+
+(2) Neubrojiva osoba je opasna za okolinu ako postoji visoki stupa­nj vjerojatnosti da bi ta osoba zbog duševnih smet­nji, zbog kojih je nastupila njezina neubrojivost, mogla ponovno počiniti kazneno djelo za koje je zaprijećena kazna zatvora u traja­nju od najma­nje tri godine.«
+
+### Članak 3.
+
+Iza članka 44. dodaje se članak 44.a koji glasi:
+
+»Članak 44.a
+
+(1) Postupak prisilnog smještaja prema odredbama članka 44. do 50.a ovoga Zakona provodi se prema osobama kojima je prisilni smještaj odredio sud u kaznenom postupku.
+
+(2) U postupku prisilnog smještaja neubrojivih osoba primje­njivat će se odredbe članka 44. do 50.a ovoga Zakona, a ako u tim odredbama nije što posebno propisano primje­njivat će se odredbe ovoga Zakona.
+
+(3) Prisilni smještaj započi­nje pravomoćnošću rješe­nja o određiva­nju prisilnoga smještaja u kaznenom postupku, odnosno rješe­nja o ­nje­govom izvrše­nju prije pravomoćnosti (članak 462. stavak 4. Zakona o kaznenom postupku).
+
+(4) Nakon proteka vremena koje odgovara najvišoj zaprije­ćenoj kazni za djelo koje je neubrojiva osoba počinila postupak otpusta provodi se prema odredbama glave VI. ovoga Zakona.«
+
+### Članak 4.
+
+Članak 45. mije­nja se i glasi:
+
+»(1) Prvostupa­njski sud koji je sudio u kaznenom postupku u kojem je određen prisilni smještaj neubrojivoj osobi dostavit će sudu nadležnom za postupak prisilnog smještaja (u da­lj­njem tekstu: sud) prijepise:
+
+– presude kojom se utvrđuje da je optuženik počinio protupravno djelo u sta­nju neubrojivosti,
+
+– rješe­nje o prisilnom smještaju s naznakom datuma ­njihove pravomoćnosti, odnosno pravomoćnosti rješe­nja iz članka 462. stavak 4. Zakona o kaznenom postupku,
+
+– nalaza i miš­lje­nja vještaka,
+
+– izvatka iz kaznene evidencije,
+
+– socijalne ankete ako ­njome raspolaže, a po potrebi i druge podatke.
+
+(2) Sud će neubrojivoj osobi postaviti opunomoćenika iz redova odvjetnika radi zaštite ­njezinih prava ako to ona sama ne učini.
+
+(3) Sud će dostaviti bez odgode Ministarstvu zdravstva prije­pis presude kojom se utvrđuje da je optuženik počinio protupravno djelo u sta­nju neubrojivosti i rješe­nje o prisilnom smještaju, nalaz i miš­lje­nje vještaka, a po potrebi i druge podatke potrebne za donoše­nje odluke o izboru ustanove u kojoj će se provoditi prisilni smještaj. Ministarstvo zdravstva će u roku od tri dana od primitka rješe­nja iz stavka 1. ovoga članka donijeti odluku o izboru psihijatrijske ustanove u kojoj će se provoditi prisilni smještaj neubrojive osobe i tu će odluku dostaviti sudu. Ministarstvo zdravstva će toj ustanovi dostaviti prijepise navedenih dokumenata i druge podatke potrebne za planira­nje i provođe­nje forenzičkog tretmana neubrojive osobe.
+
+(4) Nakon primitka odluke Ministarstva zdravstva iz stavka 3. ovoga članka sud će u roku od tri dana donijeti rješe­nje o upućiva­nju neubrojive osobe u psihijatrijsku ustanovu radi provo­đe­nja prisilnog smještaja.
+
+(5) Rješe­nje o upućiva­nju neubrojive osobe u psihijatrijsku ustanovu sadrži:
+
+– osobne podatke o neubrojivoj osobi koja se upućuje,
+
+– podatke o presudi i rješe­nju na teme­lju kojih se upućuje,
+
+– psihijatrijsku ustanovu u koju se upućuje,
+
+– naznaku da je prisilni smještaj određen na rok od šest mjeseci,
+
+– dan, mjesec i godinu kada je počeo teći taj rok i kada isti­če, te
+
+– dan, mjesec i godinu kada se neubrojiva osoba upućuje u psihijatrijsku ustanovu.
+
+(6) Rješe­nje o upućiva­nju neubrojive osobe u psihijatrijsku ustanovu dostav­lja se neubrojivoj osobi, ­njenom zakonskom zastupniku, a ako ga nema, bliskoj osobi, opunomoćeniku, ustanovi u kojoj je neubrojiva osoba pritvorena i psihijatrijskoj ustanovi u kojoj će se provoditi prisilni smještaj.
+
+(7) Žalba protiv rješe­nja o upućiva­nju ne zadržava ­nje­govo izvrše­nje.«
+
+### Članak 5.
+
+Članak 45.a mije­nja se i glasi:
+
+»Sud može, na obrazloženi prijedlog Ministarstva zdravstva, donijeti rješe­nje o premještaju neubrojive osobe u drugu psihijatrijsku ustanovu kojim će izmijeniti rješe­nje o upućiva­nju neubrojive osobe u psihijatrijsku ustanovu, odnosno rješe­nje o produ­lje­nju prisilnog smještaja.«
+
+### Članak 6.
+
+Članci 45.b, 45.c, 45.d i 45.e brišu se.
+
+### Članak 7.
+
+Članak 46. mije­nja se i glasi:
+
+(1) Privremeni izlazak neubrojive osobe iz psihijatrijske ustanove radi njezine forenzičke terapije i rehabilitacije te socijalne adaptacije ili iz drugih opravdanih razloga odobrit će se ako postoji visoki stupa­nj vjerojatnosti da za vrijeme izlaska neće biti ugroženi ­njezin ili tuđi život, zdrav­lje ili sigurnost.
+
+(2) O prvom izlasku neubrojive osobe i o kasnijim izlascima du­ljima od petnaest dana na teme­lju pisanoga obrazloženog prijedloga predstojnika odjela odlučuje sud. Odluku o ostalim izlascima donosi predstojnik odjela, o čemu izvješćuje sud.
+
+(3) Rješe­njem kojim odlučuje o izlascima du­ljima od petnaest dana sud može odrediti zabranu napušta­nja boravišta, posjećiva­nja određenih mjesta, susreta­nja i druže­nja s određenim osobama.
+
+(4) Predstojnik odjela je dužan poduzeti sve mjere i rad­nje radi sprječava­nja moguće­ga opasnog ponaša­nja neubrojive osobe za vrijeme privremenog izlaska.«
+
+### Članak 8.
+
+Članak 47. mije­nja se i glasi:
+
+»(1) Ako predstojnik odjela smatra da neubrojivoj osobi treba produ­ljiti prisilni smještaj dužan je najma­nje petnaest dana prije isteka traja­nja prisilnog smještaja podnijeti sudu pisani obrazloženi prijedlog za produ­lje­nje smještaja.
+
+(2) Ako sud utvrdi da i da­lje postoje razlozi za prisilni smještaj neubrojive osobe iz članka 44. stavka 1. ovoga Zakona donijet će rješe­nje o produ­lje­nju prisilnog smještaja prije isteka traja­nja prisilnog smještaja.
+
+(3) Prisilni smještaj neubrojivoj osobi produ­ljuje se na rok od godinu dana.«
+
+### Članak 9.
+
+Članak 47.a briše se.
+
+### Članak 10.
+
+Članak 48. mije­nja se i glasi:
+
+»(1) Ako predstojnik odjela smatra da neubrojivu osobu treba otpustiti, dužan je odmah, a najkasnije petnaest dana prije isteka traja­nja prisilnog smještaja, podnijeti sudu pisani obrazlo­ženi prijedlog za otpust.
+
+(2) Neubrojiva osoba kojoj je prisilni smještaj produ­ljen, ­njezin zakonski zastupnik, bliska osoba i opunomoćenik mogu podnijeti zahtjev za otpust jednom u godinu dana.
+
+(3) Sud će donijeti rješe­nje o otpustu neubrojive osobe iz psihijatrijske ustanove ako utvrdi na teme­lju miš­lje­nja liječničkog tima liječnika psihijatara koji su liječili neubrojivu osobu da ona više nema teže duševne smet­nje ili da nije opasna za okolinu.
+
+(4) Sud će donijeti rješe­nje o uvjetnom otpustu neubrojive osobe i njezinom liječe­nju na slobodi ako je na teme­lju miš­lje­nja liječničkog tima liječnika psihijatara koji su liječili neubrojivu osobu i utvrdio da je za otkla­nja­nje opasnosti za okolinu dostatno ­njeno liječe­nje na slobodi.«
+
+### Članak 11.
+
+Iza članka 48. dodaje se članak 48.a koji glasi:
+
+»Članak 48.a
+
+(1) Uvjetni otpust može trajati najdu­lje tri godine.
+
+(2) Za vrijeme uvjetnog otpusta sud će na prijedlog liječnika psihijatra, ako utvrdi da neubrojiva osoba više nema teže duševne smet­nje ili da nije opasna za okolinu, rješe­njem odrediti prestanak liječe­nja neubrojive osobe.
+
+(3) Ako kod neubrojive osobe koja je na uvjetnom otpustu dođe do pogorša­nja zdravstvenog sta­nja i uslijed toga do visokog stup­nja vjerojatnosti da bi zbog duševnih smet­nji, zbog kojih je nastupila ­njezina neubrojivost, mogla ponovno počiniti teže kazneno djelo, sud će opozvati uvjetni otpust.«
+
+### Članak 12.
+
+Članak 49. mije­nja se i glasi:
+
+»(1) Sud će postupak za otpust, uvjetni otpust ili produ­lje­nje prisilnog smještaja započeti povodom prijedloga predstojnika odjela psihijatrijske ustanove, zahtjeva osoba iz članka 48. stavka 2. ovoga Zakona, ili po službenoj dužnosti ako petnaest dana prije isteka traja­nja prisilnog smještaja ne primi prijedlog za otpust, odnosno za produ­lje­nje smještaja neubrojive osobe.
+
+(2) O produ­lje­nju prisilnog smještaja, uvjetnom otpustu ili otpustu neubrojive osobe sud odlučuje nakon provedene rasprave. O raspravi će se izvijestiti neubrojiva osoba, ­njezin zakonski zastupnik, punomoćnik, bračni ili izvanbračni drug, prema potrebi i druge bliske osobe te ­njezin liječnik psihijatar, centar za socijalnu skrb (članak 27. stavak 4.) i državni odvjetnik. Rasprava se ne može održati bez prisutnosti opunomoćenika i liječnika psihijatra neubrojive osobe.
+
+(3) Ako neubrojiva osoba ne može doći na raspravu, sudac će je posjetiti u psihijatrijskoj ustanovi i, ako je to s obzirom na ­njezino zdravstveno sta­nje moguće, obaviti s ­njom razgovor. Sud će u pravilu raspravu održati u odgovarajućoj prostoriji psihijatrijske ustanove.
+
+(4) Rješe­nje o produ­lje­nju prisilnog smještaja neubrojive osobe sadrži: osobne podatke o neubrojivoj osobi koja je prisilno smještena, podatke o presudi i rješe­nju na teme­lju kojih je ­njen prisilni smještaj određen, psihijatrijsku ustanovu u kojoj je smještena, naznaku da se prisilni smještaj produ­ljuje na rok od jedne godine, dan, mjesec i godinu od kada je prisilni smještaj započeo te dan, mjesec i godinu kada ističe.
+
+(5) Rješe­nje o otpustu sadrži osobne podatke o neubrojivoj osobi koja je prisilno smještena, podatke o presudi i rješe­nju na tem­elju kojih je ­njen prisilni smještaj bio određen, psihijatrijsku ustanovu u kojoj je smješten, dan, mjesec i godinu kada je zapo­čeo prisilni smještaj.
+
+(6) Rješe­nje o uvjetnom otpustu sadrži, uz podatke iz prethod­nog stavka, obveze uvjetno otpuštene osobe u ­njezinom forenzi­č­kom tretmanu na slobodi.«
+
+### Članak 13.
+
+Iza članka 49. dodaje se članak 49.a koji glasi:
+
+»Članak 49.a
+
+(1) U postupku prestanka uvjetnog otpusta i opoziva uvjetnog otpusta primje­njuju se odredbe članka 49. stavka 2. ovoga Zakona.
+
+(2) Rješe­nje o prestanku uvjetnog otpusta sadrži osobne podatke o neubrojivoj osobi koja je bila prisilno smještena, podatke o presudi i rješe­nju na teme­lju kojih je ­njen prisilni smještaj bio određen, podatke o rješe­nju o uvjetnom otpustu te odluku o prestanku liječe­nja.
+
+(3) Rješe­nje o opozivu uvjetnog otpusta sadrži osobne podat­ke o neubrojivoj osobi koja je prisilno smještena, podatke o presudi i rješe­nju na teme­lju kojih je ­njen prisilni smještaj bio određen, podatke o rješe­nju o uvjetnom otpustu koje se opoziva, psihijatrijsku ustanovu u koju će se smjestiti te naznaku da se prisilni smještaj produ­ljuje na rok od jedne godine.
+
+(4) Sud će, na teme­lju rješe­nja o opozivu uvjetnog otpusta, izdati dovedbeni nalog koji sadrži: ime i prezime neubrojive osobe i druge potrebne osobne podatke, podatke o rješe­nju o opozivu uvjetnog otpusta i psihijatrijsku ustanovu u koju će neubrojiva osoba biti dovedena, kao i službeni pečat i potpis suca koji izdaje nalog.
+
+(5) Dovedbeni nalog izvršavaju redarstvene vlasti, u surad­nji sa zdravstvenim djelatnicima psihijatrijske ustanove. Osoba kojoj je povjereno izvrše­nje naloga predaje nalog neubrojivoj osobi i poziva ju da pođe s ­njom. Ako neubrojiva osoba to odbije, dovest će se prisilno.«
+
+### Članak 14.
+
+Članak 50. mije­nja se i glasi:
+
+»(1) Kada odlučuje o produ­lje­nju, otpustu, uvjetnom otpustu, privremenom izlasku te prestanku ili opozivu uvjetnog otpusta neubrojive osobe zbog složenosti slučaja može, a zbog nedostatka u obrazlože­nju prijedloga predstojnika odjela mora zatražiti nalaz i miš­lje­nje vještaka psihijatra.
+
+(2) Nalaz i miš­lje­nje vještaka iz stavka 1. ovoga članka sud može zatražiti i na prijedlog neubrojive osobe ili ­njezinog zastupnika.
+
+(3) Vještak daje svoje miš­lje­nje na teme­lju psihijatrijskog pre­gleda neubrojive osobe, uvida u raspoloživu medicinsku dokumentaciju i u spis predmeta.
+
+(4) Vještače­nje u postupku prisilnog smještaja neubrojivih osoba može se zatražiti isk­ljučivo od ferenzičkih psihijatara koji se bave liječe­njem prisilno smještenih neubrojivih osoba na drugim forenzičkim odjelima u Republici Hrvatskoj ili od vještaka forenzičkih psihijatara koji se nalaze na posebnom popisu vještaka koji odobrava Hrvatska liječnička komora.«
+
+### Članak 15.
+
+Iza članka 50. dodaje se članak 50.a koji glasi:
+
+»Članak 50.a
+
+(1) Rješe­nja iz članka 49. stavka 4., 5. i 6. te članka 49.a stavka 2. i 3. ovoga Zakona sud će dostaviti osobama iz članka 36. stavak 2. ovoga Zakona i državnom odvjetniku.
+
+(2) Protiv rješe­nja iz stavka 1. ovoga članka pravo žalbe ima­ju osobe iz članka 36. stavka 2. ovoga Zakona i državni odvjetnik.
+
+(3) Žalba protiv rješe­nja o otpustu odgađa ­nje­govo izvrše­nje.«
+
+### Članak 16.
+
+Ispred članka 51. dodaje se podnaslov koji glasi:
+
+»2. Postupak prisilnog smještaja prema osuđenicima«.
+
+### Članak 17.
+
+(1) Postupak prisilnog smještaja koji je pokrenut prije stupa­nja na snagu ovoga Zakona nastavit će se po odredbama Zakona o zaštiti osoba s duševnim smet­njama (»Narodne novine«, br. 111/97. i 128/99.).
+
+(2) Postupak prisilnog smještaja neubrojivih osoba prema kojima je donesena presuda i rješe­nje u kaznenom postupku provest će se prema odredbama Zakona o zaštiti osoba s duševnim smet­njama (»Narodne novine«, br. 111/97. i 128/99.) ako sud nadležan za prisilni smještaj nije donio odluku o prisilnom smještaju do dana stupa­nja na snagu ovoga Zakona.
+
+(3) Postupak o otpustu ili produ­lje­nju prisilnog smještaja ko­ji je pokrenut nakon stupa­nja na snagu ovoga Zakona provest će se po odredbama ovoga Zakona.
+
+### Članak 18.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 500-01/02-01/05  
+Zagreb, 20. lip­nja 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

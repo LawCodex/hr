@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-16
-last_amended: 1998-12-28
+last_amended: 2001-04-20
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "76/93, 111/96, 164/98"
+narodne_novine: "76/93, 111/96, 164/98, 36/01"
 amendments:
   - "NN 111/1996 (2169) Zakon o izmjeni Zakona o političkim strankama"
   - "NN 164/1998 (2020) Zakon o izmjenama Zakona o političkim strankama"
+  - "NN 36/2001 (634) Zakon o izmjenama Zakona o političkim strankama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1550"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1550).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 111/1996, NN 164/1998.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 111/1996, NN 164/1998, NN 36/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -457,3 +458,107 @@ Potpredsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Vladimir Šeks, dipl. iur., v. r.
+
+## Zakon o izmjenama Zakona o političkim strankama (NN 36/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/36/634*
+
+HRVATSKI SABOR
+
+634
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POLITIČKIM STRANKAMA
+
+Proglašavam Zakon o izmjenama Zakona o političkim stran­kama, koji je donio Hrvatski sabor na sjednici 6. trav­nja 2001.
+
+Broj: 01-081-01-1134/2  
+Zagreb, 11. trav­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POLITIČKIM STRANKAMA**
+
+### Članak 1.
+
+U Zakonu o političkim strankama (»Narodne novine«, br. 76/93., 111/96. i 164/98.) članak 1. mije­nja se i glasi:
+
+»Političke stranke su svojim slobodnim osniva­njem izraz demokratskoga višestranačkog sustava kao najviše vrednote ustavnog poretka Republike Hrvatske.
+
+Pravni položaj, uvjeti, način i postupak za osniva­nje, re­gis­trira­nje, prestanak i financira­nje političkih stranaka uređuje se ovim Zakonom.«
+
+### Članak 2.
+
+Članak 2. mije­nja se i glasi:
+
+»Političke stranke, u smislu ovoga Zakona, su pravne osobe koje politički djeluju u skladu s ci­ljevima utvrđenim programom i statutom.«
+
+### Članak 3.
+
+Članak 4. mije­nja se i glasi:
+
+»Političke stranke ne mogu osnivati svoje ustrojstvene oblike u državnim tijelima, tijelima jedinica lokalne i područne (re­gio­nalne) samouprave, trgovačkim društvima, ustanovama, oruža­nim snagama, policiji i drugim pravnim osobama.«
+
+### Članak 4.
+
+Članak 17. mije­nja se i glasi:
+
+»Ukoliko ministarstvo nadležno za poslove uprave ocijeni da politička stranka, podnosite­lj zahtjeva za re­gistraciju, svojim programom smjera podriva­nju slobodnog demokratskog poretka ili ugrožava­nju opstojnosti Republike Hrvatske, predložit će pokre­ta­nje postupka za ocjenu ustavnosti pred Ustavnim sudom Repub­like Hrvatske.
+
+Do donoše­nja odluke Ustavnoga suda, ministarstvo nadležno za poslove uprave zastat će s postupkom donoše­nja rješe­nja za upis političke stranke.
+
+Ministarstvo nadležno za poslove uprave odbit će zahtjev za upis u re­gistar političke stranke, ukoliko Ustavni sud Republike Hrvatske donese odluku o protuustavnosti ­njenog programa.«
+
+### Članak 5.
+
+Članak 18. mije­nja se i glasi:
+
+»Ako političke stranke u svom djelova­nju ostvare dobit, moraju s dobiti raspolagati kao neprofitne organizacije.
+
+Političke stranke mogu stjecati prihod od članarine, dobro-vo­lj­nih priloga, izdavačke djelatnosti, prodaje propagandnog materijala, organizacije stranačkih manifestacija, državnog prora­ču­na, proračuna jedinica lokalne i područne (re­gionalne) samouprave i drugih propisima dozvo­ljenih izvora.«
+
+### Članak 6.
+
+Članak 19. mije­nja se i glasi:
+
+»Dio sredstava za rad političkih stranaka koji se osigurava u državnom proračunu za iduću proračunsku godinu iznosi 0,056% sredstava tekućih izdataka proračuna iz prethodne godine.
+
+Sredstva iz stavka 1. ovoga članka raspoređuju se političkim strankama koje imaju najma­nje jednog zastupnika u Hrvatskom saboru.
+
+Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora donosi odluku o raspoređiva­nju sredstava iz stavka 1. ovoga članka za svaku godinu, kojom utvrđuje jednaki iznos sredstava za svakog zastupnika u Hrvatskom saboru tako da pojedinoj politič­koj stranci pripadaju sredstva razmjerno broju ­njenih zastupnika.
+
+Za svakog izabranog zastupnika podzastup­ljenog spola politi­čkim strankama pripada i pravo na naknadu u visini od 10% iznosa predviđenog po svakom zastupniku, a određenog stavkom 3. ovoga članka.
+
+Raspoređena sredstva prema stavku 3. i 4. ovoga članka doznačuju se na središ­nji račun političke stranke tromjesečno u jed­nakim iznosima.«
+
+### Članak 7.
+
+Odredbe članka 19. ovoga Zakona na odgovarajući način primje­njuju se i na izbor članova predstavničkih tijela u jedinicama lokalne i područne (re­gionalne) samouprave.
+
+### Članak 8.
+
+U članku 22. stavku 1. i 2. riječi »Hrvatskom državnom saboru« zamje­njuju se riječima: »Hrvatskom saboru«.
+
+### Članak 9.
+
+U svim odredbama ovoga Zakona riječi »organizacijski oblici« i »oblici organizira­nja« u određenom padežu zamje­njuju se riječima: »ustrojstveni oblici« u odgovarajućem padežu, riječi: »Ministarstvo uprave« zamje­njuju se riječima: »ministarstvo nadležno za poslove uprave«, a riječi: »ministar uprave« riječima: »mi­nistar nadležan za poslove uprave«.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 008-02/01-01/02  
+Zagreb, 6. trav­nja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

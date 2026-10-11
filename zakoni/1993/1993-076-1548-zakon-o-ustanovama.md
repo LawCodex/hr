@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-16
-last_amended: 1999-05-17
+last_amended: 2008-03-28
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "76/93, 47/99"
+narodne_novine: "76/93, 47/99, 35/08"
 amendments:
   - "NN 47/1999 (924) Ispravak Zakona o ustanovama"
+  - "NN 35/2008 (1142) Zakon o izmjenama i dopuni Zakona o ustanovama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1548"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1548).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/1999, NN 35/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -716,3 +717,62 @@ Tajnik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Krešimir Alerić, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopuni Zakona o ustanovama (NN 35/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/35/1142*
+
+HRVATSKI SABOR
+
+1142
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O USTANOVAMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o ustanovama, kojega je Hrvatski sabor donio na sjednici 14. ožujka 2008. godine.  
+Klasa: 011-01/08-01/15  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 20. ožujka 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O USTANOVAMA**
+
+### Članak 1.
+
+U Zakonu o ustanovama (»Narodne novine«, br. 76/93., 29/97. i 47/99.) članak 5. mijenja se i glasi:  
+»Ustanovu može osnovati domaća i strana fizička i pravna osoba.«
+
+### Članak 2.
+
+U članku 8. stavku 2. riječi: »u roku od 2 mjeseca« zamjenjuju se riječima: »u roku od mjesec dana«.
+
+### Članak 3.
+
+U članku 12. stavku 6. iza riječi: »ovoga Zakona« dodaju se riječi: »odnosno Republika Hrvatska i jedinica lokalne i područne (regionalne) samouprave i fizička i pravna osoba«.
+
+### Članak 4.
+
+U članku 42. stavku 2. riječi: »odluku o imenovanju« zamjenjuju se riječima: »odluku o izboru«.
+
+### Članak 5.
+
+U svim odredbama Zakona o ustanovama riječi: »jedinica lokalne samouprave« zamjenjuju se riječima: »jedinica lokalne i područne (regionalne) samouprave«.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 1. ovoga Zakona koji stupa na snagu danom pristupanja Republike Hrvatske u punopravno članstvo Europske unije.  
+Klasa: 025-01/08-01/01  
+Zagreb, 14. ožujka 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

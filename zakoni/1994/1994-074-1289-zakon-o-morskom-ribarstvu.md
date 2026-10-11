@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-10-18
-last_amended: 1997-05-05
+last_amended: 2005-04-13
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 46/1997 (670) https://narodne-novine.nn.hr/eli/sluzbeni/1997/46/670"
-narodne_novine: "74/94, 57/96, 46/97"
+narodne_novine: "74/94, 57/96, 46/97, 48/05"
 amendments:
   - "NN 57/1996 (1162) Zakon o izmjenama i dopunama Zakona o morskom ribarstvu"
+  - "NN 48/2005 (933) Zakon o izmjenama i dopunama Zakona o morskom ribarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/46/670"
 retrieved: 2026-10-12
 ---
@@ -23,6 +24,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 74/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1289).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 46/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/46/670).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -962,3 +965,621 @@ Ministar je dužan donijeti propise članka 30. stavka 6. i 7., članka 21. stav
 ### Članak 92.
 
 Danom početka primjene Zakona o morskom ribarstvu ("Narodne novine", br. 74/94.), prestaje vrijediti Zakon o morskom ribarstvu ("Narodne novine", br. 44/80. - pročišćeni tekst, 41/84., 9/88., 9/91., 61/91., 22/92., 26/93. i 109/93.) osim odredaba iz članka 90. ovoga Zakona.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjenama i dopunama Zakona o morskom ribarstvu (NN 48/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/48/933*
+
+HRVATSKI SABOR
+
+933
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O MORSKOM RIBARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o morskom ribarstvu, koji je Hrvatski sabor donio na sjednici 1. travnja 2005. godine.
+
+Broj: 01-081-05-1286/2
+
+Zagreb, 6. travnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O MORSKOM RIBARSTVU**
+
+### Članak 1.
+
+U Zakonu o morskom ribarstvu (»Narodne novine«, br. 74/94., 57/96., 46/97. – pročišćeni tekst i 76/99.) u članku 3. točki 1. iza riječi: »mali ribolov« stavlja se zarez, a riječi: »i rekreacijsko-športski ribolov« zamjenjuju se riječima: »športski ribolov i rekreacijski ribolov«.
+
+Točka 4. mijenja se i glasi:
+
+»4. športski ribolov je lov riba i drugih morskih organizama u svrhu športa,«.
+
+Iza točke 4. dodaje se točka 4.a koja glasi:
+
+»4.a rekreacijski ribolov je lov riba i drugih morskih organizama u svrhu rekreacije,«.
+
+Točka 11. mijenja se i glasi:
+
+»11. ribolovno more je morski prostor nad kojim Republika Hrvatska ima suverenost odnosno suverena prava i jurisdikciju u skladu s međunarodnim pravom, a sastoji se od unutrašnjega ribolovnog mora i vanjskoga ribolovnog mora koje obuhvaća područje teritorijalnog mora Republike Hrvatske, te zaštićeni ekološko-ribolovni pojas Republike Hrvatske, odnosno gospodarski pojas Republike Hrvatske,«.
+
+Točka 20. mijenja se i glasi:
+
+»20. dozvola je ovlaštenje na temelju kojeg fizička osoba smije obav­ljati športski ribolov ili rekreacijski ribolov,«.
+
+### Članak 2.
+
+U članku 4. stavak 2. briše se.
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Pod ribolovnim morem Republike Hrvatske podrazumijeva se i zaštićeni ekološki-ribolovni pojas Republike Hrvatske, odnosno gospodarski pojas Republike Hrvatske nakon što Hrvatski sabor proglasi ostale sadržaje isključivoga gospodarskog pojasa u skladu s Konvencijom UN-a o pravu mora.«
+
+### Članak 4.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»Ribolov se dijeli na gospodarski ribolov, mali ribolov, športski ribolov i rekreacijski ribolov.«
+
+### Članak 5.
+
+Iza članka 6. dodaje se članak 6.a koji glasi:
+
+»Članak 6.a
+
+U promet se mogu stavljati samo ribe i drugi morski organizmi koji potječu iz gospodarskog ribolova, uzgoja ili uvoza.
+
+Uvjete i način stavljanja u promet riba i drugih morskih organizama, iz stavka 1. ovoga članka propisuje ministar.«
+
+### Članak 6.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»Športski ribolov se smije obavljati na temelju dozvole i članske iskaznice nacionalnog saveza za športski ribolov na moru.«
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Rekreacijski ribolov se smije obavljati na temelju dozvole.«
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+### Članak 7.
+
+U članku 11. stavku 2. točki 1. riječ: »kojoj« zamjenjuje se riječima: »ili više njih, kojima«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Povlastica za ribolov podliježe reviziji.«
+
+U dosadašnjem stavku 4., koji postaje stavak 5., iza riječi: »ribolov« stavlja se zarez i dodaju riječi: »kao i postupak revizije«.
+
+### Članak 8.
+
+U članku 15. stavku 2. iza riječi: »plovilu« dodaju se riječi: »za vrijeme obavljanja gospodarskog ribolova ili uz osobu koja obavlja gospodarski ribolov«.
+
+### Članak 9.
+
+U članku 19. stavku 4. na kraju teksta briše se točka i dodaju se riječi: »ili je završila odgovarajuću strukovnu školu ribarskog usmjerenja ili studij morskog ribarstva.«
+
+### Članak 10.
+
+U članku 20. dodaju se stavci 3. i 4. koji glase:
+
+»U malom ribolovu dozvoljeno je dnevno uloviti i skupiti do pet kilograma riba i drugih morskih organizama.
+
+Iznimno od stavka 3. ovoga članka, dozvoljena dnevna količina ulova može biti veća za masu jedne ribe ili drugoga morskog organizma kojim se premašuje dozvoljenih pet kilograma.«
+
+### Članak 11.
+
+Naslov glave IV. te članci 31., 32., 33., 34. i 35. mijenjaju se i glase:
+
+*»IV. Športski i rekreacijski ribolov*
+
+### Članak 31.
+
+Športski ribolov može se obavljati samo uz posjedovanje dnevne, višednevne ili godišnje dozvole za športski ribolov na moru.
+
+Dozvolu za športski ribolov na moru ribolovac mora uvijek imati kod sebe kada obavlja športski ribolov.
+
+### Članak 32.
+
+Dozvole za športski ribolov na moru izdaje Ministarstvo, a prodaje ih nacionalni savez za športski ribolov na moru Republike Hrvatske.
+
+Pravo na kupnju dnevne, višednevne ili godišnje dozvole za športski ribolov imaju državljani Republike Hrvatske koji su članovi nacionalnog saveza za športski ribolov na moru Republike Hrvatske.
+
+Iznimno od odredbe stavka 2. ovoga članka, dnevne i višednevne dozvole za športski ribolov na moru nacionalni savez za športski ribolov na moru može prodati i stranim državljanima koji imaju člansku iskaznicu nacionalnog saveza za športski ribolov na moru Republike Hrvatske ili druge države.
+
+### Članak 33.
+
+Zabranjeno je obavljanje ribolova podvodnom puškom, osim u športskom ribolovu.
+
+Ribolov podvodnom puškom smije se obavljati samo ronjenjem na dah.
+
+Zabranjen je ribolov uz uporabu podvodne puške od zalaska do izlaska sunca.
+
+Pri obavljanju ribolova podvodnom puškom ribolovac mora biti propisno označen.
+
+Dozvola za obavljanje športskog ribolova podvodnom puškom ne može biti izdana na ime osobe mlađe od 16 godina.
+
+### Članak 34.
+
+Odobrenje i uvjete za održavanje lokalnih natjecanja u športskom ribolovu izdaje nadležna područna jedinica Ministarstva.
+
+Odobrenje i uvjete za održavanje državnih i međunarodnih natjecanja izdaje Ministarstvo.
+
+Nacionalni savez za športski ribolov na moru obvezan je Ministarstvu dostaviti jednogodišnji kalendar natjecanja najkasnije do 1. ožujka tekuće godine.
+
+Za vrijeme trajanja natjecanja u športskom ribolovu količina ulova nije ograničena.
+
+Odobrenjem iz stavka 1. i 2. ovoga članka može se u vrijeme i na području odvijanja natjecanja ograničiti obavljanje ostalih vrsta ribolova.
+
+### Članak 35.
+
+Rekreacijski ribolov može se obavljati uz posjedovanje dnevne, višednevne i godišnje dozvole.
+
+Godišnju dozvolu iz stavka 1. ovoga članka, može dobiti samo osoba s prebivalištem u Republici Hrvatskoj.
+
+Osobe s navršenih 65 godina života, koje imaju prebivalište na otocima i poluotoku Pelješcu, oslobođene su plaćanja naknade za godišnju dozvolu za rekreacijski ribolov.
+
+Ribolovac mora dozvolu uvijek imati kod sebe kada obavlja rekreacijski ribolov.«
+
+### Članak 12.
+
+Iza članka 35. dodaju se članci 35.a, 35.b i 35.c koji glase:
+
+*»Članak 35.a*
+
+Dozvole za rekreacijski ribolov izdaje Ministarstvo.
+
+Dozvole za rekreacijski ribolov prodaju se u područnim jedinicama Ministarstva i kod pravnih i fizičkih osoba koje za to ovlasti ministar.
+
+### Članak 35.b
+
+U rekreacijskom i športskom ribolovu dozvoljeno je dnevno uloviti i skupiti do pet kilograma riba i drugih morskih organizama.
+
+Iznimno od stavka 1. ovoga članka, dozvoljena dnevna količina ulova može biti veća za masu jedne ribe ili drugoga morskog organizma kojim se premašuje dozvoljenih pet kilograma.
+
+Pojedine vrste riba i drugih morskih organizama iz športskog ili rekreacijskog ribolova moraju biti neposredno nakon ulova označene.
+
+Vrste riba i drugih morskih organizama, kao i način njihova označavanja propisuje ministar.
+
+### Članak 35.c
+
+Način upotrebe, vrstu i količinu ribolovnih alata i opreme koji se smiju upotrebljavati u obavljanju športskog i rekreacijskog ribolova, te obrasce i sadržaj dozvola za športski i rekreacijski ribolov propisuje ministar.«
+
+### Članak 13.
+
+U članku 37. stavku 2. točki 4. iza riječi: »uzgajati« stavlja se zarez i dodaju riječi: »sukladno posebnim propisima iz područja prostornog uređenja i zaštite okoliša«.
+
+### Članak 14.
+
+U članku 43. stavku 1. na kraju teksta briše se točka i dodaju se riječi: »te posebnim propisima iz područja prostornog uređenja i zaštite okoliša.«
+
+U stavku 2. riječi: »graditeljstva i zaštite okoliša« zamjenjuju se riječima: »nadležnog za zaštitu okoliša, prostorno uređenje i graditeljstvo te ministra nadležnog za more«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»Natječaj za dodjelu koncesije na pomorskom dobru za namjenu uzgoja ne može se objaviti bez prethodne suglasnosti Ministarstva.
+
+Nakon dodjele koncesije i izdavanja povlastice, položaj svakog uzgajališta unosi se u pomorske karte.«
+
+### Članak 15.
+
+U članku 45. stavku 4. na kraju teksta briše se točka i dodaju se riječi: »ili je završila odgovarajuću strukovnu školu ribarskog usmjerenja ili studij koji uključuje područje uzgoja riba i drugih vodenih organizama«.
+
+### Članak 16.
+
+U članku 46. stavak 2. mijenja se i glasi:
+
+»Sredstva koja se plaćaju za naknade iz stavka 1. ovoga članka uplaćuju se na posebnu poziciju u okviru računa Ministarstva, a koriste se za sufinanciranje mjera praćenja stanja biološkog bogatstva mora i unapređenja morskog ribarstva.«
+
+### Članak 17.
+
+U članku 47. stavku 2. iza riječi: »njihovo« dodaju se riječi: »posjedovanje i«.
+
+### Članak 18.
+
+Članak 49. mijenja se i glasi:
+
+»Radi racionalnog gospodarenja biološkim zalihama mora, ministar propisuje:
+
+1. broj i veličinu ribarskih plovila, snagu pogonskog stroja i/ili povlačnu silu plovila, te vrstu i količinu ribolovnih alata i opreme kojima je u određenoj ribolovnoj zoni dozvoljen ribolov,
+
+2. pojedinačni ribolovni napor po ribarskom plovilu ili ukupni ribolovni napor za ribolovnu zonu i korištenje ribolovnih alata,
+
+3. ograničenje vremena ribolova u određenoj ribolovnoj zoni,
+
+4. dozvoljenu količinu ulova ili skupljanja u određenoj zoni i doz­voljenu količinu ulova ili skupljanja po jednoj povlastici,
+
+5. broj povlastica za određenu vrstu ribolova u određenoj ribo­lovnoj zoni,
+
+6. konstrukcijsko-tehničke osobine, način upotrebe i namjenu pojedinih vrsta ribolovnih alata i opreme za ribolov,
+
+7. uvjete za postavljanje umjetnih brakova,
+
+8. mjere i uvjete poribljavanja mora i
+
+9. sustav nadzora i praćenja ribarskih plovila.
+
+Uvjete iz stavka 1. točke 7. ovoga članka ministar propisuje u suglasnosti s ministrom nadležnim za zaštitu okoliša, prostorno uređenje i graditeljstvo.«
+
+### Članak 19.
+
+U članku 50. stavku 2. riječi: »graditeljstva i zaštite okoliša« zamjenjuju se riječima: »nadležnog za zaštitu prirode«.
+
+### Članak 20.
+
+Članak 51. mijenja se i glasi:
+
+»Radi gospodarenja biološkim zalihama mora Vlada Republike Hrvatske donosi Program razvoja ribarstva.
+
+Program razvoja ribarstva sadrži:
+
+– ocjenu postojećeg stanja morskog ribarstva,
+
+– stanje ribolovnih bogatstava,
+
+– strategiju i ciljeve za postizanje trajnog iskorištavanja ribolovnih bogatstava,
+
+– razvoj tržišta ribom i ribljim proizvodima,
+
+– unapređenje i modernizaciju ribarske flote,
+
+– razvoj infrastrukturne i logističke podrške za ribarstvo (luke, pristaništa, vezovi, transport, hladnjače i sl.),
+
+– unapređenje uzgoja,
+
+– poticanje interesnog udruživanja i
+
+– financijski plan za njegovu provedbu.
+
+Program razvoja ribarstva izrađuje se za razdoblje od šest godina.«
+
+### Članak 21.
+
+U članku 52. stavak 2. i 3. mijenjaju se i glase:
+
+»Posebna staništa su dijelovi ribolovnog mora u ušćima rijeka, zaljevima, uvalama i kanalima, u kojima postoje osobito pogodni uvjeti za razvoj riba i drugih morskih organizama i koja su njihova mrijestilišta, hranilišta, rastilišta ili skloništa.
+
+U posebnim staništima je zabranjen ribolov.«
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»Iznimno od stavka 3. ovoga članka ministar može u posebnim staništima dozvoliti ribolov udičarskim alatima, vršama i ostima, te skupljanje školjkaša.
+
+Iznimno od stavka 3. ovoga članka, radi pravilnog gospodarenja, ministar može u posebnom staništu na određeno vrijeme i s određenim ribolovnim alatima i opremom dozvoliti ribolov odraslih i migratornih vrsta riba i drugih morskih organizama.«
+
+### Članak 22.
+
+Članak 53. mijenja se i glasi:
+
+»Zabranjeno je puštati, ispuštati, bacati ili odbacivati u ribolovno more ili vodotok koji utječe u more ili vodu stajaćicu povezanu s morem, bilo koji otpad u tekućem ili krutom stanju, koji uništava ribe i druge morske organizme i/ili ograničava njihov životni prostor i štetno utječe na biološke uvjete za njihov razvoj i/ili opstanak.«
+
+### Članak 23.
+
+U članku 54. stavak 3. mijenja se i glasi:
+
+»Sredstva koja se plaćaju za naknadu šteta iz stavka 1. ovoga članka prihod su državnog proračuna, a uplaćuju se na posebnu poziciju u okviru računa Ministarstva, te se koriste za sufinanciranje mjera praćenja stanja biološkog bogatstva mora i unapređenja morskog ribarstva.«
+
+### Članak 24.
+
+Članak 57. mijenja se i glasi:
+
+»Imatelji povlastice za gospodarski ribolov koji se obavlja ribarskim plovilima iznad 10 metara dužine preko svega dužni su voditi očevidnik.
+
+Imatelji povlastice za gospodarski ribolov koji se obavlja ribarskim plovilima do 10 metara dužine preko svega dužni su podnositi izvješće o ulovu.
+
+Očevidnik i izvješće o ulovu moraju sadržavati točne i cjelovite podatke o obavljenom gospodarskom ribolovu i dostavljaju se Ministarstvu.
+
+Očevidnik se mora nalaziti na plovilu kojim se obavlja ribolov.
+
+Oblik, sadržaj i način vođenja te dostave očevidnika i izvješća o ulovu u gospodarskom ribolovu na moru propisuje ministar.«
+
+### Članak 25.
+
+Članak 58. mijenja se i glasi:
+
+»Pravne i fizičke osobe, imatelji povlastice za uzgoj, dužne su područnoj jedinici koja je izdala povlasticu dostavljati točne i cjelovite podatke o uzgoju na propisanom obrascu očevidnika.
+
+Vjerodostojnost podataka potpisuje osoba osposobljena za uzgoj ili osoba s položenim stručnim ispitom za uzgoj.
+
+Oblik, sadržaj i način dostavljanja obrasca očevidnika propisuje ministar.«
+
+### Članak 26.
+
+Članak 61. mijenja se i glasi:
+
+»Inspekcijski nadzor nad provedbom odredaba ovoga Zakona i propisa donesenih na temelju njega provode ribarski inspektori i drugi državni službenici koje za to ovlasti ministar (u tekstu koji slijedi: inspektori).
+
+Inspekcijski nadzor iz stavka 1. ovoga članka, koji se odnosi na promet riba i drugih morskih organizama obavljaju i gospodarski inspektori Državnog inspektorata, sukladno ovom Zakonu i posebnim zakonima.
+
+Inspekcijski nadzor iz stavka 1. ovoga članka na području ribo­lovnog mora provode i inspektori sigurnosti plovidbe Ministarstva mora, turizma, prometa i razvitka, kao i policijski službenici Ministarstva unutarnjih poslova.«
+
+### Članak 27.
+
+Iza članka 61. dodaju se članci 61.a, 61.b, 61.c, 61.d, 61.e, 61.f, 61.g, 61.h i 61.i koji glase:
+
+*»Članak 61.a*
+
+Inspektori u provedbi inspekcijskog nadzora:
+
+– pregledavaju isprave i poslovne spise pravnih i fizičkih osoba koje obavljaju ribolov, uzgoj i promet riba i drugih morskih organizama,
+
+– nadziru obavljanje ribolova i uzgoja sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega,
+
+– nadziru obavljanje prometa ribom i drugim morskim organizmima sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega.
+
+### Članak 61.b
+
+Ukoliko nađe da je povrijeđen ovaj Zakon ili drugi propis donesen na temelju njega, inspektor ima pravo i obvezu:
+
+l. rješenjem narediti otklanjanje utvrđenih nedostataka, odnosno nepravilnosti u određenom roku,
+
+2. podnijeti nadležnom državnom tijelu prijavu zbog kaznenog djela, odnosno zahtjev za pokretanje prekršajnog postupka te izreći ovim Zakonom utvrđenu prekršajnu kaznu,
+
+3. poduzeti i druge mjere, odnosno izvršiti druge radnje za koje je posebnim propisom ovlašten.
+
+### Članak 61.c
+
+Ako pravna ili fizička osoba u određenom roku ne provede mjere naređene na temelju ovoga Zakona, te mjere može provesti inspektor ili pravna, odnosno fizička osoba koju on ovlasti, a na trošak pravne ili fizičke osobe koja je bila dužna provesti određenu mjeru.
+
+### Članak 61.d
+
+Ukoliko inspektor utvrdi da je povrijeđen ovaj Zakon ili drugi propis donesen na temelju njega, može privremeno do donošenja rješenja o izvršenom prekršaju odnosno presude o izvršenom kaznenom djelu, oduzeti ulovljenu ribu i druge morske organizme, plovilo, alate i opremu za ribolov, koji su poslužili za izvršenje prekršaja ili kaznenog djela, a mogu u prekršajnom ili kaznenom postupku poslužiti kao dokaz.
+
+O privremenom oduzimanju izdaje se potvrda.
+
+U slučaju kada se privremeno do odluke nadležnoga državnog tijela oduzimaju alati i oprema za ribolov kao i plovilo, prijava, odnosno zahtjev za pokretanje postupka se mora podnijeti u roku od 48 sati, a nadležno državno tijelo o prijavi, odnosno zahtjevu odlučuje u hitnom postupku.
+
+### Članak 61.e
+
+Inspekcijske poslove u prvom stupnju obavljaju inspektori.
+
+Protiv rješenja inspektora može se izjaviti žalba Ministarstvu.
+
+O žalbama odlučuje posebna komisija Ministarstva od najmanje tri člana, koju imenuje ministar.
+
+Žalba izjavljena protiv rješenja iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.
+
+### Članak 61.f
+
+Poslove inspektora može obavljati osoba koja ima najmanje VII/1 stupanj stručne spreme ribarskog usmjerenja, tri godine radnoga iskustva u struci i položen stručni ispit za ribarskog inspektora.
+
+Iznimno od stavka 1. ovoga članka poslove inspektora može obav­ljati i osoba koja ima najmanje VII/1 stupanj stručne spreme veterinarskog, biološkog ili agronomskog usmjerenja, tri godine radnoga iskustva u struci i položen stručni ispit za ribarskog inspektora.
+
+Program stručnog ispita za inspektora, sastav ispitne komisije i način polaganja stručnog ispita propisuje ministar.
+
+### Članak 61.g
+
+Inspektori imaju posebnu iskaznicu i znak kojima se dokazuje njihovo službeno svojstvo, identitet i ovlasti.
+
+Prilikom obavljanja inspekcijskog nadzora inspektori mogu nositi odoru.
+
+Obrazac službene iskaznice, znak i odoru inspektora propisuje ministar.
+
+### Članak 61.h
+
+Inspektori vode evidenciju o obavljenim inspekcijskim pregledima, donesenim rješenjima, o zahtjevima za pokretanje prekršajnoga pos­­tupka, izrečenim prekršajnim kaznama i podnesenim prijavama zbog izvršenoga kaznenog djela.
+
+Obrazac evidencije, sadržaj i način vođenja propisuje ministar.
+
+### Članak 61.i
+
+Pravne i fizičke osobe čiji rad podliježe nadzoru inspektora dužne su im omogućiti obavljanje inspekcijskog nadzora i pružiti potrebne podatke.«
+
+### Članak 28.
+
+U članku 71. stavku 2. riječi: »rekreacijsko-športski« zamjenjuju se s riječju: »rekreacijski«.
+
+### Članak 29.
+
+Članak 74. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 30.000,00 do 300.000,00 kuna kaznit će se za prekršaj pravna osoba ukoliko:
+
+1. stavlja u promet ribu i druge morske organizme koji ne potječu iz gospodarskog ribolova, uzgoja ili uvoza te ukoliko ne udovoljavaju propisanim uvjetima (članak 6.a stavak 1.),
+
+2. obavlja gospodarski ribolov bez povlastice za gospodarski ribolov (članak 10. stavak 1. točka 3.),
+
+3. stavi u promet ribu i druge morske organizme ulovljene ili skup­ljene u malom ribolovu (članak 20. stavak 2.),
+
+4. obavlja uzgoj bez povlastice za uzgoj (članak 36. stavak 1. točka 2.),
+
+5. lovi, posjeduje ili stavlja u promet prstace na teritoriju Republike Hrvatske ili ako ih izvozi u inozemstvo (članak 47. stavak 2.),
+
+6. poribljava ribolovno more alohtonim vrstama riba ili drugim morskim organizmima (članak 50. stavak 1.),
+
+7. bez dozvole Ministarstva uzgaja alohtone vrste riba i druge morske organizme (članak 50. stavak 2.),
+
+8. bez dozvole obavlja ribolov u posebnom staništu (članak 52. stavak 4. i 5.),
+
+9. pušta, ispušta, baca ili odbacuje u ribolovno more ili vodotok koji utječe u to more ili vodu stajaćicu povezanu s tim morem, bilo koji otpad u tekućem ili krutom stanju, koji uništava ribe i druge morske organizme i/ili ograničava njihov životni prostor i štetno utječe na biološke uvjete za njihov razvoj i/ili opstanak (članak 53.).
+
+Za prekršaje iz stavka 1. ovoga članka kaznit će se kaznom fizička osoba odnosno odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna.
+
+Za istovjetne prekršaje iz stavka 1. ovoga članka počinjene drugi put, pravnoj ili fizičkoj osobi i odgovornoj osobi u pravnoj osobi izreći će se novčana kazna u dvostrukom iznosu prvoizrečene kazne i pored toga, za prekršaje iz stavka 1. ovoga članka izreći će se zaštitna mjera zabrane obavljanja djelatnosti gospodarskog ribolova u trajanju od najmanje tri do najviše šest mjeseci.
+
+Za istovjetne prekršaje iz stavka 1. ovoga članka počinjene po treći put, pravnoj ili fizičkoj osobi i odgovornoj osobi u pravnoj osobi izreći će se novčana kazna u trostrukom iznosu od prvoizrečene kazne i pored toga, za prekršaje iz stavka 1. ovoga članka, izreći će se zaštitna mjera zabrane obavljanja djelatnosti gospodarskog ribolova ili uzgoja od najmanje šest mjeseci do najviše dvije godine.«
+
+### Članak 30.
+
+Članak 75. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba ukoliko:
+
+1. obavlja ribolov uz upotrebu mehaničkih naprava za lov školjkaša, pridnenih povlačnih mreža koća, obalnih povlačnih mreža ili obalnih mreža potegača u ribolovnom moru u kojem se nalaze: telegrafski, telefonski ili električni kabeli, cjevovodi ili drugi uređaji, kao i hidroarheološka nalazišta i nalazi (članak 9.),
+
+2. obavlja uzgoj na dijelu pomorskog dobra za koje nema koncesiju ili ako uzgaja vrste i količine riba i drugih morskih organizama koje nisu upisane u povlastici za uzgoj (članak 41. stavak 1.),
+
+3. lovi ili stavlja u promet u svježem stanju ribe i druge morske organizme, za vrijeme lovostaja, te ako lovi ili stavlja u promet nedorasle ribe i druge nedorasle morske organizme (članak 48. stavak 1. i 2.),
+
+4. postupa suprotno uvjetima propisanim u članku 48. stavku 3. toč­ki 4. i članku 49. stavku 1. točki 1., 2., 3., 4., 7., 8. i 9. ovoga Zakona.
+
+Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 3.000,00 do 15.000,00 kuna.
+
+Za istovjetne prekršaje iz stavka 1. ovoga članka počinjene drugi put, pravnoj osobi i odgovornoj osobi u pravnoj osobi izreći će se novčana kazna u dvostrukom iznosu prvoizrečene kazne i pored toga će se i pravnoj i fizičkoj osobi izreći i zaštitna mjera zabrane obavljanja djelatnosti gospodarskog ribolova u trajanju od najmanje tri do najviše šest mjeseci.
+
+Za istovjetne prekršaje iz stavka 1. ovoga članka počinjene po treći put, pravnoj osobi i odgovornoj osobi u pravnoj osobi izreći će se novčana kazna u trostrukom iznosu od prvoizrečene kazne i pored toga će se i pravnoj i fizičkoj osobi izreći i zaštitna mjera zabrane obavljanja djelatnosti gospodarskog ribolova od najmanje šest mjeseci do najviše dvije godine.«
+
+### Članak 31.
+
+Članak 76. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ukoliko:
+
+1. obavlja ribolov na ribolovnom području ili zoni plovilom, alatima i opremom za ribolov koji nisu upisani u povlastici (članak 15. stavak 1.),
+
+2. gospodarskim ribolovom ne upravlja osoba stručno osposobljena za obavljanje gospodarskog ribolova (članak 16. stavak 1.),
+
+3. osoba koja obavlja gospodarski ribolov ronjenjem nije stručno osposobljena za ronjenje kao i obavljanje gospodarskog ribolova (članak 16. stavak 2.),
+
+4. proda dozvolu za športski ribolov na moru stranom državljaninu koji ne posjeduje člansku iskaznicu za ribolov na moru (članak 32. stavak 3.),
+
+5. uzgojem ne upravlja osoba stručno osposobljena za uzgoj (članak 42. stavak 1.),
+
+6. obavlja ribolov ili druge radnje koje ometaju djelatnost uzgoja na manjoj udaljenosti od propisane od pravilno postavljene oznake položaja uzgajališta (članak 44.),
+
+7. obavlja ribolov ili skupljanje morskih organizama za potrebe znanstvenih istraživanja, protivno uvjetima propisanim ovim Zakonom i propisima donesenim na temelju njega bez dozvole Ministarstva (članak 55.),
+
+8. ne vodi očevidnik o gospodarskom ribolovu ili ne podnosi izvješće na propisani način (članak 57.),
+
+9. očevidnik ili izvješće sadrže netočne ili necjelovite podatke (članak 57. stavak 3.),
+
+10. inspektoru ili ovlaštenom inspektoru ne omogući obavljanje inspekcijskoga nadzora ili im ne pruži potrebne podatke (članak 61.i).
+
+Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna.
+
+Za istovjetne prekršaje iz stavka 1. ovoga članka učinjene drugi put, pravnoj osobi i odgovornoj osobi u pravnoj osobi izreći će se novčana kazna u dvostrukom iznosu prvoizrečene kazne i pored toga će se i pravnoj i fizičkoj osobi izreći i zaštitna mjera zabrane obavljanja djelatnosti gospodarskog ribolova u trajanju do tri mjeseca.
+
+Za istovjetne prekršaje iz stavka 1. ovoga članka počinjene po treći put, pravnoj osobi i odgovornoj osobi u pravnoj osobi izreći će se novčane kazne u trostrukom iznosu od prvoizrečene kazne i pored toga će se i pravnoj i fizičkoj osobi izreći i zaštitna mjera zabrane obavljanja dje­latnosti gospodarskog ribolova od najmanje tri do najviše šest mjeseci.«
+
+### Članak 32.
+
+Članak 77. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ukoliko:
+
+1. ulovi ili skupi više riba i drugih morskih organizama od dozvoljenog pri obavljanju malog ribolova (članak 20. stavak 3. i 4.),
+
+2. obavlja mali ribolov bez valjanog odobrenja (članak 22. stavak 1. i 2.),
+
+3. obavlja mali ribolov u ribolovnoj zoni plovilom, te vrstama i količinom ribolovnih alata i opremom koji nisu upisani u odobrenju (članak 27. stavak 1.),
+
+4. održi natjecanje u športskom ribolovu bez izdanog odobrenja nadležnog tijela ili protivno uvjetima iz izdanog odobrenja (članak 34. stavak 1. i 2.),
+
+5. obavlja ribolov u vrijeme i na području odvijanja natjecanja protivno ograničenju iz odobrenja za održavanje natjecanja (članak 34. stavak 5.),
+
+6. obavlja športski ribolov ili rekreacijski ribolov nedozvoljenim ribolovnim alatima ili opremom (članak 35.c),
+
+7. ne dostavlja podatke o uzgoju na propisan način (članak 58.),
+
+8. ne dostavlja podatke o malom ribolovu (članak 59. stavak 1. i 2.).
+
+Za prekršaje iz stavka 1. točke 4., 5., 7. i 8. ovoga članka kaznit će se novčanom kaznom u iznosu od 500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.
+
+Za istovjetne prekršaje iz stavka 1. točke 1., 2. i 3. ovoga članka počinjene drugi put, građaninu će se uz novčanu kaznu izreći i mjera oduzimanja odobrenja za obavljanje maloga ribolova u trajanju od dva do šest mjeseci, računajući od dana pravomoćnosti rješenja.
+
+Za istovjetne prekršaje iz stavka 1. točke 1., 2. i 3. ovoga članka počinjene treći put, građaninu će se uz novčanu kaznu izreći i mjera oduzimanja odobrenja za obavljanje maloga ribolova u trajanju od šest mjeseci do godine dana, računajući od dana pravomoćnosti rješenja.«
+
+### Članak 33.
+
+Članak 78. mijenja se i glasi:
+
+»Novčanom kaznom od 1.000,00 do 5.000,00 kuna kaznit će se za prekršaj fizička osoba i odgovorna osoba u pravnoj osobi ukoliko:
+
+1. se povlastica za gospodarski ribolov ne nalazi na plovilu ili uz osobu koja obavlja gospodarski ribolov (članak 15. stavak 2.),
+
+2. osoba koja upravlja gospodarskim ribolovom za obavljanja gospodarskog ribolova nema kod sebe uvjerenje o stručnoj osposobljenosti (članak 16. stavak 3.),
+
+3. bez dozvole obavlja športski ribolov (članak 31. stavak 1.),
+
+4. bez dozvole obavlja rekreacijski ribolov (članak 35. stavak 1.),
+
+5. u obavljanju športskog ili rekreacijskog ribolova ulovi ili sakupi više ribe i drugih morskih organizama od dozvoljenog (članak 35.b stavak 1. i 2.),
+
+6. prije napuštanja mjesta ulova, ulovljenu ribu ili druge morske organizme u športskom ribolovu ili rekreacijskom ribolovu ne označi na propisani način (članak 35.b stavak 3.),
+
+7. se povlastica za uzgoj ne nalazi na uzgajalištu ili u sjedištu tvrtke (članak 41. stavak 2.).«
+
+### Članak 34.
+
+Članak 79. mijenja se i glasi:
+
+»Globom od 100,00 do 500,00 kuna kaznit će se za prekršaj:
+
+1. građanin ukoliko u obavljanju malog ribolova nema kod sebe odobrenje za obavljanje maloga ribolova (članak 27. stavak 2.),
+
+2. ribolovac koji nema kod sebe dozvolu za športski ribolov na moru pri obavljanju športskog ribolova na moru (članak 31. stavak 2.),
+
+3. ribolovac koji nije propisno označen pri obavljanju športskog ribolova podvodnom puškom (članak 33. stavak 4.),
+
+4. ribolovac koji nema kod sebe dozvolu za rekreacijski ribolov kada obavlja rekreacijski ribolov (članak 35. stavak 4.).«
+
+### Članak 35.
+
+Članak 80. mijenja se i glasi:
+
+»Za prekršaje iz članaka 75., 76., 77., 78. i 79. ovoga Zakona in­spektor može izdati prekršajni nalog sukladno Zakonu o prekršajima.«
+
+### Članak 36.
+
+Članak 81. mijenja se i glasi:
+
+»Za prekršaje navedene u članku 74. stavku 1. točki 1., 2., 4., 5. i 7., članku 75. stavku 1. točki 1., 3. i 4., članku 76. stavku 1. točki 1. i 6., članku 77. stavku 1. točki 1., 2., 3., 4. i 8. i članku 78. stavku 1. točki 1., 3., 4., 5. i 6., osim novčane kazne obvezno se izriču i zaštitne mjere:
+
+– oduzimanja ulova riba i drugih morskih organizama i
+
+– oduzimanje alata i opreme za ribolov kojima je počinjen prekršaj, bez obzira tko je vlasnik.«
+
+### Članak 37.
+
+Obvezuje se ministar da provedbene propise na temelju ovlaštenja iz ovoga Zakona donese u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 38.
+
+Na dan stupanja na snagu ovoga Zakona u Zakonu o Državnom inspektoratu (»Narodne novine«, br. 76/99., 96/03. i 151/03.):
+
+– u članku 2. stavku 1. riječi: »i morskom ribarstvu« brišu se,
+
+– u članku 3. stavku 1. riječi: »i morskom ribarstvu« i podstavak 18. brišu se,
+
+– u članku 12. stavku 1. riječi: »i morskog ribarstva« brišu se,
+
+– u članku 31. stavak 1. riječi: »ribolovne alate, plovila« brišu se,
+
+– u članku 58. stavku 9. riječi: »i morskog ribarstva« i podstavci 7. i 8. brišu se,
+
+– u članku 79. stavku 1. riječi: »ribarska inspekcija« i stavak 4. brišu se i
+
+– u članku 80. stavku 1. točka 10. briše se.
+
+### Članak 39.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 324-03/05-01/01
+
+Zagreb, 1. travnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

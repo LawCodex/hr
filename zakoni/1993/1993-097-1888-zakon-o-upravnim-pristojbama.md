@@ -6,15 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-10-26
-last_amended: 1998-05-12
+last_amended: 2008-05-28
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "97/93, 95/97, 131/97, 68/98"
+narodne_novine: "97/93, 95/97, 131/97, 68/98, 163/03, 17/04, 150/05, 60/08"
 amendments:
   - "NN 95/1997 (1485) Uredba o izmjenama i dopunama Zakona o upravnim pristojbama"
   - "NN 131/1997 (1892) Zakon o izmjenama i dopunama Zakona o upravnim pristojbama"
   - "NN 68/1998 (819) Zakon o izmjeni i dopuni Zakona o upravnim pristojbama"
+  - "NN 163/2003 (2351) Zakon o izmjenama i dopunama Zakona o upravnim pristojbama"
+  - "NN 17/2004 (488) Zakon o izmjenama i dopunama Zakona o upravnim pristojbama"
+  - "NN 150/2005 (2905) Zakon o izmjenama i dopunama Zakona o upravnim pristojbama"
+  - "NN 60/2008 (2037) Zakon o izmjenama i dopunama Zakona o upravnim pristojbama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/97/1888"
 retrieved: 2026-10-12
 ---
@@ -23,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 97/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/97/1888).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 95/1997, NN 131/1997, NN 68/1998.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 95/1997, NN 131/1997, NN 68/1998, NN 163/2003, NN 17/2004, NN 150/2005, NN 60/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2337,3 +2341,839 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o upravnim pristojbama (NN 163/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2351*
+
+hrvatski sabor
+
+2351
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o upravnim pristojbama, koji je donio Hrvatski sabor na sjednici 1. listopada 2003.
+
+Broj: 01-081-03-3311/2  
+Zagreb, 6. listopada 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o upravnim pristojbama (»Narodne novine«, broj 8/96., 77/96., 131/97., 68/98., 66/99., 145/99. i 116/00.) u članku 6. točki 1. iza riječi: »lokalne« dodaju se riječi: »i područne (regionalne)«, riječi: »i uprave« brišu se.
+
+Iza točke 8. dodaje se točka 9. koja glasi:
+
+»9. tražitelji azila i stranci u postupku priznavanja privremene zaštite.«
+
+### Članak 2.
+
+U članku 7. stavku 2. točki 19. riječi: »spomenika kulture i prirode« zamjenjuju se riječima: »kulturnih dobara«. Iza točke 25. dodaje se točka 26. koja glasi:
+
+»26. uvjerenje o matičnom broju građana.«
+
+### Članak 3.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Konzularne pristojbe u inozemstvu plaćaju se na bankovni račun diplomatskih misija ili konzularnih ureda, a iznimno se primaju u gotovini.
+
+(2) Obračun konzularnih pristojbi obavlja se prema srednjem tečaju kune iz tečajnice Hrvatske narodne banke na dan 31. prosinca 2001.
+
+(3) Ako neke od nacionalnih valuta nema u tečajnici iz stav­ka 2. ovoga članka, za obračun konzularnih pristojbi primjenjuje se tečaj američkog dolara.
+
+(4) Rješenje o povratu konzularnih pristojbi donosi šef diplomatske misije, odnosno konzularnog ureda Republike Hrvatske u inozemstvu (u daljnjem tekstu: konzularni ured) i izvršava ga na teret tekućih prihoda od konzularnih pristojbi.«
+
+### Članak 4.
+
+U Tarifnom broju 7. točke 2. i 4. brišu se.
+
+Dosadašnje točke 3. i 5. postaju točke 2. i 3.
+
+### Članak 5.
+
+U Tarifnom broju 10. točka 4. mijenja se i glasi:
+
+»4. za poslovnu vizu............................................................... 150,00.«
+
+Točke 6. i 7. mijenjaju se i glase:
+
+»6. za odobrenje za trajno nastanjenje....................................... 450,00
+
+7. za ovjereni prijepis odobrenja za trajno  
+nastanjenje......................................................................... 100,00.«
+
+### Članak 6.
+
+U Tarifnom broju 12. dodaje se stavak 3. i 4. koji glase:
+
+»(3) Za prijepis rješenja o primitku u hrvatsko državljanstvo....... 150,00
+
+(4) Za prijepis rješenja o otpustu iz hrvatskog  
+državljanstva ili o odricanju od hrvatskog  
+državljanstva..................................................................... 150,00«
+
+U napomeni uz taj tarifni broj dodaje se druga rečenica koja glasi:
+
+»Upravne pristojbe iz ovoga tarifnog broja mogu naplaćivati i konzularni uredi.«
+
+### Članak 7.
+
+U Tarifnom broju 13. stavku 3. riječ: »probne« zamjenjuje se riječju: »pokusne«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Za izdavanje odobrenja za izdavanje  
+pokusnih pločica............................................................... 300,00«
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+### Članak 8.
+
+U Tarifnom broju 17. dodaje se stavak 3. koji glasi glasi:
+
+»(3) Za izdavanje načelne suglasnosti glede mjera zaštite od požara u postupku izdavanja načelne dozvole
+
+1. za fizičke osobe.................................................................... 100.00
+
+2. za pravne osobe................................................................. 300,00.«
+
+### Članak 9.
+
+Tarifni broj 18. mijenja se i glasi:
+
+»1. za izdavanje odobrenja za obavljanje djelatnosti privatne zaštite trgovačkom društvu i  
+podružnici......................................................................... 9.000,00
+
+2. za izdavanje ovlasti za obavljanje detektivskih  
+poslova............................................................................. 1.000,00
+
+3. za izdavanje odobrenja za obavljanje obrta  
+tehničke zaštite.................................................................. 3.000,00
+
+4. za izdavanje dopuštenja za obavljanje poslova  
+čuvara................................................................................. 700,00
+
+5. za izdavanje iskaznice za čuvara, zaštitara i  
+zaštitara – tehničara................................................................ 50,00
+
+6. za izdavanje detektivske iskaznice........................................... 50,00
+
+7. za izdavanje dopuštenja za obavljanje  
+poslova zaštitara............................................................... 1.000,00
+
+8. za izdavanje odobrenja za početak rada  
+detektivskog ureda............................................................ 9.000,00
+
+9. za izdavanje odobrenja za početak rada  
+detektivskog obrta............................................................ 3.000,00
+
+10. za dopuštenje za obavljanje poslova  
+zaštitara – tehničara........................................................ 1.000,00.«
+
+### Članak 10.
+
+Tarifni broj 22. mijenja se i glasi:
+
+»(1) Za izdavanje rješenja o upisu u registar ili o  
+brisanju iz registra predstavništava stranih  
+osoba u Republici Hrvatskoj ........................................... 1.000,00
+
+(2) Za izdavanje rješenja o izmjenama i  
+dopunama rješenja o upisu u registar  
+predstavništava stranih osoba u Republici  
+Hrvatskoj........................................................................... 200,00
+
+(3) Za odobrenje stranoj osobi koja ima  
+registrirano predstavništvo u Republici  
+Hrvatskoj da obavi određeni posao ugovorne  
+kontrole kvalitete robe u Republici Hrvatskoj ..................... 75,00.«
+
+### Članak 11.
+
+Iza Tarifnog broja 28. dodaje se Tarifni broj 28.a koji glasi:
+
+»Tar. br. 28.a
+
+Za izdavanja certifikata za izvoz neobrađenih  
+dijamanata ............................................................................ 500,00.«
+
+### Članak 12.
+
+Iza Tarifnoga broja 29. dodaju se dva tarifna broja koja glase:
+
+»Tar. br. 29.a
+
+(1) Za izdavanje suglasnosti o ispunjavanju  
+posebnih uvjeta za obavljanje trgovine na  
+veliko i trgovine s inozemstvom za  
+određenu vrstu naftnih derivata ......................................... 1.000,00
+
+(2) Za izdavanje izmjene suglasnosti iz stavka  
+1. ovoga tarifnog broja......................................................... 200,00
+
+(3) Za izdavanje suglasnosti o ispunjavanju  
+posebnih uvjeta za obavljanje trgovine na  
+malo u određenim vrstama prodavaonica............................ 5.000,00
+
+(4) Za izdavanje izmjene suglasnosti iz stavka  
+3. ovoga tarifnog broja..................................................... 1.000,00.
+
+Tar. br. 29.b
+
+(1) Za izdavanje dozvola za obavljanje usluga certificiranja elektroničkih potpisa s izdavanjem kvalificiranih certifikata i za upis u registar davatelja takvih usluga
+
+a) na rok od pet godina za pravnu osobu koja  
+je upisana u sudski registar u Republici  
+Hrvatskoj ...................................................................... 50.000,00 i
+
+b) na rok od tri godine za pravnu osobu sa  
+sjedištem u inozemstvu za koju se dozvola  
+izdaje pravnoj osobi u Republici Hrvatskoj  
+koja zastupa odnosno predstavlja tu stranu  
+pravnu osobu................................................................... 20.000,00
+
+(2) Za izmjenu i dopunu podataka koji su upisani  
+u registar iz stavka 1. ovoga tarifnog broja ......................... 5.000,00
+
+(3) Za upis davatelja usluga certificiranja  
+elektroničkih potpisa u evidenciju....................................... 2.000,00
+
+(4) Za izmjenu i dopunu podataka iz stavka 3.  
+ovoga tarifnog broja........................................................... 200,00.«
+
+### Članak 13.
+
+Tarifni broj 31. mijenja se i glasi:
+
+»(1) Za odobrenje za obavljanje međunarodnoga  
+javnoga cestovnog prijevoza............................................. 3.000,00
+
+(2) Za odobrenje za obavljanje unutarnjega  
+javnoga cestovnog prijevoza............................................. 1.000,00
+
+(3) Za odobrenje za obavljanje kolodvorskih  
+usluga .......................................................................... 1.500,00.«
+
+### Članak 14.
+
+U Tarifnom broju 36. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Za svaku pojedinu dozvolu za međunarodni  
+cestovni prijevoz tereta po.................................................... 25,00.
+
+(2) Za dozvolu koju stranom prijevozniku za  
+obavljanje cestovnog prijevoza izdaje  
+Carinska uprava .............................................................. 200,00.«
+
+### Članak 15.
+
+U Tarifnom broju 38. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Za dozvolu kojom se stranom prijevozniku  
+odobrava obavljanje unutarnjeg prijevoza  
+u cestovnom prometu između pojedinih  
+mjesta u Republici Hrvatskoj .......................................... 5.000,00.
+
+(2) Za odobrenje kojim se stranom brodu  
+odobrava prijevoz putnika i stvari između  
+hrvatskih luka i pristaništa ............................................. 2.500,00.«
+
+### Članak 16.
+
+U Tarifnom broju 41. stavci 6. i 8. brišu se.
+
+Dosadašnji stavci 7., 9., 10. i 11. postaju stavci 6., 7., 8. i 9.
+
+### Članak 17.
+
+Tarifni broj 65. mijenja se i glasi:
+
+»(1) Za rješenje iz oblasti prosvjete i kulture .............................. 200,00
+
+(2) Za žalbu ili prigovor protiv rješenja iz  
+stavka 1. ovoga tarifnog broja............................................ 250,00
+
+(3) Za rješenje o odobrenju udžbenika ili  
+priručnika........................................................................ 2.500,00
+
+(4) Za rješenje o odobrenju rada privatne škole .................... 3.000,00
+
+(5) Za rješenje o odobrenju rada u programu  
+obrazovanja odraslih....................................................... 2.000,00
+
+(6) Za izdavanje i produljenje važnosti dozvole  
+instruktora vožnje................................................................ 100,00
+
+(7) Za uvjerenje iz područja prosvjete, kulture  
+i športa, prijepis uvjerenja ili rješenja te  
+duplikat isprave iz toga područja ........................................ 100,00
+
+(8) Za stručno mišljenje iz područja prosvjete,  
+kulture i športa................................................................... 50,00.«
+
+### Članak 18.
+
+U Tarifnom broju 68. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+### Članak 19.
+
+Podnaslov iznad Tar. br. 74. mijenja se i glasi:
+
+»14. Pristojbe iz oblasti vanjskih poslova«.
+
+### Članak 20.
+
+U Tarifnom broju 74. stavku 1. točka 3. briše se.
+
+Dosadašnje točke 4. 5. postaju točke 3. i 4.
+
+### Članak 21.
+
+Iza Tar. br. 74. dodaju se tri tarifna broja koji glase:
+
+»Tar. br. 74.a
+
+1. Za podnošenje zahtjeva za stjecanje nekretnina ....................... 50,00
+
+2. Za svaku dopunu zahtjeva iz točke 1. ovoga  
+tarifnog broja........................................................................... 20,00
+
+3. Za rješenje o stjecanju nekretnina ........................................ 100,00.
+
+Tar. br. 74.b
+
+Za zahtjeve za pribavljanje isprava i podataka od nadležnih inozemnih tijela
+
+1. iz europskih zemalja ............................................................... 20,00
+
+2. iz ostalih zemalja .................................................................... 40,00
+
+Napomena:
+
+Kad nadležno inozemno tijelo naplaćuje posebnu pristojbu za dostavu isprave ili podataka, iznosi iz točaka 1. i 2. povećavaju se za iznos te pristojbe.
+
+Tar. br. 74.c
+
+Za ovjeru službenog potpisa i pečata na ispravi  
+u Ministarstvu vanjskih poslova ................................................ 60,00.«
+
+### Članak 22.
+
+Tarifni broj 77. mijenja se i glasi:
+
+»Za izdavanje putne isprave, odnosno putnog  
+lista strancu u diplomatskoj misiji ili  
+konzularnom uredu ................................................................ 200,00.«
+
+### Članak 23.
+
+U Tarifnom broju 78. točka 4. mijenja se i glasi:
+
+»4. za poslovnu vizu .............................................................. 100,00.«
+
+U Napomeni uz ovaj tarifni broj točka 3. mijenja se i glasi:
+
+»3. Iznimno, šef diplomatske misije ili konzularnog ureda može, pod uvjetom reciprociteta, osloboditi plaćanja konzularnih pristojbi za vize osobe koje dolaze u Republiku Hrvatsku radi poslovne, kulturne, znanstvene ili drugog oblika suradnje sa zemljom čije državljanstvo te osobe imaju, ako oslobađanje od pristojbi predlože državna tijela, ustanove ili institucije Republike Hrvatske na poziv kojih te osobe dolaze.«
+
+### Članak 24.
+
+Uz Tarifni broj 83. dodaje se napomena koja glasi:
+
+»Napomena:
+
+Na molbu kojom se traži usluga iz ovoga tarifnog broja ne plaća se pristojba.«
+
+### Članak 25.
+
+Uz Tarifni broj 84. dodaje se napomena koja glasi:
+
+»Napomena:
+
+Na molbu kojom se traži usluga iz ovoga tarifnog broja ne plaća se pristojba.«
+
+### Članak 26.
+
+U Napomeni uz Tarifni broj 85., u točkama 1. i 2., riječi: »ili fotokopije brišu se.«
+
+Dodaje se točka 3. koja glasi:
+
+»3. Na molbu kojom se traži usluga iz ovoga tarifnog broja ne plaća se pristojba.«
+
+### Članak 27.
+
+U Napomeni uz Tarifni broj 88. dodaje se točka 2. koja glasi:
+
+»2. Na molbu kojom se traži usluga iz ovoga tarifnog broja ne plaća se pristojba.«
+
+### Članak 28.
+
+Tarifni broj 89. mijenja se i glasi:
+
+»Za zahtjev za prestanak hrvatskog državljanstva  
+(otpustom ili odricanjem)........................................................ 3.800,00
+
+Napomena:
+
+Ovom pristojbom obuhvaćene su sve upravne i konzularne radnje u postupku prestanka hrvatskog državljanstva.«
+
+### Članak 29.
+
+Tarifni broj 104. mijenja se i glasi:
+
+»Za izdavanje dopuštenja za obavljanje podvodnih aktivnosti u dijelovima unutarnjeg mora i  
+teritorijalnih voda Republike Hrvatske, koji su  
+zaštićeni kao kulturno dobro, kao i kod posebno  
+zaštićenih podmorskih lokaliteta .......................................... 2.000,00.«
+
+### Članak 30.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 412-01/03-01/02
+
+Zagreb, 1. listopada 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o upravnim pristojbama (NN 17/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/17/488*
+
+HRVATSKI SABOR
+
+488
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o up­rav­nim pristojbama, koji je donio Hrvatski sabor na sjednici 30. siječ­nja 2004. godine.
+
+Broj: 01-081-04-339/2  
+Zagreb, 4. ve­ljače 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o upravnim pristojbama (»Narodne novine«, br. 8/96., 77/96., 131/97., 68/98., 66/99., 145/99., 116/00. i 163/03.), u članku 14. stavak 2. mijenja se i glasi:
+
+»(2) Obračun konzularnih pristojbi obavlja se prema sred­njem tečaju kune iz tečajnice Hrvatske narodne banke na dan 1. siječnja poslovne godine.«
+
+U stavku 4. riječi: »(u daljnjem tekstu: konzularni ured)« brišu se.
+
+### Članak 2.
+
+U Tarifi upravnih pristojbi uz Zakon o upravnim pristojbama Tarifni broj 10. mijenja se i glasi:
+
+»Za izdavanje, odnosno produženje vize, odobrenja za privremeni boravak, odobrenja za stalni boravak, osobne iskaznice za stranca i radne dozvole
+
+| 1. | za putnu i tranzitnu vizu | 160,00 |
+|---|---|---|
+| 2. | za grupnu vizu na zajedničkoj putnoj ispravi |  |
+|  | za svaku osobu po | 40,00 |
+| 3. | za poslovnu dozvolu | 150,00 |
+| 4. | za odobrenje za privremeni boravak | 150,00 |
+| 5. | za odobrenje stalnog boravka | 450,00 |
+| 6. | za ovjereni prijepis odobrenja za stalni boravak | 100,00 |
+| 7. | za izdavanje osobne iskaznice za stranca | 50,00 |
+| 8. | za radnu dozvolu | 100,00 |
+| 9. | za graničnu propusnicu | 50,00. |
+
+Napomena:
+
+Pristojba se ne plaća za spise i radnje za priznavanje statusa izbjeglica.«
+
+### Članak 3.
+
+Tarifni broj 11. mijenja se i glasi:
+
+»Za izdavanje odobrenja na graničnom prijelazu:
+
+| 1. | za granično odobrenje | 200,00 |
+|---|---|---|
+| 2. | za odobrenje članu posade za kretanje u |  |
+|  | mjestu boravka | 100,00 |
+| 3. | za skupno granično odobrenje članovima |  |
+|  | posade za kretanje u mjestu boravka | 150,00 |
+| 4. | za odobrenje za prijenos oružja i streljiva |  |
+|  | preko teritorija Republike Hrvatske | 150,00 |
+| 5. | za odobrenje za držanje i nošenje lovačkog<br>športskog oružja za vrijeme boravka u<br>Republici Hrvatskoj | 300,00.« |
+
+### Članak 4.
+
+U Tarifnom broju 12., u Napomeni uz Tarifni broj, u trećoj rečenici, nakon riječi: »mogu naplaćivati i« dodaju se riječi: »diplomatske misije i«.
+
+### Članak 5.
+
+Tarifni broj 78. mijenja se i glasi:
+
+»Na zahtjeve za vize koje izdaju diplomatske misije i konzularni uredi Republike Hrvatske u inozemstvu strancima:
+
+| 1. | za putnu vizu, za jedan ulazak, ili za tranzitnu,<br>odnosno zrakoplovno-tranzitnu vizu, za jedan<br>tranzit | 160,00 |
+|---|---|---|
+| 2. | za putnu vizu, za dva ulaska ili za tranzitnu,<br>odnosno zrakoplovno-tranzitnu vizu, za dva<br>tranzita | 200,00 |
+| 3. | za putnu vizu, za neograničen broj ulazaka,<br>ili tranzitnu, odnosno zrakoplovno-tranzitnu<br>vizu, za neograničen broj tranzita | 320,00 |
+| 4. | za grupnu vizu na zajedničkoj putnoj ispravi<br>za svaku osobu po | 40,00 |
+
+Napomena:
+
+1. Za zahtjev za vizu za djecu do navršenih 14 godina života plaća se pristojba u 50% manjem iznosu od propisanog.
+
+2. Za zahtjev za vizu na putnu ispravu u kojoj su upisani i članovi obitelji nositelja putne isprave plaća se jedna pristojba.
+
+3. Iznimno, šef diplomatske misije ili konzularnog ureda može, pod uvjetom reciprociteta, osloboditi plaćanja konzularnih pristojbi za vize osoba koje dolaze u Republiku Hrvatsku radi poslovne, kulturne, znanstvene ili drugog oblika suradnje sa zemljom čije državljanstvo te osobe imaju, ako oslobođenje od pristojbi predlože državna tijela ili ustanove Republike Hrvatske na čiji poziv te osobe dolaze.«
+
+### Članak 6.
+
+Iza Tarifnog broja 78. dodaju se dva Tarifna broja koja glase:
+
+*»Tar. br. 78.a*
+
+Za zahtjeve za odobrenje za prvi privremeni boravak koje izdaju diplomatske misije i konzularni uredi Republike Hrvatske u inozemstvu strancima. 160,00.
+
+*Tar. br. 78.b*
+
+Za zahtjeve za izdavanje poslovne dozvole 160,00.«
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 412-01/04-01/01
+
+Zagreb, 30. siječnja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o upravnim pristojbama (NN 150/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2905*
+
+HRVATSKI SABOR
+
+2905
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o uprav­nim pristojbama, kojega je Hrvatski sabor donio na sjednici 9. prosinca 2005. godine.
+
+Broj: 01-081-05-3662/2
+
+Zagreb, 15. prosinca 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o upravnim pristojbama (»Narodne novine«, br. 8/96., 77/96., 131/97., 68/98., 66/99., 145/99., 30/00., 116/00., 163/03.,17/04., 110/04. i 141/04.) u članku 7. stavku 2. iza točke 26. dodaje se točka 27. koja glasi:
+
+»27. zahtjeve za izdavanje isprava koje se izdaju prema odred­bama Sporazuma između Republike Hrvatske i Republike Slovenije o pograničnom prometu i suradnji.«
+
+### Članak 2.
+
+U Tarifi upravnih pristojbi Tarifnom broju 11. točka 3. briše se.
+
+Dosadašnja točka 4. postaje točka 3.
+
+Dosadašnja točka 5. koja postaje točka 4. mijenja se i glasi:
+
+»4. za odobrenje za držanje i nošenje lovačkoga športskog oružja i streljiva za vrijeme boravka u Republici Hrvatskoj …..... 100,00.«
+
+### Članak 3.
+
+U Tarifnom broju 13. stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Za izdavanje odobrenja za provođenje programa sigurne
+
+vožnje centrima sigurne vožnje ............................................. 5.000,00
+
+(6) Za izdavanje odobrenja za sigurno upravljanje vozilima u
+
+autoškolama (škola sigurne vožnje) ..................................... 4.000,00.«
+
+Iza stavka 6. dodaju se novi stavci 7., 8. i 9. koji glase:
+
+»(7) Za izdavanje odobrenja za obavljanje poslova tehničkog
+
+pregleda vozila i odobrenja za osposobljavanje kandidata za
+
+vozače i upisa u registar autoškola ....................................... 3.000,00
+
+(8) Za izdavanje dopuštenja (licencije) ovlaštenog ispitivača
+
+…………………………………………………….……. 1.000,00
+
+(9) Za izdavanje dopuštenja (licencije) kontrolora tehničke
+
+ispravnosti vozila, dopuštenja (licencije) referenta za poslove
+
+registracije vozila, dozvole stručnog voditelja autoškole, doz-
+
+vole predavača u autoškoli i dozvole instruktora vožnje .......... 500,00.«
+
+Dosadašnji stavci 7., 8. i 9. postaju stavci 10., 11. i 12.
+
+### Članak 4.
+
+U Tarifnom broju 65. stavak 6. briše se.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 412-01/05-01/01
+
+Zagreb, 9. prosinca 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o upravnim pristojbama (NN 60/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/60/2037*
+
+HRVATSKI SABOR
+
+2037
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o upravnim pristojbama, koji je Hrvatski sabor donio na sjednici 9. svibnja 2008. godine.  
+Klasa. 011-01/08-01/37  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 16. svibnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UPRAVNIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o upravnim pristojbama (»Narodne novine«, br. 8/96., 77/96., 95/97., 131/97., 68/98., 66/99., 145/99., 30/00., 116/00., 163/03., 17/04., 110/04., 141/04., 150/05., 153/05., 129/06., 117/07. i 25/08.) u članku 6. stavku 1. točka 9. mijenja se i glasi:  
+»9. stranci koji imaju status žrtve trgovanja ljudima i maloljetnici koji su napušteni ili su žrtve organiziranog kriminala ili su iz drugih razloga ostali bez roditeljske zaštite, skrbništva ili bez pratnje.«
+
+### Članak 2.
+
+U članku 7. stavku 2. točki 15. riječi: »osim vize« brišu se.  
+Točka 18. mijenja se i glasi:  
+»18. spise i radnje u postupku izdavanja osobne iskaznice hrvatskim državljanima, osobne iskaznice za strance na stalnom boravku, osobne iskaznice za azilante te iskaznice stranaca pod supsidijarnom zaštitom,«.  
+Iza točke 27. dodaju se točke 28., 29., 30., 31., 32., 33., 34., 35. i 36. koje glase:  
+»28. u postupku izdavanja isprava koje se izdaju prema odredbama Sporazuma između Republike Hrvatske i Bosne i Hercegovine o pograničnom prometu i suradnji,  
+29. u postupku odobrenja azila, privremene i supsidijarne zaštite,  
+30. kod odjave oružja vlasnika registriranog oružja, koji to oružje poklanjaju Republici Hrvatskoj,  
+31. pravne lijekove stranaca protiv rješenja o smještaju i produženju smještaja u Prihvatnom centru za strance, te prigovore stranaca protiv odluke o određivanju strožeg policijskog nadzora u Prihvatnom centru za strance,  
+32. pravne lijekove tražitelja azila protiv rješenja o ograničenju kretanja,  
+33. zahtjeve za izdavanje vize članovima uže obitelji hrvatskog državljanina (bračni drug i djeca),  
+34. zahtjeve za izdavanje vize za djecu do navršenih šest godina,  
+35. zahtjeve za izdavanje vize za nositelje diplomatskih i službenih putovnica koji putuju službeno,  
+36. zahtjeve za izdavanje vize za članove obitelji državljana država članica Europskoga ekonomskog prostora.«  
+Iza stavka 2. dodaje se stavak 3. koji glasi:  
+»(3) Od plaćanja pristojbi na zahtjev za vizu mogu se osloboditi osobe koje u Republiku Hrvatsku dolaze:  
+– iz humanitarnih razloga ili  
+– radi kulturne, znanstvene ili drugog oblika suradnje sa zemljom čije državljanstvo te osobe imaju ako oslobađanje od pristojbi predlože državna tijela Republike Hrvatske.«
+
+### Članak 3.
+
+U Tarifi upravnih pristojbi u Tarifnom broju 7. iza točke 1. dodaje se nova točka 2. koja glasi:  
+»2. za izdavanje putovnica u žurnom postupku 200,00 kn.«  
+Dosadašnje točke 2. i 3. postaju točke 3. i 4.
+
+### Članak 4.
+
+Tarifni broj 10. mijenja se i glasi:
+
+»Tar. br. 10.
+
+Za izdavanje: plaća se kuna  
+1. poslovne dozvole 300,00  
+2. odobrenja za privremeni boravak 500,00  
+3. odobrenja za stalni boravak 900,00  
+4. ovjerenog prijepisa odobrenja za stalni boravak 150,00  
+5. osobne iskaznice za stranca 100,00  
+6. radne dozvole 300,00.«
+
+### Članak 5.
+
+Iza Tarifnog broja 10. dodaje se Tarifni broj 10.a koji glasi:
+
+*»Tar. br. 10.a*
+
+Na zahtjeve za:  
+1. putnu ili tranzitnu vizu 520,00 kn  
+2. produženje putne vize 520,00 kn.«
+
+### Članak 6.
+
+U Tarifnom broju 15. točka 7. mijenja se i glasi:  
+»(7) Za odobrenje za prijevoz oružja i  
+eksplozivnih tvari 750,00.«
+
+### Članak 7.
+
+U Tarifnom broju 16. iza točke 20. dodaju se točke 21. i 22. koje glase:  
+»21. za privremena skladišta eksplozivnih tvari 2.500,00  
+22. za prodavaonice pirotehničkih sredstava 2.000,00.«
+
+### Članak 8.
+
+Tarifni broj 30. mijenja se i glasi:
+
+»Tar. br. 30.
+
+Za rješenje kojim se: Plaća se kuna:  
+1. Utvrđuju minimalni uvjeti za ugostiteljske objekte  
+koji se ne kategoriziraju, i to:  
+a. vrste: restoran, gostionica, zdravljak, zalogajnica, pizzeria,  
+bistro, slastičarnica, objekt brze prehrane, pripremnica obroka  
+(catering) 200,00  
+b. vrste: noćni klub, noćni bar, disco klub 800,00  
+c. vrste: kavana, caffe-bar, pivnica, buffet, krčma, konoba i klet 300,00  
+d. vrste: objekt jednostavnih usluga u kiosku, objekt jednostavnih  
+brzih usluga, objekt jednostavnih usluga u nepokretnom vozilu  
+(ili priključnom vozilu), objekt jednostavnih usluga u šatoru,  
+objekt jednostavnih usluga na klupi, objekt jednostavnih usluga na  
+kolicima (ili sl. napravama) 200,00  
+e. vrste: prenoćište, odmaralište, hostel, planinarski dom, lovački  
+dom, učenički ili studentski dom, objekt za robinzonski smještaj 300,00  
+f. vrste: kampiralište i kamp-odredište 300,00  
+2. utvrđuju minimalni uvjeti i uvjeti za kategoriju za ugostiteljske objekte:  
+a. vrste: hotel, aparthotel, hotel baština, turističko naselje, turistički  
+apartmani, pansion  
+– do 100 smještajnih jedinica 1.000,00  
+– preko 100 smještajnih jedinica 1.500,00  
+b. vrste: kamp i kamp-naselje  
+– do 100 smještajnih jedinica (do 300 osoba) 1.000,00  
+– preko 100 smještajnih jedinica 1.500,00  
+c. vrste: soba za iznajmljivanje, apartman, studio apartman,  
+kuća za odmor 200,00  
+3. utvrđuju minimalni uvjeti i uvjeti za kategoriju za objekte:  
+a. u kojima se pružaju ugostiteljske usluge u domaćinstvu 100,00  
+b. u kojima se pružaju ugostiteljske usluge u seljačkom domaćinstvu 100,00  
+4. utvrđuju uvjeti za:  
+a. pružanje usluga putničke agencije 500,00  
+b. luke nautičkog turizma, i to:  
+– sidrišta i privezišta 300,00  
+– suhe marine 1.000,00  
+– marine 1.500,00  
+c. ostale turističke usluge 100,00  
+d. kategorizaciju plovnih objekata 300,00.«
+
+### Članak 9.
+
+Podnaslov 13. Carinske pristojbe i tarifni brojevi: 67., 68., 69., 70., 71. i 72. brišu se.
+
+### Članak 10.
+
+Tarifni broj 74.a briše se.
+
+### Članak 11.
+
+Tarifni broj 78. mijenja se i glasi:
+
+»Tar. br. 78.
+
+Na zahtjeve za vize koje izdaju diplomatske misije i konzularni uredi Republike Hrvatske u inozemstvu strancima:  
+plaća se kuna:  
+1. za zrakoplovno-tranzitnu vizu 260,00  
+2. za tranzitnu vizu 260,00  
+3. za putnu vizu 260,00  
+4. za putnu ili tranzitnu vizu na zajedničkoj  
+putnoj ispravi 260,00  
++8 kn po osobi  
+5. za žurno izdavanje vize, kada je zahtjev  
+bez opravdanog razloga podnesen tri ili  
+manje od tri dana prije namjeravanog putovanja 520,00 kn.  
+Napomena:  
+1. Na zahtjev za vizu na putnu ispravu u kojoj su upisani i članovi obitelji nositelja putne isprave plaća se jedna pristojba.«
+
+### Članak 12.
+
+Tarifni broj 78.a mijenja se i glasi:
+
+*»Tar. br. 78.a*
+
+Na zahtjeve za odobrenje za prvi privremeni boravak koje strancima izdaju diplomatske misije i konzularni uredi Republike Hrvatske u inozemstvu 520,00 kn.«
+
+### Članak 13.
+
+Tarifni broj 78.b briše se.
+
+### Članak 14.
+
+Iza Tarifnog broja 101. dodaje se podnaslov 14.a i Tarifni broj 101.a koji glase:
+
+*»14.a Pristojbe u postupcima stjecanja nekretnina*
+
+*Tar. br. 101.a*
+
+1. za podnošenje zahtjeva za stjecanje nekretnina 50,00  
+2. za svaku dopunu zahtjeva iz točke 1.  
+ovoga Tarifnog broja 20,00  
+3. za rješenje o stjecanju nekretnina 100,00.«
+
+### Članak 15.
+
+Ovaj Zakon stupa na snagu tridesetog dana od dana objave u »Narodnim novinama«, osim odredbe članka 2. stavka 3. točke 36. ovoga Zakona koja stupa na snagu na dan prijama Republike Hrvatske u Europsku uniju.  
+Klasa: 412-01/08-01/01  
+Zagreb, 9. svibnja 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

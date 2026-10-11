@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1997-01-09
+last_amended: 2001-12-28
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "2/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "2/97, 119/01"
+amendments:
+  - "NN 119/2001 (2003) Uredba o dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/2/27"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o spajanju javnih ustanova restauratorske djelatnosti
 
 > Izvor: Narodne novine, NN 2/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/2/27).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -188,3 +192,43 @@ Zagreb, 19. prosinca 1996.
 
 Potpredsjednik  
 dr. Ivica Kostović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti (NN 119/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/119/2003*
+
+VLADA REPUBLIKE HRVATSKE
+
+2003
+
+Na teme­lju članka 12. stavka 1. i članka 29. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvatske je na sjednici održanoj 27. prosinca 2001. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA UREDBE O SPAJANJU JAVNIH USTANOVA RESTAURATORSKE DJELATNOSTI**
+
+### Članak 1.
+
+U Uredbi o spaja­nju javnih ustanova restauratorske djelatnosti (»Narodne novine«, broj 2/97) u članku 4. iza podstavka 4. dodaju se novi podstavci 5. i 6. koji glase:
+
+– izrada idejnog rješe­nja, te idejnog, glavnog i izvedbenog projekta za zaštitne radove i obnovu građevine koja je nepokretno kulturno dobro
+
+– stručni i konzervatorski nadzor nad izvođe­njem zaštitnih radova i obnove građevina koje su nepokretno kulturno dobro.
+
+Dosadaš­nji podstavci 5., 6., 7., 8., 9., 10. i 11. postaju podstavci 7., 8., 9., 10., 11., 12. i 13.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 373-03/01-01/01  
+Urbroj: 5030108-01-1  
+Zagreb, 27. prosinca 2001.
+
+Potpredsjednik,  
+zamjenik predsjednika  
+dr. sc. Goran Granić, v. r.

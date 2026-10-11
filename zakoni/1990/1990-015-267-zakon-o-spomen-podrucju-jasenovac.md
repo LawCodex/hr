@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1990-04-17
-last_amended: 1990-06-30
+last_amended: 2001-03-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1990; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "15/90, 28/90"
+narodne_novine: "15/90, 28/90, 22/01"
 amendments:
   - "NN 28/1990 (580) Ispravak Zakona o Spomen-području Jasenovac"
+  - "NN 22/2001 (393) Zakon o izmjenama i dopunama Zakona o spomen-području Jasenovac"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1990/15/267"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 15/1990 (https://narodne-novine.nn.hr/eli/sluzbeni/1990/15/267).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 28/1990.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 28/1990, NN 22/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -230,3 +231,197 @@ Zagreb, 18. lipnja 1990.
 *Tajnik Sabora*
 
 *Velibor Kikerec, v r*
+
+## Zakon o izmjenama i dopunama Zakona o spomen-području Jasenovac (NN 22/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/393*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+393
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+o proglaŠe­nju Zakona o izmjenama i dopunama Zakona o Spomen-podruČju Jasenovac
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Spomen-području Jasenovac, koji je donio Zastupnički dom Hrvat­skoga sabora na sjednici 8. ožujka 2001.
+
+Klasa: 01-081-01-806/2  
+Zagreb, 14. ožujka 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SPOMEN-PODRUČJU JASENOVAC**
+
+### Članak 1.
+
+U Zakonu o Spomen-području Jasenovac (»Narodne novine«, br. 15/90. i 28/90.) članak 1. mije­nja se i glasi:
+
+»Radi očuva­nja trajne uspomene na žrtve fašističkog terora i borce narodnooslobodilačkog rata stradale u drugom svjetskom ratu u koncentracijskim logorima Jasenovac i Stara Gradiška, kao i radi očuva­nja tekovina antifašizma, ovim Zakonom proglašava se Spomen-područje Jasenovac.«
+
+### Članak 2.
+
+U članku 2. stavku 1. riječ: »Socijalističke« briše se.
+
+### Članak 3.
+
+U članku 2. stavak 2. mije­nja se i glasi:
+
+»Deta­ljne granice Spomen-područja Jasenovac utvrdit će se prostornim planom područja posebnih obi­lježja.«
+
+### Članak 4.
+
+Članak 3. mije­nja se i glasi:
+
+»Zaštita, unapređiva­nje i uređe­nje Spomen-područja Jasenovac utvrđuje se prostornim planom područja posebnih obi­lježja i Programom spomen-obi­lježava­nja.
+
+Program iz stavka 1. ovoga članka donosi Hrvatski sabor.
+
+Prijedlog programa spomen-obi­lježava­nja utvrđuje Savjet Spomen-područja Jasenovac.«
+
+### Članak 5.
+
+Članak 4. mije­nja se i glasi:
+
+»Za ostvariva­nje Programa spomen-obi­lježava­nja sredstva se osiguravaju u državnom proračunu, ovisno o potrebama i moguć­nostima, a mogu se osigurati i iz drugih izvora.«
+
+### Članak 6.
+
+Članak 5. mije­nja se i glasi:
+
+»U ci­lju osigurava­nja politike zaštite, uređenja, korište­nja i prezentira­nja Spomen-područja Jasenovac osniva se Savjet Spomen-područja Jasenovac (u da­lj­njem tekstu: Savjet).
+
+Savjet ima devet članova koji se imenuju na četiri godine.
+
+Po jednoga člana kao svoje­ga predstavnika u Savjet imenuje Hrvatski sabor, Ministarstvo kulture, Općina Jasenovac, preživjeli logoraši, Savez antifašističkih boraca Hrvatske, romska, srpska i židovska nacionalna ma­njina, a ravnate­lj Javne ustanove Spomen-područja Jasenovac po položaju je član Savjeta.
+
+Način rada i odlučiva­nja Savjeta uređuje se poslovnikom.
+
+Stručne i administrativne poslove za Savjet obav­lja Javna ustanova Spomen-područja Jasenovac.«
+
+### Članak 7.
+
+Članak 6. mije­nja se i glasi:
+
+»Savjet:
+
+– utvrđuje Prijedlog programa spomen-obi­lježava­nja,
+
+– predlaže programe tekuće i više­godiš­nje aktivnosti na zaš­titi, korište­nju, prezentira­nju i održava­nju Spomen-područja Jasenovac,
+
+– predlaže programe znanstveno-istraživačke aktivnosti na proučava­nju događaja vezanih za bivše koncentracijske logore Jasenovac i Stara Gradiška,
+
+– predlaže izdavačke programe u odnosu na povijest Spomen-područja Jasenovac,
+
+– daje miš­lje­nje za izdavačke, filmske i druge projekte vezane uz djelatnost Spomen-područja i na ­njihovo javno prikaziva­nje,
+
+– predlaže nadležnim tijelima predračun sredstava potrebnih za realizaciju godiš­njih programa aktivnosti Spomen-područja Jasenovac,
+
+– prati izvrše­nje utvrđenih tekućih i više­godiš­njih programa i planova aktivnosti i realizaciju predračuna osiguranih sredstava,
+
+– donosi poslovnik o svom radu,
+
+– obav­lja i druge poslove propisane zakonom.«
+
+### Članak 8.
+
+Članak 7. mije­nja se i glasi:
+
+»Spomen-područjem Jasenovac uprav­lja »Javna ustanova Spomen-područje Jasenovac« (u da­lj­njem tekstu Javna ustanova).
+
+Sjedište Javne ustanove je u Jasenovcu.
+
+Javna ustanova obav­lja svoju djelatnost sukladno Zakonu o ustanovama i Zakonu o muzejima, a osobito:
+
+– sakup­lja, čuva, stručno obrađuje, istražuje te prezentira muzejsku i drugu građu vezanu uz Spomen-područje Jasenovac,
+
+– organizira akcije i manifestacije kojima se, evocirajući strahote fašističkoga zločina, ostvaruju odgojni i obrazovni učinci;
+
+– organizira poslove vezane uz rekonstrukciju i adaptaciju postojećih autentičnih logorskih objekata i ­njihovo oprema­nje;
+
+– te obav­lja i druge poslove radi izvršava­nja programa i zadaća sukladno odredbama ovoga Zakona.«
+
+### Članak 9.
+
+Iza članka 7. dodaju se članci 7.a i 7.b koji glase:
+
+*»Članak 7.a*
+
+Javnom ustanovom uprav­lja upravno vijeće.
+
+Upravno vijeće ima pet članova.
+
+Predsjednika i tri člana Upravnoga vijeća imenuje ministar kulture, od kojih jednog na prijedlog ministra zaštite okoliša i prostornog uređe­nja, a jednoga člana biraju stručni djelatnici Javne ustanove na način propisan statutom.
+
+Mandat članova Upravnoga vijeća je četiri godine.
+
+### Članak 7.b
+
+Ravnate­lj je vodite­lj Javne ustanove.
+
+Ravnate­lja imenuje i razrješava ministar kulture.
+
+Ravnate­lj se imenuje na vrijeme od četiri godine, a natječaj za imenova­nje raspisuje i provodi upravno vijeće na način propisan zakonom i statutom.«
+
+### Članak 10.
+
+Članak 8. mije­nja se i glasi:
+
+»Statut Javne ustanove donosi Upravno vijeće uz suglasnost Ministarstva kulture.«
+
+### Članak 11.
+
+Članak 9. mije­nja se i glasi:
+
+»Nadzor nad zakonitošću rada i stručni nadzor nad radom Javne ustanove provodi Ministarstvo kulture.«
+
+### Članak 12.
+
+Članak 10. mije­nja se i glasi:
+
+»Sredstva za rad Javne ustanove i za ostvariva­nje zadataka iz članka 7. ovoga Zakona osiguravaju se u državnom proračunu, a na osnovi godiš­njih programa redovne djelatnosti, te iz vlastitih prihoda i iz drugih izvora.«
+
+### Članak 13.
+
+Članak 11. mije­nja se i glasi:
+
+»Čuva­nje, zaštita, održava­nje i prezentira­nje Spomen-područ­ja Jasenovac provodi se sukladno propisima o zaštiti i očuva­nju kulturnih dobara, muzejskoj djelatnosti, zaštiti arhivske građe i arhivima i o zaštiti prirode, ukoliko ovim Zakonom nije drukčije određeno.«
+
+### Članak 14.
+
+Članci 12., 13. i 14. brišu se.
+
+### Članak 15.
+
+Javna ustanova pravni je s­ljednik javne ustanove Spomen-područja Jasenovac upisane u Trgovački re­gistar Trgovačkog suda u Zagrebu, a koja je pravni s­ljednik radne organizacije Spomen-područja Jasenovac osnovane odlukom o osniva­nju iz 1968. godine.
+
+### Članak 16.
+
+Ministar kulture imenovat će predsjednika i tri člana Upravnog vijeća Javne ustanove u roku od mjesec dana od stupa­nja na snagu ovoga Zakona.
+
+Javna ustanova dužna je uskladiti svoj statut, ustroj i način rada s odredbama ovoga Zakona u roku od tri mjeseca od dana ­nje­gova stupa­nja na snagu.
+
+Osoba zatečena na dužnosti ravnate­lja danom stupa­nja na snagu ovoga Zakona nastav­lja obav­ljati dužnost kao privremeni ravnate­lj, a Upravno vijeće će raspisati natječaj za ravnate­lja Javne ustanove u roku od mjesec dana od dana donoše­nja Statuta.
+
+### Članak 17.
+
+Savjet će se konstituirati u roku od dva mjeseca od dana stupa­nja na snagu ovoga Zakona.
+
+### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 611-05/00-01/01  
+Zagreb, 8. ožujka 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-03-19
+last_amended: 2007-08-08
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "27/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "27/99, 82/07"
+amendments:
+  - "NN 82/2007 (2577) Uredba o izmjenama i dopunama Zakona o sanitarnoj inspekciji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/547"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o sanitarnoj inspekciji
 
 > Izvor: Narodne novine, NN 27/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/547).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 82/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -462,3 +466,73 @@ Potpredsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Vladimir Šeks, dipl. iur., v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Zakona o sanitarnoj inspekciji (NN 82/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/82/2577*
+
+VLADA REPUBLIKE HRVATSKE
+
+2577
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 108/2006), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2007. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SANITARNOJ INSPEKCIJI**
+
+### Članak 1.
+
+U Zakonu o sanitarnoj inspekciji (»Narodne novine«, broj 27/99), u članku 3. stavku 1. točki 7. riječ: »otrova« zamjenjuje se riječima: »opasnih kemikalija i biocidnih pripravaka«.
+
+### Članak 2.
+
+Članak 9. mijenja se i glasi:  
+»Poslove sanitarnog inspektora u uredima državne uprave u županijama i uredu Grada Zagreba obavljaju sanitarni inspektori, a u ministarstvu nadležnom za zdravstvo obavljaju sanitarni inspektori, viši sanitarni inspektori, granični sanitarni inspektori i viši granični sanitarni inspektori.  
+Poslove sanitarnog inspektora u Ministarstvu, uredima držav­ne uprave u županijama i uredu Grada Zagreba obavlja osoba koja je završila sveučilišni diplomski studij ili specijalistički diplomski stručni studij: medicine, sanitarnog inženjerstva, biokemijskog inženjerstva, prehrambenog inženjerstva, bioprocesnog inženjerstva, kemijskog inženjerstva i tehnologije, profesora biologije, inženjerske biologije, arhitekture, građevinarstva, inženjerske fizike ili strojarstva, s najmanje dvanaest mjeseci radnog staža u struci i položenim državnim stručnim ispitom.  
+Poslove graničnog sanitarnog inspektora u Ministarstvu obavlja osoba koja ispunjava uvjete iz stavka 2. ovog članka.  
+Poslove višeg sanitarnog inspektora i višeg graničnog sanitarnog inspektora u Ministarstvu obavlja osoba koja ispunjava uvjete iz stavka 2. ovog članka, te ima 5 godina radnog iskustva u struci.«.
+
+### Članak 3.
+
+U članku 16. točka 3. mijenja se i glasi:  
+»3. proizvodnjom i prometom na veliko opasnih kemikalija te korištenjem opasnih kemikalija razvrstanih kao vrlo otrovne kemikalije,«.  
+Točka 8. mijenja se i glasi:  
+»8. gradnjom građevina za proizvodnju, promet i korištenje opasnih kemikalija razvrstanih kao vrlo otrovne kemikalije,«.
+
+### Članak 4.
+
+U članku 25. dodaje se nova točka 16. koja glasi:  
+»16. neispunjenje propisanih uvjeta za zaštitu od buke ili prekoračenja razine buke veće od 10 dB(A),«.  
+Dosadašnja točka 16. postaje točka 17.
+
+### Članak 5.
+
+U članku 36. iza stavka 1. dodaje se novi stavak 2. koji glasi:  
+»Novčanom kaznom u iznosu od 1.000,00 kuna sanitarni inspektor kaznit će za prekršaj na licu mjesta odgovornu osobu u pravnoj osobi i fizičku osobu koja obavlja registriranu djelatnost za nepoštivanje higijenskih uvjeta proizvodnje i/ili stavljanja na tržište hrane kao i predmeta opće uporabe te za nepoštivanje drugih uvjeta i obveza utvrđenih propisima iz drugih područja nadzora sanitarnog inspektora.«.  
+Dosadašnji stavak 2. postaje stavak 3.  
+Dosadašnji stavak 3. koji postaje stavak 4. mijenja se i glasi:  
+»Ako osoba kažnjena za prekršaj iz stavaka 1. i 2. ovog članka ponovno počini istovjetni prekršaj, kaznit će se na mjestu prekršaja novčanom kaznom od 3.000,00 kuna.«.
+
+### Članak 6.
+
+Članak 37. mijenja se i glasi:  
+»U slučaju nepostupanja po izvršnom rješenju sanitarnog ins­pektora kojim je naređeno izvršenje neke radnje ili mjere, pravnoj ili fizičkoj osobi koja obavlja registriranu djelatnost, sanitarni inspektor može pored novčane kazne izreći i zabranu obavljanja djelatnosti u trajanju od tri mjeseca.«.
+
+### Članak 7.
+
+U cijelom tekstu Zakona riječi: »županijski ured ili ured Grada Zagreba« zamjenjuju se riječima: »ured državne uprave u županijama ili ured Grada Zagreba« u odgovarajućem padežu, riječi: »županijski ured« zamjenjuju se riječima: »ured državne uprave« u odgovarajućem padežu, riječi: »ministar zdravstva« zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu, riječi: »župan« zamjenjuju se riječima: »predstojnik ureda« u odgovarajućem padežu.
+
+### Članak 8.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 540-01/07-01/01  
+Urbroj: 5030104-07-1  
+Zagreb, 2. kolovoza 2007.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.

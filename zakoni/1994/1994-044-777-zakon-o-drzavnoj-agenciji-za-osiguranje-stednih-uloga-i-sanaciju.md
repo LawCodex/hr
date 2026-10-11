@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-06-03
-last_amended: 1999-02-25
+last_amended: 2004-05-12
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "44/94, 79/98, 19/99"
+narodne_novine: "44/94, 79/98, 19/99, 60/04"
 amendments:
   - "NN 79/1998 (1057) Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
   - "NN 19/1999 (401) Zakon o izmjenama Zakona o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
+  - "NN 60/2004 (1340) Zakon o izmjenama i dopunama Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/777"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 44/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/777).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 79/1998, NN 19/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 79/1998, NN 19/1999, NN 60/2004.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -327,3 +328,75 @@ Potpredsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Vladimir Šeks, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 60/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/60/1340*
+
+HRVATSKI SABOR
+
+1340
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ AGENCIJI ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Dr­žavnoj agenciji za osigura­nje štednih uloga i sanaciju banaka, koji je donio Hrvatski sabor na sjednici 30. trav­nja 2004. godine.
+
+Broj: 01-081-04-1628/2  
+Zagreb, 5. svib­nja 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ AGENCIJI ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA**
+
+### Članak 1.
+
+U Zakonu o Državnoj agenciji za osigura­nje štednih uloga i sanaciju banaka (»Narodne novine«, br. 44/94., 79/98., 19/99. i 35/00.) članak 11. mije­nja se i glasi:
+
+»()1) Tijelo koje uprav­lja Agencijom je Uprava koju čine:
+
+– potpredsjednik Vlade Republike Hrvatske zadužen za gospodarstvo, koji je po položaju predsjednik Uprave,
+
+– predsjednik Odbora za financije i državni proračun Hrvat­skoga sabora, koji je po položaju zamjenik predsjednika Uprave,
+
+– ministar financija, član Uprave,
+
+– ministar gospodarstva, rada i poduzetništva, član Uprave,
+
+– državni tajnik Središ­nje­ga državnog ureda za uprav­lja­nje državnom imovinom, član Uprave,
+
+– predsjednik Odbora za gospodarstvo, razvoj i obnovu Hrvatskoga sabora, član Uprave.
+
+(2) Uprava Agencije odlučuje većinom glasova svih svojih članova. U slučaju podije­ljenog broja glasova, odlučuje glas pred­sjednika Uprave Agencije.«
+
+### Članak 2.
+
+U članku 14. stavku 2. riječi: »šest godina« zamje­njuju se riječima »četiri godine«.
+
+Iza stavka 2., dodaje se stavak 3., koji glasi:
+
+»(3) Vlada Republike Hrvatske može razriješiti direktora Agen­cije i prije isteka vremena na koje je imenovan.«
+
+### Članak 3.
+
+Direktoru Agencije koji je imenovan na teme­lju Zakona o Državnoj agenciji za osigura­nje štednih uloga i sanaciju banaka (»Narodne novine«, br. 44/94., 79/98., 19/99. i 35/00.) prestaje mandat imenova­njem novog direktora Agencije.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 450-02/04-01/01  
+Zagreb, 30. trav­nja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

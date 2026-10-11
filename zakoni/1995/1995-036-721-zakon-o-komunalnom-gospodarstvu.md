@@ -6,17 +6,23 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-06-01
-last_amended: 2000-06-09
+last_amended: 2004-12-16
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
-text_version: original_with_amendments
-narodne_novine: "36/95, 109/95, 70/97, 128/99, 57/00"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
+text_version: official_consolidated
+consolidated_text: "NN 26/2003 (379) https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/379"
+narodne_novine: "36/95, 109/95, 70/97, 128/99, 57/00, 129/00, 59/01, 26/03, 82/04, 110/04, 178/04"
 amendments:
   - "NN 109/1995 (1795) Uredba o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
   - "NN 70/1997 (1213) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
   - "NN 128/1999 (2015) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
   - "NN 57/2000 (1261) Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
-source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/36/721"
+  - "NN 129/2000 (2391) Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
+  - "NN 59/2001 (967) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
+  - "NN 82/2004 (1618) Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu"
+  - "NN 110/2004 (2099) Uredba o dopuni Zakona o komunalnom gospodarstvu"
+  - "NN 178/2004 (3084) Zakon o dopunama Zakona o komunalnom gospodarstvu"
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/379"
 retrieved: 2026-10-12
 ---
 
@@ -24,53 +30,92 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 36/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/36/721).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 109/1995, NN 70/1997, NN 128/1999, NN 57/2000.
+> Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 26/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/379).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 82/2004, NN 110/2004, NN 178/2004.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
-ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+ODBOR ZA ZAKONODAVSTVO HRVATSKOGA SABORA
 
-Na temelju članka 89. Ustava Republike Hrvatske, donosim
+379
 
-ODLUKU
+Na temelju članka 33. Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.), Odbor za zakonodavstvo Hrvatskoga sabora na 98. sjednici 28. siječnja 2003. utvrdio je pročišćeni tekst Zakona o komunalnom gospodarstvu.
 
-O PROGLAŠENJU ZAKONA O KOMUNALNOM GOSPODARSTVU
+Pročišćeni tekst Zakona o komunalnom gospodarstvu obuh­vaća Zakon o komunalnom gospodarstvu (»Narodne novine«, br. 36/95.) te njegove izmjene i dopune objavljene u »Narodnim novinama«, br. 70/97., 128/99., 57/00., 129/00. i 59/01. u kojima je naznačeno vrijeme njihova stupanja na snagu.
 
-Proglašavam Zakon o komunalnom gospodarstvu, koji je donio Zastupnički dom Sabora Republike Hrvatske, na sjednici 15. svibnja 1995.
+Klasa: 362-02/01-01/01
 
-Broj: 01-95-1000/1
+Zagreb, 28. siječnja 2003.
 
-Zagreb, 23. svibnja 1995.
-
-Predsjednik Republike Hrvatske
-
-dr. Franjo Tuđman, v. r.
+Predsjednik  
+Odbora za zakonodavstvo  
+Hrvatskoga sabora  
+Josip Leko, dipl. iur., v. r.
 
 **ZAKON**
 
 **O KOMUNALNOM GOSPODARSTVU**
 
-## I. OPĆE ODREDBE
+##### (pročišćeni tekst)
 
-*Predmet Zakona o komunalnom gospodarstvu*
+### I. OPĆE ODREDBE
 
-##### Članak 1.
+## Predmet Zakona o komunalnom gospodarstvu
 
-(1) Ovim Zakonom određuju se načela, način obavljanja i financiranja komunalnog gospodarstva te ostala pitanja glede svrhovitog obavljanja komunalnih djelatnosti.
+###### Članak 1.
 
-(2) Pod komunalnim gospodarstvom u smislu ovoga Zakona razumijeva se obavljanje komunalnih djelatnosti, a naročito pružanje komunalnih usluga od interesa za fizičke i pravne osobe, te financiranje građenja i održavanje objekata i uređaja komunalne infrastrukture kao cjelovitog sustava na području općina, gradova i Grada Zagreba (u daljnjem tekstu: jedinice lokalne samouprave) kao i županija kada je to određeno ovim Zakonom.
+(1) Ovim se Zakonom određuju načela, način obavljanja i financiranja komunalnog gospodarstva te ostala pitanja glede svrhovitog obavljanja komunalnih djelatnosti.
 
-*Načela komunalnoga gospodarstva*
+(2) Pod komunalnim gospodarstvom u smislu ovoga Zakona razumijeva se obavljanje komunalnih djelatnosti, a naročito pru­žanje komunalnih usluga od interesa za fizičke i pravne osobe, te financiranje građenja i održavanje objekata i uređaja komunalne infrastrukture kao cjelovitog sustava na području općina, gradova i Grada Zagreba (u daljnjem tekstu: jedinice lokalne samouprave) kao i županija kada je to određeno ovim Zakonom.
 
-##### Članak 2.
+## Načela komunalnog gospodarstva
 
-( 1 ) Komunalne djelatnosti obavljaju se kao javna služba.
+###### Članak 2.
+
+(1) Komunalne djelatnosti obavljaju se kao javna služba.
 
 (2) Jedinice lokalne samouprave te pravne i fizičke osobe koje obavljaju komunalne djelatnosti obvezne su na temelju ovoga Zakona i posebnih propisa:
 
-##### Članak 3.
+– osigurati trajno i kvalitetno obavljanje komunalnih djelatnosti,
+
+– osigurati održavanje komunalnih objekata i uređaja u stanju funkcionalne sposobnosti,
+
+– osigurati obavljanje komunalnih djelatnosti na načelima održivog razvoja,
+
+– osigurati javnost rada.
+
+Komunalne djalatnosti
+
+###### Članak 3.
 
 (1) Komunalne djelatnosti u smislu ovoga Zakona su:
+
+1. opskrba pitkom vodom,
+
+2. odvodnja i pročišćavanje otpadnih voda,
+
+3. opskrba plinom,
+
+4. opskrba toplinskom energijom,
+
+5. prijevoz putnika u javnom prometu,
+
+6. održavanje čistoće,
+
+7. odlaganje komunalnog otpada,
+
+8. održavanje javnih površina,
+
+9. održavanje nerazvrstanih cesta,
+
+10. tržnice na malo,
+
+11. održavanje groblja i krematorija te obavljanje pogrebnih poslova,
+
+12. obavljanje dimnjačarskih poslova,
+
+13. javna rasvjeta.
 
 (2) Pod opskrbom pitkom vodom razumijevaju se poslovi zahvaćanja, pročišćavanja i isporuke vode za piće.
 
@@ -78,83 +123,105 @@ dr. Franjo Tuđman, v. r.
 
 (4) Pod opskrbom plinom razumijeva se opskrba potrošača plinom iz sustava mreže plinovoda.
 
-(5) Pod opskrbom toplinskorn energijom razumijeva se proizvodnja i isporuka pare i tople vode.
+(5) Pod opskrbom toplinskom energijom razumijeva se proizvodnja i isporuka pare i tople vode.
 
-(6) Pod prijevozom putnika u javnom prometu razurnijeva se prijevoz putnika na linijama unutar zona koje utvrđuju jedinice lokalne samouprave, za čija područja se prijevoz odvija, osim prijevoza željeznicom koji se uređuje posebnim propisima.
+(6) Pod prijevozom putnika u javnom prometu razumijeva se prijevoz putnika na linijama unutar zona koje utvrđuju jedinice lokalne samouprave, za čija područja se prijevoz odvija, osim prijevoza željeznicom koji se uređuje posebnim propisima.
 
 (7) Pod održavanjem čistoće razumijeva se čišćenje javnih površina te skupljanje i odvoz komunalnog otpada na uređena odlagališta utvrđena prema posebnim propisima.
 
 (8) Pod odlaganjem komunalnog otpada razumijeva se obrađivanje i trajno odlaganje komunalnog otpada na odlagališta komunalnog otpada te saniranje i zatvaranje odlagališta, na temelju posebnih propisa.
 
-(9) Pod održavanjem javnih površina naročito se razumijeva održavanje javnih zelenih površina, pješačkih staza, pješačkih zona, otvorenih odvodnih kanala, trgova, parkova, dječjih igrališta i javnih prometnih površina osim javnih cesta.
+(9) Pod održavanjem javnih površina naročito se razumijeva održavanje javnih zelenih površina, pješačkih staza, pješačkih zona, otvorenih odvodnih kanala, trgova, parkova, dječjih igra­lišta i javnih prometnih površina te dijelova javnih cesta koje prolaze kroz naselje, kad se ti dijelovi ne održavaju kao javne ceste prema posebnom zakonu.
 
-(10) Pod održavanjem nerazvrstanih cesta razumijeva se održavanje površina koje se koriste za promet po bilo kojoj osnovi i koje su pristupačne većem broju korisnika, a koje nisu razvrstane ceste u smislu posebnih propisa.
+(10) Pod održavanjem nerazvrstanih cesta razumijeva se održavanje površina koje se koriste za promet po bilo kojoj osnovi i koje su pristupačne većem broju korisnika, a koje nisu razvrstane ceste u smislu posebnih propisa, te gospodarenje cestovnim zemljištem uz nerazvrstane ceste.
 
-(11) Pod tržnice na malo razumijeva se upravljanje i održavanje prostora i zgrada izgrađenih na zemljištu u vlasništvu jedinice lokalne samouprave u kojima se u skladu sa tržnim redom pružaju usluge obavljanja prometa živežnim namirnicama i drugim proizvodima.
+(11) Pod tržnice na malo razumijeva se upravljanje i odr­žavanje prostora i zgrada izgrađenih na zemljištu u vlasništvu jedinice lokalne samouprave u kojima se u skladu sa tržnim redom pružaju usluge obavljanja prometa živežnim namirnicama i drugim proizvodima.
 
 (12) Pod održavanjem groblja i krematorija razumijeva se održavanje prostora i zgrada za obavljanje ispraćaja i sahrane pokojnika.
 
-Pod obavljanjem pogrebnih poslova razumijeva se preuzimanje, opremanje i prijevoz umrle osobe do mjesta ukopa ili kremiranja.
+Pod obavljenjem pogrebnih poslova razumijeva se preuzimanje, opremanje i prijevoz umrle osobe do mjesta ukopa ili kremiranja.
 
 (13) Pod obavljanjem dimnjačarskih poslova razumijeva se obveza čišćenja i kontrole dimovodnih objekata i uređaja za loženje.
 
-(14) Osim djelatnosti navedenih u stavku 1. ovoga članka; predstavničko tijelo jedinice lokalne samouprave može odlukom odrediti djelatnosti od lokalnog značenja koje se pod uvjetima iz članka 1. stavka 2. ovoga Zakona smatraju komunalnim djelatnostima.
+(14) Pod pojmom »javna rasvjeta« razumijeva se uprav­ljanje, održavanje objekata i uređaja javne rasvjete, uključivo pod­miri­va­nje troškova električne energije, za rasvjetljavanje javnih povr­šina, javnih cesta koje prolaze kroz naselje i nerazvrstanih cesta.
 
-## II. OBAVLJANJE KOMUNALNIH DJELATNOSTI
+(15) Osim djelatnosti navedenih u stavku 1. ovoga članka predstavničko tijelo jedinice lokalne samouprave može odlukom odrediti djelatnosti od lokalnog značenja koje se pod uvjetima iz članka 1. stavka 2. ovoga Zakona smatraju komunalnim djelatnostima.
 
-#### l. OPĆENITO
+### II. OBAVLJANJE KOMUNALNIH DJELATNOSTI
+
+#### 1. OPĆENITO
 
 Način obavljanja komunalnih djelatnosti
 
-##### Članak 4.
+###### Članak 4.
 
-(1) Komunalne djelatnosti mogu obavljati:
+(1) Komunalne djelatnosti mogu obavljati u skladu s odredbama ovoga Zakona:
 
-(2) Obavljanje komunalnih djelatnosti iz članka 3. ovoga Zakona mogu zajednički organizirati više jedinica lokalne samouprave na jedan od načina propisanih u stavku 1. točke 1. i 3. ovoga članka.
+1. trgovačko društvo koje osniva jedinica lokalne samouprave,
+
+2. javna ustanova koju osniva jedinica lokalne samouprave,
+
+3. služba – vlastiti pogon (u daljnjem tekstu: vlastiti pogon), koju osniva jedinica lokalne samouprave,
+
+4. pravna i fizička osoba na temelju ugovora o koncesiji,
+
+5. pravna i fizička osoba na temelju ugovora o povjeravanju komunalnih poslova.
+
+(2) Obavljanje komunalnih djelatnosti iz članka 3. ovoga Zakona mogu zajednički organizirati više jedinica lokalne samouprave na jedan od načina propisanih u stavku 1. ovoga članka.
 
 (3) Jedinica lokalne samouprave koja nije u mogućnosti samostalno osigurati obavljanje komunalnih djelatnosti, odlukom svoga predstavničkog tijela obavljanje ovih poslova može povjeriti drugoj jedinici lokalne samouprave na području iste ili druge županije na temelju pisanog ugovora.
 
 (4) Ako se sustav komunalne infrastrukture proteže na području više jedinica lokalne samouprave unutar jedne ili više županija, te čini jedinstvenu i nedjeljivu funkcionalnu cjelinu, jedinice lokalne samouprave obvezne su organizirati zajedničko obavljanje komunalnih djelatnosti putem trgovačkih društava iz stavka 1. točke 1. ovoga članka u svom suvlasništvu.
 
-(5) Ukoliko jedinica lokalne samouprave nije organizirala trajno i kvalitetno obavljanje pojedinih komunalnih djelatnosti, te održavanje pojedinih objekata i uredaja komunalne infrastrukture u stanju funkcionalne sposobnosti prema odredbama stavaka 2., 3. i 4. ovoga članka, županija na čijem se području nalazi jedinica lokalne samouprave organizirat će obavljanje pojedine ili sviju komunalnih djelatnosti, odnosno održavanje objekata i uredaja komunalne infrastrukture u stanju funkcionalne sposobnosti, na teret jedinice lokalne samouprave.
+(5) Ukoliko jedinica lokalne samouprave nije organizirala trajno i kvalitetno obavljanje pojedinih komunalnih djelatnosti, te održavanje pojedinih objekata i uređaja komunalne infrastrukture u stanju funkcionalne sposobnosti prema odredbama stavka 2., 3. i 4. ovoga članka, županija na čijem se području nalazi jedinica lokalne samouprave organizirat će obavljanje pojedine ili sviju komunalnih djelatnosti, odnosno održavanje objekata i uređaja komunalne infrastrukture u stanju funkcionalne sposobnosti, na teret jedinice lokalne samouprave.
 
-(6) Sporove koji mogu nastati u provedbi stavka 4. i 5. ovoga članka rješava arbitraža koja se sastoji od predstavnika ministarstva nadležnog za poslove komunalnog gospodarstva, županije i jedinice lokalne samouprave.
+(6) Sporove koji mogu nastati u provedbi stavka 4. i 5. ovoga članka između dvije i više jedinica lokalne samouprave na području jedne županije rješava izbrano povjerenstvo županije. Sporove između dviju ili više županija rješava izbrano povjerenstvo ministarstva nadležnog za poslove komunalnog gospodarstva.
 
-*Javne ovlasti*
+(7) Izbrano povjerenstvo iz stavka 6. ovoga članka sastoji se od dva člana i predsjednika koje imanuje župan županije na čijem se području nalazi jedinica lokalne samouprave, odnosno ministar ministarstva nadležan za poslove komunalnog gospodarstva.
 
-##### Članak 5.
+(8) Izbrano povjerenstvo iz stavka 6. ovoga članka o predmetu spora donosi odluku.
 
-(1) Odlukom predstavničkog tijela jedinice lokalne samouprave, za komunalne djelatnosti iz članka 3. stavka 1. točke 1.; 2., 3., 4. i 7. te točke 11. u dijelu koji se odnosi na održavanje groblja i krematorija, može se pravnim osobama iz članka 4. ovoga Zakona povjeriti da u sklopu djelatnosti radi koje su osnovane općim aktima uređuju određene odnose, rješavaju u pojedinačnim upravnim stvarima o pravima, obvezama i odgovornosti fizičkih i pravnih osoba te obavljanju druge javne ovlasti.
+(9) Odluke iz stavka 8. ovoga članka su izvršne.
+
+###### Članak 5.
+
+Komunalnu djelatnost opskrbe pitkom vodom, odvodnje i pročišćavanja otpadnih voda i opskrbe plinom može obavljati i trgovačko društvo u pretežitom vlasništvu države, odnosno županije, kada se ta djelatnost obavlja za područje ili dijelove područja više jedinica lokalne samouprave putem magistralnih sustava u vlasništvu toga društva, a uvjeti i način obavljanje tih poslova utvrđuju se ugovorom s jedinicom lokalne samouprave.
+
+Javne ovlasti
+
+###### Članak 6.
+
+(1) Odlukom predstavničkog tijela jedinice lokalne samouprave, za komunalne djelatnosti iz članka 3. stavka 1. točke 1., 2., 3., 4., 7., 8. i 9., te točke 11. u dijelu koji se odnosi na održavanje groblja i krematorija, može se pravnim osobama iz članka 4. ovoga Zakona povjeriti da u sklopu djelatnosti radi koje su osnovane općim aktima uređuju određene odnose, rješavaju u pojedinačnim upravnim stvarima o pravima, obvezama i odgovornosti fizičkih i pravnih osoba te obavljanju druge javne ovlasti.
 
 (2) Protiv upravnih akata iz stavka 1. ovoga članka može se izjaviti žalba upravnom tijelu županije, odnosno Grada Zagreba nadležnom za poslove komunalnog gospodarstva.
 
-### 2. TRGOVAČKA DRUŠTVA
+#### 2. TRGOVAČKA DRUŠTVA
 
-*Trgovačka društva*
+Trgovačka društva
 
-##### Članak 6.
+###### Članak 7.
 
-Jedinice lokalne samouprave u trgovačkom društvu iz članka 4. stavka 1. ovoga Zakona drži većinski dio dionica, odnosno udjela.
+Jedinica lokalne samouprave u trgovačkom društvu iz članka 4. stavka 1. točke 1., odnosno jedinice lokalne samouprave u trgovačkim društvima iz članka 4. stavka 4. ovoga Zakona drže većinski dio dionica, odnosno udjela.
 
-### 3. VLASTITI POGONI
+#### 3. VLASTITI POGONI
 
-*Temeljne odredbe*
+Temeljne odredbe
 
-##### Članak 7.
+###### Članak 8.
 
 (1) Za obavljanje poslova iz članka 3. ovoga Zakona, jedinice lokalne samouprave mogu osnivati vlastite pogone.
 
-(2) Vlastiti pogon nema svojstvo osobe.
+(2) Vlastiti pogon nema svojstvo pravne osobe.
 
 (3) Vlastiti pogoni mogu obavljati komunalne djelatnosti i za druge jedinice lokalne samouprave na području iste ili druge županije na temelju pisanog ugovora.
 
-(4) U slučaju iz stavka 3. ovoga članka ugovora o povjeravanju obavljanja komunalnih djelatnosti sklapaju poglavarstva jedinica lokalne samouprave.
+(4) U slučaju iz stavka 3. ovoga članka ugovor o povjeravanju obavljanja komunalnih djelatnosti sklapaju poglavarstva jedinica lokalne samouprave.
 
-(5) Vlastiti pogon je samostalan u obavljanju komunalnih djelatnosti sukladno ovom Zakonu, na zakonu utemeljenim propisima i oblici o osnivanju.
+(5) Vlastiti pogon je samostalan u obavljanju komunalnih djelatnosti sukladno ovom Zakonu, na zakonu utemeljenim propisima i odluci o osnivanju.
 
-*Postupak osnivanja vlastitog pogona*
+Postupak osnivanja vlastitog pogona
 
-##### Članak 8.
+###### Članak 9.
 
 (1) Jedinica lokalne samouprave odlukom predstavničkog tijela osniva vlastiti pogon na način i u postupku propisanim ovim Zakonom i na zakonu utemeljenim propisima.
 
@@ -164,9 +231,9 @@ Jedinice lokalne samouprave u trgovačkom društvu iz članka 4. stavka 1. ovoga
 
 2. području na kojem će se obavljati komunalne djelatnosti,
 
-3. unutarnjem ustrojstvu, organiziranju poslovanja i poslovodstvu vlastitog pogona,
+3. unutarnjem ustrojstvu, organiziranju poslovanja i poslo­vod­stvu vlastitog pogona,
 
-4. sredstvima koja su potrebita za početak rada vlastitog pogona, te načinu njihova pribavljanja ili osiguranja,
+4. sredstvima koja su potrebna za početak rada vlastitog pogona, te načinu njihova pribavljanja ili osiguranja,
 
 5. aktima poslovanja vlastitog pogona,
 
@@ -180,11 +247,11 @@ Jedinice lokalne samouprave u trgovačkom društvu iz članka 4. stavka 1. ovoga
 
 10. ukidanju vlastitog pogona.
 
-(3) Unutarnje ustrojstvo vlastitog pogona uređuje se odlukom o osnivanju vlastitog pogona, te detaljnije razrađuje pravilnikom o poslovanju vlastitog pogona.
+(3) Unutarnje ustrojstvo vlastitog pogona uređuje se odlu­kom o osnivanju vlastitog pogona, te detaljnije razrađuje pravilnikom o poslovanju vlastitog pogona.
 
-*Upravljanje vlastitim pogonom*
+Upravljanje vlastitim pogonom
 
-##### Članak 9.
+###### Članak 10.
 
 (1) Vlastitim pogonima upravlja upravitelj pogona.
 
@@ -192,428 +259,427 @@ Jedinice lokalne samouprave u trgovačkom društvu iz članka 4. stavka 1. ovoga
 
 (3) Upravitelj organizira i vodi rad vlastitog pogona, odgovara poglavarstvu jedinice lokalne samouprave za materijalno i financijsko poslovanje vlastitog pogona i za zakonitost rada vlastitog pogona.
 
-(4) Upravitelj na temelju ovlasti poglavarstva jedinice lokalne samouprave sklapa ugovore s drugim fzičkim ili pravnim osobama.
+(4) Upravitelj na temelju ovlasti poglavarstva jedinice lokalne samouprave sklapa ugovore s drugim fizičkim ili pravnim osobama.
 
-### 4. KONCESIJE
+#### 4. KONCESIJE
 
-*Posebne odredbe o koncesijama*
+Posebne odredbe o koncesijama
 
-##### Članak 10.
+###### Članak 11.
 
-( 1 ) Koncesijom se stječe pravo obavljanja komunalnih djelatnosti iz članka 3. stavka 1. točke 2. u dijelu koji se odnosi na crpljenje, odvoz i zbrinjavanje fekalija iz septičkih, sabirnih i crnih jama, točke 3., 4., 5., 6., 7., 8., 9.,10., 11. u dijelu koji se odnosi na obavljanje pogrebnih poslova i točke 12. ovoga Zakona.
+(1) Koncesijom se može steći pravo obavljanja komunalnih djelatnosti te izgradnja i korištenje objekata i uređaja komunalne infrastrukture u cilju obavljanja ovih komunalnih djelatnosti:
 
-(2) Koncesiju dodjeljuje predstavničko tijelo jedinice lokalne samouprave pravnoj ili fizičkoj osobi registriranoj za obavljanje te djelatnosti.
+– opskrba pitkom vodom,
 
-(3) Koncesija u smislu ovoga Zakona može se dati do 30 godina.
+– odvodnja i pročišćavanje otpadnih voda,
 
-(4) Naknada za koncesiju uplaćuje se u korist proračuna jedinice lokalne samouprave - davatelja koncesije, a koristi se za građenje objekata i uređaja komunalne infrastrukture.
+– crpenje, odvoz i zbrinjavanje fekalija iz septičkih, sabirnih i crnih jama,
 
-*Odluka o koncesiji*
+– opskrba plinom,
 
-##### Članak 11.
+– opskrba toplinskom energijom,
 
-(1) Odluka o koncesiji donosi se na temelju provedenog javnog prikupljanja ponuda ili javnog natječaja.
+– prijevoz putnika u javnom prometu,
 
-(2) Odluku o davanju koncesije donosi predstavničko tijelo jedinice lokalne samouprave, naročito na temelju sljedećih elemenata:
+– skupljanje i odvoz komunalnog otpada,
 
-*Ugovor o koncesiji*
+– odlaganje komunalnog otpada,
 
-##### Članak 12.
+– tržnice na malo,
 
-( 1 ) Ugovor o koncesiji s podnositeljem ponude sklapa poglavarstvo jedinice lokalne samouprave na temelju odluke o koncesiji.
+– obavljanje pogrebnih poslova i
+
+– obavljanje dimnjačarskih poslova.
+
+(2) Predstavničko tijelo jedinice lokalne samouprave odlu­kom određuje komunalne djelatnosti iz stavka 1. ovoga članka kao i iz članka 3. stavka 15. ovoga Zakona te utvrđuje uvjete i mjerila za provedbu prikupljanja ponuda ili javnog natječaja za davanje koncesije.
+
+(3) Odluku o objavi prikupljanja ponuda ili javnog natječaja donosi poglavarstvo jedinice lokalne samouprave.
+
+(4) Koncesiju dodjeljuje predstavničko tijelo jedinice lokalne samouprave pravnoj ili fizičkoj osobi registriranoj za obavljanje te djelatnosti.
+
+(5) Koncesija u smislu ovoga Zakona može se dati do 30 godina.
+
+(6) Naknada za koncesiju uplaćuje se u korist proračuna jedinice lokalne samouprave – davatelja koncesije, a koristi se za građenje objekata i uređaja komunalne infrastrukture.
+
+Odluka o koncesiji
+
+###### Članak 12.
+
+(1) Odluku o davanju koncesije donosi predstavničko tijelo jedinice lokalne samouprave, naročito na temelju sljedećih elemenata:
+
+– poslovnog ugleda podnositelja ponude,
+
+– sposobnosti za ostvarivanje koncesije,
+
+– povoljnosti ponude (tehnička i financijska) i
+
+– povoljnosti ponude za provedbu mjera očuvanja i zaštite okoliša.
+
+(2) Odluka o davanju koncesije obvezno sadrži:
+
+1. djelatnost za koju se koncesija daje,
+
+2. vrijeme na koje se koncesija daje,
+
+3. visinu i način plaćanja naknade za koncesiju,
+
+4. cijenu i način naplate za pruženu uslugu i
+
+5. obvezu koncesionara.
+
+(3) Protiv odluke o davanju koncesije žalba nije dopuštena, već se može pokrenuti upravni spor.
+
+Ugovor o koncesiji
+
+###### Članak 13.
+
+(1) Ugovor o koncesiji s odabranim podnositeljem ponude sklapa poglavarstvo jedinice lokalne samouprave na temelju od­luke o koncesiji.
 
 (2) Ugovor o koncesiji iz stavka 1. ovoga članka obvezno sadrži:
 
-*Prestanak koncesije*
+1. djelatnosti za koje se koncesija dodjeljuje,
 
-##### Članak 13.
+2. vrijeme na koje se koncesija dodjeljuje,
+
+3. visinu i način plaćanja naknade za koncesiju,
+
+4. cijenu i način naplate za pruženu uslugu,
+
+5. prava i obveze davatelja koncesije,
+
+6. prava i obveze korisnika koncesije,
+
+7. jamstva korisnika koncesije,
+
+8. uvjete otkaza ugovora,
+
+9. ugovorne kazne.
+
+Prestanak koncesije
+
+###### Članak 14.
 
 Koncesija prestaje:
 
-## III. PRAĆENJE STANJA I DETALJNIJE UREĐENJE ODNOSA U KOMUNALNOM GOSPODARSTVU
+1. istekom vremena na koje je koncesija dodijeljena,
 
-*Komunalni red*
+2. prestankom pravne ili smrću fizičke osobe korisnika koncesije,
 
-##### Članak 14.
+3. otkazom ugovora o koncesiji,
+
+4. sprazumom stranaka.
+
+#### 5. UGOVOR O POVJERAVANJU KOMUNALNIH POSLOVA
+
+###### Članak 15.
+
+(1) Jedinica lokalne samouprave može obavljanje komunalnih djelatnosti koje se financiraju isključivo iz njezina proračuna povjeriti fizičkoj ili pravnoj osobi na temelju pisanog ugovora.
+
+(2) Predstavničko tijelo jedinice lokalne samouprave odre­đu­je komunalne djelatnosti iz stavka 1. ovoga članka te utvrđuje uvjete i mjerila za provedbu prikupljanja ponuda ili javnog natje­čaja za povjeravanje određenih komunalnih poslova na temelju ugovora.
+
+(3) Odluku o objavi prikupljanja ponuda ili javnog natječaja donosi poglavarstvo jedinice lokalne samouprave.
+
+(4) Nakon provedenog prikupljanja ponuda ili javnog natje­čaja, predstavničko tijelo jedinice lokalne samouprave donosi odluku o izboru osobe kojoj će se povjeriti obavljanje komunalnih poslova na temelju ugovora.
+
+(5) Na temelju odluke iz stavka 4. ovoga članka poglavarstvo sklapa ugovor o povjeravanju određenih komunalnih poslova koji obvezatno sadrži:
+
+– djelatnosti za koju se sklapa ugovor,
+
+– vrijeme na koje se sklapa ugovor,
+
+– vrstu i opseg poslova,
+
+– način određivanja cijene za obavljanje poslova, te način i rok plaćanja,
+
+– jamstvo izvršitelja o ispunjenju ugovora.
+
+(6) Ugovor iz stavka 5. ovoga članka može se sklopiti naj­dulje na vrijeme od četiri godine.
+
+(7) Protiv odluke iz stavka 4. ovoga članka žalba nije do­puštena, već se može pokrenuti upravni spor.
+
+### III. PRAĆENJE STANJA I DETALJNIJE UREĐENJE ODNOSA U KOMUNALNOM GOSPODARSTVU
+
+Komunalni red
+
+###### Članak 16.
 
 (1) U cilju pobližeg uređenja odnosa u komunalnom gospodarstvu, predstavničko tijelo jedinice lokalne samouprave obvezno je donijeti odluku o komunalnom redu i mjere za njegovo provođenje.
 
 (2) Odlukom o komunalnom redu iz stavka 1. ovoga članka propisuju se naročito odredbe o:
 
-*Komunalno redarstvo*
+1. uređenju naselja,
 
-##### Članak 15.
+2. održavanju čistoće i čuvanju javnih površina,
 
-(1) Nadzor nad provedbom odredbi komunalnog reda i propisa donijetih na temelju ovoga Zakona provodi komunalno redarstvo.
+3. korištenju javnih površina,
+
+4. skupljanju, odvozu i postupanju sa skupljenim komunalnim otpadom,
+
+5. uklanjanju snijega i leda,
+
+6. uklanjanju protupravno postavljenih predmeta,
+
+7. mjere za provođenje komunalnog reda i
+
+8. kaznene odredbe.
+
+Komunalno redarstvo
+
+###### Članak 17.
+
+(1) Nadzor nad provedbom odredbi komunalnog reda provodi komunalno redarstvo.
 
 (2) Komunalno redarstvo ustrojava se u upravnim odjelima za komunalno gospodarstvo u jedinicama lokalne samouprave.
 
 (3) Poslove komunalnog redarstva obavljaju komunalni redari.
 
-(4) Komunalni redari moraju imati najmanje IV. stupanj stručne spreme.
+(4) Komunalni redari moraju imati najmanje IV. stupanj stručne speme.
 
 (5) Jedinice lokalne samouprave mogu na temelju ugovora ustrojiti zajedničko komunalno redarstvo.
 
-*Ovlasti komunalnog redara*
+Ovlasti komunalnog redara
 
-##### Članak 16.
+###### Članak 18.
 
-(1) Komunalni redar u provođenju komunalnog reda iz članka 14. ovoga Zakona ovlašten je:
+(1) Komunalni redar u provođenju komunalnog reda iz članka 16. ovoga Zakona ovlašten je:
 
-(2) Protiv rješenja komunalnog redara iz stavka 1. točke 1. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješenja komunalnog redara Grada Zagreba ministarstvu nadležnom za poslove komunalnog gospodarstva u roku od 8 dana od dana primitka rješenja.
+1. rješenjem narediti fizičkim i pravnim osobama radnje u svrhu održavanja komunalnog reda,
+
+2. izricati mandatne kazne,
+
+3. predložiti pokretanje prekršajnog postupka.
+
+(2) Protiv rješenja komunalnog redara iz stavka 1. točke 1. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rje­šenja komunalnog redara Grada Zagreba ministarstvu nadležnom za poslove komunalnog gospodarstva u roku od 8 dana od dana primitka rješenja.
 
 (3) Žalba protiv rješenja iz stavka 1. točke 1. ovoga članka ne odgađa izvršenje rješenja.
 
-## IV. PRIHODI ZA OBAVLJANJE KOMUNALNIH DJELATNOSTI
+### IV. PRIHODI ZA OBAVLJANJE KOMUNALNIH DJELATNOSTI
 
-*Izvori prihoda*
+Izvori prihoda
 
-##### Članak 17.
+###### Članak 19.
 
-Sredstva za obavljanje komunalnih djelatnosti osiguravajuse:
+Sredstva za obavljanje komunalnih djelatnosti osiguravaju se:
 
-*Komunalne usluge*
+1. iz cijene komunalne usluge,
 
-##### Članak 18.
+2. iz komunalne naknade,
+
+3. iz proračuna jedinice lokalne samouprave,
+
+4. iz drugih izvora po posebnim propisima.
+
+Komunalne usluge
+
+###### Članak 20.
 
 (1) Iz cijene komunalne usluge osiguravaju se sredstva za obavljanje sljedećih komunalnih djelatnosti:
 
-(2) Visinu cijene i način plaćanja komunalne usluge određuje isporučitelj usluge.
+1. opskrba pitkom vodom,
 
-(3) Cijena komunalne usluge za pruženu komunalnu uslugu plaća se isporučitelju usluge.
+2. odvodnja i pročišćavanje otpadnih voda, osim odvodnje atmosferskih voda,
 
-(4) Obveznik plaćanja cijene komunalne usluge za pruženu komunalnu uslugu je vlasnik nekretnine ili korisnik kada je to vlasnik ugovorom prenio na korisnika.
+3. opskrba plinom,
 
-(5) Ukoliko nastupe razlozi za propisivanje mjera izravnog nadzora cijena komunalnih usluga iz stavka 1. ovoga članka, sukladno posebnom zakonu, mjeru izravnog nadzora cijena propisuje nadležno tijelo jedinice lokalne samouprave na čijem području se nalazi sjedište isporučitelja usluge.
+4. opskrba toplinskom energijom,
+
+5. prijevoz putnika u javnom prometu,
+
+6. održavanje čistoće u dijelu koji se odnosi na skupljanje i odvoz komunalnog otpada,
+
+7. odlaganje komunalnog otpada,
+
+8. tržnice na malo,
+
+9. obavljanje pogrebnih poslova i
+
+10. obavljanje dimnjačarskih poslova.
+
+(2) Visinu cijene, način obračuna i način plaćanja komunalnih usluga iz stavka 1. ovoga članka određuje isporučitelj usluge.
+
+(3) Cijena komunalne usluge može sadržavati i iznos za financiranje gradnje objekata i uređaja komunalne infrastrukture na području ili za potrebe jedinice lokalne samouprave na kojemu se isporučuje komunalna usluga, u skladu s Programom gradnje objekata i uređaja komunalne infrastrukture iz članka 30. stavka 2. i 3. ovoga Zakona.
+
+(4) Iznos za financiranje gradnje objekata i uređaja komunalne infrastrukture iz stavka 3. ovoga članka u računu za isporučenu komunalnu uslugu iskazuje se posebno i ta se sredstva doznačuju u proračun jedinice lokalne samouprave prema postupku koji će propisati ministar financija, a mogu se upotrebljavati isključivo za te namjene.
+
+(5) Cijena komunalne usluge plaća se isporučitelju usluge, a obveznik plaćanja je vlasnik nekretnine ili korisnik kad je vlasnik obvezu plaćanja ugovorom prenio na korisnika.
+
+###### Članak 21.
+
+(1) Isporučitelj komunalnih usluga dužan je pri svakoj promjeni cijene, odnosno tarife svojih usluga pribaviti prethodnu suglasnost poglavarstva jedinice lokalne samouprave na području kojih se isporučuje usluga.
+
+(2) Poglavarstvo jedinice lokalne samouprave dužno je očitovati se u roku od 15 dana od dana podnošenja zahtjeva za pribavljanje prethodne sulgasnosti.
+
+(3) Ukoliko se poglavarstvo jedinice lokalne samouprave u roku iz stavka 2. ovoga članka ne očituje, smatra se da je suglasnost dana.
+
+(4) Kada se uskrati suglasnost poglavarstva jedinice lokalne samouprave na nove cijene, nove cijene, odnosno tarife usluga primjenjuju se kada ih prihvate jedinice lokalne samouprave koje drže većinski paket vlasništva isporučitelja komunalne usluge.
+
+(5) Prijava cjenika obvezatno sadrži:
+
+– vrstu komunalne usluge te način obračuna i plaćanja usluge,
+
+– strukturu postojeće cijene komunalne usluge,
+
+– predloženu novu cijenu usluge i njezinu strukturu,
+
+– postotak promjene cijene u odnosu na postojeću cijenu,
+
+– razloge za promjenu cijene s detaljnim obrazloženjem i kalkulacijom,
+
+– dan primjene nove cijene.
+
+(6) Jedinica lokalne samouprave na čijem se području isporučuje komunalna usluga dužna je u roku od 15 dana od dana primjene nove cijene komunalne usluge o tome izvijestiti ministarstvo u čijem su djelokrugu cijene i županijski ured u čijem su djelokrugu poslovi gospodarstva.
 
 Komunalna naknada
 
-##### Članak 19.
+###### Članak 22.
 
-(1) Komunalnom naknadom osiguravaju se sredstva za financiranje obavljanja sljedećih komunalnih djelatnosti:
+(1) Komunalna je naknada prihod proračuna jedinice lokalne samouprave. Sredstva komunalne naknade namijenjena su financiranju obavljanja ovih komunalnih djelatnosti:
 
-(2) Komunalnu naknadu plaćaju u naseljima s uređenim građevinskim zemljištem vlasnik stambenog, poslovnog prostora i građevinskog zemljišta ili korisnik kada je to ugovorom vlasnik prenio na korisnika.
+1. odvodnja atmosferskih voda,
 
-(3) Naseljima s uređenim gradevinskim zemljištem, prema stavku 2. ovoga članka, smatraju se naselja opremljena najmanje pristupnom cestom, objektima za opskrbu električnom energijom i opskrbu vodom prema mjesnim prilikama.
+2. održavanje čistoće u dijelu koji se odnosi na čišćenje javnih površina,
 
-(4) Komunalna naknada je prihod proračuna jedinice lokalne samouprave.
+3. održavanje javnih površina,
 
-Utvrdivanje i naplata komunalne naknade
+4. održavanje nerazvrstanih cesta,
 
-##### Članak 20.
+5. održavanje groblja i krematorija,
 
-(1) Mjerila i način rasporeda sredstava komunalne naknade za komunalne djelatnosti iz članka 19. stavka 1. ovoga Zakona odlukom utvrđuje predstavničko tijelo jedinice lokalne samouprave u skladu s godišnjim programom.
+6. javna rasvjeta.
 
-(2) Predstavničko tijelo jedinice lokalne samouprave, ili tijelo koje ono ovlasti, može u opravdanom slučaju donijeti odluku o djelomičnom ili potpunom oslobađanju plaćanja komunalne naknade.
+(2) Komunalnu naknadu plaćaju vlasnici, odnosno korisnici:
 
-(3) Visinu komunalne naknade odreduje poglavarstvo jedinice lokalne samouprave sukladno sljedećim mjerilima:
+1. stambenog prostora,
 
-(4) Komunalna naknada plaća se po jedinici korisne površine stambenog ili poslovnog prostora, odnosno površine građevinskog zemljišta.
+2. poslovnog prostora,
 
-(5) Rješenje o utvrđivanju visine komunalne naknade u svakom pojedinom slučaju donosi upravni odjel jedinice lokalne samouprave nadležan za poslove komunalnog gospodarstva.
+3. garažnog prostora,
 
-(6) Glede prisilne naplate komunalne naknade primjenjuju se propisi o prisilnoj naplati poreza na dohodak, odnosno dobit.
+4. građevnog zemljišta koje služi u svrhu obavljanja poslovne djelatnosti,
 
-(7) Program održavanja komunalne infrastrukture za komunalne djelatnosti iz članka 19. stavka 1. ovoga Zakona i opseg radova održavanja uređenog građevinskog zemljišta utvrđuje predstavničko tijelo jedinice lokalne samouprave svake kalendarske godine na prijedlog poglavarstsva.
+5. neizgrađenoga građevnog zemljišta.
 
-Pod opsegom radova razumijevaju se način, normativi i ostali uvjeti obavljanja određene komunalne djelatnosti u održavanju uređenog građevinskog zemljišta.
+(3) Komunalna naknada plaća se za nekretnine iz stavka 2. ovoga članka koje se nalaze unutar građevinskog područja naselja kao i za stambeni i poslovni prostor izvan građevinskog područja naselja na kojem se najmanje obavljaju komunalne djelatnosti iz stavka 1. točke 3., 4. i 6. ovoga članka i koje su opremljene najmanje pristupnom cestom, objektima za opskrbu električnom energijom i vodom prema mjesnim prilikama te čine sastavni dio infrastrukture jedinice lokalne samouprave.
 
-Financiranje ostalih komunalnih djelatnosti
+(4) Građevnim zemljištem u smislu ovoga Zakona smatra se zemljište koje se nalazi unutar granice građevnog područja naselja, a na kojemu se, u skladu s prostornim planom, mogu graditi građevine za stambene, poslovne, športske ili druge namjene.
 
-##### Članak 21.
+(5) Neizgrađenim građevnim zemljištem u smislu ovoga Zakona smatra se zemljište iz stavka 4. ovoga članka na kojemu nije izgrađena nikakva građevina ili na kojemu postoji privremena građevina za čiju izgradnju nije potrebno odobrenje za grad­nju. Neizgrađenim građevnim zemljištem smatra se i zemljište na kojemu se nalaze ostaci nekadašnje građevine.
 
-Način financiranja komunalnih djelatnosti iz članka 3. stavka 14. odredit će svojom odlukom jedinica lokalne samouprave.
+(6) Obveznik plaćanja komunalne naknade iz stavka 2. ovoga članka (fizička ili pravna osoba) dužna je u roku od 15 dana od dana nastanka obveze ili promjene osobe obveznika istu prijaviti upravnom tijelu nadležnom za komunalno gospodarstvo jedinice lokalne samouprave na čijem se području nalazi nekretnina.
 
-## V. FINANCIRANJE GRAĐENJA
+Utvrđivanje i naplata komunalne naknade
+
+###### Članak 23.
+
+(1) Predstavničko tijelo jedinice lokalne samouprave donosi odluku o komunalnoj naknadi kojom se obvezatno utvrđuju:
+
+– naselja u jedinicama lokalne samouprave u kojima se naplaćuje komunalna naknada,
+
+– područja zona u gradu, odnosno općini,
+
+– koeficijent zona (Kz) za pojedine zone,
+
+– koeficijent namjene (Kn) za poslovni prostor i za građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti,
+
+– rok plaćanja komunalne naknade,
+
+– nekretnine važne za jedinicu lokalne samouprave koje se u potpunosti ili djelomično, oslobađaju od plaćanja komunalne naknade,
+
+– opći uvjeti i razlozi zbog kojih se u pojedinim slučajevima može odobriti potpuno ili djelomično oslobađanje od plaćanja komunalne naknade,
+
+– izvore sredstava iz kojih će se namiriti iznos za slučaj potpunog ili djelomičnog oslobađanja od plaćanja komunalne naknade.
+
+(2) Rješenje o komunalnoj naknadi donosi upravno tijelo jedinice lokalne samouprave u čijem su djelokrugu poslovi komunalnog gospodarstva za kalendarsku godinu do 31. ožujka tekuće godine, ako se na osnovi odluke predstavničkog tijela mijenja njezina visina u odnosu na prethodnu godinu.
+
+(3) Rješenjem o komunalnoj naknadi utvrđuje se visina komunalne naknade po m<sup>2</sup> obračunske površine, obračunska povr­šina i mjesečni iznos komunalne naknade, osim za nekretnine iz članka 27. stavka 4. ovoga Zakona.
+
+(4) Upravno tijelo iz stavka 2. ovoga članka donosi rješenje o privremenom, potpunom ili djelomičnom oslobađanju od pla­ćanja komunalne naknade.
+
+(5) Izvršno rješenje o komunalnoj naknadi izvršava upravno tijelo iz stavka 2. ovoga članka u postupku i na način određen propisima o prisilnoj naplati poreza na dohodak, odnosno dobit.
+
+(6) Protiv rješenja jedinice lokalne samouprave iz stavka 2., 4. i 5. ovoga članka može se izjaviti žalba upravnom tijelu županije u čijem su djelokrugu poslovi komunalnog gospodarstva, a protiv rješenja koja donosi Grad Zagreb žalba se izjavljuje ministarstvu u čijem je djelokrugu komunalno gospodarstvo.
+
+###### Članak 24.
+
+(1) Visina komunalne naknade određuje se ovisno o:
+
+– lokaciji nekretnine, odnosno zoni u kojoj se nalazi nekretnina,
+
+– vrsti nekretnine iz članka 22. stavka 2. ovoga Zakona.
+
+(2) Komunalna naknada obračunava se po m<sup>2</sup> površine i to za stambeni, poslovni i garažni prostor po jedinici korisne površine koja se utvrđuje na način propisan Uredbom o uvjetima i mjerilima za utvrđivanje zaštićene najamnine (»Narodne novine«, br. 40/97.), a za građevno zemljište po jedinici stvarne površine.
+
+(3) Iznos komunalne naknade po m<sup>2</sup> obračunske površine nekretnine utvrđuje se množenjem:
+
+1. vrijednosti obračunske jedinice – boda (B), određene u kunama po m<sup>2</sup> (u daljnjem tekstu: vrijednost boda),
+
+2. koeficijenta zone (Kz),
+
+3. koeficijenta namjene (Kn).
+
+###### Članak 25.
+
+(1) Vrijednost boda (B) određuje odlukom predstavničko tijelo jedinice lokalne samouprave do kraja studenoga za sljedeću kalendarsku godinu, nakon donošenja odluke o komunalnoj naknadi.
+
+(2) Vrijednost boda iz stavka 1. ovoga članka jednaka je mjesečnoj visini komunalne naknade po m<sup>2</sup> korisne površine stambenog prostora u prvoj zoni općine, odnosno grada.
+
+(3) Ako predstavničko tijelo ne odredi vrijednost boda iz stav­ka 1. ovoga članka najkasnije do kraja studenoga tekuće godine, za obračun komunalne naknade u sljedećoj kalendarskoj godini vrijednost boda se ne mijenja.
+
+###### Članak 26.
+
+(1) Koeficijent zone (Kz) određuje predstavničko tijelo jedinice lokalne samouprave za pojedine zone, a najviši koeficijent u prvoj zoni općine, odnosno grada iznosi 1,00.
+
+(2) Područja zona u gradu, odnosno općini utvrđuje pred­stavničko tijelo jedinice lokalne samouprave ovisno o pogodnosti položaja i komunalnoj opremljenosti određenoga područja, prema vlastitim uvjetima i mjerilima.
+
+###### Članak 27.
+
+(1) Koeficijent namjene (Kn) ovisi o vrsti nekretnine iz članka 22. stavka 2. ovoga Zakona i iznosi za:
+
+– stambeni prostor koji koriste
+
+neprofitne organizacije koeficijent 1,00
+
+– garažni prostor koeficijent 1,00
+
+– neizgrađeno građevno zemljište koeficijent 0,05
+
+(2) Koeficijent namjene za poslovni prostor i za građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti određuje predstavničko tijelo jedinice lokalne samouprave pod uvjetom da:
+
+– za poslovni prostor koji služi za proizvodne djelatnosti koeficijent ne može biti manji od 1,00 niti veći od 5,00,
+
+– za poslovni prostor koji služi za ostale djelatnosti koeficijent ne može biti manji od 1,00 niti veći od 10,00,
+
+– za građevno zemljište koje služi u svrhu obavljanja poslov­ne djelatnosti koeficijent može biti najviše 10% koeficijenta namjene koji je određen za poslovni prostor.
+
+(3) Za poslovni se prostor i građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti, u slučaju kad se poslovna djelatnost ne obavlja više od 6 mjeseci u kalendarskoj godini, koeficijent namjene umanjuje se za 50% ali ne može biti manji od koeficijenta namjene za stambeni prostor, odnosno neizgrađeno građevno zemljište.
+
+(4) Za hotele, apartmanska naselja i kampove visina godišnje komunalne naknade ne može biti veća od 1,5% ukupnoga go­dišnjeg prihoda iz prethodne godine, ostvarenog u hotelima, apartmanskim naseljima i kampovima koji se nalaze na području dotične jedinice lokalne samouprave.
+
+###### Članak 28.
+
+(1) Predstavničko tijelo jedinice lokalne samouprave, nakon donošenja odluke o komunalnoj naknadi, za svaku kalendarsku godinu u skladu s predvidivim sredstvima i izvorima financiranja donosi Program održavanja komunalne infrastrukture za djelatnost iz članka 22. stavka 1. ovoga Zakona.
+
+(2) Sredstva prikupljena komunalnom naknadom, mogu se odlukom predstavničkog tijela jedinice lokalne samouprave upotrijebiti i u svrhu održavanja objekata školskoga, zdravstvenog i socijalnog sadržaja.
+
+(3) Programom iz stavka 1. ovoga članka obvezatno se utvrđuje:
+
+– opis i opseg poslova održavanja s procjenom pojedinih troškova, po djelatnostima,
+
+– iskaz financijskih sredstava potrebnih za ostvarivanje programa, s naznakom izvora financiranja.
+
+(4) Poglavarstvo jedinice lokalne samouprave dužno je do kraja ožujka svake godine predstavničkom tijelu jedinice lokalne samouprave podnijeti izvješće o izvršenju Programa iz stavka 1. ovoga članka, za prethodnu kalendarsku godinu.
+
+###### Članak 29.
+
+Izgradnja objekata i uređaja komunalne infrastrukture od interesa je za Republiku Hrvatsku.
+
+### V. FINANCIRANJE GRAĐENJA
 
 Financiranje građenja objekata i uređaja komunalne infrastrukture
 
-##### Članak 22.
+###### Članak 30.
 
 (1) Građenje objekta i uređaja komunalne infrastrukture za:
-
-financira se iz:
-
-(2) Građenje objekata i uređaja komunalne infrastrukture i nabavka opreme za:
-
-financira se iz:
-
-*Komunalni doprinosi*
-
-##### Članak 23.
-
-(1) Komunalni doprinos plaća vlasnik građevinskog zemljišta.
-
-(2) Visinu komunalnih doprinosa utvrđuje predstavničko tijelo jedinice lokalne samouprave u skladu s programom mjera propisanim Zakonom o prostornom uređenju.
-
-(3) Komunalni doprinos je prihod proračuna jedinice lokalne samouprave.
-
-(4) Komunalnim doprinosom nisu obuhvaćeni troškovi priključaka građevinskog zemljišta na objekte i uređaje komunalne infrastrukture.
-
-Rješenje o komunalnom doprinosu za financiranje građenja objekata i uređaja komunalne infrastrukture
-
-##### Članak 24.
-
-(1) Rješenje kojim se utvrđuje visina komunalnog doprinosa donosi upravni odjel jedinice lokalne samouprave nadležan za poslove komunalnog gospodarstva.
-
-(2) Rješenje iz stavka 1. ovoga članka sadrži osobito:
-
-(3) Ništavo je rješenje koje ne sadrži obvezne elemente propisane u stavku 2. ovoga članka.
-
-(4) Rješenje iz stavka 1. ovoga članka donosi se nakon utvrđivanja visine komunalnih doprinosa iz članka 23. stavka 2. ovoga Zakona, a najkasnije do izdavanja građevne dozvole.
-
-*Plaćanje komunalnog doprinosa*
-
-##### Članak 25.
-
-(1) Komunalni doprinos plaća se po [M1]m2 bruto razvijene površine građevine koja se može izgraditi na građevinskoj parceli.
-
-(2) Obveznik plaćanja komunalnog doprinosa koji ruši ili rekonstruira postojeći objekt već priključen na komunalnu infrastrukturu obvezan je sudjelovati u financiranju građenja objekata i uređaja komunalne infrastrukture razmjerno povećanju površine građevine u odnosu na prijašnju građevinu.
-
-*Obveza priključivanja*
-
-##### Članak 26.
-
-(1) Vlasnik građevine dužan je priključiti svoju građevinu na komunalnu infrastrukturu pod uvjetima propisanim odlukom predstavničkog tijela jedinice lokalne samouprave.
-
-(2) Vlasnik građevinskog zemljišta plaća troškove priključivanja građevinskog zemljišta na objekte i uređaje komunalne infrastrukture neposredno nositelju izvedbe priključka.
-
-(3) Predstavničko tijelo jedinice lokalne samouprave odlukom može utvrditi područja na kojima se vlasnik građevine može izuzeti od obveze priključivanja na komunalnu infrastrukturu, ukoliko je isti na zadovoljavajući način pojedinačno osigurao svoje potrebe.
-
-(4) Građevine izgrađene bez građevne dozvole ne smiju se priključiti na komunalnu infrastrukturu.
-
-## VI. NADZOR
-
-*Upravni nadzor*
-
-##### Članak 27.
-
-Nad provedbom ovoga Zakona Vlada Republike Hrvatske i nadležno ministarstvo provodi nadzor zakonitosti rada.
-
-## VII. KAZNENE ODREDBE
-
-Novčane kazne za isporučitelje komunalnih usluga i odgovorne osobe
-
-##### Članak 28.
-
-(1) Novčanom kaznom od 9.000 do 35.000 kuna kaznit će se za prekršaj isporučitelj komunalne usluge iz članka 4. stavka 1. točke 1., 2. i 3. ovoga Zakona ukoliko:
-
-(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi - isporučitelju komunalne usluge i to novčanom kaznom od 2.000 do 8.000 kuna.
-
-(3) Za prekršaj iz stavka 1. točka 4. ovoga članka izreći će se zaštitna mjera oduzimanja imovinske koristi ostvarene izvršenjem prekršaja i povrat više naplaćenih iznosa oštećenim korisnicima.
-
-(4) Novčane kazne naplaćene prema ovom Zakonu prihod su proračuna jedinice lokalne samouprave na čijem su području učinjeni prekršaji.
-
-## VIII. PRIJELAZNE 1 ZAVRŠNE ODREDBE
-
-Rok za donošenje propisa na temelju ovoga Zakona
-
-##### Članak 29.
-
-(1) Jedinice lokalne samouprave, dužne su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti propise radi provedbe ovoga Zakona.
-
-Usaglašavanje zajedničkog obavljanja komunalnih djelatnosti
-
-##### Članak 30.
-
-(1) Jedinice lokalne samouprave sporazumno će urediti odnose iz članka 4. stavka 4. ovoga Zakona u roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona.
-
-(2) U slučaju izostanka sporazumnog rješenja odluku će donijeti arbitraža koju imenuje Vlada Republike Hrvatske.
-
-Usklađivanje rada pravnih osoba s odredbama ovoga Zakona
-
-##### Članak 31.
-
-(1) Društveni kapital pravnih osoba koje su registrirane za obavljanje komunalnih djelatnosti danom stupanja na snagu ovoga Zakona postaje zajedničko vlasništvo jedinica lokalne samouprave organiziranih na području bivše općine prema sjedištu pravne osobe.
-
-(2) Hrvatski fond za privatizaciju dužan je dionice dioničkih društava nastalih u provedbi odredbe članka 3. Zakona o izmjenama i dopunama Zakona o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanja tržnica na malo, prenijeti u zajedničko vlasništvo jedinica lokalne samouprave organiziranih na području bivše općine prema sjedištu društva u roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona.
-
-(3) Poduzeća koja nisu postupila prema odredbi članka 3. Zakona o izmjenama i dopunama Zakona o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanja tržnica na malo, dužna su dionice prenijeti u zajedničko vlasništvo jedinica lokalne samouprave organiziranih na području bivše općine prema sjedištu društva u roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona.
-
-(4) Društveni kapital iz stavka 1. i dionice iz stavka 2. i 3. ovoga članka jedinice lokalne samouprave sporazumno će podijeliti u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona. U slučaju izostanka sporazumnog rješenja primijenit će se odredba članka 87. stavka 2. Zakona o lokalnoj samoupravi i upravi.
-
-Prestanak s radom fondova u stambenom i komunalnom gospodarstvu
-
-##### Članak 32.
-
-(1) Fondovi u stambenom i komunalnom gospodarstvu u dijelu koji se odnosi na komunalno gospodarstvo (u daljnjem tekstu: fondovi) prestaju s radom u roku 3 mjeseca od dana stupanja na snagu ovoga Zakona.
-
-(2) Danom prestanka rada fondova jedinice lokalne samouprave preuzet će nekretnine, pokretnine, financijska sredstva te prava i obveze fondova.
-
-(3) Sporove koji mogu nastati u provedbi stavka 2. ovoga članka rješavaju sporazumno jedinice lokalne samouprave. U slučaju izostanka sporazumnog rješenja odluku će donijeti arbitraža koja se sastoji od predstavnika ministarstva nadležnog za poslove komunalnog gospodarstva, županije i jedinice lokalne samouprave.
-
-Djelatnici u fondovima stambenog i komunalnog gospodarstva
-
-##### Članak 33.
-
-(1) Djelatnike u fondovima stambenog i komunalnog gospodarstva zatečene na obavljanju poslova komunalnog gospodarstva, na dan prestanka rada fondova preuzimaju jedinice lokalne samouprave.
-
-(2) Djelatnici iz stavka 1. ovoga članka mogu se rasporediti na poslove i zadaće u upravnim tijelima jedinice lokalne samouprave, te na poslove i zadaće u gradskim kotarevima ili mjesnim odborima.
-
-(3) Akt o preuzimanju djelatnika iz stavka 1. ovoga članka donosi gradonačelnik ili načelnik jedinice lokalne samouprave na čijem je području sjedište dosadašnjeg fonda stambenog i komunalnog gospodarstva u kojem su djelatnici zaposleni.
-
-Stavljanje izan snage ranijih propisa
-
-##### Članak 34.
-
-(1 ) Danom primjene ovoga Zakona prestaje važiti:
-
-l. Zakon o komunalnim djelatnostima ("Narodne novine", br.15/79. 18/79. i 26/93.),
-
-2. Zakon o fondovima u stambenom i komunalnom gospodarstvu ("Narodne novine", br. 53/90. i 76/93.), u dijelu koji se odnosi na fondove u komunalnom gospodarstvu,
-
-3. članak 13. stavak 1. točka 1. te stavak 2. riječi: "poslove iz točke 1. obavlja županijska skupština" i članak 25. Zakona o određivanju poslova iz samoupravnog djelokruga jedinica lokalne samouprave i uprave ("Narodne novine", br. 75/93.),
-
-4. Zakon o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanja tržnica na malo ("Narodne novine", br. 91/92.,14/93, i 70/93.),
-
-5. članak 23. stavak 5. i 6. Zakona o prijevozu u unutarnjem cestovnom prometu ("Narodne novine",br.77/92. i 26/93.),
-
-6. članak 2. Zakona o izmjenama i dopunama Zakona o cestama ("Narodne novine", br.109/93).
-
-(2) Propisi donijeti radi provedbe Zakona iz stavka 1. točke I. ovoga članka primjenjivat će se do donošenja propisa iz članka 29. ovoga Zakona, ako nisu u suprotnosti s odredbama ovoga Zakona.
-
-Stupanje na snagu ovoga Zakona
-
-##### Članak 35.
-
-Ovaj zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama" a primjenjuje se protekom 60 dana od dana objave.
-
-Klasa: 363-02/94-01/'02
-
-Zagreb, 15. svibnja 1995.
-
-ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
-
-Predsjednik Zastupničkog doma Sabora
-
-dr. Nedjeljko Mihanović, v. r.
-
----
-
-# Izmjene, dopune i ispravci nakon izvornog teksta
-
-## Uredba o izmjenama i dopunama Zakona o komunalnom gospodarstvu (NN 109/1995)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1995/109/1795*
-
-VLADA REPUBLIKE HRVATSKE
-
-Na temelju članka 1. stavak 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske ("Narodne novine", broj 72/95), Vlada Republike Hrvatske je na sjednici održanoj 29.
-
-**UREDBU**
-
-**O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
-
-### Članak 1.
-
-U Zakonu o komunalnom gospodarstvu ("Narodne novine", broj 36/95) u članku 3. stavku 1. iza točke 12. dodaje se nova točka :  
-"13. javna rasvjeta"
-
-### Članak 2.
-
-U članku 3. iza stavka 14. dodaje se novi stavak: "(15) Pod javnom rasvjetom razumijeva se upravljanje i održavanje javne rasvjete i utrošak električne energije".
-
-### Članak 3.
-
-U članku 10. stavku 1. riječi "pogrebnih poslova i točke 12. ovoga Zakona" zamjenjuju se riječima: " pogrebnih poslova, točke 12. i točke 13. ovoga Zakona."
-
-### Članak 4.
-
-U članku 19. stavku 1. iza točke 5. dodaje se nova točka "6. javna rasvjeta".
-
-### Članak 5.
-
-U članku 22. stavku 1. iza točke 7. dodaje se nova točka "8. javna rasvjeta".
-
-### Članak 6.
-
-Ova Uredba stupa na snagu danom objave u "Narodnim novinama".
-
-Klasa: 363-02/94-01/02  
-Urbroj: 5030116-95-6  
-Zagreb, 29. prosinca 1995.
-
-Predsjednik  
-mr. Zlatko Mateša, v.r.
-
-## Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu (NN 70/1997)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1213*
-
-ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
-
-Na osnovi članka 89. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
-
-Proglašavam Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu, koji je donio Zastupnički dom Sabora Republike Hrvatske na sjednici 18. lipnja 1997.
-
-Broj: 081-97-1066/1  
-Zagreb, 26. lipnja 1997.
-
-Predsjednik  
-Republike Hrvatske  
-dr. Franjo Tuđman, v. r.
-
-**ZAKON**
-
-**O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
-
-### Članak 1.
-
-U Zakonu o komunalnom gospodarstvu ("Narodne novine", br. 36/95.) u članku 3. stavku 1. iza točke 12. dodaje se točka 13. koja glasi:
-
-"13. javna rasvjeta".
-
-Iza stavka 13. dodaje se novi stavak 14., koji glasi:
-
-"(14) Pod pojmom "javna rasvjeta" razumijeva se upravljanje, održavanje objekata i uređaja javne rasvjete za rasvjetljavanje javnih površina, javnih cesta koje prolaze kroz naselje i nerazvrstanih cesta.
-
-U stavku 14. koji postaje stavak 15. iza riječi: "može" dodaju se riječi: "na temelju suglasnosti ministra nadležnog za poslove komunalnog gospodarstva".
-
-### Članak 2.
-
-U članku 4. stavak 6. mijenja se i glasi:
-
-"(6) Sporove koji mogu nastati u provedbi stavka 4. i 5. ovoga članka između dvije i više jedinica lokalne samouprave na području jedne županije rješava izbrano povjerenstvo županije. Sporove između dviju ili više županija rješava izbrano povjerenstvo ministarstva nadležnog za poslove komunalnog gospodarstva."
-
-Iza stavka 6. dodaju se stavci 7., 8. i 9. koji glase:
-
-"(7) Izbrano povjerenstvo iz stavka 6. ovoga članka sastoji se od dva člana i predsjednika koje imenuje župan županije na čijem se području nalazi jedinica lokalne samouprave, odnosno ministar ministarstva nadležan za poslove komunalnog gospodarstva.
-
-(8) Izbrano povjerenstvo iz stavka 6. ovoga članka o predmetu spora donosi odluku.
-
-(9) Odluke iz stavka 8. ovoga članka su izvršene."
-
-### Članak 3.
-
-U članku 10. stavku 1. iza riječi: "na" dodaju se riječi: "pročišćavanje otpadnih voda", a riječi: "točke 8. i 9." brišu se, dok se riječi: "poslova iz točke 12" zamjenjuju riječima: "poslova iz točke 12. i 13. ovoga Zakona."
-
-### Članak 4.
-
-U članku 19. stavku 1. iza točke 5. dodaje se točka 6. koja glasi:
-
-"6. javna rasvjeta".
-
-U stavku 2. iza riječi: "korisnik" stavlja se točka, a riječi: "kada je to ugovorom vlasnik prenio na korisnika", brišu se.
-
-### Članak 5.
-
-U članku 20. stavku 3. iza riječi: "samouprave" dodaju se riječi: "na osnovi programa održavanja komunalne infrastrukture a".
-
-Iza stavka 6. dodaje se novi stavak 7. koji glasi:
-
-"(7) Program održavanja komunalne infrastrukture sadrži i iskaz financijskih sredstava potrebnih za ostvarivanje programa."
-
-Dosadašnji stavak 7. postaje stavak 8.
-
-### Članak 6.
-
-Članak 22. mijenja se i glasi:
-
-"(1) Građenje objekata i uređaja komunalne infrastrukture za:
 
 1. javne površine,
 
@@ -625,13 +691,15 @@ Dosadašnji stavak 7. postaje stavak 8.
 
 financira se iz:
 
-1. komunalnih doprinosa,
+1. komunalnog doprinosa,
 
 2. proračuna jedinice lokalne samouprave,
 
-3. drugih izvora utvrđenih posebnim propisima.
+3. naknade za koncesiju,
 
-(2) Građenje objekata i uređaja komunalne infrastrukture i nabavka opreme za:
+4. drugih izvora utvrđenih posebnim zakonom.
+
+(2) Građenje objekata i uređaja komunalne infrastrukture i nabava opreme za:
 
 1. opskrbu pitkom vodom,
 
@@ -641,447 +709,81 @@ financira se iz:
 
 4. opskrbu toplinskom energijom,
 
-5. prijevoz putnika,
+financira se iz:
 
-6. održavanje čistoće,
+1. cijene komunalne usluge,
 
-7. odlaganje komunalnog otpada,
+2. naknade za priključenje,
 
-8. tržnice na malo,
+3. proračuna jedinice lokalne samouprave,
+
+4. naknade za koncesije,
+
+5. drugih izvora utvrđenih posebnim zakonom.
+
+(3) Građenje objekata i uređaja komunalne infrastrukture i nabava opreme za:
+
+1. prijevoz putnika,
+
+2. održavanje čistoće,
+
+3. odlaganje komunalnog otpada,
+
+4. tržnice na malo,
 
 financira se iz:
 
-1. cijene komunalnih usluga,
+1. cijene komunalne usluge,
 
 2. proračuna jedinice lokalne samouprave,
 
-3. drugih izvora utvrđenih posebnim propisima."
+3. naknade za koncesije,
 
-### Članak 7.
+4. drugih izvora utvrđenih posebnim zakonom.
 
-U članku 23. stavku 1. riječi: "građevinskog zemljišta" zamjenjuju se riječima: "građevinske čestice".
+(4) Predstavničko tijelo jedinice lokalne samouprave, u skladu s predvidivim sredstvima i izvorima financiranja donosi Program gradnje objekata i uređaja komunalne infrastrukture iz stav­ka 1., 2. i 3. ovoga članka, za četverogodišnje kalendarsko raz­dob­lje koje obvezatno sadrži:
 
-Stavak 2. mijenja se i glasi:
+– opis poslova s procjenom troškova za gradnju pojedinih objekata i uređaja, te za nabavu opreme,
 
-"(2) Visinu komunalnog doprinosa utvrđuje predstavničko tijelo jedinice lokalne samouprave na temelju programa mjera za unapređenje stanja u prostoru koji se donosi prema Zakonu o prostornom uređenju glede građenja objekata i uređaja komunalne infrastrukture iz članka 22. stavka 1. ovoga Zakona."
+– iskaz financijskih sredstava potrebnih za ostvarivanje programa s naznakom izvora financiranja po djelatnostima.
 
-Stavak 4. briše se.
+(5) Poglavarstvo jedinice lokalne samouprave dužno je do kraja ožujka svake godine podnijeti predstavničkom tijelu jedinice lokalne samouprave izvješće o izvršenju Programa iz stavka 4. ovoga članka za prethodnu kalendarsku godinu.
 
-### Članak 8.
+Komunalni doprinosi
 
-U članku 24. stavku 2. točki 3. riječi: "kaznu i" brišu se.
+###### Članak 31.
 
-### Članak 9.
-
-U slučaju da nije donesena odluka na temelju članka 30. stavka 1. ovoga Zakona u roku propisanom tom odredbom, odluku o načinu obavljanja komunalne djelatnosti donijet će arbitražna komisija iz članka 4. stavka 6. ovoga Zakona.
-
-### Članak 10.
-
-U slučaju da imovina nije podijeljena sukladno odredbi članka 32. Zakona o komunalnom gospodarstvu ("Narodne novine", br. 36/95) do dana stupanja na snagu ovoga Zakona, podjela će se obaviti odlukom izbranog povjerenstva sukladno odredbi članka 87. Zakona o lokalnoj samoupravi i upravi ("Narodne novine", br. 90/92., 94/93. i 117/93.).
-
-### Članak 11.
-
-"Hrvatska elektroprivreda" d.d. Zagreb prenijet će bez naknade do 31. prosinca 1997. u stanju funkcionalne sposobnosti u vlasništvo jedinica lokalne samouprave i uprave objekte i uređaje u svom vlasništvu koji se koriste isključivo za javnu rasvjetu.
-
-Na objektima i uređajima koji se koriste za obavljanje djelatnosti "Hrvatske elektroprivrede" d.d. Zagreb a istovremeno se koriste za javnu rasvjetu, "Hrvatska elektroprivreda" d.d. Zagreb, zadržavajući vlasništvo osnovat će ugovorom s jedinicama lokalne samouprave i uprave pravo služnosti - pravo uporabe bez naknade za potrebe javne rasvjete u korist jedinice lokalne samouprave i uprave.
-
-### Članak 12.
-
-Jedinice lokalne samouprave dužne su u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti propise s odredbama ovoga Zakona.
-
-Propisi jedinice lokalne samouprave koji nisu usklađeni s odredbama Zakona o komunalnom gospodarstvu ("Narodne novine", br. 36/95.) prestaju važiti danom stupanja na snagu ovoga Zakona.
-
-### Članak 13.
-
-Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
-
-Klasa: 363-02/94-01/02  
-Zagreb, 18. lipnja 1997.
-
-ZASTUPNIČKI DOM  
-SABORA REPUBLIKE HRVATSKE
-
-Predsjednik  
-Zastupničkog doma Sabora  
-akademik Vlatko Pavletić, v. r.
-
-## Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu (NN 128/1999)
-
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2015*
-
-ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA
-
-Na temelju članka 89. Ustava Republike Hrvatske, donosim
-
-ODLUKU
-
-O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
-
-Proglašavam Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu, koji je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 5. studenoga 1999.
-
-Broj: 01/1-081-99-7/2  
-Zagreb, 26. studenoga 1999.
-
-Na temelju odredbe članka 1. Ustavnog zakona o privremenoj spriječenosti Predsjednika Republike Hrvatske za obavljanje svojih dužnosti  
-PRIVREMENO ZAMJENJUJE  
-PREDSJEDNIKA REPUBLIKE HRVATSKE  
-PREDSJEDNIK HRVATSKOGA DRŽAVNOG SABORA  
-akademik Vlatko Pavletić, v. r.
-
-**ZAKON**
-
-**O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
-
-### Članak 1.
-
-U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95. i 70/97.) u članku 3. stavku 9. riječi: »osim javnih cesta.« brišu se, stavlja se zarez i dodaju riječi: »te dijelovi javnih cesta koje prolaze kroz naselje, kad se ti dijelovi ne održavaju kao javne ceste prema posebnomu zakonu.«
-
-Stavak 15. briše se.
-
-### Članak 2.
-
-U članku 4. stavku 1. u uvodnoj rečenici briše se dvotočka i dodaju riječi: »u skladu s odredbama ovoga Zakona:«.
-
-U stavku 1. točki 4. na kraju teksta briše se točka, i dodaje točka 5. koja glasi:
-
-5. »pravna i fizička osoba na temelju ugovora o povjeravanju komunalnih poslova.«
-
-U stavku 2. riječi: »točke 1. i 3.« brišu se.
-
-U stavku 9. riječ: »izvršene« zamjenjuju se riječju: »izvršne«.
-
-### Članak 3.
-
-Iza članka 4. dodaje se članak 4a. koji glasi:
-
-»Članak 4a.
-
-Komunalnu djelatnost opskrbe pitkom vodom, odvodnje i pročišćavanja otpadnih voda i opskrbe plinom može obavljati i trgovačko društvo u pretežitom vlasništvu države odnosno županije, kada se ta djelatnost obavlja za područje ili dijelove područja više jedinica lokalne samouprave putem magistralnih sustava u vlasništvu toga društva, a uvjeti i način obavljanja tih poslova utvrđuju se ugovorom s jedinicom lokalne samouprave.«
-
-### Članak 4.
-
-U članku 5. stavku 1. iza broja: »4.« umjesto veznika: »i« stavlja se zarez, a iza broja: »7.« stavlja se zarez i dodaju brojevi: »8. i 9.«.
-
-### Članak 5.
-
-U članku 7. stavku 2. iza riječi: »svojstvo« dodaje se riječ: »pravne«.
-
-U stavku 5. riječ: »oblici« zamjenjuje se riječju: »odluci«.
-
-### Članak 6.
-
-U članku 10. stavak 1. mijenja se i glasi:
-
-»(1) Koncesijom se stječe pravo obavljanja ovih komunalnih djelatnosti:
-
-- opskrba pitkom vodom,
-
-- odvodnja i pročišćavanje otpadnih voda,
-
-- crpljenje, odvoz i zbrinjavanje fekalija iz septičkih, sabirnih i crnih jama,
-
-- opskrba plinom,
-
-- opskrba toplinskom energijom,
-
-- prijevoz putnika u javnom prometu,
-
-- skupljanje i odvoz komunalnog otpada,
-
-- odlaganje komunalnog otpada,
-
-- tržnice na malo,
-
-- obavljanje pogrebnih poslova,
-
-- obavljanje dimnjačarskih poslova.«
-
-### Članak 7.
-
-U članku 11. dodaje se stavak 3. koji glasi:
-
-»(3) Protiv odluke o davanju koncesije žalba nije dopuštena, već se može pokrenuti upravni spor.«
-
-### Članak 8.
-
-Iza članka 13. dodaje se novi podnaslov »V. UGOVOR O POVJERAVANJU KOMUNALNIH POSLOVA« i članak 13a. koji glasi:
-
-»Članak 13a.
-
-(1) Jedinica lokalne samouprave može obavljanje komunalnih djelatnosti koje se financiraju isključivo iz njezina proračuna povjeriti fizičkoj ili pravnoj osobi na temelju pisanog ugovora.
-
-(2) Predstavničko tijelo jedinice lokalne samouprave određuje komunalne djelatnosti iz stavka 1. ovoga članka te utvrđuje uvjete i mjerila za provedbu javnoga prikupljanja ponuda ili javnog natječaja za povjeravanje određenih komunalnih poslova na temelju ugovora.
-
-(3) Nakon provedenoga javnog prikupljanja ponuda ili javnog natječaja, predstavničko tijelo jedinice lokalne samouprave donosi odluku o izboru osobe kojoj će se povjeriti obavljanje komunalnih poslova na temelju ugovora.
-
-(4) Na temelju odluke iz stavka 3. ovoga članka poglavarstvo sklapa ugovor o povjeravanju određenih komunalnih poslova koji obvezatno sadrži:
-
-- djelatnost za koju se sklapa ugovor,
-
-- vrijeme na koje se sklapa ugovor,
-
-- vrstu i opseg poslova,
-
-- način određivanja cijene za obavljanje poslova, te način i rok plaćanja,
-
-- jamstvo izvršitelja o ispunjenju ugovora.
-
-(5) Ugovor iz stavka 4. ovoga članka može se sklopiti najdulje na vrijeme od četiri godine.
-
-(6) Protiv odluke iz stavka 3. ovoga članka žalba nije dopuštena, već se može pokrenuti upravni spor.«
-
-### Članak 9.
-
-U članku 18. stavci 2., 3., 4. i 5. mijenjaju se i glase:
-
-»(2) Visinu cijene, način obračuna i način plaćanja komunalnih usluga iz stavka 1. ovoga članka određuje isporučitelj usluge.
-
-(3) Cijena komunalne usluge može sadržavati i iznos za financiranje gradnje objekata i uređaja komunalne infrastrukture na području jedinice lokalne samouprave na kojemu se isporučuje komunalna usluga, u skladu s Programom gradnje objekata i uređaja komunalne infrastrukture iz članka 22. stavka 4. ovoga Zakona.
-
-(4) Iznos za financiranje gradnje objekata i uređaja komunalne infrastrukture iz stavka 3. ovoga članka u računu za isporučenu komunalnu uslugu iskazuje se posebno i ta se sredstva doznačuju u proračun jedinice lokalne samouprave prema postupku koji će propisati ministar financija, a mogu se upotrebljavati isključivo za te namjene.
-
-(5) Cijena komunalne usluge plaća se isporučitelju usluge, a obveznik plaćanja je vlasnik nekretnine ili korisnik kad je vlasnik obvezu plaćanja ugovorom prenio na korisnika.«
-
-### Članak 10.
-
-Iza članka 18. dodaje se članak 18a. koji glasi:
-
-»Članak 18a.
-
-(1) Isporučitelj komunalnih usluga dužan je pri svakoj promjeni cijene, odnosno tarife svojih usluga prijaviti cjenik svim jedinicama lokalne samouprave na području kojih se isporučuje usluga, najkasnije 30 dana prije njegove primjene.
-
-(2) Prijava cjenika obvezatno sadrži:
-
-- vrstu komunalne usluge te način obračuna i plaćanja usluge,
-
-- strukturu postojeće cijene komunalne usluge,
-
-- predloženu novu cijenu usluge i njezinu strukturu,
-
-- postotak promjene cijene u odnosu na postojeću cijenu,
-
-- razloge za promjenu cijene s detaljnim obrazloženjem i kalkulacijom,
-
-- dan primjene nove cijene.
-
-(3) Predstavnička tijela jedinica lokalne samouprave na području kojih se isporučuje komunalna usluga mogu staviti prigovore i zatražiti od isporučitelja komunalne usluge usklađivanje prijavljenog cjenika, te ukoliko isporučitelj ne uskladi cjenik sa prigovorima većine jedinica lokalne samouprave na čijem području se isporučuje komunalna usluga, cijene iz prijavljenog cjenika ne mogu se primijeniti.
-
-(4) Jedinica lokalne samouprave na čijem se području isporučuje komunalna usluga dužna je u roku od 15 dana od dana primjene nove cijene komunalne usluge o tome izvijestiti ministarstvo u čijemu su djelokrugu cijene i županijski ured u čijemu su djelokrugu poslovi gospodarstva.
-
-(5) Inspekcijski nadzor nad cijenama te isporukom komunalnih usluga provodi Državni inspektorat.«
-
-### Članak 11.
-
-Članak 19. mijenja se i glasi:
-
-»(1) Komunalna je naknada prihod proračuna jedinice lokalne samouprave. Sredstva komunalne naknade namijenjena su financiranju obavljanja ovih komunalnih djelatnosti:
-
-1. odvodnja atmosferskih voda,
-
-2. održavanje čistoće u dijelu koji se odnosi na čišćenje javnih površina,
-
-3. održavanje javnih površina,
-
-4. održavanje nerazvrstanih cesta,
-
-5. javna rasvjeta.
-
-(2) Komunalnu naknadu plaćaju vlasnici, odnosno korisnici:
-
-1. stambenoga prostora,
-
-2. poslovnoga prostora,
-
-3. garažnoga prostora,
-
-4. građevnog zemljišta koje služi u svrhu obavljanja poslovne djelatnosti,
-
-5. neizgrađenoga građevnog zemljišta.
-
-(3) Komunalna naknada plaća se u naselju u kojemu se najmanje obavljaju komunalne djelatnosti održavanja javnih površina, održavanja nerazvrstanih cesta i javne rasvjete, pod uvjetom da je do zemljišne čestice uređena javna pristupna površina (asfaltirana, betonirana, popločana ili sl.), odnosno osnovana služnost od uređene javne pristupne površine do te čestice.
-
-(4) Građevnim zemljištem u smislu ovoga Zakona smatra se zemljište koje se nalazi unutar granica građevnoga područja naselja, a na kojemu se, u skladu s prostornim planom, mogu graditi građevine za stambene, poslovne, športske ili druge namjene.
-
-(5) Neizgrađenim građevnim zemljištem u smislu ovoga Zakona smatra se zemljište iz stavka 4. ovoga članka na kojemu nije izgrađena nikakva građevina ili na kojemu postoji privremena građevina za čiju izgradnju nije potrebno odobrenje za gradnju. Neizgrađenim građevnim zemljištem smatra se i zemljište na kojemu se nalaze ostaci nekadašnje građevine.
-
-(6) Iznimno, komunalna naknada ne plaća se za nekretnine:
-
-1. kojima se koristi Hrvatska vojska za djelatne potrebe obrane (vojarne, vježbališta i sl.),
-
-2. koje se upotrebljavaju za djelatnost javnoga predškolskoga, osnovnoga, srednjega i visokog obrazovanja, muzeja kojih je osnivač Republika Hrvatska i arhiva,
-
-3. koje koriste ustanove zdravstvene zaštite i socijalne skrbi u vlasništvu države i županije,
-
-4. koje se upotrebljavaju za djelatnost vatrogasnih službi,
-
-5. koje služe vjerskim zajednicama za obavljanje njihove vjerske i obrazovne djelatnosti,
-
-6. za građevna zemljišta na kojima su spomenobilježja, spomenpodručja i masovne grobnice,
-
-7. za koje se odlukom o komunalnoj naknadi utvrdi da su važne za jedinicu lokalne samouprave, a njihovo se održavanje financira iz proračuna, pod uvjetom da te nekretnine njihovi korisnici ne daju u najam, podnajam, zakup, podzakup ili na privremeno korištenje.«
-
-### Članak 12.
-
-Članak 20. mijenja se i glasi:
-
-»(1) Predstavničko tijelo jedinice lokalne samouprave donosi odluku o komunalnoj naknadi kojom se obvezatno utvrđuju:
-
-- naselja u jedinicama lokalne samouprave u kojima se naplaćuje komunalna naknada,
-
-- područja zona u gradu, odnosno općini,
-
-- koeficijenti zona (Kz) za pojedine zone,
-
-- koeficijent namjene (Kn) za poslovni prostor i za građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti,
-
-- nekretnine važne za jedinicu lokalne samouprave koje se u potpunosti ili djelomično, oslobađaju od plaćanja komunalne naknade,
-
-- uvjeti i razlozi zbog kojih se u pojedinačnim slučajevima može odobriti privremeno oslobađanje od plaćanja komunalne naknade.
-
-(2) Rješenje o komunalnoj naknadi donosi upravni odjel jedinice lokalne samouprave u čijemu su djelokrugu poslovi komunalnoga gospodarstva za kalendarsku godinu do 31. siječnja tekuće godine, ako se na osnovi odluke predstavničkoga tijela mijenja njezina visina u odnosu na prethodnu godinu.
-
-(3) Rješenjem o komunalnoj naknadi utvrđuje se visina komunalne naknade po m2 obračunske površine, obračunska površina i mjesečni iznos komunalne naknade.
-
-(4) Komunalna naknada plaća se mjesečno, najkasnije do 20-og u mjesecu za protekli mjesec.
-
-(5) Upravno tijelo iz stavka 2. ovoga članka donosi rješenje o privremenome, potpunom ili djelomičnom oslobađanju od plaćanja komunalne naknade.
-
-(6) Izvršno rješenje o komunalnoj naknadi izvršava se u postupku i na način određen propisima o prisilnoj naplati poreza na dohodak, odnosno dobit.
-
-(7) Protiv rješenja jedinice lokalne samouprave iz stavka 2. i 5. ovoga članka može se izjaviti žalba upravnomu tijelu županije u čijemu su djelokrugu poslovi komunalnoga gospodarstva, a protiv rješenja koja donosi Grad Zagreb žalba se izjavljuje ministarstvu u čijemu je djelokrugu komunalno gospodarstvo.«
-
-### Članak 13.
-
-Iza članka 20. dodaju se članci 20a., 20b., 20c. i 20d. koji glase:
-
-»Članak 20a.
-
-(1) Visina komunalne naknade određuje se ovisno o:
-
-- lokaciji nekretnine, odnosno zoni u kojoj se nalazi nekretnina,
-
-- vrsti nekretnine iz članka 19. stavka 2. ovoga Zakona.
-
-(2) Komunalna naknada obračunava se po m2 površine i to za stambeni, poslovni i garažni prostor po jedinici korisne površine koja se utvrđuje na način propisan Uredbom o uvjetima i mjerilima za utvrđivanje zaštićene najamnine (»Narodne novine«, br. 40/97.), a za građevno zemljište po jedinici stvarne površine.
-
-(3) Iznos komunalne naknade po m2 obračunske površine nekretnine utvrđuje se množenjem:
-
-1. vrijednosti obračunske jedinice - boda (B), određene u kunama po m2 (u daljnjem tektu: vrijednost boda),
-
-2. koeficijenta zone (Kz),
-
-3. koeficijenta namjene (Kn).
-
-### Članak 20b.
-
-(1) Vrijednost boda (B) određuje odlukom predstavničko tijelo jedinice lokalne samouprave do kraja rujna tekuće godine za sljedeću kalendarsku godinu, nakon donošenja odluke o komunalnoj naknadi.
-
-(2) Vrijednost boda iz stavka 1. ovoga članka jednaka je mjesečnoj visini komunalne naknade po m2 korisne površine stambenoga prostora u prvoj zoni općine, odnosno grada.
-
-(3) Ako predstavničko tijelo ne odredi vrijednost boda iz stavka 1. ovoga članka najkasnije do kraja rujna tekuće godine, za obračun komunalne naknade u sljedećoj kalendarskoj godini vrijednost boda se ne mijenja.
-
-### Članak 20c.
-
-(1) Koeficijent zone (Kz) određuje predstavničko tijelo jedinice lokalne samouprave za pojedine zone, a najviši koeficijent u prvoj zoni općine, odnosno grada iznosi 1,00.
-
-(2) Područja zona u gradu, odnosno općini utvrđuje predstavničko tijelo jedinice lokalne samouprave ovisno o pogodnosti položaja i komunalnoj opremljenosti određenoga područja, prema vlastitim uvjetima i mjerilima.
-
-### Članak 20d.
-
-(1) Koeficijent namjene (Kn) ovisi o vrsti nekretnine iz članka 19. stavka 2. ovoga Zakona i iznosi za:
-
-- stambeni prostor i prostor koji koriste  
-neprofitne organizacije - koeficijent 1,00
-
-- garažni prostor - koeficijent 1,00
-
-- neizgrađeno građevno zemljište - koeficijent 0,05
-
-(2) Koeficijent namjene za poslovni prostor i za građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti određuje predstavničko tijelo jedinice lokalne samouprave pod uvjetom da:
-
-- za poslovni prostor koji služi za proizvodne djelatnosti koeficijent ne može biti manji od 1,00 niti veći od 5,00,
-
-- za poslovni prostor koji služi za ostale djelatnosti koeficijent ne može biti manji od 1,00 niti veći od 10,00,
-
-- za građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti koeficijent može biti najviše do 10% koeficijenta namjene koji je određen za poslovni prostor.
-
-(3) Za poslovni se prostor i građevno zemljište koje služi u svrhu obavljanja poslovne djelatnosti, u slučaju kad se poslovna djelatnost ne obavlja više od 6 mjeseci u kalendarskoj godini, koeficijent namjene umanjuje za 50%, ali ne može biti manji od koeficijenta namjene za stambeni prostor, odnosno neizgrađeno građevinsko zemljište.«
-
-### Članak 14.
-
-Ispred članka 21. briše se podnaslov, a članak 21. mijenja se i glasi:
-
-»(1) Predstavničko tijelo jedinice lokalne samouprave, nakon donošenja odluke o komunalnoj naknadi, za svaku kalendarsku godinu u skladu s predvidivim sredstvima i izvorima financiranja donosi Program održavanja komunalne infrastrukture za djelatnost iz članka 19. stavka 1. ovoga Zakona.
-
-(2) Programom iz stavka 1. ovoga članka obvezatno se utvrđuje:
-
-- opis i opseg poslova održavanja s procjenom pojedinih troškova, po djelatnostima,
-
-- iskaz financijskih sredstava potrebnih za ostvarivanje programa, s naznakom izvora financiranja.
-
-(3) Poglavarstvo jedinice lokalne samouprave dužno je do kraja ožujka svake godine predstavničkomu tijelu jedinice lokalne samouprave podnijeti izvješće o izvršenju Programa iz stavka 1. ovoga članka, za prethodnu kalendarsku godinu.«
-
-### Članak 15.
-
-U članku 22. stavku 1. točka 3. riječi: »groblja i krematorije«, briše se.
-
-Dosadašnja točka 4. postaje točka 3.
-
-U stavku 2. na kraju stavka briše se točka, i dodaje točka 4. koja glasi:
-
-»4. naknade za koncesije, osim naknade za koncesije za obavljanje pogrebnih poslova.«
-
-Iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
-
-»(3) Građenje groblja i krematorija financira se iz:
-
-1. proračuna jedinice lokalne samuprave,
-
-2. naknade za koncesiju za obavljanje pogrebnih poslova,
-
-3. drugih izvora utvrđenih posebnim propisima.
-
-(4) Predstavničko tijelo jedinice lokalne samouprave, u skladu s predvidivim sredstvima i izvorima financiranja donosi Program gradnje objekata i uređaja komunalne infrastrukture iz stavka 1., 2. i 3. ovoga članka, za dvogodišnje kalendarsko razdoblje, koji obvezatno sadrži:
-
-- opis poslova s procjenom troškova za gradnju pojedinih objekata i uređaja te za nabavku opreme,
-
-- iskaz financijskih sredstava potrebnih za ostvarivanje programa s naznakom izvora financiranja po djelatnostima u kojemu se posebno iskazuje iznos koji je sadržan u cijeni komunalne usluge (članak 18. stavak 3.).
-
-(5) Poglavarstvo jedinice lokalne samouprave dužno je do kraja ožujka svake godine podnijeti predstavničkomu tijelu jedinice lokalne samouprave izvješće o izvršenju Programa iz stavka 4. ovoga članka, za prethodnu kalendarsku godinu.«
-
-### Članak 16.
-
-Članak 23. mijenja se i glasi:
-
-»(1) Komunalni je doprinos prihod proračuna jedinice lokalne samouprave. Sredstva komunalnoga doprinosa namijenjena su financiranju gradnje objekata i uređaja komunalne infrastrukture iz članka 22. stavka 1. ovoga Zakona.
+(1) Komunalni je doprinos prihod proračuna jedinice lokalne samouprave. Sredstva komunalnog doprinosa namijenjena su financiranju gradnje objekata i uređaja komunalne infrastrukture iz članka 30. stavka 1. ovoga Zakona.
 
 (2) Komunalni doprinos plaća vlasnik građevne čestice na kojoj se gradi građevina, odnosno investitor.
 
 (3) Predstavničko tijelo jedinice lokalne samouprave donosi odluku o komunalnom doprinosu kojom se obvezatno utvrđuju:
 
-- područja zona u gradu, odnosno općini, ovisno o pogodnosti položaja određenog područja,
+– područja zona u gradu, odnosno općini, ovisno o pogodnosti položaja određenog područja,
 
-- jedinična vrijednost komunalnoga doprinosa određena u kunama po m3 građevine, za pojedine zone,
+– jedinična vrijednost komunalnoga doprinosa određena u kunama po m<sup>3</sup> građevine, za pojedine zone,
 
-- način i rokovi plaćanja komunalnoga doprinosa,
+– način i rokovi plaćanja komunalnog doprinosa,
 
-- uvjeti i razlozi zbog kojih se u pojedinačnim slučajevima može odobriti djelomično ili potpuno oslobađanje od plaćanja komunalnoga doprinosa.
+– opći uvjeti i razlozi zbog kojih se u pojedinačnim slu­čajevima može odobriti djelomično ili potpuno oslobađanje od plaćanja komunalnog doprinosa,
 
-(4) Komunalni doprinos obračunava se u skladu s obujmom, odnosno po m3 (prostornom metru) građevine koja se gradi na građevnoj čestici, a kod građevine koja se uklanja zbog gradnje nove građevine ili kada se postojeća građevina dograđuje ili nadograđuje, komunalni se doprinos obračunava na razliku u obujmu u odnosu na prijašnju građevinu.
+– izvore sredstava iz kojih će se namiriti iznos za slučaj potpunog ili djelomičnog oslobađanja od plaćanja komunalnog doprinosa.
 
-(5) Jedinična vrijednost komunalnoga doprinosa za obračun po m3 građevine koja se gradi određuje se za pojedine zone u gradu, odnosno općini. Ta je vrijednost najviša za prvu zonu i ne može biti viša od 10% prosječnih troškova gradnje m3 etalonske građevine u Republici Hrvatskoj, a taj podatak objavljuje ministar u čijemu je djelokrugu komunalno gospodarstvo.
+(4) Komunalni doprinos obračunava se u skladu s obujomom, odnosno po m<sup>3</sup> (prostornom metru) građevine koja se gradi na građevnoj čestici, a kod građevine koja se uklanja zbog gra­đenja nove građevine ili kada se postojeća građevina do­građuje ili nadograđuje, komunalni se doprinos obračunava na razliku u obujmu u odnosu na prijašnju građevinu.
 
-(6) Iznimno od odredbe stavka 4. ovoga članka za otvorene bazene, otvorena igrališta i druge otvorene građevine komunalni se doprinos obračunava po m2 tlocrtne površine te građevine, pri čemu je jedinična vrijednost komunalnoga doprinosa za obračun njezine površine po m2 izražena u kunama jednaka jediničnoj vrijednosti komunalnoga doprinosa za obračun obujma po m3 građevina u toj zoni.
+(5) Jedinična vrijednost komunalnog doprinosa za obračun po m<sup>3</sup> građevine koja se gradi određuje se za pojedine zone u gradu, odosno općini. Ta je vrijednost najviša za prvu zonu i ne može biti viša od 10% prosječnih troškova gradnje m<sup>3</sup> etalonske građevine u Republici Hrvatskoj, a taj podatak objavljuje ministar u čijem je djelokrugu komunalno gospodarstvo.
 
-(7) Način utvrđivanja obujma građevine za obračun komunalnoga doprinosa propisat će ministar u čijem je djelokrugu komunalno gospodarstvo.«
+(6) Iznimno od odredbe stavka 4. ovoga članka za otvorene bazene, otvorena igrališta i druge otvorene građevine komunalni se doprinos obračunava po m<sup>2</sup> tlocrtne površine te građevine, pri čemu je jedinična vrijednost komunalnog doprinosa za obračun njezine površine po m<sup>2</sup> izražena u kunama jednaka jediničnoj vrijednosti komunalnoga doprinosa za obračun po m<sup>3</sup> građevina u toj zoni.
 
-### Članak 17.
+(7) Način utvrđivanja obujma građevine za obračun komunalnoga doprinosa propisat će ministar u čijem je djelokrugu komunalno gospodarstvo.
 
-Članak 24. mijenja se glasi:
+Rješenje o komunalnom doprinosu za financiranje građenja objekata i uređaja komunalne infrastrukture
 
-»(1) Tijelo državne uprave koje donosi akt na temelju kojeg se može graditi, dužno je u roku od 8 dana od dana podnošenja zahtjeva za izdavanje tog akta jedan primjerak projektne dokumentacije dostaviti upravnom odjelu jednice lokalne samouprave nadležnom za poslove komunalnog gospodarstva, radi donošenja rješenja o komunalnom doprinosu.
+###### Članak 32.
 
-(2) Rješenje o komunalnom doprinosu donosi se na temelju odluke o komunalnom doprinosu iz članka 23. stavka 3. ovoga Zakona, pojedinačno za obveznika najkasnije do izdavanja akta na temlju kojeg se može graditi.
+(1) Tijelo državne uprave koje donosi akt na temelju kojeg se može graditi, dužno je u roku od 8 dana od dana podnošenja zahtjeva za izdavanje tog akta jedan primjerak projektne dokumentacije dostaviti upravnom odjelu jedinice lokalne samouprave nadležnom za poslove komunalnog gospodarstva, radi donošenja rješenja o komunalnom doprinosu.
+
+(2) Rješenje o komunalnom doprinosu donosi upravno tijelo jedinice lokalne samouprave nadležno za komunalno gospodarstvo, na temelju odluke o komunalnom doprinosu iz članka 31. stavka 3. ovoga Zakona, u postupku pokrenutom po zahtjevu stranke ili po službenoj dužnosti.
 
 (3) Rješenje iz stavka 2. ovoga članka obvezatno sadrži:
 
@@ -1089,31 +791,29 @@ Iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
 
 2. način i rokove plaćanja komunalnog doprinosa,
 
-3. prikaz načina obračuna komunalnog doprinosa za građevinu koja se gradi,
+3. prikaz načina obračuna komunalnog doprinosa za građe­vinu koja se gradi,
 
-4. obvezu jedinice lokalne samouprave glede uređenja pristupa od javne površine do građevinske čestice na način iz članka 19. stavka 3. ovoga Zakona,
+4. popis i rok izgradnje objekta i uređaja komunalne infrastrukture,
 
 5. obvezu povrata sredstava ako jedinica lokalne samouprave ne izvrši svoju obvezu.
 
-(4) Ništavo je rješenje koje ne sadrži obvezne elemente propisane stavkom 3. ovoga članka.
+(4) Obveza plaćanja komunalnog doprinosa po rješenju iz stavka 2. ovoga članka počinje teći od dana konačnosti akta na temelju kojeg se može graditi.
 
-(5) Protiv rješenja jedinice lokalne samouprave iz stavka 2. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješenja koja donosi Grad Zagreb žalba se izjavljuje ministarstvu nadležnom za komunalno gospodarstvo.
+(5) Ništavo je rješenje koje ne sadrži obvezne elemente propisane stavkom 3. ovoga članka.
 
-(6) Izvršno rješenje o komunalnom doprinosu izvršava se u postupku i na način određen propisima o prisilnoj naplati poreza na dohodak odnosno dobit.
+(6) Protiv rješenja jedinice lokalne samouprave iz stavka 2. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješe­nja koja donosi Grad Zagreb žalba se izjavljuje ministarstvu nadležnom za komunalno gospodarstvo.
 
-### Članak 18.
+(7) Izvršno rješenje o komunalnom doprinosu izvršava uprav­no tijelo iz stavka 2. ovoga članka u postupku i na način određen propisima o prisilnoj naplati poreza na dohodak, odnosno dobit.
 
-Ispred članka 25. briše se podnaslov, a članak 25. mijenja se i glasi:
+###### Članak 33.
 
-»(1) Ako do građevne čestice na kojoj se gradi građevina nije uređen pristup od javne površine na način iz članka 19. stavka 3. ovoga Zakona, jedinica lokalne samouprave dužna je osigurati taj pristup u roku od 3 godine od uplaćenoga komunalnog doprinosa. U protivnome osoba koja je uplatila doprinos, odnosno njezin pravni sljednik, ima pravo na povrat tih sredstava.
+Obveznik komunalnog gospodarstva može uz suglasnost jedinice lokalne samouprave i sam snositi troškove gradnje objekata i uređaja komunalne infrastrukture iz članka 30. stavka 1. točke 2. ovoga Zakona te da mu se ti troškovi priznaju u iznos komunalnoga doprinosa, pod uvjetima utvrđenim pisanim ugovorom s jedinicom lokalne samouprave.
 
-(2) Obveznik komunalnoga doprinosa može uz suglasnost jedinice lokalne samouprave i sam snositi troškove gradnje pristupne površine iz stavka 1. ovoga članka te da mu se ti troškovi priznaju u iznos komunalnoga doprinosa, pod uvjetima utvrđenim pisanim ugovorom s jedinicom lokalne samouprave.«
+Obveza priključivanja
 
-### Članak 19.
+###### Članak 34.
 
-U članku 26. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase.
-
-»(2) Odlukom o uvjetima priključivanja na komunalnu infrastrukturu iz stavka 1. ovoga članka utvrđuje se postupak, tehničko-tehnološki uvjeti i rokovi priključivanja za pojedine priključke za:
+(1) Predstavničko tijelo jedinice lokalne samouprave donosi odluku o priključenju na komunalnu infrastrukturu za:
 
 1. opskrbu pitkom vodom,
 
@@ -1123,127 +823,194 @@ U članku 26. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase.
 
 4. opskrbu toplinskom energijom.
 
-(3) Vlasnik građevne čestice, odnosno građevine plaća cijenu stvarnih troškova rada i utrošenog materijala na izvedbi komunalnoga priključka neposredno nositelju izvedbe priključka, na temelju pisanog ugovora i računa za izvršeni posao.«
+(2) Odlukom iz stavka 1. ovoga članka utvrđuje se:
 
-Dosadašnji stavak 2. briše se, a stavci 3. i 4. postaju stavci 4. i 5.
+– postupak,
 
-### Članak 20.
+– tehničko-tehnološki uvjeti,
 
-Iza članka 26. dodaju se članci 26a. i 26b. koji glase:
+– rokovi za pojedine priključke,
 
-»Članak 26a.
+– naknada za priključenje,
 
-(1) Priključenje na komunalnu infrastrukturu iz članka 26. stavka 2. točke 1., 3. i 4. ovoga Zakona treba se izvesti na način da svaki posebni dio zgrade koji predstavlja samostalnu uporabnu cjelinu (stan, poslovni prostor, garaža i sl.), odnosno svaki pojedinačni potrošač ima ugrađen poseban uređaj za mjerenje potrošnje, a kod opskrbe toplinskom energijom obvezatna je i ugradnja uređaja za regulaciju potrošnje.
+– način plaćanja naknade i
 
-(2) Tehničko-tehnološke uvjete za ugradnju mjernog i regulacijskog uređaja iz stavka 1. ovoga članka određuje isporučitelj komunalne usluge, a stvarni trošak ugradnje plaća vlasnik nekretnine u skladu s odredbom članka 26. stavka 3. ovoga Zakona.«
+– kaznene odredbe.
 
-### Članak 26b.
+(3) Vlasnik građevine dužan je priključiti svoju građevinu na komunalnu infrastrukturu za opskrbu pitkom vodom i odvodnju otpadnih voda.
 
-(1) U slučaju da gradnja određenog objekta, odnosno uređaja komunalne infrastrukture za djelatnosti iz članka 26. stavka 2. ovoga Zakona nije predviđena Programom gradnje objekata i uređaja komunalne infrastrukture, budući korisnici komunalne usluge koji bi se priključili na tu komunalnu infrastrukturu mogu sudjelovati u financiranju njezine gradnje, uz povrat uloženih sredstava u određenom roku, pod uvjetima utvrđenim pisanim ugorovom s jedinicom lokalne samouprave.
+(4) Predstavničko tijelo jedinice lokalne samouprave može odlukom iz stavka 1. ovoga članka utvrditi područja na kojima se vlasnik građevine može izuzeti od obveze priključenja na komunalnu infrastrukturu iz stavka 3. ovoga članka, ukoliko je isti na zadovoljavajući način pojedinačno osigurao svoje potrebe.
 
-(2) Sredstva iz stavka 1. ovoga članka za financiranje gradnje uplaćuju se na račun jedinice lokalne samouprave, a rok povrata sredstava ne može biti dulji od 5 godina od dana sklapanja ugovora.«
+###### Članak 35.
 
-### Članak 21.
+(1) Vlasnik građevne čestice, odnosno građevine plaća cijenu stvarnih troškova i utrošenog materijala na izvedbi komunalnog priključka neposredno nositelju izvedbe priključka na temelju pisanog ugovora i računa za izvršeni posao.
 
-U članku 28. stavci 1. i 2. mijenjaju se i glase:
+(2) Naknada za priključenje iz članka 34. stavka 2. ovoga Zakona prihod je proračuna jedinice lokalne samouprave namijenjena za financiranje građenja objekata i uređaja komunalne infrastrukture u skladu s Programom građenja objekata i uređaja komunalne infrastrukture iz članka 30. stavka 4. ovoga Zakona.
 
-»(1) Novčanom kaznom u iznosu od 50.000,00 do 200.000,00 kuna kaznit će se za prekršaj isporučitelj komunalne usluge, odnosno osoba koja obavlja komunalnu djelatnost ili druga pravna i fizička osoba ako:
+(3) Visina naknade za priključenje po pojedinom priključku za potrebe stanovanja ne može biti veća od prosječne mjesečne bruto plaće u Republici Hrvatskoj za prethodnu godinu.
+
+###### Članak 36.
+
+(1) Priključenje na komunalnu infrastrukturu iz članka 34. stavka 1. točke 1., 3. i 4. ovoga Zakona treba se izvesti na način da svaki posebni dio zgrade koji predstavlja samostalnu uporabnu cjelinu (stan, poslovni prostor, garaža i sl.), odnosno svaki pojedinačni potrošač ima ugrađen poseban uređaj za mjerenje potrošnje, a kod opskrbe toplinskom energijom obvezatna je i ugradnja uređaja za regulaciju potrošnje.
+
+(2) Tehničko-tehnološke uvjete za ugradnju mjernog i regulacijskog uređaja iz stavka 1. ovoga članka određuje isporučitelj komunalne usluge, a stvarni trošak ugradnje plaća vlasnik nekretnine u skladu s odredbom članka 35. stavka 2. ovoga Zakona.
+
+###### Članak 37.
+
+(1) U slučaju da gradnja određenog objekta, odnosno uređaja komunalne infrastrukture za djelatnosti iz članka 34. stavka 1. ovoga Zakona nije predviđena Programom gradnje objekata i uređaja komunalne infrastrukture, budući korisnici komunalne usluge koji bi se priključili na tu komunalnu infrastrukturu mogu sudjelovati u financiranju njezine gradnje, uz povrat uloženih sred­stava u određenom roku, pod uvjetima utvrđenim pisanim ugovorom s jedinicom lokalne samouprave.
+
+(2) Sredstva iz stavka 1. ovoga članka za financiranje grad­nje uplaćuju se na račun jedinice lokalne samouprave, a rok povrata sredstava ne može biti dulji od 5 godina od dana sklapanja ugovora.
+
+###### Članak 38.
+
+(1) Upravno tijelo jedinice područne (regionalne) samouprave u čijem su djelokrugu poslovi komunalnog gospodarstva dužno je voditi evidenciju o visini komunalne naknade (vrijednosti boda, koeficijenta zone i koeficijenta namjene), naknade za priključenje i komunalnog doprinosa (jedinične vrijednosti komunalnog doprinosa za pojedine zone) u jedinicama lokalne samouprave na području županije.
+
+(2) Upravno tijelo jedinice područne (regionalne) samouprave u čijem je djelokrugu gospodarstvo dužno je voditi evidenciju o visini cijena komunalnih usluga iz članka 20. stavka 3. ovoga Zakona u jedinicama lokalne samouprave na području jedinice područne (regionalne) samouprave, te načinu njihova obračuna i plaćanja.
+
+### VI. NADZOR
+
+Upravni nadzor
+
+###### Članak 39.
+
+(1) Nad provedbom ovoga Zakona Vlada Republike Hrvatske i nadležno ministarstvo provodi nadzor zakonitosti rada.
+
+(2) Inspekcijski nadzor nad provedbom ovoga Zakona obavljaju gospodarski inspektori Državnog inspektorata, osim ako ovim Zakonom nije drukčije određeno.
+
+### VII. KAZNENE ODREDBE
+
+Novčane kazne za isporučitelje komunalnih usluga i odgovorne osobe
+
+###### Članak 40.
+
+(1) Novčanom kaznom u iznosu od 50.000,00 do 200.000,00 kuna kaznit će se za prekršaj isporučitelj komunalne usluge, odnosno osoba koja obavlja komunalnu djelatnost ili duga pravna i fizička osoba ako:
 
 1. objekte i uređaje komunalne infrastrukture ne održava u stanju funkcionalne sposobnosti, a zbog čega dolazi do prekida u obavljanju komunalne djelatnosti, odnosno neredovite isporuke komunalne usluge,
 
 2. bez opravdanih razloga prestane isporučivati komunalnu uslugu ili obustavi isporuku komunalne usluge korisniku koji je plaća,
 
-3. ne ispunjava uvjete za obavljanje komunalnih djelatnosti prema odredbama ovoga Zakona (članak 4. i 4a) ili nije registirana za obavljanje te djelatnosti,
+3. ne ispunjava uvjete za obavljanje komunalnih djelatnosti prema odredbama ovoga Zakona (članak 4. i 5.) ili nije registrirana za obavljanje te djelatnosti,
 
 4. korisniku komunalne usluge naplati cijenu komunalne usluge višu od postojeće cijene,
 
-5. ne prijavi cjenik jedinici lokalne samouprave (članak 18a. stavak 1),
+5. ne pribavi prethodnu suglasnost pri promjeni cijene komunalne usluge (članak 21. stavak 1.),
 
-6. obračuna troškove odnosno cijenu priključenja na komunalnu infrastrukturu protivno odredbi članku 26. stavka 3. ovoga Zakona,
+6. obračuna troškove, odnosno cijenu priključenja na komunalnu infrastrukturu protivno odredbi članka 35. stavka 1. ovoga Zakona,
 
-7. priključi građevinu bez dozvole na komunalnu infrastrukturu (članak 26. stavak 5.),
+7. pravna ili fizička osoba koja se protupravno koristi priključkom na uređaje za opskrbu pitkom vodom i odvodnjom otpadnih voda kaznit će se novčanom kaznom u visini od 3.000,00 do 7.000,00 kuna,
 
-8. priključi građevinu na komunalnu infrastrukturu protivno odredbi članka 26a. stavka 1. ovoga Zakona.
+8. priključi građevinu na komunalnu infrastrukturu protivno odredbi članka 36. stavka 1. ovoga Zakona.
 
-(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 50.000,00 kuna.«
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 50.000,00 kuna.
 
-U stavku 3. iza broja: »4.« stavlja se zarez i dodaje broj: »6.«.
+(3) Za prekršaj iz stavka 1. točke 4. i 6. ovoga članka izreći će se zaštitna mjera oduzimanja imovinske koristi ostvarene izvršenjem prekršaja i povrat više naplaćenih iznosa oštećenim korisnicima.
 
-### Članak 22.
+(4) Zahtjev za pokretanje prekršajnog postupka za prekršaje iz stavka 1. ovoga članka pokreće Državni inspektorat.
 
-(1) Upravno tijelo županije, odnosno Grada Zagreba u čijemu su djelokrugu poslovi komunalnoga gospodarstva dužno je voditi evidencije o visini komunalne naknade (vrijednosti boda, koeficijenata zone i koeficijenata namjene) i komunalnoga doprinosa (jediničnih vrijednosti komunalnog doprinosa za pojedine zone) u jedinicama lokalne samouprave na području županije.
+(5) Fizička ili pravna osoba koja ne postupi sukladno odredbi članka 22. stavka 6. ovoga Zakona kaznit će se novčanom kaznom u iznosu godišnje komunalne naknade.
 
-(2) Upravno tijelo županije, odnosno Grada Zagreba u čijemu je djelokrugu gospodarstvo dužno je voditi evidencije o visni cijena komunalnih usluga iz članka 18. stavka 1. ovoga Zakona u jedinicama lokalne samouprave na području županije, te načinu njihova obračuna i plaćanja.
+(6) Zahtjev za pokretanje prekršajnog postupka za prekršaje iz stavka 5. ovoga članka pokreće upravno tijelo jedinice lokalne samouprave nadležno za poslove komunalnog gospodarstva.
 
-### Članak 23.
+(7) Novčane kazne naplaćene prema ovom Zakonu prihod su proračuna jedinice lokalne samouprave na čijem su području učinjeni prekršaji.
 
-(1) Postupak pokrenut prema odredbama članka 20. i članka 24. Zakona o komunalnome gospodarstvu (»Narodne novine«, br. 36/95. i 70/97.) dovršit će se prema odredbama toga zakona.
+### VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
 
-(2) Priključenje na komunalnu infrastrukturu na način određen člankom 26a. stavkom 1. ovoga Zakona obvezatno je za građevine za koje će se nakon stupanja na snagu ovoga Zakona podnijeti zahtjev za izdavanje akta na temelju kojeg se može pristupiti građenju.
+Usklađivanje rada pravnih osoba s odredbama ovoga Zakona
 
-(3) Vlasnik posebnoga dijela zgrade koja je na dan stupanja na snagu ovoga Zakona priključena na komunalnu infrastrukturu iz članka 26. stavak 2. točka 1., 3. i 4. ovoga Zakona putem zajedničkog uređaja za mjerenje potrošnje više pojedinačnih potrošača, može zatražiti ugradnju zasebnog uređaja za mjerenje potrošnje, a koji će se ugraditi na njegov trošak ako tehničko-tehnološki uvjeti to omogućuju.
+###### Članak 41.
 
-### Članak 24.
+(1) Društveni kapital pravnih osoba koje su registrirane za obavljanje komunalnih djelatnosti danom stupanja na snagu Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95.) postaje zajedničko vlasništvo jedinica lokalne samouprave organiziranih na području bivše općine prema sjedištu pravne osobe.
 
-(1) Propis iz članka 9. stavka 4. ovoga Zakona donijet će ministar financija u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Hrvatski fond za privatizaciju dužan je dionice dioni­čarskih društava nastalih u provedbi odredbe članka 3. Zakona o izmjenama i dopunama Zakona o pretvorbi i organiziranju podu­zeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanja tržnica na malo, prenijeti u zajedničko vlasništvo jedinica lokalne samouprave organiziranih na području bivše općine prema sjedištu društva u roku od 3 mjeseca od dana stupanja na snagu Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95.).
 
-(2) Propis iz članka 16. stavka 7. ovoga Zakona donijet će ministar u čijem je djelokrugu komunalno gospodarstvo u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+(3) Poduzeća koja nisu postupila prema odredbi članka 3. Zakona o izmjenama i dopunama Zakona o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima ure­đenja naselja i prostora, prijevoza putnika u gradskom i prigrad­skom prometu i djelatnosti uređenja i održavanja tržnica na malo, dužna su dionice prenijeti u zajedničko vlasništvo jedinica lokalne samouprave organiziranih na području bivše općine prema sjedištu društva u roku od 3 mjeseca od dana stupanja na snagu Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95.).
 
-(3) Podatak iz članka 16. stavka 5. ovoga Zakona objavit će ministar u čijem je djelokrugu komunalno gospodarstvo u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+(4) Društveni kapital iz stavka 1. i dionice iz stavka 2. i 3. ovoga članka jedinice lokalne samouprave sporazumno će podijeliti u roku od 6 mjeseci od dana stupanja na snagu Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95.). U slučaju izostanka sporazumnog rješenja primijenit će se odredba članka 87. stavka 2. Zakona o lokalnoj samoupravi i upravi.
 
-### Članak 25.
+Stavljanje izvan snage ranijih propisa
 
-(1) Jedinice lokalne samouprave dužne su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti opće akte u skladu s odredbama ovoga Zakona.
+###### Članak 42.
 
-(2) Propisi jedinice lokalne samouprave koji nisu usklađeni s odredbama ovoga Zakona prestaju važiti nakon isteka roka iz stavka 1. ovoga članka.
+(1) Danom primjene Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95.) prestaje važiti:
 
-### Članak 26.
+1. Zakon o komunalnim djelatnostima (»Narodne novine«, br. 15/79., 18/79. i 26/93.),
 
-Danom stupanja na snagu ovoga Zakona prestaju važiti:
+2. Zakon o fondovima u stambenom i komunalnom gospodarstvu (»Narodne novine«, br. 53/90. i 76/93.), u dijelu koji se odnosi na fondove u komunalnom gospodarstvu,
 
-- odredbe Glave V. Zakonom o iznimnim mjerama kontrole cijena (»Narodne novine«, br. 73/97.),
+3. članak 13. stavak 1. točka 1. te stavak 2. riječi: »poslove iz točke 1. obavlja županijska skupština« i članak 25. Zakona o određivanju poslova iz samoupravnog djelokruga jedinica lokalne samouprave i uprave (»Narodne novine«, br. 75/93.),
 
-- Uredba o izravnim mjerama kontrole cijena za određene komunalne usluge (»Narodne novine«, br. 45/99.),
+4. Zakon o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređe­nja i održavanja tržnica na malo (»Narodne novine«, br. 91/92., 14/93. i 70/93.),
 
-- odredbe članka 91. i 92. Zakona iz točke 1. članka 1. Zakona o preuzimanju saveznih zakona iz područja obrane koji se u Republici Hrvatskoj primjenjuju kao republički propisi (»Narodne novine«, br. 52/91.).
+5. članak 23. stavak 5. i 6. Zakona o prijevozu u unutarnjem cestovnom prometu (»Narodne novine«, br. 77/92. i 26/93.),
 
-### Članak 27.
+6. članak 2. Zakona o izmjenama i dopunama Zakona o cestama (»Narodne novine«, br. 109/93.).
 
-Ovlašćuje se Odbor za zakonodavstvo Zastupničkog doma Hrvatskoga državnog sabora da utvrdi i izda pročišćeni tekst Zakona o komunalnom gospodarstvu.
+###### Članak 43.
 
-### Članak 28.
+(1) »Hrvatska elektroprivreda« d.d. Zagreb prenijet će bez naknade do 31. prosinca 1997. u stanju funkcionalne sposobnosti u vlasništvo jedinica lokalne samouprave i uprave objekte i uređaje u svom vlasništvu koji se koriste isključivo za javnu rasvjetu.
 
-Ovaj Zakon stupa na snagu 1. siječnja 2000.
+(2) Na objektima i uređajima koji se koriste za obavljanje djelatnosti »Hrvatske elektroprivrede« d.d. Zagreb, a istovremeno se koriste za javnu rasvjetu, »Hrvatska elektroprivreda« d.d. Zagreb, zadržavajući vlasništvo osnovat će ugovorom s jedinicama lokalne samouprave i uprave pravo služnosti – pravo uporabe bez naknade za potrebe javne rasvjete u korist jedinice lokalne samouprave i uprave.
 
-Klasa: 363-01/94-01/02  
-Zagreb, 5. studenoga 1999.
+###### Članak 44.
 
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
+(1) Postupak pokrenut prema odredbama članka 20. i članka 24. Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95. i 70/97.) dovršit će se prema odredbama toga Zakona.
 
-Predsjednik  
-Zastupničkog doma  
-Hrvatskoga državnog sabora  
-akademik Vlatko Pavletić, v. r.
+(2) Priključenje na komunalnu infrastrukturu na način određen člankom 36. stavkom 1. ovoga Zakona obvezatno je za građevine za koje će se nakon stupanja na snagu Zakona o izmjenama i dopunama Zakon o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) podnijeti zahtjev za izdavanje akta na temelju kojeg se može pristupiti građenju.
 
-## Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (NN 57/2000)
+(3) Vlasnik posebnoga dijela zgrade koja je na dan stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) priključena na komunalnu infrastrukturu iz članka 26. stavka 2. točke 1., 3. i 4. Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97. i 128/99.) putem zajedničkog uređaja za mjerenje potrošnje više pojedinačnih potrošača, može zatražiti ugradnju zasebnog uređaja za mjerenje potrošnje, a koji će se ugraditi na njegov trošak ako tehničko-tehnološki uvjeti to omogućuju.
 
-*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/57/1261*
+###### Članak 45.
 
-ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA
+(1) Propis iz članka 9. stavka 4. Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) donijet će ministar financija u roku od dva mjeseca od dana stupanja na snagu toga Zakona.
 
-1261
+(2) Propis iz članka 16. stavka 7. Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) donijet će ministar u čijem je djelokrugu komunalno gospodarstvo u roku od dva mjeseca od dana stupanja na snagu toga Zakona.
 
-Na temelju članka 89. Ustava Republike Hrvatske, donosim
+(3) Podatak iz članka 16. stavka 5. Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) objavit će ministar u čijem je djelokrugu komunalno gospodarstvo u roku od 15 dana od dana stupanja na snagu toga Zakona.
+
+###### Članak 46.
+
+Danom stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) prestaju važiti:
+
+– odredbe Glave V. Zakona o iznimnim mjerama kontrole cijena (»Narodne novine«, br. 73/97.),
+
+– Uredba o izravnim mjerama kontrole cijena za određene komunalne usluge (»Narodne novine«, br. 73/97.),
+
+– odredbe članka 91. i 92. Zakona iz točke 1. članka 1. Zakona o preuzimanju saveznih zakona iz područja obrane koji se u Republici Hrvatskoj primjenjuju kao republički propisi (»Narodne novine«, br. 52/91.).
+
+###### Članak 47.
+
+(1) Postupci započeti prema odredbama općih akata jedinice lokalne samouprave donesenim prije stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.) okončat će se prema odredbama tih propisa.
+
+(2) Prekršajni postupci pokrenuti za djela koja su prema propisima koji su bili na snazi do stupanja na snagu Zakona o iz­mjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.) bila propisana kao prekršaj dovršit će se prema propisima koji su važili do dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.).
+
+###### Članak 48.
+
+(1) Jedinice lokalne samouprave dužne su do 31. prosinca 2001. uskladiti svoje opće akte s odredbama Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.).
+
+(2) Propisi jedinice lokalne samouprave koji nisu usklađeni s odredbama Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.) prestaju važiti nakon isteka roka iz stavka 1. ovoga članka.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu (NN 82/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/82/1618*
+
+HRVATSKI SABOR
+
+1618
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
 
 ODLUKU
 
-O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
 
-Proglašavam Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu, koji je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 1. lipnja 2000.
+Proglašavam Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu, koji je donio Hrvatski sabor na sjednici 4. lip­nja 2004. godine.
 
-Broj: 01-081-00-1855/2  
-Zagreb, 5. lipnja 2000.
+Broj: 01-081-04-2157/2  
+Zagreb, 9. lip­nja 2004.
 
 Predsjednik  
 Republike Hrvatske  
@@ -1251,25 +1018,320 @@ Stjepan Mesić, v. r.
 
 **ZAKON**
 
-**O IZMJENI ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
+**O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
 
 ### Članak 1.
 
-U Zakonu o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 128/99.) u članku 25. stavak 1. mijenja se i glasi:
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01. i 26/03. – pročišćeni tekst), u članku 3. stavku 1. točke 3. i 4. brišu se.
 
-»Jedinice lokalne samouprave dužne su u roku od 12 mjeseci od stupanja na snagu ovoga Zakona uskladiti opće akte u skladu s odredbama ovoga Zakona.«
+Dosadašnje točke 5. – 10. postaju točke 3. – 8.
+
+Dosadašnja točka 11. koja postaje točka 9. mijenja se i glasi:
+
+»Održavanje groblja i krematorija i prijevoz pokojnika.«
+
+Dosadašnje točke 12. i 13. postaju točke 10. i 11.
+
+Stavci 4. i 5. brišu se.
+
+Dosadašnji stavci 6. – 11. postaju stavci 4. do 9.
+
+U dosadašnjem stavku 12. koji postaje stavak 10. u podstavku 1. iza riječi: »sahrane pokojnika« točka se zamjenjuje zarezom i dodaju se riječi: »te ukop i kremiranje pokojnika«.
+
+Podstavak 2. mijenja se i glasi:
+
+»Pod prijevozom pokojnika razumijeva se preuzimanje i prijevoz umrle osobe od mjesta smrti do mrtvačnice na groblju ili krematoriju.«
+
+Dosadašnji stavci od 13. – 15. postaju stavci 11. – 13.
 
 ### Članak 2.
 
-Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+U članku 5. riječi: »i opskrbe plinom« brišu se.
 
-Klasa: 363-02/00-01/01  
-Zagreb, 1. lipnja 2000.
+### Članak 3.
 
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
+U članku 6. stavku 1. brojevi: »3., 4.« brišu se, a brojevi: »7., 8., 9. i 11.« zamjenjuju se brojevima:« 5., 6., 7. i 9.«.
+
+### Članak 4.
+
+U članku 11. stavku 1. podstavak 4. i 5. brišu se.
+
+Dosadašnji podstavci 6. – 9. postaju podstavci 4. – 7.
+
+Dosadašnji podstavak 10. koji postaje podstavak 8. mijenja se i glasi:
+
+»– prijevoz pokojnika i«.
+
+Dosadašnji podstavak 11. postaje podstavak 9.
+
+### Članak 5.
+
+U članku 20. stavku 1. točke 3. i 4. brišu se.
+
+Dosadašnje točke 5. – 8. postaju točke 3. – 6.
+
+Dosadašnja točka 9. koja postaje točka 7. mijenja se i glasi:
+
+»7. prijevoz pokojnika«.
+
+Dosadašnja točka 10. postaje točka 8.
+
+U stavku 3. iza riječi: »iznos za« dodaju se riječi: »održa­vanje i«.
+
+### Članak 6.
+
+U članku 30. stavku 2. točke 3. i 4. brišu se.
+
+Stavak 4. mijenja se i glasi:
+
+»Predstavničko tijelo jedinice lokalne samouprave na temelju Programa mjera za unaprjeđenje stanja u prostoru i potrebe uređenja zemljišta u skladu s postavkama dokumenata prostornog uređenja kao i u skladu s Planom razvojnih programa koji se donose na temelju posebnih propisa, donosi Program gradnje objekata i uređaja komunalne infrastrukture za svaku kalendarsku godinu, a koji obvezatno sadrži:
+
+– opis poslova s procjenom troškova za gradnju objekata i uređaja, te za nabavu opreme,
+
+– iskaz financijskih sredstava potrebnih za ostvarivanje Programa s naznakom izvora financiranja djelatnosti.«
+
+### Članak 7.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Komunalni doprinosi su novčana javna davanja koja se plaćaju za građenje i korištenje objekata i uređaja komunalne infrastrukture iz članka 30. stavka 1. ovoga Zakona.
+
+(2) Komunalni doprinos je prihod jedinice lokalne samouprave.
+
+(3) Komunalni doprinos plaća vlasnik građevne čestice na kojoj se gradi građevina, odnosno investitor.
+
+(4) Plaćanjem komunalnog doprinosa vlasnik građevne čestice, odnosno investitor sudjeluje u podmirenju troškova izgradnje objekata i uređenja komunalne infrastrukture utvrđenih Programom iz članka 30. stavka 4. ovoga Zakona.
+
+(5) Sredstvima komunalnog doprinosa financira se i pribavljanje zemljišta na kojem se grade objekti i uređaji komunalne infrastrukture iz članka 30. stavka 1. ovoga Zakona, rušenje postojećih objekata i uređaja, premještanje postojećih nadzemnih i podzemnih instalacija, te radovi na sanaciji tog zemljišta.
+
+(6) Jedinica lokalne samouprave ne plaća komunalni doprinos kada je investitor gradnje objekta i uređaja komunalne infrastrukture iz članka 30. stavka 1. ovoga Zakona.
+
+(7) Predstavničko tijelo jedinice lokalne samouprave donosi odluku o komunalnom doprinosu kojom se obvezno utvrđuje:
+
+– područja zone u gradu, odnosno općini, ovisno o pogodnosti položaja određenog područja i stupnju opremljenosti objektima i uređajima komunalne infrastrukture,
+
+– jedinična vrijednost komunalnog doprinosa po vrsti objekata i uređaja komunalne infrastrukture i po pojedinim zonama, određena u kunama po m<sup>3</sup> građevine,
+
+– način i rokovi plaćanja komunalnog doprinosa,
+
+– opći uvjeti i razlozi zbog kojih se u pojedinačnim sluča­jevima može odobriti djelomično ili potpuno oslobađanje od plaćanja komunalnog doprinosa i
+
+– izvore sredstava iz kojih će se namiriti iznos za slučaj pot­pu­nog ili djelomičnog oslobađanja od plaćanja komunalnog doprinosa.«
+
+### Članak 8.
+
+U članku 32. stavku 3. točka 4. mijenja se i glasi:
+
+»popis objekata i uređaja komunalne infrastrukture koje će jedinice lokalne samouprave izgraditi u skladu s Programom gradnje objekata i uređaja komunalne infrastrukture.«
+
+Točka 5. mijenja se i glasi:
+
+»obvezu jedinice lokalne samouprave o razmjernom povratu sredstava u odnosu na izgrađenost objekata i uređaja komunalne infrastrukture iz točke 4. ovoga stavka i ostvareni priliv sredstava.«
+
+Stavak 4. mijenja se i glasi:
+
+»Akt na temelju kojeg se može graditi ne može se izdati prije nego je za istu građevinu izvršena uplata komunalnog doprinosa ili kod obročne uplate nakon izvršene uplate prve rate. Potvrdu o uplaćenom komunalnom doprinosu izdaje upravno tijelo jedinice lokalne samouprave nadležno za komunalno gospodarstvo na čijem se području građevina gradi«.
+
+### Članak 9.
+
+Iza članka 33. mijenja se naslov i glasi: »Obveza priključenja i korištenja«.
+
+### Članak 10.
+
+Članak 34. stavak 1. mijenja se i glasi:
+
+»Predstavničko tijelo jedinice lokalne samouprave donosi:
+
+1. odluku o priključenju na komunalnu infrastrukturu za opskrbu pitkom vodom i odvodnju otpadnih i oborinskih voda i
+
+2. odluku o obvezatnom korištenju komunalne usluge održa­vanja čistoće u dijelu koji se odnosi na skupljanje i odvoz komunalnog otpada.«
+
+Stavak 2. mijenja se i glasi:
+
+»Odlukom iz stavka 1. točke 1. ovoga članka utvrđuje se:
+
+– postupak,
+
+– tehničko-tehnološki uvjeti,
+
+– rokovi za pojedine priključke,
+
+– naknada za priključenje,
+
+– način plaćanja naknade i
+
+– kaznene odredbe,
+
+a odlukom iz stavka 1. točke 2. ovoga članka utvrđuje se:
+
+– postupak i
+
+– kaznene odredbe.«
+
+U stavku 3. iza riječi: »voda«, briše se točka i dodaju se riječi: »te je obvezan koristiti uslugu održavanja čistoće u dijelu koji se odnosi na skupljanje i odvoz komunalnog otpada«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Građevine izgrađene bez akta na temelju kojeg se može graditi ne smiju se priključiti na komunalnu infrastrukturu, kao i građevine za koje je u tijeku postupak građevinske inspekcije koji se odnosi na obustavu građenja ili uklanjanja građevina prema posebnom zakonu«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 11.
+
+U članku 36. stavku 1. brojevi: »3. i 4.« brišu se, a iza riječi »uređaj za mjerenje potrošnje« zarez se zamjenjuje točkom, a riječi: »a kod opskrbe toplinskom energijom obvezatna je i ugradnja uređaja za regulaciju potrošnje« brišu se.
+
+U stavku 2. riječi: »stavka 2.« zamjenjuju se riječima: »stav­ka 1.«.
+
+### Članak 12.
+
+U članku 40. stavku 1. točka 7. briše se.
+
+U dosadašnjoj točki 8. koja postaje točka 7. iza riječi: »protivno odredbi članka« dodaju se riječi: »34. stavka 4. i «.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj vlasnik građevine koji postupa protivno odredbama članka 34. stavka 3. i 4. ovoga Zakona.«
+
+U dosadašnjem stavku 4. koji postaje stavak 5. riječi: »stavka 1.« zamjenjuju se riječima: »stavka 1. i 4.«.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 6., 7. i 8.
+
+### Članak 13.
+
+Iza članka 40. dodaje se podnaslov i članak 40.a koji glase:
+
+»Novčane kazne za odgovorne osobe u jedinici lokalne samouprave
+
+### Članak 40.a
+
+Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj odgovorna osoba u jedinici lokalne samouprave koja utroši sredstva:
+
+1. komunalne naknade,
+
+2. komunalnog doprinosa,
+
+3. naknade za priključenje i
+
+4. sredstva iz članka 20. stavka 4. ovoga Zakona protivno nji­hovoj namjeni.
+
+Za prekršaj iz ovoga članka odgovorna osoba je načelnik, odnosno gradonačelnik.«
+
+### Članak 14.
+
+(1) Jedinice lokalne samouprave dužne su u roku od 3 (tri) mjeseca od dana stupanja na snagu ovoga Zakona uskladiti svoje opće akte s odredbama ovoga Zakona.
+
+(2) Propisi jedinice lokalne samouprave koji nisu usklađeni s odredbama ovoga Zakona prestaju važiti danom isteka roka iz stavka 1. ovoga članka.
+
+### Članak 15.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, s time da odredbe kojima se propisuje brisanje komunalne djelatnosti opskrba toplinskom energijom stupaju na snagu danom stupanja na snagu zakona kojim će se urediti djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom.
+
+Klasa: 362-02/04-01/01  
+Zagreb, 4. lipnja 2004.
+
+HRVATSKI SABOR
 
 Predsjednik  
-Zastupničkog doma  
-Hrvatskoga državnog sabora  
-Zlatko Tomčić, v. r.
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Uredba o dopuni Zakona o komunalnom gospodarstvu (NN 110/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2099*
+
+Vlada Republike Hrvatske
+
+2099
+
+Na teme­lju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pita­nja iz djelokruga Hrvat­skog sabora (»Narodne novine«, broj 159/2003), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2004. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 26/2003. – pročišćeni tekst i 82/2004) u članku 31. iza stavka 7., dodaju se novi stavci 8., 9., 10. i 11. koji glase:
+
+»(8) Komunalni doprinos obračunava se u skladu s obujmom, odnosno po m<sup>3</sup> (prostornom metru) građevine koja se gradi na građevnoj čestici, a kod građevine koja se ukla­nja zbog građe­nja nove građevine ili kada se postojeća građevina dograđuje ili nadograđuje, komunalni se doprinos obračunava na razliku u obujmu u odnosu na prijaš­nju građevinu.
+
+(9) Jedinična vrijednost komunalnog doprinosa za obračun po mł građevine koja se gradi određuje se za pojedine zone u gradu, odnosno općini. Ta je vrijednost najviša za prvu zonu i ne može biti viša od 10% prosječnih troškova grad­nje m<sup>3</sup> etalonske građevine u Republici Hrvatskoj, a taj podatak objav­ljuje ministar u čijem je djelokrugu komunalno gospodarstvo.
+
+(10) Iznimno od odredbe stavka 8. ovog članka za otvorene bazene, otvorena igrališta i druge otvorene građevine komunalni se doprinos obračunava po m<sup>2</sup> tlocrtne površine te građevine, pri čemu je jedinična vrijednost komunalnog doprinosa za obračun ­njezine površine po m<sup>2</sup> izražena u kunama jednaka jediničnoj vrijednosti komunalnog doprinosa za obračun po m<sup>3</sup> građevina u toj zoni.
+
+(11) Način utvrđiva­nja obujma građevine za obračun komunalnog doprinosa propisat će ministar u čijem je djelokrugu komunalno gospodarstvo.«
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 363-02/04-01/01  
+Urbroj: 5030115-04-3  
+Zagreb, 4. kolovoza 2004.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.
+
+## Zakon o dopunama Zakona o komunalnom gospodarstvu (NN 178/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/178/3084*
+
+HRVATSKI SABOR
+
+3084
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU
+
+Proglašavam Zakon o dopunama Zakona o komunalnom gospodarstvu, koji je donio Hrvatski sabor na sjednici 3. prosinca 2004. godine.
+
+Broj: 01-081-04-3754/2  
+Zagreb, 10. prosinca 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O KOMUNALNOM GOSPODARSTVU**
+
+### Članak 1.
+
+U Zakonu o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 26/03. – pro­čiš­ćeni tekst, i 82/04.) u članku 31. iza stavka 7., dodaju se stavci 8., 9., 10. i 11. koji glase:
+
+»(8) Komunalni doprinos obračunava se u skladu s obujmom, odnosno po m<sup>3</sup> (prostornom metru) građevine koja se gradi na građevnoj čestici, a kod građevine koja se uklanja zbog građenja nove građevine ili kada se postojeća građevina dogra­đu­je ili nadograđuje, komunalni se doprinos obračunava na razliku u obujmu u odnosu na prijašnju građevinu.
+
+(9) Jedinična vrijednost komunalnog doprinosa za obračun po m<sup>3</sup> građevine koja se gradi određuje se za pojedine zone u gradu, odnosno općini. Ta je vrijednost najviša za prvu zonu i ne može biti viša od 10% prosječnih troškova gradnje m<sup>3</sup> etalonske građevine u Republici Hrvatskoj, a taj podatak objavljuje ministar u čijem je djelokrugu komunalno gospodarstvo.
+
+(10) Iznimno od odredbe stavka 8. ovoga članka za otvorene bazene, otvorena igrališta i druge otvorene građevine komunalni se doprinos obračunava po m<sup>2</sup> tlocrtne površine te građevine, pri čemu je jedinična vrijednost komunalnog doprinosa za obračun njezine površine po m<sup>2</sup> izražena u kunama jednaka jediničnoj vrijednosti komunalnog doprinosa za obračun po m<sup>3</sup> građevina u toj zoni.
+
+(11) Način utvrđivanja obujma građevine za obračun komunalnog doprinosa propisat će ministar u čijem je djelokrugu komunalno gospodarstvo.«
+
+### Članak 2.
+
+Propis iz članka 31. stavka 11. ovoga Zakona ministar će donijeti u roku od mjesec dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 3.
+
+Do stupanja na snagu propisa iz članka 2. ovoga Zakona ostaje na snazi Pravilnik o načinu utvrđivanja obujma građevine za obračun komunalnog doprinosa (»Narodne novine«, br. 23/00.).
+
+### Članak 4.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Ured­ba o dopuni Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 110/04.).
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 363-02/04-01/01  
+Zagreb, 3. prosinca 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-07-28
-last_amended: 2000-02-05
+last_amended: 2003-12-22
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "101/98, 15/00"
+narodne_novine: "101/98, 15/00, 117/01, 199/03"
 amendments:
   - "NN 15/2000 (227) Zakon o izmjenama Zakona o Vladi Republike Hrvatske"
+  - "NN 117/2001 (1959) Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske"
+  - "NN 199/2003 (3189) Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1394"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 101/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1394).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 15/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 15/2000, NN 117/2001, NN 199/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -436,3 +438,267 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, dipl. ing., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske (NN 117/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1959*
+
+HRVATSKI SABOR
+
+1959
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLADI REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske, koji je donio Hrvatski sabor na sjednici 14. prosinca 2001.
+
+Broj: 01-081-01-3967/2  
+Zagreb, 21. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VLADI REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98. i 15/00.) u članku 2. stavku 1. riječ: »potpredsjednici« zamjenjuje se riječima: »jedan ili više potpredsjednika«.
+
+### Članak 2.
+
+U članku 3. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Bez odobrenja Vlade predsjednik i članovi Vlade ne mogu obavljati nijednu drugu javnu ili profesionalnu dužnost.«
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Predsjednik i članovi Vlade stupaju na dužnost kad im povjerenje iskaže većina svih zastupnika u Hrvatskom saboru.
+
+Na temelju odluke Hrvatskoga sabora o iskazivanju povjerenja Vladi Republike Hrvatske, rješenje o imenovanju pred­sjednika Vlade donosi Predsjednik Republike Hrvatske uz supotpis predsjednika Hrvatskoga sabora, a rješenje o imenovanju članova Vlade donosi predsjednik Vlade uz supotpis predsjednika Hrvatskoga sabora.«
+
+### Članak 4.
+
+Članak 6. mijenja se i glasi:
+
+»Tijekom trajanja mandata Vlade predsjednik Vlade će novog člana Vlade predstaviti na prvoj idućoj sjednici Hrvatskoga sabora i zatražiti glasovanje o povjerenju tom članu.«
+
+### Članak 5.
+
+U članku 7. stavku 1. riječi: »Zastupničkog doma Hrvatskoga državnog sabora« zamjenjuju se riječima: »Hrvatskoga sabora« u odgovarajućem padežu.
+
+### Članak 6.
+
+U članku 8. stavku 2. riječi: »predsjedniku Republike Hrvat­ske« zamjenjuju se riječima: »Hrvatskom saboru«.
+
+### Članak 7.
+
+U članku 8. stavku 4. riječi: »predsjedniku Republike Hrvat­ske putem predsjednika Vlade« zamjenjuju se riječima: »pred­sjedniku Vlade«.
+
+### Članak 8.
+
+U članku 9. stavku 1. riječi: »predsjednik Republike Hrvat­ske« zamjenjuju se riječima: »Hrvatski sabor«.
+
+### Članak 9.
+
+U članku 9. stavak 2. mijenja se i glasi:
+
+»U slučaju pojedinačne ostavke člana Vlade, ako predsjednik Vlade prihvati ostavku pojedinog člana Vlade, rješenje o razr­ješenju toga člana Vlade donosi predsjednik Vlade i o tome izvješćuje Hrvatski sabor.«
+
+### Članak 10.
+
+U članku 13. stavku 1. riječi: »Hrvatskoga državnog sabora« zamjenjuju se riječima: »Hrvatskoga sabora«.
+
+### Članak 11.
+
+U članku 15. podstavku 4. riječi: »Zastupničkog doma Hr­vat­skoga državnog sabora« zamjenjuju se riječima: »Hrvatskoga sabora«.
+
+Iza podstavka 5. dodaje se podstavak 6. koji glasi:
+
+»- djelovanje oružanih snaga Republike Hrvatske izvan njezinih granica.«
+
+### Članak 12.
+
+U članku 24. stavku 1. iza riječi: »Ured za nacionalne manjine« briše se točka i dodaju riječi: »i Ured za iseljeništvo i hrvatske manjine u inozemstvu«.
+
+### Članak 13.
+
+U članku 25. stavak 1., 2. i 3. brišu se.
+
+Dodaje se novi stavak koji glasi:
+
+»Ured za iseljeništvo i hrvatske manjine obavlja stručne i druge poslove u vezi s ostvarivanjem utvrđene politike osobite skrbi i zaštite dijelova hrvatskog naroda u drugim državama kao i poslove koji se odnose na uspostavljanje, održavanje i promicanje veza s hrvatskim iseljenicima i manjinama kao i s njihovim udrugama u drugim državama.«
+
+### Članak 14.
+
+U članku 26. stavku 3. riječi: »su državni službenici, koji« brišu se.
+
+### Članak 15.
+
+U članku 34. riječi: »Hrvatskom državnom saboru« zamje­njuju se riječima: »Hrvatskom saboru«.
+
+### Članak 16.
+
+Članak 35. mijenja se i glasi:
+
+»Vlada osigurava nazočnost svojih predstavnika na sjednicama Hrvatskoga sabora i njegovih radnih tijela sukladno Poslovniku Hrvatskoga sabora.«
+
+### Članak 17.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti Poslovnik o radu Vlade Republike Hrvatske (»Narodne novine«, br. 107/00. – pročišćeni tekst) s odredbama ovoga Zakona.
+
+### Članak 18.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o Vladi Republike Hrvatske.
+
+### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/01-01/06  
+Zagreb, 14. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske (NN 199/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/199/3189*
+
+HRVATSKI SABOR
+
+3189
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLADI REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske, koji je donio Hrvatski sabor na sjednici 22. prosinca 2003. godine.
+
+Broj: 01-081-03-4187/2  
+Zagreb, 22. prosinca 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VLADI REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98., 15/00. i 117/01.), u članku 2. stavak 2. briše se.
+
+### Članak 2.
+
+U članku 10. stavci 2., 3., 4., 5. i 6. brišu se.
+
+### Članak 3.
+
+U članku 16. stavku 3. riječi: »potpredsjednik koji je imenovan zamjenikom predsjednika« zamjenjuju se riječima: »potpred­sjednik kojega ovlasti predsjednik Vlade«.
+
+### Članak 4.
+
+Članak 21. mijenja se i glasi:
+
+»U Vladi se ustrojava Ured predsjednika Vlade.
+
+Ured predsjednika Vlade obavlja stručne i administrativne poslove za potrebe predsjednika Vlade po njegovom nalogu.
+
+Radom Ureda predsjednika Vlade upravlja predstojnik Ureda u položaju državnog tajnika, kojeg imenuje Vlada na prijedlog pred­sjednika Vlade, a koji za svoj rad odgovara predsjedniku Vlade.«
+
+### Članak 5.
+
+Iza članka 21. dodaju se članci 21.a, 21.b, 21.c, 21.d, 21.e i 21.f koji glase:
+
+»Članak 21.a
+
+U Vladi se ustrojavaju sljedeći središnji državni uredi:
+
+– Središnji državni ured za upravu,
+
+– Središnji državni ured za e-Hrvatsku,
+
+– Središnji državni ured za upravljanje državnom imovinom i
+
+– Središnji državni ured za razvojnu strategiju.
+
+Radom središnjih državnih ureda iz stavka 1. ovoga članka upravljaju državni tajnici koje imenuje Vlada na prijedlog predsjednika Vlade, a koji za svoj rad odgovaraju predsjedniku Vlade.
+
+### Članak 21.b
+
+Središnji državni ured za upravu obavlja upravne i stručne poslove koji se odnose na sustav i ustrojstvo državne uprave i lokalne samouprave, politički i izborni sustav.
+
+### Članak 21.c
+
+Središnji državni ured za e-Hrvatsku koordinira poslove iz djelokruga tijela državne uprave i povezivanje s privatnim sektorom u provedbi projekta e-Hrvatska. Projekt e-Hrvatska predviđa da će se uspostaviti i umrežiti sustav koji će građanima omogućiti da, putem Interneta, obavljaju komunikaciju s javnom upravom.
+
+### Članak 21.d
+
+Središnji državni ured za upravljanje državnom imovinom obavlja upravne i stručne poslove koji se odnose na upravljanje nekretninama i pokretninama, te udjelima u trgovačkim društvima u vlasništvu Republike Hrvatske, predlaže imenovanje članova nad­zornih odbora, te vodi evidenciju o državnoj imovini koja nije posebnim zakonom povjerena na upravljanje drugom tijelu državne uprave.
+
+### Članak 21.e
+
+Središnji državni ured za razvojnu strategiju obavlja upravne i stručne poslove koji se odnose na utvrđivanje prijedloga i provedbu strategije razvitka Republike Hrvatske, te koordinaciju s tijelima središnje državne uprave vezano uz ostvarenje ciljeva strategije.
+
+### Članak 21.f
+
+Radi utvrđivanja stanja i izrada analiza i priprema prijedloga o pojedinim pitanjima privremene ili povremene prirode značajnim za obavljanje dužnosti predsjednika Vlade, predsjednik može imenovati posebnog savjetnika.
+
+Posebni savjetnik nije u stalnom radnom odnosu u Vladi, već po nalogu predsjednika Vlade obavlja poslove dok priroda posla to zahtijeva.
+
+Posebnim savjetnikom može se imenovati stručnjak u svom području koji svojim povremenim radom može pripomoći obav­ljanju dužnosti predsjednika Vlade.
+
+Rješenjem o imenovanju može se odrediti naknada za rad.
+
+Iznimno, uz suglasnost predsjednika Vlade, ministar može ime­novati posebnog savjetnika koji nije u stalnom radnom odnosu.«
+
+### Članak 6.
+
+U članku 24. stavku 1. riječi: »Ured za iseljeništvo i hrvatske manjine u inozemstvu«, brišu se.
+
+### Članak 7.
+
+Članak 25. mijenja se i glasi:
+
+»Ured za zakonodavstvo daje mišljenje o usklađenosti pri­jedloga zakona, konačnih prijedloga zakona i drugih akata iz djelokruga Vlade, s Ustavom Republike Hrvatske i pravnim poretkom Republike Hrvatske, priprema i izrađuje prijedloge akata koje donosi Vlada i Hrvatski sabor, ukoliko ga za to zaduži Vlada Repub­like Hrvatske, daje stručna mišljenja središnjim tijelima dr­žav­ne uprave u vezi s primjenom zakona i drugih propisa, brine o pravodobnoj objavi zakona i drugih propisa u »Narodnim novinama«, te obavlja i druge poslove koje mu povjeri Vlada.
+
+Ured za odnose s javnošću izvješćuje javnost o radu Vlade, predsjednika i potpredsjednika Vlade, vodi dokumentaciju koja se odnosi na priopćenja za javnost, obavlja poslove koji se odnose na provedbu zakona i drugih propisa u vezi s novinsko-na­klad­ničkim poduzećima, uvozom inozemnih javnih glasila, izvozom domaćih glasila, poslove akreditacije novinara i druge poslove s time u vezi, te obavlja i druge poslove koje mu povjeri Vlada.
+
+Ured za nacionalne manjine obavlja stručne i druge poslove u vezi s ostvarivanjem utvrđene politike ostvarivanja ravnopravnosti nacionalnih manjina koje žive na području Republike Hrvatske, kao i njihovih prava utvrđenih Ustavom i zakonom, predlaže mjere za ostvarivanje tih prava, priprema prijedloge za osiguranje sredstava za ostvarivanje ustavnih prava pripadnika nacionalnih manjina, daje prijedloge i mišljenja za financiranje određenih potreba pripad­nika nacionalnih manjina i njihovih udruga, te obavlja i druge poslove koje mu povjeri Vlada.«
+
+### Članak 8.
+
+U članku 26. stavku 2. iza riječi: »upravlja« dodaju se riječi: »državni tajnik«.
+
+U stavku 3. ispred riječi: »Predstojnik« dodaju se riječi: »Državni tajnik«.
+
+### Članak 9.
+
+Vlada će uredbama urediti unutarnje ustrojstvo ureda u roku od 30 dana od dana stupanja na snagu ovoga Zakona, ukoliko posebnim zakonom nije drukčije propisano.
+
+### Članak10.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 022-03/03-01/03  
+Zagreb, 22. prosinca 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

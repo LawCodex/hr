@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1998-05-27
+last_amended: 2007-06-04
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "75/98"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "75/98, 51/05, 57/07"
+amendments:
+  - "NN 51/2005 (977) Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Rijeci"
+  - "NN 57/2007 (1823) Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Rijeci"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/75/963"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Veleučilišta u Rijeci
 
 > Izvor: Narodne novine, NN 75/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/75/963).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 51/2005, NN 57/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -217,3 +222,169 @@ Zagreb, 21. svibnja 1998.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Rijeci (NN 51/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/977*
+
+VLADA REPUBLIKE HRVATSKE
+
+977
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narod­ne novine«, br. 76/93, 29/97 i 47/99) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004 i 174/2004), Vlada Republike Hrvatske je na sjednici održanoj 15. travnja 2005. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O OSNIVANJU VELEUČILIŠTA U RIJECI**
+
+### Članak 1.
+
+U Uredbi o osnivanju Veleučilišta u Rijeci (»Narodne novine«, broj 75/98), u članku 1. stavak 2. mijenja se i glasi:
+
+»Sjedište Veleučilišta u Rijeci (u daljnjem tekstu: Veleučilište) je u Rijeci, Trpimirova 2.«
+
+### Članak 2.
+
+U članku 2. riječi: »Ministarstvo znanosti i tehnologije« zamjenjuju se riječima: »ministarstvo nadležno za visoko obrazovanje«.
+
+### Članak 3.
+
+U članku 3. podstavak 1. mijenja se i glasi:
+
+»– ustrojavanje i izvođenje stručnih studija sukladno Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (u daljnjem tekstu: Zakon) i Statutu Veleučilišta;«.
+
+U podstavku 2. riječ: »znanstvenoistraživačkog« zamjenjuje se riječju: »znanstvenog«.
+
+### Članak 4.
+
+U članku 4. stavak 2. mijenja se i glasi:
+
+»Statutom Veleučilišta pobliže se uređuju pitanja unutarnjeg ustroja, upravljanja i odlučivanja.«
+
+### Članak 5.
+
+Članak 5. mijenja se i glasi:
+
+»Tijela Veleučilišta su dekan, Stručno vijeće i Upravno vijeće.
+
+Veleučilište može imati i druga stručna i savjetodavna tijela čije se osnivanje, sastav i nadležnost uređuje Statutom ili drugim općim aktom.«
+
+### Članak 6.
+
+U članku 6. stavak 2. mijenja se i glasi:
+
+»Upravno vijeće:
+
+– donosi program rada i razvoja Veleučilišta i nadzire njihovo izvršavanje,
+
+– brine se o zakonitosti rada Veleučilišta, racionalnoj uporabi materijalnih i kadrovskih resursa,
+
+– provodi odluke Stručnog vijeća,
+
+– odlučuje o načinu upotrebljavanja dobiti koju Veleučilište ostvari,
+
+– donosi odluke u drugom stupnju o ostvarivanju pojedinačnih prava radnika,
+
+– donosi godišnji obračun,
+
+– predlaže osnivaču promjenu ili proširenje djelatnosti,
+
+– daje suglasnost na pojedine odluke dekana i Stručnog vijeća sukladno Statutu,
+
+– daje osnivaču i dekanu prijedloge i mišljenja o pojedinim pitanjima,
+
+– obavlja druge poslove predviđene Statutom.«
+
+Stavak 3. mijenja se i glasi:
+
+»Prije donošenja odluka koje utječu na povećanje troškova rada, Upravno vijeće dužno je zatražiti prethodnu suglasnost ministarstva nadležnog za poslove visokog obrazovanja.«
+
+### Članak 7.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»Upravno vijeće ima pet članova od kojih tri imenuje osnivač, a dva bira Stručno vijeće Veleučilišta na vrijeme od četiri godine. Predsjednika Upravnog vijeća biraju članovi između sebe. U radu Upravnog vijeća bez prava glasovanja sudjeluje dekan Veleučilišta.«
+
+Stavak 2. mijenja se i glasi:
+
+»Osnivač i Stručno vijeće mogu razriješiti članove koje imenuju, odnosno biraju u Upravno vijeće i prije isteka vremena na koje su imenovani, odnosno izabrani.«
+
+### Članak 8.
+
+U članku 8. stavcima 1. i 2. riječ: »rektor« zamjenjuje se riječju: »dekan«
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Za dekana može biti izabran radnik Veleučilišta u znanstveno-nastavnom zvanju ili nastavnom zvanju profesora visoke škole, a bira ga i razrješava Stručno vijeće s mandatom, na način i u postupku koji je utvrđen Statutom Veleučilišta. Izbor dekana potvrđuje Upravno vijeće.«
+
+U dosadašnjem stavku 2., koji postaje stavak 3., u podstavcima 5., 8. i 10. riječi: »veleučilišni senat« zamjenjuju se riječima: »Stručno vijeće Veleučilišta« u odgovarajućem padežu, podstavak 11. briše se, a dosadašnji podstavak 12. postaje podstavak 11.
+
+### Članak 9.
+
+U članku 9. stavku 1. riječ: »Rektor« zamjenjuje se riječju: »Dekan«.
+
+### Članak 10.
+
+Članci 10. i 11. brišu se.
+
+### Članak 11.
+
+Članak 12. mijenja se i glasi:
+
+»Stručno vijeće Veleučilišta odlučuje o stručnim i nastavnim pitanjima, sukladno Zakonu i Statutu Veleučilišta.
+
+Stručno vijeće Veleučilišta čine nastavnici, suradnici i studenti. Broj, sastav, način izbora i mandat članova Stručnog vijeća iz redova nastavnika, suradnika i studenata pobliže se određuje Statutom Veleučilišta.«
+
+### Članak 12.
+
+Članci 13., 14. i 15. brišu se.
+
+### Članak 13.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 602-04/05-02/13
+
+Urbroj: 5030108-05-1
+
+Zagreb, 15. travnja 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Rijeci (NN 57/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/57/1823*
+
+VLADA REPUBLIKE HRVATSKE
+
+1823
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narod­ne novine«, br. 76/93, 29/97 i 47/99) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narod­ne novine«, br. 123/2003, 105/2004, 174/2004 i 46/2007), Vlada Republike Hrvatske je na sjednici održanoj 31. svibnja 2007. godine donijela
+
+**UREDBU**
+
+**O IZMJENI I DOPUNI UREDBE O OSNIVANJU VELEUČILIŠTA U RIJECI**
+
+### Članak 1.
+
+U Uredbi o osnivanju Veleučilišta u Rijeci (»Narod­ne novine«, br. 75/98 i 51/2005), u članku 8. stavak 2. mijenja se i glasi:  
+»Za dekana, putem javnog natječaja, može biti izabrana osoba u znanstveno-nastavnom zvanju, nastavnom zvanju profesora visoke škole ili višeg predavača, a bira ga i razrješava Stručno vijeće s mandatom, na način i u postupku utvrđenom Statutom Veleučilišta. Izbor dekana potvrđuje Upravno vijeće.«.  
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:  
+»U slučaju da Upravno vijeće ne potvrdi izbor dekana od strane Stručnog vijeća, smatra se da dekan nije izabran. U tom slučaju natječaj će se ponoviti, a Upravno vijeće, do izbora dekana na temelju ponovljenog natječaja, imenuje vršitelja dužnosti dekana najduže do godinu dana. U tom razdoblju Veleučilište će provesti izbor za novog dekana.«.  
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.  
+Klasa: 602-04/07-02/12  
+Urbroj: 5030108-07-1  
+Zagreb, 31. svibnja 2007.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.

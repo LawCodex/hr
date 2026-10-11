@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-11-30
+last_amended: 2006-12-28
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "128/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "128/99, 153/05, 142/06"
+amendments:
+  - "NN 153/2005 (2968) Uredba o izmjeni Zakona o državnoj izmjeri i katastru nekretnina"
+  - "NN 142/2006 (3205) Uredba o izmjeni Zakona o državnoj izmjeri i katastru nekretnina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2014"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o državnoj izmjeri i katastru nekretnina
 
 > Izvor: Narodne novine, NN 128/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2014).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2005, NN 142/2006.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1056,3 +1061,67 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjeni Zakona o državnoj izmjeri i katastru nekretnina (NN 153/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2968*
+
+VLADA REPUBLIKE HRVATSKE
+
+2968
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine«, br. 115/2005 i 121/2005 – ispravak), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2005. godine donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O DRŽAVNOJ IZMJERI I KATASTRU NEKRETNINA**
+
+### Članak 1.
+
+U Zakonu o državnoj izmjeri i katastru nekretnina (»Narodne novine«, broj 128/1999) u članku 100. stavku 3. riječi »1. siječnja 2006.« zamjenjuju se riječima »1. siječnja 2007.«
+
+### Članak 2.
+
+Ova Uredba stupa na snagu 1. siječnja 2006. godine.
+
+Klasa: 930-01/05-01/02
+
+Urbroj: 5030115-05-1
+
+Zagreb, 23. prosinca 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni Zakona o državnoj izmjeri i katastru nekretnina (NN 142/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3205*
+
+VLADA REPUBLIKE HRVATSKE
+
+3205
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 108/2006), Vlada Republike Hrvatske je na sjednici održanoj 21. prosinca 2006. godine donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O DRŽAVNOJ IZMJERI I KATASTRU NEKRETNINA**
+
+### Članak 1.
+
+U Zakonu o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 128/99 i 153/2005) u članku 100. stavku 3. riječi »1. siječnja 2007. »zamjenjuju se riječima »1. srpnja 2007.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu 1. siječnja 2007. godine, a objavit će se u »Narodnim novinama«.  
+Klasa: 930-01/06-01/01  
+Urbroj: 5030114-06-2  
+Zagreb, 21. prosinca 2006.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.

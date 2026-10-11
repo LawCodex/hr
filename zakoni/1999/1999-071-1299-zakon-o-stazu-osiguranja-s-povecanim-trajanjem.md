@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-08
+last_amended: 2008-04-09
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "71/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "71/99, 46/07, 41/08"
+amendments:
+  - "NN 46/2007 (1557) Zakon o dopuni Zakona o stažu osiguranja s povećanim trajanjem"
+  - "NN 41/2008 (1380) Zakon o izmjenama Zakona o stažu osiguranja s povećanim trajanjem"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/71/1299"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o stažu osiguranja s povećanim trajanjem
 
 > Izvor: Narodne novine, NN 71/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/71/1299).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 46/2007, NN 41/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -616,3 +621,98 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o stažu osiguranja s povećanim trajanjem (NN 46/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/46/1557*
+
+HRVATSKI SABOR
+
+1557
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O STAŽU OSIGURANJA S POVEĆANIM TRAJANJEM
+
+Proglašavam Zakon o dopuni Zakona o stažu osiguranja s povećanim trajanjem, kojega je Hrvatski sabor donio na sjednici 20. travnja 2007. godine  
+Klasa: 011-01/07-01/39  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 25. travnja 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O STAŽU OSIGURANJA S POVEĆANIM TRAJANJEM**
+
+### Članak 1.
+
+U Zakonu o stažu osiguranja s povećanim trajanjem (»Narodne novine«, br. 71/99.) u članku 4. stavku 2. u Odjeljku IX. U POMORSKOJ BRODOGRADNJI iza točke 10) dodaje se točka 11) koja glasi:  
+»11) Radno mjesto strojomontera na brodu.«  
+U sljedećoj rečenici riječi: »pod 2) do 5)« zamjenjuju se riječima: »pod 6) do 11)«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 140-01/06-01/06  
+Zagreb, 20. travnja 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama Zakona o stažu osiguranja s povećanim trajanjem (NN 41/2008)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2008/41/1380*
+
+HRVATSKI SABOR
+
+1380
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O STAŽU OSIGURANJA S POVEĆANIM TRAJANJEM
+
+Proglašavam Zakon o izmjenama Zakona o stažu osiguranja s povećanim trajanjem, kojega je Hrvatski sabor donio na sjednici 28. ožujka 2008. godine.  
+Klasa: 011-01/08-01/23  
+Urbroj: 71-05-03/1-08-2  
+Zagreb, 3. travnja 2008.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O STAŽU OSIGURANJA S POVEĆANIM TRAJANJEM**
+
+### Članak 1.
+
+U Zakonu o stažu osiguranja s povećanim trajanjem (»Narodne novine«, br. 71/99. i 46/07.) podnaslov: »VIII. FINANCIRANJE« i članak 12. brišu se.
+
+### Članak 2.
+
+U članku 13. stavku 1. točka 3. briše se.  
+Dosadašnja točka 4. postaje točka 3.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 140-01/08-01/02  
+Zagreb, 28. ožujka 2008.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Luka Bebić, v. r.

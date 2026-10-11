@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-02-01
-last_amended: 1999-11-29
+last_amended: 2001-07-24
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 9/1999 (110) https://narodne-novine.nn.hr/eli/sluzbeni/1999/9/110"
-narodne_novine: "9/99, 76/99, 127/99"
+narodne_novine: "9/99, 76/99, 127/99, 67/01"
 amendments:
   - "NN 76/1999 (1361) Zakon o izmjenama i dopunama Zakona o autorskom pravu"
   - "NN 127/1999 (2004) Ispravak Zakona o izmjenama i dopunama Zakona o autorskom pravu"
+  - "NN 67/2001 (1101) Zakon o izmjeni Zakona o autorskom pravu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/9/110"
 retrieved: 2026-10-12
 ---
@@ -25,7 +26,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 9/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/9/110).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1999, NN 127/1999.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1999, NN 127/1999, NN 67/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1561,3 +1562,48 @@ Tajnik
 Zastupnièkog doma  
 Hrvatskoga državnog sabora  
 Krešimir Aleriæ, dipl. iur., v. r.
+
+## Zakon o izmjeni Zakona o autorskom pravu (NN 67/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1101*
+
+HRVATSKI SABOR
+
+1101
+
+Na teme­­­­­­­­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA  
+O AUTORSKOM PRAVU
+
+Proglašavam Zakon o izmjeni Zakona o autorskom pravu, koji je donio Hrvatski sabor na sjednici 13. srp­­­­­­­­nja 2001.
+
+Broj: 01-081-01-2325/2  
+Zagreb, 18. srp­­­­­­­­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O AUTORSKOM PRAVU**
+
+### Članak 1.
+
+U Zakonu o autorskom pravu (»Narodne novine«, br. 53/91., 58/93., 9/99. – pročišćeni tekst, 76/99. i 127/99.) u članku 94. stavku 4. riječi: »Financijska policija« zamje­njuju se riječima: »Po­rezna uprava«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 121-12/01-02/01  
+Zagreb, 13. srp­nja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

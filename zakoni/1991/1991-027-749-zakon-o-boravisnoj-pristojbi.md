@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1991-06-11
-last_amended: 2000-07-05
+last_amended: 2007-07-02
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 35/1995 (708) https://narodne-novine.nn.hr/eli/sluzbeni/1995/35/708"
-narodne_novine: "27/91, 59/93, 73/93, 109/93, 30/94, 35/95, 52/95, 70/97, 44/98, 30/99, 64/00"
+narodne_novine: "27/91, 59/93, 73/93, 109/93, 30/94, 35/95, 52/95, 70/97, 44/98, 30/99, 64/00, 42/05, 68/07"
 amendments:
   - "NN 59/1993 (1180) Uredba o izmjeni Zakona o boravišnoj pristojbi"
   - "NN 73/1993 (1506) Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi"
@@ -22,6 +22,8 @@ amendments:
   - "NN 44/1998 (533) Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi"
   - "NN 30/1999 (607) Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi"
   - "NN 64/2000 (1409) Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi"
+  - "NN 42/2005 (816) Zakon o dopunama Zakona o boravišnoj pristojbi"
+  - "NN 68/2007 (2068) Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/35/708"
 retrieved: 2026-10-12
 ---
@@ -32,7 +34,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 35/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/35/708).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 52/1995, NN 70/1997, NN 44/1998, NN 30/1999, NN 64/2000.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 52/1995, NN 70/1997, NN 44/1998, NN 30/1999, NN 64/2000, NN 42/2005, NN 68/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -782,3 +784,217 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o dopunama Zakona o boravišnoj pristojbi (NN 42/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/816*
+
+HRVATSKI SABOR
+
+816
+
+Na temelju članaka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O BORAVIŠNOJ PRISTOJBI
+
+Proglašavam Zakon o dopunama Zakona o boravišnoj pristojbi, kojega je Hrvatski sabor donio na sjednici 18. ožujka 2005. godine.
+
+Broj: 01-081-05-1140/2
+
+Zagreb, 23. ožujka 2005.
+
+Predsjednik Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA OBORAVIŠNOJ PRISTOJBI**
+
+### Članak 1.
+
+U Zakonu o boravišnoj pristojbi (»Narodne novine«, br. 27/91., 109/93., 30/94., 35/95. – pročišćeni tekst, 30/99. i 64/00.) iza članka 5.b dodaje se članak 5.c koji glasi:
+
+*»Članak 5.c*
+
+Građani koji su registrirani za pružanje usluge smještaja u domaćinstvu sukladno propisu kojim se uređuje ugostiteljska djelatnost (u daljnjem tekstu: građani u domaćinstvu), plaćaju godišnji paušalni iznos boravišne pristojbe za svaki krevet i smještajnu jedinicu u kampu koji se koriste za pružanje usluga smještaja sukladno propisima o pružanju usluga smještaja. Dodatni (pomoćni) kreveti oslobođeni su plaćanja godišnjega paušalnog iznosa boravišne pristojbe.
+
+Iznimno od odredbi stavka 1. ovoga članka, građani koji suklad­no rješenju o odobrenju za pružanje ugostiteljskih usluga građana u domaćinstvu, iznajmljuju dvije sobe ili jedan apartman do najviše četiri postelje, u općinama i naseljima u kojima je prosječna godišnja popunjenost kapaciteta u privatnom smještaju prema podacima turističke zajednice manja od 40 dana, boravišnu pristojbu mogu naplatiti istodobno s naplatom pružene usluge noćenja ili boravišnu pristojbu platiti u paušalnom iznosu.
+
+Građani u domaćinstvu dužni su godišnji paušalni iznos boravišne pri­stojbe uplatiti na uplatni račun turističke zajednice općine, grada ili turističke zajednice mjesta do 31. srpnja tekuće godine ili u tri obroka, s time da posljednji obrok dospijeva 30. rujna tekuće godine.
+
+Godišnji paušalni iznos boravišne pristojbe iz stavka 3. ovoga članka je umnožak broja kreveta, odnosno broja smještajnih jedinica u kampu, koeficijenta razreda turističkog mjesta u kojem se pružaju usluge smještaja u domaćinstvu i visine boravišne pristojbe iz stavka 7. ovoga članka.
+
+Koeficijenti razreda turističkog mjesta u kojem se pružaju usluge iz stavka 1. ovoga članka, utvrđuju se u visini 1,00 za razred A, u visini 0,85 za razred B, u visini 0,70 za razred C i u visini 0,50 za razred D i druga nerazvrstana mjesta.
+
+Općinsko ili gradsko vijeće, za općine i gradove, odnosno naselja u kojima je prosječna popunjenost kapaciteta u privatnom smještaju veća od 40 dana godišnje, na prijedlog turističkog vijeća turističke zajednice općine, grada ili mjesta može donijeti odluku o povećanju koeficijenta iz stavka 5. ovoga članka, ali tako utvrđeni koeficijent može biti u najviše dvostrukom iznosu od iznosa koeficijenta propisanog u stavku 5. ovoga članka.
+
+Visinu boravišne pristojbe iz stavka 4. ovoga članka, na prijedlog ministra nadležnog za turizam utvrđuje Vlada Republike Hrvatske.«
+
+### Članak 2.
+
+U članku 11. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Odredba stavka 3. ovoga članka ne primjenjuje se na građane u domaćinstvu iz članka 5.c stavka 1. ovoga Zakona, osim za usluge smještaja u seljačkom domaćinstvu.«
+
+### Članak 3.
+
+Iza članka 16. dodaje se članak 16.a koji glasi:
+
+*»Članak 16.a*
+
+Novčanom kaznom od 1.000,00 do 10.000,00 kuna kaznit će se za prekršaj građanin u domaćinstvu koji paušalni iznos boravišne pristojbe nije uplatio na uplatni račun turističke zajednice općine, grada ili turističke zajednice mjesta do 31. srpnja, odnosno 30. rujna tekuće godine (članak 5.c stavak 3.).
+
+Za prekršaje iz stavka 1. ovoga članka, gospodarski inspektor Državnog inspektorata može naplatiti novčanu kaznu na mjestu izvršenja prekršaja, u iznosu od 1.000,00 kuna.«
+
+### Članak 4.
+
+Stupanjem na snagu ovoga Zakona prestaju važiti odredbe Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, 49/03. – pročišćeni tekst i 117/03.) i to:
+
+– članak 39. stavak 1. točka 4. i članak 57. stavak 1. točka 6. u dijelu koji se odnosi na vidno isticanje iznosa boravišne pristojbe, osim za pružanje usluga smještaja u seljačkom domaćinstvu,
+
+– članak 39. stavak 1. točka 5. i članak 57. stavak 1. točka 7. u dijelu koji se odnosi na navođenje iznosa boravišne pristojbe u računu, osim za pružanje usluga smještaja u seljačkom domaćinstvu.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 412-04/05-01/01
+
+Zagreb, 18. ožujka 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi (NN 68/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/68/2068*
+
+HRVATSKI SABOR
+
+2068
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O BORAVIŠNOJ PRISTOJBI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi, kojega je Hrvatski sabor donio na sjednici 15. lipnja 2007. godine.  
+Klasa: 011-01/07-01/56  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 21. lipnja 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O BORAVIŠNOJ PRISTOJBI**
+
+### Članak 1.
+
+U Zakonu o boravišnoj pristojbi (»Narodne novine«, broj 27/91., 109/93., 30/94., 35/95. – pročišćeni tekst, 30/99., 64/00. i 42/05.) u članku 1. stavku 1. riječi: »Građanin koji« zamjenjuju se riječima: »Osoba koja«.  
+Stavak 2. mijenja se i glasi:  
+»Smještajnim objektima u smislu ovoga Zakona smatraju se:  
+– sve vrste ugostiteljskih objekata u kojima se pružaju ugostiteljske usluge smještaja sukladno propisu kojim se uređuje ugostiteljska djelatnost,  
+– vez u luci nautičkog turizma,  
+– vez u nautičkom dijelu luke koja je otvorena za javni promet sukladno propisu kojim se uređuje pomorsko dobro i morske luke,  
+– prostori u kojima je, sukladno propisu kojim se uređuje ugostiteljska djelatnost organizirano kampiranje izvan kampova za vrijeme održavanja sportskih, kulturno-umjetničkih i sličnih manifestacija,  
+– kuća i stan za odmor.«  
+Iza stavka 2. dodaje se stavak 3. koji glasi:  
+»Pravnim i fizičkim osobama koje pružaju uslugu noćenja u smještajnim objektima, u smislu ovoga Zakona, smatraju se:  
+– pravne i fizičke osobe koje su registrirane za pružanje ugostiteljskih usluga smještaja i fizičke osobe koje pružaju ugostiteljske usluge u domaćinstvu, sukladno propisu kojim se uređuje ugostiteljska djelatnost,  
+– pravne i fizičke osobe koje pružaju uslugu veza u luci nautičkog turizma,  
+– pravne osobe koje pružaju usluge veza u nautičkom dijelu luke koja je otvorena za javni promet, sukladno propisu kojim se uređuje pomorsko dobro i morske luke,  
+– organizatori sportskih, kulturno-umjetničkih i sličnih manifestacija koji organiziraju kampiranje izvan kampova, sukladno propisu kojim se uređuje ugostiteljska djelatnost.«
+
+### Članak 2.
+
+U članku 5.c stavku 3. iza riječi: »tri« dodaju se riječi: »jednaka mjesečna«.  
+U stavku 4. riječi: »iz stavka 7.« zamjenjuju se riječima: »iz stavka 11.«.  
+Iza stavka 5. dodaju se novi stavci 6., 7., 8. i 9. koji glase:  
+»Predstavničko tijelo jedinice lokalne samouprave može na prijedlog turističkog vijeća turističke zajednice grada, općine ili mjesta odrediti za turističko mjesto (grad, općinu, naselje) zone i različitu visinu koeficijenta boravišne pristojbe za pojedine zone.  
+Predstavničko tijelo iz stavka 6. ovoga članka može odrediti najviše tri zone unutar turističkog mjesta. Iznos koeficijenta u najnižoj zoni unutar razreda turističkog mjesta ne može biti manji od koeficijenta utvrđenog za prvi sljedeći niži razred turističkog mjesta.  
+U D razredu turističkog mjesta ne mogu se određivati zone.  
+Odluku iz stavka 6. ovoga članka predstavničko tijelo donosi do kraja rujna tekuće godine za sljedeću godinu i dostavlja Ministarstvu financija – Poreznoj upravi, nadležnoj područnoj jedinici Državnog inspektorata i Ministarstvu mora, turizma, prometa i razvitka.«  
+U dosadašnjem stavku 6., koji postaje stavak 10., riječi: »Općinsko ili gradsko vijeće« zamjenjuju se riječima: »Predstavničko tijelo iz stavka 6. ovoga članka«, a riječi: »stavka 5.« zamjenjuju se riječima: »stavka 5., odnosno 7.« u odgovarajućem padežu.  
+Dosadašnji stavak 7. postaje stavak 11.
+
+### Članak 3.
+
+U članku 6. dodaje se stavak 4. koji glasi:  
+»Iznimno od stavka 3. ovoga članka, odredbe članka 5. i 12. ovoga Zakona primjenjuju se na državljane država članica Europske unije i Europskoga ekonomskog prostora.«
+
+### Članak 4.
+
+Članak 12. mijenja se i glasi:  
+»Vlasnik iz članka 2. stavka 1. ovoga Zakona, za razdoblje od 15. lipnja do 15. rujna, može za sebe i članove uže obitelji boravišnu pristojbu platiti u paušalnom iznosu, kako slijedi:
+
+<table>
+
+<tr>
+<td></td>
+<td colspan="2">Boravišna pristojba u kunama</td>
+</tr>
+
+<tr>
+<td>razred turističkog<br> mjesta</td>
+<td>za dva člana<br> (po osobi)</td>
+<td>za svakog sljedećeg člana (po osobi)</td>
+</tr>
+
+<tr>
+<td>A</td>
+<td>60,00</td>
+<td>25,00</td>
+</tr>
+
+<tr>
+<td>B</td>
+<td>45,00</td>
+<td>20,00</td>
+</tr>
+
+<tr>
+<td>C</td>
+<td>40,00</td>
+<td>15,00</td>
+</tr>
+
+<tr>
+<td>D</td>
+<td>30,00</td>
+<td>12,00</td>
+</tr>
+
+</table>
+
+Boravišna pristojba u ostalim mjestima koja nisu razvrstana u razrede uplaćuje se sukladno D razredu turističkog mjesta.  
+Vlasnik iz stavka 1. ovoga članka dužan je paušalni iznos boravišne pristojbe uplatiti do 15. srpnja tekuće godine na uplatni račun turističke zajednice općine, grada i turističke zajednice mjesta, a ukoliko one nisu osnovane, paušalni iznos boravišne pristojbe vlasnik je dužan uplatiti na uplatni račun Hrvatske turističke zajednice.«
+
+### Članak 5.
+
+U članku 16.a stavku 1. brojka »1.000,00« zamjenjuje se brojkom: »2.000,00«.
+
+### Članak 6.
+
+U članku 17. stavku 1. riječi: »od 1.000,00 do 3.000,00 kuna – zamjenjuju se riječima: »od 2.000,00 do 4.000,00 kuna«.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 3. koji stupa na snagu danom prijama Republike Hrvatske u Europsku uniju.  
+Klasa: 412-04/07-01/01  
+Zagreb, 15. lipnja 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

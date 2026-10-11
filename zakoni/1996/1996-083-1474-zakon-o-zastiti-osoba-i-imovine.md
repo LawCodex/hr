@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-08
+last_amended: 2001-11-07
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "83/96"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "83/96, 75/01, 96/01"
+amendments:
+  - "NN 75/2001 (1279) Uredba o dopuni Zakona o zaštiti osoba i imovine"
+  - "NN 96/2001 (1615) Zakon o dopuni Zakona o zaštiti osoba i imovine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/83/1474"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti osoba i imovine
 
 > Izvor: Narodne novine, NN 83/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/83/1474).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 75/2001, NN 96/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1050,3 +1055,93 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopuni Zakona o zaštiti osoba i imovine (NN 75/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/75/1279*
+
+VLADA REPUBLIKE HRVATSKE
+
+1279
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hr­vat­ske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnog sabora (»Narodne novine«, broj 97/2000), Vlada Republike Hrvatske je na sjednici održanoj 23. kolovoza 2001. godine, donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O ZAŠTITI OSOBA I IMOVINE**
+
+### Članak 1.
+
+U Zakonu o zaštiti osoba i imovine (»Narodne novine«, broj 83/96), u članku 26. iza stavka 1. dodaje se stavak 2., koji glasi:
+
+»Osoba koja ima tri godine radnog iskustva na poslovima policijskog službenika Ministarstva, odnosno na vojno-policijskim poslovima Ministarstva obrane, ne mora polagati stručni ispit za obavljanje poslova tjelesne zaštite«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 453-02/01-01/02  
+Urbroj: 5030109-01-4  
+Zagreb, 23. kolovoza 2001.
+
+Predsjednik  
+Ivica Račan, v. r.
+
+## Zakon o dopuni Zakona o zaštiti osoba i imovine (NN 96/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1615*
+
+HRVATSKI SABOR
+
+1615
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA  
+O ZAŠTITI OSOBA I IMOVINE
+
+Proglašavam Zakon o dopuni Zakona o zaštiti osoba i imovine, koji je donio Hrvatski sabor na sjednici 26. listopada 2001.
+
+Broj: 01-081-01-3385/2  
+Zagreb, 2. studenoga 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O ZAŠTITI OSOBA I IMOVINE**
+
+### Članak 1.
+
+U Zakonu o zaštiti osoba i imovine (»Narodne novine«, br. 83/96.) u članku 26. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Osoba koja ima tri godine radnog iskustva na poslovima policijskog službenika Ministarstva, odnosno na vojno-policij­skim poslovima Ministarstva obrane, ne mora polagati stručni ispit za obav­lja­nje poslova tjelesne zaštite.«
+
+Dosadaš­nji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+### Članak 2.
+
+Danom stupa­nja na snagu ovoga Zakona prestaje važiti Ured­ba o dopuni Zakona o zaštiti osoba i imovine (»Narodne novine«, br. 75/01.)
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 453-02/01-01/03  
+Zagreb, 26. listopada 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

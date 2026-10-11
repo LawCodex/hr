@@ -6,12 +6,15 @@ type: constitutional_act
 jurisdiction: hr
 language: hr
 date: 1999-09-29
+last_amended: 2002-05-03
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "99/99"
-amendments: []
-source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/99/1644"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
+text_version: official_consolidated
+consolidated_text: "NN 49/2002 (967) https://narodne-novine.nn.hr/eli/sluzbeni/2002/49/967"
+narodne_novine: "99/99, 29/02, 49/02"
+amendments:
+  - "NN 29/2002 (629) Ustavni zakon o izmjenama i dopunama Ustavnog zakona o Ustavnom sudu Republike Hrvatske"
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/49/967"
 retrieved: 2026-10-12
 ---
 
@@ -19,48 +22,57 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 99/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/99/1644).
 >
+> Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 49/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/49/967).
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
-ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA
+ODBOR ZA USTAV, POSLOVNIK I POLITIČKI SUSTAV HRVATSKOGA SABORA
 
-Na temelju članka 127. Ustava Republike Hrvatske, Zastupnički dom Hrvatskoga državnog sabora na sjednici 24. rujna 1999., donio je
+967
 
-ODLUKU
+Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora na temelju zaključka Hrvatskoga sabora od 15. ožujka 2002. godine i svoje nadležnosti iz članka 57. Poslovnika Hrvatskoga sabora, na sjednici 23. travnja 2002. godine utvrdio je pročišćeni tekst Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
 
-O PROGLAŠENJU USTAVNOG ZAKONA O USTAVNOM SUDU REPUBLIKE HRVATSKE
+Pročišćeni tekst Ustavnog zakona o Ustavnom sudu Repub­like Hrvatske obuhvaća Ustavni zakon o Ustavnom sudu Repub­like Hrvatske (»Narodne novine« br. 99/99) te Ustavni zakon o izmjenama i dopunama Ustavnog zakona o Ustavnom sudu Re­pub­like Hrvatske (»Narodne novine« br. 29/02) u kojima je naznačeno vrijeme njihova stupanja na snagu.
 
-Proglašava se Ustavni zakon o Ustavnom sudu Republike Hrvatske kojega je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 24. rujna 1999.
-
-Klasa: 711-01/99-01/02  
-Zagreb, 24. rujna 1999.
-
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
+Klasa: 711-01/01-01/03  
+Zagreb, 24. travnja 2002.
 
 Predsjednik  
-Zastupničkog doma  
-Hrvatskoga državnog sabora  
-akademik Vlatko Pavletić, v. r.
+Odbora za Ustav, Poslovnik i  
+politički sustav Hrvatskoga sabora  
+mr. sc. Mato Arlović, v. r.
 
 **USTAVNI ZAKON**
 
 **O USTAVNOM SUDU REPUBLIKE HRVATSKE**
 
+(pročišćeni tekst)
+
 ## I. OPĆE ODREDBE
 
 ### Članak 1.
 
-Ovim se Ustavnim zakonom uređuju uvjeti za izbor sudaca Ustavnog suda Republike Hrvatske (u daljnjem tekstu: Ustavni sud) i prestanak njihove dužnosti, uvjeti i rokovi za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom i suglasnosti drugih propisa s Ustavom i zakonom, postupak i pravno djelovanje njegovih odluka, zaštita ustavnih sloboda i prava čovjeka i građanina i druga pitanja važna za izvršenje dužnosti i rad Ustavnog suda.
+Ovim se Ustavnim zakonom uređuju uvjeti i postupak za izbor sudaca Ustavnog suda Republike Hrvatske (u daljnjem tekstu: Ustavni sud) i prestanak njihove dužnosti, uvjeti i rokovi za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom i suglasnosti drugih propisa s Ustavom i zakonom, postupak i prav­no djelovanje njegovih odluka, zaštita ljudskih prava i temeljnih sloboda zajamčenih Ustavom i druga pitanja važna za izvršenje dužnosti i rad Ustavnog suda.
 
 ### Članak 2.
 
-Djelovanje Ustavnog suda je javno.
+(1) Ustavni sud jamči poštivanje i primjenu Ustava Repub­like Hrvatske i svoje djelovanje temelji na odredbama Ustava Republike Hrvatske i Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
+
+(2) Ustavni sud je neovisan o svim tijelima državne vlasti, te samostalno raspoređuje sredstva, utvrđena u državnom prora­čunu, u skladu sa svojim godišnjim proračunom i zakonom radi fun­kcioniranja djelatnosti Ustavnog suda.
+
+(3) Unutarnje ustrojstvo Ustavnog suda uređuje se Poslovni­kom Ustavnog suda Republike Hrvatske (u daljnjem tekstu: Poslovnik).
+
+(4) O primjeni Poslovnika brine se predsjednik Ustavnog suda. Tumačenje Poslovnika daje Ustavni sud.
 
 ### Članak 3.
 
-(1) Suci Ustavnog suda imaju imunitet kao i zastupnici u Hrvatskom državnom saboru.
+Djelovanje Ustavnog suda je javno.
 
-(2) Sudac Ustavnog suda ne može biti pozvan na kaznenu odgovornost za izraženo mišljenje ili glasovanje u Ustavnom sudu.
+### Članak 4.
+
+(1) Suci Ustavnog suda imaju imunitet kao i zastupnici u Hrvatskom saboru.
+
+(2) Sudac Ustavnog suda ne može biti pozvan na kaznenu odgovornost, pritvoren ili kažnjen za izraženo mišljenje ili glasovanje u Ustavnom sudu.
 
 (3) Sudac Ustavnog suda ne može biti pritvoren niti se protiv njega može pokrenuti kazneni postupak bez odobrenja Ustavnog suda.
 
@@ -68,13 +80,7 @@ Djelovanje Ustavnog suda je javno.
 
 (5) Ustavni sud može odlučiti da sudac Ustavnog suda protiv kojeg je pokrenut kazneni postupak ne obavlja dužnosti u Ustavnom sudu dok taj postupak traje.
 
-## II. UVJETI ZA IZBOR SUDACA USTAVNOG SUDA, IZBOR SUDACA USTAVNOG SUDA I PRESTANAK NJIHOVE DUŽNOSTI
-
-### Članak 4.
-
-(1) Suce Ustavnog suda predlaže Županijski dom Hrvatskoga državnog sabora većinom glasova svih zastupnika.
-
-(2) Suce Ustavnog suda bira Zastupnički dom Hrvatskoga državnog sabora većinom glasova svih zastupnika.
+## II. UVJETI ZA IZBOR SUDACA USTAVNOG SUDA, IZBOR SUDACA USTAVNOG SUDA I PRE­STANAK NJIHOVE DUŽNOSTI
 
 ### Članak 5.
 
@@ -82,25 +88,39 @@ Djelovanje Ustavnog suda je javno.
 
 (2) Osoba koja je stekla doktorat pravnih znanosti i ispunjava druge uvjete iz stavka 1. ovoga članka može se izabrati za suca Ustavnog suda ako ima najmanje 12 godina radnog iskustva u pravnoj struci.
 
-(3) Suci Ustavnog suda biraju se osobito iz reda sudaca, državnih odvjetnika, državnih pravobranitelja, odvjetnika i sveučilišnih nastavnika pravnih znanosti.
-
 ### Članak 6.
 
-(1) Izabrani suci Ustavnog suda stupaju na dužnost na dan isteka mandata sudaca umjesto kojih su izabrani.
+(1) Postupak izbora sudaca Ustavnog suda pokreće odbor Hrvatskoga sabora nadležan za Ustav (u daljnjem tekstu: nadležni odbor) objavom poziva u »Narodnim novinama« pravosudnim institucijama, pravnim fakultetima, odvjetničkoj komori, prav­ničkim udrugama, političkim strankama, drugim pravnim osobama i pojedincima da predlože kandidate za izbor jednog ili više sudaca Ustavnog suda (u daljnjem tekstu: poziv). Pojedinac može i sam sebe predložiti kao kandidata.
 
-(2) Sudac Ustavnog suda koji je izabran umjesto suca koji je razriješen dužnosti prije isteka vremena na koje je izabran stupa na dužnost u roku kojeg odredi Zastupnički dom Hrvatskoga državnog sabora.
+(2) U pozivu se navode uvjeti za izbor sudaca Ustavnog suda određeni Ustavom i ovim Ustavnim zakonom, rok za podnošenje prijedloga kandidata nadležnom odboru, te prilozi koji moraju biti dostavljeni uz prijedlog.
+
+(3) Nakon proteka roka iz stavka 2. ovoga članka, nadležni odbor ispituje ispunjavaju li kandidati uvjete za izbor sudaca Ustavnog suda utvrđene Ustavom i ovim Ustavnim zakonom i nepravovaljane kandidature odbacuje.
+
+(4) Nadležni odbor obavlja javni razgovor sa svakim kandidatom koji ispunjava uvjete za izbor za suca Ustavnog suda i na temelju prikupljenih podataka i rezultata razgovora sastavlja listu kandidata koji ulaze u uži izbor za suce Ustavnog suda. Lista kandidata u pravilu sadržava više kandidata od broja sudaca Ustavnog suda koji se bira.
+
+(5) Nadležni odbor, uz svoj prijedlog, dostavlja Hrvatskom saboru listu svih kandidata koji ispunjavaju uvjete za izbor suca Ustavnog suda. Prijedlog nadležnog odbora mora sadržavati obrazloženje iz kojeg je razvidno zašto je odbor pojedinom kandidatu dao prednost pred ostalim kandidatima.
+
+(6) Zastupnici Hrvatskoga sabora glasuju pojedinačno o sva­kom predloženom kandidatu.
+
+(7) Predloženi kandidat za suca Ustavnog suda smatra se izabranim sucem Ustavnog suda ako za njega glasuje većina od ukupnog broja zastupnika Hrvatskoga sabora.
 
 ### Članak 7.
 
-Prije nego što stupe na dužnost suci Ustavnog suda polažu pred predsjednikom Republike Hrvatske ovu prisegu: »Prisežem svojom čašću da ću se u obavljanju dužnosti suca Ustavnog suda Republike Hrvatske pridržavati Ustava i zakona Republike Hrvatske i da ću savjesno obavljati svoju dužnost.«
+(1) Izabrani suci Ustavnog suda stupaju na dužnost na dan isteka mandata sudaca umjesto kojih su izabrani.
+
+(2) Sudac Ustavnog suda koji je izabran umjesto suca koji je razriješen dužnosti prije isteka vremena na koje je izabran stupa na dužnost u roku kojeg odredi Hrvatski sabor.
 
 ### Članak 8.
 
-(1) Mandat suca Ustavnog suda počinje teći od dana stupanja na dužnost.
-
-(2) Predsjednik Ustavnog suda dužan je šest mjeseci prije isteka mandata suca Ustavnog suda izvijestiti o tome predsjednika Hrvatskoga državnog sabora.
+Prije nego što stupe na dužnost suci Ustavnog suda polažu pred predsjednikom Republike Hrvatske ovu prisegu: »Prisežem svojom čašću da ću se u obavljanju dužnosti suca Ustavnog suda Republike Hrvatske pridržavati Ustava i zakona Republike Hrvat­ske i da ću savjesno obavljati svoju dužnost.«
 
 ### Članak 9.
+
+(1) Mandat suca Ustavnog suda počinje teći od dana stupanja na dužnost.
+
+(2) Predsjednik Ustavnog suda dužan je šest mjeseci prije isteka mandata suca Ustavnog suda izvijestiti o tome predsjednika Hrvatskoga sabora.
+
+### Članak 10.
 
 (1) Suci Ustavnog suda ne mogu obavljati nikakvu drugu javnu ili profesionalnu dužnost.
 
@@ -108,7 +128,7 @@ Prije nego što stupe na dužnost suci Ustavnog suda polažu pred predsjednikom 
 
 (3) U smislu ovoga Ustavnog zakona ne smatra se javnom, odnosno profesionalnom dužnošću ni druga znanstvena i stručna djelatnost, niti člansko djelovanje u institutima i udrugama pravnika, kao ni u humanitarnim, kulturnim, sportskim i drugim udrugama.
 
-### Članak 10.
+### Članak 11.
 
 (1) Sudac Ustavnog suda može biti razriješen dužnosti prije isteka vremena na koje je izabran:
 
@@ -118,13 +138,13 @@ Prije nego što stupe na dužnost suci Ustavnog suda polažu pred predsjednikom 
 
 - ako trajno izgubi sposobnost da obavlja svoju dužnost.
 
-(2) Postojanje razloga za razrješenje suca Ustavnog suda prije isteka mandata utvrđuje Ustavni sud i o tome izvješćuje predsjednika Hrvatskoga državnog sabora.
+(2) Postojanje razloga za razrješenje suca Ustavnog suda prije isteka mandata utvrđuje Ustavni sud i o tome izvješćuje predsjednika Hrvatskoga sabora.
 
-### Članak 11.
+### Članak 12.
 
-(1) Ako sudac Ustavnog suda zatraži da bude razriješen dužnosti, a Zastupnički dom Hrvatskoga državnog sabora ne donese odluku o tom zahtjevu u roku od tri mjeseca od dana podnošenja zahtjeva, Ustavni sud će na zahtjev predsjednika ili suca Ustavnog suda utvrditi da mu je prestao mandat.
+(1) Ako sudac Ustavnog suda zatraži da bude razriješen dužnosti, a Hrvatski sabor ne donese odluku o tom zahtjevu u roku od tri mjeseca od dana podnošenja zahtjeva, sucu Ustavnog suda dužnost prestaje po sili Ustavnog zakona istekom roka od tri mjeseca od dana podnošenja zahtjeva.
 
-(2) Sud koji je izrekao zatvorsku kaznu dužan je bez odgode dostaviti pravomoćnu presudu Ustavnom sudu, koji će o tome odmah izvijestiti predsjednika Hrvatskoga državnog sabora.
+(2) Sud koji je izrekao zatvorsku kaznu dužan je bez odgode dostaviti pravomoćnu presudu Ustavnom sudu, koji će o tome odmah izvijestiti predsjednika Hrvatskoga sabora.
 
 (3) Prijedlog da se pokrene postupak radi utvrđivanja trajnog gubitka sposobnosti suca Ustavnog suda da obavlja svoju dužnost Ustavnom sudu podnosi njegov predsjednik.
 
@@ -132,9 +152,9 @@ Prije nego što stupe na dužnost suci Ustavnog suda polažu pred predsjednikom 
 
 (5) Odluku o prijedlogu iz stavka 4. ovoga članka donosi Ustavni sud većinom glasova svih sudaca.
 
-### Članak 12.
+### Članak 13.
 
-(1) Tijekom postupka propisanog odredbama članka 10. i 11. ovoga Ustavnog zakona sudac Ustavnog suda može biti udaljen od obavljanja dužnosti.
+(1) Tijekom postupka propisanog odredbama članka 11. i 12. ovoga Ustavnog zakona sudac Ustavnog suda može biti udaljen od obavljanja dužnosti.
 
 (2) Odluku o udaljenju donosi, na prijedlog predsjednika Ustavnog suda, Ustavni sud većinom glasova svih sudaca.
 
@@ -142,81 +162,83 @@ Prije nego što stupe na dužnost suci Ustavnog suda polažu pred predsjednikom 
 
 (4) Odluku o prijedlogu za udaljenje predsjednika Ustavnog suda donosi Ustavni sud većinom glasova svih sudaca.
 
-### Članak 13.
+### Članak 14.
 
-(1) Sudac Ustavnog suda kome je prestala sudačka dužnost zbog isteka mandata ima pravo na mirovinu pod istim uvjetima kako je to određeno za zastupnike u Hrvatskom državnom saboru.
+(1) Sudac Ustavnog suda kome je prestala sudačka dužnost zbog isteka mandata ima pravo na mirovinu pod istim uvjetima kako je to određeno za zastupnike u Hrvatskom saboru.
 
 (2) Sudac Ustavnog suda koji je razriješen dužnosti prije isteka vremena na koje je izabran na osobno traženje ili zbog toga što je trajno izgubio sposobnost da obavlja svoju dužnost ima pravo na mirovinu pod istim uvjetima kao i sudac iz stavka 1. ovoga članka.
 
-### Članak 14.
+### Članak 15.
 
 Ustavni sud bira tajnim glasovanjem predsjednika Ustavnog suda na vrijeme od četiri godine većinom glasova svih sudaca.
 
-### Članak 15.
+### Članak 16.
 
 Sudac Ustavnog suda ne smije biti član nijedne političke stranke niti svojim javnim djelovanjem i postupanjem smije iskazivati osobnu naklonost prema bilo kojoj političkoj stranci.
 
-## III. POSTUPAK PRED USTAVNIM SUDOM - OPĆE ODREDBE
+## III. POSTUPAK PRED USTAVNIM SUDOM - OP­ĆE ODREDBE
 
-### Članak 16.
+### Članak 17.
 
-(1) Postupak se pred Ustavnim sudom pokreće pisanim zahtjevom, prijedlogom i ustavnom tužbom (u nastavku: podnesci).
+(1) Postupak se pred Ustavnim sudom pokreće pisanim zahtjevom, prijedlogom i ustavnom tužbom (u daljnjem tekstu: podnesci).
 
 (2) Podnesci upućeni Ustavnom sudu moraju biti potpisani.
 
 (3) Podnesak se podnosi Ustavnom sudu izravno ili mu se šalje poštom. Dan predaje podneska pošti preporučeno smatra se danom predaje Ustavnom sudu.
 
-(4) Ako podnesak nije predan Ustavnom sudu, nego drugome tijelu, a stigne Ustavnom sudu nakon proteka roka za podnošenje podneska, smatrat će se da je podnesen u roku ako je podnositelj podnio podnesak tome tijelu iz neznanja ili očiglednom pogreškom.
-
-### Članak 17.
-
-(1) Podnesci kojima se pokreće postupak, odnosno predlaže pokretanje postupka, kao i druge pisane izjave, prijedlozi i priopćenja upućuju se Ustavnom sudu na hrvatskome jeziku i latiničnom pismu.
-
-(2) Ako je, pod uvjetima propisanim zakonom, u pojedinim lokalnim jedinicama uz hrvatski jezik i latinično pismo u službenu uporabu uveden i drugi jezik te ćirilično ili koje drugo pismo, sudionik u postupku koji ima prebivalište, odnosno sjedište na području te lokalne jedinice može uputiti podneske Ustavnom sudu i na tom drugom jeziku i ćiriličnom ili kojem drugom pismu.
+(4) Ako podnesak nije predan Ustavnom sudu, nego drugome tijelu, a stigne Ustavnom sudu nakon proteka roka za podno­šenje podneska, smatrat će se da je podnesen u roku ako je podnositelj podnio podnesak tome tijelu iz neznanja ili očiglednom pogreškom.
 
 ### Članak 18.
 
+(1) Podnesci kojima se pokreće postupak, odnosno predlaže pokretanje postupka, kao i druge pisane izjave, prijedlozi i priop­ćenja upućuju se Ustavnom sudu na hrvatskome jeziku i lati­ničnom pismu.
+
+(2) Ako je, pod uvjetima propisanim zakonom, u pojedinim lokalnim jedinicama uz hrvatski jezik i latinično pismo u službenu uporabu uveden i drugi jezik te ćirilično ili koje drugo pismo, sudionik u postupku koji ima prebivalište, odnosno sjedište na području te lokalne jedinice može uputiti podneske Ustavnom sudu i na tom drugom jeziku i ćiriličnom ili kojem drugom pismu.
+
+### Članak 19.
+
 (1) Podnesci upućeni Ustavnom sudu moraju biti razumljivi i moraju sadržavati sve što je potrebno da bi se po njima moglo postupiti.
 
-(2) Ako je podnesak nerazumljiv ili ne sadrži sve što je potrebno da bi se po njemu moglo postupiti, Ustavni sud će vratiti podnesak podnositelju radi ispravka, odnosno dopune, uz određivanje roka za ponovno podnošenje podneska.
+(2) Ako je podnesak nerazumljiv ili ne sadrži sve što je potrebno da bi se po njemu moglo postupiti, Ustavni sud će vratiti podnesak podnositelju radi ispravka, odnosno dopune, uz određi­vanje roka za ponovno podnošenje podneska.
 
 (3) Ako podnesak vezan za rok bude ispravljen, odnosno dopunjen i predan Ustavnom sudu u roku određenom za dopunu ili ispravak, smatrat će se da je podnesen onog dana kad je prvi puta bio podnesen.
 
-(4) Smatrat će se da je podnesak povučen ako ne bude vraćen Ustavnom sudu u određenome roku. Ako bude vraćen bez ispravka, odnosno dopune, odbacit će se.
+(4) Smatrat će se da je podnesak povučen ako ne bude vraćen Ustavnom sudu u određenome roku. Ako bude vraćen bez isprav­ka, odnosno dopune, odbacit će se.
 
-### Članak 19.
+### Članak 20.
 
 (1) Postupak vodi sudac Ustavnog suda.
 
 (2) Postupak treba voditi tako da omogući Ustavnom sudu donošenje odluke o biti stvari.
 
-### Članak 20.
+### Članak 21.
 
 Ako postoje razlozi za isključenje javnosti u postupku sudac Ustavnog suda to treba navesti u izvješću.
 
-### Članak 21.
+### Članak 22.
 
 Kada dostavu treba obaviti fizičkim ili pravnim osobama u inozemstvu ili strancima koji uživaju pravo imuniteta, dostava će se obaviti diplomatskim odnosno konzularnim putem, ako u međunarodnom ugovoru nije što drugo određeno.
 
-### Članak 22.
+### Članak 23.
 
 U ustavnosudskom postupku svaki sudionik snosi svoje troškove postupka, ako Ustavni sud ne odluči drukčije.
 
-### Članak 23.
+### Članak 24.
 
 (1) Sudionici mogu poduzimati radnje u postupku osobno ili preko punomoćnika.
 
 (2) Ovlaštenje punomoćnika za poduzimanje svih ili samo određenih radnji u postupku mora se temeljiti na posebnoj punomoći.
 
-### Članak 24.
-
-Svaka fizička i pravna osoba dužna je Ustavnom sudu na njegov zahtjev dati isprave i obavijesti potrebne za vođenje postupka.
-
 ### Članak 25.
+
+(1) Svatko je dužan Ustavnom sudu na njegov zahtjev dati isprave i obavijesti potrebne za vođenje postupka.
+
+(2) Iznimno, u slučaju neudovoljavanja opetovanom zahtjevu Ustavnog suda iz stavka 1. ovoga članka, Ustavni sud može naložiti oduzimanje isprava.
+
+### Članak 26.
 
 O sjednicama Ustavnog suda vodi se zapisnik.
 
-### Članak 26.
+### Članak 27.
 
 (1) Ustavni sud donosi odluke i rješenja većinom glasova svih sudaca, ako Ustavom ili ovim Ustavnim zakonom nije drukčije određeno.
 
@@ -226,25 +248,27 @@ O sjednicama Ustavnog suda vodi se zapisnik.
 
 (4) Sudac Ustavnog suda koji izdvoji mišljenje dužan ga je pisano obrazložiti.
 
-(5) Sudac Ustavnog suda koji je glasovao suprotno većini može, u primjerenom roku od dana izradbe odluke, pisano obrazložiti svoje mišljenje i objaviti ga.
+(5) Sudac Ustavnog suda koji je glasovao suprotno većini može, u primjerenom roku od dana izrade odluke ili rješenja, pisano obrazložiti svoje mišljenje i objaviti ga.
 
 (6) Sudac Ustavnog suda se ne može uzdržati od glasovanja, osim u slučaju kada je sudjelovao u donošenju zakona, drugog propisa ili odluke koji su predmet odlučivanja.
 
-### Članak 27.
+### Članak 28.
 
 (1) Odluka, odnosno rješenje Ustavnog suda mora imati uvod, izreku i obrazloženje.
 
 (2) Uvod odluke, odnosno rješenja sadrži: naziv Ustavnog suda, ime i prezime predsjednika i sudaca Ustavnog suda koji su sudjelovali u donošenju odluke, odnosno rješenja, kratku oznaku predmeta odlučivanja, te dan kada je odluka, odnosno rješenje doneseno.
 
-(3) Izreka sadrži odluku Ustavnog suda o predmetu odlučivanja.
+(3) Izreka sadrži odluku Ustavnog suda o predmetu odluči­vanja.
 
 (4) U obrazloženju Ustavni sud će izložiti sadržaj podneska kojim se predlaže pokretanje postupka, odnosno kojim je postupak pokrenut, navesti razloge zbog kojih je odlučio kao u izreci i propise na kojima je utemeljio odluku.
 
-### Članak 28.
-
-Odluke i važnija rješenja Ustavnog suda objavljuju se u »Narodnim novinama«.
-
 ### Članak 29.
+
+(1) Odluke i važnija rješenja Ustavnog suda, doneseni u postupku ocjene suglasnosti zakona s Ustavom, odnosno suglasnosti drugih propisa s Ustavom i zakonom, te odluke i rješenja doneseni u ustavnosudskim postupcima za zaštitu ljudskih prava i temeljnih sloboda zajamčenih Ustavom, objavljuju se u »Narodnim novinama«. Ako više odluka ili rješenja počivaju na istoj pravnoj osnovi i istom ili sličnom činjeničnom stanju objavit će se samo jedna odluka, odnosno rješenje.
+
+(2) O objavi ostalih akata Ustavnog suda odlučuje sjednica Ustavnog suda.
+
+### Članak 30.
 
 (1) Ustavni sud dostavlja ovjerovljeni prijepis svoje odluke, odnosno rješenja sudionicima u postupku.
 
@@ -254,11 +278,11 @@ Odluke i važnija rješenja Ustavnog suda objavljuju se u »Narodnim novinama«.
 
 (4) U slučaju objave odluke, odnosno rješenja u »Narodnim novinama« dostava se smatra obavljenom danom objave.
 
-### Članak 30.
+### Članak 31.
 
 (1) Odluke i rješenja Ustavnog suda obvezatni su i dužna ih je poštovati svaka fizička i pravna osoba.
 
-(2) Sva tijela državne vlasti i lokalne samouprave i uprave dužna su u okviru svoga ustavnog i zakonskog djelokruga provoditi odluke i rješenja Ustavnog suda.
+(2) Sva tijela državne vlasti i lokalne i područne (regionalne) samouprave dužna su u okviru svoga ustavnog i zakonskog djelokruga provoditi odluke i rješenja Ustavnog suda.
 
 (3) Vlada Republike Hrvatske osigurava preko tijela državne uprave provedbu odluka i rješenja Ustavnog suda.
 
@@ -266,71 +290,81 @@ Odluke i važnija rješenja Ustavnog suda objavljuju se u »Narodnim novinama«.
 
 (5) Ustavni sud može odrediti način provedbe svoje odluke, odnosno rješenja.
 
-### Članak 31.
-
-Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ako nije nadležan za odlučivanje, ako su nepravodobni, i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari.
-
 ### Članak 32.
 
-Ustavni sud donijet će odluku o zahtjevu, prihvaćenom prijedlogu i ustavnoj tužbi u pravilu u roku od najviše godinu dana.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ako nije nadležan za odlučivanje, ako su nepravodobni, i u drugim slučajevima kad ne postoje pretpostavke za odluči­vanje o biti stvari.
 
 ### Članak 33.
 
-Ako ovim Ustavnim zakonom nije propisano drukčije Ustavni sud u postupku podredno smisleno primjenjuje odredbe odgovarajućih postupovnih zakona Republike Hrvatske.
-
-## IV. OCJENA SUGLASNOSTI ZAKONA S USTAVOM I SUGLASNOSTI DRUGIH PROPISA S USTAVOM I ZAKONOM
+Ustavni sud donijet će odluku o zahtjevu, prihvaćenom pri­jed­logu i ustavnoj tužbi u pravilu u roku od najviše godinu dana.
 
 ### Članak 34.
 
+Ako ovim Ustavnim zakonom nije propisano drukčije Ustavni sud u postupku podredno smisleno primjenjuje odredbe odgovarajućih postupovnih zakona Republike Hrvatske.
+
+## IV. OCJENA SUGLASNOSTI ZAKONA S — US­TA­VOM I SUGLASNOSTI DRUGIH PROPISA S US­TA­VOM I ZAKONOM
+
+### Članak 35.
+
 Zahtjev kojim se pokreće postupak pred Ustavnim sudom mogu podnijeti:
 
-- jedna petina zastupnika Zastupničkog doma ili jedna petina zastupnika Županijskog doma Hrvatskoga državnog sabora,
+- jedna petina zastupnika Hrvatskoga sabora,
 
-- radno tijelo Zastupničkog doma,
+- radno tijelo Hrvatskoga sabora,
 
 - predsjednik Republike Hrvatske,
 
 - Vlada Republike Hrvatske za ocjenu suglasnosti propisa s Ustavom i zakonom,
 
-- Vrhovni sud Republike Hrvatske, ako pitanje ustavnosti i zakonitosti nastane u postupku pred sudovima,
+- Vrhovni sud Republike Hrvatske ili drugi sud, ako pitanje ustavnosti i zakonitosti nastane u postupku vođenim pred tim sudom,
 
-- Pučki pravobranitelj u postupcima iz članka 93. Ustava Republike Hrvatske,
-
-- predstavnička tijela jedinica lokalne samouprave i uprave u stvarima iz ustrojstva lokalne samouprave i uprave.
-
-### Članak 35.
-
-(1) Ako sud u postupku utvrdi da zakon koji bi trebalo primijeniti nije suglasan s Ustavom, zastat će s postupkom i zatražiti da Vrhovni sud Republike Hrvatske podnese Ustavnom sudu zahtjev za ocjenu suglasnosti zakona s Ustavom.
-
-(2) Ako sud u postupku utvrdi da drugi propis koji bi trebalo primijeniti nije suglasan s Ustavom, odnosno zakonom, taj propis neće primijeniti, o čemu će izvijestiti Vrhovni sud Republike Hrvatske.
+- Pučki pravobranitelj u postupcima iz članka 92. Ustava Republike Hrvatske,
 
 ### Članak 36.
+
+(1) Ako predstavničko tijelo jedinice lokalne ili područne (regionalne) samouprave u Republici Hrvatskoj smatra da zakon kojim se uređuje ustrojstvo, djelokrug ili financiranje jedinica lokalne i područne (regionalne) samouprave nije u skladu s Ustavom, ima pravo podnijeti zahtjev Ustavnom sudu za ocjenu suglasnosti tog zakona ili pojedinih njegovih odredaba s Ustavom.
+
+(2) O zahtjevu iz stavka 1. ovoga članka Ustavni sud dužan je odlučiti po hitnom postupku, a najkasnije u roku od 30 dana od dana zaprimanja zahtjeva.
+
+### Članak 37.
+
+(1) Ako sud u postupku utvrdi da zakon koji bi trebao primijeniti, odnosno pojedina njegova odredba nisu suglasni s Ustavom, zastat će s postupkom i podnijeti Ustavnom sudu zahtjev za ocjenu suglasnosti zakona, odnosno pojedine njegove odredbe s Ustavom.
+
+(2) Ako sud u postupku utvrdi da drugi propis koji bi trebao primijeniti, odnosno pojedina njego va odredba nisu suglasni s Ustavom i zakonom, na konkretan slučaj će neposredno primijeniti zakon, a Ustavnom sudu će podnijeti zahtjev za ocjenu suglasnosti spornog propisa, odnosno pojedine njegove odredbe s Ustavom i zakonom.
+
+(3) O podnijetim zahtjevima iz stavka 1. i 2. ovoga članka Ustavni sud će izvijestiti Vrhovni sud Republike Hrvatske.
+
+### Članak 38.
 
 (1) Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom i ocjenu suglasnosti drugih propisa s Ustavom i zakonom.
 
 (2) Ustavni sud može i sam pokrenuti postupak za ocjenu suglasnosti zakona s Ustavom i ocjenu suglasnosti drugih propisa s Ustavom i zakonom.
 
-### Članak 37.
+### Članak 39.
 
 (1) Zahtjev za ocjenu suglasnosti zakona s Ustavom i suglasnosti drugih propisa s Ustavom i zakonom mora sadržavati oznaku odredbi čija se ustavnost, odnosno zakonitost osporava, oznaku odredbi Ustava ili zakona za koje se u zahtjevu tvrdi da su povrijeđene, razloge zbog kojih se tvrdi da osporeni propis nije suglasan s Ustavom, odnosno zakonom, te potpis i pečat podnositelja zahtjeva.
 
 (2) U zahtjevu podnositelj može navesti i druge činjenice od značenja za ocjenu stvari, kao i svoje mišljenje o tome treba li osporeni propis ukinuti ili poništiti.
 
-### Članak 38.
+(3) Uz zahtjev za pokretanje postupka za ocjenu ustavnosti i zakonitosti drugog propisa mora se priložiti osporavani akt.
 
-Prijedlog za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom i suglasnosti drugih propisa s Ustavom i zakonom sadrži, u pravilu, sve što sadrži i zahtjev.
+### Članak 40.
 
-### Članak 39.
+(1) Prijedlog za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom i suglasnosti drugih propisa s Ustavom i zakonom sadrži, u pravilu, sve što sadrži i zahtjev.
+
+(2) Ustavni sud će započeti postupak najkasnije u roku od godine dana od podnošenja prijedloga.
+
+### Članak 41.
 
 Svaki zahtjev, odnosno prijedlog za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom i suglasnosti drugog propisa s Ustavom i zakonom predsjednik Ustavnog suda uputit će na obradu sucu izvjestitelju.
 
-### Članak 40.
+### Članak 42.
 
 (1) Na prijedlog suca izvjestitelja Ustavni sud može dostaviti zahtjev, odnosno prijedlog za pokretanje postupka na odgovor tijelu koje je donijelo osporeni propis.
 
 (2) Ako tijelo iz stavka 1. ovoga članka ne odgovori Ustavnom sudu u roku od 60 dana, Ustavni sud će nastaviti s postupkom.
 
-### Članak 41.
+### Članak 43.
 
 (1) O prijedlogu kojim se traži da Ustavni sud pokrene postupak za ocjenu suglasnosti zakona s Ustavom i ocjenu suglasnosti drugih propisa s Ustavom i zakonom, Ustavni sud na sjednici odlučuje rješenjem hoće li prihvatiti prijedlog i pokrenuti postupak.
 
@@ -338,75 +372,75 @@ Svaki zahtjev, odnosno prijedlog za pokretanje postupka za ocjenu suglasnosti za
 
 (3) Kada Ustavni sud pokrene postupak radi ocjene suglasnosti zakona s Ustavom, rješenje o pokretanju postupka objavit će se i u »Narodnim novinama«.
 
-### Članak 42.
+### Članak 44.
 
 (1) Postupak za ocjenu suglasnosti zakona s Ustavom i drugih propisa s Ustavom i zakonom smatra se pokrenutim na dan primitka zahtjeva u Ustavnom sudu, odnosno na dan predaje zahtjeva pošti preporučeno.
 
 (2) Postupak za ocjenu suglasnosti zakona s Ustavom i drugih propisa s Ustavom i zakonom u povodu prijedloga smatra se pokrenutim na dan donošenja rješenja o pokretanju postupka.
 
-### Članak 43.
-
-Ustavni sud može, do donošenja konačne odluke, privremeno obustaviti izvršenje pojedinačnih akata ili radnji koje se poduzimaju na osnovi zakona ili drugog propisa, čija se suglasnost s Ustavom, odnosno zakonom ocjenjuje, ako bi njihovim izvršenjem mogle nastupiti teške i nepopravljive posljedice.
-
-### Članak 44.
-
-(1) Kada obradi predmet na način koji će omogućiti Ustavnom sudu donošenje odluke o biti stvari, sudac izvjestitelj podnosi izvješće o predmetu predsjedniku Ustavnog suda u pisanom obliku.
-
-(2) Izvješće sadrži podatke o zahtjevu ili prijedlogu, o obavljenim postupovnim radnjama, činjeničnim i pravnim pitanjima, pribavljenim mišljenjima te mišljenje može li se o predmetu odlučiti na sjednici bez javne rasprave, ili treba zakazati javnu raspravu.
-
 ### Članak 45.
 
-(1) Kada predsjednik Ustavnog suda primi izvješće ili nacrt odluke ili rješenja, upućuje ih na sjednicu Ustavnog suda radi donošenja odluke u predmetu.
+Ustavni sud može, do donošenja konačne odluke, privremeno obustaviti izvršenje pojedinačnih akata ili radnji koje se poduzimaju na osnovi zakona ili drugog propisa, čija se suglasnost s Ustavom, odnosno zakonom ocjenjuje, ako bi njihovim izvrše­njem mogle nastupiti teške i nepopravljive posljedice.
 
-(2) Uz suce, sjednici su nazočni i mogu sudjelovati u raspravi tajnik i savjetnici Ustavnog suda i voditelj Službe za evidenciju i dokumentaciju, ako Ustavni sud ne odluči drukčije.
+### Članak 46.
+
+(1) Kada obradi predmet na način koji će omogućiti Ustavnom sudu donošenje odluke o biti stvari, sudac izvjestitelj podnosi nacrt odluke ili rješenja o predmetu predsjedniku Ustavnog suda u pisanom obliku.
+
+(2) Nacrt odluke ili rješenja sadrži podatke o zahtjevu ili prijedlogu, o obavljenim postupovnim radnjama, činjeničnim i pravnim pitanjima, pribavljenim mišljenjima te mišljenje može li se o predmetu odlučiti na sjednici bez javne rasprave, ili treba zakazati javnu raspravu.
+
+### Članak 47.
+
+(1) Kada predsjednik Ustavnog suda primi nacrt odluke ili rješenja, upućuje ih na sjednicu Ustavnog suda radi donošenja odluke u predmetu.
+
+(2) Uz suce, sjednici su nazočni i mogu sudjelovati u raspravi glavni tajnik i savjetnici Ustavnog suda i voditelj Službe za evidenciju i dokumentaciju, ako Ustavni sud ne odluči drukčije.
 
 (3) Predstavnici tiska i drugih sredstava priopćavanja mogu biti nazočni sjednici i javnoj raspravi, te drugim skupovima u Ustavnom sudu.
 
 (4) Za televizijski i radio-prijenos iz Ustavnog suda potrebna je dozvola predsjednika Ustavnog suda.
 
-### Članak 46.
+### Članak 48.
 
-(1) Na sjednici sudac izvjestitelj usmeno obrazlaže izvješće i prema potrebi daje dopunska obrazloženja.
+(1) Na sjednici sudac izvjestitelj usmeno obrazlaže nacrt odluke ili rješenja i prema potrebi daje dopunska obrazloženja.
 
-(2) Sudac može ovlastiti savjetnika da na sjednici izloži predmet.
+(2) Sudac može ovlastiti savjetnika da na sjednici izloži pred­met.
 
 (3) Nakon toga predsjednik Ustavnog suda otvara raspravu.
 
 (4) Nakon završene rasprave o predmetu, predsjednik iznosi na odlučivanje prijedlog suca izvjestitelja, a zatim i druge prijedloge iznesene u raspravi o predmetu.
 
-(5) Ako Ustavni sud ne prihvati prijedlog suca izvjestitelja izvješće može, radi dopune, vratiti sucu izvjestitelju ili zadužiti drugoga suca da obradi drugo stajalište.
+(5) Ako Ustavni sud ne prihvati prijedlog suca izvjestitelja nacrt odluke ili rješenja može, radi dopune, vratiti sucu izvjestitelju ili zadužiti drugoga suca da obradi drugo stajalište.
 
-### Članak 47.
+### Članak 49.
 
-(1) Ustavni sud održava savjetodavnu raspravu ako ocijeni da je prije odlučivanja o biti stvari potrebna rasprava sa sudionicima u postupku, državnim tijelima, tijelima lokalne samouprave i uprave, udrugama, znanstvenicima i drugim stručnjacima.
+(1) Ustavni sud održava savjetodavnu raspravu ako ocijeni da je prije odlučivanja o biti stvari potrebna rasprava sa sudionicima u postupku, državnim tijelima, tijelima lokalne i područne (regionalne) samouprave, udrugama, znanstvenicima i drugim stručnjacima.
 
 (2) Savjetodavnu raspravu može sazvati i sudac izvjestitelj o čemu je dužan izvijestiti predsjednika Ustavnog suda.
 
-### Članak 48.
+### Članak 50.
 
 (1) Ustavni sud na sjednici može zaključiti da će o biti stvari odlučiti na temelju javne rasprave.
 
 (2) Javnu raspravu zakazuje predsjednik Ustavnog suda.
 
-(3) Na javnu raspravu pozivaju se sudionici u postupku i predstavnici državnih tijela, tijela lokalne samouprave i uprave i udruga, kao i osobe sudjelovanje kojih je na javnoj raspravi potrebno.
+(3) Na javnu raspravu pozivaju se sudionici u postupku i predstavnici državnih tijela, tijela lokalne i područne (regionalne) samouprave i udruga, kao i osobe sudjelovanje kojih je na javnoj raspravi potrebno.
 
 (4) Izostanak pozvanih sudionika u postupku i drugih pozvanih osoba ne sprječava Ustavni sud da nastavi postupak i donese odluku, ako ocijeni da za to postoje uvjeti.
 
 (5) U opravdanim slučajevima Ustavni sud može odgoditi javnu raspravu i zakazati novu.
 
-### Članak 49.
+### Članak 51.
 
-(1) Javnu raspravu vodi predsjednik Ustavnog suda, a o činjeničnom i pravnom stanju u predmetu izvješćuje sudac izvjestitelj.
+(1) Javnu raspravu vodi predsjednik Ustavnog suda, a o či­nje­ničnom i pravnom stanju u predmetu izvješćuje sudac izvjestitelj.
 
-(2) O tijeku javne rasprave vodi se zapisnik. Zapisnik vodi savjetnik Ustavnog suda koji je sa sucem surađivao u obradi predmeta. Javna rasprava se stenografira ili snima ako predsjednik Ustavnog suda ne odluči drukčije. Snimka javne rasprave prilaže se zapisniku.
+(2) O tijeku javne rasprave vodi se zapisnik. Zapisnik vodi savjetnik Ustavnog suda koji je sa sucem surađivao u obradi pred­meta. Javna rasprava se stenografira ili snima ako predsjednik Ustavnog suda ne odluči drukčije. Snimka javne rasprave prilaže se zapisniku.
 
 (3) Zapisnik javne rasprave potpisuju predsjednik Ustavnog suda i savjetnik koji je vodio zapisnik.
 
-### Članak 50.
+### Članak 52.
 
 Kada Ustavni sud smatra da je predmet raspravljen u mjeri da se može donijeti odluka, predsjednik Ustavnog suda priopćit će da je rasprava zaključena.
 
-### Članak 51.
+### Članak 53.
 
 (1) Ustavni sud donosi odluku na posebnoj sjednici.
 
@@ -414,103 +448,113 @@ Kada Ustavni sud smatra da je predmet raspravljen u mjeri da se može donijeti o
 
 (3) U zapisnik te sjednice unose se podaci o predmetu, o tome kako je predmet riješen, te o glasovanju (tko je glasovao »za« a tko »protiv«).
 
-### Članak 52.
-
-Ustavni sud može ocjenjivati suglasnost zakona s Ustavom, odnosno suglasnost drugih propisa s Ustavom i zakonom i u slučaju kada je određeni zakon ili drugi propis već ranije bio predmetom ustavnosudske ocjene.
-
-### Članak 53.
-
-(1) Ustavni sud će ukinuti zakon ili pojedine njegove odredbe ako utvrdi da nisu suglasni s Ustavom.
-
-(2) Ukinuti zakon odnosno ukinute zakonske odredbe prestaju važiti danom objave odluke Ustavnog suda u »Narodnim novinama« ako Ustavni sud ne odredi drugi rok.
-
 ### Članak 54.
 
-(1) Ustavni sud će ukinuti ili poništiti drugi propis, ili pojedine njegove odredbe, ako utvrdi da nije suglasan s Ustavom, odnosno sa zakonom.
-
-(2) U odlučivanju hoće li se neki propis poništiti ili ukinuti, Ustavni sud će uzeti u obzir sve okolnosti od važnosti za zaštitu ustavnosti i zakonitosti, imajući pri tome u vidu osobito težinu povrede Ustava ili zakona i interes pravne sigurnosti.
-
-(3) Ustavni sud poništit će propis
-
-- ako se njime vrijeđaju temeljne slobode i prava čovjeka i građanina,
-
-- ako se njime neki pojedinci, skupine ili udruge neosnovano stavljaju u povoljniji položaj.
+Ustavni sud može ocjenjivati suglasnost zakona s Ustavom, odnosno suglasnost drugih propisa s Ustavom i zakonom i u slučaju kada je određeni zakon ili drugi propis već ranije bio pred­metom ustavnosudske ocjene.
 
 ### Članak 55.
 
-(1) U slučaju da je postupak za ocjenu suglasnosti zakona s Ustavom, odnosno suglasnosti drugih propisa s Ustavom i zakonom pokrenut pred Ustavnim sudom, a taj zakon, odnosno drugi propis nadležno tijelo ukine ili izmijeni prije okončanja postupka pred Ustavnim sudom. Ustavni sud dovršit će pokrenuti postupak.
+(1) Ustavni sud će ukinuti zakon ili pojedine njegove odredbe ako utvrdi da nije suglasan s Ustavom, odnosno drugi propis ili pojedine njegove odredbe ako utvrdi da nije suglasan s Ustavom i zakonom.
 
-(2) U slučaju da utvrdi neustavnost ukinutog ili izmijenjenog zakona odnosno neustavnost ili nezakonitost drugog propisa iz stavka 1. ovoga članka, Ustavni sud donijet će odluku o njegovoj neustavnosti ili nezakonitosti na temelju koje svatko kome je povrijeđeno pravo pravomoćnim pojedinačnim aktom donijetim na temelju ukinutog ili izmijenjenog zakona ili drugog propisa ima pravo tražiti od nadležnog tijela izmjenu tog pojedinačnog akta odgovarajućom primjenom odredbi članka 56. ovoga Ustavnog zakona.
+(2) Ukinuti zakon i drugi propis, odnosno njihove ukinute odredbe, prestaju važiti danom objave odluke Ustavnog suda u »Narodnim novinama«, ako Ustavni sud ne odredi drugi rok.
+
+(3) Ustavni sud može poništiti propis, odnosno pojedine njegove odredbe, uzimajući u obzir sve okolnosti od važnosti za zaštitu ustavnosti i zakonitosti, te imajući u vidu osobito težinu povrede Ustava ili zakona i interes pravne sigurnosti:
+
+- ako se njime vrijeđaju ljudska prava i temeljne slobode zajamčene Ustavom,
+
+- ako se njime pojedinci, skupine ili udruge neosnovano stav­ljaju u povoljniji ili nepovoljniji položaj.
 
 ### Članak 56.
 
-(1) Pravomoćna osuda za kazneno djelo utemeljena na zakonskoj odredbi koja je ukinuta zbog nesuglasnosti s Ustavom ne proizvodi pravne učinke i može se izmijeniti odgovarajućom primjenom odredaba o ponavljanju kaznenog postupka.
+(1) Ustavni sud može ocjenjivati ustavnost zakona te ustavnost i zakonitost drugog propisa, odnosno pojedinih njihovih odredaba, iako su oni prestali važiti, ako od tog prestanka do podnošenja zahtjeva ili prijedloga za pokretanje postupka nije proteklo više od godinu dana.
 
-(2) Svaka fizička i pravna osoba kojoj je povrijeđeno pravo pravomoćnim pojedinačnim aktom donijetim na osnovi ukinutog zakona ili drugoga ukinutog ili poništenog propisa ima pravo tražiti od nadležnog tijela izmjenu toga pojedinačnog akta odgovarajućom primjenom odredaba o ponavljanju postupka.
+(2) Kad u postupku ocjene utvrdi neustavnost, odnosno nezakonitost akta iz stavka 1. ovoga članka, Ustavni sud će donijeti odluku o utvrđenju neustavnosti zakona ili neustavnosti i nezakonitosti drugog propisa, odnosno pojedinih njihovih odredaba.
 
-(3) Prijedlog za izmjenu pojedinačnog akta iz stavka 2. ovoga članka može se podnijeti u roku od šest mjeseci od dana objave odluke Ustavnog suda u »Narodnim novinama«. Taj se prijedlog može podnijeti ako od dostave pojedinačnog akta, kojim je postupak pravomoćno okončan, do podnošenja zahtjeva, odnosno prijedloga u povodu kojeg je ukinut zakon ili drugi propis, nije proteklo više od godine dana. Ako je odlukom Ustavnog suda propis poništen, prijedlog se može podnijeti ako od dostave pojedinačnog akta, kojim je postupak pravomoćno okončan, do podnošenja zahtjeva, odnosno prijedloga Ustavnom sudu, nije proteklo više od dvije godine.
-
-(4) Izvršenje konačnih, odnosno pravomoćnih pojedinačnih akata donijetih na osnovi ukinutog zakona ili ukinutog, odnosno poništenoga drugoga propisa ne može se ni odrediti ni provesti, a ako je izvršenje započeto obustavit će se.
-
-(5) Ako se utvrdi da se izmjenom pojedinačnog akta ne mogu otkloniti posljedice nastale primjenom propisa koji je neustavan, odnosno nezakonit, Ustavni sud može odrediti da se te posljedice otklone povratom u prijašnje stanje, naknadom štete ili na drugi način.
-
-(6) Ustavni sud će odluku iz prethodnog stavka donijeti na prijedlog osobe koja za to ima pravni interes. Prijedlog se podnosi u roku od 30 dana po pravomoćnom okončanju postupka za izmjenu pojedinačnog akta.
+(3) U slučaju iz stavka 2. ovoga članka odgovarajuće se primjenjuju odredbe članka 58. i 59. ovoga Ustavnog zakona.
 
 ### Članak 57.
 
-Kad sud pravomoćnom odlukom odbije primijeniti propis zbog njegove neustavnosti ili nezakonitosti, a Ustavni sud utvrdi da takva neustavnost, odnosno nezakonitost ne postoji, svatko kome je povrijeđeno neko pravo može zahtijevati izmjenu pravomoćne odluke suda u roku od godine dana od dana objave odluke Ustavnog suda.
+(1) U slučaju da je postupak za ocjenu suglasnosti zakona s Ustavom, odnosno suglasnosti drugih propisa s Ustavom i zakonom pokrenut pred Ustavnim sudom, a taj zakon, odnosno drugi propis nadležno tijelo ukine ili izmijeni prije okončanja postupka pred Ustavnim sudom, Ustavni sud dovršit će pokrenuti postupak.
+
+(2) U slučaju da utvrdi neustavnost ukinutog ili izmijenjenog zakona odnosno neustavnost ili nezakonitost drugog propisa iz stavka 1. ovoga članka, Ustavni sud donijet će odluku o njegovoj neustavnosti ili nezakonitosti na temelju koje svatko kome je povrijeđeno pravo pravomoćnim pojedinačnim aktom donijetim na temelju ukinutog ili izmijenjenog zakona ili drugog propisa ima pravo tražiti od nadležnog tijela izmjenu tog pojedinačnog akta odgovarajućom primjenom odredbi članka 58. ovoga Ustavnog zakona.
 
 ### Članak 58.
 
-Ustavni sud može obustaviti postupak ako podnositelj zahtjeva, odnosno prijedloga odustane, a mora u slučajevima kad prestanu postojati pretpostavke za vođenje postupka.
+(1) Pravomoćna presuda za kazneno djelo utemeljena na odredbi zakona koja je ukinuta zbog nesuglasnosti s Ustavom ne proizvodi pravne učinke od dana stupanja na snagu odluke Ustav­nog suda o ukidanju odredbe zakona na temelju koje je presuda donesena i može se izmijeniti odgovarajućom primjenom odredaba o ponavljanju kaznenog postupka.
 
-## V. ZAŠTITA USTAVNIH SLOBODA I PRAVA ČOVJEKA I GRAÐANINA
+(2) Svaka fizička i pravna osoba koja je Ustavnom sudu podnijela prijedlog za ocjenu suglasnosti pojedine odredbe zakona s Ustavom, odnosno pojedine odredbe drugog propisa s Ustavom i zakonom, a Ustavni sud njezin prijedlog prihvati i ukine odredbu zakona, odnosno odredbu drugog propisa, ima pravo podnijeti zahtjev nadležnom tijelu za izmjenu pravomoćnoga po­jedi­načnog akta kojim joj je povrijeđeno pravo, a koji je donesen na temelju ukinute zakonske odredbe, odnosno ukinute odredbe drugog propisa,odgovarajućom primjenom odredaba o ponav­ljanju postupka.
+
+(3) Svaka fizička i pravna osoba kojoj je povrijeđeno pravo pravomoćnim pojedinačnim aktom donesenim na temelju poniš­tene odredbe drugog propisa ima pravo podnijeti zahtjev nadležnom tijelu za izmjenu toga pojedinačnog akta odgovarajućom primjenom odredaba o ponavljanju postupka.
+
+(4) Zahtjev za izmjenu pravomoćnoga pojedinačnog akta iz stavka 2. i 3. ovoga članka može se podnijeti u roku od šest mjeseci od dana objave odluke Ustavnog suda u »Narodnim novinama«.
+
+(5) U postupcima u kojima o pravnoj stvari, do dana stupanja na snagu odluke Ustavnog suda kojom se ukida zakon, odnosno poništava ili ukida drugi propis ili pojedina njihova odredba, nije pravomoćno odlučeno, a taj se zakon, odnosno drugi propis neposredno primjenjuje u toj pravnoj stvari, ukinuti zakon, odnosno poništeni ili ukinuti drugi propis ili njihova ukinuta ili poništena odredba neće se primjenjivati od dana stupanja na snagu odluke Ustavnog suda.
 
 ### Članak 59.
 
-(1) Svaka fizička i pravna osoba može podnijeti Ustavnom sudu ustavnu tužbu ako smatra da joj je odlukom sudbene, upravne vlasti, ili drugih tijela koja imaju javne ovlasti, povrijeđeno jedno od njenih Ustavom utvrđenih sloboda i prava čovjeka i građanina (u nastavku: ustavno pravo).
-
-(2) Ako je zbog povrede ustavnih prava dopušten drugi pravni put, ustavna tužba može se podnijeti tek nakon što je taj pravni put iscrpljen.
-
-(3) U stvarima u kojima je dopušten upravni spor, odnosno revizija u parničnom ili izvanparničnom postupku, pravni put je iscrpljen nakon što je odlučeno i o tim pravnim sredstvima.
-
-(4) Ustavni sud iznimno može pokrenuti postupak po ustavnoj tužbi i prije negoli je iscrpljen pravni put ako utvrdi da je potpuno razvidno da se pobijanim aktom, odnosno nedonošenjem akta u razumnom roku grubo vrijeđaju ustavna prava ili slobode i da bi nepokretanjem postupka za podnositelja tužbe mogle nastupiti teške i nepopravljive posljedice.
+Ako su nastupili učinci pravomoćne sudske presude za kazneno djelo utemeljene na zakonskoj odredbi koja je ukinuta, odnosno ako se izmjenom pravomoćnoga pojedinačnog akta iz članka 58. stavka 2. i 3. ovoga Ustavnog zakona ne mogu otkloniti štetne posljedice nastale uslijed povrede prava stranke, stranka može u roku iz članka 58. stavka 4. ovoga Ustavnog zakona podnijeti zahtjev nadležnom sudu da se te posljedice otklone naknadom štete.
 
 ### Članak 60.
 
-Ustavna se tužba može podnijeti u roku od 30 dana računajući od dana primitka odluke.
+Kad sud pravomoćnom odlukom odbije primijeniti propis zbog njegove neustavnosti ili nezakonitosti, a Ustavni sud utvrdi da takva neustavnost, odnosno nezakonitost ne postoji, svatko kome je povrijeđeno neko pravo može zahtijevati izmjenu pravomoćne odluke suda u roku od godine dana od dana objave odluke Ustavnog suda.
 
 ### Članak 61.
 
-(1) Ustavna tužba mora sadržavati ime i prezime, jedinstveni matični broj građana, prebivalište ili boravište, odnosno tvrtku i sjedište podnositelja ustavne tužbe, ime i prezime njegovog punomoćnika, oznaku odluke kojom je povrijeđeno neko pravo ili sloboda, naznaku ustavnog prava ili slobode koje je povrijeđeno, razloge tužbe, dokaze o tome da je iscrpljen pravni put i da je tužba pravodobna i potpis podnositelja ustavne tužbe.
+Ustavni sud može obustaviti postupak ako podnositelj zahtjeva, odnosno prijedloga odustane, a mora u slučajevima kad prestanu postojati pretpostavke za vođenje postupka.
 
-(2) Uz tužbu se, u prilogu, mora podnijeti osporeni akt u izvorniku ili ovjerovljenom prijepisu.
+## V. ZAŠTITA LJUDSKIH PRAVA I TEMELJNIH SLO­BODA
 
 ### Članak 62.
 
-(1) Osobi koja iz opravdanih razloga propusti rok za podnošenje ustavne tužbe, Ustavni sud će dopustiti povrat u prijašnje stanje ako ona u roku od 15 dana nakon prestanka razloga koji je prouzročio propuštanje podnese prijedlog za povrat u prijašnje stanje i ako istodobno s prijedlogom podnese i ustavnu tužbu.
+(1) Svatko može podnijeti Ustavnom sudu ustavnu tužbu ako smatra da mu je pojedinačnim aktom tijela državne vlasti, tijela jedinice lokalne i područne (regionalne) samouprave ili pravne osobe s javnim ovlastima, kojim je odlučeno o njegovim pravima i obvezama ili o sumnji ili optužbi zbog kažnjivog djela, povrijeđeno ljudsko pravo ili temeljna sloboda zajamčena Ustavom, odnosno Ustavom zajamčeno pravo na lokalnu i područnu (regionalnu) samoupravu (u daljnjem tekstu: ustavno pravo).
+
+(2) Ako je zbog povrede ustavnih prava dopušten drugi prav­ni put, ustavna tužba može se podnijeti tek nakon što je taj pravni put iscrpljen.
+
+(3) U stvarima u kojima je dopušten upravni spor, odnosno revizija u parničnom ili izvanparničnom postupku, pravni put je iscrpljen nakon što je odlučeno i o tim pravnim sredstvima.
+
+### Članak 63.
+
+(1) Ustavni sud će pokrenuti postupak po ustavnoj tužbi i prije no što je iscrpljen pravni put, u slučaju kad o pravima i obvezama stranke ili o sumnji ili optužbi zbog kažnjivog djela nije u razumnom roku odlučio sud ili u slučaju kad se osporenim pojedinačnim aktom grubo vrijeđaju ustavna prava, a potpuno je razvidno da bi nepokretanjem ustavnosudskog postupka za podnositelja ustavne tužbe mogle nastati teške i nepopravljive posljedice.
+
+(2) U odluci kojom usvaja ustavnu tužbu zbog nedonošenja akta u razumnom roku iz stavka 1. ovoga članka, Ustavni sud će nadležnom sudu odrediti rok za donošenje akta kojim će taj sud meritorno odlučiti o pravima i obvezama ili o sumnji ili optužbi zbog kažnjivog djela podnositelja. Rok za donošenje akta počinje teći idućeg dana od dana objave odluke Ustavnog suda u »Narod­nim novinama«.
+
+(3) U odluci iz stavka 2. ovoga članka Ustavni sud će odrediti primjerenu naknadu koja pripada podnositelju zbog povrede njegova ustavnog prava koju je sud učinio kada o pravima i obvezama podnositelja ili o sumnji ili optužbi zbog njegova kažnjivog djela nije odlučio u razumnom roku. Naknada se isplaćuje iz državnog proračuna u roku od tri mjeseca od dana podnošenja zahtjeva stranke za njezinu isplatu.
+
+### Članak 64.
+
+Ustavna se tužba može podnijeti u roku od 30 dana raču­najući od dana primitka odluke.
+
+### Članak 65.
+
+(1) Ustavna tužba mora sadržavati ime i prezime, jedinstveni matični broj građana, prebivalište ili boravište, odnosno tvrtku i sjedište podnositelja ustavne tužbe, ime i prezime njegovog punomoćnika, oznaku osporavane odluke, naznaku ustavnog prava za koje se tvrdi da je povrijeđeno s naznakom mjerodavne odredbe Ustava kojom se to pravo jamči, razloge tužbe, dokaze o tome da je iscrpljen pravni put i da je tužba pravodobna i potpis podnositelja ustavne tužbe.
+
+(2) Uz tužbu se, u prilogu, mora podnijeti osporeni akt u izvorniku ili ovjerovljenom prijepisu.
+
+### Članak 66.
+
+(1) Osobi koja iz opravdanih razloga propusti rok za pod­nošenje ustavne tužbe, Ustavni sud će dopustiti povrat u prijašnje stanje ako ona u roku od 15 dana nakon prestanka razloga koji je prouzročio propuštanje podnese prijedlog za povrat u prijašnje stanje i ako istodobno s prijedlogom podnese i ustavnu tužbu.
 
 (2) Nakon proteka tri mjeseca od dana propuštanja ne može se tražiti povrat u prijašnje stanje.
 
-(3) Neće se dopustiti povrat u prijašnje stanje ako je propušten rok za stavljanje prijedloga da se dopusti povrat u prijašnje stanje.
+(3) Neće se dopustiti povrat u prijašnje stanje ako je propuš­ten rok za stavljanje prijedloga da se dopusti povrat u prijašnje stanje.
 
-### Članak 63.
+### Članak 67.
 
 (1) Ustavna tužba, u pravilu, ne sprječava primjenu osporavanoga akta.
 
 (2) Na prijedlog podnositelja ustavne tužbe Ustavni sud može odgoditi ovrhu do donošenja odluke, ako bi ovrha prouzročila podnositelju tužbe štetu koja bi se teško mogla popraviti, a odgoda nije suprotna javnom interesu niti bi se odgodom nanijela nekome veća šteta.
 
-### Članak 64.
+### Članak 68.
 
-(1) O ustavnoj tužbi odlučuje vijeće sastavljeno od pet sudaca.
+(1) O ustavnoj tužbi odlučuje vijeće sastavljeno od šest sudaca.
 
-(2) Vijeće sastavljeno od tri suca odlučuje o ustavnim tužbama kada ne postoje pretpostavke za odlučivanje o biti stvari (nepravodobnost, nedopuštenost i dr.)
+(2) Vijeće sastavljeno od troje sudaca odlučuje o ustavnim tužbama kada ne postoje postupovne pretpostavke za odlučivanje (nepravodobnost, neovlaštenost na podnošenje ustavne tužbe, ne­do­puštenost i dr.)
 
-(3) Vijeće može odlučiti samo jednoglasno i u punom sastavu.
+(3) Vijeće može odlučivati samo jednoglasno i u punom sastavu.
 
-(4) Ako se u vijeću ne postigne jednoglasnost, ili ako vijeće smatra da postoje razlozi da se predmet iznese na sjednicu, o ustavnoj tužbi odlučit će Ustavni sud na sjednici.
+(4) Ako se u vijeću ne postigne jednoglasnost ili ako vijeće smatra da predmet ustavne tužbe ima širi značaj, o ustavnoj tužbi odlučit će sjednica Ustavnog suda.
 
-### Članak 65.
+### Članak 69.
 
 Sudac izvjestitelj:
 
@@ -518,51 +562,59 @@ Sudac izvjestitelj:
 
 - dostavlja, prema potrebi, primjerak ustavne tužbe zainteresiranim osobama i poziva ih da se o njoj izjasne,
 
-- prema potrebi, zahtijeva dostavu spisa koji se odnosi na predmet ustavne tužbe, odnosno izvješće o povredama ustavnih prava i sloboda učinjenih osporenim aktom.
+- prema potrebi, zahtijeva dostavu spisa koji se odnosi na predmet ustavne tužbe, odnosno izvješće o povredama ustavnih prava učinjenih osporenim aktom.
 
-### Članak 66.
+### Članak 70.
 
 U ostavljenome roku tijelo koje je donijelo osporeni akt dužno je dostaviti Ustavnom sudu sve spise koji se odnose na predmet ustavne tužbe.
 
-### Članak 67.
+### Članak 71.
 
-Vijeće, odnosno sjednica Ustavnog suda ispituje samo one povrede ustavnih prava i sloboda koje su istaknute u ustavnoj tužbi.
+(1)Vijeće, odnosno sjednica Ustavnog suda ispituje samo one povrede ustavnih prava koje su istaknute u ustavnoj tužbi.
 
-### Članak 68.
+(2) Ustavna tužba neće se uzeti u razmatranje u slučaju kad se ne radi o povredi ustavnog prava.
 
-Ustavni sud će rješenjem odbaciti ustavnu tužbu: ako nije nadležan; ako je ustavna tužba nepravodobna, nepotpuna, nerazumljiva ili nedopuštena. Tužba je nedopuštena: ako nije iscrpljen dopušteni pravni put, odnosno ako podnositelj tužbe u prethodnom postupku nije koristio dopušteno pravno sredstvo, osim iznimke predviđene u članku 59. ovoga Ustavnog zakona, ako je tužbu podnijela osoba koja nije ovlaštena za njezino podnošenje, te ako je tužbu podnijela pravna osoba koja ne može biti nositelj ustavnih prava i sloboda.
+(3) Odluku iz stavka 2. ovoga članka donosi vijeće sastav­ljeno od troje sudaca. U slučaju da vijeće odluku ne donese jedno­glasno, odluku donosi vijeće sastavljeno od šest sudaca, odnosno sjednica Ustavnog suda.
 
-### Članak 69.
+### Članak 72.
+
+Ustavni sud će rješenjem odbaciti ustavnu tužbu: ako nije nadležan; ako je ustavna tužba nepravodobna, nepotpuna, nera­zum­ljiva ili nedopuštena. Tužba je nedopuštena: ako nije iscrpljen dopušteni pravni put, odnosno ako podnositelj tužbe u prethodnom postupku nije koristio dopušteno pravno sredstvo, osim iznimke predviđene u članku 62. ovoga Ustavnog zakona, ako je tužbu podnijela osoba koja nije ovlaštena za njezino podnošenje, te ako je tužbu podnijela pravna osoba koja ne može biti nositelj ustavnih prava.
+
+### Članak 73.
 
 (1) Ustavni sud odlučuje o ustavnoj tužbi odlukom.
 
 (2) Odlukom se tužba usvaja ili odbija kao neosnovana.
 
-### Članak 70.
-
-Ako utvrdi da je ustavno pravo, ili sloboda, podnositelja ustavne tužbe povrijeđeno ne samo osporenim nego i nekim drugim aktom donesenim u tom predmetu, Ustavni sud će odlukom ukinuti, u cijelosti ili djelomično, i taj akt.
-
-### Članak 71.
-
-Odlukom se ustavna tužba odbija kao neosnovana kada Ustavni sud utvrdi da ne postoje razlozi zbog kojih se akt osporava.
-
-### Članak 72.
-
-Odlukom kojom se ustavna tužba usvaja, ukida se osporavani akt kojim je povrijeđeno ustavno pravo, te se vraća nadležnom tijelu na ponovni postupak.
-
-### Članak 73.
-
-(1) Kada ustavnu tužbu usvoji i osporeni akt ukine, Ustavni sud u obrazloženju navodi koje je ustavno pravo, odnosno sloboda povrijeđeno i u čemu se povreda sastoji.
-
-(2) Tijelo čiji je akt ukinut dužno je umjesto ukinutog akta donijeti drugi, pri čemu je vezano odlukom Ustavnog suda o povredi Ustavom utvrđenih sloboda i prava podnositelja tužbe.
-
 ### Članak 74.
+
+Ako utvrdi da je ustavno pravo podnositelja ustavne tužbe povrijeđeno ne samo osporenim nego i nekim drugim aktom donesenim u tom predmetu, Ustavni sud će odlukom ukinuti, u cijelosti ili djelomično, i taj akt.
+
+### Članak 75.
+
+Odlukom se ustavna tužba odbija kao neosnovana kada Ustav­­ni sud utvrdi da ne postoje razlozi zbog kojih se akt osporava.
+
+### Članak 76.
+
+(1) Odlukom kojom se ustavna tužba usvaja, Ustavni sud ukida osporavani akt kojim je povrijeđeno ustavno pravo.
+
+(2) Ako su nadležno sudbeno ili upravno tijelo, tijelo jedinice lokalne i područne (regionalne) samouprave ili pravna osoba s javnim ovlastima dužni umjesto akta koji je ukinut odlukom iz stavka 1. ovoga članka donijeti novi akt, Ustavni sud predmet vraća na ponovni postupak tijelu koje je donijelo ukinuti akt. Ako se do donošenja odluke Ustavnog suda promijenio zakon koji određuje nadležnost za postupanje u toj pravnoj stvari, tijelo koje je provelo postupak i donijelo ukinuti akt dužno je bez odgode dostaviti predmet nadležnom tijelu.
+
+(3) U slučaju da osporavani akt kojim je povrijeđeno ustavno pravo podnositelja više ne proizvodi pravne učinke, Ustavni sud u odluci utvrđuje njegovu neustavnost, navodeći u izreci ustavno pravo koje je podnositelju tim aktom povrijeđeno.
+
+### Članak 77.
+
+(1) Kada ustavnu tužbu usvoji i osporeni akt ukine, Ustavni sud u obrazloženju navodi koje je ustavno pravo povrijeđeno i u čemu se povreda sastoji.
+
+(2) Pri donošenju novog akta iz članka 76. stavka 2. ovoga Ustavnog zakona, nadležno sudbeno ili upravno tijelo, tijelo jedinice lokalne i područne (regionalne) samouprave ili pravna osoba s javnim ovlastima obvezni su poštivati pravna stajališta Ustavnog suda izražena u odluci kojom se ukida akt kojim je povrije­đeno ustavno pravo podnositelja ustavne tužbe.
+
+### Članak 78.
 
 (1) Izvornik odluke, odnosno rješenja potpisuju predsjednik vijeća (ako je o ustavnoj tužbi odlučilo vijeće), odnosno predsjednik Ustavnog suda (ako je o ustavnoj tužbi odlučila sjednica Ustavnog suda), kao i sudac izvjestitelj i savjetnik.
 
 (2) Ustavni sud dostavlja ovjerovljeni prijepis svoje odluke, odnosno rješenja podnositelju ustavne tužbe, tijelu koje je donijelo osporeni akt, te osobi koju je Ustavni sud pozvao da se izjasni.
 
-### Članak 75.
+### Članak 79.
 
 Postupak pokrenut ustavnom tužbom obustavlja se:
 
@@ -572,15 +624,15 @@ Postupak pokrenut ustavnom tužbom obustavlja se:
 
 - u slučaju povlačenja ustavne tužbe.
 
-### Članak 76.
+### Članak 80.
 
-Ustavni sud može narediti da podnositelj tužbe koji nije uspio s tužbom, naknadi troškove postupka pred Ustavnim sudom, ako ih je prouzročio svojom krivnjom.
+Ustavni sud može narediti da podnositelj tužbe koji nije uspio s tužbom, naknadi troškove postupka pred Ustavnim su­dom, ako ih je prouzročio svojom krivnjom.
 
-## VI. RJEŠAVANJE SUKOBA O NADLEŽNOSTI IZMEÐU TIJELA ZAKONODAVNE, IZVRŠNE I SUDBENE VLASTI
+## VI. RJEŠAVANJE SUKOBA O NADLEŽNOSTI IZ­ME­ĐU TIJELA ZAKONODAVNE, IZVRŠNE I SUD­BENE VLASTI
 
-### Članak 77.
+### Članak 81.
 
-(1) Ako dođe do sukoba nadležnosti između tijela zakonodavne, izvršne ili sudbene vlasti, zato što određeno tijelo zakonodavne, izvršne ili sudbene vlasti prihvaća nadležnost u istom predmetu, svako od tih tijela može zahtijevati od Ustavnog suda da riješi nastali sukob nadležnosti.
+(1) Ako dođe do sukoba nadležnosti između tijela zakono­dav­ne, izvršne ili sudbene vlasti, zato što određeno tijelo zakonodavne, izvršne ili sudbene vlasti prihvaća nadležnost u istom predmetu, svako od tih tijela može zahtijevati od Ustavnog suda da riješi nastali sukob nadležnosti.
 
 (2) Zahtjev za rješenje sukoba nadležnosti može podnijeti i stranka čiji je interes zbog nastalog sukoba povrijeđen ili bi mogao biti povrijeđen.
 
@@ -588,43 +640,39 @@ Ustavni sud može narediti da podnositelj tužbe koji nije uspio s tužbom, nakn
 
 (4) Ustavni sud može odrediti da se do njegove odluke prekine postupak pred tijelima među kojima je došlo do sukoba nadležnosti.
 
-### Članak 78.
+### Članak 82.
 
-(1) Ako dođe do sukoba nadležnosti između tijela zakonodavne i izvršne ili sudbene vlasti, zato što određeno tijelo zakonodavne, izvršne ili sudbene vlasti odbija nadležnost u istom predmetu, zahtjev za rješenje sukoba nadležnosti može se podnijeti po pravomoćnosti odluke suda, odnosno konačnosti odluke tijela izvršne vlasti ili odgovarajuće odluke zakonodavnog tijela, koje je prvo odlučilo o svojoj nadležnosti.
+(1) Ako dođe do sukoba nadležnosti između tijela zakono-davne i izvršne ili sudbene vlasti, zato što određeno tijelo zakonodavne, izvršne ili sudbene vlasti odbija nadležnost u istom predmetu, zahtjev za rješenje sukoba nadležnosti može se podnijeti po pravomoćnosti odluke suda, odnosno konačnosti odluke tijela izvršne vlasti ili odgovarajuće odluke zakonodavnog tijela, koje je prvo odlučilo o svojoj nadležnosti.
 
 (2) Zahtjev iz prethodnog stavka može podnijeti stranka koja zbog odbijanja nadležnosti nije mogla ostvariti svoje pravo, kao i svako od tijela zakonodavne, izvršne, odnosno sudbene vlasti između kojih je došlo do sukoba nadležnosti.
 
-(3) Zahtjev se podnosi u roku od 30 dana od dana saznanja za odbijanje nadležnosti.
+(3) Zahtjev se podnosi u roku od 30 dana od dana nastupa pravomoćnosti odluke suda, od dana nastupa konačnosti odluke tijela izvršne vlasti, odnosno od dana donošenja odgovarajuće odluke zakonodavnog tijela iz stavka 1. ovoga članka, kojom se drugo tijelo državne vlasti oglasilo nenadležnim.
 
-## VII. POSTUPAK ZA UTVRÐIVANJE ODGOVORNOSTI PREDSJEDNIKA REPUBLIKE HRVATSKE
+## VII. POSTUPAK ZA UTVRĐIVANJE ODGOVORNOSTI PREDSJEDNIKA REPUBLIKE HRVATSKE
 
-### Članak 79.
+### Članak 83.
 
-(1) Zahtjev Zastupničkog doma Hrvatskoga državnog sabora za utvrđivanje odgovornosti predsjednika Republike sadrži činjenični opis i pravnu naznaku te dokaze o povredi Ustava koja se predsjedniku Republike Hrvatske stavlja na teret.
+(1) Zahtjev Hrvatskoga sabora za utvrđivanje odgovornosti predsjednika Republike sadrži činjenični opis i pravnu naznaku te dokaze o povredi Ustava koja se predsjedniku Republike Hrvat­ske stavlja na teret.
 
-(2) Ustavni sud će pribaviti stajalište predsjednika Republike o zahtjevu Zastupničkog doma i omogućiti mu sudjelovanje u postupku.
+(2) Ustavni sud će pribaviti stajalište predsjednika Republike o zahtjevu Hrvatskoga sabora i omogućiti mu sudjelovanje u postupku.
 
-### Članak 80.
+### Članak 84.
 
 Ustavni sud će odlukom odbiti neosnovani zahtjev ili utvrditi odgovornost predsjednika Republike Hrvatske.
 
 ## VIII. NADZOR NAD USTAVNOŠĆU PROGRAMA I DJELOVANJA POLITIČKIH STRANAKA
 
-### Članak 81.
+### Članak 85.
 
-Ustavni sud nadzire ustavnost programa i djelovanja političkih stranaka, te zabranjuje njihov rad ako utvrdi da su se za to stekli Ustavom i zakonom utvrđeni uvjeti.
+Ustavni sud nadzire ustavnost programa i djelovanja politič­kih stranaka, te zabranjuje njihov rad ako utvrdi da su se za to stekli Ustavom i zakonom utvrđeni uvjeti.
 
-### Članak 82.
+### Članak 86.
 
-Ustavni sud zabranit će rad političke stranke ili njezina dijela kad utvrdi da njezin program, odnosno djelovanje nasilno ugrožavaju demokratski ustavni poredak, neovisnost, jedinstvenost ili teritorijalnu cjelovitost Republike Hrvatske.
-
-### Članak 83.
-
-Zahtjev za zabranu rada političke stranke, odnosno njezina dijela mogu podnijeti predsjednik Republike Hrvatske, svaki dom Hrvatskoga državnog sabora, Vlada Republike Hrvatske, Vrhovni sud Republike Hrvatske, tijelo koje obavlja registraciju stranaka i Državni odvjetnik Republike Hrvatske.
+Zahtjev za zabranu rada političke stranke, odnosno njezina dijela mogu podnijeti predsjednik Republike Hrvatske, Hrvatski sabor, Vlada Republike Hrvatske, Vrhovni sud Republike Hrvat­ske, tijelo koje obavlja registraciju stranaka i Državni odvjetnik Republike Hrvatske.
 
 ## IX. NADZOR NAD USTAVNOŠĆU I ZAKONITOŠĆU IZBORA I DRŽAVNOG REFERENDUMA I IZBORNI SPOROVI
 
-### Članak 84.
+### Članak 87.
 
 Ustavni sud:
 
@@ -634,21 +682,21 @@ Ustavni sud:
 
 - rješava izborne sporove koji nisu u djelokrugu sudova, odlučujući u povodu žalbe na rješenje nadležnog izbornog povjerenstva.
 
-### Članak 85.
+### Članak 88.
 
 Političke stranke, kandidati, najmanje 100 birača ili najmanje 5% birača izborne jedinice u kojoj se provode izbori, ovlašteni su tijekom izbora, odnosno najkasnije do isteka roka od 30 dana od dana objavljivanja rezultata izbora, zatražiti od Ustavnog suda da u izvršavanju nadzora nad ustavnošću i zakonitošću izbora poduzima odgovarajuće mjere ako se te aktivnosti provode suprotno Ustavu i zakonu.
 
-### Članak 86.
+### Članak 89.
 
 Kad se utvrdi da sudionici u izborima postupaju protivno Ustavu ili zakonu, Ustavni sud će o tome obavijestiti javnost putem sredstava javnog priopćavanja, po potrebi upozoriti nadležna tijela, a u slučaju povrede koja je utjecala ili je mogla biti od utjecaja na rezultat izbora, poništit će sve ili pojedine izborne radnje i odluke, koje su prethodile takvoj povredi.
 
-### Članak 87.
+### Članak 90.
 
-(1) Postupak nadzora nad ustavnošću i zakonitošću izbora može se pokrenuti u roku iz članka 85. ovoga Ustavnog zakona, računajući od dana objavljivanja rezultata izbora u »Narodnim novinama«.
+(1) Postupak nadzora nad ustavnošću i zakonitošću izbora može se pokrenuti u roku iz članka 88. ovoga Ustavnog zakona, računajući od dana objavljivanja rezultata izbora u »Narodnim novinama«.
 
 (2) Rok iz stavka 1. ovoga članka počinje teći danom izlaska »Narodnih novina« iz tiska, s tim da je Ustavni sud ovlašten utvrditi i stvarni dan izlaska »Narodnih novina« iz tiska.
 
-### Članak 88.
+### Članak 91.
 
 (1) Političke stranke, kandidati, najmanje 100 birača ili najmanje 5% birača izborne jedinice u kojoj se provode izbori imaju pravo protiv rješenja nadležnoga izbornog povjerenstva u zaštiti izbornog prava podnijeti žalbu Ustavnom sudu (izborni spor).
 
@@ -660,55 +708,123 @@ Kad se utvrdi da sudionici u izborima postupaju protivno Ustavu ili zakonu, Usta
 
 (5) Odluka Ustavnog suda u povodu žalbe isključuje pravo podnošenja ustavne tužbe.
 
-### Članak 89.
+### Članak 92.
 
 (1) U nadzoru ustavnosti i zakonitosti izbora i državnog referenduma Ustavni sud odlučuje na sjednici.
 
 (2) Rješavanje izbornih sporova Ustavni sud provodi u vijeću sastavljenom od tri suca koje na prijedlog predsjednika Ustavnog suda imenuje Ustavni sud na sjednici.
 
-### Članak 90.
+### Članak 93.
 
 (1) Vijeće ispituje osporeni akt u onom dijelu koji se osporava time da se u pravilu ograničava na ispitivanje onih povreda koje ističe podnositelj.
 
 (2) Vijeće odlučuje na nejavnoj sjednici.
 
-### Članak 91.
+### Članak 94.
 
 (1) Vijeće može donijeti odluku samo jednoglasno.
 
-(2) Ako se u vijeću ne postigne jednoglasnost ili ako vijeće smatra da postoje razlozi da se predmet iznese na sjednicu Ustavnog suda, predmet se dostavlja predsjedniku Ustavnog suda radi iznošenja na sjednicu Ustavnog suda i donošenja odluke.
+(2) Ako se u vijeću ne postigne jednoglasnost ili ako vijeće smatra da postoje razlozi da se predmet iznese na sjednicu Ustav­nog suda, predmet se dostavlja predsjedniku Ustavnog suda radi iznošenja na sjednicu Ustavnog suda i donošenja odluke.
 
-### Članak 92.
+### Članak 95.
 
-Ustavni sud će nadzirati ustavnost i zakonitost provođenja državnog referenduma i poduzimati mjere odgovarajućom primjenom odredaba članka 84. do 92. ovoga Ustavnog zakona.
+(1) Na zahtjev Hrvatskoga sabora Ustavni sud će, u slučaju kad deset posto od ukupnog broja birača u Republici Hrvatskoj zatraži raspisivanje referenduma, utvrditi je li sadržaj referen­dum­skog pitanja u skladu s Ustavom i jesu li ispunjene pretpostavke iz članka 86. stavka 1. do 3. Ustava Republike Hrvatske za njegovo raspisivanje.
 
-## X. PRIJELAZNE I ZAVRŠNE ODREDBE
+(2) Odluku iz stavka 1. ovoga članka Ustavni sud će donijeti u roku od 30 dana od dana zaprimanja zahtjeva.
 
-### Članak 93.
+### Članak 96.
 
-Na dan stupanja na snagu ovoga Ustavnog zakona prestaju važiti Ustavni zakon o Ustavnom sudu Republike Hrvatske (»Narodne novine«, br. 13/91.) i odredbe Poslovnika Ustavnog suda Republike Hrvatske (»Narodne novine«, br. 29/94.) koje nisu usklađene s ovim Ustavnim zakonom ili su u suprotnosti s njime.
+Ustavni sud će nadzirati ustavnost i zakonitost provođenja državnog referenduma i poduzimati mjere odgovarajućom primjenom odredaba članka 87. do 96. ovoga Ustavnog zakona.
 
-### Članak 94.
+## X. POSTUPAK U POVODU ŽALBE PROTIV ODLUKE O RAZRJEŠENJU SUDAČKE DUŽNOSTI I ODLUKE O STEGOVNOJ ODGOVORNOSTI SUCA (ŽALBENI USTAVNOSUDSKI POSTUPCI)
+
+### Članak 97.
+
+(1) Protiv odluke o razrješenju sudačke dužnosti sudac (u daljnjem tekstu: žalitelj) ima pravo na žalbu Ustavnom sudu u roku od 15 dana od dana dostave osporavane odluke.
+
+(2) O žalbi iz stavka 1. ovoga članka odlučuje većinom glasova vijeće Ustavnog suda sastavljeno od šest sudaca.
+
+(3) Ustavnosudskom odlukom kojom se žalba usvaja kao osnovana, ukida se osporavana odluka, a predmet se vraća Državnom sudbenom vijeću na ponovni postupak.
+
+(4) U slučaju iz stavka 3. ovoga članka, Državno sudbeno vijeće dužno je umjesto ukinute odluke donijeti drugu, pri čemu je vezano u ukidnoj ustavnosudskoj odluci izraženim pravnim stajalištem Ustavnog suda o povredi ustavnih prava žalitelja.
+
+### Članak 98.
+
+(1) Protiv odluke Državnoga sudbenog vijeća o stegovnoj odgovornosti, sudac (u daljnjem tekstu: žalitelj) ima pravo na žal­bu Ustavnom sudu u roku od 15 dana od dana dostave osporavane odluke.
+
+(2) O žalbi iz stavka 1. ovoga članka odlučuje većinom glasova vijeće Ustavnog suda sastavljeno od šest sudaca.
+
+(3) Ustavnosudskom odlukom kojom se žalba usvaja kao osnovana, ukida se osporavana odluka, a predmet se vraća Državnom sudbenom vijeću na ponovni postupak.
+
+(4) U slučaju iz stavka 3. ovoga članka, Državno sudbeno vijeće dužno je umjesto ukinute odluke donijeti drugu, pri čemu je vezano u ukidnoj ustavnosudskoj odluci izraženim pravnim stajalištima Ustavnog suda o povredi ustavnih prava žalitelja.
+
+### Članak 99.
+
+(1) U žalbenim ustavnosudskim postupcima iz članka 97. i 98. ovoga Ustavnog zakona, žalitelja može zastupati odvjetnik, a Državno sudbeno vijeće (u daljnjem tekstu: donositelj odluke) zastupa predsjednik ili član Državnoga sudbenog vijeća kojeg, na temelju posebne punomoći, predsjednik ovlasti na zastupanje pred Ustavnim sudom.
+
+(2) U žalbenom ustavnosudskom postupku žalitelj i donositelj odluke imaju pravo na dostavu svih podnesaka druge strane koje Ustavni sud zaprimi, te na pisano očitovanje o njima.
+
+(3) Žalitelj ima pravo da nadležnom vijeću Ustavnog suda predloži osobe za koje smatra da bi svojim očitovanjem doprinijele donošenju ustavnosudske odluke u njegovu korist. Vijeće Ustavnog suda u tom će slučaju od predloženih osoba zatražiti pisano očitovanje, na koje donositelj odluke ima pravo pisanog odgovora.
+
+### Članak 100.
+
+Pravo vijeća Ustavnog suda da ocjenjuje postojanje ili nepostojanje činjenica, o kojima ovisi ocjena o povredi ustavnog prava žalitelja, nije vezano ni ograničeno posebnim formalnim dokaznim pravilima.
+
+### Članak 101.
+
+(1) Vijeće Ustavnog suda dužno je donijeti ustavnosudsku odluku ili rješenje o žalbi iz članka 97. i članka 98. ovoga Ustav­nog zakona u roku od 30 dana od dana njezina primitka.
+
+(2) U složenim žalbenim ustavnosudskim postupcima u kojima žalitelj, odnosno donositelj odluke zatraži odgovarajuće vrijeme i mogućnosti za pripremu pisanog očitovanja na podnesak druge strane, ili se radi o potrebi da se žalitelju, odnosno donositelju odluke osigura pravo pisanog očitovanja na veći broj podnesaka druge strane, uključujući pisana očitovanja iz članka 99. stavka 3. ovoga Ustavnog zakona, rok od 30 dana za donošenje ustavnosudske odluke o žalbi počinje teći od dana zaprimanja posljednjeg podneska žalitelja.
+
+### Članak 102.
+
+Ustavnosudska odluka ili rješenje Ustavnog suda o žalbama sudaca iz članka 97. i 98. ovoga Ustavnog zakona isključuje pravo na ustavnu tužbu žalitelja.
+
+### Članak 103.
+
+(1) Protiv odluke Državnoga sudbenog vijeća o imenovanju sudaca, kandidati u postupku imenovanja mogu podnijeti ustavnu tužbu nakon iscrpljivanja pravnog puta provedenog pred Upravnim sudom Republike Hrvatske po zahtjevu podnesenom na temelju posebnih odredbi Zakona o upravnim sporovima o zaštiti Ustavom zajamčenih ljudskih prava i temeljnih sloboda.
+
+(2) Stavak 1. ovoga članka primjenjuje se i na osobe koje su sudjelovale u postupku pred Državnoodvjetničkim vijećem.
+
+## XI. PRAĆENJE OSTVARIVANJA USTAVNOSTI I ZA­KO­NITOSTI
+
+### Članak 104.
+
+(1) Ustavni sud prati ostvarivanje ustavnosti i zakonitosti te o uočenim pojavama neustavnosti i zakonitosti izvješćuje Hrvat­ski sabor.
+
+(2) Izvješće iz stavka 1. ovoga članka utvrđuje sjednica Us­tav­nog suda.
+
+(3) Izvješće iz stavka 1. ovoga članka dostavlja se u pisanom obliku predsjedniku Hrvatskoga sabora, koji o njemu izvješćuje Hrvatski sabor.
+
+## XII. NADZOR NAD DONOŠENJEM PROPISA ZA IZVRŠENJE USTAVA, ZAKONA I DRUGIH PROPISA
+
+### Članak 105.
+
+(1) Kad Ustavni sud utvrdi da nadležno tijelo nije donijelo propis za izvršenje odredaba Ustava, zakona i drugih propisa, a bilo je dužno takav propis donijeti, o tome će obavijestiti Vladu Republike Hrvatske.
+
+(2) Kad Ustavni sud utvrdi da Vlada Republike Hrvatske nije donijela propis za izvršenje odredaba Ustava, zakona i drugih propisa, o tome će obavijestiti Hrvatski sabor.
+
+(3) Izvješće iz stavka 1. ovoga članka dostavlja se u pisanom obliku predsjedniku Vlade Republike Hrvatske, a izvješće iz stav­ka 2. ovoga članka predsjedniku Hrvatskoga sabora.
+
+(4) O objavi u »Narodnim novinama« izvješća iz stavka 1. i 2. ovoga članka odlučuje sjednica Ustavnog suda.
+
+## XIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+
+### Članak 106.
 
 Poslovnik Ustavnog suda uskladit će se s ovim Ustavnim zakonom u roku od 90 dana od dana stupanja na snagu ovoga Ustavnog zakona.
 
-### Članak 95.
+### Članak 107.
 
 (1) Postupci u predmetima koji su započeti do stupanja na snagu ovoga Ustavnog zakona dovršit će se po odredbama ovoga Ustavnog zakona.
 
 (2) Rokovi utvrđeni ovim Ustavnim zakonom počinju teći njegovim stupanjem na snagu.
 
-### Članak 96.
+### Članak 108.
 
 Ovaj Ustavni zakon stupa na snagu danom proglašenja.
 
-Klasa: 711-01/99-01/02  
-Zagreb, 24. rujna 1999.
-
-ZASTUPNIČKI DOM  
-HRVATSKOGA DRŽAVNOG SABORA
-
 Predsjednik  
-Zastupničkog doma  
-Hrvatskoga državnog sabora  
-akademik Vlatko Pavletić, v. r.
+Odbora za Ustav, Poslovnik i  
+politički sustav Hrvatskoga sabora  
+mr. sc. Mato Arlović, v. r.

@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1991-07-16
-last_amended: 1998-12-28
+last_amended: 2001-12-11
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "34/91, 76/93, 52/94, 164/98"
+narodne_novine: "34/91, 76/93, 52/94, 164/98, 109/01"
 amendments:
   - "NN 76/1993 (1557) Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika"
   - "NN 52/1994 (922) Zakon o dopunama Zakona o pravima bivših političkih zatvorenika"
   - "NN 164/1998 (2019) Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika"
+  - "NN 109/2001 (1797) Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/949"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 34/1991 (https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/949).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1993, NN 52/1994, NN 164/1998.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1993, NN 52/1994, NN 164/1998, NN 109/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -426,3 +427,71 @@ Potpredsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Vladimir Šeks, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika (NN 109/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1797*
+
+HRVATSKI SABOR
+
+1797
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA BIVŠIH POLITIČKIH ZATVORENIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika, koji je donio Hrvatski sabor na sjednici 29. studenoga 2001.
+
+Broj: 01-081-01-3776/2  
+Zagreb, 6. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA BIVŠIH POLITIČKIH ZATVORENIKA**
+
+### Članak 1.
+
+U Zakonu o pravima bivših političkih zatvorenika (»Narodne novine«, br. 34/95. – pročišćeni tekst i 164/98.), u članku 2. stavak 5. briše se.
+
+### Članak 2.
+
+Članak 5. mije­nja se i glasi:
+
+»Osoba iz članka 2. ovoga Zakona ima pravo na naknadu za svaki dan proveden u zatvoru ili pritvoru u visini od 54 kune.
+
+Ako je osoba iz članka 2. ovoga Zakona umrla, pravo na naknadu ima bračni drug.
+
+Naknada iz stavka 1. ovoga članka isplaćuje se u obrocima od 1/4 (25%) od ukupnog iznosa prema mjerilima što će ih za svaku godinu posebno utvrditi stalno radno tijelo Vlade Repub­like Hrvatske utvrđeno u članku 11. ovoga Zakona, a ovisno o osiguranim sredstvima u državnom proračunu.
+
+Osobi iz članka 2. ovoga Zakona kojoj je isplaćena akontacija naknade, isplatit će se razlika do iznosa utvrđenog u stavku 1. ovoga članka.«
+
+### Članak 3.
+
+U članku 6. riječi: »31. siječ­nja 1999.« zamje­njuju se riječima: »31. siječ­nja 2002.«
+
+### Članak 4.
+
+Postupci po zahtjevima za ostvariva­nje prava utvrđenih Zakonom o pravima bivših političkih zatvorenika (»Narodne novine«, br. 34/95. – pročišćeni tekst i 164/98.), podnijetim do dana stupa­nja na snagu ovoga Zakona, dovršit će se po odredbama ovoga Zakona.
+
+### Članak 5.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o pravima bivših političkih zatvorenika.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 140-05/01-01/01  
+Zagreb, 29. studenoga 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-10-25
-last_amended: 1996-07-17
+last_amended: 2000-12-22
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 59/1996 (1187) https://narodne-novine.nn.hr/eli/sluzbeni/1996/59/1187"
-narodne_novine: "96/93, 29/96, 54/96, 59/96"
+narodne_novine: "96/93, 29/96, 54/96, 59/96, 129/00"
 amendments:
   - "NN 29/1996 (575) Zakon o izmjenama i dopunama Zakona o visokim učilištima"
   - "NN 54/1996 (1003) Zakon o izmjenama Zakona o visokim učilištima"
+  - "NN 129/2000 (2388) Zakon o izmjenama i dopunama Zakona o visokim učilištima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/59/1187"
 retrieved: 2026-10-12
 ---
@@ -24,6 +25,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 96/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1876).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 59/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/59/1187).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 129/2000.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2032,3 +2035,231 @@ Visoka policijska škola u sastavu Policijske akademije Ministarstva unutarnjih 
 #### Članak 181.
 
 Stupanjem na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.) prestaje važiti Zakon o usmjerenom obrazovanju ("Narodne novine", br. 20/82., 28/83., 12/85., 19/86, 31/89., 57/89., 47/90., 11/91 ­ pročišćeni tekst, 19/92., i 27/93).
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjenama i dopunama Zakona o visokim učilištima (NN 129/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2388*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+2388
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VISOKIM UČILIŠTIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o visokim učilištima, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 15. prosinca 2000.
+
+Broj: 01-081-00-4347/2  
+Zagreb, 19. prosinca 2000.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VISOKIM UČILIŠTIMA**
+
+### Članak 1.
+
+U Zakonu o visokim učilištima (»Narodne novine«, br. 96/93., 34/94., 21/95., 48/95., 29/96., 54/96., 59/96. – pročišćeni tekst, 128/99., 14/00., 67/00. i 94/00.) u članku 5. iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+“Statut sveučilišta donosi sveučilišni senat.
+
+Statut fakulteta, umjetničke akademije, visoke škole u sastavu sveučilišta donosi dekan fakulteta, umjetničke akademije i visoke škole u sastavu sveučilišta, na prijedlog stručnog vijeća.”
+
+Dosadašnji stavak 3. koji postaje stavak 5. mijenja se i glasi:
+
+“Statut veleučilišta donosi upravno vijeće iz članka 120. stav­­ka 2. ovoga Zakona, uz suglasnost osnivatelja.”
+
+Dosadašnji stavak 4. koji postaje stavak 6. mijenja se i glasi:
+
+“Statut veleučilišne škole donosi dekan veleučilišne škole, na prijedlog stručnog vijeća, a uz suglasnost upravnog vijeća vele­učilišta.”
+
+Dosadašnji stavak 5. koji postaje stavak 7. mijenja se i glasi:
+
+“Ako upravno vijeće veleučilišta, u roku od tri mjeseca od uredno podnesenog zahtjeva za davanje suglasnosti na statut ne uskrati suglasnost, smatra se da je dalo suglasnost.”
+
+Dosadašnji stavak 6. postaje stavak 8.
+
+### Članak 2.
+
+U članku 10. stavku 3. riječi: “upravnog vijeća”, zamjenjuju se riječima: “sveučilišnog senata”.
+
+### Članak 3.
+
+U članku 17. stavku 2. iza riječi: “suglasnost”, dodaju se riječi: “sveučilišnog senata, odnosno”.
+
+### Članak 4.
+
+U članku 19. stavak 2. mijenja se i glasi:
+
+“Visoko učilište ispunjava uvjete iz stavka 1. podstavka 1., 2. i 3. ovoga članka ako:
+
+- ima potreban broj i sastav nastavnika i suradnika za izvođenje studija u skladu sa standardnim opterećenjem nastavnih obveza utvrđenim kolektivnim ugovorom za znanost i visoko obrazovanje,
+
+- ima valjanim pravnim poslom osiguran prostor i opremu u skladu s normativima za izvođenje nastave,
+
+- ima osigurana novčana sredstva za rad visokog učilišta, izvođenje studija i provedbu nastavnog programa u cijelosti iz sredstava propisanih člankom 138. ovoga Zakona.”
+
+Stavak 3. mijenja se i glasi:
+
+“Uvjete iz stavka 1. i 2. ovog članka utvrđuje Nacionalno vijeće za visoku naobrazbu na zahtjev visokog učilišta.”
+
+Stavak 4. mijenja se i glasi:
+
+“Ako Nacionalno vijeće za visoku naobrazbu ne da mišljenje u roku od 2 mjeseca, smatra se da je njegovo mišljenje pozitivno.”
+
+Stavak 5. briše se.
+
+### Članak 5.
+
+U članku 59. stavku 2. iza riječi: “visoko učilište” dodaju se riječi: “u skladu s nastavnim opterećenjima iz kolektivnog ugovora za znanost i visoko obrazovanje i normativima za izvođenje nastave”.
+
+### Članak 6.
+
+U članku 86. stavak 1. mijenja se i glasi:
+
+“Stručno vijeće visokog učilišta može povjeriti izvedbu dijela ili cijeloga nastavnog predmeta nastavniku izvan visokog učilišta.”
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+“Stručno vijeće visokog učilišta može povjeriti izvedbu dijela ili cijelog nastavnog predmeta znanstveniku uz uvjet prethodno održanog i pozitivno ocijenjenog nastupnog predavanja pred nastavnicima i studentima na način propisan od Rektorskog zbora.”
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+“Stručno vijeće visokog učilišta može povjeriti izvedbu dijela ili cijeloga nastavnog predmeta stručnjaku ili umjetniku uz uvjet prethodnog izbora u naslovno znanstveno-nastavno ili nastavno zvanje.”
+
+Dosadašnji stavci 2. i 3. postaju stavci 4. i 5.
+
+Dosadašnji stavak 4. koji postaje stavak 6. mijenja se i glasi:
+
+“Osobe iz stavka 3., 4. i 5. ovoga članka biraju se u naslovno zvanje po uvjetima i postupku utvrđenim ovim Zakonom i statutom bez obveze sklapanja ugovora o radu.”
+
+### Članak 7.
+
+U članku 95. stavak 4. briše se.
+
+### Članak 8.
+
+U članku 99. stavci 4., 5 i 6. mijenjaju se i glase:
+
+“Članove matičnih povjerenstava imenuje Rektorski zbor.
+
+Sredstva za obavljanje stručnih poslova za matično povjerenstvo osiguravaju se u proračunu Republike Hrvatske.
+
+Rektorski zbor propisuje način rada, broj matičnih povjerenstava, broj članova matičnih povjerenstava te vrijeme na koje se imenuju članovi matičnih povjerenstava.”
+
+### Članak 9.
+
+U članku 104. riječi: “upravo vijeće,” brišu se.
+
+### Članak 10.
+
+Članci 105. i 106. brišu se.
+
+### Članak 11.
+
+U članku 107. stavku 3. podstavku 3. riječi: “i upravnom vijeću” brišu se.
+
+U podstavku 4. riječi: “upravnog vijeća i” brišu se.
+
+U stavku 4. riječi: “i upravnom vijeću” brišu se.
+
+U stavku 5. riječi: “upravnom vijeću i” brišu se.
+
+### Članak 12.
+
+U članku 108. stavak 4. briše se.
+
+Dosadašnji stavci 5., 6., 7. i 8. postaju stavci 4., 5., 6. i 7.
+
+### Članak 13.
+
+U članku 112. stavak 1. podstavak 2. mijenja se i glasi:
+
+“- donosi statut sveučilišta,”.
+
+Iza podstavka 4. dodaju se novi podstavci 5., 6., 7. i 8. koji glase:
+
+“- utvrđuje razvojnu i sveopću novčanu politiku sveučilišta,
+
+- odlučuje o godišnjem obračunu (zaključnom računu) sve­uči­liš­ta,
+
+- donosi akte o ustroju radnih mjesta na sveučilištu, uz suglasnost Ministarstva,
+
+- predlaže proračun sveučilišta Vijeću za novčanu potporu visokog školstva iz članka 141. ovoga Zakona. Nakon usvojenog proračuna za visoko školstvo, sveučilišni senat usklađuje odobreni proračun sveučilišta prema preporuci Vijeća za novčanu potporu visokog školstva”.
+
+Dosadašnji podstavci 5. do 14. postaju podstavci 9. do 18.
+
+U dosadašnjem podstavku 15. koji postaje podstavak 19. rije­či: “predlaže upravnom vijeću osnutak” zamjenjuju se rije­či­ma: “donosi odluke o osnutku i ukidanju”.
+
+Dosadašnji podstavci 16. i 17. postaju podstavci 20. i 21.
+
+### Članak 14.
+
+U članku 115. stavak 10. mijenja se i glasi:
+
+“Ako se novi dekan ne izabere do isteka mandata postojećeg dekana ili se utvrdi da je tekući mandat nepropisan, fakultetsko vijeće će u roku od mjesec dana imenovati za vršitelja dužnosti dekana osobu koja ispunjava propisane uvjete do izbora dekana na način i u postupku utvrđenom statutom fakulteta. U slučaju da fakultetsko vijeće u propisanom roku ne izabere vršitelja dužnosti dekana, vršitelja dužnosti dekana imenovat će sveučilišni senat.”
+
+U stavku 11. riječi: “sveučilišnom senatu i upravnom vijeću sveučilišta”, zamjenjuju se riječima: “i sveučilišnom senatu,”.
+
+### Članak 15.
+
+U članku 118. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+“Fakultetsko vijeće može ovlastiti druga stručna tijela fakulteta za obavljanje pojedinih poslova iz svoga djelokruga u skladu sa statutom fakulteta.”
+
+### Članak 16.
+
+U članku 125. stavku 1. iza riječi: “godine” dodaju se riječi: “sveučilišni senat, odnosno,”.
+
+### Članak 17.
+
+Članak 144. mijenja se i glasi:
+
+“Čimbenici za novčanu podlogu rada visokih učilišta određuju se prema nastavnom planu visokog učilišta, u skladu s nastavnim opterećenjima i odredbama kolektivnog ugovora koji potpisuju Ministarstvo i sindikat .”
+
+### Članak 18.
+
+U članku 160. riječi: “Upravna vijeća sveučilišta” zamje­nju­ju se riječima: “Sveučilišni senat”.
+
+### Članak 19.
+
+Danom stupanja na snagu ovoga Zakona prestaje mandat članovima upravnih vijeća sveučilišta.
+
+### Članak 20.
+
+Rektorski zbor će donijeti propis iz članka 8. ovoga Zakona do 1. ožujka 2001.
+
+Do stupanja na snagu propisa iz stavka 1. ovoga članka primjenjivat će se Pravilnik o ustroju i načinu rada matičnih povjerenstava, (»Narodne novine«, br. 38/97., 19/99. i 63/00.)
+
+Rektorski zbor imenovat će članove matičnih povjerenstava u roku od dva mjeseca od dana stupanja na snagu propisa iz stavka 1. ovoga članka.
+
+Danom imenovanja matičnih povjerenstava prema stavku 3. ovoga članka prestaje mandat članovima postojećih matičnih povjerenstava.
+
+### Članak 21.
+
+Sveučilišta će u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona uskladiti statute s odredbama ovoga Zakona.
+
+Fakulteti, umjetničke akademije, ustanove i druge pravne osobe u sastavu sveučilišta uskladit će svoje statute u roku od dva mjeseca od dana usklađivanja statuta sveučilišta.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 602-04/00-01/04  
+Zagreb, 15. prosinca 2000.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

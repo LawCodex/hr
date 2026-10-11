@@ -6,16 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-01-05
-last_amended: 1999-05-11
+last_amended: 2007-04-18
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "1/95, 57/96, 1/98, 30/99, 45/99"
+narodne_novine: "1/95, 57/96, 1/98, 30/99, 45/99, 54/05, 40/07"
 amendments:
   - "NN 57/1996 (1163) Zakon o izmjenama i dopunama Zakona o sudskom registru"
   - "NN 1/1998 (1) Uredba o izmjenama i dopunama Zakona o sudskom registru"
   - "NN 30/1999 (609) Uredba o izmjenama i dopunama Zakona o sudskom registru"
   - "NN 45/1999 (874) Zakon o izmjenama i dopunama Zakona o sudskom registru"
+  - "NN 54/2005 (1034) Zakon o izmjenama i dopunama Zakona o sudskom registru"
+  - "NN 40/2007 (1345) Zakon o izmjenama i dopunama Zakona o sudskom registru"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/1/1"
 retrieved: 2026-10-12
 ---
@@ -24,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 1/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/1/1).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/1996, NN 1/1998, NN 30/1999, NN 45/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/1996, NN 1/1998, NN 30/1999, NN 45/1999, NN 54/2005, NN 40/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -652,9 +654,7 @@ Prijevod tvrtke ili naziva, odnosno strane riječi u tvrtki ili nazivu moraju bi
 
 (2) Registarski sud iz stavka 1. ovoga članka dužan je dostaviti kopiju prijave s prilozima i ovjereni primjerak rješenja o upisu iz registra osnivača, registarskom sudu nadležnom prema sjedištu podružnice.
 
-### Odjeljak 2.
-
-#### ODLUKE U POSTUPKU UPISA U REGISTAR
+### Odjeljak 2. — ODLUKE U POSTUPKU UPISA U REGISTAR
 
 *Donošenje rješenja*
 
@@ -1236,3 +1236,708 @@ Potpredsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Vladimir Šeks, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudskom registru (NN 54/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1034*
+
+HRVATSKI SABOR
+
+1034
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKOM REGISTRU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudskom registru, koji je Hrvatski sabor donio na sjednici 14. travnja 2005. godine
+
+Broj: 01-081-05-1478/2
+
+Zagreb, 21. travnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKOM REGISTRU**
+
+### Članak 1.
+
+U Zakonu o sudskom registru (»Narodne novine«, br. 1/95., 57/96., 1/98., 30/99. i 45/99.) u članku 3. stavku 6. riječ: »kojega« zamjenjuje se rječju: »koji«.
+
+### Članak 2.
+
+U članku 4. stavak 3. mijenja se i glasi:
+
+»(3) Prijepis, preslika, izvadak ili potvrda moraju se izdati u roku od osam dana od dana podnošenja zahtjeva.«
+
+Stavci 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 4.
+
+### Članak 3.
+
+U članku 6. stavku 1. iza točke 8. dodaje se nova točka 9. i točka 10., koje glase:
+
+»9. zadruge,
+
+10. savez zadruga.«
+
+Dosadašnja točka 9. postaje točka 11.
+
+### Članak 4.
+
+Članak 10. mijenja se i glasi:
+
+»Registarski sud dužan je obaviti upis u registar bez odgađanja, ako utvrdi da je prijava ili zahtjev za upis osnovana.«
+
+### Članak 5.
+
+U članku 12. stavku 2. na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »ako zakonom nije drugačije propisano«.
+
+### Članak 6.
+
+U članku 15. stavak 2. mijenja se i glasi:
+
+»(2) U postupku upisa u kojem sudjeluje više sudionika sa suprotnim zahtjevima, registarski sud može elektronski potpisati rješenje nakon pravomoćnosti rješenja o upisu.«
+
+### Članak 7.
+
+U članku 18. stavci 3. i 4. brišu se.
+
+### Članak 8.
+
+U članku 24. stavku 2. točka 5. mijenja se i glasi:
+
+»5. osobe ovlaštene za zastupanje (direktori, članovi uprave, prokuristi, likvidatori, stečajni upravitelji i drugi), ime i prezime osobe s datumom rođenja, prebivalištem, brojem i oznakom osobne identifikacijske isprave, a za strance i država koja ju je izdala,«.
+
+U točki 6. podtočke d), e) i g) mijenjaju se i glase:
+
+»d) datum odluke o statusnoj promjeni te novi pravnoustrojbeni oblik,
+
+e) razlog za prestanak, te postupak likvidacije,
+
+g) odluke stečajnog suda koje se upisuju po službenoj dužnosti,«.
+
+### Članak 9.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Osnivači i članovi društva upisuju se u registar, ako je to zakonom propisano.
+
+(2) U registar upisuju se i promjene podataka iz stavka 1. ovoga članka, ako je to zakonom propisano.«
+
+### Članak 10.
+
+Članak 26. mijenja se i glasi:
+
+»O osobama iz članka 25. ovoga Zakona, u registar se upisuju sljedeći podaci: ime, prezime i prebivalište osobe, datum rođenja, broj i oznaka osobne identifikacijske isprave, za stranca i država koja ju je izdala, a za pravnu osobu upisuju se tvrtka ili naziv, sjedište i MBS, odnosno odgovarajući podaci za strane pravne osobe.«
+
+### Članak 11.
+
+U članku 30. stavku 1. točki 1. riječi: »JMBG ili za stranca broj putovnice i države koja je izdala putovnicu« zamjenjuju se riječima: »datumom rođenja, brojem i oznakom osobne identifikacijske isprave, a za stranca i država koja ju je izdala,«.
+
+### Članak 12.
+
+U članku 31. stavku 1. točke 2. i 3. mijenjaju se i glase:
+
+»2. ime i prezime članova uprave, predsjednika, zamjenika predsjednika i članova nadzornog odbora društva, te njihovo prebivalište s datumom rođenja, brojem i oznakom osobne identifikacijske isprave, a za stranca i države koja ju je izdala,
+
+3. ime i prezime, prebivalište, datum rođenja, broj i oznaka osobne identifikacijske isprave, a za stranca i države koja ju je izdala, odnosno tvrtka ili naziv i sjedište jedinog člana društva s ograničenom odgovornošću, odnosno jedinog dioničara, s MBS-om, odnosno odgovarajućim podacima za stranu pravnu osobu,«.
+
+Iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. priključenje,«.
+
+Iza dosadašnje točke 6., koja postaje točka 7., dodaju se točke 8., 9. i 10. koje glase:
+
+»8. ništavost društva,
+
+9. nastavak osnivanja dioničkog društva,
+
+10. prijenos dionica manjinskih dioničara.«
+
+U stavku 2. točka 4. mijenja se i glasi:
+
+»4. broj dionica koje će se izdati na temelju uvjetnog povećanja temeljnog kapitala društva, s naznakom nominalnog iznosa, a kod dionica bez nominalnog iznosa broj dionica koje se stječu takvim ulaganjem ukupnoga temeljnog kapitala nakon povećanja i poslovne godine u kojoj je to učinjeno.«
+
+U točki 6. riječi: »i sredstava« zamjenjuju se riječima: »iz sredstava«.
+
+Iza točke 10. dodaje se točka 11. koja glasi:
+
+»11. odluka o smanjenju temeljnog kapitala povlačenjem dionica, iznos temeljnog kapitala koji se odnosi na povučene dionice i temeljni kapital nakon smanjenja.«
+
+### Članak 13.
+
+Članak 34. i naslov iznad njega mijenjaju se i glase:
+
+»Podaci koji se upisuju za banke i druge financijske institucije
+
+### Članak 34.
+
+(1) Za banku i druge financijske institucije upisuju se podaci iz članka 31. ovoga Zakona.
+
+(2) Iz tvrtke subjekta upisa iz stavka 1. ovoga članka mora jasno proizlaziti njegov pravnoustrojbeni oblik.«
+
+### Članak 14.
+
+Članak 35. i naslov iznad njega mijenjaju se i glase:
+
+»Podaci koji se upisuju za društva osiguranja
+
+### Članak 35.
+
+Za društva osiguranja upisuju se podaci iz članka 24. i 31. ovoga Zakona.«
+
+### Članak 15.
+
+Iza članka 35. dodaje se članak 35.a i naslov iznad njega koji glase:
+
+»Podaci koji se upisuju za zadruge
+
+### Članak 35.a
+
+Osim podataka iz članka 24. ovoga Zakona, za zadruge se upisuje i ukupni iznos članskih uloga, ime, prezime, prebivalište, datum rođenja, broj i oznaka osobne identifikacijske isprave i funkcija članova nadzornog odbora ako ga zadruga ima i odgovornost zadrugara.«
+
+### Članak 16.
+
+U članku 36. stavku 1. točki 1. iza riječi: »te« dodaju se riječi: »tvrtka ili«.
+
+U točki 2. na kraju teksta briše se zarez i dodaju riječi: »i predmet poslovanja osnivača,«.
+
+Točke 3. i 4. mijenjaju se i glase:
+
+»3. ime i prezime, prebivalište osoba u podružnici ovlaštenih da u poslovanju podružnice zastupaju osnivača, datum rođenja, broj i oznaka osobne identifikacijske isprave, a za stranca i države koja ju je izdala,
+
+4. ime i prezime, prebivalište, datum rođenja, broj i oznaka osobne identifikacijske isprave, a za stranca i države koja ju je izdala.«
+
+### Članak 17.
+
+U članku 37. točka 1. mijenja se i glasi:
+
+»1. tvrtka ili naziv, koji mora sadržavati oznaku »glavna podružnica« i sjedište podružnice, a za ostale podružnice rednim brojevima označen njihov redoslijed,«.
+
+Dodaje se stavak 2. koji glasi:
+
+»(2) Ako inozemni osnivač osniva više podružnica, one se upisuju u sudski registar suda kod kojeg je upisana glavna podružnica.«
+
+### Članak 18.
+
+Iza članka 38. dodaje se članak 38.a i naslov iznad njega koji glase:
+
+»Zabilježba spora
+
+### Članak 38.a
+
+(1) Zabilježbu spora rješenjem dopustit će sud pred kojim se vodi postupak, nakon što predlagatelj predujmi troškove objave.
+
+(2) Registarski sud će upisati zabilježbu spora.
+
+(3) Ako nakon upisane zabilježbe tužitelj odustane od tužbe ili njegov zahtjev bude odbijen pravomoćnom odlukom ili obustavljen postupak radi kojeg je zabilježba bila određena, sud će odrediti njezino brisanje u roku od tri dana od dana stjecanja okolnosti iz ovoga stavka.«
+
+### Članak 19.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Postupak za upis u registar pokreće se podnošenjem javno ovjerene prijave sudu, ako zakonom nije drukčije propisano.
+
+(2) Prijava sadrži zahtjev za upis podataka ili zahtjev za upis promjene podataka upisanih u registar.
+
+(3) Prijava se ne mora javno ovjeriti ako se odnosi na promjenu poslovne adrese u sjedištu društva, ako se njome dostavljaju samo osobni podaci o predsjedniku i članovima nadzornog odbora, te podaci o naknadno uplaćenim temeljnim ulozima i uplatama. Takvu prijavu potpisuju osobe koje su po zakonu ovlaštene podnijeti prijavu za upis u sudski registar.
+
+(4) Prijava i prilozi podnose se u dovoljnom broju primjeraka za sud i sudionike.«
+
+### Članak 20.
+
+U članku 40. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Prijavi za upis podjele društava kapitala prilažu se sve isprave propisane Zakonom o trgovačkim društvima i pravilnikom donesenim na temelju toga Zakona.«
+
+### Članak 21.
+
+U članku 41. stavku 1. točka 2. mijenja se i glasi:
+
+»2. popis članova društva ili komplementara ili osnivača subjekta upisa s imenom i prezimenom, prebivalištem, datumom rođenja, brojem i oznakom osobne identifikacijske isprave, a za stranca i države koja ju je izdala, odnosno tvrtkom ili nazivom, sjedištem i MBS-om,«.
+
+U točki 3. iza riječi: »zemljišnih knjiga,« dodaju se riječi: »koji ne može biti stariji od 8 dana od dana podnošenja prijave u sudski registar,«.
+
+Točka 4. mijenja se i glasi:
+
+»4. dokaz o određivanju članova uprave određenih za zastupanje s ovlastima u zastupanju ili dokaz o određivanju prokurista i njihovih ovlasti, ili o imenovanju likvidatora ili stečajnog upravitelja s njihovim ovjerenim potpisima, s datumom rođenja, brojem i oznakom osobne identifikacijske isprave, a za stranca i državu koja ju je izdala,«.
+
+U stavku 4. iza riječi: »godine« stavlja se točka, a riječi: »osim u slučaju kada je to nužno zbog propisanog postupka pribavljanja ostalih isprava« brišu se.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Izvaci iz stranih sudskih registara i upisnika ne smiju biti stariji od 30 dana od dana podnošenja prijave u sudski registar.«
+
+### Članak 22.
+
+Članak 41.a briše se.
+
+### Članak 23.
+
+U članku 43. stavak 1. mijenja se i glasi:
+
+»(1) Prije nego što donese rješenje o upisu, registarski sud ispituje je li udovoljeno pretpostavkama za osnovanost prijave i zahtjeva za upis.«
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako sud utvrdi da nije nadležan za postupanje po prijavi za upis, oglasit će se nenadležnim, i nakon pravomoćnosti rješenja, ustupiti prijavu s prilozima nadležnom registarskom sudu.«
+
+U dosadašnjem stavku 2., koji postaje stavak 3., u uvodnoj rečenici riječ: »dopuštena« zamjenjuje se riječju: »osnovana«.
+
+U točki 6. riječ: »kopiji« zamjenjuje se riječju: »preslici«, briše se zarez i dodaju riječi: »i nisu starije od godinu dana«.
+
+Točka 8. mijenja se i glasi:
+
+»8. ako sadrži zahtjev s podacima za koje je propisano da se upisuju u registar.«
+
+### Članak 24.
+
+Članak 45. i naslov iznad njega mijenjaju se i glase:
+
+»Nepotpuna i neosnovana prijava
+
+### Članak 45.
+
+(1) Ako je prijava nepotpuna ili ne sadrži sve ono što je potrebno da bi se po njoj moglo postupati, registarski sud će zaključkom pozvati predlagatelja da prijavu ispravi, odnosno dopuni.
+
+(2) Kada registarski sud vrati prijavu radi ispravka ili dopune, zaključkom će odrediti rok od 8 dana za podnošenje ispravljene ili dopunjene prijave.
+
+(3) Registarski sud će vratiti prijavu i zaključkom pozvati predlagatelja na dopunu ili ispravak prijave i priloga u roku koji ne može biti dulji od 30 dana ili 60 dana za dionička društva.
+
+(4) Smatra se da je prijava povučena, ako ne bude vraćena, a ako bude vraćena bez ispravka, odnosno dopune, odbacit će se, ili odbiti, sukladno ovom Zakonu.
+
+(5) Ako prijava, odnosno prilozi uz prijavu vezani za rok budu ispravljeni, odnosno dopunjeni i vraćeni sudu u roku određenom za dopunu ili ispravak, smatrat će se da je podnesena sudu onog dana kada je prvi put podnesena.
+
+(6) Ako zahtjev za upis nije osnovan, registarski sud će odbiti zahtjev za upis.
+
+(7) Ako nisu ispunjene pretpostavke iz članka 43. stavka 3. točke 1., 2., 3., 6., ovoga Zakona sud će prijavu za upis odbaciti.«
+
+### Članak 25.
+
+Članci 46. i 47. brišu se.
+
+### Članak 26.
+
+U članku 50. riječi: »jednoj od svjetskih abeceda« zamjenjuju se riječima: »jednom od stranih jezika«.
+
+### Članak 27.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Predmet poslovanja / djelatnost upisuju se u sudski registar u skladu s posebnim zakonima.
+
+(2) Ako djelatnost nije propisana posebnim zakonom, ista se upisuje u skladu sa zahtjevom za upis i aktom subjekta upisa, uz uvjet da djelatnost nije zabranjena posebnim zakonom ni protivna moralu društva, te da se ne odnosi na djelatnost državnih tijela, osoba koje obavljaju javne poslove, političkih stranaka ili drugih osoba propisanih zakonom.
+
+(3) Ako je zakonom za pojedine djelatnosti propisano da ih mogu obavljati samo određeni oblici subjekata upisa, te da se pojedine djelatnosti mogu obavljati samo na temelju suglasnosti, dozvole ili drugoga akta državnog tijela ili neke institucije, takve djelatnosti mogu obavljati samo oni subjekti upisa za koje je to zakonom određeno, odnosno samo ako za to dobiju propisanu suglasnost, dozvolu ili drugi akt državnog tijela ili institucije.
+
+(4) Ako je za pojedine djelatnosti zakonom propisano da se mogu obavljati samo na temelju suglasnosti, dozvole ili drugog akta državnog tijela ili neke institucije, upis te djelatnosti u sudski registar provest će se samo na temelju prethodne suglasnosti ili dozvole toga tijela ili institucije.«
+
+### Članak 28.
+
+U članku 52. stavak 2. mijenja se i glasi:
+
+»(2) Registarski sud iz stavka 1. ovoga članka dužan je dostaviti primjerak prijave s prilozima i ovjereni primjerak rješenja o upisu iz registra osnivača, registarskom sudu nadležnom prema sjedištu podružnice.«
+
+### Članak 29.
+
+Članak 53. mijenja se i glasi:
+
+»(1) Rješenje o upisu u registar mora se donijeti u roku od 15 dana od dana kada je podnesena uredna i po sadržaju osnovana prijava za upis s prilozima, osim ako ne postoje opravdani razlozi za duži rok.
+
+(2) Ako prijava nije bila uredna ili ne sadrži sve što je potrebno da bi se po njoj moglo postupati, rok iz stavka 1. ovoga članka teći će od dana kad je predlagatelj, nakon što ju je ispravio i dopunio, ponovno podnese u skladu s uputom ili zaključkom kojim ga je sud pozvao da to učini.«
+
+### Članak 30.
+
+U članku 56. stavku 2. riječi: »i izreke« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Izreka sadrži nalog sudioniku da u određenome roku otkloni nedostatke u prijavi ili dokazu, ili da pribavi odgovarajući dokaz, te druge naloge glede upravljanja postupkom. Izreka sadrži i pravne posljedice, ako se ne postupi po zaključku.«
+
+### Članak 31.
+
+Naslov iznad članka 61. mijenja se i glasi: »Postupak drugostupanjskog suda«.
+
+### Članak 32.
+
+U članku 62. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Kad drugostupanjski sud ukine rješenje prvostupanjskog suda, brisat će provedeni upis.«
+
+### Članak 33.
+
+Iza članka 62. dodaje se članak 62.a koji glasi:
+
+»Članak 62.a
+
+(1) Rješenje o žalbi mora se donijeti u roku od 30 dana.
+
+(2) Rok iz stavka 1.ovoga članka teče
+
+1. ako registarski sud sam rješava o žalbi – od dana kada je stranka podnese,
+
+2. ako o žalbi rješava drugostupanjski sud – od dana kada zaprimi spis registarskog suda sa žalbom.
+
+(3) Ako drugostupanjski sud ukine rješenje registarskog suda, taj sud mora donijeti novo rješenje u roku propisanom člankom 53. ovoga Zakona.«
+
+### Članak 34.
+
+Članak 64. mijenja se i glasi:
+
+»(1) Kad subjekt upisa ne podnese sudu prijavu za upis razloga za prestanak koji je po zakonu dužan podnijeti ili to ne učini kada društvo prestaje iz razloga navedenih u članku 367. stavku 1. točki 1. Zakona o trgovačkim društvima, registarski sud će po službenoj dužnosti pokrenuti postupak za upis tog razloga u registar.
+
+(2) U slučaju iz stavka 1. ovoga članka, registarski sud će pozvati društvo, odnosno subjekt upisa da podnese prijavu u roku od 15 dana od dana primitka zaključka.«
+
+(3) Ako društvo, odnosno subjekt upisa ne postupi po prvom pozivu, registarski sud će ga ponovo pozvati da to učini uz upozorenje da će po proteku ostavljenog roka, koji ne može biti duži od 15 dana, po službenoj dužnosti upisati u sudski registar da je nastao razlog za prestanak društva i da će imenovati likvidatore.«
+
+(4) Kada sud utvrdi da razlozi za prestanak društva odnosno subjekta upisa, postoje, donijet će rješenje o upisu nastanka razloga za prestanak društva odnosno subjekta upisa, imenovanju likvidatora i promjeni tvrtke ili naziva s naznakom »u likvidaciji«. Kada registarski sud utvrdi da nema osnova za upis razloga za prestanak društva, odnosno subjekta upisa, rješenjem će obustaviti postupak.
+
+(5) Pravomoćno rješenje o prestanku društva, odnosno subjekta upisa i upisa prestanka subjekta objavljuje se u »Narodnim novinama«. Po pravomoćnosti rješenja, registarski sud će upisati postojanje razloga za prestanak subjekta upisa.«
+
+### Članak 35.
+
+Članak 65. i naslov iznad njega mijenjaju se glase:
+
+»Upis po službenoj dužnosti rješenja u stečajnom postupku
+
+### Članak 65.
+
+(1) Registarski sud će po službenoj dužnosti upisati rješenja iz stečajnog postupka koja se po posebnom zakonu obvezno upisuju u sudski registar.
+
+(2) Kada registarski sud upisuje u sudski registar rješenje o otvaranju stečajnog postupka, upisat će uz tvrtku ili naziv naznaku »u stečaju«, stečajnog upravitelja, te brisati prethodno upisanu upravu, odnosno nadzorni odbor.«
+
+### Članak 36.
+
+U članku 67. riječi: »stečajno vijeće« zamjenjuje se riječima: »stečajni sudac«, a iza riječi: »dostavi« dodaje se riječ: »pravomoćno«.
+
+### Članak 37.
+
+U članku 70. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Registarski sud postupit će u skladu s odredbom stavka 2. ovoga članka kada primi obavijest Financijske agencije da subjekt upisa kao obveznik nije predao financijska izvješća koja je po posebnom zakonu morao predati.«
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 38.
+
+U članku 71. stavku 1. točki 2. riječi: »nije bio dopušten ili« brišu se.
+
+U stavku 2. riječi: »i drugom dnevnom listu u kojem registarski sud objavljuje upise« brišu se.
+
+U stavku 3. riječ: »dvije« zamjenjuje se riječju: »tri«.
+
+### Članak 39.
+
+U članku 73. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Kod provođenja upisa pripajanja društava s ograničenom odgovornošću i drugih subjekata upisa, registarski sudovi postupit će po odredbama Zakona o trgovačkim društvima i drugim zakonima kojima su uređeni pojedini subjekti upisa.«
+
+### Članak 40.
+
+Članak 75. mijenja se i glasi:
+
+»(1) Kada društvo, odnosno subjekt upisa prestane postojati podjelom na dva ili više novih društava, odnosno subjekata upisa koja se osnivaju radi provođenja razdvajanja odnosno razdvajanja na dva ili više društava koja već postoje, prijave za upis podjele u sudski registar podnose članovi uprave i predsjednici nadzornog odbora, ako društvo ima to tijelo, svih društava koja sudjeluju u podjeli, odnosno ovlaštene osobe drugih subjekata upisa.
+
+(2) Registarski sud će upis podjele društava provesti sukladno odredbama Zakona o trgovačkim društvima.
+
+(3) Kod podjele razdvajanjem društvo koje se dijeli prestaje postojati brisanjem društva iz sudskog registra, bez provođenja likvidacije, po službenoj dužnosti, nakon upisa podjele u sudski registar.«
+
+### Članak 41.
+
+Iza članka 78. dodaje se članak 78.a i naslov iznad njega koji glase:
+
+»Postupanje suda kod podnesene tužbe za utvrđivanje ništavosti društva
+
+### Članak 78.a
+
+(1) Ako uprava društva, bez odgađanja dostavi sudu javno ovjereni prijepis ili presliku tužbe za utvrđivanje ništavosti društva, od dana podnošenja, registarski sud će upisati zabilježbu spora.
+
+(2) Sud koji je donio pravomoćnu presudu kojom je utvrđeno da je društvo ništavo, dostavit će u roku od 15 dana pravomoćnu presudu, registarskom sudu.
+
+(3) Registarski sud upisat će ništavost društva.
+
+(4) Ako je tužbeni zahtjev odbijen, registarski sud će na zahtjev društva brisati zabilježbu spora.«
+
+### Članak 42.
+
+Članak 80. mijenja se i glasi:
+
+»Registarski sud odbacit će prijavu za upis, ako predlagatelj ne plati sudsku pristojbu iz članka 79. ovoga Zakona i ne predujmi troškove objavljivanja upisa, najkasnije u roku kojeg odredi sud, a koji ne može biti dulji od 15 dana.«
+
+### Članak 43.
+
+U članku 84.f stavku 1. riječi: »nastavit će se pred likvidacijskim vijećem istog suda, a« brišu se.
+
+Iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+
+»(3) Prije imenovanja likvidatora iz stavka 2. ovoga članka, registarski sud pozvat će vjerovnike koji su prijavili svoje tražbine ili prijavljuju svoje tražbine, da solidarno uplate predujam za pokriće troškova likvidacijskog postupka u roku od 15 dana.
+
+(4) Ukoliko vjerovnici ne uplate predujam u određenom roku, prijave potraživanja će se odbaciti, a postupak će se nastaviti po odredbi članka 84.d ovoga Zakona.
+
+(5) Vjerovnik koji je predujmio troškove postupka ima pravo na povrat istih prilikom namirenja iz likvidacijske mase. Troškovi se namiruju prije namirenja tražbina prijavljenih u likvidacijskom postupku.«
+
+### Članak 44.
+
+Ministar nadležan za poslove pravosuđa dužan je uskladiti Pravilnik iz članka 3. Zakona o sudskom registru (»Narodne novine«, br. 1/95., 57/96., 1/98., 30/99. i 45/99.) s odredbama ovoga Zakona u roku od 30 dana od dana njegova stupanja na snagu.
+
+### Članak 45.
+
+Postupci za upis u sudski registar pokrenuti prije stupanja na snagu ovoga Zakona, dovršit će se u skladu s propisima koji su važili do njegova stupanja na snagu.
+
+### Članak 46.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskog sabora da utvrdi i izda pročišćeni tekst Zakona o sudskom registru.
+
+### Članak 47.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama.«
+
+Klasa: 740-13/05-01/01
+
+Zagreb, 14. travnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudskom registru (NN 40/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/40/1345*
+
+HRVATSKI SABOR
+
+1345
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKOM REGISTRU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudskom registru, kojega je Hrvatski sabor donio na sjednici 30. ožujka 2007. godine.  
+Klasa: 011-01/07-01/24  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 5. travnja 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDSKOM REGISTRU**
+
+#### Članak 1.
+
+U Zakonu o sudskom registru (»Narodne novine«, br. 1/95., 57/96., 45/99. i 54/05.) u članku 2. iza stavka 12. dodaje se stavak 13. i glasi:  
+»(13) Financijske isprave su:  
+– pojedinačna i konsolidirana financijska izvješća prema propisima o računovodstvu, ako je propisana obveza objavljivanja tih izvješća,  
+– pripadajuća revizorska mišljenja ako financijska izvješća podliježu reviziji, a propisana je obveza objavljivanja revizorskih mišljenja,  
+– pojedinačno godišnje izvješće o stanju društva i konsolidirano godišnje izvješće o stanju društva ako je posebnim zakonom propisana obveza objavljivanja tih izvješća.«
+
+#### Članak 2.
+
+U članku 3. stavak 2. mijenja se i glasi:  
+»(2) Glavna knjiga vodi se usporedo na papiru i u elektronič­kom obliku.«  
+Stavak 3. briše se.  
+Dosadašnji stavci 4. i 5., koji postaju stavci 3. i 4., mijenjaju se i glase:  
+»(3) Glavne knjige se povezuju u jedinstvenu bazu podataka za Republiku Hrvatsku.  
+(4) Zbirka isprava vodi se na papiru ili u elektroničkom obliku. Zbirke isprava vođene u elektroničkom obliku povezuju se u jedinstvenu bazu podataka za Republiku Hrvatsku.«  
+Iza stavka 4. dodaju se novi stavci 5. i 6. i glase:  
+»(5) Isprave i podaci koji se pohranjuju u zbirci isprava mogu biti i na jednom od službenih jezika Europske unije.  
+(6) Isprave i podaci iz stavka 5. ovog članka moraju biti prevedeni od ovlaštenog sudskog tumača. U slučaju nesuglasja u pogledu sadržaja isprava i podataka na hrvatskom jeziku i onih na stranom jeziku, mjerodavnom će se smatrati isprava sastavljena na hrvatskom jeziku.«  
+Dosadašnji stavci 6., 7. i 8., postaju stavci 7., 8. i 9.
+
+#### Članak 3.
+
+U članku 4. stavku 2. iza riječi: »javne« dodaju se riječi: »isprave i«, a riječ: »kopija« zamjenjuje se riječju: »preslika«.  
+Stavak 4. mijenja se i glasi:  
+»(4) Ostvarivanje prava na razgledanje podataka i izdavanje izvadaka iz glavne knjige koja se vodi i u elektroničkom obliku te razgledanje i izdavanje isprava i podataka pohranjenih na papiru ili u elektroničkom obliku u zbirci isprava, dužan je omogućiti svaki registarski sud bez obzira u kojem je registru subjekt upisa upisan, a u zbirku isprava ako s njom raspolaže.«
+
+#### Članak 4.
+
+U članku 5. dodaje se novi stavak 1. i glasi:  
+»(1) Javni bilježnici mogu, u skladu sa svojim ovlaštenjima i odredbama ovoga Zakona, komunicirati s registarskim sudom i elektroničkim putem.«  
+U dosadašnjem stavku 1., koji postaje stavak 2., riječ: »kopije« zamjenjuje se riječju: »preslike«. Iza riječi: »Zakona« stavlja se točka, a riječi: »ako raspolažu podacima iz registra« brišu se.
+
+#### Članak 5.
+
+U članku 6. stavku 1. iza točke 6. dodaju se nove točke 7. i 8. i glase:  
+»7. europsko društvo (Societas Europaea, skraćeno SE),  
+8. europsko gospodarsko interesno udruženje (skraćeno EGIU),«.  
+Dosadašnje točke 7., 8., 9.i 10. postaju točke 9., 10., 11. i 12.  
+Iza točke 12. dodaje se nova točka 13. i glasi:  
+»13. kreditna unija,«.  
+Dosadašnja točka 11. postaje točka 14.
+
+#### Članak 6.
+
+U članku 9. stavku 1. iza riječi: »zahtjevom«, točka se zamjenjuje zarezom te dodaju riječi: »koji se predaje registarskom sudu na papiru ili elektroničkim putem«.
+
+#### Članak 7.
+
+U članku 16. stavak 5. briše se.
+
+#### Članak 8.
+
+U naslovu ispred članka 17. riječi: »telekomunikacijskom mrežom ili putem informatičkog medija« brišu se.  
+U članku 17. stavku 1. iza riječi: »knjizi«, stavlja se zarez te dodaju riječi: »akata i isprava iz zbirke isprava, elektroničkim putem«, a riječi: »telekomunikacijskom mrežom ili putem elektroničkog medija« brišu se.
+
+#### Članak 9.
+
+U članku 24. stavku 2. točki 5. iza riječi: »izdala« briše se zarez i dodaju riječi: »te način zastupanja,«.  
+U točki 6. podtočki b) iza riječi: »statuta« dodaje se riječ: »pravila«.  
+Iza dosadašnje točke 7. dodaje se nova točka 8. i glasi:  
+»8. dan predaje potpune financijske isprave, uz navođenje obračunskog razdoblja poslovne godine za koju se predaje,«.  
+Dosadašnja točka 8. postaje točka 9.
+
+#### Članak 10.
+
+U članku 31. stavku 2. točki 4. iza riječi: »ulaganjem« stavlja se zarez i dodaju riječi: »a u oba slučaja s naznakom«.
+
+#### Članak 11.
+
+Iza članka 31. dodaju se naslovi i članci 31.a i 31.b koji glase:
+
+*»Europsko društvo (Societas Europaea, SE)*
+
+#### Članak 31.a
+
+Osim podataka iz članka 24. i članka 31. ovoga Zakona za europsko društvo (SE) upisuju se i:  
+1. u slučaju promjene sjedišta u Republiku Hrvatsku, dosadašnja tvrtka, dosadašnje sjedište, naziv registra u kojem se društvo vodilo i dosadašnji broj upisa u tom registru,  
+2. namjeravana promjena sjedišta u drugu državu članicu,  
+3. za članove uprave odgovarajuća funkcija.
+
+*Europsko gospodarsko interesno udruženje (EGIU) Članak 31.b*
+
+Za europsko gospodarsko interesno udruženje (EGIU) upisuju se podaci iz članka 32. ovoga Zakona.«
+
+#### Članak 12.
+
+U članku 36. stavku 1. točki 4. iza riječi: »prezime« briše se zarez i dodaju riječi: »prokuriste čija je prokura ograničena na podružnicu, njegovo«.
+
+#### Članak 13.
+
+U članku 39. stavku 1. iza riječi: »prijave« dodaju se riječi: »ili prijave zaprimljene elektroničkim putem od javnog bilježnika ili osoba ovlaštenih posebnim propisima,«.  
+Stavak 4. mijenja se i glasi:  
+»(4) Prijava i prilozi na papiru podnose se u dovoljnom broju primjeraka za sud i sudionike.«  
+Iza stavka 4. dodaju se stavci 5., 6., 7., 8. i 9. i glase:  
+»(5) Ako se prijava podnosi elektroničkim putem, na isti se način podnose i prilozi.  
+(6) Financijske isprave predaju se sudskom registru putem Financijske agencije. Financijska agencija će podnositelju vratiti na dopunu financijske isprave za koje utvrdi da nisu potpune.  
+(7) Financijske isprave se predaju:  
+– u roku od šest mjeseci od isteka poslovne godine za pojedinačna financijska izvješća i godišnje izvješće o stanju društva s pripadajućim revizorskim mišljenjem,  
+– u roku od devet mjeseci od isteka poslovne godine za konsolidirana financijska izvješća i konsolidirano godišnje izvješće o stanju društva s pripadajućim revizorskim mišljenjem.  
+(8) Financijska agencija dužna je bez odgode obavijestiti registarski sud da su potpune financijske isprave predane u rokovima i u elektroničkom obliku dostaviti sudskom registru te isprave ili njihov prijepis radi upisa dana predaje po službenoj dužnosti.  
+(9) Financijska agencija je dužna po isteku rokova iz stavka 7. ovoga članka registarskom sudu dostaviti popis obveznika koji nisu ili nisu predali u roku potpune financijske isprave.«
+
+#### Članak 14.
+
+U članku 40. stavku 7. riječ: »toga« zamjenjuje se riječju: »ovoga«.
+
+#### Članak 15.
+
+U članku 41. stavku 1. točki 3. iza riječi: »prijave« dodaju se riječi: »za upis«.  
+U stavku 1. točki 4. iza riječi: »članova uprave« riječi: »određenih za zastupanje« zamjenjuju se riječima: »i drugih osoba ovlaštenih za zastupanje«.  
+U stavku 3. riječ: »kopiji« zamjenjuje se riječju: »preslici«.  
+U stavku 5. riječ: »stranih« briše se.
+
+#### Članak 16.
+
+U članku 43. ispred zadnjeg stavka oznaka: »(3)« mijenja se u oznaku: »(4)«.
+
+#### Članak 17.
+
+U članku 49. stavku 4. iza riječi: »podnijeti i prijavu za« dodaje se riječ: »upis«, a riječ: »promjenu« zamjenjuje se riječju: »promjene«.
+
+#### Članak 18.
+
+U članku 52. stavku 2. točka na kraju rečenice zamjenjuje se zarezom te se dodaju riječi: »na papiru ili elektroničkim putem.«.
+
+#### Članak 19.
+
+U članku 59. iza stavka 2. dodaje se novi stavak 3. i glasi:  
+»(3) Žalba se predaje u dovoljnom broju primjeraka za sud i protivnu stranu, u slučajevima kada se žalba dostavlja na odgovor, u skladu s pravilima parničnog postupka.«  
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 20.
+
+U članku 61. stavku 1. točki 3. iza riječi: »i« dodaju se riječi: »prema potrebi«.
+
+#### Članak 21.
+
+U članku 64. stavku 5. iza riječi: »i« riječ: »upisa« zamjenjuje se riječju: »upis«.
+
+#### Članak 22.
+
+Članak 70. mijenja se i glasi:  
+»(1) Registarski sud će brisati subjekt upisa na zahtjev tijela za porezne poslove po službenoj dužnosti, ako subjekt upisa nema imovine.  
+(2) Registarski sud će po službenoj dužnosti provesti postupak brisanja nad društvom ako ono tri godine uzastopce ne postupi po zakonskoj obvezi predaje svojih financijskih isprava niti ih dostavi registarskom sudu u roku od 6 mjeseci nakon što registarski sud objavi pokretanje postupka brisanja, a društvo u tom roku ne učini vjerojatnim da ima imovinu.  
+(3) U slučaju da društvo učini vjerojatnim da ima imovinu, registarski sud će obustaviti postupak brisanja.  
+(4) U slučaju da se nakon brisanja subjekta upisa utvrdi postojanje imovine, provest će se postupak likvidacije nad tom imovinom. U izvanparničnom postupku registarski sud će na prijedlog zainteresirane osobe imenovati likvidatora naknadno pronađene imovine.«
+
+#### Članak 23.
+
+U članku 71. stavku 2. riječ: »kasnije« briše se.
+
+#### Članak 24.
+
+U članku 79. ispred riječi: »Prilikom«stavlja se oznaka: »(1)«.  
+Dodaje se stavak 2. i glasi:  
+»(2) Objava upisa dana predaje financijskih isprava oslobođena je plaćanja sudske pristojbe i troškova objave oglasa u »Narodnim novinama«.«
+
+#### Članak 25.
+
+Iza članka 81. dodaje se naslov i članak 81.a i glase:
+
+### »KAZNENE ODREDBE — Članak 81.a
+
+(1) Ako obveznik financijsku ispravu ne preda ili ju ne preda u zakonom propisanom roku, registarski sud će, rješenjem, uz opomenu iz članka 81. stavka 1. ovoga Zakona, naložiti plaćanje novčane kazne u iznosu od 5.000,00 kuna.  
+(2) Ako se ne postupi po opomeni suda iz stavka 1. ovoga članka, novčana kazna će se povećavati za iznos dodatnih 5.000,00 kuna sve do ispunjenja obveze.«
+
+#### Članak 26.
+
+Naslov iznad članka 88. i članak 88. brišu se.
+
+#### Članak 27.
+
+Članak 90. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE — Članak 28.
+
+(1) Ministar nadležan za poslove pravosuđa dužan je uskladiti Pravilnik iz članka 3. Zakona o sudskom registru (»Narodne novine« br. 1/95., 57/96., 45/99. i 54/05.) u roku od 60 dana od dana stupanja na snagu ovoga Zakona.  
+(2) Ministar nadležan za poslove pravosuđa će izabrati registarski sud i naputkom propisati uvjete i način ostvarivanja ovim Zakonom predviđene elektroničke komunikacije ovlaštenih osoba s tim sudom, u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 29.
+
+(1) Danom stupanja na snagu ovoga Zakona preslike cjelovitih isprava i podataka, koji su nastali nakon usklađivanja s odredbama Zakona o trgovačkim društvima (»Narodne novine«, br. 111/93.), a koji se vode za pojedini subjekt upisa pod određenim MBS-om, mogu se po prijedlogu osoba ovlaštenih za zastupanje, pretvoriti u elektronički oblik.  
+(2) Uvjeti i način za postupanje sukladno stavku 1. ovoga članka propisat će se podzakonskim propisom iz članka 28. stavka 1. ovoga Zakona.
+
+#### Članak 30.
+
+Danom stupanja na snagu ovoga Zakona, odredba članka 14. Zakona o registru godišnjih financijskih izvještaja (»Narodne novine« br. 47/03.) prestaje važiti.
+
+#### Članak 31.
+
+(1) Ovaj Zakon stupa na snagu osmoga dana od objave u »Narodnim novinama«.  
+(2) Ovim Zakonom izmijenjene odredbe članka 3. stavka 4., članka 4. stavka 4., članka 5. stavka 1., članka 9. stavka 1., članka 17. stavka 1., članka 39. stavka 1. i 5., članka 52. stavka 2. Zakona o sudskom registru (»Narodne novine«, br. 1/95., 57/96., 45/99. i 54/05.) i odredba članka 29. stavak 1. ovoga Zakona stupaju na snagu 1. siječnja 2009.  
+(3) Odredbe članka 5. stavak 1. i članka 11. ovoga Zakona stupaju na snagu danom stupanja Republike Hrvatske u punopravno članstvo Europske unije.  
+Klasa: 740-13/06-01/01  
+Zagreb, 30. ožujka 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga Sabora  
+Vladimir Šeks, v. r.

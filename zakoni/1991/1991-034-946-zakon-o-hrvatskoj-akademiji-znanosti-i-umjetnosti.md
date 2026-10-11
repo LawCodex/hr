@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1991-07-16
-last_amended: 1996-05-31
+last_amended: 2002-12-17
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "34/91, 43/96"
+narodne_novine: "34/91, 43/96, 150/02"
 amendments:
   - "NN 43/1996 (842) Zakon o izmjenama i dopunama Zakona o Hrvatskoj akademiji znanosti i umjetnosti"
+  - "NN 150/2002 (2443) Zakon o izmjeni i dopunama Zakona o Hrvatskoj akademiji znanosti i umjetnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/946"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 34/1991 (https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/946).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 43/1996.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 43/1996, NN 150/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -351,3 +352,71 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o Hrvatskoj akademiji znanosti i umjetnosti (NN 150/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/150/2443*
+
+HRVATSKI SABOR
+
+2443
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O HRVATSKOJ AKADEMIJI ZNANOSTI I UMJETNOSTI
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o Hrvat­skoj akademiji znanosti i umjetnosti, koji je donio Hrvatski sabor na sjednici 6. prosinca 2002.
+
+Broj: 01-081-02-3858/2  
+Zagreb, 11. prosinca 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O HRVATSKOJ AKADEMIJI ZNANOSTI I UMJETNOSTI**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj akademiji znanosti i umjetnosti (»Narodne novine«, br. 34/91. i 43/96.) članak 20. mijenja se i glasi:
+
+»(1) Redoviti članovi Akademije imaju pravo na dodatak mirovini u visini utvrđene proračunske osnovice u Republici Hrvatskoj za godinu koja prethodi godini u kojoj se ostvaruje pravo na mirovinu.
+
+(2) Pravo na dodatak mirovini iz stavka 1. ovoga članka imaju i članovi obitelji poslije smrti redovitog člana Akademije koji su ostvarili pravo na obiteljsku mirovinu prema propisima o mirovinskom osiguranju. Visina dodatka mirovini određuje se uz primjenu mirovinskog faktora utvrđenog rješenjem o pravu na obiteljsku mirovinu.«
+
+### Članak 2.
+
+Iza članka 20. dodaju se članci 20.a, 20.b, 20.c i 20.d koji glase:
+
+»Članak 20.a
+
+Redoviti članovi Akademije koji su pravo na mirovinu ostvarili do dana stupanja na snagu ovoga Zakona ostvaruju pravo na dodatak mirovini u visini utvrđene proračunske osnovice za godinu koja prethodi godini stupanja na snagu ovoga Zakona.
+
+### Članak 20.b
+
+Dodatak mirovini prema ovome Zakonu isplaćuje se tijekom kalendarske godine korisniku prema utvrđenoj proračunskoj osnovici za prethodnu kalendarsku godinu neovisno o godini u kojoj je ostvaren dodatak mirovini.
+
+### Članak 20.c
+
+Rješenje o pravu na dodatak mirovini, prema ovome Zakonu, donosi Hrvatski zavod za mirovinsko osiguranje, po službenoj dužnosti, na temelju rješenja o pravu na mirovinu redovitog člana Akademije, odnosno člana njegove obitelji.
+
+### Članak 20.d
+
+Sredstva za isplatu dodatka mirovini prema ovome Zakonu osiguravaju se u proračunu Republike Hrvatske.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 612-01/02-01/01  
+Zagreb, 6. prosinca 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

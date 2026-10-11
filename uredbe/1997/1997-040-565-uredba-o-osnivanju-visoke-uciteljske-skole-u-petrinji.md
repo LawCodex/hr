@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1997-04-16
+last_amended: 2005-06-23
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "40/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "40/97, 76/05"
+amendments:
+  - "NN 76/2005 (1486) Uredba o izmjenama Uredbe o osnivanju Visoke učiteljske škole u Petrinji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/40/565"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Visoke učiteljske škole u Petrinji
 
 > Izvor: Narodne novine, NN 40/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/40/565).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -192,3 +196,111 @@ Zagreb, 10. travnja 1997.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o osnivanju Visoke učiteljske škole u Petrinji (NN 76/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/76/1486*
+
+VLADA REPUBLIKE HRVATSKE
+
+1486
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narod­ne novine«, br. 76/93, 29/97 i 47/99) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004 i 174/2004), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2005. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU VISOKE UČITELJSKE ŠKOLE U PETRINJI**
+
+### Članak 1.
+
+U Uredbi o osnivanju Visoke učiteljske škole u Petrinji (»Narod­ne novine«, broj 40/97), u članku 2. stavku 1. riječi: »Ministarstvo znanosti i tehnologije« zamjenjuju se riječima: »ministarstvo nadležno za visoko obrazovanje« .
+
+Stavci 2. i 3. brišu se.
+
+### Članak 2.
+
+U članku 3. podstavak 1. mijenja se i glasi:
+
+»– ustrojavanje i izvođenje stručnih studija za naobrazbu učitelja u osnovnom školstvu, te odgojitelja i stručnih suradnika u dječjim vrtićima, sukladno Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (u daljnjem tekstu: Zakon) i Statutu Škole,« .
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Tijela Škole su dekan, Stručno vijeće i Upravno vijeće.
+
+Škola može imati i druga stručna i savjetodavna tijela čije se osnivanje, sastav i nadležnost uređuje Statutom ili drugim općim aktom.« .
+
+### Članak 4.
+
+U članku 6. stavak 2. mijenja se i glasi:
+
+»Upravno vijeće:
+
+– donosi program rada i razvoja Škole i nadzire njihovo izvršavanje
+
+– brine o zakonitosti rada Škole, racionalnoj uporabi materijalnih i kadrovskih resursa i provođenju odluka Stručnog vijeća
+
+– odlučuje o načinu upotrebljavanja dobiti koju Škola ostvari
+
+– donosi odluke u drugom stupnju o ostvarivanju pojedinačnih prava radnika
+
+– donosi godišnji obračun
+
+– predlaže osnivaču promjenu ili proširenje djelatnosti
+
+– donosi Statut na prijedlog Stručnog vijeća
+
+– daje suglasnost na pojedine odluke dekana i Stručnog vijeća sukladno Statutu
+
+– daje osnivaču i dekanu prijedloge i mišljenja o pojedinim pitanjima
+
+– obavlja druge poslove utvrđene Zakonom i Statutom.« .
+
+### Članak 5.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»Upravno vijeće ima pet članova od kojih tri imenuje osnivač, a dva bira Stručno vijeće Škole na vrijeme od četiri godine. Predsjed­nika Upravnog vijeća biraju članovi između sebe. Dekan sudjeluje u radu Upravnog vijeća bez prava glasovanja.« .
+
+Stavak 2. mijenja se i glasi:
+
+»Osnivač i Stručno vijeće mogu razriješiti članove koje imenuju odnosno biraju u Upravno vijeće i prije isteka vremena na koje su imenovani odnosno izabrani.« .
+
+### Članak 6.
+
+U članku 8. stavak 2. mijenja se i glasi:
+
+»Za dekana može biti izabran radnik Škole u znanstveno-nastav­nom zvanju ili nastavnom zvanju profesora visoke škole, a bira ga i razrješava Stručno vijeće s mandatom, na način i u postupku utvrđenom Statutom Škole. Izbor dekana potvrđuje Upravno vijeće.« .
+
+U stavku 3. podstavcima 7. i 9., riječi: »nastavničko vijeće« zamjenjuju se riječima: »Stručno vijeće« , u odgovarajućem padežu, a podstavak 8. briše se.
+
+### Članak 7.
+
+Članak 10. mijenja se i glasi:
+
+»Stručno vijeće Škole odlučuje o stručnim i nastavnim pitanjima, sukladno zakonu i Statutu Škole.
+
+Stručno vijeće Škole čine nastavnici, suradnici i studenti. Broj, sastav, način izbora i mandat članova Stručnog vijeća iz redova nastavnika, suradnika i studenata pobliže se određuje Statutom Škole.«.
+
+### Članak 8.
+
+Članak 11. briše se.
+
+### Članak 9.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 602-04/97-01/09
+
+Urbroj: 5030108-05-1
+
+Zagreb, 15. lipnja 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.

@@ -44,17 +44,15 @@ Vice Vukojević, dipl. iur., v. r.
 
 *(pročišćeni tekst)*
 
-## GLAVA I.
-
-#### BANKA
+## GLAVA I. — BANKA
 
 ### 1. OPĆE ODREDBE
 
-##### Članak 1.
+#### Članak 1.
 
 Banka je financijska institucija koja se osniva kao dioničko društvo ili kao društvo s ograničenom odgovornošću uz uvjete utvrđene ovim Zakonom i čiji je predmet poslovanja obavljanje svih ili samo pojedinih bankovnih poslova iz članka 3. stavka 1. točke 1. do 6. ovoga Zakona.
 
-##### Članak 2.
+#### Članak 2.
 
 (1) Banka je poslovno samostalna i posluje po načelima likvidnosti, sigurnosti i rentabilnosti.
 
@@ -66,7 +64,7 @@ Banka je financijska institucija koja se osniva kao dioničko društvo ili kao d
 
 ### 2. BANKOVNI POSLOVI
 
-##### Članak 3.
+#### Članak 3.
 
 (1) Bankovni poslovi su:
 
@@ -90,7 +88,7 @@ Banka je financijska institucija koja se osniva kao dioničko društvo ili kao d
 
 (3) Narodna banka Hrvatske može odrediti i druge poslove kao bankovne poslove.
 
-##### Članak 4.
+#### Članak 4.
 
 Banka ne smije obavljati sljedeće poslove:
 
@@ -102,15 +100,15 @@ Banka ne smije obavljati sljedeće poslove:
 
 *3. 1. Izdavanje odobrenja*
 
-##### Članak 5.
+#### Članak 5.
 
 Banku mogu osnovati fizičke i pravne osobe uz uvjete iz ovoga Zakona.
 
-##### Članak 6.
+#### Članak 6.
 
 Inozemne fizičke i pravne osobe mogu biti osnivači banke u Republici Hrvatskoj pod uvjetom uzajamnosti.
 
-##### Članak 7.
+#### Članak 7.
 
 (1) Inozemna banka može, pod uvjetom uzajamnosti, za obavljanje svih ili samo pojedinih bankovnih poslova iz članka 3. stavka 1. točke 1. do 6. osnovati podružnicu.
 
@@ -126,7 +124,7 @@ Inozemne fizičke i pravne osobe mogu biti osnivači banke u Republici Hrvatskoj
 
 (7) Podružnica iz stavka 1. ovoga članka dužna je u svom radu pridržavati se propisa Republike Hrvatske.
 
-##### Članak 8.
+#### Članak 8.
 
 (1) Inozemna banka može pod uvjetom uzajamnosti osnovati u Republici Hrvatskoj predstavništvo.
 
@@ -134,11 +132,11 @@ Inozemne fizičke i pravne osobe mogu biti osnivači banke u Republici Hrvatskoj
 
 (3) Potanje uvjete za otvaranje i rad predstavništva inozemnih banaka donosi Narodna banka Hrvatske.
 
-##### Članak 9.
+#### Članak 9.
 
 Temeljni kapital banke koja se osniva ne može u novčanom obliku iznositi manje od 18. 000. 000,00 kuna.
 
-##### Članak 10.
+#### Članak 10.
 
 (1) Za obavljanje jednoga ili više bankovnih poslova iz članka 3. stavka 1. točke 1. do 6. ovoga Zakona potrebno je odobrenje za rad banke.
 
@@ -162,7 +160,7 @@ Temeljni kapital banke koja se osniva ne može u novčanom obliku iznositi manje
 
 6. dokumentaciju na osnovi koje će se moći utvrditi da će banka kadrovski, tehnički i organizacijski biti sposobna obavljati poslove predviđene odlukom o osnivanju.
 
-##### Članak 11.
+#### Članak 11.
 
 (1) Inozemna banka koja hoće u Republici Hrvatskoj osnovati podružnicu treba podnijeti Narodnoj banci Hrvatske zahtjev za izdavanje odobrenja za rad podružnice.
 
@@ -186,13 +184,13 @@ Temeljni kapital banke koja se osniva ne može u novčanom obliku iznositi manje
 
 (3) Odobrenje za rad podružnice će se uskratiti ili već izdano odobrenje oduzeti, ako je inozemnoj banci - osnivaču, nadležna institucija u državi njezina sjedišta oduzela odobrenje za rad.
 
-##### Članak 12.
+#### Članak 12.
 
 (1) Kada se po ovom Zakonu traži uzajamnost smatra se da je osnivač dokazao da postoji uzajamnost ako ga Narodna banka Hrvatske ne pozove da podnese dokaz o postojanju uzajamnosti.
 
 (2) U slučaju sumnje postojanje uzajamnosti, na zahtjev Narodne banke Hrvatske, utvrđuje Ministarstvo pravosuđa.
 
-##### Članak 13.
+#### Članak 13.
 
 (1) Na temelju cjelovite dokumentacije iz članka 10., 11. i 12. ovoga Zakona, Narodna banka Hrvatske u roku od 60 dana odlučuje o izdavanju odobrenja za rad banke odnosno, podružnice inozemne banke i ako utvrdi da su ispunjeni svi za to propisani uvjeti izdaje banci, odnosno podružnici inozemne banke odobrenje za rad.
 
@@ -206,7 +204,7 @@ Temeljni kapital banke koja se osniva ne može u novčanom obliku iznositi manje
 
 *3. 2. Oduzimanje odobrenja*
 
-##### Članak 14.
+#### Članak 14.
 
 (1) Narodna banka Hrvatske može oduzeti odobrenje za rad banke, odnosno podružnice inozemne banke u sljedećim slučajevima:
 
@@ -224,7 +222,7 @@ Temeljni kapital banke koja se osniva ne može u novčanom obliku iznositi manje
 
 (3) Odluka o oduzimanju odobrenja je konačna u upravnom postupku i protiv nje se može voditi upravni spor.
 
-##### Članak 15.
+#### Članak 15.
 
 (1) Narodna banka Hrvatske može svojim rješenjem oduzeti banci, odnosno podružnici inozemne banke pravo na obavljanje pojedinih bankovnih poslova, za koju ocijeni da više ne ispunjava uvjete i mjerila za obavljanje tih poslova sukladno članku 13. stavku 3. ovoga Zakona.
 
@@ -232,7 +230,7 @@ Temeljni kapital banke koja se osniva ne može u novčanom obliku iznositi manje
 
 ### 4. OBAVJEŠTAVANJE NARODNE BANKE HRVATSKE
 
-##### Članak 16.
+#### Članak 16.
 
 Banka je dužna bez odgađanja obavijestiti Narodnu banku Hrvatske:
 
@@ -258,7 +256,7 @@ Banka je dužna bez odgađanja obavijestiti Narodnu banku Hrvatske:
 
 11. o odluci skupštine banke o prestanku rada banke.
 
-##### Članak 17.
+#### Članak 17.
 
 (1) Banke moraju Narodnoj banci Hrvatske do 15. siječnja, 15. travnja, 15. srpnja i 15. listopada dostaviti obavijest o dužnicima čije zaduženje kod njih u bilo kom trenutku za vrijeme tri kalendarska mjeseca prije datuma prijave premašuje iznos kojeg odredi Narodna banka Hrvatske.
 
@@ -266,19 +264,19 @@ Banka je dužna bez odgađanja obavijestiti Narodnu banku Hrvatske:
 
 (3) Uvjete i postupak za provedbu odredaba ovoga članka propisuje Narodna banka Hrvatske.
 
-##### Članak 18.
+#### Članak 18.
 
 (1) Banka mora dostavljati Narodnoj banci Hrvatske izvješća.
 
 (2) Narodna banka Hrvatske svojim aktima propisuje vrstu i opseg izvješća kao i druge podatke koji su joj potrebni za obavljanje njene zadaće.
 
-##### Članak 19.
+#### Članak 19.
 
 (1) Nakon osnivanja banke više od 10% dionica, odnosno poslovnih udjela s pravom glasa u skupštini banke može pojedini dioničar, odnosno vlasnik poslovnog udjela, steći jedino uz prethodnu suglasnost Narodne banke Hrvatske.
 
 (2) U slučaju da pojedini dioničar, odnosno vlasnik poslovnog udjela, suprotno odredbi stavka 1. ovoga članka stekne više od 10% dionica, odnosno poslovnih udjela s pravom glasa u skupštini banke bez suglasnosti Narodne banke Hrvatske, takvo stjecanje iznad 10% je ništavo i ne proizvodi pravne učinke.
 
-##### Članak 20.
+#### Članak 20.
 
 (1) Banka je dužna zatražiti prethodnu suglasnost Narodne banke Hrvatske za pravni posao kojim preuzima, odnosno ustupa udjel u drugoj banci ili drugom trgovačkom društvu u iznosu većem od 10% svoga jamstvenog kapitala.
 
@@ -288,11 +286,11 @@ Banka je dužna bez odgađanja obavijestiti Narodnu banku Hrvatske:
 
 *5. 1. Kapital i plasmani banke*
 
-##### Članak 21.
+#### Članak 21.
 
 Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgovarajućim kapitalom te prilagoditi svoje poslovanje uvjetima utvrđenim ovim Zakonom i uvjetima koje propiše Narodna banka Hrvatske.
 
-##### Članak 22.
+#### Članak 22.
 
 (1) Vlastiti kapital kojim banka raspolaže sastoji se od temeljnog i dopunskog kapitala.
 
@@ -302,7 +300,7 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 (4) Potanje propise o pojedinim oblicima kapitala pri utvrđivanju opsega vlastitog kapitala donosi Narodna banka Hrvatske.
 
-##### Članak 23.
+#### Članak 23.
 
 (1) Jamstveni kapital sastoji se od temeljnog kapitala i dopunskog kapitala koji ne može biti veći od visine iznosa temeljnog kapitala.
 
@@ -310,7 +308,7 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 (3) Banka je dužna opseg svojega poslovanja usklađivati tako da iznos jamstvenog kapitala iznosi najmanje 8% ukupnog iznosa aktive i aktivnih izvanbilančnih stavaka banke, raspoređenih i ponderiranih po stupnjevima rizika.
 
-##### Članak 24.
+#### Članak 24.
 
 (1) Banka mora poštovati odredbe ovoga Zakona o velikom i najvećem mogućem kreditu jednom zajmoprimcu, odredbe o ukupnom iznosu svih kredita, drugih potraživanja i preuzimanja obveza prema jednom zajmoprimcu i odredbe o ukupnom iznosu velikih i najvećih mogućih kredita.
 
@@ -326,7 +324,7 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 (7) Potanje uvjete za primjenu odredaba ovoga članka propisuje Narodna banka Hrvatske.
 
-##### Članak 25.
+#### Članak 25.
 
 (1) Banka može dioničaru, odnosno imatelju poslovnih udjela koji raspolaže s više od 5% dionica, odnosno poslovnih udjela banke koje daju pravo glasa u skupštini banke plasirati sredstva samo na temelju jednoglasne odluke uprave banke uz prethodnu suglasnost nadzornog odbora banke, ako ta sredstva ne premašuju iznos od 5% jamstvenog kapitala banke.
 
@@ -338,7 +336,7 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 (5) U slučaju da se kredit odobri protivno odredbama stavka 1., 2. i 3. ovoga članka, obveze vraćanja cijelog iznosa odobrenog kredita dospijevaju odmah.
 
-##### Članak 26.
+#### Članak 26.
 
 (1) Banka može odobravati kredite članovima uprave, nadzornog odbora, prokuristima i članovima njihovih užih obitelji samo na temelju jednoglasne odluke nadzornog odbora.
 
@@ -348,7 +346,7 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 (4) U slučaju da se kredit dade protivno odredbi stavka 1., 2. i 3. ovoga članka, vraćanje kredita odmah dospijeva.
 
-##### Članak 27.
+#### Članak 27.
 
 (1) Ulaganje banke u zemljišta, zgrade, opremu, uređenje poslovnih prostorija, vlasničke uloge u bankama i drugim trgovačkim društvima ne smije premašiti iznos od 70% jamstvenog kapitala.
 
@@ -360,19 +358,19 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 (5) Narodna banka Hrvatske može odobriti iznimke od primjene odredbi stavka 1. i 2. ovoga članka, a također može na zahtjev pojedine banke dopustiti da privremeno iz posebnih razloga ne postupi po odredbi stavka 1. i 2. ovoga članka.
 
-##### Članak 28.
+#### Članak 28.
 
 (1) Ako banka u svojem poslovanju ne udovoljava uvjetima iz članka 23., 24. i 27. ovoga Zakona, Narodna banka Hrvatske može takvoj banci za vrijeme dok ne udovolji navedenim uvjetima ograničiti, odnosno zabraniti isplatu dividende i odobravanje kredita.
 
 (2) Odluke o isplati dividende dok traje zabrana iz stavka 1. ovoga članka su ništave i ne proizvode pravne učinke.
 
-##### Članak 29.
+#### Članak 29.
 
 (1) Radi pokrića rizika iz poslovanja banke formiraju se rezerve banke.
 
 (2) Sredstva rezervi banke koriste se za otpis nenaplativih potraživanja, za pokriće gubitaka koji proizlaze iz poslovanja banke i drugih rizika.
 
-##### Članak 30.
+#### Članak 30.
 
 (1) Radi osiguranja sigurnosti poslovanja banka mora, pored sredstava rezervi iz članka 29. ovoga Zakona, formirati posebne rezerve za osiguranje od potencijalnih gubitaka koji proizlaze iz rizičnih plasmana i odgovarajućih izvanbilančnih stavaka.
 
@@ -380,7 +378,7 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 *5. 2. Likvidnost banke*
 
-##### Članak 31.
+#### Članak 31.
 
 (1) Banka je dužna poslovati tako da održava u svako doba vlastitu solventnost i likvidnost.
 
@@ -388,17 +386,17 @@ Banka mora radi osiguranja obveza prema svojim vjerovnicima raspolagati s odgova
 
 *5. 3. Poslovanje sa štednim ulozima*
 
-##### Članak 32.
+#### Članak 32.
 
 Banka koja se bavi poslovima štednje mora štedne uloge svakog štediše osigurati pri državnoj instituciji ovlaštenoj za osiguranje štednih uloga u bankama do ukupnog iznosa kojeg propiše ministar financija.
 
-##### Članak 33.
+#### Članak 33.
 
 Banka koja se bavi poslovima štednje mora na vidljivom mjestu objaviti važeće kamatne stope te opće uvjete poslovanja sa štednim ulozima.
 
 ### 6. UPRAVA BANKE
 
-##### Članak 34.
+#### Članak 34.
 
 (1) Poslove banke vodi uprava banke.
 
@@ -406,7 +404,7 @@ Banka koja se bavi poslovima štednje mora na vidljivom mjestu objaviti važeće
 
 (3) Jedan od članova uprave banke imenuje se za predsjednika uprave banke odlukom nadzornog odbora banke.
 
-##### Članak 35.
+#### Članak 35.
 
 (1) Za imenovanje predsjednika i članova uprave banke potrebna je prethodna suglasnost Narodne banke Hrvatske.
 
@@ -418,19 +416,19 @@ Banka koja se bavi poslovima štednje mora na vidljivom mjestu objaviti važeće
 
 ### 7. RAČUNOVODSTVO I REVIZIJA U BANKAMA
 
-##### Članak 36.
+#### Članak 36.
 
 Banka je dužna sastavljati financijska izvješća i godišnje izvješće po propisima o računovodstvu.
 
-##### Članak 37.
+#### Članak 37.
 
 Godišnje izvješće banke, uključivši i vođenje poslovnih knjiga mora provjeriti i ocijeniti ovlašteni revizor.
 
-##### Članak 38.
+#### Članak 38.
 
 Banke su dužne Narodnoj banci Hrvatske prijaviti revizore koje su izabrale.
 
-##### Članak 39.
+#### Članak 39.
 
 (1) Na osnovi obavljene revizije, ovlašteni revizor sastavlja izvješće o obavljenoj reviziji koje dostavlja nadzornom odboru banke i upravi banke u roku od pet mjeseci po isteku kalendarske godine.
 
@@ -440,11 +438,11 @@ Banke su dužne Narodnoj banci Hrvatske prijaviti revizore koje su izabrale.
 
 (4) U slučaju ponovljene negativne ocjene, Narodna banka Hrvatske može imenovati drugog revizora na teret banke.
 
-##### Članak 40.
+#### Članak 40.
 
 Ako revizor ustanovi činjenice koje ugrožavaju opstanak banke ili mogu značajno utjecati na njen razvoj ili dokazuju teške povrede zakona ili statuta, mora to neodložno prijaviti Narodnoj banci Hrvatske. Na zahtjev Narodne banke Hrvatske revizor je obvezan objasniti joj svoje izvješće i priopćiti joj i druga svoja saznanja o otkrivenim činjenicama koje ukazuju na neprimjerno vođenje poslova.
 
-##### Članak 41.
+#### Članak 41.
 
 (1) Svaka banka mora organizirati službu za unutarnju kontrolu.
 
@@ -454,11 +452,11 @@ Ako revizor ustanovi činjenice koje ugrožavaju opstanak banke ili mogu značaj
 
 ### 8. NADZOR U BANKAMA
 
-##### Članak 42.
+#### Članak 42.
 
 Provođenje ovoga Zakona u poslovanju banaka nadzire Narodna banka Hrvatske.
 
-##### Članak 43.
+#### Članak 43.
 
 Narodna banka Hrvatske ovlaštena je:
 
@@ -466,7 +464,7 @@ Narodna banka Hrvatske ovlaštena je:
 
 2. prema potrebi tražiti od banke sazivanje nadzornog odbora banke i sudjelovati u njegovom radu preko svoga predstavnika.
 
-##### Članak 44.
+#### Članak 44.
 
 (1) Osobe zaposlene u Narodnoj banci Hrvatske ne smiju o činjenicama koje saznaju u tijeku svoga rada, a za čiju su tajnost zainteresirane banke i njezini komitenti učiniti dostupnima trećim osobama ili se njima okoristiti.
 
@@ -474,13 +472,13 @@ Narodna banka Hrvatske ovlaštena je:
 
 ### 9. BANKARSKA TAJNA
 
-##### Članak 45.
+#### Članak 45.
 
 (1) Članovi uprava i nadzornih odbora banaka kao i sve osobe u stalnoj i povremenoj službi u banci moraju čuvati tajnu o poslovima banke. To se posebno odnosi na imena i adrese komitenata, visinu i vrstu uloga i obveza, stanje depozita te broj i vrstu čuvanih vrijednosnih papira ili drugih predmeta. Obveze čuvanja tajni postoje i nakon prestanka rada u banci.
 
 (2) Revizori i druge institucije i osobe ovlaštene za reviziju banaka obvezne su čuvati tajnu o poslovima banaka i komitenata, s kojima se upoznaju kroz svoju djelatnost.
 
-##### Članak 46.
+#### Članak 46.
 
 (1) Podaci o štednim ulozima i o svim depozitima građana te o poslovanju preko tekućih računa građana poslovna su tajna banke i mogu se priopćavati samo na pisani zahtjev suda, ako je protiv vlasnika uloga, računa ili depozita pokrenut sudski postupak ili ako je to potrebno radi zaštite interesa banke.
 
@@ -488,27 +486,25 @@ Narodna banka Hrvatske ovlaštena je:
 
 (3) Podaci o štednim ulozima i depozitima te poslovanju preko tekućih računa i žiro-računa građana poslovna su tajna banke i priopćavaju se pod uvjetima iz stavka 1. i 2. ovoga članka, osim ako u drugim zakonima nije drukčije određeno.
 
-##### Članak 47.
+#### Članak 47.
 
 Odredbe članka 45. i 46. ovoga Zakona ne primjenjuju se glede dužnosti banaka o davanju podataka Narodnoj banci Hrvatske u obavljanju nadzora nad poslovanjem banaka.
 
-## GLAVA II.
+## GLAVA II. — ŠTEDIONICA
 
-#### ŠTEDIONICA
-
-##### Članak 48.
+#### Članak 48.
 
 Radi prikupljanja štednje i obavljanja dijela bankovnih poslova, pravne i fizičke osobe mogu osnovati štedionicu.
 
-##### Članak 49.
+#### Članak 49.
 
 Štedionica je financijska institucija koja se osniva kao dioničko društvo ili kao društvo s ograničenom odgovornošću.
 
-##### Članak 50.
+#### Članak 50.
 
 Temeljni kapital štedionice koja se osniva ne može u novcu iznositi manje od 3. 600. 000,00 kuna.
 
-##### Članak 51.
+#### Članak 51.
 
 (1) Štedionica prikuplja štedne uloge građana, vodi žiro-račune, tekuće račune i depozitno poslovanje građana, radnji i fizičkih osoba čija je djelatnost registrirana sukladno Zakonu o obrtu, obavlja poslove platnog prometa za građane, radnje i fizičke osobe, te odobrava kredite u prvom redu građanima.
 
@@ -518,7 +514,7 @@ Temeljni kapital štedionice koja se osniva ne može u novcu iznositi manje od 3
 
 (4) Na poslovanje štedionica na odgovarajući se način primjenjuju odredbe članka 61. stavka 2. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata ("Narodne novine", br. 91A/93. ).
 
-##### Članak 52.
+#### Članak 52.
 
 (1) Za osnivanje i poslovanje štedionice potrebno je odobrenje za rad.
 
@@ -526,37 +522,35 @@ Temeljni kapital štedionice koja se osniva ne može u novcu iznositi manje od 3
 
 (3) Na izdavanje odobrenja za rad štedionice odgovarajuće se primjenjuju odredbe članka 10. i 13. ovoga Zakona.
 
-##### Članak 53.
+#### Članak 53.
 
 (1) Poslove štedionice vodi uprava štedionice.
 
 (2) Na upravu štedionice odgovarajuće se primjenjuju odredbe članka 34. i 35. ovoga Zakona.
 
-##### Članak 54.
+#### Članak 54.
 
 (1) Štedionica ima nadzorni odbor.
 
 (2) Broj članova i nadležnost nadzornog odbora štedionice utvrđuje se statutom štedionice.
 
-##### Članak 55.
+#### Članak 55.
 
 Pored odredbi članaka 48. do 54. ovoga Zakona, na štedionice se na odgovarajući način primjenjuju i ostale odredbe ovoga Zakona.
 
-## GLAVA III.
+## GLAVA III. — OSTALE ODREDBE
 
-#### OSTALE ODREDBE
-
-##### Članak 56.
+#### Članak 56.
 
 Ako zakonom nije drukčije određeno, pravne osobe koje nisu osnovane po odredbama ovoga Zakona ne mogu prikupljati štednju te voditi žiro-račune i tekuće račune građana.
 
-##### Članak 57.
+#### Članak 57.
 
 (1) U registar nadležnog suda ne smije se upisati naziv koji u sebi sadrži naziv "banka" ili "štedionica" ili izvedenicu iz ovih riječi ako pravna osoba nije registrirana u skladu s ovim Zakonom.
 
 (2) Poslove iz članka 3. stavka 1. točke 1. do 6. i članka 51. stavka 1. ovoga Zakona mogu kao svoju djelatnost obavljati i kao svoju djelatnost upisati u registar nadležnog suda samo banke i štedionice, osim ako drugim zakonom to nije drukčije propisano.
 
-##### Članak 58.
+#### Članak 58.
 
 (1) Banke se radi zaštite vlastitih interesa mogu udruživati u udruge.
 
@@ -564,11 +558,9 @@ Ako zakonom nije drukčije određeno, pravne osobe koje nisu osnovane po odredba
 
 (3) Dogovori o uvjetima, kamatama, provizijama ili taksama zahtijevaju, da bi bili važeći, prethodno odobrenje Narodne banke Hrvatske.
 
-## GLAVA IV.
+## GLAVA IV. — KAZNENE ODREDBE
 
-#### KAZNENE ODREDBE
-
-##### Članak 59.
+#### Članak 59.
 
 (1) Prekršaj čini banka, odnosno štedionica:
 
@@ -604,17 +596,15 @@ Ako zakonom nije drukčije određeno, pravne osobe koje nisu osnovane po odredba
 
 (4) Uz novčanu kaznu osobama iz stavka 3. ovoga članka za prekršaj iz stavka 1. točke 1., 2., 4., 5., 6., 7., 8., 9., 10. i 13. ovoga članka izriče se zaštitna mjera zabrane obavljanja istih dužnosti u banci, odnosno štedionici za vrijeme od dvije godine.
 
-## GLAVA V.
+## GLAVA V. — PRIJELAZNE I ZAVRŠNE ODREDBE
 
-#### PRIJELAZNE I ZAVRŠNE ODREDBE
-
-##### Članak 60.
+#### Članak 60.
 
 (1) Banke osnovane po odredbama Zakona o bankama i drugim financijskim organizacijama ("Narodne novine", br. 53/91. ) danom stupanja na snagu Zakona o bankama i štedionicama ("Narodne novine", br. 94/93. ), nastavljaju s radom na način i pod uvjetima pod kojima su upisane u sudski registar.
 
 (2) Banke iz stavka 1. ovoga članka dužne su uskladiti svoju organizaciju, upravljanje i akte s odredbama Zakona o trgovačkim društvima najkasnije do 30. lipnja 1995. godine.
 
-##### Članak 61.
+#### Članak 61.
 
 (1) Banke iz članka 60. ovoga Zakona dužne su uskladiti svoje poslovanje s uvjetima poslovanja propisanim ovim Zakonom na način koji propiše Narodna banka Hrvatske, najkasnije do 31. prosinca 1994. godine.
 
@@ -622,29 +612,29 @@ Ako zakonom nije drukčije određeno, pravne osobe koje nisu osnovane po odredba
 
 (3) U slučaju da banka iz članka 60. ovoga Zakona ne uskladi svoje poslovanje i visinu temeljnog kapitala prema odredbama stavka 1. i 2. ovoga članka, Narodna banka Hrvatske može pokrenuti postupak za ocjenu mogućnosti i ekonomske opravdanosti sanacije i restrukturiranja banke.
 
-##### Članak 62.
+#### Članak 62.
 
 (1) Štedionice koje posluju na dan stupanja na snagu Zakona o bankama i štedionicama ("Narodne novine", br. 94/93. ), dužne su organizirati se po Zakonu o trgovačkim društvima, uskladiti svoje poslovanje i visinu osnivačkog kapitala s odredbama Zakona o bankama i štedionicama ("Narodne novine", br. 94/93. ) i zatražiti odobrenje za rad od Narodne banke Hrvatske najkasnije do 30. lipnja 1995. godine.
 
 (2) U slučaju da štedionica u roku iz stavka 1. ovoga članka ne dobije odobrenje za rad, gubi status pravne osobe i briše se iz sudskog registra po službenoj dužnosti.
 
-##### Članak 63.
+#### Članak 63.
 
 Do osnivanja državne institucije ovlaštene za osiguranje štednih uloga u bankama, banke i štedionice će štedne uloge štediša osigurati po odredbi članka 32. ovoga Zakona kod društava za osiguranje koja posluju na teritoriju Republike Hrvatske koje odredi ministar financija.
 
-##### Članak 64.
+#### Članak 64.
 
 Odredbe članka 34., 35., 53. i 54. primjenjivat će se od stupanja na snagu Zakona o trgovačkim društvima.
 
-##### Članak 65.
+#### Članak 65.
 
 Na dan stupanja na snagu Zakona o bankama i štedionicama ("Narodne novine", br. 94/93. ) prestaje važiti Zakon o bankama i drugim financijskim organizacijama ("Narodne novine", br. 53/91. ) osim odredbi članka 39. dok 49a. koji će prestati važiti stupanjem na snagu Zakona o trgovačkim društvima i članak 53. Zakona o izmjenama i dopunama Zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje ("Narodne novine", br. 26/93. ).
 
-##### Članak 66.
+#### Članak 66.
 
 Stupanjem na snagu Zakona o izmjenama i dopunama Zakona o bankama i štedionicama ("Narodne novine", br. 90/96. ) prestaje važiti Uredba o izmjeni Zakona o bankama i štedionicama ("Narodne novine", br. 24/96. ).
 
-##### Članak 67.
+#### Članak 67.
 
 Banke i štedionice dužne su uskladiti svoje poslovanje s uvjetima poslovanja propisanim člankom 25. ovoga Zakona najkasnije u roku od godinu dana od stupanja na snagu Zakona o izmjenama i dopunama Zakona o bankama i štedionicama ("Narodne novine", br. 90/96. ).
 

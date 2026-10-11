@@ -45,13 +45,11 @@ akademik Vlatko Pavletić, v. r.
 
 **O IZVRŠAVANJU ZAŠTITNOG NADZORA I RADA ZA OPĆE DOBRO NA SLOBODI**
 
-## GLAVA I.
-
-### UVODNE ODREDBE
+## GLAVA I. — UVODNE ODREDBE
 
 *Osnovne odredbe*
 
-#### Članak 1.
+### Članak 1.
 
 (1) Ovim se Zakonom uređuje izvršavanje kaznenopravnih sankcija uvjetne osude sa zaštitnim nadzorom (u daljnjem tekstu: zaštitni nadzor) i zamjene kazne zatvora do šest mjeseci radom za opće dobro na slobodi (u daljnjem tekstu: rad za opće dobro).
 
@@ -61,7 +59,7 @@ akademik Vlatko Pavletić, v. r.
 
 *Započinjanje, mjesto i troškovi izvršavanja zaštitnog nadzora i rada za opće dobro*
 
-#### Članak 2.
+### Članak 2.
 
 (1) Izvršavanje zaštitnog nadzora i rada za opće dobro prema osuđeniku započinje nakon pravomoćnosti sudske presude.
 
@@ -73,13 +71,13 @@ akademik Vlatko Pavletić, v. r.
 
 *Obveze državnih tijela i drugih osoba*
 
-#### Članak 3.
+### Članak 3.
 
 Državna tijela, ustanove i druge pravne osobe dužne su surađivati s Ministarstvom pravosuđa u izvršavanju zaštitnog nadzora i rada za opće dobro kad to Ministarstvo od njih zatraži.
 
 *Nadležnost za izvršavanje zaštitnog nadzora i rada za opće dobro*
 
-#### Članak 4.
+### Članak 4.
 
 (1) Ministarstvo pravosuđa neposredno poduzima mjere za poboljšanje izvršavanja zaštitnog nadzora i rada za opće dobro, pruža stručnu pomoć, prikuplja i obrađuje statističke podatke, te obavlja i druge poslove propisane ovim Zakonom i drugim propisima.
 
@@ -91,17 +89,15 @@ Državna tijela, ustanove i druge pravne osobe dužne su surađivati s Ministars
 
 *Svrha izvršavanja*
 
-#### Članak 5.
+### Članak 5.
 
 Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažavajući opću svrhu kaznenopravnih sankcija, osuđenik kojemu je određenim uvjetima i obvezama ograničena sloboda ne isključi iz društva, već da uz pomoć i nadzor društvene zajednice, dragovoljno, osobnim postupcima, radom i odnosom prema posljedicama izazvanim počinjenim djelom razvije svijest o štetnosti određenih ponašanja i odgovornosti za štetne posljedice.
 
-## GLAVA II.
-
-### NAČELA IZVRŠAVANJA ZAŠTITNOG NADZORA I RADA ZA OPĆE DOBRO
+## GLAVA II. — NAČELA IZVRŠAVANJA ZAŠTITNOG NADZORA I RADA ZA OPĆE DOBRO
 
 *Zabrana nezakonitog postupanja i diskriminacije*
 
-#### Članak 6.
+### Članak 6.
 
 (1) Zaštitni nadzor i rad za opće dobro izvršavaju se na način koji osuđeniku i njegovoj obitelji jamči poštivanje ljudskog dostojanstva, temeljnih prava i sloboda i privatnosti. Zabranjuje se diskriminacija neovisno o rasi, boji kože, spolu, jeziku, vjeri, političkom ili drugom uvjerenju, nacionalnom ili socijalnom podrijetlu, imovini, rođenju, naobrazbi, društvenom položaju ili drugim osobinama.
 
@@ -109,19 +105,17 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Pojedinačni program izvršavanja*
 
-#### Članak 7.
+### Članak 7.
 
 (1) Zaštitni nadzor, odnosno rad za opće dobro izvršavaju se prema pojedinačnom programu izvršavanja.
 
 (2) Pojedinačni program izvršavanja zaštitnog nadzora, odnosno rada za opće dobro temelji se na ocjeni osobnosti, osobnih prilika, zdravstvenog stanja, zaposlenja, sposobnosti i stručnosti osuđenika.
 
-## GLAVA III.
-
-### TIJELA, OSOBE I NAČIN IZVRŠAVANJA — ZAŠTITNOG NADZORA I RADA ZA OPĆE DOBRO
+## GLAVA III. — TIJELA, OSOBE I NAČIN IZVRŠAVANJA — ZAŠTITNOG NADZORA I RADA ZA OPĆE DOBRO
 
 *Povjerenik*
 
-#### Članak 8.
+### Članak 8.
 
 (1) Poslove izvršavanja zaštitnog nadzora i rada za opće dobro obavljaju državni službenici Ministarstva pravosuđa.
 
@@ -147,7 +141,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Pomoćnik povjerenika*
 
-#### Članak 9.
+### Članak 9.
 
 (1) U radu na izvršavanju zaštitnog nadzora i rada za opće dobro povjerenicima pomažu pomoćnici povjerenika, koji se u poslove uključuju dragovoljno.
 
@@ -161,7 +155,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Djelokrug i odgovornost pomoćnika povjerenika*
 
-#### Članak 10.
+### Članak 10.
 
 (1) Pomoćnika povjerenika iz članka 9. stavka 3. ovoga Zakona određuje i u postupak izvršavanja zaštitnog nadzora, odnosno rada za opće dobro uključuje povjerenik.
 
@@ -171,13 +165,11 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 (4) Pravilnik o izboru, načinu rada, odgovornosti, izobrazbi i evidenciji pomoćnika povjerenika donosi ministar pravosuđa.
 
-## GLAVA IV.
-
-### IZVRŠAVANJE ZAŠTITNOG NADZORA
+## GLAVA IV. — IZVRŠAVANJE ZAŠTITNOG NADZORA
 
 *Imenovanje povjerenika*
 
-#### Članak 11.
+### Članak 11.
 
 (1) Pravomoćnu i izvršnu presudu sud će u roku od tri dana od dana pravomoćnosti dostaviti Ministarstvu pravosuđa na izvršavanje.
 
@@ -185,7 +177,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Ovlasti i obveze povjerenika*
 
-#### Članak 12.
+### Članak 12.
 
 (1) Povjerenik je dužan osuđeniku unutar odmjerenog vremena provjeravanja pružati potrebnu pomoć, zaštitu i nadzor, te u suradnji sa sudom nadgledati ispunjavanje obveza određenih u uvjetnoj osudi.
 
@@ -199,7 +191,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Matica*
 
-#### Članak 13.
+### Članak 13.
 
 (1) Povjerenik vodi maticu osuđenika.
 
@@ -211,7 +203,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Osobnik osuđenika*
 
-#### Članak 14.
+### Članak 14.
 
 (1) Za svakog osuđenika povjerenik vodi osobnik.
 
@@ -243,7 +235,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Postupak preispitivanja izvršavanja zaštitnog nadzora*
 
-#### Članak 15.
+### Članak 15.
 
 (1) Kad sud primi izvješće povjerenika o težim povredama ili ustrajnom neispunjavanju određenih obveza od strane osuđenika, pokrenut će rješenjem postupak preispitivanja izvršavanja zaštitnog nadzora po službenoj dužnosti odmah, a najkasnije u roku od tri dana od primitka izvješća.
 
@@ -257,7 +249,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Žalba protiv prvostupanjskog rješenja*
 
-#### Članak 16.
+### Članak 16.
 
 (1) Protiv rješenja iz članka 15. stavka 4. ovoga Zakona žalbu mogu podnijeti povjerenik i osuđenik, u roku od osam dana od primitka rješenja.
 
@@ -267,7 +259,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Prigovor osuđenika*
 
-#### Članak 17.
+### Članak 17.
 
 (1) Osuđenik ima pravo prigovora na rad povjerenika i njegovih pomoćnika.
 
@@ -277,13 +269,11 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 (4) Ministarstvo pravosuđa dužno je postupiti po rješenju iz stavka 2. ovoga članka u roku od tri dana od njegova primitka.
 
-## GLAVA V.
-
-### IZVRŠAVANJE RADA ZA OPĆE DOBRO
+## GLAVA V. — IZVRŠAVANJE RADA ZA OPĆE DOBRO
 
 *Imenovanje povjerenika i raspoređivanje na rad za opće dobro*
 
-#### Članak 18.
+### Članak 18.
 
 (1) Pravomoćnu i izvršnu presudu o zamjeni kazne zatvora radom za opće dobro sud će u roku od tri dana dostaviti Ministarstvu pravosuđa na izvršavanje.
 
@@ -293,7 +283,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Ugovor za izvršavanje rada za opće dobro*
 
-#### Članak 19.
+### Članak 19.
 
 (1) Ministarsvo pravosuđa sklapa ugovore s tijelima državne vlasti, ustanovama i drugim pravnim osobama za izvršavanje rada za opće dobro.
 
@@ -303,7 +293,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Uvjeti rada za opće dobro na slobodi*
 
-#### Članak 20.
+### Članak 20.
 
 (1) Osuđenika će se, ovisno o raspoloživim mogućnostima, rasproediti na rad u skladu s njegovim zdravstvenim sposobnostima, stručnoj osposobljenosti i stečenim znanjima.
 
@@ -317,7 +307,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Odgoda i prekid izvršavanja rada za opće dobro*
 
-#### Članak 21.
+### Članak 21.
 
 (1) Izvršavanje rada za opće dobro može biti odgođeno ili prekinuto na zamolbu osuđenika, njegova branitelja ili centra za socijalnu skrb. Zamolba se podnosi sudu. Primjerak zamolbe dostavlja se povjereniku.
 
@@ -329,7 +319,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Razlozi i trajanje odgode i prekida izvršavanja rada za opće dobro*
 
-#### Članak 22.
+### Članak 22.
 
 (1) Razlozi za odgodu ili prekid izvršavanja rada za opće dobro jesu:
 
@@ -351,7 +341,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Ovlasti i obveze povjerenika*
 
-#### Članak 23.
+### Članak 23.
 
 (1) Povjerenik je dužan osuđenika uvesti u posao, pružiti mu potrebnu pomoć i zaštitu, te u suradnji sa sudom nadgledati ispunjenje obveze rada.
 
@@ -367,7 +357,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Zanemarivanje obveze rada*
 
-#### Članak 24.
+### Članak 24.
 
 (1) Zanemarivanje obveze rada jest: kašnjenje na rad, neopravdano izbivanje s rada, napuštanje rada i namjerno dovođenje sebe u stanje umanjene radne sposobnosti, namjerno oštećenje sredstava za rad, nepoštivanje organizacije i načina rada, ponašanje i odnosi sa zaposlenicima poslodavca ili korisnicima rada koji ne pridonose ostvarenju posebnog cilja toga rada.
 
@@ -377,7 +367,7 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Postupak preispitivanja izvršavanja rada za opće dobro*
 
-#### Članak 25.
+### Članak 25.
 
 (1) Kad sud primi izvješće povjerenika o zanemarivanju obveze rada, odnosno o namjeri poslodavca iz članka 24. stavka 3. ovoga Zakona, pokrenut će rješenjem postupak preispitivanja izvršavanja rada za opće dobro po službenoj dužnosti u skladu s odredbama članka 15. ovoga Zakona.
 
@@ -387,17 +377,15 @@ Svrha izvršavanja zaštitnog nadzora i rada za opće dobro jest da se, uvažava
 
 *Žalba protiv prvostupanjskog rješenja*
 
-#### Članak 26.
+### Članak 26.
 
 Protiv rješenja iz članka 25. stavka 2. ovoga Zakona dopuštena je žalba o kojoj se odlučuje prema odredbama članka 16. ovoga Zakona.
 
-## GLAVA VI.
-
-### PRIJELAZNE I ZAVRŠNE ODREDBE
+## GLAVA VI. — PRIJELAZNE I ZAVRŠNE ODREDBE
 
 *Provedbeni propisi*
 
-#### Članak 27.
+### Članak 27.
 
 Ministar pravosuđa u roku od tri mjeseca od stupanja na snagu ovoga Zakona donijet će:
 
@@ -413,13 +401,13 @@ Ministar pravosuđa u roku od tri mjeseca od stupanja na snagu ovoga Zakona doni
 
 *Prestanak važenja dosadašnjeg propisa*
 
-#### Članak 28.
+### Članak 28.
 
 Stupanjem na snagu ovoga Zakona prestaje važiti glava XIIa. Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje (»Narodne novine«, br. 21/74., 39/74., 55/88., 19/90., 26/93., 66/93. i 29/94.).
 
 *Stupanje na snagu*
 
-#### Članak 29.
+### Članak 29.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se protekom roka od tri mjeseca od dana stupanja na snagu.
 

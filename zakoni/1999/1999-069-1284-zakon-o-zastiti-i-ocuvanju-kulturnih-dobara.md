@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-05
+last_amended: 2003-09-24
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "69/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "69/99, 151/03"
+amendments:
+  - "NN 151/2003 (2180) Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1284"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti i očuvanju kulturnih dobara
 
 > Izvor: Narodne novine, NN 69/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1284).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 151/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1286,3 +1290,462 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara (NN 151/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2180*
+
+HRVATSKI SABOR
+
+2180
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI I OČUVANJU KULTURNIH DOBARA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti i očuva­nju kulturnih dobara, koji je donio Hrvatski sabor na sjednici 10. rujna 2003.
+
+Broj: 01-081-03-3103/2  
+Zagreb, 15. rujna 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI I OČUVANJU KULTURNIH DOBARA**
+
+### Članak 1.
+
+U Zakonu o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, br. 69/99.) u članku 12. stavku 5. dodaje se rečenica koja glasi: »Rješenje o žalbi donosi ministar kulture.«
+
+### Članak 2.
+
+U članku 13. stavku 5. dodaje se rečenica koja glasi: »Rješenje o žalbi donosi ministar kulture.«
+
+### Članak 3.
+
+Iza članka 37. dodaje se članak 37.a koji glasi:
+
+»Članak 37.a
+
+U slučaju kada se kulturno dobro prodaje na aukciji organizator aukcije dužan je obavijestiti ovlaštenike prava prvokupa iz članka 37. ovoga Zakona 30 dana prije održavanja aukcije o svim početnim uvjetima prodaje kulturnoga dobra putem aukcije, te o mjestu i vremenu održavanja aukcijske prodaje.
+
+Predstavnik ovlaštenika prava prvokupa iz članka 37. ovoga Zakona može iskoristiti pravo prvokupa sukladno ovom Zakonu nakon utvrđivanja prodajne cijene kulturnoga dobra na aukciji, a najkasnije do okončanja aukcijske prodaje.
+
+Organizator aukcijske prodaje dužan je nakon utvrđivanja cijene za kulturno dobro koje je bilo predmet aukcije, zatražiti od prisutnih predstavnika ovlaštenika iz članka 37. ovoga Zakona očitovanje o korištenju prava prvokupa.«
+
+### Članak 4.
+
+Iza članka 43. dodaje se podnaslov:
+
+»6. Koncesije i koncesijska odobrenja na kulturnim dobrima« i članci 43a., 43b., 43c., 43d., 43e., 43f., 43g., 43h., 43i., 43j. i 43k., koji glase:
+
+»Članak 43.a
+
+Koncesijom se stječe pravo na gospodarsko korištenje nepokretnoga kulturnog dobra ili pravo obavljanja gospodarskih djelatnosti u vezi s nepokretnim kulturnim dobrom koje je u vlasništvu Republike Hrvatske, županije, Grada Zagreba, grada ili općine.
+
+Na pitanja koncesije koja nisu uređena ovim Zakonom primjenjuju se posebni propisi ako nisu u suprotnosti s odredbama ovoga Zakona.
+
+### Članak 43.b
+
+Koncesija se dodjeljuje na temelju javnog natječaja što ga raspisuje vlasnik kulturnoga dobra. Za kulturna dobra u vlas­niš­tvu Republike Hrvatske natječaj raspisuje Ministarstvo kulture.
+
+Javni natječaj iz stavka 1. ovoga članka mora sadržavati uvjete zaštite i očuvanja kulturnih dobara koje utvrđuje nadležno tijelo. Na druge uvjete natječaja obvezna je prethodna suglasnost nadležnoga tijela.
+
+Koncesija se dodjeljuje na određeno vrijeme, ali ne dulje od 30 godina.
+
+### Članak 43.c
+
+Odluku o koncesiji donosi vlasnik kulturnoga dobra u skladu s uvjetima iz javnog natječaja. Odluku o koncesiji na kulturnom dobru u vlasništvu Republike Hrvatske donosi Ministarstvo kulture.
+
+Odlukom o koncesiji utvrđuje se osobito:
+
+– kulturno dobro na koje se koncesija odnosi,
+
+– korisnik koncesije,
+
+– uvjeti zaštite i očuvanja kulturnoga dobra koje je utvrdilo nadležno tijelo,
+
+– namjena i vrijeme trajanja koncesije uz prethodno pribav­ljenu suglasnost nadležnoga tijela, te
+
+– visina naknade ili osnova za određivanje visine naknade.
+
+### Članak 43.d
+
+Na osnovi odluke o koncesiji zaključuje se ugovor o koncesiji.
+
+Ugovorom o koncesiji se u skladu s odlukom o koncesiji obvezno utvrđuju:
+
+– namjene i vrijeme trajanja koncesije,
+
+– uvjeti zaštite i očuvanja kulturnoga dobra, te način njihove provedbe od strane korisnika koncesije,
+
+– visina, uvjeti i način plaćanja naknade za koncesiju,
+
+– jamstva korisnika koncesije,
+
+– druga prava i obveze korisnika i davatelja koncesije, te
+
+– razlozi za raskid ugovora o koncesiji prije isteka roka na koji je koncesija dodijeljena.
+
+Odredbe ugovora o koncesiji ne smiju biti u suprotnosti s odlukom o koncesiji. Odredbe ugovora koje su u suprotnosti s odlukom o koncesiji ništave su.
+
+### Članak 43.e
+
+Prava i obveze korisnika koncesije utvrđene ugovorom o koncesiji mogu se prenijeti na drugu osobu uz pisanu suglasnost davatelja koncesije i nadležnoga tijela.
+
+Za vrijeme trajanja koncesije mogu se promijeniti uvjeti i namjena koncesije aneksom ugovora o koncesiji uz suglasnost nadležnoga tijela.
+
+### Članak 43.f
+
+Ugovor o koncesiji smatra se raskinutim:
+
+– istekom vremena na koje je koncesija dodijeljena,
+
+– smrću fizičke ili prestankom pravne osobe korisnika koncesije, ako se prava i obveze iz ugovora o koncesiji ne prenesu u roku od 30 dana, sukladno članku 43.e stavku 1. ovoga Zakona,
+
+– ako nadležno tijelo utvrdi da korisnik koncesije ne provodi mjere zaštite i očuvanja kulturnoga dobra koje je utvrdilo nadležno tijelo, ili postupa suprotno tim uvjetima,
+
+– ako je korisniku koncesije pravomoćnom odlukom suda ili upravnoga tijela zabranjeno obavljanje djelatnosti za koju je koncesija dodijeljena, te
+
+– sporazumnim raskidom ugovora o koncesiji.
+
+### Članak 43.g
+
+Ugovor o koncesiji može se raskinuti prije isteka vremena na koji je koncesija dodijeljena:
+
+– ako korisnik koncesije nije u roku započeo, odnosno dovršio radove na zaštiti i očuvanju kulturnoga dobra u skladu s ugovorom o koncesiji,
+
+– ako korisnik koncesije prestane kontinuirano obavljati djelatnost za koju je koncesija dodijeljena, a prava i obveze iz koncesije ne preuzme novi korisnik na način propisan zakonom, po isteku roka od šest mjeseci od dana kada je utvrđen prestanak obavljanja te djelatnosti, te
+
+– ako korisnik koncesije ne koristi kulturno dobro, odnosno ne obavlja dopuštenu djelatnost na način utvrđen uvjetima zaštite i očuvanja kulturnoga dobra.
+
+U slučaju spora o prestanku važenja ugovora o koncesiji odlučuje mjesno nadležni trgovački sud na čijem se području nalazi kulturno dobro.
+
+### Članak 43.h
+
+Korisnik koncesije s kojim je raskinut ugovor iz razloga određenih člancima 43.f i 43.g ovoga Zakona nema pravo na naknadu štete zbog raskida ugovora, te je dužan u roku od 60 dana od dana raskida ugovora predati kulturno dobro vlasniku.
+
+### Članak 43.i
+
+Korisnik koncesije dužan je poduzimati mjere zaštite i očuvanja kulturnoga dobra na način i pod uvjetima utvrđenim ovim Zakonom i na temelju njega donesenim propisima.
+
+Ako u tijeku trajanja koncesije na kulturnom dobru nastaju promjene zbog kojih je potrebno ograničiti opseg i trajanje koncesije, te način njenog provođenja, korisnik koncesije dužan je poduzeti sve radnje i mjere koje mu naloži nadležno tijelo.
+
+Koncesijska odobrenja
+
+### Članak 43.j
+
+Javna ustanova koja upravlja nepokretnim kulturnim dobrom može za obavljanje gospodarskih djelatnosti ili za korištenje kulturnoga dobra kojim upravlja, dati koncesijsko odobrenje.
+
+Koncesijsko odobrenje može se dati za obavljanje djelatnosti kojom se ne sprječava provedba mjera zaštite i očuvanja kulturnoga dobra. Koncesijsko odobrenje daje se najduže na godinu dana.
+
+Korisnik koncesijskog odobrenja dužan je prije zaključenja ugovora o koncesijskom odobrenju osigurati odgovarajuća jamstva glede provedbe mjera zaštite i očuvanja kulturnog dobra.
+
+Na osnovi odluke o koncesijskom odobrenju zaključuje se ugovor o koncesijskom odobrenju. Na ugovor o koncesijskom odobrenju na odgovarajući način se primjenjuju odredbe ovoga Zakona o ugovoru o koncesiji.
+
+Koncesijsko odobrenje javna ustanova daje uz prethodnu suglasnost nadležnoga tijela. Koncesijsko odobrenje mora sadržavati uvjete zaštite i očuvanja kulturnoga dobra što ih utvrđuje nadležno tijelo.
+
+Naknada za koncesijska odobrenja prihod su javne ustanove koja upravlja kulturnim dobrom.
+
+### Članak 43.k
+
+Za donošenje odluka o koncesijskom odobrenju duljem od 30 dana, raspisuje se javni natječaj. Natječaj raspisuje javna ustanova koja upravlja kulturnim dobrom.«
+
+### Članak 5.
+
+U članku 49. stavak 2. mijenja se i glasi:
+
+»Ministar kulture propisuje uvjete i način obavljanja arheoloških istraživanja, te postupak i način izdavanja dopuštenja za obavljanje podvodnih aktivnosti u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske u područjima gdje se nalaze kulturna dobra.«
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Nadzor nad obavljanjem podvodnih aktivnosti iz stavka 2. ovoga članka provode inspektori Ministarstva kulture i ovlaštene službene osobe lučke kapetanije i Ministarstva unutarnjih poslova.«
+
+### Članak 6.
+
+U članku 62. stavku 1. riječi: »kao i u njegovoj neposrednoj blizini« brišu se.
+
+### Članak 7.
+
+Iza članka 69. dodaje se članak 69.a koji glasi:
+
+»Članak 69a.
+
+Odredbe članka 67. – 69. ovoga Zakona odgovarajuće se primjenjuju i na sljedeće predmete:
+
+1. arheološki predmeti stariji od sto godina, te arheološka nalazišta i arheološke zbirke,
+
+2. predmeti stariji od sto godina koji čine sastavni dio umjetničkih, povijesnih ili vjerskih spomenika,
+
+3. slike i crteži u cijelosti ručno izrađeni na svakom mediju i materijalu, koji nisu obuhvaćeni podstavcima 4. i 5. ovoga članka,
+
+4. akvareli, gvaševi i pasteli ručno izrađeni na svakom materijalu,
+
+5. mozaici ručno izrađeni na svakom materijalu, drugačiji od onih navedenih u podstavcima 1. i 2. ovoga članka, te crteži izrađeni na svakom mediju odnosno materijalu,
+
+6. izvorne grafike, otisci, serigrafije i litografije s pripa­da­jućim pločama i plakatima,
+
+7. izvorne skulpture i plastike i kopije izrađene u istom postupku kao izvornici, različite od onih navedenih u podstavku 1. ovoga članka,
+
+8. fotografije, filmovi i pripadajući negativi,
+
+9. inkunabule i rukopisi, uključujući mape i muzičke note, pojedinačno ili kao zbirke,
+
+10. knjige starije od sto godina, pojedinačno i/ili kao zbirka,
+
+11. tiskane mape starije od 200 godina,
+
+12. arhivsko gradivo i njegovi dijelovi stariji od pedeset godina,
+
+13. zbirke i primjerci iz zooloških, botaničkih, mineraloških i anatomskih zbirki,
+
+14. zbirke od povijesnog, paleontološkog, etnografskog i numizmatičkog značenja,
+
+15. prijevozna sredstva starija od 75 godina,
+
+16. sve druge stare stvari koje nisu uključene u podstavke 1. do 15. ovoga članka koje su stare između pedeset i sto godina (igračke, igre, stakleni predmeti, predmeti od zlata i srebra, pokućstvo, optički, fotografski i kinematografski aparati, muzički instrumenti, satovi i njihovi dijelovi, drveni predmeti, lončarski predmeti, tapiserije, sagovi, tapete, oružje, te drugi dijelovi koji čine sastavni dio umjetničkih, povijesnih i vjerskih spomenika, a stariji su od sto godina).«
+
+### Članak 8.
+
+Iza članka 70. dodaje se podnaslov i članci 70.a – 70.e koji glase:
+
+»10.a Povrat kulturnih predmeta nezakonito odnesenih iz drugih zemalja
+
+### Članak 70.a
+
+Države članice Europske unije mogu u postupku propisanom ovim Zakonom zatražiti povrat kulturnih predmeta nezakonito odnesenih s njihova teritorija, ukoliko se oni nalaze na području Republike Hrvatske, a radi se o predmetima:
+
+1. koji su prije ili nakon nezakonitog odnošenja s teritorija države članice Europske unije zaštićeni kao nacionalno blago koje ima umjetničku, povijesnu ili arheološku vrijednost prema njihovom nacionalnom zakonodavstvu ili su takvima utvrđeni u njihovom administrativnom postupku, sukladno članku 36. Ugovora o osnivanju Europske zajednice,
+
+2. koji pripadaju u jednu od grupa predmeta navedenih u pravilniku iz stavka 2. ovoga članka, ili čine sastavni dio javnih zbirki navedenih u inventaru zbirki muzeja, arhiva i/ili knjižnica. Pod javnom zbirkom u smislu ove odredbe smatraju se sakralne zbirke i zbirke koje su imovina države članice Europske unije, odnosno lokalne ili područne jedinice vlasti države članice Europske unije, ili javne institucije sa sjedištem u državi članici Europske unije, te predstavljaju njezinu imovinu, ili je ta institucija značajno financirana od strane države članice Europske unije, odnosno lokalne ili područne jedinice vlasti.
+
+Popis grupe predmeta koji se mogu smatrati nacionalnim blagom u smislu stavka 1. ovoga članka, utvrđuje ministar kulture pravilnikom.
+
+Odredbom stavka 1. ovoga članka ne zadire se u pravo država koje nisu članice Europske unije da ostvaruju povrat kulturnih predmeta prema mnogostranim i dvostranim međuna­rod­nim ugovorima.
+
+### Članak 70.b
+
+Postupak povrata kulturnih predmeta koji su nezakonito odneseni s teritorija države članice Europske unije može pokrenuti država članica pred nadležnim sudom u Republici Hrvatskoj protiv posjednika, odnosno drugog imatelja kulturnog predmeta. Zahtjevu za pokretanje postupka mora biti priložena isprava s opisom predmeta na koji se zahtjev odnosi i izjava da je taj kulturni predmet zaštićen prema nacionalnom zakonodavstvu, te izjava nadležnih vlasti države članice Europske unije da je kulturni predmet nezakonito odnesen sa njezinog teritorija na dan 1. siječnja 1993. ili nakon toga.
+
+Postupak iz stavka 1. ovoga članka može se pokrenuti u roku od godine dana od kada je država članica Europske unije saznala za mjesto na kojemu se kulturni premet nalazi i identitet njegova posjednika, odnosno drugog imatelja, a najdulje u roku od 30 godina od kada je kulturni predmet nezakonito odnesen iz države članice.
+
+U slučaju kada kulturni predmet čini dio javne zbirke iz članka 70.a stavka 1. ovoga Zakona, ili je sakralni predmet pod posebnom zaštitom nacionalnog zakonodavstva, za pokretanje postupka iz stavka 1. ovoga članka rok je 75 godina, osim za one države članice u kojima je propisan drugi rok za pokretanje takvih postupaka ili je rok utvrđen dvostranim ugovorima.
+
+Postupak povrata kulturnoga predmeta ne može se pokrenuti ako odnošenje kulturnog predmeta s teritorija države članice Europske unije nije više nezakonito u trenutku kada bi se postupak trebao pokrenuti.
+
+### Članak 70.c
+
+Sud kojem je upućen zahtjev naredit će povrat kulturnoga predmeta ukoliko utvrdi da se radi o kulturnom predmetu u smislu članka 70.a ovoga Zakona, te da je taj kulturni predmet na nezakoniti način odnesen s teritorija države članice Europske unije kršenjem njezinih propisa o zaštiti nacionalnog blaga ili drugih propisa, ili ako kulturni predmeti nisu vraćeni po isteku roka zakonitog privremenog iznošenja ili kršenjem propisa kojima se uređuje takvo privremeno iznošenje.
+
+### Članak 70.d
+
+Nadležni sud u Republici Hrvatskoj koji naredi povrat kulturnoga predmeta, dosudit će posjedniku, odnosno drugom imatelju naknadu koju smatra pravičnom prema okolnostima slučaja, na teret države članice Europske unije koja je zatražila povrat, ukoliko je posjednik, odnosno drugi imatelj postupao s dužnom pažnjom pri stjecanju kulturnog predmeta. U pogledu tereta dokaza primjenjuju se propisi Republike Hrvatske.
+
+U slučaju stjecanja darovanjem ili nasljeđivanjem, novi posjednik ne može biti u povoljnijem položaju od osobe od koje je stekao kulturni predmet na ovaj način.
+
+Posjednik, odnosno drugi imatelj ostvaruje isplatu naknade iz stavka 1. ovoga članka, nakon što je državi članici Europske unije predan traženi kulturni predmet.
+
+Troškove provedbe odluke o povratu kulturnoga predmeta, te troškove provedbe mjera iz članka 70.e podstavka 4. ovoga Zakona, snosi država članica Europske unije koja je zatražila povrat. Plaćanje pravične naknade i troškova ne utječe na pravo države članice Europske unije da od odgovorne osobe koja je nezakonito odnijela kulturni predmet, sudskim putem zatraži isplatu navedene naknade i troškova.
+
+U pogledu vlasništva kulturnoga predmeta koje je predano državi članici Europske unije primjenjuju se njezini propisi.
+
+### Članak 70.e
+
+Nadležno tijelo dužno je surađivati sa državama članicama Europske unije, te će naročito:
+
+1. nakon zahtjeva države članice Europske unije, koji mora sadržavati potrebne podatke osobito u pogledu stvarnog ili pretpostavljenog mjesta na kojemu se nalazi traženi kulturni pred­met, poduzeti radnje radi pronalaženja kulturnoga predmeta koji je nezakonito odnesen s teritorija države članice Europske unije i radi utvrđivanja posjednika odnosno drugog imatelja,
+
+2. obavijestiti zainteresiranu državu članicu Europske unije gdje je na teritoriju Republike Hrvatske pronađen traženi kulturni predmet, te postoje li razumne osnove za zaključak da je nezakonito odnesen s teritorija države članice Europske unije,
+
+3. omogućiti nadležnoj vlasti zainteresirane države članice Europske unije da u roku od dva mjeseca od obavijesti iz pod­stav­ka 2. ovoga članka provjeri radi li se o traženom kulturnom predmetu. Ukoliko se provjera ne obavi, ne primjenjuju se odred­be podstavka 4. i 5. ovoga članka,
+
+4. poduzeti potrebne mjere u suradnji sa zainteresiranom državom članicom Europske unije za fizičko očuvanje kulturnoga predmeta,
+
+5. spriječiti potrebnim privremenim mjerama svaku radnju poduzetu radi izbjegavanja povrata kulturnoga predmeta,
+
+6. postupati kao posrednik između posjednika, odnosno drugog imatelja i zainteresirane države članice Europske unije vezano za povrat kulturnoga predmeta.«
+
+### Članak 9.
+
+U članku 73. stavku 1. riječi: »ili u njegovoj neposrednoj blizini,« brišu se.
+
+### Članak 10.
+
+U članku 78. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Službenici nadležnog tijela koji obavljaju poslove iz stavka 1. ovoga članka imaju službenu iskaznicu kojom dokazuju njihovo službeno svojstvo, identitet i ovlasti. Obrazac i način izdavanja službene iskaznice propisuje ministar kulture.«
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### Članak 11.
+
+U članku 82. stavku 1. iza riječi: »iskaznicu« dodaju se riječi: »i značku«.
+
+U stavku 3. iza riječi: »iskaznice« dodaju se riječi: »i značke«.
+
+### Članak 12.
+
+U članku 87. stavak 2. mijenja se i glasi:
+
+»O privremenom oduzimanju izdaje se potvrda uz istovremeno pokretanje prekršajnog, odnosno kaznenog postupka.«
+
+### Članak 13.
+
+U članku 100. stavku 5. dodaje se rečenica koja glasi: »Rješenje o žalbi donosi ministar kulture.«
+
+### Članak 14.
+
+Članak 114. mijenja se i glasi:
+
+»Fizičke i pravne osobe, koje su obveznici poreza na dohodak ili poreza na dobit, a koje obavljaju gospodarsku djelatnost u nepokretnom kulturnom dobru ili na području kulturnopovijesne cjeline, obveznici su spomeničke rente.
+
+Fizičke i pravne osobe koje u svom sastavu imaju poslovne jedinice (svako stalno mjesto obavljanja gospodarske djelatnost) koje obavljaju gospodarsku djelatnost u nepokretnom kulturnom dobru ili na području kulturnopovijesne cjeline, obveznici su spomeničke rente za svaku poslovnu jedinicu.
+
+Osnovica spomeničke rente je korisna površina poslovnog prostora koji se nalazi u nepokretnom kulturnom dobru ili na području kulturnopovijesne cjeline.
+
+Spomenička renta plaća se mjesečno od 3,00 do 10,00 kuna po četvornom metru korisne površine poslovnog prostora koji se nalazi u nepokretnom kulturnom dobru ili na području kulturnopovijesne cjeline.
+
+Visinu spomeničke rente propisuje svojom odlukom Grad Zagreb, grad ili općina.
+
+Obveznici spomeničke rente moraju nadležnom upravnom ti­jelu jedinice lokalne i područne (regionalne) samouprave u či­jem su djelokrugu poslovi komunalnog gospodarstva, do 31. ožujka godine za koju se utvrđuje spomenička renta, dostaviti podatke o korisnoj površini poslovnih prostora koji se nalaze u nepokretnom kulturnom dobru ili na području kulturnopovijesne cjeline.
+
+Spomenička renta plaća se u godišnjem iznosu prema rješenju o utvrđivanju spomeničke rente koje donosi nadležno upravno tijelo jedinice lokalne i područne (regionalne) samouprave, u roku od 15 dana od dana dostave rješenja o utvrđivanju spomeničke rente.
+
+Ako u tijeku kalendarske godine fizička ili pravna osoba počinje ili prestaje obavljati djelatnost u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline, plaća godišnju spomeničku rentu za dio godine u kojoj je obavljala djelatnost.
+
+Korisnik koncesije iz članka 43.c stavka 2. ovoga Zakona oslobođen je plaćanja spomeničke rente propisane ovim člankom.
+
+Na ovršni i žalbeni postupak primjenjuju se odredbe Zakona o komunalnom gospodarstvu.«
+
+### Članak 15.
+
+Iza članka 114. dodaju se članci 114.a i 114.b koji glase:
+
+»Članak 114.a
+
+Spomeničku rentu plaćaju fizičke i pravne osobe koje obav­ljaju sljedeće djelatnosti prema Nacionalnoj klasifikaciji djelatnosti:
+
+01.41. Uslužne djelatnosti u biljnoj proizvodnji; (samo djelatnost sadnje i održavanja vrtova, parkova i zelenih površina za sportske terene i sl.) uređenje i održavanje krajolika,
+
+50.40.4. Održavanje i popravak motocikla,
+
+51.8. Trgovina na veliko strojevima, opremom i priborom,
+
+51.9. Ostala trgovina na veliko,
+
+55. Hoteli i restorani,
+
+60.21. Ostali redoviti kopneni putnički prijevoz,
+
+60.22. Taksi služba,
+
+60.23. Ostali kopneni cestovni prijevoz putnika,
+
+61.10. Pomorski i obalni prijevoz,
+
+62.1. Redoviti zračni prijevoz,
+
+62.2. Izvanredni zračni prijevoz,
+
+63.21. Ostale prateće djelatnosti u kopnenom prijevozu,
+
+63.23.1. Djelatnosti u zračnim lukama,
+
+63.30. Djelatnost putničkih agencija i turoperatora, ostale usluge turistima,
+
+64.2. Telekomunkacije (osim održavanja komunikacijske mreže i prijenosa radijskog i televizijskog programa),
+
+65.12.1. Poslovne banke,
+
+67.13. Pomoćne djelatnosti u financijskom posredovanju,
+
+71.10. Iznajmljivanje automobila,
+
+71.2. Iznajmljivanje ostalih prijevoznih sredstava (osim željezničkih vozila, kamiona, traktora i kontejnera),
+
+71.4. Iznajmljivanje predmeta za osobnu uporabu i kućanstvo (samo iznajmljivanje predmeta za zabavu, bicikla i sportske opreme),
+
+92.33. Djelatnosti sajmova i zabavnih parkova,
+
+92.34. Ostale zabavne djelatnosti,
+
+92.61. Djelatnost sportskih arena i stadiona (samo igrališta za golf),
+
+92.62.1. Djelatnosti marina,
+
+92.62.2. Ostale sportske djelatnosti (samo sportsko rekreativni lov),
+
+92.7. Ostale rekreacijske djelatnosti (osim dresure kućnih ljubimaca, te ostalih filmskih, televizijskih i kazališnih djelatnosi),
+
+92.71. Djelatnosti kockanja i klađenja,
+
+93.01. Pranje i kemijsko čišćenje tekstila i krznenih proizvoda.
+
+Spomenička renta plaća se po stopi od 0,05%. Osnovica za obračun spomeničke rente je ukupni prihod ostvaren obavljanjem navedenih djelatnosti.
+
+Poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe spomeničke rente obavlja Porezna uprava. Troškovi evidencije nadzora, naplate i ovrhe spomeničke rente iz stavka 1. ovoga članka iznose 5% od naplaćene spomeničke rente.
+
+Fizičke i pravne osobe dostavljaju podatke za obračun spomeničke rente na Obrascu SR, koji je sastavni dio ovoga Zakona.
+
+Fizičke osobe obveznici plaćanja spomeničke rente podnose Obrazac SR nadležnoj ispostavi Porezne uprave, nadležnoj prema svom prebivalištu, odnosno uobičajenom boravištu, zajedno s Prijavom poreza na dohodak i to najkasnije do kraja veljače iduće godine, nakon godine za koju se sastavlja konačni obračun.
+
+Pravne osobe obveznici plaćanja spomeničke rente podnose Obrazac SR nadležnoj ispostavi Porezne uprave, nadležnoj prema svom sjedištu, zajedno s Prijavom poreza na dobit i to najkasnije do kraja travnja iduće godine, nakon godine za koju se sastavlja konačni obračun.
+
+Fizička i pravna osoba plaća mjesečni predujam spomeničke rente u visini jedne dvanaestine osnovice po obračunu poslovnog rezultata za prethodnu godinu. Za fizičku i pravnu osobu koja počinje obavljati djelatnost, utvrđivanje predujmova spomeničke rente do prvog podnošenja obračuna poslovnog rezultata utvrđuje Porezna uprava, na način na koji se utvrđuju predujmovi poreza na dohodak, odnosno poreza na dobit.
+
+Fizičke i pravne osobe obveznici spomeničke rente uplaćuju mjesečni iznos spomeničke rente, u rokovima za plaćanje predujmova poreza na dohodak odnosno poreza na dobit, dok razliku po Obrascu SR uplaćuju u propisanom roku za podnošenje Obrasca SR.
+
+Nadzor nad obračunom i uplatom spomeničke rente obavlja Porezna uprava.
+
+### Članak 114.b
+
+Prihod od spomeničke rente iz članka 114. i članka 114.a ovoga Zakona može se koristiti isključivo za zaštitu i očuvanje kulturnih dobara, a uplaćuje se 60% u korist Grada Zagreba, grada ili općine na području koje je renta ubrana, a 40% u korist državnog proračuna za ostvarivanje nacionalnog programa iz članka 110. ovoga Zakona.«
+
+### Članak 16.
+
+U članku 118. stavku 1. iza točke »2.« dodaju se točke 3. i 4. koje glase:
+
+»3. ne dostavi podatke za utvrđivanje spomeničke rente prema članku 114. stavak 6.,
+
+4. ne dostavi podatke za utvrđivanje spomeničke rente prema članku 114.a stavak 4.«
+
+### Članak 17.
+
+Članak 123. mijenja se i glasi:
+
+»Na području zaštićene kulturnopovijesne cjeline do donošenja urbanističkog plana uređenja iz članka 57. ovoga Zakona primjenjuje se članak 60. ovoga Zakona.«
+
+### Članak 18.
+
+Iza članka 126. dodaje se članak 126.a koji glasi:
+
+»Članak 126.a
+
+Članak 69.a ovoga Zakona primjenjivat će se od dana prijama Republike Hrvatske u punopravno članstvo Europske unije.«
+
+### Članak 19.
+
+Provedbene propise na temelju ovoga Zakona ministar kulture donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 20.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 612-01/03-01/01
+
+Zagreb, 10. rujna 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

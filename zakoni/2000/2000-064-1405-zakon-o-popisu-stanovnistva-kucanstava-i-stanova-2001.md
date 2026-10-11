@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2000-07-05
+last_amended: 2001-03-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "64/00"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "64/00, 22/01"
+amendments:
+  - "NN 22/2001 (392) Zakon o izmjenama Zakona o popisu stanovništva, kućanstava i stanova 2001."
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1405"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o popisu stanovništva, kućanstava i stanova 2001.
 
 > Izvor: Narodne novine, NN 64/2000 (https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1405).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 22/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -475,4 +479,74 @@ HRVATSKOGA DRŽAVNOG SABORA
 Predsjednik  
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
+Zlatko Tomčić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o popisu stanovništva, kućanstava i stanova 2001. (NN 22/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/392*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+392
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+o proglaŠe­nju Zakona o izmjenama Zakona o popisu stanovniŠtva, kuĆanstava i stanova 2001.
+
+Proglašavam Zakon o izmjenama Zakona o popisu stanov­ništva, kućanstava i stanova 2001., koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 8. ožujka 2001.
+
+Broj: 01-081-01-805/2  
+Zagreb, 14. ožujka 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POPISU STANOVNIŠTVA, KUĆANSTAVA I STANOVA 2001.**
+
+### Članak 1.
+
+U Zakonu o popisu stanovništva, kućanstava i stanova 2001. (»Narodne novine« br. 64/00.), u članku 8. dodaje se stavak 3. koji glasi:
+
+»Za obav­lja­nje poslova iz stavka 1. i 2. ovoga članka popisi­vačima i kontrolorima pripada naknada za nastale troškove. Naknada troškova ne smatra se primitkom tih osoba od koje­g se utvrđuje dohodak prema Zakonu o porezu na dohodak.«
+
+### Članak 2.
+
+Članak 36. mije­nja se i glasi:
+
+»Sredstva potrebna za provođe­nje Popisa iznose 141.998.000,00 kuna.
+
+Sredstva iz stavka 1. ovoga članka raspoređuju se na:
+
+2000. godinu 5.471.481,00 kuna
+
+2001. godinu 135.076.519,00 kuna
+
+2002. godinu 1.450.000,00 kuna.«
+
+### Članak 3.
+
+U članku 38. stavak 1. mije­nja se i glasi:
+
+»Sredstva za organizaciju i provođe­nje Popisa iz članka 36. ovoga Zakona u visini od 79.885.916,00 kuna raspoređuje rav­nate­lj Državnog zavoda za statistiku prema udjelu procije­njenog broja jedinica popisa pojedine županije i Grada Zagreba u ukupnom broju procije­njenih jedinica popisa.«
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 953-02/01-01/01  
+Zagreb, 8. ožujka 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
 Zlatko Tomčić, v. r.

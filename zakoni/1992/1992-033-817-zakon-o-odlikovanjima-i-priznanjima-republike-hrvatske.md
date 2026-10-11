@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1992-06-12
+last_amended: 2006-12-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1992; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "33/92"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "33/92, 57/06, 141/06"
+amendments:
+  - "NN 57/2006 (1355) Zakon o izmjenama i dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske"
+  - "NN 141/2006 (3192) Zakon o dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/817"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o odlikovanjima i priznanjima Republike Hrvatske
 
 > Izvor: Narodne novine, NN 33/1992 (https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/817).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/2006, NN 141/2006.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -272,3 +277,153 @@ mr. Ivan Matija, v. r.
 Predsjednik Sabora
 
 dr. Žarko Domljan, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske (NN 57/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/57/1355*
+
+HRVATSKI SABOR
+
+1355
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODLIKOVANJIMA I PRIZNANJIMA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske, kojega je Hrvatski sabor donio na sjednici 18. svib­nja 2006. godine.  
+Klasa: 011-01/06-01/13  
+Urbroj: 71-05-03/1-06-2  
+Zagreb, 24. svibnja 2006.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODLIKOVANJIMA I PRIZNANJIMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o odlikovanjima i priznanjima Republike Hrvatske (»Narodne novine«, br. 20/95.) u članku 1. iza riječi: »osobama« dodaju se riječi: »te postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske i Ministarstva unutarnjih poslova«.
+
+### Članak 2.
+
+U članku 2. stavak 2. mijenja se i glasi:  
+»Hrvatski sabor dodjeljuje odlikovanja i priznanja predsjedniku Republike Hrvatske.«
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:  
+»Odlikovanja i priznanja dodjeljuju se hrvatskim i stranim državljanima i pravnim osobama te postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske i Ministarstva unutarnjih poslova:  
+1. za zasluge i doprinose u uspostavljanju, održavanju i promicanju samostalne, neovisne i suverene Republike Hrvatske,  
+2. za zasluge i doprinose u oživotvorenju hrvatske državotvorne ideje, za razvitak i izgradnju Republike Hrvatske te za doprinose na određenom području ili djelatnosti,  
+3. za iznimnu hrabrost i junački čin u ratu, izravnoj ratnoj opas­nosti ili u posebnim okolnostima u miru te za izniman doprinos u stvaranju ratne strategije i vojne doktrine, zasluge u izgradnji Oružanih snaga i osobite uspjehe u vođenju i zapovijedanju postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske i Ministarstva unutarnjih poslova.«
+
+### Članak 4.
+
+U članku 8. točka 3. mijenja se i glasi:  
+»3. vojnim zapovjednicima Oružanih snaga Republike Hrvatske za izniman doprinos u stvaranju ratne strategije i vojne doktrine, zasluge u izgradnji Oružanih snaga te za osobite uspjehe u vođenju i zapovijedanju postrojbama Oružanih snaga Republike Hrvatske.«
+
+### Članak 5.
+
+U članku 12. iza riječi: »državljanima« dodaju se riječi: »te postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske i Ministarstva unutarnjih poslova«.
+
+### Članak 6.
+
+U članku 13. iza riječi: »državljanima« dodaju se riječi: »te postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske i Ministarstva unutarnjih poslova«.
+
+### Članak 7.
+
+Članak 14. mijenja se i glasi:  
+»Red bana Jelačića dodjeljuje se dužnosnicima, časnicima i zapovjednicima postrojbi za iznimno uspješno zapovijedanje postrojbama Oružanih snaga Republike Hrvatske, za osobite vojne zasluge u njihovom ustroju i razvitku te postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske.«
+
+### Članak 8.
+
+U članku 20. iza riječi: »državljanima« dodaju se riječi: »te postrojbama i drugim ustrojstvenim jedinicama Oružanih snaga Republike Hrvatske i Ministarstva unutarnjih poslova«.
+
+### Članak 9.
+
+Članak 23. mijenja se i glasi:  
+»Spomenica domovinske zahvalnosti dodjeljuje se hrvatskim državljanima za časnu i uzornu službu.«
+
+### Članak 10.
+
+U članku 28. stavak 1. mijenja se i glasi:  
+»Poticaj za dodjelu odlikovanja i priznanja mogu podnositi: Hrvatski sabor, Vlada Republike Hrvatske, ministarstva i druga tijela državne vlasti, diplomatska, konzularna i druga predstavništva Republike Hrvatske u inozemstvu, političke stranke, vjerske zajednice, udruge građana i druge pravne osobe.«
+
+### Članak 11.
+
+Članak 29. mijenja se i glasi:  
+»O prijedlogu za dodjelu odlikovanja ili priznanja stranom državljaninu pribavit će se mišljenje tijela za dodjelu odlikovanja i priznanja u njegovoj državi putem središnjeg tijela državne uprave nadležnog za vanjske poslove u Republici Hrvatskoj.«
+
+### Članak 12.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 060-01/06-01/02  
+Zagreb, 18. svibnja 2006.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske (NN 141/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3192*
+
+HRVATSKI SABOR
+
+3192
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O ODLIKOVANJIMA I PRIZNANJIMA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2006. godine.  
+Klasa: 011-01/06-01/99  
+Urbroj: 71-05-03/1-06-2  
+Zagreb, 19. prosinca 2006.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O ODLIKOVANJIMAI PRIZNANJIMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o odlikovanjima i priznanjima Republike Hrvatske (»Narodne novine«, br. 20/95. i 57/06.) iza članka 4. dodaje se članak 4.a koji glasi:
+
+*»Članak 4.a*
+
+Zbog zaštite digniteta Domovinskog rata, za sudjelovanje ili drugi doprinos u Domovinskom ratu mogu se dodjeljivati samo odlikovanja i priznanja Republike Hrvatske utvrđena ovim Zakonom i po postupku koji je njime propisan.«
+
+### Članak 2.
+
+Iza članka 38. i glave VIII. Prijelazne i završne odredbe dodaje se članak 38.a koji glasi:
+
+*»Članak 38.a*
+
+Odredba članka 4.a ovoga Zakona ne odnosi se na odlikovanja i priznanja koja, za sudjelovanje ili drugi doprinos u Domovinskom ratu, na temelju drugih propisa, dodjeljuju Predsjednik Republike Hrvatske i Hrvatski sabor.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 060-01/06-01/04  
+Zagreb, 15. prosinca 2006.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

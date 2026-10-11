@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-11-30
+last_amended: 2002-03-08
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "128/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "128/99, 16/01, 22/02"
+amendments:
+  - "NN 16/2001 (284) Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba"
+  - "NN 22/2002 (510) Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2011"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba
 
 > Izvor: Narodne novine, NN 128/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2011).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2001, NN 22/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -266,3 +271,195 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba (NN 16/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/284*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+284
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA IZ MIROVINSKOG OSIGURANJA DJELATNIH VOJNIH OSOBA I OVLAŠTENIH SLUŽBENIH OSOBA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pra­vi­ma iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaštenih službenih osoba, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 2. ve­ljače 2001.
+
+Broj: 01-081-01-543/2  
+Zagreb, 20. ve­ljače 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA IZ MIROVINSKOG OSIGURANJA DJELATNIH VOJNIH OSOBA I OVLAŠTENIH SLUŽBENIH OSOBA**
+
+### Članak 1.
+
+U Zakonu o pravima iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaštenih službenih osoba (»Narodne novine«, br. 128/99.), članak 17. mije­nja se i glasi:
+
+»Iznimno od odredbe članka 7. do 9. ovoga Zakona, osobi kojoj je prestao radni odnos u razdob­lju od 31. prosinca 1998. do dana stupa­nja na snagu Zakona o pravima iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaštenih službenih osoba (»Narodne novine«, br. 128/99.) prema odredbama članka 68. i 69. Zakona o unutar­njim poslovima (»Narodne novine«, br. 55/89., 18/90., 19/91., 29/91., – pročišćeni tekst, 73/91., 19/92., 33/92., 76/94. i 151/98.), odnosno članka 70. Zakona o izvrše­nju sankcija izrečenih za krivična djela privredne prijestupe i prekršaje (»Narodne novine«, br. 21/74., 39/94., 55/88., 19/90., 66/93. i 29/94.) starosna mirovina određuje se od ­njene prosječne mjesečne plaće ostvarene u kalendarskoj godini koja prethodi godini stjeca­nja prava na mirovinu.
+
+Osobi iz stavka 1. ovoga članka starosna mirovina za 20 godina mirovinskog staža iznosi muškarcu 55%, a ženi 57,5% od osnovice i povećava se po 2,5% od osnovice za svaku da­lj­nju navršenu godinu, do navršenih 30 godina mirovinskog staža. Za svaku navršenu godinu mirovinskog staža preko 30 godina, mirovina se povećava po 0,5% od osnovice, tako da mirovina može iznositi najviše 85% od osnovice.«
+
+### Članak 2.
+
+Hrvatski zavod za mirovinsko osigura­nje, po službenoj dužnosti, donijet će novo rješe­nje o pravu na starosnu mirovinu, prema odredbama ovoga Zakona, najkasnije u roku od tri mjeseca od dana stupa­nja na snagu ovoga Zakona, ako bi bilo novo rješe­nje za korisnika mirovine povo­ljnije.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a odredba članka 1. ovoga Zakona primje­njuje se od 1. siječ­nja 1999.
+
+Klasa: 140-01/01-01/02  
+Zagreb, 2. ve­ljače 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba (NN 22/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/22/510*
+
+HRVATSKI SABOR
+
+510
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+o proglaŠe­nju Zakona o izmjenama i dopunama Zakona o pravima iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaŠtenih sluŽbenih osoba
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaš­tenih službenih osoba, koji je donio Hrvatski sabor na sjednici 27. ve­ljače 2002.
+
+Broj: 01-081-02-987/2  
+Zagreb, 4. ožujka 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA IZ MIROVINSKOG OSIGURANJA DJELATNIH VOJNIH OSOBA I OVLAŠTENIH SLUŽBENIH OSOBA**
+
+### Članak 1.
+
+U Zakonu o pravima iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaštenih službenih osoba (»Narodne novine« br. 128/99., 129/00. i 16/01.) u nazivu iza riječi: »vojnih osoba«, dodaje se zarez i riječi: »policijskih službenika«.
+
+### Članak 2.
+
+U članku 1. stavku 1. točki 2. riječi: »u Uredu za nacionalnu sigurnost« zamje­njuju se riječima: »u sigurnosno-obavještajnim službama«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) U vrijeme od 10 godina iz stavka 3. ovoga članka, odnosno u vrijeme od 20 godina iz stavka 4. ovoga članka, uraču­nava se i vrijeme provedeno u Domovinskom ratu u statusu hrvatskog branite­lja u jednostrukom traja­nju.«
+
+Dosadaš­nji stavak 5. postaje stavak 6.
+
+### Članak 3.
+
+Članak 2. mije­nja se i glasi:
+
+»(1) Djelatnoj vojnoj osobi zbog otežanih uvjeta rada i prirode obav­lja­nja poslova, staž osigura­nja računa se u povećanom traja­nju tako da se svakih 12 mjeseci stvarno provedenih u obav­lja­nju poslova djelatne vojne osobe računa kao 15, 16, odnosno 18 mjeseci staža osigura­nja.
+
+(2) Pod otežanim uvjetima rada i prirodom obav­lja­nja posla, u smislu stavka 1. ovoga članka, razumijevaju se osobito:
+
+– održava­nje borbene spremnosti na visokoj razini u svakom trenutku i u svim uvjetima,
+
+– održava­nje visoke psihofizičke spremnosti,
+
+– izvođe­nje borbene obuke u svim uvjetima (meteorološkim i vremenskim, dan-noć) i za sve oblike ratova­nja,
+
+– razvija­nje sposobnosti i vještina u uporabi suvremenoga vatrenog i hladnog oružja i vještina rukova­nja raznim eksplozivnim napravama,
+
+– opada­nje fizioloških funkcija organizma u mjeri koja one­mogućuje da­lj­nje uspješno obav­lja­nje vojne službe.
+
+(3) Uredbom Vlade Republike Hrvatske utvrđuju se dužnosti iz stavka 1. ovoga članka na kojima se staž osigura­nja računa s povećanim traja­njem i način računa­nja toga staža.
+
+(4) Vojnim službenicima i vojnim namještenicima koji su raspoređeni na dužnosti djelatne vojne osobe na kojima se staž osigura­nja računa s povećanim traja­njem, vrijeme provedeno na tim dužnostima računa se kao staž osigura­nja s povećanim traja­njem, u skladu s odredbom stavka 1. ovoga članka.«
+
+### Članak 4.
+
+U članku 6. iza riječi: »Zakona«, briše se točka i dodaju riječi: »i drugih propisa kojima je bila uređena djelatna vojna služba, služba policijskih službenika i ovlaštenih službenih osoba pravosuđa«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Osobama sa statusom hrvatskog branite­lja u 15 godina mirovinskog staža iz stavka 1. ovoga članka uračunava se i vrijeme provedeno u Domovinskom ratu u dvostrukom traja­nju.
+
+(3) Svi staževi osigura­nja s povećanim traja­njem ostvareni po ranijim propisima kojima je bila uređena djelatna vojna služba i služba u svojstvu ovlaštene službene osobe, kao i poseban staž ostvaren na teme­lju sudjelova­nja u Domovinskom ratu, među­sobno se zbrajaju prilikom utvrđiva­nja uvjeta od 15 godina iz stavka 1. ovoga članka.«
+
+### Članak 5.
+
+Iza članka 6. dodaje se članak 6.a koji glasi:
+
+»Članak 6.a
+
+Na teme­lju odluke ministra obrane, ministra unutar­njih poslova, odnosno čelnika sigurnosno-obavještajnih službi djelatnoj vojnoj osobi, policijskom službeniku, odnosno djelatniku s posebnim dužnostima i ovlastima u sigurnosno-obavještajnim službama koji ima 20 godina staža osigura­nja, a za koje se u odgovarajućem postupku utvrdi nemogućnost da­lj­nje­ga profesionalnog razvoja, služba može prestati s pravom na invalidsku mirovinu zbog profesionalne nesposobnosti za rad uzrokovane oz­ljedom na radu ili profesionalnom bolešću.
+
+U staž osigura­nja iz stavka 1. ovoga članka ne uračunava se staž s povećanim traja­njem.
+
+Obvezuju se nadležni ministri da jednom godiš­nje podnesu Vladi Republike Hrvatske izvješće o osiguranicima umirov­ljenim u skladu s odredbom stavka 1. ovoga članka.
+
+Nadležni ministri propisat će postupak utvrđiva­nja nemo­gućnosti da­lj­nje­g profesionalnog razvoja iz stavka 1. ovoga članka.«
+
+### Članak 6.
+
+Iza članka 9. dodaje se članak 9.a koji glasi:
+
+»Članak 9.a
+
+(1) Svota mirovine određena prema članku 7. – 9. ovoga Zakona sma­njuje se ovisno o visini, i to:
+
+1) za 8% razlika od 2.500,01 do 3.000,00 kuna,
+
+2) za 12% razlika od 3.000,01 do 4.000,00 kuna,
+
+3) za 16% razlika od 4.000,01 do 5.000,00 kuna,
+
+4) za 20% iznos od 5.000,01 kuna i nada­lje.
+
+(2) Svota mirovine sma­njena prema stavku 1. ovoga članka ne može iznositi ma­nje od svote mirovine određene prema općim propisima o mirovinskom osigura­nju.«
+
+### Članak 7.
+
+(1) Korisnicima mirovine kojima je mirovina određena do 31. prosinca 2001. prema propisima o mirovinskom i invalidskom osigura­nju djelatnih vojnih osoba i ovlaštenih službenih osoba unutar­njih poslova i pravosuđa, za koje se sredstva osiguravaju u državnom proračunu, svota mirovine koja im je pripadala na dan 30. rujna 2001. sma­njuje se prema članku 6. ovoga Zakona. Tako sma­njena svota mirovine ne može iznositi ma­nje od svote mirovine određene prema općim propisima o mirovinskom osigura­nju.
+
+(2) Svota mirovine određena prema stavku 1. ovoga članka pripada korisniku od 1. siječ­nja 2002.
+
+### Članak 8.
+
+Hrvatski zavod za mirovinsko osigura­nje po službenoj će dužnosti donijeti novo rješe­nje o sma­njenoj svoti mirovine prema članku 7. ovoga Zakona.
+
+### Članak 9.
+
+Propisi za provedbu ovoga Zakona donijet će se u roku od 3 mjeseca od dana stupa­nja na snagu ovoga Zakona.
+
+### Članak 10.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o pravima iz mirovinskog osigura­nja djelatnih vojnih osoba i ovlaštenih službenih osoba.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 140-01/01-01/05  
+Zagreb, 27. ve­ljače 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

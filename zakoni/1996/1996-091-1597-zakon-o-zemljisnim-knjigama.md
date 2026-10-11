@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-28
+last_amended: 2007-10-19
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "91/96"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "91/96, 114/01, 100/04, 107/07"
+amendments:
+  - "NN 114/2001 (1884) Zakon o izmjenama Zakona o zemljišnim knjigama"
+  - "NN 100/2004 (1899) Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama"
+  - "NN 107/2007 (3141) Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1597"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o zemljišnim knjigama
 
 > Izvor: Narodne novine, NN 91/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1597).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2001, NN 100/2004, NN 107/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2006,3 +2012,343 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o zemljišnim knjigama (NN 114/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1884*
+
+HRVATSKI SABOR
+
+1884
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA
+
+Proglašavam Zakon o izmjenama Zakona o zem­ljišnim  
+k­njigama, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
+
+Broj: 01-081-01-3882/2  
+Zagreb, 13. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA**
+
+### Članak 1.
+
+U Zakonu o zem­ljišnim k­njigama (»Narodne novine«, br. 91/96. i 137/99.) u članku 215. stavku 1. podstavku 3. riječi: »Državni pravobranite­lj Republike Hrvatske« zamje­njuju se riječima: »Državni odvjetnik Republike Hrvatske«.
+
+### Članak 2.
+
+U članku 224. stavci 2. i 3. mije­njaju se i glase:
+
+»(2) Izvank­njižni nosite­lji stvarnih prava dužni su do 1. siječ­nja 2007. pokrenuti postupak za upis stvarnih prava glede nekretnina i svih promjena na ­njima u zem­ljišnu k­njigu.
+
+(3) Nadležno općinsko državno odvjetništvo dužno je u roku iz stavka 1. ovoga članka pokrenuti postupke za upis stvarnih prava na nekretninama kojih je nosite­lj Republika Hrvatska.«
+
+### Članak 3.
+
+U članku 226. stavak 1. mije­nja se i glasi:
+
+»(1) Zem­ljišnok­njižni sudovi su dužni zem­ljišne k­njige osnovati i preoblikovati sukladno odredbama ovoga Zakona do 1. siječ­nja 2007.«
+
+Stavak 4. briše se.
+
+### Članak 4.
+
+Ovaj Zakona stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 932-01/01-01/01  
+Zagreb, 7. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama (NN 100/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/100/1899*
+
+HRVATSKI SABOR
+
+1899
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zem­ljišnim k­njigama, koji je donio Hrvatski sabor na sjednici 9. srp­nja 2004. godine.
+
+Broj: 01-081-04-2450/2  
+Zagreb, 14. srp­nja 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA**
+
+### Članak 1.
+
+U Zakonu o zemljišnim knjigama (»Narodne novine«, br. 91/96., 68/98., 137/99., 73/00. i 114/01.) u članku 5. stavak 4. mijenja se i glasi:
+
+»Postupak vodi i poslove obavlja voditelj zemljišnih knjiga ili zemljišnoknjižni službenik kojega za to odredi predsjednik su­da, pod nadzorom suca. Za rad zemljišnoknjižnog službenika od­go­vara voditelj zemljišnih knjiga, osim za rad ovlaštenoga zemljišno­knjižnog referenta.«
+
+### Članak 2.
+
+U članku 97. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Ministar nadležan za poslove pravosuđa, radi povećanja učinkovitosti propisat će da se zemljišnoknjižni prijedlozi i u ručno vođenoj zemljišnoj knjizi podnose na propisanim obrascima. Pravilnikom će se propisati obrasci u zemljišnoknjižnom postupku.
+
+(4) Prijedlog koji nije podnesen na propisanom obrascu neće se samo zbog toga odbaciti ako se po njemu inače može postupiti.«
+
+### Članak 3.
+
+Članak 105. briše se.
+
+### Članak 4.
+
+U članku 107. stavak 2. briše se.
+
+### Članak 5.
+
+U članku 109. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Neuredan prijedlog i prijedlog kojem nisu priloženi svi prilozi nužni za donošenje odluke o osnovanosti prijedloga sud će odbaciti.
+
+(7) Odbacivanje prijedloga ne sprječava podnošenje novoga urednog, odnosno potpunog prijedloga, ali će za odlučivanje o novom prijedlogu za upis biti mjerodavno stanje u času kada je taj novi prijedlog stigao sudu, te isti dobiva ono mjesto u prvenstvenom redu koje mu pripada prema času kad bude podnesen prijedlog za novi upis.«
+
+### Članak 6.
+
+Iza članka 109. dodaju se članci 109.a, 109.b i 109.c koji glase:
+
+»Članak 109.a
+
+(1) Rješenje u smislu članka 109. ovoga Zakona donosi ovlašteni zemljišnoknjižni referent u sudu.
+
+(2) Ovlašteni zemljišnoknjižni referent provodi i druge rad­nje u zemljišnoknjižnom postupku koje prethode donošenju rješenja.
+
+(3) Ovlaštenoga zemljišnoknjižnog referenta u skladu s uvje­tima i postupku propisanim ovim Zakonom imenuje predsjednik neposredno višeg suda, na prijedlog predsjednika zemljišno­knjiž­nog suda u kojem službenik radi.
+
+(4) Poslove u zemljišnoknjižnom postupku koje će obavljati imenovani ovlašteni zemljišnoknjižni referent povjerava pred­sjednik zemljišnoknjižnog suda u koji je službenik imenovan.
+
+### Članak 109.b
+
+(1) Službenik se može imenovati za ovlaštenoga zemljišno­knjiž­nog referenta ukoliko udovoljava sljedećim uvjetima:
+
+1. položen poseban stručni ispit za ovlaštenoga zemljišno­knjižnog referenta,
+
+2. ima višu stručnu spremu društvenog ili geodetskog smjera i 5 godina radnog iskustva na poslovima zemljišnoknjižnog službenika ili srednju stručnu spremu društvenog ili geodetskog smjera i 10 godina radnog iskustva na poslovima zemljišno­knjižnog referenta.
+
+(2) Poseban stručni ispit iz stavka 1. točka 1. ovoga članka polaže se kod Ministarstva pravosuđa.
+
+(3) Program i način polaganja posebnog stručnog ispita, kao i pobliže postupak imenovanja odredit će se posebnim pravilnikom koji donosi ministar nadležan za poslove pravosuđa uz prethodno pribavljeno mišljenje županijskih sudova.
+
+### Članak 109.c
+
+(1) Predmeti se u sudu ovlaštenim zemljišnoknjižnim referentima dodjeljuju u rad u skladu s odredbama Sudskog poslovnika koje vrijede za dodjelu predmeta u rad sucima.
+
+(2) Predsjednik zemljišnoknjižnog suda ili sudac kojeg ovlasti rasporedom poslova može donijeti rješenje kojim preuzima od ovlaštenoga zemljišnoknjižnog referenta predmet i dodijeliti ga drugom ovlaštenom zemljišnoknjižnom referentu ili ga dodijeliti sucu iz opravdanih razloga. U tom slučaju sudac donosi rješenje, a sve prethodne radnje obavlja ovlašteni zemljišnoknjižni referent pod nadzorom suca.«
+
+### Članak 7.
+
+Članak 123. mijenja se i glasi:
+
+»(1) Protiv rješenja u zemljišnoknjižnom postupku dopuš­tena je žalba.
+
+(2) U povodu žalbe protiv rješenja ovlaštenoga zemljišno­knjižnog referenta, zemljišnoknjižni sudac ovlašten je žalbu prih­vatiti ako ocijeni da je osnovana, te u cijelosti ili djelomice, preinačiti donijeto rješenje ili prijedlog odbiti.
+
+(3) U slučaju da zemljišnoknjižni sudac usvoji žalbu i prei­na­či rješenje, protiv tog rješenja dopuštena je posebna žalba, kao i protiv rješenja koje bi donio sudac na temelju članka 109.c stavka 3. ovoga Zakona.
+
+(4) U slučaju da ocijeni da žalba nije osnovana, sud prvog stupnja uputit će predmet sudu drugog stupnja.«
+
+### Članak 8.
+
+(1) Pravilnike iz članka 2. i članka 6. ovoga Zakona kao i izmjene Pravilnika o sudskim službenicima i namještenicima donijet će ministar nadležan za poslove pravosuđa u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Uz ispunjenje uvjeta za imenovanje ovlaštenih zemljišno­knjižnih referenata predsjednik neposredno višeg suda može privremeno po prijedlogu predsjednika zemljišnoknjižnog suda zem­ljišno­knjižnim referentima izdati ovlast za postupanje i donošenje rješenja u zemljišnoknjižnom postupku u smislu ovoga Zakona na vrijeme od 2 godine od dana povjeravanja ovlasti službeniku.
+
+(3) Za vrijeme trajanja privremene ovlasti ovlašteni zem­ljišno­knjižni referent dužan je položiti poseban stručni ispit po odredbama ovoga Zakona. Ako službenik ne položi taj ispit u roku od 2 godine, tada gubi ovlast za samostalno obavljanje povjerenih mu poslova, a ukoliko položi ispit, tada mu se može izdati ovlaštenje za obavljanje poslova na daljnji period od 5 godina.
+
+(4) Nakon isteka navedenog roka od 5 godina ovlaštenom sudskom službeniku može se povjeriti obavljanje poslova u zemljišno­knjižnom postupku trajno.
+
+(5) Dosadašnji zemljišnoknjižni referenti koji ne dobiju privremenu ovlast za obavljanje poslova ovlaštenih zemljišno­knjiž­nih referenata nastavit će raditi u zemljišnoj knjizi na dosadašnji način.
+
+### Članak 9.
+
+Odredbe ovoga Zakona primjenjuju se na sve postupke u tijeku u kojima nije doneseno prvostupanjsko rješenje kojim je naložen upis u zemljišnu knjigu.
+
+### Članak 10.
+
+(1) Prijedloge za upis koji su zaprimljeni u sudu do stupanja na snagu ovoga Zakona a koji su neuredni ili uz koje nisu priloženi svi nužni prilozi za donošenje odluke o osnovanosti prijedloga, podnositelji prijedloga mogu urediti ili upotpuniti nužnim prilozima u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Ukoliko u roku propisanom stavkom 1. ovoga članka podnositelj prijedloga ne postupi sukladno odredbi stavka 1. ovoga članka, s prijedlogom će se postupiti prema odredbi članka 109. stavka 6. i 7. ovoga Zakona.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 932-01/04-01/01  
+Zagreb, 9. srpnja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v.r.
+
+## Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama (NN 107/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3141*
+
+HRVATSKI SABOR
+
+3141
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama, kojega je Hrvatski sabor donio na sjednici 3. listopada 2007. godine.  
+Klasa: 011-01/07-01/140  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 10. listopada 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZEMLJIŠNIM KNJIGAMA**
+
+### Članak 1.
+
+U Zakonu o zemljišnim knjigama (»Narodne novine«, br.91/96., 68/98., 137/99., 114/01. i 100/04.) u članku 89. stavak 3. mijenja se i glasi:  
+»(3) Kad na temelju pravomoćnog rješenja o dosudi i potvrde ovršnog suda da je kupac položio kupovninu, bude upisano pravo u njegovu korist, na prijedlog će se izbrisati svi upisi koji su bili provedeni protiv dotadašnjeg vlasnika nakon zabilježbe dosude, kao i svi daljnji upisi koji su učinjeni s obzirom na njih.«
+
+### Članak 2.
+
+U članku 109. iza stavka 6. dodaje se novi stavak 7. koji glasi:  
+» (7) Iznimno, sud može pozvati predlagatelja nepotpunog prijedloga da dostavi isprave koje ne predstavljaju tabularne isprave, ako je nedostatak takvih priloga jedina zapreka da se udovolji prijedlogu za upis.«  
+Dosadašnji stavak 7. postaje stavak 8.
+
+### Članak 3.
+
+U članku 141. dodaje se stavak 2. koji glasi:  
+»(2) Odredba stavka 1. ovoga članka ne odnosi se na hipoteke upisane do 25. prosinca 1958. Takve hipoteke brisat će se po službenoj dužnosti ili po prijedlogu stranke.«
+
+### Članak 4.
+
+U članku 142. stavak 2. mijenja se i glasi:  
+»(2) U oglasu će se točno označiti upisana hipoteka, sa svim upisima koji se na nju odnose i odrediti rok od 30 dana za prijavu, koji počinje teći od dana objave u »Narodnim novinama.«
+
+### Članak 5.
+
+Iza članka 163. dodaje se članak 163.a koji glasi:
+
+*»Članak 163.a*
+
+(1) Baza zemljišnih podataka (BZP) i podaci baze digitalnih katastarskih planova povezat će se u Zajednički informacijski sustav (u daljnjem tekstu: ZIS).  
+(2) Ustrojstvo i djelovanje ZIS-a uredit će ministar pravosuđa i ravnatelj Državne geodetske uprave sporazumno.«
+
+### Članak 6.
+
+U članku 167. iza stavka 1. dodaje se stavak 2. koji glasi:  
+»(2) Ministar pravosuđa može donijeti odluku da se zbirka isprava vodi i u elektronskom obliku, kao dio ZIS-a.«
+
+### Članak 7.
+
+U članku 171. iza stavka 2. dodaje se novi stavak 3. koji glasi:  
+»(3) Ministar pravosuđa dopustit će rješenjem, na zahtjev ravnatelja Državne geodetske uprave, osobama ovlaštenim za obavljanje poslova državne izmjere i katastra nekretnina, da u svom uredu drže tehničke uređaje za uvid u Bazu zemljišnih podataka (BZP), vodeći računa o tehničkim mogućnostima sustava.«  
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 8.
+
+U članku 179. stavak 4. mijenja se i glasi:  
+»(4) Osnivanje zemljišne knjige provodi sudac pojedinac ili sudski savjetnik ali pojedine radnje u postupku mogu se povjeriti i ovlaštenom zemljišnoknjižnom referentu prema odluci predsjednika suda.«  
+Iza stavka 4. dodaje se stavak 5. koji glasi:  
+»(5) Pojedine radnje u postupku osnivanja zemljišne knjige mogu se povjeriti i zemljišnoknjižnom referentu, koji će te poslove obavljati pod nadzorom suca ili sudskog savjetnika.«
+
+### Članak 9.
+
+U članku 185. stavak 1. mijenja se i glasi:  
+»(1) U teretovnicu uloška koji se sastavlja unijet će se podaci o teretima i njihovim ovlaštenicima iz zemljišne knjige koja će se zatvoriti osnivanjem nove zemljišne knjige, knjige položenih ugovora i položenih isprava u sudu.«
+
+### Članak 10.
+
+U članku 186. stavak 2. mijenja se i glasi:  
+»(2) Rok za ispravak ne može biti određen kraće od mjesec dana niti duže od godine dana, računajući od dana objave oglasa u »Narodnim novinama.«
+
+### Članak 11.
+
+U članku 191. stavak 3. mijenja se i glasi:  
+»(3) Raspravu za ispravak vodi sudac pojedinac ili sudski savjetnik.«
+
+### Članak 12.
+
+Iza članka 208. dodaje se podnaslov i članci 208.a do 208. e koji glase:  
+»Pojedinačno preoblikovanje u EOP zemljišnu knjigu
+
+### Članak 208.a
+
+(1) Pojedinačno preoblikovanje zemljišnih knjiga u EOP zemljišnu knjigu provodi se za jednu ili više katastarskih čestica koje su prevedene u katastar nekretnina.  
+(2) Postupak pojedinačnog preoblikovanja započinje na temelju obavijesti tijela nadležnog za katastar da je određena katastarska čestica ili više njih prevedeno u katastar nekretnina, ili na prijedlog vlasnika nekretnina, pod uvjetom da je katastarska čestica prevedena u katastar nekretnina, te da vlasnik nekretnine raspolaže obaviješću tijela nadležnog za katastar o prevođenju određene katastarske čestice ili više njih u katastar nekretnina.
+
+### Članak 208.b
+
+Postupak pojedinačnog preoblikovanja provodi ovlašteni zemljišnoknjižni referent, ili zemljišnoknjižni referent pod nadzorom zemljišnoknjižnog suca ili ovlaštenog zemljišnoknjižnog referenta.
+
+### Članak 208.c
+
+(1) Pokretanje postupka pojedinačnog preoblikovanja učinit će se vidljivim stavljanjem oznake uz broj katastarske čestice za koju se vrši pojedinačno preoblikovanje, pri čemu je temelj za ovu promjenu u posjedovnici obavijest tijela nadležnog za katastar da je određena čestica prevedena u katastar nekretnine.  
+(2) Nakon što se izvrši postupak pojedinačnog preoblikovanja određene katastarske čestice, nadležni zemljišnoknjižni sud će izdati rješenje o tome da je postupak preoblikovanja u EOP zemljišnu knjigu za određenu katastarsku česticu dovršeno te će se to rješenje dostaviti svim upisanim nositeljima knjižnih prava.  
+(3) Nositelji knjižnih prava imaju pravo u roku od 30 dana od dana primitka rješenja iz stavka 2. ovoga članka podnijeti prigovor ili prijavu glede provedenog postupka preoblikovanja, a o kojim prigovorima i prijavama odlučuje zemljišnoknjižni sudac uz odgovarajuću primjenu članka 188. i 194. ovoga Zakona.  
+(4) Po isteku roka od 30 dana za podnošenje prijava i prigovora, odnosno nakon donijete odluke o podnijetim prigovorima i prijavama, po službenoj dužnosti brisat će se oznaka uz katastarsku česticu.
+
+### Članak 208.d.
+
+U trenutku kada se u Bazu zemljišnih podataka pohrane upisi katastarske čestice koja je pojedinačno preoblikovana, zemljišnoknjižni sud će tu katastarsku česticu po službenoj dužnosti nastaviti voditi kao upisanu u EOP zemljišnu knjigu, a ispis iz EOP zemljišne knjige dostavit će se svim nositeljima knjižnih prava.
+
+### Članak 208.e
+
+Pobliže odredbe o pojedinačnom preoblikovanju zemljišne knjige u EOP zemljišnu knjigu te postupak i način preoblikovanja, kao i druga pitanja, uredit će se Poslovnikom o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (Zemljišnoknjižni poslovnik).«
+
+### Članak 13.
+
+(1) Izmjene i dopune Zemljišnoknjižnog poslovnika iz članka 208.e ovoga Zakona ministar pravosuđa donijet će u roku od 6 mjeseci od dana njegovog stupanja na snagu.  
+(2) Sporazum iz članka 163.a stavak 2. ovoga Zakona sklopit će ministar pravosuđa i ravnatelj Državne geodetske uprave u roku od 6 mjeseci od dana njegovog stupanja na snagu.
+
+### Članak 14.
+
+U članku 226. stavku 1. riječi: »do 1. siječnja 2007.« zamjenjuju se riječima: »do 1. siječnja 2010.«
+
+### Članak 15.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 932-01/07-01/01  
+Zagreb, 3. listopada 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

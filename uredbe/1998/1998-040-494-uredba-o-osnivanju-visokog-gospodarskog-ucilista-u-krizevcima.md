@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1998-03-23
+last_amended: 2007-06-04
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "40/98"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "40/98, 76/05, 57/07"
+amendments:
+  - "NN 76/2005 (1485) Uredba o izmjenama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima"
+  - "NN 57/2007 (1821) Uredba o izmjeni i dopuni Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/40/494"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Visokog gospodarskog učilišta u Križevcima
 
 > Izvor: Narodne novine, NN 40/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/40/494).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2005, NN 57/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -199,3 +204,145 @@ Zagreb, 19. ožujka 1998.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima (NN 76/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/76/1485*
+
+VLADA REPUBLIKE HRVATSKE
+
+1485
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narod­ne novine«, br. 76/93, 29/97 i 47/99) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004 i 174/2004), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2005. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU VISOKOG GOSPODARSKOG UČILIŠTA U KRIŽEVCIMA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Visokog gospodarskog učilišta u Križevcima (»Narodne novine«, broj 40/98), u članku 2. riječi: »Ministarstvo znanosti i tehnologije« zamjenjuju se riječima: »ministarstvo nadležno za visoko obrazovanje«.
+
+### Članak 2.
+
+U članku 3. podstavak 1. mijenja se i glasi:
+
+»– ustrojavanje i izvođenje stručnih studija iz područja bioteh­ničkih znanosti sukladno Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (u daljnjem tekstu: Zakon) i Statutu;«.
+
+Podstavak 3. mijenja se i glasi:
+
+»– obavljanje znanstvenog rada iz biotehničkih znanosti uz uvjete prema posebnim propisima;«.
+
+### Članak 3.
+
+Članak 4. mijenja se i glasi:
+
+»Tijela Učilišta su dekan, Stručno vijeće i Upravno vijeće.
+
+Učilište može imati i druga stručna i savjetodavna tijela čije se osnivanje, sastav i nadležnost uređuje Statutom ili drugim općim aktom.«.
+
+### Članak 4.
+
+U članku 5. stavak 2. mijenja se i glasi:
+
+»Upravno vijeće:
+
+– donosi program rada i razvoja Učilišta i nadzire njihovo izvršavanje
+
+– brine o zakonitosti rada Učilišta, racionalnoj uporabi materijalnih i kadrovskih resursa i provođenju odluka Stručnog vijeća
+
+– odlučuje o načinu upotrebljavanja dobiti koju Učilište ostvari
+
+– donosi odluke u drugom stupnju o ostvarivanju pojedinačnih prava radnika
+
+– donosi godišnji obračun
+
+– predlaže osnivaču promjenu ili proširenje djelatnosti
+
+– donosi Statut na prijedlog Stručnog vijeća
+
+– daje suglasnost na pojedine odluke dekana i Stručnog vijeća sukladno Statutu
+
+– daje osnivaču i dekanu prijedloge i mišljenja o pojedinim pitanjima
+
+– obavlja druge poslove utvrđene Zakonom i Statutom.«.
+
+### Članak 5.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»Upravno vijeće ima pet članova od kojih tri imenuje osnivač, a dva bira Stručno vijeće Učilišta na vrijeme od četiri godine. Predsjed­nika Upravnog vijeća biraju članovi između sebe. Dekan sudjeluje u radu Upravnog vijeća bez prava glasovanja.«.
+
+Stavak 2. mijenja se i glasi:
+
+»Osnivač i Stručno vijeće mogu razriješiti članove koje imenuju odnosno biraju u Upravno vijeće i prije isteka vremena na koje su imenovani odnosno izabrani.«.
+
+### Članak 6.
+
+U članku 7. stavak 2. mijenja se i glasi:
+
+»Za dekana može biti izabran radnik Učilišta u znanstveno-nastavnom zvanju ili nastavnom zvanju profesora visoke škole, a bira ga i razrješava Stručno vijeće s mandatom, na način i u postupku utvrđenom Statutom Učilišta. Izbor dekana potvrđuje Upravno vijeće.«.
+
+U stavku 3. podstavku 7. riječi: »nastavničkim vijećem« zamjenjuju se riječima »Stručnim vijećem«, a podstavak 8. briše se.
+
+### Članak 7.
+
+Članak 9. mijenja se i glasi:
+
+»Stručno vijeće Učilišta odlučuje o stručnim i nastavnim pitanjima, sukladno zakonu i Statutu Učilišta.
+
+Stručno vijeće Učilišta čine nastavnici, suradnici i studenti. Broj, sastav, način izbora i mandat članova Stručnog vijeća iz redova nastavnika, suradnika i studenata pobliže se određuje Statutom Učilišta.«.
+
+### Članak 8.
+
+Članak 10. briše se.
+
+### Članak 9.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 602-04/96-01/17
+
+Urbroj: 5030108-05-1
+
+Zagreb, 15. lipnja 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni i dopuni Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima (NN 57/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/57/1821*
+
+VLADA REPUBLIKE HRVATSKE
+
+1821
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narod­ne novine«, br. 76/93, 29/97 i 47/99) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narod­ne novine«, br. 123/2003, 105/2004, 174/2004 i 46/2007), Vlada Republike Hrvatske je na sjednici održanoj 31. svibnja 2007. godine donijela
+
+**UREDBU**
+
+**O IZMJENI I DOPUNI UREDBE O OSNIVANJU VISOKOG GOSPODARSKOG UČILIŠTA U KRIŽEVCIMA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Visokog gospodarskog učilišta u Križevcima (»Narod­ne novine«, br. 40/98 i 76/2005), u članku 7. stavak 2. mijenja se i glasi:  
+»Za dekana, putem javnog natječaja, može biti izabrana osoba u znanstveno-nastavnom zvanju, nastavnom zvanju profesora visoke škole ili višeg predavača, a bira ga i razrješava Stručno vijeće s mandatom, na način i u postupku utvrđenom Statutom Učilišta. Izbor dekana potvrđuje Upravno vijeće.«.  
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:  
+»U slučaju da Upravno vijeće ne potvrdi izbor dekana od strane Stručnog vijeća, smatra se da dekan nije izabran. U tom slučaju natječaj će se ponoviti, a Upravno vijeće, do izbora dekana na temelju ponovljenog natječaja, imenuje vršitelja dužnosti dekana najduže do godinu dana. U tom razdoblju Učilište će provesti izbor za novog dekana.«.  
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.  
+Klasa: 602-04/07-02/18  
+Urbroj: 5030108-07-1  
+Zagreb, 31. svibnja 2007.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.

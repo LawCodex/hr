@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-06-18
-last_amended: 1999-05-20
+last_amended: 2005-12-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "58/93, 49/99"
+narodne_novine: "58/93, 49/99, 129/00, 150/05"
 amendments:
   - "NN 49/1999 (937) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
+  - "NN 129/2000 (2383) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
+  - "NN 150/2005 (2900) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1159"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 58/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1159).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 49/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 49/1999, NN 129/2000, NN 150/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -806,3 +808,769 @@ Potpredsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Vladimir Šeks, dipl. iur., v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću (NN 129/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2383*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+2383
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Držav­nom sudbenom vijeću, koji je donio Zastupnički dom Hr­vat­skoga sabora na sjednici 15. prosinca 2000.
+
+Broj: 01-081-00-4344/2  
+Zagreb, 19. prosinca 2000.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU**
+
+### Članak 1.
+
+U Zakonu o Državnom sudbenom vijeću (»Narodne novine«, br. 58/93. i 49/99.) članak 1. mijenja se i glasi:
+
+“Ovim se Zakonom uređuju uvjeti za izbor članova i predsjednika Državnoga sudbenog vijeća i prestanak njihove duž­nosti, postupak za imenovanje i razrješenje sudaca, te postupak za utvrđivanje njihove stegovne odgovornosti, kao i druga pitanja vezana za rad Državnoga sudbenog vijeća (u daljnjem tekstu: Vije­će).”
+
+### Članak 2.
+
+Naslov Glave II. i članak 3. mijenjaju se i glase: “POSTUPAK ZA IZBOR ČLANOVA I PREDSJEDNIKA DRŽAV­NO­GA SUDBENOG VIJEĆA I PRESTANAK NJIHOVE DUŽ­NOSTI”.
+
+Članak 3. mijenja se i glasi:
+
+“U postupku izbora članova Vijeća mjerodavni odbor Zastup­ničkog doma Hrvatskoga sabora zatražit će od predsjednika Vrhovnog suda Republike Hrvatske, predsjednika Hrvatske odvjetničke komore i dekana pravnih fakulteta pokretanje postupka kandidiranja za članove Vijeća.
+
+Predsjednik Vrhovnog suda Republike Hrvatske zatražit će od sudova da predlože kandidate iz reda sudaca. Na temelju prikupljenih prijedloga proširena opća sjednica Vrhovnog suda Republike Hrvatske utvrđuje kandidate i svoj prijedlog upućuje mjerodavnom odboru Zastupničkog doma Hrvatskoga sabora.
+
+Prijedlog kandidata iz reda sudaca mora osigurati zastupljenost kandidata iz sudova različite vrste i stupnja.
+
+Kandidate iz reda odvjetnika utvrđuje na temelju prikupljenih prijedloga Skupština Hrvatske odvjetničke komore a kandidate iz reda sveučilišnih profesora pravnih znanosti sjednica dekana pravnih fakulteta i upućuju ih mjerodavnom odboru Zastupničkog doma Hrvatskoga sabora.
+
+Za svako mjesto u Vijeću ovlašteni predlagatelj iz stavka 2. i 4. ovoga članka mora predložiti najmanje tri kandidata.
+
+Mjerodavni odbor Zastupničkog doma Hrvatskoga sabora zatražit će i od ministra nadležnog za poslove pravosuđa predlaganje osoba za koje smatra da mogu biti kandidati za člana Vijeća.
+
+Mjerodavni odbor predložit će Zastupničkom domu Hrvat­skoga sabora sve predložene kandidate koji ispunjavaju uvjete za imenovanje.”
+
+### Članak 3.
+
+Članak 4. mijenja se i glasi:
+
+“Članove Vijeća bira Zastupnički dom Hrvatskoga sabora.
+
+Sedam članova Vijeća bira se iz reda sudaca, dva člana iz reda odvjetnika i dva člana iz reda sveučilišnih profesora pravnih znanosti.
+
+Članovi Vijeća između sebe biraju predsjednika i zamjenika predsjednika tajnim glasovanjem na vrijeme od dvije godine.
+
+Predsjednik i zamjenik predsjednika moraju biti iz reda sudaca.”
+
+### Članak 4.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+“Izabrani član Vijeća dužan je stupiti na dužnost u roku od 30 dana od dana izbora.”
+
+U stavku 2. riječi: “predsjednik ili” brišu se.
+
+### Članak 5.
+
+U članku 6. stavku 1. riječi: “predsjednik ili” brišu se.
+
+U stavku 2. riječi: “Županijski dom Hrvatskoga državnog sabora” zamjenjuju se riječima: “mjerodavni odbor Zastupničkog doma Hrvatskoga sabora”, a riječi: “Za predsjednika Vijeća izv­ješ­će će dostaviti najmanje pet članova Vijeća ili ministar pra­vosuđa” brišu se.
+
+### Članak 6.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+“ Prije stupanja na dužnost član Vijeća polaže pred predsjednikom Hrvatskoga sabora prisegu:”
+
+U tekstu prisege riječ: “predsjednika” i crtica brišu se.
+
+### Članak 7.
+
+U članku 7.a riječi: “predsjedniku i” brišu se.
+
+### Članak 8.
+
+U članku 9. stavku 1. riječi: “Predsjedniku ili članu” za­mjenjuju se riječju: “Članu”.
+
+Stavak 2. mijenja se i glasi:
+
+“Ne smatra se prestankom dužnosti ako član Vijeća bude imenovan za suca u drugi sud ili bude izabran za nastavnika drugoga pravnog fakulteta.”
+
+U stavku 3. riječi: “Predsjednik ili član” zamjenjuju se riječju: “Član”.
+
+U stavku 4. riječi: “Predsjednik ili član” zamjenjuju se riječju: “Član”, a iza prve alineje dodaje se nova alineja koja glasi:
+
+“- ako bude imenovan predsjednikom suda, danom stupanja na dužnost”.
+
+Dosadašnje alineje 2., 3. i 4. postaju alineje 3., 4. i 5.
+
+Stavak 5. mijenja se i glasi:
+
+“Prijedlog za razrješenje dužnosti člana Vijeća prije isteka vremena na koje je izbran mogu podnijeti proširena opća sjednica Vrhovnog suda Republike Hrvatske. Skupština Hrvatske od­vjetničke komore i sjednica dekana pravnih fakulteta, svaki u pogledu članova Vijeća koje su predložili u postupku utvrđivanja kandidata za članove Vijeća. Prijedlog za razrješenje mogu podnijeti mjerodavni odbor Zastupničkog doma Hrvatskoga sabora i ministar nadležan za poslove pravosuđa.”
+
+Stavak 6. mijenja se i glasi:
+
+“Postojanje razloga za razrješenje člana Vijeća prije isteka vremena na koje je izabran utvrđuje mjerodavni odbor Zastupničkog doma Hrvatskoga sabora, a razrješuje ih Zastup­nički dom Hrvatskoga sabora.”
+
+### Članak 9.
+
+U članku 10. stavku 1. riječi: “Hrvatskoga državnog sabora” zamjenjuju se riječima: “Hrvatskoga sabora”.
+
+U stavku 2. riječi: “Županijski dom Hrvatskoga državnog sabora” zamjenjuju se riječima: “Zastupnički dom Hrvatskoga sabora”.
+
+U stavku 3. riječi: “Županijskom domu Hrvatskoga državnog sabora” zamjenjuju se riječima: “mjerodavni odbor Zastupničkog doma Hrvatskoga sabora”, a riječ: “pet” zamjenjuje se riječju: “tri”.
+
+### Članak 10.
+
+U članku 11. stavku 1. riječi: “alineje 2. i 3.” zamjenjuju se riječima: “alineje 3. i 4.”
+
+U stavku 2. alineji 2. riječi: “pet članova” zamjenjuju se riječima: “tri člana”.
+
+### Članak 11.
+
+Članak 12. mijenja se i glasi:
+
+“U djelokrug Vijeća spada:
+
+- imenovanje sudaca,
+
+- vođenje stegovnog postupka i odlučivanje o stegovnoj odgovonrosti sudaca,
+
+- odlučivanje o razrješenju sudaca,
+
+- obavljanje i drugih poslova u skladu sa zakonom.”
+
+### Članak 12.
+
+U članku 13. stavku 1. riječi: “osim ako ovim Zakonom nije drukčije propisano” brišu se.
+
+U stavku 2. riječi: “predsjednika suda, odnosno” brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+“Sjednice saziva predsjednik, a u njegovoj odsutnosti zamjenik predsjednika”.
+
+U stavku 4. riječi: “pet članova” zamjenjuju se riječima: “tri člana”.
+
+### Članak 13.
+
+U članku 14. stavku 2. riječi: “dvotrećinskom većinom glasova svih članova” zamjenjuju se riječima: “glasovima najmanje osam članova Vijeća”.
+
+### Članak 14.
+
+U članku 16. stavak 1. mijenja se i glasi:
+
+“Slobodno mjesto suca objavljuje ministarstvo nadležno za poslove pravosuđa po službenoj dužnosti ili na prijedlog ovla­štenih osoba.”
+
+U stavku 3. riječi: “predsjednik ili” brišu se.
+
+Stavak 5. mijenja se i glasi:
+
+“Ponovno imenovanje suca po proteku roka od pet godina Vijeće provodi po službenoj dužnosti, bez oglašavanja slobodnog mjesta suca.”
+
+### Članak 15.
+
+Članak 17. mijenja se i glasi:
+
+“Nakon proteka roka iz članka 16. stavka 3. ovoga Zakona ministar nadležan za poslove pravosuđa zatražit će mišljenje o svim kandidatima za suce od nadležnoga sudačkog vijeća. Uz poziv na davanje mišljenja, ministar će sudačkom vijeću dostaviti prijave s dokazima i podacima koje su kandidati priložili, te podatke o kandidatima kojima ministarstvo nadležno za poslove pravosuđa raspolaže.
+
+U postupku davanja mišljenja, sudačko vijeće može zatražiti i podatke o kandidatima za suce:
+
+- od predsjednika suda u kojem je obnašao dužnost ili od predsjednika neposredno višeg suda, ako je kandidat već obnašao dužnost suca, sudskog savjetnika ili sudačkog vježbenika,
+
+- od drugih tijela koja mogu dati podatke relevantne za ispunjavanje općih i posebnih uvjeta za imenovanje suca odgo­varajućeg suda, ako kandidat nije obnašao dužnost u pravosuđu.
+
+Ako su za kandidata već bile dane ocjene obnašanja dužnosti sudačko će ih vijeće uzeti u obzir pri izradi mišljenja, a ako njima ne raspolaže pribavit će ih od nadležnoga sudačkog vijeća ili ministarstva nadležnog za poslove pravosuđa.
+
+Mišljenje sudačkog vijeća o kandidatima za sudačka mjesta, izrađuje se u pisanom obliku i sadrži obrazloženje o ispunjavanju općih i posebnih uvjeta za imenovanje suca odgovarajućeg suda. U izradi obrazloženja sudačko vijeće uzet će u obzir odredbe članka 52. Zakona o sudovima.
+
+Sudačko vijeće je dužno svoje mišljenje dostaviti najkasnije u roku od 60 dana. Ako mišljenje ne bude dostavljeno, ministar nadležan za poslove pravosuđa u daljnjem roku od 8 dana zatražit će dostavu mišljenja.
+
+Ako ni u daljnjem roku od 15 dana mišljenje ne bude dostavljeno, ministar nadležan za poslove pravosuđa podnijet će Vijeću listu svih kanidata koji ispunjavaju uvjete za suce s podacima kojima raspolaže. Vijeće u postupku imenovanja može o kandidatima samo zatražiti podatke iz stavka 2. ovoga članka od odgovarajućih tijela i organizacija.
+
+Ministar nadležan za poslove pravosuđa podnijet će Vijeću listu kandidata koji ispunjavaju uvjete za imenovanje s mišlje­njem sudačkog vijeća. Uz listu kandidata koji ispunjavaju uvjete izvijestit će se Vijeće o svim prijavljenim kandidatima, a dostavit će mu se i prijave kandidata sa svim podacima prikupljenima u postupku davanja mišljenja.”
+
+### Članak 16.
+
+Članak 18. mijenja se i glasi:
+
+“U postupku imenovanja i razrješenja suca, Vijeće će pribaviti mišljenje od mjerodavnog odbora Zastupničkog doma Hrvat­skoga sabora.
+
+Prigodom donošenja odluke o imenovanju suca Vijeće će uzeti u obzir mišljenje sudačkog vijeća i odredbe članka 52. Zakona o sudovima.
+
+Odluka o imenovanju objavljuje se u »Narodnim novinama«.
+
+Odluka Vijeća s pisanim obrazloženjem dostavlja se svim kandidatima u roku od 15 dana od objavljivanja imenovanja.
+
+Sudac je dužan stupiti na dužnost u roku koje odredi Vijeće, a najkasnije u roku od šest mjeseci od dana imenovanja.
+
+Ako sudac ne stupi na dužnost u roku iz stavka 6. ovoga članka smatrat će se da nije ni imenovan.”
+
+### Članak 17.
+
+Iza članka 18. dodaje se članak 18.a koji glasi:
+
+“Članak 18.a
+
+Vijeće će na zahtjev ministra nadležnog za poslove pravosuđa ili po službenoj dužosti poništiti odluku o imenovanju ako utvrdi:
+
+- da imenovani sudac nije ispunjavao uvjete za imenovanje,
+
+- da je odluka utemeljena na neistinitim podacima i dokazima,
+
+- da sudac bez opravdanog razloga nije niti u roku od šest mjeseci nakon imenovanja položio prisegu,
+
+- da je do imenovanja došlo uslijed kaznenog djela kandidata ili predsjednika ili člana Vijeća.”
+
+### Članak 18.
+
+U članku 19. stavku 1. riječi: “predsjednik ili” brišu se.
+
+Stavak 2. briše se, a stavak 3. postaje stavak 2.
+
+Stavak 4. koji postaje stavak 3. mijenja se i glasi:
+
+“Sudac će potpisati prisegu.”
+
+### Članak 19.
+
+Članak 20. mijenja se i glasi:
+
+“Sudac odgovara za počinjena stegovna djela.
+
+Stegovna dijela jesu:
+
+1. zlouporaba položaja ili prekoračenja službene ovlasti,
+
+2. neopravdano neobnašanje ili neuredno obnašanje sudačke dužnosti,
+
+3. obnašanje službe, poslova ili djelatnosti nespojivih sa sudačkom dužnošću,
+
+4. izazivanje poremećaja u radu suda koji znatno utječu na djelovanje sudbene vlasti,
+
+5. povreda službene tajne u svezi s obnašanjem sudačke dužnosti,
+
+6. nanošenje štete ugledu suda ili sudačke dužnosti na drugi način.
+
+Stegovni postupak za stegovno djelo iz stavka 2. točke 2. ovoga članka pokrenut će se osobito:
+
+- ako sudac bez opravdanog razloga ne izrađuje i ne otprema sudske odluke u zakonskom roku,
+
+- ako je sudačko vijeće ocijenilo njegov rad negativnom ocjenom (članak 54. Zakona o sudovima),
+
+- ako je, bez opravdanog razloga, broj odluka koje je donio u jednogodišnjem razdoblju bitno ispod prosjeka u Republici Hrvat­skoj.”
+
+### Članak 20.
+
+U članku 21. stavku 1. točka 3. briše se, a točka 4. postaje točka 3.
+
+Stavak 2. mijenja se i glasi:
+
+“Kazna iz stavka 1. točke 3. ovoga članka može se izreći samo za stegovno djelo iz članka 20. ovoga Zakona ako je po­činjeno pod naročito teškim okolnostima (teško stegovno djelo).”
+
+U stavku 3. riječi: “predsjednika suda, suca odnosno državnoodvjetničkog dužnosnika” zamjenjuju se riječju: “suca”.
+
+Stavak 5. mijenja se i glasi:
+
+“O izrečenoj kazni u roku od 24 sata obavještava se nadležno sudačko vijeće, predsjednik suda u kojem sudac obavlja dužnost i ministarstvo nadležno za poslove pravosuđa, koje vodi evidenciju o izračenim kaznama.”
+
+### Članak 21.
+
+U članku 23. stavak 1. mijenja se i glasi:
+
+“U stegovnom postupku u prvom stupnju odlučuje Vijeće većinom glasova svih članova.”
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+Stavci 4. i 5. brišu se.
+
+### Članak 22.
+
+Članak 24. mijenja se i glasi:
+
+“Ako postoji osnovana sumnja da je sudac počinio stegovno djelo, predsjednik suda u kojem obnaša sudačku dužnost dužan je protiv tog suca podnijeti zahtjev za pokretanje stegovnog postupka.
+
+Zahtjev za pokretanje postupka zbog počinjenja stegovnog djela može podnijeti i predsjednik neposredno višeg suda, predsjednik Vrhovnog suda Republike Hrvatske, sudačko vijeće te ministar nadležan za poslove pravosuđa.
+
+Zahtjev za pokretanje postupka pred Vijećem zastupa ovlašteni podnositelj iz stavka 1. i 2. ovoga članka ili osoba koju on ovlasti.
+
+Ako je do odluke o pokretanju stegovnog postupka potrebno obaviti istražne radnje, njih obavlja sudac kojeg određuje predsjednik Vijeća.”
+
+### Članak 23.
+
+U članku 25. stavci 1. i 2. mijejenjaju se i glase:
+
+“Zahtjev za pokretanje stegovnog postupka podnosi se u pisanom obliku i sadrži osobne podatke o sucu čija se stegovna odgovornost traži, opis stegovnog djela, prijedlog za izricanje određene stegovne kazne te obrazloženje iz kojeg proizlazi osnovanost sumnje.
+
+Odmah nakon primitka zahtjeva zakazat će se ročište na koje će se pozvati sudac i podnositelj zahtjeva. Suca protiv kojeg je podnesen zahtjev za pokretanje stegovnog postupka, upozorit će se u pozivu da na ročištu može biti nazočan i njegov branitelj.”
+
+U stavku 3. riječi: “predsjednik suda, odnosno” brišu se.
+
+Stavak 4. mijenja se i glasi:
+
+“Ako nakon ročišta Vijeće ustanovi da postoji osnovana sumnja da je počinjeno stegovno djelo, donijet će odluku o pokretanju stegovnog postupka. U takvom slučaju Vijeće može zatražiti i poduzimanje određenih istražnih radnji od suca kojeg odredi.”
+
+Stavak 6. briše se.
+
+### Članak 24.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+“Ako je ovlašteni predlagatelj u zahtjevu predložio izricanje stegovne kazne razrješenje od dužnosti, vijeće će bez odgode odlučiti o privremenom udaljenju od obnašanja dužnosti. Odluka o privremenom udaljenju mora biti u pisanom obliku i s obrazloženjem.”
+
+Stavak 2. mijenja se i glasi:
+
+“Protiv odluke o privremenom udaljenju žalba nije dopuš­tena.”
+
+### Članak 25.
+
+U članku 27. stavak 1. mijenja se i glasi:
+
+“Ovlašteni podnositelj može izmijeniti ili dopuniti zahtjev. Ako izvan rasprave podnositelj izmijeni ili dopuni zahtjev, vijeće će najkasnije u roku od 15 dana po primitku zahtjeva zakazati raspravu. Na raspavu će se pozvati ovlašteni ponositelj zahtjeva, sudac i njegov branitelj te predsjednik nadležnoga sudačkog vijeća, ako sudačko vijeće nije podnositelj zahtjeva.”
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. koji postaje stavak 2. mijenja se i glasi:
+
+“Prije rasprave izdvojit će se iz spisa svi dokazi na kojima se ne može temeljiti odluka u stegovnom postupku.”
+
+### Članak 26.
+
+U članku 28. stavak 1. mijenja se i glasi:
+
+“U postupku odlučivanja o stegovnoj odgovornosti sucu protiv kojeg se postupak vodi, mora se pružiti mogućnost da iznese svoju obranu osobno ili po branitelju kojega izabere.”
+
+Stavak 3. mijenja se glasi:
+
+“Odluka kojom se utvrđuje da je sudac stegovno odgovoran i kojom mu se izriče stegovna kazna može se odnositi samo na stegovno djelo i osobu koje je podnositelj zahtjeva označio u svom zahtjevu.”
+
+U stavku 4. riječi: “Odluku stegovnog suda o stegovnoj odgovornosti izrađuje predsjednik stegovnog suda” brišu se.
+
+### Članak 27.
+
+Članak 29. mijenja se i glasi:
+
+“Protiv odluke o razrješenju, odnosno stegovnoj odgovornosti sudac ima pravo žalbe koja odgađa izvršenje odluke. Žalba se u roku od 15 dana od dana dostave odluke podnosi Ustavnom sudu Republike Hrvatske.”
+
+### Članak 28.
+
+U članku 31. stavcima 1. i 2. riječi: “Predsjednik suda ili sudac” zamjenjuju se riječju: “Sudac”.
+
+Stavak 3. mijenja se i glasi:
+
+“Odluku o udaljenju od dužnosti u slučaju iz stavka 1. ovoga članka donosi predsjednik suda.”
+
+### Članak 29.
+
+Članak 32. mijenja se i glasi:
+
+“Vijeće će razriješiti suca:
+
+- ako sam zatraži,
+
+- ako trajno izgubi sposobnost obnašanja sudačke dužnosti i
+
+- ako je osuđen za kazneno djelo koje ga čini nedostojnim obnašanja sudačke dužnosti.
+
+Ako sudac sam zatraži razrješenje, prijedlog za pokretanje postupka za razrješenje podnosi Vijeću predsjednik suda u kojem taj sudac obnaša dužnost.
+
+Ako sudac trajno izgubi sposobnost obnašanja sudačke dužnosti, ili ako je osuđen za kazneno djelo koje ga čini nedostojnim za obnašanje sudačke dužnosti, prijedlog Vijeću za pokretanje postupka za razrješenje podnosi nadležno sudačko vijeće.
+
+Ministar nadležan za poslove pravosuđa i predsjednik Vrhov­nog suda Republike Hrvatske mogu prijedlog za pokretanje postupka za razrješenje iz stavka 3. ovoga članka podnijeti za svakog suca.”
+
+### Članak 30.
+
+U članku 34. stavku 3. riječi: “Predsjedniku ili sucu” zamjenjuju se riječju: “Sucu”.
+
+Stavak 6. mijenja se i glasi:
+
+“Protiv odluke o razrješenju sudac ima prava utvrđena člankom 29. ovoga Zakona.”
+
+### Članak 31.
+
+U članku 35. riječi: “predsjednik suda ili” brišu se, iza riječi: “razrješenje”, umjesto zareza stavlja se točka, a riječi: “a za predsjednika suda rješenje će donijeti predsjednik neposredno višeg suda” brišu se.
+
+### Članak 32.
+
+Glava “VIII. IMENOVANJE I RAZRJEŠENJE DRŽAV­NIH ODVJETNIKA” i članci 36. do 39. brišu se.
+
+### Članak 33.
+
+Izbor članova Vijeća po odredbama ovoga Zakona obavit će se u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+Danom izbora novih članova Vijeća prestaje mandat članovima Vijeća izabranima prema odredbama Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 58/93. i 49/99.).
+
+### Članak 34.
+
+Svi postupci u tijeku pred Vijećem nastavit će se i provesti po odredbama ovoga Zakona.
+
+### Članak 35.
+
+Vijeće izabrano po odredbama ovoga Zakona dužno je u roku od 45 dana od dana izbora donijeti Poslovnik o svom radu.
+
+### Članak 36.
+
+Ovlašćuje se Odbor za zakonodavstvo Zastupničkog doma Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o Državnom sudbenom vijeću.
+
+### Članak 37.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 700-01/00-01/01  
+Zagreb, 15. prosinca 2000.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću (NN 150/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2900*
+
+HRVATSKI SABOR
+
+2900
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Držav­nom sudbenom vijeću, kojega je Hrvatski sabor donio na sjednici 29. studenoga 2005. godine.
+
+Broj: 01-081-05/3529/2
+
+Zagreb, 15. prosinca 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU**
+
+### Članak 1.
+
+U Zakonu o Državnom sudbenom vijeću (»Narodne novine«, br. 58/93., 49/99., 31/00., 107/00., 129/00. i 59/05.) članak 3. mijenja se i glasi:
+
+»(1) U postupku izbora članova Vijeća Odbor za pravosuđe Hrvatskoga sabora zatražit će od predsjednika Vrhovnog suda Republike Hrvatske, predsjednika Hrvatske odvjetničke komore i dekana pravnih fakulteta pokretanje postupka kandidiranja za članove Vijeća.
+
+(2) Predsjednik Vrhovnog suda Republike Hrvatske zatražit će od sudova da predlože kandidate iz reda sudaca. Na temelju prikupljenih prijedloga Opća sjednica Vrhovnog suda Republike Hrvatske uz sudjelovanje po dva predstavnika Visokoga prekršajnog suda Republike Hrvatske, Visokoga trgovačkog suda Republike Hrvatske, Upravnog suda Republike Hrvatske, te po jednog predstavnika svakoga županijskog suda utvrđuje kandidate i svoj prijedlog upućuje Odboru za pravosuđe Hrvatskoga sabora.
+
+(3) Prijedlog kandidata iz reda sudaca mora osigurati zastupljenost kandidata iz sudova različite vrste.
+
+(4) Kandidate iz reda odvjetnika utvrđuje na temelju prikupljenih prijedloga Skupština Hrvatske odvjetničke komore, a kandidate iz reda sveučilišnih profesora pravnih znanosti sjednica dekana pravnih fakulteta i upućuje ih Odboru za pravosuđe Hrvatskoga sabora.
+
+(5) Za svako mjesto u Vijeću ovlašteni predlagatelj iz stavka 2. i 4. ovoga članka mora predložiti najmanje tri kandidata.
+
+(6) Odbor za pravosuđe Hrvatskoga sabora zatražit će i od ministra pravosuđa predlaganje osoba za koje smatra da mogu biti kandidati za člana Vijeća.
+
+(7) Odbor za pravosuđe Hrvatskoga sabora predložit će Hrvatskom saboru sve predložene kandidate koji ispunjavaju uvjete za imenovanje.«
+
+### Članak 2.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Članu prestaje dužnost u Vijeću po sili zakona danom kad mu prestane dužnost koju je obavljao u vrijeme kada je izabran za predsjednika ili člana Vijeća.
+
+(2) Ne smatra se prestankom dužnosti ako član Vijeća bude imenovan za suca u drugi sud.
+
+(3) Član vijeća bit će razriješen dužnosti prije isteka vremena na koje je izabran zbog neurednog obavljanja dužnosti predsjednika ili člana Vijeća.
+
+(4) Član Vijeća bit će razriješen dužnosti prije isteka vremena na koje je izabran:
+
+– ako to sam zatraži,
+
+– ako bude imenovan predsjednikom suda, danom stupanja na dužnost,
+
+– ako bude osuđen na kaznu zatvora,
+
+– ako trajno izgubi sposobnost obavljati svoju dužnost,
+
+– ako izgubi hrvatsko državljanstvo.
+
+(5) Prijedlog za razrješenje dužnosti člana Vijeća prije isteka vremena na koje je izabran može podnijeti opća sjednica Vrhovnog suda Republike Hrvatske uz sudjelovanje po dva predstavnika Visokoga prekršajnog suda Republike Hrvatske, Visokoga trgovačkog suda Republike Hrvatske, Upravnog suda Republike Hrvatske, te po jednog predstavnika svakoga županijskog suda, Skupština Hrvatske odvjetničke komore i sjednica dekana pravnih fakulteta, svaki u pogledu članova Vijeća koje su predložili u postupku utvrđivanja kandidata za članove Vijeća.
+
+(6) Postojanje razloga za razrješenje člana Vijeća prije isteka vremena na koje je izabran utvrđuje Odbor za pravosuđe Hrvatskoga sabora, a razrješuje ih Hrvatski sabor.«
+
+### Članak 3.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Po proteku roka iz članka 16. stavka 3. ovoga Zakona ministar pravosuđa zatražit će mišljenje o svim kandidatima za suce od nadležnoga sudačkog vijeća. Uz poziv na davanje mišljenja, ministar će sudačkom vijeću dostaviti prijave s dokazima i podacima koje su kandidati priložili i druge podatke o kandidatima kojima Ministarstvo pravosuđa raspolaže.
+
+(2) U postupku davanja mišljenja, sudačko vijeće može zatražiti i podatke o kandidatima za suce:
+
+– od predsjednika suda u kojem je obnašao dužnost ili od predsjednika neposredno višeg suda, ako je kandidat već obnašao dužnost suca, sudskog savjetnika ili sudačkog vježbenika,
+
+– od drugih tijela koja mogu dati podatke relevantne za ispunjavanje općih i posebnih uvjeta za imenovanje suca odgovarajućeg suda, ako kandidat nije obnašao dužnost u pravosuđu,
+
+– od Pravosudne akademije, je li sudac predavač ili je sudjelovao kao polaznik u stručnom usavršavanju.
+
+(3) Ako su za kandidata već bile dane ocjene obnašanja dužnosti sudačko će ih vijeće uzeti u obzir pri izradi mišljenja, a ako njima ne raspolaže pribavit će ih od nadležnoga sudačkog vijeća ili Ministarstva pravosuđa.«
+
+### Članak 4.
+
+Iza članka 17. dodaje se članak 17.a koji glasi:
+
+*»Članak 17.a*
+
+(1) Mišljenje sudačkog vijeća o kandidatima za suca izrađuje se u pisanom obliku i sadrži obrazloženje o ispunjavanju općih i posebnih uvjeta za imenovanje suca.
+
+(2) Sudačko vijeće je dužno svoje mišljenje dostaviti najkasnije u roku od 60 dana. Ako mišljenje ne bude dostavljeno, ministar pravosuđa u daljnjem roku od 8 dana zatražit će dostavu mišljenja.
+
+(3) Ako ni u daljnjem roku od 15 dana mišljenje ne bude dostavljeno, ministar pravosuđa podnijet će Vijeću listu svih prijavljenjih kandidata za suce s podacima kojima raspolože. Vijeće u postupku imenovanja može o kandidatima samo zatražiti podatke iz stavka 2. ovoga članka od odgovarajućih tijela i organizacija.
+
+(4) Ministar pravosuđa podnijet će Vijeću listu svih prijavljenih kandidata s time da će posebno izvijestiti Vijeće koji kandidati ispunjavaju uvjete za imenovanje s mišljenjem sudačkog vijeća. Uz listu kandidata dostavit će mu se i prijave kandidata sa svim podacima prikupljenima u postupku davanja mišljenja.
+
+(5) Vijeće može tražiti od nadležnoga sudačkog vijeća dopunu mišljenja o kandidatima.«
+
+### Članak 5.
+
+Članak 18. mijenja se i glasi:
+
+»(1) U postupku imenovanja i razrješenja suca, Vijeće će pribaviti mišljenje od Odbora za pravosuđe Hrvatskoga sabora.
+
+(2) U postupku imenovanje sudaca Vijeće će pribaviti mišljenje od Odbora za pravosuđe Hrvatskoga sabora samo za kandidate koji ispunjavaju uvjete za suca.
+
+(3) Pri donošenju odluke o imenovanju suca Vijeće će uzeti u obzir mišljenje sudačkog vijeća i mišljenje Odbora za pravosuđe Hrvatskoga sabora.
+
+(4) Prigodom donošenja odluke o imenovanju sudaca Vijeće će uzeti u obzir i odredbu članka 74. stavka 7. i 8. Zakona o sudovima.
+
+(5) Odluka Vijeća s pisanim obrazloženjem dostavlja se svim kandidatima u roku od 15 dana od dana objavljivanja imenovanja.
+
+(6) Odluka o imenovanju objavljuje se u »Narodnim novinama«.
+
+(7) Sudac je dužan stupiti na dužnost u roku koji odredi Vijeće, a najkasnije u roku od šest mjeseci od dana imenovanja.
+
+(8) Ako sudac ne stupi na dužnost u roku iz stavka 7. ovoga članka smatrat će se da nije ni imenovan.«
+
+### Članak 6.
+
+Članak 18.a mijenja se i glasi:
+
+»(1) Vijeće na zahtjev ministra pravosuđa, predsjednika Vrhovnog suda Republike Hrvatske, sudačkog vijeća suda u kojem sudac obnaša sudačku dužnost, predsjednika suda ili predsjednika neposredno višeg suda ili po službenoj dužnosti pokreće postupak radi poništenja odluke o imenovanju.
+
+(2) Vijeće će poništiti odluku o imenovanju ako utvrdi:
+
+– da imenovani sudac nije ispunjavao uvjete za imenovanje,
+
+– da je odluka utemeljena na neistinitim podacima i dokazima,
+
+– da sudac bez opravdanog razloga nije niti u roku od šest mjeseci nakon imenovanja položio prisegu,
+
+– da je do imenovanja došlo uslijed kaznenog djela kandidata utvrđenog pravomoćnom odlukom suda o postojanju kaznenog djela i kaznene odgovornosti.«
+
+### Članak 7.
+
+Iza članka 19. dodaje se članak 19.a koji glasi:
+
+*»Članak 19.a*
+
+(1) Sucu prestaje sudačka dužnost ako ga u skladu s Ustavom i ovim Zakonom te dužnosti razriješi Vijeće.
+
+(2) Žalba Ustavnom sudu Republike Hrvatske ne odgađa izvršenje rješenja.«
+
+### Članak 8.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Sudac odgovara za počinjena stegovna djela.
+
+(2) Stegovna djela jesu:
+
+1. zlouporaba položaja ili prekoračenja službene ovlasti,
+
+2. neuredno obnašanje sudačke dužnosti,
+
+3. obnašanje službe, poslova ili djelatnosti nespojivih sa sudačkom dužnošću,
+
+4. izazivanje poremećaja u radu suda koji znatno utječu na djelovanje sudbene vlasti,
+
+5. povreda službene tajne u svezi s obnašanjem sudačke dužnosti,
+
+6. nanošenje štete ugledu suda ili sudačke dužnosti na drugi način.
+
+(3) Stegovni postupak za stegovno djelo iz stavka 2. točke 2. ovoga članka pokrenut će se osobito:
+
+1. ako sudac bez opravdanog razloga ne izrađuje i ne otprema sudske odluke,
+
+2. ako je sudačko vijeće ocijenilo rad suca negativnom ocjenom,
+
+3. ako je bez opravdanog razloga broj odluka koje je sudac donio u jednogodišnjem razdoblju bitno ispod prosjeka u Republici Hrvatskoj.«
+
+### Članak 9.
+
+Iza članka 21. dodaje se članak 21.a koji glasi:
+
+»Članak 21.a
+
+Sudac kojemu je Državno sudbeno vijeće izreklo stegovnu kaznu ukora ne smije biti imenovan u viši sud prije proteka roka od dvije godine od dana pravomoćnosti odluke kojom je kazna izrečena, a ako je izrečena novčana kazna ne smije biti imenovan u viši sud prije proteka roka od tri godine od dana pravomoćnosti odluke kojom je kazna izrečena.«
+
+### Članak 10.
+
+U članku 22. stavku 1. riječ: »dvije« zamjenjuje se riječju: »tri«.
+
+### Članak 11.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Tijela stegovnog postupka su Vijeće i Stegovno vijeće.
+
+(2) Stegovno vijeće provodi postupak i predlaže Vijeću odluku.
+
+(3) Stegovno vijeće provodi stegovni postupak, utvrđuje činjenice i sačinjava prijedlog odluke. Stegovno vijeće čine predsjednik i dva člana.
+
+(4) Stegovno vijeće imenuje Državno sudbeno vijeće.
+
+(5) Dva člana Stegovnog vijeća uvijek moraju biti suci. Članovi Stegovnog vijeća među sobom biraju predsjednika vijeća. Predsjednik vijeća mora biti najmanje sudac istog stupnja kao i sudac protiv kojega se vodi stegovni postupak.
+
+(6) Na temelju provedenog postupka Stegovno vijeće sačinjava prijedlog odluke s obrazloženjem koje se podnosi Vijeću.
+
+(7) Predsjednik Stegovnog vijeća usmeno izlaže tijek postupka, izvedene dokaze i utvrđene činjenice i obrazlaže prijedlog stegovne kazne. Sjednici vijeća prisustvuje sudac protiv kojega je pokrenut stegovni postupak, njegov branitelj i podnositelj zahtjeva.
+
+(8) Vijeće donosi odluku o stegovnoj odgovornosti pri čemu nije vezano uz prijedlog Stegovnog vijeća.
+
+(9) Ako se stegovni postupak vodi protiv člana Vijeća, taj je član izuzet od odlučivanja u stegovnom postupku.«
+
+### Članak 12.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Stegovni postupak pokreće se podnošenjem zahtjeva za provođenje stegovnog postupka.
+
+(2) Zahtjev za provođenje stegovnog postupka podnosi se u pisanom obliku i sadrži osobne podatke o sucu čija se stegovna odgovornost traži, činjenični i pravni opis stegovnog djela, prijedlog za izricanje određene stegovne kazne te obrazloženje iz kojega proizlazi osnovanost sumnje.
+
+(3) Odmah nakon primitka zahtjeva Vijeće će odrediti Stegovno vijeće radi provođenja stegovnog postupka.
+
+(4) Tijekom stegovnog postupka Stegovno vijeće može odrediti da određene izvide obavi član Stegovnog vijeća kojeg ono ovlasti.«
+
+### Članak 13.
+
+Članak 26. briše se.
+
+### Članak 14.
+
+U članku 27. stavku 1. u drugoj rečenici iza riječi: »izmijeniti ili dopuniti zahtjev« dodaje se riječ: »Stegovno«.
+
+### Članak 15.
+
+Članak 28. mijenja se i glasi:
+
+»(1) U postupku odlučivanja o stegovnoj odgovornosti sucu protiv kojega se postupak vodi mora se pružiti mogućnost da iznese svoju obranu osobno, u pisanom obliku, ili po branitelju kojega izabere.
+
+(2) Odluka kojom se utvrđuje da je sudac stegovno odgovoran i kojom mu se izriče stegovna kazna može se odnositi samo na stegovno djelo i osobu koju je podnositelj zahtjeva označio u svom zahtjevu.
+
+(3) Odluka mora biti izrađena i otpremljena strankama u roku od 15 dana nakon njezina donošenja.«
+
+### Članak 16.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Sudac će biti udaljen od dužnosti:
+
+– ako je protiv njega pokrenut kazneni postupak zbog kaznenog djela za koje je predviđena kazna zatvora od pet godina ili teža kazna, ili dok se nalazi u pritvoru,
+
+– zbog osude za kazneno djelo koje ga čini nedostojnim obavljanja sudačke dužnosti ili
+
+– zbog počinjenoga teškoga stegovnog djela.
+
+(2) Sudac može biti udaljen od dužnosti:
+
+– ako je protiv njega pokrenut kazneni postupak zbog kaznenog djela za koje je predviđena kazna zatvora do pet godina,
+
+– ako obavlja službu, posao ili aktivnost koji su nespojivi s obavljanjem sudačke dužnosti,
+
+– ako je ovlašteni predlagatelj u zahtjevu za pokretanje stegovnog postupka predložio izricanje stegovne kazne razrješenja od dužnosti.
+
+(3) Zahtjev za udaljenje od dužnosti Vijeću podnosi predsjednik suda u kojem sudac obnaša sudačku dužnost, predsjednik neposredno višeg suda, nadležno sudačko vijeće ili predsjednik Vrhovnog suda Republike Hrvatske.
+
+(4) Odluku o udaljenju od dužnosti u slučaju iz stavka 1. ovoga članka donosi predsjednik suda, a u slučajevima iz stavka 2. ovoga članka odluku donosi Vijeće bez odgode.
+
+### Članak 17.
+
+Iza članka 31. dodaje se članak 31.a i 31.b, a koji glase:
+
+*»Članak 31.a*
+
+(1) Odluka o privremenom udaljenju mora biti u pisanom obliku i s obrazloženjem.
+
+(2) Protiv odluke o privremenom udaljenju žalba nije dopuštena.
+
+### Članak 31.b
+
+(1) Privremeno udaljenje od obavljanja dužnosti određuje se na rok od tri mjeseca, po proteku toga roka može ga Vijeće iz oprav­danih razloga, na jednak način produljiti za daljnja tri mjeseca. Privremeno udaljenje može trajati do pravomoćnog okončanja stegovnog postupka, koji u tom slučaju Vijeće mora provesti u roku od godinu dana.
+
+(2) Za vrijeme privremenog udaljenja od dužnosti sudac ima pravo na jednu polovinu plaće.
+
+(3) U slučaju oslobađajuće odluke u stegovnom postupku odluka o privremenom udaljenju prestaje po sili zakona danom pravomoćnosti odluke Vijeća. U tom slučaju ili u slučaju da je izrečena stegovna mjera novčane kazne ili ukora, sudac ima pravo na isplatu razlike neisplaćene plaće za vrijeme trajanja posljedica odluke o udaljenju od obavljanja dužnosti.«
+
+### Članak 18.
+
+Članak 32. mijenja se i glasi:
+
+»(1) Vijeće će razriješiti suca:
+
+1. ako to sam zatraži,
+
+2. ako trajno izgubi sposobnost obnašanja svoje dužnosti,
+
+3. ako bude osuđen za kazneno djelo koje ga čini nedostojnim obavljanja sudačke dužnosti,
+
+4. ako u skladu sa zakonom, zbog počinjenoga teškoga stegovnog djela, tako odluči Vijeće,
+
+5. kad navrši sedamdeset godina.
+
+(2) Ako sudac sam zatraži razrješenje, prijedlog za pokretanje postupka za razrješenje podnosi Vijeću predsjednik suda u kojem taj sudac obnaša dužnost.
+
+(3) Ako sudac trajno izgubi sposobnost obnašanja sudačke dužnosti, ili je osuđen za kazneno djelo koje ga čini nedostojnim za obnašanje sudačke dužnosti, ili kad navrši sedamdeset godina, prijedlog Vijeću za pokretanje postupka za razrješenje podnosi predsjednik suda, predsjednik neposredno višeg suda, ili nadležno sudačko vijeće.
+
+(4) Ministar pravosuđa ili predsjednik Vrhovnog suda Republike Hrvatske mogu prijedlog za pokretanje postupka za razrješenje iz stavka 3. ovoga članka podnijeti za svakog suca.«
+
+### Članak 19.
+
+U članku 34. stavak 1. mijenja se i glasi:
+
+»(1) Kad Vijeće odluči pokrenuti postupak, Stegovno vijeće ili sud kojega Vijeće ovlasti provodi i osigurava dokaze.«
+
+### Članak 20.
+
+(1) Postupci imenovanja i razrješenja sudaca, kao i stegovni postupci započeti prije stupanja na snagu ovoga Zakona dovršit će se po propisima koji su bili na snazi do stupanja na snagu ovoga Zakona.
+
+(2) Imenovanje i razrješenje sudaca po odredbama ovoga Zakona provest će se u onim slučajevima kada je oglas za popunu slobodnoga sudačkog mjesta objavljen ili zahtjev za razrješenje suca podnesen nakon stupanja na snagu ovoga Zakona.
+
+### Članak 21.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 700-01/05-01/01
+
+Zagreb, 29. studenoga 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

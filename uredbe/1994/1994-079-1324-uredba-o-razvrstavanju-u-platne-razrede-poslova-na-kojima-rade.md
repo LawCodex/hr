@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1994-10-27
-last_amended: 2000-07-24
+last_amended: 2000-08-25
 status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "79/94, 74/00"
+narodne_novine: "79/94, 74/00, 83/00"
 amendments:
   - "NN 74/2000 (1593) Uredba o izmjenama Uredbe o razvrstavanju u platne razrede poslova na kojima rade namještenici"
+  - "NN 83/2000 (1738) Ispravak Uredbe o izmjenama Uredbe o razvrstavanju u platne razrede poslova na kojima rade namještenici"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/79/1324"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 79/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/79/1324).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 74/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 74/2000, NN 83/2000.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -113,3 +114,28 @@ Zagreb, 20. srp­nja 2000.
 
 Predsjednik  
 Ivica Račan, v. r.
+
+## Ispravak Uredbe o izmjenama Uredbe o razvrstavanju u platne razrede poslova na kojima rade namještenici (NN 83/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/83/1738*
+
+### MINISTARSTVO PROSVJETE I ŠPORTA
+
+1738
+
+Nakon uspoređiva­nja s izvornim tekstom utvrđena je tiskarska pogreška u Uredbi o izmjenama uredbe o razvrstava­nju u platne razrede poslova na kojima rade namještenici objav­ljenoj u »Narodnim novinama« broj 74 od 24. srp­nja 2000. te se daje
+
+### ISPRAVAK
+
+### UREDBE O IZMJENAMA UREDBE O RAZVRSTAVANJU U PLATNE RAZREDE POSLOVA NA KOJIMA RADE NAMJEŠTENICI
+
+U članku 1. stavku 3. podstavak 3. umjesto teksta »– poslovi prijepisa II. vrste zva­nja« treba stajati tekst » – poslovi prijepisa III. vrste zva­nja«.
+
+Urbroj: 50501-00-662  
+Zagreb, 24. kolovoza 2000.
+
+Glavna urednica  
+S­nježana Bagić, v. r.
+
+____________  
+Uredba o izmjenama uredbe o razvrstavanju u platne razrede poslova na kojima rade namještenici

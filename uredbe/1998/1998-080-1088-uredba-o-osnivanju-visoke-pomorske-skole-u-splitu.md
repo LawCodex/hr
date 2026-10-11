@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1998-06-09
+last_amended: 2003-05-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "80/98"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "80/98, 83/03"
+amendments:
+  - "NN 83/2003 (1025) Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke pomorske škole u Splitu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/80/1088"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Visoke pomorske škole u Splitu
 
 > Izvor: Narodne novine, NN 80/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/80/1088).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 83/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -184,3 +188,86 @@ Zagreb, 4. lipnja 1998.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke pomorske škole u Splitu (NN 83/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/83/1025*
+
+VLADA REPUBLIKE HRVATSKE
+
+1025
+
+Na teme­lju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99) i članka 10. stavaka 2. i 3. Zakona o visokim učilištima (»Narodne novine«, br. 59/96 – pročišćeni tekst, 14/2000, 67/2000, 94/2000 i 129/2000), Vlada Republike Hrvatske je na sjednici održanoj 15. svib­nja 2003. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O OSNIVANJU VISOKE POMORSKE ŠKOLE U SPLITU**
+
+### Članak 1.
+
+U Uredbi o osniva­nju Visoke pomorske škole u Splitu (»Narodne novine«, broj 80/98), u članku 1. stavak 1. mije­nja se i glasi:
+
+»Ovom Uredbom osniva se javna ustanova pod nazivom Sveučilište u Splitu – Visoka pomorska škola u Splitu (u da­lj­njem tekstu: Škola)«.
+
+### Članak 2.
+
+Članak 2. mije­nja se i glasi:
+
+»Osnivač škole je Republika Hrvatska koja osnivačka prava prenosi na Sveučilište u Splitu (u da­lj­njem tekstu: Sveučilište).«
+
+### Članak 3.
+
+U članku 4. riječi: »upravno vijeće,« brišu se.
+
+### Članak 4.
+
+Članci 5. i 6. brišu se.
+
+### Članak 5.
+
+U članku 7. stavak 1. mije­nja se i glasi:
+
+»Dekan uprav­lja Školom, ­njen je čelnik i vodite­lj.«
+
+U stavku 2. iza riječi: »visoke škole« briše se točka, stav­lja zarez i dodaju riječi: »na vrijeme od dvije godine s tim što ista osoba može biti birana dva puta uzastopce«.
+
+### Članak 6.
+
+Članak 8. mije­nja se i glasi:
+
+»Škola ne može bez suglasnosti Sveučilišta sklapati poslove o stjeca­nju, optereće­nju ili otuđe­nju nekretnina.
+
+Škola ne može bez suglasnosti Sveučilišta steći, otuđiti ili opteretiti nekretnine ili drugu imovinu, niti ugovoriti drugi posao ako vrijednost pojedinačnog ugovora prelazi iznos od 200.000,00 kuna.«
+
+### Članak 7.
+
+U članku 10. stavku 1. podstavak 3. mije­nja se i glasi:
+
+»– predlaže nastavne programe Senatu Sveučilišta«.
+
+### Članak 8.
+
+U članku 14. stavak 2. mije­nja se i glasi:
+
+»Sveučilište solidarno i neograničeno odgovara za obveze Škole.«
+
+### Članak 9.
+
+U članku 17. stavak 1. mije­nja se i glasi:
+
+»Nastavne programe Škole donosi Senat Sveučilišta u Splitu.«
+
+### Članak 10.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 602-04/98-01/18  
+Urbroj: 5030104-03-1  
+Zagreb, 15. svib­nja 2003.
+
+Predsjednik  
+Ivica Račan, v. r.

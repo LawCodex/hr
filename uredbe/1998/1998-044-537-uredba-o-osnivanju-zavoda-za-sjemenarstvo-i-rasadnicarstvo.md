@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1998-03-31
-last_amended: 2000-05-11
+last_amended: 2004-02-18
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2004; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "44/98, 48/00"
+narodne_novine: "44/98, 48/00, 21/04"
 amendments:
   - "NN 48/2000 (1089) Uredba o dopunama Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo"
+  - "NN 21/2004 (572) Uredba o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/44/537"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 44/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/44/537).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2000, NN 21/2004.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -205,3 +206,42 @@ Zagreb, 5. svibnja 2000.
 Potpredsjednik,  
 zamjenik predsjednika,  
 dr. sc. Goran Granić, v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo (NN 21/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/572*
+
+VLADA REPUBLIKE HRVATSKE
+
+572
+
+Na temelju članka 3. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 131/97 i 163/2003) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvatske je na sjednici održanoj 12. veljače 2004. godine donijela
+
+**UREDBU**
+
+**o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadniČarstvo**
+
+### Članak 1.
+
+U Uredbi o osnivanju Zavoda za sjemenarstvo i rasadni­čarstvo (»Narodne novine«, br. 44/98, 152/98 i 48/2000), članak 4. stavak 2. mijenja se i glasi:
+
+»Upravno vijeće Zavoda čine predsjednik i dva člana.«
+
+### Članak 2.
+
+Vlada Republike Hrvatske će, u roku od 30 dana od dana stupanja na snagu ove Uredbe, imenovati predsjednika i članove Upravnog vijeća Zavoda, sukladno članku 1. ove Uredbe.
+
+Danom imenovanja predsjednika i članova Upravnog vijeća Zavoda, sukladno članku 1. ove Uredbe, prestaje mandat dosadaš­njem predsjedniku i članovima Upravnog vijeća.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 320-11/04-01/01
+
+Urbroj: 5030116-04-1
+
+Zagreb, 12. veljače 2004.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.

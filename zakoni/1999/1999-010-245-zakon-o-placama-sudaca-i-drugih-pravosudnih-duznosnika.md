@@ -6,13 +6,23 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-02-01
-last_amended: 2000-02-29
+last_amended: 2007-12-31
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "10/99, 25/00"
+narodne_novine: "10/99, 25/00, 1/01, 30/01, 59/01, 114/01, 64/02, 153/02, 17/04, 8/06, 142/06, 134/07"
 amendments:
   - "NN 25/2000 (437) Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 1/2001 (5) Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 30/2001 (525) Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 59/2001 (965) Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 114/2001 (1889) Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 64/2002 (1103) Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 153/2002 (2497) Zakon o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 17/2004 (487) Zakon o izmjeni i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 8/2006 (160) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 142/2006 (3206) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 134/2007 (3841) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245"
 retrieved: 2026-10-12
 ---
@@ -21,7 +31,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 10/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2000, NN 1/2001, NN 30/2001, NN 59/2001, NN 114/2001, NN 64/2002, NN 153/2002, NN 17/2004, NN 8/2006, NN 142/2006, NN 134/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -364,3 +374,566 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, dipl. ing., v. r.
+
+## Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 1/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/1/5*
+
+VLADA REPUBLIKE HRVATSKE
+
+5
+
+Na teme­lju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pita­nja iz djelokruga Zastupničkoga doma Hrvatskoga sabora (»Narodne novine«, broj 97/2000), Vlada Republike Hrvatske je na sjednici održanoj 22. prosinca 2000. godine, donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99 i 25/2000) u članku 4. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Za obračun plaća sudaca i drugih pravosudnih dužnosnika u 2001. godini primje­njivat će se ista osnovica kao i u 2000. godini.«
+
+Dosadaš­nji stavak 3. postaje stavak 4.
+
+### Članak 2.
+
+Odredbe članaka 5., 6. i 7. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika neće se primje­njivati u 2001. godini.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/00-01/06  
+Urbroj: 5030109-00-5  
+Zagreb, 22. prosinca 2000.
+
+Predsjednik  
+Ivica Račan, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 30/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/30/525*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+525
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 23. ožujka 2001.
+
+Broj: 01-081-01-1007/2  
+Zagreb, 29. ožujka 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99. i 25/00.) u članku 4. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Za obračun plaća sudaca i drugih pravosudnih dužnosnika u 2001. godini primje­njivat će se ista osnovica kao i u 2000. godini.«
+
+Dosadaš­nji stavak 3. postaje stavak 4.
+
+### Članak 2.
+
+Odredbe članka 5., 6. i 7. ovoga Zakona neće se primje­njivati u 2001. godini.
+
+### Članak 3.
+
+Stupa­njem na snagu ovoga Zakona prestaje važiti Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 1/01.).
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/01-01/01  
+Zagreb, 23. ožujka 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 59/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/965*
+
+HRVATSKI SABOR
+
+965
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je donio Hrvatski sabor na sjednici 29. lipnja 2001.
+
+Broj: 01-081-01-2101/2  
+Zagreb, 29. lip­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/00 i 30/01), osnovica za obračun plaća sudaca i drugih pravosudnih dužnosnika određena u članku 4. stavku 3. uma­njuje se za 7% od dana stupa­nja na snagu ovoga  
+Zakona.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/01-01/05  
+Zagreb, 29. lip­nja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 114/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1889*
+
+HRVATSKI SABOR
+
+1889
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
+
+Broj: 01-081-01-3887/2  
+Zagreb, 13. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01. i 59/01.) u članku 4. stavak 3. mije­nja se i glasi:
+
+»Za obračun plaća sudaca i drugih pravosudnih dužnosnika u 2002. godini primje­njivat će se osnovica iz prosinca 2001. godine.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 120-02/01-01/08  
+Zagreb, 7. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 64/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/64/1103*
+
+HRVATSKI SABOR
+
+1103
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je donio Hrvatski sabor na sjednici 23. svib­nja 2002.
+
+Broj: 01-081-02-2075/2  
+Zagreb, 27. svib­nja 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01. i 59/01.) u članku 4. stavku 3. točka 3. a) briše se.
+
+U dosadaš­njoj točki 4., koja postaje točka 3., iza podtočke b) dodaje se podtočka c) koja glasi:
+
+»c) – ravnate­lj Ureda za suzbija­nje korupcije i organiziranog kriminaliteta 4,0.«
+
+U dosadaš­njoj točki 5., koja postaje točka 4., podtočka d)  
+briše se.
+
+Iza točke 5. koja je postala točka 4. dodaje se nova točka 5. koja glasi:
+
+»5.a) – zamjenici ravnate­lja Ureda za suzbija­nje korupcije
+
+i organiziranog kriminaliteta 3,8.«
+
+U točki 6. podtočka b) briše se.
+
+Točka 11. briše se.
+
+U dosadaš­njoj točki 12., koja postaje točka 11., podtočka b) briše se.
+
+Dosadaš­nja točka 13. postaje točka 12.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 120-02/02-01/01  
+Zagreb, 23. svib­nja 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 153/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2497*
+
+HRVATSKI SABOR
+
+2497
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pla­ćama sudaca i drugih pravosudnih dužnosnika, koji je donio Hrvatski sabor na sjednici 13. prosinca 2002.
+
+Broj: 01-081-02-3913/2  
+Zagreb, 18. prosinca 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01. i 64/02.) u članku 1. stavku 1. riječi: »te državnih pravobranitelja i njihovih zamjenika« brišu se.
+
+U stavku 2. točka 3. briše se.
+
+### Članak 2.
+
+U članku 3. stavku 1. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. naknada za izdavanje naloga za provođenje mjera tajnog prikupljanja podataka«.
+
+Dosadašnja točka 4. postaje točka 5.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Visinu naknade ovlaštenim sucima Vrhovnog suda Repub­like Hrvatske koji izdaju naloge za provođenje mjera tajnog prikupljanja podataka utvrđuje Vlada Republike Hrvatske«.
+
+### Članak 3.
+
+U članku 4. stavak 2. mijenja se i glasi:
+
+»Osnovica za obračun plaća sudaca i drugih pravosudnih dužnosnika jednaka je osnovici za obračun plaća državnih službenika i namještenika.«
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. koji postaje stavak 3. mijenja se i glasi:
+
+»Koeficijenti za izračun plaće sudaca i drugih pravosudnih dužnosnika jesu:
+
+1. a) predsjednik Vrhovnog suda Republike
+
+Hrvatske 7,86
+
+2. a) Glavni državni odvjetnik Republike
+
+Hrvatske 7,86
+
+3. a) ravnatelj Ureda za suzbijanje korupcije
+
+i organiziranog kriminaliteta 7,14
+
+4. a) predsjednik Upravnog suda Republike
+
+Hrvatske 6,42
+
+b) predsjednik Visokog trgovačkog suda
+
+Republike Hrvatske 6,42
+
+c) predsjednik Visokog prekršajnog suda
+
+Republike Hrvatske 6,42
+
+d) suci Vrhovnog suda Republike Hrvatske 6,42
+
+e) zamjenici Glavnog državnog odvjetnika
+
+Republike Hrvatske 6,42
+
+5. a) suci Upravnog suda Republike Hrvatske 5,70
+
+b) suci Visokog trgovačkog suda Republike
+
+Hrvatske 5,70
+
+c) suci Visokog prekršajnog suda Republike
+
+Hrvatske 5,70
+
+d) zamjenici ravnatelja Ureda za suzbijanje
+
+korupcije i organiziranog kriminaliteta 5,70
+
+6. a) predsjednici županijskih sudova 4,98
+
+b) predsjednici trgovačkih sudova 4,98
+
+c) županijski državni odvjetnici 4,98
+
+7. a) suci županijskih sudova 4,55
+
+b) zamjenici županijskih državnih odvjetnika 4,55
+
+8. a) suci trgovačkih sudova 3,54
+
+b) predsjednici općinskih sudova 3,54
+
+c) predsjednici prekršajnih sudova 3,54
+
+d) općinski državni odvjetnici 3,54
+
+9. a) suci općinskih sudova 3,11
+
+b) suci prekršajnih sudova 3,11
+
+c) zamjenici općinskih državnih odvjetnika 3,11
+
+Predsjednici županijskih, općinskih i prekršajnih sudova, te županijski i općinski državni odvjetnici imaju pravo na povišeni koeficijent:
+
+– u sudovima ili državnim odvjetništvima
+
+koji imaju 11 – 20 sudaca ili zamjenika za 0,14
+
+– u sudovima ili državnim odvjetništvima
+
+koji imaju 21 – 50 sudaca ili zamjenika za 0,29
+
+– u sudovima ili državnim odvjetništvima
+
+koji imaju 51 – 100 sudaca ili zamjenika za 0,43
+
+– u sudovima ili državnim odvjetništvima
+
+koji imaju više od 100 sudaca
+
+ili zamjenika za 0,58«.
+
+### Članak 4.
+
+U članku 5. stavku 3. riječi: »i državni pravobranitelji županija i Grada Zagreba« brišu se.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2003.
+
+Klasa: 120-02/02-01/04  
+Zagreb, 13. prosinca 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić v. r.
+
+## Zakon o izmjeni i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 17/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/17/487*
+
+HRVATSKI SABOR
+
+487
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je donio Hrvatski sabor na sjednici 30. siječ­nja 2004. godine.
+
+Broj: 01-081-04-337/2  
+Zagreb, 4. ve­ljače 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01., 64/02. i 153/02.) članak 6. mije­nja se i glasi:
+
+»Plaća dužnosnika utvrđena u člancima 4. i 5. ovoga Zakona uvećava se za 0,5% za svaku navršenu godinu sudačkog, odnosno državnoodvjetničkog staža, a najviše za 20%.«
+
+### Članak 2.
+
+Iza članka 11. dodaje se članak 11.a koji glasi:
+
+»Članak 11.a
+
+Odredbe članka 5. i 7. ovoga Zakona neće se primje­njivati u 2004. godini.«
+
+### Članak 3.
+
+Ovaj Zakona stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/04-01/01  
+Zagreb, 30. siječ­nja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 8/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/160*
+
+VLADA REPUBLIKE HRVATSKE
+
+160
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, br. 115/2005 i 121/2005 – ispravak), Vlada Republike Hrvatske je na sjednici održanoj 12. siječnja 2006. godine, donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredbe članaka 5. i 7. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002 i 17/2004), neće se primjenjivati u 2006. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/06-01/01
+
+Urbroj: 5030109-06-1
+
+Zagreb, 12. siječnja 2006.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.
+
+## Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 142/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3206*
+
+VLADA REPUBLIKE HRVATSKE
+
+3206
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, br. 108/2006), Vlada Republike Hrvatske je na sjednici održanoj 21. prosinca 2006. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredbe članaka 5. i 7. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002, 17/2004 i 8/2006), neće se primjenjivati u 2007. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 120-02/06-01/01  
+Urbroj: 5030109-06-4  
+Zagreb, 21. prosinca 2006.
+
+Potpredsjednica Vlade  
+i ministrica obitelji, branitelja i  
+međugeneracijske solidarnosti  
+Jadranka Kosor, dipl. iur., v. r.
+
+## Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 134/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/134/3841*
+
+VLADA REPUBLIKE HRVATSKE
+
+3841
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 103/2007), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 2007. godine donijela
+
+**UREDBU**
+
+**O DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+Odredbe članka 5. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002, 154/2002, 17/2004, 8/2006, 142/2006 i 34/2007), neće se primjenjivati u 2008. godini.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 120-02/07-01/14
+
+Urbroj: 5030106-07-1
+
+Zagreb, 18. prosinca 2007.
+
+Potpredsjednica Vlade
+
+i ministrica obitelji, branitelja i
+
+međugeneracijske solidarnosti
+
+Jadranka Kosor, dipl. iur., v. r.

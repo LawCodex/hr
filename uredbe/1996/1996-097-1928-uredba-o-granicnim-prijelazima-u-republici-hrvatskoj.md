@@ -6,11 +6,11 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1996-11-20
-last_amended: 2000-07-17
+last_amended: 2005-07-01
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "97/96, 7/98, 81/99, 91/99, 110/99, 49/00, 69/00"
+narodne_novine: "97/96, 7/98, 81/99, 91/99, 110/99, 49/00, 69/00, 79/05"
 amendments:
   - "NN 7/1998 (113) Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj"
   - "NN 81/1999 (1474) Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj"
@@ -18,6 +18,7 @@ amendments:
   - "NN 110/1999 (1790) Uredba o izmjenama i dopunama Uredbe o graničnim prijelazima u Republici Hrvatskoj"
   - "NN 49/2000 (1107) Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj"
   - "NN 69/2000 (1512) Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj"
+  - "NN 79/2005 (1558) Uredba o dopuni Uredbe o graničnim prijelazima u Republici Hrvatskoj"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/97/1928"
 retrieved: 2026-10-12
 ---
@@ -26,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 97/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/97/1928).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 7/1998, NN 81/1999, NN 91/1999, NN 110/1999, NN 49/2000, NN 69/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 7/1998, NN 81/1999, NN 91/1999, NN 110/1999, NN 49/2000, NN 69/2000, NN 79/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -834,3 +835,37 @@ Zagreb, 13. srp­­nja 2000.
 Potpredsjednik,  
 zamjenik predsjednika  
 dr. sc. Goran Granić, v. r.
+
+## Uredba o dopuni Uredbe o graničnim prijelazima u Republici Hrvatskoj (NN 79/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/79/1558*
+
+VLADA REPUBLIKE HRVATSKE
+
+1558
+
+Na temelju članka 12. stavka 3. Zakona o nadzoru državne granice (»Narodne novine«, broj 173/2003), Vlada Republike Hrvatske je na sjednici održanoj 30. lipnja 2005. godine donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O GRANIČNIM PRIJELAZIMA U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Uredbi o graničnim prijelazima u Republici Hrvatskoj (»Narodne novine«, br. 97/96, 7/98, 81/99, 91/99, 110/99, 49/2000, 69/2000), u članku 8. dodaje se stavak 2. koji glasi:
+
+»Granični prijelaz Jelovice-Podgorje, do sklapanja međudržavnog Ugovora o cestovnim graničnim prijelazima između Republike Hrvatske i Republike Slovenije, privremeno se otvara za međunarod­ni putnički promet od 1. srpnja 2005. godine.«
+
+### Članak 2.
+
+Ova uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 212-02/94-01/02
+
+Urbroj: 5030106-05-1
+
+Zagreb, 30. lipnja 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.

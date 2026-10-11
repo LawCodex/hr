@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-06-05
+last_amended: 2005-07-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1996; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "44/96"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "44/96, 92/05"
+amendments:
+  - "NN 92/2005 (1832) Zakon o izmjeni Zakona o slobodnim zonama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/44/853"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o slobodnim zonama
 
 > Izvor: Narodne novine, NN 44/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/44/853).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -477,3 +481,67 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o slobodnim zonama (NN 92/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1832*
+
+HRVATSKI SABOR
+
+1832
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENIZAKONA O SLOBODNIM ZONAMA
+
+Proglašavam Zakon o izmjeni Zakona o slobodnim zonama, kojega je Hrvatski sabor donio na sjednici 13. srpnja 2005. godine.
+
+Broj: 01-081-05-2476/2
+
+Zagreb, 18. srpnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O SLOBODNIM ZONAMA**
+
+### Članak 1.
+
+U Zakonu o slobodnim zonama (»Narodne novine«, br. 44/96.) članak 36. mijenja se i glasi:
+
+»(1) Korisnici slobodne zone iz Zakona o slobodnim zonama plaćaju porez na dobit u visini 50% od propisane stope.
+
+(2) Korisnik slobodne zone koji u zoni gradi ili sudjeluje u gradnji objekata ulaganjem više od 1.000.000,00 kuna, nakon što uloži ta sredstva, u godini ulaganja i idućih pet godina poslovanja u zoni oslobođen je od plaćanja poreza na dobit, ali najviše do visine uloženih sredstava.
+
+(3) Iznimno, Vlada Republike Hrvatske može, ako se utvrdi gospodarski interes Republike Hrvatske za pojedine zone ili za obavljanje određenih djelatnosti u zoni, povećati porezne olakšice iz stavka 1. i 2. ovoga članka.
+
+(4) Olakšice iz stavka 3. ovoga članka Vlada određuje odlukom na prijedlog ministra gospodarstva.
+
+(5) Za obavljanje djelatnosti u slobodnim zonama na području Vukovarsko-srijemske županije neće se plaćati porez na dobit deset godina od početka primjene ovoga Zakona.«
+
+Č1anak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 413-05/05-01/01
+
+Zagreb, 13. srpnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

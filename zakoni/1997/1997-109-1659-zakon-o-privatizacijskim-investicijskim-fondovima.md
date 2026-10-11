@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-20
+last_amended: 2001-12-20
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "109/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "109/97, 114/01"
+amendments:
+  - "NN 114/2001 (1880) Zakon o izmjenama i dopunama Zakona o privatizacijskim investicijskim fondovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1659"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o privatizacijskim investicijskim fondovima
 
 > Izvor: Narodne novine, NN 109/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1659).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -549,3 +553,235 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o privatizacijskim investicijskim fondovima (NN 114/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1880*
+
+HRVATSKI SABOR
+
+1880
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRIVATIZACIJSKIM INVESTICIJSKIM FONDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o privatizacijskim investicijskim fondovima, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
+
+Broj: 01-081-01-3878/2  
+Zagreb, 13. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRIVATIZACIJSKIM INVESTICIJSKIM FONDOVIMA**
+
+### Članak 1.
+
+U Zakonu o privatizacijskim investicijskim fondovima (»Narodne novine«, br. 109/97.) u članku 8. stavku 1. podstavak 3. mijenja se i glasi:
+
+»– iznos jamstvenog pologa i financijski plan raspolaganja sredstvima jamstvenog pologa, koji mora uključivati troškove upravljanja Fondom, iskazane na godišnjem nivou, uključivo troškove za prikupljanje kupona, reklamu, najam uredskog prostora, trošak uvrštenja dionica na burzu, troškove dozvola, troškove objavljivanja prospekta i periodičkih priopćenja, troškove članova uprave i nadzornog odbora Fonda, te ostale troškove upravljanja fondom, osim naknade Društvu,«.
+
+### Članak 2.
+
+U članku 25. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Iznimno od stavka 1. ovoga članka iz imovine Fonda mogu se financirati:
+
+– naknade Središnjoj depozitarnoj agenciji za usluge depozitorija nematerijaliziranih dionica privatizacijskih investicijskih fondova,
+
+– naknade društvima za poslovanje vrijednosnim papirima, burzi i uređenom javnom tržištu koje nastaju u vezi s prodajom i kupnjom vrijednosnih papira za račun Fonda putem elektronskoga trgovinskog sustava na burzi i uređenom javnom tržištu,
+
+– naknade društvima za poslovanje vrijednosnim papirima, burzi ili uređenom javnom tržištu, kao i troškovi financijskog i investicijskog savjetovanja koji nastanu u vezi s prodajom vrijednosnih papira kada se ne koristi elektronski trgovinski sustav burze i uređenog javnog tržišta, odnosno prilikom javnog nadmetanja (javna dražba ili javno prikupljanje ponuda) i to isključivo za prodaju dionica kada Fond samostalno ili sa trećim zajedno prodaje dionice jednog izdavatelja koje predstavljaju najmanje 25% temeljnog kapitala ili ukupnog broja glasova u skupštini tog izdavatelja,
+
+– troškove prodaje dionica iz portfelja putem javne dražbe ili javnim prikupljanjem ponuda,
+
+– troškovi naplate potraživanja Fonda,
+
+– troškovi uvrštenja dionica Fonda na Zagrebačku burzu, strane burze ili uređena javna tržišta,
+
+– troškovi u svezi s javnom ponudom prema Zakonu o preuzimanju dioničkih društava.«
+
+### Članak 3.
+
+U članku 26. stavak 1. briše se.
+
+Dosadašnji stavci 2. i 3. postaju stavci 1. i 2.
+
+### Članak 4.
+
+Iza članka 26. dodaje se članak 26.a, koji glasi:
+
+»Članak 26.a
+
+(1) Sredstva ostvarena prodajom iz portfelja Fonda, Fond ulaže u vrijednosne papire propisane odredbama Zakona o investicijskim fondovima.
+
+(2) Sredstva ostvarena prodajom iz portfelja Fonda, Fond može ulagati i u komercijalne zapise i druge kratkoročne dužničke vrijednosne papire s rokom dospijeća od najviše jedne godine, čija ukupna vrijednost ne smije prelaziti 10% vrijednosti imovine Fonda.
+
+(3) Ograničenja iz stavka 2. ovoga članka ne odnose se na kratkoročne vrijednosne papire izdavatelja: Republike Hrvatske ili za koje garantira Republika Hrvatska, Hrvatske narodne banke i Ministarstva financija.
+
+(4) Sredstva Fonda ne smiju se ulagati u nekretnine. Ako Fond stekne nekretnine, Društvo je obvezno prodati ih u roku od godine dana od dana stjecanja. U slučaju stjecanja nekretnina prijenosom vlasništva u svrhu osiguranja rok za prodaju nekretnina počinje teći od dana kada Fond postane punopravni vlasnik nekretnine.«
+
+### Članak 5.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Prodaja dionica iz portfelja Fonda obvezno se obavlja na burzi vrijednosnih papira ili na uređenom javnom tržištu, odnosno drugom organiziranom tržištu. Iznimno, ako Fond ili više Fondova zajedno prodaju dionice jednog izdavatelja koje predstavljaju najmanje 25% temeljnog kapitala ili ukupnog broja glasova u skupštini tog izdavatelja, prodaja može biti obavljena i putem javnog nadmetanja (javnom dražbom ili javnim prikupljanjem ponuda), izvan burze vrijednosnih papira ili uređenoga javnog tržišta, odnosno drugoga organiziranog tržišta.
+
+(2) Poziv za sudjelovanje u javnom nadmetanju i uvjete javnog nadmetanja Društvo je obvezno objaviti u »Narodnim novinama« i najmanje u jednim dnevnim novinama koje se redovito prodaju na cijelom teritoriju Republike Hrvatske. Poziv mora biti upućen javnosti i pravo na sudjelovanje u nadmetanju ne može biti ograničeno na određene osobe ili vrste osoba.
+
+(3) Komisija može propisati obvezne uvjete i pravila postupka prodaje dionica iz portfelja Fonda javnim nadmetanjem.
+
+(4) Fond i Hrvatski fond za privatizaciju mogu dogovoriti zajedničku prodaju dionica istog izdavatelja. Takva prodaja obv­e­zno se obavlja javnim nadmetanjem, koje može biti provedeno i po pravilima po kojima Hrvatski fond za privatizaciju prodaje dionice iz svog portfelja.
+
+(5) Iznimno od odredbe stavka 1. ovoga članka, dopuštena je prodaja dionica prihvaćanjem ponude za preuzimanje dioničkog društva objavljene sukladno Zakonu o postupku preuzimanja dioničkih društva.
+
+(6) Fond koji ima dionice jednog izdavatelja koje pred-  
+stavljaju najmanje 25% temeljnog kapitala ili ukupnog broja glasova u skupštini tog izdavatelja obvezan je te dionice ponuditi na stalnu prodaju putem uređenog tržišta vrijednosnica ili ponudom u javnim glasilima i to najmanje jednom u svakom tromjesečju, počevši od prvoga sljedećeg tromjesečja nakon tromjesečja u kojem je ovaj Zakon stupio na snagu, s tim da između ponuda ne može proteći više od četiri mjeseca.
+
+(7) Fond koji ima dionice jednog izdavatelja koje pred-  
+stavljaju najmanje 10% temeljnog kapitala ili ukupnog broja glasova u skupštini tog izdavatelja obvezan je te dionice ponuditi na stalnu prodaju putem uređenog tržišta vrijednosnica ili ponudom u javnim glasilima i to najmanje jednom u svakom polugodištu, počevši od prvoga sljedećeg polugodišta nakon polugodišta u kojem je ovaj Zakon stupio na snagu, s tim da između ponuda ne može proteći više od osam mjeseci.
+
+(8) Ako društvo za upravljanje fondom ne postupi sukladno stavku 6. i 7. ovoga članka, Komisija može postupiti sukladno odredbi članka 38. ovoga Zakona.«
+
+### Članak 6.
+
+Iza članka 27. dodaju se članci 27.a, 27.b i 27.c koji glase:
+
+»Članak 27.a
+
+(1) Kada prodaje vrijednosne papire na burzi ili uređenom javnom tržištu, Društvo je obvezno najkasnije četrnaest dana prije dana isticanja ponude za prodaju u trgovinski sustav, dostaviti toj burzi odnosno uređenom javnom tržištu i Komisiji pisanu obavijest o namjeravanoj prodaji dionica koja sadrži sljedeće podatke:
+
+1. tvrtku privatizacijskoga investicijskog fonda,
+
+2. tvrtku društva za upravljanje privatizacijskim investicijskim fondom,
+
+3. tvrtku izdavatelja čije dionice društvo za upravljanje privatizacijskim investicijskim fondom ima namjeru prodati,
+
+4. datum kada će se ponuda na prodaju istaknuti u trgovinski sustav burze ili uređenoga javnog tržišta.
+
+(2) Dionicama iz stavka 1. ovoga članka podrazumijevaju se privatizacijske dionice koje su fondovi stekli u postupku kuponske privatizacije i privatizacijske dionice koje su fondovi stekli ili stječu međusobnom trgovinom.
+
+(3) Od obveze izvješćivanja iz stavka 1. i 2. ovoga članka izuzeta su trgovanja vrijednosnim papirima koji su uvršteni u službenu (redovitu) kotaciju burze i dionice kojima se trguje najmanje 10 dana u mjesecu na ostalim kotacijama burze ili ure­đenom javnom tržištu.
+
+### Članak 27.b
+
+Društvo koje ne istakne najavljenu ponudu, ili ponudu opozove, obvezno je o ovoj činjenici uz detaljno obrazloženje dostaviti pisanu obavijest Komisiji u roku od sedam dana od dana najavljenog trgovanja, odnosno poziva.
+
+### Članak 27.c
+
+(1) Burza, odnosno uređeno javno tržište obvezni su obavijest iz članka 27.a ovoga Zakona učiniti dostupnom svojim članovima putem vlastitoga trgovinskog sustava, odnosno na drugi odgovara­jući način, prvi radni dan nakon dana primitka obavijesti.
+
+(2) Komisija je ovlaštena obavijest iz članka 27.a ovoga Zakona učiniti dostupnom javnosti putem javne informacijske knjižnice, oglasne ploče ili na drugi odgovarajući način.«
+
+### Članak 7.
+
+U članku 28. stavak 3. mijenja se i glasi:
+
+»(3) Nakon isteka roka iz stavka 1. ovoga članka, društvo ne smije započinjati nikakve poslove u smjeru raspolaganja imovinom Fonda bez posebnog odobrenja Komisije, sve dok Komisija ne odobri da Fond nastavi djelovati kao zatvoreni Fond u skladu s odredbama Zakona o investicijskim fondovima.«
+
+### Članak 8.
+
+U članku 30. stavak 2. mijenja se i glasi:
+
+»(2) Ako Komisija odobri nastavak djelovanja Fonda, Društvo donosi odluke o:
+
+– sazivanju glavne skupštine Fonda radi povećanja temeljnog kapitala, ako za to postoje uvjeti iz članka 33. ovoga Zakona
+
+– isplati 50% naknade Društvu iz imovine Fonda, ako za to postoje uvjeti iz članka 33. ovoga Zakona
+
+– usklađenju akata Fonda sa Zakonom o investicijskim fondovima, odnosno, ako su ranije donesene, te odluke stupaju na snagu.«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Odluka o povećanju temeljnog kapitala upisuje se u sud­ski registar na temelju prethodnog odobrenja Komisije i odluke glavne skupštine Fonda, a nastavak djelovanja Fonda kao zatvorenog Fonda upisuje se u sudski registar na temelju prethodnog odobrenja Komisije.«
+
+### Članak 9.
+
+U članku 31. stavku 1. ispred riječi: »povećanja temeljnog kapitala« dodaju se riječi: »iznosa naknade za upravljanje Fondom i«, iza riječi: »kapitala« stavlja se zarez, a riječ: »i« zamjenjuje se riječju: »te«.
+
+### Članak 10.
+
+U članku 32. stavku 2. iza riječi: »Fonda«, dodaju se riječi: »bez posebnog odobrenja Komisije«.
+
+### Članak 11.
+
+U članku 33. stavku 1. iza riječi: »prosječne« dodaje se riječ: »vagane«, a riječi: »trajanje Fonda« zamjenjuju se riječima: »prije dana podnošenja zahtjeva iz članka 28. stavka 2. ovoga Zakona«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) 50% ukupne naknade određene Statutom i prospektom Fonda Društvo može naplatiti iz imovine Fonda nakon što nastavak djelovanja Fonda kao zatvorenog fonda bude upisan u sudski registar.«
+
+Stavak 4. mijenja se i glasi:
+
+»(4) preostalih 50% ukupne naknade određene Statutom i prospektom Fonda, Društvo će ostvariti na sljedeći način:
+
+1. Društvo je obvezno sazvati glavnu skupštinu Fonda najkasnije 3 mjeseca od odobrenja Komisije, radi donošenja odluke o povećanju temeljnog kapitala ulozima, u visini 50% potraživanja naknade, te u slučaju da odluka bude usvojena u skladu s odredbama Zakona o trgovačkim društvima i Statutom Fonda, povećati temeljni kapital i izdati nove dionice Fonda u korist Društva, koje se obvezno uvrštavaju na burzu ili uređeno javno tržište.
+
+2. U slučaju da na sazvanoj i održanoj skupštini odluka o povećanju temeljnog kapitala ne bude usvojena u skladu s odredbama Zakona o trgovačkim društvima i Statutom Fonda, Društvo ima pravo i preostalih 50% potraživanja naplatiti iz imovine Fonda.«
+
+### Članak 12.
+
+U članku 35. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako Komisija na temelju članka 38. ovoga Zakona povuče odobrenje za poslovanje društva, te se nakon objave poziva drugim društvima za upravljanje fondovima da podnesu ponude i zahtjeve za upravljanje određenim Fondom niti jedno društvo ne odazove svojom ponudom, odnosno ne ispuni uvjete propisane ovim Zakonom, primjenjuje se članak 49. stavak 5., 6. i 7. Zakona o investicijskim fondovima.«
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 13.
+
+U članku 40. stavku 1. dodaju se iza točke 7. točke 7.a i 7.b koje glase:
+
+»7.a protivno članku 26.a stječe vrijednosne papire,
+
+7.b protivno članku 26.a stavku 4. ovoga Zakona zaključi ugovor o prodaji, razmjeni ili drugi pravni posao kojim Fond stječe nekretninu, ili ako ne uskladi imovinu Fonda u propisanom roku.«
+
+Iza točke 8. dodaju se točke 8.a i 8.b koje glase:
+
+»8.a protivno članku 27.a ne dostavi pisanu obavijest u roku ili dostavljena obavijest nema propisani sadržaj,
+
+8.b protivno članku 27.b ne istakne najavljenu ponudu ili ne dostavi pisanu obavijest o opozivu s obrazloženjem.«
+
+### Članak 14.
+
+Iza članka 40. dodaju se članci 40.a i 40.b koji glase:
+
+»Članak 40.a
+
+(1) Novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna kaznit će se za prekršaj burza i uređeno javno tržište ako putem vlastitoga trgovinskog sustava u propisanom roku ne učine dostupnim podatke iz obavijesti o namjeni prodaje dionica, sukladno članku 27.c stavku 1. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i novčanom kaznom u iznosu od 5.000,00 do 20.000,00 kuna i odgovorna osoba burze i uređenoga javnog tržišta.
+
+### Članak 40.b
+
+(1) Novčanom kaznom u iznosu od 10.000 do 50.000 kuna kaznit će se za prekršaj društvo za poslovanje vrijednosnim papirima ako trguje dionicama protivno članku 27. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 5.000 do 10.000 kuna kaznit će se i odgovorna osoba društva za poslovanje vrijednosnim papirima.«
+
+### Članak 15.
+
+(1) Društva za upravljanje investicijskim fondovima obvezna su imovinu privatizacijskih investicijskih fondova koja se odnosi na odredbu članka 26.a stavak 1. i 2. ovoga Zakona uskladiti u roku od jedne godine od dana primjene ovoga Zakona.
+
+(2) Društva za upravljanje investicijskim fondovima koja su za Fond stekla nekretnine obvezna su u roku od godine dana od dana primjene ovoga Zakona uskladiti imovinu Fonda sukladno odredbi članka 26.a. stavka 4. ovoga Zakona.
+
+### Članak 16.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2002.
+
+Klasa: 402-09/01-/02  
+Zagreb, 7. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

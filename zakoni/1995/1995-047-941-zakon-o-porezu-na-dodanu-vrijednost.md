@@ -6,16 +6,20 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-07-12
-last_amended: 2000-07-21
+last_amended: 2007-07-23
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "47/95, 164/98, 105/99, 54/00, 73/00"
+narodne_novine: "47/95, 164/98, 105/99, 54/00, 73/00, 48/04, 82/04, 90/05, 76/07"
 amendments:
   - "NN 164/1998 (2018) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
   - "NN 105/1999 (1743) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
   - "NN 54/2000 (1194) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
   - "NN 73/2000 (1582) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 48/2004 (1105) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 82/2004 (1619) Zakon o izmjenama Zakona o porezu na dodanu vrijednost"
+  - "NN 90/2005 (1775) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 76/2007 (2402) Zakon o izmjeni Zakona o porezu na dodanu vrijednost"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/47/941"
 retrieved: 2026-10-12
 ---
@@ -24,7 +28,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 47/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/47/941).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 164/1998, NN 105/1999, NN 54/2000, NN 73/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 164/1998, NN 105/1999, NN 54/2000, NN 73/2000, NN 48/2004, NN 82/2004, NN 90/2005, NN 76/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -916,3 +920,231 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 48/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/48/1105*
+
+HRVATSKI SABOR
+
+1105
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je donio Hrvatski sabor na sjednici 2. trav­nja 2004. godine.
+
+Broj: 01-081-04-1359/2  
+Zagreb, 8. trav­nja 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 47/95., 106/96., 164/98., 105/99., 54/00., 73/00. i 127/00.) u članku 10. brojka: »22« zamjenjuje se brojkom: »20«.
+
+### Članak 2.
+
+U članku 12. točka 12. mijenja se i glasi:
+
+»12. uvoz dobara, osim nafte i naftnih derivata, duhana i duhanskih proizvoda, alkohola i alkoholnih pića, koja su kao donacija dana humanitarnim organizacijama, zdravstvenim, obra­zov­nim, kulturnim, znanstvenim, vjerskim i socijalnim ustanovama, športskim amaterskim klubovima te tijelima državne, lokalne i područne (regionalne) samouprave, kao i uvoz dobara od strane istih koja se plaćaju iz primljenih inozemnih novčanih donacija,«.
+
+Iza točke 16. dodaje se točka 17. koja glasi:
+
+»17. ponovni uvoz dobara koja u nepromijenjenom stanju uvozi osoba koja ih je izvezla, a koji je u skladu s carinskim propisima oslobođen plaćanja carine.«
+
+### Članak 3.
+
+U članku 13. stavku 1. točka 5. mijenja se i glasi:
+
+»5. isporuke dobara i usluga u tuzemstvu, osim nafte i naftnih derivata, duhana i duhanskih proizvoda, alkohola i alkoholnih pića, kad se plaćaju iz primljenih inozemnih novčanih donacija danih humanitarnim organizacijama, zdravstvenim, obrazovnim, kulturnim, znanstvenim, vjerskim i socijalnim ustanovama, šport­skim amaterskim klubovima te tijelima državne, lokalne i po­dručne (regionalne) samouprave.«
+
+### Članak 4.
+
+U članku 25. stavku 3. točka 2. mijenja se i glasi:
+
+»2. ako ne obračunava ili ne uplaćuje porez na dodanu vri­jed­nost,«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 1. koji stupa na snagu 1. siječnja 2005. godine.
+
+Klasa: 410-19/04-01/01  
+Zagreb, 2. travnja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama Zakona o porezu na dodanu vrijednost (NN 82/2004)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2004/82/1619*
+
+HRVATSKI SABOR
+
+1619
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama Zakona o porezu na dodanu vrijednost, koji je donio Hrvatski sabor na sjednici 4. lip­nja 2004. godine.
+
+Broj: 01-081-04-2158/2  
+Zagreb, 9. lip­nja 2004.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 47/95., 106/96., 164/98., 105/99., 54/00., 73/00., 127/00. i 48/04.) u članku 10. brojka: »20« zamjenjuje se brojkom: »22«.
+
+### Članak 2.
+
+U Zakonu o izmjenama i dopunama Zakona o porezu na do­da­nu vrijednost (»Narodne novine«, br. 48/04.) u članku 5. iza riječi: »novinama« zarez se zamjenjuje točkom, a riječi: »osim odredbe članka 1. koji stupa na snagu 1. siječnja 2005. godine.« brišu se.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 410-19/04-01/04  
+Zagreb, 4. lipnja 2004.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 90/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1775*
+
+HRVATSKI SABOR
+
+1775
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 13. srpnja 2005. godine.
+
+Broj: 01-081-05-2471/2
+
+Zagreb, 18. srpnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 47/95., 106/96., 164/98., 105/99., 54/00., 73/00., 127/00., 48/04. i 82/04.) u članku 10.a točka h) briše se.
+
+Iza točke g) zarez se zamjenjuje točkom i dodaje stavak 2 koji glasi:
+
+»(2) Porez na dodanu vrijednost plaća se po stopi od 10% na usluge smještaja ili smještaja s doručkom, polupansiona ili punog pansiona u svim vrstama komercijalnih ugostiteljskih objekata i usluge agencijske provizije za naprijed navedene usluge.«
+
+### Članak 2.
+
+U članku 21. stavku 1. brojka: »15« zamjenjuje se brojkom: »30«.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, s tim da se odredbe članka 1. ovoga Zakona primjenjuju od 1. siječnja 2006.
+
+Klasa: 410-19/05-01/04
+
+Zagreb, 13. srpnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
+
+## Zakon o izmjeni Zakona o porezu na dodanu vrijednost (NN 76/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2402*
+
+HRVATSKI SABOR
+
+2402
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjeni Zakona o porezu na dodanu vrijednost, kojega je Hrvatski sabor donio na sjednici 6. srpnja 2007. godine.
+
+Klasa: 011-01/07-01/70
+
+Urbroj: 71-05-03/1-07-2
+
+Zagreb, 13. srpnja 2007.
+
+Predsjednik
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 47/95., 106/96., 164/98., 105/99., 54/00., 73/00., 48/04., 82/04., 90/05.) u članku 10.a stavak 2. mijenja se i glasi:
+
+»(2) Porez na dodanu vrijednost plaća se po stopi od 10% na:
+
+a) usluge smještaja ili smještaja s doručkom, polupansiona ili punog pansiona u svim vrstama komercijalnih ugostiteljskih objekata i usluge agencijske provizije za naprijed navedene usluge,
+
+b) novine i časopise koji izlaze dnevno i periodično, osim na one koji u cijelosti ili uglavnom sadrže oglase ili služe oglašavanju.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu 1. kolovoza 2007.
+
+Klasa: 410-19/07-01/02
+
+Zagreb, 6. srpnja 2007.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

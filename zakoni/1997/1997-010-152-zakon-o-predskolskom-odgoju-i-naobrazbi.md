@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-01-30
+last_amended: 2007-10-19
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "10/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "10/97, 107/07"
+amendments:
+  - "NN 107/2007 (3135) Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i naobrazbi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/10/152"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o predškolskom odgoju i naobrazbi
 
 > Izvor: Narodne novine, NN 10/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/10/152).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 107/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -664,3 +668,104 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i naobrazbi (NN 107/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3135*
+
+HRVATSKI SABOR
+
+3135
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PREDŠKOLSKOM ODGOJU I NAOBRAZBI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i naobrazbi, kojega je Hrvatski sabor donio na sjednici 3. listopada 2007. godine.  
+Klasa: 011-01/07-01/132  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 10. listopada 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PREDŠKOLSKOM ODGOJU I NAOBRAZBI**
+
+### Članak 1.
+
+U Zakonu o predškolskom odgoju i naobrazbi (»Narodne novine«, br. 10/97.) u članku 6. stavku 1. riječi: »Sabor Republike Hrvatske« zamjenjuju se riječima: »Hrvatski sabor«.  
+U članku 6. stavku 2. točka 6. mijenja se i glasi:  
+»6. predškolski odgoj i naobrazba djece s posebnim potrebama (djece s teškoćama u razvoju i darovite djece)«.
+
+### Članak 2.
+
+U članku 7. stavku 1. točki 4. riječ: »domaće« briše se.  
+U stavku 2. riječ: »domaća« briše se.
+
+### Članak 3.
+
+U članku 8. podstavku 4. riječi: »imenu i« brišu se.
+
+### Članak 4.
+
+U članku 18. stavku 2. riječi: »ministar rada i socijalne skrbi« zamjenjuju se riječima: »ministar nadležan za socijalnu skrb«.
+
+### Članak 5.
+
+U članku 20. stavku 1. riječi: »djeca uzeta na uzdržavanje« zamjenjuju se riječima: »djeca u udomiteljskim obiteljima«, a riječi: »dječji doplatak« zamjenjuju se riječima: »doplatak za djecu«.
+
+### Članak 6.
+
+U članku 22. iza riječi: »boravak« stavlja se zarez i dodaju riječi: »normative opreme«.
+
+### Članak 7.
+
+U članku 24. stavku 2. podstavku 1. riječi: »prve godine« zamjenjuju se riječima: »navršenih šest mjeseci života«.
+
+### Članak 8.
+
+Članak 25. mijenja se i glasi:  
+»(1) Rad u dječjem vrtiću ne može obavljati osoba koja je pravomoćno osuđena za neko od kaznenih djela protiv Republike Hrvatske, kazneno djelo primanja mita, kazneno djelo nasilničkog ponašanja, kazneno djelo zlouporabe opojnih droga, neko od kaznenih djela protiv spolne slobode i spolnoga ćudoređa, te neko od kaznenih djela protiv braka, obitelji i mladeži.  
+(2) Radnik protiv kojega je pokrenut kazneni postupak za kazneno djelo iz stavka 1. ovoga članka, udaljava se od obavljanja poslova u odgojno-obrazovnom radu do pravomoćnosti sudske presude, odnosno do obustave postupka, odbačaja prijave ili odustanka od progona.  
+(3) Osoba iz stavka 2. ovoga članka ima pravo za vrijeme udaljenja na naknadu mjesečne plaće u visini polovice prosječne plaće isplaćene tom radniku u prethodna tri mjeseca.«
+
+### Članak 9.
+
+U članku 26. stavku 8. riječ: »domaća« briše se.
+
+### Članak 10.
+
+U članku 28. stavku 5. riječi: »porodnog dopusta« zamjenjuju se riječima: »rodiljnog dopusta«.
+
+### Članak 11.
+
+U članku 33. stavak 2. mijenja se i glasi:  
+»(2) Način rada i mjerila financiranja dječjih vrtića koji ostvaruju programe iz stavka 1. ovoga članka propisuje ministar nadležan za obrazovanje.«
+
+### Članak 12.
+
+U članku 34. stavku 2. brojka: »3« zamjenjuje se brojkom: »5«.
+
+### Članak 13.
+
+U svim odredbama Zakona o predškolskom odgoju i naobrazbi (»Narodne novine«, br. 10/97.) riječi: »Ministarstvo rada i socijalne skrbi«, »jedinice lokalne uprave i samouprave«, »pripadnika etičkih i nacionalnih zajednica ili manjina«, »Ministarstvo zdravstva«, »ministar zdravstva«, »djelatnik« i »zaposlenik« te »Ministarstvo prosvjete i športa« i »ministar prosvjete i športa« u određenom rodu, broju i padežu zamjenjuju se riječima: »ministarstvo nadležno za socijalnu skrb«, »jedinice lokalne i područne (regionalne) samouprave«, »pripadnika nacionalnih manjina«, »ministarstvo nadležno za zdravstvo«, »ministar nadležan za zdravstvo«, »radnik« te »Ministarstvo nadležno za obrazovanje« i »ministar nadležan za obrazovanje« u odgovarajućem rodu, broju i padežu.
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 601-01/07-01/01  
+Zagreb, 3. listopada 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

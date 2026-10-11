@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-11-30
+last_amended: 2005-12-21
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "128/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "128/99, 90/05, 150/05"
+amendments:
+  - "NN 90/2005 (1773) Zakon o izmjenama i dopunama Zakona o javnom okupljanju"
+  - "NN 150/2005 (2904) Zakon o izmjenama i dopunama Zakona o javnom okupljanju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2020"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o javnom okupljanju
 
 > Izvor: Narodne novine, NN 128/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2020).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2005, NN 150/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -403,3 +408,143 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o javnom okupljanju (NN 90/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1773*
+
+HRVATSKI SABOR
+
+1773
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM OKUPLJANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o jav­nom okupljanju, koji je Hrvatski sabor donio na sjednici 12. srpnja 2005. godine.
+
+Broj: 01-081-05-2469/2
+
+Zagreb, 18. srpnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM OKUPLJANJU**
+
+### Članak 1.
+
+U Zakonu o javnom okupljanju (»Narodne novine«, br. 128/99.) u članku 11. podstavak 4. briše se.
+
+Dosadašnji podstavci 5. i 6. postaju podstavci 4. i 5.
+
+U novom podstavku 5. točka se zamjenjuje zarezom, te se dodaje novi podstavak 6. koji glasi:
+
+»– najmanje 100 metara od objekata u kojima su smješteni ili zasjedaj u Hrvatski sabor, Predsjednik Republike Hrvatske, Vlada Republike Hrvatske i Ustavni sud Republike Hrvatske.«
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»U slučaju iz stavka 1. podstavka 6. ovoga članka ne primjenjuje se odredba članka 4. stavka 1. ovoga Zakona, u dijelu kojim se određuje broj sudionika okupljanja.«
+
+### Članak 2.
+
+U članku 22. iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. postoji zbiljska i izravna opasnost za zdravlje sudionika ili drugih osoba.«
+
+Dosadašnja točka 6. postaje točka 7.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 231-01/05-01/02
+
+Zagreb, 12. srpnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o javnom okupljanju (NN 150/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2904*
+
+HRVATSKI SABOR
+
+2904
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM OKUPLJANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o jav­nom okupljanju, kojega je Hrvatski sabor donio na sjednici 9. prosinca 2005. godine.
+
+Broj: 01-081-05-3661/2
+
+Zagreb, 15. prosinca 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONAO JAVNOM OKUPLJANJU**
+
+### Članak 1.
+
+U Zakonu o javnom okupljanju (»Narodne novine«, br. 128/99.) u članku 11. podstavak 4. briše se.
+
+Dosadašnji podstavci 5. i 6. postaju podstavci 4. i 5.
+
+U novom podstavku 5. točka se zamjenjuje zarezom, a iza novog podstavka 5. dodaje se podstavak 6. koji glasi:
+
+»– najmanje 100 metara od objekata u kojima su smješteni ili zasjedaju Hrvatski sabor, Predsjednik Republike Hrvatske, Vlada Republike Hrvatske i Ustavni sud Republike Hrvatske.«
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»U slučaju iz stavka 1. podstavka 6. ovoga članka ne primjenjuje se odredba članka 4. stavka 1. ovoga Zakona, u dijelu kojim se određuje broj sudionika okupljanja.«
+
+### Članak 2.
+
+U članku 22. iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. postoji zbiljska i izravna opasnost za zdravlje sudionika ili drugih osoba.«
+
+Dosadašnja točka 6. postaje točka 7.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 231-01/05-01/02
+
+Zagreb, 9. prosinca 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

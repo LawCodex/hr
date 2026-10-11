@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-19
+last_amended: 2005-10-31
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "76/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "76/99, 129/05"
+amendments:
+  - "NN 129/2005 (2386) Zakon o izmjenama i dopunama Zakona o Državnom inspektoratu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1360"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Državnom inspektoratu
 
 > Izvor: Narodne novine, NN 76/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1360).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 129/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -958,3 +962,357 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Državnom inspektoratu (NN 129/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/129/2386*
+
+HRVATSKI SABOR
+
+2386
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM INSPEKTORATU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Držav­nom inspektoratu, kojega je Hrvatski sabor donio na sjednici 14. listopada 2005. godine.
+
+Broj: 01-081-05-3148/2
+
+Zagreb, 18. listopada 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM INSPEKTORATU**
+
+### Članak 1.
+
+U Zakonu o Državnom inspektoratu (»Narodne novine«, br. 76/99., 96/03., 151/03., 160/04., 174/04., 33/05. i 48/05.) članak 3. mijenja se i glasi:
+
+»Državni inspektorat u području prometa robom, usluga, ugostiteljske i turističke djelatnosti nadzire primjenu zakona i drugih propisa kojima se uređuje:
+
+– obavljanje djelatnosti trgovine,
+
+– obavljanje ugostiteljske i turističke djelatnosti,
+
+– prijava i odjava turista te obračun, naplata i uplata boravišne pristojbe,
+
+– obavljanje obrta,
+
+– zaštita potrošača,
+
+– cijene proizvoda i usluga, naknade, pristojbe, pretplate i druge slične naknade koje se zaračunavaju po propisu,
+
+– tehnički i sigurnosni zahtjevi za proizvode, postupci ocjene sukladnosti, kontrola kakvoće proizvoda, isprave koje moraju imati proizvodi, deklariranje, označavanje, obilježavanje i pakiranje proizvoda,
+
+– valjanost žigova i isprava o ispravnosti mjerila te ispunjenja mjeriteljskih zahtjeva,
+
+– uporaba mjernih jedinica i njihovo navođenje u prometu roba,
+
+– promet i reproduciranje (umnožavanje) glazbenih i kinematografskih djela snimljenih na nosaču zvuka i slike, računalnih programa i knjiga,
+
+– zaštita industrijskog dizajna, žigova i korištenje oznaka zem­ljopisnog podrijetla proizvoda,
+
+– promet proizvoda izrađenih prema izumu,
+
+– promet predmeta od plemenitih kovina,
+
+– stavljanje na tržište roba iz robnih zaliha,
+
+– promet grožđa za preradu u vino,
+
+– promet vina i drugih proizvoda od grožđa i vina,
+
+– promet riba i drugih morskih i slatkovodnih organizama,
+
+– obavljanje i drugih poslova u području prometa robom, uslugama, ugostiteljske i turističke djelatnosti kada je to određeno posebnim zakonom.«
+
+### Članak 2.
+
+Članak 4. mijenja se i glasi:
+
+»Državni inspektorat u području rada i zaštite na radu nadzire primjenu zakona i drugih propisa kojima se uređuju odnosi između poslodavaca i radnika (radni odnosi i zaštita na radu), a posebice primjenu propisa koji se odnose na:
+
+– obvezu poslodavca da radnike u propisanim rokovima prijav­ljuje nadležnim tijelima mirovinskog i zdravstvenog osiguranja,
+
+– radno vrijeme, plaće, zapošljavanje i rad malodobnika, žena, trudnica, porodilja, invalida, stranaca i sl.,
+
+– uvjete rada, sigurnost i zaštitu zdravlja radnika, volontera, učenika, studenata i drugih osoba te osoba koje obavljaju djelatnost osobnim radom,
+
+– osobito sigurnost, zaštitu zdravlja i uvjete rada malodobnika, žena i invalida,
+
+– usklađenost glavnog projekta građevine namijenjene za rad s propisima o zaštiti na radu, a koji inspektori rada (zaštita na radu) obavljaju prije podnošenja zahtjeva za izdavanje građevne dozvole ili u tijeku izdavanja građevne dozvole, te sudjeluju u radu povjerenstva za tehnički pregled za one građevine nad čijim je glavnim projektom obavljen nadzor i u tom nadzoru utvrđeno da je glavni projekt usklađen s posebnim propisima zaštite na radu.«
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Državni inspektorat u području elektroenergetike nadzire primjenu zakona i drugih propisa koji se odnose na:
+
+– način i uvjete za obavljanje elektroenergetskih djelatnosti,
+
+– obveze energetskih subjekata i kupaca energije tijekom obavljanja energetske djelatnosti i korištenja energije u pogledu ispunjavanja zahtjeva za sigurnost i kvalitetu opskrbe električnom energijom,
+
+– obveze energetskih subjekata i kupaca energije tijekom projektiranja, proizvodnje odnosno gradnje, ispitivanja i potvrđivanja sukladnosti, stavljanja u uporabu, uporabe odnosno pogona i održavanja energetskih objekata, postrojenja, vodova, priključaka na mrežu, instalacija i opreme u pogledu sigurnosti i kvalitete opskrbe električnom energijom,
+
+– tehničke zahtjeve za proizvode i ocjenu sukladnosti te zahtjeve za opću sigurnost proizvoda koji su stavljeni u uporabu.«
+
+### Članak 4.
+
+U članku 7. podstavku 2. iza riječi: »stabilnih« dodaju se riječi: »i pokretnih«.
+
+### Članak 5.
+
+U članku 8. stavku 1. podstavku 1. iza riječi: »Ličko-senjske« veznik: »i« zamjenjuje se zarezom, a na kraju teksta briše se zarez i dodaju riječi: »i dijela otoka Paga koji pripada Zadarskoj županiji,«.
+
+### Članak 6.
+
+U članku 10. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Inspektori Državnog inspektorata dužni su, po nalogu nadređenog službenika, inspekcijski nadzor obavljati i duže od punoga radnog vremena, ako je to nužno radi uspješnog i pravodobnog obavljanja tih poslova.
+
+(6) Inspektorima Državnog inspektorata može se odgoditi početak godišnjeg odmora ili prekinuti započeto korištenje godišnjeg odmora radi obavljanja inspekcijskog nadzora koji ne trpi odgodu.«
+
+### Članak 7.
+
+U članku 12. stavku 1. riječ: »lovstva« briše se.
+
+U stavku 3. riječi: »ribarske, šumarske« brišu se.
+
+### Članak 8.
+
+U članku 14. stavku 1. riječi: »temeljnim zahtjevima za proizvode ili normama čija je primjena obvezna« zamjenjuju se riječima: »tehničkim i sigurnosnim zahtjevima za proizvode«.
+
+### Članak 9.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Za proizvode iz članka 15. stavka 1. ovoga Zakona, uvoznik, odnosno domaći proizvođač dužan je ovlaštenom gospodarskom inspektoru podnijeti pisani zahtjev radi izdavanja uvjerenja o kakvoći kojom se to potvrđuje.
+
+(2) Uvoznik proizvoda čiji proizvođač ima sjedište u jednoj od zemalja članica Europske unije pri drugom i svakom sljedećem stavljanju u promet uvezenih istovrsnih proizvoda nije obvezan podnijeti zahtjev radi izdavanja uvjerenja o kakvoći, kao i domaći proizvođač prilikom drugog i svakoga sljedećeg stavljanja u promet istovrsnih proizvoda.
+
+(3) Za proizvode iz stavka 1. ovoga članka koji odgovaraju propisanoj i/ili deklariranoj kakvoći, ovlašteni gospodarski inspek­tor dužan je izdati uvjerenje o kakvoći sukladno odredbama ovoga Zakona.
+
+(4) Uvoznik, korisnik uvoznih proizvoda, odnosno domaći proizvođač ne smije proizvode koji podliježu nadzoru kakvoće stavljati u promet na hrvatsko tržište dok za te proizvode ne pribavi uvjerenje o kakvoći.«
+
+### Članak 10.
+
+U članku 18. stavak 3. mijenja se i glasi:
+
+»(3) Glavni inspektor propisat će pravilnikom način i postupak obavljanja nadzora kakvoće proizvoda, sadržaj i oblik obrasca iz članka 16., uvjete izdavanja, sadržaj i obrazac uvjerenja o kakvoći iz članka 17. stavka 3. ovoga Zakona, obveze uvoznika, korisnika uvoznih proizvoda, odnosno domaćeg proizvođača, u svezi s obav­ljanjem nadzora kakvoće.«
+
+Stavak 4. briše se.
+
+### Članak 11.
+
+U članku 20. stavku 1. podstavku 1. na kraju teksta dodaju se riječi: »za inspektora rada«.
+
+Podstavak 2. mijenja se i glasi:
+
+»– za provođenje inspekcijskog nadzora nad primjenom zakona i drugih propisa o zaštiti na radu mora imati visoku stručnu spremu, odnosno stečen stupanj prvostupnika u skladu sa Zakonom o znanstvenoj djelatnosti i visokom obrazovanju u području tehničkih znanosti: brodogradnja; elektrotehnika; građevinarstvo; grafička teh­nologija; kemijsko inženjerstvo; metalurgija; strojarstvo; tekstilna tehnologija; zrakoplovstvo; raketna i svemirska tehnika; organizacija rada i proizvodnje; sigurnost i zaštita na radu i najmanje dvije godine radnog staža u struci te položen državni stručni ispit za inspektora rada.«
+
+U stavku 2. na kraju teksta briše se točka i dodaju riječi: »za inspektora rada.«.
+
+### Članak 12.
+
+U članku 29. dodaje se stavak 3. koji glasi:
+
+»(3) U smislu odredaba stavka 1. i 2. ovoga članka radni staž u struci je radni staž ostvaren na poslovima konstrukcija, projektiranja, proizvodnje i eksploatacije kotlova i posuda pod tlakom.«
+
+### Članak 13.
+
+U članku 30. stavku 1. podstavak 2. briše se.
+
+### Članak 14.
+
+U članku 40. riječi: »proizvodnji ili« i riječi: »proizvodnji i« brišu se.
+
+### Članak 15.
+
+U članku 51. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Ako inspektor utvrdi da postoji osnovana sumnja da se u stanu ili drugom prostoru obavlja određena djelatnost bez odobrenja nadležnog tijela, inspektor će bez odlaganja zatražiti od nadležnoga sudbenog tijela da po hitnom postupku izda pisani nalog za pretragu stana ili drugog prostora te zapljenu sredstava, predmeta i dokumentacije koji služe obavljanju neregistrirane djelatnosti. Nadležno sudbeno tijelo će o zahtjevu riješiti u roku od 24 sata.
+
+(3) Iznimno od stavka 1. ovoga članka, inspektor neće podnijeti zahtjev za pokretanje prekršajnog postupka ako su utvrđene nepravilnosti otklonjene tijekom inspekcijskog nadzora ili najkasnije u roku od osam dana od dana provedenoga inspekcijskog nadzora, uz uvjet da je donja granica iznosa propisane novčane kazne za prekršaj pravne osobe jednaka ili manja od 3.000,00 kuna, a za prekršaj fizičke osobe jednaka ili manja od 1.000,00 kuna.«
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 16.
+
+U članku 57. stavku 1. riječi: »i tijekom službe redovito je dužan nositi službenu odoru« brišu se.
+
+U stavku 2. riječi: »izgled, boju, kroj i nošenje službene odore,« brišu se.
+
+### Članak 17.
+
+Članak 58. mijenja se i glasi:
+
+»(1) U provedbi inspekcijskog nadzora u području prometa robom, gospodarski inspektor ovlašten je, radi utvrđivanja činjeničnog stanja i osiguranja dokaza, usmenim rješenjem u zapisniku privremeno zabraniti daljnje raspolaganje robom:
+
+– ako postoji osnovana sumnja da je roba predmet protuprav­nog obavljanja djelatnosti,
+
+– ako se u prometu nalazi roba za koju se ne može utvrditi porijeklo ili nije evidentirana u propisanim poslovnim, trgovačkim i drugim knjigama ili evidencijama,
+
+– ako se zbog utvrđene povrede propisa treba izreći posebnim propisom predviđena mjera zabrane prometa određenih proizvoda, a postoji opasnost od prodaje, prikrivanja, zamjene i uništenja proizvoda dok izrečena mjera za otklanjanje utvrđenih nepravilnosti ne postane izvršna.
+
+(2) Privremena mjera zabrane raspolaganja robom iz stavka 1. ovoga članka traje dok ne prestanu razlozi zbog kojih je donesena. Prestanak izrečene upravne mjere inspektor će utvrditi u zapisniku.
+
+(3) U provedbi inspekcijskog nadzora, gospodarski inspektor će nadziranoj pravnoj ili fizičkoj osobi, dok ne otkloni utvrđene nedostatke, usmenim rješenjem u zapisniku zabraniti:
+
+– obavljanje djelatnosti, ako obavlja djelatnost za koju nije registrirana ili ako nema rješenja (odobrenja, koncesije, dozvole, obrtnice i sl.),
+
+– prodaju proizvoda, odnosno pružanje usluga kada je zakonom ili drugim propisom prodaja takvih proizvoda, odnosno pružanje takvih usluga zabranjeno,
+
+– prodaju proizvoda, odnosno pružanje usluga ako takva prodaja, odnosno pružanje usluga nije obuhvaćeno registracijom ili rješenjem (odobrenjem, koncesijom, dozvolom, obrtnicom i sl.) nadležnog tijela, ili za koju nisu ispunjeni tehnički i drugi propisani uvjeti za prostor, uređaje, oruđa i opremu koje nadzire gospodarski inspektor.
+
+(4) Ako zakonom nije drukčije uređeno, gospodarski inspektor će donijeti rješenje kojim će nadziranoj pravnoj ili fizičkoj osobi:
+
+– zabraniti stavljanje u promet proizvoda koji ne odgovaraju propisanoj i/ili deklariranoj kakvoći, proizvoda uz koje nema propisanih isprava, odnosno proizvoda koji nisu na propisani način deklarirani, označeni ili obilježeni,
+
+– zabraniti promet proizvoda za koje nije izdano uvjerenje o kakvoći,
+
+– narediti vraćanje više naplaćenog iznosa oštećenom kupcu ili korisniku usluge, odnosno vraćanje naplaćenog iznosa kada usluga nije obavljena.
+
+(5) U provedbi inspekcijskog nadzora u području ugostiteljske i turističke djelatnosti, gospodarski inspektor će usmenim rješenjem u zapisniku pravnoj ili fizičkoj osobi, dok ne otkloni utvrđene nedostatke, zabraniti daljnje obavljanje ugostiteljske ili turističke djelatnosti, odnosno pružanje tih usluga:
+
+– ako se obavljaju bez upisa u propisani registar, odnosno upisnik,
+
+– ako se obavljaju bez rješenja kojim je utvrđeno da prostor, uređaji i oprema udovoljavaju propisanim uvjetima.
+
+(6) Usmeno rješenje iz stavka 3. i 5. ovoga članka izvršit će se odmah pečaćenjem prostorija, postrojenja, uređaja i druge opreme za rad ili na drugi pogodan način.
+
+(7) Pravna ili fizička osoba na koje se odnosi usmeno rješenje iz stavka 3. i 5. ovoga članka može pisanim putem, u roku od 24 sata od dana pečaćenja prostorija zatražiti da se zapečaćena prostorija privremeno otpečati i u prisutnosti inspektora iz prostorija odmah iznijeti pokvarljive namirnice i poduzeti sigurnosne i druge mjere radi sprečavanja štete, nakon čega će inspektor poslovne prostorije ponovno zapečatiti.
+
+(8) Rješenje iz stavka 1., 3. i 5. ovoga članka u pisanom obliku inspektor je dužan otpremiti stranci u roku od osam dana od izricanja zabrane usmenim rješenjem, ako u tom roku utvrđeni nedostaci nisu otklonjeni.
+
+(9) Ako kupac, odnosno korisnik usluge iz stavka 4. podstavka 3. ovoga članka nije poznat, više naplaćeni iznos prihod je državnog proračuna Republike Hrvatske.
+
+(10) Žalba izjavljena protiv rješenja iz ovoga članka ne odgađa izvršenje.«
+
+### Članak 18.
+
+Članak 59. mijenja se i glasi:
+
+»(1) U provedbi inspekcijskog nadzora u području zaštite na radu, inspektor rada ovlašten je donijeti rješenje o privremenoj zabrani korištenja sredstva rada, prostora ili instalacija, odnosno o zabrani određenog načina postupanja ili rješenje kojim naređuje poslodavcu da radnika privremeno udalji s obavljanja poslova, u slučajevima kada utvrdi da su izravno ugroženi život ili zdravlje radnika ili drugih osoba.
+
+(2) Inspektor rada dužan je za vrijeme inspekcijskog nadzora u području zaštite na radu donijeti rješenje upisom u knjigu nadzora poslodavca, kojim će:
+
+– narediti poslodavcu da udalji s posla radnika koji radi protivno pravilima zaštite na radu, odnosno koji ne upotrebljava propisana osobna zaštitna sredstva te za kojeg se opravdano može pretpostaviti da je pod utjecajem alkohola ili drugih opojnih sredstava,
+
+– narediti poslodavcu da radnika udalji s poslova za čije obav­ljanje ne ispunjava uvjete utvrđene pravilima zaštite na radu, ako je zbog toga neposredno ugrožen život, odnosno zdravlje radnika,
+
+– zabraniti uporabu sredstava rada (objekata namijenjenih za rad, strojeva i uređaja, skela i površina za rad i dr.), dok se ne otklone nedostaci ili dok traju okolnosti zbog kojih je neposredno ugrožen život, odnosno zdravlje radnika,
+
+– zabraniti poslodavcu određeno ponašanje ili postupanje koje je protivno zakonu ili drugom propisu, odnosno narediti mu otklanjanje utvrđene nepravilnosti.
+
+(3) Mjera iz stavka 2. podstavka 3. ovoga članka poduzet će se i kad strojevi i uređaji s povećanim opasnostima, odnosno radni okoliš nisu ispitani u propisanim rokovima, a opravdano se može pretpostaviti da postoji neposredna opasnost po život, odnosno zdravlje radnika.
+
+(4) Inspektor rada dužan je izdati posebno pisano rješenje iz stavka 2. i 3. ovoga članka s obrazloženjem ako to pisanim putem zahtijeva poslodavac u roku od osam dana od dana upisa izrečene mjere u knjigu nadzora ili ako poslodavac ne vodi knjigu nadzora.
+
+(5) U svrhu osiguranja provedbe zabrane iz stavka 2. podstavka 3. i stavka 3. ovoga članka inspektor rada ovlašten je zapečatiti radne prostorije i prostore, odnosno strojeve i uređaje.«
+
+### Članak 19.
+
+Članak 62. mijenja se i glasi:
+
+»(1) U provedbi inspekcijskog nadzora u području rada (radni odnosi) inspektor rada će usmenim rješenjem u zapisniku, na određeno vrijeme u trajanju od 30 dana, zabraniti poslodavcu obavljanje djelatnosti u nadziranom poslovnom objektu, odnosno prostoru, ako utvrdi da je tijekom nadzora za poslodavca radio:
+
+– stranac bez radne dozvole koji nije oslobođen obveze pribav­ljanja iste ili kod poslodavca obavlja posao za koji mu nije izdana radna dozvola,
+
+– radnik na obavljanju posla koji s obzirom na narav i vrstu rada te ovlasti poslodavca ima obilježje posla za koji se zasniva radni odnos, a poslodavac ga nije prijavio na obvezno mirovinsko ili osnovno zdravstveno osiguranje s prvim danom početka rada i na odgovarajuće radno vrijeme.
+
+(2) Rješenje iz stavka 1. ovoga članka izvršava se odmah pečaćenjem poslovnih prostorija, postrojenja, uređaja i druge opreme za rad ili na drugi pogodan način.
+
+(3) Otpravak usmenog rješenja iz stavka 1. ovoga članka inspek­tor je dužan otpremiti stranci u pisanom obliku u roku od osam dana od dana izricanja zabrane usmenim rješenjem.
+
+(4) Pravna ili fizička osoba na koje se odnosi usmeno rješenje iz stavka 1. ovoga članka može pisanim putem, u roku od 24 sata od dana pečaćenja poslovnih prostorija zatražiti da se zapečaćena prostorija privremeno otpečati i u prisutnosti inspektora iz prostorija odmah iznijeti pokvarljive namirnice i poduzeti sigurnosne i druge mjere radi sprečavanja štete, nakon čega će inspektor poslovne prostorije ponovno zapečatiti.«
+
+### Članak 20.
+
+Članak 63. mijenja se i glasi:
+
+»Žalba izjavljena protiv rješenja donesenog na temelju odredbi članka 59. i odredbi članka 62. ovoga Zakona ne odgađa izvršenje rješenja.«
+
+### Članak 21.
+
+U naslovu iznad članka 64. riječi: »Elektroenergetski inspek­tor,« brišu se.
+
+U članku 64. stavak 1. briše se.
+
+U dosadašnjem stavku 2., koji postaje stavak 1., podstavci 2. i 3. mijenjaju se i glase:
+
+»– zabraniti izvođenje rudarskih radova na eksploataciji mineralnih sirovina ako se utvrdi da se oni izvode suprotno odobrenju za eksploatacijsko polje, ako se rudarski radovi izvode bez rudarske koncesije za izvođenje rudarskih radova ili ako se rudarski radovi izvode suprotno rudarskoj koncesiji za izvođenje radova,
+
+– zabraniti radniku rukovođenje rudarskim radovima ako ne ispunjava određene propisane uvjete o stručnoj osposobljenosti za obavljanje određenih poslova u rudarstvu,«.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »elektroenergetski inspektor«, brišu se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+### Članak 22.
+
+U članku 68. stavku 1. riječi u zagradi: »(članak 46. stavak 1. i 2., članak 50. stavak 1., članak 58., članak 59. stavak 1., 2. i 3. i 5., članak 61., članak 62. stavak 2. i 3. i članak 64)« zamjenjuju se riječima: »(članak 46. stavak 1. i 2., članak 50. stavak 1., članak 58. stavak 4., članak 59., članak 61. i članak 64.).«
+
+U stavku 2. riječi: »članak 58. stavak 4. podstavak 7. i stavak 7. podstavak 3.« zamjenjuju se riječima: »članak 58. stavak 9.«.
+
+### Članak 23.
+
+U članku 69. stavku 1. riječi u zagradi: »(članak 58. stavak 6. i 8. i članak 62. stavak 3)« zamjenjuju se riječima: »(članak 58. i članak 62.).«
+
+### Članak 24.
+
+Članak 71. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 30.000,00 do 120.000,00 kuna po radniku kaznit će se za prekršaj poslodavac – pravna osoba koji radnika nije prijavio na obvezno mirovinsko ili osnovno zdravstveno osiguranje (članak 4. stavak 1. podstavak 1.).
+
+(2) Za prekršaje iz stavka 1. ovoga članka, kaznit će se poslodavac fizička osoba te odgovorna osoba u pravnoj osobi novčanom kaznom od 10.000,00 do 15.000,00 kuna po radniku.
+
+(3) Za prekršaj iz stavka 1. ovoga članka uz novčanu kaznu izreći će se i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od tri mjeseca do jedne godine.«
+
+### Članak 25.
+
+U članku 73. stavku 1. iza riječi: »članak 59.« riječi: »stavak 1. i 2.«, te riječi: »članak 62. stavak 2. i 3.«, brišu se.
+
+### Članak 26.
+
+(1) Inspektori rada koji na dan stupanja na snagu ovoga Zakona nemaju položen državni stručni ispit za inspektora rada, dužni su isti položiti u roku od godine dana od dana stupanja na snagu ovoga Zakona, osim inspektora koji imaju položen pravosudni ispit.
+
+(2) Inspektori Državnog inspektorata koji su na dan stupanja na snagu ovoga Zakona zatečeni na radnim mjestima inspektora, nastavljaju obavljanje inspekcijskih poslova i u slučaju da ne ispunjavaju uvjete u pogledu stupnja stručne spreme i struke utvrđene u člancima 7., 11. i 12. ovoga Zakona.«
+
+### Članak 27.
+
+U cijelom tekstu Zakona o Državnom inspektoratu (»Narodne novine«, br. 76/99., 96/03., 151/03., 160/04., 174/04., 33/05. i 48/05.) riječi: »privredni prijestupi« u određenom rodu, broju i padežu brišu se, a riječ: »zaposlenik« u određenom rodu, broju i padežu zamjenjuje se riječju: »radnik« u odgovarajućem rodu, broju i padežu.
+
+### Članak 28.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o Državnom inspektoratu.
+
+### Članak 29.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 023-03/05-01/03
+
+Zagreb, 14. listopada 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

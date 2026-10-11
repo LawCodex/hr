@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-22
+last_amended: 2001-03-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "111/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "111/97, 24/01"
+amendments:
+  - "NN 24/2001 (434) Zakon o izmjeni Zakona o športu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1670"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o športu
 
 > Izvor: Narodne novine, NN 111/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1670).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 24/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -783,3 +787,53 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o športu (NN 24/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/434*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+434
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ŠPORTU
+
+Proglašavam Zakon o izmjeni Zakona o športu, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 15. ožujka 2001.
+
+Klasa: 01-081-01-888/2  
+Zagreb, 21. ožujka 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ŠPORTU**
+
+### Članak 1.
+
+U Zakonu o športu (»Narodne novine«, br. 111/97.) u članku 18. stavak 2. mije­nja se i glasi:
+
+»Športsku djelatnost sudjelova­nja u športskim natjeca­njima fizičke osobe mogu samostalnim radom (športska djelatnost samostalnih športaša) obav­ljati samo u natjeca­njima na razini države ili međunarodnim natjeca­njima.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 620-01/00-01/02  
+Zagreb, 15. ožujka 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

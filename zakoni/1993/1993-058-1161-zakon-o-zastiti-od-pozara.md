@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-06-18
+last_amended: 2005-03-14
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1993; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "58/93"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "58/93, 33/05"
+amendments:
+  - "NN 33/2005 (641) Zakon o izmjenama i dopunama Zakona o zaštiti od požara"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1161"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti od požara
 
 > Izvor: Narodne novine, NN 58/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1161).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 33/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -618,3 +622,265 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 Predsjednik Zastupničkog doma Sabora
 
 Stjepan Mesić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti od požara (NN 33/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/33/641*
+
+HRVATSKI SABOR
+
+641
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD POŽARA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti od požara, koje­ga je Hrvatski sabor donio na sjednici 25. ve­ljače 2005. godine.
+
+Broj: 01-081-05-772/2  
+Zagreb, 4. ožujka 2005.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD POŽARA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti od požara (»Narodne novine«, br. 58/93.) u članku 2. dodaje se stavak 3. koji glasi:
+
+»(3) Svaka osoba dužna je voditi računa da ne izazove požar.«
+
+#### Članak 2.
+
+U članku 3. stavku 5. iza riječi: »poslova« dodaju se riječi »i Državne uprave za zaštitu i spašavanje«.
+
+#### Članak 3.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Mjesno nadležna policijska uprava, odnosno Ministarstvo unutarnjih poslova sudjeluje u postupku izrade i donošenja dokumenata prostornog uređenja po posebnom zakonu glede zaš­tite od požara.
+
+(2) Iznimno od stavka 1. ovoga članka, u postupku izrade i donošenja detaljnog plana uređenja sudjeluje mjesno nadležna policijska uprava radi određivanja posebnih uvjeta gradnje iz pod­ručja zaštite od požara za građevine čija se izgradnja planira tim planom.
+
+(3) Nositelj izrade dokumenta prostornog uređenja dužan je pravovremeno obavijestiti tijelo iz stavka 1. i 2. ovoga članka o izradi i donošenju dokumenta prostornog uređenja i omogućiti mu sudjelovanje u njegovoj izradi.«
+
+#### Članak 4.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Mjesno nadležna policijska uprava u postupku izdavanja lokacijske dozvole po posebnom zakonu utvrđuje posebne uvjete gradnje iz područja zaštite od požara.
+
+(2) Iznimno od stavka 1. ovoga članka, Ministarstvo unutarnjih poslova utvrđuje posebne uvjete gradnje u postupku izdavanja lokacijske dozvole koju izdaje ministarstvo nadležno za poslove prostornog uređenja.
+
+(3) Ministar unutarnjih poslova uz prethodno mišljenje ministra nadležnog za poslove prostornog uređenja posebnim propisom određuje građevine na koje se ne primjenjuje stavak 1. ovoga članka.«
+
+#### Članak 5.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Građevina mora biti projektirana i izgrađena tako da ispunjava bitne zahtjeve iz područja zaštite od požara propisane posebnim zakonom kojim je uređeno građenje.
+
+(2) Smatra se da je ispunjen uvjet iz stavka 1. ovoga članka ukoliko građevina udovoljava uvjetima utvrđenim ovim Zakonom i na temelju njega donesenim propisima te uvjetima zaštite od požara utvrđenim posebnim zakonima i na temelju njih donesenim propisima.
+
+(3) Iznimno od stavka 2. ovoga članka, u slučaju da se bitne zahtjeve iz područja zaštite od požara ne može ispuniti na način određen propisima iz stavka 2. ovoga članka, Ministarstvo unutarnjih poslova će na zahtjev investitora ili projektanta građevine rješenjem posebno utvrditi uvjete zaštite od požara.
+
+(4) Protiv rješenja iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«
+
+#### Članak 6.
+
+Članak 15. mijenja se i glasi:
+
+»(1) U pogledu mjera zaštite od požara građevine se dijele na:
+
+– skupina 1 – manje zahtjevna građevina te obiteljska kuća i jednostavna građevina prema posebnom zakonu,
+
+– skupina 2 – zahtjevna građevina.
+
+(2) Ministar unutarnjih poslova, uz prethodno mišljenje ministra nadležnog za poslove graditeljstva, donosi propis kojim se građevine razvrstavaju u skupine iz prethodnog stavka.
+
+(3) Za građevine skupine 2. potrebno je u postupku izdavanja građevinske dozvole, odnosno potvrde glavnog projekta po po­seb­nom zakonu pribaviti potvrdu nadležne policijske uprave o us­kla­đenosti glavnog projekta s uvjetima za gradnju određenim ovim Zakonom.
+
+(4) Odredbe stavka 3. ovoga članka odgovarajuće se primje­njuju na izdavanje izmjene i dopune građevinske dozvole odnosno dozvole za uklanjanje dijela građevine, na izdavanje mišljenja na idejni projekt u slučaju izdavanja načelne dozvole te mišljenja na tipski projekt u slučaju izdavanja rješenja o tipskom projektu prema posebnom zakonu.
+
+(5) Odredbe stavka 3. ovoga članka odgovarajuće se odnose na izvedbeni projekt kada se prema posebnom zakonu prilaže zahtjevu za građevinsku dozvolu, odnosno na glavni projekt kada se prema posebnom zakonu prilaže zahtjevu za načelnu dozvolu.«
+
+#### Članak 7.
+
+Iza članka 15. dodaje se članak 15.a koji glasi:
+
+»Članak 15.a
+
+(1) Podaci za projektiranje mjera zaštite od požara i tehnoloških eksplozija u glavnom projektu dobivaju se iz elaborata zaštite od požara koji je poslužio kao podloga za izradu proje­kata glavnog projekta.
+
+(2) Elaborat zaštite od požara izrađuje se samo za građevine skupine 2.
+
+(3) Elaborat zaštite od požara izrađuje osoba ovlaštena za izradu elaborata zaštite od požara i ovjerava ga svojim potpisom.
+
+(4) Ovlast za izradu elaborata zaštite od požara izdaje Ministarstvo fizičkoj osobi koja:
+
+– ima najmanje visoku stručnu spremu tehničkog smjera,
+
+– ima najmanje 5 godina radnog iskustva na poslovima projektiranja mjera zaštite od požara ili njihovog nadzora,
+
+– ima položen stručni ispit za obavljanje poslova u graditeljstvu ili ispit s njim izjednačen prema posebnom zakonu te koja u skladu s tim zakonom upotpunjava i usavršava svoje znanje u području zaštite od požara, ili
+
+– ima položen državni stručni ispit čiji ispitni program sadrži područje zaštite od požara te koja upotpunjava i usavršava svoje znanje u skladu s programom usavršavanja državnih službenika u području zaštite od požara,
+
+– poznaje hrvatski jezik i latinično pismo, što dokazuje svjedodžbom odnosno diplomom o završenom školovanju na hrvatskom jeziku ili drugom odgovarajućom ispravom nadležne obrazovne ustanove.
+
+(5) Upisnik osoba ovlaštenih za izradu elaborata zaštite od požara vodi Ministarstvo.
+
+(6) Ministar unutarnjih poslova, uz prethodnu suglasnost mi­nistra nadležnog za poslove graditeljstva, posebnim će propisom propisati sadržaj elaborata zaštite od požara.
+
+(7) Ministar unutarnjih poslova posebnim će propisom propisati način davanja, produživanja i oduzimanja ovlaštenja za izradu elaborata za zaštitu od požara, te isprave i način dokazivanja činjenica na temelju kojih se daje ovlaštenje.«
+
+#### Članak 8.
+
+Članak 16. mijenja se i glasi:
+
+»(1) Kada građevinsku dozvolu, odnosno potvrdu glavnog projekta izdaje ured državne uprave odnosno upravno tijelo Grada Zagreba nadležno za poslove graditeljstva, nadležna policijska up­ra­va sudjeluje u radu povjerenstva za tehnički pregled građe­vi­ne koji se obavlja po posebnom zakonu samo u slučajevima kada je izdala potvrdu iz članka 15. stavka 3. ovoga Zakona.
+
+(2) Pod uvjetima iz stavka 1. ovoga članka Ministarstvo unutarnjih poslova sudjeluje u radu povjerenstva za tehnički pregled građevine kada građevinsku dozvolu, odnosno potvrdu glavnog projekta izdaje ministarstvo nadležno za poslove graditeljstva.
+
+(3) Predstavnik tijela iz stavka 1. i 2. ovoga članka, koji sudjeluje u radu Povjerenstva za tehnički pregled daje mišljenje da se građevina može koristiti ako nema nedostataka koji utječu na ispunjavanje uvjeta za gradnju određenih ovim Zakonom.«
+
+#### Članak 9.
+
+U članku 17. stavku 2. riječi: »komisiji iz članka 16. stavka 2.« zamjenjuju se riječima: »povjerenstvu za tehnički pregled iz članka 16. stavka 1. i 3«.
+
+#### Članak 10.
+
+U članku 30. dodaju se stavci 4., 5. i 6. koji glase:
+
+»(4) Nadzor nad provedbom mjera zaštite od požara na pod­ruč­ju nacionalnih parkova i parkova prirode obavljaju i inspektori zaštite prirode koji u obavljanju ovih poslova imaju ovlasti inspektora zaštite od požara.
+
+(5) Inspektori iz stavka 1. ovoga članka dokazuju svoje službeno svojstvo, identitet i ovlasti službenom iskaznicom i službenom značkom.
+
+(6) Ministar unutarnjih poslova posebnim propisom propisuje obrazac službene iskaznice, oblik i izgled službene značke in­spektora iz stavka 1. ovoga članka te način izdavanja, zamjene i vođenja evidencije o izdanim službenim iskaznicama i znač­ka­ma.«
+
+#### Članak 11.
+
+Članak 44. briše se.
+
+#### Članak 12.
+
+U članku 47. stavku 1. u uvodnoj rečenici riječi: »u dinarskoj protuvrijednosti« brišu se, riječi: »700 do 7.000 DEM« zamje­nju­ju se riječima »10.000 do 100.000 kuna«, a riječi: »privredni pri­jes­tup« zamjenjuju se riječju: »prekršaj«.
+
+Podstavak 1. briše se.
+
+U stavku 2. riječi: »privredne prijestupe« zamjenjuju se ri­ječ­ju: »prekršaje«, riječi: »u dinarskoj protuvrijednosti« brišu se, a riječi: »150 do 700 DEM« zamjenjuju se riječima: »1.000 do 5.000 kuna«.
+
+#### Članak 13.
+
+U članku 48. stavku 1. u uvodnoj rečenici riječi: »u dinarskoj protuvrijednosti« brišu se, a riječi: »210 do 2.100 DEM« zamje­njuju se riječima: »2.000,00 do 20.000,00 kuna«.
+
+Podstavak 13. briše se.
+
+Dosadašnji podstavci 14. i 15. postaju podstavci 13. i 14.
+
+U stavku 2. riječi: »u dinarskoj protuvrijednosti« brišu se, a riječi: »100 do 210 DEM« zamjenjuju se riječima: »1.000,00 do 3.000,00 kuna«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaje iz stavka 1. podstavka 2., 5., 6., 7., 10., 11., 12., 13. i 14. ovoga članka kaznit će se novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna odgovorna osoba u poglavarstvu jedinice lokalne i područne (regionalne) samouprave.
+
+(4) Novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna kaznit će se za prekršaj odgovorna osoba u poglavarstvu jedinice lokalne i područne (regionalne) samouprave ako jedinica lokalne i područne (regionalne) samouprave ne donese plan zašti­te od požara za svoje područje (članak 3. stavak 2. i 3.).«
+
+#### Članak 14.
+
+Iza članka 48. dodaje se članak 48.a koji glasi:
+
+»Članak 48.a
+
+(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba ako onemogućava inspektora za zaštitu od požara u obavljanju njegovih poslova ili odbije dati na uvid propisanu dokumentaciju ili mu ne pruži potrebne podatke ili obavijesti (članak 33. stavak 3.).
+
+(2) Za prekršaj iz stavka 1. kaznit će se novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna i odgovorna osoba u prav­noj osobi.
+
+(3) Za prekršaj iz stavka 1. kaznit će se novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna fizička osoba.«
+
+#### Članak 15.
+
+U članku 49. stavku 1. u uvodnoj rečenici riječi: »u dinarskoj protuvrijednosti« brišu se, a riječi: »100 do 210 DEM« zamje­nju­ju se riječima: »1.000,00 do 3.000,00 kuna«.
+
+Iza podstavka 2. dodaje se podstavak 2.a koji glasi:
+
+»2.a ako ne održava u ispravnom stanju uređaje, opremu i sredstva za dojavu, gašenje i sprečavanje širenja požara te druge zaštitne uređaje i instalacije sukladno tehničkim normativima, nor­mama i uputama proizvođača ili ako o održavanju ne posjeduju dokumentaciju (članak 18. stavak 3.).«
+
+Podstavak 4. briše se.
+
+Dosadašnji podstavci 5. i 6. postaju podstavci 4. i 5.
+
+Dodaju se stavci 2., 3. i 4. koji glase:
+
+»(2) Osoba koja izazove požar kaznit će se za prekršaj novčanom kaznom od 3.000,00 do 10.000,00 kuna ili kaznom zatvora od 30 do 60 dana (članak 2. stavak 3.).
+
+(3) Osoba iz stavka 2. ovoga članka koja izazove požar iz nehaja kaznit će se za prekršaj novčanom kaznom od 1.000,00 do 5.000,00 kuna.
+
+(4) Novčanom kaznom od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj ovlaštena osoba koja izrađuje i ovjerava elaborat zaštite od požara a nema ovlast Ministarstva, ili ako elaborat koji je izradila i ovjerila nema propisani sadržaj (članak 15.a).«
+
+#### Članak 16.
+
+Iza članka 49. dodaje se članak 49.a koji glasi:
+
+»Članak 49.a
+
+(1) Novčanom kaznom od 3.000,00 do 10.000,00 kuna kaznit će se za prekršaj pravna osoba koja postupa suprotno odredbama propisa donesenih na temelju članka 3. stavka 6., članka 20. stav­ka 4., članka 21. stavka 6., članka 22. stavka 3. i članka 53. stavka 2. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se nov­ča­nom kaznom od 1.000,00 do 3.000,00 kuna i odgovorna osoba u pravnoj osobi.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se nov­čanom kaznom od 1.000,00 do 10.000,00 kuna fizička osoba.«
+
+#### Članak 17.
+
+Članak 50. briše se.
+
+#### Članak 18.
+
+U članku 51. stavku 1. i 2. riječi: »privredni prijestup« zamjenjuju se riječju: »prekršaj«.
+
+#### Članak 19.
+
+Članak 52. briše se.
+
+#### Članak 20.
+
+U članku 53. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Popis stranih propisa koji se kao pravila tehničke prakse u području zaštite od požara primjenjuju u Republici Hrvatskoj donosi Vlada Republike Hrvatske.
+
+(4) Popis iz stavka 3. ovoga članka objavit će se u »Narodnim novinama«.«
+
+#### Članak 21.
+
+U cijelom tekstu Zakona o zaštiti od požara (»Narodne novine«, br. 58/93.) riječ: »kotar« briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 22.
+
+Odredbe članka 7. stavka 1., 2. i 3. ovoga Zakona počinju se primjenjivati od dana proteka roka od 6 mjeseci od donošenja propisa iz članka 7. stavka 7. ovoga Zakona.
+
+Propisi iz članaka 4., 6., 7. i 10. te popis iz članka 20. ovoga Zakona donijet će se u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 23.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 214-02/04-01/01  
+Zagreb, 25. veljače 2005.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

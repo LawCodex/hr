@@ -6,13 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-28
-last_amended: 2000-07-21
+last_amended: 2006-12-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "91/96, 73/00"
+narodne_novine: "91/96, 73/00, 114/01, 79/06, 141/06"
 amendments:
   - "NN 73/2000 (1578) Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 114/2001 (1883) Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 79/2006 (1917) Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 141/2006 (3195) ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1596"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 91/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1596).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 73/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 73/2000, NN 114/2001, NN 79/2006, NN 141/2006.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -4569,3 +4572,262 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima (NN 114/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1883*
+
+HRVATSKI SABOR
+
+1883
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
+
+Broj: 01-081-01-3881/2  
+Zagreb, 13. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
+
+### Članak 1.
+
+U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00. i 73/00.) u članku 367. stavak 4. briše se.
+
+Dosadaš­nji stavak 5. postaje stavak 3.
+
+### Članak 2.
+
+U članku 388. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»U rok za stjeca­nje dosjelošću nekretnine koje su na dan 8. listopada 1991. bile u društvenom vlasništvu, kao i za stjeca­nje stvarnih prava na tim nekretninama dosjelošću, ne računa se i vrijeme posjedova­nja proteklo prije toga dana.«
+
+U stavku 5. riječi: »do kojih dođe unutar roka od pet godina od stupa­nja ovoga Zakona na snagu«, zamje­njuju se riječima: »do kojih dođe do 1. siječ­nja 2007.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 941-06/01-01/01  
+Zagreb, 7. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima (NN 79/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1917*
+
+HRVATSKI SABOR
+
+1917
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARIM PRAVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima, kojega je Hrvatski sabor donio na sjednici 30. lipnja 2006. godine
+
+Klasa: 011-01/06-01/31
+
+Urbroj: 71-05-03/1-06-2
+
+Zagreb, 5. srpnja 2006.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
+
+#### Članak 1.
+
+U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00. i 114/01.), u članku 73. stavak 3. mijenja se i glasi:
+
+»(3) Vlasništvo posebnog dijela ne može se uspostaviti dok nadležno tijelo ne potvrdi da je određeni stan ili druga prostorija u određenoj zgradi i na određenoj zemljišnoj čestici samostalna uporabna cjelina. Potvrda mora sadržavati popis i opis posebnih dijelova nekretnine i da su izgrađeni u skladu s dozvolom nadležnog tijela.«
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Potvrdu iz stavka 3. ovoga članka može zamijeniti uporabna dozvola iz koje je razvidno da je zgrada izgrađena sukladno planu posebnih dijelova nekretnine, potvrđenim građevinskom dozvolom da ti posebni dijelovi predstavljaju samostalnu uporabnu cjelinu.«
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 2.
+
+U članku 74. stavku 2. podstavak 5. mijenja se i glasi:
+
+»– korisna se površina u pravilu izračunava prema glavnom projektu koji je sastavni dio građevinske dozvole ili koji je potvrđen po nadležnom tijelu; ali ako netko učini vjerojatnim da postoje znatnija odstupanja od tog projekta, korisna će se površina izračunati prema stvarnom stanju.«
+
+#### Članak 3.
+
+U članku 356. stavak 2. i 3. mijenjaju se i glase:
+
+»(2) Strane fizičke i pravne osobe mogu ako zakonom nije drukčije određeno, pod pretpostavkom uzajamnosti, stjecati vlasništvo nekretnina na području Republike Hrvatske, ako suglasnost za to dade ministar nadležan za poslove pravosuđa Republike Hrvatske.
+
+(3) Suglasnost iz stavka 2. ovoga članka je upravni akt.«
+
+Stavak 4. briše se.
+
+#### Članak 4.
+
+Naslov iznad članka 357. mijenja se i glasi: »Suglasnost«.
+
+#### Članak 5.
+
+U članku 357. stavak 1. mijenja se i glasi:
+
+»(1) Ako je za stjecanje prava vlasništva nekretnine potrebna suglasnost ministra nadležnog za poslove pravosuđa Republike Hrvatske, pravni posao kojemu je cilj stjecanje toga prava vlasništva ništetan je bez suglasnosti ministra nadležnog za poslove pravosuđa.«
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 6.
+
+U članku 368. stavak 3. mijenja se i glasi:
+
+»(3) Ako je do stupanja na snagu ovoga Zakona na zemljištu u društvenom vlasništvu izgrađena zgrada koja je u trenutku stupanja na snagu ovoga Zakona u nečijem vlasništvu, ali na zemljištu nije upisano pravo korištenja građevinskoga zemljišta u društvenom vlasništvu, odnosno prvenstvenoga prava korištenja građevinskoga zemljišta u društvenom vlasništvu u korist vlasnika te zgrade, nadležni će sud na zahtjev vlasnika zgrade odrediti upis iz stavka 1. ovoga članka na temelju ovršne odluke vlasti kojom je radi izgradnje zgrade dodijeljeno pravo korištenja odnosno utvrđeno prvenstveno pravo korištenja njegovu nositelju, ugovora o međusobnim pravima i obvezama sklopljenim u skladu s uvjetima utvrđenim u toj odluci te obavijesti nadležnoga katastarskoga tijela da je na odnosnoj građevinskoj čestici izgrađena zgrada.«
+
+#### Članak 7.
+
+Iza članka 390. dodaje se naslov i članak 390.a koji glase:
+
+»Vlasništvo trgovačkog društva kao pravnog sljednika društvenog poduzeća
+
+#### Članak 390.a
+
+Trgovačko društvo kao pravni sljednik društvenog poduzeća, po završenoj pretvorbi društvenoga vlasništva, vlasnik je nekretnina koje su na dan procjene vrijednosti temeljnog kapitala u postupku pretvorbe ili privatizacije bile:
+
+– društveno vlasništvo s pravom upravljanja, korištenja i raspolaganja društvenog poduzeća i
+
+– koje su mogle biti predmet stjecanja prava vlasništva i
+
+– čija je vrijednost procijenjena u kapital društva i koje su po nadležnom tijelu iskazane u kapitalu društva.«
+
+#### Članak 8.
+
+U članku 391. stavak 2. mijenja se i glasi:
+
+»(2) Odredbe stavka 1. ovoga članka ne odnose se na slučajeve kad pravo vlasništva na nekretninama u vlasništvu jedinica lokalne i područne (regionalne) samouprave, stječu Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, odnosno pravne osobe u vlasništvu ili pretežitom vlasništvu jedinice lokalne i područne (regionalne) samouprave, ako je to u interesu i cilju općega gospodarskog i socijalnog napretka njezinih građana.«
+
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Zemljište u vlasništvu jedinica lokalne i područne (regionalne) samouprave poglavarstva tih jedinica mogu prodati po utvrđenoj tržišnoj cijeni bez provedbe javnog natječaja:
+
+– osobi kojoj je dio tog zemljišta potreban za formiranje neizgrađene građevne čestice u skladu s lokacijskom dozvolom ili detaljnim planom uređenja, ako taj dio ne prelazi 20 % površine planirane građevne čestice i
+
+– osobi koja je na zemljištu u svom vlasništvu, bez građevinske dozvole ili drugog odgovarajućeg akta nadležnog tijela državne uprave, izgradila građevinu u skladu s detaljnim planom uređenja ili lokacijskom dozvolom, a nedostaje joj do 20% površine planirane građevne čestice, pod uvjetom da se obveže da će u roku od jedne godine od dana sklapanja kupoprodajnog ugovora ishoditi građevinsku dozvolu.
+
+(4) Tržišna cijena iz stavka 3. ovoga članka je vrijednost izražena u cijeni koja se za određenu nekretninu može postići na tržištu i koja ovisi o odnosu ponude i potražnje u vrijeme njezinog utvrđivanja na području jedinice lokalne samouprave.«
+
+Dosadašnji stavak 3., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) Pravni poslovi sklopljeni protivno odredbama ovoga članka ništetni su.«
+
+#### Članak 9.
+
+U Zakonu o vlasništvu i drugim stvarnim pravima riječi: »lokalne uprave i samouprave« zamjenjuju se riječima: »područne (regionalne) samouprave« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 10.
+
+Članak 1. stavak 1. ovoga Zakona ne primjenjuje se na uspostavu vlasništva posebnog dijela zgrade ucrtane u katastarskom operatu do stupanja na snagu ovoga Zakona.
+
+Vlasništvo posebnog dijela zgrade iz stavka 1. ovoga članka ne može se uspostaviti dok nadležno tijelo ne potvrdi da je određeni stan ili druga prostorija u određenoj zgradi i na određenoj zemljišnoj čestici samostalna uporabna cjelina. Potvrda mora sadržavati popis i opis posebnih dijelova nekretnine i napomenu o tome koji je posebni dio zgrade izgrađen bez, odnosno protivno dozvoli nadležnog tijela.
+
+Na temelju potvrde iz stavka 2. ovoga članka nadležni sud će po službenoj dužnosti upisati zabilježbu u zemljišnoj knjizi da je posebni dio zgrade izgrađen bez, odnosno protivno dozvoli nadležnog tijela.
+
+Iznimno od stavka 1. ovoga članka, na zahtjev vlasnika nekretnine, izdat će se potvrda sukladno članku 1. stavku 1. ovoga Zakona ako je posebni dio zgrade izgrađen u skladu s dozvolom nadležnog tijela.
+
+#### Članak 11.
+
+Postupci započeti po odredbama članka 356. i 357. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00. i 114/01.) dovršit će se po odredbama ovoga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 941-06/05-01/01
+
+Zagreb, 30. lipnja 2006.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
+
+## ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA (NN 141/2006)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3195*
+
+HRVATSKI SABOR
+
+3195
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima, kojega je Hrvatski sabor donio na sjednici 15. prosinca 2006. godine.  
+Klasa: 011-01/06-01/102  
+Urbroj: 71-05-03/1-06-2  
+Zagreb, 19. prosinca 2006.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
+
+### Članak 1.
+
+U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00., 114/01. i 79/06.), u članku 82. stavku 1. podstavku 2. iza riječi: »postojeću antenu« stavlja se zarez i dodaju se riječi: »te izvođenje radova kojima se osigurava nesmetan pristup, kretanje i rad osobama smanjene pokretljivosti.«
+
+### Članak 2.
+
+U članku 87. dodaje se stavak 3. koji glasi:  
+»(3) Iznimno od odredbe stavka 1. ovoga članka, pristanak svih suvlasnika nije potreban ni za poboljšicu kojom se na zajedničkim dijelovima i uređajima nekretnine osigurava nesmetan pristup, kretanje i rad osobama smanjene pokretljivosti.«
+
+### Članak 3.
+
+U članku 388. stavku 5. riječi: »do kojih dođe do 1. siječnja 2007.« zamjenjuju se riječima: »do kojih dođe do 1. siječnja 2010.«  
+Iza stavka 5. dodaje se stavak 6. koji glasi:  
+»(6) Iznimno od odredbe stavka 5. ovoga članka zaštita povjerenja u istinitost i potpunost zemljišnih knjiga primjenjuje se od 1. siječnja 2007. na nekretnine u katastarskim općinama za koje je otvorena EOP zemljišna knjiga kao i na nekretnine koje su prema posebnim odredbama Zakona o zemljišnim knjigama unesene u Bazu zemljišnih podataka.«
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.  
+Klasa: 941-06/06-01/01  
+Zagreb, 15. prosinca 2006.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-07-04
+last_amended: 2002-12-20
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "69/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "69/97, 153/02"
+amendments:
+  - "NN 153/2002 (2498) Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1190"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o porezu na promet nekretnina
 
 > Izvor: Narodne novine, NN 69/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1190).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -292,3 +296,125 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina (NN 153/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2498*
+
+HRVATSKI SABOR
+
+2498
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA PROMET NEKRETNINA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina, koji je donio Hrvatski sabor na sjednici 13. prosinca 2002.
+
+Broj: 01-081-02-3911/2  
+Zagreb, 18. prosinca 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA PROMET NEKRETNINA**
+
+### Članak 1.
+
+U Zakonu o porezu na promet nekretnina (»Narodne novine«, br. 69/97. i 26/00.) u članku 11. iza točke 8. dodaju se točke 9., 10., 11., 12., 13., 14. i 15. koje glase:
+
+»9. građani koji kupuju prvu nekretninu (stan ili kuću) kojom rješavaju vlastito stambeno pitanje uz uvjet:
+
+9.1. da imaju hrvatsko državljanstvo,
+
+9.2. da prijavljuju prebivalište u mjestu i na adresi gdje se nekretnina (koju kupuju) nalazi,
+
+9.3. da veličina nekretnine (stan ili kuća) koju kupuje građanin, ovisno o broju članova njegove uže obitelji, ne prelazi površinu kako slijedi:
+
+za 1 osobu do 50 m<sup>2</sup> stambenog prostora
+
+za 2 osobe do 65 m<sup>2</sup> stambenog prostora
+
+za 3 osobe do 80 m<sup>2</sup> stambenog prostora
+
+za 4 osobe do 90 m<sup>2</sup> stambenog prostora
+
+za 5 osoba do 100 m<sup>2</sup> stambenog prostora
+
+za 6 osoba do 110 m<sup>2</sup> stambenog prostora
+
+za 7 i više osoba do 120 m<sup>2</sup> stambenog prostora
+
+9.4. ako veličina nekretnine (stan ili kuća) koju građanin kupuje prelazi zadane površine iz podtočke 9.3. tada se porez na nekretninu plaća samo na višak stambenog prostora,
+
+9.5. da građanin te članovi njegove uže obitelji nemaju u vlasništvu drugu nekretninu (stan ili kuću) koja zadovoljava njihove stambene potrebe. Pod nekretninom (stan ili kuća) koja zadovoljava stambene potrebe smatra se vlasništvo stambenog prostora koji je opremljen osnovnom infrastrukturom i zadovoljava higijensko-tehničke uvjete. Odgovarajućim stanom ne smatra se stan u vlasništvu fizičke osobe kojim se koristi zaštićeni najmoprimac,
+
+9.6. da građanin te članovi njegove uže obitelji nemaju u vlasništvu stan, odnosno kuću za odmor te druge nekretnine znatnije vrijednosti. Pod drugom nekretninom znatnije vrijednosti podrazumijeva se građevinsko zemljište i poslovni prostor u kojem građanin ili član njegove uže obitelji ne obavlja registriranu djelatnost, a vrijednost nekretnine je približna vrijednosti nekretnine (stana ili kuće) koju građanin kupuje,
+
+9.7. članovima uže obitelji, u smislu ovoga Zakona, smatraju se bračni drug te djeca prijavljena na istoj adresi kao i građanin.
+
+10. Porez iz točke 9. ovoga članka plaća se ako se stan ili kuća otuđi u roku od 5 godina od dana nabave nekretnine, odnosno ako Porezna uprava naknadno utvrdi da nisu bili ispunjeni uvjeti za porezno oslobođenje.
+
+11. Porez na promet nekretnina ne plaćaju građani koji kupuju zemljište površine do 600 m<sup>2</sup>, na kojem će graditi kuću za rješavanje vlastitog stambenog pitanja, uz uvjete iz podtočaka 9.1., 9.5., 9.6. i 9.7. ovoga članka.
+
+11.1. ako veličina nekretnine (zemljište) koju građanin kupuje prelazi površinu iz točke 11. ovoga članka, tada se porez na promet nekretnina plaća samo na višak površine.
+
+12. Porez iz točke 11. ovoga članka plaća se ako se na zemljištu u roku od 5 godina ne izgradi kuća ili ako se zemljište otuđi u roku od 5 godina od dana nabave, odnosno ako Porezna uprava naknadno utvrdi da nisu bili ispunjeni uvjeti za porezno oslobođenje.
+
+13. Porez na promet nekretnina ne plaćaju građani koji kupuju prvu nekretninu kojom rješavaju vlastito stambeno pitanje kao novosagrađenu nekretninu u dijelu koji čini vrijednost zemljišta i iznos naknade za komunalno uređenje zemljišta prema odluci mjerodavnih tijela, uz ispunjenje uvjeta iz podtočaka 9.1., 9.2., 9.3., 9.5., 9.6. i 9.7. ovoga članka.
+
+13.1. ako veličina nekretnine (novosagrađene nekretnine) koju građanin kupuje prelazi zadane površine iz podtočke 9.3. ovoga članka, tada se porez na promet nekretnina plaća samo na pripadajući dio zemljišta koji se odnosi na višak stambenog prostora.
+
+14. Porez iz točke 13. ovoga članka plaća se, ako se nekretnina (novosagrađena nekretnina) otuđi u roku od 5 godina od dana nabave, odnosno ako Porezna uprava naknadno utvrdi da nisu bili ispunjeni uvjeti za porezno oslobođenje.
+
+15. Građani koji su iskoristili pravo na oslobođenje od plaćanja poreza na promet nekretnina iz točaka 9., 11. i 13. nemaju pravo na ponovno oslobođenje od plaćanja poreza na promet nekretnina.«
+
+### Članak 2.
+
+Članak 18. briše se.
+
+### Članak 3.
+
+Članak 22. mijenja se i glasi:
+
+»(1) Raskid ugovora o prijenosu vlasništva na nekretnini voljom stranaka prije nego se obavi prijenos u zemljišnim knjigama na novog vlasnika te raskid ili poništenje ugovora odlukom suda razlozi su za obnovu postupka i poništenje rješenja o utvrđivanju poreza na promet nekretnina.
+
+(2) Prijedlog za obnovu postupka zbog raskida ugovora voljom stranaka prije nego što se obavi prijenos u zemljišnim knjigama na novog vlasnika, može se podnijeti u roku od jedne godine od dana konačnosti rješenja o utvrđivanju poreza.«
+
+### Članak 4.
+
+U članku 23. riječi: »Zakona o porezu na dohodak« zamjenjuju se riječima: »Općega poreznog zakona«.
+
+### Članak 5.
+
+Iza članka 27. dodaje se članak 27.a koji glasi:
+
+»Članak 27.a
+
+(1) Predmeti u kojima je prijavljen nastanak porezne obveze, prije stupanja na snagu ovoga Zakona, a rješenje o utvrđivanju poreza na promet nekretnina nije doneseno do stupanja na snagu ovoga Zakona, glede priznavanja poreznih povlastica iz članka 1. točaka 9., 11. i 13. ovoga Zakona, dovršit će se po ovome Zakonu.
+
+(2) Predmeti u kojima je obveza poreza na promet nekretnina nastala prije stupanja na snagu ovoga Zakona, a nastanak porezne obveze nije prijavljen do stupanja na snagu ovoga Zakona, glede priznavanja poreznih povlastica iz članka 1. točaka 9., 11. i 13. ovoga Zakona, dovršit će se po ovome Zakonu.
+
+(3) Ako su stranke raskinule ugovor o prijenosu vlasništva na nekretnini, prijavljen radi utvrđivanja poreza na promet nekretnina do stupanja na snagu ovoga Zakona, te ponovo prijavile promet tih nekretnina, nakon stupanja na snagu ovoga Zakona, porez na promet nekretnina utvrdit će se prema propisima koji će biti na snazi u trenutku prijavljivanja raskinutog ugovora.«
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana nakon objave u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2003.
+
+Klasa: 410-20/02-01/02  
+Zagreb, 13. prosinca 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

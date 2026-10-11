@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-22
-last_amended: 1998-02-27
+last_amended: 2002-02-06
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "111/97, 27/98"
+narodne_novine: "111/97, 27/98, 12/02"
 amendments:
   - "NN 27/1998 (335) Ispravak Zakona o sudovima za mladež"
+  - "NN 12/2002 (290) Zakon o izmjenama i dopunama Zakona o sudovima za mladež"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1671"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 111/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1671).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 27/1998.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 27/1998, NN 12/2002.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -49,9 +50,7 @@ dr. Franjo Tuđman, v.r
 
 **O SUDOVIMA ZA MLADEŽ**
 
-## DIO PRVI
-
-### UVODNE ODREDBE
+## DIO PRVI — UVODNE ODREDBE
 
 *Sadržaj zakona*
 
@@ -71,9 +70,7 @@ Maloljetnik je osoba koja je u vrijeme počinjenja djela navršila četrnaest, a
 
 Odredbe Kaznenog zakona, Zakona o kaznenom postupku, Zakona o sudovima, Zakona o zaštiti osoba s duševnim smetnjama, zakona kojima se uređuje izvršenje sankcija za kaznena djela i drugi opći propisi primjenjuju se samo ako ovim Zakonom nije drukčije propisano.
 
-## DIO DRUGI
-
-### MALOLJETNICI
+## DIO DRUGI — MALOLJETNICI
 
 *I. Kaznenopravne odredbe*
 
@@ -967,9 +964,7 @@ O zahtjevu za sudsku zaštitu protiv mjera ili odluka ravnatelja kaznenog zavoda
 
 (2) Tijekom primjene sigurnosnih mjera obveznog psihijatrijskog liječenja i obveznog liječenja od ovisnosti može se, radi postignuća svrha primjene, s obzirom na posebnosti postupanja prema maloljetnim osobama provoditi mjere u slobodnijim oblicima, odstupanjem od općih propisa.
 
-## DIO TREĆI
-
-### MLAĐI PUNOLJETNICI
+## DIO TREĆI — MLAĐI PUNOLJETNICI
 
 *I. Primjena kaznenopravnih propisa*
 
@@ -1037,9 +1032,7 @@ Odredba članka 56. ovoga Zakona odgovarajuće vrijedi u suđenju u kaznenim pre
 
 Pri izvršenju izrečenih sankcija mlađim punoljetnim osobama (članak 109.) odgovarajuće vrijede odredbe članka 91. do 95. i članka 97. do 107. ovoga Zakona.
 
-## DIO ČETVRTI
-
-### KAZNENOPRAVNA ZAŠTITA DJECE I MALOLJETNIKA
+## DIO ČETVRTI — KAZNENOPRAVNA ZAŠTITA DJECE I MALOLJETNIKA
 
 #### Članak 117.
 
@@ -1139,9 +1132,7 @@ Odredbe članka 36. do 42. ovoga Zakona odgovarajuće vrijede u suđenju za kazn
 
 Kazneni postupak za djela iz članka 117. ovoga Zakona je hitan.
 
-## DIO PETI
-
-### PRIJELAZNE I ZAVRŠNE ODREDBE
+## DIO PETI — PRIJELAZNE I ZAVRŠNE ODREDBE
 
 #### Članak 127.
 
@@ -1243,3 +1234,297 @@ Tajnik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Berislav Živković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudovima za mladež (NN 12/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/12/290*
+
+HRVATSKI SABOR
+
+290
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA ZA MLADEŽ
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima za mladež, koji je donio Hrvatski sabor na sjednici 25. siječnja 2002.
+
+Broj: 01-081-02-336/2
+
+Zagreb, 30. siječnja 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA ZA MLADEŽ**
+
+### Članak 1.
+
+U Zakonu o sudovima za mladež (»Narodne novine«, br. 111/97. i 27/98.) u članku 18. zadnja rečenica toga članka mijenja se i glasi:
+
+»Ako je izrečena kazna zatvora ili maloljetničkog zatvora manja od jedne godine, sud će o presudi izvijestiti sud za mladež koji je u prvom stupnju izrekao odgojnu mjeru i koji će odlučiti hoće li se po izdržanoj kazni započeti ili nastaviti izvršenje odgojne mjere ili će mjeru ukinuti.«
+
+### Članak 2.
+
+U članku 19. stavak 2. mijenja se i glasi:
+
+»(2) Sud će nakon pribavljenog mišljenja ustanove u kojoj se mjera izvršavala tako postupiti i kad je izvršenje zavodske mjere bilo započeto, ali se zbog bijega maloljetnika ili iz nekoga drugog razloga mjera nije izvršavala dulje od jedne godine.«
+
+### Članak 3.
+
+U članku 22. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Podaci o izrečenoj odgojnoj mjeri brišu se iz evidencije nakon proteka roka od tri godine od dana kada je prestalo izvršenje odgojne mjere, odnosno naknadno izrečene odgojne mjere, u svakom slučaju kada evidentirani navrši dvadeset i četiri godine života.
+
+(3) Ako evidentirani bude u međuvremenu osuđen na kaznu zatvora ili maloljetničkog zatvora, podaci o odgojnoj mjeri brisat će se iz evidencije kad proteknu rehabilitacijski rokovi iz članka 85. stavka 5. Kaznenog zakona.«
+
+### Članak 4.
+
+U članku 26. stavku 2. iza riječi: »bezuvjetna kazna zatvora« i riječi: »ili maloljetničkog zatvora« dodaju se riječi: »od šest mjeseci«, a riječ: »bezuvjetna« i riječi: »od šest mjeseci zatvora ili u duljem trajanju« brišu se.
+
+### Članak 5.
+
+U članku 27. stavku 1. riječ: »će« zamjenjuje se riječju: »može«, a na kraju rečenice briše se točka i dodaju riječi: »(članak 9. i 11.)«.
+
+### Članak 6.
+
+U članku 36. stavku 1. riječi: »(članak 57. stavak 1. i 2.)« zamjenjuju se riječima: »(članak 57. stavak 1. do 3.)«, a riječi: »(članak 57. stavak 6.)« zamjenjuju se riječima: »(članak 57. stavak 7.).«
+
+U stavku 2. riječi: »(članak 57. stavak 3.)« zamjenjuju se riječima: »(članak 57. stavak 5.)«.
+
+### Članak 7.
+
+U članku 42. stavak 1. mijenja se i glasi:
+
+»(1) Sudovi iz članka 36. stavka 1. ovoga Zakona i državna odvjetništva koja pred njima postupaju, imaju stručne suradnike: socijalne pedagoge – defektologe, socijalne radnike i psihologe.«
+
+U stavku 2. riječ: »Savjetnici« zamjenjuje se riječima: »Stručni suradnici«.
+
+### Članak 8.
+
+U članku 51. iza riječi: »Sudovi za mladež« dodaju se riječi: »i državna odvjetništva«.
+
+### Članak 9.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Vijeće za mladež općinskog suda sudi u sastavu od jednog suca za mladež i dvaju sudaca porotnika za mladež.
+
+(2) U sastavu od triju sudaca, od kojih je najmanje jedan sudac za mladež, vijeće za mladež općinskog suda odlučuje na sjednici vijeća izvan glavne rasprave.
+
+(3) Vijeće za mladež županijskog suda sudi u prvom stupnju u sastavu od jednog suca za mladež i dvaju sudaca porotnika za mladež, u drugom stupnju sudi u sastavu od triju sudaca, od kojih je najmanje jedan sudac za mladež, a u drugom stupnju na raspravi u sastavu od dvaju sudaca, od kojih je najmanje jedan sudac za mladež i triju sudaca porotnika za mladež.
+
+(4) U sastavu o triju sudaca, od kojih je najmanje jedan sudac za mladež, vijeće za mladež županijskog suda odlučuje izvan sjednice vijeća i izvan glavne rasprave.
+
+(5) Vijeće za mladež Vrhovnog suda Republike Hrvatske sastavljeno je od triju sudaca, kad sudi u drugom stupnju na raspravi, sastavljeno je od dvaju sudaca i triju sudaca porotnika za mladež, a kad odlučuje o trećem stupnju i o izvanrednim pravnim lijekovima, sastavljeno je po općim propisima.
+
+(6) U sastavu vijeća za mladež suci porotnici ne smiju biti istog spola.
+
+(7) Sudac za mladež općinskog i županijskog suda provodi pripremni postupak, predsjednik je vijeća za mladež te obavlja druge poslove u postupku prema maloljetnicima.«
+
+### Članak 10.
+
+Članak 58. mijenja se i glasi:
+
+»(1) Vijeće za mladež općinskog suda u sastavu od triju sudaca, od kojih je najmanje jedan sudac za mladež, odnosno vijeće za mladež županijskog suda u sastavu od triju sudaca, od kojih je najmanje jedan sudac za mladež, odlučuje izvan sjednice vijeća i izvan glavne rasprave (članak 57. stavak 2., odnosno članak 57. stavak 4.) u slučajevima kad je Zakonom o kaznenom postupku propisano odlučivanje izvanraspravnog vijeća općinskog suda, odnosno izvanraspravnog vijeća županijskog suda (članak 18. stavak 3., odnosno članak 20. stavak 2. Zakona o kaznenom postupku).
+
+(2) Kad je Zakonom o kaznenom postupku propisano da o žalbi protiv rješenja istražnog suca i o neslaganju između istražnog suca i državnog odvjetnika odlučuje izvanraspravno vijeće županijskog suda, o žalbi protiv rješenja suca za mladež općinskog suda i o neslaganju između suca za mladež općinskog suda i državnog odvjetnika odlučuje vijeće za mladež općinskog suda iz članka 57. stavka 2. ovoga Zakona.
+
+(3) Vijeće za mladež županijskog suda u sastavu od triju sudaca, od kojih je najmanje jedan sudac za mladež, i vijeće za mladež Vrhovnog suda Republike Hrvatske u sastavu od triju sudaca, odlučuje u slučajevima kad je ovim Zakonom propisano da odlučuje vijeće za mladež višeg suda.«
+
+### Članak 11.
+
+U članku 60. stavku 1. riječ: »izvršenju« zamjenjuje se riječju: »počinjenju«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Kad je maloljetnik sudjelovao u počinjenju kaznenog djela s mlađom punoljetnom osobom ili nekoga kaznenog djela iz članka 117. ovoga Zakona s odraslom osobom, za suđenje je nadležan sud za mladež, a kad je sudjelovao u počinjenju nekoga drugoga kaznenog djela s odraslom osobom, nadležan je sud po općim propisima.«
+
+### Članak 12.
+
+U članku 61. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Kad je ista osoba počinila neko kazneno djelo kao maloljetnik, a neko kao mlađi punoljetnik ili neko kao odrasla osoba, provest će se jedinstveni postupak (članak 29. Zakona o kaznenom postupku) po općim propisima.
+
+(2) U jedinstvenom postupku za neko kazneno djelo poči­njeno u maloljetničkoj dobi i za neko kazneno djelo počinjeno u mlađoj punoljetničkoj dobi ili za neko kazneno djelo iz članka 117. ovoga Zakona počinjeno u odrasloj dobi, za suđenje je nadležan sud za mladež, a u jedinstvenom postupku za neko drugo kazneno djelo počinjeno u odrasloj dobi, nadležan je sud po općim propisima.«
+
+### Članak 13.
+
+U članku 63. stavku 1. riječ: »savjetnik« zamjenjuju se riječima: »stručni suradnik«.
+
+### Članak 14.
+
+U članku 64. stavku 1. dodaje se točka »d» koja glasi:
+
+»d) da se uključi u pojedinačni ili skupni rad u savjetovalištu za mlade (u smislu članka 9. stavka 2. točka 10.)«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Potanje upute o primjeni odredbi stavka 1. i 2. ovoga članka donosi Glavni državni odvjetnik Republike Hrvatske.«
+
+### Članak 15.
+
+U članku 67. stavku 2. riječi: »do 24 sata« zamjenjuju se riječima: »prema odredbama članka 98. Zakona o kaznenom postupku«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) O žalbi protiv rješenja o zadržavanju odlučuje vijeće iz članka 57. stavka 2., odnosno članka 57. stavka 4. ovoga Zakona. Ako zbog okolnosti to vijeće ne može postupati odlučuje vijeće iz članka 20. stavka 2. Zakona o kaznenom postupku.«
+
+### Članak 16.
+
+U članku 68. stavku 2. riječi: »O žalbi odlučuje vijeće za mladež višega suda.« zamjenjuju se riječima: »O žalbi odlučuje vijeće za mladež istoga suda (članak 57. stavak 2., odnosno članak 57. stavak 4.). Žalba ne zadržava izvršenje rješenja.«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako se sudac za mladež ne složi sa zahtjevom, zatražit će da o tome odluči vijeće za mladež istoga suda (članak 57. stavak 2., odnosno članak 57. stavak 4.). Protiv rješenja vijeća državni odvjetnik ima pravo žalbe koja ne zadržava izvršenje rješenja.«
+
+### Članak 17.
+
+U članku 69. stavku 2. iza riječi: »postupka« riječi: »i ako je maloljetnik dao svoju privolu« brišu se.
+
+### Članak 18.
+
+U članku 72. stavku 2. riječi: »višeg suda« zamjenjuju se riječima: »istog suda (članak 57. stavak 2., odnosno članak 57. stavak 4.). Žalba ne zadržava izvršenje rješenja.«
+
+### Članak 19.
+
+U članku 73. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ako zbog okolnosti ne može postupati sudac za mladež, o stavljanju u pritvor odlučit će istražni sudac i o tome obavijestiti suca za mladež.«
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+Dosadašnji stavak 4. koji postaje stavak 5. mijenja i glasi:
+
+»(5) O žalbi protiv rješenja suca za mladež odlučuje vijeće iz članka 57. stavka 2., odnosno članka 57. stavka 4. ovoga Zakona, a o žalbi protiv rješenja vijeća za mladež odlučuje vijeće iz članka 58. stavka 3. ovoga Zakona.«
+
+### Članak 20.
+
+U članku 84. stavku 2. riječ: »presude« zamjenjuje se riječju: »odluke«.
+
+Dodaje se stavak 3. koji glasi:
+
+»(3) Postojanje zakonskih uvjeta za daljnju primjenu pritvorske mjere nakon podnošenja prijedloga za izricanje sankcije do pravomoćnosti odluke ispitat će se svaki mjesec.«
+
+### Članak 21.
+
+U članku 85. stavku 1. iza riječi: »odgojnu mjeru« stavlja se točka, a riječi: »ali ako je državni odvjetnik odustao od prijedloga, vijeće ne može maloljetniku izreći kaznu, nego samo odgojnu mjeru« brišu se.
+
+### Članak 22.
+
+U članku 87. stavku 4. riječi: »uz suglasnost s maloljetnikovim roditeljima«, zamjenjuju se riječima: »nakon saslušanja maloljetnikovih roditelja«.
+
+Stavak 5. briše se.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+### Članak 23.
+
+Naslov ispred članka 90. mijenja se i glasi:
+
+»Postupak pri naknadnom izricanju maloljetničkog zatvora i brisanju osude«.
+
+U članku 90. dodaje se stavak 4. koji glasi:
+
+»(4)Ako kazna ne bude naknadno izrečena najkasnije u roku od šest mjeseci od dana prestanka vremena kušnje ili od dovršenja postupka zbog novoga kaznenog djela (članak 28. stavak 4.), prvostupanjski sud koji je izrekao pridržaj izricanja maloljetničkog zatvora donijet će rješenje kojim se utvrđuje brisanje te osude. To rješenje dostavit će se osuđeniku, državnom odvjetniku i tijelu nadležnom za vođenje kaznene evidencije.«
+
+### Članak 24.
+
+U članku 111. stavku 1. iza riječi: »smisleno primjenjuju odredbe« dodaju se riječi: »članka 51.«, a riječi: »članka 84. stav­ka 2.« zamjenjuju se riječima: »članka 84. stavka 2. i 3.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U jedinstvenom postupku prema mlađem punoljetniku s postupkom protiv odrasle osobe (članak 29. Zakona o kaznenom postupku) primjenjuju se glede mlađeg punoljetnika odredbe stavka 1. ovoga članka osim odredbi članka 84. stavka 2. i 3. i članka 90. ovoga Zakona. Za suđenje je nadležan sud po općim propisima.«
+
+U stavku 3. riječi: »prema mlađem punoljetniku«, zamje­njuju se riječima: »u slučajevima iz stavka 1. i 2. ovoga članka«.
+
+### Članak 25.
+
+Članak 112. mijenja se i glasi:
+
+»U skraćenom postupku prema mlađem punoljetniku primjenjuju se na odgovarajući način odredbe članka 111. ovoga Zakona.«
+
+### Članak 26.
+
+U članku 114. stavak 1. mijenja se i glasi:
+
+»(1) U kaznenim predmetima mlađih punoljetnika sude sudovi za mladež (članak 115.) kad primjenjuju maloljetničko kazneno pravo (članak 109.) i kad primjenjuju opće kazneno pravo (članak 108. i 110.).«
+
+### Članak 27.
+
+U članku 115. stavku 1. riječi: »sastavljeno je« zamjenjuju se riječima: »sudi u sastavu«, a riječi: »se može izreći kazna zatvora od petnaest godina« zamjenjuju se riječima: »je propisana kazna zatvora od petnaest godina ili kazna dugotrajnog zatvora«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Vijeće za mladež drugostupanjskoga županijskog suda sudi u sastavu od triju sudaca od kojih je najmanje jedan sudac za mladež, a u drugom stupnju na raspravi u sastavu od dva suca od kojih je najmanje jedan sudac za mladež i tri suca porotnika za mladež.«
+
+U stavku 3. riječi: »se može izreći kazna zatvora od petnaest godina« zamjenjuju se riječima: »je propisana kazna zatvora od petnaest godina ili kazna dugotrajnog zatvora«.
+
+U stavku 4. riječi: »članka 57. stavak 4.« zamjenjuju se riječima: »članka 57. stavka 6.«
+
+### Članak 28.
+
+U članku 117. riječi: »Vijeća za mladež i suci za mladež (članak 125.)« zamjenjuju se riječima: »Sudovi za mladež (članak 36. – 42. i članak 125.)«, te se ispred podstavka prvog dodaju podstavci:
+
+» – teško ubojstvo (članak 91.),
+
+– čedomorstvo (članak 93),
+
+– sudjelovanje u samoubojstvu (članak 96),
+
+– protupravno oduzimanje slobode (članak 124.),
+
+– otmica (članak 125),
+
+– zlostavljanje u obavljanju službe ili javne ovlasti (članak 127.),
+
+– nasilničko ponašanje u obitelji (članak 215. a)«.
+
+### Članak 29.
+
+Članak 119. mijenja se i glasi:
+
+»(1) Kad postupaju u kaznenim predmetima protiv poči­nitelja kaznenih djela na štetu djece i maloljetnika, sudac za mladež i istražni sudac pri provođenju postupovnih radnji osobito će se obazrivo odnositi prema djetetu ili maloljetniku na čiju je štetu počinjeno kazneno djelo, imajući na umu njegovu dob, značajke njegove ličnosti, obrazovanje i prilike u kojima živi, kako bi se izbjegle moguće štetne posljedice na njegov odgoj i razvoj. Ispitivanje djeteta ili maloljetnika obavit će se uz pomoć pedagoga, psihologa ili druge stručne osobe.
+
+(2) Ako se kao svjedok ispituje dijete ili mlađi maloljetnik oštećen kaznenim djelom iz članka 117. ovoga Zakona, takvo se ispitivanje može provesti najviše dva puta. Ispitivanje se provodi uz pomoć psihologa, pedagoga ili druge stručne osobe. Istražni sudac će naložiti da se ispitivanje svjedoka snima putem teh­ničkih uređaja za prijenos slike i zvuka, ispitivanja će se provesti bez nazočnosti suca i stranaka u prostoriji gdje se svjedok nalazi, tako mu stranke mogu postavljati pitanja putem istražnog suca, te psihologa, pedagoga ili druge osobe.
+
+(3) Djeca i mlađi maloljetnici kao svjedoci oštećeni kaznenim djelom iz članka 117. ovoga Zakona, mogu se, umjesto u sudu, ispitati u svome stanu ili drugom prostoru u kojem borave ili u centru za socijalnu skrb. Pri ispitivanju svjedoka postupit će se na način propisan u stavku 2. ovoga članka.
+
+(4) Kad je dijete ili mlađi maloljetnik ispitan primjenom odredbe stavka 2. i 3. ovoga članka, na glavnoj raspravi uvijek će se pročitati zapisnik o iskazu svjedoka, odnosno reproducirati snimka ispitivanja.
+
+(5) Podaci prikupljeni putem tehničkih uređaja za prijenos slike i zvuka uništavaju se protekom roka od pet (5) godina od pravomoćnosti presude.
+
+(6) Odredbe članka 55. ovoga Zakona odgovarajuće vrijede u kaznenim predmetima protiv počinitelja kaznenih djela na štetu djece i maloljetnika.«
+
+### Članak 30.
+
+U članku 125. stavku 1. riječi: »sastavljeno je« zamjenjuju se riječima: »sudi u sastavu«, riječ: »predviđena« zamjenjuje se riječju: »propisana«, a iza riječi: »od petnaest godina« dodaju se riječi: »ili kazna dugotrajnog zatvora«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Vijeće za mladež drugostupanjskoga županijskog suda sudi u sastavu od tri suca od kojih je najmanje jedan sudac za mladež, a u drugom stupnju na raspravi u sastavu od dva suca od kojih je najmanje jedan sudac za mladež i tri suca porotnika za mladež.«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Vijeće za mladež Vrhovnog suda Republike Hrvatske odlučuje u drugom stupnju u sastavu od tri suca, a u vijeću sas­tav­ljenom od pet sudaca od kojih su tri suci vijeća za mladež, kada odlučuje za kaznena djela za koja je propisana kazna zatvora od petnaest godina ili kazna dugotrajnog zatvora. Kad sudi u drugom stupnju na raspravi vijeće je sastavljeno od dva suca vijeća za mladež i tri suca porotnika za mladež kada sudi za kazneno djelo za koje je propisana kazna zatvora od petnaest godina, a od tri suca i četiri suca porotnika za mladež kada sudi za djelo za koje se može izreći kazna dugotrajnog zatvora. Kad odlučuje u trećem stupnju i o izvanrednim pravnim lijekovima, vijeće je sastavljeno po općim propisima.«
+
+U stavku 4. riječi: »članka 57. stavak 4.« zamjenjuju se riječima: »članka 57. stavka 6.«.
+
+### Članak 31.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 740-02/01-01/02
+
+Zagreb, 25. siječnja 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

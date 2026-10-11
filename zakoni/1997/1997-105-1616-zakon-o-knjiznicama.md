@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-09
+last_amended: 2000-10-20
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "105/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "105/97, 104/00"
+amendments:
+  - "NN 104/2000 (2040) Zakon o izmjenama i dopunama Zakona o knjižnicama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1616"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o knjižnicama
 
 > Izvor: Narodne novine, NN 105/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1616).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/2000.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -587,3 +591,97 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o knjižnicama (NN 104/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2040*
+
+ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA
+
+2040
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KNJIŽNICAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o k­nji­ž­nicama, koji je donio Zastupnički dom Hrvatskoga državnog sabora na sjednici 10. listopada 2000.
+
+Broj: 01-081-00-3398/2  
+Zagreb, 17. listopada 2000.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KNJIŽNICAMA**
+
+### Članak 1.
+
+U Zakonu o k­njižnicama (»Narodne novine«, br. 105/97. i 5/98.) u članku 3. dodaje se stavak 3. koji glasi:
+
+»Zadaća k­njižnica je da u ostvariva­nju javne službe nastoje zadovo­ljiti obrazovne, kulturne i informacijske potrebe svih građana na području svoga djelova­nja te da promiču čita­nje i druge kulturne aktivnosti u ci­lju unapređiva­nja ukupnoga kulturnoga života zajednice.«
+
+### Članak 2.
+
+Članak 26. mije­nja se i glasi:
+
+»Ravnate­lja samostalne narodne k­njižnice imenuje i raz­rje­šuje osnivač na prijedlog upravnog vijeća, a ravnate­lja samostalne narodne k­njižnice koja ima do 5 zaposlenih imenuje i razrješuje osnivač.«
+
+### Članak 3.
+
+U članku 29. dodaje se stavak 4. koji glasi:
+
+»Sredstva za rad samostalne k­njižnice osiguravaju se i iz prihoda od obav­lja­nja djelatnosti, sponzorstva, darova­nja i na drugi način u skladu sa zakonom.«
+
+### Članak 4.
+
+U članku 31. stavku 3. iza riječi: »Hrvatskoga k­njižničnog vijeća« stav­lja se zarez i dodaju riječi: »uz prethodnu suglasnost ministra prosvjete i športa i ministra znanosti i tehnologije.«
+
+### Članak 5.
+
+U članku 33. stavku 3. riječ: »k­njižnično« zamje­njuje se riječju: »k­njižničarsko«.
+
+### Članak 6.
+
+U članku 35. stavku 3. na kraju teksta stav­lja se zarez i dodaju riječi: »uz prethodnu suglasnost ministra prosvjete i športa i ministra znanosti i tehnologije«.
+
+### Članak 7.
+
+U članku 45. stavku 1. na kraju teksta stav­lja se zarez i dodaju riječi: »uz prethodnu suglasnost ministra prosvjete i športa i ministra znanosti i tehnologije«.
+
+### Članak 8.
+
+U članku 46. stavku 2. na kraju teksta stav­lja se zarez i dodaju riječi:
+
+»uz prethodnu suglasnost ministra prosvjete i športa i ministra znanosti i tehnologije«.
+
+### Članak 9.
+
+U članku 50. stavku 1. u zagradi iza brojke: »37.« dodaje se brojka: »39.«.
+
+### Članak 10.
+
+U članku 53. riječi: »u roku od dvije godine od stupa­nja na snagu ovoga Zakona« zamje­njuju se riječima: »do 31. prosinca 2005.«.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 612-04/00-01/01  
+Zagreb, 10. listopada 2000.
+
+ZASTUPNIČKI DOM  
+HRVATSKOGA DRŽAVNOG SABORA
+
+Predsjednik  
+Zastupničkog doma  
+Hrvatskoga državnog sabora  
+Zlatko Tomčić, v. r.

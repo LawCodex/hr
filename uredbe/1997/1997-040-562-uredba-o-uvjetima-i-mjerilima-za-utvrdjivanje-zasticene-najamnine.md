@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1997-04-16
+last_amended: 2005-10-05
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "40/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "40/97, 117/05"
+amendments:
+  - "NN 117/2005 (2137) Uredba o izmjenama i dopunama Uredbe o uvjetima i mjerilima za utvrđivanje zaštićene najamnine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/40/562"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o uvjetima i mjerilima za utvrđivanje zaštićene najamnine
 
 > Izvor: Narodne novine, NN 40/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/40/562).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -802,3 +806,330 @@ Ako se podrumski, suterenski odnosno stan u razizemlju nalazi na kosom terenu, o
 ![](https://narodne-novine.nn.hr/dodatni/368408.gif)  
 ![](https://narodne-novine.nn.hr/dodatni/368409.gif)  
 ![](https://narodne-novine.nn.hr/dodatni/368410.gif)
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o uvjetima i mjerilima za utvrđivanje zaštićene najamnine (NN 117/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/117/2137*
+
+VLADA REPUBLIKE HRVATSKE
+
+2137
+
+Na temelju članka 7. stavka 1. Zakona o najmu stanova (»Narodne novine«, br. 91/96 i 48/98) Vlada Republike Hrvatske je na sjednici održanoj 30. rujna 2005. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O UVJETIMA I MJERILIMA ZA UTVRĐIVANJE ZAŠTIĆENE NAJAMNINE**
+
+#### Članak 1.
+
+U Uredbi o uvjetima i mjerilima za utvrđivanje zaštićene najamnine (»Narodne novine«, broj 40/97) u članku 3. riječi: »građevinska vrijednost etalonskog objekta po m2 (kn/m2)« zamjenjuje se riječima »etalonska cijena građenja«.
+
+#### Članak 2.
+
+U članku 4. stavak 1. mijenja se i glasi:
+
+»Neto korisna površina stana (P) za koji se utvrđuje najamnina u skladu s odredbama ove Uredbe, određuje se primjenom članka 19. Pravilnika minimalnih tehničkih uvjeta za projektiranje i grad­nju stanova iz Programa društveno poticane stanogradnje (»Narod­ne novine«, broj 106/2004)«.
+
+U stavcima 2. i 3. riječi »korisna površina« u odgovarajućem padežu zamjenjuju se riječima »neto korisna površina«.
+
+#### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Etalonska cijena građenja (Ce) jest cijena utvrđena sukladno Zakonu o društveno poticanoj stanogradnji.«.
+
+#### Članak 4.
+
+U članku 7. riječi »korisnoj površini« i »korisna površina« zamjenjuju se riječima »neto korisna površina« u odgovarajućem padežu.
+
+#### Članak 5.
+
+U članku 14. riječi »korisna površina« zamjenjuju se riječima »neto korisna površina« u odgovarajućem padežu.
+
+#### Članak 6.
+
+Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i glasi:
+
+### PRILOG III.
+
+### NETO KORISNA POVRŠINA STANA
+
+<table>
+
+<tr>
+<td>Red. br.</td>
+<td>Naziv prostorije</td>
+<td>Koeficijent za obračun površine</td>
+<td>Pobliža oznaka</td>
+<td>Dužina</td>
+<td>Širina</td>
+<td>Površina</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+
+<tr>
+<td>1.</td>
+<td>I soba</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>2.</td>
+<td>II sobe</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>3.</td>
+<td>III sobe</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>4.</td>
+<td>IV sobe</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>5.</td>
+<td>V soba</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>6.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>7.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>8.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>9.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>10.</td>
+<td>Kuhinja</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>11.</td>
+<td>Blagova-<br> onica</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>12.</td>
+<td>Izba</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>13.</td>
+<td>Kupaonica</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>14.</td>
+<td>Nužnik</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>15.</td>
+<td>Predsoblje</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>16.</td>
+<td>Hodnik</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>17.</td>
+<td>Predprostor</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>18.</td>
+<td>Lođa</td>
+<td>0,75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>19.</td>
+<td>Pokrivena terasa</td>
+<td>0,50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>20.</td>
+<td>Balkon, otvorena terasa, ravni prohodni krov i trijem</td>
+<td>0,25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>21.</td>
+<td colspan="6">UKUPNA POVRŠINA U m<sup>2</sup></td>
+</tr>
+
+</table>
+
+Prilog IV. – Tablica za izračun visine zaštićene najamnine mijenja se i glasi:
+
+PRILOG IV.
+
+### IZRAČUN VISINE ZAŠTIĆENE NAJAMNINE
+
+Zaštićena najamnina (Nz)
+
+Neto korisna površina stana (P)
+
+Etalonska cijena građenja po m2 (kn/m<sup>2</sup>) (Ce)
+
+Broj bodova (B)
+
+Broj osoba u stanu prema ugovoru o najmu stana (bo)
+
+Koeficijent lokacije (L)
+
+Koeficijent iskoristivosti stana (ki)
+
+Koeficijent primanja (kp)
+
+Koeficijent vrijednosti položaja (kz)
+
+Koeficijent demografskih kretanja (kd)
+
+Prosječni mjesečni neto prihod po članu obiteljskoga
+
+domaćinstva u protekloj godini (Pč)
+
+Prosječna mjesečna neto plaća u RH za proteklu godinu (Pp)
+
+#### Članak 7.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. studenoga 2005. godine.
+
+Klasa: 370-01/05-01/05
+
+Urbroj: 5030106-05-1
+
+Zagreb, 30. rujna 2005.
+
+Predsjednik
+
+dr. sc. Ivo Sanader, v. r.

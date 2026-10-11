@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1995-03-21
+last_amended: 2003-02-11
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1995; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "19/95"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "19/95, 21/03"
+amendments:
+  - "NN 21/2003 (299) Uredba o dopuni Uredbe o pristupu, prolasku i boravku stranih ratnih i znanstvenoistraživačkih brodova u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/19/365"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o pristupu, prolasku i boravku stranih ratnih i znanstvenoistraživačkih brodova u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske
 
 > Izvor: Narodne novine, NN 19/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/19/365).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 21/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -140,3 +144,40 @@ Predsjednik
 Nikica Valentić, v. r.
 
 ![](https://narodne-novine.nn.hr/../../TipkaPočStr.GIF) ![](https://narodne-novine.nn.hr/../../TSluzGl.GIF) ![](https://narodne-novine.nn.hr/../../TPretra.GIF) ![](https://narodne-novine.nn.hr/../../TElPosta.GIF)
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopuni Uredbe o pristupu, prolasku i boravku stranih ratnih i znanstvenoistraživačkih brodova u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske (NN 21/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/21/299*
+
+VLADA REPUBLIKE HRVATSKE
+
+299
+
+Na teme­lju članka 1041. stavka 1. točke 2. Pomorskog zakonika (»Narodne novine«, br. 17/94, 74/94 i 43/96), Vlada Republike Hrvatske je na sjednici održanoj 6. ve­ljače 2003. godine donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O PRISTUPU, PROLASKU I BORAVKU STRANIH RATNIH I ZNANSTVENOISTRAŽIVAČKIH BRODOVA U UNUTRAŠNJIM MORSKIM VODAMA I TERITORIJALNOM MORU REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Uredbi o pristupu, prolasku i boravku stranih ratnih i znanstvenoistraživačkih brodova u unutraš­njim morskim vodama i teritorijalnom moru Republike Hrvatske (»Narodne novine«, broj 19/95), u članku 13. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Osim djelatnosti iz stavka 1. ovoga članka, ministar obrane može na zahtjev zapovjednika stranih ratnih brodova, uz suglasnost ministra va­njskih poslova, ministra unutar­njih poslova i ministra pomorstva, prometa i veza, odobriti obav­lja­nje i drugih djelatnosti koje imaju za ci­lj provedbu mjera sigurnosti stranih ratnih brodova.«.
+
+Dosadaš­nji stavak 2. postaje stavak 3.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 342-01/95-01/03  
+Urbroj: 5030109-03-1  
+Zagreb, 6. ve­ljače 2003.
+
+Predsjednik  
+Ivica Račan, v. r.

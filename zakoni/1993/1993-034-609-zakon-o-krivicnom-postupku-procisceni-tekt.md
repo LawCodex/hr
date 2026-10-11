@@ -39,9 +39,7 @@ Ante Klarić, dipl. iur., v. r.
 
 #### (pročišćeni tekst)
 
-## DIO PRVI
-
-#### OPĆE ODREDBE
+## DIO PRVI — OPĆE ODREDBE
 
 Glava I.
 
@@ -1085,9 +1083,7 @@ Kad je odluka kojom je odlučeno o imovinskopravnom j zahtjevu postala pravomoć
 
 Propise o kaznenoj evidenciji·donosi ministar unutarnjih poslova u sporazumu s ministrom pravosuđa i uprave.
 
-### GLAVA XIV
-
-#### ZNAČENJE ZAKONSKIH IZRAZA I OSTALE ODREDBE
+### GLAVA XIV — ZNAČENJE ZAKONSKIH IZRAZA I OSTALE ODREDBE
 
 ##### Članak 131.
 
@@ -1233,9 +1229,7 @@ Glava XV.
 
 (3) U vezi s pozivanjem i ispitivanjem osobe za koju postoje osnove sumnje da je počinila krivično djelo primjenjuju se odredbe o povezivanju i ispitivanju okrivljenika.
 
-### GLAVA XVI.
-
-#### ISTRAGA
+### GLAVA XVI. — ISTRAGA
 
 ##### Članak 148.
 
@@ -4053,9 +4047,7 @@ DIO TREĆI
 
 POSEBNI POSTUPCI
 
-### Glava XXVIII.
-
-#### POSTUPAK ZA PRIMJENU MJERA SIGURNOSTI, ZA ODUZIMANJE IMOVINSKE KORISTI I ZA OPOZIVANJE UVJETNE OSUDE
+### Glava XXVIII. — POSTUPAK ZA PRIMJENU MJERA SIGURNOSTI, ZA ODUZIMANJE IMOVINSKE KORISTI I ZA OPOZIVANJE UVJETNE OSUDE
 
 ##### Članak 480.
 

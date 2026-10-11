@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1993-01-20
+last_amended: 2001-08-03
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1993; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "7/93"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2001; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "7/93, 70/01"
+amendments:
+  - "NN 70/2001 (1214) Uredba o izmjenama Uredbe o Uredu za projekt sukcesije"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/7/71"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o Uredu za projekt sukcesije
 
 > Izvor: Narodne novine, NN 7/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/7/71).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 70/2001.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -70,3 +74,58 @@ Zagreb, 15. siječnja 1993.
 Predsjednik
 
 Hrvoje Šarinić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o Uredu za projekt sukcesije (NN 70/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1214*
+
+VLADA REPUBLIKE HRVATSKE
+
+1214
+
+Na temelju članka 26. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), članka 60. stavka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 48/99, 15/2000, 127/2000 i 59/2001) i članka 34. stavka 1. Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave (»Narodne novine«, broj 43/2001), Vlada Republike Hrvatske je na sjednici održanoj 26. srpnja 2001. godine, donijela
+
+**UREDBU**
+
+**o izmjenama Uredbe o Uredu za projekt sukcesije**
+
+### Članak 1.
+
+U Uredbi o Uredu za projekt sukcesije (»Narodne novine«, broj 7/93), naziv Uredbe mijenja se i glasi: »Uredba o Uredu za provođenje projekta sukcesije«.
+
+### Članak 2.
+
+U članku 2. stavku 2. riječi: »predstavnik Ureda Predsjednika Republike« brišu se.
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»Voditelje ekspertnih skupina za pojedina područja ili pitanja sukcesije, na prijedlog koordinatora projekta, određuje Vlada Republike Hrvatske. Njihov rad koordinira koordinator projekta sukcesije.«.
+
+### Članak 4.
+
+U članku 4. stavku 1. riječi: »Predsjednik Republike« zamjenjuju se riječima: »Vlada Republike Hrvatske«.
+
+### Članak 5.
+
+Članak 5. mijenja se i glasi:
+
+»Način rada te druga pitanja od značaja za rad Ureda za provođenja projekta sukcesije koja nisu uređena ovom Uredbom uređuju se Pravilnikom o unutarnjem redu Ureda. Pravilnik donosi predstojnik Ureda uz prethodnu suglasnost ministarstva nadležnog za poslove opće uprave, u roku od 60 dana od dana stupanja na snagu ove Uredbe.«.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 023-03/01-01/65
+
+Urbroj: 5030118-01-1
+
+Zagreb, 26. srpnja 2001.
+
+Potpredsjednica  
+Željka Antunović, v. r.

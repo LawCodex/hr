@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1999-01-22
+last_amended: 2007-10-31
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "7/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "7/99, 112/07"
+amendments:
+  - "NN 112/2007 (3292) Uredba o izmjenama Uredbe o dražbama (javnim nadmetanjima) određenih drvnih proizvoda"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/7/86"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o dražbama (javnim nadmetanjima) određenih drvnih proizvoda
 
 > Izvor: Narodne novine, NN 7/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/7/86).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 112/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -155,3 +159,44 @@ Zagreb, 21. siječnja 1999.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o dražbama (javnim nadmetanjima) određenih drvnih proizvoda (NN 112/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/112/3292*
+
+VLADA REPUBLIKE HRVATSKE
+
+3292
+
+Na temelju članka 17. stavka 3. Zakona o trgovini (»Narodne novine«, br. 11/96, 75/99, 62/2001, 109/2001, 49/2003, 96/2003,103/2003, 170/2003 i 55/2004), Vlada Republike Hrvatske je na sjed­nici održanoj 25. listopada 2007. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O DRAŽBAMA (JAVNIM NADMETANJIMA) ODREĐENIH DRVNIH PROIZVODA**
+
+### Članak 1.
+
+U Uredbi o dražbama (javnim nadmetanjima) određenih drv­nih proizvoda (»Narodne novine«, br. 7/99 i 16/2002) u članku 2. stavku 1. iza riječi »Carinske tarife« briše se točka te se dodaju riječi: »osim za ogrjevno drvo u oblicama, cjepanicama, granama, snopovima ili sličnim oblicima iz Tarifne oznake 4401 10 00 10 za ex. rezano na dužine od 25-45 cm iz Uredbe o carinskoj tarifi (»Narodne novine«, br. 134/2006, 73/2007 i 87/2007)«.
+
+### Članak 2.
+
+U članku 5. stavku 1. točki 3. riječ »rješenje« zamjenjuje se riječima »broj rješenja«.
+
+### Članak 3.
+
+U članku 6. stavak 1. mijenja se i glasi:  
+»Provedbu nadmetanja drvnih proizvoda iz članka 2. ove Ured­be provodi povjerenstvo koje imenuje ministar nadležan za gospodarstvo i ministar nadležan za poslove šumarstva«.
+
+### Članak 4.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.  
+Klasa: 310-20/07-02/02  
+Urbroj: 5030105-07-1  
+Zagreb, 25. listopada 2007.
+
+Predsjednik  
+dr. sc. Ivo Sanader, v. r.

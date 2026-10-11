@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-10-20
-last_amended: 1999-07-19
+last_amended: 2005-07-27
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "109/97, 76/99"
+narodne_novine: "109/97, 76/99, 10/01, 92/05"
 amendments:
   - "NN 76/1999 (1362) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 10/2001 (190) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
+  - "NN 92/2005 (1836) Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1660"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 109/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1660).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1999, NN 10/2001, NN 92/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -465,3 +467,367 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 10/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/10/190*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+190
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o stambenoj šted­nji i državnom potica­nju stambene šted­nje, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 25. siječ­nja 2001.
+
+Broj: 01-081-01-310/2  
+Zagreb, 31. siječ­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+### Članak 1.
+
+U Zakonu o stambenoj šted­nji i državnom potica­nju stambene šted­nje (»Narodne novine«, br. 109/97. i 76/99.) u članku 5. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Stjeca­nje dionica ili udjela stambene štedionice osnovane na teme­lju ovoga Zakona dozvo­ljeno je i drugim bankama i štedionicama«
+
+### Članak 2.
+
+U članku 8. stavku 2. iza točke 5. dodaje se točka 6. koja glasi:
+
+»6. Otplatu stambenog kredita u korište­nju uzetog kod banke ili štedionice osnovane na području Republike Hrvatske i utrošenog za namjene iz točke 1. do 5. ovoga stavka«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Stambene štedionice mogu općinama i gradovima odobriti kredite za predfinancira­nje za namjene iz stavka 2. ovoga članka.«
+
+### Članak 3.
+
+Iza članka 8. dodaje se članak 8.a koji glasi:
+
+### Članak 8.a
+
+(1) Krediti iz članka 8. stavka 3. ovoga Zakona odobravaju se iz fonda prikup­ljene šted­nje stambene štedionice i to do maksimalno deset posto ukupnih sredstava fonda stambene šted­nje.
+
+(2) Ugovor o kreditu za predfinancira­nje ne može biti sklop­ljen na rok duži od roka na koji je sklop­ljen ugovor o stambenoj šted­nji.
+
+(3) Ugovor o kreditu za predfinancira­nje mora sadržavati odredbe:
+
+1. o visini odobrenog kredita,
+
+2. o visini kamatne stope odobrenog kredita koja u odnosu na kamatnu stopu stambenog kredita ne može biti viša od tri posto,
+
+3. o roku otplate,
+
+4. o visini otplatnih anuiteta s odredbom o nepromje­njivosti anuiteta i rokova otplate ako se ne radi o ranijoj otplati,
+
+5. o prijevremenoj otplati,
+
+6. o instrumentima osigura­nja otplate kredita,
+
+7. o nadzoru namjene korište­nja kredita od strane stambene štedionice u smislu odredbe članka 8. i 9. ovoga Zakona,
+
+8. o uvjetima raskida ugovora o kreditu zbog više sile, ne­pred­vidivih okolnosti i neizvršava­nja zakonskih ili ugovorenih obveza druge ugovorne stranke.
+
+(4) Opći uvjeti poslova­nja stambene štedionice koji se odnose na kredite za predfinancira­nje sastavni su dio ugovora.
+
+(5) Ugovor o predfinancira­nju može sadržavati i druge odred­be glede sigurnosti i zašite probitaka ugovorenih stranaka u skladu sa zakonom.«
+
+### Članak 4.
+
+U članku 20. stavku 2. iza točke 7. dodaje se nova točka 8. koja glasi:
+
+»8. o nadzoru namjene korište­nja stambene šted­nje, državnih poticajnih sredstava i kredita od strane stambene štedionice u smislu odredbe članka 8. i 9. ovoga Zakona kada je razdob­lje stambene šted­nje kraće od pet godina«.
+
+Dosadaš­nja točka 8. postaje točka 9.
+
+### Članak 5.
+
+Članak 23. mije­nja se i glasi:
+
+»(1) Stambena štedionica je dužna najkasnije do konca ve­ljače tekuće godine podnijeti Ministarstvu financija skupno za sve stambene štediše dokumentirani pisani zahtjev za isplatu državnih poticajnih sredstava u toj godini.
+
+(2) Ministarstvo financija je, nakon što se međusobno usklade podneseni zahtjevi, dužno u roku od šezdeset dana od dana podnoše­nja korigiranog zahtjeva isplatiti stambenoj štedionici državna poticajna sredstva.
+
+(3) Stambena štedionica je dužna prim­ljeni iznos državnih poticajnih sredstava evidentirati u svojim poslovnim k­njigama i upisati ga na račune stambene šted­nje stambenih štediša u roku od osam dana od primitka iznosa.«
+
+### Članak 6.
+
+U članku 31. stavku 1. točki 3. iza riječi: »u članku 8« dodaju se riječi: »i članku 8.a«.
+
+Iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. ako stambena štedionica odobri stambeni kredit, a da vrijeme stambene šted­nje nije iznosilo minimalno dvije godine (članak 14.)«.
+
+Dosadaš­nje točke 9. do 18. postaju točke 10. do 19.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 370-01/00-01/01  
+Zagreb, 25. siječ­nja 2001.
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 92/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1836*
+
+HRVATSKI SABOR
+
+1836
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o stamb­enoj štednji i državnom poticanju stambene štednje, kojega je Hrvatski sabor donio na sjednici 15. srpnja 2005. godine.
+
+Broj: 01-081-05-2494/2
+
+Zagreb, 20. srpnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
+
+### Članak 1.
+
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97., 117/97., 76/99. i 10/01.) u članku 4. stavku 2. iza riječi: »bankama« riječi: »i štedionicama« brišu se.
+
+### Članak 2.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Stambenu štedionicu mogu osnovati banke osnovane u skladu sa Zakonom o bankama i društva za osiguranje osnovana sukladno Zakonu o osiguranju.«
+
+U stavku 4. riječ: »štedionicama« zamjenjuje se riječima: »društ­vima za osiguranje.«.
+
+### Članak 3.
+
+U članku 7. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Stambene štedionice mogu sklapati poslove s izvedenim financijskim instrumentima u svrhu upravljanja bilancom štedionice i zaštite imovine i obveza štedionice.«
+
+### Članak 4.
+
+(1) U članku 8. stavku 2. točka 3. mijenja se i glasi:
+
+»3. rekonstrukciju, adaptaciju i popravak te opremanje stana ili obiteljske kuće,«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Stambene štedionice mogu stambenim štedišama iz članka 9. stavka 2. ovoga Zakona odobriti kredite za međufinanciranje do visine ugovornog iznosa za namjene iz stavka 2. ovoga članka.«
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Pod međufinanciranjem iz stavka 3. ovoga članka podrazumijeva se odobravanje stambenih kredita za namjene iz stavka 2. ovoga članka prije najkraćeg vremena stambene štednje iz članka 14. stavka 1. ovoga Zakona.«
+
+»(5) Ministar financija pravilnikom može propisati uvjete pod kojima stambene štedionice mogu odobravati kredite za međufinanciranje za namjene iz stavka 2. ovoga članka.«
+
+### Članak 5.
+
+U članku 8.a stavak 1. briše se.
+
+U dosadašnjim stavcima 2. do 5., koji postaju stavci 1. do 4., riječ: »predfinanciranje« zamjenjuje se riječju: »međufinanciranje« u odgovarajućem padežu.
+
+### Članak 6.
+
+U članku 10. stavku 1. točka 4. mijenja se i glasi:
+
+»4. izdavati vrijednosne papire u skladu s posebnim zakonom,«.
+
+U točki 5. rečenica koja glasi: »Veća kvota sudjelovanja dopuštena je ako se trgovačko društvo bavi poslovima koji potiču poslove stambene štedionice« briše se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Stambena štedionica može neutrošena sredstva iz stavka 1. ovoga članka koristiti za:
+
+1. ulaganje na financijskom tržištu, ako je povrat ulaganja osiguran bezuvjetnom bankarskom garancijom ili državnom garancijom na prvi poziv,
+
+2. kupovinu prvorazrednih državnih vrijednosnih papira, vrijed­nosnih papira s osiguranim državnim jamstvom ili s bankarskom garancijom, te vrijednosnih papira jedinica lokalne i područne (regionalne) samouprave,
+
+3. plasman sredstava kod sigurnih kreditnih institucija,
+
+4. sklapanje repo poslova sukladno aktima Hrvatske narodne banke.«
+
+### Članak 7.
+
+U članku 11. stavku 1. iza točke 5. briše se točka i stavlja zarez te se dodaje točka 6. koja glasi:
+
+»6. uvjetima prijenosa raspoložive stambene štednje.«
+
+### Članak 8.
+
+U članku 13. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Sredstava raspoložive stambene štednje po već aktivnom ugovoru o stambenoj štednji stambeni štediša može jednom u tijeku godine prenijeti u drugu stambenu štedionicu. Stambena štedionica dužna je u roku od sedam radnih dana provesti nalog za prijenos raspoložive stambene štednje stambenog štediše.
+
+(6) Ministar financija pravilnikom može propisati i druge uvjete prijenosa raspoložive stambene štednje stambenih štediša.«
+
+### Članak 9.
+
+U članku 14. stavku 1. na kraju rečenice briše se točka i stavlja zarez te dodaju riječi: »osim za kredite za međufinanciranje.«.
+
+U stavku 3. iza riječi: »sredstava stambene štednje« dodaju se riječi: »prije isteka ugovorenog roka stambene štednje«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Nakon proteka ugovornog roka stambene štednje, stambeni štediša može:
+
+1. nastaviti stambenu štednju bez sklapanja novoga ugovora prema općim uvjetima stambene štedionice,
+
+2. raspolagati sredstvima prikupljene stambene štednje,
+
+3. zaključiti novi ugovor o stambenoj štednji po novim uvjetima stambene štedionice.«
+
+### Članak 10.
+
+U članku 18. riječi: »u smislu članka 32. Zakona o bankama i štedionicama (»Narodne novine«, br. 46/97. – pročišćeni tekst) zamjenjuju se riječima: »sukladno odredbama posebnog zakona.«.
+
+### Članak 11.
+
+U članku 20. stavku 2. točki 2. riječi: »tri posto« zamjenjuju se riječima: »tri postotna boda, osim za kredite za međufinanciranje,«.
+
+### Članak 12.
+
+U članku 21. stavku 1. iza riječi: »poticajna sredstva« dodaju se riječi: »za stambene štediše«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Državna poticajna sredstva iznose 15 posto od iznosa raspoložive stambene štednje uplaćene u godini za koju se isplaćuju državna poticajna sredstva, a najviše do iznosa od 5.000,00 kuna raspoložive stambene štednje po stambenom štediši tijekom jedne kalendarske godine. Pod raspoloživom stambenom štednjom u smislu ovoga Zakona podrazumijeva se samo svota stambene štednje koju je stambeni štediša uplatio tijekom godine nakon umanjenja za svotu naknade koju naplaćuje stambena štedionica.«
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Državna poticajna sredstva tijekom jedne kalendarske godine odobrit će se stambenom štediši samo u jednoj stambenoj štedionici.«
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »držav­nih poticajnih sredstava koji« zamjenjuju se riječima: »raspoložive stambene štednje koja«.
+
+### Članak 13.
+
+U članku 22. stavku 1. riječi: »do 20. rujna« zamjenjuju se riječima: »do 20. lipnja«.
+
+U stavku 2. riječi: »osam mjeseci« zamjenjuju se riječima: »pet mjeseci«.
+
+### Članak 14.
+
+U članku 23. stavku 1. riječi: »u toj godini« zamjenjuju se riječima: »za prethodnu godinu«.
+
+### Članak 15.
+
+U članku 24. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) U zahtjevu iz članka 23. ovoga Zakona, stambena štedionica dužna je navesti:
+
+1. ukupan broj stambenih štediša,
+
+2. ukupan broj računa stambene štednje,
+
+3. ukupni iznos raspoložive stambene štednje,
+
+4. broj stambenih štediša za koje se postavlja zahtjev za isplatu državnih poticajnih sredstava,
+
+5. broj računa stambene štednje za koje se postavlja zahtjev za isplatu državnih poticajnih sredstava,
+
+6. iznos prikupljene raspoložive stambene štednje u godini za koju se postavlja zahtjev za isplatu državnih poticajnih sredstava,
+
+7. broj stambenih štediša koji su u godini za koju se postavlja zahtjev za isplatu državnih poticajnih sredstava sklopili ugovor o stambenom kreditu,
+
+8. ukupan iznos sklopljenih ugovora o stambenom kreditu u godini za koju se postavlja zahtjev za isplatu državnih poticajnih sredstava,
+
+9. iznos sklopljenih ugovora o stambenom kreditu za međufinanciranje u godini za koju se postavlja zahtjev za isplatu državnih poticajnih sredstava,
+
+10. iznos državnih poticajnih sredstava za godinu za koju se postavlja zahtjev za isplatu.
+
+(2) Uz zahtjev iz stavka 1. ovoga članka stambena štedionica je dužna priložiti popis stambenih štediša u elektronskom obliku (ime i prezime te jedinstveni matični broj građana, odnosno naziv stambenog štediše) te iznos njihove raspoložive stambene štednje i iznos pripadajućih im državnih poticajnih sredstava sa stanjem na dan 31. prosinca godine za koju se postavlja zahtjev za isplatu državnih poticajnih sredstava.«
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ministar financija pravilnikom može propisati i druge podatke koje je stambena štedionica dužna dostaviti u zahtjevu za isplatu državnih poticajnih sredstava.«
+
+### Članak 16.
+
+U članku 25. stavku 2. iza riječi: »raskida« stavlja se zarez i dodaje se riječ: »prijenosa«.
+
+### Članak 17.
+
+U članku 26. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Prijenos sredstava raspoložive stambene štednje jednom godišnje u drugu stambenu štedionicu ne smatra se raskidom ugovora o stambenoj štednji i na tako prenesenu stambenu štednju primjenjuju se odredbe stavka 1. ovoga članka.«
+
+### Članak 18.
+
+U članku 30. stavak 3. mijenja se i glasi:
+
+»(3) Stambena štedionica dužna je Hrvatskoj narodnoj banci, Državnom uredu za reviziju i Ministarstvu financija, na njihov zahtjev, omogućiti uvid u poslovne knjige i operativne evidencije. Pri predočavanju tih podataka na stambenu štedionicu ne odnosi se obveza čuvanja bankovne tajne.«
+
+### Članak 19.
+
+U članku 31. stavku 1. riječi: »do 10.000.000,00 kuna« zamjenjuju se riječima: »do 1.000.000,00 kuna«.
+
+Iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. ako u roku od sedam radnih dana ne provede nalog stambenog štediše o prijenosu raspoložive stambene štednje u drugu stambenu štedionicu (članak 13. stavak 5.),«.
+
+U dosadašnjoj točki 9., koja postaje točka 10. iza riječi: »dvije godine« stavlja se zarez i dodaju riječi: »osim odobrenih kredita za međufinanciranje«.
+
+Dosadašnje točke 10. do 19. postaju točke 11. do 20.
+
+Iza točke 20. dodaje se točka 21. koja glasi:
+
+»21. ako ne omogući Hrvatskoj narodnoj banci, Državnom uredu za reviziju ili Ministarstvu financija uvid u poslovne knjige i operativne evidencije (članak 30. stavak 3.).«
+
+### Članak 20.
+
+U cijelom tekstu Zakona o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109./97., 117/97., 76/99. i 10/01.) riječi: »Narodna banka Hrvatske« u određenom padežu zamjenjuju se riječima: »Hrvatska narodna banka« u odgovarajućem padežu.
+
+*Prijelazne i završne odredbe*
+
+### Članak 21.
+
+(1) Državna poticajna sredstva za 2005. godinu odobrit će se prema odredbama ovoga Zakona.
+
+(2) Stambena štedionica dužna je u roku od 60 dana od dana stupanja na snagu ovoga Zakona podnijeti Hrvatskoj narodnoj banci zahtjev za odobrenje Općih uvjeta poslovanja u kojima je naročito dužna:
+
+1. sastaviti popis predmeta, visinu svote i druge uvjete odobravanja kredita za opremanje stana u smislu članka 8. stavka 2. točke 3. ovoga Zakona,
+
+2. omogućiti primjenu odredbi članka 13. stavka 5. ovoga Zakona, a naročito navesti ovlaštenja za raspolaganje, zaprimanje, izvršenje i evidenciju zadanih naloga za prijenos raspoložive stambene štednje.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 370-01/05-01/02
+
+Zagreb, 15. srpnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

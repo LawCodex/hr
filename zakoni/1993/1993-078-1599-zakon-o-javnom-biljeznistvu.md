@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-25
-last_amended: 1994-04-11
+last_amended: 2007-02-09
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1994; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "78/93, 29/94"
+narodne_novine: "78/93, 29/94, 16/07"
 amendments:
   - "NN 29/1994 (513) Zakon o izmjeni Zakona o javnom bilježništvu"
+  - "NN 16/2007 (652) Zakon o izmjenama i dopunama Zakona o javnom bilježništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 78/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 29/1994.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 29/1994, NN 16/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -47,17 +48,15 @@ dr. Franjo Tuđman, v. r.
 
 **o javnom bilježništvu**
 
-## Glava prva
+## Glava prva — OSNOVNE ODREDBE
 
-### OSNOVNE ODREDBE
-
-#### Članak 1.
+### Članak 1.
 
 Ovim se Zakonom uređuju ustrojstvo, ovlasti i način rada javnog bilježništva kao javne službe.
 
 Javno bilježništvo i javni bilježnici
 
-#### Članak 2.
+### Članak 2.
 
 (1) Javno bilježnička služba sastoji se u službenom sastavljanju i izdavanju javnih isprava o pravnim poslovima, izjavama i činjenicama na kojima se utemeljuju prava, u službenom ovjeravanju privatnih isprava, u primanju na čuvanje isprava, zatim novca i predmeta od vrijednosti radi njihove predaje drugim osobama ili nadležnim tijelima te u obavljanju, po nalogu sudova ili drugih javnih tijela, postupaka određenih zakonom. U javnobilježničku službu spada i obavljanje drugih poslova predviđenih ovim zakonom.
 
@@ -67,7 +66,7 @@ Javno bilježništvo i javni bilježnici
 
 Javnost i izvršnost javnobilježničkih isprava
 
-#### Članak 3.
+### Članak 3.
 
 (1) Javnobilježničke isprave su isprave o pravnim poslovima i izjavama koje su sastavili javni bilježnici (javnobilježnički akti), zapisnici o pravnim radnjama koje su obavili ili kojima su bili nazočni javni bilježnici (javnobilježnički zapisnici) i potvrde o činjenicama koje su posvjedočili javni bilježnici (javnobilježnička potvrda).
 
@@ -77,7 +76,7 @@ Javnost i izvršnost javnobilježničkih isprava
 
 Sastavljanje privatnih isprave i zastupanje stranaka
 
-#### Članak 4.
+### Članak 4.
 
 (1) Javni bilježnik je ovlašten zastupati stranke u nespornim stvarima pred sudovima i drugim javnim tijelima ako su te stvari u neposrednoj vezi s kojom njegovom ispravom.
 
@@ -85,13 +84,13 @@ Sastavljanje privatnih isprave i zastupanje stranaka
 
 Službeno sjedište i službeno područje
 
-#### Članak 5.
+### Članak 5.
 
 Javni bilježnik ima svoje službeno sjedište i područje na kojemu obavlja svoju službu.
 
 Službeni pečat, štambilja i grb
 
-#### Članak 6.
+### Članak 6.
 
 ( 1 ) Javni bilježnik ima svoj službeni pečat i štambilju kojima ovjerava svaku ispravu koju sastavi ili pregleda u povodu radnji koje poduzme u obavljanju svoje službe.
 
@@ -101,31 +100,31 @@ Službeni pečat, štambilja i grb
 
 Stjecanje i prestanak službe
 
-#### Članak 7.
+### Članak 7.
 
 Služba javnog bilježnika može se steći i prestati uz uvjete određene ovim zakonom.
 
 Imenovanje javnih bilježnika u Republici Hrvatskoj
 
-#### Članak 8.
+### Članak 8.
 
 U Republici Hrvatskoj bit će, prema kriterijima utvrđenim ovim Zakonom, imenovano toliko javnih bilježnika koliko će to biti potrebno radi urednog obavljanja javnobilježničke službe na čitavom njenom području.
 
 Hrvatska javnobilježnička komora
 
-#### Članak 9.
+### Članak 9.
 
 Javni bilježnici na području Republike Hrvatske obvezatno se udružuju u Hrvatsku javnobilježniku komoru (dalje u tekstu: Komora). Sjedište Komore je u Zagrebu.
 
 Nadzor nad javnobilježničkom službom
 
-#### Članak 10.
+### Članak 10.
 
 Nadzor nad radom javnobilježničke službe obavljaju Ministarstvo pravosuđa Republike Hrvatske (dalje u tekstu: Ministarstvo) i Komora.
 
 Strane javnobilježničke isprave
 
-#### Članak 11.
+### Članak 11.
 
 (1 ) Javnobilježničke isprave izdane u inozemstvu imaju, uz uvjet uzajamnosti, iste pravne učinke kao i javnobilježničke isprave izdane po ovom Zakonu.
 
@@ -133,17 +132,15 @@ Strane javnobilježničke isprave
 
 Odgovornost javnih bilježnika
 
-#### Članak 12.
+### Članak 12.
 
 Javni bilježnici odgovaraju za svoj rad u skladu s ovim Zakonom.
 
-## Glava druga
-
-### IMENOVANJE JAVNIH BILJEŽNIKA, PRESTANAK NJIHOVE SLUŽBE I PRIVREMENO UDALJENJE IZ SLUŽBE
+## Glava druga — IMENOVANJE JAVNIH BILJEŽNIKA, PRESTANAK NJIHOVE SLUŽBE I PRIVREMENO UDALJENJE IZ SLUŽBE
 
 Uvjeti za imenovanje
 
-#### Članak 13.
+### Članak 13.
 
 (1) Za javnog bilježnika može biti imenovana osoba:
 
@@ -181,7 +178,7 @@ Uvjeti za imenovanje
 
 Postupak imenovanja
 
-#### Članak 14.
+### Članak 14.
 
 (1) Javnog bilježnika imenuje rješenjem ministar pravosuđa (dalje u tekstu: Ministar) na temelju provedenog natječaja. Rješenje Ministra je konačno. Protiv takvog rješenja Ministra može se pokenuti upravni spor.
 
@@ -205,7 +202,7 @@ Postupak imenovanja
 
 Javnobilježnička prisega i povelja o postavljenju
 
-#### Članak 15.
+### Članak 15.
 
 (1) Nakon imenovanja javni bilježnik je dužan položiti prisegu pred predsjednikom Vrhovnog suda Republike Hrvatske, u nazočnosti Ministra i predsjednika Komore.
 
@@ -217,7 +214,7 @@ Javnobilježnička prisega i povelja o postavljenju
 
 Određivanje javnobilježničkih mjesta
 
-#### Članak 16.
+### Članak 16.
 
 (1) Javnobilježnička mjesta u Republici Hrvatskoj određuje Ministarstvo, na temelju pribavljenog mišljenja Komore, sudova u Republici Hrvatskoj, te nađležnog županijskog tijela, vodeći računa o tome da na području svakog zakonom određenog suda bude najmanje jedan javni bilježnik.
 
@@ -229,7 +226,7 @@ Određivanje javnobilježničkih mjesta
 
 Osiguranje od odgovornosti
 
-#### Članak 17.
+### Članak 17.
 
 (1) Javni bilježnik je dužan prije početka rada osigurati se od odgovornosti za štetu koju bi mogao počiniti trećima obavljanjem svoje službene dužnosti. Uvjetima osiguranja može se predvidjeti da štetu od određenog iznosa naknađuje javni bilježnik izravno.
 
@@ -255,7 +252,7 @@ Osiguranje od odgovornosti
 
 Pečac, štambilja i potpis
 
-#### Članak 18.
+### Članak 18.
 
 (1) Poslije polaganja prisege javni bilježnik je dužan bez odlaganja pribaviti pečat i štambilje.
 
@@ -273,7 +270,7 @@ Pečac, štambilja i potpis
 
 Razlozi za prestanak službe
 
-#### Članak 19.
+### Članak 19.
 
 (1) Služba javnog bilježnika prestaje :
 
@@ -311,7 +308,7 @@ Razlozi za prestanak službe
 
 Ostavka
 
-#### Članak 20.
+### Članak 20.
 
 (1) Javni bilježnik može u svako doba zahtijevati da bude otpušten iz službe. Zahtjev se pismeno podnosi Ministarstvu. U zahtjevu treba odrediti rok otpuštanja iz službe.
 
@@ -319,7 +316,7 @@ Ostavka
 
 Razrješenje
 
-#### Članak 21.
+### Članak 21.
 
 (1) Javni bilježnik će biti razriješen:
 
@@ -347,13 +344,13 @@ Razrješenje
 
 Pravni lijek
 
-#### Članak 22.
+### Članak 22.
 
 Odluka Ministra o razrješenju odnosno o utvrđenju prestanka službe je konačna i protiv nje je moguće pokrenuti upravni spor.
 
 Obavjest o prestenku službe te poništaj pečata i štambilja
 
-#### Članak 23.
+### Članak 23.
 
 (1) O prestanku službe javnog bilježnika Ministarstvo će obavijestiti Komoru te zekonom određeni sud na području kojega je javni bilježnik imao svoje sjedište.
 
@@ -363,7 +360,7 @@ Obavjest o prestenku službe te poništaj pečata i štambilja
 
 Čuvanje spisa
 
-#### Članak 24.
+### Članak 24.
 
 (1) Ako javnom bilježniku prestane služba ili ako on premjesti svoje sjedište na područje drugog zakonom određenog suda, njegove će spise i knjige te isprave koje su mu službeno predane preuzeti na čuvanje zakonom određeni sud.
 
@@ -381,7 +378,7 @@ Obavjest o prestenku službe te poništaj pečata i štambilja
 
 Gubitak prava na zvanje
 
-#### Članak 25.
+### Članak 25.
 
 (1) Prestankom službe javni bilježnik gubi pravo nositi naziv "javni bilježnik". Taj se naziv ne smije koristiti ni s dodatkom koji bi upućivao na prestanak službe.
 
@@ -389,7 +386,7 @@ Gubitak prava na zvanje
 
 Preuzimanje poslovnih prostorija i zaposlenika
 
-#### Članak 26.
+### Članak 26.
 
 (1) Ako je služba nekog javnog bilježnika prestala ili je njegovo sjedište preseljeno, drugi već postavljeni javni bilježnik može se preseliti u poslovne prostorije razriješenog javnog bilježnika ili zaposliti nekog zaposlenika koji je bio s njime u posebnom odnosu povjerenja samo uz dopuštenje Ministarstva.
 
@@ -397,7 +394,7 @@ Preuzimanje poslovnih prostorija i zaposlenika
 
 Privremeno udaljenje iz službe
 
-#### Članak 27.
+### Članak 27.
 
 (1) Mmistar može javnog bilježnika privremeno udaljiti iz službe :
 
@@ -415,19 +412,17 @@ Privremeno udaljenje iz službe
 
 udaljenja javnog bilježnika iz službe
 
-#### Članak 28.
+### Članak 28.
 
 (1) U slučaju privremenog udaljenja iz službe, ako javnom bilježniku nije postavljen zastupnik, zakonom određeni će sud uzeti na čuvanje spise, knjige, pečat, štambilju i službeni grb za vrijeme dok udaljenje traje. U tom se slučuaju na odgovarajući način primjenjuju odredbe koje vrijede za slučaj privremene spriječenosti javnog bilježnika (članak 143. 144.)
 
 (2) Za vrijeme privremenog udaljenja iz službe javni bilježnik ne smije poduzimati nikakve službene radnje. Povreda te zabrane ne utječe na valjanost poduzetih službenih radnji.
 
-## Glava treća
-
-### OPĆE ODREDBE O POSLOVANJU JAVNOG BILJEŽNIKA
+## Glava treća — OPĆE ODREDBE O POSLOVANJU JAVNOG BILJEŽNIKA
 
 Službeno sjedište
 
-#### Članak 29.
+### Članak 29.
 
 (1) Službeno sjedište na području za koje je imenovan javnom bilježniku određuje Ministarstvo, na temelju prethodno pribavljenog mišljenja Komore i javnog bilježnika
 
@@ -439,7 +434,7 @@ Službeno sjedište
 
 Službeno područje
 
-#### Članak 30.
+### Članak 30.
 
 (1) Službeno područje javnog bilježnika je područje za konom određenog suda na kojemu on ima svoje sjedište osim ako Ministarstvo za pojedini slučaj drukčije ne odredi.
 
@@ -453,7 +448,7 @@ Službeno područje
 
 Nepremjestivost javnog bilježnika
 
-#### Članak 31.
+### Članak 31.
 
 (1) Javni bilježnik ne može biti premješten u drugo mjesto bez svog pristanka.
 
@@ -461,7 +456,7 @@ Nepremjestivost javnog bilježnika
 
 Početak i prestanak rada. Radno vrijeme
 
-#### Članak 32.
+### Članak 32.
 
 (1) Javni bilježnik ne smije započeti radom prije dana koji je određen kao dan početka njegova poslovanja.
 
@@ -471,7 +466,7 @@ Početak i prestanak rada. Radno vrijeme
 
 Opća službena dužnost
 
-#### Članak 33.
+### Članak 33.
 
 (1) Javni bilježnik je dužan svoju službu obavljati u skladu s položenom prisegom.
 
@@ -485,7 +480,7 @@ Opća službena dužnost
 
 Uskrata službenih radnji
 
-#### Članak 34.
+### Članak 34.
 
 (1) Javni bilježnik ne smije bez valjanih razloga uskratiti poduzimanje službenih radnji. Javni bilježnik je ovlašten uskratiti obavljanje određene radnje u skladu s propisima koji uređuju obavljanje te radnje. Javni bilježnik je ovlašten uskratiti obavljanje neke radnje zbog prezauzetosti.
 
@@ -497,13 +492,13 @@ Uskrata službenih radnji
 
 Sastavljanje isprava na stranom jeziku
 
-#### Članak 35.
+### Članak 35.
 
 Ako je javni bilježnik istodobno i zakleti sudski tumač za neki strani jezik, Ministarstvo ga može ovlastiti da sastavlja i ovjerava prijevode sa tog jezika i na taj jezik. Smatrat će se da takvi prijevodi i ovjere potječu od ovlaštenog tumača.
 
 Izuzeće
 
-#### Članak 36.
+### Članak 36.
 
 (1) Na izuzeće javnog bilježnika na odgovarajući se način primjenjuju pravila o izuzeću suca u izvanparničnom postupku.
 
@@ -515,7 +510,7 @@ Izuzeće
 
 Javnobilježnička tajna
 
-#### Članak 37.
+### Članak 37.
 
 (1) Javni bilježnik je dužan čuvati kao tajnu ono za što je saznao u obavljanju svoje službe, osim ako iz zakona, volje stranaka ili sadržaja pravnog posla ne proizlazi što drugo.
 
@@ -529,7 +524,7 @@ Javnobilježnička tajna
 
 Zabrana suradnje i političkog djelovanja
 
-#### Članak 38.
+### Članak 38.
 
 (1) Javni se bilježnik ne smije povezati s odvjetnikom ni s drugim fizičkim ili pravnim osobama radi zajedničkog obavljanja službi niti koristiti isti poslovni prostor.
 
@@ -539,7 +534,7 @@ Zabrana suradnje i političkog djelovanja
 
 Zabrana druge službe ili zaposlenja
 
-#### Članak 39.
+### Članak 39.
 
 (1) Javni bilježnik ne može istovremeno biti odvjetnik.
 
@@ -555,7 +550,7 @@ Zabrana druge službe ili zaposlenja
 
 Pretraga ureda i pritvor
 
-#### Članak 40.
+### Članak 40.
 
 (1) Pretraga ureda i oduzimanje isprava koje su povjerene na čuvanje javnom bilježniku, novca i predmeta od vrijednosti koje je javni bilježnik preuzeo radi predaje trećim osobama te javnobilježničkih spisa i knjiga dopušteno je samo glede isprava, predmeta i knjiga koje su izričito navedene u odluci o pretrazi donesenoj u kaznenom postupku protiv javnog bilježnika.
 
@@ -567,7 +562,7 @@ Pretraga ureda i pritvor
 
 Oslobođenje od snašanja troškova
 
-#### Članak 41.
+### Članak 41.
 
 (1) Ako stranka ima pravo na oslobođenje od snošenja troškova postupka po pravilima Zakona o parničnom postupku, može zatražiti od suda na području kojega se nalazi sjedište javnog bilježnika od kojega se traži poduzimanje službene radnje, da je oslobodi od dužnosti plaćanja taksi za obavljanje te radnje.
 
@@ -577,7 +572,7 @@ Oslobođenje od snašanja troškova
 
 Odgovornost za štetu
 
-#### Članak 42.
+### Članak 42.
 
 (1) Javni bilježnik je dužan naknaditi štetu koju je drugom prouzročio povredom svoje službene dužnosti.
 
@@ -585,13 +580,11 @@ Odgovornost za štetu
 
 (3) Javnobilježnički prisjednik i vježbenik odgovaraju kao i javni bilježnik za štetu koju prouzroče povredom službene dužnosti pri samostalnom obavljanju kakve radnje u skladu s ovim Zakonom. Javni bilježnik odgovara solidarno s javnobilježničkim prisjednikom i vježbenikom ako ih je ovlastio da samostalno obave radnju. Javni bilježnik ima pravo regresa prema javnobilježničkom prisjedniku i vježbeniku po općim pravilima o regresnoj odgovornosti službenih osoba. Za štetu koju prouzroče javnobilježnički prisjednik i vježbenik država ne odgovara.
 
-## Glava četvrta
-
-### OPĆE ODREDBE O JAVNOBILJEŽNIČKIM ISPRAVAMA
+## Glava četvrta — OPĆE ODREDBE O JAVNOBILJEŽNIČKIM ISPRAVAMA
 
 Način pisanja javnobilježničke isprave
 
-#### Članak 43.
+### Članak 43.
 
 (1) Javnobilježničke isprave moraju biti napisane strojem ili drugim sredstvom mehaničkog pisanja, jasno i čitko. Isprave se smiju pisati ručno samo iznimno, i to trajnom tintom.
 
@@ -601,7 +594,7 @@ Način pisanja javnobilježničke isprave
 
 Potpisivanje javnobilježničkih isprava
 
-#### Članak 44.
+### Članak 44.
 
 (1) Javni bilježnik je dužan javnobilježničku ispravu vlastoručno potpisati na njenom kraju. Pored potpisa stavit će svoj službeni pečat. Na kraj isprave, ali iznad potpisa javnog bilježnika, stavljaju se i potpisi sudionika te svjedoka ako su i oni sudjelovali u sastavljanju isprave.
 
@@ -611,7 +604,7 @@ Potpisivanje javnobilježničkih isprava
 
 Brojevi u javnobilježničkoj ispravi
 
-#### Članak 45.
+### Članak 45.
 
 (1) Brojevi u javnobilježničkoj ispravi ispisivat će se i slovima.
 
@@ -627,7 +620,7 @@ Brojevi u javnobilježničkoj ispravi
 
 Izmjene i dopune u javnobilježničkoj ispravi
 
-#### Članak 46.
+### Članak 46.
 
 (1) U javnobilježničkoj ispravi ne smije biti riječi ili znakova ispod teksta isprave, među recima ili uz rub teksta.
 
@@ -637,7 +630,7 @@ Svaka riječ, znak ili potpis koji se nalaze iznad, između redaka teksta ili po
 
 Brisanje i precrtavanje
 
-#### Članak 47.
+### Članak 47.
 
 (1) U ispravi se ne smije ništa izbrisati.
 
@@ -645,7 +638,7 @@ Brisanje i precrtavanje
 
 Isprava od više stranica ili araka
 
-#### Članak 48.
+### Članak 48.
 
 (1) Ako se javnobilježnička isprava sastoji od više stranica, na njoj se moraju navesti redni brojevi stranica, a ako je isprava upisana u kakav javnobilježnički upisnik, i broj pod kojim je upisana.
 
@@ -655,7 +648,7 @@ Isprava od više stranica ili araka
 
 Isprava bez potpisa i pečata
 
-#### Članak 49.
+### Članak 49.
 
 (1) Javna isprava bez potpisa i pečata javnog bilježnika nema snagu javne isprave.
 
@@ -663,7 +656,7 @@ Isprava bez potpisa i pečata
 
 Čuvanje i izdavanje isprava
 
-#### Članak 50.
+### Članak 50.
 
 (1) Ako ovim Zakonom nije što drugo određeno, javnobilježničke isprave čuvat će onaj javni bilježnik koji ih je sastavio, dok će se strankama izdavati otpravci.
 
@@ -675,7 +668,7 @@ Isprava bez potpisa i pečata
 
 Privremeno izdavanje isprava
 
-#### Članak 51.
+### Članak 51.
 
 (1) Osina u slučajevima određenim posebnim zakonom u kojima je dužan svjedočiti usprkos dužnosti čuvanja tajne, javni bilježnik može privremeno izdati javnobilježničke isprave samo sudu ili Komori kada oni, u postupku obavljanja nadzora, to zatraže pismenim nalogom. Sud i Komora dužni su javnom bilježniku izdati pismenu potvrdu o primitku isprave.
 
@@ -685,7 +678,7 @@ Privremeno izdavanje isprava
 
 Sudjelovanje više javnih bilježnika
 
-#### Članak 52.
+### Članak 52.
 
 (1) Ako su pri sastavljanju javnobilježničke isprave sudjelovali dva ili više javnih bilježnika, svi oni odgovaraju za poštivanje zakonskih propisa.
 
@@ -693,15 +686,13 @@ Sudjelovanje više javnih bilježnika
 
 (3) Sastavljenu ispravu potpisat će svi javni bilježnici koji su sudjelovali u njenom sastavljanju. Pečat na ispravu stavit će samo onaj javni bilježnik koji je vodio raspravu.
 
-## Glava peta
-
-### POSEBNE ODREDBE O OVLASTIMA I POSLOVANJU JAVNIH BILJEŽNIKA
+## Glava peta — POSEBNE ODREDBE O OVLASTIMA I POSLOVANJU JAVNIH BILJEŽNIKA
 
 1. Javnobilježnički akti o pravnim poslovima
 
 Pravni poslovi za koje je potreban javnobilježnički akt
 
-#### Članak 53.
+### Članak 53.
 
 (1) Javnobilježnički akt potreban je osobito za pravnu valjanost:
 
@@ -719,7 +710,7 @@ Pravni poslovi za koje je potreban javnobilježnički akt
 
 Izvršnost javnobilježničkog akta
 
-#### Članak 54.
+### Članak 54.
 
 (1) Javnobilježnički akt je izvršna isprava ako je u nje nku utvrđena određena obveza na činidbu o kojoj se stranke mogu nagoditi i ako sadrži izjavu obvezanika o tome da se na temelju tog akta može radi ostvarenja dužne činidbe, nakon dospjelosti obveze, neposredno provesti prisilno izvršenje.
 
@@ -737,7 +728,7 @@ Izvršnost javnobilježničkog akta
 
 Izvršenje na temelju javnobilježničkog akta
 
-#### Članak 55.
+### Članak 55.
 
 (1) Izvršnost javnobilježničkog akta može se pobijati po odredbama Zakona o izvršnom postupku.
 
@@ -745,7 +736,7 @@ Izvršenje na temelju javnobilježničkog akta
 
 Nazočnost stranaka pri sastavljanju javnobilježničkih akata
 
-#### Članak 56.
+### Članak 56.
 
 (1) Ugovori o uređenju imovinskih odnosa među bračnim drugovima (članak 53. stavak 1. točka 1), nasljednopravni ugovori te drugi ugovori određeni zakonom mogu se sastaviti pred javnim bilježnikom samo ako su istovremeno nazočni svi ugovaratelji.
 
@@ -755,19 +746,19 @@ Nazočnost stranaka pri sastavljanju javnobilježničkih akata
 
 Postupak pri sastavljanju javnobilježničkog akta
 
-#### Članak 57.
+### Članak 57.
 
 Pri sastavljanju javnobilježničkog akta javni bilježnik mora, ako je to moguće, ispitati da li su stranke sposobne i ovlaštene za poduzimanje i sklapanje posla, objasniti strankama smisao i posljedice posla i uvjeriti se o njihovoj pravoj i ozbiljnoj volji .Javni bilježnik će izjave sudionika potpuno jasno i određeno sastaviti pismeno i onda sam pročitati strankama i neposrednim pitanjima uvjeriti se da li sadržaj javnobilježničkog akta odgovara volji stranaka. Prilozi će se uvijek pročitati, osim ako se stranke ne odreknu tog prava i izjave da su upoznate s njihovim sadržajem, što mora biti utvrđeno u javnobilježničkom aktu.
 
 Upozorenja strankama
 
-#### Članak 58.
+### Članak 58.
 
 Ako stranke hoće da se u javnobilježnički akt unesu nejasile, nerazgovjetne ili dvosmislene izjave, koje bi mogle dati povoda sporovima, ili koje ne bi bile pravno valjane ili bi se mogle pobijati, ili ne bi imale namjeravani učinak, ili bi se opravdano moglo smatrati da im je svrha da se koja od stranaka ošteti, javni će bilježnik upozoriti na to sudionike i dati im odgovarajuće pouke. Ako oni ipak ostanu kod tih izjava, unijet će ih u javnobilježnički akt, ali će u tom aktu posebno napomenuti da je stranke upozorio na posljedice takvih izjava.
 
 Potvrda (solemnizacija) privatnih isprava
 
-#### Članak 59.
+### Članak 59.
 
 ( 1) Ako nisu u pitanju pravni poslovi iz članka 53. ovoga Zakona, sudionici u pravnom poslu, svi ili neki od njih, mogu isprave o pravnom poslu potvrditi kod javnog bilježnika. Potvrđena isprava ima snagu javnobilježničkog akta, a ako je sastavljena po propisima članka 54. ovoga Zakona ima snagu i izvršnog javnobilježničkog akta.
 
@@ -779,7 +770,7 @@ Potvrda (solemnizacija) privatnih isprava
 
 Utvrđivanje istovjetnosti
 
-#### Članak 60.
+### Članak 60.
 
 (1) Ako javni bilježnik ne poznaje sudionike osobno i po imenu, njihovu istovjetnost utvrdit će osobnom iskaznicom ili putovnicom. Ako ni to nije moguće, njihovu istovjetnost mora posvjedočiti koji drugi javni bilježnik ili dva svjedoka istovjetnosti.
 
@@ -787,7 +778,7 @@ Utvrđivanje istovjetnosti
 
 Svjedoci istovjetnosti
 
-#### Članak 61.
+### Članak 61.
 
 (1) Svjedoci istovjetnosti moraju biti punoljetni, dostojni povjerenja i javnom bilježniku osobno i po imenu poznati.
 
@@ -797,7 +788,7 @@ Svjedoci istovjetnosti
 
 Pozvani svjedoci (Svjedoci akta)
 
-#### Članak 62.
+### Članak 62.
 
 (1) Dva svjedoka su potrebna pri sastavljanju javnobilježničkog akta:
 
@@ -815,7 +806,7 @@ Pozvani svjedoci (Svjedoci akta)
 
 Tko može biti svjedok akta
 
-#### Članak 63.
+### Članak 63.
 
 (1) Svjedoci akta moraju biti punoljetni i znati, osim ako ovim Zakonom nije drugačije određeno (članak 68., stavak 3.), službeni jezik .Barem jedan od svjedoka mora znati čitati i pisati.
 
@@ -823,7 +814,7 @@ Tko može biti svjedok akta
 
 Tko ne može biti svjedok akta
 
-#### Članak 64.
+### Članak 64.
 
 Ne mogu biti svjedoci akta:
 
@@ -847,7 +838,7 @@ Nazočnost svjedoka akta
 
 Pismeni gluhi i nijemi sudionici
 
-#### Članak 65.
+### Članak 65.
 
 (1) Gluhi sudionik koji zna čitati mora sam pročitati akt i izričito izjaviti da ga je pročitao i da odgovara njegovoj volji.
 
@@ -857,7 +848,7 @@ Pismeni gluhi i nijemi sudionici
 
 Nepismeni gluhi i nijemi sudionici
 
-#### Članak 67.
+### Članak 67.
 
 (1) Ako gluhi sudionik ne zna čitati ili ako nijemi ili gluhonijemi sudionik ne zna čitati i pisati, mora se osim svjedoka akta pozvati i jedna osoba njegova povjerenja koja se s njime može znacima sporazumjeti. Ta osoba mora imati svojstva svjedoka akta i ne mora znati čitati i pisati. Ta osoba može biti u srodstvu s gluhom, nijemom ili gluhonijemom osobom, ako nije osobno zainteresirana u pravnom poslu koji je predmet javnobilježničkog akta.
 
@@ -865,7 +856,7 @@ Nepismeni gluhi i nijemi sudionici
 
 Tumači
 
-#### Članak 68.
+### Članak 68.
 
 (1) Ako koji od sudionika ne zna službeni jezik, mora se pored svjedoka akta (članak 62.) pozvati i prisegnuti sudski tumač. U javnobilježničkom aktu će se naznačiti da se je tako postupilo.
 
@@ -879,7 +870,7 @@ Tumači
 
 Sadržaj javnobilježničkog akta
 
-#### Članak 69.
+### Članak 69.
 
 (1) Javnobilježnički akt mora sadržavati:
 
@@ -901,7 +892,7 @@ Sadržaj javnobilježničkog akta
 
 Posljedice povrede pravila o sastavljanju javnobilježničkog akta
 
-#### Članak 70.
+### Članak 70.
 
 (1) Javnobilježnički akt pri čijem sastavljanju nisu poštivani zahtjevi iz odredaba članka 59., članka 60. stavka 1., članka 61. stavka 1., članka 62. stavka 1., članka 63. stavka 1. glede poznavanja službenog jezika, članka 64. do 68. i članka 69. stavka 1. točke 5., 6. i 7. ovoga Zakona nema snagu javne isprave.
 
@@ -909,7 +900,7 @@ Posljedice povrede pravila o sastavljanju javnobilježničkog akta
 
 Punomoći i prilozi
 
-#### Članak 71.
+### Članak 71.
 
 (1) Sudionici mogu javnobilježničkom aktu priložiti punomoći i druge priloge u izvorniku ili prijepisu, ali ako ih izdatnik nije potvrdio u jevnobilježničkom aktu, samim prilaganjem ne mogu dobiti veću vjerodostojnost nego što su je ranije imali.
 
@@ -921,7 +912,7 @@ Učinak, oblik i način sastavljanja javnobilježničkog akta o
 
 izjavama posljednje volje i o nasljednim ugovorima
 
-#### Članak 72.
+### Članak 72.
 
 Učinak, oblik i način sastavljanja javnobilježničkih akata o izjavama posljednje volje i o nasljednim ugovorima uredit će se posebnim zakonom.
 
@@ -929,13 +920,13 @@ Učinak, oblik i način sastavljanja javnobilježničkih akata o izjavama poslje
 
 Učinak javnobilježničkog posvjedočenja
 
-#### Članak 73.
+### Članak 73.
 
 Javni bilježnik izdaje potvrde prema odredbama ovog odsjeka. Te potvrde imaju dokaznu snagu javne isprave samo ako odgovaraju odredbama članka 74. do 92. ovoga Zakona.
 
 Ovjera prijepisa
 
-#### Članak 74.
+### Članak 74.
 
 (1) Javni bilježnik potvrdit će da se prijepis isprave slaže s izvornikom ako razumije jezik na kome je isprava napisana.
 
@@ -953,7 +944,7 @@ Ovjera prijepisa
 
 Ovjere izvoda iz trgovačkih i poslovnih knjiga
 
-#### Članak 75.
+### Članak 75.
 
 (1) Pri ovjeri izvoda iz trgovačkih ili poslovnih knjiga jsvni bilježnik će usporediti izvod s odnosnim stavkama izvorne knjige i napisat će na izvodu klauzulu ovjere s pri mjedbom da se izvod potpuno slaže s odgovarajućim stavkama izvorne knjige. U izvodu će se naznačiti datum pregleda trgovačke odnosno poslovne knjige.
 
@@ -961,7 +952,7 @@ Ovjere izvoda iz trgovačkih i poslovnih knjiga
 
 Ovjere prijevoda
 
-#### Članak 76.
+### Članak 76.
 
 (1) Javni bilježnik, koji je za to ovlašten (članak 35.), ovjerit će točnost prijevoda koji je on sam načinio ili koji je on savjesno ispitao i za koji je utvrdio da je ispravan.
 
@@ -971,7 +962,7 @@ Ovjere prijevoda
 
 Ovjera potpisa (legalizacija)
 
-#### Članak 77.
+### Članak 77.
 
 (1) Javni bilježnik može potvrditi da je stranka u njegovoj nazočnosti svojeručno potpisala pismeno, ili svoj rukoznak na njega stavila, ili da je potpis ili rukoznak, koji je već na pismenu, pred njim priznala kao svoj.
 
@@ -989,7 +980,7 @@ Ovjera potpisa (legalizacija)
 
 Potvrda o vremenu kad je isprava predočene
 
-#### Članak 78.
+### Članak 78.
 
 (1) Vrijeme kad je isprava javnom bilježniku ili u njegovoj nazočnosti kojoj drugoj osobi predočena, potvrdit će se na samoj ispravi uz točnu naznaku dana, mjeseca, godine, a, ako to stranka zahtijeva, i sata.
 
@@ -997,7 +988,7 @@ Potvrda o vremenu kad je isprava predočene
 
 Potvrda da je netko živ
 
-#### Članak 79.
+### Članak 79.
 
 (1) Javni bilježnik može potvrditi da je netko živ ako ga osobno i po imenu poznaje ili ako je njegovu istovjetnost utvrdio na način određen u članku 60. i 61. ovoga Zakona.
 
@@ -1005,7 +996,7 @@ Potvrda da je netko živ
 
 Potvrda o ovlasti za zastupanje
 
-#### Članak 80.
+### Članak 80.
 
 (1) Javni bilježnik je ovlašten izdati potvrdu o ovlasti za zastupanje ako ta ovlast proizlazi iz trgovačkog ili sličnog registra. Takva potvrda ima istu dokaznu snagu kao i potvrda registarskog suda.
 
@@ -1013,7 +1004,7 @@ Potvrda o ovlasti za zastupanje
 
 Potvrde o drugim činjenicama iz registara
 
-#### Članak 81.
+### Članak 81.
 
 (1) Javni bilježnik može izdati potvrdu o postojanju ili sjedištu neke pravne osobe, o promjeni tvrtke, o statusnim promjenama ili drugim pravno važnim činjenicama ako one proizlaze iz kojeg javnog registra.
 
@@ -1021,7 +1012,7 @@ Potvrde o drugim činjenicama iz registara
 
 Upisnik o ovjerama i potvrdama
 
-#### Članak 82.
+### Članak 82.
 
 (1) O službenim radnjama po odredbama članka 70. do 81. ovoga Zaknna neće se, u pravilu, napisati posebni zapisnici, već će se o tome te o izdanim ovjerama i potvrdama voditi poseban upisnik o ovjerama i potvrdama (članak 74 stavak 6., članak 75. stavak 2., članak 76. stavak 3.). Sudionici i svjedoci moraju potpisati ono što je uneseno u upisnik.
 
@@ -1029,7 +1020,7 @@ Upisnik o ovjerama i potvrdama
 
 Priopćenje izjava
 
-#### Članak 83.
+### Članak 83.
 
 (1) Javni bilježnik može izdati potvrdu o učinjenoj opomeni, otkazu, ponudi i drugim izjavama koje jedna stranka daje na znanje drugoj da bi time postigla kakav pravni učinak. Sa priopćenjem može se spojiti i poduzimanje pravne radnje koju javni bilježnik po nalogu jedne stranke treba izvršiti prema drugoj, npr. ponudu plaćanja, predaje ili preuzimanja kakve isprave ili drugih stvari.
 
@@ -1041,13 +1032,13 @@ Priopćenje izjava
 
 Primanje izjava pod prisegom
 
-#### Članak 84.
+### Članak 84.
 
 Javni bilježnik je ovlašten koga zaprisegnuti ili primiti izjavu pod prisegom samo ako je to prema pravu neke strane zemlje ili prema odluci stranog tijela ili inače radi ostvarivanja prava u inozemstvu potrebno.
 
 Potvrda o izvršenom priopćenju
 
-#### Članak 85.
+### Članak 85.
 
 (1) Javni će bilježnik o učinjenom priopćenju izdati potvrdu stranci koja je zatražila službenu radnju, a i protivnoj stranci ako ona to zatraži.
 
@@ -1057,25 +1048,25 @@ Potvrda o izvršenom priopćenju
 
 Odbijanje suradnje
 
-#### Članak 86.
+### Članak 86.
 
 Ako javni bilježnik ne nađe na označenom mjestu stranku kojoj treba priopćiti izjavu ili ako mu ona ne dopusti pristup, ili ako odbije da ga sasluša, javni će bilježnik toj stranci, na zahtjev stranke koja je zatražila pravnu radnju, dostaviti preporučenim pismom ovjereni prijepis onoga što je imao priopćiti. To će se navesti u zapisniku i u potvrdi.
 
 Pismeni zahtjev za poduzimanje radnje
 
-#### Članak 87.
+### Članak 87.
 
 Zahtjev da se priopći izjava i poduzme pravna radnja može se javnom bilježniku uputiti i pismeno te putem brzojava ili dalekopisača. Pismo i drugi oblik pismenog priopćenja zamjenjuje zapisnik iz članka 83. stavka 2. ovoga Zakona i sašit će se s posebnim zapisnikom koji će javni bilježnik načiniti o radnji iz članka 83., stavka 3. ovoga Zakona. U potvrdi će se naznačiti kojim je oblikom pismenog priopćavanja zahtjev postavljen.
 
 Polvrda o pismenim priopćenjima
 
-#### Članak 88.
+### Članak 88.
 
 Javni bilježnik može izdati potvrdu o tome da je kojoj stranci, ma gdje ona stanovala ili imala sjedište, pismom ili drugim oblikom pismenog priopćavanja, poslao priopćenje izvjesnog sadržaja. U tom slučaju javni će bilježnik u zapisniku o tome te u potvrdi navesti: prezime i ime (naziv) i adresu stranke koja je to zahtijevala, doslovni sadržaj priopćavanja, te doslovni prijepis adrese na koju je priopćenje poslato. Dokaz o upućivanju poruke pričvrstit će se uz zapisnik.
 
 Potvrđivanje zaljučaka skupštine i sjednica drugih tijela .
 
-#### Članak 89.
+### Članak 89.
 
 (1) Ako je javni bilježnik pozvan da potvrdi (posvjedoči) zaključke skupštine ili sjednice nekog drugog tijela pravnih osoba, u zapisnik će unijeti dan i vrijeme sjednice, zatim će opisati sve što se u njegovoj nazočnosti događalo, predlagalo i izjavilo, ukoliko je to važno za prosuđivanje pravilnosti postupka, a posebno zaključke donijete na sjednici. On će potvrditi i sve drugo što je zakonom propisano.
 
@@ -1085,7 +1076,7 @@ Potvrđivanje zaljučaka skupštine i sjednica drugih tijela .
 
 Potvrđivanje (posvjedočenje) činjenica
 
-#### Članak 90.
+### Članak 90.
 
 (1) Na zahtjev zainteresiranih osoba javni bilježnik može potvrditi i druge činjenice pored onih navedenih u prethodnim članovima ovoga Zakona koje su se pred njim dogodile, poput rasprava o ponudama, dražbe, ždrijebanja izjave osoba o činjenicama i stanja za koje je javni bilježnik sam ili uz sudjelovanje stručnih osoba saznao.
 
@@ -1095,7 +1086,7 @@ Potvrđivanje (posvjedočenje) činjenica
 
 Protesti
 
-#### Članak 91.
+### Članak 91.
 
 (1) Protestiranje mjenica i vođenje protestnih upisnika obavljat će se po propisima mjeničnih propisa.
 
@@ -1103,7 +1094,7 @@ Protesti
 
 Propisi o sudskim postupcima
 
-#### Članak 92.
+### Članak 92.
 
 Odredbama ovog odsjeka ne dira se u propise kojima se uređuje nadležnost i postupak sudova za poduzimanje radnji na koje se te odredbe odnose.
 
@@ -1111,7 +1102,7 @@ Odredbama ovog odsjeka ne dira se u propise kojima se uređuje nadležnost i pos
 
 Nadležnost ze izdavanje
 
-#### Članak 93.
+### Članak 93.
 
 (1) Javni bilježnik je ovlašten i dužan izdavati strankama koje su sudjelovale u sastavljanju isprave i njihovim nasljednicima otpravke, potvrde, prijepise i izvode isprava koje javni bilježnik sam čuva.
 
@@ -1119,7 +1110,7 @@ Nadležnost ze izdavanje
 
 Opće odredbe o izdavanju otpravaka i prijepisa
 
-#### Članak 94.
+### Članak 94.
 
 (1) Kad se po odredbama ovoga Zakona izdaje otpravak ili prijepis javnobilježničkog akta na njemu će se naznačiti da je uspoređen s izvornikom ili prijepisom koji čuva javni bilježnik, zatim da je to otpravak ili prijepis (obični, ovjereni, potpuni ili u izvodu), a ako je prijepis, i koji je po redu.
 
@@ -1127,7 +1118,7 @@ Opće odredbe o izdavanju otpravaka i prijepisa
 
 Otpravci javnobilježničkih akata o pravnim poslovima među živima
 
-#### Članak 95.
+### Članak 95.
 
 (1) Ako u javnobilježničkom aktu nije što drugo određeno, otpravak javnobilježničkog akta može se izdati samo:
 
@@ -1143,7 +1134,7 @@ Otpravci javnobilježničkih akata o pravnim poslovima među živima
 
 Ponovno izdavanje otpravka
 
-#### Članak 96.
+### Članak 96.
 
 (1) O izvršnom javnobilježničkom aktu može se, osim slučajeva navedenih u sljedećem stavku ovoga članka, svakoj od osoba navedenih u članku 95. ovoga Zakona izdati samo jedan otpravak.
 
@@ -1161,7 +1152,7 @@ Ponovno izdavanje otpravka
 
 Prijepisi javnobilježničkih akata o pravnim poslovima među živima, njihovo izdavanje i razgledavanje
 
-#### Članak 97.
+### Članak 97.
 
 (1) Prijepisom u smislu ovoga Zakona smatra se ovjereni prijepis javnobilježničkog akta koji je kao takav označen i koji potvrđuje da je u vrijeme ovjere izvornik postojao.
 
@@ -1171,13 +1162,13 @@ Prijepisi javnobilježničkih akata o pravnim poslovima među živima, njihovo i
 
 Otpravci i prijepisi javnobilježničkih akata o izjavama posljednje volje ili o odredbama za slučaj smrti
 
-#### Članak 98.
+### Članak 98.
 
 Otpravci ili prijepisi izjava posljednje volje ili odredaba za slučaj smrti koje je sastavio javni bilježnik ili koje su njemu pismeno predate, ako u javnobilježničkom aktu nije što drugo određeno, mogu se izdati samo ostavitelju dok živi ili osobi koju on na to izričito ovlasti ovjerenom punomoći. Poslije smrti ostavitelja takvi se otpravci ili prijepisi mogu izdati samo poslije proglašenja odredbe posljednje volje. Dan proglašenja zabilježit će se na otpravku ili na prijepisu.
 
 Potvrde
 
-#### Članak 99.
+### Članak 99.
 
 (1) O zapisnicima i upisima u upisnik mogu se izdavati potpune potvrde ili samo u izvodu. Prigodom izdavanja izvoda primjenjivat će se na odgovarajući način odredbe članka 101. stavka 1. i 3. ovoga Zakona.
 
@@ -1185,7 +1176,7 @@ Potvrde
 
 Sadržaj i oblik otpravka i prijepisa
 
-#### Članak 100.
+### Članak 100.
 
 (1) Otpravak i prijepis moraju biti doslovno podudarni s izvornikom. Na sadržaj i oblik otpravka i prijepisa primjenjivat će se odredbe članka 46. i 47. ovoga Zakona, s time što se preinake, ispravci i dodaci koji su u izvorniku uz propisanu pažnju (članak 46.) učinjeni mogu uvrstiti na ono mjesto sloga gdje spadaju, a da se to u otpravku ne mora posebno naznačiti. Ako se prigodom sastavljanja izvornika nije pazilo na odredbe članka 46. ovoga Zakona, izmjenu ili ispravak ili dodatak treba učiniti vidljivim u otpravku ili prijepisu.
 
@@ -1193,7 +1184,7 @@ Sadržaj i oblik otpravka i prijepisa
 
 Izvod iz javnobilježničkih akata
 
-#### Članak 101.
+### Članak 101.
 
 (1) Ako javnobilježnički akt sadrži više samostalnih pravnih poslova, može se na zahtjev tražitelja umjesto potpunog otpravka izdati izvod koji se odnosi na pojedini pravni posao.
 
@@ -1203,7 +1194,7 @@ Izvod iz javnobilježničkih akata
 
 Prilozi uz otpravak izvršnog javnog bilježničkog akta
 
-#### Članak 102.
+### Članak 102.
 
 (1) Uz otpravak izvršnog javnobilježničkog akta priložit će se prijepisi priloga toga akta. Bilješka o ovjeri mora obuhvaćati i priloge. Bez toga javnobilježnički akt nije izvršan.
 
@@ -1211,13 +1202,13 @@ Prilozi uz otpravak izvršnog javnog bilježničkog akta
 
 Bilješka (klauzula) o ovjeri
 
-#### Članak 103.
+### Članak 103.
 
 Svaki otpravak mora biti ovjeren. Bilješka o ovjeri stavlja se na kraju otpravka i mora sadržavati: potvrdu da se taj otpravak slaže s izvornikom koji se nalazi u spisima javnog bilježnika, navode propisane odredbama članka 96. stavka 4. i članka 102. ovoga Zakona, napomenu za koga je otpravak sastavljen, mjesto i vrijeme izdavanja otpravka uz potpis i službeni pečat javnog bilježnika.
 
 Pravne posljedice nedostataka u sadržaju i obliku otpravaka javnobilježničkog akta
 
-#### Članak 104.
+### Članak 104.
 
 (1) Otpravak javnobilježničkog akta nema snagu javne isprave ako nije prema odredbama članka 48. stavka 2. ovoga Zakona prošiven, ako nije potvrđena podudarnost otpravka s izvornim javnobilježničkim aktom ili ako na njemu nema potpisa i pečata javnog bilježnika.
 
@@ -1225,7 +1216,7 @@ Pravne posljedice nedostataka u sadržaju i obliku otpravaka javnobilježničkog
 
 Zabilježba o izdavanju otpravka
 
-#### Članak 105.
+### Članak 105.
 
 (1) Na izvorniku ili na arku prišivenom izvorniku zabilježit će se kada je i kome izdan otpravak. Za ponovni otpravak zabilježit će se i razlog zbog kojeg je on izdan.
 
@@ -1235,13 +1226,13 @@ Zabilježba o izdavanju otpravka
 
 Potvrda o postojanju javnobilježničkog akta
 
-#### Članak 106.
+### Članak 106.
 
 Osobama koje imaju pravo da traže prijepis (članak 97. i 98. ) izdat će se na njihov zahtjev potvrda da se kod javnog bilježnika nalazi javnobilježnički akt ili da je javnom bilježniku predana izjava posljednje volje.
 
 Rokovi izdavanja otpravaka, potvrda, izvoda i prijepisa
 
-#### Članak 107.
+### Članak 107.
 
 (1) Otpravke, potvrde, izvode i prijepise javni bilježnik mora izdati u primjerenom roku.
 
@@ -1249,7 +1240,7 @@ Rokovi izdavanja otpravaka, potvrda, izvoda i prijepisa
 
 Pravna sredstva
 
-#### Članak 108.
+### Članak 108.
 
 (1) Nezadovoljna stranka ima pravo pritužbe predsjedniku suda na području kojega je sjedište javnog bilježnika zbog toga što javni bilježnik nije poduzeo traženu službenu radnju, ili zbog toga što je u sadržajnom i formalnom pogledu nije poduzeo u skladu sa zakonom ili zbog toga što odugovlači s njenim poduzimanjem.
 
@@ -1261,7 +1252,7 @@ Pravna sredstva
 
 Čuvanje isprava
 
-#### Članak 109.
+### Članak 109.
 
 (1) Javni je bilježnik dužan preuzeti na čuvanje isprave svih vrsta. Javni bilježnik je ovlašten odbiti preuzeti na čuvanje koju ispravu ako za to postoje opravdani razlozi.
 
@@ -1275,7 +1266,7 @@ Pravna sredstva
 
 Preuzimanje na čuvanje novca i vrijednosnih papira
 
-#### Članak 110.
+### Članak 110.
 
 (1) Javni bilježnik može preuzeti na čuvanje gotov novac, mjenice, čekove, javne obveznice i druge vrijednosne papire, a dužan ih je preuzeti samo kad su mu u povodu sastavljanja javnobilježničkog akta predani zato da bi ih izručio izvjesnoj osobi ili da bi ih položio kod određene vlasti.
 
@@ -1285,7 +1276,7 @@ Preuzimanje na čuvanje novca i vrijednosnih papira
 
 Način čuvanja i predaja novca i vrijednosnih papira
 
-#### Članak 111.
+### Članak 111.
 
 (1) Preuzeti novac i vrijednosni papiri javni je bilježnik dužan čuvati odvojeno od svog novca i vrijednosnih papira, u posebnom omotu, na kojemu će napisati predmet i ime stranke. Novac koji mu je povjeren javni bilježnik može čuvati na posebnom računu kod banke ili druge financijske organizacije, za osnivanje i vođenje kojega vrijede posebni propisi i uvjeti.
 
@@ -1293,25 +1284,23 @@ Način čuvanja i predaja novca i vrijednosnih papira
 
 Nemogućnost predaje novca i vrijednosnih papira
 
-#### Članak 112.
+### Članak 112.
 
 Ako javni bilježnik ne može izvršiti naloženu mu predaju u određenom roku, dužan je, po proteku tog roka, a, ako rok nije određen, najkasnije u roku od petnaest dana od dana preuzimanja, bez odlaganja vratiti stranci preuzete vrijednosti ili, ako to nije moguće, predati ih sudu na čuvanje i o tome obavijestiti predavatelja preporučenim pismom.
 
 Učinak javnobilježničkog pologa
 
-#### Članak 113.
+### Članak 113.
 
 (1) Polog učinjen kod javnog bilježnika ima učinak sudskog pologa.
 
 (2) Odredbe ovog odsjeka primijenit će se na odgovarajući način i u slučaju u kojemu javni bilježnik kao sudski povjerenik preuzme ostavinske isprave, novac, vrijednosne papire ili dragocjenosti.
 
-## Glava šesta
-
-### ČUVANJE ISPRAVA I VOĐENJE POSLOVNIH KNJIGA
+## Glava šesta — ČUVANJE ISPRAVA I VOĐENJE POSLOVNIH KNJIGA
 
 Čuvanje isprava
 
-#### Članak 114.
+### Članak 114.
 
 (1) Javni bilježnik je dužan sve javnobilježničke isprave koje je sam sastavio te isprave koje je preuzeo čuvati pod ključem, odvojeno od drugih spisa.
 
@@ -1319,13 +1308,13 @@ Učinak javnobilježničkog pologa
 
 Proglašavanje izjave posljednje volje
 
-#### Članak 115.
+### Članak 115.
 
 Proglašavanje izjava posljednje volje koja se nalazi kod javnog bilježnika uredit će se posebnim zakonom.
 
 Registar i knjige javnog bilježnika
 
-#### Članak 116.
+### Članak 116.
 
 (1) Javni bilježnik mora uredno voditi ove upisnike i knjige:
 
@@ -1347,13 +1336,11 @@ Registar i knjige javnog bilježnika
 
 (3) Ministar će pravilnikom propisati oblik upisnika i knjiga iz stavka 1. ovoga članka, a ovlašten je propisati i druge upisnike i imenike. Tim pravilnikom može se pobliže urediti način čuvanja javnobilježničkih spisa, upisnika i imenika.
 
-## Glava sedma
-
-### POSTUPAK S JAVNOBILJEŽNIČKIM SPISIMA NAKON ŠTO SE UPRAZNI JAVNOBIIJEŽNIČKO MJESTO
+## Glava sedma — POSTUPAK S JAVNOBILJEŽNIČKIM SPISIMA NAKON ŠTO SE UPRAZNI JAVNOBIIJEŽNIČKO MJESTO
 
 Čuvanje i predaja javnobilježničkih spisa
 
-#### Članak 117.
+### Članak 117.
 
 (1) Predsjednik zakonom određenog suda na čijem se području nalazi sjedište javnog bilježnika, čim sazna da je mjesto javnog bilježnika upražnjeno, poduzet će bez odgađanja sve što je potrebno radi čuvanja javnobilježničkih spisa, predmeta, upisnika, knjiga, pečata i štambilja te radi davanja u sudski polog eventualne gotovine, papira i predmeta od vrijednosti i radi obavještavanja stranaka o tome.
 
@@ -1369,7 +1356,7 @@ Registar i knjige javnog bilježnika
 
 Nadomještavanje nestalih spisa
 
-#### Članak 118.
+### Članak 118.
 
 (1) Ako se prigodom postupka po članku 117. ovoga Zakona utvrdi da neki spis nedostaje, predsjednik zakonom određenog suda pozvat će bivšeg javnog bilježnika, zastupnika njegove ostavine odnosno bivšeg vršitelja dužnosti da spis donesu u određenom roku. Ako spis ne bude vraćen u određenom roku, o tome će se obavijestiti sudionici da bi mogli poduzeti potrebne mjere radi očuvanja svojih prava.
 
@@ -1383,13 +1370,13 @@ Nadomještavanje nestalih spisa
 
 Izdavanje isprava od strane suda
 
-#### Članak 119.
+### Članak 119.
 
 Zakonom određeni sud će na području kojega je sjedište javnog bilježnika, na temelju javnobilježničkih spisa koje čuva, odgovarajućom primjenom odredaba članka 93. do 108. ovoga Zakona, izdavati otpravke, izvode i potvrde, dozvoljavti razgledavanje spisa te vraćati isprave preuzete od javnog bilježnika.
 
 Postupak suda s raspoložbama za slučaj smrti
 
-#### Članak 120.
+### Članak 120.
 
 Raspoložbe za slučaj smrti koje su s drugim spisima predane zakonom određenom sudu, popisat će se i odvojeno čuvati po propisima za čuvanje važnih isprava kod suda. U javnobilježničkom će se imeniku zabilježiti broj i oznaka pod kojom se koja isprava čuva kod suda. O tome će sud obavijestiti osobu koja je tu raspoložbu učinila.
 
@@ -1397,17 +1384,15 @@ Izdavanje otpravaka, prijepisa, izvoda i potvrda od strane
 
 vršitelja dužnosti odnosno novog javnog bilježnika
 
-#### Članak 121.
+### Članak 121.
 
 Vršitelj dužnosti odnosno novi javni bilježnik izdavat će otpravke, prijepise, izvode i potvrde preuzetih spisa (članak 117.) pod svojim potpisom, s naznakom da ih izdaje vršitelj dužnosti odnosno nasljednik ranijeg javnog bilježnika.
 
-## Glava osma
-
-### JAVNOBILIEŽNIČKI PRISJEDNICI, VJEŽBENICI, ZAMJENICI I VRŠITELJI DUŽNOSTI JAVNOG BILJEŽNIKA
+## Glava osma — JAVNOBILIEŽNIČKI PRISJEDNICI, VJEŽBENICI, ZAMJENICI I VRŠITELJI DUŽNOSTI JAVNOG BILJEŽNIKA
 
 Jevnobilježnički prisjednici
 
-#### Članak 122.
+### Članak 122.
 
 (1) Javnobilježnički prisjednici su diplomirani pravnici koji su zaposleni u javnobilježničkom uredu i koji su upisani u imenik javnobilježničkih prisjednika koji vodi Komora.
 
@@ -1425,7 +1410,7 @@ Jevnobilježnički prisjednici
 
 Javnobilježnički vježbenici
 
-#### Članak 123.
+### Članak 123.
 
 (1) Diplomirani pravnici koji su zaposleni u javnobilježničkom uredu smatraju se za javnobilježničke vježbenike ako su upisani u imenik javnobilježničkih vježbenika, koji vodi Komora.
 
@@ -1441,13 +1426,13 @@ Javnobilježnički vježbenici
 
 Zaštita prava
 
-#### Članak 124.
+### Članak 124.
 
 Protiv odluke Ministarstva o izboru javnobilježničkog prisjednika, protiv odluke Komore kojom se odbija molba vježbenika za upis, protiv odluke Komore kojom uskraćuje potvrdu javnobilježničke vježbe te protiv odluke koje se određuje brisanje prisjednika odnosno vježbenika iz imenika, prisjednik odnosno vježbenik imaju pravo pokrenuti upravni spor, osim ako odluka o brisanju iz imenika nije donesena na temelju odluke disciplinskog tijela.
 
 Prisjednička i vježbenička prisega
 
-#### Članak 125.
+### Članak 125.
 
 (1) Javnobilježnički prisjednik i vježbenik dužni su pred predsjednikom Komore ili javnim bilježnikom koga na to ovlasti Komora položiti prisegu. Ta je prisega po sadržaju ista kao i javnobilježnička prisega (članak 15.).
 
@@ -1455,7 +1440,7 @@ Prisjednička i vježbenička prisega
 
 Prava i dužnosti javnobilježničkog prisjednika i vježbenika
 
-#### Članak 126.
+### Članak 126.
 
 (1) Javni bilježnik je dužan omogućiti javnobilježničkom prisjedniku i vježbeniku da rade na svim poslovima iz njegova djelokruga.
 
@@ -1481,7 +1466,7 @@ Prava i dužnosti javnobilježničkog prisjednika i vježbenika
 
 Staž za polaganje pravosudnog ispita
 
-#### Članak 127.
+### Članak 127.
 
 (1) Vrijeme provedeno u službi kod javnog bilježnika u svojstvu javnobilježničkog vježbenika izjednačva se u pogledu prava na polaganje pravosudnog ispita s odgovarajućom službom provedenom kod odvjetnika ili na sudu.
 
@@ -1489,7 +1474,7 @@ Staž za polaganje pravosudnog ispita
 
 Javnobilježnički zamjenici
 
-#### Članak 128.
+### Članak 128.
 
 (1) Ako je javni bilježnik na odsustvu, bolestan ili je iz drugih razloga spriječen da duže vrijeme (članak 129., stavak 4.) obavlja svoju službu, u poslovima iz njegova djelokruga zamijenit će ga javnobilježnički zamjenik.
 
@@ -1503,7 +1488,7 @@ Javnobilježnički zamjenici
 
 Odobrenje i postavljanje zamjenika
 
-#### Članak 129.
+### Članak 129.
 
 (1) Da bi zamjenik obavljao svoju službu, potrebno je prethodno odobrenje Ministarstva. Stoga je javni bilježnik dužan u svakom slučaju pismeno prijaviti Ministarstvu ime zamjenika i po mogućnosti vrijeme trajanja zamjene.
 
@@ -1519,7 +1504,7 @@ Odobrenje i postavljanje zamjenika
 
 Vršitelj dužnosti javnog bilježnika
 
-#### Članak 130.
+### Članak 130.
 
 (1) Ako javni bilježnik umre, bude premješten, udaljen iz službe, lišen zvanja ili ako se odrekne službe, Ministarstvo će po službenoj dužnosti, pošto zatraži o tome mišljenje Komore, odrediti vršitelja dužnosti između susjednih javnih bilježnika, ili javnobilježničkih prisjednika (članak 128. stavak 2.).
 
@@ -1531,7 +1516,7 @@ Vršitelj dužnosti javnog bilježnika
 
 Zajednička pravila za vršitelje dužnosti i zamjenike javnog bilježnika
 
-#### Članak 131.
+### Članak 131.
 
 (1) Postavljenim vršiteljima dužnosti i zamjenicima javnog bilježnika Ministarstvo izdaje uvjerenje o njihovoj službi i o tome je dužno obavijestiti zakonom određeni sud na području kojega se nalazi sjedište javnobilježničkog ureda.
 
@@ -1547,13 +1532,11 @@ Zajednička pravila za vršitelje dužnosti i zamjenike javnog bilježnika
 
 (7) Kada zamjenik odnosno vršitelj dužnosti preuzme dužnost, to će se zabilježiti u djelovodniku isprava. Isto tako u tom će se djelovniku zabilježiti i ponovno preuzimanje dužnosti od strane javnog bilježnika.
 
-## Glava deveta
-
-### JAVNOBILJEŽNIČKA KOMORA I NJENA TIJELA
+## Glava deveta — JAVNOBILJEŽNIČKA KOMORA I NJENA TIJELA
 
 Javnobilježnička komora
 
-#### Članak 132.
+### Članak 132.
 
 (1) Komoru sačinjavaju svi javni bilježnici koji su upisani u njene upisnike.
 
@@ -1565,7 +1548,7 @@ Javnobilježnička komora
 
 Skupština Komore
 
-#### Članak 133.
+### Članak 133.
 
 (1) Skupština Komore:
 
@@ -1597,7 +1580,7 @@ Skupština Komore
 
 Upravni odbor
 
-#### Članak 134.
+### Članak 134.
 
 (1) Upravni odbor:
 
@@ -1619,7 +1602,7 @@ Upravni odbor
 
 Predsjednik Komore
 
-#### Članak 135.
+### Članak 135.
 
 (1) Predsjednik Komore je ujedno predsjednik Skupštine i Upravnog odbora. Potpredsjednika Komore bira Upravni odbor između svojih članova.
 
@@ -1639,35 +1622,33 @@ Predsjednik Komore
 
 Nagrade i naknade članovima tijela Komore
 
-#### Članak 136.
+### Članak 136.
 
 Predsjednik i članovi Upravnog odbora obavljaju svoju službu besplatno, osim ako Statutom nije drugačije određeno. Oni imaju pravo na naknadu troškova koje su imali u obavljanju svoje službe. Odluku o tome donosi Upravni odbor Komore. Upravni odbor će donijeti i pravilnik o visini i naknadi putnih troškova.
 
 Pravna sredstva
 
-#### Članak 137.
+### Članak 137.
 
 Protiv odluka tijela Komore kojima se odlučuje o pravima i dužnostima javnih bilježnika, vršitelja dužnosti te javnobilježničkih zamjenika, prisjednika i vježbenika, ako nije što drugo određeno ovim Zakonom, moguće je voditi upravni spor.
 
 Izvješće o radu
 
-#### Članak 138.
+### Članak 138.
 
 Komora je dužna svake godine podnijeti Ministarstvu izvješće o svom radu te svoje stavove o stanju javnobilježničke službe i s time u vezi sa stanjem u pravosuđu i upravi te o mjerama koje bi trebalo poduzeti radi unapređenja toga stanja.
 
 Predstavnici jevnobilježničkih prisjednika vježbenika
 
-#### Članak 139.
+### Članak 139.
 
 Statutom Komore uređuje se broj, način izbora, prava i dužnosti predstavnika javnobilježničkih prisjednika i vježbenika u tijelima Komore.
 
-## Glava deseta
-
-### NADZOR NAD JAVNOBILJEŽNIČKOM SLUŽBOM
+## Glava deseta — NADZOR NAD JAVNOBILJEŽNIČKOM SLUŽBOM
 
 Ovlasti Ministarstva
 
-#### Članak 140.
+### Članak 140.
 
 (1) Nadzor nad radom javnobilježničke službe obavlja Ministarstvo. Ono može po službenoj dužnosti ili u povodu pritužbi zainteresiranih osoba odrediti pregled poslovanja Komore, pojedinih javnih bilježnika, vršitelja dužnosti, javnobilježničkih zamjenika prisjednika i vježbenika te poduzeti potrebne mjere da se utvrđene nepravilnosti otklone i sankcioniraju.
 
@@ -1687,7 +1668,7 @@ Ovlasti Ministarstva
 
 Ovlasti komore
 
-#### Članak 141.
+### Članak 141.
 
 (1) Nadzor nad radom i ponašanjem javnih bilježnika, vršitelja dužnosti te javnobilježničkih zamjenika, prisjednika i vježbenika obavljaju i Upravni odbor i predsjednik Komore.
 
@@ -1701,17 +1682,15 @@ Ovlasti komore
 
 Dužnost prijave nepravilnosti
 
-#### Članak 142.
+### Članak 142.
 
 Državna tijela su dužna, a stranke ovlaštene prijaviti Ministarstvu i Komori djela i propuste javnih bilježnika, vršitelja dužnosti te javnobilježničkih zamjenika, prisjednika i vježbenika.
 
-## Glava jedanaesta
-
-### ODSUSTVO I SPRIJEČENOST ZA RAD JAVNIH BILJEŽNIKA
+## Glava jedanaesta — ODSUSTVO I SPRIJEČENOST ZA RAD JAVNIH BILJEŽNIKA
 
 Odsustvo javnog bilježnika
 
-#### Članak 143.
+### Članak 143.
 
 (1) Javni bilježnik koji se namjerava, zbog službenog ili staleškog posla, udaljiti iz mjesta svoga sjedišta za vrijeme duže od osam dana mora za to dobiti odobrenje Komore.
 
@@ -1729,7 +1708,7 @@ Odsustvo javnog bilježnika
 
 Nesposobnost za rad
 
-#### Članak 144.
+### Članak 144.
 
 (1) Ako javni bilježnik zbog svog tjelesnog ili duševnog stanja postane trajnije nesposoban za obavljanje javnobilježničke službe, pozvat će ga Upravni odbor Komore ili ministar, ako to Upravni odbor ne učini u razumnom roku, uz navođenje razloga za to, da se odrekne javnog bilježništva. Ako javni bilježnik u određenom roku tako ne postupi, Upravni će odbor zatražiti od zakonom određenog suda na području kojega je sjedište javnog bilježnika da provode postupak radi utvrđenja trajnije nesposobnosti za obavljanjejavnobilježničke službe zbog tjelesnih i duševnih nedostataka (članak 21., stavak 1., točka 5.).
 
@@ -1737,13 +1716,11 @@ Nesposobnost za rad
 
 (3) Protiv odluke vijeća iz stavka 2. ovoga članka žalbu Vrhovnom sudu Republike Hrvatske mogu podnijeti javni bilježnik i zakonom određeni državni odvjetnik. O žalbi odlučuje javnobilježničko vijeće Vrhovnog suda Republike Hrvatske
 
-## Glava dvanaesta
-
-### DISCIPLINSKA ODGOVORNOST JAVNIH BILJEŽNIKA
+## Glava dvanaesta — DISCIPLINSKA ODGOVORNOST JAVNIH BILJEŽNIKA
 
 Disciplinska djela i kazne
 
-#### Članak 145.
+### Članak 145.
 
 (1) Ako javni bilježnik svojim ponašanjem u zvanju ili privatnom životu vrijeđa čast i ugled svog staleža ili dovede u pitanje povjerenje u javnobilježničku službu, ako povrijedi službenu dužnost, osobito ako nepropisno obavlja službene radnje ili ako ih svojom krivnjom odugovlači, kaznit će se zbog neurednosti ili disciplinskog prijestupa.
 
@@ -1789,7 +1766,7 @@ Disciplinska djela i kazne
 
 Kazne zbog neurednosti
 
-#### Članak 146.
+### Članak 146.
 
 (1) Kazne zbog neurednosti su:
 
@@ -1801,7 +1778,7 @@ Kazne zbog neurednosti
 
 Kazne za disciplinske prijestupe
 
-#### Članak 147.
+### Članak 147.
 
 (1) Kazne za disciplinske prijestupe javnih bilježnika jesu:
 
@@ -1837,13 +1814,13 @@ Kazne za disciplinske prijestupe
 
 Brisanje iz imenika
 
-#### Članak 148.
+### Članak 148.
 
 Javni bilježnik, vršitelj dužnosti te javnobilježnički zamjenik, prisjednik i vježbenik kome je izrečena disciplinska kazna oduzimanja službe brisat će se iz odgovarajućeg imenika Komore. Oni ne mogu biti ponovno postavljeni u isto zvanje prije isteka roka od deset godina od dana brisanja.
 
 Zastare gonjenja
 
-#### Članak 149.
+### Članak 149.
 
 (1) Zastarni rok za disciplinske neurednosti je dvije godine, a za disciplinske prijestupe pet godina.
 
@@ -1853,7 +1830,7 @@ Zastare gonjenja
 
 Disciplinska tijela
 
-#### Članak 150.
+### Članak 150.
 
 (1) Disciplinski postupak zbog neurednosti provodi i odluku donosi Upravni odbor Komore. Postupak pred Upravnim odborom pobliže se uređuje Statutom Komore. O žalbi protiv odluke Upravnog odbora cdlučuje javnobilježničko vijeće zakonom odredeno suda na području kojega je sjedište javnog bilježnika. Žalba se podnosi preko Komore.
 
@@ -1863,13 +1840,13 @@ Disciplinska tijela
 
 Disciplinski istražitelj
 
-#### Članak 151.
+### Članak 151.
 
 Disciplinski istražitelj u disciplinskom postupku zbog disciplinskog prijestupa je istražni sudac zakonom određenog suda ovlaštenog za osnivanje disciplinskih vijeća na području kojega je sjedište javnog bilježnika protiv kojega se postupak vodi, kojega za to odredi za kalendarsku godinu unaprijed predsjednik suda.
 
 Sastav javnobilježničkih disciplinskih vijeća
 
-#### Članak 152.
+### Članak 152.
 
 (1) Prvostupanjsko disciplinsko vijeće sastoji se od dva suca zakonom određenog suda i jednog javnog bilježnika, a drugostupanjsko javnobilježničko disciplinsko vijeće od dva suca Vrhovnog suda Republike Hrvatske i jednog javnog bilježnika.
 
@@ -1883,7 +1860,7 @@ Sastav javnobilježničkih disciplinskih vijeća
 
 Disciplinski postupak zbog disciplinskog prijestupa
 
-#### Članak 153.
+### Članak 153.
 
 (1) Prijedlog za pokretanje disciplinskog postupka ovlašteni su podnijeti Komora, zakonom određeni državni odvjetnik i oštećenik.
 
@@ -1895,7 +1872,7 @@ Disciplinski postupak zbog disciplinskog prijestupa
 
 Privremeno udaljenje iz službe
 
-#### Članak 154.
+### Članak 154.
 
 (1) Prvostupanjsko disciplinsko vijeće može, na prijedlog ili po službenoj dužnosti, u povodu već pokrenutog disciplinskog postupka, odnosno na prijedlog Upravnog odbora Komore ili zakonom određenog državnog odvjetnika ako disciplinski postupak još uvijek nije pokrenut, donijeti rješenje o privremenom udaljenju javnog bilježnika iz službe ako je to nužno radi zaštite časti i ugleda službe ili radi osiguranja interesa stranaka.
 
@@ -1915,7 +1892,7 @@ Privremeno udaljenje iz službe
 
 Izvršenje disciplinskih odluka
 
-#### Članak 155.
+### Članak 155.
 
 (1) Pravomoćne odluke donesene u disciplinskom postupku izvršava Komora.
 
@@ -1925,19 +1902,17 @@ Izvršenje disciplinskih odluka
 
 (4) Ako je pravomoćnom disciplinskom odlukom izrečena kazna privremenog oduzimanja prava na obavljanje službe ili oduzimanja prava na obavljanje službe, Komora će o tome obavijestiti Ministarstvo te zakonom određeni sud na području kojega je sjedište ureda javnog bilježnika, vršitelja dužnosti odnosno javnobilježničkog zamjenika, prisjednika ili vježbenika. O tim kaznama objavit će se i oglas u "Narodnim novinama". Tako će se postupiti i u slučaju privremenog udaljenja iz službe.
 
-## Glava trinaesta
-
-### JAVNI BILJEŽNICI KAO POVJERENICI SUDOVA I DRUGIH VLASTI
+## Glava trinaesta — JAVNI BILJEŽNICI KAO POVJERENICI SUDOVA I DRUGIH VLASTI
 
 Provedba ostavinske rasprave
 
-#### Članak 156.
+### Članak 156.
 
 Ovlasti javnih bilježnika u provedbi ostavinske rasprave uredit će se zakonom kojim će se urediti ostavinski postupak.
 
 Drugi poslovi koji se mogu povjeriti javnom bilježniku
 
-#### Članak 157.
+### Članak 157.
 
 (1) Sud ili koja druga vlast mogu javnom bilježniku povjeriti i ove poslove:
 
@@ -1957,7 +1932,7 @@ Drugi poslovi koji se mogu povjeriti javnom bilježniku
 
 Pravni položaj javnog bilježnika kao povjerenika
 
-#### Članak 158.
+### Članak 158.
 
 (1) Na javnog bilježnika kao povjerenika suda ili koje druge vlasti na odgovarajući se način primjenjuju pravila koja uređuju postupak u kojemu mu je povjereno obavljanje određenih poslova, osobito pravila o izuzeću, o dostavi, traženju pravne pomoći, podataka itd.
 
@@ -1965,29 +1940,27 @@ Pravni položaj javnog bilježnika kao povjerenika
 
 Nadzor nad radom javnog bilježnika kao povjerenika
 
-#### Članak 159.
+### Članak 159.
 
 Nadzor nad radom javnog bilježnika kao povjerenika određene vlasti obavlja ta vlast. Ta vlast je ovlaštena narediti javnom bilježniku da preda spise i po službenoj dužnosti prisilno izvrši takav nalog.
 
 Čuvanje spisa
 
-#### Članak 160.
+### Članak 160.
 
 Spisi o službenim radnjama koje je javni bilježnik obavio kao povjerenik suda ili koje druge vlasti čuvaju se u arhivi te vlasti odvojeno od ostalih spisa.
 
-## Glava četrnaesta
-
-### NAGRADA ZA RAD I NAKNADA TROŠKOVA
+## Glava četrnaesta — NAGRADA ZA RAD I NAKNADA TROŠKOVA
 
 Javnobilježnička tarifa
 
-#### Članak 161.
+### Članak 161.
 
 Javni bilježnik ima pravo na nagradu za rad i na naknadu troškova u obavljanju službenih radnji iz svoga djelokruga u skladu s javnobilježničkom tarifom koju donosi Komora u suglasnosti s Ministarstvom.
 
 Sporovi o nagradi i naknadi troškova
 
-#### Članak 162.
+### Članak 162.
 
 (1) Ako stranka ne prihvati obračun javnog bilježnika o visini nagrade i naknade troškova, javni bilježnik i stranka mogu zatražiti od zakonom određenog suda na području kojega je sjedište javnog bilježnika da odmjeri visinu nagrade odnosno naknade troškova. Protiv odluke suda dopuštena je žalba u roku od osam dana. Drugi pravni lijekovi nisu dopušteni.
 
@@ -1995,19 +1968,19 @@ Sporovi o nagradi i naknadi troškova
 
 Odgovornost za nagradu i naknadu troškova
 
-#### Članak 163.
+### Članak 163.
 
 Ako je više osoba sudjelovalo u sklapanju pravnog posla pred javnim bilježnikom ili od njega tražilo obavljanje kakve druge službene radnje, sve one solidarno odgovaraju javnom bilježniku za dužnu nagradu i troškove.
 
 Plaćenje nagrede i predujam
 
-#### Članak 164.
+### Članak 164.
 
 Javni bilježnik je ovlašten tražiti da mu se nagrada plati odmah po obavljenom poslu, a može tražiti i primjereni predujam.
 
 Zabilježba i potvrda o nagradi i troškovima
 
-#### Članak 165.
+### Članak 165.
 
 (1) Na svakoj ispravi i na svakom otpravku javni će bilježnik zabilježiti iznos zaračunate nagrade.
 
@@ -2015,7 +1988,7 @@ Zabilježba i potvrda o nagradi i troškovima
 
 Nagrada i troškovi javnog bilježnika kao povjerenika
 
-#### Članak 166.
+### Članak 166.
 
 (1) Nagradu javnog bilježnika kao povjerenika koje vlasti određuje ta vlast. Javni bilježnik ne smije se sporazumijevati sa strankama o tome niti sam naplatiti od stranaka svoju nagradu i troškove.
 
@@ -2025,23 +1998,21 @@ Nagrada i troškovi javnog bilježnika kao povjerenika
 
 Zastupanje pred sudom
 
-#### Članak 167.
+### Članak 167.
 
 Ako javni bilježnik zastupa kao punomoćnik stranke u postupku pred sudom ili drugim tijelom, ima pravo na nagrada i naknadu troškova po odvjetničkoj tarifi.
 
 Naplata javnobilježničkih pristojbi
 
-#### Članak 168.
+### Članak 168.
 
 Javni bilježnik je dužan voditi računa o tome da li su stranke uredno platile javnobilježničku pristojbu za službene radnje koje je on poduzeo. Javni bilježnik ne smije izdati strankama tražene isprave prije nego što dokažu da su uplatile dužnu pristojbu.
 
-## Glava petnaesta
-
-### PRIJELAZNE I ZAVRŠNE ODREDBE
+## Glava petnaesta — PRIJELAZNE I ZAVRŠNE ODREDBE
 
 Provedbeni propisi
 
-#### Članak 169.
+### Članak 169.
 
 (1) U roku od tri mjeseca od dana stupanja na snagu ovoga Zakona ministar će donijeti javnobilježničku taržfu, koja će biti na snazi sve dok Komora ne donese u suglasnosti s Ministarstvom novu javnobilježničku tarifu.
 
@@ -2055,7 +2026,7 @@ Provedbeni propisi
 
 Javnobilježnički ispiti
 
-#### Članak 170.
+### Članak 170.
 
 (1) Javnobilježnički ispit ovlaštene su polagati osobe koje imaju položeni pravosudni ispit i koje su nakon polaganja tog ispita radile dvije godine na pravnim poslovima u pravosuđu i odvjetništvu odnosno tri godine na drugim pravnim poslovima.
 
@@ -2069,7 +2040,7 @@ Javnobilježnički ispiti
 
 Priprema javnih bilježnika
 
-#### Članak 171.
+### Članak 171.
 
 (1) U roku od tri mjeseca po stupanju na snagu ovoga Zakona Ministarstvo je dužno organizirati posebne tečajeve radi pripreme kandidata za polaganje javnobilježničkog ispita.
 
@@ -2077,7 +2048,7 @@ Priprema javnih bilježnika
 
 Natječaj za imenovanje javnih bilježnika
 
-#### Članak 172.
+### Članak 172.
 
 (1) Ministarstvo je dužno raspisati prvi natječaj za imenovanje javnih bilježnika u roku od mjesec dana nakon što javnobilježnički ispit položi najmanje deset kandidata.
 
@@ -2085,7 +2056,7 @@ Natječaj za imenovanje javnih bilježnika
 
 Osnivanje Komore
 
-#### Članak 173.
+### Članak 173.
 
 (1) Komora će se osnovati kada na području Republike Hrvatske bude imenovano i počne raditi najmanje pedeset javnih bilježnika.
 
@@ -2093,7 +2064,7 @@ Osnivanje Komore
 
 Diplome o završenom prevnom fakultetu izven Republike Hrvatske
 
-#### Članak 174.
+### Članak 174.
 
 (1) Diploma o završenom pravnom fakultetu na području koje druge republike bivše SFR Jugoslavije, stečena prije 8. listopada 1991. izjednačena je po svom pravnom učinku s diplomom stečenom na kojem od pravnih fakulteta u Republici Hrvatskoj.
 
@@ -2101,13 +2072,13 @@ Diplome o završenom prevnom fakultetu izven Republike Hrvatske
 
 Nadripisari
 
-#### Članak 175.
+### Članak 175.
 
 Zabranjeno je svako obavljanje za nagradu i obrtimice poslova koji po ovom Zakonu spadaju u djelokrug javnih bilježnika.
 
 Stupanje na snagu zakona
 
-#### Članak 176.
+### Članak 176.
 
 Ovaj Zakon stupa na snagu osmoga dana od objave u "Narodnim novinama", a počet će se primjenjivati od 31. ožujka 1994. godine.
 
@@ -2172,3 +2143,531 @@ Predsjednik Zastupničkog doma Sabora
 Stjepan Mesić, v. r.
 
 ![](https://narodne-novine.nn.hr/../../TipkaPočStr.GIF) ![](https://narodne-novine.nn.hr/../../TSluzGl.GIF) ![](https://narodne-novine.nn.hr/../../TPretra.GIF) ![](https://narodne-novine.nn.hr/../../TElPosta.GIF)
+
+## Zakon o izmjenama i dopunama Zakona o javnom bilježništvu (NN 16/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/16/652*
+
+HRVATSKI SABOR
+
+652
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM BILJEŽNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o jav­nom bilježništvu, kojega je Hrvatski sabor donio na sjednici 26. siječnja 2007. godine.  
+Klasa: 011-01/07-01/02  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 31. siječnja 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM BILJEŽNIŠTVU**
+
+Glava prva  
+OSNOVNE ODREDBE  
+Sadržaj zakona  
+Članak 1.
+
+U Zakonu o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94. i 162/98.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+*»Članak 1.a*
+
+Pojedini izrazi upotrijebljeni u ovom Zakonu imaju ovo značenje:  
+1. stranka je svaka osoba koja od javnog bilježnika zahtijeva:  
+– sastavljanje javnobilježničke isprave o pravnim poslovima i izjavama u kojima ona sudjeluje,  
+– sastavljanje zapisnika o pravnim radnjama koje obavi ili kojima je bio nazočan javni bilježnik,  
+– izdavanje potvrde o činjenicama koje posvjedočuje javni bilježnik,  
+– poduzimanje bilo koje radnje iz nadležnosti javnog bilježnika utvrđene ovim ili drugim zakonom.  
+2. sudionik je stranka iz točke 1. ovoga članka i svaka druga osoba koja kod javnog bilježnika sudjeluje pri poduzimanju bilo koje radnje iz nadležnosti javnog bilježnika (zastupnici i punomoćnici stranaka, svjedoci istovjetnosti, svjedoci akta, tumači, osobe povjerenja, vještaci i dr.).«
+
+### Članak 2.
+
+Naslov iznad članka 3. mijenja se i glasi:  
+»Vrste javnobilježničkih isprava, javnost i ovršnost javnobilježničkih isprava«.
+
+### Članak 3.
+
+U članku 6. stavak 1. mijenja se i glasi:  
+»(1) Javni bilježnik ima svoj službeni pečat i žig kojima ovjerava isprave koje sastavlja ili pregleda u povodu radnji koje poduzima u obavljanju svoje službe.«  
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:  
+»(2) Javni bilježnik može imati štambilje koje će koristiti radi jednostavnijeg pisanja teksta same ovjere.«  
+Dosadašnji stavak 2. postaje stavak 3.  
+U dosadašnjem stavku 3., koji postaje stavak 4., riječ: »štambilju« zamjenjuje se riječju: »žig«.
+
+### Članak 4.
+
+U članku 9. dodaje se stavak 2. koji glasi:  
+»(2) Komora se brine o čuvanju ugleda i časti javnih bilježnika te štiti njihova prava i interese, a odlučuje i o njihovim pravima i obvezama te o odgovornostima sukladno odredbama ovoga Zakona.«
+
+### Članak 5.
+
+U članku 13. stavku 1. točka 9. mijenja se i glasi:  
+»9. koja je dala izjavu da će, ako bude imenovana za javnog bilježnika, osigurati opremu i prostorije koje su prema kriterijima što ih je utvrdilo Ministarstvo, potrebni i primjereni za obavljanje javnobilježničke službe.«  
+U stavku 2. podstavku 2. riječi: »zbog krivičnog djela« zamjenjuju se riječima: »zbog kaznenog djela«, a riječi: »zbog inače nečasnog krivičnog djela« zamjenjuju se riječima: »zbog inače nečasnog kaznenog djela«.
+
+### Članak 6.
+
+U članku 14. stavku 8. iza riječi: »Za« dodaju se riječi: »javne bilježnike,«, a iza riječi: »prisjednike« veznik »i« zamjenjuje se zarezom i dodaju se riječi: »savjetnike i«.  
+Stavak 10. briše se.
+
+### Članak 7.
+
+U članku 16. stavku 2. riječi: »dvadeset tisuća stanovnika« zamjenjuju se riječima: »petnaest tisuća stanovnika«.  
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:  
+»(3) Za područje općinskog suda u čijem je sjedištu i sjedište trgovačkog suda, uz kriterije iz stavka 2. ovoga članka, utvrđuje se još jedno javnobilježničko mjesto.  
+(4) Za područje općinskog suda na svakih 200 registriranih pravnih osoba (trgovačkih društava, banaka ili njihovih filijala, osiguravajućih društava ili njihovih filijala, udruga, zaklada ili drugih pravnih osoba) ili obrtničkih radnji koje obavljaju registriranu djelatnost i ostvaruju financijsko poslovanje preko žiroračuna u pravilu se utvrđuje još jedno javnobilježničko mjesto.«  
+U dosadašnjem stavku 3., koji postaje stavak 5., iza riječi: »i pravnog prometa« stavlja se zarez i dodaju riječi: »i povjereni poslovi (ostavine) i ovrhe na temelju vjerodostojne isprave«.  
+Dosadašnji stavak 4. postaje stavak 6.
+
+### Članak 8.
+
+Naslov iznad članka 18. mijenja se i glasi:  
+»Pečat i potpis«.
+
+### Članak 9.
+
+Članak 18. mijenja se i glasi:  
+»(1) Poslije polaganja prisege javni bilježnik je dužan bez odgađanja pribaviti pečate i žig.  
+(2) Pečati i žig javnog bilježnika sadrže: naziv »Republika Hrvatska«, grb Republike Hrvatske, naziv »javni bilježnik«, osobno ime javnog bilježnika, i naziv sjedišta javnog bilježnika.  
+(3) Otiske pečata i žiga te potpisa javnog bilježnika odobrava i ovjerava predsjednik zakonom određenog suda na čijem području javni bilježnik ima svoje sjedište. Ovjereni otisci pečata i žiga te pot­pis položit će se kod zakonom određenog suda na području kojega javni bilježnik ima svoje sjedište. Jedan primjerak ovjerene isprave o otiscima pečata i žiga te o pohrani potpisa, zakonom određeni sud, dostavit će radi pohrane Komori.  
+(4) Javni bilježnik ima najmanje jedan službeni pečat i žig. Javni bilježnik određuje potreban broj pečata i žigova s grbom Republike Hrvatske koje će u svom radu koristiti. Pečate i žigove javni bilježnik može upotrebljavati samo za radnje koje je obavio u granicama svojih službenih ovlaštenja.  
+(5) Javni bilježnik je dužan svoje pečate i žigove čuvati s poseb­nom pažnjom, a ako ih izgubi ili mu nestanu na drugi način, dužan je o tome odmah obavijestiti zakonom određeni sud na području kojem je njegovo sjedište i Komoru, i to brzojavno ili dalekopisačem te neposrednom predajom podneska ili preporučenim pismom.  
+(6) O gubitku pečata i žiga sud će bez odgode objaviti oglas u »Narodnim novinama«. Taj će sud poništiti i naknadno pronađeni pečat ili žig.  
+(7) Odobrenje i ovjera otiska novog pečata ili žiga provode se po postupku predviđenom u stavku 3. ovoga članka, a novi pečat ili žig mora se od izgubljenog razlikovati umetanjem sljedećega slobodnoga rednog broja nakon broja pečata ili žiga istog promjera za koji mu je izdano odobrenje. Isti će se postupak provesti i za izmjenu pečata i žiga zbog oštećenja.  
+(8) Postupak iz stavka 7. ovoga članka je hitan.«
+
+### Članak 10.
+
+U članku 19. stavku 1. točki 4. riječ: »krivično« zamjenjuje se sa riječju: »kazneno«, a riječi: »zbog drugog nečasnog krivičnog djela« zamjenjuju se riječima: »zbog teškog i osobito nečasnoga kaznenog djela«.
+
+### Članak 11.
+
+U članku 20. stavku 1. i stavku 2. riječ: »rok« zamjenjuje se riječju: »dan«.
+
+### Članak 12.
+
+U članku 21. stavak 3. brojka »5.« briše se.
+
+### Članak 13.
+
+U članku 24. stavak 1. mijenja se i glasi:  
+»(1) Ako javnom bilježniku prestane služba ili ako bude imenovan za javnog bilježnika na području drugog zakonom određenog suda, njegove će spise i knjige, te isprave koje su mu službeno predane preuzeti na čuvanje zakonom određeni sud.«  
+U stavku 4. riječi: »ili premještaja svog sjedišta« brišu se.
+
+### Članak 14.
+
+Članak 26. mijenja se i glasi:  
+»Ako je služba nekog javnog bilježnika prestala, a drugi već postavljeni javni bilježnik može se useliti u poslovne prostorije razriješenoga javnog bilježnika, dužan je prije useljenja o svojoj namjeri i datumu useljenja izvijestiti Ministarstvo. U tom se slučaju neće primjenjivati odredbe ovoga Zakona i odredbe provedbenih propisa glede utvrđivanja uvjeta kojima moraju udovoljiti oprema i prostorije za obavljanje javnobilježničke službe.«
+
+### Članak 15.
+
+U članku 27. stavku 1. točka 2. mijenja se i glasi:  
+»(2) ako je protiv javnog bilježnika pokrenut postupak za razrješenje iz razloga navedenih u članku 21. ovoga Zakona,«.  
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:  
+»(2) Privremeno udaljenje iz službe po odredbama stavka 1. ovoga članka traje:  
+1. za slučajeve iz stavka 1. točke 1. ovoga članka, do okončanja prvostupanjskog postupka pred sudom, ako je odlukom suda prvoga stupnja utvrđeno da ne postoje razlozi za oduzimanje poslovne sposobnosti, a u protivnom do pravomoćnog okončanja sudskog postupka za lišenje poslovne sposobnosti,  
+2. za slučajeve iz stavka 1. točke 2. ovoga članka, do konačnosti rješenja o razrješenju.  
+3. za slučajeve iz stavka 1. točke 3. ovoga članka samo ako zbog toga protiv javnog bilježnika bude istodobno pokrenut stegovni postupak i predloženo izricanje stegovne kazne privremenog oduzimanja prava na obavljanje službe u trajanju do jedne godine ili kazne oduzimanja prava na obavljanje službe, do pravomoćnosti disciplinske odluke.«  
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### Članak 16.
+
+U članku 28. stavka 1. riječ: »zastupnik« zamjenjuje se riječima: »vršitelj dužnosti«.
+
+### Članak 17.
+
+U članku 29. stavku 1. iza riječi: »Komore« riječi: »i javnog bilježnika« brišu se.  
+U stavku 2. iza riječi: »ured« stavlja se točka, a riječi: »prebivalište, osim ako mu Ministarstvo ne dopusti da stanuje u kojem drugom mjestu« brišu se.
+
+### Članak 18.
+
+U članku 30. stavku 2. i stavku 3. riječ »sjedišta« zamjenjuje se riječju: »područja«.
+
+### Članak 19.
+
+U članku 34. stavak 4. briše se.
+
+### Članak 20.
+
+U članku 35. dodaje se stavak 2. koji glasi:  
+»(2) Sastavljati i ovjeravati prijevode, uz prethodno odobrenje Ministarstva, može i javnobilježnički prisjednik, savjetnik i vježbenik, koji je istodobno i stalni sudski tumač za neki strani jezik.«
+
+### Članak 21.
+
+U članku 37. stavku 5. na kraju rečenice, umjesto točke stavlja se zarez i dodaju riječi: »a niti bilo kojem tijelu vlasti dostavljati primjerke svojih isprava bez njihova pisana zahtjeva za dostavu pojedinačne i jasno određene javnobilježničke isprave.«
+
+### Članak 22.
+
+U članku 44. stavku 1. riječi: »te svjedoka ako su i oni« zamjenjuju se riječima: »koji su«.
+
+### Članak 23.
+
+U članku 46. stavku 1. riječ: »ispod« zamjenjuje se riječju: »iznad«.
+
+### Članak 24.
+
+U članku 48. stavku 2. riječi: »svojim pečatom pričvrstiti« zamjenjuju se riječima: »pričvrstiti stavljanjem naljepnice, s otiskom žiga na ispravi«.
+
+### Članak 25.
+
+U članku 49. stavak 1. mijenja se i glasi:  
+»(1) Isprava koju je sastavio javni bilježnik bez njegova pečata i potpisa nema snagu javne isprave.«
+
+### Članak 26.
+
+Članak 53. mijenja se i glasi:  
+»(1) Javnobilježnički akt potreban je osobito za pravnu valjanost:  
+1) ugovora o raspolaganju imovinom maloljetnih osoba i osoba kojima je oduzeta poslovna sposobnost,  
+2) darovnih ugovora bez predaje stvari u neposredan posjed daroprimca,  
+3) svih pravnih poslova među živima koje osobno poduzimaju gluhi koji ne znaju čitati ili nijemi koji ne znaju pisati. Time se ne dira u odgovarajuće propise mjeničnog i čekovnog prava.  
+(2) Odredbe stavka 1. točke 3. ovoga članka ne odnose se na pravne poslove čija vrijednost ne prelazi 50.000,00 kuna.  
+(3) Odredbama stavka 1. ovoga članka ne dira se u odredbe ovoga ili drugog zakona po kojima je za valjanost pravnog posla potrebno da ispravu o njima sastavi sud ili javni bilježnik.«
+
+### Članak 27.
+
+U članku 54. stavak 4. mijenja se i glasi:  
+»(4) Ako obveza ovisi o uvjetu ili roku koji nije određen kalendarski, za ovršnost javnobilježničkog akta, ako se stranke u tom javnobilježničkom aktu nisu drugačije dogovorile, potrebno je da se javnom ispravom ili ispravom na kojoj je ovjeren potpis vjerovnika, odnosno, ako to nije moguće, pravomoćnom presudom donesenom u parničnom postupku utvrdi da je nastupio uvjet ili da je protekao rok.«  
+Stavak 6. mijenja se i glasi:  
+»(6) Isti učinak kao i isprava iz stavka 1. ovoga članka ima i privatna isprava koju je javni bilježnik potvrdio (solemnizirao). Ako privatna isprava ne sadrži izjavu obveznika iz stavka 1. ovoga članka ili je nejasna, takvu izjavu na zahtjev obveznika, u nastavku teksta privatne isprave, ispod koje će obveznik staviti svoj potpis, a prije solemnizacije, može unijeti i javni bilježnik.«
+
+### Članak 28.
+
+U članku 55. stavak 1. mijenja se i glasi:  
+»(1) Ovršnost javnobilježničkog akta može se pobijati po odred­bama Ovršnog zakona.«  
+U stavku 2. riječi: »odgoditi izvršenje« zamjenjuju se riječima: »obustaviti ovrhu«, a riječ: »izvršan« zamjenjuje se riječju: »ovršan«.
+
+### Članak 29.
+
+Članak 56. mijenja se i glasi:  
+»(1) Osim zakonom određenih, svi drugi ugovori mogu se pred javnim bilježnikom sastaviti u obliku javnobilježničkog akta, i bez istodobno nazočnosti svih ugovaratelja, tako da javni bilježnik odvojeno utvrdi ponudu i prihvat. U ponudi se mora navesti određeno vrijeme, kalendarski utvrđeno, do kojega se i prihvat mora utvrditi javnobilježničkim aktom. Ako se to ne učini u određenom roku, smatrat će se da ugovor nije sklopljen u obliku javnobilježničkog akta.  
+(2) Pravno je valjan i javnobilježnički akt sastavljen u nazoč­nosti samo nekih ugovaratelja ako je u aktu naznačeno da svi ugovaratelji nisu bili istodobno nazočni, uz uvjet da su svi ugovaratelji akt potpisali pred javnim bilježnikom koji ga je sastavio, te da su u odnosu na sve ugovaratelje u potpunosti poštivane odredbe članka 57. i 58. ovoga Zakona.  
+(3) Akte o ponudi i prihvatu ne mora sastaviti isti javni bilježnik. U takvom slučaju morat će drugi javni bilježnik svoj akt o prihvatu ponude poslati na čuvanje onom javnom bilježniku koji je utvrdio ponudu.«
+
+### Članak 30.
+
+U članku 57. posljednja rečenica mijenja se i glasi:  
+»Prilozi će se pročitati samo na zahtjev stranaka, što se utvrđuje i u samom javnobilježničkom aktu«.
+
+### Članak 31.
+
+U članku 59. stavku 1. iza prve rečenice dodaje se rečenica koja glasi:  
+»Za zasnivanje osiguranja tražbine uređene zakonom, dovoljno je da privatnu ispravu potvrdi obveznik.«  
+U stavku 3. riječi: »i propisima članka 69. ovoga Zakona o sadržaju javnobilježničkog akta« zamjenjuju se riječima: »i propisima o sadržaju javnobilježničkog akta (članka 69. stavka 1. točke 2., 4. i 6.), te ako su ju potpisali sudionici iz članka 69. stavka 1. točke 2.) ovoga Zakona.«
+
+### Članak 32.
+
+U članku 61. stavak 1. mijenja se i glasi:  
+»(1) Svjedoci istovjetnosti moraju biti punoljetne osobe koje javni bilježnik osobno poznaje ili čiju istovjetnost može utvrditi na temelju neke od isprava navedenih u članku 60. ovoga Zakona.«  
+U stavku 2. riječi: »poslovni svjedok« zamjenjuju se riječima: »svjedok akta«.
+
+### Članak 33.
+
+Naslov iznad članka 62. mijenja se i glasi: »Svjedoci akta (Pozvani svjedoci)«.  
+U članku 62. stavak 1. mijenja se i glasi:  
+»(1) Dva su svjedoka potrebna pri sastavljanju javnobilježničkog akta kad je koji od sudionika gluh, nijem ili gluhonijem.«  
+U stavku 3. briše se točka i dodaju se riječi: »ili javnobilježnički prisjednik kod drugoga javnog bilježnika«.
+
+### Članak 34.
+
+Članak 65. mijenja se i glasi:  
+»(1) Ako zakon što drugo ne određuje, moraju svjedoci akta ili drugi javni bilježnik, ili javnobilježnički prisjednik kod drugoga javnog bilježnika, biti nazočni najkasnije kada stranke javnobiljež­nički akt potpisuju, što će biti naznačeno u aktu, osim ako stranke izričito ne zahtijevaju da isti budu nazočni i prilikom čitanja akta.  
+(2) Ako svjedoci akta ili drugi javni bilježnik, ili javnobilježnički prisjednik kod drugoga javnog bilježnika, nisu bili nazočni u vrijeme čitanja javnobilježničkog akta, stranke pred njima prije potpisivanja javnobilježničkog akta moraju izjaviti da su akt pročitale ili da im je bio pročitan i da odgovara njihovoj volji, što će se naznačiti u javnobilježničkom aktu.  
+(3) Ako je koja od stranaka gluha ili nijema, svjedoci akta ili drugi javni bilježnik, ili javnobilježnički prisjednik kod drugoga javnog bilježnika, moraju biti nazočni kada stranke daju izjave o raspoložbama koje će se unijeti u javnobilježnički akt, zatim prigodom čitanja cijelog akta strankama, ili kad ga oni sami čitaju te onda kada stranke izjavljuju svoj pristanak i kad potpisuju javnobilježnički akt, što će se sve naznačiti u javnobilježničkom aktu.«
+
+### Članak 35.
+
+U članku 68. stavku 1. riječi: »pored svjedoka akta (članak 62.)« brišu se, a riječi: »i prisegnuti« zamjenjuju se riječju: »stalni«.  
+Stavak 3. mijenja se i glasi:  
+»(3) Tumač nije potreban ako javni bilježnik ili prisjednik vladaju jezikom kojim se služi i sudionik.«  
+Stavak 4. briše se.  
+Dosadašnji stavak 5. postaje stavak 4.
+
+### Članak 36.
+
+U članku 69. stavku 1. točka 2) mijenja se i glasi:  
+»2) podatke o sudionicima: o fizičkim osobama (osobno i rođeno ime, adresa prebivališta, datum rođenja), a o pravnim osobama (matični broj subjekta – MBS, iz sudskog registra ili broj drugog registra i sjedište),«.
+
+### Članak 37.
+
+U članku 74. stavak 1. mijenja se i glasi:  
+»(1) Javni bilježnik je ovlašten potvrditi da se prijepis, odnosno, preslika bilo koje isprave slaže s njenim izvornikom, odnosno s ovjerenim prijepisom ili ovjerenom preslikom izvorne isprave, a ako ne razumije jezik na kome je izvornik, odnosno ovjereni prijepis ili ovjerena preslika isprave napisana, potvrdit će samo onda ako je sam obavio prijepis, odnosno, presliku te isprave.«  
+Stavak 3. mijenja se i glasi:  
+»(3) Javni bilježnik mora točno usporediti prijepis isprave s njezinim izvornikom i ako utvrdi da se slažu, potvrdit će to na samom prijepisu, a uz to će navesti da je to prijepis izvorne isprave, ili da je to prijepis ovjerenog prijepisa izvorne isprave, čime je pisan izvornik isprave, odnosno, ovjereni prijepis izvorne isprave (rukopisom, strojopisom, drugim mehaničkim ili kemijskim sredstvom, odnosno, olovkom ili perom), a ako se pri pisanju izvorne ili pri pisanju ovjere te isprave koristila i štambilja i ta će se činjenica također navesti u potvrdi. U potvrdi će se navesti i osobno ime i adresa prebivališta stranke koja je izvornik, odnosno ovjereni prijepis izvorne isprave pokazala javnom bilježniku, a ako stranka tu ispravu nije donijela sa sobom, javni će bilježnik u potvrdi navesti gdje se ta isprava nalazila kad je njezin prijepis s njome uspoređivao.«  
+Stavak 6. briše se.  
+U dosadašnjem stavku 7., koji postaje stavak 6., riječ: »fotokopija« zamjenjuje se s riječi: »preslika«.  
+Iza stavka 6. dodaje se stavak 7. koji glasi:  
+»(7) Kad se ovjerava preslika izvorne isprave, odnosno preslika ovjerenog prijepisa ili ovjerene preslike izvorne isprave, u potvrdi će se samo navesti da je to preslika izvorne isprave, odnosno preslika ovjerenog prijepisa ili preslika ovjerene preslike izvorne isprave, te osobno ime i adresa prebivališta stranke, koja je javnom bilježniku pokazala ispravu čija se preslika ovjerava, a ako stranka izvornu ispravu nije donijela sa sobom, javni će bilježnik u potvrdi navesti gdje se ta isprava nalazila u trenutku kada je s njom uspoređivala njezinu presliku.«
+
+### Članak 38.
+
+U članku 75. stavak 2. briše se.
+
+### Članak 39.
+
+U članku 76. stavku 1. iza riječi: »Javni bilježnik« stavlja se zarez i dodaju riječi: »javnobilježnički prisjednik, savjetnik i vježbenik«.  
+Stavak 3. briše se.
+
+### Članak 40.
+
+U članku 77. stavku 3. iza postojeće rečenice dodaje se rečenica koja glasi:  
+»Ostali primjerci istog pismena ovjeravaju se po pravilima za ovjeru prijepisa (članak 74.).«
+
+### Članak 41.
+
+U članku 82. stavku 1. riječi: »70. do 81.« zamjenjuje se riječima: »59. i 74. do 81.«, a riječi: »(članak 74. stavak 6., članak 75. stavak 2., članak 76. stavak 3.)« brišu se.
+
+### Članak 42.
+
+U članku 83. stavku 1. prva rečenica, mijenja se i glasi:  
+»Javni bilježnik može, na zahtjev jedne stranke koja time želi postići kakav učinak, drugoj stranci na naznačenoj adresi priopćiti usmenu ili pisanu opomenu, otkaz, ponudu i drugu izjavu.«
+
+### Članak 43.
+
+U članku 85. stavak 3. mijenja se i glasi:  
+»(3) Javni će bilježnik, sukladno odredbama članka 60. i 61. ovoga Zakona, kad je god to moguće utvrditi istovjetnost stranke koja je zatražila službenu radnju javnobilježničkog priopćenja, a i stranke kojoj je to priopćenje namijenjeno, i u tom će slučaju, u zapisniku i u potvrdi navesti način na koji je istovjetnost utvrđena.«
+
+### Članak 44.
+
+Članak 86. mijenja se i glasi:  
+»Ako javni bilježnik u postupanju po članku 83. stavku 3. ovoga Zakona ne nađe na označenom mjestu stranku kojoj treba priopćiti izjavu ili ako mu ona ne dopusti pristup, ili ako ga odbije saslušati, javnobilježničku radnju priopćenja izjave obavit će upućivanjem onoga što joj je imao priopćiti, u pisanom obliku preporučenom poštanskom pošiljkom.«
+
+### Članak 45.
+
+U članku 89. stavak 2. briše se.  
+Dosadašnji stavak 3., koji postaje stavak 2., mijenja i glasi:  
+»(2) Javni će bilježnik, sukladno odredbama članka 60. i 61. ovoga Zakona, utvrditi istovjetnost osobe koja je predsjedala sjednici, a drugih osoba koje su bile nazočne samo na njihov zahtjev i u zapisnik će se navesti kako je njihova istovjetnost utvrđena.«
+
+### Članak 46.
+
+U članku 93. stavak 1. mijenja se i glasi:  
+»(1) Dok javni bilježnik čuva isprave, na zahtjev bilo koje stranke koja je kod njega sudjelovala u sastavljanju i ovjeravanju tih isprava, ili pak njezinom nasljedniku, ako ovim Zakonom nije drugačije određeno, izdat će se otpravak ili prijepis isprave, ili izvod iz isprave, odnosno odgovarajuća potvrda o činjeničnom stanju koje proizlazi iz isprave. Osobama u svezi kojih je isprava sastavljena ili ovjerena, koje kao stranke nisu neposredno sudjelovale kod javnog bilježnika, a i trećim osobama, javni bilježnik je ovlašten takvu ispravu izdati samo po odobrenju one stranke koja je kod njega sudjelovala u sastavljanju i ovjeravanju isprave ili pak po odobrenju njezinog nasljednika. Javni bilježnik, bez ovjere isprave, strankama ne smije izdavati prijepise (preslike) isprava koje sam čuva.«
+
+### Članak 47.
+
+U članku 94. stavku 1. riječ u zagradi: »obični« briše se.
+
+### Članak 48.
+
+U članku 97. stavku 2. iza riječi: »ovjereni« riječi: »i obični« brišu se.  
+U stavku 3. riječi: »iz stavka 1.« zamjenjuju se riječima: »iz stavka 2.«.
+
+### Članak 49.
+
+U članku 101. stavku 1. i 2. riječi: »potpuni otpravak« zamjenjuje se riječju: »prijepis«.
+
+### Članak 50.
+
+U članku 108. stavku 3. riječi: »(članak 140.)« zamjenjuju se riječima: »(članak 141.)«.
+
+### Članak 51.
+
+U nadnaslovu i naslovu iznad članka 109. iza riječi: »novca« veznik »i« zamjenjuje se zarezom, a iza riječi: »vrijednosnih papira« dodaju se riječi: »i dragocjenosti«.  
+U članku 109. stavku 3. riječi: »odredbe stavka 1.« zamjenjuju se riječima: »odredbe stavka 2.«.
+
+### Članak 52.
+
+U naslovu iznad članka 110. iza riječi: »novca«, veznik »i« zamjenjuje se zarezom, a iza riječi: »vrijednosnih papira« dodaju se riječi: »i dragocjenosti«.  
+U članku 110. stavku 1. iza riječi: »vrijednosne papire« dodaju se riječi: »i dragocjenosti«.
+
+### Članak 53.
+
+U naslovu iznad članka 111. iza riječi: »novca«, veznik »i« zamjenjuje se zarezom, a iza riječi: »vrijednosnih papira« dodaju se riječi: »i dragocjenosti«.  
+U članku 111. stavku 1. iza riječi: »preuzeti novac« veznik »i« zamjenjuje se zarezom, a iza riječi: »vrijednosne papire« dodaju se riječi: »i dragocjenosti«.
+
+### Članak 54.
+
+U naslovu iznad članka 112. iza riječi: »novca«, veznik »i« zamjenjuje se zarezom, a iza riječi: »vrijednosnih papira« dodaju se riječi: »i dragocjenosti«.
+
+### Članak 55.
+
+Članak 116. mijenja se i glasi:  
+»(1) Ministar pravosuđa će javnobilježničkim poslovnikom propisati vrste, oblik i sadržaj upisnika i knjiga koje vodi javni bilježnik.  
+(2) Prije stavljanja u uporabu upisnici i knjige iz stavka 1. ovoga članka, osim imenika, moraju biti povezani, njihovi listovi rednim brojevima označeni, jamstvenikom prošiveni te pečatom Komore ovjereni. Upisi se unose bez odgađanja, redom kako stigne koji pred­met, čitko i bez ostavljanja praznih rubrika. Brisanja unesenih podataka nisu dozvoljena, a ispravak upisa pogrešnog podatka vrši se precrtavanjem vodoravnom crtom, tako da precrtani podatak ostane čitak. Ispunjene upisnike i knjige, prije odlaganja u svoj arhiv, javni će bilježnik zaključiti podvlačenjem ravne crte na zadnjoj stranici knjige iza posljednjeg upisa, navođenjem ukupnog broja izvršenih upisa te potpisati i staviti svoj pečat.«
+
+### Članak 56.
+
+U članku 117. stavku 2. u drugoj rečenici iza riječi: »Komoru«, dodaju se riječi: »i Ministarstvo«, a treća rečenica briše se.
+
+### Članak 57.
+
+U članku 118. stavak 3. mijenja se i glasi:  
+»(3) Ako se utvrdi da upisnici i druge knjige nisu uredno vođene, javni bilježnik ili vršitelj dužnosti koji je preuzeo spise popunit će ih, ukoliko je to moguće.«
+
+### Članak 58.
+
+Naslov »Glave osme« mijenja se i glasi:  
+»JAVNOBILJEŽNIČKI PRISJEDNICI, SAVJETNICI, VJEŽBENICI, ZAMJENICI I VRŠITELJI DUŽNOSTI JAVNOG BILJEŽNIKA«.
+
+### Članak 59.
+
+U članku 122. iza stavka 1. dodaje se novi stavak 2. koji glasi:  
+»(2) U javnobilježničkom uredu mogu biti zaposlena najviše dva javnobilježnička prisjednika.«  
+U dosadašnjem stavku 2., koji postaje stavak 3., u drugoj rečenici riječi: »i 3. « brišu se.  
+Dosadašnji stavci 3., 4., 5., 6. i 7. postaju stavci 4., 5., 6., 7. i 8.
+
+### Članak 60.
+
+U članku 123. stavku 2. riječi: »i stavka 3.« brišu se.  
+Iza stavka 6. dodaju se stavci 7. i 8. koji glase:  
+»(7) Ako vježbenik nakon položenoga pravosudnog ispita nastavi s radom ili zasnuje radni odnos u javnobilježničkom uredu, smatrat će se javnobilježničkim savjetnikom. Ova činjenica upisat će se u Imenik javnobilježničkih savjetnika koji ustroji Komora.  
+(8) U javnobilježničkom uredu može biti zaposlen samo jedan javnobilježnički savjetnik.«
+
+### Članak 61.
+
+Naslov iznad članka 126. mijenja se i glasi: »Prava i dužnosti javnobilježničkih prisjednika, savjetnika i vježbenika«.  
+Članak 126. mijenja se i glasi:  
+»(1) Javni bilježnik je dužan omogućiti javnobilježničkom prisjedniku, savjetniku i vježbeniku da rade na svim poslovima iz njihovog djelokruga određenog ovim Zakonom.  
+(2) Javnobilježnički prisjednik može obavljati sve poslove koje je po zakonu ovlašten obavljati javni bilježnik, a Komora mu, samo na zahtjev javnog bilježnika, može ograničiti obavljanje pojedinih poslova iz djelokruga poslova javnog bilježnika. Protiv rješenja Komore kojim se javnobilježničkom prisjedniku ograničava obavljanje pojedinih poslova iz djelokruga poslova javnog bilježnika nije dopušten pravni lijek, ali se može pokrenuti upravni spor.  
+(3) Javnobilježnički vježbenik može umjesto javnog bilježnika kod kojeg radi:  
+1) sastavljati nacrte isprava,  
+2) zamjenjivati javnog bilježnika u onim poslovima u kojima ovaj zastupa stranke po članku 4. ovoga Zakona,  
+3) podizati proteste,  
+4) sastavljati inventare,  
+5) provoditi dobrovoljne dražbe pokretnih stvari s učinkom sudske dražbe,  
+6) priopćavati izjave (članak 83.),  
+7) vrši dostave.  
+(4) Javnobilježnički savjetnik umjesto javnog bilježnika kod kojeg radi, uz poslove iz stavka 3. ovoga članka, koje može obavljati kao i vježbenik, može ovjeravati i potvrđivati sve isprave koje se upisuju u upisnik ovjera i potvrda (članak 74. do 81.), osim potvrde (solemnizacije) iz članka 59. ovoga Zakona.  
+(5) Javnobilježnički prisjednik, savjetnik i vježbenik potpisuju javnobilježničke isprave s napomenom da potpisuju u svoje ime, a za javnog bilježnika kod kojeg rade. Svi poslovi koje obavi javnobilježnički prisjednik, savjetnik i vježbenik imaju isti pravni učinak kao da ih je neposredno obavio sam javni bilježnik. Javni bilježnik odgovara za obavljanje tih poslova, u skladu s ovim i drugim zakonom.  
+(6) Na pravni položaj javnobilježničkog prisjednika, savjetnika i vježbenika na odgovarajući se način primjenjuju pravila o sudskim savjetnicima i vježbenicima.  
+(7) Javnobilježnički prisjednik, savjetnik i vježbenik mogu početi s radom kod javnog bilježnika tek nakon što svoj potpis polože kod zakonom određenog suda, po pravilima ovoga Zakona koja se primjenjuju za polaganje potpisa javnog bilježnika kod kojega su zaposleni (članak 18. stavak 3.).«
+
+### Članak 62.
+
+U članku 128. stavku 1. brojka: »4.« u zagradi zamjenjuje se brojkom: »3.«.  
+U stavku 2. iza brojke: »4.« stavlja se zarez, riječi: »i točka« brišu se, a iza brojke: »6.« dodaju se riječi: »i točka 8.«.  
+U stavku 3. riječi: »zamjenika postavi Komora, a« brišu se.
+
+### Članak 63.
+
+U članku 129. stavak 1. mijenja se i glasi:  
+»(1) Da bi zamjenik obavljao svoju službu, Ministarstvo pravosuđa prethodno će donijeti rješenje o njegovom postavljenju. Javni bilježnik potrebu za zamjenikom pisano će prijaviti Ministarstvu i predložiti ime zamjenika i po mogućnosti vrijeme trajanja zamjene.«  
+U stavku 2. riječi: »tijekom kalendarske godine (stalni zastup­nik)« zamjenjuju se riječima: »najdulje godinu dana, a u posebnim slučajevima (bolest) može se i produžiti«.  
+U stavku 3. iza riječi: »predloženog zamjenika,« dodaju se riječi: »u roku od 8 dana«.  
+U stavku 4. riječ: »zastupnika« zamjenjuje se riječju: »zamjenika«.
+
+### Članak 64.
+
+U članku 130. stavku 1. riječ: »premješten« briše se.  
+U stavku 3. riječi: »za njegov« zamjenjuju se riječima: »za svoj«, a riječi: »i pripada mu pravo na nagradu za obavljeni posao« brišu se.
+
+### Članak 65.
+
+U članku 131. stavku 1. riječ: »uvjerenje« zamjenjuje se riječju: »rješenje«.  
+U stavku 2. u rečenici drugoj, riječi: »zakonom određenom sudu i« brišu se.  
+U stavku 4. riječ: »zastupnika« zamjenjuje riječju: »zamjenika«.  
+U stavku 7. riječi: »djelovodniku isprava« zamjenjuju se riječima: »upisnicima i knjigama javnog bilježnika iz članka 116. ovoga Zakona«.
+
+### Članak 66.
+
+U članku 132. iza stavka 3. dodaje se novi stavak 4. koji glasi:  
+»(4) Javni bilježnici jedne ili više županija mogu se udružiti u Javnobilježnički zbor.«  
+Dosadašnji stavak 4., koji postaje stavak 5., mijenja se i glasi:  
+»(5) Ako nije drugačije određeno ovim Zakonom, ustrojstvo, nadležnost, sastav, način izbora, prava i dužnosti tijela Komore i javnobilježničkog zbora uređuju se Statutom i drugim općim aktima Komore.«
+
+### Članak 67.
+
+U članku 133. stavku 1. točki 6) riječ: »da« briše se.
+
+### Članak 68.
+
+U članku 141. stavku 3. riječ: »pojedinih« briše se.
+
+### Članak 69.
+
+U članku 143. stavku 1. riječi: »ili staleškog« brišu se.  
+Iza stavka 7. dodaje se stavak 8. koji glasi:  
+»(8) Odredbe stavaka 1. i 2. ovoga članka ne primjenjuju se u slučajevima kada dva ili više javnih bilježnika zajednički obavljaju svoju službu, ali ne mogu istodobno svi biti odsutni (članak 38. stavak 2.).«
+
+### Članak 70.
+
+U članku 145. stavku 1. riječi: »u zvanju« zamjenjuju se riječima: »u obavljanju javnobilježničke službe«, a riječi: »svog staleža« zamjenjuju se riječima: »javnobilježničke službe«.  
+Stavak 4. briše se.
+
+### Članak 71.
+
+U članku 146. stavku 2. riječi: »sudskog suradnika« zamjenjuju se riječima: »sudskog savjetnika«.
+
+### Članak 72.
+
+U članku 147. stavku 3. iza točke 2. dodaje se točka 3. koja glasi:  
+»3) Ako je javni bilježnik zbog ranije počinjenoga teškoga disciplinskog djela bio kažnjavan kaznom o privremenom oduzimanju prava na obavljanje službe u trajanju do godine dana.«  
+U stavku 5. u uvodnoj rečenici iza riječi: »prisjednika« veznik »i« zamjenjuje se zarezom i dodaju se riječi: »savjetnika i«.  
+U točki 2. riječi: »plaće sudačkog suradnika« zamjenjuju se riječima: »plaće sudskog savjetnika«.  
+Točka 3. briše se.  
+Dosadašnje točke 4. i 5. postaju točke 3. i 4.
+
+### Članak 73.
+
+U članku 148. iza riječi: »prisjednik« veznik »i« zamjenjuje se zarezom i dodaju se riječi: »savjetnik i«.
+
+### Članak 74.
+
+U članku 149. dodaje se stavak 4. koji glasi:  
+»(4) Ako disciplinski prijestup povlači kaznenu odgovornost, disciplinski postupak može se pokrenuti sve do vremena u kojem zastarijeva pokretanje kaznenog postupka.«
+
+### Članak 75.
+
+U članku 150. dodaje se stavak 4. koji glasi:  
+»(4) Javnobilježnička disciplinska vijeća o pokrenutim disciplinskim postupcima kao i o izrečenim disciplinskim kaznama dužna su pisano odmah obavijestiti Ministarstvo.«
+
+### Članak 76.
+
+U članku 153. stavku 1. iza riječi: »podnijeti« dodaje se riječ: »Ministarstvo,«.  
+Iza stavka 4. dodaje se stavak 5. koji glasi:  
+»(5) O pokrenutom disciplinskom postupku protiv javnog bilježnika, prisjednika, savjetnika i vježbenika, Komora, odnosno državni odvjetnik i oštećenik dužni su pisano odmah obavijestiti Ministarstvo pravosuđa.«
+
+### Članak 77.
+
+U članku 155. stavku 3. iza riječi: »prisjednika« riječ: »ili« zamjenjuje se zarezom i dodaju se riječi: »javnobilježničkog savjetnika i«.  
+U stavku 4. iza riječi: »prisjednika« riječ: »ili« zamjenjuje se zarezom i dodaju se riječi: »javnobilježničkog savjetnika i«.
+
+### Članak 78.
+
+U članku 157. stavku 2. iza riječi: »posao« riječi: »iz opravdanih razloga« brišu se.
+
+### Članak 79.
+
+U naslovu iznad članka 164. riječi: »i predujam« brišu se.
+
+### Članak 80.
+
+U članku 164. iza riječi: »po obavljenom poslu« umjesto zareza stavlja se točka, a riječi: »a može tražiti i primjereni predujam« brišu se.
+
+### Članak 81.
+
+U članku 170. stavku 1. iza riječi: »u pravosuđu« stavlja se zarez, veznik »i« briše se, a iza riječi: »odvjetništvu« stavlja se zarez i dodaju riječi: »i u javnom bilježništvu«.
+
+### Članak 82.
+
+U javnobilježničkim uredima u kojima je imenovano više od dva javnobilježnička prisjednika na temelju Zakona o javnom biljež­ništvu (»Narodne novine«, br. 78/93., 29/94. i 162/98.) oni ostaju kao zaposlenici u tim javnobilježničkim uredima.
+
+### Članak 83.
+
+U cijelom tekstu Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94. i 162/98.) riječi: »Ministar pravosuđa, Ministarstvo pravosuđa, izvršenje, izvršnost, krivično, disciplinska, zakleti sudski tumač i druge izvedenice ovih riječi« u određenom padežu, zamjenjuju se riječima: »ministar nadležan za poslove pravosuđa, ministarstvo nadležno za poslove pravosuđa, ovrha, ovršnost, kazneno, stegovna, stalni sudski tumač i drugim izvedenicama ovih riječi« u odgovarajućem rodu, broju i padežu«.
+
+### Članak 84.
+
+U roku od tri mjeseca od dana stupanja na snagu ovoga Zakona, ministar pravosuđa donijet će izmjene i dopune Javnobilježničkog poslovnika i Pravilnik o službenim sjedištima javnih bilježnika.
+
+### Članak 85.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda pročišćeni tekst Zakona o javnom bilježništvu.
+
+### Članak 86.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 701-01/06-01/01  
+Zagreb, 26. siječnja 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

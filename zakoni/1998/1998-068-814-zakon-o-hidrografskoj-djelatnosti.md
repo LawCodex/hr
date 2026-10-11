@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-05-12
-last_amended: 1998-08-18
+last_amended: 2003-10-16
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1998; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "68/98, 110/98"
+narodne_novine: "68/98, 110/98, 163/03"
 amendments:
   - "NN 110/1998 (1503) Ispravak Zakona o hidrografskoj djelatnosti"
+  - "NN 163/2003 (2352) Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/814"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 68/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/814).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/1998.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/1998, NN 163/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -530,3 +531,112 @@ Tajnik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Berislav Živković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti (NN 163/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2352*
+
+hrvatski sabor
+
+2352
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O HIDROGRAFSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti, koji je donio Hrvatski sabor na sjednici 1. listopada 2003.
+
+Broj: 01-081-03-3309/2  
+Zagreb, 6. listopada 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O HIDROGRAFSKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o hidrografskoj djelatnosti (»Narodne novine«, br. 68/98. i 110/98.) u članku 5. stavku 1. iza točke 7. dodaju se točke 8. i 9. koje glase:
+
+»8. znanstvenoistraživačku djelatnost i znanstvenoistraživač­ke aktivnosti,
+
+9. stručne poslove zaštite okoliša.«
+
+### Članak 2.
+
+U članku 13. stavku 3. riječi: »Izvorne kopije« zamjenjuju se riječima: »Kopije izvornika«.
+
+### Članak 3.
+
+Članak 21. mijenja se i glasi:
+
+»Plovni objekti Hrvatskoga hidrografskog instituta obavljaju hidrografsku djelatnost, kao javni brod.«
+
+### Članak 4.
+
+Članak 24. mijenja se i glasi:
+
+»Hidrografsko-navigacijsko vijeće ima predsjednika i 12 članova koje imenuje i razrješuje Vlada Republike Hrvatske, na pri­jedlog ovlaštenih predlagatelja iz stavka 3. ovoga članka.
+
+Hidrografsko-navigacijsko vijeće imenuje se na vrijeme od četiri godine.
+
+Hidrografsko-navigacijsko vijeće čine:
+
+1. jedan predstavnik ministarstva nadležnog za poslove pomorstva,
+
+2. dva predstavnika iz lučkih kapetanija,
+
+3. jedan predstavnik ministarstva nadležnog za poslove obrane,
+
+4. jedan predstavnik ministarstva nadležnog za unutarnje poslove,
+
+5. jedan predstavnik ministarstva nadležnog za poslove znanosti i tehnologije,
+
+6. jedan predstavnik ministarstva nadležnog za zaštitu oko­liša,
+
+7. jedan predstavnik tijela državne uprave nadležnog za geodetske poslove,
+
+8. dva predstavnika Hrvatskog hidrografskog instituta,
+
+9. jedan predstavnik iz pomorskog gospodarstva,
+
+10. jedan predstavnik udruženja nautičara,
+
+11. jedan predstavnik udruženja ribara.«
+
+### Članak 5.
+
+U članku 27. riječi: »Zastupnički dom Hrvatskoga državnog sabora« zamjenjuju se riječima: »ministarstvo nadležno za poslove pomorstva«.
+
+### Članak 6.
+
+U članku 30. iza riječi: »na njihov zahtjev« dodaju se riječi: »te veleprodaju i maloprodaju vlastitih proizvoda«.
+
+### Članak 7.
+
+U članku 32. stavku 2. u podstavku 1. riječi: »Zastupničkoga doma Hrvatskoga državnog sabora« zamjenjuju se riječima: »ministarstva nadležnog za poslove pomorstva«.
+
+### Članak 8.
+
+Sastav Hidrografsko-navigacijskog vijeća Vlada Republike Hrvatske imenovat će u skladu s odredbama ovoga Zakona u roku 60 dana od dana stupanja na snagu ovoga Zakona.
+
+Imenovanjem članova Hidrografsko-navigacijskog vijeća iz stavka 1. ovoga članka prestaje mandat dosadašnjim članovima Hidrografsko-navigacijskog vijeća.
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 920-02/03-01/01
+
+Zagreb, 1. listopada 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

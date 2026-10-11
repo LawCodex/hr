@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-01-14
-last_amended: 1997-10-08
+last_amended: 2005-10-17
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "3/94, 104/97"
+narodne_novine: "3/94, 104/97, 59/01, 121/05"
 amendments:
   - "NN 104/1997 (1608) Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova"
+  - "NN 59/2001 (964) Zakon o izmjeni Zakona o područjima i sjedištima sudova"
+  - "NN 121/2005 (2251) Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/32"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 3/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/32).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/1997.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/1997, NN 59/2001, NN 121/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1132,3 +1134,151 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+## Zakon o izmjeni Zakona o područjima i sjedištima sudova (NN 59/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/964*
+
+HRVATSKI SABOR
+
+964
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PODRUČJIMA I SJEDIŠTIMA SUDOVA
+
+Proglašavam Zakon o izmjeni Zakona o područjima i sje­diš­tima sudova, koji je donio Hrvatski sabor na sjednici 29. lipnja 2001.
+
+Broj: 01-081-01-2100/2  
+Zagreb, 29. lip­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PODRUČJIMA I SJEDIŠTIMA SUDOVA**
+
+### Članak 1.
+
+U Zakonu o područjima i sjedištima sudova (»Narodne novine«, br. 3/94 i 104/97) u članku 2. Glava XIV. U OSJEČKO-BARANJSKOJ ŽUPANIJI – mije­nja se i glasi:
+
+»XIV. U OSJEČKO-BARANJSKOJ ŽUPANIJI
+
+1. ŽUPANIJSKI SUD U OSIJEKU za područje općinskih sudova u Belom Manastiru, Do­njem Miho­ljcu, Đakovu, Našicama, Osijeku i Valpovu.
+
+Općinski sud u Belom Manastiru za područje općina: Bi­lje, Čeminac, Darda, Draž, Jagod­njak, Kneževi Vinogradi, Petlovac i Popovac, te grad Beli Manastir.
+
+Općinski sud u Do­njem Miho­ljcu za područje općina: Magadenovac, Marijanci, Podravska Moslavina i Vi­ljevo, te grad Do­nji Miho­ljac.
+
+Općinski sud u Đakovu za područje općina: Dre­nje, Gorjani, Leva­njska Varoš, Punitovci, Satnica Đakovačka, Seme­ljci, Strizivojna, Trnava i Viškovci, te grad Đakovo.
+
+Općinski sud u Našicama za područje općina: Do­nja Moti­čina, Đurđenovac, Feričanci, Koška i Podgorač, te grad Našice.
+
+Općinski sud u Osijeku za područje općina: Antunovac, Če­pin, Erdut, Ernestinovo, Šodolovci, Vladislavci i Vuka, te grad Osijek.
+
+Općinski sud u Valpovu za područje općina: Bizovac i Petrijevci, te gradova Belišće i Valpovo.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 711-01/01-01/02  
+Zagreb, 29. lip­nja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova (NN 121/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2251*
+
+HRVATSKI SABOR
+
+2251
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PODRUČJIMA I SJEDIŠTIMA SUDOVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova, kojega je Hrvatski sabor donio na sjednici 6. listopada 2005. godine.
+
+Broj: 01-081-05-3063/2
+
+Zagreb, 11. listopada 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PODRUČJIMA I SJEDIŠTIMA SUDOVA**
+
+### Članak 1.
+
+U Zakonu o područjima i sjedištima sudova (»Narodne novine«, br. 3/94., 104/97. i 59/01.) u članku 2. – Glava XXI. mijenja se i glasi:
+
+»1. ŽUPANIJSKI SUD U ZAGREBU za područje općinskih sudova u Sesvetama, Zagrebu i Novom Zagrebu.
+
+Općinski sud u Sesvetama za područje naselja: Adamovec, Belovar, Blaguša, Budenec, Cerje, Dobrodol, Drenčec, Dumovec, Đurđekovec, Gajec, Glavničica, Glavnica Donja, Glavnica Gornja, Goranec, Jasenovec, Kašina, Kašinska Sopnica, Kučilovina, Kućanec, Lužan, Markovo Polje, Moravče, Paruževina, Planina Donja, Planina Gornja, Popovec, Prekvršje, Prepuštovec, Sesvete, Soblinec, Šašinovec, Šimunčevec, Vuger Selo, Vugrovec Donji, Vugrovec Gornji, Vurnovec i Žerjavinec.
+
+Općinski građanski sud u Zagrebu za područje naselja: Ivanja Reka i Zagreb (bez gradskih četvrti južno od rijeke Save).
+
+Općinski kazneni sud u Zagrebu za područje naselja: Ivanja Reka i Zagreb (bez gradskih četvrti južno od rijeke Save).
+
+Općinski sud u Novom Zagrebu za područje naselja: Botinec, Brebernica, Brezovica, Buzin, Demerje, Desprin, Donji Čehi, Donji Dragonožec, Donji Trpuci, Drežnik Brezovički, Goli Breg, Gornji Čehi, Gornji Dragonožec, Gornji Trpuci, Graničari, Havidić Selo, Horvati, Hrašće Turopoljsko, Hrvatski Leskovac, Hudi Bitek, Ježdovec, Kupinečki Kraljevec, Lipnica, Lučko, Mala Mlaka, Odra, Odranski Obrež, Starjak, Strmec, Veliko Polje, Zadvorsko i Zagreb (bez gradskih četvrti sjeverno od rijeke Save).«
+
+### Članak 2.
+
+Iza članka 2. dodaje se članak 2.a koji glasi:
+
+*»Članak 2.a*
+
+Općinski građanski sud u Zagrebu postupat će u parničnim postupcima sukladno članku 15.a i članku 16. stavku 1. točki 3.a, 3.b, 3.c i 3.d i stavka 2. Zakona o sudovima (»Narodne novine«, br. 3/94., 100/96., 131/97., 129/00., 67/01., 5/02., 101/03., 117/03., 17/04. i 141/04.).
+
+Općinski kazneni sud u Zagrebu postupat će u prvom stupnju u kaznenim postupcima iz članka 16. stavka 1. točke 1.a i 1.b Zakona o sudovima.«
+
+### Članak 3.
+
+U članku 7. alineja 18. mijenja se i glasi:
+
+»- Općinski kazneni sud u Zagrebu za područje Općinskog suda u Sesvetama.«
+
+### Članak 4.
+
+U članku 8. riječi: »(članak 18. prije članak 19. točka 1. b), c) i d) Zakona o sudovima)« zamjenjuju se riječima: »(članak 34.b Zakona o parničnom postupku – »Narodne novine«, br. 63/91., 91/92., 112/99., 88/01. i 117/03.)«.
+
+### Članak 5.
+
+U članku 9. stavku 1. iza riječi: »Zaprešiću« dodaju se riječi: »Općinski građanski sud u Zagrebu, Općinski kazneni sud u Zagrebu«.
+
+U stavku 2. alineja 20. mijenja se i glasi:
+
+»- za Općinski sud u Novom Zagrebu, Općinski građanski sud u Zagrebu i Općinski kazneni sud u Zagrebu«.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 711-01/05-01/03
+
+Zagreb, 6. listopada 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.

@@ -426,7 +426,8 @@ ROMAN_RE = re.compile(r"^[IVXLC]+\.\s*\S|^[IVXLC]+\.?$")
 ODJ_RE = re.compile(r"^(\d+\.\s*\S|Odjeljak|ODJELJAK|\d+\.$)")
 PODODJ_RE = re.compile(r"^(\d+\.\d+\.|Pododjeljak|PODODJELJAK|[a-zA-Z]\)\s)")
 FOOT_RE = re.compile(r"^(Klasa|KLASA|Urbroj|URBROJ|Ur\.\s*broj|Ur\.broj|Broj:|BROJ:)\b")
-TITLE_RE = re.compile(r"^(USTAVNI\s+ZAKON|ZAKON|ZAKONIK|UREDB[AU]|USTAV|PROMJEN[AU]\s+USTAVA|KAZNENI|OPĆI|OBITELJSKI|POMORSKI|OVRŠNI|STEČAJNI|CARINSKI|PREKRŠAJNI|[A-ZČĆŠŽĐ]+I\s+ZAKON)")
+TITLE_RE = re.compile(r"^(USTAVNI\s+ZAKON|ZAKON|ZAKONIK|UREDB[AU]|USTAV\b|PROMJEN[AU]\s+USTAVA|(?:[A-ZČĆŠŽĐ]+I\s+){1,2}ZAKON)")
+LABEL_RE = re.compile(r"^(?:(?:\S+\s+)?DIO(?:\s+\S+)?|(?:\S+\s+)?GLAVA(?:\s+\S+)?(?:\s*\([IVXLC]+\.?\))?|KNJIGA(?:\s+\S+)?|[IVXLC]+\.?|\d+\.|ODJELJAK\s+\S+)$")
 RANKS = ["knjiga", "dio", "glava", "roman", "odj", "pododj", "head"]
 
 
@@ -524,6 +525,14 @@ def to_markdown(blocks, base_level=2):
             kinds[i] = "odj"
         else:
             kinds[i] = "head"
+    # merge a bare division label ("GLAVA PRVA (I.)", "DRUGI DIO", "III.") with the
+    # unnumbered heading line that follows it ("TEMELJNE ODREDBE")
+    for i in range(n - 1):
+        if kinds[i] in ("knjiga", "dio", "glava", "roman", "odj") and LABEL_RE.match(texts[i].upper()):
+            j = i + 1
+            if blocks[j]["kind"] == "p" and kinds[j] in ("head", "caption") and len(texts[j]) < 250:
+                blocks[i] = dict(blocks[i], lines=blocks[i]["lines"] + blocks[j]["lines"])
+                kinds[j] = "skip"
     present = [r for r in RANKS if r in kinds]
     level = {}
     for j, r in enumerate(present):
@@ -542,6 +551,8 @@ def to_markdown(blocks, base_level=2):
                 out.append((f"{j}. " if b["ordered"] else "- ") + it)
             continue
         t = " ".join(b["lines"])
+        if k == "skip":
+            continue
         if k == "art":
             out.append("#" * art_level + " " + t if art_level <= 6 else f"**{t}**")
         elif k in level:

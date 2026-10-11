@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2000-01-19
+last_amended: 2003-04-22
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "6/00"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "6/00, 68/03"
+amendments:
+  - "NN 68/2003 (798) Uredba o izmjenama i dopunama Uredbe o određivanju građevina od važnosti za Republiku Hrvatsku"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2000/6/64"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o određivanju građevina od važnosti za Republiku Hrvatsku
 
 > Izvor: Narodne novine, NN 6/2000 (https://narodne-novine.nn.hr/eli/sluzbeni/2000/6/64).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 68/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -281,3 +285,44 @@ Zagreb, 13. siječnja 2000.
 
 Predsjednik  
 mr. Zlatko Mateša, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o određivanju građevina od važnosti za Republiku Hrvatsku (NN 68/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/68/798*
+
+VLADA REPUBLIKE HRVATSKE
+
+798
+
+Na teme­lju članka 35. stavka 5. Zakona o prostornom uređe­nju (»Narodne novine«, br. 30/94, 68/98, 61/2000 i 32/2002), Vlada Republike Hrvatske je na sjednici održanoj 17. trav­nja 2003. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O ODREĐIVANJU GRAĐEVINA OD VAŽNOSTI ZA REPUBLIKU HRVATSKU**
+
+### Članak 1.
+
+U Uredbi o određiva­nju građevina od važnosti za Republiku Hrvatsku (»Narodne novine«, broj 6/2000) u članku 2. stavku 1. točki 1. podtočki 1.1. alineji 2. riječ: »međunarodni« briše se, a u podtočki 1.2. iza alineje 1. dodaje se nova alineja 2. koja glasi:
+
+»– že­ljeznički granični prijelaz«.
+
+### Članak 2.
+
+U članku 3. stavku 1. točki 1. podtočka 1.1. briše se.
+
+Dosadaš­nje podtočke 1.2., 1.3. i 1.4. postaju podtočke 1.1., 1.2. i 1.3.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+
+Klasa: 360-01/03-01/02  
+Urbroj: 5030115-03-1  
+Zagreb, 17. trav­nja 2003.
+
+Potpredsjednik  
+dr. sc. Goran Granić, v. r.

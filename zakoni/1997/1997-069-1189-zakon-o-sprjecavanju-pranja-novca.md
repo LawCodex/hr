@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1997-07-04
+last_amended: 2003-07-23
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1997; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "69/97"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2003; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "69/97, 67/01, 114/01, 117/03"
+amendments:
+  - "NN 67/2001 (1102) Zakon o izmjenama Zakona o sprječavanju pranja novca"
+  - "NN 114/2001 (1892) Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca"
+  - "NN 117/2003 (1642) Zakon o izmjenama i dopunama Zakona o sprječavanju pranja novca"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1189"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o sprječavanju pranja novca
 
 > Izvor: Narodne novine, NN 69/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1189).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2001, NN 114/2001, NN 117/2003.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -332,3 +338,311 @@ SABORA REPUBLIKE HRVATSKE
 Predsjednik  
 Zastupničkog doma Sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o sprječavanju pranja novca (NN 67/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1102*
+
+HRVATSKI SABOR
+
+1102
+
+Na teme­­­­­­­­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O SPRJEČAVANJU PRANJA NOVCA
+
+Proglašavam Zakon o izmjenama Zakona o sprječava­­­­­­­­nju pra­­­­­­­­nja novca, koji je donio Hrvatski sabor na sjednici 13. srp­­­­­­­­nja 2001.
+
+Broj: 01-081-01-2326/2  
+Zagreb, 18. srp­­­­­­­­nja 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O SPRJEČAVANJU PRANJA NOVCA**
+
+### Članak 1.
+
+U Zakonu o sprječava­nju pra­nja novca (»Narodne novine«, br. 69/97.) u članku 3. stavku 2. i 5. riječi: »Financijska policija« brišu se.
+
+Stavak 4. briše se.
+
+Dosadaš­nji stavci 5. i 6. postaju stavci 4. i 5.
+
+### Članak 2.
+
+Članak 21. mije­nja se i glasi:
+
+»Postupak za prekršaje predviđene ovim Zakonom vodi Ministarstvo financija prema propisima koji vrijede za prekršajni postupak.«
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 451-04/01-01/01  
+Zagreb, 13. srp­nja 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca (NN 114/2001)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1892*
+
+HRVATSKI SABOR
+
+1892
+
+Na teme­lju članka 88. Ustava Republike Hrvatske donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O SPRJEČAVANJU PRANJA NOVCA
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o sprječava­nju pra­nja novca, koji je donio Hrvatski sabor na sjednici 7. prosinca 2001.
+
+Broj: 01-081-01-3890/2  
+Zagreb, 13. prosinca 2001.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O SPRJEČAVANJU PRANJA NOVCA**
+
+### Članak 1.
+
+U Zakonu o sprječava­nju pra­nja novca (»Narodne novine«, br. 69/97., 106/97. i 67/01.) u članku 10. stavak 2. mije­nja se i glasi:
+
+»Ako treba provjeriti podatke iz obavijesti, Ured može telefonom, telefaksom ili na drugi način obvezniku naložiti da odgodi obav­lja­nje transakcije najviše za 72 sata.«
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Nakon što naloži obvezniku da odgodi obav­lja­nje transakcije, Ured će odmah o izdanom nalogu za odgodu obav­lja­nja transakcije izvijestiti nadležno Državno odvjetništvo Republike Hrvatske.«
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 451-04/01-01/02  
+Zagreb, 7. prosinca 2001.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v.r.
+
+## Zakon o izmjenama i dopunama Zakona o sprječavanju pranja novca (NN 117/2003)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1642*
+
+HRVATSKI SABOR
+
+1642
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SPRJEČAVANJU PRANJA NOVCA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sprječavanju pranja novca, koji je donio Hrvatski sabor na sjednici 15. srp­nja 2003.
+
+Broj: 01-081-03-2631/2  
+Zagreb, 18. srp­nja 2003.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SPRJEČAVANJU PRANJA NOVCA**
+
+### Članak 1.
+
+U Zakonu o sprječavanju pranja novca (»Narodne novine«, br. 69/97., 106/97., 67/01. i 114/01.) članak 1. mijenja se i glasi:
+
+»(1) Ovim se Zakonom propisuju: mjere i radnje u bankarskom, novčarskom i drugom poslovanju koje se poduzimaju radi otkrivanja i sprječavanja pranja novca i sprječavanja financiranja terorizma, obveznici provedbe mjera i radnji koji su dužni postupati prema ovom Zakonu, djelovanje i postupci Ureda za sprječavanje pranja novca u otkrivanju sumnjivih transakcija kojima se prikriva pravi izvor novca i imovine ili prava za koje postoji sumnja da su pribavljena na nezakonit način u zemlji ili inozemstvu (u daljnjem tekstu: pranje novca), te uređuju i druga pitanja od značaja za razvoj preventivnog sustava u sprječavanju pranja novca.
+
+(2) Mjere i radnje za otkrivanje i sprječavanje pranja novca poduzimaju se pri ulaganju, preuzimanju, zamjeni, raspačavanju novca, pri sklapanju pravnih poslova kojima se stječe ili koristi imovina te ostalim oblicima raspolaganja novcem, pravima i drugom imovinom koji mogu poslužiti za pranje novca (u daljnjem tekstu: transakcije).«
+
+### Članak 2.
+
+U članku 2. stavku 1. podstavku 1. iza riječi: »banke i« dodaje se riječ: »stambene«.
+
+Iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+»– štedno kreditne zadruge,« .
+
+Dosadašnji podstavak 2. koji postaje podstavak 3. mijenja se i glasi:
+
+»– investicijski fondovi i društva za upravljanje investicijskim fondovima,«.
+
+Iza dosadašnjeg podstavka 2. koji je postao podstavak 3. dodaje se novi podstavak 4. koji glasi:
+
+»– mirovinski fondovi i društva za upravljanje mirovinskim fondovima,«.
+
+Dosadašnji podstavak 3. koji postaje podstavak 5. mijenja se i glasi:
+
+»– Financijska agencija i Hrvatska pošta d.d.,«.
+
+Dosadašnji podstavci 4. do 6. postaju podstavci 6. do 8.
+
+Dosadašnji podstavak 7. koji postaje podstavak 9. mijenja se i glasi:
+
+»– ovlašteni mjenjači,«.
+
+Dosadašnji podstavak 8. postaje podstavak 10.
+
+Dosadašnji podstavak 9. koji postaje podstavak 11. mijenja se i glasi:
+
+»– priređivači igara na sreću za lutrijske igre, za igre u casinima, za kladioničke igre i za igre na sreću na automatima.«
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Obveznici iz stavka 1. ovoga članka koji imaju pod­ružnice u inozemstvu ili imaju u većinskom vlasništvu ili pod kontrolom financijske institucije u inozemstvu, u državama u kojima se ne primjenjuju standardi u sprječavanju pranja novca, dužni su provoditi mjere za sprječavanje pranja novca propisane ovim Zakonom ako one nisu u suprotnosti sa zakonima i drugim propisima tih država.«
+
+U dosadašnjem stavku 2. koji postaje stavak 3. iza riječi: »primanja, » dodaju se riječi: » i slanja », iza riječi: »putovanja, » dodaju se riječi: » organizatori izvođenja dražbi, », a riječ: »depozita« zamjenjuje se riječju: »sredstava«.
+
+### Članak 3.
+
+U članku 5. stavku 1. riječi: »jedinstveni matični broj gra­đana« zamjenjuju se riječima: »identifikacijski broj ili datum rođenja«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Prilikom otvaranja računa ili drugih oblika uspostav­ljanja trajnije poslovne suradnje, obveznik je dužan zatražiti od stranke izjavu s podacima o stvarnom vlasniku pravne osobe i popisom članova Uprave na način predviđen ovim Zakonom i na njemu utemeljenim propisima, a u svrhu utvrđivanja identiteta stvarnog vlasnika.«
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 4., 5. i 6.
+
+Dosadašnji stavak 6. briše se.
+
+### Članak 4.
+
+U članku 6. stavku 1. riječi: »4. stavka 2., 3., 4. i 5.« zamjenjuju se riječima: »8. stavka 1.«
+
+U stavku 2. podstavak 1. mijenja se i glasi:
+
+»– podaci o nalogodavatelju i osobi kojoj je namijenjena transakcija i to: naziv, sjedište i matični broj za pravne osobe odnosno ime i prezime, adresa i identifikacijski broj ili datum rođenja za fizičke osobe,«.
+
+Stavak 3. briše se.
+
+### Članak 5.
+
+Članak 7. mijenja se i glasi:
+
+»Obveznik će odbiti obaviti transakciju:
+
+– iz članka 4 stavka 2., 3., 4. i 5. ovoga Zakona ako nije u mogućnosti identificirati stranku,
+
+– iz članka 8. stavka 1. ako ne utvrdi podatke iz članka 5. i 6. ovoga Zakona i
+
+– ako stranka u svojstvu punomoćnika ne pruži punomoć iz članka 5. stavak 5. ovoga Zakona.«
+
+### Članak 6.
+
+U članku 8. stavak 1. mijenja se i glasi:
+
+»(1) Obveznik će identificirati stranku i Uredu dostaviti podatke iz članaka 5. i 6. ovoga Zakona u roku tri dana od obav­ljanja transakcije, za sve transakcije iz članka 4. stavka 2. i 3. ovoga Zakona ako je vrijednost transakcije 200.000,00 kuna ili veća i za transakcije iz članka 4. stavka 4. i 5. ovoga Zakona na način predviđen ovim Zakonom i na njemu utemeljenim propisima.«
+
+U stavku 3. riječi: »prema stavku 1. ovoga članka« zamjenjuju se riječima: »o transakcijama ako postoji sumnja da se radi o pranju novca iz članka 4. stavka 5. ovoga Zakona,«.
+
+U stavku 4. iza riječi: »naravi transakcije« dodaju se riječi: »iz stavka 3.«.
+
+Stavak 5. briše se.
+
+### Članak 7.
+
+Iza članka 9. dodaje se članak 9.a i naslov iznad njega koji glase:
+
+*»Odvjetnik, odvjetničko društvo, javni bilježnik, revizorska tvrtka, ovlašteni revizor, pravne ili fizičke osobe koje obavljaju računovodstvene poslove ili poslove poreznog savjetovanja*
+
+### Članak 9.a
+
+(1) Odvjetnik, odvjetničko društvo i javni bilježnik dužni su na propisani način obavješćivati Ured kada u svom radu obavljaju financijsku transakciju ili drugu transakciju s imovinom, ako postoji sumnja da se radi o pranju novca.
+
+(2) Kada odvjetnik i odvjetničko društvo zastupaju stranku u sudskim i upravnim postupcima, nisu u obvezi postupiti u skladu s odredbom stavka 1. ovoga članka.
+
+(3) Revizorska tvrtka, ovlašteni revizor i pravne ili fizičke osobe koje obavljaju računovodstvene poslove ili poslove poreznog savjetovanja dužni su na propisani način obavješćivati Ured kada u obavljanju poslova iz svoga djelokruga utvrde da u svezi s određenim transakcijama postoji sumnja da se radi o pranju novca.
+
+(4) Bez obzira na odredbe navedenih stavaka ovoga članka, odvjetnik, odvjetničko društvo, javni bilježnik, revizorska tvrtka, ovlašteni revizor i pravne ili fizičke osobe koje obavljaju računovodstvene poslove ili poslove poreznog savjetovanja obavijestit će Ured na propisani način, u svim slučajevima kada od njih stranka zatraži savjet vezan za pranje novca.«
+
+### Članak 8.
+
+Iza članka 21. dodaje se članak 21.a i naslov iznad njega koji glase:
+
+*»Nadzor nad obveznicima u provedbi Zakona*
+
+### Članak 21.a
+
+(1) Nadzor nad obveznicima iz članka 2. ovoga Zakona koji moraju postupati prema ovom Zakonu obavljaju Hrvatska narodna banka, Komisija za vrijednosne papire, Agencija za nadzor mirovinskih fondova i osiguranja, Direkcija za nadzor društava za osiguranje, i to:
+
+– Hrvatska narodna banka obavlja nadzor nad obveznicima iz članka 2. stavka 1. podstavka 1. ovoga Zakona,
+
+– Komisija za vrijednosne papire obavlja nadzor nad obveznicima iz članka 2. stavka 1. podstavka 3. i 8. ovoga Zakona,
+
+– Agencija za nadzor mirovinskih fondova i osiguranja obavlja nadzor nad obveznicima iz članka 2. stavka 1. podstavka 4. ovoga Zakona,
+
+– Direkcija za nadzor društava za osiguranje obavlja nadzor nad obveznicima iz članka 2. stavka 1. podstavka 7. ovoga Zakona.
+
+(2) Nadzorne službe Ministarstva financija i Ured obavljat će nadzor nad svim obveznicima iz djelokruga svoje nadležnosti.«
+
+### Članak 9.
+
+Članak 22. i naslov iznad njega mijenjaju se i glase:
+
+*»Provedbeni propisi*
+
+### Članak 22.
+
+Ministar financija dužan je donijeti potrebne propise za provedbu ovoga Zakona vezano za:
+
+– način identifikacije stranke iz članka 5. ovoga Zakona,
+
+– način određivanja identifikacijskog broja iz članka 5. i 6. ovoga Zakona,
+
+– način i rokove obavješćivanja Ureda o transakcijama iz članka 8. ovoga Zakona,
+
+– način vođenja popisa o prikupljenim podacima iz članka 4., 5., 6. i 8. ovoga Zakona,
+
+– uvjete pod kojima obveznici za određene stranke nisu dužni obavješćivati Ured o gotovinskim transakcijama iz članka 8. stavka 1. ovoga Zakona i
+
+– način i rokove obavješćivanja Ureda o transakcijama iz članka 9.a ovoga Zakona.«
+
+### Članak 10.
+
+(1) Propise iz članka 9. ovoga Zakona donijet će ministar financija u roku 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Do stupanja na snagu propisa iz stavka 1. ovoga članka ostaju na snazi provedbeni propisi donijeti na temelju Zakona o sprječavanju pranja novca (»Narodne novine«, br. 69/97., 106/97., 67/01. i 114/01.).
+
+### Članak 11.
+
+Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izradi pročišćeni tekst Zakona o sprječavanju pranja novca.
+
+### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2004.
+
+Klasa: 451-04/03-01/01  
+Zagreb, 15. srpnja 2003.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-10-15
-last_amended: 2000-06-30
+last_amended: 2007-10-19
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2000; may be obsolete or implicitly repealed"
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "106/99, 63/00"
+narodne_novine: "106/99, 63/00, 107/07"
 amendments:
   - "NN 63/2000 (1381) Zakon o izmjenama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje"
+  - "NN 107/2007 (3138) Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/106/1758"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 106/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/106/1758).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 63/2000.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 63/2000, NN 107/2007.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -46,11 +47,9 @@ dr. Franjo Tuđman, v. r.
 
 **O MIROVINSKIM OSIGURAVAJUĆIM DRUŠTVIMA I ISPLATI MIROVINA NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE**
 
-## GLAVA I.
+## GLAVA I. — OP&AELIG;E ODREDBE
 
-### OP&AELIG;E ODREDBE
-
-#### Članak 1.
+### Članak 1.
 
 Ovim se Zakonom uređuje:
 
@@ -58,7 +57,7 @@ Ovim se Zakonom uređuje:
 
 - mirovine i njihova isplata u sklopu obveznog i dobrovoljnoga mirovinskog osiguranja na temelju individualne kapitalizirane štednje.
 
-#### Članak 2.
+### Članak 2.
 
 (1) Mirovina, koja se isplaćuje na temelju odredaba ovoga Zakona, određuje se i isplaćuje prema ukupnim kapitaliziranim uplatama doprinosa člana fonda ostvarenim u obveznom ili dobrovoljnom mirovinskom fondu do ostvarivanja prava na mirovinu člana fonda.
 
@@ -68,11 +67,11 @@ Ovim se Zakonom uređuje:
 
 (4) Prigodom određivanja visine mirovine koja će se isplaćivati po ovome Zakonu, obvezno se uzimaju u obzir godine života na dan ostvarivanja prava na mirovinu, ukupna svota kapitaliziranih uplata doprinosa člana fonda, vrsta i oblik mirovine koja će se isplaćivati i drugi elementi aktuarskih izračuna.
 
-#### Članak 3.
+### Članak 3.
 
 U pitanjima koja nisu uređena ovim Zakonom, na mirovinska osiguravajuća društva na odgovarajući se način primjenjuju odredbe Zakona o trgovačkim društvima.
 
-#### Članak 4.
+### Članak 4.
 
 Izrazi u ovom Zakonu imaju sljedeća značenja:
 
@@ -131,11 +130,9 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 21. Agencija - znači Agencija za nadzor mirovinskih fondova i osiguranja, osnovana prema Zakonu o obveznim i dobrovoljnim mirovinskim fondovima.
 
-## GLAVA II.
+## GLAVA II. — MIROVINSKO OSIGURAVAJU&AELIG;E DRUŠTVO
 
-### MIROVINSKO OSIGURAVAJU&AELIG;E DRUŠTVO
-
-#### Članak 5.
+### Članak 5.
 
 (1) Mirovinsko osiguravajuće društvo je trgovačko društvo u smislu Zakona o trgovačkim društvima, osnovano u pravnom obliku dioničkog društva ili društva s ograničenom odgovornošću (u daljnjem tekstu: osiguravajuće društvo).
 
@@ -145,7 +142,7 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (4) Osiguravajuće se društvo mora odnositi jednako prema svim dioničarima, odnosno vlasnicima udjela i ne smije priznavati nikakva dodatna prava ili povlastice određenim dioničarima, ograničavati njihova prava niti im nametati dodatne obveze.
 
-#### Članak 6.
+### Članak 6.
 
 (1) Ime pod kojim je osiguravajuće društvo registrirano mora sadržavati riječ »mirovinsko osiguravajuće društvo«.
 
@@ -153,7 +150,7 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (3) Osiguravajuće društvo ne smije se baviti drugim vrstama osiguranja.
 
-#### Članak 7.
+### Članak 7.
 
 (1) Najniži temeljni kapital osiguravajućeg društva iznosi pet milijuna kuna.
 
@@ -169,7 +166,7 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (7) Temeljni kapital ne smije potjecati iz zajmova ili kredita, niti smije biti opterećen na bilo koji način.
 
-#### Članak 8.
+### Članak 8.
 
 (1) Ista pravna ili fizička osoba može biti dioničar, odnosno imati udjel u samo jednom osiguravajućem društvu.
 
@@ -177,7 +174,7 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (3) U slučaju spajanja ili pripajanja dviju ili više pravnih osoba, gdje je prije spajanja ili pripajanja svaka pravna osoba dioničar zasebnog društva i gdje osobe koje su bile dioničari zasebnih društava postaju povezane osobe, Agencija može odlučiti da ne primjenjuje ograničenja navedena u stavku 1. ili 2. ovoga članka tijekom razdoblja od najviše šest mjeseci, a u svrhu omogućavanja pravnoj osobi nastaloj kao rezultat spajanja ili pripajanja, ili osobama koje su postale povezane osobe, da svoje aktivnosti prilagode odredbama ovoga Zakona.
 
-#### Članak 9.
+### Članak 9.
 
 (1) Prije svake transakcije dionicama ili vlasničkim udjelima, odnosno promjene vlasnika ili vlasničke strukture određenog osiguravajućeg društva, potrebno je pribaviti suglasnost Agencije. Svaka transakcija kod koje se prekrši ovaj uvjet, ništavna je.
 
@@ -187,7 +184,7 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (4) Ako Agencija u roku iz stavka 3. ovoga članka ne odluči o davanju suglasnosti za transakcije dionicama, odnosno vlasničkim udjelima, smatra se da je suglasnost data.
 
-#### Članak 10.
+### Članak 10.
 
 (1) Organi osiguravajućeg društva su: uprava, nadzorni odbor i skupština.
 
@@ -207,7 +204,7 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (7) Svi članovi uprave moraju biti zaposleni u osiguravajućem društvu u punom radnom vremenu.
 
-#### Članak 11.
+### Članak 11.
 
 (1) Član uprave ili nadzornog odbora osiguravajućeg društva ne može biti osoba koja je član uprave ili nadzornog odbora:
 
@@ -227,13 +224,13 @@ tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi m
 
 (4) Zabrana predviđena u stavku 1. i 3. ovoga članka primjenjuje se također i na osobe koje su u radnom, komisionarskom ili drugom sličnom odnosu sa subjektima navedenima u tim stavcima.
 
-#### Članak 12.
+### Članak 12.
 
 (1) Za najmanje polovicu članova nadzornog odbora osiguravajućeg društva imenuju se osobe koje nisu dioničari niti vlasnici udjela tog društva.
 
 (2) Imenovanje članova nadzornog odbora odobrava Agencija.
 
-#### Članak 13.
+### Članak 13.
 
 (1) S bilo kojim podacima u svezi s djelatnosti osiguravajućeg društva sljedeće osobe obvezne su postupati kao s poslovnom tajnom:
 
@@ -250,7 +247,7 @@ tva,
 
 (3) Odredbe stavka 1. ovoga članka ne primjenjuju se ako se podaci stave na raspolaganje nadležnom tijelu u svezi sa sumnjom da je počinjen prekršaj, ili ako se stave na raspolaganje na zahtjev nadležnog tijela odgovarajućih državnih vlasti u svezi s postupkom koji je u tijeku, a koji je u svezi s djelatnošću društva, uključujući i zahtjev Agencije u svezi s njezinim nadzorom nad radom društva.
 
-#### Članak 14.
+### Članak 14.
 
 (1) Prije upisa osiguravajućeg društva u sudski registar osnivači društva moraju dobiti odobrenje za rad društva od Agencije.
 
@@ -258,7 +255,7 @@ tva,
 
 (3) Nakon upisa osiguravajućeg društva u sudski registar društvo može obavljati djelatnost prema ovome Zakonu.
 
-#### Članak 15.
+### Članak 15.
 
 Uz zahtjev za davanje odobrenja za rad iz članka 14. stavka 1. ovoga Zakona obvezno se prilažu dokazi o ispunjavanju ovih uvjeta:
 
@@ -276,7 +273,7 @@ Uz zahtjev za davanje odobrenja za rad iz članka 14. stavka 1. ovoga Zakona obv
 
 7. pravila osiguravajućeg društva o mirovinama koje će isplaćivati u sklopu obveznog mirovinskog osiguranja na temelju individualne kapitalizirane štednje i mirovinskih programa u sklopu dobrovoljnoga mirovinskog osiguranja na temelju individualne kapitalizirane štednje.
 
-#### Članak 16.
+### Članak 16.
 
 (1) U roku od 15 dana od dana podnošenja zahtjeva za davanje odobrenja za rad, Agencija može od osnivača zatražiti dodatne dokumente i informacije, koje osnivači moraju podnijeti Agenciji u roku od 15 dana.
 
@@ -286,13 +283,13 @@ Uz zahtjev za davanje odobrenja za rad iz članka 14. stavka 1. ovoga Zakona obv
 
 - prikupljati dokumente i informacije iz drugih izvora.
 
-#### Članak 17.
+### Članak 17.
 
 (1) Agencija razmatra zahtjev za davanje odobrenja za rad i u roku od 15 dana od dana primitka posljednjeg dokumenta i informacije može odobriti ili odbiti zahtjev.
 
 (2) Izdavanjem odobrenja za rad osiguravajućem društvu smatra se da je prihvaćen statut i akti društva iz članka 15. ovoga Zakona.
 
-#### Članak 18.
+### Članak 18.
 
 (1) Agencija će rješenjem odbiti davanje odobrenja za rad osiguravajućem društvu ako:
 
@@ -302,11 +299,11 @@ Uz zahtjev za davanje odobrenja za rad iz članka 14. stavka 1. ovoga Zakona obv
 
 (2) Rješenje Agencije iz stavka 1. ovoga članka konačno je i protiv njega se može pokrenuti upravni spor.
 
-#### Članak 19.
+### Članak 19.
 
 Na izmjene i dopune statuta, odnosno društvenog ugovora ili izjave o osnivanju osiguravajućeg društva potrebna je suglasnost Agencije.
 
-#### Članak 20.
+### Članak 20.
 
 Osiguravajuće društvo:
 
@@ -316,11 +313,11 @@ Osiguravajuće društvo:
 
 3. obavlja druge poslove na temelju ugovora s mirovinskim društvima u skladu sa zakonom i propisima Agencije.
 
-#### Članak 21.
+### Članak 21.
 
 Osiguravajuće društvo može, u okviru dobrovoljnoga mirovinskog programa, isplaćivati doživotne mirovine na temelju izravnih jednokratnih uplata i fizičkih osoba, odnosno poslodavaca za svoje zaposlenike u vrijeme njihovog umirovljenja.
 
-#### Članak 22.
+### Članak 22.
 
 (1) Osiguravajuće društvo donosi plan poslovanja, koji obuhvaća osobito:
 
@@ -332,7 +329,7 @@ Osiguravajuće društvo može, u okviru dobrovoljnoga mirovinskog programa, ispl
 
 (2) Plan poslovanja donosi uprava osiguravajućeg društva, a potvrđuje ga Agencija.
 
-#### Članak 23.
+### Članak 23.
 
 (1) Osiguravajuće društvo ne smije ponuditi bilo kakve dodatne isplate, odnosno povlastice nekoj osobi u svrhu nagovaranja te osobe da sklopi ugovor o mirovini.
 
@@ -342,15 +339,15 @@ Osiguravajuće društvo može, u okviru dobrovoljnoga mirovinskog programa, ispl
 
 (4) Povlastice, odnosno dodatne isplate znače bilo kakve isplate poput dodatnih naknada, plaćanja naknade radi raskida s drugim osiguravajućim društvom ili poklanjanje fizičkih predmeta, osim isplata koje prirodno i izravno proizlaze iz statusa korisnika mirovine.
 
-#### Članak 24.
+### Članak 24.
 
 Osiguravajuće društvo i povezana osoba u odnosu na to društvo kao i njihovi agenti i zaposlenici ne smiju izražavati nikakve tvrdnje, odnosno davati izjave, bilo usmeno, putem oglasa, drugog promidžbenog materijala, bilo u obliku informacija priopćenih članovima fonda, o određenom osiguravajućem društvu, a koje mogu dovesti u zabludu, te prenijeti lažne informacije.
 
-#### Članak 25.
+### Članak 25.
 
 Agencija može donijeti propise kojima se utvrđuju dodatni uvjeti vezani za marketing mirovina i drugih mirovinskih davanja.
 
-#### Članak 26.
+### Članak 26.
 
 (1) Osiguravajuće društvo mora imati jednoga neovisnog aktuara.
 
@@ -358,7 +355,7 @@ Agencija može donijeti propise kojima se utvrđuju dodatni uvjeti vezani za mar
 
 (3) Aktuar iz stavka 1. ovoga članka ne može obavljati usluge za bilo koje drugo osiguravajuće društvo.
 
-#### Članak 27.
+### Članak 27.
 
 (1) Aktuar osiguravajućeg društva mora imati ovlaštenje izdano od Agencije.
 
@@ -366,11 +363,9 @@ Agencija može donijeti propise kojima se utvrđuju dodatni uvjeti vezani za mar
 
 (3) Agencija može izdavanje ovlaštenja uvjetovati posebnom stručnom izobrazbom koja se odnosi na izračun mirovina i drugih mirovinskih davanja prema ovome Zakonu. Program i način provedbe stručne izobrazbe uredit će Agencija.
 
-## GLAVA III.
+## GLAVA III. — MIROVINE I DRUGA MIROVINSKA DAVANJA
 
-### MIROVINE I DRUGA MIROVINSKA DAVANJA
-
-#### Članak 28.
+### Članak 28.
 
 (1) Osiguravajuće društvo koje isplaćuje mirovine u sklopu obveznog mirovinskog osiguranja na temelju individualne kapitalizirane štednje (u daljnjem tekstu: obvezno mirovinsko osiguranje) obvezno je ponuditi sljedeće vrste mirovina:
 
@@ -394,7 +389,7 @@ Agencija može donijeti propise kojima se utvrđuju dodatni uvjeti vezani za mar
 
 (8) Doživotna starosna i privremena starosna mirovina prema programu iz stavka 5. i 6. ovoga članka može se ostvariti najranije s navršenih 50 godina života.
 
-#### Članak 29.
+### Članak 29.
 
 (1) Osiguravajuće društvo koje isplaćuje mirovinu u sklopu obveznog mirovinskog osiguranja obvezno je sklopiti ugovor o mirovini sa svakim članom obveznog fonda koji izabere to društvo. Isto vrijedi i za članove obitelji preminulog člana fonda.
 
@@ -402,7 +397,7 @@ Agencija može donijeti propise kojima se utvrđuju dodatni uvjeti vezani za mar
 
 (3) Svi članovi obitelji iz članka 28. stavak 2. ovoga Zakona koji imaju pravo na obiteljsku mirovinu iza smrti člana obveznog fonda, mogu sklopiti ugovor samo s jednim osiguravajućim društvom za isplatu mirovine.
 
-#### Članak 30.
+### Članak 30.
 
 (1) Osiguravajuće društvo isplaćuje mirovine iz obveznog mirovinskog osiguranja u jednom od sljedećih oblika:
 
@@ -430,11 +425,11 @@ Agencija može donijeti propise kojima se utvrđuju dodatni uvjeti vezani za mar
 
 (9) Mirovina se isplaćuje korisniku mirovine na način određen ugovorom o mirovini.
 
-#### Članak 31.
+### Članak 31.
 
 Osiguravajuće društvo koje isplaćuje mirovine u sklopu obveznog mirovinskog osiguranja, obvezno usklađuje mirovine prema stopi promjene predmeta troškova života najmanje dva puta godišnje za prethodno polugodište. Kretanje troškova života utvrđuje se prema podacima Državnog zavoda za statistiku.
 
-#### Članak 32.
+### Članak 32.
 
 (1) Korisnik mirovine može u bilo koje vrijeme pisanim putem povući imenovanje ili imenovati drugog korisnika uz suglasnost bračnog druga.
 
@@ -446,23 +441,23 @@ Osiguravajuće društvo koje isplaćuje mirovine u sklopu obveznog mirovinskog o
 
 (5) Ako korisnik mirovine nije imenovao korisnika, zajamčena isplata na koju bi imao pravo korisnik isplaćuje se u jednakim dijelovima bračnom drugu i djeci preminule osobe, a ukoliko nema bračnog druga ili djece, roditeljima i unucima preminule osobe. Ukoliko nema roditelja ili unuka preminule osobe, isplata se vrši u jednakim dijelovima braći i sestrama preminuloga korisnika.
 
-#### Članak 33.
+### Članak 33.
 
 Ako je korisnik mirovine izabrao isplatu mirovine u obliku navedenom u članku 30. stavku 1. točki 4. ovoga Zakona, te nakon toga umro, nadživjeli bračni drug može povući bilo koje imenovanje korisnika, osim ako su imenovani korisnici djeca umrlog korisnika mirovine mlađa od 18 godina života.
 
-#### Članak 34.
+### Članak 34.
 
 (1) Ako je osiguravajuće društvo dužno isplatiti mirovinu ili zajamčene isplate, a osoba koja ima pravo na primitak tih isplata ne može se pronaći na adresi koja je dostavljena osiguravajućem društvu, ili ako osiguravajuće društvo nema podatke o bankovnom računu te osobe, osiguravajuće društvo će odmah od Središnjeg registra osiguranika, bez plaćanja naknade, zatražiti podatke o prebivalištu te osobe i/ili o njezinom bankovnom računu.
 
 (2) Ako imenovani korisnik nije pronađen u roku od jedne godine od kada je prvi put stekao pravo na isplate, već je pronađen nakon toga, ta osoba nema pravo na bilo kakve zaostale isplate, već samo ima pravo na isplate obračunate od dana kada je pronađena, ili od kada su utvrđeni točni podaci o njezinom bankovnom računu.
 
-#### Članak 35.
+### Članak 35.
 
 (1) Središnji registar osiguranika ima pravo uvida u državne matice radi pribavljanja podataka o korisnicima mirovine, članovima njihovih obitelji i imenovanim korisnicima.
 
 (2) Središnji registar osiguranika obavješćuje osiguravajuće društvo o podacima iz stavka 1. ovoga članka najkasnije deset dana nakon što dozna za tu činjenicu.
 
-#### Članak 36.
+### Članak 36.
 
 (1) Korisnik mirovine mora odabrati isplatu mirovine u sklopu obveznog mirovinskog osiguranja u obliku iz članka 30. stavka 1. točke 1. ili 3. ovoga Zakona, ako u vrijeme umirovljenja nema bračnog druga.
 
@@ -472,11 +467,11 @@ Ako je korisnik mirovine izabrao isplatu mirovine u obliku navedenom u članku 3
 
 (4) Korisnik mirovine mora odabrati isplatu mirovine u obliku iz članka 30. stavka 1. točke 2. ili 4. ovoga Zakona ako u vrijeme umirovljenja ima bračnog druga koji je stariji od 50 godina života, koji nije zaposlen i ne ostvaruje druge redovite prihode. Ako je bračni drug zaposlen ili ostvaruje druge redovite prihode, korisnik mirovine može odabrati isplatu mirovine u obliku iz članka 30. stavka 1. točke 1. ili 3. ovoga Zakona samo uz suglasnost bračnog druga.
 
-#### Članak 37.
+### Članak 37.
 
 Jednom kada osoba sklopi ugovor o mirovini, ona ne može raskinuti takav ugovor niti sklopiti ugovor o mirovini s drugim osiguravajućim društvom ili odabrati drugi oblik isplate mirovine, ako ovim Zakonom nije drukčije uređeno.
 
-#### Članak 38.
+### Članak 38.
 
 (1) Osiguravajuće društvo dostavlja Agenciji podatke o predloženim jediničnim iznosima mirovina i zajamčenim isplatama imenovanim korisnicima najkasnije jedan dan prije nego što su uvedene. Ti podaci moraju biti potanko obrazloženi sa navodima gospodarskih i aktuarskih parametara na kojima se temelje predloženi jedinični iznosi.
 
@@ -484,47 +479,45 @@ Jednom kada osoba sklopi ugovor o mirovini, ona ne može raskinuti takav ugovor 
 
 (3) Odredba stavka 1. ovoga članka odnosi se i na bilo kakvu promjenu jediničnih iznosa mirovina ili zajamčenih isplata.
 
-#### Članak 39.
+### Članak 39.
 
 (1) Jedinični iznosi mirovina i zajamčenih isplata mogu se razlikovati samo ovisno o vrsti i obliku mirovine, o načinu usklađivanja, o dobnoj skupini kojoj korisnik mirovine pripada i o trajanju zajamčenog razdoblja. Jedinični iznosi jednako se primjenjuju prema svim osobama koje žele sklopiti ugovor o mirovini.
 
 (2) Jedinični iznos mirovina i zajamčenih isplata u dobrovoljnom mirovinskom osiguranju mogu se razlikovati i prema spolu korisnika i trajanju privremene starosne mirovine.
 
-#### Članak 40.
+### Članak 40.
 
 (1) Osiguravajuće društvo može izmijeniti jedinične iznose mirovina i zajamčenih isplata pod uvjetom da takva izmjena utječe na isti način na sve osobe koje žele sklopiti ugovor o mirovini.
 
 (2) Osobi koja želi sklopiti ugovor o mirovini, dostavljena obavijest o predloženim jediničnim iznosima mirovina i zajamčenih isplata ne može se izmijeniti u roku od pet radnih dana od dana dostavljene obavijesti.
 
-#### Članak 41.
+### Članak 41.
 
 (1) Osiguravajuće društvo jednokratno isplaćuje korisnicima mirovine dio godišnjeg viška sredstava tehničkih pričuva obveznog mirovinskog osiguranja, ako se taj višak može raspodijeliti u skladu s člankom 67. stavkom 1. ili 2. ovoga Zakona.
 
 (2) Osiguravajuće društvo može jednokratno isplatiti korisnicima mirovine dio godišnjeg viška sredstava tehničkih pričuva dobrovoljnog mirovinskog osiguranja, ako se taj višak može raspodijeliti u skladu s člankom 67. stavkom 1. ili 2. ovoga Zakona.
 
-#### Članak 42.
+### Članak 42.
 
 (1) Korisnik mirovine i drugih mirovinskih davanja može ovlastiti opunomoćenika da u njegovo ime prima mirovinu i druga novčana mirovinska davanja.
 
 (2) Punomoć iz stavka 1. ovoga članka vrijedi jednu godinu.
 
-#### Članak 43.
+### Članak 43.
 
 Korisnik mirovine i drugoga mirovinskog davanja, odnosno njegov opunomoćenik, dužan je u roku od 15 dana prijaviti osiguravajućem društvu svaku promjenu nastalu u stvarnim ili osobnim okolnostima koje utječu na isplatu mirovine ili drugog novčanog mirovinskog davanja (promjena adrese, otvaranje tekućeg računa, promjena opunomoćenika i dr.).
 
-#### Članak 44.
+### Članak 44.
 
 Mirovina i drugo novčano davanje podliježe ovrsi tako da se za naplatu potraživanja u ime zakonskog uzdržavanja može uzeti najviše jedna polovica, a za ostala potraživanja najviše jedna trećina.
 
-## GLAVA IV.
+## GLAVA IV. — UGOVOR O MIROVINI
 
-### UGOVOR O MIROVINI
-
-#### Članak 45.
+### Članak 45.
 
 Osiguravajuće društvo mora imati standardni obrazac ugovora za svaku vrstu mirovine koju isplaćuje.
 
-#### Članak 46.
+### Članak 46.
 
 Ugovor o mirovini osobito sadržava sljedeće podatke:
 
@@ -550,7 +543,7 @@ Ugovor o mirovini osobito sadržava sljedeće podatke:
 
 11. druge podatke značajne za isplatu mirovine i drugih mirovinskih davanja.
 
-#### Članak 47.
+### Članak 47.
 
 (1) Osiguravajuće društvo dostavlja Agenciji primjerak standardnog obrasca ugovora o mirovini najmanje dva mjeseca prije nego započne koristiti taj obrazac ugovora.
 
@@ -562,11 +555,11 @@ Ugovor o mirovini osobito sadržava sljedeće podatke:
 
 (5) Ako osiguravajuće društvo ne postupi po primjedbama Agencije, ugovor je ništav.
 
-#### Članak 48.
+### Članak 48.
 
 Osiguravajuće društvo je dužno izvijestiti Agenciju o svakoj promjeni standardnog obrasca ugovora o mirovini. Ako Agencija ne da primjedbe na te promjene u roku od 30 dana nakon njihovog primitka, osiguravajuće društvo može izdati ugovor o mirovini na izmijenjenom obrascu.
 
-#### Članak 49.
+### Članak 49.
 
 (1) Najranije dva mjeseca prije datuma umirovljenja, član obveznog mirovinskog fonda može sklopiti ugovor o mirovini s osiguravajućim društvom prema svojem izboru.
 
@@ -580,25 +573,25 @@ Osiguravajuće društvo je dužno izvijestiti Agenciju o svakoj promjeni standar
 
 2. sadržaj naloga, izdan od Središnjeg registra osiguranika obveznom mirovinskom društvu, u svezi s doznakom koju treba izvršiti osiguravajućem društvu.
 
-#### Članak 50.
+### Članak 50.
 
 (1) Ako osoba sklopi ugovor o mirovini s osiguravajućim društvom, ona može povući ugovor iz Središnjeg registra osiguranika najkasnije 15 dana po njegovom sklapanju. Povlačenje ugovora o mirovini jednako je raskidu takvog ugovora od strane stranke koja ga povlači, a pravne posljedice proizvodi od dana podnošenja Središnjem registru osiguranika obavijesti o povlačenju.
 
 (2) Ugovor o mirovini mora sadržavati odredbu o mogućnosti povlačenja toga ugovora iz Središnjeg registra osiguranika prema stavku 1. ovoga članka.
 
-#### Članak 51.
+### Članak 51.
 
 (1) Obvezno mirovinsko društvo koje upravlja obveznim mirovinskim fondom čiji je član sklopio ugovor o mirovini s osiguravajućim društvom, doznakom izvršava plaćanje tome osiguravajućem društvu najkasnije peti radni dan nakon što obvezno mirovinsko društvo primi nalog od Središnjeg registra osiguranika.
 
 (2) Doznaka obveznog mirovinskog društva osiguravajućem društvu obuhvaća sva sredstva koja su prikupljena na računu člana mirovinskog fonda i na nju se ne odnose nikakva potraživanja fonda, u skladu sa Zakonom o obveznim i dobrovoljnim mirovinskim fondovima.
 
-#### Članak 52.
+### Članak 52.
 
 (1) Ako dospjeli doprinosi na osobni račun člana obveznog fonda nisu pravovremeno bili uplaćeni, obveznik plaćanja tog doprinosa svoju će obvezu s pripadajućom kamatom izvršiti uplatom osiguravajućem društvu s kojim je član fonda sklopio ugovor o mirovini.
 
 (2) U slučaju iz stavka 1. ovoga članka osiguravajuće društvo sklopit će aneks ugovora o mirovini s korisnikom mirovine kojim će utvrditi novu svotu mirovine prema jediničnim iznosima mirovina na dan sklapanja aneksa ugovora i uz odgovarajuću primjenu članka 53. ovoga Zakona.
 
-#### Članak 53.
+### Članak 53.
 
 (1) Osiguravajuće društvo ne može odbiti više od 5% od primljene doznake i jednokratne uplate iz članka 52. ovoga Zakona za pokrivanje troškova u svezi s aktivnosti koje to osiguravajuće društvo vodi.
 
@@ -606,41 +599,39 @@ Osiguravajuće društvo je dužno izvijestiti Agenciju o svakoj promjeni standar
 
 (3) Osiguravajuće društvo ne može korisnicima mirovine ili imenovanim korisnicima naplatiti bilo kakve naknade, osim naknade iz stavka 1. ovoga članka.
 
-#### Članak 54.
+### Članak 54.
 
 Ako obvezno mirovinsko društvo ne izvrši doznaku u roku iz članka 51. stavka 1. ovoga Zakona, iznosu doznake pridodaju se zatezne kamate, prema stopi utvrđenoj Zakonom.
 
-#### Članak 55.
+### Članak 55.
 
 (1) Osiguravajuće društvo ne smije sklopiti ugovor o mirovini kada financijsko stanje osiguravajućeg društva pokazuje manjak u sredstvima tehničkih pričuva, ili kada aktuar obavijesti osiguravajuće društvo da će se takav manjak vjerojatno pojaviti te kada se steknu zakonski uvjeti za prestanak poslovanja toga osiguravajućeg društva.
 
 (2) Ako je ugovor o mirovini sklopljen unatoč postojanja okolnosti iz stavka 1. ovoga članka, ugovor je ništav.
 
-#### Članak 56.
+### Članak 56.
 
 Na sredstva koja se doznačuju osiguravajućem društvu i koja su temelj za određivanje mirovine po ovome Zakonu, prigodom njihova prijenosa u osiguravajuće društvo ne plaća se porez ili druga pristojba te ili slične naravi.
 
-## GLAVA V.
+## GLAVA V. — FINANCIJSKO UPRAVLJANJE OSIGURAVAJU&AELIG;IM DRUŠTVIMA
 
-### FINANCIJSKO UPRAVLJANJE OSIGURAVAJU&AELIG;IM DRUŠTVIMA
-
-#### Članak 57.
+### Članak 57.
 
 (1) Svako osiguravajuće društvo ima vlastita sredstva u iznosu ne manjem od granice solventnosti.
 
 (2) Agencija donosi propise koji pobliže određuju način izračunavanja i visinu granice solventnosti.
 
-#### Članak 58.
+### Članak 58.
 
 (1) Jamstveni kapital predstavlja dvije trećine granice solventnosti.
 
 (2) Visinu jamstvenog kapitala utvrđuje Agencija.
 
-#### Članak 59.
+### Članak 59.
 
 Osiguravajuće društvo podnosi Agenciji, zajedno s godišnjom bilancom, izračun granice solventnosti i dokaz o posjedovanju vlastitih sredstava u iznosu koji pokriva granicu solventnosti.
 
-#### Članak 60.
+### Članak 60.
 
 (1) Osiguravajuće društvo podnosi Agenciji tromjesečna i godišnja financijska izvješća koja potpisuju uprava osiguravajućeg društva i aktuar.
 
@@ -660,7 +651,7 @@ Osiguravajuće društvo podnosi Agenciji, zajedno s godišnjom bilancom, izraču
 
 2. načela izrade aktuarske procjene u godišnjem financijskom izvješću.
 
-#### Članak 61.
+### Članak 61.
 
 (1) Ako su vlastita sredstva osiguravajućeg društva manja od:
 
@@ -679,13 +670,13 @@ tvu, Agencija može zahtijevati promjene prijedloga sadržanih u planu. U tom sl
 
 (6) Privremeni upravitelj priprema i s Agencijom se dogovara o planu povećanja sredstava osiguravajućeg društva do tražene razine, osigurava pravilnu provedbu plana i izvješćuje Agenciju, kada ona zatraži o tijeku tog posla, a obavezno svaka tri mjeseca.
 
-#### Članak 62.
+### Članak 62.
 
 (1) Osiguravajuće društvo ima sredstva tehničkih pričuva za obvezno mirovinsko osiguranje, odnosno dobrovoljno mirovinsko osiguranje i obvezno utvrđuje interventne pričuve u skladu s propisima Agencije.
 
 (2) Osiguravajuće društvo može imati posebne pričuve utvrđene statutom, odnosno društvenim ugovorom ili izjavom o osnivanju društva.
 
-#### Članak 63.
+### Članak 63.
 
 (1) Sredstva tehničkih pričuva stvaraju se od uplata iz članka 53. stavka 2. ovoga Zakona.
 
@@ -697,23 +688,23 @@ tvu, Agencija može zahtijevati promjene prijedloga sadržanih u planu. U tom sl
 
 (5) Agencija donosi propise koji određuju načela stvaranja sredstava tehničkih pričuva i vrste tehničkih pričuva.
 
-#### Članak 64.
+### Članak 64.
 
 (1) Iznos potreban za sredstva tehničkih pričuva izračunava aktuar osiguravajućeg društva u vrijeme pripreme tromjesečnog i godišnjega financijskog izvješća.
 
 (2) Agencija propisuje način na koji aktuar osiguravajućeg društva određuje parametre aktuarskih pretpostavki koje treba primijeniti kod određivanja iznosa tehničkih pričuva osiguravajućeg društva, kao i učestalost izračuna potrebnih sredstava tehničkih pričuva u rokovima kraćim od rokova iz stavka 1. ovoga članka.
 
-#### Članak 65.
+### Članak 65.
 
 Potvrda aktuara osiguravajućeg društva da je vrijednost sredstava tehničkih pričuva niža od vrijednosti svih tekućih i budućih obveza prema ugovorima o mirovini koje je osiguravajuće društvo sklopilo, smatra se manjkom sredstava tehničkih pričuva tog osiguravajućeg društva.
 
-#### Članak 66.
+### Članak 66.
 
 (1) Ako postoji manjak sredstava tehničkih pričuva, osiguravajuće društvo u roku od 15 dana obavještava Agenciju i donosi plan za neposredno pokrivanje manjka korištenjem vlastitih sredstava osiguravajućeg društva.
 
 (2) Nakon primitka plana iz stavka 1. ovoga članka odgovarajuće se primjenjuju odredbe članka 61. stavka 2., 3. i 4. ovoga Zakona.
 
-#### Članak 67.
+### Članak 67.
 
 (1) Ako aktuar osiguravajućeg društva potvrdi u godišnjem financijskom izvješću da vrijednost sredstava tehničkih pričuva u obveznom mirovinskom osiguranju prelazi 110% vrijednosti svih tekućih i budućih obveza prema ugovorima o mirovinama koje je osiguravajuće društvo sklopilo, iznos koji prelazi tu vrijednost osiguravajuće društvo može raspodijeliti u skladu sa stavkom 3. i 4. ovoga članka.
 
@@ -725,7 +716,7 @@ Potvrda aktuara osiguravajućeg društva da je vrijednost sredstava tehničkih p
 
 (5) Osiguravajuće društvo isplaćuje korisnicima mirovina višak u roku od 60 dana od dana prihvaćanja godišnjega financijskog izvješća od strane skupštine osiguravajućeg društva.
 
-#### Članak 68.
+### Članak 68.
 
 (1) Sredstva tehničkih pričuva osiguravajuće društvo ulaže u sljedeće vrste imovine:
 
@@ -757,7 +748,7 @@ Potvrda aktuara osiguravajućeg društva da je vrijednost sredstava tehničkih p
 
 (2) Agencija donosi propise kojima određuje druge vrste imovine u koju osiguravajuća društva mogu ulagati sredstva tehničkih pričuva s tim da ukupna vrijednost tih ulaganja ne prelazi 5% vrijednosti sredstava tehničke pričuve.
 
-#### Članak 69.
+### Članak 69.
 
 (1) Na ulaganje sredstava tehničkih pričuva u određenu vrstu imovine iz članka 68. stavka 1. točke 2. do 10. primjenjuju se sljedeća ograničenja:
 
@@ -789,7 +780,7 @@ Potvrda aktuara osiguravajućeg društva da je vrijednost sredstava tehničkih p
 
 (6) Agencija donosi propise o ulaganju sredstava tehničkih pričuva u inozemstvo, kao i pobliže uvjete takvih ulaganja.
 
-#### Članak 70.
+### Članak 70.
 
 Sredstva tehničkih pričuva ne mogu se uložiti u:
 
@@ -798,7 +789,7 @@ tva,
 
 2. dionice ili ostale vrijednosne papire povezanih osoba osiguravajućeg društva.
 
-#### Članak 71.
+### Članak 71.
 
 (1) U slučaju odstupanja od ograničenja propisanih u članku 68., 69. i 70. ovoga Zakona, zbog sljedećih razloga:
 
@@ -816,7 +807,7 @@ osiguravajuće društvo tada ima obvezu poduzeti mjere da se aktivnosti ulaganja
 
 (3) Na zahtjev osiguravajućeg društva podnijetog najkasnije 30 dana od dana povrede ili potvrde postojanja povrede, Agencija može produžiti rok iz stavka 2. ovoga članka na 12 mjeseci, ukoliko je to potrebno radi zaštite interesa korisnika mirovine.
 
-#### Članak 72.
+### Članak 72.
 
 (1) Osiguravajućem društvu zabranjeno je prodavati svoju imovinu:
 
@@ -834,11 +825,9 @@ osiguravajuće društvo tada ima obvezu poduzeti mjere da se aktivnosti ulaganja
 
 (3) Osiguravajućem društvu zabranjeno je davati zajmove i jamstva.
 
-## GLAVA VI.
+## GLAVA VI. — RAZLOZI ZA PRESTANAK POSLOVANJA OSIGURAVAJU&AELIG;EG DRUŠTVA
 
-### RAZLOZI ZA PRESTANAK POSLOVANJA OSIGURAVAJU&AELIG;EG DRUŠTVA
-
-#### Članak 73.
+### Članak 73.
 
 Razlozi za prestanak osiguravajućeg društva jesu:
 
@@ -848,7 +837,7 @@ Razlozi za prestanak osiguravajućeg društva jesu:
 
 3. otvaranje stečajnog postupka ili postupka likvidacije, te u drugim slučajevima predviđenim zakonom.
 
-#### Članak 74.
+### Članak 74.
 
 (1) Agencija će oduzeti odobrenje za rad osiguravajućem društvu prema članku 73. stavku 1. točki 1. ovoga Zakona:
 
@@ -864,7 +853,7 @@ Razlozi za prestanak osiguravajućeg društva jesu:
 
 (5) Oduzimanje odobrenja za rad na temelju obavijesti Agencije upisuje se u sudski registar.
 
-#### Članak 75.
+### Članak 75.
 
 (1) U slučajevima iz članka 74. stavka 3. ovoga Zakona Agencija će imenovati privremenog upravitelja pisanom odlukom.
 
@@ -874,11 +863,11 @@ Razlozi za prestanak osiguravajućeg društva jesu:
 
 (4) Imenovanje privremenog upravitelja upisuje se u sudski registar.
 
-#### Članak 76.
+### Članak 76.
 
 Dostavom odluke o imenovanju privremenog upravitelja prestaju sve ovlasti organa uprave, nadzornog odbora i skupštine osiguravajućeg društva, koje istodobno preuzima privremeni upravitelj.
 
-#### Članak 77.
+### Članak 77.
 
 (1) Privremeni upravitelj ima pristup i nadzor nad imovinom, službenim prostorijama, poslovnim knjigama i drugom dokumentacijom osiguravajućeg društva.
 
@@ -886,7 +875,7 @@ Dostavom odluke o imenovanju privremenog upravitelja prestaju sve ovlasti organa
 
 (3) Nakon imenovanja privremenog upravitelja ne mogu se sklapati novi ugovori o mirovinama i drugim mirovinskim davanjima.
 
-#### Članak 78.
+### Članak 78.
 
 Ovlasti privremenog upravitelja prestaju:
 
@@ -894,7 +883,7 @@ Ovlasti privremenog upravitelja prestaju:
 
 2. danom ukidanja odluke o imenovanju.
 
-#### Članak 79.
+### Članak 79.
 
 (1) Kada rješenje o oduzimanju odobrenja za rad postane pravomoćno, Agencija se u roku od 15 dana javnim pozivom obraća postojećim osiguravajućim društvima da u roku od 15 dana podnesu ponudu o preuzimanju korisnika mirovina prema ugovorima o mirovini po osnovi obveznog mirovinskog osiguranja.
 
@@ -906,7 +895,7 @@ Ovlasti privremenog upravitelja prestaju:
 
 (5) Osiguravajuće društvo iz stavka 3. i 4. ovoga članka može preuzeti stare ugovore ili sklopiti nove ugovore o mirovini s tim da novo ugovoreni uvjeti ne mogu biti nepovoljniji.
 
-#### Članak 80.
+### Članak 80.
 
 Agencija može odlučiti o pokretanju postupka likvidacije osiguravajućeg društva u sljedećim slučajevima:
 
@@ -918,27 +907,27 @@ Agencija može odlučiti o pokretanju postupka likvidacije osiguravajućeg druš
 
 4. ako društvo ne uspije, koristeći vlastita sredstva, pokriti manjak sredstava tehničkih pričuva do određenog roka.
 
-#### Članak 81.
+### Članak 81.
 
 Prije odluke o otvaranju postupka likvidacije, Agencija može dati osiguravajućem društvu određeni rok, ne više od šest mjeseci, u kojemu osiguravajuće društvo mora dovesti svoje aktivnosti do odgovarajućeg standarda.
 
-#### Članak 82.
+### Članak 82.
 
 (1) Osiguravajuće društvo obvezno je odmah izvijestiti Agenciju o pojavi bilo kojeg događaja koji predstavlja razlog za dobrovoljnu likvidaciju, te pružiti detaljne podatke o likvidatoru.
 
 (2) Agencija može imenovati likvidatora po službenoj dužnosti, pored likvidatora iz stavka 1. ovoga članka.
 
-#### Članak 83.
+### Članak 83.
 
 (1) U postupku likvidacije osiguravajućeg društva sredstva tehničkih pričuva ne mogu se upotrijebiti za podmirivanje potraživanja osim potraživanja koja proizlaze iz ugovora o mirovinama koje je to osiguravajuće društvo sklopilo.
 
 (2) Ako se tijekom postupka likvidacije ustanovi da postoji manjak sredstava tehničkih pričuva, a vlastita sredstva društva nisu dovoljna da pokriju manjak, likvidator će tražiti od nadležnog suda da proglasi stečaj osiguravajućeg društva, a u isto vrijeme će o tome izvijestiti Agenciju.
 
-#### Članak 84.
+### Članak 84.
 
 Ako osiguravajuće društvo uđe u postupak likvidacije iz drugih razloga osim onih navedenih u ovome Zakonu, te ako likvidator ima osnovan razlog vjerovati da možda postoji manjak u sredstvima tehničkih pričuva, likvidator će tražiti od Agencije da imenuje neovisnog aktuara radi procjene stvarnog stanja.
 
-#### Članak 85.
+### Članak 85.
 
 (1) Na stečaj osiguravajućeg društva primjenjuju se propisi o stečaju, ako ovim Zakonom nije drukčije određeno.
 
@@ -948,11 +937,11 @@ Ako osiguravajuće društvo uđe u postupak likvidacije iz drugih razloga osim o
 
 (4) Sredstva tehničkih pričuva ne ulaze u stečajnu masu.
 
-#### Članak 86.
+### Članak 86.
 
 U slučaju prestanka osiguravajućeg društva zbog likvidacije ili stečaja, na preuzimanje korisnika mirovine prema ugovorima o mirovini po osnovi obveznog mirovinskog osiguranja odgovarajuće se primjenjuju odredbe članka 79. ovoga Zakona.
 
-#### Članak 87.
+### Članak 87.
 
 (1) Osiguravajuće društvo može se pripojiti, odnosno spojiti s drugim osiguravajućim društvom.
 
@@ -962,15 +951,13 @@ U slučaju prestanka osiguravajućeg društva zbog likvidacije ili stečaja, na 
 
 (4) Za pripajanje, odnosno spajanje osiguravajućih društava Agencija može propisati posebne uvjete.
 
-#### Članak 88.
+### Članak 88.
 
 Osiguravajuće društvo će u dnevnom tisku koji se distribuira na cijelom teritoriju Republike Hrvatske objaviti sadržaj odobrenja Agencije o pripajanju, odnosno spajanju osiguravajućih društava.
 
-## GLAVA VII.
+## GLAVA VII. — RA&EGRAVE;UN MIROVINSKOG JAMSTVA
 
-### RA&EGRAVE;UN MIROVINSKOG JAMSTVA
-
-#### Članak 89.
+### Članak 89.
 
 (1) Radi osiguranja redovite isplate mirovine članu obveznog mirovinskog fonda, odnosno članu njegove obitelji u slučaju kada osiguravajuće društvo koje je započelo isplaćivati mirovinu nije u mogućnosti tu mirovinu redovito isplaćivati u mjesečnoj svoti određenoj sklopljenim ugovorom o mirovini, osniva se račun mirovinskog jamstva.
 
@@ -978,21 +965,19 @@ Osiguravajuće društvo će u dnevnom tisku koji se distribuira na cijelom terit
 
 (3) Nalog za korištenje sredstava s računa mirovinskog jamstva daje Agencija.
 
-#### Članak 90.
+### Članak 90.
 
 (1) Mirovina iz članka 89. ovoga Zakona određuje se u visini ugovorene i usklađene mirovine prema odredbama ovoga Zakona.
 
 (2) Republika Hrvatska jamči isplatu mirovina u cijelosti iz računa mirovinskog jamstva, odnosno iz državnog proračuna.
 
-#### Članak 91.
+### Članak 91.
 
 (1) Sredstva na računu mirovinskog jamstva sastoje se od doprinosa osiguravajućih društava i pripadajuće kamate.
 
-## GLAVA VIII.
+## GLAVA VIII. — NADZOR
 
-### NADZOR
-
-#### Članak 92.
+### Članak 92.
 
 (1) Nadzor nad poslovanjem osiguravajućih društava obavlja Agencija.
 
@@ -1012,11 +997,11 @@ Osiguravajuće društvo će u dnevnom tisku koji se distribuira na cijelom terit
 
 (3) Podaci i saznanja do kojih dođe Agencija u obavljanju poslova iz svojega djelokruga, a koji predstavljaju poslovnu tajnu osiguravajućeg društva, ne mogu se koristiti u osobne svrhe, a niti iznositi u javnost.
 
-#### Članak 93.
+### Članak 93.
 
 U obavljanju poslova nadzora, prema ovome Zakonu, Agencija mora voditi brigu o zaštiti interesa korisnika mirovine.
 
-#### Članak 94.
+### Članak 94.
 
 (1) U obavljanju poslova nadzora, Agencija ima sljedeća prava i ovlasti:
 
@@ -1042,7 +1027,7 @@ U obavljanju poslova nadzora, prema ovome Zakonu, Agencija mora voditi brigu o z
 
 (7) Ako osiguravajuće društvo ne ukloni nedostatke i nepravilnosti u određenom roku, Agencija može oduzeti odobrenje za rad, a ako postoje radnje ili djela koja su kažnjiva po zakonu, ravnatelj Agencije ili osoba koju on ovlasti podnijet će odgovarajuću prijavu nadležnom državnom tijelu.
 
-#### Članak 95.
+### Članak 95.
 
 (1) Osiguravajuće društvo je obvezno izvijestiti Agenciju o:
 
@@ -1056,33 +1041,29 @@ U obavljanju poslova nadzora, prema ovome Zakonu, Agencija mora voditi brigu o z
 
 (2) Izvješće iz stavka 1. ovoga članka osiguravajuće društvo mora uputiti Agenciji najkasnije u roku od osam dana od dana nastale promjene.
 
-#### Članak 96.
+### Članak 96.
 
 (1) Agencija može zahtijevati sazivanje sjednice organa uprave osiguravajućeg društva, te stavljanje na dnevni red pitanja koja smatra nužnim, u namjeri da provede odgovarajući nadzor nad osiguravajućim društvom.
 
 (2) U slučaju iz stavka 1. ovoga članka predstavnik Agencije sudjeluje u radu organa uprave osiguravajućeg društva i taj predstavnik ima pravo sudjelovati u raspravi o svim pitanjima uključenim u dnevni red.
 
-#### Članak 97.
+### Članak 97.
 
 (1) Korisnik mirovine ili imenovani korisnik mirovinskog davanja može uložiti prigovor Agenciji, ako smatra da se osiguravajuće društvo ne pridržava ugovora o mirovini.
 
 (2) U povodu podnijetog prigovora Agencija je obvezna ispitati stanje i ako je potrebno poduzeti odgovarajuće mjere, te o tome izvijestiti podnositelja prigovora.
 
-## GLAVA IX.
+## GLAVA IX. — NAKNADA ŠTETE
 
-### NAKNADA ŠTETE
-
-#### Članak 98.
+### Članak 98.
 
 (1) Osiguravajuće društvo ima pravo na naknadu štete od svake osobe koja od osiguravajućeg društva primi novčano davanje koje joj ne pripada.
 
 (2) Pri utvrđivanju naknade štete iz stavka 1. ovoga članka primjenjuju se odredbe Zakona o obveznim odnosima.
 
-## GLAVA X.
+## GLAVA X. — KAZNENE ODREDBE
 
-### KAZNENE ODREDBE
-
-#### Članak 99.
+### Članak 99.
 
 (1) Osiguravajuće društvo čini prekršaj:
 
@@ -1146,7 +1127,7 @@ U obavljanju poslova nadzora, prema ovome Zakonu, Agencija mora voditi brigu o z
 
 (6) Osobe koje su osuđene zbog prekršaja iz stavka 1. ovoga članka ne mogu dvije godine od dana izvršenja kazne biti odgovorne osobe u osiguravajućem društvu (član uprave ili direktor).
 
-#### Članak 100.
+### Članak 100.
 
 Korisnik mirovine kaznit će se za prekršaj novčanom kaznom u svoti od 1.000,00 do 10.000,00 kuna:
 
@@ -1154,25 +1135,23 @@ Korisnik mirovine kaznit će se za prekršaj novčanom kaznom u svoti od 1.000,0
 
 - ako sklopi ugovor o mirovini suprotno odredbi članka 36. stavka 3. ovoga Zakona.
 
-## GLAVA XI.
+## GLAVA XI. — PRIJELAZNE I ZAVRŠNE ODREDBE
 
-### PRIJELAZNE I ZAVRŠNE ODREDBE
-
-#### Članak 101.
+### Članak 101.
 
 Iznimno od odredbi članka 10. stavka 3. ovoga Zakona članovi uprave osiguravajućeg društva dužni su pribaviti licencu za upravljanje osiguravajućim društvom do 31. prosinca 2000.
 
-#### Članak 102.
+### Članak 102.
 
 Agencija će do dana primjene ovoga Zakona donijeti provedbene propise, kada je za to ovlaštena ovim Zakonom.
 
-#### Članak 103.
+### Članak 103.
 
 (1) Društva za osiguranje koja su, do dana stupanja na snagu ovoga Zakona obavljala poslove mirovinskog osiguranja, prema odredbama Zakona o osiguranju (»Narodne novine«, br. 90/94, 20/99., 46/97 - pročišćeni tekst i 50/99.) dužna su svoju organizaciju i poslovanje uskladiti s odredbama ovoga Zakona do 31. prosinca 2000.
 
 (2) Društva za osiguranje iz stavka 1. ovoga članka dužna su u razdoblju do dana upisa u sudski registar, u poslovnom prometu, na odgovarajući način istaknuti riječi »Društvo nije pod nadzorom Agencije za nadzor mirovinskih fondova i osiguranja«.
 
-#### Članak 104.
+### Članak 104.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjivat će se od 1. siječnja 2000.
 
@@ -1244,3 +1223,247 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (NN 107/2007)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3138*
+
+HRVATSKI SABOR
+
+3138
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O MIROVINSKIM OSIGURAVAJUĆIM DRUŠTVIMA I ISPLATI MIROVINA NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje, kojega je Hrvatski sabor donio na sjednici 3. listopada 2007. godine.  
+Klasa: 011-01/07-01/137  
+Urbroj: 71-05-03/1-07-2  
+Zagreb, 10. listopada 2007.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O MIROVINSKIM OSIGURAVAJUĆIM DRUŠTVIMA I ISPLATI MIROVINA NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE**
+
+### Članak 1.
+
+U Zakonu o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine«, br. 106/99. i 63/00.), u članku 2. stavak 1. mijenja se i glasi:  
+»(1) Mirovina koja se isplaćuje na temelju odredaba ovoga Zakona određuje se i isplaćuje prema ukupnim kapitaliziranim uplatama doprinosa člana obveznog fonda ostvarenim u obveznom mirovinskom fondu do ostvarivanja prava na mirovinu člana fonda, ili prema prenesenim sredstvima člana dobrovoljnog fonda iz dobrovoljnoga mirovinskog fonda u mirovinsko osiguravajuće društvo, odnosno na temelju izravne jednokratne uplate prema članku 21. ovoga Zakona.«
+
+### Članak 2.
+
+U članku 4. točka 2. mijenja se i glasi:  
+»2. dobrovoljni mirovinski program – znači izjavu mirovinskog osiguravajućeg društva kojom se obvezuje da će korisnicima mirovina osigurati mirovine i druge vrste mirovinskih davanja dobrovoljnoga mirovinskog osiguranja, a ta izjava mora sadržavati postupak za određivanje mirovinskog davanja, učestalost i trajnost isplata te ostale informacije o mirovinskom programu koje su važne za donošenje odluke pojedinca o izboru odnosnoga mirovinskog programa,«.  
+U točki 18. u podstavcima 1., 2. i 3. brojka: »5%« zamjenjuje se brojkom: »10%« i na kraju svakog podstavka iza zareza dodaju se riječi: »do trećeg stupnja povezanosti po vertikalnoj liniji posjedovanja dionica, vlasničkih udjela odnosno prava u odlučivanju,«.  
+U podstavku 2. iza riječi: »svaki subjekt« dodaju se riječi: »osim Republike Hrvatske«.  
+Iza podstavka 3. dodaje se novi podstavak 4. koji glasi:  
+»– pojam povezanosti prema ovome Zakonu znači povezanost prvog i drugog subjekta, zatim povezanost drugog i trećeg subjekta te povezanost trećeg i četvrtog subjekta. Povezanost četvrtog subjekta s bilo kojim daljnjim subjektom ne smatra se povezanom osobom s prvim subjektom,«.  
+Dosadašnji podstavci 4., 5. i 6. postaju podstavci 5., 6. i 7.  
+Iza točke 19. dodaju se nove točke 20. do 27. koje glase:  
+»20. dodatni mirovinski sustav – znači svako dobrovoljno mirovinsko (strukovno) osiguranje uspostavljeno u skladu sa Zakonom o obveznim i dobrovoljnim mirovinskim fondovima sa svrhom da osigura dodatnu mirovinu radnicima zaposlenim kod poslodavca, članovima sindikata ili članovima udruge pripadnika samostalne djelatnosti,  
+21. pokrovitelj – poslodavac, sindikat ili udruga pripadnika samostalnih djelatnosti koji mogu osnovati dobrovoljni zatvoreni mirovinski fond,  
+22. država članica – znači državu članicu Europske unije,  
+23. osoba države članice – znači fizičku odnosno pravnu osobu koja ima prebivalište odnosno sjedište na području države članice,  
+24. dobrovoljni mirovinski fond u državi članici – znači dobrovoljni zatvoreni mirovinski fond kojeg osniva pokrovitelj – osoba države članice i kojim upravlja institucija države članice,  
+25. dodatna mirovina – znači starosnu mirovinu ili invalidsku i obiteljsku mirovinu koje su predviđene pravilima dodatnoga mirovinskog osiguranja, sa svrhom da upotpuni davanja koja se ostvaruju iz obveznoga mirovinskog osiguranja,  
+26. pravo na mirovinu – znači svako davanje na koje član fonda ili drugi korisnik ima pravo na temelju pravila dodatnoga mirovinskog osiguranja, odnosno ovoga Zakona,  
+27. ostvareno pravo na mirovinu – znači svako pravo na davanje koje je ostvareno nakon ispunjenja uvjeta prema pravilima dodatnoga mirovinskog osiguranja, odnosno ovoga Zakona,«.  
+Dosadašnja točka 20. postaje točka 28..  
+U dosadašnjoj točki 21., koja postaje točka 29. riječi: »Agencija za nadzor mirovinskih fondova i osiguranja« zamjenjuju se riječima: »Hrvatska agencija za nadzor financijskih usluga«.
+
+### Članak 3.
+
+U članku 10. stavku 3. umjesto točke stavlja se zarez i dodaju riječi: »ili drugi međunarodno priznati stručni ispit iz područja upravljanja investicijama koji odobri Agencija.«  
+U stavku 4. riječ: »OECD-a« zamjenjuje se riječima: »Europske unije i Organizacije za gospodarsku suradnju i razvoj (u daljnjem tekstu: OECD)«.  
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:  
+»(8) Agencija će oduzeti licenciju članu uprave osiguravajućeg društva na određeno ili neodređeno vrijeme zbog očite povrede ovoga Zakona i upravljanja osiguravajućim društvom protivno načelima ovoga Zakona.  
+(9) Protiv rješenja Agencije o oduzimanju licencije iz stavka 8. ovoga članka žalba nije dopuštena, a protiv njega se može pokrenuti upravni spor.«
+
+### Članak 4.
+
+U članku 11. stavak 2. briše se.  
+Dosadašnji stavak 3. postaje stavak 2.  
+U dosadašnjem stavku 4., koji postaje stavak 3., brojka: »3.« zamjenjuje se brojkom: »2.«.
+
+### Članak 5.
+
+U članku 18. stavak 2. mijenja se i glasi:  
+»(2) Protiv rješenja Agencije iz stavka 1. ovoga članka žalba nije dopuštena, a protiv njega se može pokrenuti upravni spor.«
+
+### Članak 6.
+
+U članku 20. dodaje se nova točka 3. koja glasi:  
+»3. pruža usluge pokroviteljima u sklopu provedbe dodatnoga mirovinskog osiguranja (informativni izračun mirovina, izrada nacrta mirovinskih programa, izrada nacrta izvješća, izrada financijskih planova i projekcija uz uporabu aktuarske računice i dr.),«.  
+Dosadašnja točka 3. postaje točka 4.
+
+### Članak 7.
+
+U članku 26. stavku 1. iza riječi: »neovisnog« dodaje se riječ: »ovlaštenog«.  
+U stavku 2. riječi: »mirovinskih programa« zamjenjuju se riječima: »za mirovine i mirovinske programe,«.
+
+### Članak 8.
+
+U članku 28. stavak 3. mijenja se i glasi:  
+»(3) Za izračun obiteljske mirovine iz stavka 2. ovoga članka korisnici mirovine su članovi obitelji osiguranika utvrđeni u Zakonu o mirovinskom osiguranju.«
+
+### Članak 9.
+
+Iza članka 28. dodaje se članak 28.a koji glasi:
+
+*»Članak 28.a*
+
+(1) Na pravo na mirovinu koja se isplaćuje iz dodatnoga mirovinskog sustava ne može se uspostavljati odnosno provoditi, izravno ili neizravno, nejednakost u pravu ili isključivanje iz prava zasnovano na spolnoj razlici.  
+(2) Nejednakost u pravu ili isključivanje iz prava, prema stavku 1. ovoga članka, osobito se odnosi na:  
+– različite uvjete računanja razdoblja osiguranja za ostvarivanje prava,  
+– različite uvjete starosne dobi za stjecanje prava,  
+– određivanje različitih svota mirovine i drugih davanja, osim kada visina mirovine zavisi od aktuarskog izračuna,  
+– određivanje različitih svota mirovine, zbog različitih uvjeta primjenjivih samo na osiguranike istoga spola, pri određivanju mirovina koje se određuju nakon prestanka članstva u fondu, osim kada visina mirovine ovisi o aktuarskom izračunu.«
+
+### Članak 10.
+
+U članku 29. stavak 1. mijenja se i glasi:  
+»(1) Osiguravajuće društvo koje isplaćuje mirovine u sklopu obveznoga mirovinskog osiguranja obvezno je sklopiti ugovor o mirovini sa svakim članom obveznog fonda koji izabere to društvo, kao i sa članom obitelji preminulog člana obveznog fonda. Osiguravajuće društvo koje isplaćuje mirovine u sklopu dobrovoljnoga mirovinskog osiguranja obvezno je sklopiti ugovor o mirovini sa svakim članom dobrovoljnog fonda koji izabere to društvo, odnosno s osobom iz članka 21. ovoga Zakona.«  
+U stavku 3. riječi: »stavak 2.« zamjenjuju se riječima: »stavak 3.«.
+
+### Članak 11.
+
+Iza članka 30. dodaju se članci 30.a i 30.b koji glase:
+
+*»Članak 30.a*
+
+(1) Osiguravajuće društvo isplaćuje bez ograničenja mirovine, uključujući dodatne mirovine te druga novčana davanja ostvarena prema ovome Zakonu korisnicima u državama članicama, a korisnicima u drugim državama – pod uvjetima iz ugovora o socijalnom osiguranju s odnosnim državama, odnosno na temelju uzajamnosti.  
+(2) Troškove isplate mirovina ostvarenih prema ovome Zakonu snosi osiguravajuće društvo.
+
+### Članak 30.b
+
+(1) Pokrovitelj i osiguravajuće društvo dužni su, prigodom prestanka članstva u fondu zbog ostvarenog prava na mirovinu, obavijestiti članove zatvorenoga dobrovoljnoga mirovinskog fonda o uvjetima te načinu ostvarivanja i korištenja prava.  
+(2) Pravo na obavijest iz stavka 1. ovoga članka imaju i bivši članovi odnosnoga mirovinskog fonda, bez obzira na njihovo boravište.  
+(3) Obavijest iz stavka 1. ovoga članka daje se na pogodan način, koji je pristupačan budućem korisniku i koji ne opterećuje poslovanje pokrovitelja, odnosno osiguravajućeg društva.«
+
+### Članak 12.
+
+Članak 31. mijenja se i glasi:  
+»Osiguravajuće društvo koje isplaćuje mirovine u sklopu obveznoga mirovinskog osiguranja, obvezno usklađuje mirovine prema stopi promjene indeksa potrošačkih cijena najmanje dvaput godišnje za prethodno polugodište. Indeks potrošačkih cijena utvrđuje se prema podacima Državnog zavoda za statistiku.«
+
+### Članak 13.
+
+U članku 32. stavku 1. iza riječi: »korisnika« stavlja se točka a riječi: »uz suglasnost bračnog druga.« brišu se. Dodaje se rečenica koja glasi: »Kod zajedničkih mirovina to se može učiniti samo uz suglasnost bračnog druga.«
+
+### Članak 14.
+
+U članku 34. stavak 1. mijenja se i glasi:  
+»(1) Kada je osiguravajuće društvo dužno isplatiti mirovinu ili zajamčene isplate, a osoba koja ima pravo na primitak tih isplata ne može se pronaći na adresi koju ima osiguravajuće društvo ili osiguravajuće društvo nema podatke o njezinom bankovnom računu, osiguravajuće društvo te podatke pribavlja od pravnih osoba koje vode odnosne registre.«
+
+### Članak 15.
+
+U članku 35. stavku 2. na početku dodaju se riječi: »Na zahtjev osiguravajućeg društva,«.
+
+### Članak 16.
+
+U članku 36. stavku 3. na kraju teksta umjesto točke stavlja se zarez i dodaju riječi: »ako je bračni drug korisnika mirovine nezaposlen i ne ostvaruje druge redovite prihode. Ako je bračni drug zaposlen ili ostvaruje druge redovite prihode, korisnik mirovine može odabrati isplatu mirovine u obliku iz članka 30. stavka 1. točke 1. ovoga Zakona samo uz suglasnost bračnog druga.«
+
+### Članak 17.
+
+U članku 47. stavku 1. riječi: »dva mjeseca« zamjenjuju se riječima: »mjesec dana«.
+
+### Članak 18.
+
+Članak 49. mijenja se i glasi:  
+»(1) U slučajevima primjene odredbi članka 47. stavka 2. i članka 48. stavka 2. Zakona o obveznim i dobrovoljnim mirovinskim fondovima, na zahtjev Hrvatskog zavoda za mirovinsko osiguranje, Središnji registar osiguranika dužan je od osiguravajućeg društva pribaviti podatke o mirovini koja bi se ostvarila iz obveznoga mirovinskog osiguranja na temelju individualne kapitalizirane štednje. Osiguravajuće društvo dužno je dostaviti te podatke Središnjem registru osiguranika u roku od sedam dana od dana traženja.  
+(2) Hrvatski zavod za mirovinsko osiguranje dužan je u roku od sedam dana od dana donošenja rješenja o ostvarenom pravu na osnovnu mirovinu člana obveznoga mirovinskog fonda, odnosno člana njegove obitelji, izvijestiti Središnji registar osiguranika.«
+
+### Članak 19.
+
+Članak 50. mijenja se i glasi:  
+»(1) Izbor osiguravajućeg društva obavlja se prijavom Središnjem registru osiguranika nakon ostvarenog prava na osnovnu mirovinu.  
+(2) Promjena izbora osiguravajućeg društva može se obaviti prijavom iz stavka 1. ovoga članka u roku od petnaest dana od dana prve prijave.  
+(3) Protekom roka iz stavka 2. ovoga članka, izbor osiguravajućeg društva se ne može promijeniti, a niti povući, te se smatra konačnim.  
+(4) Izabrano osiguravajuće društvo sa članom obveznog fonda zaključuje ugovor o mirovini nakon primitka podatka iz Središnjeg registra osiguranika o prijavi i o ukupnom iznosu kapitaliziranih sredstava na osobnom računu na dan zatvaranja osobnog računa.  
+(5) Općim aktom Središnjeg registra osiguranika, uz suglasnost Agencije, pobliže se uređuje:  
+– oblik i sadržaj prijave o izboru osiguravajućeg društva,  
+– postupak i rokovi izvješćivanja izabranog osiguravajućeg društva.«
+
+### Članak 20.
+
+Članak 51. mijenja se i glasi:  
+»(1) Postupak zatvaranja osobnog računa člana obveznoga mirovinskog fonda Središnji registar osiguranika pokreće prvi radni dan nakon proteka roka iz članka 50. stavka 2. ovoga Zakona, izdavanjem naloga odgovarajućem obveznom mirovinskom društvu da izvrši doznaku izabranom osiguravajućem društvu.  
+(2) Obvezno mirovinsko društvo doznakom putem Središnjeg registra osiguranika izvršava plaćanje izabranom osiguravajućem društvu najkasnije peti radni dan nakon što primi nalog od Središnjeg registra osiguranika.  
+(3) Doznaka obveznoga mirovinskog društva obuhvaća sva sredstva koja su prikupljena na osobnom računu člana mirovinskog fonda i na nju se ne odnose nikakva potraživanja fonda, u skladu sa Zakonom o obveznim i dobrovoljnim mirovinskim fondovima.  
+(4) Središnji registar osiguranika, uz suglasnost Agencije, donosi propis kojim pobliže uređuje postupak zatvaranja osobnog računa, sadržaj naloga koji izdaje Središnji registar osiguranika obveznom mirovinskom društvu i doznake sredstava izabranom osiguravajućem društvu.«
+
+### Članak 21.
+
+U članku 52. stavak 1. mijenja se i glasi:  
+»(1) Ako dospjeli doprinosi na osobni račun člana obveznog fonda nisu pravodobno bili uplaćeni odnosno ako je nakon sklapanja ugovora o mirovini članu obveznog fonda naknadno uplaćen doprinos, obveznik plaćanja tog doprinosa svoju obvezu, s eventualno pripadajućom kamatom, izvršava uplatom Središnjem registru osiguranika koji ta sredstva prosljeđuje osiguravajućem društvu s kojim je član fonda sklopio ugovor o mirovini.«
+
+### Članak 22.
+
+U članku 53. stavak 1. mijenja se i glasi:  
+»(1) Osiguravajuće društvo ne može odbiti više od 10% od primljene doznake iz obveznog mirovinskog fonda kao naknadu za pokrivanje troškova osiguravajućeg društva.«  
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:  
+»(2) Odluku o najvišoj naknadi iz stavka 1. ovoga članka donosi Agencija za svaku godinu.«  
+U dosadašnjem stavku 2., koji postaje stavak 3., iza riječi: »uplatu« zarez i riječi: »nakon odbitka iz stavka 1. ovoga članka,« brišu se.  
+U dosadašnjem stavku 3., koji postaje stavak 4., iza riječi: »imenovanim korisnicima« dodaju se riječi: »iz obveznog mirovinskog osiguranja«.
+
+### Članak 23.
+
+U članku 54. riječi: »stavka 1.« zamjenjuju se riječima: »stavka 2.«
+
+### Članak 24.
+
+U članku 60. stavku 1. iza riječi: »osiguravajućeg društva« stavlja se točka a riječi: »i aktuar« brišu se.  
+U stavku 3. riječi: »i godišnja« brišu se, a riječi: »tri radna dana nakon što su načinjena.« zamjenjuju se riječima: »mjesec dana od proteka izvještajnog razdoblja.«  
+Stavak 4. mijenja se i glasi:  
+»(4) Godišnje financijsko izviješće podnosi se Agenciji najkasnije tri mjeseca od proteka izvještajnog razdoblja, zajedno s izviješćem o izvršenoj reviziji.«
+
+### Članak 25.
+
+U članku 67. stavku 3. riječi: »za pokriće obveza iz članka 41. stavak 1. ovoga Zakona« zamjenjuju se riječima: »korisnicima mirovina u skladu sa stavkom 4. ovoga članka«.  
+U stavku 4. riječi: »doživotne mirovine.« zamjenjuju se riječima: »mirovine, trajanju isplate mirovine, obliku mirovine odnosno mirovinskom programu te potrebnom iznosu sredstava tehničke pričuve za pojedini ugovor o mirovini.«.
+
+### Članak 26.
+
+U članku 69. stavku 1. točki 3. riječi: »članka 65.« zamjenjuju se riječima: »članka 68.«.  
+U točki 7. iza riječi: »Zakona,« dodaje se tekst »ukoliko takva imovina postoji, a ako ne postoji, onda u imovinu iz članka 68. stavka 1. točke 2. ovoga Zakona,«.
+
+### Članak 27.
+
+U članku 74. stavak 4. mijenja se i glasi:  
+»(4) Protiv rješenja Agencije o oduzimanju odobrenja za rad žalba nije dopuštena, a protiv njega se može pokrenuti upravni spor.«
+
+### Članak 28.
+
+U članku 95. stavku 1. točki 2. brojka: »5%« zamjenjuje se brojkom: »10%«.
+
+### Članak 29.
+
+Iza članka 97. dodaje se članak 97.a koji glasi:
+
+*»Članak 97.a*
+
+U svezi ostvarivanja prava na temelju ovoga Zakona sudska zaštita može se ostvariti pred redovnim sudom Republike Hrvatske, ako ovim Zakonom nije drugačije određeno.«
+
+### Članak 30.
+
+Provedbene propise iz članka 19. i 20. ovoga Zakona Središnji registar osiguranika donijet će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+### Članak 31.
+
+Od dana prijama Republike Hrvatske u Europsku uniju, osobe države članice mogu, kao pokrovitelji, provoditi svoje dodatno mirovinsko osiguranje za zaposlene u Republici Hrvatskoj, a dobrovoljni mirovinski fondovi države članice mogu poslovati u Republici Hrvatskoj prema Zakonu o obveznim i dobrovoljnim mirovinskim fondovima i prema ovome Zakonu.
+
+### Članak 32.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.  
+Klasa: 453-02/07-01/01  
+Zagreb, 3. listopada 2007.
+
+HRVATSKI SABOR  
+Predsjednik  
+Hrvatskoga sabora  
+Vladimir Šeks, v. r.

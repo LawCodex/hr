@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-21
+last_amended: 2005-04-13
 status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "77/99"
-amendments: []
+status_basis: "no repeal detected in Narodne novine, but no amendment since 2005; may be obsolete or implicitly repealed"
+text_version: original_with_amendments
+narodne_novine: "77/99, 133/02, 48/05"
+amendments:
+  - "NN 133/2002 (2139) Zakon o izmjeni Zakona o putnim ispravama hrvatskih državljana"
+  - "NN 48/2005 (935) Zakon o izmjenama Zakona o putnim ispravama hrvatskih državljana"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o putnim ispravama hrvatskih državljana
 
 > Izvor: Narodne novine, NN 77/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 133/2002, NN 48/2005.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -596,3 +601,151 @@ Predsjednik
 Zastupničkog doma  
 Hrvatskoga državnog sabora  
 akademik Vlatko Pavletić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o putnim ispravama hrvatskih državljana (NN 133/2002)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2002/133/2139*
+
+HRVATSKI SABOR
+
+2139
+
+Na teme­lju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA
+
+Proglašavam Zakon o izmjeni Zakona o putnim ispravama hrvatskih držav­ljana, koji je donio Hrvatski sabor na sjednici 7. studenoga 2002.
+
+Broj: 01-081-02-3528/2  
+Zagreb, 11. studenoga 2002.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih držav­ljana (»Narod­ne novine«, br. 77/99.) u članku 26. stavku 2. riječi: »JMBG i« brišu se.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu 1. siječ­nja 2003.
+
+Klasa: 216-02/02-01/01  
+Zagreb, 7. studenoga 2002.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama Zakona o putnim ispravama hrvatskih državljana (NN 48/2005)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2005/48/935*
+
+Hrvatski sabor
+
+935
+
+Na temelju članka 88. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA
+
+Proglašavam Zakon o izmjenama Zakona o putnim ispravama hrvatskih državljana, koji je Hrvatski sabor donio na sjednici 1. travnja 2005. godine.
+
+Broj: 01-081-05-1288/2
+
+Zagreb, 6. travnja 2005.
+
+Predsjednik
+
+Republike Hrvatske
+
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99. i 133/03.) u članku 10. iza riječi: »knjižica«, briše se zarez i riječi: »ako je u nju unijeta viza«.
+
+### Članak 2.
+
+Članci 11., 16., 17. i 21. brišu se.
+
+### Članak 3.
+
+U članku 27. stavku 1. riječ: »vize,« briše se.
+
+### Članak 4.
+
+U članku 28. stavku 1. točki 3. riječ: »vize,« briše se.
+
+U točki 4. riječi: »i viza« brišu se.
+
+### Članak 5.
+
+U članku 35. stavak 4. briše se.
+
+### Članak 6.
+
+U članku 41. stavku 1. riječi: »i vize« brišu se.
+
+Stavak 3. briše se.
+
+### Članak 7.
+
+U članku 43. riječi: »i vize« brišu se.
+
+### Članak 8.
+
+U članku 47. stavku 2. točka 14. briše se.
+
+### Članak 9.
+
+U članku 49. točki 1. i 2. riječi: »i vize« brišu se.
+
+U točki 3. riječi: »ili za izdavanje vize« brišu se.
+
+U točki 6. iza riječi: »zajedničkim putovnicama« briše se zarez i riječ: »vizama«.
+
+### Članak 10.
+
+U članku 51. točki 1. riječi: »i viza koje se izdaju na te putovnice«, te riječi: »i viza« brišu se.
+
+U točki 2. iza riječi: »diplomatske« briše se zarez i dodaje riječ: »i«, a riječi: »i viza koje se izdaju na te putovnice« brišu se.
+
+U točki 4. riječi: »i vize« brišu se.
+
+U točki 5. riječi: »i o izdatim vizama na te putovnice« brišu se.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 216-02/04-01/01
+
+Zagreb, 1. travnja 2005.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Vladimir Šeks, v. r.
