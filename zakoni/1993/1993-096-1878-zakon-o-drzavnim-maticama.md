@@ -1,0 +1,528 @@
+---
+title: "Zakon o državnim maticama"
+identifier: "NN 96/1993 (1878)"
+eli: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878"
+type: act
+jurisdiction: hr
+language: hr
+date: 1993-10-25
+status: unknown
+status_basis: "no repeal detected in Narodne novine, but no amendment since 1993; may be obsolete or implicitly repealed"
+text_version: original
+narodne_novine: "96/93"
+amendments: []
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878"
+retrieved: 2026-10-12
+---
+
+# Zakon o državnim maticama
+
+> Izvor: Narodne novine, NN 96/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878).
+>
+> Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+o proglašenju Zakona o državnim maticama
+
+Proglašavam Zakon o državnim maticama, koji je donio Zaštupnički dom Sabora Republike Hrvatske nu sjednici 6. listopada 1993. godine.
+
+Broj : PA4- 102/ 1 -93.
+
+Zagreb,18. listopada l993.
+
+Predsjednik Republike Hrvatske
+
+dr. Franjo Tuđman v. r.
+
+**ZAKON**
+
+**o državnirn maticama**
+
+## I. TEMELJNE ODREDBE
+
+### Članak 1.
+
+Državne matice su evidencije o osobnim stanjima građana u koje se upisuju činjenice rođenja, zakljućenja braka i smrti i drugi podaci o tim činjenicama utvrđeni zakonom.
+
+### Članak 2.
+
+Činjenice upisane u državnim maticama i činjenice koje se njima dokazuju smatraju se istinitim, dok se na zakonom propisani način ne dokaže protivno.
+
+Državne matice, izvaci iz državnih matica i potvrde koje se daju na temelju državnih matica javne su isprave.
+
+### Članak 3.
+
+Državne matice vode se za svako naseljeno mjesto po matičnim područjima.
+
+Matična područja određuje Vlada Republike Hrvatske, na prijedlog Ministarstva uprave.
+
+### Članak 4.
+
+Poslove osobnih stanja građana obavlja županijski ured, odnosno gradski ured Grada Zagreba nadležan za poslove opće uprave (u daljnjem tekstu: županijski, odnosno gradski ured), a državne matice neposredno vode državni službenici-matičari.
+
+### Članak 5.
+
+Državne matice se vode u dva primjena. Drugi primjerak (parica) je prijepis prvog primjena (izvornika).
+
+Drugi primjerak državne matice može se voditi i automatskom obradom podataka po odobrenju Ministarstva uprave.
+
+Podaci drugog primjena državne matice na magnetskom mediju dostavljaju se Ministarstvu uprave.
+
+### Članak 6.
+
+Državne matice vode se na propisanim obrascima, a ispisuju se trajnom tintom.
+
+Prije početka upisa državne matice se povjeravaju na propisan način, a na kraju svake kalendarske godine zaključuju se posljednjim rednim brojem upisa u toj godini.
+
+### Članak 7.
+
+Izvornik državnih matica čuva matičar, a drugi primjerak čuva županijski odnosno gradski ured.
+
+Izvornik i drugi primjerak državnih matica ne smiju se čuvati u istoj zgradi. Podaci na magnetskom mediju ne smiju se čuvati u zgradl u kojoj se obavlja obrada podataka.
+
+Državne matice u kojima je zadnji upis stariji od 100 gođina, čuva Hrvatski državni arhiv.
+
+## II. VRSTE DRŽAVNIH MATICA
+
+### Članak 8.
+
+O osobnim stanjima građana vode se matica rođenih, matica vjenčanih i matica umrlih.
+
+Uz svaku državnu maticu vode se i knjige pomoćnih evidencija utvrđene propisima za provedbu ovoga Zakona.
+
+A) Matica rođenih
+
+### Članak 9.
+
+U maticu rođenih upisuju se:
+
+a) kod temeljnog upisa:
+
+1. podaci o rođenju: ime i prezime i spol djeteta, dan, mjesec, godina, sat i mjesto rođenja; narodnost i državljanstvo;
+
+2. podaci o roditeljima djeteta: ime i prezime (za majku i đevojačko prezime), datum i mjesto rođenja; narodnost, državljanstvo; zanimanje, prebivalište i adresa stanovanja;
+
+b) kao naknadni upisi i bilješke:
+
+1. jedinstveni matični broj građana.
+
+2. priznavanje i utvrđivanje očinstva i materinstva,
+
+3. osporavanje očinstva i materinstva,
+
+4. naknadno zakljućenje braka roditelja čije je dijete rođeno prije zakljućenja braka,
+
+5. skrbništvo nad maloljetnom osobom i osobom kojoj je oduzeta poslovna sposobnost, prestanak skrbništva, vračanje poslovne sposobnosti,
+
+6. usvojenje i prestanak usvojenja s roditeljskim učinkom,
+
+7. lišenje i vračanje roditeljskog prava,produženje i prestanak produženja roditeljskog prava,
+
+8. zakljućenje i prestanak braka,
+
+9. promjena imena i prezimena djeteta i promjena imena i prezimena roditelja usvolltelja, skrbnika,
+
+10. promjerna spola,
+
+11. promjena državljanstva
+
+12. smrt i proglašenje umrlim,
+
+13. naknadni ispravci grešaka i drutge promjene podataka koje se upisuju u državnu maticu rođenih.
+
+### Članak 10.
+
+Upis rođenja djeteta u maticu rođenih, obavlja se na temelju usmene ili pisane prijave matičaru onog matičnog područja kojem pripada mjesto gđe se dijete rodilo.
+
+Rođenje djeteta u prometnom sredstvu prijavljuje se matičaru matičnog podrujčja mjesta gđe se putovanje završilo.
+
+### Članak 11.
+
+Rođenje djeteta u zdravstvenoj ustanovi dužna je prijaviti zdravrstvena ustanova.
+
+Rođenje djeteta izvan zdravstvene ustanove dužan je prijaviti otac djeteta, odnosno osoba u čijern je stanu dijete rođeno ili majka kad za to bude sposobna ili babica, ili liječnik koji je suđejovao pri porodu. Kad tih osoba nema, ili kad ne mogu prijaviti rođenje, dužna je to učinlti osoba koja je saznala za rođenje djeteta.
+
+### Članak 12.
+
+Rođenje djeteta prljavljuje se u roku 18 dana od dana rođenja djeteta.
+
+Ako je dijete mrtvorođeno, rođenje se mora prijaviti u roku 24 sata od sata rođenja djeteta.
+
+Ako rok iz prethodnog stavka pada u dan koji nije uredovni, rođenje mrtvorođenog djeteta treba prijaviti prvog uredovikog dana.
+
+### Članak 13.
+
+Osobe koje su prema Zakonu o osobnom imenu ovlaštene odrediti ime i prezime djetetu dužne su radi upisa u maticu rođenih prijaviti nadležnom matičaru ime i prezime djeteta·najkasnije u roku dva mjeseca od dana rođenja djeteta.
+
+Ime djeteta može prijaviti i druga osoba kao svjedok - kum, prema sporazumu s roditeljima, odnosno s osobom kojoj je dijete povjereno za čuvanje i odgoj. U ovom slučaju u maticu rođenih, upisuje se i ime i prezime te osobe.
+
+Ako se osobno ime određeno djetetu sastoji od više riječi, osobe ovlaštene za određivanje osobnog imena djeteta, dužne su matičaru dati izjavu kojim će se osobnim imenom dijete služiti u pravnom prometu.
+
+### Članak 14.
+
+Upis činjenice rođenja nađenog djeteta, a čiji roditelji nisu poznati, upisuje se u maticu rođenih mjesta gđe je nađeno.
+
+Upis se obavlja na temelju rješenja tijela državne uprave nadležnog za poslove skrbništva. Rješenje o upisu sadrži: ime i prezime, spol djeteta, dan, mjesec, godinu, sat i mjesto rođenja djeteta. Kao mjesto rođenja djeteta upisuje se mjesto gdje je dijete nađeno.
+
+Tijelo državne uprave nadležno za poslove skrbništva donosi rješenje iz stavka 2. ovoga članka na temelju zapisnika o nalasku djeteta. Zapisnik zajedno s rješenjem dostavlja nadležnom matičaru radi upisa u maticu rođenih.
+
+### Članak 15.
+
+Kod usvojenja djeteta sa srodničkim u;inkom, u maticu rođenih upisuju se podaci usvojitelja kao podaci o roditeljima djeteta.
+
+Ako je dijete čiji su roditelji poznati usvojeno sa roditeljskim učinkom, pored podataka o usvojitelju upisat će se i podaci o roditeljima djeteta.
+
+Ako je dijete čiji roditelji nisu poznati usvojeno s roditeljskim učinkom, pored podataka o usvojitelju upisati će se napomena da su roditelji nepoznati.
+
+B) Matica vjenčanih
+
+### Članak 16.
+
+U maticu vjenčanih upisuje se:
+
+a) kod temeljnog upia:
+
+1. podaci o ženiku i nevjesti: ime i prezime, dan, mjesec, godina i mjesto rođenja, jedinstveni matični broj građana, narodnost, državljanstvo, zanimanje, prebivalište i adresa stanovanja,dan, mjesec, godina i mjesto zakljućenja braka i sporazumna izjava o njihovom prezimenu nakon zakljućenja braka,
+
+2. imena i prezimena roditelja ženika i nevjeste: ime i prezime i prebivalište svjedoka pri zakljućivanju braka, ime i prezime službene osobe pred kojom je brak zakljućen, te ime i prezime matičara,
+
+3. ime i prezime i prebivalište punomoćnika, ako pri zakljućenju braka jednog zaručnika zaštupa punomoćnik,
+
+4. ime i prezime te prebivallste sudskog tumača, ako je pri zakljućenju braka bilo neophodno prisustvo sudskog tumača.
+
+b) kao naknadni upisi i bilješke:
+
+1. prestanak braka smrću bračnog druga, proglašenjem nestalog bračnog druga umrlim, poništenjem ili razvodom braka,
+
+2. promjena imena i prezimena bračnih drugova,
+
+3. naknadni ispravci grešaka.
+
+### Članak 17.
+
+Presudu kojom se utvrđuje da brak ne postoji ili se poništava ili se razvodi sud će dostaviti nadležnom matičaru u roku od 15 dana od nastupa pravnih posljedica pravomočne presude, radi upisa u maticu rođenih i maticu vjenčanih.
+
+C) Matica umrlih
+
+### Članak 18.
+
+U maticu umrlih upisuju se:
+
+a) kod temeljnog upisa:
+
+1. ime i prezime, prezime prije zakljućenjabraka, spol, dan, mjesec, godina, sat i mjesto smrti, dan, mjesec,godina i mjesto rođenja, bračno stanje, narodnost, državljanstvo, zanimanje, prebivalište i adresa stanovanja, jedinstveni matični broj građana,
+
+2. ime i prezime bračnog druga i njegovo prezime prije zakljućenja braka ako je umrli bio u braku, ime i prezime roditelja umrlog, ime i prezime i prebivalište osobe koja je prijavila smrt odnosno naziv ustanove ako je smrt prijavila ustanova,
+
+3. proglašenje nestale osobe umrlom i činjenica smrti utvrđena u vanparničnom postupku s podacima naznaćenim u rješenju suda.
+
+b) kao naknadni upisi i bilješke:
+
+1. utvrđivanje identiteta nepoznatog leša,
+
+2. ukidanje odluke o proglašenju osobe umrlom,
+
+3. ukidanje ili preinaćenje sudskog rješenja o utvrdijvanju smrti,
+
+4. naknadni ispravci grešaka.
+
+### Članak 19.
+
+činjenica smrti prijavljuje se usmeno ili pismeno matičaru matičnog područja kojem pripada mjesto gđe je smrt nastupila ili gdje je umrli nađen.
+
+Činjenica smrti u prometnom sredstvu u kretanju kao i smrt koja je nastupila na mjestu prometne ili druge nesreće za koje je matično područje neodredivo, prijavljuje se matičaru matičnog područja kojem pripada mjesto gđe se umrli sahranjuje.
+
+### Članak 20.
+
+činjenica smrti mora se prijaviti nadležnom matičaru u roku tri dana od dana smrti, odnosno od dana nalaska leša umrle osobe.
+
+Ako je posebnim propisom određen za sahranu kraći rok od tri dana, čnjenica smrti mora se prijaviti prije sahrane.
+
+### Članak 21.
+
+Činjenicu smrti dužni su prijaviti članovi obitelji s kojima je umrli živio. Ako nema članova obitelji ili oni to ne mogu učiniti, činjenicu smrti dužne su prijaviti druge osobe s kojima je umrli živioili drugi članovi obitelji koji su saznali za smrt, odnosno osobe u čijem je stanu osoba umrla. Ako nema ni tih osoba, činjenicu smrti dužna je prijaviti osoba koja je prva saznala za smrt.
+
+Činjenicu smrti za osobu koja je umrla u zdravstvenoj ustanovi, na službi u oružanim snagama Republike Hrvatske, kazneno-popravnoj ustanovi, hotelu, internatu ili drugoj ustanovi ili organizaciji dužna je prijaviti ustanova, nadležno zapovjedništvo oružanih snaga Republike Hrvatske ili organizacija u kojoj je osoba umrla.
+
+Ako se činjenica smrti utvrđuje oćevidom, tijelo koje provodi oćevid dužno je činjenicu smrti prijaviti nadležnom matičaru.
+
+### Članak 22.
+
+Pri prijavljivanju činjenice smrti mora se podnijeti potvrda o smrti koju izdaje Iiječnik ili druga osoba ovlaštena za utvrđivanje smrti, odnosno zdravstvena ustanova ako je osoba umrla u zdravstvenoj ustanovi.
+
+Činjenicu smrti osobe čiji je leš nađen, matičar upisuje u maticu umrlih na temelju zapisnika o nalasku leša.
+
+### Članak 23.
+
+Sahrana umrle osobe može se obaviti na temelju dozvole nadležnog tijela državne uprave i prije prfiavljivanja činjenice smrti matičaru, ako prijavu nije bilo moguće podnijeti iz opravdanih razloga.
+
+### Članak 24.
+
+Proglašenje nestale osobe umrlom i smrt dokazana u sudskom posupku, upisuje se u maticu umrlih na temelju pravomoćnog sudskog rješenja. Činjenica smrti prijavljuje se matičaru matičnog područja gđe je nestala osoba imala posljednje prebivatište, a ako nije imala prebivalište onda matičaru matičnog područja gđe je imala posljednje boravište.
+
+Ako posljednje prebivalište ili boravište osobe iž stavka 1. ovoga članka nije poznato ili je bilo u inozemstvu, činjenica smrti prijavljuje se matičaru matičnog područja kojem pripada mjesto rođenja te osobe. Ako je mjesto rođenja bilo u inozemstvu, činjenica smrti prijavljuje se matičaru matičnog područja na kojem je sjedište suda koji je donio rješenje.
+
+Pravomočno rješenje o proglašenju nestale osobe umrlom i rješenje o utvrđivanju činjenice smrtl sud će dostaviti nadležnom matičaru u roku od 15 dana od dana pravomočnosti.
+
+## III. ZAJEDNIČKE ODREDBE
+
+1) Temeljne ovlasti i obaveze matičara
+
+### Članak 25.
+
+Matičar upisuje u državne matice samo one činjenice i podatke koji su mu prijavljeni, odnosno koje sadrži akt nadležnog tijela.
+
+Upis u državnu maticu matičar je dužan izvršiti bez odgode.
+
+Ako postoji osnovana sumnja da pojedini podaci koji se upisuju u državnu maticu nisu točni, matičar je prije upisa dužan provjeriti točnost tih podataka.
+
+### Članak 26.
+
+Matičar je dužan izvršeni upis u državnu maticu pročitati osobi koja prijavljuje činjenice, odnosno svjedocima i to potvrditi u državnoj matici bilješkom.
+
+Upis potpisuje osoba koja je prijavila činjinice i matičar, a druge osobe kad je to zakonom određeno.
+
+Uskračivanje potpisa matičar će ubilježiti u državnoj matici i o tome izraditi bilješku.
+
+### Članak 27.
+
+Činjenice rođenja ili smrti prijavljene nakon 30 dana , od dana kad su se dogodile, matičar smije upisati u držvne matice na temelju rješenja županijskog odnosno gradskog ureda na čijem se području vodi matična knjiga u koju treba izvršiti upis.
+
+### Članak 28.
+
+Ako državnu maticu u kojoj treba izvršiti naknadni upis vodi drugi matičar, matičar koji je izvršio upis dužan je u roku od til dana od dana izvršenja upisa dostaviti izvadak iz državne matice o izvršenom upisu matičaru koji vodi državnu maticu u kojoj treba izvršiti naknadni upis.
+
+Ako se državna matica u kojoj treba izvršiti naknadni upis vodi u inozemstvu, matičar koji je izvršio upis dužan je u roku iz stavka 1. ovoga članka dostaviti izvadak iz državne matice o izvršenom upisu Ministarstvu vanjskih poslova.
+
+O svakom naknadnom upisu ili ispravku u izvorniku zakljućene držvne matice, matičar je dužan u roku od tri dana od izvršenog upisa, odnosno ispravka dostaviti županijskom odnosno gradskom uredu koji čuva drugi primjerak državne matice, izvadak o izvršenom naknadnom upisu, odnosno ispravku radi unošenja u drugi primjerak državne matice.
+
+O upisu rođenja, zakljućenja braka ili smrti, te o promjeni podataka koji se sukladno propisima upisuju u evidenciju prebivališta, matičar je dužan u roku od tri dana od dana izvršenog upisa izvijestiti tijelo državne uprave koje vodi tu evidenciju.
+
+### Članak 29.
+
+Matičar smije ispraviti greške koje je primijetio prije zakljućenja upisa u državnu maticu.
+
+Ispravljanje grešaka iz stavka 1. ovoga članka matičar je dužan ovjeriti potpisom i pečatom u državnoj matici.
+
+### Članak 30.
+
+Nakon zaključenja upisa, ispravke u državnu maticu matičar smije izvršiti na temelju rješenja županijskog, odnosno gradskog ureda na čijem području se vodi državna matica.
+
+Ako je ispravke potrebno izvršiti i u drugim državnim maticama ili u drugom primjenu državnih matica ili u evidenciji prebivališta, matičar će o tome izvijestiti nadležna tijela državne uprave u roku od tri dana od dana ispravka.
+
+### Članak 31.
+
+Matičar ima zamjenika koji u slučaju njegove sprijećenosti ima sve ovlasti i obveze matičara.
+
+Neposredan nadzor nad radom matičara obavlja županijski, odnosno gradski ured.
+
+### Članak 32.
+
+Poslove s ovlastima matičara i druge upravne poslove osobnih stanja građana može obavljati državni službenik propisanog stupnja stručne spreme i odgovarajućeg usmjerenja koji ima položen stručni ispit za obavljanje tih poslova.
+
+### Članak 33.
+
+Matičar i drugi državni službenici na upravnim poslovima osobnih stanja građana posebno su odgovorni za pravilno izvršavanje svih radnji u zakonom propisanim rokovima.
+
+Matičar je posebno odgovoran za ispravno i uredno vođenje državnih matica.
+
+Neizvršavanje obveza utvrđenih ovim Zakonom teža je povreda službene dužnosti.
+
+### Članak 34.
+
+O pokretanju postupka zbog teže povrede službene dužnosti protiv matičara i drugih državnih službenika na upravnim poslovima osobnih stanja građana potrebno je odmah izvijestiti Ministarstvo uprave.
+
+Premještaj matičara i drugih državnih službenika na poslovima osobnih stanja građana bez njihove suglasnosti, a radi potrebe službe, može se izvršiti po odobrenju Ministarstva uprave.
+
+Ministarstvo uprave može predložiti premještaj matičara i drugih državnih službenika na poslovima osobnih stanja građana radi potrebe službe ili radi negativnosti u radu utvrđenih u postupku nadzora.
+
+2) Vrste upisa u državne matice
+
+a) Temeljni upisi
+
+### Članak 35.
+
+Temeljni upis je upis činjenice rođenja u maticu rođenih, upis zakljućenja braka u maticu vjenčanih i upis činjenice smrti u maticu umrlih.
+
+Za temeljni upis određene su u svakoj državnoj matici posebne rubrike.
+
+Protiv učinitelja prekršaja iz stavka 1. točke 1. i 2. ovoga članka neće se voditi postupak ako je prijavljivanje pravovremeno izvršila druga osoba.
+
+### Članak 36.
+
+Ako zbog više sile ili drugih razloga pojedine činjenice ili podaci temeljnog upisa nisu mogli biti upisani u državne matice u zakonom određenom roku, upis tih činjenica i podataka u državne matice može se izvršiti na temelju rješenja nadležnog županijskog, odnosno gradskog ureda.
+
+### Članak 37.
+
+Prilikom temeljnog upisa, u posebnu rubriku državne matice upisuju se bilješke i primjedbe matičara bitne za temeljni upis, do njegova zaključenja. U istu rubriku upisuju se i svi ispravci koji se odnose na pogreške u temeljnom upisu uočene prije zaključenja temeljnog upisa.
+
+Poslije zaključenja temeljnog upisa, matičar smije ispraviti jedino pogrešno upisan redni broj. Ovakav ispravak ne upisuje u rubriku za primjedbe.
+
+b) Naknadni upisi i bilješke
+
+### Članak 38.
+
+Naknadni upisi i bilješke su dopune i izmjene temeljnog upisa, a odnose se na činjenice koje su nastale ili su postale poznate nakon izvršenog temeljnog upisa.
+
+Naknadni upisi bilješke su upisi i drugih činjenica koji se na temelju propisa moraju evidentirati u državnim maticama.
+
+### Članak 39.
+
+Kako naknadni upisi u državne matice se unose i svi ispravci grešaka u izvršenim temeljnim ili naknadnim upisima.
+
+Ispravak temeljnog ili naknadnog upisa može se izvršiti samo na temelju rješenja nadležnog tijela.
+
+Ako je za utvrđivanje pogrešno upisane činjenice u državnu maticu nadležno tijelo državne uprave, ispravak se upisuje na temelju rješenja županijskog odnosno gradskog ureda na čijem se području vodi državna matica.
+
+c) Temeljni upisi činjenica nastalih u inozemstvu
+
+### Članak 40.
+
+Upis činjenica rođenja, zaključenja braka ili smrti hrvatskih državljana nastalih u inozemstvu obavlja se na temelju izvatka iz državne matice inozemnog tijela. Ovaj izvadak dužna je podnijeti stranka ako međunarodnim ugovorom nije predviđena obveza inozemnog tijela da izvatke iz državnih matica dostavlja nadležnom tijelu u Republici Hrvatskoj.
+
+Iznimno, činjenica rođenja nastala u inozemstvu upisuje se u maticu rođenih na temelju rješenja nadležnog županijskog odnosno gradskog ureda, ako se izvadak iz državne matice rođenih koju vodi inozemno tijelo nije mogao pribaviti na način uređen u stavku 1. ovoga članka. Nadležni županijski, odnosno gradski ured donosi rješenje po zahtjevu stranke, a na temelju dokaza koje predloži stranka.
+
+### Članak 41.
+
+Činjenica rođenja, zaključenja braka i smrti iz članka 40. ovoga Zakona upisuju se u državne matice i to:
+
+1. rođenje - u maticu rođenih mjesta posljednjeg prebivalište roditelja djeteta u Republici Hrvatskoj, a ako ovoga nema ili nije poznato, ili roditelji imaju različito prebivalište u Republici Hrvatskoj, u maticu rođenih mjesta posljednjeg prebivališta roditelja koji je podnio zahtjev za upis rođenja djeteta.
+
+2. zaključenje braka - u maticu vjenčanih mjesta u kojem su posljednje zajedničko prebivalište bračnih drugova, a ako ovoga nema ili nije poznato, u državnu maticu vjenčanih mjesta posljednjeg prebivališta bračnog druga koji je podnio zahtjev za upis zaključenja braka,
+
+3. smrt - u maticu umrlih mjesta posljednjeg prebivališta umrlog.
+
+Ako se posljednje prebivalište osoba iz stavka 1. ovoga članka nije moglo utvrditi, upis će se izvršiti u odgovarajuću državnu maticu mjesta njihova rođenja u Republici Hrvatskoj.
+
+Ako se upis u državnu maticu ne može obaviti prema stavku 1. i 2. ovoga članka, upis će se izvršiti u odgovarajuću državnu maticu Grada Zagreba.
+
+3) Izvaci iz državnih matica i potvrde
+
+### Članak 42.
+
+O činjenicama upisanim u državne matice izdaju se izvaci iz državnih matica i potvrde kao isprave trajne vrijednosti.
+
+Izvaci iz državnih matica sadrže podatke koji su upisani u državne matice do vremena izdavanja izvatka.
+
+U izvatku iz matice rođenih ne iskazuju se podaci o prirodnim roditeljima djeteta usvojenog sa srodničkim učinkom.
+
+Potvrde koje se izdaju na temelju državnih matica sadrže pojedine podatke upisane u državne matice ili pojedine činjenice o osobnom stanju građana koje proizlaze iz tih podataka.
+
+### Članak 43.
+
+Izvaci iz državnih matica i potvrde o pojedinim podacima ili o pojedinim činjenicama upisanim u državne matice izdaju se na zahtjev osoba koje imaju pravni interes.
+
+### Članak 44.
+
+Pravo uvida u državne matice, u nazočnosti matičara dopustit će se osobi na koju se ti podaci odnose ili članovima uže obitelji ili usvojitelju odnosno skrbniku, a drugoj osobi samo kad ima za to na zakonu zasnovan pravni interes.
+
+Uvid u spise i rješenja na temelju kojih je izvršen upis u državne matice dopustit će se samo onim osobama koje imaju za to neposredan i na zakonu zasnovan pravni interes.
+
+### Članak 45.
+
+Nadzor nad provođenjem ovoga Zakona i propisa donesenih na temelju toga Zakona provodi Ministarstvo uprave.
+
+Ministar uprave ovlašten je rješenjem odrediti prijepis državnih matica za koje se u postupku nadzora utvrdi da se vode neuredno i neispravno.
+
+## IV. KAZNENE ODREDBE
+
+### Članak 46.
+
+Novčanom kaznom u dinarskoj protuvrijednosti od 10 do 120 DEM kaznit će se za prekršaj:
+
+1. tko u propisanom roku ne prijavi rođenje djeteta (članak 12.) ili ne prijavi ime i prezime djeteta (članak 13.) ili ne prijavi smrt (članak 20.),
+
+2. tko sahranu umrle osobe bez dozvole nadležnog tijela izvrši prije prijavljivanja činjenice smrti matičaru (članak 23.).
+
+Za prekršaj iz stavka 1. točke 1. ovoga članka kaznit će se pravna osoba novčanom kaznom u dinarskoj protuvrijednosti od 50 do 300 DEM, a odgovorna osoba u pravnoj osobi kaznom u dinarskoj protuvrijednosti od 10 do 120 DEM.
+
+Protiv učinitelja prekršaja iz stavka 1. točke 1. i 2. ovoga članka neće se voditi postupak ako je prijavljivanje pravovremeno izvršila druga osoba.
+
+### Članak 47.
+
+Novčanom kaznom u dinarskoj protuvrijednosti od 10 do 120 DEM kaznit će se za prekršaj osoba iz članka 33 ovoga Zakona koja:
+
+- u propisanim rokovima ne izvršava upravne radnje utvrđene ovim Zakonom (članak 33 stavak 1.).
+
+- državne matice ne vodi ispravno i uredno (članak 33 stavak 2 ).
+
+- povrijedi zaštitu podataka upisanih u državne matice dozvolom uvida ili izdavanjem isprava iz državnih matica neovlalštenim osobama (članak 44.).
+
+### Članak 48.
+
+lznosi novčanih kazni iz članka 46. i 47. Ovoga Zakona revalorizirat će se po srednjem tečaju Narodne banke Hrvatske na dan naplate kazne.
+
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+
+### Članak 49.
+
+Matične knjige koje su vođene do 9. svibnja 1946. godine odnosno do stupanja na snagu ovoga Zakona, kao i izvaci iz matičnih knjiga i potvrde koje se izdaju na temelju tih matičnih knjiga, imaju dokaznu snagu javnih isprava. Izvatke i potvrde iz matičnih knjiga daje nadležni matičar
+
+Izvaci iz matičnih knjiga diplomatsko konzularnih predstavništava i nadležnih tijela republika bivše SFRJ o ;injenicama osobnih stanja hrvatskih državljana upisanim u mati;ne knjige do 8. listopada 1991. godine i izdatim do istog dana, smatraju se javnom ispravom kojom se dokazuje ;injenica rođenja, zaklju;enja braka ili smrti.
+
+Na temelju isprave iz stavka 2. ovoga članka, na zahtjev stranke rješenjem nadležnog županijskog odnosno gradskog ureda može se odobriti prijenos upisa u određene državne matice u Republici Hrvatskoj sukladno odredbama članka 40. i 41. ovoga Zakona.
+
+Zaklju;enje braka hrvatskih državljana pred diplomatsko konkzularnim predstavništvima bivše SFRJ nakon 8. listopada 1991. godine, može se upisati u maticu vjenčanih u Republici Hrvatskoj na temelju sudske odluke o postojanju braka.
+
+### Članak 50.
+
+Ako uslijed domovinskog rata u državnim maticama nisu upisane pojedine činjenice rođenja i smrti, na zahtjev zainteresirane osobe izvršit će se upis ovih činjenica u državne matice, ako su one utvrđene potvrdom državnog tijela Republike Hrvatske, nadležnog zapovjedništva oružanih snaga Republike Hrvatske ili javne ustanove (crvenog križa, bolnice i sl.), koje su oni izdali na temelju svojih knjiga i evidencija. Upis će se izvršiti na temelju rješenja nadležnog županijskog odnosno gradskog ureda.
+
+### Članak 51.
+
+Ako su državne matice uništene ili nestale, moraju se obnoviti bez odgode. Prije donošenja odluke o obnavljanju državnih matica potrebno je utvrditi koje su državne matice uniŠtene ili nestale, za koja godišta i za koja matična područja.
+
+Obnavljanje uništenih ili nestalih državnih matica obavlja županijski, odnosno gradski ured.
+
+### Članak 52.
+
+U postupku obnavljanja državnih matica, županijski, odnosno gradski ured utvrđuje isključivo postojanje upisa određene činjenice u uništenoj ili nestaloj državnoj matici i podatke koji su bili upisani.
+
+U svrhu obnavljanja državnih matica građani,tijela državne uprave i druge pravne osobe dužni su dati podatke o izvršenim upisima o uništenim ili nestalim državnim maticama koji su im poznati ili o tome posjeduju ispravu.
+
+### Članak 53.
+
+Ovlašćuje se ministar da donese propise o vođenju i čuvanju državnih matica i spisa o pravu uvida u državne matice i spise, o načinu izdavanja izvadaka i potvrda na temalju državnih matica i obnavljanju uništenih ili nestalih državnih matica, te da propiše obrasce, državnih matica, registra, izvadaka i potvrda koje se izdaju na temelju državnih matica.
+
+Ministar uprave određuje cijenu obrasca izvadaka i potvrda iz državnih matica koju snosi podnositelj zahtjeva.
+
+Ministar zdravstva uz suglasnost ministra uprave propisat će obrazac potvrde o smrti.
+
+Ravnatelj Državnog zavoda za statistiku propisat će obrasce za potrebe statistike s naputkom za njihovo ispunjavanje.
+
+### Članak 54.
+
+Propise iz Članka 53. ovoga Zakona nadležni dužnosnici dužni su donijeti u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+Do određivanja matičnih područja sukladno članku 3.ovoga Zakona, državne matice vodit će se prema matičnim područjima određenim odlukama bivših općinkih skupština.
+
+Arhivi koji čuvaju državne matice dužni su ustupiti ih Hrvatskom državnom arhivu u roku od jedne godine od stupanja na snagu ovoga Zakona.
+
+Državni službenici iz članka 32. ovoga Zakona bez odgovarajućeg stručnog ispita obvezni su položiti posebni dio stručnog ispita na kojem se utvrđuju osposobljenost za obnavljanje poslova matičara, odnosno upravnih poslova osobnih stanja građana u roku od godinu dana od početka primjene ovoga Zakona.
+
+### Članak 55.
+
+Do 31. prosinca 1993. godine primjenjivat će se odredbe Uputstva o vođenju matičnih knjiga i načinu upisa usvojenja ("Narodne novine", br. 47/75. i 46/79.), Pravilnika o obrascima mati;nih knjiga, registra matičnih knjiga, izvoda iz mati;nih knjiga i uvjerenja koja se izdaju na osnovi mati;nih knjiga ("Narodne novine", br. 45/75. i 42/8I.), Pravilnika o obrascima za dostavljanje statističkih podataka organima statisti;ke službe ("Narodne novine, br 31/75., 50/81. i 12/83.) i Pravilnika o obrascu potvrde o smrti ("Narodne novine", br. 28/75.).
+
+### Članak 56.
+
+Danom po;etka primjene ovoga Zakona prestaje važiti Zakon o matičnim knjigama ("Narodne novine", br.54/74., 40/81., 47/90., 39/92. i 26/93.), a postupci pokrenuti na temelju toga Zakona dovršit će se premaodredbama ovoga Zakona.
+
+### Članak 57.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1994. godine.
+
+Klasa: 223-09/93-01 /01
+
+Zagreb, 6. listopada 1993.
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Predsjednik Zastupničkog doma Sabora
+
+Stjepan Mesić, v. r.

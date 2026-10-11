@@ -97,6 +97,7 @@ def norm_title(t):
     t = t.replace(" ", " ").replace("​", "")
     t = re.sub(r"\s+", " ", t).strip()
     t = re.sub(r"\s+\d+$", "", t)  # stray footnote numbers at end
+    t = re.sub(r"^NN\s*\d+[A-Za-z]?/\d+\s*[-–]\s*", "", t)  # 'NN 91A/93 - Zakon ...'
     return t
 
 
@@ -128,7 +129,10 @@ def classify(row):
     t = row["title"]
     tl = t.lower()
     if row["vrsta"] == "pročišćeni tekst" or re.search(r"(pro|pre)[čc]i[šs][ćc]eni\s+tekst", tl):
-        return "pt", strip_pt(t)
+        st = strip_pt(t)
+        if not re.match(r"^(?:\S+\s+){0,2}?(zakon|zakonik|uredba|ustav)\b", st.lower()):
+            return "other", None
+        return "pt", st
     if PROMJENA_USTAVA_RE.match(t):
         return "amend", "Ustava Republike Hrvatske"
     m = CORR_RE.match(t)
@@ -453,12 +457,15 @@ def to_markdown(blocks, base_level=2):
     texts = [" ".join(b["lines"]) if b["kind"] == "p" else "" for b in blocks]
     first_art = next((i for i, b in enumerate(blocks) if b["kind"] == "p" and ART_RE.match(texts[i])), None)
     # body start: last title-like block before first article
-    body_start = 0
+    body_start = None
     lim = first_art if first_art is not None else min(n, 40)
     for i in range(lim):
         t = texts[i]
-        if blocks[i]["kind"] == "p" and t and upper_ratio(t) > 0.8 and TITLE_RE.match(t) and "PROGLAŠ" not in t.upper():
+        if blocks[i]["kind"] == "p" and t and upper_ratio(blocks[i]["lines"][0]) > 0.8 and TITLE_RE.match(t) and "PROGLAŠ" not in t.upper():
             body_start = i
+    has_title = body_start is not None
+    if body_start is None:
+        body_start = 0
     # classify headings
     kinds = [None] * n
     footer = False
@@ -482,7 +489,7 @@ def to_markdown(blocks, base_level=2):
                 kinds[i] = "head"
             continue
         cls = b["cls"]
-        if first_art is not None and i < first_art and (i == body_start or (i == body_start + 1 and re.match(r"^(o|za|u|od|na|kojom|kojim)\s", t, re.I))):
+        if has_title and first_art is not None and i < first_art and (i == body_start or (i == body_start + 1 and re.match(r"^(o|za|u|od|na|kojom|kojim)\s", t, re.I))):
             kinds[i] = "title"
             continue
         if len(t) > 300:
@@ -549,6 +556,8 @@ def to_markdown(blocks, base_level=2):
 
 
 def convert_doc(path, base_level=2):
+    if os.path.exists(path + ".linked.html"):
+        path = path + ".linked.html"
     src = load(path)
     soup = BeautifulSoup(src, "lxml")
     root = content_root(soup)
@@ -567,6 +576,8 @@ def convert_doc(path, base_level=2):
 
 
 def plain_text(path):
+    if os.path.exists(path + ".linked.html"):
+        path = path + ".linked.html"
     src = load(path)
     soup = BeautifulSoup(src, "lxml")
     root = content_root(soup)

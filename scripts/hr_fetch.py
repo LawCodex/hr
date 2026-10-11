@@ -170,7 +170,41 @@ def main():
             stats[s] = stats.get(s, 0) + 1
             if i % 100 == 0:
                 print(i, stats, flush=True)
-    print("done", stats, flush=True)
+    print("fetched", stats, flush=True)
+    follow_stubs(rows)
+    print("done", flush=True)
+
+
+STUB_LINK_RE = __import__("re").compile(r'href="(https?://narodne-novine\.nn\.hr)?(/clanci/sluzbeni/[^"]+\.html)"')
+
+
+def follow_stubs(rows):
+    """Some old entries are only a link to the real document (e.g. NN 91A/93 -> 118/93).
+    Fetch the linked document next to the stub as <name>.linked.html."""
+    import re
+    n = 0
+    for r in rows:
+        p = html_path(r)
+        if not os.path.exists(p) or os.path.exists(p + ".linked.html"):
+            continue
+        src = open(p, encoding="utf-8", errors="replace").read()
+        i = src.find('class="sl-content"')
+        j = src.find('id="article-details', i)
+        if i < 0:
+            continue
+        body = src[i:j if j > 0 else i + 5000]
+        text = re.sub(r"<[^>]+>", " ", body)
+        if len(re.sub(r"\s+", "", text)) > 400:
+            continue
+        m = STUB_LINK_RE.search(body)
+        if not m:
+            continue
+        rr = get(BASE + m.group(2))
+        if rr is not None and rr.status_code == 200:
+            with open(p + ".linked.html", "wb") as f:
+                f.write(rr.content)
+            n += 1
+    print("followed stub links:", n, flush=True)
 
 
 if __name__ == "__main__":
